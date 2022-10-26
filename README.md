@@ -3,6 +3,6 @@ A new style of data visualization for basketball that combines shot charts, 3D m
 
 ### Created by Brendan Keane
 
-*Email:* bwkeane@uw.edu
+**Email:** bwkeane@uw.edu
 
-*Website:* [brendankeane.design](https://www.brendankeane.design)
+**Website:** [brendankeane.design](https://www.brendankeane.design)
