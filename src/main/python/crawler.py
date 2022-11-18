@@ -17,7 +17,7 @@ URL_START = "https://www.nba.com/game/00"
 URL_END = "/game-charts"
 
 # Base number for game URLs (2022-2023 season) and total games for the season
-# Note: Each game URL incraments by 1 from `22200001` to `22201230`
+# Note: Each game URL increments by 1 from `22200001` to `22201230`
 GAME_NUM_BASE = 22200001
 TOTAL_GAMES = 1230
 
@@ -81,16 +81,24 @@ def save_playbyplay(obj, game_num):
     print("Data not available for game " + str(game_num))
 
 # Exports a single game page. "game_num" ranges from 1 to 1230, returning the
-# "n"th game of the season. 
+# "n"th game of the season.
 def export_game(game_num):
-  try:  # This is very defensive for anti-scraping softwares
-    random_sleep(1, 2)  # Unsure if each wait is necessary, but it works!
+  try:
+    # Gets Soup for the given page
+    random_sleep(1, 3)
     soup = get_soup(URL_LIST[game_num - 1])
-    random_sleep(2, 3)
+
+    # Pulls page script within id='__NEXT_DATA__' tag
+    random_sleep(1, 3)
     script = get_script(soup)
+
+    # Pulls play-by-play JSON from script
     random_sleep(1, 3)
     playbyplay = get_playbyplay(script)
+
+    # Saves play-by-play JSON in ./src/data/playbyplay directory
     save_playbyplay(playbyplay, game_num)
+
   except:
     print("Unable to get data from game:\n\t" + str(game_num))
 
@@ -100,18 +108,25 @@ def random_sleep(min, max):
 
 # Exports all available games for the 2022-2023 season
 def export_all_games(start = 0, end = TOTAL_GAMES):
-  num_fails = 0
-  if (start == 0):
+  num_fails = 0 # Number of failed attempts
+  if (start == 0):  # If no parameters, sets beginning to first unexported game
     start = len(os.listdir("src/data/playbyplay"))
   try:
+    # Iterates through games
     for game in range(start + 1, end):
+
+      # Checks number of games before and after export
       cur_games = len(os.listdir("src/data/playbyplay"))
       export_game(game + 1)
       new_games = len(os.listdir("src/data/playbyplay"))
+
+      # If no new games were exported, increments number of failed attempts
       if (cur_games == new_games):
         num_fails += 1
         print("Export for game " + "{0:0=4d}".format(game + 1) + " was unsuccessful")
         print("Unsuccessful attempt: " + str(num_fails) + " of 3\n")
+
+      # If 3 failed attempts, breaks loop
       if (num_fails == 3):
         print("================================")
         print("Exited program on game " + "{0:0=4d}".format(game + 1))
@@ -121,5 +136,5 @@ def export_all_games(start = 0, end = TOTAL_GAMES):
     print("Unable to retrieve game data within the following range:\n\tStart: "
     + str(start) + "\tEnd: " + str(end))
 
-# As of November 18th, only 223 games played...
+# Executes this script to get all unexported games
 export_all_games()
