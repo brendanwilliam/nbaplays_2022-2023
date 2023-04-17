@@ -100,7 +100,7 @@ def export_game(game_num):
     save_playbyplay(playbyplay, game_num)
 
   except:
-    print("Unable to get data from game:\n\t" + str(game_num))
+    print("Unable to get data from game: " + str(game_num))
 
 # Makes program sleep for a random amount of seconds between `min` and `max`
 def random_sleep(min, max):
@@ -113,7 +113,7 @@ def export_all_games(start = 0, end = TOTAL_GAMES):
     start = len(os.listdir("src/data/playbyplay"))
   try:
     # Iterates through games
-    for game in range(start + 1, end):
+    for game in range(start, end):
 
       # Checks number of games before and after export
       cur_games = len(os.listdir("src/data/playbyplay"))
@@ -125,6 +125,8 @@ def export_all_games(start = 0, end = TOTAL_GAMES):
         num_fails += 1
         print("Export for game " + "{0:0=4d}".format(game + 1) + " was unsuccessful")
         print("Unsuccessful attempt: " + str(num_fails) + " of 3\n")
+        print("Trying again...\n")
+        game -= 1
 
       # If 3 failed attempts, breaks loop
       if (num_fails == 3):
@@ -137,5 +139,10 @@ def export_all_games(start = 0, end = TOTAL_GAMES):
     + str(start) + "\tEnd: " + str(end))
 
 # Executes this script to get all unexported games
-# export_all_games()
-export_game(281)
+export_game(1221)
+
+export_all_games()
+
+
+
+

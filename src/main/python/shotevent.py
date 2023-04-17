@@ -25,3 +25,20 @@ def getTotalSeconds(data):
   clock_seconds = int(clock[0]) * 60 + int(clock[1]) + int(clock[2]) / 100
 
   return period_seconds + clock_seconds
+
+#==================== Main ====================#
+
+# Folder path
+fp = '../data/playbyplay/'
+
+# Tatum game paths
+all_shots = pd.DataFrame()
+
+for game in os.listdir(fp):
+  df = pd.read_json(fp+game)
+  shots = df[df['actionType'].isin(['Made Shot', 'Missed Shot'])]
+  shots = shots[['xLegacy', 'yLegacy', 'shotResult', 'teamTricode', 'playerName', 'shotDistance']]
+  shots['game_id'] = game[-9:-5]
+  all_shots = pd.concat([all_shots, shots], ignore_index=True)
+
+all_shots.reset_index(inplace=True, drop=True)
