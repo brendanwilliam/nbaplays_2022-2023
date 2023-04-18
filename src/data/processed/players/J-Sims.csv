@@ -1,0 +1,642 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0309,4,05:42,DET,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0309,4,02:23,DET,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0309,4,02:23,DET,,NYK,,J. Sims,NYK,Sims Step Out of Bounds Turnover (P1.T13),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0309,4,02:03,DET,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0309,4,02:03,DET,105.0,NYK,134.0,J. Sims,NYK,Sims Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0309,4,01:43,DET,107.0,NYK,136.0,J. Sims,NYK,Sims 3' Alley Oop Dunk (4 PTS) (McBride 2 AST),Made Shot,Alley Oop Dunk Shot,6,27,3,1,2.0,2.0,v
+S2223-G0309,4,01:22,DET,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0309,4,01:21,DET,107.0,NYK,138.0,J. Sims,NYK,Sims 3' Cutting Dunk Shot (6 PTS) (Arcidiacono 1 AST),Made Shot,Cutting Dunk Shot,29,11,3,1,2.0,2.0,v
+S2223-G0309,4,01:03,DET,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0309,4,00:49.400000,DET,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0485,2,10:59,NYK,,CHI,,J. Sims,NYK,Sims STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0485,2,08:42,NYK,,CHI,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0485,2,06:47,NYK,,CHI,,J. Sims,NYK,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0485,2,06:09,NYK,,CHI,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0485,4,11:01,NYK,,CHI,,J. Sims,NYK,Sims REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0485,4,09:58,NYK,,CHI,,J. Sims,NYK,Sims REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0485,4,08:41,NYK,,CHI,,J. Sims,NYK,Sims REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0485,4,08:12,NYK,,CHI,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0240,2,09:56,PHX,,NYK,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0240,2,09:27,PHX,,NYK,,J. Sims,NYK,Sims Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0240,2,08:00,PHX,37.0,NYK,30.0,J. Sims,NYK,Sims Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0240,2,08:00,PHX,37.0,NYK,31.0,J. Sims,NYK,Sims Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0240,2,05:47,PHX,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0240,2,05:19,PHX,,NYK,,J. Sims,NYK,Sims P.FOUL (P1.T3) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2223-G0240,2,03:27,PHX,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0240,2,03:25,PHX,46.0,NYK,42.0,J. Sims,NYK,Sims 1' Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,-6,3,1,1,2.0,2.0,v
+S2223-G0240,2,03:13,PHX,,NYK,,J. Sims,NYK,Sims S.FOUL (P2.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0240,2,02:28,PHX,,NYK,,J. Sims,NYK,Sims S.FOUL (P3.PN) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0240,2,02:28,PHX,,NYK,,J. Sims,NYK,SUB: Robinson FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0240,4,11:12,PHX,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0240,4,11:12,PHX,,NYK,,J. Sims,NYK,MISS Sims Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0240,4,11:12,PHX,93.0,NYK,76.0,J. Sims,NYK,Sims Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0240,4,09:54,PHX,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0240,4,09:54,PHX,,NYK,,J. Sims,NYK,MISS Sims 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,13,1,1,2.0,0.0,v
+S2223-G0240,4,05:56,PHX,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0240,4,05:56,PHX,,NYK,,J. Sims,NYK,SUB: Arcidiacono FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0493,2,11:04,NYK,,PHI,,J. Sims,NYK,Sims S.FOUL (P1.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0493,2,09:38,NYK,,PHI,,J. Sims,NYK,Sims P.FOUL (P2.T2) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2223-G0493,2,09:11,NYK,,PHI,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0493,2,07:18,NYK,,PHI,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0493,2,02:55,NYK,,PHI,,J. Sims,NYK,Sims REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0493,2,02:55,NYK,54.0,PHI,44.0,J. Sims,NYK,Sims Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0493,2,01:06,NYK,,PHI,,J. Sims,NYK,Sims S.FOUL (P3.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0493,2,01:06,NYK,,PHI,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0493,3,02:27,NYK,,PHI,,J. Sims,NYK,Sims S.FOUL (P4.T4) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0493,3,01:58,NYK,,PHI,,J. Sims,NYK,Sims REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0493,3,01:11,NYK,93.0,PHI,88.0,J. Sims,NYK,Sims Cutting Dunk Shot (4 PTS) (Brunson 10 AST),Made Shot,Cutting Dunk Shot,-4,1,0,1,2.0,2.0,h
+S2223-G0493,3,00:52.500000,NYK,,PHI,,J. Sims,NYK,Sims REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0493,4,10:37,NYK,,PHI,,J. Sims,NYK,SUB: Grimes FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0684,1,08:07,ATL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,1,08:06,ATL,,NYK,,J. Sims,NYK,Sims Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0684,1,04:06,ATL,,NYK,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0684,2,04:59,ATL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,2,03:51,ATL,59.0,NYK,62.0,J. Sims,NYK,Sims Dunk (2 PTS) (Randle 3 AST),Made Shot,Dunk Shot,2,0,0,1,2.0,2.0,v
+S2223-G0684,2,00:33.500000,ATL,,NYK,,J. Sims,NYK,Sims STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0684,3,08:38,ATL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,3,07:34,ATL,87.0,NYK,76.0,J. Sims,NYK,Sims 11' Floating Jump Shot (4 PTS) (Brunson 5 AST),Made Shot,Floating Jump shot,-17,113,11,1,2.0,2.0,v
+S2223-G0684,3,03:18,ATL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,3,02:49,ATL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,3,02:49,ATL,95.0,NYK,90.0,J. Sims,NYK,Sims Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0684,3,02:27,ATL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,3,02:17,ATL,,NYK,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0684,4,05:41,ATL,122.0,NYK,107.0,J. Sims,NYK,Sims 1' Dunk (8 PTS) (Brunson 8 AST),Made Shot,Dunk Shot,2,11,1,1,2.0,2.0,v
+S2223-G0684,4,04:28,ATL,128.0,NYK,112.0,J. Sims,NYK,Sims 1' Dunk (10 PTS) (Randle 6 AST),Made Shot,Dunk Shot,-1,6,1,1,2.0,2.0,v
+S2223-G0684,4,04:08,ATL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,4,03:41,ATL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,4,02:50,ATL,131.0,NYK,114.0,J. Sims,NYK,Sims 1' Driving Dunk (12 PTS) (Toppin 2 AST),Made Shot,Driving Dunk Shot,-1,10,1,1,2.0,2.0,v
+S2223-G0684,4,02:34,ATL,,NYK,,J. Sims,NYK,Sims STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0684,4,01:19,ATL,,NYK,,J. Sims,NYK,SUB: Arcidiacono FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0780,1,12:00,NYK,,MIA,,J. Sims,NYK,Jump Ball Sims vs. Adebayo: Tip to Herro,Jump Ball,,0,0,0,0,,,h
+S2223-G0780,1,08:03,NYK,,MIA,,J. Sims,NYK,Sims S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0780,1,07:48,NYK,,MIA,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0780,1,07:28,NYK,,MIA,,J. Sims,NYK,Sims P.FOUL (P2.T3) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G0780,1,07:28,NYK,,MIA,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0780,2,05:46,NYK,,MIA,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0780,2,02:09,NYK,,MIA,,J. Sims,NYK,MISS Sims 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,4,-3,1,1,2.0,0.0,h
+S2223-G0780,3,04:10,NYK,,MIA,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0446,2,11:47,IND,28.0,NYK,31.0,J. Sims,NYK,Sims 1' Alley Oop Dunk (2 PTS) (Quickley 2 AST),Made Shot,Alley Oop Dunk Shot,6,-4,1,1,2.0,2.0,v
+S2223-G0446,2,11:28,IND,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0446,2,09:52,IND,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0446,2,09:49,IND,,NYK,,J. Sims,NYK,Sims Backcourt Turnover (P1.T5),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2223-G0446,2,09:40,IND,,NYK,,J. Sims,NYK,Sims S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0446,2,07:48,IND,,NYK,,J. Sims,NYK,SUB: Robinson FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0446,4,11:17,IND,,NYK,,J. Sims,NYK,MISS Sims 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,0,5,1,1,2.0,0.0,v
+S2223-G0446,4,07:48,IND,91.0,NYK,91.0,J. Sims,NYK,Sims 1' Cutting Dunk Shot (4 PTS) (Hartenstein 2 AST),Made Shot,Cutting Dunk Shot,-5,6,1,1,2.0,2.0,v
+S2223-G0446,4,06:55,IND,,NYK,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0153,1,11:53,MIN,,NYK,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0153,1,11:12,MIN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,1,10:21,MIN,,NYK,,J. Sims,NYK,Sims S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0153,1,07:46,MIN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,1,04:31,MIN,,NYK,,J. Sims,NYK,Sims P.FOUL (P2.T3) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2223-G0153,1,04:31,MIN,,NYK,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0153,2,07:00,MIN,33.0,NYK,58.0,J. Sims,NYK,Sims 1' Running Dunk (2 PTS) (Fournier 2 AST),Made Shot,Running Dunk Shot,-2,10,1,1,2.0,2.0,v
+S2223-G0153,2,04:25,MIN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,2,04:25,MIN,43.0,NYK,65.0,J. Sims,NYK,Sims Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0153,2,02:43,MIN,,NYK,,J. Sims,NYK,Sims S.FOUL (P3.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0153,2,02:43,MIN,,NYK,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0153,3,10:23,MIN,,NYK,,J. Sims,NYK,Sims S.FOUL (P4.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0153,3,10:23,MIN,,NYK,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0153,3,03:23,MIN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,3,03:20,MIN,,NYK,,J. Sims,NYK,Sims OFF.Foul (P5) (G.Petraitis),Foul,Offensive,0,0,0,0,,,v
+S2223-G0153,3,03:20,MIN,,NYK,,J. Sims,NYK,Sims Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0153,3,03:20,MIN,,NYK,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0851,1,12:00,NYK,,UTA,,J. Sims,NYK,Jump Ball Sims vs. Kessler: Tip to Randle,Jump Ball,,0,0,0,0,,,h
+S2223-G0851,1,11:24,NYK,,UTA,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,1,11:05,NYK,,UTA,,J. Sims,NYK,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,1,10:09,NYK,,UTA,,J. Sims,NYK,Sims REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,1,06:17,NYK,,UTA,,J. Sims,NYK,Sims REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,1,06:17,NYK,,UTA,,J. Sims,NYK,MISS Sims Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0851,1,06:15,NYK,,UTA,,J. Sims,NYK,Sims P.FOUL (P1.T2) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2223-G0851,1,02:54,NYK,,UTA,,J. Sims,NYK,SUB: Quickley FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0851,2,05:56,NYK,,UTA,,J. Sims,NYK,Sims S.FOUL (P2.PN) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0851,2,01:44,NYK,,UTA,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0851,3,10:33,NYK,,UTA,,J. Sims,NYK,Sims S.FOUL (P3.T1) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0851,3,09:47,NYK,,UTA,,J. Sims,NYK,Sims REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,3,09:13,NYK,,UTA,,J. Sims,NYK,Sims REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,3,08:57,NYK,,UTA,,J. Sims,NYK,Sims REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,3,08:07,NYK,,UTA,,J. Sims,NYK,MISS Sims Reverse Layup,Missed Shot,Reverse Layup Shot,-1,1,0,1,2.0,0.0,h
+S2223-G0851,3,08:02,NYK,,UTA,,J. Sims,NYK,Jump Ball Sims vs. Kessler: Tip to Clarkson,Jump Ball,,0,0,0,0,,,h
+S2223-G0851,3,06:46,NYK,,UTA,,J. Sims,NYK,MISS Sims 1' Dunk,Missed Shot,Dunk Shot,-2,8,1,1,2.0,0.0,h
+S2223-G0851,3,06:45,NYK,,UTA,,J. Sims,NYK,Sims REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,3,06:44,NYK,,UTA,,J. Sims,NYK,MISS Sims Putback Dunk,Missed Shot,Putback Dunk Shot,-1,2,0,1,2.0,0.0,h
+S2223-G0851,3,06:43,NYK,,UTA,,J. Sims,NYK,Sims REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,3,06:41,NYK,69.0,UTA,67.0,J. Sims,NYK,Sims 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,-4,5,1,1,2.0,2.0,h
+S2223-G0851,3,06:28,NYK,,UTA,,J. Sims,NYK,Sims REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,3,04:26,NYK,,UTA,,J. Sims,NYK,Sims S.FOUL (P4.PN) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0851,3,04:26,NYK,,UTA,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G1190,2,10:34,IND,,NYK,,J. Sims,NYK,Sims S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G1190,2,10:14,IND,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1190,2,07:40,IND,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1190,2,06:47,IND,,NYK,,J. Sims,NYK,SUB: Hart FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0742,1,11:15,BKN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0742,1,10:27,BKN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0742,1,09:19,BKN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0742,1,07:09,BKN,,NYK,,J. Sims,NYK,Sims L.B.FOUL (P1.T1) (J.Van Duyne),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0742,1,03:40,BKN,,NYK,,J. Sims,NYK,SUB: Quickley FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0742,2,04:25,BKN,54.0,NYK,40.0,J. Sims,NYK,Sims 2' Cutting Dunk Shot (2 PTS) (Randle 4 AST),Made Shot,Cutting Dunk Shot,11,20,2,1,2.0,2.0,v
+S2223-G0742,2,03:00,BKN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0742,2,03:00,BKN,,NYK,,J. Sims,NYK,Sims Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0742,2,01:50,BKN,,NYK,,J. Sims,NYK,Sims STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0742,2,01:34,BKN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0742,2,00:43,BKN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0742,3,10:46,BKN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0742,3,08:33,BKN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0742,3,07:18,BKN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0742,3,07:18,BKN,76.0,NYK,59.0,J. Sims,NYK,Sims Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0742,3,04:18,BKN,,NYK,,J. Sims,NYK,SUB: Quickley FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0742,4,06:49,BKN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0742,4,03:18,BKN,,NYK,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0742,4,00:42.400000,BKN,117.0,NYK,111.0,J. Sims,NYK,Sims 1' Layup (6 PTS) (Randle 8 AST),Made Shot,Layup Shot,2,12,1,1,2.0,2.0,v
+S2223-G0742,4,00:28.500000,BKN,,NYK,,J. Sims,NYK,SUB: Quickley FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0715,1,12:00,NYK,,CLE,,J. Sims,NYK,Jump Ball Sims vs. Allen: Tip to Grimes,Jump Ball,,0,0,0,0,,,h
+S2223-G0715,1,07:43,NYK,,CLE,,J. Sims,NYK,Sims Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0715,1,07:09,NYK,,CLE,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0715,1,06:24,NYK,,CLE,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0715,1,03:40,NYK,,CLE,,J. Sims,NYK,SUB: Quickley FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0715,2,05:29,NYK,,CLE,,J. Sims,NYK,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0715,2,00:45,NYK,,CLE,,J. Sims,NYK,Sims REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0715,3,08:41,NYK,55.0,CLE,58.0,J. Sims,NYK,Sims Cutting Dunk Shot (2 PTS) (Grimes 2 AST),Made Shot,Cutting Dunk Shot,0,1,0,1,2.0,2.0,h
+S2223-G0715,3,07:25,NYK,,CLE,,J. Sims,NYK,Sims OFF.Foul (P1) (J.Goble),Foul,Offensive,0,0,0,0,,,h
+S2223-G0715,3,07:25,NYK,,CLE,,J. Sims,NYK,Sims Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0715,3,02:00,NYK,,CLE,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G1124,4,02:10,NYK,,HOU,,J. Sims,NYK,Sims S.FOUL (P1.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0365,4,04:46,NYK,106.0,ATL,81.0,J. Sims,NYK,Sims 2' Alley Oop Dunk (2 PTS) (McBride 5 AST),Made Shot,Alley Oop Dunk Shot,-7,15,2,1,2.0,2.0,h
+S2223-G0365,4,03:21,NYK,,ATL,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0365,4,02:40,NYK,,ATL,,J. Sims,NYK,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0365,4,02:25,NYK,108.0,ATL,81.0,J. Sims,NYK,Sims 10' Floating Jump Shot (4 PTS) (McBride 6 AST),Made Shot,Floating Jump shot,18,98,10,1,2.0,2.0,h
+S2223-G0365,4,01:54,NYK,,ATL,,J. Sims,NYK,Sims OFF.Foul (P1) (D.Guthrie),Foul,Offensive,0,0,0,0,,,h
+S2223-G0365,4,01:54,NYK,,ATL,,J. Sims,NYK,Sims Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0164,1,11:19,BKN,,NYK,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0164,1,08:58,BKN,,NYK,,J. Sims,NYK,Sims L.B.FOUL (P1.T1) (J.Orr),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0164,1,07:10,BKN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0164,1,04:42,BKN,,NYK,,J. Sims,NYK,SUB: Rose FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0164,2,04:16,BKN,,NYK,,J. Sims,NYK,Sims S.FOUL (P2.T4) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0164,2,02:20,BKN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0164,2,02:20,BKN,62.0,NYK,43.0,J. Sims,NYK,Sims Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0164,2,01:30,BKN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0164,2,01:11,BKN,,NYK,,J. Sims,NYK,MISS Sims Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0164,2,01:11,BKN,64.0,NYK,44.0,J. Sims,NYK,Sims Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0164,3,10:33,BKN,,NYK,,J. Sims,NYK,Sims S.FOUL (P3.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0164,3,09:02,BKN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0164,3,08:58,BKN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0164,3,08:57,BKN,77.0,NYK,53.0,J. Sims,NYK,Sims 1' Putback Dunk (5 PTS),Made Shot,Putback Dunk Shot,-4,10,1,1,2.0,2.0,v
+S2223-G0164,3,07:06,BKN,,NYK,,J. Sims,NYK,Sims STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0164,3,06:20,BKN,80.0,NYK,59.0,J. Sims,NYK,Sims 1' Alley Oop Dunk (7 PTS) (Fournier 1 AST),Made Shot,Alley Oop Dunk Shot,-1,8,1,1,2.0,2.0,v
+S2223-G0164,3,05:59,BKN,,NYK,,J. Sims,NYK,Sims BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0164,3,05:00,BKN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0164,3,01:31,BKN,,NYK,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0164,4,01:14,BKN,,NYK,,J. Sims,NYK,Sims BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0471,2,11:21,NYK,,TOR,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0471,2,09:32,NYK,,TOR,,J. Sims,NYK,Sims S.FOUL (P1.T1) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0471,2,09:30,NYK,,TOR,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0471,2,08:16,NYK,,TOR,,J. Sims,NYK,Sims REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0471,2,07:56,NYK,,TOR,,J. Sims,NYK,SUB: Robinson FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0471,3,00:34.100000,NYK,,TOR,,J. Sims,NYK,Sims S.FOUL (P2.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0471,3,00:04.800000,NYK,,TOR,,J. Sims,NYK,Sims S.FOUL (P3.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0471,3,00:04.800000,NYK,,TOR,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0471,4,10:34,NYK,,TOR,,J. Sims,NYK,Sims REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0471,4,08:48,NYK,,TOR,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0568,2,11:20,NYK,,SAS,,J. Sims,NYK,Sims OFF.Foul (P1) (S.Twardoski),Foul,Offensive,0,0,0,0,,,h
+S2223-G0568,2,11:20,NYK,,SAS,,J. Sims,NYK,Sims Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0568,2,10:04,NYK,,SAS,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0568,2,07:34,NYK,,SAS,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0568,2,06:45,NYK,,SAS,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0568,2,06:22,NYK,,SAS,,J. Sims,NYK,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0568,2,05:23,NYK,,SAS,,J. Sims,NYK,Sims REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0568,2,04:24,NYK,,SAS,,J. Sims,NYK,Sims REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0568,2,03:52,NYK,,SAS,,J. Sims,NYK,MISS Sims 2' Hook Shot,Missed Shot,Hook Shot,17,6,2,1,2.0,0.0,h
+S2223-G0568,2,03:39,NYK,,SAS,,J. Sims,NYK,Sims S.FOUL (P2.T2) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0568,2,02:44,NYK,,SAS,,J. Sims,NYK,MISS Sims 11' Jump Shot,Missed Shot,Jump Shot,92,53,11,1,2.0,0.0,h
+S2223-G0568,2,01:58,NYK,55.0,SAS,52.0,J. Sims,NYK,Sims 1' Cutting Dunk Shot (2 PTS) (Randle 3 AST),Made Shot,Cutting Dunk Shot,-2,-6,1,1,2.0,2.0,h
+S2223-G0568,2,01:00,NYK,,SAS,,J. Sims,NYK,Sims REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0568,4,07:55,NYK,,SAS,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0568,4,05:35,NYK,107.0,SAS,104.0,J. Sims,NYK,Sims 2' Alley Oop Layup (4 PTS) (Brunson 5 AST),Made Shot,Alley Oop Layup shot,17,8,2,1,2.0,2.0,h
+S2223-G0568,4,03:49,NYK,,SAS,,J. Sims,NYK,Sims REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0568,4,02:17,NYK,,SAS,,J. Sims,NYK,Sims BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0568,4,01:33,NYK,,SAS,,J. Sims,NYK,Sims S.FOUL (P3.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0568,4,00:05.700000,NYK,,SAS,,J. Sims,NYK,SUB: Brunson FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0397,1,00:51.200000,NYK,,SAC,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0397,2,11:07,NYK,,SAC,,J. Sims,NYK,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0397,2,10:14,NYK,,SAC,,J. Sims,NYK,Sims REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0397,2,08:14,NYK,,SAC,,J. Sims,NYK,Sims S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G0397,2,06:26,NYK,,SAC,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0397,2,00:21.600000,NYK,,SAC,,J. Sims,NYK,Sims REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0122,4,11:38,PHI,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0122,4,10:36,PHI,,NYK,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0876,1,10:07,ATL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,1,04:15,ATL,,NYK,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0876,2,02:42,ATL,,NYK,,J. Sims,NYK,Sims L.B.FOUL (P1.T4) (B.Schwab),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0876,3,10:23,ATL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,3,08:31,ATL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,3,07:34,ATL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,3,05:48,ATL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,3,05:22,ATL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,3,04:37,ATL,,NYK,,J. Sims,NYK,MISS Sims 2' Layup,Missed Shot,Layup Shot,-15,18,2,1,2.0,0.0,v
+S2223-G0876,3,04:01,ATL,,NYK,,J. Sims,NYK,Sims S.FOUL (P2.T4) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2223-G0876,3,04:01,ATL,,NYK,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0876,4,00:58.500000,ATL,99.0,NYK,119.0,J. Sims,NYK,Sims 1' Alley Oop Dunk (2 PTS) (McBride 1 AST),Made Shot,Alley Oop Dunk Shot,5,13,1,1,2.0,2.0,v
+S2223-G0837,1,11:27,PHI,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0837,1,09:17,PHI,,NYK,,J. Sims,NYK,Sims S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0837,1,07:26,PHI,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0837,1,04:42,PHI,,NYK,,J. Sims,NYK,SUB: Quickley FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0837,2,03:08,PHI,47.0,NYK,59.0,J. Sims,NYK,Sims Alley Oop Dunk (2 PTS) (Brunson 4 AST),Made Shot,Alley Oop Dunk Shot,0,4,0,1,2.0,2.0,v
+S2223-G0837,2,02:12,PHI,,NYK,,J. Sims,NYK,Sims S.FOUL (P2.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0837,2,00:32.500000,PHI,,NYK,,J. Sims,NYK,Sims S.FOUL (P3.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0837,2,00:32.500000,PHI,,NYK,,J. Sims,NYK,SUB: Barrett FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0837,3,08:46,PHI,,NYK,,J. Sims,NYK,MISS Sims 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-48,47,7,1,2.0,0.0,v
+S2223-G0837,3,08:31,PHI,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0837,3,07:39,PHI,,NYK,,J. Sims,NYK,Sims S.FOUL (P4.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0837,3,07:39,PHI,,NYK,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0837,4,01:36,PHI,,NYK,,J. Sims,NYK,Sims S.FOUL (P5.T2) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0837,4,01:21,PHI,,NYK,,J. Sims,NYK,Sims Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0837,4,00:25.400000,PHI,,NYK,,J. Sims,NYK,SUB: Quickley FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0765,1,12:00,NYK,,LAL,,J. Sims,NYK,Jump Ball Sims vs. Davis: Tip to Randle,Jump Ball,,0,0,0,0,,,h
+S2223-G0765,1,09:45,NYK,,LAL,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,1,09:36,NYK,,LAL,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,1,09:20,NYK,,LAL,,J. Sims,NYK,Sims STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0765,1,07:41,NYK,,LAL,,J. Sims,NYK,Sims S.FOUL (P1.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0765,1,05:18,NYK,,LAL,,J. Sims,NYK,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,1,04:33,NYK,,LAL,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0765,3,11:18,NYK,,LAL,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0765,3,10:18,NYK,,LAL,,J. Sims,NYK,Sims S.FOUL (P2.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0765,3,07:00,NYK,,LAL,,J. Sims,NYK,Sims P.FOUL (P3.T3) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2223-G0765,3,06:24,NYK,,LAL,,J. Sims,NYK,Sims S.FOUL (P4.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0765,3,06:24,NYK,,LAL,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0135,1,00:30.600000,NYK,26.0,BOS,30.0,J. Sims,NYK,Sims 1' Alley Oop Dunk (2 PTS) (Quickley 1 AST),Made Shot,Alley Oop Dunk Shot,-10,1,1,1,2.0,2.0,h
+S2223-G0135,1,00:12.700000,NYK,,BOS,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0135,2,11:03,NYK,,BOS,,J. Sims,NYK,Sims P.FOUL (P1.T1) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2223-G0135,2,11:03,NYK,,BOS,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0816,1,09:09,ORL,,NYK,,J. Sims,NYK,Sims Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0816,1,08:52,ORL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,1,08:13,ORL,8.0,NYK,4.0,J. Sims,NYK,Sims 2' Cutting Dunk Shot (2 PTS) (Randle 2 AST),Made Shot,Cutting Dunk Shot,-4,15,2,1,2.0,2.0,v
+S2223-G0816,1,04:14,ORL,,NYK,,J. Sims,NYK,SUB: Quickley FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0816,2,09:42,ORL,,NYK,,J. Sims,NYK,Sims OFF.Foul (P1) (T.Ford),Foul,Offensive,0,0,0,0,,,v
+S2223-G0816,2,09:42,ORL,,NYK,,J. Sims,NYK,Sims Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0816,2,09:13,ORL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,2,08:51,ORL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,2,07:01,ORL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,3,10:42,ORL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,3,10:29,ORL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,3,09:40,ORL,,NYK,,J. Sims,NYK,Sims STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0816,3,07:12,ORL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,3,03:19,ORL,,NYK,,J. Sims,NYK,SUB: Quickley FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0816,3,00:02.200000,ORL,,NYK,,J. Sims,NYK,Sims STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0816,3,00:00,ORL,,NYK,,J. Sims,NYK,MISS Sims 59' 3PT Jump Shot,Missed Shot,Jump Shot,-169,568,59,1,3.0,0.0,v
+S2223-G0816,4,05:43,ORL,82.0,NYK,82.0,J. Sims,NYK,Sims Alley Oop Dunk (4 PTS) (Barrett 3 AST),Made Shot,Alley Oop Dunk Shot,-2,3,0,1,2.0,2.0,v
+S2223-G0816,4,05:00,ORL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,4,04:56,ORL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,4,04:55,ORL,84.0,NYK,85.0,J. Sims,NYK,Sims 1' Putback Dunk (6 PTS),Made Shot,Putback Dunk Shot,-6,5,1,1,2.0,2.0,v
+S2223-G0816,4,00:39.800000,ORL,93.0,NYK,96.0,J. Sims,NYK,Sims 1' Cutting Dunk Shot (8 PTS) (Brunson 5 AST),Made Shot,Cutting Dunk Shot,-5,-2,1,1,2.0,2.0,v
+S2223-G0816,4,00:31.800000,ORL,,NYK,,J. Sims,NYK,SUB: Brunson FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0816,4,00:10.100000,ORL,,NYK,,J. Sims,NYK,SUB: Brunson FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0816,4,00:05.300000,ORL,,NYK,,J. Sims,NYK,SUB: Barrett FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0816,4,00:02.300000,ORL,,NYK,,J. Sims,NYK,SUB: Grimes FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0512,1,03:26,DAL,,NYK,,J. Sims,NYK,Sims S.FOUL (P1.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0512,1,00:58.800000,DAL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0512,2,11:08,DAL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0512,2,10:29,DAL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0512,2,10:06,DAL,,NYK,,J. Sims,NYK,Sims S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0512,2,09:48,DAL,,NYK,,J. Sims,NYK,Sims Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0512,2,09:38,DAL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0512,2,07:25,DAL,,NYK,,J. Sims,NYK,Sims P.FOUL (P3.T3) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2223-G0512,2,07:25,DAL,,NYK,,J. Sims,NYK,SUB: Robinson FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0512,3,02:33,DAL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0512,3,01:30,DAL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0512,3,01:08,DAL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0512,3,00:24.900000,DAL,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0512,3,00:24.900000,DAL,80.0,NYK,92.0,J. Sims,NYK,Sims Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0512,4,10:11,DAL,,NYK,,J. Sims,NYK,MISS Sims 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,126,67,14,1,2.0,0.0,v
+S2223-G0512,4,10:03,DAL,,NYK,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0178,1,04:25,NYK,,DET,,J. Sims,NYK,Sims OFF.Foul (P1) (T.Maddox),Foul,Offensive,0,0,0,0,,,h
+S2223-G0178,1,04:25,NYK,,DET,,J. Sims,NYK,Sims Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0178,1,03:05,NYK,,DET,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,1,02:27,NYK,,DET,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,1,02:05,NYK,,DET,,J. Sims,NYK,Sims S.FOUL (P2.PN) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2223-G0178,1,02:05,NYK,,DET,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0178,2,09:22,NYK,,DET,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0178,2,08:13,NYK,,DET,,J. Sims,NYK,Sims S.FOUL (P3.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0178,2,08:13,NYK,,DET,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0178,3,02:46,NYK,,DET,,J. Sims,NYK,Sims REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,3,01:42,NYK,89.0,DET,76.0,J. Sims,NYK,Sims 1' Alley Oop Dunk (2 PTS) (Barrett 4 AST),Made Shot,Alley Oop Dunk Shot,0,6,1,1,2.0,2.0,h
+S2223-G0178,3,00:24.400000,NYK,,DET,,J. Sims,NYK,Sims REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,4,11:13,NYK,,DET,,J. Sims,NYK,Sims S.FOUL (P4.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0178,4,11:13,NYK,,DET,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0550,2,10:59,NYK,27.0,PHX,13.0,J. Sims,NYK,Sims 2' Cutting Layup Shot (2 PTS) (Hartenstein 2 AST),Made Shot,Cutting Layup Shot,18,6,2,1,2.0,2.0,h
+S2223-G0550,2,07:07,NYK,,PHX,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0550,2,06:31,NYK,,PHX,,J. Sims,NYK,SUB: Grimes FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0550,4,09:52,NYK,,PHX,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0337,4,06:40,NYK,,DAL,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0337,4,03:14,NYK,,DAL,,J. Sims,NYK,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0337,4,02:17,NYK,,DAL,,J. Sims,NYK,Sims REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0337,4,01:58,NYK,96.0,DAL,121.0,J. Sims,NYK,Sims 2' Cutting Layup Shot (2 PTS) (McBride 3 AST),Made Shot,Cutting Layup Shot,16,4,2,1,2.0,2.0,h
+S2223-G0337,4,01:17,NYK,,DAL,,J. Sims,NYK,Sims P.FOUL (P1.T2) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2223-G0730,1,03:50,BOS,,NYK,,J. Sims,NYK,SUB: Quickley FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0730,2,03:33,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,2,02:56,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,2,02:29,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,2,00:01.100000,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,3,11:30,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,3,11:00,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,3,10:50,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,3,10:12,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,3,10:11,BOS,62.0,NYK,64.0,J. Sims,NYK,Sims 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,-5,1,1,2.0,2.0,v
+S2223-G0730,3,08:53,BOS,,NYK,,J. Sims,NYK,Sims S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0730,3,08:37,BOS,,NYK,,J. Sims,NYK,Sims S.FOUL (P2.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0730,3,05:08,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,3,02:57,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,3,02:12,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,3,02:06,BOS,,NYK,,J. Sims,NYK,SUB: Quickley FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0730,4,01:25,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,4,00:00,BOS,,NYK,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0730,5,04:22,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,5,04:19,BOS,,NYK,,J. Sims,NYK,Sims OFF.Foul (P3) (B.Taylor),Foul,Offensive,0,0,0,0,,,v
+S2223-G0730,5,04:19,BOS,,NYK,,J. Sims,NYK,Sims Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0730,5,00:36.200000,BOS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:4 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,5,00:24.300000,BOS,,NYK,,J. Sims,NYK,SUB: Quickley FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0730,5,00:05.700000,BOS,,NYK,,J. Sims,NYK,SUB: Quickley FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0233,1,04:00,GSW,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,1,03:55,GSW,,NYK,,J. Sims,NYK,Sims Offensive Goaltending Turnover (P1.T4),Turnover,Offensive Goaltending,0,0,0,0,,,v
+S2223-G0233,1,03:09,GSW,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,1,01:21,GSW,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,1,01:14,GSW,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,2,11:42,GSW,,NYK,,J. Sims,NYK,MISS Sims 5' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,45,3,5,1,2.0,0.0,v
+S2223-G0233,2,10:13,GSW,,NYK,,J. Sims,NYK,Sims S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G0233,2,09:20,GSW,,NYK,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0233,2,08:16,GSW,,NYK,,J. Sims,NYK,Sims BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0233,2,08:04,GSW,,NYK,,J. Sims,NYK,MISS Sims 8' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,10,75,8,1,2.0,0.0,v
+S2223-G0233,2,07:37,GSW,42.0,NYK,26.0,J. Sims,NYK,Sims 3' Cutting Dunk Shot (2 PTS) (Barrett 2 AST),Made Shot,Cutting Dunk Shot,18,20,3,1,2.0,2.0,v
+S2223-G0233,2,07:02,GSW,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,2,06:19,GSW,,NYK,,J. Sims,NYK,Sims S.FOUL (P2.T2) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2223-G0233,2,06:19,GSW,,NYK,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0233,2,00:07.600000,GSW,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,3,01:48,GSW,,NYK,,J. Sims,NYK,Sims BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0233,3,01:21,GSW,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,3,01:21,GSW,85.0,NYK,69.0,J. Sims,NYK,Sims Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0233,3,01:21,GSW,85.0,NYK,70.0,J. Sims,NYK,Sims Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0233,3,01:06,GSW,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,4,11:33,GSW,,NYK,,J. Sims,NYK,Sims OFF.Foul (P3) (B.Barnaky),Foul,Offensive,0,0,0,0,,,v
+S2223-G0233,4,11:33,GSW,,NYK,,J. Sims,NYK,Sims Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0233,4,07:06,GSW,,NYK,,J. Sims,NYK,Sims REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,4,07:05,GSW,,NYK,,J. Sims,NYK,MISS Sims 3' Layup,Missed Shot,Layup Shot,-31,12,3,1,2.0,0.0,v
+S2223-G0233,4,07:05,GSW,,NYK,,J. Sims,NYK,Sims REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,4,07:00,GSW,95.0,NYK,84.0,J. Sims,NYK,Sims Putback Layup (7 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0233,4,06:27,GSW,96.0,NYK,86.0,J. Sims,NYK,Sims 5' Cutting Layup Shot (9 PTS) (Barrett 4 AST),Made Shot,Cutting Layup Shot,50,10,5,1,2.0,2.0,v
+S2223-G0233,4,06:27,GSW,96.0,NYK,87.0,J. Sims,NYK,Sims Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0862,1,12:00,NYK,,BKN,,J. Sims,NYK,Jump Ball Sims vs. Claxton: Tip to Randle,Jump Ball,,0,0,0,0,,,h
+S2223-G0862,1,10:07,NYK,,BKN,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0862,1,08:20,NYK,,BKN,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0862,1,08:20,NYK,9.0,BKN,4.0,J. Sims,NYK,Sims Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0862,1,08:04,NYK,,BKN,,J. Sims,NYK,Sims S.FOUL (P1.T2) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0862,1,05:27,NYK,,BKN,,J. Sims,NYK,Sims REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0862,1,05:25,NYK,,BKN,,J. Sims,NYK,Sims Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0862,1,04:43,NYK,,BKN,,J. Sims,NYK,Sims S.FOUL (P2.T3) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0862,1,04:43,NYK,,BKN,,J. Sims,NYK,SUB: Quickley FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0862,3,11:36,NYK,,BKN,,J. Sims,NYK,Sims REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0862,3,10:10,NYK,,BKN,,J. Sims,NYK,Sims REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0862,3,09:05,NYK,,BKN,,J. Sims,NYK,Sims REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0862,3,06:26,NYK,,BKN,,J. Sims,NYK,Sims REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0862,3,04:44,NYK,,BKN,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0527,2,11:23,SAS,38.0,NYK,31.0,J. Sims,NYK,Sims Alley Oop Dunk (2 PTS) (Quickley 3 AST),Made Shot,Alley Oop Dunk Shot,-1,0,0,1,2.0,2.0,v
+S2223-G0527,2,07:32,SAS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0527,2,07:32,SAS,,NYK,,J. Sims,NYK,SUB: Robinson FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0527,4,10:57,SAS,,NYK,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0527,4,06:54,SAS,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0527,4,06:33,SAS,,NYK,,J. Sims,NYK,SUB: Robinson FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0434,1,00:41,CHI,,NYK,,J. Sims,NYK,Sims S.FOUL (P1.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0434,1,00:21.800000,CHI,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0434,2,10:34,CHI,34.0,NYK,33.0,J. Sims,NYK,Sims 1' Layup (2 PTS) (Barrett 1 AST),Made Shot,Layup Shot,-9,7,1,1,2.0,2.0,v
+S2223-G0434,2,09:42,CHI,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0434,2,09:41,CHI,36.0,NYK,35.0,J. Sims,NYK,Sims Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0434,2,07:11,CHI,,NYK,,J. Sims,NYK,SUB: Brunson FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0434,4,07:54,CHI,,NYK,,J. Sims,NYK,SUB: Robinson FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0434,4,02:46,CHI,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,1,07:50,UTA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,1,07:07,UTA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,1,06:55,UTA,,NYK,,J. Sims,NYK,Sims STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0208,1,06:38,UTA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,1,04:15,UTA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,1,00:04.700000,UTA,27.0,NYK,23.0,J. Sims,NYK,Sims 2' Alley Oop Dunk (2 PTS) (Quickley 1 AST),Made Shot,Alley Oop Dunk Shot,-13,14,2,1,2.0,2.0,v
+S2223-G0208,2,11:45,UTA,,NYK,,J. Sims,NYK,MISS Sims 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,11,43,4,1,2.0,0.0,v
+S2223-G0208,2,09:07,UTA,32.0,NYK,31.0,J. Sims,NYK,Sims 2' Dunk (4 PTS) (Brunson 1 AST),Made Shot,Dunk Shot,22,0,2,1,2.0,2.0,v
+S2223-G0208,2,08:32,UTA,,NYK,,J. Sims,NYK,Sims S.FOUL (P1.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0208,2,06:49,UTA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,2,06:44,UTA,36.0,NYK,39.0,J. Sims,NYK,Sims 2' Alley Oop Dunk (6 PTS) (Toppin 3 AST),Made Shot,Alley Oop Dunk Shot,-21,-2,2,1,2.0,2.0,v
+S2223-G0208,2,06:44,UTA,36.0,NYK,40.0,J. Sims,NYK,Sims Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0208,2,06:04,UTA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,2,05:28,UTA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,2,05:28,UTA,,NYK,,J. Sims,NYK,MISS Sims Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0208,2,05:15,UTA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,2,04:58,UTA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,2,04:55,UTA,,NYK,,J. Sims,NYK,Sims L.B.FOUL (P2.PN) (J.Orr),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0208,2,04:55,UTA,,NYK,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0208,2,01:16,UTA,,NYK,,J. Sims,NYK,Sims S.FOUL (P3.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0208,2,01:16,UTA,,NYK,,J. Sims,NYK,SUB: Toppin FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0208,3,04:08,UTA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,3,04:06,UTA,75.0,NYK,71.0,J. Sims,NYK,Sims 2' Putback Dunk (9 PTS),Made Shot,Putback Dunk Shot,16,12,2,1,2.0,2.0,v
+S2223-G0208,3,03:27,UTA,,NYK,,J. Sims,NYK,Knicks T.Foul (Def. 3 Sec Sims ) (J.Orr),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0208,3,01:38,UTA,,NYK,,J. Sims,NYK,Sims P.FOUL (P4.T4) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2223-G0208,3,00:54.200000,UTA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:7 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,3,00:33.200000,UTA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:7 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,3,00:13.800000,UTA,82.0,NYK,83.0,J. Sims,NYK,Sims 3' Alley Oop Dunk (11 PTS) (Quickley 2 AST),Made Shot,Alley Oop Dunk Shot,26,11,3,1,2.0,2.0,v
+S2223-G0208,4,10:31,UTA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:8 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,4,10:12,UTA,,NYK,,J. Sims,NYK,Sims S.FOUL (P5.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0208,4,10:12,UTA,,NYK,,J. Sims,NYK,SUB: Brunson FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0463,2,11:22,NYK,35.0,GSW,28.0,J. Sims,NYK,Sims 1' Running Alley Oop Dunk Shot (2 PTS) (Quickley 1 AST),Made Shot,Running Alley Oop Dunk Shot,6,11,1,1,2.0,2.0,h
+S2223-G0463,2,09:14,NYK,,GSW,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0463,2,09:14,NYK,43.0,GSW,35.0,J. Sims,NYK,Sims Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0463,2,07:39,NYK,,GSW,,J. Sims,NYK,Sims REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0463,2,05:57,NYK,,GSW,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0463,4,11:38,NYK,,GSW,,J. Sims,NYK,Sims REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0463,4,11:38,NYK,102.0,GSW,81.0,J. Sims,NYK,Sims Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0463,4,10:48,NYK,,GSW,,J. Sims,NYK,Sims REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0463,4,08:24,NYK,113.0,GSW,85.0,J. Sims,NYK,Sims 1' Dunk (8 PTS) (Hartenstein 1 AST),Made Shot,Dunk Shot,-4,5,1,1,2.0,2.0,h
+S2223-G0463,4,07:27,NYK,,GSW,,J. Sims,NYK,Sims REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0463,4,05:47,NYK,,GSW,,J. Sims,NYK,Sims REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0463,4,05:43,NYK,,GSW,,J. Sims,NYK,Jump Ball Sims vs. Rollins: Tip to Hartenstein,Jump Ball,,0,0,0,0,,,h
+S2223-G0463,4,03:45,NYK,,GSW,,J. Sims,NYK,Sims REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0463,4,03:29,NYK,,GSW,,J. Sims,NYK,Sims Traveling Turnover (P1.T11),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0377,2,11:02,CHA,22.0,NYK,26.0,J. Sims,NYK,Sims Alley Oop Dunk (2 PTS) (Barrett 1 AST),Made Shot,Alley Oop Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0377,2,09:44,CHA,,NYK,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0377,4,09:45,CHA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0377,4,09:30,CHA,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0377,4,09:21,CHA,,NYK,,J. Sims,NYK,Sims P.FOUL (P1.T2) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2223-G0377,4,07:00,CHA,,NYK,,J. Sims,NYK,MISS Sims 2' Reverse Dunk,Missed Shot,Reverse Dunk Shot,-2,21,2,1,2.0,0.0,v
+S2223-G0377,4,06:28,CHA,,NYK,,J. Sims,NYK,SUB: Robinson FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G1209,1,09:08,NOP,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1209,1,08:51,NOP,,NYK,,J. Sims,NYK,Sims OFF.Foul (P1) (B.Kennedy),Foul,Offensive,0,0,0,0,,,v
+S2223-G1209,1,08:51,NOP,,NYK,,J. Sims,NYK,Sims Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1209,1,08:25,NOP,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1209,1,07:33,NOP,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1209,1,06:56,NOP,16.0,NYK,12.0,J. Sims,NYK,Sims 11' Floating Jump Shot (2 PTS) (Quickley 1 AST),Made Shot,Floating Jump shot,5,105,11,1,2.0,2.0,v
+S2223-G1209,1,05:59,NOP,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1209,1,05:13,NOP,20.0,NYK,15.0,J. Sims,NYK,Sims 4' Cutting Dunk Shot (4 PTS) (Barrett 2 AST),Made Shot,Cutting Dunk Shot,-18,34,4,1,2.0,2.0,v
+S2223-G1209,1,04:04,NOP,,NYK,,J. Sims,NYK,Sims REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1209,2,09:23,NOP,,NYK,,J. Sims,NYK,Sims REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1209,2,09:18,NOP,,NYK,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G1209,3,02:11,NOP,,NYK,,J. Sims,NYK,Sims REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1209,4,11:02,NOP,,NYK,,J. Sims,NYK,Sims S.FOUL (P2.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G1209,4,10:31,NOP,,NYK,,J. Sims,NYK,Sims REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1209,4,05:10,NOP,99.0,NYK,100.0,J. Sims,NYK,Sims 8' Floating Jump Shot (6 PTS) (Barrett 6 AST),Made Shot,Floating Jump shot,-26,73,8,1,2.0,2.0,v
+S2223-G1209,4,03:09,NOP,,NYK,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0418,2,11:04,CHI,31.0,NYK,33.0,J. Sims,NYK,Sims 1' Alley Oop Dunk (2 PTS) (Quickley 1 AST),Made Shot,Alley Oop Dunk Shot,11,6,1,1,2.0,2.0,v
+S2223-G0418,2,09:59,CHI,,NYK,,J. Sims,NYK,Sims P.FOUL (P1.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2223-G0418,2,09:20,CHI,,NYK,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0418,2,07:58,CHI,,NYK,,J. Sims,NYK,SUB: Robinson FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0418,4,07:51,CHI,,NYK,,J. Sims,NYK,SUB: Robinson FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0906,4,02:26,NYK,,NOP,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0906,4,02:22,NYK,,NOP,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0906,4,02:21,NYK,,NOP,,J. Sims,NYK,Sims Lost Ball Turnover (P1.T19),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0906,4,02:21,NYK,,NOP,,J. Sims,NYK,Sims P.FOUL (P1.PN) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0274,2,00:53.400000,NYK,,POR,,J. Sims,NYK,MISS Sims Cutting Layup Shot,Missed Shot,Cutting Layup Shot,2,1,0,1,2.0,0.0,h
+S2223-G0274,4,08:20,NYK,,POR,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0274,4,07:46,NYK,,POR,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0274,4,07:20,NYK,,POR,,J. Sims,NYK,Sims BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0274,4,07:14,NYK,,POR,,J. Sims,NYK,Sims P.FOUL (P1.T3) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2223-G0274,4,04:37,NYK,,POR,,J. Sims,NYK,Sims REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0274,4,04:37,NYK,106.0,POR,105.0,J. Sims,NYK,Sims Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0274,4,02:49,NYK,108.0,POR,109.0,J. Sims,NYK,Sims 6' Fadeaway Bank Shot (4 PTS) (Randle 3 AST),Made Shot,Fadeaway Bank shot,51,31,6,1,2.0,2.0,h
+S2223-G0274,4,02:49,NYK,109.0,POR,109.0,J. Sims,NYK,Sims Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0274,4,01:15,NYK,,POR,,J. Sims,NYK,SUB: Grimes FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0274,5,05:00,NYK,,POR,,J. Sims,NYK, ,Jump Ball,,0,0,0,0,,,h
+S2223-G0274,5,03:31,NYK,,POR,,J. Sims,NYK,Sims S.FOUL (P2.T1) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0274,5,03:31,NYK,,POR,,J. Sims,NYK,SUB: Robinson FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0219,1,02:49,DEN,,NYK,,J. Sims,NYK,Sims STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0219,1,01:33,DEN,,NYK,,J. Sims,NYK,Sims STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0219,1,00:47.500000,DEN,25.0,NYK,27.0,J. Sims,NYK,Sims 2' Alley Oop Dunk (2 PTS) (Quickley 1 AST),Made Shot,Alley Oop Dunk Shot,17,10,2,1,2.0,2.0,v
+S2223-G0219,2,11:40,DEN,,NYK,,J. Sims,NYK,Sims STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0219,2,11:26,DEN,,NYK,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0219,2,10:55,DEN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0219,2,10:27,DEN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0219,2,08:49,DEN,,NYK,,J. Sims,NYK,MISS Sims 13' Floating Jump Shot,Missed Shot,Floating Jump shot,124,20,13,1,2.0,0.0,v
+S2223-G0219,2,06:54,DEN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0219,2,06:43,DEN,,NYK,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0219,3,04:21,DEN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0219,3,01:58,DEN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0219,3,00:42.500000,DEN,81.0,NYK,80.0,J. Sims,NYK,Sims 2' Alley Oop Dunk (4 PTS) (Quickley 5 AST),Made Shot,Alley Oop Dunk Shot,-15,15,2,1,2.0,2.0,v
+S2223-G0219,3,00:28.500000,DEN,,NYK,,J. Sims,NYK,Sims BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0219,4,08:05,DEN,,NYK,,J. Sims,NYK,SUB: Reddish FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0219,4,00:25.600000,DEN,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0219,4,00:10.500000,DEN,,NYK,,J. Sims,NYK,SUB: Toppin FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0937,4,01:49,NYK,,BKN,,J. Sims,NYK,Sims Out of Bounds Lost Ball Turnover (P1.T16),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0937,4,01:29,NYK,,BKN,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0669,2,06:27,NYK,,WAS,,J. Sims,NYK,Sims S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0669,2,06:17,NYK,,WAS,,J. Sims,NYK,Sims L.B.FOUL (P2.T3) (E.Malloy),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0669,2,06:03,NYK,,WAS,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0669,2,04:27,NYK,,WAS,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0669,2,04:00,NYK,,WAS,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0669,2,03:23,NYK,,WAS,,J. Sims,NYK,Sims REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0669,2,00:28.700000,NYK,,WAS,,J. Sims,NYK,MISS Sims 1' Dunk,Missed Shot,Dunk Shot,-5,8,1,1,2.0,0.0,h
+S2223-G0669,3,05:12,NYK,,WAS,,J. Sims,NYK,Sims S.FOUL (P3.T4) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0669,4,11:08,NYK,,WAS,,J. Sims,NYK,Sims S.FOUL (P4.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0669,4,10:25,NYK,83.0,WAS,90.0,J. Sims,NYK,Sims 1' Alley Oop Dunk (2 PTS) (McBride 1 AST),Made Shot,Alley Oop Dunk Shot,-5,-8,1,1,2.0,2.0,h
+S2223-G0669,4,08:43,NYK,,WAS,,J. Sims,NYK,Sims REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0669,4,07:07,NYK,,WAS,,J. Sims,NYK,Sims BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0669,4,06:38,NYK,,WAS,,J. Sims,NYK,Sims S.FOUL (P5.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0669,4,05:12,NYK,,WAS,,J. Sims,NYK,Sims P.FOUL (P6.T3) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2223-G0669,4,05:12,NYK,,WAS,,J. Sims,NYK,SUB: Grimes FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0700,1,04:05,TOR,,NYK,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0700,2,07:27,TOR,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0700,2,07:06,TOR,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0700,2,05:28,TOR,48.0,NYK,41.0,J. Sims,NYK,Sims 3' Finger Roll Layup (2 PTS) (Toppin 1 AST),Made Shot,Finger Roll Layup Shot,11,30,3,1,2.0,2.0,v
+S2223-G0700,2,03:23,TOR,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0700,2,01:31,TOR,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0700,2,01:30,TOR,,NYK,,J. Sims,NYK,Sims Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0700,3,10:00,TOR,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0700,3,09:13,TOR,,NYK,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0700,3,08:06,TOR,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0700,3,07:51,TOR,72.0,NYK,65.0,J. Sims,NYK,Sims 1' Cutting Dunk Shot (4 PTS) (Barrett 4 AST),Made Shot,Cutting Dunk Shot,-4,10,1,1,2.0,2.0,v
+S2223-G0700,3,05:30,TOR,,NYK,,J. Sims,NYK,Sims S.FOUL (P1.T4) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0700,3,05:11,TOR,77.0,NYK,74.0,J. Sims,NYK,Sims 2' Cutting Layup Shot (6 PTS) (Grimes 3 AST),Made Shot,Cutting Layup Shot,21,10,2,1,2.0,2.0,v
+S2223-G0700,3,03:33,TOR,,NYK,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0700,4,06:47,TOR,,NYK,,J. Sims,NYK,Sims S.FOUL (P2.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0700,4,05:46,TOR,107.0,NYK,96.0,J. Sims,NYK,Sims 2' Running Alley Oop Dunk Shot (8 PTS) (Randle 5 AST),Made Shot,Running Alley Oop Dunk Shot,17,10,2,1,2.0,2.0,v
+S2223-G0700,4,03:17,TOR,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0700,4,02:12,TOR,116.0,NYK,106.0,J. Sims,NYK,Sims 1' Cutting Dunk Shot (10 PTS) (Randle 7 AST),Made Shot,Cutting Dunk Shot,6,8,1,1,2.0,2.0,v
+S2223-G0192,1,04:25,NYK,25.0,OKC,20.0,J. Sims,NYK,Sims Running Alley Oop Dunk Shot (2 PTS) (Rose 2 AST),Made Shot,Running Alley Oop Dunk Shot,-2,3,0,1,2.0,2.0,h
+S2223-G0192,1,04:11,NYK,,OKC,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,1,03:03,NYK,,OKC,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,1,03:02,NYK,32.0,OKC,25.0,J. Sims,NYK,Sims Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,-2,0,0,1,2.0,2.0,h
+S2223-G0192,1,01:37,NYK,,OKC,,J. Sims,NYK,Sims REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,1,01:01,NYK,,OKC,,J. Sims,NYK,Sims REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,1,01:00,NYK,44.0,OKC,31.0,J. Sims,NYK,Sims 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,8,1,1,2.0,2.0,h
+S2223-G0192,2,10:21,NYK,,OKC,,J. Sims,NYK,Sims REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,2,08:19,NYK,,OKC,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0192,3,03:27,NYK,,OKC,,J. Sims,NYK,Sims REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,3,02:57,NYK,,OKC,,J. Sims,NYK,Sims P.FOUL (P1.PN) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2223-G0192,4,10:06,NYK,113.0,OKC,126.0,J. Sims,NYK,Sims 1' Alley Oop Dunk (8 PTS) (Quickley 2 AST),Made Shot,Alley Oop Dunk Shot,-2,7,1,1,2.0,2.0,h
+S2223-G0192,4,04:59,NYK,,OKC,,J. Sims,NYK,Sims REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,4,03:40,NYK,,OKC,,J. Sims,NYK,Sims REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,4,01:19,NYK,,OKC,,J. Sims,NYK,Sims S.FOUL (P2.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0254,2,08:40,OKC,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,2,08:39,OKC,,NYK,,J. Sims,NYK,Sims Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0254,2,07:39,OKC,,NYK,,J. Sims,NYK,Sims S.FOUL (P1.T2) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G0254,2,07:35,OKC,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,2,07:10,OKC,,NYK,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0254,2,07:08,OKC,,NYK,,J. Sims,NYK,Sims S.FOUL (P2.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0254,2,06:21,OKC,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,2,05:31,OKC,,NYK,,J. Sims,NYK,SUB: Barrett FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0254,2,01:33,OKC,53.0,NYK,69.0,J. Sims,NYK,Sims 2' Alley Oop Dunk (2 PTS) (Barrett 2 AST),Made Shot,Alley Oop Dunk Shot,2,17,2,1,2.0,2.0,v
+S2223-G0254,2,00:00.500000,OKC,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,2,00:00,OKC,,NYK,,J. Sims,NYK,MISS Sims Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0254,2,00:00,OKC,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,2,00:00,OKC,,NYK,,J. Sims,NYK,MISS Sims Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0254,4,08:58,OKC,,NYK,,J. Sims,NYK,Sims S.FOUL (P3.T3) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G0254,4,08:14,OKC,,NYK,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0254,4,04:30,OKC,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,4,04:30,OKC,101.0,NYK,114.0,J. Sims,NYK,Sims Dunk (4 PTS),Made Shot,Dunk Shot,1,1,0,1,2.0,2.0,v
+S2223-G0254,4,03:31,OKC,,NYK,,J. Sims,NYK,Sims REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,4,01:44,OKC,111.0,NYK,123.0,J. Sims,NYK,Sims 1' Alley Oop Dunk (6 PTS) (Brunson 7 AST),Made Shot,Alley Oop Dunk Shot,2,8,1,1,2.0,2.0,v
+S2223-G0254,4,00:57.300000,OKC,,NYK,,J. Sims,NYK,SUB: Quickley FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0582,2,05:36,TOR,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0582,2,03:51,TOR,,NYK,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0795,1,12:00,NYK,,LAC,,J. Sims,NYK,Jump Ball Sims vs. Zubac: Tip to Morris Sr.,Jump Ball,,0,0,0,0,,,h
+S2223-G0795,1,03:03,NYK,,LAC,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0795,2,05:15,NYK,,LAC,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0795,2,04:08,NYK,,LAC,,J. Sims,NYK,Sims OFF.Foul (P1) (M.Myers),Foul,Offensive,0,0,0,0,,,h
+S2223-G0795,2,04:08,NYK,,LAC,,J. Sims,NYK,Sims Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0795,2,02:14,NYK,,LAC,,J. Sims,NYK,SUB: Barrett FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0795,3,10:15,NYK,,LAC,,J. Sims,NYK,Sims BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0795,3,07:04,NYK,,LAC,,J. Sims,NYK,Sims STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0795,3,06:35,NYK,,LAC,,J. Sims,NYK,Sims S.FOUL (P2.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0795,3,04:09,NYK,,LAC,,J. Sims,NYK,Sims S.FOUL (P3.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0795,3,04:09,NYK,,LAC,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0541,2,11:35,HOU,35.0,NYK,29.0,J. Sims,NYK,Sims 2' Alley Oop Dunk (2 PTS) (Quickley 3 AST),Made Shot,Alley Oop Dunk Shot,12,16,2,1,2.0,2.0,v
+S2223-G0541,2,10:27,HOU,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0541,2,09:19,HOU,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0541,2,08:41,HOU,,NYK,,J. Sims,NYK,Sims Violation:Defensive Goaltending (E.Malloy),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0541,2,07:35,HOU,,NYK,,J. Sims,NYK,Sims REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0541,2,06:54,HOU,,NYK,,J. Sims,NYK,SUB: Randle FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0541,4,10:45,HOU,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0541,4,10:23,HOU,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0541,4,09:48,HOU,,NYK,,J. Sims,NYK,Sims REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0541,4,09:44,HOU,,NYK,,J. Sims,NYK,SUB: McBride FOR Sims,Substitution,,0,0,0,0,,,v
+S2223-G0541,4,00:49,HOU,,NYK,,J. Sims,NYK,Sims REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0541,4,00:48.900000,HOU,86.0,NYK,106.0,J. Sims,NYK,Sims 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,18,10,2,1,2.0,2.0,v
+S2223-G0804,1,12:00,NYK,,PHI,,J. Sims,NYK,Jump Ball Sims vs. Embiid: Tip to Harden,Jump Ball,,0,0,0,0,,,h
+S2223-G0804,1,11:35,NYK,,PHI,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,1,09:30,NYK,,PHI,,J. Sims,NYK,Sims REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,1,07:22,NYK,,PHI,,J. Sims,NYK,Sims S.FOUL (P1.T3) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2223-G0804,1,07:07,NYK,,PHI,,J. Sims,NYK,Sims REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,1,06:45,NYK,,PHI,,J. Sims,NYK,Sims S.FOUL (P2.T4) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0804,1,06:45,NYK,,PHI,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0804,2,03:37,NYK,,PHI,,J. Sims,NYK,Sims REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,2,00:39.600000,NYK,,PHI,,J. Sims,NYK,Sims REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,2,00:38.500000,NYK,50.0,PHI,53.0,J. Sims,NYK,Sims Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0804,2,00:38.500000,NYK,51.0,PHI,53.0,J. Sims,NYK,Sims Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0804,3,08:00,NYK,,PHI,,J. Sims,NYK,Sims STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0804,3,07:53,NYK,,PHI,,J. Sims,NYK,Sims OFF.Foul (P3) (E.Scott),Foul,Offensive,0,0,0,0,,,h
+S2223-G0804,3,07:53,NYK,,PHI,,J. Sims,NYK,Sims Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0804,3,07:24,NYK,60.0,PHI,66.0,J. Sims,NYK,Sims 1' Dunk (4 PTS) (Randle 5 AST),Made Shot,Dunk Shot,9,9,1,1,2.0,2.0,h
+S2223-G0804,3,06:49,NYK,,PHI,,J. Sims,NYK,MISS Sims Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0804,3,06:49,NYK,61.0,PHI,66.0,J. Sims,NYK,Sims Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0804,3,06:31,NYK,,PHI,,J. Sims,NYK,Sims STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0804,3,05:14,NYK,,PHI,,J. Sims,NYK,Sims REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,3,02:23,NYK,,PHI,,J. Sims,NYK,Sims REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,3,02:12,NYK,,PHI,,J. Sims,NYK,SUB: Hartenstein FOR Sims,Substitution,,0,0,0,0,,,h
+S2223-G0804,4,01:05,NYK,,PHI,,J. Sims,NYK,Sims P.FOUL (P4.PN) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2223-G0804,4,00:49.400000,NYK,106.0,PHI,97.0,J. Sims,NYK,Sims Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0804,4,00:49.400000,NYK,,PHI,,J. Sims,NYK,MISS Sims Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0804,4,00:41.600000,NYK,108.0,PHI,97.0,J. Sims,NYK,Sims Driving Dunk (8 PTS) (Grimes 1 AST),Made Shot,Driving Dunk Shot,-4,1,0,1,2.0,2.0,h
+S2223-G0023,4,02:00,NYK,,DET,,J. Sims,NYK,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h

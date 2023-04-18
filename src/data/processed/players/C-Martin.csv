@@ -1,0 +1,1639 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0574,1,06:03,LAL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0574,1,06:03,LAL,13.0,MIA,14.0,C. Martin,MIA,Martin Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0574,1,05:54,LAL,,MIA,,C. Martin,MIA,Martin P.FOUL (P1.T2) (L.Wood),Foul,Personal,0,0,0,0,,,v
+S2223-G0574,1,05:43,LAL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0574,1,04:29,LAL,15.0,MIA,17.0,C. Martin,MIA,Martin 3PT Jump Shot (5 PTS) (Butler 2 AST),Made Shot,Jump Shot,227,10,0,1,3.0,3.0,v
+S2223-G0574,1,04:03,LAL,,MIA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,228,34,0,1,3.0,0.0,v
+S2223-G0574,1,03:23,LAL,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0574,2,05:29,LAL,,MIA,,C. Martin,MIA,MISS Martin 4' Driving Layup,Missed Shot,Driving Layup Shot,22,32,4,1,2.0,0.0,v
+S2223-G0574,2,05:24,LAL,,MIA,,C. Martin,MIA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0574,2,05:24,LAL,44.0,MIA,37.0,C. Martin,MIA,Martin Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0574,2,04:51,LAL,,MIA,,C. Martin,MIA,MISS Martin 22' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-154,164,22,1,2.0,0.0,v
+S2223-G0574,2,03:08,LAL,,MIA,,C. Martin,MIA,MISS Martin 20' Running Jump Shot,Missed Shot,Running Jump Shot,174,95,20,1,2.0,0.0,v
+S2223-G0574,2,02:22,LAL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0574,2,01:58,LAL,,MIA,,C. Martin,MIA,Martin S.FOUL (P2.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0574,2,01:58,LAL,,MIA,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0574,3,08:17,LAL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0574,3,08:07,LAL,62.0,MIA,62.0,C. Martin,MIA,Martin 19' Jump Shot (8 PTS),Made Shot,Jump Shot,108,159,19,1,2.0,2.0,v
+S2223-G0574,3,07:19,LAL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0574,3,05:24,LAL,,MIA,,C. Martin,MIA,Martin S.FOUL (P3.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0574,3,05:05,LAL,,MIA,,C. Martin,MIA,MISS Martin 4' Driving Layup,Missed Shot,Driving Layup Shot,-6,42,4,1,2.0,0.0,v
+S2223-G0574,3,05:04,LAL,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0574,4,00:20.300000,LAL,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0974,1,02:04,MIA,,ATL,,C. Martin,MIA,Martin S.FOUL (P1.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0974,1,00:00.800000,MIA,,ATL,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0974,2,11:14,MIA,32.0,ATL,45.0,C. Martin,MIA,Martin 2' Cutting Layup Shot (2 PTS) (Adebayo 2 AST),Made Shot,Cutting Layup Shot,12,9,2,1,2.0,2.0,h
+S2223-G0974,2,08:35,MIA,42.0,ATL,51.0,C. Martin,MIA,Martin 24' 3PT Jump Shot (5 PTS) (Robinson 1 AST),Made Shot,Jump Shot,238,8,24,1,3.0,3.0,h
+S2223-G0974,2,06:44,MIA,,ATL,,C. Martin,MIA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0974,2,06:44,MIA,45.0,ATL,56.0,C. Martin,MIA,Martin Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0974,2,05:48,MIA,,ATL,,C. Martin,MIA,MISS Martin 4' Driving Layup,Missed Shot,Driving Layup Shot,10,35,4,1,2.0,0.0,h
+S2223-G0974,2,05:44,MIA,,ATL,,C. Martin,MIA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0974,2,05:44,MIA,,ATL,,C. Martin,MIA,MISS Martin Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0974,2,05:18,MIA,,ATL,,C. Martin,MIA,Martin OFF.Foul (P2) (D.Collins),Foul,Offensive,0,0,0,0,,,h
+S2223-G0974,2,05:18,MIA,,ATL,,C. Martin,MIA,Martin Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0974,2,03:26,MIA,53.0,ATL,64.0,C. Martin,MIA,Martin Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0974,2,03:26,MIA,54.0,ATL,64.0,C. Martin,MIA,Martin Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0974,2,02:13,MIA,56.0,ATL,66.0,C. Martin,MIA,Martin 2' Cutting Layup Shot (10 PTS) (Butler 3 AST),Made Shot,Cutting Layup Shot,22,3,2,1,2.0,2.0,h
+S2223-G0974,2,01:47,MIA,58.0,ATL,66.0,C. Martin,MIA,Martin 1' Running Dunk (12 PTS) (Butler 4 AST),Made Shot,Running Dunk Shot,1,5,1,1,2.0,2.0,h
+S2223-G0974,2,01:27,MIA,59.0,ATL,66.0,C. Martin,MIA,Martin Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0974,2,01:27,MIA,60.0,ATL,66.0,C. Martin,MIA,Martin Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0974,2,00:52,MIA,62.0,ATL,68.0,C. Martin,MIA,Martin 2' Reverse Layup (16 PTS) (Butler 5 AST),Made Shot,Reverse Layup Shot,17,9,2,1,2.0,2.0,h
+S2223-G0974,2,00:45.600000,MIA,,ATL,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0974,4,10:09,MIA,99.0,ATL,100.0,C. Martin,MIA,Martin Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0974,4,10:09,MIA,100.0,ATL,100.0,C. Martin,MIA,Martin Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0974,4,07:50,MIA,,ATL,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0974,4,05:27,MIA,,ATL,,C. Martin,MIA,Martin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0974,4,05:06,MIA,116.0,ATL,113.0,C. Martin,MIA,Martin 3PT Jump Shot (21 PTS) (Butler 8 AST),Made Shot,Jump Shot,232,-5,0,1,3.0,3.0,h
+S2223-G0974,4,04:10,MIA,,ATL,,C. Martin,MIA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0974,4,03:43,MIA,,ATL,,C. Martin,MIA,MISS Martin 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,23,27,4,1,2.0,0.0,h
+S2223-G0974,4,00:23.400000,MIA,,ATL,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0958,1,01:27,MIA,,ATL,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0958,1,00:58.600000,MIA,27.0,ATL,21.0,C. Martin,MIA,Martin 25' 3PT Jump Shot (3 PTS) (Herro 2 AST),Made Shot,Jump Shot,-164,195,25,1,3.0,3.0,h
+S2223-G0958,1,00:35.400000,MIA,,ATL,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0958,1,00:34.100000,MIA,,ATL,,C. Martin,MIA,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0958,2,10:40,MIA,37.0,ATL,26.0,C. Martin,MIA,Martin 2' Cutting Layup Shot (5 PTS) (Oladipo 4 AST),Made Shot,Cutting Layup Shot,15,3,2,1,2.0,2.0,h
+S2223-G0958,2,10:10,MIA,,ATL,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,230,3,0,1,3.0,0.0,h
+S2223-G0958,2,03:50,MIA,,ATL,,C. Martin,MIA,Martin Offensive Charge Foul (P1) (J.Goble),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0958,2,03:50,MIA,,ATL,,C. Martin,MIA,Martin Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0958,2,00:39.700000,MIA,,ATL,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0958,2,00:16.100000,MIA,,ATL,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0958,3,02:01,MIA,,ATL,,C. Martin,MIA,MISS Martin 2' Layup,Missed Shot,Layup Shot,20,12,2,1,2.0,0.0,h
+S2223-G0958,3,01:59,MIA,,ATL,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0958,3,01:58,MIA,84.0,ATL,69.0,C. Martin,MIA,Martin 1' Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,2,8,1,1,2.0,2.0,h
+S2223-G0958,3,01:17,MIA,87.0,ATL,71.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (10 PTS) (Strus 2 AST),Made Shot,Jump Shot,-194,179,26,1,3.0,3.0,h
+S2223-G0958,3,00:42.400000,MIA,,ATL,,C. Martin,MIA,MISS Martin 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-169,154,23,1,2.0,0.0,h
+S2223-G0958,4,10:21,MIA,,ATL,,C. Martin,MIA,Martin Step Out of Bounds Turnover (P3.T17),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0958,4,06:52,MIA,102.0,ATL,94.0,C. Martin,MIA,Martin 24' 3PT Jump Shot (13 PTS) (Herro 5 AST),Made Shot,Jump Shot,-240,23,24,1,3.0,3.0,h
+S2223-G0958,4,06:28,MIA,,ATL,,C. Martin,MIA,Martin S.FOUL (P2.PN) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0958,4,02:44,MIA,115.0,ATL,103.0,C. Martin,MIA,Martin Running Dunk (15 PTS) (Butler 7 AST),Made Shot,Running Dunk Shot,1,1,0,1,2.0,2.0,h
+S2223-G0958,4,02:17,MIA,,ATL,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,234,13,0,1,3.0,0.0,h
+S2223-G1060,2,10:56,CHI,,MIA,,C. Martin,MIA,MISS Martin 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-59,13,6,1,2.0,0.0,v
+S2223-G1060,2,07:20,CHI,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1060,2,05:59,CHI,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.T3) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2223-G1060,2,04:31,CHI,49.0,MIA,36.0,C. Martin,MIA,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1060,2,04:31,CHI,49.0,MIA,37.0,C. Martin,MIA,Martin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1060,2,01:14,CHI,,MIA,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-207,152,26,1,3.0,0.0,v
+S2223-G1060,2,00:36.800000,CHI,65.0,MIA,43.0,C. Martin,MIA,Martin 22' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-103,190,22,1,2.0,2.0,v
+S2223-G1060,3,01:26,CHI,,MIA,,C. Martin,MIA,Martin S.FOUL (P2.T4) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G1060,3,01:03,CHI,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,-16,24,1,3.0,0.0,v
+S2223-G1060,3,00:41.100000,CHI,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1060,3,00:36.600000,CHI,,MIA,,C. Martin,MIA,MISS Martin 1' Running Layup,Missed Shot,Running Layup Shot,-6,0,1,1,2.0,0.0,v
+S2223-G1060,4,11:35,CHI,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1060,4,05:56,CHI,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1060,4,01:43,CHI,,MIA,,C. Martin,MIA,SUB: Vincent FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0714,1,11:13,MIA,,BOS,,C. Martin,MIA,MISS Martin 23' Jump Shot,Missed Shot,Jump Shot,16,231,23,1,2.0,0.0,h
+S2223-G0714,1,09:08,MIA,,BOS,,C. Martin,MIA,Martin P.FOUL (P1.T2) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2223-G0714,1,07:48,MIA,10.0,BOS,7.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (3 PTS) (Herro 1 AST),Made Shot,Jump Shot,-201,157,26,1,3.0,3.0,h
+S2223-G0714,1,07:35,MIA,,BOS,,C. Martin,MIA,Martin P.FOUL (P2.T3) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2223-G0714,1,07:35,MIA,,BOS,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0714,2,01:05,MIA,,BOS,,C. Martin,MIA,MISS Martin 3' Driving Layup,Missed Shot,Driving Layup Shot,-28,3,3,1,2.0,0.0,h
+S2223-G0714,2,00:57.500000,MIA,,BOS,,C. Martin,MIA,Martin Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0714,2,00:37.700000,MIA,,BOS,,C. Martin,MIA,Martin S.FOUL (P3.T2) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0714,2,00:37.700000,MIA,,BOS,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0714,3,10:57,MIA,,BOS,,C. Martin,MIA,Martin S.FOUL (P4.T2) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0714,3,10:37,MIA,,BOS,,C. Martin,MIA,MISS Martin 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-10,64,6,1,2.0,0.0,h
+S2223-G0714,3,10:03,MIA,51.0,BOS,63.0,C. Martin,MIA,Martin Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0714,3,10:03,MIA,52.0,BOS,63.0,C. Martin,MIA,Martin Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0714,3,08:31,MIA,,BOS,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,62,24,1,3.0,0.0,h
+S2223-G0714,3,07:23,MIA,,BOS,,C. Martin,MIA,Martin P.FOUL (P5.T4) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2223-G0714,3,07:23,MIA,,BOS,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0387,1,10:12,MIA,4.0,SAS,4.0,C. Martin,MIA,Martin Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0387,1,10:12,MIA,5.0,SAS,4.0,C. Martin,MIA,Martin Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0387,1,10:12,MIA,6.0,SAS,4.0,C. Martin,MIA,Martin Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0387,1,08:30,MIA,,SAS,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0387,1,08:22,MIA,,SAS,,C. Martin,MIA,MISS Martin 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-159,208,26,1,3.0,0.0,h
+S2223-G0387,1,05:27,MIA,,SAS,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0387,2,10:07,MIA,,SAS,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0387,2,10:00,MIA,37.0,SAS,31.0,C. Martin,MIA,Martin 27' 3PT Running Jump Shot (6 PTS) (Oladipo 1 AST),Made Shot,Running Jump Shot,-179,206,27,1,3.0,3.0,h
+S2223-G0387,2,07:41,MIA,,SAS,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,38,24,1,3.0,0.0,h
+S2223-G0387,2,05:37,MIA,,SAS,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0387,2,00:09.300000,MIA,,SAS,,C. Martin,MIA,Martin P.FOUL (P1.PN) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0387,3,06:06,MIA,,SAS,,C. Martin,MIA,Martin S.FOUL (P2.T1) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0387,3,05:01,MIA,,SAS,,C. Martin,MIA,SUB: Robinson FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0387,3,01:49,MIA,84.0,SAS,81.0,C. Martin,MIA,Martin 27' 3PT Running Jump Shot (9 PTS) (Oladipo 2 AST),Made Shot,Running Jump Shot,-194,188,27,1,3.0,3.0,h
+S2223-G0387,3,01:02,MIA,,SAS,,C. Martin,MIA,MISS Martin 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,28,16,3,1,2.0,0.0,h
+S2223-G0387,3,00:00.400000,MIA,,SAS,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0387,4,10:46,MIA,91.0,SAS,88.0,C. Martin,MIA,Martin 3' Reverse Layup (11 PTS) (Oladipo 3 AST),Made Shot,Reverse Layup Shot,7,31,3,1,2.0,2.0,h
+S2223-G0387,4,09:09,MIA,,SAS,,C. Martin,MIA,MISS Martin 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,50,204,21,1,2.0,0.0,h
+S2223-G0387,4,07:52,MIA,,SAS,,C. Martin,MIA,Martin P.FOUL (P3.T3) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0387,4,06:49,MIA,,SAS,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0387,4,03:25,MIA,,SAS,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0387,4,02:28,MIA,,SAS,,C. Martin,MIA,Martin S.FOUL (P4.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G0387,4,01:36,MIA,111.0,SAS,111.0,C. Martin,MIA,Martin 3PT Jump Shot (14 PTS) (Butler 4 AST),Made Shot,Jump Shot,233,-16,0,1,3.0,3.0,h
+S2223-G0387,4,00:34.200000,MIA,,SAS,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0387,4,00:02.100000,MIA,,SAS,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,194,159,25,1,3.0,0.0,h
+S2223-G0738,1,11:17,MIA,,ORL,,C. Martin,MIA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0738,1,11:14,MIA,2.0,ORL,0.0,C. Martin,MIA,Martin 3' Cutting Layup Shot (2 PTS) (Lowry 1 AST),Made Shot,Cutting Layup Shot,31,8,3,1,2.0,2.0,h
+S2223-G0738,1,11:14,MIA,3.0,ORL,0.0,C. Martin,MIA,Martin Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0738,1,09:14,MIA,,ORL,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,59,24,1,3.0,0.0,h
+S2223-G0738,1,07:35,MIA,12.0,ORL,7.0,C. Martin,MIA,Martin 6' Cutting Layup Shot (5 PTS) (Butler 2 AST),Made Shot,Cutting Layup Shot,33,48,6,1,2.0,2.0,h
+S2223-G0738,1,06:29,MIA,,ORL,,C. Martin,MIA,Martin S.FOUL (P1.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0738,1,05:58,MIA,,ORL,,C. Martin,MIA,Martin S.FOUL (P2.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0738,1,05:58,MIA,,ORL,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0738,3,11:39,MIA,52.0,ORL,59.0,C. Martin,MIA,Martin 5' Floating Jump Shot (7 PTS) (Lowry 3 AST),Made Shot,Floating Jump shot,33,43,5,1,2.0,2.0,h
+S2223-G0738,3,09:27,MIA,,ORL,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,208,146,25,1,3.0,0.0,h
+S2223-G0738,3,07:09,MIA,,ORL,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0738,3,05:11,MIA,,ORL,,C. Martin,MIA,SUB: Robinson FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0738,3,01:03,MIA,,ORL,,C. Martin,MIA,MISS Martin 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-170,202,26,1,3.0,0.0,h
+S2223-G0738,3,00:50.900000,MIA,,ORL,,C. Martin,MIA,Martin S.FOUL (P3.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0738,3,00:27.500000,MIA,,ORL,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0738,4,10:57,MIA,,ORL,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0738,4,06:42,MIA,,ORL,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0738,4,06:34,MIA,90.0,ORL,87.0,C. Martin,MIA,Martin 3' Running Reverse Layup (9 PTS),Made Shot,Running Reverse Layup Shot,-7,28,3,1,2.0,2.0,h
+S2223-G0738,4,06:11,MIA,,ORL,,C. Martin,MIA,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0738,4,06:00,MIA,92.0,ORL,87.0,C. Martin,MIA,Martin 3' Driving Finger Roll Layup (11 PTS) (Adebayo 7 AST),Made Shot,Driving Finger Roll Layup Shot,-23,11,3,1,2.0,2.0,h
+S2223-G0738,4,05:31,MIA,,ORL,,C. Martin,MIA,Martin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0738,4,03:34,MIA,,ORL,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0738,4,02:38,MIA,,ORL,,C. Martin,MIA,Martin REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0738,4,01:53,MIA,99.0,ORL,95.0,C. Martin,MIA,Martin 5' Driving Layup (13 PTS) (Butler 6 AST),Made Shot,Driving Layup Shot,45,16,5,1,2.0,2.0,h
+S2223-G0104,1,11:05,MIA,3.0,GSW,3.0,C. Martin,MIA,Martin 25' 3PT Jump Shot (3 PTS) (Butler 1 AST),Made Shot,Jump Shot,243,77,25,1,3.0,3.0,h
+S2223-G0104,1,10:11,MIA,,GSW,,C. Martin,MIA,MISS Martin 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,119,132,18,1,2.0,0.0,h
+S2223-G0104,1,08:46,MIA,,GSW,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0104,1,07:51,MIA,,GSW,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0104,1,06:32,MIA,9.0,GSW,13.0,C. Martin,MIA,Martin 13' Pullup Jump Shot (5 PTS) (Lowry 2 AST),Made Shot,Pullup Jump shot,-129,19,13,1,2.0,2.0,h
+S2223-G0104,1,05:49,MIA,,GSW,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0104,1,05:31,MIA,,GSW,,C. Martin,MIA,SUB: Dedmon FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0104,2,09:30,MIA,,GSW,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0104,2,06:01,MIA,,GSW,,C. Martin,MIA,Martin S.FOUL (P1.T3) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0104,2,06:01,MIA,,GSW,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0104,3,10:11,MIA,,GSW,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,71,24,1,3.0,0.0,h
+S2223-G0104,3,09:56,MIA,,GSW,,C. Martin,MIA,Martin Discontinue Dribble Turnover (P1.T9),Turnover,Discontinue Dribble,0,0,0,0,,,h
+S2223-G0104,3,05:58,MIA,,GSW,,C. Martin,MIA,SUB: Vincent FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0780,1,08:43,NYK,11.0,MIA,7.0,C. Martin,MIA,Martin 4' Driving Floating Jump Shot (2 PTS) (Butler 1 AST),Made Shot,Driving Floating Jump Shot,1,36,4,1,2.0,2.0,v
+S2223-G0780,1,06:04,NYK,,MIA,,C. Martin,MIA,MISS Martin 21' Jump Shot,Missed Shot,Jump Shot,214,13,21,1,2.0,0.0,v
+S2223-G0780,1,05:35,NYK,,MIA,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0780,1,05:33,NYK,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0780,1,04:08,NYK,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0780,2,04:53,NYK,,MIA,,C. Martin,MIA,Martin P.FOUL (P1.T3) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2223-G0780,2,04:23,NYK,,MIA,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,230,87,25,1,3.0,0.0,v
+S2223-G0780,2,00:41.600000,NYK,,MIA,,C. Martin,MIA,Martin S.FOUL (P2.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0780,2,00:26.500000,NYK,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0780,2,00:21.300000,NYK,,MIA,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-172,177,25,1,3.0,0.0,v
+S2223-G0780,3,10:28,NYK,,MIA,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,221,128,26,1,3.0,0.0,v
+S2223-G0780,3,10:01,NYK,,MIA,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-219,138,26,1,3.0,0.0,v
+S2223-G0780,3,09:33,NYK,,MIA,,C. Martin,MIA,Martin L.B.FOUL (P3.T1) (A.Nagy),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0780,3,07:44,NYK,,MIA,,C. Martin,MIA,Martin Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0780,3,05:36,NYK,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0780,3,04:32,NYK,66.0,MIA,62.0,C. Martin,MIA,Martin 25' 3PT Jump Shot (5 PTS) (Butler 3 AST),Made Shot,Jump Shot,174,176,25,1,3.0,3.0,v
+S2223-G0780,3,02:54,NYK,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0780,3,01:34,NYK,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0780,4,00:02.100000,NYK,,MIA,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0797,1,10:28,MIL,4.0,MIA,4.0,C. Martin,MIA,Martin 18' Pullup Jump Shot (2 PTS) (Adebayo 1 AST),Made Shot,Pullup Jump shot,163,85,18,1,2.0,2.0,v
+S2223-G0797,1,10:21,MIL,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0797,1,09:00,MIL,,MIA,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0797,1,08:04,MIL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0797,1,07:52,MIL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0797,1,07:43,MIL,15.0,MIA,12.0,C. Martin,MIA,Martin 30' 3PT Jump Shot (5 PTS) (Butler 1 AST),Made Shot,Jump Shot,-135,269,30,1,3.0,3.0,v
+S2223-G0797,1,06:41,MIL,,MIA,,C. Martin,MIA,MISS Martin 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,29,38,5,1,2.0,0.0,v
+S2223-G0797,1,05:31,MIL,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0797,1,00:41.400000,MIL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0797,1,00:08.900000,MIL,,MIA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-233,-10,0,1,3.0,0.0,v
+S2223-G0797,2,11:03,MIL,,MIA,,C. Martin,MIA,Martin S.FOUL (P2.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0797,2,09:38,MIL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0797,2,07:30,MIL,,MIA,,C. Martin,MIA,MISS Martin 3' Reverse Layup,Missed Shot,Reverse Layup Shot,15,20,3,1,2.0,0.0,v
+S2223-G0797,2,07:28,MIL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0797,2,06:52,MIL,,MIA,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0797,3,11:38,MIL,,MIA,,C. Martin,MIA,MISS Martin 29' 3PT Jump Shot,Missed Shot,Jump Shot,118,268,29,1,3.0,0.0,v
+S2223-G0797,3,10:39,MIL,,MIA,,C. Martin,MIA,Martin S.FOUL (P3.T1) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0797,3,09:43,MIL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0797,3,09:40,MIL,,MIA,,C. Martin,MIA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0797,3,09:40,MIL,69.0,MIA,65.0,C. Martin,MIA,Martin Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0797,3,08:55,MIL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0797,3,08:54,MIL,71.0,MIA,68.0,C. Martin,MIA,Martin Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0797,3,07:35,MIL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0797,3,06:01,MIL,,MIA,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,221,137,26,1,3.0,0.0,v
+S2223-G0797,3,05:32,MIL,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0797,4,11:13,MIL,,MIA,,C. Martin,MIA,MISS Martin 21' Jump Shot,Missed Shot,Jump Shot,145,158,21,1,2.0,0.0,v
+S2223-G0797,4,07:52,MIL,102.0,MIA,99.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (11 PTS) (Herro 5 AST),Made Shot,Jump Shot,-183,184,26,1,3.0,3.0,v
+S2223-G0797,4,07:32,MIL,,MIA,,C. Martin,MIA,Martin S.FOUL (P4.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0797,4,06:59,MIL,,MIA,,C. Martin,MIA,SUB: Vincent FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0797,4,03:25,MIL,112.0,MIA,105.0,C. Martin,MIA,Martin 1' Cutting Layup Shot (13 PTS) (Butler 3 AST),Made Shot,Cutting Layup Shot,-6,-1,1,1,2.0,2.0,v
+S2223-G0797,4,03:25,MIL,112.0,MIA,106.0,C. Martin,MIA,Martin Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0797,4,02:49,MIL,,MIA,,C. Martin,MIA,Martin Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0797,4,02:03,MIL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0797,4,01:22,MIL,117.0,MIA,112.0,C. Martin,MIA,Martin 20' Jump Shot (16 PTS) (Herro 6 AST),Made Shot,Jump Shot,-181,85,20,1,2.0,2.0,v
+S2223-G0797,4,00:56.300000,MIL,,MIA,,C. Martin,MIA,MISS Martin 29' 3PT Jump Shot,Missed Shot,Jump Shot,14,286,29,1,3.0,0.0,v
+S2223-G0797,4,00:34,MIL,,MIA,,C. Martin,MIA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0797,4,00:34,MIL,121.0,MIA,113.0,C. Martin,MIA,Martin Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0328,1,09:16,,,,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,227,73,24,1,3.0,0.0,v
+S2223-G0328,1,06:04,,16.0,,16.0,C. Martin,MIA,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0328,1,06:04,,,,,C. Martin,MIA,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0328,1,05:33,,,,,C. Martin,MIA,MISS Martin 11' Running Layup,Missed Shot,Running Layup Shot,-67,88,11,1,2.0,0.0,v
+S2223-G0328,1,05:28,,16.0,,18.0,C. Martin,MIA,Martin 16' Jump Shot (3 PTS) (Strus 1 AST),Made Shot,Jump Shot,31,157,16,1,2.0,2.0,v
+S2223-G0328,1,04:59,,16.0,,21.0,C. Martin,MIA,Martin 27' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-127,234,27,1,3.0,3.0,v
+S2223-G0328,1,04:40,,,,,C. Martin,MIA,MISS Martin 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-237,20,24,1,3.0,0.0,v
+S2223-G0328,1,02:52,,,,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0328,2,04:34,,,,,C. Martin,MIA,MISS Martin 20' Jump Shot,Missed Shot,Jump Shot,192,58,20,1,2.0,0.0,v
+S2223-G0328,3,11:04,,,,,C. Martin,MIA,Martin S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2223-G0328,3,11:04,,,,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0328,3,10:24,,66.0,,63.0,C. Martin,MIA,Martin 3' Driving Layup (8 PTS) (Adebayo 1 AST),Made Shot,Driving Layup Shot,22,17,3,1,2.0,2.0,v
+S2223-G0328,3,06:45,,73.0,,70.0,C. Martin,MIA,Martin 2' Cutting Dunk Shot (10 PTS) (Butler 3 AST),Made Shot,Cutting Dunk Shot,-1,17,2,1,2.0,2.0,v
+S2223-G0328,3,03:23,,,,,C. Martin,MIA,MISS Martin 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-15,11,2,1,2.0,0.0,v
+S2223-G0328,3,02:10,,,,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0328,4,00:19.100000,,,,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0328,5,00:24.400000,,,,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G1000,2,10:36,MIA,32.0,CLE,31.0,C. Martin,MIA,Martin 3PT Jump Shot (3 PTS) (Herro 2 AST),Made Shot,Jump Shot,233,2,0,1,3.0,3.0,h
+S2223-G1000,2,10:18,MIA,,CLE,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1000,2,10:16,MIA,34.0,CLE,31.0,C. Martin,MIA,Martin 5' Running Layup (5 PTS),Made Shot,Running Layup Shot,7,50,5,1,2.0,2.0,h
+S2223-G1000,2,05:04,MIA,,CLE,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-232,124,26,1,3.0,0.0,h
+S2223-G1000,2,04:33,MIA,,CLE,,C. Martin,MIA,SUB: Love FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G1000,4,11:39,MIA,,CLE,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1000,4,10:59,MIA,,CLE,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,185,159,24,1,3.0,0.0,h
+S2223-G1000,4,10:38,MIA,,CLE,,C. Martin,MIA,Martin S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G1000,4,09:26,MIA,,CLE,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1000,4,08:48,MIA,,CLE,,C. Martin,MIA,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1000,4,08:11,MIA,,CLE,,C. Martin,MIA,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1000,4,02:21,MIA,,CLE,,C. Martin,MIA,Martin REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1000,4,00:08.900000,MIA,116.0,CLE,114.0,C. Martin,MIA,Martin Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1000,4,00:08.900000,MIA,117.0,CLE,114.0,C. Martin,MIA,Martin Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1036,1,02:34,MIA,19.0,MEM,20.0,C. Martin,MIA,Martin 24' 3PT Jump Shot (3 PTS) (Herro 1 AST),Made Shot,Jump Shot,230,78,24,1,3.0,3.0,h
+S2223-G1036,1,01:21,MIA,,MEM,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1036,2,09:02,MIA,38.0,MEM,34.0,C. Martin,MIA,Martin 3PT Jump Shot (6 PTS) (Herro 3 AST),Made Shot,Jump Shot,-233,8,0,1,3.0,3.0,h
+S2223-G1036,2,08:01,MIA,,MEM,,C. Martin,MIA,Martin Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1036,3,01:48,MIA,,MEM,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1036,3,01:00,MIA,99.0,MEM,77.0,C. Martin,MIA,Martin 3' Cutting Layup Shot (8 PTS) (Adebayo 2 AST),Made Shot,Cutting Layup Shot,25,20,3,1,2.0,2.0,h
+S2223-G1036,3,00:33.600000,MIA,,MEM,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1036,4,11:44,MIA,,MEM,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1036,4,05:17,MIA,123.0,MEM,98.0,C. Martin,MIA,Martin 1' Running Dunk (10 PTS) (Strus 4 AST),Made Shot,Running Dunk Shot,11,-2,1,1,2.0,2.0,h
+S2223-G1036,4,05:17,MIA,124.0,MEM,98.0,C. Martin,MIA,Martin Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1036,4,04:34,MIA,,MEM,,C. Martin,MIA,Martin S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G1036,4,02:59,MIA,,MEM,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-140,224,26,1,3.0,0.0,h
+S2223-G1036,4,00:31.700000,MIA,,MEM,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0277,1,04:10,MIA,,WAS,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,8,24,1,3.0,0.0,h
+S2223-G0277,1,03:28,MIA,,WAS,,C. Martin,MIA,SUB: Cain FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0277,2,09:06,MIA,,WAS,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0277,2,08:54,MIA,36.0,WAS,42.0,C. Martin,MIA,Martin 3' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,-31,10,3,1,2.0,2.0,h
+S2223-G0277,2,08:32,MIA,,WAS,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0277,2,07:13,MIA,,WAS,,C. Martin,MIA,SUB: Adebayo FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0277,2,02:24,MIA,48.0,WAS,50.0,C. Martin,MIA,Martin 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-26,11,3,1,2.0,2.0,h
+S2223-G0277,2,02:24,MIA,49.0,WAS,50.0,C. Martin,MIA,Martin Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0277,2,00:41.500000,MIA,56.0,WAS,56.0,C. Martin,MIA,Martin 10' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,51,91,10,1,2.0,2.0,h
+S2223-G0277,3,09:32,MIA,60.0,WAS,64.0,C. Martin,MIA,Martin 2' Running Layup (9 PTS) (Herro 7 AST),Made Shot,Running Layup Shot,-17,9,2,1,2.0,2.0,h
+S2223-G0277,3,09:04,MIA,63.0,WAS,64.0,C. Martin,MIA,Martin 25' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,-1,248,25,1,3.0,3.0,h
+S2223-G0277,3,07:31,MIA,,WAS,,C. Martin,MIA,Martin Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0277,3,04:13,MIA,74.0,WAS,78.0,C. Martin,MIA,Martin 25' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,-163,192,25,1,3.0,3.0,h
+S2223-G0277,3,03:49,MIA,,WAS,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0277,3,03:46,MIA,,WAS,,C. Martin,MIA,MISS Martin 3' Running Layup,Missed Shot,Running Layup Shot,-28,4,3,1,2.0,0.0,h
+S2223-G0277,3,02:45,MIA,78.0,WAS,78.0,C. Martin,MIA,Martin 2' Driving Layup (17 PTS) (Highsmith 1 AST),Made Shot,Driving Layup Shot,-13,8,2,1,2.0,2.0,h
+S2223-G0277,3,01:21,MIA,,WAS,,C. Martin,MIA,Martin S.FOUL (P1.T4) (D.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0277,3,01:21,MIA,,WAS,,C. Martin,MIA,SUB: Cain FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0277,4,06:33,MIA,,WAS,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0277,4,06:31,MIA,,WAS,,C. Martin,MIA,Martin Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0277,4,06:31,MIA,,WAS,,C. Martin,MIA,Martin P.FOUL (P2.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2223-G0277,4,04:49,MIA,,WAS,,C. Martin,MIA,MISS Martin 2' Driving Layup,Missed Shot,Driving Layup Shot,-22,-5,2,1,2.0,0.0,h
+S2223-G0277,4,02:44,MIA,,WAS,,C. Martin,MIA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0277,4,02:44,MIA,104.0,WAS,103.0,C. Martin,MIA,Martin Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0277,4,02:10,MIA,,WAS,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,164,203,26,1,3.0,0.0,h
+S2223-G0277,4,01:16,MIA,,WAS,,C. Martin,MIA,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0277,4,00:12.500000,MIA,109.0,WAS,107.0,C. Martin,MIA,Martin Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0277,4,00:12.500000,MIA,110.0,WAS,107.0,C. Martin,MIA,Martin Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0109,1,11:40,MIA,,SAC,,C. Martin,MIA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0109,1,10:49,MIA,,SAC,,C. Martin,MIA,Martin Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0109,1,08:57,MIA,,SAC,,C. Martin,MIA,MISS Martin 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-34,14,4,1,2.0,0.0,h
+S2223-G0109,1,04:46,MIA,,SAC,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0109,1,01:57,MIA,,SAC,,C. Martin,MIA,MISS Martin 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-104,199,22,1,2.0,0.0,h
+S2223-G0109,1,01:55,MIA,,SAC,,C. Martin,MIA,Martin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0109,1,01:00,MIA,,SAC,,C. Martin,MIA,SUB: Lowry FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0109,2,05:05,MIA,42.0,SAC,42.0,C. Martin,MIA,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0109,2,05:05,MIA,43.0,SAC,42.0,C. Martin,MIA,Martin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0109,2,02:21,MIA,,SAC,,C. Martin,MIA,Martin S.FOUL (P1.T3) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0109,2,02:02,MIA,53.0,SAC,50.0,C. Martin,MIA,Martin 3' Cutting Layup Shot (4 PTS) (Adebayo 1 AST),Made Shot,Cutting Layup Shot,26,15,3,1,2.0,2.0,h
+S2223-G0109,2,01:22,MIA,,SAC,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0109,3,10:47,MIA,,SAC,,C. Martin,MIA,MISS Martin 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-32,49,6,1,2.0,0.0,h
+S2223-G0109,3,07:36,MIA,,SAC,,C. Martin,MIA,Martin S.FOUL (P2.T1) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0109,3,03:55,MIA,70.0,SAC,68.0,C. Martin,MIA,Martin 1' Cutting Dunk Shot (6 PTS) (Robinson 1 AST),Made Shot,Cutting Dunk Shot,4,5,1,1,2.0,2.0,h
+S2223-G0109,3,01:23,MIA,,SAC,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,232,25,0,1,3.0,0.0,h
+S2223-G0109,3,00:23.500000,MIA,77.0,SAC,76.0,C. Martin,MIA,Martin 2' Layup (8 PTS) (Dedmon 2 AST),Made Shot,Layup Shot,-12,11,2,1,2.0,2.0,h
+S2223-G1132,1,02:05,TOR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1132,1,01:40,TOR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1132,1,01:32,TOR,16.0,MIA,23.0,C. Martin,MIA,Martin 12' Driving Floating Jump Shot (2 PTS) (Oladipo 1 AST),Made Shot,Driving Floating Jump Shot,20,122,12,1,2.0,2.0,v
+S2223-G1132,2,11:27,TOR,,MIA,,C. Martin,MIA,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1132,2,09:30,TOR,,MIA,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1132,2,05:56,TOR,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,9,24,1,3.0,0.0,v
+S2223-G1132,2,04:27,TOR,,MIA,,C. Martin,MIA,MISS Martin 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-189,178,26,1,3.0,0.0,v
+S2223-G1132,2,03:43,TOR,,MIA,,C. Martin,MIA,Martin OFF.Foul (P1) (B.Forte),Foul,Offensive,0,0,0,0,,,v
+S2223-G1132,2,03:43,TOR,,MIA,,C. Martin,MIA,Martin Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1132,2,03:43,TOR,,MIA,,C. Martin,MIA,SUB: Love FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G1132,2,00:02.100000,TOR,,MIA,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G1132,3,01:44,TOR,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1132,3,00:41.100000,TOR,,MIA,,C. Martin,MIA,Martin Traveling Turnover (P3.T13),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1132,4,11:36,TOR,84.0,MIA,69.0,C. Martin,MIA,Martin 17' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,21,164,17,1,2.0,2.0,v
+S2223-G1132,4,11:36,TOR,84.0,MIA,70.0,C. Martin,MIA,Martin Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1132,4,08:11,TOR,,MIA,,C. Martin,MIA,MISS Martin 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,0,12,1,1,2.0,0.0,v
+S2223-G1132,4,06:35,TOR,,MIA,,C. Martin,MIA,Martin Bad Pass Turnover (P4.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1132,4,05:38,TOR,95.0,MIA,78.0,C. Martin,MIA,Martin 3' Cutting Layup Shot (7 PTS) (Adebayo 4 AST),Made Shot,Cutting Layup Shot,-28,17,3,1,2.0,2.0,v
+S2223-G1132,4,03:34,TOR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1132,4,02:50,TOR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1132,4,02:34,TOR,,MIA,,C. Martin,MIA,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-205,170,27,1,3.0,0.0,v
+S2223-G1132,4,02:31,TOR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1132,4,01:49,TOR,,MIA,,C. Martin,MIA,MISS Martin 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-22,2,2,1,2.0,0.0,v
+S2223-G0518,1,10:05,MIA,,LAL,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0518,1,08:38,MIA,,LAL,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0518,1,05:01,MIA,,LAL,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0518,1,04:39,MIA,,LAL,,C. Martin,MIA,Martin Violation:Kicked Ball (N.Sago),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0518,1,03:32,MIA,23.0,LAL,19.0,C. Martin,MIA,Martin 20' Running Jump Shot (2 PTS) (Herro 3 AST),Made Shot,Running Jump Shot,-203,-5,20,1,2.0,2.0,h
+S2223-G0518,1,03:02,MIA,,LAL,,C. Martin,MIA,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0518,1,02:34,MIA,25.0,LAL,19.0,C. Martin,MIA,Martin 22' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-140,175,22,1,2.0,2.0,h
+S2223-G0518,1,01:42,MIA,,LAL,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0518,2,02:47,MIA,,LAL,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0518,2,00:03.300000,MIA,,LAL,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0518,3,11:18,MIA,,LAL,,C. Martin,MIA,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0518,3,08:01,MIA,73.0,LAL,58.0,C. Martin,MIA,Martin 27' 3PT Jump Shot (7 PTS) (Vincent 2 AST),Made Shot,Jump Shot,227,143,27,1,3.0,3.0,h
+S2223-G0518,3,07:14,MIA,,LAL,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,232,15,0,1,3.0,0.0,h
+S2223-G0518,3,05:35,MIA,78.0,LAL,63.0,C. Martin,MIA,Martin 25' 3PT Jump Shot (10 PTS) (Butler 2 AST),Made Shot,Jump Shot,207,148,25,1,3.0,3.0,h
+S2223-G0518,3,05:18,MIA,,LAL,,C. Martin,MIA,Martin REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0518,3,04:54,MIA,,LAL,,C. Martin,MIA,Martin P.FOUL (P1.T4) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2223-G0518,3,02:34,MIA,87.0,LAL,67.0,C. Martin,MIA,Martin 25' 3PT Jump Shot (13 PTS) (Strus 1 AST),Made Shot,Jump Shot,26,247,25,1,3.0,3.0,h
+S2223-G0518,4,02:22,MIA,,LAL,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0518,4,00:27.800000,MIA,,LAL,,C. Martin,MIA,SUB: Jovic FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G1108,1,01:37,MIA,,BKN,,C. Martin,MIA,Martin P.FOUL (P1.PN) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2223-G1108,1,00:46.200000,MIA,,BKN,,C. Martin,MIA,MISS Martin 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-20,11,2,1,2.0,0.0,h
+S2223-G1108,1,00:27.800000,MIA,,BKN,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1108,2,10:09,MIA,,BKN,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1108,2,09:12,MIA,,BKN,,C. Martin,MIA,MISS Martin 3' Driving Layup,Missed Shot,Driving Layup Shot,32,14,3,1,2.0,0.0,h
+S2223-G1108,2,09:08,MIA,,BKN,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1108,2,05:50,MIA,57.0,BKN,45.0,C. Martin,MIA,Martin 21' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,-208,-2,21,1,2.0,2.0,h
+S2223-G1108,2,03:51,MIA,,BKN,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1108,2,03:16,MIA,,BKN,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1108,2,03:10,MIA,,BKN,,C. Martin,MIA,MISS Martin 5' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,44,14,5,1,2.0,0.0,h
+S2223-G1108,2,02:59,MIA,,BKN,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G1108,3,05:11,MIA,,BKN,,C. Martin,MIA,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1108,3,04:51,MIA,,BKN,,C. Martin,MIA,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1108,3,04:34,MIA,,BKN,,C. Martin,MIA,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-1,269,27,1,3.0,0.0,h
+S2223-G1108,3,03:39,MIA,,BKN,,C. Martin,MIA,MISS Martin 3' Driving Layup,Missed Shot,Driving Layup Shot,17,21,3,1,2.0,0.0,h
+S2223-G1108,3,01:45,MIA,,BKN,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1108,3,01:45,MIA,,BKN,,C. Martin,MIA,Martin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1108,3,00:04,MIA,86.0,BKN,102.0,C. Martin,MIA,Martin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1108,3,00:04,MIA,87.0,BKN,102.0,C. Martin,MIA,Martin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1108,4,11:33,MIA,,BKN,,C. Martin,MIA,Martin REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1108,4,10:42,MIA,,BKN,,C. Martin,MIA,Martin S.FOUL (P2.T1) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G1108,4,10:09,MIA,,BKN,,C. Martin,MIA,Martin REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1108,4,10:03,MIA,,BKN,,C. Martin,MIA,Martin Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1108,4,09:48,MIA,,BKN,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,234,10,0,1,3.0,0.0,h
+S2223-G1108,4,08:31,MIA,,BKN,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G1108,4,03:18,MIA,,BKN,,C. Martin,MIA,Martin REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0987,2,11:24,MIA,,CLE,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0987,2,06:47,MIA,,CLE,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0987,2,06:29,MIA,44.0,CLE,40.0,C. Martin,MIA,Martin 2' Layup (2 PTS) (Herro 3 AST),Made Shot,Layup Shot,18,6,2,1,2.0,2.0,h
+S2223-G0987,2,05:22,MIA,,CLE,,C. Martin,MIA,Martin Traveling Turnover (P1.T11),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0987,2,00:52.500000,MIA,,CLE,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-223,4,0,1,3.0,0.0,h
+S2223-G0987,2,00:14.900000,MIA,,CLE,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0987,3,02:08,MIA,,CLE,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0987,3,01:19,MIA,,CLE,,C. Martin,MIA,Martin Lost Ball Turnover (P2.T19),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0987,4,07:07,MIA,,CLE,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0987,4,02:44,MIA,97.0,CLE,98.0,C. Martin,MIA,Martin 2' Running Dunk (4 PTS) (Herro 5 AST),Made Shot,Running Dunk Shot,7,16,2,1,2.0,2.0,h
+S2223-G0987,4,00:02.300000,MIA,,CLE,,C. Martin,MIA,Martin Personal Take Foul (P1.PN) (C.Washington),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0987,4,00:02.300000,MIA,,CLE,,C. Martin,MIA,SUB: Love FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0840,1,11:14,MIA,,HOU,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0840,1,11:03,MIA,3.0,HOU,0.0,C. Martin,MIA,Martin 3PT Jump Shot (3 PTS) (Herro 1 AST),Made Shot,Jump Shot,-228,-8,0,1,3.0,3.0,h
+S2223-G0840,1,09:56,MIA,9.0,HOU,6.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (6 PTS) (Herro 2 AST),Made Shot,Jump Shot,104,237,26,1,3.0,3.0,h
+S2223-G0840,1,09:41,MIA,,HOU,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0840,1,09:36,MIA,,HOU,,C. Martin,MIA,MISS Martin 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,99,240,26,1,3.0,0.0,h
+S2223-G0840,1,09:22,MIA,,HOU,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0840,1,09:17,MIA,,HOU,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0840,1,08:13,MIA,,HOU,,C. Martin,MIA,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0840,1,08:09,MIA,,HOU,,C. Martin,MIA,MISS Martin 4' Running Layup,Missed Shot,Running Layup Shot,37,23,4,1,2.0,0.0,h
+S2223-G0840,1,07:24,MIA,,HOU,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,52,24,1,3.0,0.0,h
+S2223-G0840,1,06:34,MIA,,HOU,,C. Martin,MIA,MISS Martin 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-92,43,10,1,2.0,0.0,h
+S2223-G0840,1,05:26,MIA,,HOU,,C. Martin,MIA,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0840,1,05:07,MIA,,HOU,,C. Martin,MIA,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-205,168,27,1,3.0,0.0,h
+S2223-G0840,1,04:02,MIA,,HOU,,C. Martin,MIA,Martin Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0840,1,03:46,MIA,,HOU,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0840,2,05:26,MIA,,HOU,,C. Martin,MIA,Martin S.FOUL (P1.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0840,2,04:49,MIA,,HOU,,C. Martin,MIA,Martin REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0840,2,04:29,MIA,,HOU,,C. Martin,MIA,MISS Martin 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,34,116,12,1,2.0,0.0,h
+S2223-G0840,2,04:29,MIA,,HOU,,C. Martin,MIA,Martin P.FOUL (P2.PN) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2223-G0840,2,02:52,MIA,,HOU,,C. Martin,MIA,Martin REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0840,2,01:00,MIA,,HOU,,C. Martin,MIA,Martin S.FOUL (P3.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0840,2,01:00,MIA,,HOU,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0840,3,11:46,MIA,,HOU,,C. Martin,MIA,Martin P.FOUL (P4.T1) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2223-G0840,3,11:46,MIA,,HOU,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0840,4,06:49,MIA,,HOU,,C. Martin,MIA,Martin REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0840,4,06:25,MIA,,HOU,,C. Martin,MIA,Martin REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0840,4,06:19,MIA,,HOU,,C. Martin,MIA,Martin Lost Ball Turnover (P2.T17),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0840,4,04:30,MIA,,HOU,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-212,157,26,1,3.0,0.0,h
+S2223-G0840,4,03:51,MIA,,HOU,,C. Martin,MIA,Martin L.B.FOUL (P5.T4) (B.Nansel),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0840,4,03:51,MIA,,HOU,,C. Martin,MIA,SUB: Vincent FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0840,4,00:10.900000,MIA,,HOU,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0840,4,00:00.700000,MIA,,HOU,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0293,1,10:55,ATL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0293,1,10:47,ATL,,MIA,,C. Martin,MIA,MISS Martin 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,56,200,21,1,2.0,0.0,v
+S2223-G0293,1,07:44,ATL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0293,1,06:01,ATL,,MIA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,230,13,0,1,3.0,0.0,v
+S2223-G0293,1,02:07,ATL,,MIA,,C. Martin,MIA,SUB: Dedmon FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0293,2,08:50,ATL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0293,2,08:46,ATL,,MIA,,C. Martin,MIA,MISS Martin 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,2,13,1,1,2.0,0.0,v
+S2223-G0293,2,08:34,ATL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0293,2,07:14,ATL,,MIA,,C. Martin,MIA,Martin Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0293,2,03:39,ATL,50.0,MIA,45.0,C. Martin,MIA,Martin 2' Running Layup (2 PTS) (Lowry 4 AST),Made Shot,Running Layup Shot,4,22,2,1,2.0,2.0,v
+S2223-G0293,3,11:40,ATL,60.0,MIA,53.0,C. Martin,MIA,Martin 2' Reverse Layup (4 PTS) (Strus 1 AST),Made Shot,Reverse Layup Shot,-15,16,2,1,2.0,2.0,v
+S2223-G0293,3,11:23,ATL,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0293,3,10:26,ATL,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0293,3,10:22,ATL,62.0,MIA,57.0,C. Martin,MIA,Martin 1' Running Dunk (6 PTS),Made Shot,Running Dunk Shot,-1,5,1,1,2.0,2.0,v
+S2223-G0293,3,09:28,ATL,62.0,MIA,58.0,C. Martin,MIA,Martin Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0293,3,09:28,ATL,62.0,MIA,59.0,C. Martin,MIA,Martin Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0293,3,08:30,ATL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0293,3,07:54,ATL,64.0,MIA,67.0,C. Martin,MIA,Martin 1' Running Layup (10 PTS) (Lowry 5 AST),Made Shot,Running Layup Shot,-6,6,1,1,2.0,2.0,v
+S2223-G0293,3,06:04,ATL,,MIA,,C. Martin,MIA,Martin S.FOUL (P2.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0293,3,04:38,ATL,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0293,4,11:13,ATL,84.0,MIA,87.0,C. Martin,MIA,Martin 2' Driving Floating Bank Jump Shot (12 PTS),Made Shot,Driving Floating Bank Jump Shot,-17,16,2,1,2.0,2.0,v
+S2223-G0293,4,09:03,ATL,,MIA,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0293,4,08:59,ATL,86.0,MIA,93.0,C. Martin,MIA,Martin 2' Running Layup (14 PTS),Made Shot,Running Layup Shot,-10,17,2,1,2.0,2.0,v
+S2223-G0293,4,08:17,ATL,,MIA,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0293,4,08:05,ATL,86.0,MIA,96.0,C. Martin,MIA,Martin 3PT Jump Shot (17 PTS),Made Shot,Jump Shot,-229,2,0,1,3.0,3.0,v
+S2223-G0293,4,07:46,ATL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0293,4,05:45,ATL,88.0,MIA,102.0,C. Martin,MIA,Martin 25' 3PT Jump Shot (20 PTS) (Herro 9 AST),Made Shot,Jump Shot,190,164,25,1,3.0,3.0,v
+S2223-G0293,4,03:55,ATL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0293,4,03:41,ATL,,MIA,,C. Martin,MIA,MISS Martin 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,91,9,1,2.0,0.0,v
+S2223-G0293,4,03:38,ATL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0293,4,03:27,ATL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0564,1,02:28,CHA,,MEM,,C. Martin,CHA,MISS Martin 4' Driving Layup,Missed Shot,Driving Layup Shot,-33,14,4,1,2.0,0.0,h
+S2223-G0564,1,02:09,CHA,,MEM,,C. Martin,CHA,MISS Martin 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-13,52,5,1,2.0,0.0,h
+S2223-G0564,1,00:40.400000,CHA,,MEM,,C. Martin,CHA,MISS Martin 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-108,229,25,1,3.0,0.0,h
+S2223-G0564,2,08:56,CHA,,MEM,,C. Martin,CHA,SUB: Rozier FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0564,2,03:26,CHA,,MEM,,C. Martin,CHA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0564,2,01:17,CHA,,MEM,,C. Martin,CHA,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0564,2,00:49.700000,CHA,,MEM,,C. Martin,CHA,MISS Martin 2' Driving Layup,Missed Shot,Driving Layup Shot,-15,15,2,1,2.0,0.0,h
+S2223-G0564,2,00:46.500000,CHA,,MEM,,C. Martin,CHA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0564,2,00:31.900000,CHA,,MEM,,C. Martin,CHA,Martin S.FOUL (P1.PN) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2223-G0564,3,01:46,CHA,,MEM,,C. Martin,CHA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0564,3,01:40,CHA,71.0,MEM,98.0,C. Martin,CHA,Martin 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,4,8,1,1,2.0,2.0,h
+S2223-G0564,3,00:59.900000,CHA,,MEM,,C. Martin,CHA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,228,113,25,1,3.0,0.0,h
+S2223-G0564,3,00:02.800000,CHA,,MEM,,C. Martin,CHA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0564,4,09:35,CHA,,MEM,,C. Martin,CHA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0564,4,08:14,CHA,81.0,MEM,113.0,C. Martin,CHA,Martin 3' Cutting Dunk Shot (4 PTS) (Plumlee 1 AST),Made Shot,Cutting Dunk Shot,0,27,3,1,2.0,2.0,h
+S2223-G0564,4,04:41,CHA,,MEM,,C. Martin,CHA,SUB: McGowens FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0661,1,11:35,ATL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0661,1,11:34,ATL,,MIA,,C. Martin,MIA,MISS Martin 1' Putback Layup,Missed Shot,Putback Layup Shot,-6,1,1,1,2.0,0.0,v
+S2223-G0661,1,10:47,ATL,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0661,1,10:07,ATL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0661,1,07:34,ATL,13.0,MIA,12.0,C. Martin,MIA,Martin 1' Cutting Layup Shot (2 PTS) (Butler 1 AST),Made Shot,Cutting Layup Shot,9,4,1,1,2.0,2.0,v
+S2223-G0661,1,07:18,ATL,,MIA,,C. Martin,MIA,Martin S.FOUL (P2.T4) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0661,1,07:18,ATL,,MIA,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0661,2,05:47,ATL,,MIA,,C. Martin,MIA,Martin OFF.Foul (P3) (T.Brothers),Foul,Offensive,0,0,0,0,,,v
+S2223-G0661,2,05:47,ATL,,MIA,,C. Martin,MIA,Martin Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0661,2,05:04,ATL,,MIA,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0661,3,10:56,ATL,74.0,MIA,53.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (5 PTS) (Herro 2 AST),Made Shot,Jump Shot,-34,254,26,1,3.0,3.0,v
+S2223-G0661,3,09:40,ATL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0661,3,07:17,ATL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0661,3,06:15,ATL,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0661,3,06:10,ATL,,MIA,,C. Martin,MIA,MISS Martin 1' Running Layup,Missed Shot,Running Layup Shot,4,13,1,1,2.0,0.0,v
+S2223-G0661,3,01:18,ATL,,MIA,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0661,3,01:17,ATL,,MIA,,C. Martin,MIA,Martin Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0661,3,00:45.300000,ATL,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0661,4,02:47,ATL,111.0,MIA,104.0,C. Martin,MIA,Martin 1' Running Dunk (7 PTS) (Herro 4 AST),Made Shot,Running Dunk Shot,2,10,1,1,2.0,2.0,v
+S2223-G0661,4,01:34,ATL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0661,4,01:09,ATL,,MIA,,C. Martin,MIA,Martin P.FOUL (P4.PN) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2223-G0661,4,01:07,ATL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0661,4,00:25.400000,ATL,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0661,4,00:23.900000,ATL,,MIA,,C. Martin,MIA,Martin Personal Take Foul (P5.PN) (A.Nagy),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0661,4,00:23.900000,ATL,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0374,1,07:51,MIA,,LAC,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0374,1,06:39,MIA,,LAC,,C. Martin,MIA,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-151,222,27,1,3.0,0.0,h
+S2223-G0374,1,06:34,MIA,,LAC,,C. Martin,MIA,Martin P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2223-G0374,1,04:07,MIA,,LAC,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0374,1,03:58,MIA,,LAC,,C. Martin,MIA,SUB: Dedmon FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0374,2,11:22,MIA,22.0,LAC,30.0,C. Martin,MIA,Martin 20' Jump Shot (2 PTS) (Herro 1 AST),Made Shot,Jump Shot,-192,41,20,1,2.0,2.0,h
+S2223-G0374,2,09:52,MIA,26.0,LAC,34.0,C. Martin,MIA,Martin 4' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,26,27,4,1,2.0,2.0,h
+S2223-G0374,2,09:36,MIA,29.0,LAC,34.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (7 PTS) (Oladipo 1 AST),Made Shot,Jump Shot,130,230,26,1,3.0,3.0,h
+S2223-G0374,2,09:30,MIA,,LAC,,C. Martin,MIA,Martin P.FOUL (P2.T1) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2223-G0374,2,08:22,MIA,32.0,LAC,34.0,C. Martin,MIA,Martin 24' 3PT Jump Shot (10 PTS) (Adebayo 2 AST),Made Shot,Jump Shot,-237,17,24,1,3.0,3.0,h
+S2223-G0374,2,07:51,MIA,,LAC,,C. Martin,MIA,MISS Martin 5' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,33,31,5,1,2.0,0.0,h
+S2223-G0374,2,07:08,MIA,,LAC,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0374,2,05:38,MIA,,LAC,,C. Martin,MIA,MISS Martin 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,156,33,16,1,2.0,0.0,h
+S2223-G0374,2,05:35,MIA,,LAC,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0374,2,04:48,MIA,,LAC,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0374,2,02:25,MIA,46.0,LAC,44.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (13 PTS) (Smith 2 AST),Made Shot,Jump Shot,218,138,26,1,3.0,3.0,h
+S2223-G0374,2,01:56,MIA,,LAC,,C. Martin,MIA,Martin Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0374,2,00:10.600000,MIA,56.0,LAC,51.0,C. Martin,MIA,Martin 28' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,81,272,28,1,3.0,3.0,h
+S2223-G0374,3,11:44,MIA,,LAC,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0374,3,11:28,MIA,,LAC,,C. Martin,MIA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0374,3,11:28,MIA,57.0,LAC,54.0,C. Martin,MIA,Martin Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0374,3,07:37,MIA,,LAC,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,-3,24,1,3.0,0.0,h
+S2223-G0374,3,05:58,MIA,,LAC,,C. Martin,MIA,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0374,3,05:34,MIA,,LAC,,C. Martin,MIA,Martin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0374,3,05:30,MIA,,LAC,,C. Martin,MIA,MISS Martin 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-54,255,26,1,3.0,0.0,h
+S2223-G0374,3,05:04,MIA,,LAC,,C. Martin,MIA,Martin P.FOUL (P3.T3) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2223-G0374,3,03:58,MIA,,LAC,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,230,27,0,1,3.0,0.0,h
+S2223-G0374,3,03:43,MIA,,LAC,,C. Martin,MIA,MISS Martin 18' Floating Jump Shot,Missed Shot,Floating Jump shot,126,122,18,1,2.0,0.0,h
+S2223-G0374,3,03:43,MIA,,LAC,,C. Martin,MIA,Martin L.B.FOUL (P4.T4) (C.Blair),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0374,3,03:43,MIA,,LAC,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0374,4,07:14,MIA,,LAC,,C. Martin,MIA,Martin REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0374,4,02:54,MIA,,LAC,,C. Martin,MIA,Martin REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0374,4,02:21,MIA,,LAC,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1066,1,02:46,DET,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,10,24,1,3.0,0.0,v
+S2223-G1066,1,02:40,DET,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,0,24,1,3.0,0.0,v
+S2223-G1066,1,02:27,DET,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1066,1,01:49,DET,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,3,24,1,3.0,0.0,v
+S2223-G1066,1,00:45.300000,DET,29.0,MIA,26.0,C. Martin,MIA,Martin 3PT Jump Shot (3 PTS) (Herro 3 AST),Made Shot,Jump Shot,234,0,0,1,3.0,3.0,v
+S2223-G1066,2,10:52,DET,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1066,2,08:40,DET,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1066,2,08:36,DET,31.0,MIA,35.0,C. Martin,MIA,Martin 3' Running Layup (5 PTS),Made Shot,Running Layup Shot,-28,1,3,1,2.0,2.0,v
+S2223-G1066,2,08:00,DET,,MIA,,C. Martin,MIA,MISS Martin 4' Driving Dunk,Missed Shot,Driving Dunk Shot,36,6,4,1,2.0,0.0,v
+S2223-G1066,2,05:56,DET,36.0,MIA,38.0,C. Martin,MIA,Martin 2' Cutting Dunk Shot (7 PTS) (Butler 3 AST),Made Shot,Cutting Dunk Shot,2,22,2,1,2.0,2.0,v
+S2223-G1066,2,05:34,DET,,MIA,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1066,2,03:57,DET,38.0,MIA,46.0,C. Martin,MIA,Martin 27' 3PT Jump Shot (10 PTS) (Vincent 1 AST),Made Shot,Jump Shot,-227,141,27,1,3.0,3.0,v
+S2223-G1066,2,00:19.600000,DET,,MIA,,C. Martin,MIA,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-164,219,27,1,3.0,0.0,v
+S2223-G1066,4,09:41,DET,82.0,MIA,80.0,C. Martin,MIA,Martin 24' 3PT Jump Shot (13 PTS) (Lowry 4 AST),Made Shot,Jump Shot,-238,21,24,1,3.0,3.0,v
+S2223-G1066,4,07:43,DET,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1066,4,07:26,DET,,MIA,,C. Martin,MIA,Martin P.FOUL (P1.T2) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G1066,4,05:56,DET,,MIA,,C. Martin,MIA,Martin S.FOUL (P2.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G1066,4,04:43,DET,,MIA,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1066,4,02:29,DET,,MIA,,C. Martin,MIA,Martin P.FOUL (P3.T4) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G1066,4,01:11,DET,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1066,4,00:58.600000,DET,,MIA,,C. Martin,MIA,Martin S.FOUL (P4.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G1066,4,00:18.300000,DET,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0764,1,10:51,CLE,,MIA,,C. Martin,MIA,Martin Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0764,1,10:16,CLE,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0764,1,09:38,CLE,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0764,1,09:31,CLE,4.0,MIA,3.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (3 PTS) (Herro 1 AST),Made Shot,Jump Shot,-207,158,26,1,3.0,3.0,v
+S2223-G0764,1,09:12,CLE,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0764,1,06:04,CLE,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0764,1,05:50,CLE,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0764,1,05:48,CLE,,MIA,,C. Martin,MIA,SUB: Robinson FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0764,2,10:22,CLE,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0764,2,08:41,CLE,32.0,MIA,32.0,C. Martin,MIA,Martin 27' 3PT Jump Shot (6 PTS) (Oladipo 2 AST),Made Shot,Jump Shot,-241,130,27,1,3.0,3.0,v
+S2223-G0764,2,07:03,CLE,38.0,MIA,39.0,C. Martin,MIA,Martin 3' Cutting Layup Shot (8 PTS) (Oladipo 3 AST),Made Shot,Cutting Layup Shot,2,26,3,1,2.0,2.0,v
+S2223-G0764,2,06:35,CLE,38.0,MIA,42.0,C. Martin,MIA,Martin 26' 3PT Running Jump Shot (11 PTS) (Oladipo 4 AST),Made Shot,Running Jump Shot,225,129,26,1,3.0,3.0,v
+S2223-G0764,2,06:08,CLE,,MIA,,C. Martin,MIA,Martin P.FOUL (P1.PN) (C.Flores),Foul,Personal,0,0,0,0,,,v
+S2223-G0764,2,06:05,CLE,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0764,2,05:11,CLE,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0764,2,04:03,CLE,,MIA,,C. Martin,MIA,SUB: Lowry FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0764,3,08:18,CLE,61.0,MIA,57.0,C. Martin,MIA,Martin 9' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,-55,76,9,1,2.0,2.0,v
+S2223-G0764,3,06:36,CLE,,MIA,,C. Martin,MIA,Martin P.FOUL (P2.T1) (C.Flores),Foul,Personal,0,0,0,0,,,v
+S2223-G0764,3,05:57,CLE,63.0,MIA,66.0,C. Martin,MIA,Martin 3PT Jump Shot (16 PTS),Made Shot,Jump Shot,232,17,0,1,3.0,3.0,v
+S2223-G0764,3,05:11,CLE,,MIA,,C. Martin,MIA,SUB: Robinson FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0764,4,10:40,CLE,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0764,4,09:50,CLE,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0764,4,05:25,CLE,87.0,MIA,89.0,C. Martin,MIA,Martin 8' Driving Floating Jump Shot (18 PTS) (Adebayo 1 AST),Made Shot,Driving Floating Jump Shot,83,8,8,1,2.0,2.0,v
+S2223-G0764,4,05:04,CLE,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,8,24,1,3.0,0.0,v
+S2223-G0764,4,02:58,CLE,,MIA,,C. Martin,MIA,Martin P.FOUL (P3.PN) (T.Maddox),Foul,Personal,0,0,0,0,,,v
+S2223-G0699,1,11:02,MIA,,NOP,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,232,11,0,1,3.0,0.0,h
+S2223-G0699,1,10:03,MIA,,NOP,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0699,1,09:18,MIA,,NOP,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,38,258,26,1,3.0,0.0,h
+S2223-G0699,1,08:37,MIA,3.0,NOP,7.0,C. Martin,MIA,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0699,1,08:37,MIA,4.0,NOP,7.0,C. Martin,MIA,Martin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0699,1,05:59,MIA,,NOP,,C. Martin,MIA,SUB: Robinson FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0699,1,01:26,MIA,,NOP,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0699,1,01:16,MIA,23.0,NOP,28.0,C. Martin,MIA,Martin 2' Reverse Layup (4 PTS),Made Shot,Reverse Layup Shot,15,2,2,1,2.0,2.0,h
+S2223-G0699,1,00:50.200000,MIA,,NOP,,C. Martin,MIA,Martin S.FOUL (P1.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0699,2,08:52,MIA,,NOP,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,0,24,1,3.0,0.0,h
+S2223-G0699,2,08:12,MIA,,NOP,,C. Martin,MIA,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0699,2,07:38,MIA,,NOP,,C. Martin,MIA,MISS Martin 1' Driving Dunk,Missed Shot,Driving Dunk Shot,-6,13,1,1,2.0,0.0,h
+S2223-G0699,2,07:05,MIA,,NOP,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0699,3,10:17,MIA,,NOP,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0699,3,07:23,MIA,,NOP,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0699,3,07:21,MIA,,NOP,,C. Martin,MIA,MISS Martin 2' Running Layup,Missed Shot,Running Layup Shot,-18,16,2,1,2.0,0.0,h
+S2223-G0699,3,05:54,MIA,,NOP,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,246,30,25,1,3.0,0.0,h
+S2223-G0699,3,05:35,MIA,,NOP,,C. Martin,MIA,SUB: Robinson FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0699,4,11:13,MIA,,NOP,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-227,29,0,1,3.0,0.0,h
+S2223-G0699,4,08:34,MIA,,NOP,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,141,220,26,1,3.0,0.0,h
+S2223-G0699,4,07:02,MIA,,NOP,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0699,4,06:25,MIA,,NOP,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0699,4,00:15.100000,MIA,,NOP,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0699,4,00:00,MIA,,NOP,,C. Martin,MIA,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0949,1,00:47.400000,MIA,,NYK,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0949,1,00:26.600000,MIA,31.0,NYK,34.0,C. Martin,MIA,Martin 18' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-176,-2,18,1,2.0,2.0,h
+S2223-G0949,2,07:00,MIA,42.0,NYK,53.0,C. Martin,MIA,Martin 2' Cutting Layup Shot (4 PTS) (Adebayo 2 AST),Made Shot,Cutting Layup Shot,-23,3,2,1,2.0,2.0,h
+S2223-G0949,2,06:31,MIA,,NYK,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0949,2,06:26,MIA,,NYK,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-37,261,26,1,3.0,0.0,h
+S2223-G0949,2,05:54,MIA,,NYK,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0949,4,11:41,MIA,,NYK,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0949,4,11:32,MIA,90.0,NYK,96.0,C. Martin,MIA,Martin 5' Driving Layup (6 PTS) (Strus 2 AST),Made Shot,Driving Layup Shot,49,20,5,1,2.0,2.0,h
+S2223-G0949,4,10:03,MIA,94.0,NYK,98.0,C. Martin,MIA,Martin 4' Driving Layup (8 PTS) (Strus 3 AST),Made Shot,Driving Layup Shot,-16,37,4,1,2.0,2.0,h
+S2223-G0949,4,10:03,MIA,95.0,NYK,98.0,C. Martin,MIA,Martin Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0949,4,06:39,MIA,,NYK,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0949,4,05:45,MIA,107.0,NYK,106.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (12 PTS) (Herro 5 AST),Made Shot,Jump Shot,-170,194,26,1,3.0,3.0,h
+S2223-G0949,4,04:29,MIA,108.0,NYK,110.0,C. Martin,MIA,Martin Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0949,4,04:29,MIA,109.0,NYK,110.0,C. Martin,MIA,Martin Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0949,4,00:01.100000,MIA,,NYK,,C. Martin,MIA,SUB: Love FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0861,1,06:15,MIA,16.0,DEN,13.0,C. Martin,MIA,Martin 1' Cutting Dunk Shot (2 PTS) (Butler 3 AST),Made Shot,Cutting Dunk Shot,6,3,1,1,2.0,2.0,h
+S2223-G0861,1,05:53,MIA,18.0,DEN,13.0,C. Martin,MIA,Martin 4' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,0,38,4,1,2.0,2.0,h
+S2223-G0861,1,05:28,MIA,,DEN,,C. Martin,MIA,SUB: Bouyea FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0861,2,11:14,MIA,,DEN,,C. Martin,MIA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0861,2,11:13,MIA,38.0,DEN,29.0,C. Martin,MIA,Martin 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,-21,9,2,1,2.0,2.0,h
+S2223-G0861,2,09:59,MIA,,DEN,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-230,-4,0,1,3.0,0.0,h
+S2223-G0861,2,09:45,MIA,,DEN,,C. Martin,MIA,Martin Offensive Charge Foul (P1) (R.Acosta),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0861,2,09:45,MIA,,DEN,,C. Martin,MIA,Martin Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0861,2,09:11,MIA,,DEN,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-145,209,25,1,3.0,0.0,h
+S2223-G0861,2,08:07,MIA,,DEN,,C. Martin,MIA,MISS Martin 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,64,72,10,1,2.0,0.0,h
+S2223-G0861,2,08:05,MIA,,DEN,,C. Martin,MIA,Martin REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0861,2,07:06,MIA,,DEN,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0861,3,09:50,MIA,,DEN,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0861,3,09:43,MIA,,DEN,,C. Martin,MIA,MISS Martin 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22,57,6,1,2.0,0.0,h
+S2223-G0861,3,05:29,MIA,,DEN,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0861,4,06:25,MIA,96.0,DEN,99.0,C. Martin,MIA,Martin 5' Driving Finger Roll Layup (8 PTS) (Strus 4 AST),Made Shot,Driving Finger Roll Layup Shot,-22,42,5,1,2.0,2.0,h
+S2223-G0861,4,03:01,MIA,,DEN,,C. Martin,MIA,Martin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0861,4,00:16.400000,MIA,,DEN,,C. Martin,MIA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0174,1,11:04,MIA,3.0,CHA,3.0,C. Martin,MIA,Martin 28' 3PT Jump Shot (3 PTS) (Adebayo 1 AST),Made Shot,Jump Shot,-127,248,28,1,3.0,3.0,h
+S2223-G0174,1,07:21,MIA,13.0,CHA,9.0,C. Martin,MIA,Martin 3PT Jump Shot (6 PTS) (Butler 1 AST),Made Shot,Jump Shot,234,6,0,1,3.0,3.0,h
+S2223-G0174,1,05:56,MIA,,CHA,,C. Martin,MIA,SUB: Dedmon FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0174,1,02:14,MIA,,CHA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,232,4,0,1,3.0,0.0,h
+S2223-G0174,1,01:16,MIA,30.0,CHA,21.0,C. Martin,MIA,Martin Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0174,1,01:16,MIA,,CHA,,C. Martin,MIA,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0174,2,10:19,MIA,,CHA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0174,2,10:09,MIA,,CHA,,C. Martin,MIA,Martin Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0174,2,08:32,MIA,38.0,CHA,32.0,C. Martin,MIA,Martin 1' Driving Dunk (9 PTS) (Strus 1 AST),Made Shot,Driving Dunk Shot,12,1,1,1,2.0,2.0,h
+S2223-G0174,2,07:00,MIA,,CHA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0174,2,06:38,MIA,,CHA,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0174,2,03:35,MIA,,CHA,,C. Martin,MIA,Martin S.FOUL (P1.T3) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0174,2,02:33,MIA,,CHA,,C. Martin,MIA,MISS Martin 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,42,79,9,1,2.0,0.0,h
+S2223-G0174,2,01:34,MIA,,CHA,,C. Martin,MIA,MISS Martin 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,88,0,9,1,2.0,0.0,h
+S2223-G0174,2,01:29,MIA,,CHA,,C. Martin,MIA,SUB: Adebayo FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0174,3,08:02,MIA,,CHA,,C. Martin,MIA,MISS Martin 3' Driving Layup,Missed Shot,Driving Layup Shot,-28,14,3,1,2.0,0.0,h
+S2223-G0174,3,05:39,MIA,,CHA,,C. Martin,MIA,SUB: Vincent FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0174,3,02:32,MIA,,CHA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0174,3,02:00,MIA,,CHA,,C. Martin,MIA,Martin P.FOUL (P2.T3) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0174,3,01:40,MIA,,CHA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0174,3,00:52,MIA,,CHA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0174,4,11:45,MIA,,CHA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-225,22,0,1,3.0,0.0,h
+S2223-G0174,4,07:57,MIA,,CHA,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0174,4,00:26.500000,MIA,,CHA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0174,5,00:13.100000,MIA,,CHA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0174,5,00:06.400000,MIA,,CHA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0031,1,07:16,MIA,,TOR,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0031,1,07:15,MIA,14.0,TOR,10.0,C. Martin,MIA,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0031,1,07:15,MIA,15.0,TOR,10.0,C. Martin,MIA,Martin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0031,1,07:02,MIA,,TOR,,C. Martin,MIA,Martin S.FOUL (P1.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0031,1,06:09,MIA,19.0,TOR,14.0,C. Martin,MIA,Martin 2' Driving Layup (4 PTS) (Lowry 1 AST),Made Shot,Driving Layup Shot,-16,15,2,1,2.0,2.0,h
+S2223-G0031,1,06:00,MIA,,TOR,,C. Martin,MIA,Martin S.FOUL (P2.PN) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0031,1,06:00,MIA,,TOR,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0031,1,01:49,MIA,,TOR,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-232,99,25,1,3.0,0.0,h
+S2223-G0031,1,00:58.100000,MIA,,TOR,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0031,1,00:24.500000,MIA,,TOR,,C. Martin,MIA,MISS Martin 22' Jump Shot,Missed Shot,Jump Shot,145,162,22,1,2.0,0.0,h
+S2223-G0031,2,11:42,MIA,,TOR,,C. Martin,MIA,Martin Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0031,2,09:10,MIA,,TOR,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0031,2,09:02,MIA,,TOR,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0031,2,09:00,MIA,45.0,TOR,36.0,C. Martin,MIA,Martin 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,-9,16,2,1,2.0,2.0,h
+S2223-G0031,2,07:53,MIA,47.0,TOR,39.0,C. Martin,MIA,Martin 4' Driving Finger Roll Layup (8 PTS) (Strus 2 AST),Made Shot,Driving Finger Roll Layup Shot,-7,38,4,1,2.0,2.0,h
+S2223-G0031,2,07:33,MIA,,TOR,,C. Martin,MIA,MISS Martin 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-7,22,2,1,2.0,0.0,h
+S2223-G0031,2,06:32,MIA,,TOR,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0031,2,01:06,MIA,,TOR,,C. Martin,MIA,SUB: Dedmon FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0031,3,10:29,MIA,,TOR,,C. Martin,MIA,MISS Martin 2' Driving Layup,Missed Shot,Driving Layup Shot,-22,7,2,1,2.0,0.0,h
+S2223-G0031,3,10:25,MIA,,TOR,,C. Martin,MIA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0031,3,10:23,MIA,,TOR,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,20,24,1,3.0,0.0,h
+S2223-G0031,3,09:31,MIA,,TOR,,C. Martin,MIA,Martin S.FOUL (P3.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0031,3,08:06,MIA,,TOR,,C. Martin,MIA,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0031,3,07:46,MIA,,TOR,,C. Martin,MIA,Martin L.B.FOUL (P4.T4) (S.Mehta),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0031,3,07:46,MIA,,TOR,,C. Martin,MIA,"Double Technical - Martin, Koloko (T.Ford)",Foul,Double Technical,0,0,0,0,,,
+S2223-G0031,3,07:46,MIA,,TOR,,C. Martin,MIA,Martin Ejection:Other,Ejection,Other,0,0,0,0,,,h
+S2223-G0031,3,07:46,MIA,,TOR,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G1084,1,01:58,MIA,,NYK,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1084,1,00:00.400000,MIA,31.0,NYK,32.0,C. Martin,MIA,Martin 21' Running Pull-Up Jump Shot (2 PTS) (Adebayo 2 AST),Made Shot,Running Pull-Up Jump Shot,151,150,21,1,2.0,2.0,h
+S2223-G1084,2,09:00,MIA,,NYK,,C. Martin,MIA,Martin S.FOUL (P1.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G1084,2,08:35,MIA,,NYK,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1084,2,07:58,MIA,,NYK,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1084,2,04:26,MIA,49.0,NYK,47.0,C. Martin,MIA,Martin 2' Driving Layup (4 PTS) (Love 3 AST),Made Shot,Driving Layup Shot,-17,11,2,1,2.0,2.0,h
+S2223-G1084,2,02:17,MIA,,NYK,,C. Martin,MIA,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1084,2,01:27,MIA,,NYK,,C. Martin,MIA,MISS Martin 20' Jump Shot,Missed Shot,Jump Shot,-184,85,20,1,2.0,0.0,h
+S2223-G1084,2,00:25.800000,MIA,,NYK,,C. Martin,MIA,Martin S.FOUL (P2.T4) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G1084,2,00:25.800000,MIA,,NYK,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G1084,4,08:38,MIA,,NYK,,C. Martin,MIA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1084,4,08:38,MIA,98.0,NYK,98.0,C. Martin,MIA,Martin Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1084,4,06:39,MIA,,NYK,,C. Martin,MIA,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1084,4,06:32,MIA,,NYK,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G1084,4,00:42.200000,MIA,,NYK,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G1084,4,00:22.300000,MIA,,NYK,,C. Martin,MIA,Martin P.FOUL (P3.PN) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2223-G1138,1,03:51,NYK,13.0,MIA,18.0,C. Martin,MIA,Martin 20' Jump Shot (2 PTS) (Butler 1 AST),Made Shot,Jump Shot,203,-3,20,1,2.0,2.0,v
+S2223-G1138,1,01:28,NYK,,MIA,,C. Martin,MIA,Martin P.FOUL (P1.PN) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2223-G1138,1,01:26,NYK,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1138,1,01:07,NYK,,MIA,,C. Martin,MIA,MISS Martin 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,232,32,0,1,3.0,0.0,v
+S2223-G1138,2,10:27,NYK,,MIA,,C. Martin,MIA,Martin P.FOUL (P2.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2223-G1138,2,10:21,NYK,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1138,2,09:57,NYK,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,241,-6,24,1,3.0,0.0,v
+S2223-G1138,2,06:00,NYK,,MIA,,C. Martin,MIA,SUB: Vincent FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G1138,4,11:29,NYK,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1138,4,10:36,NYK,79.0,MIA,79.0,C. Martin,MIA,Martin 25' 3PT Jump Shot (5 PTS) (Herro 1 AST),Made Shot,Jump Shot,205,146,25,1,3.0,3.0,v
+S2223-G1138,4,06:31,NYK,,MIA,,C. Martin,MIA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1138,4,06:31,NYK,86.0,MIA,85.0,C. Martin,MIA,Martin Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1138,4,06:01,NYK,,MIA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,230,2,0,1,3.0,0.0,v
+S2223-G1138,4,04:17,NYK,,MIA,,C. Martin,MIA,Martin S.FOUL (P3.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G1138,4,01:29,NYK,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1138,4,01:01,NYK,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1138,4,00:36.400000,NYK,,MIA,,C. Martin,MIA,Martin S.FOUL (P4.T3) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2223-G1138,4,00:36.400000,NYK,,MIA,,C. Martin,MIA,SUB: Robinson FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0904,1,02:57,CHA,,MIA,,C. Martin,MIA,MISS Martin 1' Driving Layup,Missed Shot,Driving Layup Shot,12,6,1,1,2.0,0.0,v
+S2223-G0904,1,00:00.900000,CHA,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0904,1,00:00,CHA,,MIA,,C. Martin,MIA,MISS Martin 38' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-5,379,38,1,3.0,0.0,v
+S2223-G0904,2,09:09,CHA,,MIA,,C. Martin,MIA,MISS Martin 1' Driving Layup,Missed Shot,Driving Layup Shot,-5,13,1,1,2.0,0.0,v
+S2223-G0904,2,08:39,CHA,,MIA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,223,13,0,1,3.0,0.0,v
+S2223-G0904,2,08:23,CHA,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0904,2,07:57,CHA,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0904,2,06:56,CHA,,MIA,,C. Martin,MIA,SUB: Vincent FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0904,3,02:40,CHA,,MIA,,C. Martin,MIA,Martin Step Out of Bounds Turnover (P1.T11),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0904,3,02:14,CHA,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0904,3,00:04.300000,CHA,80.0,MIA,72.0,C. Martin,MIA,Martin 14' Pullup Jump Shot (2 PTS) (Herro 5 AST),Made Shot,Pullup Jump shot,135,5,14,1,2.0,2.0,v
+S2223-G0904,4,10:26,CHA,82.0,MIA,78.0,C. Martin,MIA,Martin 24' 3PT Jump Shot (5 PTS) (Adebayo 4 AST),Made Shot,Jump Shot,-238,10,24,1,3.0,3.0,v
+S2223-G0904,4,10:13,CHA,,MIA,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0904,4,10:13,CHA,,MIA,,C. Martin,MIA,Martin Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0904,4,07:07,CHA,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.T2) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0904,4,06:27,CHA,,MIA,,C. Martin,MIA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0904,4,06:27,CHA,93.0,MIA,89.0,C. Martin,MIA,Martin Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0904,4,04:15,CHA,,MIA,,C. Martin,MIA,SUB: Love FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0007,1,08:34,,,CHI,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0007,1,05:43,,18.0,CHI,10.0,C. Martin,MIA,Martin 1' Cutting Dunk Shot (2 PTS) (Adebayo 1 AST),Made Shot,Cutting Dunk Shot,7,5,1,1,2.0,2.0,h
+S2223-G0007,1,05:06,,21.0,CHI,12.0,C. Martin,MIA,Martin 27' 3PT Jump Shot (5 PTS) (Lowry 1 AST),Made Shot,Jump Shot,-146,230,27,1,3.0,3.0,h
+S2223-G0007,1,04:50,,,CHI,,C. Martin,MIA,Martin S.FOUL (P1.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0007,1,04:09,,,CHI,,C. Martin,MIA,MISS Martin 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-22,16,3,1,2.0,0.0,h
+S2223-G0007,1,02:38,,23.0,CHI,19.0,C. Martin,MIA,Martin 21' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,98,188,21,1,2.0,2.0,h
+S2223-G0007,1,02:38,,,CHI,,C. Martin,MIA,SUB: Dedmon FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0007,2,05:33,,,CHI,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,141,211,25,1,3.0,0.0,h
+S2223-G0007,2,05:19,,,CHI,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0007,2,03:10,,,CHI,,C. Martin,MIA,MISS Martin 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,4,122,12,1,2.0,0.0,h
+S2223-G0007,2,01:21,,,CHI,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,233,26,0,1,3.0,0.0,h
+S2223-G0007,2,00:28.500000,,,CHI,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0007,3,10:09,,,CHI,,C. Martin,MIA,MISS Martin 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,89,185,21,1,2.0,0.0,h
+S2223-G0007,3,07:56,,,CHI,,C. Martin,MIA,Martin S.FOUL (P2.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0007,3,05:54,,,CHI,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0007,4,09:10,,,CHI,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0007,4,09:04,,,CHI,,C. Martin,MIA,MISS Martin 3' Running Layup,Missed Shot,Running Layup Shot,20,15,3,1,2.0,0.0,h
+S2223-G0007,4,08:46,,,CHI,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0007,4,06:33,,,CHI,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0007,4,06:02,,,CHI,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0752,1,11:36,CHA,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G0752,1,11:33,CHA,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0752,1,10:12,CHA,5.0,MIA,4.0,C. Martin,MIA,Martin 6' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,-33,53,6,1,2.0,2.0,v
+S2223-G0752,1,08:29,CHA,,MIA,,C. Martin,MIA,Martin Offensive Charge Foul (P2) (T.Washington),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0752,1,08:29,CHA,,MIA,,C. Martin,MIA,Martin Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0752,1,06:12,CHA,,MIA,,C. Martin,MIA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0752,1,06:12,CHA,16.0,MIA,16.0,C. Martin,MIA,Martin Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0752,1,05:49,CHA,,MIA,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0752,1,01:15,CHA,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0752,2,09:09,CHA,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0752,2,08:47,CHA,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0752,2,08:07,CHA,,MIA,,C. Martin,MIA,Martin S.FOUL (P3.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0752,2,08:07,CHA,,MIA,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0752,3,11:23,CHA,,MIA,,C. Martin,MIA,MISS Martin 28' 3PT Jump Shot,Missed Shot,Jump Shot,-137,242,28,1,3.0,0.0,v
+S2223-G0752,3,11:18,CHA,58.0,MIA,64.0,C. Martin,MIA,Martin 2' Cutting Layup Shot (5 PTS) (Butler 2 AST),Made Shot,Cutting Layup Shot,-12,21,2,1,2.0,2.0,v
+S2223-G0752,3,06:23,CHA,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0752,3,04:23,CHA,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0752,3,04:08,CHA,,MIA,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0752,4,09:24,CHA,99.0,MIA,90.0,C. Martin,MIA,Martin 14' Jump Shot (7 PTS) (Strus 1 AST),Made Shot,Jump Shot,115,88,14,1,2.0,2.0,v
+S2223-G0752,4,09:05,CHA,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0752,4,08:50,CHA,,MIA,,C. Martin,MIA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0752,4,08:50,CHA,99.0,MIA,91.0,C. Martin,MIA,Martin Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0752,4,06:54,CHA,,MIA,,C. Martin,MIA,SUB: Lowry FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0314,1,07:29,BOS,20.0,MIA,10.0,C. Martin,MIA,Martin 14' Fadeaway Jumper (2 PTS) (Herro 1 AST),Made Shot,Fadeaway Jump Shot,142,11,14,1,2.0,2.0,v
+S2223-G0314,1,06:10,BOS,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0314,1,05:58,BOS,23.0,MIA,17.0,C. Martin,MIA,Martin 24' 3PT Jump Shot (5 PTS) (Herro 2 AST),Made Shot,Jump Shot,239,52,24,1,3.0,3.0,v
+S2223-G0314,1,04:07,BOS,,MIA,,C. Martin,MIA,SUB: Vincent FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0314,2,06:35,BOS,,MIA,,C. Martin,MIA,MISS Martin 23' Jump Shot,Missed Shot,Jump Shot,147,174,23,1,2.0,0.0,v
+S2223-G0314,2,06:33,BOS,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0314,2,06:25,BOS,,MIA,,C. Martin,MIA,MISS Martin 7' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,29,63,7,1,2.0,0.0,v
+S2223-G0314,2,05:28,BOS,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0314,2,05:19,BOS,,MIA,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-219,135,26,1,3.0,0.0,v
+S2223-G0314,2,04:48,BOS,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,51,24,1,3.0,0.0,v
+S2223-G0314,2,03:03,BOS,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0314,2,02:12,BOS,66.0,MIA,60.0,C. Martin,MIA,Martin 21' Jump Shot (7 PTS) (Strus 2 AST),Made Shot,Jump Shot,200,59,21,1,2.0,2.0,v
+S2223-G0314,2,00:03.600000,BOS,,MIA,,C. Martin,MIA,Martin Traveling Turnover (P1.T7),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0314,3,11:45,BOS,68.0,MIA,63.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (10 PTS) (Herro 6 AST),Made Shot,Jump Shot,185,176,26,1,3.0,3.0,v
+S2223-G0314,3,10:10,BOS,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0314,3,07:00,BOS,,MIA,,C. Martin,MIA,Martin OFF.Foul (P1) (T.Brothers),Foul,Offensive,0,0,0,0,,,v
+S2223-G0314,3,07:00,BOS,,MIA,,C. Martin,MIA,Martin Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0314,3,05:37,BOS,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0314,3,05:28,BOS,,MIA,,C. Martin,MIA,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-6,274,27,1,3.0,0.0,v
+S2223-G0314,3,04:17,BOS,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G1204,1,03:25,WAS,,MIA,,C. Martin,MIA,MISS Martin 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-86,22,9,1,2.0,0.0,v
+S2223-G1204,1,01:36,WAS,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,1,01:14,WAS,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,1,01:09,WAS,,MIA,,C. Martin,MIA,MISS Martin 3' Running Layup,Missed Shot,Running Layup Shot,22,25,3,1,2.0,0.0,v
+S2223-G1204,1,00:33.400000,WAS,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,2,11:40,WAS,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,-13,24,1,3.0,0.0,v
+S2223-G1204,2,09:01,WAS,,MIA,,C. Martin,MIA,MISS Martin 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,223,52,0,1,3.0,0.0,v
+S2223-G1204,2,05:24,WAS,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G1204,3,02:57,WAS,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,3,02:48,WAS,,MIA,,C. Martin,MIA,MISS Martin 22' Jump Shot,Missed Shot,Jump Shot,-189,112,22,1,2.0,0.0,v
+S2223-G1204,3,00:46.300000,WAS,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1204,3,00:43.800000,WAS,86.0,MIA,71.0,C. Martin,MIA,Martin 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,2,26,3,1,2.0,2.0,v
+S2223-G1204,4,09:13,WAS,,MIA,,C. Martin,MIA,MISS Martin 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,53,4,5,1,2.0,0.0,v
+S2223-G1204,4,08:29,WAS,100.0,MIA,82.0,C. Martin,MIA,Martin 22' Jump Shot (4 PTS) (D. Robinson 1 AST),Made Shot,Jump Shot,-179,122,22,1,2.0,2.0,v
+S2223-G1204,4,07:40,WAS,,MIA,,C. Martin,MIA,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1204,4,07:18,WAS,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0244,1,10:24,CLE,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0244,1,05:20,CLE,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0244,1,00:33.300000,CLE,26.0,MIA,27.0,C. Martin,MIA,Martin 2' Reverse Layup (2 PTS) (Adebayo 1 AST),Made Shot,Reverse Layup Shot,-7,17,2,1,2.0,2.0,v
+S2223-G0244,2,11:24,CLE,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0244,2,11:06,CLE,,MIA,,C. Martin,MIA,MISS Martin 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,67,240,25,1,3.0,0.0,v
+S2223-G0244,2,10:57,CLE,,MIA,,C. Martin,MIA,Martin S.FOUL (P2.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0244,2,10:12,CLE,,MIA,,C. Martin,MIA,SUB: Lowry FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0244,2,06:34,CLE,,MIA,,C. Martin,MIA,MISS Martin 19' Jump Shot,Missed Shot,Jump Shot,183,47,19,1,2.0,0.0,v
+S2223-G0244,2,06:31,CLE,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0244,2,06:24,CLE,,MIA,,C. Martin,MIA,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0244,2,03:45,CLE,51.0,MIA,36.0,C. Martin,MIA,Martin 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,6,14,2,1,2.0,2.0,v
+S2223-G0244,2,02:58,CLE,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0244,2,01:58,CLE,,MIA,,C. Martin,MIA,SUB: Adebayo FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0244,3,09:02,CLE,68.0,MIA,51.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (7 PTS) (Lowry 2 AST),Made Shot,Jump Shot,221,138,26,1,3.0,3.0,v
+S2223-G0244,3,07:23,CLE,,MIA,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-219,149,26,1,3.0,0.0,v
+S2223-G0244,3,05:09,CLE,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0244,3,00:53.800000,CLE,,MIA,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,229,96,25,1,3.0,0.0,v
+S2223-G0244,3,00:02.200000,CLE,,MIA,,C. Martin,MIA,Martin Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0244,4,09:33,CLE,98.0,MIA,70.0,C. Martin,MIA,Martin 2' Running Finger Roll Layup (9 PTS),Made Shot,Running Finger Roll Layup Shot,7,18,2,1,2.0,2.0,v
+S2223-G0244,4,07:18,CLE,103.0,MIA,75.0,C. Martin,MIA,Martin 2' Cutting Layup Shot (11 PTS) (O. Robinson 1 AST),Made Shot,Cutting Layup Shot,12,15,2,1,2.0,2.0,v
+S2223-G0244,4,06:46,CLE,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0244,4,04:28,CLE,103.0,MIA,80.0,C. Martin,MIA,Martin Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0244,4,04:28,CLE,103.0,MIA,81.0,C. Martin,MIA,Martin Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0244,4,01:52,CLE,,MIA,,C. Martin,MIA,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,89,254,27,1,3.0,0.0,v
+S2223-G0244,4,01:13,CLE,111.0,MIA,85.0,C. Martin,MIA,Martin 1' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,5,6,1,1,2.0,2.0,v
+S2223-G0244,4,00:44.600000,CLE,113.0,MIA,87.0,C. Martin,MIA,Martin 23' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,103,206,23,1,2.0,2.0,v
+S2223-G0897,1,00:27.900000,MIL,39.0,MIA,31.0,C. Martin,MIA,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0897,1,00:27.900000,MIL,39.0,MIA,32.0,C. Martin,MIA,Martin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0897,2,10:43,MIL,,MIA,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,208,160,26,1,3.0,0.0,v
+S2223-G0897,2,10:31,MIL,,MIA,,C. Martin,MIA,Martin P.FOUL (P1.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2223-G0897,2,10:19,MIL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0897,2,10:15,MIL,46.0,MIA,34.0,C. Martin,MIA,Martin 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,-10,22,2,1,2.0,2.0,v
+S2223-G0897,2,09:04,MIL,48.0,MIA,38.0,C. Martin,MIA,Martin 1' Running Dunk (6 PTS) (Robinson 1 AST),Made Shot,Running Dunk Shot,-4,7,1,1,2.0,2.0,v
+S2223-G0897,2,04:50,MIL,,MIA,,C. Martin,MIA,SUB: Love FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0897,3,03:49,MIL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0897,3,02:34,MIL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0897,3,00:24.300000,MIL,,MIA,,C. Martin,MIA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0897,3,00:24.300000,MIL,95.0,MIA,74.0,C. Martin,MIA,Martin Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0897,4,11:41,MIL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0897,4,11:38,MIL,,MIA,,C. Martin,MIA,MISS Martin 5' Driving Layup,Missed Shot,Driving Layup Shot,37,36,5,1,2.0,0.0,v
+S2223-G0897,4,10:36,MIL,98.0,MIA,77.0,C. Martin,MIA,Martin 26' 3PT Step Back Jump Shot (10 PTS) (Zeller 2 AST),Made Shot,Step Back Jump shot,127,227,26,1,3.0,3.0,v
+S2223-G0897,4,10:12,MIL,101.0,MIA,80.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (13 PTS) (Oladipo 3 AST),Made Shot,Jump Shot,196,176,26,1,3.0,3.0,v
+S2223-G0897,4,09:54,MIL,,MIA,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0897,4,09:38,MIL,,MIA,,C. Martin,MIA,MISS Martin 19' Jump Shot,Missed Shot,Jump Shot,-188,21,19,1,2.0,0.0,v
+S2223-G0897,4,07:00,MIL,,MIA,,C. Martin,MIA,Martin BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0897,4,05:09,MIL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0897,4,05:09,MIL,118.0,MIA,88.0,C. Martin,MIA,Martin Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0897,4,05:09,MIL,118.0,MIA,89.0,C. Martin,MIA,Martin Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0897,4,03:08,MIL,,MIA,,C. Martin,MIA,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-138,230,27,1,3.0,0.0,v
+S2223-G0897,4,02:00,MIL,126.0,MIA,93.0,C. Martin,MIA,Martin 1' Driving Reverse Layup (17 PTS),Made Shot,Driving Reverse Layup Shot,4,8,1,1,2.0,2.0,v
+S2223-G0897,4,01:20,MIL,,MIA,,C. Martin,MIA,Martin P.FOUL (P2.T3) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G0897,4,01:00,MIL,,MIA,,C. Martin,MIA,Martin BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0897,4,00:19.200000,MIL,,MIA,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-130,226,26,1,3.0,0.0,v
+S2223-G0878,1,09:45,BKN,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0878,1,09:41,BKN,,MIA,,C. Martin,MIA,MISS Martin 3' Running Layup,Missed Shot,Running Layup Shot,-26,0,3,1,2.0,0.0,v
+S2223-G0878,1,08:25,BKN,,MIA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-234,-13,0,1,3.0,0.0,v
+S2223-G0878,1,08:01,BKN,,MIA,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0878,1,05:29,BKN,18.0,MIA,16.0,C. Martin,MIA,Martin 20' Jump Shot (2 PTS) (Strus 2 AST),Made Shot,Jump Shot,-137,142,20,1,2.0,2.0,v
+S2223-G0878,1,04:25,BKN,,MIA,,C. Martin,MIA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0878,1,04:25,BKN,,MIA,,C. Martin,MIA,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0878,1,04:00,BKN,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0878,1,02:33,BKN,,MIA,,C. Martin,MIA,SUB: Adebayo FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0878,2,06:44,BKN,39.0,MIA,38.0,C. Martin,MIA,Martin 25' 3PT Jump Shot (5 PTS) (D. Robinson 1 AST),Made Shot,Jump Shot,142,201,25,1,3.0,3.0,v
+S2223-G0878,2,03:18,BKN,42.0,MIA,48.0,C. Martin,MIA,Martin 2' Driving Layup (7 PTS) (Butler 3 AST),Made Shot,Driving Layup Shot,17,5,2,1,2.0,2.0,v
+S2223-G0878,2,03:13,BKN,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.PN) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G0878,2,00:34.100000,BKN,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0878,3,10:37,BKN,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0878,3,08:19,BKN,57.0,MIA,62.0,C. Martin,MIA,Martin 1' Driving Layup (9 PTS) (Vincent 1 AST),Made Shot,Driving Layup Shot,4,11,1,1,2.0,2.0,v
+S2223-G0878,3,07:38,BKN,59.0,MIA,64.0,C. Martin,MIA,Martin 1' Cutting Layup Shot (11 PTS) (Adebayo 4 AST),Made Shot,Cutting Layup Shot,10,6,1,1,2.0,2.0,v
+S2223-G0878,3,07:11,BKN,,MIA,,C. Martin,MIA,MISS Martin 7' Floating Jump Shot,Missed Shot,Floating Jump shot,10,73,7,1,2.0,0.0,v
+S2223-G0878,3,05:09,BKN,,MIA,,C. Martin,MIA,Martin OFF.Foul (P2) (D.Richardson),Foul,Offensive,0,0,0,0,,,v
+S2223-G0878,3,05:09,BKN,,MIA,,C. Martin,MIA,Martin Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0878,3,03:21,BKN,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0878,4,06:06,BKN,98.0,MIA,91.0,C. Martin,MIA,Martin 3' Cutting Layup Shot (13 PTS) (Adebayo 6 AST),Made Shot,Cutting Layup Shot,27,4,3,1,2.0,2.0,v
+S2223-G0878,4,04:55,BKN,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0878,4,03:28,BKN,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0878,4,03:14,BKN,,MIA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-229,-3,0,1,3.0,0.0,v
+S2223-G0878,4,02:18,BKN,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0878,4,01:21,BKN,,MIA,,C. Martin,MIA,MISS Martin 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,21,65,7,1,2.0,0.0,v
+S2223-G0878,4,01:16,BKN,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0878,4,00:56.900000,BKN,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0252,1,05:17,MIN,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0252,2,11:16,MIN,,MIA,,C. Martin,MIA,MISS Martin 1' Driving Layup,Missed Shot,Driving Layup Shot,-6,12,1,1,2.0,0.0,v
+S2223-G0252,2,09:19,MIN,,MIA,,C. Martin,MIA,MISS Martin 3PT Running Jump Shot,Missed Shot,Running Jump Shot,227,2,0,1,3.0,0.0,v
+S2223-G0252,2,08:11,MIN,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0252,2,02:55,MIN,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0252,2,02:30,MIN,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0252,2,01:26,MIN,,MIA,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0252,3,10:58,MIN,51.0,MIA,61.0,C. Martin,MIA,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0252,3,10:58,MIN,,MIA,,C. Martin,MIA,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0252,3,09:15,MIN,53.0,MIA,67.0,C. Martin,MIA,Martin 1' Cutting Layup Shot (3 PTS) (Lowry 4 AST),Made Shot,Cutting Layup Shot,5,8,1,1,2.0,2.0,v
+S2223-G0252,3,08:55,MIN,,MIA,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0252,3,07:56,MIN,,MIA,,C. Martin,MIA,Martin Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0252,3,06:45,MIN,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0252,3,05:57,MIN,,MIA,,C. Martin,MIA,MISS Martin 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-206,143,25,1,3.0,0.0,v
+S2223-G0252,3,05:06,MIN,,MIA,,C. Martin,MIA,SUB: Cain FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0252,3,01:52,MIN,,MIA,,C. Martin,MIA,Martin P.FOUL (P1.T3) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2223-G0252,3,00:14.600000,MIN,,MIA,,C. Martin,MIA,Martin STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0252,4,09:44,MIN,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0252,4,08:13,MIN,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0252,4,08:13,MIN,89.0,MIA,91.0,C. Martin,MIA,Martin Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0252,4,06:39,MIN,92.0,MIA,93.0,C. Martin,MIA,Martin 3' Cutting Layup Shot (7 PTS) (Lowry 8 AST),Made Shot,Cutting Layup Shot,5,26,3,1,2.0,2.0,v
+S2223-G0252,4,04:24,MIN,,MIA,,C. Martin,MIA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0252,4,04:24,MIN,99.0,MIA,97.0,C. Martin,MIA,Martin Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0252,4,03:47,MIN,,MIA,,C. Martin,MIA,Martin P.FOUL (P2.T3) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2223-G0252,4,02:52,MIN,,MIA,,C. Martin,MIA,Martin REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0252,4,02:46,MIN,,MIA,,C. Martin,MIA,MISS Martin 2' Driving Layup,Missed Shot,Driving Layup Shot,16,6,2,1,2.0,0.0,v
+S2223-G0419,1,07:14,OKC,,MIA,,C. Martin,MIA,Martin OFF.Foul (P1) (B.Barnaky),Foul,Offensive,0,0,0,0,,,v
+S2223-G0419,1,07:14,OKC,,MIA,,C. Martin,MIA,Martin Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0419,1,06:36,OKC,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0419,1,06:36,OKC,,MIA,,C. Martin,MIA,MISS Martin Putback Layup,Missed Shot,Putback Layup Shot,-2,4,0,1,2.0,0.0,v
+S2223-G0419,1,03:58,OKC,,MIA,,C. Martin,MIA,SUB: Dedmon FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0419,2,07:13,OKC,,MIA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,230,-29,0,1,3.0,0.0,v
+S2223-G0419,2,02:52,OKC,,MIA,,C. Martin,MIA,Martin Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0419,2,01:49,OKC,48.0,MIA,64.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (3 PTS) (Adebayo 2 AST),Made Shot,Jump Shot,115,230,26,1,3.0,3.0,v
+S2223-G0419,3,11:09,OKC,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0419,3,08:22,OKC,,MIA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-232,-15,0,1,3.0,0.0,v
+S2223-G0419,3,05:55,OKC,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0419,3,03:42,OKC,,MIA,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0419,4,06:56,OKC,,MIA,,C. Martin,MIA,Martin Lost Ball Turnover (P3.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0419,4,06:29,OKC,,MIA,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,25,251,25,1,3.0,0.0,v
+S2223-G0419,4,06:26,OKC,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0419,4,04:12,OKC,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,53,24,1,3.0,0.0,v
+S2223-G0419,4,01:08,OKC,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0065,1,11:24,POR,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0065,1,09:53,POR,6.0,MIA,6.0,C. Martin,MIA,Martin 4' Reverse Layup (2 PTS) (Adebayo 1 AST),Made Shot,Reverse Layup Shot,-26,24,4,1,2.0,2.0,v
+S2223-G0065,1,08:45,POR,10.0,MIA,9.0,C. Martin,MIA,Martin 28' 3PT Pullup Jump Shot (5 PTS) (Lowry 1 AST),Made Shot,Pullup Jump shot,71,272,28,1,3.0,3.0,v
+S2223-G0065,1,07:49,POR,,MIA,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0065,1,07:40,POR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0065,1,06:50,POR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0065,1,06:24,POR,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0065,1,05:00,POR,,MIA,,C. Martin,MIA,Martin Offensive Charge Foul (P2) (D.Scott),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0065,1,05:00,POR,,MIA,,C. Martin,MIA,Martin Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0065,1,05:00,POR,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0065,1,00:38.100000,POR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0065,1,00:31.200000,POR,,MIA,,C. Martin,MIA,Martin Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0065,2,07:07,POR,,MIA,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0065,3,10:50,POR,62.0,MIA,63.0,C. Martin,MIA,Martin 5' Cutting Layup Shot (7 PTS) (Butler 3 AST),Made Shot,Cutting Layup Shot,37,39,5,1,2.0,2.0,v
+S2223-G0065,3,10:07,POR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0065,3,09:41,POR,,MIA,,C. Martin,MIA,Martin S.FOUL (P3.T1) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0065,3,08:32,POR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0065,3,07:31,POR,67.0,MIA,73.0,C. Martin,MIA,Martin 3' Running Dunk (9 PTS) (Adebayo 3 AST),Made Shot,Running Dunk Shot,-17,26,3,1,2.0,2.0,v
+S2223-G0065,3,07:02,POR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0065,3,04:16,POR,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0065,3,00:04,POR,,MIA,,C. Martin,MIA,Martin STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0065,3,00:02.300000,POR,80.0,MIA,94.0,C. Martin,MIA,Martin 2' Running Dunk (11 PTS),Made Shot,Running Dunk Shot,15,12,2,1,2.0,2.0,v
+S2223-G0065,3,00:02.300000,POR,,MIA,,C. Martin,MIA,Martin T.FOUL (P3.T3) (K.Cutler),Foul,Technical,0,0,0,0,,,v
+S2223-G0065,4,11:42,POR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0065,4,11:34,POR,,MIA,,C. Martin,MIA,MISS Martin 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,31,16,3,1,2.0,0.0,v
+S2223-G0065,4,11:29,POR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0065,4,10:01,POR,,MIA,,C. Martin,MIA,Martin STEAL (4 STL),,,0,0,0,0,,,v
+S2223-G0065,4,09:56,POR,81.0,MIA,99.0,C. Martin,MIA,Martin 4' Running Layup (13 PTS),Made Shot,Running Layup Shot,-28,32,4,1,2.0,2.0,v
+S2223-G0065,4,08:10,POR,83.0,MIA,106.0,C. Martin,MIA,Martin 3PT Jump Shot (16 PTS) (Vincent 5 AST),Made Shot,Jump Shot,234,13,0,1,3.0,3.0,v
+S2223-G0065,4,05:37,POR,,MIA,,C. Martin,MIA,SUB: Smith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0121,1,08:29,IND,,MIA,,C. Martin,MIA,Martin P.FOUL (P1.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2223-G0121,1,06:58,IND,,MIA,,C. Martin,MIA,Martin S.FOUL (P2.T2) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0121,1,06:45,IND,,MIA,,C. Martin,MIA,SUB: Vincent FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0121,2,11:08,IND,28.0,MIA,33.0,C. Martin,MIA,Martin 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-2,25,3,1,2.0,2.0,v
+S2223-G0121,2,09:33,IND,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0121,2,09:08,IND,,MIA,,C. Martin,MIA,MISS Martin 1' Driving Dunk,Missed Shot,Driving Dunk Shot,-1,5,1,1,2.0,0.0,v
+S2223-G0121,2,08:34,IND,,MIA,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0121,2,08:32,IND,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0121,2,06:27,IND,,MIA,,C. Martin,MIA,Martin S.FOUL (P3.PN) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0121,2,06:27,IND,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0121,3,11:40,IND,,MIA,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,145,218,26,1,3.0,0.0,v
+S2223-G0121,3,08:52,IND,69.0,MIA,60.0,C. Martin,MIA,Martin 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-2,13,1,1,2.0,2.0,v
+S2223-G0121,3,08:07,IND,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0121,3,05:05,IND,75.0,MIA,72.0,C. Martin,MIA,Martin 12' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,-123,-16,12,1,2.0,2.0,v
+S2223-G0121,3,01:34,IND,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0121,3,01:24,IND,,MIA,,C. Martin,MIA,Martin Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0121,3,01:20,IND,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0121,3,00:01.400000,IND,,MIA,,C. Martin,MIA,SUB: Robinson FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0121,4,04:14,IND,,MIA,,C. Martin,MIA,Martin Lost Ball Turnover (P2.T19),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0121,4,04:03,IND,,MIA,,C. Martin,MIA,SUB: Lowry FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0121,4,00:07.600000,IND,,MIA,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G1161,1,03:50,MIA,30.0,DAL,26.0,C. Martin,MIA,Martin 2' Cutting Layup Shot (2 PTS) (Lowry 2 AST),Made Shot,Cutting Layup Shot,-6,14,2,1,2.0,2.0,h
+S2223-G1161,2,09:55,MIA,,DAL,,C. Martin,MIA,Martin P.FOUL (P1.T1) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2223-G1161,2,07:51,MIA,,DAL,,C. Martin,MIA,Martin P.FOUL (P2.T4) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G1161,2,06:54,MIA,59.0,DAL,46.0,C. Martin,MIA,Martin 3' Running Layup (4 PTS) (Butler 4 AST),Made Shot,Running Layup Shot,-31,11,3,1,2.0,2.0,h
+S2223-G1161,2,02:38,MIA,74.0,DAL,58.0,C. Martin,MIA,Martin 11' Turnaround Fadeaway (6 PTS),Made Shot,Turnaround Fadeaway shot,107,17,11,1,2.0,2.0,h
+S2223-G1161,2,00:29,MIA,,DAL,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1161,3,02:36,MIA,,DAL,,C. Martin,MIA,Martin P.FOUL (P3.T4) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G1161,3,01:48,MIA,,DAL,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1161,4,10:11,MIA,106.0,DAL,99.0,C. Martin,MIA,Martin 2' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,23,8,2,1,2.0,2.0,h
+S2223-G1161,4,07:52,MIA,,DAL,,C. Martin,MIA,Martin Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1161,4,06:42,MIA,,DAL,,C. Martin,MIA,Martin S.FOUL (P4.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G1161,4,06:42,MIA,,DAL,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0265,1,09:01,MIA,,WAS,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0265,1,08:53,MIA,4.0,WAS,11.0,C. Martin,MIA,Martin 2' Cutting Layup Shot (2 PTS) (Lowry 2 AST),Made Shot,Cutting Layup Shot,21,1,2,1,2.0,2.0,h
+S2223-G0265,1,08:01,MIA,6.0,WAS,13.0,C. Martin,MIA,Martin 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-21,2,2,1,2.0,2.0,h
+S2223-G0265,1,07:35,MIA,8.0,WAS,15.0,C. Martin,MIA,Martin 1' Driving Layup (6 PTS) (Herro 1 AST),Made Shot,Driving Layup Shot,12,-1,1,1,2.0,2.0,h
+S2223-G0265,1,07:16,MIA,,WAS,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0265,1,07:04,MIA,,WAS,,C. Martin,MIA,Martin Violation:Kicked Ball (B.Taylor),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0265,1,06:24,MIA,,WAS,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,129,223,26,1,3.0,0.0,h
+S2223-G0265,1,04:59,MIA,,WAS,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0265,2,11:10,MIA,,WAS,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0265,2,10:34,MIA,,WAS,,C. Martin,MIA,MISS Martin 2' Driving Layup,Missed Shot,Driving Layup Shot,21,6,2,1,2.0,0.0,h
+S2223-G0265,2,09:51,MIA,,WAS,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0265,2,09:39,MIA,,WAS,,C. Martin,MIA,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-172,211,27,1,3.0,0.0,h
+S2223-G0265,2,06:55,MIA,40.0,WAS,34.0,C. Martin,MIA,Martin 24' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,-234,33,24,1,3.0,3.0,h
+S2223-G0265,2,05:38,MIA,,WAS,,C. Martin,MIA,SUB: Vincent FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0265,2,01:36,MIA,,WAS,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0265,2,01:31,MIA,,WAS,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0265,2,01:31,MIA,,WAS,,C. Martin,MIA,MISS Martin Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,h
+S2223-G0265,2,00:08,MIA,,WAS,,C. Martin,MIA,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0265,3,06:27,MIA,,WAS,,C. Martin,MIA,Martin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0265,3,06:13,MIA,,WAS,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,18,252,25,1,3.0,0.0,h
+S2223-G0265,3,06:12,MIA,,WAS,,C. Martin,MIA,Martin REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0265,3,06:10,MIA,73.0,WAS,59.0,C. Martin,MIA,Martin 25' 3PT Jump Shot (12 PTS),Made Shot,Jump Shot,-234,88,25,1,3.0,3.0,h
+S2223-G0265,3,03:47,MIA,78.0,WAS,67.0,C. Martin,MIA,Martin 26' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,227,120,26,1,3.0,3.0,h
+S2223-G0265,3,03:29,MIA,,WAS,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0265,3,03:23,MIA,,WAS,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-234,103,26,1,3.0,0.0,h
+S2223-G0265,3,03:19,MIA,,WAS,,C. Martin,MIA,Martin REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0265,3,01:06,MIA,,WAS,,C. Martin,MIA,Martin P.FOUL (P1.PN) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0265,4,10:51,MIA,86.0,WAS,82.0,C. Martin,MIA,Martin 25' 3PT Jump Bank Shot (18 PTS),Made Shot,Jump Bank Shot,-199,145,25,1,3.0,3.0,h
+S2223-G0265,4,07:55,MIA,94.0,WAS,93.0,C. Martin,MIA,Martin 20' Jump Shot (20 PTS),Made Shot,Jump Shot,121,154,20,1,2.0,2.0,h
+S2223-G0265,4,07:17,MIA,,WAS,,C. Martin,MIA,SUB: Lowry FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0265,4,02:39,MIA,,WAS,,C. Martin,MIA,Martin P.FOUL (P2.T4) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0265,4,01:54,MIA,109.0,WAS,103.0,C. Martin,MIA,Martin 1' Driving Layup (22 PTS) (Herro 3 AST),Made Shot,Driving Layup Shot,-2,11,1,1,2.0,2.0,h
+S2223-G0265,4,01:22,MIA,,WAS,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-116,229,26,1,3.0,0.0,h
+S2223-G0265,4,00:50.900000,MIA,,WAS,,C. Martin,MIA,Martin REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0265,4,00:50.900000,MIA,111.0,WAS,105.0,C. Martin,MIA,Martin 2' Reverse Layup (24 PTS),Made Shot,Reverse Layup Shot,-12,19,2,1,2.0,2.0,h
+S2223-G0361,1,10:43,MIA,,DET,,C. Martin,MIA,MISS Martin 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,6,116,12,1,2.0,0.0,h
+S2223-G0361,1,07:43,MIA,,DET,,C. Martin,MIA,Martin P.FOUL (P1.T1) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2223-G0361,1,03:57,MIA,,DET,,C. Martin,MIA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0361,1,03:47,MIA,,DET,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0361,2,04:06,MIA,,DET,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-228,11,0,1,3.0,0.0,h
+S2223-G0361,2,02:17,MIA,,DET,,C. Martin,MIA,Martin P.FOUL (P2.T4) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2223-G0361,2,01:37,MIA,,DET,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0361,2,00:42.400000,MIA,,DET,,C. Martin,MIA,MISS Martin 28' 3PT Jump Shot,Missed Shot,Jump Shot,45,277,28,1,3.0,0.0,h
+S2223-G0361,3,10:32,MIA,,DET,,C. Martin,MIA,Martin OFF.Foul (P3) (T.Ford),Foul,Offensive,0,0,0,0,,,h
+S2223-G0361,3,10:32,MIA,,DET,,C. Martin,MIA,Martin Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0361,3,09:34,MIA,,DET,,C. Martin,MIA,Martin Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0361,3,08:31,MIA,61.0,DET,54.0,C. Martin,MIA,Martin 24' 3PT Pullup Jump Shot (3 PTS) (Herro 4 AST),Made Shot,Pullup Jump shot,240,8,24,1,3.0,3.0,h
+S2223-G0361,3,08:13,MIA,,DET,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0361,3,08:09,MIA,,DET,,C. Martin,MIA,MISS Martin 2' Running Layup,Missed Shot,Running Layup Shot,15,18,2,1,2.0,0.0,h
+S2223-G0361,3,05:30,MIA,,DET,,C. Martin,MIA,Martin Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0361,3,03:34,MIA,,DET,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0361,4,08:31,MIA,,DET,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0361,4,08:26,MIA,,DET,,C. Martin,MIA,SUB: Lowry FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0361,4,01:48,MIA,,DET,,C. Martin,MIA,MISS Martin 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-89,131,16,1,2.0,0.0,h
+S2223-G0361,4,00:47.600000,MIA,,DET,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,204,156,26,1,3.0,0.0,h
+S2223-G0224,1,08:18,WAS,,MIA,,C. Martin,MIA,Martin Violation:Defensive Goaltending (N.Sago),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0224,1,07:24,WAS,14.0,MIA,11.0,C. Martin,MIA,Martin 28' 3PT Jump Shot (3 PTS) (Lowry 2 AST),Made Shot,Jump Shot,-227,156,28,1,3.0,3.0,v
+S2223-G0224,1,04:30,WAS,,MIA,,C. Martin,MIA,SUB: O. Robinson FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0224,2,11:37,WAS,,MIA,,C. Martin,MIA,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,181,203,27,1,3.0,0.0,v
+S2223-G0224,2,10:58,WAS,,MIA,,C. Martin,MIA,MISS Martin 4' Driving Layup,Missed Shot,Driving Layup Shot,17,31,4,1,2.0,0.0,v
+S2223-G0224,2,09:27,WAS,35.0,MIA,37.0,C. Martin,MIA,Martin Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0224,2,09:27,WAS,35.0,MIA,38.0,C. Martin,MIA,Martin Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0224,2,05:08,WAS,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0224,2,05:08,WAS,,MIA,,C. Martin,MIA,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0224,2,04:52,WAS,47.0,MIA,54.0,C. Martin,MIA,Martin 27' 3PT Jump Shot (8 PTS) (Lowry 9 AST),Made Shot,Jump Shot,-212,159,27,1,3.0,3.0,v
+S2223-G0224,2,03:30,WAS,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,27,24,1,3.0,0.0,v
+S2223-G0224,2,03:29,WAS,48.0,MIA,58.0,C. Martin,MIA,Martin Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0224,2,03:29,WAS,48.0,MIA,59.0,C. Martin,MIA,Martin Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0224,2,02:24,WAS,,MIA,,C. Martin,MIA,MISS Martin 19' Jump Shot,Missed Shot,Jump Shot,-97,164,19,1,2.0,0.0,v
+S2223-G0224,3,10:02,WAS,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0224,3,08:59,WAS,62.0,MIA,76.0,C. Martin,MIA,Martin 12' Turnaround Fadeaway (12 PTS),Made Shot,Turnaround Fadeaway shot,-80,94,12,1,2.0,2.0,v
+S2223-G0224,3,06:27,WAS,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0224,3,06:23,WAS,,MIA,,C. Martin,MIA,MISS Martin 22' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,68,210,22,1,2.0,0.0,v
+S2223-G0224,3,05:13,WAS,,MIA,,C. Martin,MIA,SUB: Cain FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0224,3,01:51,WAS,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-229,53,24,1,3.0,0.0,v
+S2223-G0224,3,01:38,WAS,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0224,3,00:35.300000,WAS,,MIA,,C. Martin,MIA,MISS Martin 3' Driving Layup,Missed Shot,Driving Layup Shot,28,1,3,1,2.0,0.0,v
+S2223-G0224,4,11:27,WAS,,MIA,,C. Martin,MIA,Martin Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0224,4,11:22,WAS,,MIA,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0224,4,10:42,WAS,,MIA,,C. Martin,MIA,Martin Lost Ball Turnover (P3.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0224,4,08:42,WAS,,MIA,,C. Martin,MIA,Martin P.FOUL (P1.T2) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0224,4,05:49,WAS,,MIA,,C. Martin,MIA,MISS Martin 21' Jump Shot,Missed Shot,Jump Shot,206,20,21,1,2.0,0.0,v
+S2223-G0224,4,03:57,WAS,,MIA,,C. Martin,MIA,MISS Martin 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-6,121,12,1,2.0,0.0,v
+S2223-G0224,5,03:08,WAS,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0224,5,02:44,WAS,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0224,5,02:11,WAS,,MIA,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1177,1,02:44,DET,,MIA,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-136,215,25,1,3.0,0.0,v
+S2223-G1177,1,02:18,DET,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1177,1,00:26.900000,DET,27.0,MIA,30.0,C. Martin,MIA,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1177,1,00:26.900000,DET,27.0,MIA,31.0,C. Martin,MIA,Martin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1177,2,11:05,DET,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1177,2,11:00,DET,,MIA,,C. Martin,MIA,MISS Martin 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,197,22,20,1,2.0,0.0,v
+S2223-G1177,2,06:22,DET,,MIA,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1177,2,06:07,DET,,MIA,,C. Martin,MIA,Martin STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G1177,2,05:48,DET,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.T3) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G1177,2,04:02,DET,,MIA,,C. Martin,MIA,MISS Martin 1' Reverse Layup,Missed Shot,Reverse Layup Shot,4,9,1,1,2.0,0.0,v
+S2223-G1177,2,03:59,DET,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1177,2,03:59,DET,39.0,MIA,56.0,C. Martin,MIA,Martin Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1177,2,03:12,DET,,MIA,,C. Martin,MIA,Martin S.FOUL (P2.PN) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2223-G1177,2,01:19,DET,,MIA,,C. Martin,MIA,SUB: Vincent FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G1177,3,00:40.500000,DET,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1177,4,10:42,DET,81.0,MIA,82.0,C. Martin,MIA,Martin 2' Driving Layup (6 PTS) (Herro 2 AST),Made Shot,Driving Layup Shot,16,16,2,1,2.0,2.0,v
+S2223-G1177,4,08:57,DET,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1198,1,03:29,PHI,23.0,MIA,25.0,C. Martin,MIA,Martin 3PT Jump Shot (3 PTS) (Butler 3 AST),Made Shot,Jump Shot,-228,23,0,1,3.0,3.0,v
+S2223-G1198,1,03:10,PHI,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1198,1,02:29,PHI,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1198,1,01:56,PHI,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1198,1,01:43,PHI,25.0,MIA,32.0,C. Martin,MIA,Martin 16' Pullup Jump Shot (5 PTS) (Butler 4 AST),Made Shot,Pullup Jump shot,44,158,16,1,2.0,2.0,v
+S2223-G1198,2,07:36,PHI,,MIA,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,241,80,25,1,3.0,0.0,v
+S2223-G1198,2,06:00,PHI,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G1198,2,03:21,PHI,,MIA,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,151,211,26,1,3.0,0.0,v
+S2223-G1198,2,00:48.900000,PHI,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1198,3,08:49,PHI,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,85,24,1,3.0,0.0,v
+S2223-G1198,3,07:46,PHI,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G1198,3,01:07,PHI,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1198,3,01:02,PHI,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1198,4,07:27,PHI,83.0,MIA,106.0,C. Martin,MIA,Martin 1' Running Alley Oop Dunk Shot (7 PTS) (Lowry 5 AST),Made Shot,Running Alley Oop Dunk Shot,11,9,1,1,2.0,2.0,v
+S2223-G1198,4,07:00,PHI,,MIA,,C. Martin,MIA,MISS Martin 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-27,145,15,1,2.0,0.0,v
+S2223-G1198,4,06:05,PHI,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1198,4,06:01,PHI,83.0,MIA,111.0,C. Martin,MIA,Martin Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1198,4,06:01,PHI,83.0,MIA,112.0,C. Martin,MIA,Martin Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1198,4,05:34,PHI,83.0,MIA,114.0,C. Martin,MIA,Martin 2' Reverse Layup (11 PTS) (Lowry 7 AST),Made Shot,Reverse Layup Shot,-13,13,2,1,2.0,2.0,v
+S2223-G1198,4,04:37,PHI,87.0,MIA,118.0,C. Martin,MIA,Martin Driving Layup (13 PTS),Made Shot,Driving Layup Shot,-1,4,0,1,2.0,2.0,v
+S2223-G1198,4,02:12,PHI,,MIA,,C. Martin,MIA,Martin Offensive Charge Foul (P2) (E.Malloy),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G1198,4,02:12,PHI,,MIA,,C. Martin,MIA,Martin Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1198,4,01:19,PHI,,MIA,,C. Martin,MIA,MISS Martin 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,83,146,17,1,2.0,0.0,v
+S2223-G0068,1,10:06,GSW,8.0,MIA,4.0,C. Martin,MIA,Martin 12' Turnaround Jump Shot (2 PTS) (Butler 1 AST),Made Shot,Turnaround Jump Shot,-116,36,12,1,2.0,2.0,v
+S2223-G0068,1,09:58,GSW,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0068,1,09:43,GSW,,MIA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-222,14,0,1,3.0,0.0,v
+S2223-G0068,1,06:37,GSW,,MIA,,C. Martin,MIA,MISS Martin 6' Driving Layup,Missed Shot,Driving Layup Shot,59,25,6,1,2.0,0.0,v
+S2223-G0068,1,06:35,GSW,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0068,1,06:33,GSW,,MIA,,C. Martin,MIA,MISS Martin Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0068,1,05:36,GSW,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0068,2,09:54,GSW,,MIA,,C. Martin,MIA,MISS Martin 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-44,32,5,1,2.0,0.0,v
+S2223-G0068,2,08:47,GSW,38.0,MIA,37.0,C. Martin,MIA,Martin 28' 3PT Pullup Jump Shot (5 PTS) (Robinson 1 AST),Made Shot,Pullup Jump shot,-92,262,28,1,3.0,3.0,v
+S2223-G0068,2,05:57,GSW,,MIA,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0068,3,11:04,GSW,,MIA,,C. Martin,MIA,MISS Martin 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,196,173,26,1,3.0,0.0,v
+S2223-G0068,3,10:28,GSW,,MIA,,C. Martin,MIA,Martin P.FOUL (P1.T1) (L.Wood),Foul,Personal,0,0,0,0,,,v
+S2223-G0068,3,09:14,GSW,71.0,MIA,69.0,C. Martin,MIA,Martin 24' 3PT Jump Shot (8 PTS) (Butler 5 AST),Made Shot,Jump Shot,230,65,24,1,3.0,3.0,v
+S2223-G0068,3,07:14,GSW,,MIA,,C. Martin,MIA,MISS Martin 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-43,116,12,1,2.0,0.0,v
+S2223-G0068,3,06:18,GSW,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0068,4,11:45,GSW,,MIA,,C. Martin,MIA,MISS Martin 21' Jump Shot,Missed Shot,Jump Shot,-207,-4,21,1,2.0,0.0,v
+S2223-G0068,4,09:54,GSW,,MIA,,C. Martin,MIA,Martin Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0068,4,05:40,GSW,,MIA,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0642,1,00:20.100000,CHA,,BOS,,C. Martin,CHA,MISS Martin 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,125,81,15,1,2.0,0.0,h
+S2223-G0642,2,11:47,CHA,,BOS,,C. Martin,CHA,MISS Martin 2' Driving Layup,Missed Shot,Driving Layup Shot,18,16,2,1,2.0,0.0,h
+S2223-G0642,2,11:46,CHA,,BOS,,C. Martin,CHA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0642,2,11:44,CHA,36.0,BOS,31.0,C. Martin,CHA,Martin 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-10,4,1,1,2.0,2.0,h
+S2223-G0642,2,10:41,CHA,,BOS,,C. Martin,CHA,Martin P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2223-G0642,2,09:30,CHA,,BOS,,C. Martin,CHA,Martin S.FOUL (P2.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0642,2,08:56,CHA,,BOS,,C. Martin,CHA,SUB: Smith Jr. FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0642,2,03:21,CHA,,BOS,,C. Martin,CHA,Martin S.FOUL (P3.T4) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0642,2,03:05,CHA,,BOS,,C. Martin,CHA,SUB: McDaniels FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0642,3,02:09,CHA,,BOS,,C. Martin,CHA,Martin REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0642,3,02:01,CHA,82.0,BOS,85.0,C. Martin,CHA,Martin 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,11,22,2,1,2.0,2.0,h
+S2223-G0642,3,02:01,CHA,83.0,BOS,85.0,C. Martin,CHA,Martin Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0642,4,10:59,CHA,87.0,BOS,95.0,C. Martin,CHA,Martin 3' Driving Layup (7 PTS) (Ball 9 AST),Made Shot,Driving Layup Shot,0,25,3,1,2.0,2.0,h
+S2223-G0642,4,10:59,CHA,88.0,BOS,95.0,C. Martin,CHA,Martin Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0642,4,10:33,CHA,,BOS,,C. Martin,CHA,Martin REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0642,4,08:22,CHA,,BOS,,C. Martin,CHA,Martin REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0642,4,07:12,CHA,,BOS,,C. Martin,CHA,Martin S.FOUL (P4.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0642,4,02:39,CHA,,BOS,,C. Martin,CHA,Martin REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0642,4,01:44,CHA,,BOS,,C. Martin,CHA,SUB: Thor FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0357,1,09:24,MEM,9.0,MIA,8.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (3 PTS) (Herro 1 AST),Made Shot,Jump Shot,-138,220,26,1,3.0,3.0,v
+S2223-G0357,1,08:15,MEM,11.0,MIA,13.0,C. Martin,MIA,Martin 24' 3PT Running Jump Shot (6 PTS) (Butler 3 AST),Made Shot,Running Jump Shot,-230,49,24,1,3.0,3.0,v
+S2223-G0357,1,06:06,MEM,15.0,MIA,23.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (9 PTS) (Herro 2 AST),Made Shot,Jump Shot,-12,264,26,1,3.0,3.0,v
+S2223-G0357,1,05:04,MEM,17.0,MIA,26.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (12 PTS),Made Shot,Jump Shot,127,228,26,1,3.0,3.0,v
+S2223-G0357,1,04:17,MEM,,MIA,,C. Martin,MIA,MISS Martin 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-147,222,27,1,3.0,0.0,v
+S2223-G0357,1,02:45,MEM,,MIA,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0357,2,05:35,MEM,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,16,24,1,3.0,0.0,v
+S2223-G0357,2,05:17,MEM,40.0,MIA,40.0,C. Martin,MIA,Martin 1' Driving Layup (14 PTS) (Lowry 2 AST),Made Shot,Driving Layup Shot,7,4,1,1,2.0,2.0,v
+S2223-G0357,3,10:01,MEM,60.0,MIA,60.0,C. Martin,MIA,Martin 23' Running Jump Shot (16 PTS) (Butler 6 AST),Made Shot,Running Jump Shot,108,200,23,1,2.0,2.0,v
+S2223-G0357,3,07:49,MEM,,MIA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-225,66,0,1,3.0,0.0,v
+S2223-G0357,3,05:08,MEM,,MIA,,C. Martin,MIA,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0357,3,01:20,MEM,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0357,4,05:06,MEM,,MIA,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,89,245,26,1,3.0,0.0,v
+S2223-G0402,1,10:37,IND,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0402,1,07:05,IND,,MIA,,C. Martin,MIA,MISS Martin 2' Layup,Missed Shot,Layup Shot,15,14,2,1,2.0,0.0,v
+S2223-G0402,1,06:57,IND,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0402,1,05:27,IND,,MIA,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0402,1,01:18,IND,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0402,1,01:01,IND,13.0,MIA,24.0,C. Martin,MIA,Martin 3PT Jump Shot (3 PTS) (Oladipo 2 AST),Made Shot,Jump Shot,229,47,0,1,3.0,3.0,v
+S2223-G0402,2,09:04,IND,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0402,2,09:01,IND,,MIA,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-7,247,25,1,3.0,0.0,v
+S2223-G0402,2,07:40,IND,,MIA,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0402,3,11:08,IND,42.0,MIA,49.0,C. Martin,MIA,Martin 11' Running Layup (5 PTS) (Butler 4 AST),Made Shot,Running Layup Shot,10,113,11,1,2.0,2.0,v
+S2223-G0402,3,09:51,IND,,MIA,,C. Martin,MIA,Martin P.FOUL (P1.T1) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2223-G0402,3,09:25,IND,,MIA,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-181,173,25,1,3.0,0.0,v
+S2223-G0402,3,08:37,IND,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0402,3,08:12,IND,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0402,3,05:57,IND,,MIA,,C. Martin,MIA,MISS Martin 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,2,50,5,1,2.0,0.0,v
+S2223-G0402,3,04:44,IND,,MIA,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0402,3,00:55,IND,64.0,MIA,64.0,C. Martin,MIA,Martin 21' Turnaround Fadeaway (7 PTS),Made Shot,Turnaround Fadeaway shot,-173,110,21,1,2.0,2.0,v
+S2223-G0402,3,00:09.800000,IND,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0402,4,09:41,IND,,MIA,,C. Martin,MIA,Martin Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0402,4,04:28,IND,,MIA,,C. Martin,MIA,Martin P.FOUL (P2.T4) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G0402,4,01:55,IND,,MIA,,C. Martin,MIA,MISS Martin 3' Reverse Layup,Missed Shot,Reverse Layup Shot,12,22,3,1,2.0,0.0,v
+S2223-G0402,4,01:09,IND,77.0,MIA,85.0,C. Martin,MIA,Martin Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0402,4,01:09,IND,77.0,MIA,86.0,C. Martin,MIA,Martin Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0673,1,10:58,NOP,,MIA,,C. Martin,MIA,MISS Martin 2' Driving Layup,Missed Shot,Driving Layup Shot,-18,-7,2,1,2.0,0.0,v
+S2223-G0673,1,05:55,NOP,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0673,1,05:24,NOP,,MIA,,C. Martin,MIA,SUB: Robinson FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0673,2,10:28,NOP,,MIA,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0673,2,08:58,NOP,28.0,MIA,46.0,C. Martin,MIA,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0673,2,08:58,NOP,28.0,MIA,47.0,C. Martin,MIA,Martin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0673,2,07:34,NOP,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0673,2,07:34,NOP,,MIA,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0673,3,10:42,NOP,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0673,3,09:36,NOP,,MIA,,C. Martin,MIA,Martin Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0673,3,04:54,NOP,,MIA,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0673,3,02:16,NOP,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,-9,24,1,3.0,0.0,v
+S2223-G0673,3,02:07,NOP,69.0,MIA,89.0,C. Martin,MIA,Martin 25' 3PT Jump Shot (5 PTS) (Strus 5 AST),Made Shot,Jump Shot,216,133,25,1,3.0,3.0,v
+S2223-G0673,4,10:59,NOP,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0673,4,10:50,NOP,76.0,MIA,101.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (8 PTS) (Strus 7 AST),Made Shot,Jump Shot,-184,190,26,1,3.0,3.0,v
+S2223-G0673,4,10:31,NOP,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0673,4,08:51,NOP,,MIA,,C. Martin,MIA,MISS Martin 20' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,199,48,20,1,2.0,0.0,v
+S2223-G0673,4,07:19,NOP,83.0,MIA,110.0,C. Martin,MIA,Martin 2' Cutting Layup Shot (10 PTS) (Strus 9 AST),Made Shot,Cutting Layup Shot,17,5,2,1,2.0,2.0,v
+S2223-G0673,4,03:48,NOP,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,-14,24,1,3.0,0.0,v
+S2223-G0673,4,00:32.200000,NOP,,MIA,,C. Martin,MIA,Martin Traveling Turnover (P2.T10),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0673,4,00:27.900000,NOP,,MIA,,C. Martin,MIA,Martin STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0848,1,11:32,ORL,,MIA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,233,-3,0,1,3.0,0.0,v
+S2223-G0848,1,09:49,ORL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0848,1,04:46,ORL,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0848,1,04:44,ORL,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0848,2,07:10,ORL,38.0,MIA,27.0,C. Martin,MIA,Martin 8' Turnaround Bank Shot (2 PTS),Made Shot,Turnaround Bank shot,58,55,8,1,2.0,2.0,v
+S2223-G0848,2,05:18,ORL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0848,2,04:56,ORL,,MIA,,C. Martin,MIA,Martin P.FOUL (P1.T3) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2223-G0848,2,03:04,ORL,,MIA,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,94,246,26,1,3.0,0.0,v
+S2223-G0848,2,02:09,ORL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0848,2,02:06,ORL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0848,2,02:06,ORL,52.0,MIA,36.0,C. Martin,MIA,Martin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0848,2,02:06,ORL,52.0,MIA,37.0,C. Martin,MIA,Martin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0848,2,01:10,ORL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0848,2,01:07,ORL,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0848,2,00:12.400000,ORL,,MIA,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0848,3,11:22,ORL,56.0,MIA,48.0,C. Martin,MIA,Martin 3' Driving Layup (6 PTS) (Butler 3 AST),Made Shot,Driving Layup Shot,-6,30,3,1,2.0,2.0,v
+S2223-G0848,3,11:05,ORL,,MIA,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0848,3,09:35,ORL,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0848,3,07:44,ORL,,MIA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,232,29,0,1,3.0,0.0,v
+S2223-G0848,3,07:41,ORL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0848,3,07:16,ORL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0848,3,05:57,ORL,,MIA,,C. Martin,MIA,Martin Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0848,3,04:49,ORL,64.0,MIA,60.0,C. Martin,MIA,Martin Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0848,3,04:49,ORL,64.0,MIA,61.0,C. Martin,MIA,Martin Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0848,3,01:55,ORL,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0848,3,01:02,ORL,,MIA,,C. Martin,MIA,MISS Martin 21' Jump Shot,Missed Shot,Jump Shot,197,64,21,1,2.0,0.0,v
+S2223-G0848,4,00:01.500000,ORL,,MIA,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0848,5,00:03.200000,ORL,,MIA,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0560,1,11:08,LAC,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,13,24,1,3.0,0.0,v
+S2223-G0560,1,09:08,LAC,,MIA,,C. Martin,MIA,MISS Martin 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-237,21,24,1,3.0,0.0,v
+S2223-G0560,1,08:18,LAC,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0560,1,06:15,LAC,,MIA,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0560,1,06:07,LAC,14.0,MIA,16.0,C. Martin,MIA,Martin 3' Running Layup (2 PTS) (Lowry 1 AST),Made Shot,Running Layup Shot,15,20,3,1,2.0,2.0,v
+S2223-G0560,1,05:44,LAC,,MIA,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0560,3,11:46,LAC,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0560,3,11:24,LAC,,MIA,,C. Martin,MIA,MISS Martin 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,180,195,27,1,3.0,0.0,v
+S2223-G0560,3,09:18,LAC,,MIA,,C. Martin,MIA,Martin L.B.FOUL (P2.T3) (J.Orr),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0560,3,09:04,LAC,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0560,3,07:40,LAC,,MIA,,C. Martin,MIA,Martin P.FOUL (P3.PN) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,v
+S2223-G0560,3,07:13,LAC,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0560,3,04:12,LAC,,MIA,,C. Martin,MIA,SUB: Adebayo FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0022,1,10:41,MIA,2.0,BOS,2.0,C. Martin,MIA,Martin 2' Alley Oop Layup (2 PTS) (Herro 1 AST),Made Shot,Alley Oop Layup shot,22,9,2,1,2.0,2.0,h
+S2223-G0022,1,09:30,MIA,,BOS,,C. Martin,MIA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0022,1,09:03,MIA,,BOS,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0022,1,04:23,MIA,,BOS,,C. Martin,MIA,Martin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0022,1,04:23,MIA,,BOS,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-31,248,25,1,3.0,0.0,h
+S2223-G0022,1,02:59,MIA,,BOS,,C. Martin,MIA,SUB: Robinson FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0022,2,04:49,MIA,,BOS,,C. Martin,MIA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0022,2,04:12,MIA,,BOS,,C. Martin,MIA,Martin S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G0022,2,03:22,MIA,,BOS,,C. Martin,MIA,MISS Martin 2' Driving Layup,Missed Shot,Driving Layup Shot,-16,11,2,1,2.0,0.0,h
+S2223-G0022,3,10:15,MIA,56.0,BOS,63.0,C. Martin,MIA,Martin 22' Pullup Jump Shot (4 PTS) (Lowry 3 AST),Made Shot,Pullup Jump shot,-173,142,22,1,2.0,2.0,h
+S2223-G0022,3,09:18,MIA,,BOS,,C. Martin,MIA,MISS Martin 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,18,8,2,1,2.0,0.0,h
+S2223-G0022,3,06:43,MIA,,BOS,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0022,3,05:40,MIA,,BOS,,C. Martin,MIA,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0022,3,05:39,MIA,,BOS,,C. Martin,MIA,MISS Martin 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,37,27,5,1,2.0,0.0,h
+S2223-G0022,3,05:39,MIA,,BOS,,C. Martin,MIA,Martin L.B.FOUL (P2.T3) (S.Foster),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0022,3,03:41,MIA,,BOS,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0022,4,11:19,MIA,,BOS,,C. Martin,MIA,Martin REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0022,4,10:27,MIA,,BOS,,C. Martin,MIA,MISS Martin 2' Driving Layup,Missed Shot,Driving Layup Shot,22,2,2,1,2.0,0.0,h
+S2223-G0022,4,10:23,MIA,,BOS,,C. Martin,MIA,Martin REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0022,4,07:08,MIA,,BOS,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0825,1,11:37,MIA,3.0,IND,0.0,C. Martin,MIA,Martin 24' 3PT Jump Shot (3 PTS) (Adebayo 1 AST),Made Shot,Jump Shot,241,10,24,1,3.0,3.0,h
+S2223-G0825,1,11:04,MIA,,IND,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0825,1,09:47,MIA,,IND,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-223,116,25,1,3.0,0.0,h
+S2223-G0825,1,07:05,MIA,,IND,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0825,1,06:39,MIA,,IND,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0825,1,05:37,MIA,,IND,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0825,1,05:34,MIA,25.0,IND,11.0,C. Martin,MIA,Martin 2' Running Finger Roll Layup (5 PTS),Made Shot,Running Finger Roll Layup Shot,-6,15,2,1,2.0,2.0,h
+S2223-G0825,1,04:09,MIA,,IND,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0825,1,03:28,MIA,,IND,,C. Martin,MIA,MISS Martin 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-169,48,18,1,2.0,0.0,h
+S2223-G0825,2,06:22,MIA,49.0,IND,44.0,C. Martin,MIA,Martin 14' Turnaround Fadeaway (7 PTS),Made Shot,Turnaround Fadeaway shot,-1,137,14,1,2.0,2.0,h
+S2223-G0825,2,05:56,MIA,,IND,,C. Martin,MIA,Martin Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0825,2,04:30,MIA,,IND,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,34,24,1,3.0,0.0,h
+S2223-G0825,2,04:22,MIA,,IND,,C. Martin,MIA,Martin S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0825,2,04:18,MIA,,IND,,C. Martin,MIA,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0825,2,02:43,MIA,,IND,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0825,2,00:22.500000,MIA,,IND,,C. Martin,MIA,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0825,2,00:21.100000,MIA,,IND,,C. Martin,MIA,MISS Martin 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-58,101,12,1,2.0,0.0,h
+S2223-G0825,2,00:20.300000,MIA,,IND,,C. Martin,MIA,Martin REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0825,2,00:20.100000,MIA,,IND,,C. Martin,MIA,MISS Martin 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,33,28,4,1,2.0,0.0,h
+S2223-G0825,3,10:27,MIA,,IND,,C. Martin,MIA,Martin P.FOUL (P2.T2) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2223-G0825,3,09:47,MIA,,IND,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,41,24,1,3.0,0.0,h
+S2223-G0825,3,09:28,MIA,,IND,,C. Martin,MIA,Martin REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0825,3,05:33,MIA,,IND,,C. Martin,MIA,Martin REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0825,3,05:01,MIA,,IND,,C. Martin,MIA,Martin STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0825,3,04:57,MIA,77.0,IND,75.0,C. Martin,MIA,Martin 2' Running Finger Roll Layup (9 PTS),Made Shot,Running Finger Roll Layup Shot,-21,8,2,1,2.0,2.0,h
+S2223-G0825,3,04:26,MIA,,IND,,C. Martin,MIA,Martin REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0825,3,04:00,MIA,,IND,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0825,4,09:23,MIA,,IND,,C. Martin,MIA,Martin STEAL (4 STL),,,0,0,0,0,,,h
+S2223-G0825,4,05:40,MIA,,IND,,C. Martin,MIA,Martin REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0825,4,05:28,MIA,,IND,,C. Martin,MIA,Martin REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0825,4,05:27,MIA,102.0,IND,98.0,C. Martin,MIA,Martin Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0825,4,05:27,MIA,,IND,,C. Martin,MIA,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0825,4,02:54,MIA,,IND,,C. Martin,MIA,MISS Martin 17' Jump Shot,Missed Shot,Jump Shot,168,6,17,1,2.0,0.0,h
+S2223-G0825,4,01:28,MIA,108.0,IND,101.0,C. Martin,MIA,Martin Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0825,4,01:28,MIA,109.0,IND,101.0,C. Martin,MIA,Martin Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0825,4,01:10,MIA,,IND,,C. Martin,MIA,Martin P.FOUL (P3.T4) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2223-G0825,4,00:43.600000,MIA,,IND,,C. Martin,MIA,Martin P.FOUL (P4.PN) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2223-G0686,1,10:30,DAL,,MIA,,C. Martin,MIA,Martin Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0686,1,10:12,DAL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0686,1,07:36,DAL,,MIA,,C. Martin,MIA,Martin Violation:Kicked Ball (R.Acosta),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0686,1,06:23,DAL,,MIA,,C. Martin,MIA,Martin Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0686,1,05:33,DAL,,MIA,,C. Martin,MIA,SUB: Robinson FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0686,1,02:12,DAL,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0686,1,01:30,DAL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0686,2,09:28,DAL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0686,2,06:47,DAL,,MIA,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0686,2,02:03,DAL,,MIA,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0686,3,11:41,DAL,60.0,MIA,54.0,C. Martin,MIA,Martin 25' 3PT Jump Shot (3 PTS) (Lowry 1 AST),Made Shot,Jump Shot,223,115,25,1,3.0,3.0,v
+S2223-G0686,3,11:10,DAL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0686,3,10:52,DAL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0686,3,10:07,DAL,,MIA,,C. Martin,MIA,MISS Martin 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,137,-1,14,1,2.0,0.0,v
+S2223-G0686,3,09:33,DAL,,MIA,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,168,188,25,1,3.0,0.0,v
+S2223-G0686,3,08:31,DAL,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0686,3,08:13,DAL,,MIA,,C. Martin,MIA,Martin Violation:Kicked Ball (S.Corbin),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0686,3,07:09,DAL,,MIA,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-6,264,26,1,3.0,0.0,v
+S2223-G0686,3,06:40,DAL,,MIA,,C. Martin,MIA,SUB: Oladipo FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0686,3,04:02,DAL,,MIA,,C. Martin,MIA,MISS Martin 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,45,37,6,1,2.0,0.0,v
+S2223-G0686,4,03:21,DAL,110.0,MIA,82.0,C. Martin,MIA,Martin 17' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,165,10,17,1,2.0,2.0,v
+S2223-G0686,4,01:52,DAL,112.0,MIA,85.0,C. Martin,MIA,Martin Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0686,4,01:52,DAL,112.0,MIA,86.0,C. Martin,MIA,Martin Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0686,4,01:47,DAL,,MIA,,C. Martin,MIA,Martin P.FOUL (P2.T3) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G0686,4,01:05,DAL,,MIA,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0583,1,04:33,MIL,17.0,CHA,36.0,C. Martin,CHA,Martin 15' Jump Shot (2 PTS) (Plumlee 3 AST),Made Shot,Jump Shot,-146,-4,15,1,2.0,2.0,v
+S2223-G0583,1,01:18,MIL,20.0,CHA,47.0,C. Martin,CHA,Martin 18' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-34,173,18,1,2.0,2.0,v
+S2223-G0583,2,11:44,MIL,,CHA,,C. Martin,CHA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-227,95,25,1,3.0,0.0,v
+S2223-G0583,2,09:26,MIL,,CHA,,C. Martin,CHA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0583,2,09:08,MIL,,CHA,,C. Martin,CHA,MISS Martin 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-145,221,26,1,3.0,0.0,v
+S2223-G0583,2,08:56,MIL,,CHA,,C. Martin,CHA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0583,2,06:57,MIL,,CHA,,C. Martin,CHA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0583,2,06:42,MIL,,CHA,,C. Martin,CHA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0583,2,06:42,MIL,,CHA,,C. Martin,CHA,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0583,2,06:27,MIL,,CHA,,C. Martin,CHA,SUB: McDaniels FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0583,3,03:29,MIL,,CHA,,C. Martin,CHA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0583,4,10:17,MIL,,CHA,,C. Martin,CHA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-232,1,0,1,3.0,0.0,v
+S2223-G0583,4,09:29,MIL,,CHA,,C. Martin,CHA,MISS Martin 2' Driving Layup,Missed Shot,Driving Layup Shot,2,17,2,1,2.0,0.0,v
+S2223-G0583,4,09:18,MIL,,CHA,,C. Martin,CHA,SUB: Rozier FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0583,4,02:04,MIL,,CHA,,C. Martin,CHA,MISS Martin 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,60,261,27,1,3.0,0.0,v
+S2223-G0215,1,11:34,TOR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0215,1,10:32,TOR,,MIA,,C. Martin,MIA,MISS Martin 8' Floating Jump Shot,Missed Shot,Floating Jump shot,-34,67,8,1,2.0,0.0,v
+S2223-G0215,1,10:30,TOR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0215,1,10:29,TOR,4.0,MIA,7.0,C. Martin,MIA,Martin 4' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,29,27,4,1,2.0,2.0,v
+S2223-G0215,1,06:25,TOR,,MIA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,229,11,0,1,3.0,0.0,v
+S2223-G0215,1,06:21,TOR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0215,1,06:20,TOR,11.0,MIA,18.0,C. Martin,MIA,Martin 24' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,234,67,24,1,3.0,3.0,v
+S2223-G0215,1,05:43,TOR,,MIA,,C. Martin,MIA,SUB: Cain FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0215,1,00:28.900000,TOR,25.0,MIA,31.0,C. Martin,MIA,Martin 2' Layup (7 PTS) (D. Robinson 2 AST),Made Shot,Layup Shot,10,19,2,1,2.0,2.0,v
+S2223-G0215,2,11:06,TOR,29.0,MIA,33.0,C. Martin,MIA,Martin 3' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,21,24,3,1,2.0,2.0,v
+S2223-G0215,2,10:47,TOR,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.T2) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0215,2,07:19,TOR,,MIA,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0215,2,06:29,TOR,,MIA,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0215,2,02:41,TOR,48.0,MIA,56.0,C. Martin,MIA,Martin 3' Running Alley Oop Dunk Shot (11 PTS) (Lowry 2 AST),Made Shot,Running Alley Oop Dunk Shot,7,25,3,1,2.0,2.0,v
+S2223-G0215,2,01:05,TOR,,MIA,,C. Martin,MIA,Martin S.FOUL (P2.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0215,2,00:28.200000,TOR,,MIA,,C. Martin,MIA,SUB: Cain FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0215,3,10:51,TOR,56.0,MIA,65.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (14 PTS) (Jovic 1 AST),Made Shot,Jump Shot,-205,159,26,1,3.0,3.0,v
+S2223-G0215,3,10:36,TOR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0215,3,08:55,TOR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0215,3,07:35,TOR,,MIA,,C. Martin,MIA,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-158,223,27,1,3.0,0.0,v
+S2223-G0215,3,07:03,TOR,,MIA,,C. Martin,MIA,MISS Martin 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,61,28,7,1,2.0,0.0,v
+S2223-G0215,3,04:46,TOR,,MIA,,C. Martin,MIA,SUB: Vincent FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0215,3,00:16.900000,TOR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0215,4,09:09,TOR,,MIA,,C. Martin,MIA,Martin Step Out of Bounds Turnover (P1.T20),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0215,4,08:20,TOR,,MIA,,C. Martin,MIA,Martin OFF.Foul (P3) (J.Goble),Foul,Offensive,0,0,0,0,,,v
+S2223-G0215,4,08:20,TOR,,MIA,,C. Martin,MIA,Martin Offensive Foul Turnover (P2.T21),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0215,4,05:41,TOR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0215,4,05:16,TOR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0215,4,05:03,TOR,,MIA,,C. Martin,MIA,Martin Traveling Turnover (P3.T22),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0215,4,04:43,TOR,,MIA,,C. Martin,MIA,Martin BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0215,4,00:40.600000,TOR,,MIA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0202,1,11:34,MIA,3.0,PHX,0.0,C. Martin,MIA,Martin 3PT Jump Shot (3 PTS) (Lowry 1 AST),Made Shot,Jump Shot,233,-6,0,1,3.0,3.0,h
+S2223-G0202,1,06:53,MIA,17.0,PHX,12.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (6 PTS) (Lowry 2 AST),Made Shot,Jump Shot,-153,207,26,1,3.0,3.0,h
+S2223-G0202,1,04:16,MIA,23.0,PHX,19.0,C. Martin,MIA,Martin 3PT Jump Shot (9 PTS) (Lowry 4 AST),Made Shot,Jump Shot,-232,12,0,1,3.0,3.0,h
+S2223-G0202,1,02:17,MIA,,PHX,,C. Martin,MIA,SUB: Dedmon FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0202,2,07:16,MIA,,PHX,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0202,2,03:13,MIA,,PHX,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0202,2,02:50,MIA,,PHX,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0202,3,08:22,MIA,66.0,PHX,67.0,C. Martin,MIA,Martin 24' 3PT Jump Shot (12 PTS) (Butler 4 AST),Made Shot,Jump Shot,232,53,24,1,3.0,3.0,h
+S2223-G0202,3,05:16,MIA,,PHX,,C. Martin,MIA,SUB: Dedmon FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0202,4,10:48,MIA,,PHX,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0202,4,10:01,MIA,,PHX,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0202,4,10:00,MIA,,PHX,,C. Martin,MIA,MISS Martin 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-229,83,24,1,3.0,0.0,h
+S2223-G0202,4,09:12,MIA,,PHX,,C. Martin,MIA,MISS Martin 5' Driving Layup,Missed Shot,Driving Layup Shot,51,15,5,1,2.0,0.0,h
+S2223-G0202,4,09:01,MIA,,PHX,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0202,4,08:57,MIA,,PHX,,C. Martin,MIA,MISS Martin 4' Running Layup,Missed Shot,Running Layup Shot,39,11,4,1,2.0,0.0,h
+S2223-G0202,4,07:52,MIA,,PHX,,C. Martin,MIA,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0202,4,05:20,MIA,,PHX,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0202,4,03:54,MIA,,PHX,,C. Martin,MIA,Martin BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0202,4,02:23,MIA,106.0,PHX,107.0,C. Martin,MIA,Martin 3PT Pullup Jump Shot (15 PTS) (Butler 7 AST),Made Shot,Pullup Jump shot,232,27,0,1,3.0,3.0,h
+S2223-G0081,1,10:54,SAC,,MIA,,C. Martin,MIA,MISS Martin 21' Jump Shot,Missed Shot,Jump Shot,208,2,21,1,2.0,0.0,v
+S2223-G0081,1,08:40,SAC,,MIA,,C. Martin,MIA,MISS Martin 5' Floating Jump Shot,Missed Shot,Floating Jump shot,47,22,5,1,2.0,0.0,v
+S2223-G0081,1,08:39,SAC,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0081,1,08:38,SAC,7.0,MIA,6.0,C. Martin,MIA,Martin 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-1,25,3,1,2.0,2.0,v
+S2223-G0081,1,07:58,SAC,,MIA,,C. Martin,MIA,MISS Martin 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-203,0,20,1,2.0,0.0,v
+S2223-G0081,1,07:46,SAC,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0081,1,06:11,SAC,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0081,1,05:55,SAC,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0081,2,11:40,SAC,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0081,2,11:34,SAC,,MIA,,C. Martin,MIA,MISS Martin 6' Driving Layup,Missed Shot,Driving Layup Shot,15,62,6,1,2.0,0.0,v
+S2223-G0081,2,09:44,SAC,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0081,2,05:25,SAC,,MIA,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0081,2,00:01.200000,SAC,,MIA,,C. Martin,MIA,Martin S.FOUL (P2.T2) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0081,3,10:34,SAC,71.0,MIA,52.0,C. Martin,MIA,Martin 25' 3PT Jump Shot (5 PTS) (Butler 4 AST),Made Shot,Jump Shot,-165,187,25,1,3.0,3.0,v
+S2223-G0081,3,09:26,SAC,71.0,MIA,56.0,C. Martin,MIA,Martin Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0081,3,09:26,SAC,71.0,MIA,57.0,C. Martin,MIA,Martin Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0081,3,06:52,SAC,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0081,3,06:12,SAC,,MIA,,C. Martin,MIA,MISS Martin 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,2,167,17,1,2.0,0.0,v
+S2223-G0081,3,04:48,SAC,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0081,3,00:50.500000,SAC,,MIA,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,235,78,25,1,3.0,0.0,v
+S2223-G0081,4,10:57,SAC,,MIA,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0081,4,10:54,SAC,92.0,MIA,86.0,C. Martin,MIA,Martin 1' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,6,9,1,1,2.0,2.0,v
+S2223-G0081,4,09:24,SAC,,MIA,,C. Martin,MIA,Martin L.B.FOUL (P3.T3) (N.Buchert),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0081,4,08:50,SAC,,MIA,,C. Martin,MIA,SUB: Lowry FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0081,4,04:12,SAC,,MIA,,C. Martin,MIA,SUB: Adebayo FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0486,1,09:22,MIA,,IND,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0486,1,07:24,MIA,,IND,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0486,1,04:54,MIA,,IND,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0486,2,02:36,MIA,,IND,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0486,2,00:21,MIA,,IND,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0486,3,10:29,MIA,,IND,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0486,3,09:09,MIA,,IND,,C. Martin,MIA,MISS Martin 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,102,75,13,1,2.0,0.0,h
+S2223-G0486,3,07:42,MIA,,IND,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0486,3,07:41,MIA,,IND,,C. Martin,MIA,Martin Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0486,3,06:37,MIA,,IND,,C. Martin,MIA,Martin BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0486,3,04:44,MIA,,IND,,C. Martin,MIA,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0486,3,04:39,MIA,,IND,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0613,1,03:30,TOR,26.0,CHA,30.0,C. Martin,CHA,Martin 24' 3PT Jump Shot (3 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,239,15,24,1,3.0,3.0,v
+S2223-G0613,1,02:42,TOR,,CHA,,C. Martin,CHA,MISS Martin 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-6,5,1,1,2.0,0.0,v
+S2223-G0613,1,02:38,TOR,,CHA,,C. Martin,CHA,Martin S.FOUL (P1.T2) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0613,2,03:50,TOR,,CHA,,C. Martin,CHA,MISS Martin 3PT Running Jump Shot,Missed Shot,Running Jump Shot,230,-2,0,1,3.0,0.0,v
+S2223-G0613,2,01:07,TOR,,CHA,,C. Martin,CHA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0613,2,00:03.200000,TOR,72.0,CHA,66.0,C. Martin,CHA,Martin 2' Cutting Finger Roll Layup Shot (5 PTS) (Ball 8 AST),Made Shot,Cutting Finger Roll Layup Shot,-2,16,2,1,2.0,2.0,v
+S2223-G0613,3,04:41,TOR,,CHA,,C. Martin,CHA,Martin S.FOUL (P2.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0613,3,03:55,TOR,,CHA,,C. Martin,CHA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0613,3,01:10,TOR,,CHA,,C. Martin,CHA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0613,3,01:06,TOR,92.0,CHA,94.0,C. Martin,CHA,Martin 1' Running Finger Roll Layup (7 PTS),Made Shot,Running Finger Roll Layup Shot,5,1,1,1,2.0,2.0,v
+S2223-G0613,3,00:00.200000,TOR,,CHA,,C. Martin,CHA,MISS Martin 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,121,233,26,1,3.0,0.0,v
+S2223-G0613,4,11:15,TOR,,CHA,,C. Martin,CHA,Martin S.FOUL (P3.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0613,4,10:19,TOR,,CHA,,C. Martin,CHA,Martin S.FOUL (P4.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0613,4,09:55,TOR,,CHA,,C. Martin,CHA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,210,143,25,1,3.0,0.0,v
+S2223-G0613,4,08:53,TOR,,CHA,,C. Martin,CHA,SUB: Plumlee FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0613,4,04:09,TOR,,CHA,,C. Martin,CHA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0629,1,03:51,TOR,25.0,CHA,19.0,C. Martin,CHA,Martin 1' Driving Layup (2 PTS) (Smith Jr. 1 AST),Made Shot,Driving Layup Shot,2,14,1,1,2.0,2.0,v
+S2223-G0629,1,01:22,TOR,,CHA,,C. Martin,CHA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0629,1,00:26.400000,TOR,,CHA,,C. Martin,CHA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-195,174,26,1,3.0,0.0,v
+S2223-G0629,2,10:46,TOR,,CHA,,C. Martin,CHA,Martin Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0629,2,08:42,TOR,,CHA,,C. Martin,CHA,SUB: Smith Jr. FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0629,3,02:36,TOR,87.0,CHA,80.0,C. Martin,CHA,Martin 24' 3PT Jump Shot (5 PTS) (Smith Jr. 7 AST),Made Shot,Jump Shot,-240,17,24,1,3.0,3.0,v
+S2223-G0629,3,01:45,TOR,,CHA,,C. Martin,CHA,Martin S.FOUL (P1.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0629,3,01:25,TOR,92.0,CHA,85.0,C. Martin,CHA,Martin 8' Driving Layup (7 PTS) (Rozier 4 AST),Made Shot,Driving Layup Shot,50,68,8,1,2.0,2.0,v
+S2223-G0629,3,01:25,TOR,92.0,CHA,86.0,C. Martin,CHA,Martin Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0629,3,01:10,TOR,,CHA,,C. Martin,CHA,Martin S.FOUL (P2.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0629,4,11:10,TOR,,CHA,,C. Martin,CHA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0629,4,11:10,TOR,99.0,CHA,89.0,C. Martin,CHA,Martin Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0629,4,08:03,TOR,,CHA,,C. Martin,CHA,SUB: Smith Jr. FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0629,4,06:51,TOR,,CHA,,C. Martin,CHA,SUB: Rozier FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0629,4,03:06,TOR,,CHA,,C. Martin,CHA,Martin P.FOUL (P3.PN) (L.Wood),Foul,Personal,0,0,0,0,,,v
+S2223-G0629,4,02:33,TOR,,CHA,,C. Martin,CHA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0629,4,01:16,TOR,,CHA,,C. Martin,CHA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0629,4,00:11.800000,TOR,,CHA,,C. Martin,CHA,Martin P.FOUL (P4.PN) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0500,1,10:47,MIA,,MIN,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0500,1,09:49,MIA,,MIN,,C. Martin,MIA,MISS Martin 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-165,188,25,1,3.0,0.0,h
+S2223-G0500,1,08:22,MIA,,MIN,,C. Martin,MIA,MISS Martin 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,45,63,8,1,2.0,0.0,h
+S2223-G0500,1,05:46,MIA,15.0,MIN,14.0,C. Martin,MIA,Martin 6' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,27,59,6,1,2.0,2.0,h
+S2223-G0500,1,05:46,MIA,,MIN,,C. Martin,MIA,MISS Martin Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0500,1,05:11,MIA,,MIN,,C. Martin,MIA,Martin Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0500,1,04:30,MIA,,MIN,,C. Martin,MIA,SUB: O. Robinson FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0500,2,05:05,MIA,,MIN,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,69,245,25,1,3.0,0.0,h
+S2223-G0500,2,03:57,MIA,49.0,MIN,44.0,C. Martin,MIA,Martin 3PT Jump Shot (5 PTS) (Herro 4 AST),Made Shot,Jump Shot,232,10,0,1,3.0,3.0,h
+S2223-G0500,2,03:09,MIA,,MIN,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-229,-7,0,1,3.0,0.0,h
+S2223-G0500,2,01:37,MIA,,MIN,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0500,2,00:13.500000,MIA,,MIN,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0500,3,11:36,MIA,,MIN,,C. Martin,MIA,MISS Martin 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,56,-3,6,1,2.0,0.0,h
+S2223-G0500,3,10:28,MIA,,MIN,,C. Martin,MIA,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0500,3,07:51,MIA,,MIN,,C. Martin,MIA,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0500,3,06:21,MIA,76.0,MIN,65.0,C. Martin,MIA,Martin 3' Driving Reverse Layup (7 PTS) (Lowry 8 AST),Made Shot,Driving Reverse Layup Shot,-26,17,3,1,2.0,2.0,h
+S2223-G0500,3,06:21,MIA,77.0,MIN,65.0,C. Martin,MIA,Martin Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0500,3,04:37,MIA,,MIN,,C. Martin,MIA,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-86,254,27,1,3.0,0.0,h
+S2223-G0500,3,02:52,MIA,,MIN,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0500,4,03:14,MIA,,MIN,,C. Martin,MIA,Martin REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0500,4,03:14,MIA,,MIN,,C. Martin,MIA,MISS Martin Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0500,4,02:30,MIA,,MIN,,C. Martin,MIA,MISS Martin 3' Running Dunk,Missed Shot,Running Dunk Shot,-2,32,3,1,2.0,0.0,h
+S2223-G0500,4,02:24,MIA,,MIN,,C. Martin,MIA,Martin REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0500,4,00:55.700000,MIA,,MIN,,C. Martin,MIA,Martin REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0500,4,00:03.900000,MIA,,MIN,,C. Martin,MIA,MISS Martin 29' 3PT Jump Shot,Missed Shot,Jump Shot,-143,248,29,1,3.0,0.0,h
+S2223-G0150,1,09:36,MIA,,POR,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,238,78,25,1,3.0,0.0,h
+S2223-G0150,1,07:37,MIA,,POR,,C. Martin,MIA,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0150,1,07:37,MIA,12.0,POR,10.0,C. Martin,MIA,Martin Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0150,1,06:00,MIA,,POR,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,66,253,26,1,3.0,0.0,h
+S2223-G0150,1,03:13,MIA,,POR,,C. Martin,MIA,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,-23,24,1,3.0,0.0,h
+S2223-G0150,1,00:39.700000,MIA,,POR,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0150,2,05:37,MIA,,POR,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0150,2,04:10,MIA,,POR,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0150,2,03:44,MIA,,POR,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0150,2,00:55.100000,MIA,,POR,,C. Martin,MIA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0150,2,00:01.400000,MIA,,POR,,C. Martin,MIA,SUB: Robinson FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0150,3,11:19,MIA,62.0,POR,55.0,C. Martin,MIA,Martin 23' Jump Shot (4 PTS) (Lowry 4 AST),Made Shot,Jump Shot,-68,223,23,1,2.0,2.0,h
+S2223-G0150,3,09:59,MIA,67.0,POR,55.0,C. Martin,MIA,Martin 20' Jump Shot (6 PTS) (Butler 6 AST),Made Shot,Jump Shot,-197,-2,20,1,2.0,2.0,h
+S2223-G0150,3,09:15,MIA,69.0,POR,55.0,C. Martin,MIA,Martin 2' Driving Dunk (8 PTS),Made Shot,Driving Dunk Shot,-15,7,2,1,2.0,2.0,h
+S2223-G0150,3,06:48,MIA,75.0,POR,60.0,C. Martin,MIA,Martin 1' Running Layup (10 PTS) (Butler 7 AST),Made Shot,Running Layup Shot,7,12,1,1,2.0,2.0,h
+S2223-G0150,3,06:24,MIA,,POR,,C. Martin,MIA,MISS Martin 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,238,-20,24,1,3.0,0.0,h
+S2223-G0150,3,04:33,MIA,,POR,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,156,194,25,1,3.0,0.0,h
+S2223-G0150,3,01:32,MIA,,POR,,C. Martin,MIA,Martin REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0150,4,04:08,MIA,,POR,,C. Martin,MIA,MISS Martin 17' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-75,157,17,1,2.0,0.0,h
+S2223-G0150,4,03:15,MIA,,POR,,C. Martin,MIA,SUB: Vincent FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0150,4,00:14,MIA,,POR,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0150,4,00:08.500000,MIA,,POR,,C. Martin,MIA,SUB: Robinson FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0598,1,03:56,IND,,CHA,,C. Martin,CHA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0598,1,03:08,IND,,CHA,,C. Martin,CHA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0598,1,02:55,IND,,CHA,,C. Martin,CHA,MISS Martin 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,92,167,19,1,2.0,0.0,v
+S2223-G0598,1,02:34,IND,,CHA,,C. Martin,CHA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0598,1,00:34.100000,IND,,CHA,,C. Martin,CHA,MISS Martin 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,108,50,12,1,2.0,0.0,v
+S2223-G0598,2,08:59,IND,,CHA,,C. Martin,CHA,MISS Martin 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-23,0,2,1,2.0,0.0,v
+S2223-G0598,2,08:48,IND,,CHA,,C. Martin,CHA,SUB: Smith Jr. FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0598,2,04:20,IND,,CHA,,C. Martin,CHA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-222,27,0,1,3.0,0.0,v
+S2223-G0598,2,02:54,IND,,CHA,,C. Martin,CHA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0598,2,01:13,IND,,CHA,,C. Martin,CHA,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0598,3,04:21,IND,,CHA,,C. Martin,CHA,MISS Martin 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-115,120,17,1,2.0,0.0,v
+S2223-G0598,3,00:46,IND,,CHA,,C. Martin,CHA,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0598,4,10:57,IND,,CHA,,C. Martin,CHA,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0598,4,08:50,IND,,CHA,,C. Martin,CHA,Martin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0598,4,08:50,IND,,CHA,,C. Martin,CHA,SUB: Plumlee FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0598,4,04:57,IND,90.0,CHA,96.0,C. Martin,CHA,Martin 3PT Jump Shot (3 PTS) (Rozier 5 AST),Made Shot,Jump Shot,224,10,0,1,3.0,3.0,v
+S2223-G0598,4,00:53.300000,IND,,CHA,,C. Martin,CHA,SUB: McDaniels FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0936,1,00:49.200000,MIA,,PHI,,C. Martin,MIA,Martin Violation:Kicked Ball (J.DeRosa),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0936,1,00:26.800000,MIA,,PHI,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0936,2,11:39,MIA,,PHI,,C. Martin,MIA,MISS Martin 5' Floating Jump Shot,Missed Shot,Floating Jump shot,-50,8,5,1,2.0,0.0,h
+S2223-G0936,2,08:18,MIA,,PHI,,C. Martin,MIA,Martin Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0936,2,03:28,MIA,,PHI,,C. Martin,MIA,SUB: Herro FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0936,4,10:48,MIA,,PHI,,C. Martin,MIA,MISS Martin 3PT Running Jump Shot,Missed Shot,Running Jump Shot,232,-13,0,1,3.0,0.0,h
+S2223-G0936,4,08:47,MIA,83.0,PHI,102.0,C. Martin,MIA,Martin 26' 3PT Jump Shot (3 PTS) (Strus 2 AST),Made Shot,Jump Shot,60,254,26,1,3.0,3.0,h
+S2223-G0936,4,07:14,MIA,86.0,PHI,106.0,C. Martin,MIA,Martin 3PT Jump Shot (6 PTS) (Herro 6 AST),Made Shot,Jump Shot,-233,15,0,1,3.0,3.0,h
+S2223-G0936,4,07:08,MIA,,PHI,,C. Martin,MIA,Martin P.FOUL (P1.T2) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2223-G0936,4,03:35,MIA,,PHI,,C. Martin,MIA,MISS Martin 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-36,12,4,1,2.0,0.0,h
+S2223-G0936,4,00:26.900000,MIA,,PHI,,C. Martin,MIA,MISS Martin 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,83,242,26,1,3.0,0.0,h
+S2223-G0936,4,00:00.200000,MIA,,PHI,,C. Martin,MIA,MISS Martin 60' 3PT Jump Shot,Missed Shot,Jump Shot,138,583,60,1,3.0,0.0,h
+S2223-G0920,1,01:11,PHI,20.0,MIA,25.0,C. Martin,MIA,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0920,1,01:11,PHI,20.0,MIA,26.0,C. Martin,MIA,Martin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0920,2,03:10,PHI,40.0,MIA,50.0,C. Martin,MIA,Martin 1' Running Dunk (4 PTS) (Love 2 AST),Made Shot,Running Dunk Shot,2,13,1,1,2.0,2.0,v
+S2223-G0920,2,00:30.200000,PHI,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0920,4,11:24,PHI,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0920,4,10:08,PHI,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0920,4,08:55,PHI,83.0,MIA,91.0,C. Martin,MIA,Martin Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0920,4,08:55,PHI,83.0,MIA,92.0,C. Martin,MIA,Martin Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0920,4,08:04,PHI,,MIA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0920,4,04:37,PHI,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0920,4,02:33,PHI,,MIA,,C. Martin,MIA,MISS Martin 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-25,124,13,1,2.0,0.0,v
+S2223-G0189,1,08:39,MIA,,CHA,,C. Martin,MIA,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-134,230,27,1,3.0,0.0,h
+S2223-G0189,1,06:58,MIA,,CHA,,C. Martin,MIA,Martin P.FOUL (P1.T1) (B.Adair),Foul,Personal,0,0,0,0,,,h
+S2223-G0189,1,04:13,MIA,,CHA,,C. Martin,MIA,SUB: Dedmon FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0189,1,01:30,MIA,,CHA,,C. Martin,MIA,MISS Martin 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,42,89,10,1,2.0,0.0,h
+S2223-G0189,1,00:05.900000,MIA,,CHA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0189,1,00:03.300000,MIA,,CHA,,C. Martin,MIA,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0189,1,00:03.300000,MIA,34.0,CHA,31.0,C. Martin,MIA,Martin Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0189,2,10:32,MIA,,CHA,,C. Martin,MIA,MISS Martin 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,183,6,18,1,2.0,0.0,h
+S2223-G0189,2,06:19,MIA,,CHA,,C. Martin,MIA,Martin P.FOUL (P2.T2) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2223-G0189,2,06:11,MIA,,CHA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0189,2,04:39,MIA,50.0,CHA,41.0,C. Martin,MIA,Martin Running Dunk (3 PTS),Made Shot,Running Dunk Shot,4,1,0,1,2.0,2.0,h
+S2223-G0189,2,04:39,MIA,,CHA,,C. Martin,MIA,MISS Martin Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0189,2,04:26,MIA,,CHA,,C. Martin,MIA,Martin S.FOUL (P3.PN) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0189,2,04:26,MIA,,CHA,,C. Martin,MIA,SUB: Vincent FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0189,3,10:42,MIA,64.0,CHA,61.0,C. Martin,MIA,Martin 5' Running Layup (5 PTS) (Butler 5 AST),Made Shot,Running Layup Shot,-43,23,5,1,2.0,2.0,h
+S2223-G0189,3,10:30,MIA,,CHA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0189,3,10:15,MIA,66.0,CHA,62.0,C. Martin,MIA,Martin 21' Jump Shot (7 PTS) (Adebayo 3 AST),Made Shot,Jump Shot,-207,20,21,1,2.0,2.0,h
+S2223-G0189,3,04:21,MIA,,CHA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0189,3,02:33,MIA,,CHA,,C. Martin,MIA,Martin Step Out of Bounds Turnover (P1.T8),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0189,3,01:43,MIA,,CHA,,C. Martin,MIA,Martin Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0189,3,01:36,MIA,,CHA,,C. Martin,MIA,SUB: Butler FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0189,4,03:19,MIA,,CHA,,C. Martin,MIA,MISS Martin 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,15,-1,2,1,2.0,0.0,h
+S2223-G0189,4,03:16,MIA,,CHA,,C. Martin,MIA,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0189,4,01:55,MIA,,CHA,,C. Martin,MIA,MISS Martin 3' Running Dunk,Missed Shot,Running Dunk Shot,23,10,3,1,2.0,0.0,h
+S2223-G0189,4,01:39,MIA,,CHA,,C. Martin,MIA,SUB: Robinson FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G0424,1,10:53,HOU,4.0,MIA,2.0,C. Martin,MIA,Martin 15' Pullup Jump Shot (2 PTS) (Butler 1 AST),Made Shot,Pullup Jump shot,-148,40,15,1,2.0,2.0,v
+S2223-G0424,1,09:51,HOU,4.0,MIA,4.0,C. Martin,MIA,Martin 20' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,91,176,20,1,2.0,2.0,v
+S2223-G0424,1,09:39,HOU,,MIA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0424,1,09:35,HOU,,MIA,,C. Martin,MIA,Martin Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0424,1,05:18,HOU,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0424,1,00:56.700000,HOU,,MIA,,C. Martin,MIA,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-181,177,25,1,3.0,0.0,v
+S2223-G0424,2,09:56,HOU,34.0,MIA,31.0,C. Martin,MIA,Martin 23' Pullup Jump Shot (6 PTS) (Highsmith 2 AST),Made Shot,Pullup Jump shot,29,230,23,1,2.0,2.0,v
+S2223-G0424,2,09:04,HOU,,MIA,,C. Martin,MIA,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-224,19,0,1,3.0,0.0,v
+S2223-G0424,2,07:44,HOU,36.0,MIA,38.0,C. Martin,MIA,Martin 5' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,0,52,5,1,2.0,2.0,v
+S2223-G0424,2,07:44,HOU,36.0,MIA,39.0,C. Martin,MIA,Martin Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0424,2,06:07,HOU,,MIA,,C. Martin,MIA,SUB: Strus FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0424,3,10:24,HOU,,MIA,,C. Martin,MIA,MISS Martin 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-174,197,26,1,3.0,0.0,v
+S2223-G0424,3,08:26,HOU,,MIA,,C. Martin,MIA,Martin S.FOUL (P1.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0424,3,07:07,HOU,67.0,MIA,80.0,C. Martin,MIA,Martin 3' Driving Floating Bank Jump Shot (11 PTS),Made Shot,Driving Floating Bank Jump Shot,-26,4,3,1,2.0,2.0,v
+S2223-G0424,3,05:33,HOU,,MIA,,C. Martin,MIA,Martin Violation:Defensive Goaltending (D.Taylor),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0424,3,04:08,HOU,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G0424,4,10:08,HOU,89.0,MIA,93.0,C. Martin,MIA,Martin Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0424,4,10:08,HOU,89.0,MIA,94.0,C. Martin,MIA,Martin Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0424,4,09:00,HOU,,MIA,,C. Martin,MIA,MISS Martin 5' Layup,Missed Shot,Layup Shot,43,15,5,1,2.0,0.0,v
+S2223-G0424,4,08:53,HOU,,MIA,,C. Martin,MIA,Martin P.FOUL (P2.T2) (C.Flores),Foul,Personal,0,0,0,0,,,v
+S2223-G0424,4,08:23,HOU,,MIA,,C. Martin,MIA,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0424,4,04:15,HOU,,MIA,,C. Martin,MIA,Martin Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0424,4,03:58,HOU,,MIA,,C. Martin,MIA,SUB: Highsmith FOR Martin,Substitution,,0,0,0,0,,,v
+S2223-G1022,1,01:05,MIA,,UTA,,C. Martin,MIA,Martin Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1022,1,00:44.900000,MIA,33.0,UTA,23.0,C. Martin,MIA,Martin 4' Cutting Dunk Shot (2 PTS) (Lowry 2 AST),Made Shot,Cutting Dunk Shot,26,27,4,1,2.0,2.0,h
+S2223-G1022,1,00:39.300000,MIA,,UTA,,C. Martin,MIA,Martin S.FOUL (P1.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1022,1,00:13.800000,MIA,,UTA,,C. Martin,MIA,Martin Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1022,2,09:25,MIA,38.0,UTA,34.0,C. Martin,MIA,Martin 4' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,16,33,4,1,2.0,2.0,h
+S2223-G1022,2,07:44,MIA,,UTA,,C. Martin,MIA,Martin S.FOUL (P2.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G1022,2,06:09,MIA,,UTA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1022,2,06:04,MIA,42.0,UTA,47.0,C. Martin,MIA,Martin Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1022,2,06:04,MIA,43.0,UTA,47.0,C. Martin,MIA,Martin Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1022,2,04:32,MIA,,UTA,,C. Martin,MIA,MISS Martin 28' 3PT Jump Shot,Missed Shot,Jump Shot,-146,235,28,1,3.0,0.0,h
+S2223-G1022,2,04:29,MIA,,UTA,,C. Martin,MIA,SUB: Love FOR Martin,Substitution,,0,0,0,0,,,h
+S2223-G1022,3,03:40,MIA,,UTA,,C. Martin,MIA,MISS Martin 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,6,56,6,1,2.0,0.0,h
+S2223-G1022,3,01:27,MIA,,UTA,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1022,4,10:58,MIA,94.0,UTA,93.0,C. Martin,MIA,Martin 4' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,-28,22,4,1,2.0,2.0,h
+S2223-G1022,4,09:14,MIA,,UTA,,C. Martin,MIA,MISS Martin 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-26,31,4,1,2.0,0.0,h
+S2223-G1022,4,06:31,MIA,109.0,UTA,104.0,C. Martin,MIA,Martin 5' Driving Finger Roll Layup (10 PTS) (Herro 2 AST),Made Shot,Driving Finger Roll Layup Shot,-27,46,5,1,2.0,2.0,h
+S2223-G1022,4,02:50,MIA,,UTA,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1022,4,02:17,MIA,,UTA,,C. Martin,MIA,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1022,4,02:13,MIA,,UTA,,C. Martin,MIA,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1219,1,00:46.200000,MIA,,ORL,,C. Martin,MIA,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1219,2,10:28,MIA,,ORL,,C. Martin,MIA,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1219,2,09:02,MIA,,ORL,,C. Martin,MIA,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,190,172,26,1,3.0,0.0,h
+S2223-G1219,2,08:44,MIA,30.0,ORL,34.0,C. Martin,MIA,Martin 20' Pullup Jump Shot (2 PTS) (Lowry 1 AST),Made Shot,Pullup Jump shot,136,144,20,1,2.0,2.0,h
+S2223-G1219,2,06:29,MIA,,ORL,,C. Martin,MIA,Martin STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1219,2,06:27,MIA,,ORL,,C. Martin,MIA,Martin Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1219,2,03:24,MIA,,ORL,,C. Martin,MIA,SUB: Haslem FOR Martin,Substitution,,0,0,0,0,,,h

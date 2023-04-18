@@ -1,0 +1,485 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0935,1,00:02.200000,BOS,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0935,2,10:25,BOS,28.0,CLE,31.0,R. Rubio,CLE,Rubio 27' 3PT Jump Shot (3 PTS) (LeVert 2 AST),Made Shot,Jump Shot,-210,173,27,1,3.0,3.0,v
+S2223-G0935,2,10:13,BOS,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0935,2,08:45,BOS,,CLE,,R. Rubio,CLE,SUB: Mitchell FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0935,3,00:49.700000,BOS,93.0,CLE,76.0,R. Rubio,CLE,Rubio Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0935,3,00:49.700000,BOS,,CLE,,R. Rubio,CLE,MISS Rubio Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0935,3,00:27.200000,BOS,,CLE,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0779,1,04:02,CLE,,MEM,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0779,1,03:06,CLE,,MEM,,R. Rubio,CLE,Rubio BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0779,1,01:58,CLE,,MEM,,R. Rubio,CLE,MISS Rubio 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,122,12,1,2.0,0.0,h
+S2223-G0779,1,01:29,CLE,,MEM,,R. Rubio,CLE,Rubio S.FOUL (P1.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0779,1,00:47.100000,CLE,,MEM,,R. Rubio,CLE,MISS Rubio 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,194,182,27,1,3.0,0.0,h
+S2223-G0779,1,00:14.500000,CLE,,MEM,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0779,2,08:55,CLE,,MEM,,R. Rubio,CLE,Rubio Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0779,2,08:52,CLE,,MEM,,R. Rubio,CLE,Rubio STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0779,2,08:37,CLE,,MEM,,R. Rubio,CLE,SUB: Stevens FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0779,3,04:39,CLE,,MEM,,R. Rubio,CLE,Rubio Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0779,3,02:56,CLE,,MEM,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0779,3,02:56,CLE,91.0,MEM,85.0,R. Rubio,CLE,Rubio Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0779,3,02:56,CLE,92.0,MEM,85.0,R. Rubio,CLE,Rubio Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0779,3,01:36,CLE,,MEM,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0779,3,01:33,CLE,,MEM,,R. Rubio,CLE,MISS Rubio 2' Running Layup,Missed Shot,Running Layup Shot,13,11,2,1,2.0,0.0,h
+S2223-G0779,3,01:06,CLE,,MEM,,R. Rubio,CLE,MISS Rubio 26' 3PT Jump Shot,Missed Shot,Jump Shot,-188,185,26,1,3.0,0.0,h
+S2223-G0779,3,00:11,CLE,,MEM,,R. Rubio,CLE,SUB: Stevens FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0779,4,07:49,CLE,111.0,MEM,93.0,R. Rubio,CLE,Rubio 3PT Running Pull-Up Jump Shot (5 PTS) (Okoro 2 AST),Made Shot,Running Pull-Up Jump Shot,-234,17,0,1,3.0,3.0,h
+S2223-G0779,4,06:35,CLE,115.0,MEM,98.0,R. Rubio,CLE,Rubio 10' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,97,26,10,1,2.0,2.0,h
+S2223-G0779,4,06:13,CLE,118.0,MEM,98.0,R. Rubio,CLE,Rubio 26' 3PT Jump Shot (10 PTS) (Osman 4 AST),Made Shot,Jump Shot,-229,123,26,1,3.0,3.0,h
+S2223-G0779,4,04:43,CLE,124.0,MEM,102.0,R. Rubio,CLE,Rubio 28' 3PT Jump Shot (13 PTS) (Mobley 5 AST),Made Shot,Jump Shot,-123,254,28,1,3.0,3.0,h
+S2223-G0779,4,04:03,CLE,,MEM,,R. Rubio,CLE,MISS Rubio 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-140,290,32,1,3.0,0.0,h
+S2223-G0779,4,03:33,CLE,,MEM,,R. Rubio,CLE,SUB: Garland FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0914,1,01:41,CLE,,TOR,,R. Rubio,CLE,Rubio P.FOUL (P1.T3) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2223-G0914,1,01:21,CLE,,TOR,,R. Rubio,CLE,Jump Ball Rubio vs. Boucher: Tip to Dowtin Jr.,Jump Ball,,0,0,0,0,,,h
+S2223-G0914,1,00:49.700000,CLE,,TOR,,R. Rubio,CLE,Rubio P.FOUL (P2.PN) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2223-G0914,2,11:32,CLE,,TOR,,R. Rubio,CLE,MISS Rubio 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,11,11,2,1,2.0,0.0,h
+S2223-G0914,2,10:53,CLE,,TOR,,R. Rubio,CLE,Rubio Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0914,2,10:53,CLE,,TOR,,R. Rubio,CLE,Rubio L.B.FOUL (P3.T1) (D.Collins),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0914,2,09:25,CLE,,TOR,,R. Rubio,CLE,MISS Rubio 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-49,50,7,1,2.0,0.0,h
+S2223-G0914,2,09:25,CLE,,TOR,,R. Rubio,CLE,SUB: Garland FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0914,2,05:05,CLE,,TOR,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0914,3,02:34,CLE,,TOR,,R. Rubio,CLE,MISS Rubio 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,29,24,1,3.0,0.0,h
+S2223-G0914,3,01:54,CLE,,TOR,,R. Rubio,CLE,MISS Rubio 3PT Jump Shot,Missed Shot,Jump Shot,-229,14,0,1,3.0,0.0,h
+S2223-G0914,3,01:39,CLE,,TOR,,R. Rubio,CLE,MISS Rubio 15' Jump Shot,Missed Shot,Jump Shot,-125,79,15,1,2.0,0.0,h
+S2223-G0914,3,00:31.900000,CLE,,TOR,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0914,3,00:17.400000,CLE,,TOR,,R. Rubio,CLE,Rubio Traveling Turnover (P2.T10),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0914,4,08:49,CLE,,TOR,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0914,4,05:46,CLE,,TOR,,R. Rubio,CLE,Rubio P.FOUL (P4.T3) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2223-G0914,4,04:42,CLE,,TOR,,R. Rubio,CLE,SUB: Lopez FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G1094,2,06:07,BKN,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P1.T4) (E.Lewis),Foul,Personal,0,0,0,0,,,v
+S2223-G1094,2,04:06,BKN,,CLE,,R. Rubio,CLE,SUB: Garland FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1094,3,03:52,BKN,,CLE,,R. Rubio,CLE,Lane,Violation,Lane,0,0,0,0,,,v
+S2223-G1094,3,00:26.500000,BKN,,CLE,,R. Rubio,CLE,Rubio S.FOUL (P2.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G1094,4,07:10,BKN,,CLE,,R. Rubio,CLE,MISS Rubio 25' 3PT Jump Shot,Missed Shot,Jump Shot,-184,169,25,1,3.0,0.0,v
+S2223-G1094,4,06:44,BKN,,CLE,,R. Rubio,CLE,SUB: Mitchell FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0754,1,02:46,CLE,,LAC,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0754,1,00:18.700000,CLE,,LAC,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0754,2,08:36,CLE,,LAC,,R. Rubio,CLE,SUB: Allen FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0754,2,03:20,CLE,57.0,LAC,27.0,R. Rubio,CLE,Rubio 24' 3PT Step Back Jump Shot (3 PTS) (Garland 5 AST),Made Shot,Step Back Jump shot,232,42,24,1,3.0,3.0,h
+S2223-G0754,2,02:37,CLE,,LAC,,R. Rubio,CLE,MISS Rubio 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,227,24,0,1,3.0,0.0,h
+S2223-G0754,3,02:53,CLE,,LAC,,R. Rubio,CLE,MISS Rubio 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-81,106,13,1,2.0,0.0,h
+S2223-G0754,3,01:19,CLE,,LAC,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0754,3,01:00,CLE,,LAC,,R. Rubio,CLE,Rubio S.FOUL (P1.PN) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0754,3,00:17.100000,CLE,,LAC,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0754,3,00:05.100000,CLE,,LAC,,R. Rubio,CLE,MISS Rubio 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-47,184,19,1,2.0,0.0,h
+S2223-G0754,4,09:46,CLE,,LAC,,R. Rubio,CLE,MISS Rubio 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-232,136,27,1,3.0,0.0,h
+S2223-G0754,4,08:07,CLE,,LAC,,R. Rubio,CLE,SUB: Neto FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G1000,1,00:06.200000,MIA,,CLE,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1000,2,10:56,MIA,,CLE,,R. Rubio,CLE,MISS Rubio 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,151,201,25,1,3.0,0.0,v
+S2223-G1000,2,07:50,MIA,,CLE,,R. Rubio,CLE,Rubio Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1000,2,07:38,MIA,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P1.T2) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G1000,2,06:28,MIA,,CLE,,R. Rubio,CLE,SUB: LeVert FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1000,3,04:18,MIA,67.0,CLE,81.0,R. Rubio,CLE,Rubio 3PT Jump Shot (3 PTS) (Mitchell 4 AST),Made Shot,Jump Shot,-234,-12,0,1,3.0,3.0,v
+S2223-G1000,3,04:15,MIA,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P2.T2) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G1000,3,03:57,MIA,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1000,3,03:44,MIA,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1000,3,03:43,MIA,,CLE,,R. Rubio,CLE,Rubio Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1000,3,02:38,MIA,,CLE,,R. Rubio,CLE,MISS Rubio 27' 3PT Jump Shot,Missed Shot,Jump Shot,-202,177,27,1,3.0,0.0,v
+S2223-G1000,3,02:27,MIA,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P3.T3) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G1000,3,00:41.800000,MIA,80.0,CLE,89.0,R. Rubio,CLE,Rubio 15' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,-100,106,15,1,2.0,2.0,v
+S2223-G1000,3,00:17.100000,MIA,,CLE,,R. Rubio,CLE,MISS Rubio 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-42,253,26,1,3.0,0.0,v
+S2223-G1000,4,09:53,MIA,,CLE,,R. Rubio,CLE,Rubio Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1000,4,09:34,MIA,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1000,4,09:29,MIA,,CLE,,R. Rubio,CLE,MISS Rubio 26' 3PT Jump Shot,Missed Shot,Jump Shot,199,173,26,1,3.0,0.0,v
+S2223-G1000,4,06:56,MIA,,CLE,,R. Rubio,CLE,SUB: Mobley FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1000,4,03:53,MIA,,CLE,,R. Rubio,CLE,MISS Rubio 25' 3PT Jump Shot,Missed Shot,Jump Shot,-217,123,25,1,3.0,0.0,v
+S2223-G1000,4,03:03,MIA,107.0,CLE,104.0,R. Rubio,CLE,Rubio 24' 3PT Jump Shot (8 PTS) (LeVert 4 AST),Made Shot,Jump Shot,-239,31,24,1,3.0,3.0,v
+S2223-G1000,4,00:26.400000,MIA,,CLE,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1000,4,00:10.300000,MIA,,CLE,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1000,4,00:05.600000,MIA,,CLE,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0715,1,03:28,NYK,,CLE,,R. Rubio,CLE,Rubio S.FOUL (P1.T3) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2223-G0715,1,02:32,NYK,,CLE,,R. Rubio,CLE,MISS Rubio 3PT Jump Shot,Missed Shot,Jump Shot,-232,-4,0,1,3.0,0.0,v
+S2223-G0715,1,01:52,NYK,29.0,CLE,27.0,R. Rubio,CLE,Rubio 3PT Jump Shot (3 PTS) (LeVert 1 AST),Made Shot,Jump Shot,230,3,0,1,3.0,3.0,v
+S2223-G0715,1,01:33,NYK,,CLE,,R. Rubio,CLE,MISS Rubio 25' 3PT Jump Shot,Missed Shot,Jump Shot,-229,104,25,1,3.0,0.0,v
+S2223-G0715,1,00:36.300000,NYK,,CLE,,R. Rubio,CLE,MISS Rubio 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,11,24,3,1,2.0,0.0,v
+S2223-G0715,1,00:06.100000,NYK,,CLE,,R. Rubio,CLE,SUB: Mitchell FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0715,2,11:17,NYK,,CLE,,R. Rubio,CLE,Rubio S.FOUL (P2.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0715,2,09:57,NYK,,CLE,,R. Rubio,CLE,Rubio Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0715,2,09:11,NYK,,CLE,,R. Rubio,CLE,SUB: Mitchell FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0715,3,03:32,NYK,,CLE,,R. Rubio,CLE,Rubio Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0715,3,02:21,NYK,,CLE,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0715,4,09:56,NYK,,CLE,,R. Rubio,CLE,SUB: Mitchell FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1173,1,05:00,CLE,,IND,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1173,2,10:51,CLE,,IND,,R. Rubio,CLE,Rubio Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1173,2,10:48,CLE,,IND,,R. Rubio,CLE,Rubio S.FOUL (P1.T1) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G1173,2,10:14,CLE,,IND,,R. Rubio,CLE,Rubio S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G1173,2,09:39,CLE,,IND,,R. Rubio,CLE,SUB: E. Mobley FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G1173,3,01:57,CLE,,IND,,R. Rubio,CLE,MISS Rubio 4' Driving Layup,Missed Shot,Driving Layup Shot,-12,42,4,1,2.0,0.0,h
+S2223-G1173,3,00:16.300000,CLE,,IND,,R. Rubio,CLE,SUB: Stevens FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G1173,4,10:07,CLE,,IND,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1173,4,08:39,CLE,,IND,,R. Rubio,CLE,SUB: Mitchell FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0631,1,01:34,POR,,CLE,,R. Rubio,CLE,MISS Rubio 25' 3PT Jump Shot,Missed Shot,Jump Shot,-165,193,25,1,3.0,0.0,v
+S2223-G0631,1,00:43.200000,POR,,CLE,,R. Rubio,CLE,MISS Rubio Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0631,1,00:43.200000,POR,28.0,CLE,25.0,R. Rubio,CLE,Rubio Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0631,1,00:00,POR,,CLE,,R. Rubio,CLE,MISS Rubio 51' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,181,478,51,1,3.0,0.0,v
+S2223-G0631,2,06:16,POR,46.0,CLE,35.0,R. Rubio,CLE,Rubio 2' Driving Finger Roll Layup (3 PTS) (Mitchell 3 AST),Made Shot,Driving Finger Roll Layup Shot,-18,4,2,1,2.0,2.0,v
+S2223-G0631,2,05:23,POR,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0631,2,04:44,POR,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0631,2,04:33,POR,,CLE,,R. Rubio,CLE,SUB: Garland FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0631,3,06:41,POR,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0631,3,06:34,POR,74.0,CLE,70.0,R. Rubio,CLE,Rubio 3PT Jump Shot (6 PTS) (LeVert 2 AST),Made Shot,Jump Shot,-229,20,0,1,3.0,3.0,v
+S2223-G0631,3,03:53,POR,82.0,CLE,77.0,R. Rubio,CLE,Rubio 3PT Jump Shot (9 PTS) (Garland 8 AST),Made Shot,Jump Shot,227,20,0,1,3.0,3.0,v
+S2223-G0631,3,03:14,POR,,CLE,,R. Rubio,CLE,SUB: Allen FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0987,1,03:18,MIA,19.0,CLE,22.0,R. Rubio,CLE,Rubio 26' 3PT Jump Shot (3 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,-185,188,26,1,3.0,3.0,v
+S2223-G0987,1,02:59,MIA,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P1.PN) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2223-G0987,1,02:08,MIA,,CLE,,R. Rubio,CLE,MISS Rubio 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-86,64,11,1,2.0,0.0,v
+S2223-G0987,1,00:05.400000,MIA,,CLE,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0987,2,08:30,MIA,37.0,CLE,35.0,R. Rubio,CLE,Rubio 13' Driving Floating Bank Jump Shot (5 PTS) (Mobley 4 AST),Made Shot,Driving Floating Bank Jump Shot,-85,104,13,1,2.0,2.0,v
+S2223-G0987,2,06:51,MIA,,CLE,,R. Rubio,CLE,MISS Rubio 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,97,18,10,1,2.0,0.0,v
+S2223-G0987,2,05:22,MIA,,CLE,,R. Rubio,CLE,SUB: Garland FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0987,3,03:24,MIA,,CLE,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0987,3,03:15,MIA,,CLE,,R. Rubio,CLE,MISS Rubio 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-44,88,10,1,2.0,0.0,v
+S2223-G0987,3,01:48,MIA,,CLE,,R. Rubio,CLE,Rubio Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0987,3,01:19,MIA,,CLE,,R. Rubio,CLE,Rubio STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0987,4,09:21,MIA,,CLE,,R. Rubio,CLE,MISS Rubio 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,104,153,19,1,2.0,0.0,v
+S2223-G0987,4,08:47,MIA,,CLE,,R. Rubio,CLE,MISS Rubio 3PT Jump Shot,Missed Shot,Jump Shot,-232,-2,0,1,3.0,0.0,v
+S2223-G0987,4,06:25,MIA,,CLE,,R. Rubio,CLE,Rubio S.FOUL (P2.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0987,4,05:16,MIA,,CLE,,R. Rubio,CLE,SUB: Mobley FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0987,4,00:22.300000,MIA,,CLE,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0987,4,00:20.100000,MIA,,CLE,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1154,2,10:36,CLE,,NYK,,R. Rubio,CLE,Rubio S.FOUL (P1.T2) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G1154,2,10:20,CLE,53.0,NYK,45.0,R. Rubio,CLE,Rubio 11' Fadeaway Bank Shot (2 PTS),Made Shot,Fadeaway Bank shot,-105,33,11,1,2.0,2.0,h
+S2223-G1154,2,06:25,CLE,,NYK,,R. Rubio,CLE,MISS Rubio 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,15,24,1,3.0,0.0,h
+S2223-G1154,2,06:11,CLE,,NYK,,R. Rubio,CLE,MISS Rubio 3PT Jump Shot,Missed Shot,Jump Shot,-229,46,0,1,3.0,0.0,h
+S2223-G1154,2,05:15,CLE,,NYK,,R. Rubio,CLE,Rubio S.FOUL (P2.T4) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1154,2,05:15,CLE,,NYK,,R. Rubio,CLE,SUB: Garland FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G1197,1,11:01,ORL,,CLE,,R. Rubio,CLE,MISS Rubio 15' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-80,122,15,1,2.0,0.0,v
+S2223-G1197,1,10:41,ORL,,CLE,,R. Rubio,CLE,MISS Rubio 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-222,12,0,1,3.0,0.0,v
+S2223-G1197,1,10:28,ORL,,CLE,,R. Rubio,CLE,MISS Rubio 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,-22,20,3,1,2.0,0.0,v
+S2223-G1197,1,09:09,ORL,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P1.T2) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2223-G1197,1,07:56,ORL,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P2.T3) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2223-G1197,1,07:56,ORL,,CLE,,R. Rubio,CLE,SUB: Neto FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1197,2,05:29,ORL,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1197,2,03:17,ORL,,CLE,,R. Rubio,CLE,MISS Rubio 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,28,13,3,1,2.0,0.0,v
+S2223-G1197,3,11:38,ORL,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1197,3,09:45,ORL,,CLE,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1197,3,07:57,ORL,60.0,CLE,80.0,R. Rubio,CLE,Rubio 25' 3PT Pullup Jump Shot (3 PTS) (Osman 3 AST),Made Shot,Pullup Jump shot,-108,226,25,1,3.0,3.0,v
+S2223-G1197,3,06:18,ORL,,CLE,,R. Rubio,CLE,MISS Rubio 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,116,30,12,1,2.0,0.0,v
+S2223-G1197,3,05:46,ORL,63.0,CLE,82.0,R. Rubio,CLE,Rubio 3' Driving Layup (5 PTS) (Osman 4 AST),Made Shot,Driving Layup Shot,-25,4,3,1,2.0,2.0,v
+S2223-G1197,3,05:27,ORL,,CLE,,R. Rubio,CLE,SUB: Neto FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1178,1,04:29,ORL,,CLE,,R. Rubio,CLE,MISS Rubio 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-227,39,0,1,3.0,0.0,v
+S2223-G1178,1,04:19,ORL,,CLE,,R. Rubio,CLE,MISS Rubio 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,33,24,1,3.0,0.0,v
+S2223-G1178,1,04:11,ORL,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P1.PN) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2223-G1178,1,02:38,ORL,,CLE,,R. Rubio,CLE,Rubio BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1178,1,01:03,ORL,,CLE,,R. Rubio,CLE,MISS Rubio 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-103,148,18,1,2.0,0.0,v
+S2223-G1178,2,09:57,ORL,,CLE,,R. Rubio,CLE,SUB: E. Mobley FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1178,3,02:43,ORL,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1178,3,02:40,ORL,,CLE,,R. Rubio,CLE,MISS Rubio 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,153,17,15,1,2.0,0.0,v
+S2223-G1178,3,02:09,ORL,83.0,CLE,89.0,R. Rubio,CLE,Rubio 3PT Jump Shot (3 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,-230,5,0,1,3.0,3.0,v
+S2223-G1178,3,01:33,ORL,,CLE,,R. Rubio,CLE,MISS Rubio 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-148,10,15,1,2.0,0.0,v
+S2223-G1027,1,03:19,CHA,,CLE,,R. Rubio,CLE,Rubio BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1027,1,02:42,CHA,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1027,1,02:41,CHA,,CLE,,R. Rubio,CLE,MISS Rubio 3' Running Layup,Missed Shot,Running Layup Shot,-25,24,3,1,2.0,0.0,v
+S2223-G1027,1,01:10,CHA,,CLE,,R. Rubio,CLE,MISS Rubio 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,4,30,3,1,2.0,0.0,v
+S2223-G1027,2,11:21,CHA,27.0,CLE,32.0,R. Rubio,CLE,Rubio 10' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,83,62,10,1,2.0,2.0,v
+S2223-G1027,2,11:06,CHA,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1027,2,10:37,CHA,,CLE,,R. Rubio,CLE,MISS Rubio 2' Driving Layup,Missed Shot,Driving Layup Shot,22,-2,2,1,2.0,0.0,v
+S2223-G1027,2,10:25,CHA,,CLE,,R. Rubio,CLE,Rubio S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G1027,2,09:51,CHA,,CLE,,R. Rubio,CLE,MISS Rubio 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,25,24,1,3.0,0.0,v
+S2223-G1027,2,08:42,CHA,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P2.T4) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2223-G1027,2,07:03,CHA,,CLE,,R. Rubio,CLE,SUB: Garland FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1027,3,02:57,CHA,,CLE,,R. Rubio,CLE,Rubio Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G1027,3,00:19.500000,CHA,,CLE,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1027,4,11:12,CHA,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P3.T1) (D.Mosher),Foul,Personal,0,0,0,0,,,v
+S2223-G1027,4,10:57,CHA,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1027,4,10:36,CHA,76.0,CLE,101.0,R. Rubio,CLE,Rubio 14' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,-124,74,14,1,2.0,2.0,v
+S2223-G1027,4,10:36,CHA,76.0,CLE,102.0,R. Rubio,CLE,Rubio Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1027,4,09:51,CHA,,CLE,,R. Rubio,CLE,MISS Rubio 3' Driving Layup,Missed Shot,Driving Layup Shot,23,12,3,1,2.0,0.0,v
+S2223-G1027,4,09:34,CHA,80.0,CLE,104.0,R. Rubio,CLE,Rubio 10' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,-104,11,10,1,2.0,2.0,v
+S2223-G1027,4,08:58,CHA,,CLE,,R. Rubio,CLE,Rubio Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1027,4,08:30,CHA,,CLE,,R. Rubio,CLE,Rubio Out of Bounds - Bad Pass Turnover Turnover (P3.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1027,4,08:11,CHA,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1027,4,07:20,CHA,,CLE,,R. Rubio,CLE,MISS Rubio 3PT Jump Shot,Missed Shot,Jump Shot,-229,16,0,1,3.0,0.0,v
+S2223-G1027,4,06:55,CHA,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1027,4,05:24,CHA,91.0,CLE,111.0,R. Rubio,CLE,Rubio 1' Driving Layup (9 PTS) (Neto 1 AST),Made Shot,Driving Layup Shot,-11,6,1,1,2.0,2.0,v
+S2223-G1027,4,04:07,CHA,95.0,CLE,116.0,R. Rubio,CLE,Rubio 11' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,-58,96,11,1,2.0,2.0,v
+S2223-G1027,4,04:07,CHA,,CLE,,R. Rubio,CLE,SUB: Merrill FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0764,2,11:44,CLE,,MIA,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0764,2,11:19,CLE,,MIA,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0764,2,11:02,CLE,28.0,MIA,24.0,R. Rubio,CLE,Rubio 11' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,-104,27,11,1,2.0,2.0,h
+S2223-G0764,2,09:54,CLE,,MIA,,R. Rubio,CLE,SUB: Garland FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0764,2,00:39.300000,CLE,52.0,MIA,54.0,R. Rubio,CLE,Rubio 3PT Running Jump Shot (5 PTS) (Mobley 2 AST),Made Shot,Running Jump Shot,-234,13,0,1,3.0,3.0,h
+S2223-G0764,2,00:06,CLE,,MIA,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0764,3,03:22,CLE,,MIA,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0764,3,03:17,CLE,,MIA,,R. Rubio,CLE,Rubio Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0764,3,02:39,CLE,,MIA,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0764,3,02:14,CLE,,MIA,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0764,3,00:57.400000,CLE,76.0,MIA,77.0,R. Rubio,CLE,Rubio 25' 3PT Running Jump Shot (8 PTS) (Wade 2 AST),Made Shot,Running Jump Shot,244,37,25,1,3.0,3.0,h
+S2223-G0764,3,00:21.700000,CLE,,MIA,,R. Rubio,CLE,MISS Rubio 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,60,24,1,3.0,0.0,h
+S2223-G0764,3,00:04,CLE,,MIA,,R. Rubio,CLE,Rubio S.FOUL (P1.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0764,4,10:42,CLE,,MIA,,R. Rubio,CLE,MISS Rubio Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0764,4,10:42,CLE,,MIA,,R. Rubio,CLE,MISS Rubio Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0764,4,10:29,CLE,,MIA,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0764,4,09:53,CLE,,MIA,,R. Rubio,CLE,MISS Rubio 26' 3PT Jump Shot,Missed Shot,Jump Shot,70,247,26,1,3.0,0.0,h
+S2223-G0764,4,09:12,CLE,,MIA,,R. Rubio,CLE,MISS Rubio 3' Driving Layup,Missed Shot,Driving Layup Shot,-13,22,3,1,2.0,0.0,h
+S2223-G0764,4,07:38,CLE,,MIA,,R. Rubio,CLE,SUB: Allen FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0733,1,04:12,HOU,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0733,1,03:56,HOU,,CLE,,R. Rubio,CLE,MISS Rubio 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,118,129,17,1,2.0,0.0,v
+S2223-G0733,1,01:46,HOU,22.0,CLE,31.0,R. Rubio,CLE,Rubio 11' Pullup Jump Shot (2 PTS) (Mobley 2 AST),Made Shot,Pullup Jump shot,-114,4,11,1,2.0,2.0,v
+S2223-G0733,1,01:44,HOU,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P1.PN) (L.Wood),Foul,Personal,0,0,0,0,,,v
+S2223-G0733,1,01:34,HOU,,CLE,,R. Rubio,CLE,MISS Rubio 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,43,50,7,1,2.0,0.0,v
+S2223-G0733,2,05:21,HOU,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0733,2,04:40,HOU,,CLE,,R. Rubio,CLE,Rubio S.FOUL (P2.T3) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0733,2,04:22,HOU,38.0,CLE,59.0,R. Rubio,CLE,Rubio 26' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-150,209,26,1,3.0,3.0,v
+S2223-G0733,2,04:00,HOU,,CLE,,R. Rubio,CLE,SUB: Garland FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0733,3,06:01,HOU,,CLE,,R. Rubio,CLE,MISS Rubio 27' 3PT Jump Shot,Missed Shot,Jump Shot,37,264,27,1,3.0,0.0,v
+S2223-G0733,3,04:10,HOU,,CLE,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0733,3,03:19,HOU,,CLE,,R. Rubio,CLE,MISS Rubio 8' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-65,48,8,1,2.0,0.0,v
+S2223-G0733,3,01:19,HOU,,CLE,,R. Rubio,CLE,MISS Rubio 3' Driving Layup,Missed Shot,Driving Layup Shot,10,27,3,1,2.0,0.0,v
+S2223-G0733,4,05:35,HOU,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0733,4,04:00,HOU,,CLE,,R. Rubio,CLE,Rubio Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0733,4,03:29,HOU,,CLE,,R. Rubio,CLE,SUB: Diakite FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0695,1,03:28,CLE,,MIL,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0695,1,00:47.300000,CLE,,MIL,,R. Rubio,CLE,MISS Rubio 24' 3PT Jump Shot,Missed Shot,Jump Shot,-93,226,24,1,3.0,0.0,h
+S2223-G0695,1,00:29.500000,CLE,,MIL,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0695,1,00:11.600000,CLE,,MIL,,R. Rubio,CLE,MISS Rubio 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-110,37,12,1,2.0,0.0,h
+S2223-G0695,1,00:11.600000,CLE,,MIL,,R. Rubio,CLE,SUB: LeVert FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0695,2,03:02,CLE,48.0,MIL,42.0,R. Rubio,CLE,Rubio 10' Pullup Jump Shot (2 PTS) (Allen 1 AST),Made Shot,Pullup Jump shot,-97,16,10,1,2.0,2.0,h
+S2223-G0695,2,02:35,CLE,,MIL,,R. Rubio,CLE,MISS Rubio 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,55,148,16,1,2.0,0.0,h
+S2223-G0695,2,00:34.900000,CLE,,MIL,,R. Rubio,CLE,MISS Rubio 26' 3PT Jump Shot,Missed Shot,Jump Shot,-17,263,26,1,3.0,0.0,h
+S2223-G0695,2,00:15.800000,CLE,,MIL,,R. Rubio,CLE,SUB: Stevens FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0695,3,07:20,CLE,,MIL,,R. Rubio,CLE,Rubio S.FOUL (P1.T1) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0695,3,05:26,CLE,,MIL,,R. Rubio,CLE,MISS Rubio Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0695,3,05:26,CLE,70.0,MIL,64.0,R. Rubio,CLE,Rubio Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0695,3,05:10,CLE,,MIL,,R. Rubio,CLE,Rubio P.FOUL (P2.T3) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0695,3,04:36,CLE,,MIL,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0695,3,03:17,CLE,,MIL,,R. Rubio,CLE,Rubio Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0695,3,03:17,CLE,,MIL,,R. Rubio,CLE,SUB: Wade FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0695,4,09:49,CLE,,MIL,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0695,4,06:57,CLE,,MIL,,R. Rubio,CLE,Rubio STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0695,4,06:51,CLE,,MIL,,R. Rubio,CLE,MISS Rubio 1' Running Layup,Missed Shot,Running Layup Shot,5,4,1,1,2.0,0.0,h
+S2223-G0695,4,05:50,CLE,,MIL,,R. Rubio,CLE,SUB: Allen FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0803,1,03:48,IND,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P1.PN) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0803,1,03:47,IND,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0803,1,03:38,IND,18.0,CLE,23.0,R. Rubio,CLE,Rubio 13' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,-78,109,13,1,2.0,2.0,v
+S2223-G0803,1,03:13,IND,,CLE,,R. Rubio,CLE,Rubio Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0803,1,02:46,IND,,CLE,,R. Rubio,CLE,MISS Rubio 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-186,177,26,1,3.0,0.0,v
+S2223-G0803,1,00:13.700000,IND,,CLE,,R. Rubio,CLE,MISS Rubio 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-36,13,4,1,2.0,0.0,v
+S2223-G0803,1,00:03.100000,IND,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0803,2,09:49,IND,,CLE,,R. Rubio,CLE,MISS Rubio 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-109,69,13,1,2.0,0.0,v
+S2223-G0803,2,06:54,IND,,CLE,,R. Rubio,CLE,Rubio S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0803,2,06:54,IND,,CLE,,R. Rubio,CLE,SUB: Mitchell FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0803,3,04:00,IND,70.0,CLE,88.0,R. Rubio,CLE,Rubio 25' 3PT Jump Shot (5 PTS) (Wade 2 AST),Made Shot,Jump Shot,-141,209,25,1,3.0,3.0,v
+S2223-G0803,3,01:50,IND,,CLE,,R. Rubio,CLE,MISS Rubio 26' 3PT Jump Shot,Missed Shot,Jump Shot,-12,260,26,1,3.0,0.0,v
+S2223-G0803,4,09:23,IND,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0803,4,07:17,IND,89.0,CLE,111.0,R. Rubio,CLE,Rubio 2' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,18,8,2,1,2.0,2.0,v
+S2223-G0803,4,06:38,IND,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P3.T1) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2223-G0803,4,06:38,IND,,CLE,,R. Rubio,CLE,SUB: Mitchell FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1117,1,01:31,CLE,28.0,HOU,20.0,R. Rubio,CLE,Rubio Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1117,1,01:31,CLE,29.0,HOU,20.0,R. Rubio,CLE,Rubio Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1117,1,00:12.300000,CLE,,HOU,,R. Rubio,CLE,MISS Rubio 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,2,21,2,1,2.0,0.0,h
+S2223-G1117,2,11:02,CLE,,HOU,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1117,2,10:14,CLE,,HOU,,R. Rubio,CLE,Rubio S.FOUL (P1.T1) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G1117,2,06:08,CLE,,HOU,,R. Rubio,CLE,Rubio Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1117,2,06:02,CLE,,HOU,,R. Rubio,CLE,SUB: E. Mobley FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G1117,3,02:16,CLE,,HOU,,R. Rubio,CLE,MISS Rubio 26' 3PT Jump Shot,Missed Shot,Jump Shot,214,142,26,1,3.0,0.0,h
+S2223-G1117,4,02:04,CLE,,HOU,,R. Rubio,CLE,MISS Rubio 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-43,124,13,1,2.0,0.0,h
+S2223-G1117,4,01:12,CLE,,HOU,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1117,4,00:30,CLE,,HOU,,R. Rubio,CLE,MISS Rubio 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-76,245,26,1,3.0,0.0,h
+S2223-G0858,1,01:30,CLE,31.0,SAS,19.0,R. Rubio,CLE,Rubio 11' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-112,0,11,1,2.0,2.0,h
+S2223-G0858,1,00:04.200000,CLE,,SAS,,R. Rubio,CLE,MISS Rubio 2' Driving Layup,Missed Shot,Driving Layup Shot,-1,15,2,1,2.0,0.0,h
+S2223-G0858,1,00:00.200000,CLE,,SAS,,R. Rubio,CLE,Rubio REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0858,2,11:01,CLE,,SAS,,R. Rubio,CLE,Rubio P.FOUL (P1.T1) (R.Hussey),Foul,Personal,0,0,0,0,,,h
+S2223-G0858,2,10:26,CLE,35.0,SAS,22.0,R. Rubio,CLE,Rubio Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0858,2,10:26,CLE,36.0,SAS,22.0,R. Rubio,CLE,Rubio Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0858,2,09:43,CLE,,SAS,,R. Rubio,CLE,MISS Rubio Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0858,2,09:43,CLE,37.0,SAS,24.0,R. Rubio,CLE,Rubio Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0858,2,09:16,CLE,38.0,SAS,26.0,R. Rubio,CLE,Rubio Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0858,2,09:16,CLE,39.0,SAS,26.0,R. Rubio,CLE,Rubio Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0858,2,06:19,CLE,,SAS,,R. Rubio,CLE,MISS Rubio 27' 3PT Jump Shot,Missed Shot,Jump Shot,-136,236,27,1,3.0,0.0,h
+S2223-G0858,2,06:03,CLE,,SAS,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0858,2,04:36,CLE,,SAS,,R. Rubio,CLE,SUB: Mobley FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0858,3,00:55.800000,CLE,,SAS,,R. Rubio,CLE,Rubio REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0858,4,07:43,CLE,,SAS,,R. Rubio,CLE,Rubio STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0858,4,07:42,CLE,98.0,SAS,91.0,R. Rubio,CLE,Rubio Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0858,4,07:42,CLE,99.0,SAS,91.0,R. Rubio,CLE,Rubio Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0858,4,06:09,CLE,,SAS,,R. Rubio,CLE,Rubio REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0858,4,04:43,CLE,,SAS,,R. Rubio,CLE,SUB: Garland FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0822,1,02:35,CLE,,DET,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0822,1,02:27,CLE,,DET,,R. Rubio,CLE,Rubio Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0822,1,02:00,CLE,28.0,DET,14.0,R. Rubio,CLE,Rubio 9' Fadeaway Bank Shot (2 PTS),Made Shot,Fadeaway Bank shot,-81,34,9,1,2.0,2.0,h
+S2223-G0822,1,00:30.700000,CLE,,DET,,R. Rubio,CLE,MISS Rubio 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-147,215,26,1,3.0,0.0,h
+S2223-G0822,2,11:19,CLE,34.0,DET,16.0,R. Rubio,CLE,Rubio 1' Layup (4 PTS),Made Shot,Layup Shot,1,11,1,1,2.0,2.0,h
+S2223-G0822,2,11:18,CLE,,DET,,R. Rubio,CLE,Rubio STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0822,2,08:12,CLE,,DET,,R. Rubio,CLE,SUB: Neto FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0822,3,05:27,CLE,,DET,,R. Rubio,CLE,MISS Rubio 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-118,236,26,1,3.0,0.0,h
+S2223-G0822,3,04:39,CLE,,DET,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0822,3,04:24,CLE,,DET,,R. Rubio,CLE,Rubio S.FOUL (P1.T3) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0822,3,03:14,CLE,66.0,DET,61.0,R. Rubio,CLE,Rubio 12' Fadeaway Bank Shot (6 PTS),Made Shot,Fadeaway Bank shot,-116,44,12,1,2.0,2.0,h
+S2223-G0822,3,01:49,CLE,69.0,DET,64.0,R. Rubio,CLE,Rubio Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0822,3,01:49,CLE,70.0,DET,64.0,R. Rubio,CLE,Rubio Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0822,3,01:32,CLE,,DET,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0822,3,00:43.500000,CLE,,DET,,R. Rubio,CLE,MISS Rubio 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,221,110,25,1,3.0,0.0,h
+S2223-G0822,4,10:00,CLE,,DET,,R. Rubio,CLE,SUB: Neto FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G1049,1,04:10,CLE,,WAS,,R. Rubio,CLE,MISS Rubio 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-71,71,10,1,2.0,0.0,h
+S2223-G1049,1,01:48,CLE,,WAS,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1049,1,00:07.200000,CLE,,WAS,,R. Rubio,CLE,Rubio REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1049,2,06:17,CLE,,WAS,,R. Rubio,CLE,Rubio P.FOUL (P1.T2) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2223-G1049,2,05:22,CLE,,WAS,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G1049,3,03:17,CLE,75.0,WAS,64.0,R. Rubio,CLE,Rubio 1' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,7,10,1,1,2.0,2.0,h
+S2223-G1049,3,02:04,CLE,77.0,WAS,66.0,R. Rubio,CLE,Rubio 2' Driving Layup (4 PTS) (Osman 3 AST),Made Shot,Driving Layup Shot,-1,17,2,1,2.0,2.0,h
+S2223-G1049,3,00:36.200000,CLE,,WAS,,R. Rubio,CLE,MISS Rubio Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1049,3,00:36.200000,CLE,82.0,WAS,72.0,R. Rubio,CLE,Rubio Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1049,4,10:53,CLE,91.0,WAS,77.0,R. Rubio,CLE,Rubio 12' Fadeaway Bank Shot (7 PTS),Made Shot,Fadeaway Bank shot,-112,48,12,1,2.0,2.0,h
+S2223-G1049,4,05:23,CLE,,WAS,,R. Rubio,CLE,Rubio REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1049,4,05:23,CLE,101.0,WAS,87.0,R. Rubio,CLE,Rubio Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1049,4,05:23,CLE,,WAS,,R. Rubio,CLE,SUB: Mitchell FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0658,1,02:45,CLE,,NOP,,R. Rubio,CLE,Rubio P.FOUL (P1.T3) (R.Hussey),Foul,Personal,0,0,0,0,,,h
+S2223-G0658,2,09:59,CLE,,NOP,,R. Rubio,CLE,SUB: Stevens FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0658,3,03:22,CLE,70.0,NOP,72.0,R. Rubio,CLE,Rubio 10' Fadeaway Jumper (2 PTS) (Garland 8 AST),Made Shot,Fadeaway Jump Shot,82,52,10,1,2.0,2.0,h
+S2223-G0658,3,02:47,CLE,,NOP,,R. Rubio,CLE,Rubio P.FOUL (P2.T4) (R.Hussey),Foul,Personal,0,0,0,0,,,h
+S2223-G0658,4,08:56,CLE,,NOP,,R. Rubio,CLE,MISS Rubio 26' 3PT Jump Shot,Missed Shot,Jump Shot,-157,206,26,1,3.0,0.0,h
+S2223-G0658,4,07:41,CLE,,NOP,,R. Rubio,CLE,MISS Rubio 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-58,115,13,1,2.0,0.0,h
+S2223-G0658,4,07:37,CLE,,NOP,,R. Rubio,CLE,Rubio P.FOUL (P3.T2) (R.Hussey),Foul,Personal,0,0,0,0,,,h
+S2223-G0658,4,07:31,CLE,,NOP,,R. Rubio,CLE,Rubio S.FOUL (P4.T3) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G0658,4,07:05,CLE,,NOP,,R. Rubio,CLE,MISS Rubio 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-50,272,28,1,3.0,0.0,h
+S2223-G0658,4,06:24,CLE,,NOP,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0658,4,06:15,CLE,,NOP,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0971,1,02:28,CLE,,BOS,,R. Rubio,CLE,Rubio Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0971,1,01:38,CLE,,BOS,,R. Rubio,CLE,Rubio Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0971,1,00:02.200000,CLE,,BOS,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0971,2,10:53,CLE,,BOS,,R. Rubio,CLE,Rubio Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0971,2,09:36,CLE,33.0,BOS,39.0,R. Rubio,CLE,Rubio 2' Driving Finger Roll Layup (2 PTS) (Mitchell 1 AST),Made Shot,Driving Finger Roll Layup Shot,9,15,2,1,2.0,2.0,h
+S2223-G0971,2,09:04,CLE,,BOS,,R. Rubio,CLE,SUB: Garland FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0896,1,02:26,ATL,,CLE,,R. Rubio,CLE,MISS Rubio 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,140,11,14,1,2.0,0.0,v
+S2223-G0896,1,02:07,ATL,,CLE,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0896,1,01:15,ATL,,CLE,,R. Rubio,CLE,MISS Rubio 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-224,43,0,1,3.0,0.0,v
+S2223-G0896,1,00:16.100000,ATL,,CLE,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0896,2,11:20,ATL,,CLE,,R. Rubio,CLE,MISS Rubio 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-29,96,10,1,2.0,0.0,v
+S2223-G0896,2,11:14,ATL,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P1.T1) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G0896,2,10:12,ATL,,CLE,,R. Rubio,CLE,Rubio Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0896,2,10:05,ATL,,CLE,,R. Rubio,CLE,SUB: Mobley FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0896,4,09:08,ATL,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0896,4,08:29,ATL,,CLE,,R. Rubio,CLE,Rubio STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0896,4,06:29,ATL,117.0,CLE,99.0,R. Rubio,CLE,Rubio 12' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,-112,32,12,1,2.0,2.0,v
+S2223-G0896,4,06:03,ATL,,CLE,,R. Rubio,CLE,SUB: Garland FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1131,1,03:25,ATL,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P1.T1) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2223-G1131,1,02:48,ATL,,CLE,,R. Rubio,CLE,MISS Rubio 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,227,63,24,1,3.0,0.0,v
+S2223-G1131,1,00:05.600000,ATL,,CLE,,R. Rubio,CLE,SUB: Diakite FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1131,2,09:27,ATL,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1131,2,09:13,ATL,30.0,CLE,28.0,R. Rubio,CLE,Rubio 12' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,-105,51,12,1,2.0,2.0,v
+S2223-G1131,2,08:46,ATL,,CLE,,R. Rubio,CLE,MISS Rubio 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-18,4,2,1,2.0,0.0,v
+S2223-G1131,2,07:56,ATL,34.0,CLE,32.0,R. Rubio,CLE,Rubio 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-6,-2,1,1,2.0,2.0,v
+S2223-G1131,2,07:18,ATL,,CLE,,R. Rubio,CLE,Rubio Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1131,2,06:42,ATL,,CLE,,R. Rubio,CLE,SUB: Mobley FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1131,3,00:35.100000,ATL,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P2.PN) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2223-G1131,3,00:07,ATL,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P3.PN) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G1131,4,11:07,ATL,96.0,CLE,87.0,R. Rubio,CLE,Rubio 25' 3PT Jump Shot (7 PTS) (Garland 5 AST),Made Shot,Jump Shot,-167,181,25,1,3.0,3.0,v
+S2223-G1131,4,10:35,ATL,,CLE,,R. Rubio,CLE,MISS Rubio 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-5,1,1,1,2.0,0.0,v
+S2223-G1131,4,07:50,ATL,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1131,4,06:36,ATL,105.0,CLE,103.0,R. Rubio,CLE,Rubio 11' Pullup Jump Shot (9 PTS) (Mobley 4 AST),Made Shot,Pullup Jump shot,25,106,11,1,2.0,2.0,v
+S2223-G1131,4,05:10,ATL,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P4.T1) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G1131,4,04:14,ATL,,CLE,,R. Rubio,CLE,SUB: LeVert FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1218,1,11:33,CLE,,CHA,,R. Rubio,CLE,Rubio Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1218,1,08:50,CLE,,CHA,,R. Rubio,CLE,MISS Rubio 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-228,132,26,1,3.0,0.0,h
+S2223-G1218,1,07:17,CLE,,CHA,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1218,1,07:05,CLE,,CHA,,R. Rubio,CLE,MISS Rubio 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-91,95,13,1,2.0,0.0,h
+S2223-G1218,1,06:11,CLE,,CHA,,R. Rubio,CLE,Rubio Violation:Kicked Ball (K.Cutler),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G1218,1,05:41,CLE,,CHA,,R. Rubio,CLE,MISS Rubio 26' 3PT Jump Shot,Missed Shot,Jump Shot,-127,230,26,1,3.0,0.0,h
+S2223-G1218,1,05:00,CLE,,CHA,,R. Rubio,CLE,MISS Rubio 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-125,99,16,1,2.0,0.0,h
+S2223-G1218,1,03:27,CLE,,CHA,,R. Rubio,CLE,Rubio Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1218,1,01:26,CLE,,CHA,,R. Rubio,CLE,SUB: Neto FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G1218,2,09:43,CLE,,CHA,,R. Rubio,CLE,MISS Rubio 1' Driving Layup,Missed Shot,Driving Layup Shot,9,5,1,1,2.0,0.0,h
+S2223-G1218,2,08:35,CLE,,CHA,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1218,2,07:07,CLE,,CHA,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1218,2,06:56,CLE,,CHA,,R. Rubio,CLE,Rubio REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1218,2,06:56,CLE,38.0,CHA,28.0,R. Rubio,CLE,Rubio Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1218,2,06:56,CLE,39.0,CHA,28.0,R. Rubio,CLE,Rubio Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1218,2,06:26,CLE,41.0,CHA,30.0,R. Rubio,CLE,Rubio 17' Pullup Jump Shot (4 PTS) (I. Mobley 1 AST),Made Shot,Pullup Jump shot,-96,142,17,1,2.0,2.0,h
+S2223-G1218,2,04:49,CLE,,CHA,,R. Rubio,CLE,MISS Rubio 12' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,-93,70,12,1,2.0,0.0,h
+S2223-G1218,2,03:30,CLE,,CHA,,R. Rubio,CLE,Rubio REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1218,2,02:15,CLE,52.0,CHA,43.0,R. Rubio,CLE,Rubio 2' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,11,16,2,1,2.0,2.0,h
+S2223-G1218,2,01:29,CLE,,CHA,,R. Rubio,CLE,MISS Rubio 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,81,74,11,1,2.0,0.0,h
+S2223-G1218,2,00:00.600000,CLE,,CHA,,R. Rubio,CLE,MISS Rubio 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-110,235,26,1,3.0,0.0,h
+S2223-G1218,3,09:15,CLE,,CHA,,R. Rubio,CLE,Rubio Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1218,3,08:15,CLE,,CHA,,R. Rubio,CLE,MISS Rubio 26' 3PT Jump Shot,Missed Shot,Jump Shot,-190,172,26,1,3.0,0.0,h
+S2223-G1218,3,06:03,CLE,,CHA,,R. Rubio,CLE,Rubio S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G1218,3,06:03,CLE,,CHA,,R. Rubio,CLE,SUB: Merrill FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0852,1,03:41,CLE,,CHI,,R. Rubio,CLE,MISS Rubio 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,10,24,1,3.0,0.0,h
+S2223-G0852,1,01:42,CLE,,CHI,,R. Rubio,CLE,Rubio BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0852,2,09:51,CLE,,CHI,,R. Rubio,CLE,SUB: Garland FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0852,3,05:15,CLE,,CHI,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0852,3,04:25,CLE,,CHI,,R. Rubio,CLE,MISS Rubio 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-190,136,23,1,2.0,0.0,h
+S2223-G0852,3,03:30,CLE,,CHI,,R. Rubio,CLE,MISS Rubio 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,2,24,1,3.0,0.0,h
+S2223-G0852,3,02:46,CLE,,CHI,,R. Rubio,CLE,MISS Rubio 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-232,1,0,1,3.0,0.0,h
+S2223-G0852,3,02:33,CLE,,CHI,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0852,3,00:22.900000,CLE,,CHI,,R. Rubio,CLE,Rubio STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0852,3,00:00.700000,CLE,,CHI,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0852,4,09:08,CLE,,CHI,,R. Rubio,CLE,MISS Rubio 26' 3PT Jump Shot,Missed Shot,Jump Shot,-58,258,26,1,3.0,0.0,h
+S2223-G0852,4,08:59,CLE,,CHI,,R. Rubio,CLE,Rubio Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0852,4,08:35,CLE,,CHI,,R. Rubio,CLE,MISS Rubio 3PT Jump Shot,Missed Shot,Jump Shot,-232,37,0,1,3.0,0.0,h
+S2223-G0852,4,08:24,CLE,,CHI,,R. Rubio,CLE,Rubio STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0852,4,08:11,CLE,,CHI,,R. Rubio,CLE,SUB: Mobley FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0645,1,03:09,MIN,,CLE,,R. Rubio,CLE,MISS Rubio 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-3,73,7,1,2.0,0.0,v
+S2223-G0645,1,01:36,MIN,,CLE,,R. Rubio,CLE,MISS Rubio 3PT Jump Shot,Missed Shot,Jump Shot,232,-5,0,1,3.0,0.0,v
+S2223-G0645,1,00:33.200000,MIN,,CLE,,R. Rubio,CLE,Rubio P.FOUL (P1.T1) (S.Mehta),Foul,Personal,0,0,0,0,,,v
+S2223-G0645,1,00:19.600000,MIN,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0645,2,03:38,MIN,,CLE,,R. Rubio,CLE,MISS Rubio 3PT Jump Shot,Missed Shot,Jump Shot,-232,0,0,1,3.0,0.0,v
+S2223-G0645,2,03:02,MIN,,CLE,,R. Rubio,CLE,Rubio S.FOUL (P2.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0645,2,01:55,MIN,47.0,CLE,49.0,R. Rubio,CLE,Rubio 3PT Jump Shot (3 PTS) (Allen 2 AST),Made Shot,Jump Shot,229,28,0,1,3.0,3.0,v
+S2223-G0645,2,00:26,MIN,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0645,2,00:03.700000,MIN,,CLE,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1015,1,01:00,CHA,,CLE,,R. Rubio,CLE,Rubio Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G1015,2,10:15,CHA,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1015,2,07:17,CHA,,CLE,,R. Rubio,CLE,MISS Rubio 3PT Jump Shot,Missed Shot,Jump Shot,-225,41,0,1,3.0,0.0,v
+S2223-G1015,2,06:41,CHA,44.0,CLE,39.0,R. Rubio,CLE,Rubio 11' Fadeaway Bank Shot (2 PTS),Made Shot,Fadeaway Bank shot,-74,80,11,1,2.0,2.0,v
+S2223-G1015,2,06:35,CHA,,CLE,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1015,3,02:28,CHA,89.0,CLE,74.0,R. Rubio,CLE,Rubio Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1015,3,02:28,CHA,89.0,CLE,75.0,R. Rubio,CLE,Rubio Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1015,3,01:38,CHA,,CLE,,R. Rubio,CLE,MISS Rubio 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,54,42,7,1,2.0,0.0,v
+S2223-G1015,3,00:45,CHA,89.0,CLE,79.0,R. Rubio,CLE,Rubio 2' Running Layup (6 PTS) (Garland 5 AST),Made Shot,Running Layup Shot,-1,17,2,1,2.0,2.0,v
+S2223-G1015,4,11:11,CHA,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1015,4,09:06,CHA,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1015,4,08:54,CHA,93.0,CLE,89.0,R. Rubio,CLE,Rubio 3' Driving Finger Roll Layup (8 PTS) (LeVert 3 AST),Made Shot,Driving Finger Roll Layup Shot,-22,12,3,1,2.0,2.0,v
+S2223-G1015,4,08:54,CHA,93.0,CLE,90.0,R. Rubio,CLE,Rubio Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1015,4,07:21,CHA,97.0,CLE,96.0,R. Rubio,CLE,Rubio 18' Pullup Jump Shot (11 PTS) (E. Mobley 3 AST),Made Shot,Pullup Jump shot,-127,125,18,1,2.0,2.0,v
+S2223-G1015,4,06:29,CHA,,CLE,,R. Rubio,CLE,MISS Rubio 2' Driving Layup,Missed Shot,Driving Layup Shot,0,16,2,1,2.0,0.0,v
+S2223-G1015,4,05:54,CHA,,CLE,,R. Rubio,CLE,SUB: Garland FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1079,1,04:11,BKN,,CLE,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1079,1,02:31,BKN,24.0,CLE,20.0,R. Rubio,CLE,Rubio 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-94,172,20,1,2.0,2.0,v
+S2223-G1079,1,00:37.200000,BKN,,CLE,,R. Rubio,CLE,MISS Rubio 25' 3PT Jump Shot,Missed Shot,Jump Shot,28,245,25,1,3.0,0.0,v
+S2223-G1079,2,11:49,BKN,30.0,CLE,24.0,R. Rubio,CLE,Rubio Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1079,2,11:49,BKN,30.0,CLE,25.0,R. Rubio,CLE,Rubio Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1079,2,08:18,BKN,34.0,CLE,37.0,R. Rubio,CLE,Rubio 20' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-91,176,20,1,2.0,2.0,v
+S2223-G1079,2,06:20,BKN,,CLE,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1079,3,01:37,BKN,,CLE,,R. Rubio,CLE,MISS Rubio 4' Driving Layup,Missed Shot,Driving Layup Shot,-33,29,4,1,2.0,0.0,v
+S2223-G1079,3,01:14,BKN,,CLE,,R. Rubio,CLE,MISS Rubio 3PT Jump Shot,Missed Shot,Jump Shot,229,-6,0,1,3.0,0.0,v
+S2223-G1079,3,00:23.300000,BKN,,CLE,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G1079,4,07:17,BKN,86.0,CLE,108.0,R. Rubio,CLE,Rubio 12' Floating Jump Shot (8 PTS) (Mobley 3 AST),Made Shot,Floating Jump shot,-4,117,12,1,2.0,2.0,v
+S2223-G1079,4,06:44,BKN,,CLE,,R. Rubio,CLE,Rubio S.FOUL (P1.T1) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2223-G1079,4,05:08,BKN,,CLE,,R. Rubio,CLE,Rubio Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1079,4,04:41,BKN,,CLE,,R. Rubio,CLE,SUB: Mitchell FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0957,1,03:21,CLE,,DET,,R. Rubio,CLE,MISS Rubio 2' Driving Layup,Missed Shot,Driving Layup Shot,1,16,2,1,2.0,0.0,h
+S2223-G0957,1,03:19,CLE,,DET,,R. Rubio,CLE,Rubio STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0957,1,01:12,CLE,,DET,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0957,1,00:53.400000,CLE,,DET,,R. Rubio,CLE,Rubio REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0957,1,00:28.700000,CLE,,DET,,R. Rubio,CLE,MISS Rubio 15' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-119,92,15,1,2.0,0.0,h
+S2223-G0957,1,00:19.600000,CLE,,DET,,R. Rubio,CLE,Rubio BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0957,2,07:42,CLE,,DET,,R. Rubio,CLE,SUB: Okoro FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0957,3,04:22,CLE,,DET,,R. Rubio,CLE,Rubio Violation:Kicked Ball (A.Smith),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0957,3,04:15,CLE,,DET,,R. Rubio,CLE,Rubio BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0957,3,04:11,CLE,,DET,,R. Rubio,CLE,Jump Ball Rubio vs. Hampton: Tip to Diallo,Jump Ball,,0,0,0,0,,,h
+S2223-G0957,3,04:06,CLE,,DET,,R. Rubio,CLE,Rubio REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0957,3,03:54,CLE,,DET,,R. Rubio,CLE,Rubio REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0957,3,03:27,CLE,,DET,,R. Rubio,CLE,Rubio STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0957,3,02:33,CLE,91.0,DET,63.0,R. Rubio,CLE,Rubio 13' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,58,121,13,1,2.0,2.0,h
+S2223-G0957,3,00:35.500000,CLE,,DET,,R. Rubio,CLE,Rubio S.FOUL (P1.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G0957,4,11:37,CLE,,DET,,R. Rubio,CLE,MISS Rubio 3PT Jump Shot,Missed Shot,Jump Shot,-225,10,0,1,3.0,0.0,h
+S2223-G0957,4,10:06,CLE,102.0,DET,67.0,R. Rubio,CLE,Rubio 26' 3PT Pullup Jump Shot (5 PTS) (Stevens 1 AST),Made Shot,Pullup Jump shot,-216,138,26,1,3.0,3.0,h
+S2223-G0957,4,09:04,CLE,,DET,,R. Rubio,CLE,Rubio REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0957,4,08:28,CLE,,DET,,R. Rubio,CLE,SUB: Green FOR Rubio,Substitution,,0,0,0,0,,,h
+S2223-G0672,1,04:25,MEM,,CLE,,R. Rubio,CLE,MISS Rubio 10' Floating Jump Shot,Missed Shot,Floating Jump shot,23,100,10,1,2.0,0.0,v
+S2223-G0672,1,03:51,MEM,,CLE,,R. Rubio,CLE,MISS Rubio 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,99,228,25,1,3.0,0.0,v
+S2223-G0672,1,03:40,MEM,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0672,1,03:25,MEM,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0672,1,01:48,MEM,,CLE,,R. Rubio,CLE,MISS Rubio 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,201,134,24,1,3.0,0.0,v
+S2223-G0672,1,00:39,MEM,29.0,CLE,29.0,R. Rubio,CLE,Rubio Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0672,1,00:39,MEM,29.0,CLE,30.0,R. Rubio,CLE,Rubio Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0672,2,06:11,MEM,,CLE,,R. Rubio,CLE,MISS Rubio 24' 3PT Jump Shot,Missed Shot,Jump Shot,205,132,24,1,3.0,0.0,v
+S2223-G0672,2,06:07,MEM,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0672,2,03:21,MEM,,CLE,,R. Rubio,CLE,SUB: Garland FOR Rubio,Substitution,,0,0,0,0,,,v
+S2223-G0672,3,03:16,MEM,86.0,CLE,80.0,R. Rubio,CLE,Rubio 25' 3PT Jump Shot (5 PTS) (Garland 8 AST),Made Shot,Jump Shot,9,245,25,1,3.0,3.0,v
+S2223-G0672,3,02:58,MEM,,CLE,,R. Rubio,CLE,Rubio REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0672,3,02:56,MEM,86.0,CLE,82.0,R. Rubio,CLE,Rubio 10' Running Pull-Up Jump Shot (7 PTS),Made Shot,Running Pull-Up Jump Shot,9,101,10,1,2.0,2.0,v
+S2223-G0672,3,01:12,MEM,,CLE,,R. Rubio,CLE,MISS Rubio 3PT Jump Shot,Missed Shot,Jump Shot,-227,14,0,1,3.0,0.0,v
+S2223-G0672,3,00:05.800000,MEM,,CLE,,R. Rubio,CLE,SUB: Mobley FOR Rubio,Substitution,,0,0,0,0,,,v

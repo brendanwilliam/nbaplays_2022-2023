@@ -1,0 +1,536 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G1164,1,02:34,BKN,,UTA,,K. Dunn,UTA,MISS Dunn 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-13,107,11,1,2.0,0.0,v
+S2223-G1164,2,11:48,BKN,,UTA,,K. Dunn,UTA,Dunn Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1164,2,10:48,BKN,34.0,UTA,21.0,K. Dunn,UTA,Dunn 11' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,32,102,11,1,2.0,2.0,v
+S2223-G1164,2,10:14,BKN,,UTA,,K. Dunn,UTA,Dunn FLAGRANT.FOUL.TYPE1 (P1.T2) (J.DeRosa),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2223-G1164,2,10:08,BKN,,UTA,,K. Dunn,UTA,Dunn STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1164,2,10:04,BKN,35.0,UTA,23.0,K. Dunn,UTA,Dunn 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,-6,0,1,1,2.0,2.0,v
+S2223-G1164,2,08:56,BKN,,UTA,,K. Dunn,UTA,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,0,0,,,v
+S2223-G1164,3,04:09,BKN,76.0,UTA,59.0,K. Dunn,UTA,Dunn 3' Driving Layup (6 PTS) (Agbaji 1 AST),Made Shot,Driving Layup Shot,13,31,3,1,2.0,2.0,v
+S2223-G1164,3,04:09,BKN,,UTA,,K. Dunn,UTA,MISS Dunn Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G1164,3,03:20,BKN,,UTA,,K. Dunn,UTA,Dunn P.FOUL (P2.PN) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2223-G1164,4,10:06,BKN,,UTA,,K. Dunn,UTA,MISS Dunn 12' Floating Jump Shot,Missed Shot,Floating Jump shot,69,93,12,1,2.0,0.0,v
+S2223-G1164,4,09:11,BKN,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1164,4,09:07,BKN,93.0,UTA,74.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1164,4,09:07,BKN,93.0,UTA,75.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1164,4,08:48,BKN,93.0,UTA,77.0,K. Dunn,UTA,Dunn 1' Driving Reverse Layup (10 PTS),Made Shot,Driving Reverse Layup Shot,-11,3,1,1,2.0,2.0,v
+S2223-G1164,4,06:07,BKN,101.0,UTA,84.0,K. Dunn,UTA,Dunn 25' 3PT Jump Shot (13 PTS) (Horton-Tucker 8 AST),Made Shot,Jump Shot,174,177,25,1,3.0,3.0,v
+S2223-G1164,4,04:56,BKN,,UTA,,K. Dunn,UTA,Dunn BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1076,1,04:51,UTA,,SAC,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1076,1,03:55,UTA,,SAC,,K. Dunn,UTA,Dunn BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1076,1,03:52,UTA,,SAC,,K. Dunn,UTA,Jump Ball Dunn vs. Davis: Tip to Agbaji,Jump Ball,,0,0,0,0,,,h
+S2223-G1076,1,03:01,UTA,,SAC,,K. Dunn,UTA,MISS Dunn 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,26,17,3,1,2.0,0.0,h
+S2223-G1076,2,09:39,UTA,,SAC,,K. Dunn,UTA,Dunn P.FOUL (P1.T2) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2223-G1076,2,08:47,UTA,,SAC,,K. Dunn,UTA,MISS Dunn 4' Floating Jump Shot,Missed Shot,Floating Jump shot,39,18,4,1,2.0,0.0,h
+S2223-G1076,2,07:22,UTA,50.0,SAC,30.0,K. Dunn,UTA,Dunn 27' 3PT Jump Shot (3 PTS) (Olynyk 4 AST),Made Shot,Jump Shot,-134,231,27,1,3.0,3.0,h
+S2223-G1076,2,06:37,UTA,52.0,SAC,32.0,K. Dunn,UTA,Dunn 3' Driving Dunk (5 PTS) (Kessler 1 AST),Made Shot,Driving Dunk Shot,9,26,3,1,2.0,2.0,h
+S2223-G1076,2,05:03,UTA,56.0,SAC,35.0,K. Dunn,UTA,Dunn 7' Floating Jump Shot (7 PTS) (Olynyk 5 AST),Made Shot,Floating Jump shot,-12,64,7,1,2.0,2.0,h
+S2223-G1076,2,04:57,UTA,,SAC,,K. Dunn,UTA,Dunn STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1076,2,03:32,UTA,,SAC,,K. Dunn,UTA,Dunn P.FOUL (P2.T3) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G1076,2,01:42,UTA,,SAC,,K. Dunn,UTA,Dunn S.FOUL (P3.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G1076,2,01:34,UTA,65.0,SAC,49.0,K. Dunn,UTA,Dunn 4' Running Layup (9 PTS),Made Shot,Running Layup Shot,22,32,4,1,2.0,2.0,h
+S2223-G1076,3,05:27,UTA,83.0,SAC,79.0,K. Dunn,UTA,Dunn 2' Reverse Layup (11 PTS),Made Shot,Reverse Layup Shot,-18,0,2,1,2.0,2.0,h
+S2223-G1076,3,05:20,UTA,,SAC,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1076,3,04:01,UTA,,SAC,,K. Dunn,UTA,MISS Dunn 4' Driving Layup,Missed Shot,Driving Layup Shot,39,15,4,1,2.0,0.0,h
+S2223-G1076,3,01:57,UTA,,SAC,,K. Dunn,UTA,MISS Dunn 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-37,46,6,1,2.0,0.0,h
+S2223-G1076,3,00:11.500000,UTA,,SAC,,K. Dunn,UTA,MISS Dunn 5' Layup,Missed Shot,Layup Shot,43,19,5,1,2.0,0.0,h
+S2223-G1076,4,06:49,UTA,,SAC,,K. Dunn,UTA,Dunn S.FOUL (P4.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G1076,4,06:16,UTA,108.0,SAC,107.0,K. Dunn,UTA,Dunn 9' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,13,85,9,1,2.0,2.0,h
+S2223-G1076,4,06:07,UTA,,SAC,,K. Dunn,UTA,Dunn P.FOUL (P5.T4) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G1076,4,04:19,UTA,113.0,SAC,113.0,K. Dunn,UTA,Dunn 25' 3PT Jump Shot (16 PTS) (Fontecchio 2 AST),Made Shot,Jump Shot,-7,253,25,1,3.0,3.0,h
+S2223-G1076,4,01:06,UTA,122.0,SAC,118.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1076,4,01:06,UTA,123.0,SAC,118.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1125,1,01:51,UTA,,PHX,,K. Dunn,UTA,MISS Dunn 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,53,36,6,1,2.0,0.0,h
+S2223-G1125,1,00:57,UTA,,PHX,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1125,1,00:56.400000,UTA,22.0,PHX,30.0,K. Dunn,UTA,Dunn 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,6,19,2,1,2.0,2.0,h
+S2223-G1125,2,09:53,UTA,,PHX,,K. Dunn,UTA,MISS Dunn 4' Driving Layup,Missed Shot,Driving Layup Shot,28,35,4,1,2.0,0.0,h
+S2223-G1125,2,09:30,UTA,33.0,PHX,43.0,K. Dunn,UTA,Dunn 9' Driving Floating Jump Shot (4 PTS) (Olynyk 2 AST),Made Shot,Driving Floating Jump Shot,2,90,9,1,2.0,2.0,h
+S2223-G1125,2,08:13,UTA,,PHX,,K. Dunn,UTA,Dunn S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G1125,2,08:13,UTA,,PHX,,K. Dunn,UTA,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G1125,4,05:59,UTA,,PHX,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1125,4,05:51,UTA,93.0,PHX,103.0,K. Dunn,UTA,Dunn 6' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,-4,58,6,1,2.0,2.0,h
+S2223-G1125,4,04:31,UTA,,PHX,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1125,4,02:05,UTA,,PHX,,K. Dunn,UTA,MISS Dunn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1125,4,02:05,UTA,99.0,PHX,111.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1125,4,01:22,UTA,101.0,PHX,114.0,K. Dunn,UTA,Dunn 7' Driving Floating Jump Shot (9 PTS) (Juzang 1 AST),Made Shot,Driving Floating Jump Shot,-13,67,7,1,2.0,2.0,h
+S2223-G1152,1,04:51,BOS,,UTA,,K. Dunn,UTA,MISS Dunn 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-13,59,6,1,2.0,0.0,v
+S2223-G1152,1,04:15,BOS,,UTA,,K. Dunn,UTA,MISS Dunn 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,34,37,5,1,2.0,0.0,v
+S2223-G1152,1,03:33,BOS,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1152,1,02:47,BOS,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1152,1,00:44,BOS,22.0,UTA,26.0,K. Dunn,UTA,Dunn 9' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,34,85,9,1,2.0,2.0,v
+S2223-G1152,2,10:37,BOS,,UTA,,K. Dunn,UTA,Dunn BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1152,2,10:04,BOS,30.0,UTA,33.0,K. Dunn,UTA,Dunn 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-22,27,3,1,2.0,2.0,v
+S2223-G1152,2,09:30,BOS,,UTA,,K. Dunn,UTA,MISS Dunn 4' Driving Layup,Missed Shot,Driving Layup Shot,25,27,4,1,2.0,0.0,v
+S2223-G1152,2,08:19,BOS,,UTA,,K. Dunn,UTA,SUB: Agbaji FOR Dunn,Substitution,,0,0,0,0,,,v
+S2223-G1152,3,05:18,BOS,,UTA,,K. Dunn,UTA,Dunn BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1152,3,04:34,BOS,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1152,3,02:43,BOS,,UTA,,K. Dunn,UTA,MISS Dunn 6' Floating Jump Shot,Missed Shot,Floating Jump shot,9,64,6,1,2.0,0.0,v
+S2223-G1152,3,02:10,BOS,84.0,UTA,74.0,K. Dunn,UTA,Dunn 8' Driving Floating Bank Jump Shot (6 PTS) (Toscano-Anderson 3 AST),Made Shot,Driving Floating Bank Jump Shot,62,52,8,1,2.0,2.0,v
+S2223-G1152,3,00:49.200000,BOS,,UTA,,K. Dunn,UTA,MISS Dunn 10' Floating Jump Shot,Missed Shot,Floating Jump shot,54,84,10,1,2.0,0.0,v
+S2223-G1152,3,00:26.200000,BOS,91.0,UTA,78.0,K. Dunn,UTA,Dunn 5' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,34,41,5,1,2.0,2.0,v
+S2223-G1152,4,10:36,BOS,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1152,4,09:55,BOS,97.0,UTA,85.0,K. Dunn,UTA,Dunn 4' Driving Reverse Layup (10 PTS),Made Shot,Driving Reverse Layup Shot,-28,24,4,1,2.0,2.0,v
+S2223-G1152,4,09:24,BOS,99.0,UTA,87.0,K. Dunn,UTA,Dunn 7' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,61,35,7,1,2.0,2.0,v
+S2223-G1152,4,08:36,BOS,101.0,UTA,89.0,K. Dunn,UTA,Dunn 5' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,37,40,5,1,2.0,2.0,v
+S2223-G1152,4,08:36,BOS,,UTA,,K. Dunn,UTA,MISS Dunn Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G1152,4,07:51,BOS,,UTA,,K. Dunn,UTA,Dunn Double Dribble Turnover (P1.T16),Turnover,Double Dribble,0,0,0,0,,,v
+S2223-G1152,4,07:46,BOS,,UTA,,K. Dunn,UTA,Dunn P.FOUL (P1.T3) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G1152,4,06:21,BOS,108.0,UTA,95.0,K. Dunn,UTA,Dunn 7' Floating Jump Shot (16 PTS),Made Shot,Floating Jump shot,-1,68,7,1,2.0,2.0,v
+S2223-G1152,4,03:31,BOS,,UTA,,K. Dunn,UTA,Dunn OFF.Foul (P2) (T.Brothers),Foul,Offensive,0,0,0,0,,,v
+S2223-G1152,4,03:31,BOS,,UTA,,K. Dunn,UTA,Dunn Offensive Foul Turnover (P2.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1152,4,03:31,BOS,,UTA,,K. Dunn,UTA,Dunn T.FOUL (P2.T4) (K.Lane),Foul,Technical,0,0,0,0,,,v
+S2223-G1152,4,03:31,BOS,,UTA,,K. Dunn,UTA,Dunn T.FOUL (P2.T4) (T.Brothers),Foul,Technical,0,0,0,0,,,v
+S2223-G1152,4,03:31,BOS,,UTA,,K. Dunn,UTA,Dunn Ejection:Other,Ejection,Other,0,0,0,0,,,v
+S2223-G1152,4,03:31,BOS,,UTA,,K. Dunn,UTA,SUB: Fontecchio FOR Dunn,Substitution,,0,0,0,0,,,v
+S2223-G1200,1,06:55,UTA,,OKC,,K. Dunn,UTA,Dunn S.FOUL (P1.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G1200,1,06:43,UTA,12.0,OKC,12.0,K. Dunn,UTA,Dunn 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,0,60,6,1,2.0,2.0,h
+S2223-G1200,1,04:46,UTA,19.0,OKC,20.0,K. Dunn,UTA,Dunn 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-109,228,25,1,3.0,3.0,h
+S2223-G1200,1,03:54,UTA,,OKC,,K. Dunn,UTA,SUB: Agbaji FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G1200,2,06:58,UTA,33.0,OKC,45.0,K. Dunn,UTA,Dunn 5' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,31,37,5,1,2.0,2.0,h
+S2223-G1200,2,05:25,UTA,,OKC,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1200,2,04:48,UTA,,OKC,,K. Dunn,UTA,Dunn Offensive Charge Foul (P2) (S.Wall),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1200,2,04:48,UTA,,OKC,,K. Dunn,UTA,Dunn Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1200,2,04:10,UTA,38.0,OKC,50.0,K. Dunn,UTA,Dunn 5' Driving Floating Bank Jump Shot (9 PTS),Made Shot,Driving Floating Bank Jump Shot,25,38,5,1,2.0,2.0,h
+S2223-G1200,2,03:32,UTA,,OKC,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1200,2,03:05,UTA,39.0,OKC,53.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1200,2,03:05,UTA,40.0,OKC,53.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1200,2,01:12,UTA,,OKC,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1200,2,00:40,UTA,,OKC,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1200,3,10:58,UTA,,OKC,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1200,3,10:04,UTA,,OKC,,K. Dunn,UTA,Dunn S.FOUL (P3.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G1200,3,07:30,UTA,,OKC,,K. Dunn,UTA,Dunn Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1200,3,07:13,UTA,62.0,OKC,67.0,K. Dunn,UTA,Dunn 2' Driving Reverse Layup (13 PTS),Made Shot,Driving Reverse Layup Shot,-20,0,2,1,2.0,2.0,h
+S2223-G1200,3,06:49,UTA,64.0,OKC,69.0,K. Dunn,UTA,Dunn 4' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,-38,6,4,1,2.0,2.0,h
+S2223-G1200,3,05:22,UTA,,OKC,,K. Dunn,UTA,Dunn Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1200,3,05:17,UTA,,OKC,,K. Dunn,UTA,Dunn STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1200,3,05:14,UTA,,OKC,,K. Dunn,UTA,MISS Dunn 4' Running Layup,Missed Shot,Running Layup Shot,23,35,4,1,2.0,0.0,h
+S2223-G1200,3,04:42,UTA,,OKC,,K. Dunn,UTA,Dunn S.FOUL (P4.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G1200,3,04:42,UTA,,OKC,,K. Dunn,UTA,SUB: Agbaji FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G1200,4,07:45,UTA,86.0,OKC,97.0,K. Dunn,UTA,Dunn 3PT Jump Shot (18 PTS) (Olynyk 8 AST),Made Shot,Jump Shot,-227,29,0,1,3.0,3.0,h
+S2223-G1200,4,05:15,UTA,,OKC,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1200,4,04:36,UTA,91.0,OKC,104.0,K. Dunn,UTA,Dunn 3' Driving Finger Roll Layup (20 PTS),Made Shot,Driving Finger Roll Layup Shot,4,26,3,1,2.0,2.0,h
+S2223-G1200,4,03:23,UTA,,OKC,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1200,4,01:36,UTA,96.0,OKC,114.0,K. Dunn,UTA,Dunn 2' Driving Finger Roll Layup (22 PTS),Made Shot,Driving Finger Roll Layup Shot,7,20,2,1,2.0,2.0,h
+S2223-G1186,1,00:51.700000,UTA,,LAL,,K. Dunn,UTA,Dunn S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G1186,1,00:41.200000,UTA,30.0,LAL,34.0,K. Dunn,UTA,Dunn 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,10,15,2,1,2.0,2.0,h
+S2223-G1186,2,11:07,UTA,34.0,LAL,36.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1186,2,11:07,UTA,35.0,LAL,36.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1186,2,10:00,UTA,,LAL,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1186,2,08:59,UTA,,LAL,,K. Dunn,UTA,MISS Dunn 5' Driving Layup,Missed Shot,Driving Layup Shot,40,31,5,1,2.0,0.0,h
+S2223-G1186,2,08:24,UTA,,LAL,,K. Dunn,UTA,SUB: Olynyk FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G1186,3,03:53,UTA,83.0,LAL,86.0,K. Dunn,UTA,Dunn 3' Driving Layup (6 PTS) (Horton-Tucker 6 AST),Made Shot,Driving Layup Shot,-29,-1,3,1,2.0,2.0,h
+S2223-G1186,3,02:57,UTA,,LAL,,K. Dunn,UTA,Dunn S.FOUL (P2.T4) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G1186,3,02:46,UTA,87.0,LAL,89.0,K. Dunn,UTA,Dunn 6' Driving Floating Jump Shot (8 PTS) (Sexton 3 AST),Made Shot,Driving Floating Jump Shot,5,61,6,1,2.0,2.0,h
+S2223-G1186,3,01:47,UTA,,LAL,,K. Dunn,UTA,MISS Dunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,-92,226,24,1,3.0,0.0,h
+S2223-G1186,4,11:50,UTA,,LAL,,K. Dunn,UTA,MISS Dunn 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,16,87,9,1,2.0,0.0,h
+S2223-G1186,4,11:38,UTA,,LAL,,K. Dunn,UTA,Dunn STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1186,4,11:18,UTA,,LAL,,K. Dunn,UTA,Dunn P.FOUL (P3.T1) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2223-G1186,4,10:44,UTA,,LAL,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1186,4,10:38,UTA,,LAL,,K. Dunn,UTA,Dunn Out of Bounds Lost Ball Turnover (P1.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1186,4,08:51,UTA,,LAL,,K. Dunn,UTA,MISS Dunn 9' Floating Jump Shot,Missed Shot,Floating Jump shot,67,55,9,1,2.0,0.0,h
+S2223-G1186,4,07:03,UTA,,LAL,,K. Dunn,UTA,SUB: Agbaji FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G1186,4,03:26,UTA,,LAL,,K. Dunn,UTA,Dunn S.FOUL (P4.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G1186,4,02:47,UTA,,LAL,,K. Dunn,UTA,Dunn P.FOUL (P5.PN) (C.Flores),Foul,Personal,0,0,0,0,,,h
+S2223-G1186,4,01:06,UTA,119.0,LAL,124.0,K. Dunn,UTA,Dunn 4' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,37,14,4,1,2.0,2.0,h
+S2223-G1186,4,00:45.800000,UTA,,LAL,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1186,5,03:00,UTA,,LAL,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0892,1,03:41,UTA,,OKC,,K. Dunn,UTA,Dunn S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0892,2,11:43,UTA,,OKC,,K. Dunn,UTA,Dunn STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0892,2,10:46,UTA,30.0,OKC,29.0,K. Dunn,UTA,Dunn 9' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,-16,84,9,1,2.0,2.0,h
+S2223-G0892,2,10:17,UTA,,OKC,,K. Dunn,UTA,MISS Dunn 7' Floating Jump Shot,Missed Shot,Floating Jump shot,31,58,7,1,2.0,0.0,h
+S2223-G0892,2,08:10,UTA,,OKC,,K. Dunn,UTA,SUB: Olynyk FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G0892,3,04:00,UTA,,OKC,,K. Dunn,UTA,Dunn P.FOUL (P2.T4) (L.Wood),Foul,Personal,0,0,0,0,,,h
+S2223-G0892,3,03:05,UTA,71.0,OKC,74.0,K. Dunn,UTA,Dunn 25' 3PT Jump Shot (5 PTS) (Agbaji 1 AST),Made Shot,Jump Shot,178,179,25,1,3.0,3.0,h
+S2223-G0892,3,01:46,UTA,,OKC,,K. Dunn,UTA,MISS Dunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,147,210,26,1,3.0,0.0,h
+S2223-G0892,3,01:35,UTA,73.0,OKC,79.0,K. Dunn,UTA,Dunn 6' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,32,56,6,1,2.0,2.0,h
+S2223-G0892,3,01:12,UTA,,OKC,,K. Dunn,UTA,Dunn S.FOUL (P3.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0892,3,00:38.800000,UTA,,OKC,,K. Dunn,UTA,MISS Dunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,-113,214,24,1,3.0,0.0,h
+S2223-G0892,3,00:16.800000,UTA,,OKC,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0892,3,00:11.700000,UTA,78.0,OKC,84.0,K. Dunn,UTA,Dunn 6' Floating Jump Shot (9 PTS),Made Shot,Floating Jump shot,-9,58,6,1,2.0,2.0,h
+S2223-G0892,4,11:50,UTA,,OKC,,K. Dunn,UTA,Dunn Bad Pass Turnover (P1.T18),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0892,4,11:35,UTA,,OKC,,K. Dunn,UTA,Dunn STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0892,4,11:31,UTA,80.0,OKC,86.0,K. Dunn,UTA,Dunn 3' Running Layup (11 PTS),Made Shot,Running Layup Shot,28,9,3,1,2.0,2.0,h
+S2223-G0892,4,09:12,UTA,,OKC,,K. Dunn,UTA,MISS Dunn 12' Floating Jump Shot,Missed Shot,Floating Jump shot,12,116,12,1,2.0,0.0,h
+S2223-G0892,4,08:18,UTA,,OKC,,K. Dunn,UTA,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,15,246,25,1,3.0,0.0,h
+S2223-G0892,4,07:39,UTA,,OKC,,K. Dunn,UTA,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G0968,1,02:57,OKC,,UTA,,K. Dunn,UTA,MISS Dunn 3' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,-18,30,3,1,2.0,0.0,v
+S2223-G0968,1,02:30,OKC,28.0,UTA,13.0,K. Dunn,UTA,Dunn 25' 3PT Jump Shot (3 PTS) (Jones 1 AST),Made Shot,Jump Shot,7,250,25,1,3.0,3.0,v
+S2223-G0968,1,01:10,OKC,,UTA,,K. Dunn,UTA,Dunn BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0968,1,00:33.400000,OKC,,UTA,,K. Dunn,UTA,Dunn P.FOUL (P1.T4) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2223-G0968,1,00:09.500000,OKC,,UTA,,K. Dunn,UTA,MISS Dunn 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-23,110,11,1,2.0,0.0,v
+S2223-G0968,1,00:02.900000,OKC,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0968,2,06:32,OKC,,UTA,,K. Dunn,UTA,MISS Dunn 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-7,84,8,1,2.0,0.0,v
+S2223-G0968,2,03:54,OKC,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0968,2,02:45,OKC,,UTA,,K. Dunn,UTA,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,-230,10,0,1,3.0,0.0,v
+S2223-G0968,2,02:03,OKC,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P2.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0968,2,01:53,OKC,65.0,UTA,45.0,K. Dunn,UTA,Dunn 25' 3PT Jump Shot (6 PTS) (Olynyk 2 AST),Made Shot,Jump Shot,-162,195,25,1,3.0,3.0,v
+S2223-G0968,3,04:37,OKC,88.0,UTA,75.0,K. Dunn,UTA,Dunn 9' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,61,68,9,1,2.0,2.0,v
+S2223-G0968,3,04:10,OKC,88.0,UTA,78.0,K. Dunn,UTA,Dunn 26' 3PT Jump Shot (11 PTS) (Clarkson 6 AST),Made Shot,Jump Shot,-104,238,26,1,3.0,3.0,v
+S2223-G0968,3,03:02,OKC,,UTA,,K. Dunn,UTA,Dunn Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0968,3,02:58,OKC,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P3.T3) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0968,3,02:21,OKC,93.0,UTA,80.0,K. Dunn,UTA,Dunn 6' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,-1,58,6,1,2.0,2.0,v
+S2223-G0968,3,01:45,OKC,,UTA,,K. Dunn,UTA,Dunn Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0968,3,01:43,OKC,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P4.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0968,4,05:28,OKC,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P5.T4) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0968,4,05:08,OKC,120.0,UTA,103.0,K. Dunn,UTA,Dunn 6' Pullup Jump Shot (15 PTS) (Olynyk 5 AST),Made Shot,Pullup Jump shot,-31,54,6,1,2.0,2.0,v
+S2223-G0968,4,01:28,OKC,124.0,UTA,114.0,K. Dunn,UTA,Dunn 2' Driving Layup (17 PTS) (Clarkson 11 AST),Made Shot,Driving Layup Shot,-21,12,2,1,2.0,2.0,v
+S2223-G0968,4,00:19.300000,OKC,,UTA,,K. Dunn,UTA,Dunn STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0909,1,07:23,UTA,,SAS,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0909,1,07:03,UTA,,SAS,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0909,1,05:36,UTA,7.0,SAS,19.0,K. Dunn,UTA,Dunn 6' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,45,36,6,1,2.0,2.0,h
+S2223-G0909,1,05:19,UTA,,SAS,,K. Dunn,UTA,MISS Dunn 4' Driving Layup,Missed Shot,Driving Layup Shot,-25,25,4,1,2.0,0.0,h
+S2223-G0909,1,02:42,UTA,16.0,SAS,26.0,K. Dunn,UTA,Dunn 5' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-26,43,5,1,2.0,2.0,h
+S2223-G0909,1,00:23.400000,UTA,,SAS,,K. Dunn,UTA,Dunn REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0909,1,00:22.100000,UTA,24.0,SAS,33.0,K. Dunn,UTA,Dunn 6' Turnaround Hook Shot (6 PTS),Made Shot,Turnaround Hook Shot,-27,55,6,1,2.0,2.0,h
+S2223-G0909,1,00:05.300000,UTA,,SAS,,K. Dunn,UTA,Dunn P.FOUL (P1.T3) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G0909,2,11:50,UTA,,SAS,,K. Dunn,UTA,Dunn STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0909,2,11:48,UTA,26.0,SAS,33.0,K. Dunn,UTA,Dunn 3' Running Dunk (8 PTS),Made Shot,Running Dunk Shot,-6,33,3,1,2.0,2.0,h
+S2223-G0909,2,10:55,UTA,,SAS,,K. Dunn,UTA,Dunn S.FOUL (P2.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0909,2,10:38,UTA,,SAS,,K. Dunn,UTA,MISS Dunn 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-7,113,11,1,2.0,0.0,h
+S2223-G0909,2,10:05,UTA,,SAS,,K. Dunn,UTA,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G0909,2,04:16,UTA,43.0,SAS,51.0,K. Dunn,UTA,Dunn 26' 3PT Jump Shot (11 PTS) (Olynyk 2 AST),Made Shot,Jump Shot,-85,241,26,1,3.0,3.0,h
+S2223-G0909,2,02:30,UTA,,SAS,,K. Dunn,UTA,Dunn S.FOUL (P3.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0909,2,01:57,UTA,,SAS,,K. Dunn,UTA,Dunn REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0909,2,00:34,UTA,,SAS,,K. Dunn,UTA,SUB: Toscano-Anderson FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G0909,3,01:10,UTA,,SAS,,K. Dunn,UTA,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,123,214,25,1,3.0,0.0,h
+S2223-G0909,3,01:01,UTA,,SAS,,K. Dunn,UTA,MISS Dunn 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-58,53,8,1,2.0,0.0,h
+S2223-G0909,3,00:38.100000,UTA,,SAS,,K. Dunn,UTA,Dunn BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0909,3,00:35.600000,UTA,,SAS,,K. Dunn,UTA,Dunn REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0909,3,00:23.400000,UTA,,SAS,,K. Dunn,UTA,Dunn REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0909,4,10:52,UTA,,SAS,,K. Dunn,UTA,MISS Dunn 22' Jump Shot,Missed Shot,Jump Shot,-201,81,22,1,2.0,0.0,h
+S2223-G0909,4,10:08,UTA,,SAS,,K. Dunn,UTA,MISS Dunn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0909,4,10:08,UTA,,SAS,,K. Dunn,UTA,MISS Dunn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0909,4,10:06,UTA,,SAS,,K. Dunn,UTA,Dunn REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0909,4,09:18,UTA,91.0,SAS,84.0,K. Dunn,UTA,Dunn 3' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,27,-5,3,1,2.0,2.0,h
+S2223-G0909,4,08:46,UTA,93.0,SAS,85.0,K. Dunn,UTA,Dunn 7' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,40,58,7,1,2.0,2.0,h
+S2223-G0909,4,07:48,UTA,,SAS,,K. Dunn,UTA,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,125,215,25,1,3.0,0.0,h
+S2223-G0909,4,07:13,UTA,,SAS,,K. Dunn,UTA,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G1143,1,01:11,SAS,,UTA,,K. Dunn,UTA,MISS Dunn 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-5,60,6,1,2.0,0.0,v
+S2223-G1143,1,00:06.700000,SAS,31.0,UTA,36.0,K. Dunn,UTA,Dunn 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-11,-3,1,1,2.0,2.0,v
+S2223-G1143,2,10:30,SAS,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,2,10:13,SAS,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,2,09:41,SAS,37.0,UTA,41.0,K. Dunn,UTA,Dunn 1' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,5,11,1,1,2.0,2.0,v
+S2223-G1143,2,09:41,SAS,,UTA,,K. Dunn,UTA,MISS Dunn Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G1143,2,08:51,SAS,,UTA,,K. Dunn,UTA,Dunn Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1143,2,08:51,SAS,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P1.T2) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G1143,2,08:33,SAS,,UTA,,K. Dunn,UTA,MISS Dunn 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-19,29,3,1,2.0,0.0,v
+S2223-G1143,2,08:13,SAS,,UTA,,K. Dunn,UTA,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,0,0,,,v
+S2223-G1143,2,04:29,SAS,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,2,04:23,SAS,44.0,UTA,53.0,K. Dunn,UTA,Dunn 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-16,7,2,1,2.0,2.0,v
+S2223-G1143,2,02:17,SAS,,UTA,,K. Dunn,UTA,MISS Dunn 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-4,59,6,1,2.0,0.0,v
+S2223-G1143,2,00:00.700000,SAS,62.0,UTA,64.0,K. Dunn,UTA,Dunn 6' Floating Jump Shot (8 PTS) (Agbaji 3 AST),Made Shot,Floating Jump shot,28,49,6,1,2.0,2.0,v
+S2223-G1143,3,01:38,SAS,,UTA,,K. Dunn,UTA,MISS Dunn 5' Layup,Missed Shot,Layup Shot,20,45,5,1,2.0,0.0,v
+S2223-G1143,3,01:14,SAS,,UTA,,K. Dunn,UTA,MISS Dunn 8' Floating Jump Shot,Missed Shot,Floating Jump shot,27,78,8,1,2.0,0.0,v
+S2223-G1143,3,01:10,SAS,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,3,01:10,SAS,86.0,UTA,93.0,K. Dunn,UTA,Dunn Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1143,4,11:18,SAS,88.0,UTA,94.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1143,4,11:18,SAS,88.0,UTA,95.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1143,4,09:07,SAS,,UTA,,K. Dunn,UTA,Dunn STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1143,4,08:51,SAS,90.0,UTA,105.0,K. Dunn,UTA,Dunn 26' 3PT Jump Shot (15 PTS) (Jones 1 AST),Made Shot,Jump Shot,120,234,26,1,3.0,3.0,v
+S2223-G1143,4,03:15,SAS,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P2.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G1143,4,02:00,SAS,,UTA,,K. Dunn,UTA,Dunn Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1143,4,01:08,SAS,115.0,UTA,123.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1143,4,01:08,SAS,115.0,UTA,124.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1143,4,00:54.500000,SAS,,UTA,,K. Dunn,UTA,Dunn STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1102,1,03:31,UTA,,MIL,,K. Dunn,UTA,MISS Dunn 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-27,82,9,1,2.0,0.0,h
+S2223-G1102,1,01:28,UTA,,MIL,,K. Dunn,UTA,MISS Dunn 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,53,37,6,1,2.0,0.0,h
+S2223-G1102,1,00:05.500000,UTA,25.0,MIL,40.0,K. Dunn,UTA,Dunn 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,13,104,10,1,2.0,2.0,h
+S2223-G1102,2,07:12,UTA,,MIL,,K. Dunn,UTA,MISS Dunn 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,50,82,10,1,2.0,0.0,h
+S2223-G1102,2,06:54,UTA,,MIL,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1102,2,06:53,UTA,,MIL,,K. Dunn,UTA,Dunn Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1102,2,06:33,UTA,,MIL,,K. Dunn,UTA,Dunn P.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,h
+S2223-G1102,2,03:59,UTA,,MIL,,K. Dunn,UTA,MISS Dunn 7' Driving Layup,Missed Shot,Driving Layup Shot,5,66,7,1,2.0,0.0,h
+S2223-G1102,2,03:52,UTA,,MIL,,K. Dunn,UTA,Dunn S.FOUL (P2.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G1102,2,03:45,UTA,,MIL,,K. Dunn,UTA,MISS Dunn 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-18,242,24,1,3.0,0.0,h
+S2223-G1102,2,03:31,UTA,,MIL,,K. Dunn,UTA,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G1102,3,05:55,UTA,,MIL,,K. Dunn,UTA,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,94,237,25,1,3.0,0.0,h
+S2223-G1102,4,04:43,UTA,,MIL,,K. Dunn,UTA,Dunn P.FOUL (P3.T3) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2223-G1102,4,04:06,UTA,,MIL,,K. Dunn,UTA,Dunn Violation:Kicked Ball (J.Williams),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G1102,4,01:57,UTA,,MIL,,K. Dunn,UTA,MISS Dunn 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,93,237,25,1,3.0,0.0,h
+S2223-G1102,4,01:07,UTA,,MIL,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1091,1,04:17,UTA,,POR,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1091,1,03:29,UTA,,POR,,K. Dunn,UTA,MISS Dunn 5' Layup,Missed Shot,Layup Shot,-22,46,5,1,2.0,0.0,h
+S2223-G1091,1,03:01,UTA,27.0,POR,21.0,K. Dunn,UTA,Dunn 9' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,-74,57,9,1,2.0,2.0,h
+S2223-G1091,1,01:50,UTA,,POR,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1091,1,01:18,UTA,,POR,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1091,1,00:17.400000,UTA,,POR,,K. Dunn,UTA,MISS Dunn 8' Floating Jump Shot,Missed Shot,Floating Jump shot,59,58,8,1,2.0,0.0,h
+S2223-G1091,2,10:53,UTA,,POR,,K. Dunn,UTA,Dunn STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1091,2,10:06,UTA,,POR,,K. Dunn,UTA,Dunn Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1091,2,08:59,UTA,,POR,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1091,2,08:51,UTA,,POR,,K. Dunn,UTA,MISS Dunn 16' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,81,134,16,1,2.0,0.0,h
+S2223-G1091,2,08:37,UTA,,POR,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1091,2,07:41,UTA,,POR,,K. Dunn,UTA,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G1091,3,03:22,UTA,,POR,,K. Dunn,UTA,MISS Dunn 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-4,62,6,1,2.0,0.0,h
+S2223-G1091,3,02:03,UTA,,POR,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1091,3,00:36.200000,UTA,85.0,POR,91.0,K. Dunn,UTA,Dunn 5' Turnaround Hook Shot (4 PTS),Made Shot,Turnaround Hook Shot,-48,25,5,1,2.0,2.0,h
+S2223-G1091,3,00:36.200000,UTA,86.0,POR,91.0,K. Dunn,UTA,Dunn Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1091,3,00:04.600000,UTA,88.0,POR,91.0,K. Dunn,UTA,Dunn 10' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,95,10,1,2.0,2.0,h
+S2223-G1091,4,11:31,UTA,90.0,POR,91.0,K. Dunn,UTA,Dunn 7' Floating Jump Shot (9 PTS),Made Shot,Floating Jump shot,47,56,7,1,2.0,2.0,h
+S2223-G1091,4,10:42,UTA,94.0,POR,94.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1091,4,10:42,UTA,,POR,,K. Dunn,UTA,MISS Dunn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1091,4,08:54,UTA,,POR,,K. Dunn,UTA,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,250,25,1,3.0,0.0,h
+S2223-G1091,4,08:10,UTA,,POR,,K. Dunn,UTA,MISS Dunn 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,11,109,11,1,2.0,0.0,h
+S2223-G1091,4,07:43,UTA,98.0,POR,104.0,K. Dunn,UTA,Dunn 7' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,-18,63,7,1,2.0,2.0,h
+S2223-G1091,4,07:22,UTA,99.0,POR,104.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1091,4,07:22,UTA,100.0,POR,104.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1091,4,04:43,UTA,105.0,POR,115.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1091,4,04:43,UTA,,POR,,K. Dunn,UTA,MISS Dunn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1091,4,04:05,UTA,,POR,,K. Dunn,UTA,Dunn P.FOUL (P1.PN) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2223-G1091,4,01:32,UTA,,POR,,K. Dunn,UTA,SUB: Toscano-Anderson FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G1005,1,03:11,CHA,,UTA,,K. Dunn,UTA,MISS Dunn 6' Driving Layup,Missed Shot,Driving Layup Shot,6,64,6,1,2.0,0.0,v
+S2223-G1005,1,03:08,CHA,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1005,1,01:57,CHA,,UTA,,K. Dunn,UTA,Dunn STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1005,1,01:42,CHA,25.0,UTA,29.0,K. Dunn,UTA,Dunn 5' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,2,54,5,1,2.0,2.0,v
+S2223-G1005,1,01:42,CHA,25.0,UTA,30.0,K. Dunn,UTA,Dunn Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1005,1,01:27,CHA,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1005,1,00:58.500000,CHA,,UTA,,K. Dunn,UTA,Dunn OFF.Foul (P1) (S.Jelks),Foul,Offensive,0,0,0,0,,,v
+S2223-G1005,1,00:58.500000,CHA,,UTA,,K. Dunn,UTA,Dunn Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1005,2,10:45,CHA,33.0,UTA,36.0,K. Dunn,UTA,Dunn 7' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,5,69,7,1,2.0,2.0,v
+S2223-G1005,2,07:36,CHA,,UTA,,K. Dunn,UTA,MISS Dunn 28' 3PT Jump Shot,Missed Shot,Jump Shot,191,210,28,1,3.0,0.0,v
+S2223-G1005,2,07:30,CHA,,UTA,,K. Dunn,UTA,MISS Dunn 3' Layup,Missed Shot,Layup Shot,7,27,3,1,2.0,0.0,v
+S2223-G1005,2,07:09,CHA,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1005,2,07:04,CHA,,UTA,,K. Dunn,UTA,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,0,0,,,v
+S2223-G1005,3,01:56,CHA,,UTA,,K. Dunn,UTA,Dunn Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1005,3,00:19.600000,CHA,,UTA,,K. Dunn,UTA,MISS Dunn 6' Floating Jump Shot,Missed Shot,Floating Jump shot,2,58,6,1,2.0,0.0,v
+S2223-G1005,3,00:01.800000,CHA,,UTA,,K. Dunn,UTA,MISS Dunn 27' 3PT Jump Shot,Missed Shot,Jump Shot,127,239,27,1,3.0,0.0,v
+S2223-G1005,4,10:40,CHA,81.0,UTA,99.0,K. Dunn,UTA,Dunn 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,4,5,1,1,2.0,2.0,v
+S2223-G1005,4,09:32,CHA,,UTA,,K. Dunn,UTA,Dunn BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1005,4,08:05,CHA,,UTA,,K. Dunn,UTA,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,0,0,,,v
+S2223-G1228,1,10:55,LAL,,UTA,,K. Dunn,UTA,Dunn Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1228,1,10:29,LAL,,UTA,,K. Dunn,UTA,MISS Dunn 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-7,252,25,1,3.0,0.0,v
+S2223-G1228,1,10:01,LAL,,UTA,,K. Dunn,UTA,Dunn STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1228,1,09:28,LAL,,UTA,,K. Dunn,UTA,MISS Dunn 4' Driving Layup,Missed Shot,Driving Layup Shot,23,35,4,1,2.0,0.0,v
+S2223-G1228,1,07:28,LAL,15.0,UTA,7.0,K. Dunn,UTA,Dunn 9' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,18,93,9,1,2.0,2.0,v
+S2223-G1228,1,05:07,LAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1228,1,04:35,LAL,,UTA,,K. Dunn,UTA,SUB: Juzang FOR Dunn,Substitution,,0,0,0,0,,,v
+S2223-G1228,2,11:33,LAL,,UTA,,K. Dunn,UTA,MISS Dunn 3' Driving Layup,Missed Shot,Driving Layup Shot,-16,29,3,1,2.0,0.0,v
+S2223-G1228,2,10:14,LAL,36.0,UTA,31.0,K. Dunn,UTA,Dunn 26' 3PT Jump Shot (5 PTS) (Fontecchio 2 AST),Made Shot,Jump Shot,72,247,26,1,3.0,3.0,v
+S2223-G1228,2,07:13,LAL,,UTA,,K. Dunn,UTA,MISS Dunn 6' Floating Jump Shot,Missed Shot,Floating Jump shot,5,63,6,1,2.0,0.0,v
+S2223-G1228,2,03:26,LAL,,UTA,,K. Dunn,UTA,MISS Dunn 2' Layup,Missed Shot,Layup Shot,11,11,2,1,2.0,0.0,v
+S2223-G1228,2,02:57,LAL,53.0,UTA,52.0,K. Dunn,UTA,Dunn 4' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,12,41,4,1,2.0,2.0,v
+S2223-G1228,2,02:16,LAL,,UTA,,K. Dunn,UTA,MISS Dunn 1' Driving Layup,Missed Shot,Driving Layup Shot,13,-2,1,1,2.0,0.0,v
+S2223-G1228,3,09:47,LAL,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2223-G1228,3,09:38,LAL,74.0,UTA,63.0,K. Dunn,UTA,Dunn 6' Driving Floating Jump Shot (9 PTS) (Agbaji 7 AST),Made Shot,Driving Floating Jump Shot,-10,59,6,1,2.0,2.0,v
+S2223-G1228,3,09:16,LAL,77.0,UTA,65.0,K. Dunn,UTA,Dunn 8' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,20,75,8,1,2.0,2.0,v
+S2223-G1228,3,08:58,LAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1228,3,06:54,LAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1228,3,06:48,LAL,,UTA,,K. Dunn,UTA,MISS Dunn 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-20,115,12,1,2.0,0.0,v
+S2223-G1228,3,04:26,LAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1228,3,04:01,LAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1228,3,03:27,LAL,90.0,UTA,83.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1228,3,03:27,LAL,90.0,UTA,84.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1228,3,02:50,LAL,92.0,UTA,86.0,K. Dunn,UTA,Dunn 1' Finger Roll Layup (15 PTS),Made Shot,Finger Roll Layup Shot,10,11,1,1,2.0,2.0,v
+S2223-G1228,3,02:06,LAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1228,3,01:39,LAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1228,3,00:14,LAL,,UTA,,K. Dunn,UTA,Dunn P.FOUL (P2.PN) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2223-G1228,3,00:04.700000,LAL,97.0,UTA,95.0,K. Dunn,UTA,Dunn 2' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,-15,11,2,1,2.0,2.0,v
+S2223-G1228,4,07:43,LAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1228,4,07:37,LAL,,UTA,,K. Dunn,UTA,Dunn Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1228,4,07:23,LAL,,UTA,,K. Dunn,UTA,Dunn Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1228,4,06:48,LAL,112.0,UTA,105.0,K. Dunn,UTA,Dunn 10' Floating Jump Shot (19 PTS),Made Shot,Floating Jump shot,16,102,10,1,2.0,2.0,v
+S2223-G1228,4,06:20,LAL,115.0,UTA,108.0,K. Dunn,UTA,Dunn 24' 3PT Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,127,206,24,1,3.0,3.0,v
+S2223-G1228,4,06:02,LAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1228,4,05:21,LAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1228,4,05:08,LAL,115.0,UTA,110.0,K. Dunn,UTA,Dunn 17' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,-9,173,17,1,2.0,2.0,v
+S2223-G1228,4,02:49,LAL,120.0,UTA,117.0,K. Dunn,UTA,Dunn 1' Running Dunk (26 PTS) (Olynyk 4 AST),Made Shot,Running Dunk Shot,-2,8,1,1,2.0,2.0,v
+S2223-G0930,1,01:20,UTA,,SAS,,K. Dunn,UTA,MISS Dunn 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-17,25,3,1,2.0,0.0,h
+S2223-G0930,1,00:36.400000,UTA,,SAS,,K. Dunn,UTA,Dunn STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0930,1,00:01.100000,UTA,,SAS,,K. Dunn,UTA,Dunn S.FOUL (P1.T4) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0930,2,07:11,UTA,,SAS,,K. Dunn,UTA,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G0930,3,00:57.700000,UTA,,SAS,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0930,3,00:13.700000,UTA,73.0,SAS,69.0,K. Dunn,UTA,Dunn 7' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,-39,57,7,1,2.0,2.0,h
+S2223-G0930,4,11:05,UTA,75.0,SAS,74.0,K. Dunn,UTA,Dunn 10' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,0,99,10,1,2.0,2.0,h
+S2223-G0930,4,11:05,UTA,76.0,SAS,74.0,K. Dunn,UTA,Dunn Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0930,4,10:41,UTA,77.0,SAS,75.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0930,4,10:41,UTA,78.0,SAS,75.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0930,4,10:32,UTA,,SAS,,K. Dunn,UTA,Dunn STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0930,4,10:29,UTA,80.0,SAS,75.0,K. Dunn,UTA,Dunn 1' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,7,11,1,1,2.0,2.0,h
+S2223-G0930,4,09:46,UTA,,SAS,,K. Dunn,UTA,Dunn P.FOUL (P2.T4) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2223-G0930,4,08:02,UTA,,SAS,,K. Dunn,UTA,MISS Dunn 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,78,79,11,1,2.0,0.0,h
+S2223-G0930,4,05:48,UTA,,SAS,,K. Dunn,UTA,Dunn Out of Bounds Lost Ball Turnover (P1.T17),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0930,4,03:17,UTA,92.0,SAS,91.0,K. Dunn,UTA,Dunn 5' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,42,21,5,1,2.0,2.0,h
+S2223-G0930,4,02:27,UTA,,SAS,,K. Dunn,UTA,MISS Dunn 6' Layup,Missed Shot,Layup Shot,54,25,6,1,2.0,0.0,h
+S2223-G1213,1,11:45,UTA,,DEN,,K. Dunn,UTA,Dunn P.FOUL (P1.T1) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2223-G1213,1,11:25,UTA,,DEN,,K. Dunn,UTA,MISS Dunn 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,54,46,7,1,2.0,0.0,h
+S2223-G1213,1,11:09,UTA,,DEN,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,1,10:21,UTA,,DEN,,K. Dunn,UTA,Dunn STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1213,1,09:03,UTA,,DEN,,K. Dunn,UTA,MISS Dunn 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,44,84,9,1,2.0,0.0,h
+S2223-G1213,1,08:53,UTA,,DEN,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,1,08:31,UTA,,DEN,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,1,06:50,UTA,17.0,DEN,4.0,K. Dunn,UTA,Dunn 5' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,9,46,5,1,2.0,2.0,h
+S2223-G1213,1,04:14,UTA,,DEN,,K. Dunn,UTA,Dunn STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1213,1,04:10,UTA,26.0,DEN,8.0,K. Dunn,UTA,Dunn 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,20,17,3,1,2.0,2.0,h
+S2223-G1213,1,03:37,UTA,,DEN,,K. Dunn,UTA,Dunn Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1213,1,02:46,UTA,,DEN,,K. Dunn,UTA,SUB: Agbaji FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G1213,2,06:33,UTA,,DEN,,K. Dunn,UTA,Dunn Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1213,2,05:37,UTA,44.0,DEN,36.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1213,2,05:37,UTA,45.0,DEN,36.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1213,2,03:40,UTA,,DEN,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,2,03:36,UTA,,DEN,,K. Dunn,UTA,Dunn Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1213,2,03:19,UTA,50.0,DEN,38.0,K. Dunn,UTA,Dunn 3' Running Layup (8 PTS),Made Shot,Running Layup Shot,22,26,3,1,2.0,2.0,h
+S2223-G1213,2,03:19,UTA,51.0,DEN,38.0,K. Dunn,UTA,Dunn Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1213,2,00:30.600000,UTA,55.0,DEN,53.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1213,2,00:30.600000,UTA,56.0,DEN,53.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1213,2,00:02.600000,UTA,,DEN,,K. Dunn,UTA,MISS Dunn 8' Driving Layup,Missed Shot,Driving Layup Shot,58,49,8,1,2.0,0.0,h
+S2223-G1213,3,10:13,UTA,62.0,DEN,61.0,K. Dunn,UTA,Dunn 7' Floating Jump Shot (13 PTS),Made Shot,Floating Jump shot,6,68,7,1,2.0,2.0,h
+S2223-G1213,3,08:56,UTA,67.0,DEN,66.0,K. Dunn,UTA,Dunn 5' Turnaround Jump Shot (15 PTS),Made Shot,Turnaround Jump Shot,1,53,5,1,2.0,2.0,h
+S2223-G1213,3,08:51,UTA,,DEN,,K. Dunn,UTA,Dunn STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G1213,3,07:12,UTA,,DEN,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,3,06:29,UTA,78.0,DEN,72.0,K. Dunn,UTA,Dunn 5' Floating Jump Shot (17 PTS),Made Shot,Floating Jump shot,15,51,5,1,2.0,2.0,h
+S2223-G1213,3,06:29,UTA,79.0,DEN,72.0,K. Dunn,UTA,Dunn Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1213,3,05:16,UTA,,DEN,,K. Dunn,UTA,MISS Dunn 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,32,69,8,1,2.0,0.0,h
+S2223-G1213,3,03:50,UTA,,DEN,,K. Dunn,UTA,SUB: Juzang FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G1213,4,10:57,UTA,,DEN,,K. Dunn,UTA,Dunn BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1213,4,10:45,UTA,,DEN,,K. Dunn,UTA,MISS Dunn 5' Jump Shot,Missed Shot,Jump Shot,12,51,5,1,2.0,0.0,h
+S2223-G1213,4,07:57,UTA,,DEN,,K. Dunn,UTA,MISS Dunn 6' Driving Layup,Missed Shot,Driving Layup Shot,37,48,6,1,2.0,0.0,h
+S2223-G1213,4,06:38,UTA,,DEN,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,4,04:10,UTA,106.0,DEN,108.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1213,4,04:10,UTA,,DEN,,K. Dunn,UTA,MISS Dunn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1213,4,01:57,UTA,,DEN,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,4,01:41,UTA,,DEN,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,4,01:00,UTA,,DEN,,K. Dunn,UTA,MISS Dunn 10' Jump Shot,Missed Shot,Jump Shot,-55,85,10,1,2.0,0.0,h
+S2223-G1213,4,00:15.800000,UTA,,DEN,,K. Dunn,UTA,Dunn P.FOUL (P2.PN) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2223-G0951,1,03:08,OKC,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0951,1,02:31,OKC,26.0,UTA,24.0,K. Dunn,UTA,Dunn 7' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,66,20,7,1,2.0,2.0,v
+S2223-G0951,1,01:12,OKC,,UTA,,K. Dunn,UTA,Dunn BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0951,1,01:10,OKC,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0951,2,11:53,OKC,,UTA,,K. Dunn,UTA,Dunn Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0951,2,11:49,OKC,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P1.T1) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0951,2,08:34,OKC,,UTA,,K. Dunn,UTA,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,-232,-15,0,1,3.0,0.0,v
+S2223-G0951,2,08:20,OKC,,UTA,,K. Dunn,UTA,Dunn STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0951,2,08:03,OKC,,UTA,,K. Dunn,UTA,Dunn STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0951,2,07:30,OKC,,UTA,,K. Dunn,UTA,Dunn Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0951,2,07:06,OKC,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0951,2,07:03,OKC,,UTA,,K. Dunn,UTA,MISS Dunn 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,-21,-5,2,1,2.0,0.0,v
+S2223-G0951,2,06:23,OKC,,UTA,,K. Dunn,UTA,Dunn Violation:Defensive Goaltending (M.Dagher),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0951,2,06:01,OKC,51.0,UTA,38.0,K. Dunn,UTA,Dunn 7' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,-13,64,7,1,2.0,2.0,v
+S2223-G0951,2,05:08,OKC,,UTA,,K. Dunn,UTA,SUB: Markkanen FOR Dunn,Substitution,,0,0,0,0,,,v
+S2223-G0951,3,04:24,OKC,,UTA,,K. Dunn,UTA,MISS Dunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,43,24,1,3.0,0.0,v
+S2223-G0951,3,02:18,OKC,93.0,UTA,77.0,K. Dunn,UTA,Dunn 26' 3PT Jump Shot (7 PTS) (Fontecchio 1 AST),Made Shot,Jump Shot,0,259,26,1,3.0,3.0,v
+S2223-G0951,3,01:19,OKC,,UTA,,K. Dunn,UTA,MISS Dunn 3' Reverse Layup,Missed Shot,Reverse Layup Shot,22,25,3,1,2.0,0.0,v
+S2223-G0951,3,01:02,OKC,,UTA,,K. Dunn,UTA,Dunn STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0951,3,00:59,OKC,95.0,UTA,82.0,K. Dunn,UTA,Dunn 3' Running Reverse Layup (9 PTS),Made Shot,Running Reverse Layup Shot,-26,18,3,1,2.0,2.0,v
+S2223-G0951,3,00:29.200000,OKC,97.0,UTA,84.0,K. Dunn,UTA,Dunn 12' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,-39,117,12,1,2.0,2.0,v
+S2223-G0951,3,00:03.900000,OKC,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0951,4,11:16,OKC,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0951,4,08:53,OKC,,UTA,,K. Dunn,UTA,MISS Dunn 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,38,29,5,1,2.0,0.0,v
+S2223-G0951,4,05:50,OKC,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0951,4,05:03,OKC,,UTA,,K. Dunn,UTA,SUB: Juzang FOR Dunn,Substitution,,0,0,0,0,,,v
+S2223-G1062,1,02:12,UTA,,BOS,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1062,2,11:51,UTA,,BOS,,K. Dunn,UTA,Dunn P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2223-G1062,2,09:10,UTA,,BOS,,K. Dunn,UTA,MISS Dunn 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-53,92,11,1,2.0,0.0,h
+S2223-G1062,2,08:48,UTA,,BOS,,K. Dunn,UTA,Dunn Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1062,2,07:28,UTA,,BOS,,K. Dunn,UTA,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G1062,3,02:41,UTA,,BOS,,K. Dunn,UTA,MISS Dunn 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,69,66,10,1,2.0,0.0,h
+S2223-G1062,3,00:09.200000,UTA,88.0,BOS,91.0,K. Dunn,UTA,Dunn 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,42,248,25,1,3.0,3.0,h
+S2223-G1062,4,11:08,UTA,90.0,BOS,93.0,K. Dunn,UTA,Dunn 3' Driving Finger Roll Layup (5 PTS) (Juzang 1 AST),Made Shot,Driving Finger Roll Layup Shot,11,32,3,1,2.0,2.0,h
+S2223-G1062,4,10:52,UTA,91.0,BOS,93.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1062,4,10:52,UTA,92.0,BOS,93.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1062,4,09:07,UTA,,BOS,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1062,4,08:59,UTA,,BOS,,K. Dunn,UTA,MISS Dunn 3' Driving Layup,Missed Shot,Driving Layup Shot,-27,17,3,1,2.0,0.0,h
+S2223-G1062,4,07:00,UTA,,BOS,,K. Dunn,UTA,MISS Dunn 2' Driving Layup,Missed Shot,Driving Layup Shot,-9,15,2,1,2.0,0.0,h
+S2223-G1062,4,05:26,UTA,,BOS,,K. Dunn,UTA,MISS Dunn 9' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,82,34,9,1,2.0,0.0,h
+S2223-G1062,4,05:21,UTA,,BOS,,K. Dunn,UTA,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,0,0,,,h
+S2223-G1111,1,03:58,SAC,,UTA,,K. Dunn,UTA,MISS Dunn 4' Driving Layup,Missed Shot,Driving Layup Shot,33,13,4,1,2.0,0.0,v
+S2223-G1111,1,03:33,SAC,19.0,UTA,15.0,K. Dunn,UTA,Dunn 11' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-25,108,11,1,2.0,2.0,v
+S2223-G1111,1,03:07,SAC,,UTA,,K. Dunn,UTA,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,-228,98,25,1,3.0,0.0,v
+S2223-G1111,1,01:34,SAC,,UTA,,K. Dunn,UTA,MISS Dunn 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,18,45,5,1,2.0,0.0,v
+S2223-G1111,1,00:56,SAC,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1111,1,00:52,SAC,,UTA,,K. Dunn,UTA,MISS Dunn 2' Driving Layup,Missed Shot,Driving Layup Shot,15,16,2,1,2.0,0.0,v
+S2223-G1111,1,00:40.900000,SAC,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1111,2,04:39,SAC,,UTA,,K. Dunn,UTA,Dunn Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1111,2,04:20,SAC,,UTA,,K. Dunn,UTA,Dunn Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1111,2,02:44,SAC,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P1.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G1111,2,00:12.500000,SAC,55.0,UTA,61.0,K. Dunn,UTA,Dunn 5' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,25,42,5,1,2.0,2.0,v
+S2223-G1111,3,04:39,SAC,80.0,UTA,73.0,K. Dunn,UTA,Dunn 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,16,26,3,1,2.0,2.0,v
+S2223-G1111,3,01:00,SAC,,UTA,,K. Dunn,UTA,MISS Dunn 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,17,79,8,1,2.0,0.0,v
+S2223-G1111,3,00:46.100000,SAC,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1111,3,00:27.900000,SAC,,UTA,,K. Dunn,UTA,Dunn Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1111,4,04:12,SAC,110.0,UTA,103.0,K. Dunn,UTA,Dunn 3PT Jump Shot (9 PTS) (Kessler 2 AST),Made Shot,Jump Shot,228,49,0,1,3.0,3.0,v
+S2223-G1111,4,01:45,SAC,,UTA,,K. Dunn,UTA,MISS Dunn 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-10,104,10,1,2.0,0.0,v
+S2223-G1111,4,01:25,SAC,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1111,4,01:22,SAC,,UTA,,K. Dunn,UTA,MISS Dunn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1111,4,01:22,SAC,,UTA,,K. Dunn,UTA,MISS Dunn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1111,4,00:49.100000,SAC,119.0,UTA,112.0,K. Dunn,UTA,Dunn 7' Driving Layup (11 PTS) (Horton-Tucker 4 AST),Made Shot,Driving Layup Shot,17,70,7,1,2.0,2.0,v
+S2223-G1111,4,00:49.100000,SAC,119.0,UTA,113.0,K. Dunn,UTA,Dunn Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0983,1,05:43,DAL,,UTA,,K. Dunn,UTA,Dunn Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0983,1,05:06,DAL,,UTA,,K. Dunn,UTA,MISS Dunn 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-9,104,10,1,2.0,0.0,v
+S2223-G0983,1,02:22,DAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0983,1,01:38,DAL,28.0,UTA,26.0,K. Dunn,UTA,Dunn 7' Turnaround Bank Shot (2 PTS),Made Shot,Turnaround Bank shot,53,46,7,1,2.0,2.0,v
+S2223-G0983,1,01:31,DAL,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P1.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0983,2,04:14,DAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0983,2,02:59,DAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0983,2,02:28,DAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0983,2,02:21,DAL,,UTA,,K. Dunn,UTA,MISS Dunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,100,239,26,1,3.0,0.0,v
+S2223-G0983,2,00:35.800000,DAL,,UTA,,K. Dunn,UTA,MISS Dunn 4' Driving Layup,Missed Shot,Driving Layup Shot,13,34,4,1,2.0,0.0,v
+S2223-G0983,2,00:26.800000,DAL,,UTA,,K. Dunn,UTA,Dunn STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0983,2,00:21.300000,DAL,,UTA,,K. Dunn,UTA,MISS Dunn 4' Running Layup,Missed Shot,Running Layup Shot,-28,34,4,1,2.0,0.0,v
+S2223-G0983,3,04:12,DAL,76.0,UTA,71.0,K. Dunn,UTA,Dunn 25' 3PT Jump Shot (5 PTS) (Agbaji 2 AST),Made Shot,Jump Shot,-181,178,25,1,3.0,3.0,v
+S2223-G0983,3,03:15,DAL,79.0,UTA,72.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0983,3,03:15,DAL,79.0,UTA,73.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0983,3,02:16,DAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0983,3,01:45,DAL,81.0,UTA,77.0,K. Dunn,UTA,Dunn 10' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,22,101,10,1,2.0,2.0,v
+S2223-G0983,3,01:11,DAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0983,3,01:10,DAL,,UTA,,K. Dunn,UTA,Dunn Lost Ball Turnover (P2.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0983,3,00:33.200000,DAL,84.0,UTA,83.0,K. Dunn,UTA,Dunn 3' Running Layup (11 PTS) (Gay 2 AST),Made Shot,Running Layup Shot,-25,13,3,1,2.0,2.0,v
+S2223-G0983,4,05:11,DAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0983,4,03:59,DAL,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P2.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0983,4,01:32,DAL,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P3.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0983,4,01:01,DAL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0983,4,00:03.700000,DAL,,UTA,,K. Dunn,UTA,SUB: Jones FOR Dunn,Substitution,,0,0,0,0,,,v
+S2223-G0983,4,00:03,DAL,,UTA,,K. Dunn,UTA,Dunn Personal Take Foul (P4.PN) (M.Ervin),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0983,4,00:03,DAL,,UTA,,K. Dunn,UTA,SUB: Gay FOR Dunn,Substitution,,0,0,0,0,,,v
+S2223-G0994,1,04:02,ORL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0994,1,02:07,ORL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0994,2,11:39,ORL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0994,2,10:11,ORL,,UTA,,K. Dunn,UTA,Dunn P.FOUL (P1.T1) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0994,2,08:42,ORL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0994,2,08:28,ORL,,UTA,,K. Dunn,UTA,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,0,0,,,v
+S2223-G0994,3,02:44,ORL,,UTA,,K. Dunn,UTA,Dunn Out of Bounds Lost Ball Turnover (P1.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0994,3,02:08,ORL,,UTA,,K. Dunn,UTA,MISS Dunn 7' Floating Jump Shot,Missed Shot,Floating Jump shot,45,53,7,1,2.0,0.0,v
+S2223-G0994,3,01:56,ORL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0994,3,01:50,ORL,,UTA,,K. Dunn,UTA,MISS Dunn 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-22,58,6,1,2.0,0.0,v
+S2223-G0994,3,01:26,ORL,,UTA,,K. Dunn,UTA,Dunn STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0994,3,01:05,ORL,,UTA,,K. Dunn,UTA,Dunn BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0994,3,01:02,ORL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0994,3,00:19,ORL,94.0,UTA,97.0,K. Dunn,UTA,Dunn 12' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,115,12,1,2.0,2.0,v
+S2223-G0994,4,10:25,ORL,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P2.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0994,4,09:44,ORL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0994,4,09:39,ORL,,UTA,,K. Dunn,UTA,Dunn Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0994,4,08:57,ORL,102.0,UTA,105.0,K. Dunn,UTA,Dunn 5' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,37,32,5,1,2.0,2.0,v
+S2223-G0994,4,08:21,ORL,102.0,UTA,107.0,K. Dunn,UTA,Dunn 9' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,53,68,9,1,2.0,2.0,v
+S2223-G0994,4,08:05,ORL,,UTA,,K. Dunn,UTA,Dunn STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0994,4,07:38,ORL,,UTA,,K. Dunn,UTA,Dunn STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0994,4,06:47,ORL,103.0,UTA,111.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0994,4,06:47,ORL,103.0,UTA,112.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0994,4,06:08,ORL,,UTA,,K. Dunn,UTA,MISS Dunn 6' Dunk,Missed Shot,Dunk Shot,-43,41,6,1,2.0,0.0,v
+S2223-G0994,4,05:20,ORL,,UTA,,K. Dunn,UTA,MISS Dunn 27' 3PT Jump Shot,Missed Shot,Jump Shot,28,265,27,1,3.0,0.0,v
+S2223-G0994,4,04:27,ORL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0994,4,03:45,ORL,114.0,UTA,120.0,K. Dunn,UTA,Dunn 5' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,51,20,5,1,2.0,2.0,v
+S2223-G0994,4,02:58,ORL,,UTA,,K. Dunn,UTA,Dunn P.FOUL (P3.T4) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2223-G0994,4,01:42,ORL,118.0,UTA,124.0,K. Dunn,UTA,Dunn 12' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,-56,110,12,1,2.0,2.0,v
+S2223-G0994,4,00:32.100000,ORL,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P4.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2223-G0994,4,00:04.600000,ORL,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1022,1,03:45,MIA,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G1022,1,00:39.300000,MIA,,UTA,,K. Dunn,UTA,MISS Dunn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1022,1,00:39.300000,MIA,33.0,UTA,24.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1022,2,10:58,MIA,,UTA,,K. Dunn,UTA,MISS Dunn 4' Running Layup,Missed Shot,Running Layup Shot,6,38,4,1,2.0,0.0,v
+S2223-G1022,2,09:53,MIA,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1022,2,08:24,MIA,,UTA,,K. Dunn,UTA,Dunn Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1022,2,06:48,MIA,41.0,UTA,47.0,K. Dunn,UTA,Dunn 12' Floating Jump Shot (3 PTS),Made Shot,Floating Jump shot,-31,114,12,1,2.0,2.0,v
+S2223-G1022,2,06:04,MIA,,UTA,,K. Dunn,UTA,SUB: Olynyk FOR Dunn,Substitution,,0,0,0,0,,,v
+S2223-G1022,3,03:40,MIA,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1022,3,03:35,MIA,80.0,UTA,84.0,K. Dunn,UTA,Dunn Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1022,3,03:35,MIA,80.0,UTA,85.0,K. Dunn,UTA,Dunn Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1022,3,03:11,MIA,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1022,3,02:41,MIA,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P2.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G1022,3,00:51.500000,MIA,87.0,UTA,87.0,K. Dunn,UTA,Dunn 8' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,-9,79,8,1,2.0,2.0,v
+S2223-G1022,3,00:33.700000,MIA,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1022,4,11:38,MIA,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P3.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G1022,4,10:38,MIA,,UTA,,K. Dunn,UTA,MISS Dunn 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-26,54,6,1,2.0,0.0,v
+S2223-G1022,4,10:36,MIA,,UTA,,K. Dunn,UTA,Dunn Out of Bounds - Bad Pass Turnover Turnover (P2.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1022,4,10:16,MIA,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1022,4,09:11,MIA,,UTA,,K. Dunn,UTA,Dunn REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1022,4,09:01,MIA,,UTA,,K. Dunn,UTA,Dunn S.FOUL (P4.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G1022,4,07:40,MIA,105.0,UTA,102.0,K. Dunn,UTA,Dunn 9' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,29,81,9,1,2.0,2.0,v
+S2223-G1022,4,05:44,MIA,,UTA,,K. Dunn,UTA,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,0,0,,,v

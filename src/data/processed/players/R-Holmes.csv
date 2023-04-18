@@ -1,0 +1,330 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0036,1,03:35,SAC,,LAC,,R. Holmes,SAC,SUB: Barnes FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0036,2,04:51,SAC,,LAC,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0036,2,04:08,SAC,,LAC,,R. Holmes,SAC,Holmes S.FOUL (P1.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0036,2,04:08,SAC,,LAC,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0036,3,01:08,SAC,,LAC,,R. Holmes,SAC,Holmes S.FOUL (P2.T4) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2223-G0036,3,00:28.200000,SAC,,LAC,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0036,3,00:26.900000,SAC,,LAC,,R. Holmes,SAC,MISS Holmes 3' Hook Shot,Missed Shot,Hook Shot,2,31,3,1,2.0,0.0,h
+S2223-G0036,4,05:59,SAC,,LAC,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0036,4,05:59,SAC,93.0,LAC,103.0,R. Holmes,SAC,Holmes Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0036,4,04:43,SAC,,LAC,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0132,1,00:27.700000,ORL,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0132,1,00:08,ORL,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0132,2,11:34,ORL,,SAC,,R. Holmes,SAC,Holmes P.FOUL (P1.T1) (L.Wood),Foul,Personal,0,0,0,0,,,v
+S2223-G0132,2,10:58,ORL,35.0,SAC,27.0,R. Holmes,SAC,Holmes 1' Cutting Dunk Shot (2 PTS) (Davis 1 AST),Made Shot,Cutting Dunk Shot,7,7,1,1,2.0,2.0,v
+S2223-G0132,2,10:13,ORL,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0132,2,10:11,ORL,,SAC,,R. Holmes,SAC,MISS Holmes 3' Hook Shot,Missed Shot,Hook Shot,-22,22,3,1,2.0,0.0,v
+S2223-G0132,2,09:17,ORL,,SAC,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0807,4,09:21,NOP,,SAC,,R. Holmes,SAC,Holmes S.FOUL (P1.T2) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0807,4,07:41,NOP,116.0,SAC,87.0,R. Holmes,SAC,Holmes 5' Cutting Layup Shot (2 PTS) (Ellis 2 AST),Made Shot,Cutting Layup Shot,-26,42,5,1,2.0,2.0,v
+S2223-G0807,4,07:18,NOP,,SAC,,R. Holmes,SAC,Holmes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0807,4,06:06,NOP,,SAC,,R. Holmes,SAC,MISS Holmes 15' Jump Shot,Missed Shot,Jump Shot,-6,154,15,1,2.0,0.0,v
+S2223-G0807,4,03:31,NOP,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0807,4,03:15,NOP,,SAC,,R. Holmes,SAC,Holmes S.FOUL (P2.T4) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0807,4,02:36,NOP,,SAC,,R. Holmes,SAC,Holmes S.FOUL (P3.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0807,4,02:20,NOP,,SAC,,R. Holmes,SAC,MISS Holmes 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,4,52,5,1,2.0,0.0,v
+S2223-G0807,4,02:01,NOP,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0807,4,00:38.400000,NOP,133.0,SAC,104.0,R. Holmes,SAC,Holmes 3' Cutting Layup Shot (4 PTS) (Dellavedova 6 AST),Made Shot,Cutting Layup Shot,5,28,3,1,2.0,2.0,v
+S2223-G0807,4,00:38.400000,NOP,,SAC,,R. Holmes,SAC,MISS Holmes Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0369,4,00:48.200000,MIL,126.0,SAC,113.0,R. Holmes,SAC,Holmes 2' Driving Dunk (2 PTS) (Len 1 AST),Made Shot,Driving Dunk Shot,-10,15,2,1,2.0,2.0,v
+S2223-G0514,1,04:33,SAC,18.0,DEN,14.0,R. Holmes,SAC,Holmes 9' Floating Jump Shot (2 PTS) (Mitchell 1 AST),Made Shot,Floating Jump shot,-42,84,9,1,2.0,2.0,h
+S2223-G0514,1,04:04,SAC,20.0,DEN,14.0,R. Holmes,SAC,Holmes 3' Layup (4 PTS) (Murray 1 AST),Made Shot,Layup Shot,26,8,3,1,2.0,2.0,h
+S2223-G0514,1,02:43,SAC,,DEN,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,1,02:36,SAC,25.0,DEN,16.0,R. Holmes,SAC,Holmes 11' Floating Jump Shot (6 PTS) (Mitchell 3 AST),Made Shot,Floating Jump shot,37,105,11,1,2.0,2.0,h
+S2223-G0514,1,02:17,SAC,,DEN,,R. Holmes,SAC,Holmes P.FOUL (P1.T3) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2223-G0514,2,11:40,SAC,,DEN,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,2,07:26,SAC,,DEN,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,2,04:19,SAC,,DEN,,R. Holmes,SAC,SUB: Len FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0514,3,07:32,SAC,,DEN,,R. Holmes,SAC,Holmes S.FOUL (P2.T3) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0514,3,07:21,SAC,,DEN,,R. Holmes,SAC,MISS Holmes 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-87,79,12,1,2.0,0.0,h
+S2223-G0514,3,06:56,SAC,,DEN,,R. Holmes,SAC,Holmes Violation:Defensive Goaltending (M.Davis),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0514,3,04:24,SAC,73.0,DEN,69.0,R. Holmes,SAC,Holmes Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0514,3,04:24,SAC,74.0,DEN,69.0,R. Holmes,SAC,Holmes Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0514,3,04:16,SAC,,DEN,,R. Holmes,SAC,Holmes P.FOUL (P3.T4) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2223-G0514,3,04:16,SAC,,DEN,,R. Holmes,SAC,SUB: Okpala FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0514,4,07:58,SAC,,DEN,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,4,07:58,SAC,,DEN,,R. Holmes,SAC,MISS Holmes Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0514,4,07:57,SAC,,DEN,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,4,07:57,SAC,,DEN,,R. Holmes,SAC,MISS Holmes 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,11,25,3,1,2.0,0.0,h
+S2223-G0514,4,07:07,SAC,,DEN,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,4,06:38,SAC,,DEN,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,4,06:38,SAC,,DEN,,R. Holmes,SAC,SUB: Lyles FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G1145,4,05:49,POR,72.0,SAC,109.0,R. Holmes,SAC,Holmes 1' Cutting Dunk Shot (2 PTS) (Davis 1 AST),Made Shot,Cutting Dunk Shot,-6,7,1,1,2.0,2.0,v
+S2223-G1145,4,05:37,POR,,SAC,,R. Holmes,SAC,Holmes S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G1145,4,02:22,POR,,SAC,,R. Holmes,SAC,MISS Holmes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1145,4,02:22,POR,80.0,SAC,113.0,R. Holmes,SAC,Holmes Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0109,1,00:21.300000,MIA,,SAC,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0109,2,10:18,MIA,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0109,2,08:03,MIA,,SAC,,R. Holmes,SAC,Holmes P.FOUL (P1.T2) (E.Lewis),Foul,Personal,0,0,0,0,,,v
+S2223-G0109,2,07:46,MIA,,SAC,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0109,3,01:01,MIA,73.0,SAC,76.0,R. Holmes,SAC,Holmes 6' Floating Jump Shot (2 PTS) (Monk 6 AST),Made Shot,Floating Jump shot,-36,46,6,1,2.0,2.0,v
+S2223-G0109,4,11:20,MIA,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0109,4,11:18,MIA,77.0,SAC,78.0,R. Holmes,SAC,Holmes 1' Hook Shot (4 PTS),Made Shot,Hook Shot,12,1,1,1,2.0,2.0,v
+S2223-G0109,4,10:53,MIA,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0109,4,10:12,MIA,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0109,4,09:15,MIA,,SAC,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0563,1,02:11,UTA,,SAC,,R. Holmes,SAC,Holmes S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0563,1,01:12,UTA,,SAC,,R. Holmes,SAC,MISS Holmes 3' Layup,Missed Shot,Layup Shot,22,13,3,1,2.0,0.0,v
+S2223-G0563,1,00:06.900000,UTA,,SAC,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0563,2,11:05,UTA,,SAC,,R. Holmes,SAC,Holmes OFF.Foul (P2) (N.Buchert),Foul,Offensive,0,0,0,0,,,v
+S2223-G0563,2,11:05,UTA,,SAC,,R. Holmes,SAC,Holmes Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0563,2,08:48,UTA,,SAC,,R. Holmes,SAC,SUB: Murray FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0563,4,09:39,UTA,,SAC,,R. Holmes,SAC,SUB: Murray FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0522,1,04:40,SAC,,DEN,,R. Holmes,SAC,Holmes S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0522,1,04:20,SAC,,DEN,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0522,1,02:21,SAC,,DEN,,R. Holmes,SAC,SUB: Fox FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0522,2,10:11,SAC,,DEN,,R. Holmes,SAC,Holmes STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0522,2,09:45,SAC,,DEN,,R. Holmes,SAC,Holmes P.FOUL (P2.T1) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2223-G0522,2,09:11,SAC,,DEN,,R. Holmes,SAC,Holmes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0522,2,08:43,SAC,,DEN,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0522,4,11:29,SAC,,DEN,,R. Holmes,SAC,MISS Holmes 3' Layup,Missed Shot,Layup Shot,-22,12,3,1,2.0,0.0,h
+S2223-G0522,4,10:10,SAC,,DEN,,R. Holmes,SAC,Holmes BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0522,4,08:05,SAC,,DEN,,R. Holmes,SAC,SUB: Mitchell FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0575,1,01:16,SAC,,ATL,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0575,1,00:58.900000,SAC,,ATL,,R. Holmes,SAC,MISS Holmes 8' Hook Shot,Missed Shot,Hook Shot,-65,48,8,1,2.0,0.0,h
+S2223-G0575,1,00:29.500000,SAC,,ATL,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0575,2,11:43,SAC,,ATL,,R. Holmes,SAC,MISS Holmes 1' Dunk,Missed Shot,Dunk Shot,-9,8,1,1,2.0,0.0,h
+S2223-G0575,2,09:36,SAC,,ATL,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0712,1,01:48,SAC,,MEM,,R. Holmes,SAC,Holmes S.FOUL (P1.T2) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2223-G0712,1,01:28,SAC,,MEM,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0712,1,01:28,SAC,38.0,MEM,30.0,R. Holmes,SAC,Holmes 2' Layup (2 PTS),Made Shot,Layup Shot,12,12,2,1,2.0,2.0,h
+S2223-G0712,1,01:28,SAC,39.0,MEM,30.0,R. Holmes,SAC,Holmes Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0712,2,11:15,SAC,,MEM,,R. Holmes,SAC,Holmes Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0712,2,09:11,SAC,,MEM,,R. Holmes,SAC,SUB: Mitchell FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0712,2,00:40.800000,SAC,,MEM,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0712,3,01:24,SAC,,MEM,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0712,3,01:13,SAC,97.0,MEM,86.0,R. Holmes,SAC,Holmes 1' Cutting Dunk Shot (5 PTS) (Fox 7 AST),Made Shot,Cutting Dunk Shot,7,10,1,1,2.0,2.0,h
+S2223-G0712,4,11:44,SAC,,MEM,,R. Holmes,SAC,Holmes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0712,4,10:36,SAC,,MEM,,R. Holmes,SAC,Holmes L.B.FOUL (P2.T1) (B.Barnaky),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0712,4,10:23,SAC,,MEM,,R. Holmes,SAC,Holmes S.FOUL (P3.T2) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2223-G0712,4,08:07,SAC,,MEM,,R. Holmes,SAC,MISS Holmes 7' Driving Dunk,Missed Shot,Driving Dunk Shot,47,51,7,1,2.0,0.0,h
+S2223-G0712,4,07:05,SAC,,MEM,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0712,4,07:05,SAC,,MEM,,R. Holmes,SAC,MISS Holmes Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0712,4,06:45,SAC,,MEM,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0728,2,11:28,SAC,24.0,TOR,27.0,R. Holmes,SAC,Holmes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0728,2,11:28,SAC,25.0,TOR,27.0,R. Holmes,SAC,Holmes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0728,2,10:00,SAC,30.0,TOR,32.0,R. Holmes,SAC,Holmes 12' Floating Jump Shot (4 PTS) (Lyles 2 AST),Made Shot,Floating Jump shot,51,105,12,1,2.0,2.0,h
+S2223-G0728,2,08:47,SAC,,TOR,,R. Holmes,SAC,SUB: Mitchell FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0417,3,02:40,TOR,,SAC,,R. Holmes,SAC,MISS Holmes 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-29,96,10,1,2.0,0.0,v
+S2223-G0417,3,01:27,TOR,,SAC,,R. Holmes,SAC,Holmes S.FOUL (P1.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2223-G0417,3,01:11,TOR,89.0,SAC,86.0,R. Holmes,SAC,Holmes 7' Turnaround Hook Shot (2 PTS) (Lyles 1 AST),Made Shot,Turnaround Hook Shot,10,69,7,1,2.0,2.0,v
+S2223-G0417,3,00:02.500000,TOR,,SAC,,R. Holmes,SAC,Holmes S.FOUL (P2.PN) (B.Haskill),Foul,Shooting,0,0,0,0,,,v
+S2223-G0323,4,06:37,SAC,,IND,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0323,4,05:07,SAC,,IND,,R. Holmes,SAC,MISS Holmes 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-32,99,10,1,2.0,0.0,h
+S2223-G0323,4,04:40,SAC,,IND,,R. Holmes,SAC,MISS Holmes 25' 3PT Jump Shot,Missed Shot,Jump Shot,234,80,25,1,3.0,0.0,h
+S2223-G0323,4,04:01,SAC,,IND,,R. Holmes,SAC,Holmes S.FOUL (P1.PN) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0677,1,10:39,LAL,5.0,SAC,4.0,R. Holmes,SAC,Holmes 3' Reverse Layup (2 PTS) (Huerter 1 AST),Made Shot,Reverse Layup Shot,-25,7,3,1,2.0,2.0,v
+S2223-G0677,1,10:25,LAL,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,1,08:16,LAL,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,1,07:44,LAL,,SAC,,R. Holmes,SAC,Holmes Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0677,1,07:17,LAL,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,1,07:17,LAL,15.0,SAC,11.0,R. Holmes,SAC,Holmes Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0677,1,05:19,LAL,,SAC,,R. Holmes,SAC,SUB: Metu FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0677,2,07:41,LAL,47.0,SAC,38.0,R. Holmes,SAC,Holmes 2' Driving Layup (6 PTS) (Huerter 3 AST),Made Shot,Driving Layup Shot,15,4,2,1,2.0,2.0,v
+S2223-G0677,2,05:32,LAL,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,2,01:45,LAL,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,2,00:47.700000,LAL,,SAC,,R. Holmes,SAC,Holmes S.FOUL (P1.PN) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,v
+S2223-G0677,2,00:02.200000,LAL,60.0,SAC,61.0,R. Holmes,SAC,Holmes 3' Driving Layup (8 PTS) (Huerter 4 AST),Made Shot,Driving Layup Shot,-17,28,3,1,2.0,2.0,v
+S2223-G0677,3,11:26,LAL,,SAC,,R. Holmes,SAC,Holmes Traveling Turnover (P2.T8),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0677,3,11:01,LAL,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,3,10:23,LAL,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,3,06:51,LAL,69.0,SAC,74.0,R. Holmes,SAC,Holmes 3' Finger Roll Layup (10 PTS) (Huerter 6 AST),Made Shot,Finger Roll Layup Shot,23,19,3,1,2.0,2.0,v
+S2223-G0677,3,06:09,LAL,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,3,05:27,LAL,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,3,04:12,LAL,72.0,SAC,81.0,R. Holmes,SAC,Holmes 6' Turnaround Hook Shot (12 PTS) (Huerter 7 AST),Made Shot,Turnaround Hook Shot,0,58,6,1,2.0,2.0,v
+S2223-G0677,3,03:27,LAL,,SAC,,R. Holmes,SAC,SUB: Metu FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0677,4,05:51,LAL,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,4,05:51,LAL,101.0,SAC,103.0,R. Holmes,SAC,Holmes Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0677,4,00:32.100000,LAL,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,4,00:30.400000,LAL,,SAC,,R. Holmes,SAC,SUB: Huerter FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0677,4,00:05,LAL,111.0,SAC,113.0,R. Holmes,SAC,Holmes Free Throw Clear Path 1 of 2 (15 PTS),Free Throw,Free Throw Clear Path 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0677,4,00:05,LAL,111.0,SAC,114.0,R. Holmes,SAC,Holmes Free Throw Clear Path 2 of 2 (16 PTS),Free Throw,Free Throw Clear Path 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0677,4,00:04.100000,LAL,,SAC,,R. Holmes,SAC,SUB: Mitchell FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0698,3,01:16,SAC,96.0,PHI,100.0,R. Holmes,SAC,Holmes 1' Dunk (2 PTS) (Monk 3 AST),Made Shot,Dunk Shot,9,8,1,1,2.0,2.0,h
+S2223-G0698,4,10:10,SAC,98.0,PHI,107.0,R. Holmes,SAC,Holmes 4' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,32,29,4,1,2.0,2.0,h
+S2223-G0698,4,09:48,SAC,,PHI,,R. Holmes,SAC,Holmes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0698,4,09:24,SAC,,PHI,,R. Holmes,SAC,Holmes BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0698,4,08:29,SAC,,PHI,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0698,4,08:18,SAC,,PHI,,R. Holmes,SAC,SUB: Huerter FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G1159,4,00:29.600000,POR,,SAC,,R. Holmes,SAC,MISS Holmes 26' 3PT Jump Shot,Missed Shot,Jump Shot,-197,163,26,1,3.0,0.0,v
+S2223-G1227,4,10:48,DEN,,SAC,,R. Holmes,SAC,MISS Holmes 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-22,46,5,1,2.0,0.0,v
+S2223-G1227,4,08:05,DEN,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1227,4,07:33,DEN,,SAC,,R. Holmes,SAC,MISS Holmes 26' 3PT Jump Shot,Missed Shot,Jump Shot,-165,204,26,1,3.0,0.0,v
+S2223-G1227,4,05:06,DEN,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1227,4,04:11,DEN,,SAC,,R. Holmes,SAC,SUB: Queta FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0338,4,03:31,LAC,,SAC,,R. Holmes,SAC,Holmes S.FOUL (P1.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G1211,2,10:15,SAC,,GSW,,R. Holmes,SAC,MISS Holmes 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-71,21,7,1,2.0,0.0,h
+S2223-G1211,2,08:54,SAC,26.0,GSW,34.0,R. Holmes,SAC,Holmes 2' Cutting Layup Shot (2 PTS),Made Shot,Cutting Layup Shot,15,12,2,1,2.0,2.0,h
+S2223-G1211,2,07:52,SAC,,GSW,,R. Holmes,SAC,Holmes S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G1211,2,06:38,SAC,35.0,GSW,36.0,R. Holmes,SAC,Holmes 25' 3PT Jump Shot (5 PTS) (Murray 1 AST),Made Shot,Jump Shot,148,204,25,1,3.0,3.0,h
+S2223-G1211,2,05:33,SAC,,GSW,,R. Holmes,SAC,MISS Holmes 3' Driving Layup,Missed Shot,Driving Layup Shot,28,7,3,1,2.0,0.0,h
+S2223-G1211,2,04:21,SAC,,GSW,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,2,03:59,SAC,,GSW,,R. Holmes,SAC,MISS Holmes 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-1,75,8,1,2.0,0.0,h
+S2223-G1211,2,03:49,SAC,,GSW,,R. Holmes,SAC,SUB: Len FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G1211,4,10:22,SAC,,GSW,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,4,10:17,SAC,,GSW,,R. Holmes,SAC,MISS Holmes Putback Dunk,Missed Shot,Putback Dunk Shot,0,0,0,1,2.0,0.0,h
+S2223-G1211,4,07:30,SAC,81.0,GSW,98.0,R. Holmes,SAC,Holmes 3' Cutting Layup Shot (7 PTS) (Lyles 1 AST),Made Shot,Cutting Layup Shot,26,6,3,1,2.0,2.0,h
+S2223-G1211,4,06:47,SAC,83.0,GSW,101.0,R. Holmes,SAC,Holmes 13' Floating Jump Shot (9 PTS) (Murray 3 AST),Made Shot,Floating Jump shot,17,126,13,1,2.0,2.0,h
+S2223-G1211,4,06:33,SAC,,GSW,,R. Holmes,SAC,Holmes S.FOUL (P2.T4) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G1211,4,06:21,SAC,,GSW,,R. Holmes,SAC,MISS Holmes 4' Driving Layup,Missed Shot,Driving Layup Shot,28,35,4,1,2.0,0.0,h
+S2223-G1211,4,06:18,SAC,,GSW,,R. Holmes,SAC,Holmes REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,4,06:17,SAC,85.0,GSW,104.0,R. Holmes,SAC,Holmes 2' Putback Dunk (11 PTS),Made Shot,Putback Dunk Shot,16,9,2,1,2.0,2.0,h
+S2223-G1211,4,05:52,SAC,,GSW,,R. Holmes,SAC,MISS Holmes 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,27,9,3,1,2.0,0.0,h
+S2223-G1211,4,04:22,SAC,,GSW,,R. Holmes,SAC,SUB: Ellis FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0640,4,03:00,SAC,132.0,HOU,109.0,R. Holmes,SAC,Holmes 25' 3PT Jump Shot (3 PTS) (Lyles 2 AST),Made Shot,Jump Shot,-49,249,25,1,3.0,3.0,h
+S2223-G0640,4,01:43,SAC,,HOU,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0640,4,01:11,SAC,139.0,HOU,113.0,R. Holmes,SAC,Holmes 11' Floating Jump Shot (5 PTS) (Dellavedova 2 AST),Made Shot,Floating Jump shot,-10,112,11,1,2.0,2.0,h
+S2223-G0640,4,00:20.800000,SAC,,HOU,,R. Holmes,SAC,Holmes P.FOUL (P1.PN) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2223-G0210,4,06:23,SAC,133.0,BKN,96.0,R. Holmes,SAC,Holmes 2' Cutting Dunk Shot (2 PTS) (Monk 6 AST),Made Shot,Cutting Dunk Shot,-1,15,2,1,2.0,2.0,h
+S2223-G0210,4,04:49,SAC,,BKN,,R. Holmes,SAC,Holmes S.FOUL (P1.T4) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0210,4,03:31,SAC,,BKN,,R. Holmes,SAC,Holmes Personal Take Foul (P2.PN) (J.Goble),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0210,4,01:52,SAC,146.0,BKN,114.0,R. Holmes,SAC,Holmes 3PT Jump Shot (5 PTS) (Davis 4 AST),Made Shot,Jump Shot,-227,21,0,1,3.0,3.0,h
+S2223-G0210,4,01:18,SAC,,BKN,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0928,4,11:01,OKC,,SAC,,R. Holmes,SAC,Holmes OFF.Foul (P1) (A.Smith),Foul,Offensive,0,0,0,0,,,v
+S2223-G0928,4,11:01,OKC,,SAC,,R. Holmes,SAC,Holmes Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0928,4,11:01,OKC,,SAC,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0894,4,01:48,SAC,132.0,POR,111.0,R. Holmes,SAC,Holmes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0894,4,01:48,SAC,133.0,POR,111.0,R. Holmes,SAC,Holmes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0069,1,02:41,SAC,,MEM,,R. Holmes,SAC,Holmes S.FOUL (P1.T2) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0069,1,01:02,SAC,,MEM,,R. Holmes,SAC,Holmes S.FOUL (P2.T3) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0069,1,01:02,SAC,,MEM,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0069,4,11:28,SAC,,MEM,,R. Holmes,SAC,Holmes L.B.FOUL (P3.T1) (M.Dagher),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0069,4,09:50,SAC,,MEM,,R. Holmes,SAC,Jump Ball Holmes vs. Aldama: Tip to Mitchell,Jump Ball,,0,0,0,0,,,h
+S2223-G0069,4,09:26,SAC,,MEM,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0069,4,07:54,SAC,,MEM,,R. Holmes,SAC,SUB: Fox FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0547,1,04:12,MEM,,SAC,,R. Holmes,SAC,Holmes S.FOUL (P1.T4) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0547,1,03:28,MEM,,SAC,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0547,1,00:32.800000,MEM,,SAC,,R. Holmes,SAC,SUB: Huerter FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0547,2,05:51,MEM,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0547,2,05:36,MEM,,SAC,,R. Holmes,SAC,Holmes Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0547,2,04:46,MEM,48.0,SAC,46.0,R. Holmes,SAC,Holmes 1' Layup (2 PTS) (Huerter 4 AST),Made Shot,Layup Shot,5,-4,1,1,2.0,2.0,v
+S2223-G0547,2,04:18,MEM,,SAC,,R. Holmes,SAC,SUB: Monk FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0547,2,00:35.500000,MEM,,SAC,,R. Holmes,SAC,Holmes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0547,3,01:45,MEM,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0547,3,01:12,MEM,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0547,4,10:06,MEM,,SAC,,R. Holmes,SAC,Holmes BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0547,4,09:42,MEM,,SAC,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0409,4,04:43,PHI,117.0,SAC,93.0,R. Holmes,SAC,Holmes 9' Hook Shot (2 PTS) (Mitchell 3 AST),Made Shot,Hook Shot,-2,85,9,1,2.0,2.0,v
+S2223-G0409,4,03:28,PHI,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0409,4,03:28,PHI,120.0,SAC,97.0,R. Holmes,SAC,Holmes Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0409,4,03:11,PHI,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0409,4,02:30,PHI,120.0,SAC,103.0,R. Holmes,SAC,Holmes 26' 3PT Jump Shot (7 PTS) (Mitchell 4 AST),Made Shot,Jump Shot,11,257,26,1,3.0,3.0,v
+S2223-G0409,4,01:30,PHI,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0409,4,00:05.600000,PHI,,SAC,,R. Holmes,SAC,MISS Holmes 4' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,25,32,4,1,2.0,0.0,v
+S2223-G0537,1,00:41.600000,SAC,,UTA,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0537,1,00:12.200000,SAC,,UTA,,R. Holmes,SAC,SUB: Huerter FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0537,2,11:37,SAC,,UTA,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0537,2,09:13,SAC,,UTA,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0537,2,09:05,SAC,,UTA,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0537,2,09:03,SAC,41.0,UTA,34.0,R. Holmes,SAC,Holmes 4' Layup (2 PTS) (Monk 2 AST),Made Shot,Layup Shot,-29,27,4,1,2.0,2.0,h
+S2223-G0537,2,09:03,SAC,42.0,UTA,34.0,R. Holmes,SAC,Holmes Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0537,2,07:53,SAC,,UTA,,R. Holmes,SAC,Holmes P.FOUL (P1.T1) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2223-G0537,2,07:53,SAC,,UTA,,R. Holmes,SAC,SUB: Barnes FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0537,3,02:46,SAC,83.0,UTA,79.0,R. Holmes,SAC,Holmes 7' Turnaround Hook Shot (5 PTS) (Fox 5 AST),Made Shot,Turnaround Hook Shot,65,0,7,1,2.0,2.0,h
+S2223-G0537,3,01:57,SAC,87.0,UTA,79.0,R. Holmes,SAC,Holmes 1' Running Dunk (7 PTS) (Monk 5 AST),Made Shot,Running Dunk Shot,7,8,1,1,2.0,2.0,h
+S2223-G0537,3,00:56.500000,SAC,,UTA,,R. Holmes,SAC,Holmes OFF.Foul (P2) (E.Scott),Foul,Offensive,0,0,0,0,,,h
+S2223-G0537,3,00:56.500000,SAC,,UTA,,R. Holmes,SAC,Holmes Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0537,4,11:39,SAC,,UTA,,R. Holmes,SAC,Holmes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0537,4,10:39,SAC,,UTA,,R. Holmes,SAC,Holmes S.FOUL (P3.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0537,4,09:59,SAC,,UTA,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0014,1,02:18,SAC,,POR,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0014,2,11:35,SAC,,POR,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0014,2,09:49,SAC,,POR,,R. Holmes,SAC,Holmes STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0014,2,07:41,SAC,,POR,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0014,3,01:20,SAC,,POR,,R. Holmes,SAC,Holmes P.FOUL (P1.PN) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2223-G0014,3,00:41.300000,SAC,,POR,,R. Holmes,SAC,Holmes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0014,4,10:02,SAC,,POR,,R. Holmes,SAC,Holmes P.FOUL (P2.T1) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2223-G0014,4,09:31,SAC,89.0,POR,90.0,R. Holmes,SAC,Holmes 1' Dunk (2 PTS) (Fox 6 AST),Made Shot,Dunk Shot,-1,11,1,1,2.0,2.0,h
+S2223-G0014,4,09:13,SAC,,POR,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0014,4,08:11,SAC,,POR,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0014,4,00:22.200000,SAC,,POR,,R. Holmes,SAC,SUB: Lyles FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G1081,4,04:42,SAC,,BOS,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1081,4,04:42,SAC,,BOS,,R. Holmes,SAC,Holmes Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1081,4,01:58,SAC,,BOS,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1081,4,01:50,SAC,102.0,BOS,126.0,R. Holmes,SAC,Holmes 25' 3PT Jump Shot (3 PTS) (Dellavedova 1 AST),Made Shot,Jump Shot,153,201,25,1,3.0,3.0,h
+S2223-G1081,4,01:26,SAC,104.0,BOS,128.0,R. Holmes,SAC,Holmes 11' Floating Jump Shot (5 PTS) (Dellavedova 2 AST),Made Shot,Floating Jump shot,28,109,11,1,2.0,2.0,h
+S2223-G1081,4,00:34.500000,SAC,,BOS,,R. Holmes,SAC,Holmes Violation:Defensive Goaltending (J.DeRosa),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G1185,4,00:25,NOP,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0429,3,00:29.300000,DET,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0429,4,11:44,DET,86.0,SAC,95.0,R. Holmes,SAC,Holmes 4' Alley Oop Layup (2 PTS) (Fox 9 AST),Made Shot,Alley Oop Layup shot,26,25,4,1,2.0,2.0,v
+S2223-G0429,4,10:21,DET,,SAC,,R. Holmes,SAC,SUB: Huerter FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0096,2,09:26,CHA,37.0,SAC,30.0,R. Holmes,SAC,Holmes 1' Layup (2 PTS) (Monk 1 AST),Made Shot,Layup Shot,-4,8,1,1,2.0,2.0,v
+S2223-G0096,2,07:55,CHA,,SAC,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0096,2,01:57,CHA,,SAC,,R. Holmes,SAC,SUB: Len FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0096,3,00:06.500000,CHA,,SAC,,R. Holmes,SAC,Holmes OFF.Foul (P1) (S.Corbin),Foul,Offensive,0,0,0,0,,,v
+S2223-G0096,3,00:06.500000,CHA,,SAC,,R. Holmes,SAC,Holmes Offensive Foul Turnover (P1.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0096,4,10:21,CHA,,SAC,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G1111,2,11:37,SAC,,UTA,,R. Holmes,SAC,MISS Holmes 3' Layup,Missed Shot,Layup Shot,15,31,3,1,2.0,0.0,h
+S2223-G1111,2,10:45,SAC,,UTA,,R. Holmes,SAC,MISS Holmes 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,5,67,7,1,2.0,0.0,h
+S2223-G1111,2,10:41,SAC,,UTA,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1111,2,10:28,SAC,,UTA,,R. Holmes,SAC,Holmes S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G1111,2,09:19,SAC,,UTA,,R. Holmes,SAC,MISS Holmes 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-6,117,12,1,2.0,0.0,h
+S2223-G1111,2,08:27,SAC,,UTA,,R. Holmes,SAC,SUB: Dellavedova FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0491,2,09:27,SAC,,WAS,,R. Holmes,SAC,Holmes S.FOUL (P1.T3) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0491,2,07:02,SAC,,WAS,,R. Holmes,SAC,SUB: Mitchell FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0491,4,11:43,SAC,,WAS,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0491,4,10:02,SAC,,WAS,,R. Holmes,SAC,Holmes S.FOUL (P2.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0491,4,10:02,SAC,,WAS,,R. Holmes,SAC,SUB: Barnes FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0595,1,00:06.300000,SAC,,LAL,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0595,1,00:06.300000,SAC,,LAL,,R. Holmes,SAC,MISS Holmes Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0595,1,00:04.200000,SAC,,LAL,,R. Holmes,SAC,SUB: Okpala FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0595,2,11:28,SAC,,LAL,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0595,2,11:28,SAC,40.0,LAL,37.0,R. Holmes,SAC,Holmes 2' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,-13,12,2,1,2.0,2.0,h
+S2223-G0595,2,10:38,SAC,,LAL,,R. Holmes,SAC,Holmes REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0595,2,09:46,SAC,,LAL,,R. Holmes,SAC,KINGS T.Foul (Def. 3 Sec Holmes ) (P.Fraher),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G0595,2,09:23,SAC,,LAL,,R. Holmes,SAC,Holmes OFF.Foul (P1) (J.Goble),Foul,Offensive,0,0,0,0,,,h
+S2223-G0595,2,09:23,SAC,,LAL,,R. Holmes,SAC,Holmes Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0595,2,09:09,SAC,,LAL,,R. Holmes,SAC,Holmes L.B.FOUL (P2.T2) (P.Fraher),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0595,2,08:31,SAC,,LAL,,R. Holmes,SAC,SUB: Barnes FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0595,3,08:04,SAC,,LAL,,R. Holmes,SAC,Holmes S.FOUL (P3.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0595,3,07:35,SAC,,LAL,,R. Holmes,SAC,Holmes REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0595,3,06:39,SAC,94.0,LAL,89.0,R. Holmes,SAC,Holmes 1' Cutting Dunk Shot (4 PTS) (Fox 8 AST),Made Shot,Cutting Dunk Shot,4,10,1,1,2.0,2.0,h
+S2223-G0595,3,04:48,SAC,,LAL,,R. Holmes,SAC,Holmes REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0595,3,03:42,SAC,,LAL,,R. Holmes,SAC,SUB: Mitchell FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0081,1,00:17.900000,SAC,,MIA,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0081,2,11:04,SAC,,MIA,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0081,2,09:14,SAC,,MIA,,R. Holmes,SAC,SUB: Mitchell FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0081,2,00:16.700000,SAC,,MIA,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0081,3,09:26,SAC,,MIA,,R. Holmes,SAC,Holmes S.FOUL (P1.T3) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0081,3,07:59,SAC,,MIA,,R. Holmes,SAC,Holmes OFF.Foul (P2) (N.Buchert),Foul,Offensive,0,0,0,0,,,h
+S2223-G0081,3,07:59,SAC,,MIA,,R. Holmes,SAC,Holmes Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0081,3,07:35,SAC,,MIA,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0081,3,06:32,SAC,78.0,MIA,64.0,R. Holmes,SAC,Holmes 7' Cutting Layup Shot (2 PTS) (Barnes 4 AST),Made Shot,Cutting Layup Shot,56,37,7,1,2.0,2.0,h
+S2223-G0081,3,05:50,SAC,,MIA,,R. Holmes,SAC,SUB: Lyles FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0081,3,01:21,SAC,,MIA,,R. Holmes,SAC,MISS Holmes 10' Hook Shot,Missed Shot,Hook Shot,-66,69,10,1,2.0,0.0,h
+S2223-G0081,3,00:47.500000,SAC,,MIA,,R. Holmes,SAC,Holmes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0081,4,09:51,SAC,,MIA,,R. Holmes,SAC,MISS Holmes 11' Floating Jump Shot,Missed Shot,Floating Jump shot,32,101,11,1,2.0,0.0,h
+S2223-G0081,4,09:39,SAC,,MIA,,R. Holmes,SAC,SUB: Mitchell FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0081,4,04:12,SAC,110.0,MIA,102.0,R. Holmes,SAC,Holmes 2' Layup (4 PTS) (Barnes 6 AST),Made Shot,Layup Shot,16,13,2,1,2.0,2.0,h
+S2223-G0081,4,01:26,SAC,117.0,MIA,110.0,R. Holmes,SAC,Holmes Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0081,4,01:26,SAC,,MIA,,R. Holmes,SAC,MISS Holmes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0081,4,00:56.100000,SAC,,MIA,,R. Holmes,SAC,SUB: Lyles FOR Holmes,Substitution,,0,0,0,0,,,h
+S2223-G0042,1,04:28,GSW,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0042,1,03:49,GSW,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0042,1,03:45,GSW,25.0,SAC,25.0,R. Holmes,SAC,Holmes Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0042,1,03:25,GSW,,SAC,,R. Holmes,SAC,Holmes S.FOUL (P1.T1) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0042,1,02:30,GSW,30.0,SAC,30.0,R. Holmes,SAC,Holmes 8' Floating Jump Shot (4 PTS) (Mitchell 1 AST),Made Shot,Floating Jump shot,7,78,8,1,2.0,2.0,v
+S2223-G0042,1,02:17,GSW,,SAC,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0042,1,00:50.300000,GSW,,SAC,,R. Holmes,SAC,MISS Holmes 3' Layup,Missed Shot,Layup Shot,11,29,3,1,2.0,0.0,v
+S2223-G0042,1,00:28.700000,GSW,,SAC,,R. Holmes,SAC,MISS Holmes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0042,1,00:28.700000,GSW,37.0,SAC,36.0,R. Holmes,SAC,Holmes Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0042,2,11:33,GSW,,SAC,,R. Holmes,SAC,Holmes OFF.Foul (P2) (K.Cutler),Foul,Offensive,0,0,0,0,,,v
+S2223-G0042,2,11:33,GSW,,SAC,,R. Holmes,SAC,Holmes Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0042,2,09:52,GSW,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0042,2,09:17,GSW,,SAC,,R. Holmes,SAC,Holmes Traveling Turnover (P2.T5),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0042,2,08:52,GSW,52.0,SAC,47.0,R. Holmes,SAC,Holmes 9' Turnaround Hook Shot (7 PTS) (Fox 5 AST),Made Shot,Turnaround Hook Shot,44,84,9,1,2.0,2.0,v
+S2223-G0042,2,07:57,GSW,,SAC,,R. Holmes,SAC,SUB: Sabonis FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0042,3,04:32,GSW,104.0,SAC,85.0,R. Holmes,SAC,Holmes 3' Running Dunk (9 PTS) (Monk 5 AST),Made Shot,Running Dunk Shot,-7,25,3,1,2.0,2.0,v
+S2223-G0042,3,02:42,GSW,111.0,SAC,87.0,R. Holmes,SAC,Holmes 4' Dunk (11 PTS) (Fox 8 AST),Made Shot,Dunk Shot,11,34,4,1,2.0,2.0,v
+S2223-G0042,3,01:14,GSW,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0042,3,01:01,GSW,,SAC,,R. Holmes,SAC,Holmes REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0042,3,00:26.800000,GSW,113.0,SAC,91.0,R. Holmes,SAC,Holmes Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0042,3,00:26.800000,GSW,113.0,SAC,92.0,R. Holmes,SAC,Holmes Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0042,4,11:21,GSW,,SAC,,R. Holmes,SAC,Holmes S.FOUL (P3.T1) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0042,4,11:00,GSW,,SAC,,R. Holmes,SAC,Holmes STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0042,4,10:41,GSW,,SAC,,R. Holmes,SAC,Holmes 3 Second Violation Turnover (P3.T15),Turnover,3 Second Violation,0,0,0,0,,,v
+S2223-G0042,4,10:21,GSW,,SAC,,R. Holmes,SAC,MISS Holmes 11' Floating Jump Shot,Missed Shot,Floating Jump shot,75,78,11,1,2.0,0.0,v
+S2223-G0042,4,10:13,GSW,116.0,SAC,98.0,R. Holmes,SAC,Holmes 4' Layup (15 PTS) (Metu 1 AST),Made Shot,Layup Shot,13,41,4,1,2.0,2.0,v
+S2223-G0042,4,09:24,GSW,,SAC,,R. Holmes,SAC,SUB: Murray FOR Holmes,Substitution,,0,0,0,0,,,v
+S2223-G0625,4,01:14,SAC,,HOU,,R. Holmes,SAC,Holmes BLOCK (1 BLK),,,0,0,0,0,,,h

@@ -1,0 +1,873 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0036,1,04:45,SAC,18.0,LAC,19.0,L. Kennard,LAC,Kennard 24' 3PT Pullup Jump Shot (3 PTS) (Morris Sr. 2 AST),Made Shot,Pullup Jump shot,-232,40,24,1,3.0,3.0,v
+S2223-G0036,1,03:08,SAC,,LAC,,L. Kennard,LAC,MISS Kennard 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,66,204,21,1,2.0,0.0,v
+S2223-G0036,1,02:10,SAC,,LAC,,L. Kennard,LAC,MISS Kennard 4' Layup,Missed Shot,Layup Shot,38,24,4,1,2.0,0.0,v
+S2223-G0036,1,01:12,SAC,,LAC,,L. Kennard,LAC,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,33,251,25,1,3.0,0.0,v
+S2223-G0036,2,10:18,SAC,,LAC,,L. Kennard,LAC,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,-114,220,25,1,3.0,0.0,v
+S2223-G0036,2,09:02,SAC,32.0,LAC,32.0,L. Kennard,LAC,Kennard Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0036,2,09:02,SAC,32.0,LAC,33.0,L. Kennard,LAC,Kennard Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0036,2,08:17,SAC,,LAC,,L. Kennard,LAC,SUB: Powell FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0036,3,05:42,SAC,69.0,LAC,73.0,L. Kennard,LAC,Kennard 9' Fadeaway Jumper (7 PTS) (George 6 AST),Made Shot,Fadeaway Jump Shot,39,79,9,1,2.0,2.0,v
+S2223-G0036,3,04:22,SAC,73.0,LAC,77.0,L. Kennard,LAC,Kennard 9' Driving Floating Bank Jump Shot (9 PTS) (Powell 2 AST),Made Shot,Driving Floating Bank Jump Shot,74,42,9,1,2.0,2.0,v
+S2223-G0036,3,03:56,SAC,,LAC,,L. Kennard,LAC,MISS Kennard 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-235,65,24,1,3.0,0.0,v
+S2223-G0036,3,03:18,SAC,73.0,LAC,79.0,L. Kennard,LAC,Kennard 9' Floating Jump Shot (11 PTS) (Powell 3 AST),Made Shot,Floating Jump shot,-22,89,9,1,2.0,2.0,v
+S2223-G0036,3,02:03,SAC,,LAC,,L. Kennard,LAC,MISS Kennard 4' Driving Layup,Missed Shot,Driving Layup Shot,-21,38,4,1,2.0,0.0,v
+S2223-G0036,4,11:07,SAC,,LAC,,L. Kennard,LAC,MISS Kennard 3' Driving Layup,Missed Shot,Driving Layup Shot,31,8,3,1,2.0,0.0,v
+S2223-G0036,4,09:51,SAC,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0036,4,02:41,SAC,,LAC,,L. Kennard,LAC,SUB: Jackson FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0036,4,00:12.700000,SAC,,LAC,,L. Kennard,LAC,SUB: Covington FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G1133,1,04:56,MEM,18.0,ORL,12.0,L. Kennard,MEM,Kennard 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,22,125,13,1,2.0,2.0,h
+S2223-G1133,1,02:00,MEM,25.0,ORL,15.0,L. Kennard,MEM,Kennard 25' 3PT Jump Shot (5 PTS) (Bane 1 AST),Made Shot,Jump Shot,-43,246,25,1,3.0,3.0,h
+S2223-G1133,1,01:40,MEM,,ORL,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1133,1,00:27.900000,MEM,,ORL,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1133,1,00:11,MEM,32.0,ORL,15.0,L. Kennard,MEM,Kennard 24' 3PT Jump Shot (8 PTS) (Bane 2 AST),Made Shot,Jump Shot,-229,59,24,1,3.0,3.0,h
+S2223-G1133,2,10:46,MEM,,ORL,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1133,2,10:44,MEM,,ORL,,L. Kennard,MEM,Kennard Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1133,2,08:49,MEM,,ORL,,L. Kennard,MEM,SUB: Aldama FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G1133,2,04:48,MEM,,ORL,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1133,2,03:08,MEM,,ORL,,L. Kennard,MEM,Kennard STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1133,2,03:01,MEM,51.0,ORL,31.0,L. Kennard,MEM,Kennard 26' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,-54,258,26,1,3.0,3.0,h
+S2223-G1133,2,01:04,MEM,59.0,ORL,40.0,L. Kennard,MEM,Kennard 3PT Jump Shot (14 PTS) (Jones 7 AST),Made Shot,Jump Shot,229,50,0,1,3.0,3.0,h
+S2223-G1133,3,03:51,MEM,,ORL,,L. Kennard,MEM,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,186,183,26,1,3.0,0.0,h
+S2223-G1133,3,02:48,MEM,,ORL,,L. Kennard,MEM,MISS Kennard 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,12,5,1,1,2.0,0.0,h
+S2223-G1133,3,02:07,MEM,,ORL,,L. Kennard,MEM,Kennard S.FOUL (P1.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G1133,4,10:36,MEM,,ORL,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1133,4,08:03,MEM,93.0,ORL,82.0,L. Kennard,MEM,Kennard 21' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,15,207,21,1,2.0,2.0,h
+S2223-G1133,4,06:33,MEM,,ORL,,L. Kennard,MEM,SUB: Jones FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G1133,4,00:37.400000,MEM,,ORL,,L. Kennard,MEM,SUB: Konchar FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0352,1,04:21,CHA,19.0,LAC,22.0,L. Kennard,LAC,Kennard 20' Pullup Jump Shot (2 PTS) (Wall 1 AST),Made Shot,Pullup Jump shot,-81,188,20,1,2.0,2.0,v
+S2223-G0352,1,02:22,CHA,,LAC,,L. Kennard,LAC,MISS Kennard 28' 3PT Jump Shot,Missed Shot,Jump Shot,-107,260,28,1,3.0,0.0,v
+S2223-G0352,3,03:01,CHA,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0352,4,11:50,CHA,90.0,LAC,87.0,L. Kennard,LAC,Kennard 26' 3PT Jump Shot (5 PTS) (Wall 10 AST),Made Shot,Jump Shot,96,240,26,1,3.0,3.0,v
+S2223-G0352,4,11:50,CHA,90.0,LAC,88.0,L. Kennard,LAC,Kennard Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0352,4,11:13,CHA,,LAC,,L. Kennard,LAC,Kennard Violation:Kicked Ball (M.Ervin),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0352,4,10:29,CHA,,LAC,,L. Kennard,LAC,MISS Kennard 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-43,162,17,1,2.0,0.0,v
+S2223-G0352,4,09:33,CHA,93.0,LAC,96.0,L. Kennard,LAC,Kennard 24' 3PT Jump Shot (9 PTS) (Wall 11 AST),Made Shot,Jump Shot,-227,61,24,1,3.0,3.0,v
+S2223-G0352,4,08:11,CHA,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0352,4,06:58,CHA,,LAC,,L. Kennard,LAC,SUB: George FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0112,1,11:01,HOU,,LAC,,L. Kennard,LAC,Kennard Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0112,1,10:02,HOU,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0112,1,06:52,HOU,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0112,1,06:08,HOU,,LAC,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0112,1,05:09,HOU,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0112,1,05:00,HOU,5.0,LAC,20.0,L. Kennard,LAC,Kennard 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,51,260,26,1,3.0,3.0,v
+S2223-G0112,1,04:14,HOU,,LAC,,L. Kennard,LAC,SUB: Powell FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0112,2,06:48,HOU,,LAC,,L. Kennard,LAC,Kennard S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0112,2,06:19,HOU,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0112,2,02:33,HOU,,LAC,,L. Kennard,LAC,MISS Kennard 27' 3PT Jump Shot,Missed Shot,Jump Shot,-162,217,27,1,3.0,0.0,v
+S2223-G0112,2,00:32.700000,HOU,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0112,3,08:27,HOU,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0112,3,07:51,HOU,65.0,LAC,66.0,L. Kennard,LAC,Kennard 3PT Jump Shot (6 PTS) (Jackson 2 AST),Made Shot,Jump Shot,-232,-2,0,1,3.0,3.0,v
+S2223-G0112,3,03:19,HOU,,LAC,,L. Kennard,LAC,SUB: Powell FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0016,1,01:24,LAL,,LAC,,L. Kennard,LAC,Kennard P.FOUL (P1.PN) (E.Lewis),Foul,Personal,0,0,0,0,,,v
+S2223-G0016,1,01:07,LAL,,LAC,,L. Kennard,LAC,MISS Kennard 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,2,108,11,1,2.0,0.0,v
+S2223-G0016,2,10:02,LAL,31.0,LAC,38.0,L. Kennard,LAC,Kennard 3' Driving Layup (2 PTS) (Jackson 2 AST),Made Shot,Driving Layup Shot,12,29,3,1,2.0,2.0,v
+S2223-G0016,2,09:43,LAL,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0016,2,09:22,LAL,31.0,LAC,41.0,L. Kennard,LAC,Kennard 27' 3PT Running Pull-Up Jump Shot (5 PTS) (Covington 1 AST),Made Shot,Running Pull-Up Jump Shot,-43,262,27,1,3.0,3.0,v
+S2223-G0016,2,07:57,LAL,36.0,LAC,44.0,L. Kennard,LAC,Kennard 27' 3PT Jump Shot (8 PTS) (Zubac 1 AST),Made Shot,Jump Shot,82,253,27,1,3.0,3.0,v
+S2223-G0016,2,05:53,LAL,,LAC,,L. Kennard,LAC,Kennard P.FOUL (P2.T1) (E.Lewis),Foul,Personal,0,0,0,0,,,v
+S2223-G0016,2,04:55,LAL,,LAC,,L. Kennard,LAC,MISS Kennard 3' Driving Layup,Missed Shot,Driving Layup Shot,-26,13,3,1,2.0,0.0,v
+S2223-G0016,2,04:26,LAL,,LAC,,L. Kennard,LAC,SUB: Powell FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0016,4,09:43,LAL,,LAC,,L. Kennard,LAC,Kennard Violation:Kicked Ball (E.Lewis),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0016,4,05:39,LAL,91.0,LAC,95.0,L. Kennard,LAC,Kennard 26' 3PT Running Jump Shot (11 PTS) (George 3 AST),Made Shot,Running Jump Shot,-148,210,26,1,3.0,3.0,v
+S2223-G0016,4,01:04,LAL,,LAC,,L. Kennard,LAC,Kennard P.FOUL (P3.PN) (L.Wood),Foul,Personal,0,0,0,0,,,v
+S2223-G0016,4,00:07.200000,LAL,,LAC,,L. Kennard,LAC,SUB: Covington FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0810,1,04:03,BKN,,LAC,,L. Kennard,LAC,MISS Kennard 2' Driving Layup,Missed Shot,Driving Layup Shot,16,5,2,1,2.0,0.0,v
+S2223-G0810,1,01:38,BKN,,LAC,,L. Kennard,LAC,MISS Kennard 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,129,128,18,1,2.0,0.0,v
+S2223-G0810,2,11:47,BKN,,LAC,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-13,262,26,1,3.0,0.0,v
+S2223-G0810,2,09:37,BKN,31.0,LAC,36.0,L. Kennard,LAC,Kennard 26' 3PT Jump Shot (3 PTS) (Powell 2 AST),Made Shot,Jump Shot,-72,252,26,1,3.0,3.0,v
+S2223-G0810,2,08:56,BKN,,LAC,,L. Kennard,LAC,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,232,37,0,1,3.0,0.0,v
+S2223-G0810,2,08:52,BKN,,LAC,,L. Kennard,LAC,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,222,7,0,1,3.0,0.0,v
+S2223-G0810,2,08:43,BKN,,LAC,,L. Kennard,LAC,SUB: George FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0810,4,08:45,BKN,,LAC,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0810,4,07:54,BKN,,LAC,,L. Kennard,LAC,SUB: George FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0996,1,01:53,MEM,41.0,GSW,26.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (3 PTS) (Bane 1 AST),Made Shot,Jump Shot,223,127,26,1,3.0,3.0,h
+S2223-G0996,1,00:05,MEM,48.0,GSW,28.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (6 PTS) (Jones 7 AST),Made Shot,Jump Shot,-217,136,26,1,3.0,3.0,h
+S2223-G0996,2,05:36,MEM,,GSW,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,-205,135,25,1,3.0,0.0,h
+S2223-G0996,2,04:23,MEM,,GSW,,L. Kennard,MEM,SUB: Aldama FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0996,4,10:17,MEM,,GSW,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0996,4,07:25,MEM,,GSW,,L. Kennard,MEM,SUB: Konchar FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0538,1,00:53.800000,IND,,LAC,,L. Kennard,LAC,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,141,212,25,1,3.0,0.0,v
+S2223-G0538,2,11:08,IND,,LAC,,L. Kennard,LAC,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,-224,12,0,1,3.0,0.0,v
+S2223-G0538,2,10:27,IND,,LAC,,L. Kennard,LAC,MISS Kennard 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,134,215,25,1,3.0,0.0,v
+S2223-G0538,2,04:48,IND,,LAC,,L. Kennard,LAC,SUB: Morris Sr. FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0538,4,11:51,IND,,LAC,,L. Kennard,LAC,Kennard Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0538,4,11:18,IND,95.0,LAC,96.0,L. Kennard,LAC,Kennard 3PT Jump Shot (3 PTS) (George 2 AST),Made Shot,Jump Shot,232,3,0,1,3.0,3.0,v
+S2223-G0538,4,11:02,IND,,LAC,,L. Kennard,LAC,Kennard L.B.FOUL (P1.T1) (J.Goble),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0538,4,08:09,IND,101.0,LAC,105.0,L. Kennard,LAC,Kennard 25' 3PT Jump Shot (6 PTS) (George 3 AST),Made Shot,Jump Shot,-211,142,25,1,3.0,3.0,v
+S2223-G0538,4,05:27,IND,110.0,LAC,114.0,L. Kennard,LAC,Kennard Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2223-G0538,4,04:13,IND,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0538,4,03:47,IND,,LAC,,L. Kennard,LAC,Kennard S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0538,4,03:47,IND,,LAC,,L. Kennard,LAC,SUB: Morris Sr. FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0538,4,00:20.800000,IND,,LAC,,L. Kennard,LAC,SUB: Mann FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0754,1,04:28,CLE,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0754,1,03:03,CLE,,LAC,,L. Kennard,LAC,MISS Kennard 3' Driving Layup,Missed Shot,Driving Layup Shot,4,31,3,1,2.0,0.0,v
+S2223-G0754,1,01:56,CLE,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0754,1,01:53,CLE,,LAC,,L. Kennard,LAC,MISS Kennard 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-178,195,26,1,3.0,0.0,v
+S2223-G0754,1,00:36.100000,CLE,,LAC,,L. Kennard,LAC,SUB: Preston FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0754,2,04:17,CLE,52.0,LAC,24.0,L. Kennard,LAC,Kennard 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,87,117,15,1,2.0,2.0,v
+S2223-G0754,2,02:58,CLE,,LAC,,L. Kennard,LAC,Kennard Traveling Turnover (P1.T11),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0754,2,01:16,CLE,,LAC,,L. Kennard,LAC,MISS Kennard 27' 3PT Jump Shot,Missed Shot,Jump Shot,-227,151,27,1,3.0,0.0,v
+S2223-G0754,2,00:05.100000,CLE,,LAC,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0938,1,01:49,HOU,,MEM,,L. Kennard,MEM,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,-228,12,0,1,3.0,0.0,v
+S2223-G0938,1,01:33,HOU,,MEM,,L. Kennard,MEM,SUB: Jones FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0938,2,05:59,HOU,,MEM,,L. Kennard,MEM,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,82,244,26,1,3.0,0.0,v
+S2223-G0938,2,05:32,HOU,,MEM,,L. Kennard,MEM,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,-225,28,0,1,3.0,0.0,v
+S2223-G0938,2,04:50,HOU,,MEM,,L. Kennard,MEM,Kennard Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0938,2,04:42,HOU,,MEM,,L. Kennard,MEM,Kennard Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0938,2,03:06,HOU,,MEM,,L. Kennard,MEM,SUB: Clarke FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0938,3,04:04,HOU,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0938,3,01:59,HOU,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0938,3,01:29,HOU,,MEM,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,210,138,25,1,3.0,0.0,v
+S2223-G0938,4,02:54,HOU,,MEM,,L. Kennard,MEM,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0579,1,04:47,DEN,,LAC,,L. Kennard,LAC,MISS Kennard 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-195,184,27,1,3.0,0.0,v
+S2223-G0579,1,02:43,DEN,,LAC,,L. Kennard,LAC,MISS Kennard 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,76,80,11,1,2.0,0.0,v
+S2223-G0579,2,10:56,DEN,35.0,LAC,17.0,L. Kennard,LAC,Kennard 12' Pullup Jump Shot (2 PTS) (Powell 1 AST),Made Shot,Pullup Jump shot,12,117,12,1,2.0,2.0,v
+S2223-G0579,2,08:16,DEN,,LAC,,L. Kennard,LAC,Kennard Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0579,2,07:53,DEN,,LAC,,L. Kennard,LAC,Kennard Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0579,2,07:43,DEN,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0579,2,07:22,DEN,,LAC,,L. Kennard,LAC,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,-148,205,25,1,3.0,0.0,v
+S2223-G0579,2,07:14,DEN,,LAC,,L. Kennard,LAC,SUB: Leonard FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0579,3,10:41,DEN,,LAC,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-70,250,26,1,3.0,0.0,v
+S2223-G0579,3,09:40,DEN,73.0,LAC,41.0,L. Kennard,LAC,Kennard 1' Alley Oop Layup (4 PTS) (Mann 1 AST),Made Shot,Alley Oop Layup shot,11,10,1,1,2.0,2.0,v
+S2223-G0579,3,08:19,DEN,,LAC,,L. Kennard,LAC,MISS Kennard 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,34,32,5,1,2.0,0.0,v
+S2223-G0579,3,07:27,DEN,,LAC,,L. Kennard,LAC,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,201,150,25,1,3.0,0.0,v
+S2223-G0579,3,06:29,DEN,,LAC,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0579,3,05:02,DEN,,LAC,,L. Kennard,LAC,Kennard S.FOUL (P1.T4) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0579,3,03:40,DEN,,LAC,,L. Kennard,LAC,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,-233,-1,0,1,3.0,0.0,v
+S2223-G0579,3,03:21,DEN,,LAC,,L. Kennard,LAC,SUB: Preston FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G1036,2,08:34,MIA,,MEM,,L. Kennard,MEM,Kennard S.FOUL (P1.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G1036,2,08:01,MIA,,MEM,,L. Kennard,MEM,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1036,2,06:09,MIA,,MEM,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,-162,194,25,1,3.0,0.0,v
+S2223-G1036,2,05:56,MIA,,MEM,,L. Kennard,MEM,SUB: Brooks FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G1036,4,10:39,MIA,107.0,MEM,83.0,L. Kennard,MEM,Kennard 27' 3PT Jump Shot (3 PTS) (Aldama 4 AST),Made Shot,Jump Shot,-163,211,27,1,3.0,3.0,v
+S2223-G1036,4,09:50,MIA,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1036,4,09:23,MIA,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1036,4,09:21,MIA,107.0,MEM,87.0,L. Kennard,MEM,Kennard Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1036,4,09:21,MIA,107.0,MEM,88.0,L. Kennard,MEM,Kennard Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1036,4,07:30,MIA,113.0,MEM,93.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (8 PTS) (Lofton Jr. 1 AST),Made Shot,Jump Shot,189,175,26,1,3.0,3.0,v
+S2223-G1036,4,06:47,MIA,116.0,MEM,96.0,L. Kennard,MEM,Kennard 25' 3PT Jump Shot (11 PTS) (Lofton Jr. 2 AST),Made Shot,Jump Shot,137,210,25,1,3.0,3.0,v
+S2223-G1036,4,05:17,MIA,,MEM,,L. Kennard,MEM,Kennard S.FOUL (P2.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G1036,4,03:43,MIA,131.0,MEM,107.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (14 PTS) (Chandler 3 AST),Made Shot,Jump Shot,-173,188,26,1,3.0,3.0,v
+S2223-G1036,4,00:52.700000,MIA,,MEM,,L. Kennard,MEM,MISS Kennard 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,70,88,11,1,2.0,0.0,v
+S2223-G1061,1,02:56,MEM,27.0,GSW,23.0,L. Kennard,MEM,Kennard 25' 3PT Pullup Jump Shot (3 PTS) (Tillman 1 AST),Made Shot,Pullup Jump shot,92,237,25,1,3.0,3.0,h
+S2223-G1061,1,02:30,MEM,,GSW,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1061,1,02:02,MEM,,GSW,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1061,1,01:09,MEM,,GSW,,L. Kennard,MEM,MISS Kennard 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-10,25,3,1,2.0,0.0,h
+S2223-G1061,2,05:45,MEM,53.0,GSW,40.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (6 PTS) (Jackson Jr. 2 AST),Made Shot,Jump Shot,-96,243,26,1,3.0,3.0,h
+S2223-G1061,2,04:23,MEM,61.0,GSW,46.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (9 PTS) (Brooks 1 AST),Made Shot,Jump Shot,-120,226,26,1,3.0,3.0,h
+S2223-G1061,2,03:52,MEM,,GSW,,L. Kennard,MEM,Kennard Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1061,2,02:25,MEM,64.0,GSW,51.0,L. Kennard,MEM,Kennard 25' 3PT Running Pull-Up Jump Shot (12 PTS) (Jones 8 AST),Made Shot,Running Pull-Up Jump Shot,-174,186,25,1,3.0,3.0,h
+S2223-G1061,2,01:36,MEM,,GSW,,L. Kennard,MEM,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,72,249,26,1,3.0,0.0,h
+S2223-G1061,3,05:44,MEM,,GSW,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1061,3,04:55,MEM,92.0,GSW,79.0,L. Kennard,MEM,Kennard 1' Cutting Layup Shot (14 PTS) (Jackson Jr. 3 AST),Made Shot,Cutting Layup Shot,-4,10,1,1,2.0,2.0,h
+S2223-G1061,3,04:15,MEM,,GSW,,L. Kennard,MEM,Kennard S.FOUL (P1.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1061,3,03:15,MEM,,GSW,,L. Kennard,MEM,Kennard S.FOUL (P2.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2223-G1061,3,01:27,MEM,,GSW,,L. Kennard,MEM,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-130,224,26,1,3.0,0.0,h
+S2223-G1061,3,00:57.300000,MEM,,GSW,,L. Kennard,MEM,Kennard P.FOUL (P3.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2223-G1061,3,00:00.800000,MEM,,GSW,,L. Kennard,MEM,SUB: Jackson Jr. FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G1061,4,10:40,MEM,,GSW,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,-158,194,25,1,3.0,0.0,h
+S2223-G1061,4,08:51,MEM,,GSW,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1061,4,08:47,MEM,,GSW,,L. Kennard,MEM,MISS Kennard 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-91,234,25,1,3.0,0.0,h
+S2223-G1061,4,08:45,MEM,,GSW,,L. Kennard,MEM,SUB: Jackson Jr. FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0735,1,07:52,LAC,,SAS,,L. Kennard,LAC,MISS Kennard 4' Floating Jump Shot,Missed Shot,Floating Jump shot,7,36,4,1,2.0,0.0,h
+S2223-G0735,1,07:29,LAC,16.0,SAS,9.0,L. Kennard,LAC,Kennard 10' Pullup Jump Shot (2 PTS) (Mann 1 AST),Made Shot,Pullup Jump shot,48,92,10,1,2.0,2.0,h
+S2223-G0735,1,05:54,LAC,,SAS,,L. Kennard,LAC,SUB: Powell FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0735,2,00:22.400000,LAC,,SAS,,L. Kennard,LAC,SUB: Covington FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0735,3,11:35,LAC,,SAS,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0735,3,08:56,LAC,,SAS,,L. Kennard,LAC,Kennard P.FOUL (P1.T1) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2223-G0735,3,06:55,LAC,91.0,SAS,62.0,L. Kennard,LAC,Kennard 27' 3PT Jump Shot (5 PTS) (George 3 AST),Made Shot,Jump Shot,-206,175,27,1,3.0,3.0,h
+S2223-G0735,3,05:46,LAC,,SAS,,L. Kennard,LAC,SUB: Batum FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G1165,1,03:23,CHI,,MEM,,L. Kennard,MEM,MISS Kennard 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-169,180,25,1,3.0,0.0,v
+S2223-G1165,1,02:36,CHI,21.0,MEM,25.0,L. Kennard,MEM,Kennard 25' 3PT Jump Shot (3 PTS) (Brooks 2 AST),Made Shot,Jump Shot,-136,211,25,1,3.0,3.0,v
+S2223-G1165,1,01:48,CHI,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1165,1,00:29.900000,CHI,,MEM,,L. Kennard,MEM,MISS Kennard 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-227,1,0,1,3.0,0.0,v
+S2223-G1165,2,06:01,CHI,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1165,2,05:07,CHI,38.0,MEM,61.0,L. Kennard,MEM,Kennard 25' 3PT Jump Shot (6 PTS) (Brooks 4 AST),Made Shot,Jump Shot,-148,203,25,1,3.0,3.0,v
+S2223-G1165,2,03:26,CHI,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1165,2,00:52.500000,CHI,,MEM,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,-163,187,25,1,3.0,0.0,v
+S2223-G1165,2,00:31,CHI,,MEM,,L. Kennard,MEM,SUB: Aldama FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G1165,3,02:28,CHI,,MEM,,L. Kennard,MEM,MISS Kennard 27' 3PT Jump Shot,Missed Shot,Jump Shot,-184,196,27,1,3.0,0.0,v
+S2223-G1165,3,01:17,CHI,,MEM,,L. Kennard,MEM,Kennard S.FOUL (P1.T4) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G1165,3,00:27.100000,CHI,,MEM,,L. Kennard,MEM,MISS Kennard 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-143,217,26,1,3.0,0.0,v
+S2223-G1165,4,09:08,CHI,,MEM,,L. Kennard,MEM,Kennard S.FOUL (P2.T3) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G1165,4,05:38,CHI,,MEM,,L. Kennard,MEM,SUB: Brooks FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0207,1,11:22,DAL,,LAC,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0207,1,10:50,DAL,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0207,1,09:07,DAL,,LAC,,L. Kennard,LAC,Kennard P.FOUL (P1.T1) (J.Schroeder),Foul,Personal,0,0,0,0,,,v
+S2223-G0207,1,09:07,DAL,,LAC,,L. Kennard,LAC,SUB: Powell FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0745,1,10:16,ATL,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0745,1,10:10,ATL,,LAC,,L. Kennard,LAC,MISS Kennard 18' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,162,78,18,1,2.0,0.0,v
+S2223-G0745,1,10:00,ATL,,LAC,,L. Kennard,LAC,Kennard S.FOUL (P1.T1) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0745,1,08:04,ATL,6.0,LAC,12.0,L. Kennard,LAC,Kennard 24' 3PT Running Jump Shot (3 PTS) (Mann 1 AST),Made Shot,Running Jump Shot,-228,76,24,1,3.0,3.0,v
+S2223-G0745,1,07:33,ATL,,LAC,,L. Kennard,LAC,MISS Kennard 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,88,141,17,1,2.0,0.0,v
+S2223-G0745,1,06:55,ATL,,LAC,,L. Kennard,LAC,Kennard Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0745,1,03:47,ATL,,LAC,,L. Kennard,LAC,SUB: Powell FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0745,2,04:06,ATL,,LAC,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0745,2,00:44.600000,ATL,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0745,3,11:03,ATL,55.0,LAC,61.0,L. Kennard,LAC,Kennard 11' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,6,109,11,1,2.0,2.0,v
+S2223-G0745,3,09:57,ATL,,LAC,,L. Kennard,LAC,MISS Kennard 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-118,148,19,1,2.0,0.0,v
+S2223-G0745,3,08:18,ATL,,LAC,,L. Kennard,LAC,Kennard Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0745,3,07:57,ATL,64.0,LAC,68.0,L. Kennard,LAC,Kennard 24' 3PT Jump Shot (8 PTS) (Mann 4 AST),Made Shot,Jump Shot,116,211,24,1,3.0,3.0,v
+S2223-G0745,3,06:54,ATL,66.0,LAC,71.0,L. Kennard,LAC,Kennard 25' 3PT Jump Shot (11 PTS) (Mann 5 AST),Made Shot,Jump Shot,-15,250,25,1,3.0,3.0,v
+S2223-G0745,3,06:39,ATL,,LAC,,L. Kennard,LAC,Kennard P.FOUL (P2.T2) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2223-G0745,3,06:00,ATL,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0745,3,04:19,ATL,,LAC,,L. Kennard,LAC,SUB: Powell FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G1115,1,05:00,ATL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1115,1,04:16,ATL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1115,1,03:49,ATL,,MEM,,L. Kennard,MEM,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,-229,8,0,1,3.0,0.0,v
+S2223-G1115,1,02:45,ATL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1115,1,02:22,ATL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1115,1,02:21,ATL,21.0,MEM,24.0,L. Kennard,MEM,Kennard 5' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-7,49,5,1,2.0,2.0,v
+S2223-G1115,1,00:50.100000,ATL,,MEM,,L. Kennard,MEM,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,227,43,0,1,3.0,0.0,v
+S2223-G1115,1,00:06.300000,ATL,27.0,MEM,34.0,L. Kennard,MEM,Kennard 25' 3PT Jump Shot (5 PTS) (Aldama 1 AST),Made Shot,Jump Shot,162,186,25,1,3.0,3.0,v
+S2223-G1115,2,10:52,ATL,30.0,MEM,37.0,L. Kennard,MEM,Kennard 25' 3PT Running Jump Shot (8 PTS) (Bane 2 AST),Made Shot,Running Jump Shot,180,173,25,1,3.0,3.0,v
+S2223-G1115,2,08:21,ATL,38.0,MEM,44.0,L. Kennard,MEM,Kennard 25' 3PT Jump Shot (11 PTS) (Roddy 1 AST),Made Shot,Jump Shot,-174,176,25,1,3.0,3.0,v
+S2223-G1115,2,07:59,ATL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1115,2,07:54,ATL,,MEM,,L. Kennard,MEM,MISS Kennard 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-110,238,26,1,3.0,0.0,v
+S2223-G1115,2,05:15,ATL,,MEM,,L. Kennard,MEM,MISS Kennard 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-26,253,25,1,3.0,0.0,v
+S2223-G1115,2,05:12,ATL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1115,2,03:55,ATL,,MEM,,L. Kennard,MEM,SUB: Bane FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G1115,3,05:37,ATL,76.0,MEM,84.0,L. Kennard,MEM,Kennard 3PT Jump Shot (14 PTS) (Morant 5 AST),Made Shot,Jump Shot,225,36,0,1,3.0,3.0,v
+S2223-G1115,3,03:41,ATL,,MEM,,L. Kennard,MEM,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,121,231,26,1,3.0,0.0,v
+S2223-G1115,3,02:22,ATL,,MEM,,L. Kennard,MEM,Kennard OFF.Foul (P1) (M.Myers),Foul,Offensive,0,0,0,0,,,v
+S2223-G1115,3,02:22,ATL,,MEM,,L. Kennard,MEM,Kennard Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1115,3,01:54,ATL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1115,3,00:53.500000,ATL,,MEM,,L. Kennard,MEM,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1115,4,09:30,ATL,,MEM,,L. Kennard,MEM,SUB: Brooks FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0587,1,11:28,MIN,2.0,LAC,2.0,L. Kennard,LAC,Kennard 17' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,82,151,17,1,2.0,2.0,v
+S2223-G0587,1,11:09,MIN,,LAC,,L. Kennard,LAC,Kennard S.FOUL (P1.T3) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0587,1,10:56,MIN,,LAC,,L. Kennard,LAC,MISS Kennard 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,17,150,15,1,2.0,0.0,v
+S2223-G0587,1,08:48,MIN,,LAC,,L. Kennard,LAC,Kennard Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0587,1,07:06,MIN,15.0,LAC,11.0,L. Kennard,LAC,Kennard 10' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-5,98,10,1,2.0,2.0,v
+S2223-G0587,1,05:15,MIN,,LAC,,L. Kennard,LAC,SUB: Brown FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0587,2,06:46,MIN,,LAC,,L. Kennard,LAC,Kennard S.FOUL (P2.T2) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G0587,2,06:37,MIN,47.0,LAC,44.0,L. Kennard,LAC,Kennard Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0587,2,06:37,MIN,47.0,LAC,45.0,L. Kennard,LAC,Kennard Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0587,2,05:19,MIN,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0587,2,02:26,MIN,,LAC,,L. Kennard,LAC,MISS Kennard 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-70,108,13,1,2.0,0.0,v
+S2223-G0587,2,02:05,MIN,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0587,2,00:27.200000,MIN,68.0,LAC,54.0,L. Kennard,LAC,Kennard 9' Step Back Jump Shot (8 PTS) (Wall 5 AST),Made Shot,Step Back Jump shot,20,84,9,1,2.0,2.0,v
+S2223-G0587,2,00:03.800000,MIN,,LAC,,L. Kennard,LAC,Kennard BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0587,3,11:42,MIN,,LAC,,L. Kennard,LAC,MISS Kennard 2' Layup,Missed Shot,Layup Shot,-1,16,2,1,2.0,0.0,v
+S2223-G0587,3,10:29,MIN,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0587,3,07:44,MIN,80.0,LAC,66.0,L. Kennard,LAC,Kennard 24' 3PT Jump Shot (11 PTS) (Jackson 3 AST),Made Shot,Jump Shot,121,211,24,1,3.0,3.0,v
+S2223-G0587,3,06:35,MIN,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0587,3,06:28,MIN,,LAC,,L. Kennard,LAC,MISS Kennard 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,130,211,25,1,3.0,0.0,v
+S2223-G0587,3,05:25,MIN,,LAC,,L. Kennard,LAC,Kennard Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0587,3,05:19,MIN,,LAC,,L. Kennard,LAC,SUB: Wall FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0952,1,03:47,DEN,,MEM,,L. Kennard,MEM,Kennard L.B.FOUL (P1.T4) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0952,1,01:54,DEN,24.0,MEM,26.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (3 PTS) (Konchar 1 AST),Made Shot,Jump Shot,-83,244,26,1,3.0,3.0,v
+S2223-G0952,1,00:09.400000,DEN,,MEM,,L. Kennard,MEM,SUB: Brooks FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0952,2,07:16,DEN,,MEM,,L. Kennard,MEM,MISS Kennard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-34,253,26,1,3.0,0.0,v
+S2223-G0952,2,06:27,DEN,,MEM,,L. Kennard,MEM,Kennard S.FOUL (P2.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G0952,2,06:03,DEN,,MEM,,L. Kennard,MEM,MISS Kennard 5' Reverse Layup,Missed Shot,Reverse Layup Shot,-50,17,5,1,2.0,0.0,v
+S2223-G0952,2,04:06,DEN,37.0,MEM,45.0,L. Kennard,MEM,Kennard 25' 3PT Jump Shot (6 PTS) (Tillman 3 AST),Made Shot,Jump Shot,170,189,25,1,3.0,3.0,v
+S2223-G0952,2,03:02,DEN,,MEM,,L. Kennard,MEM,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,227,27,0,1,3.0,0.0,v
+S2223-G0952,2,02:53,DEN,,MEM,,L. Kennard,MEM,SUB: Bane FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0952,2,00:35.300000,DEN,,MEM,,L. Kennard,MEM,SUB: Aldama FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0952,3,04:54,DEN,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0952,3,00:31.400000,DEN,,MEM,,L. Kennard,MEM,SUB: Brooks FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0952,4,07:06,DEN,,MEM,,L. Kennard,MEM,SUB: Morant FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0102,1,09:21,LAC,6.0,HOU,6.0,L. Kennard,LAC,Kennard 20' Pullup Jump Shot (2 PTS) (Jackson 1 AST),Made Shot,Pullup Jump shot,-42,197,20,1,2.0,2.0,h
+S2223-G0102,1,07:54,LAC,,HOU,,L. Kennard,LAC,Kennard S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G0102,1,05:01,LAC,,HOU,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-65,250,26,1,3.0,0.0,h
+S2223-G0102,1,04:00,LAC,,HOU,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-199,162,26,1,3.0,0.0,h
+S2223-G0102,1,03:23,LAC,,HOU,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0102,1,03:17,LAC,,HOU,,L. Kennard,LAC,SUB: Powell FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0102,2,04:48,LAC,,HOU,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0102,2,04:04,LAC,42.0,HOU,41.0,L. Kennard,LAC,Kennard 26' 3PT Jump Shot (5 PTS) (Jackson 3 AST),Made Shot,Jump Shot,-142,220,26,1,3.0,3.0,h
+S2223-G0102,2,02:26,LAC,,HOU,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0102,2,02:19,LAC,45.0,HOU,45.0,L. Kennard,LAC,Kennard 26' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,211,156,26,1,3.0,3.0,h
+S2223-G0102,2,01:18,LAC,,HOU,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0102,3,10:35,LAC,,HOU,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,175,193,26,1,3.0,0.0,h
+S2223-G0102,3,10:16,LAC,,HOU,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0102,3,07:18,LAC,,HOU,,L. Kennard,LAC,Kennard REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0102,3,05:19,LAC,,HOU,,L. Kennard,LAC,MISS Kennard 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,43,18,5,1,2.0,0.0,h
+S2223-G0102,3,01:03,LAC,,HOU,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-47,260,26,1,3.0,0.0,h
+S2223-G0102,3,00:04.600000,LAC,,HOU,,L. Kennard,LAC,Kennard Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0102,4,07:49,LAC,,HOU,,L. Kennard,LAC,Kennard P.FOUL (P2.T3) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2223-G0102,4,07:33,LAC,,HOU,,L. Kennard,LAC,Kennard REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0102,4,07:19,LAC,,HOU,,L. Kennard,LAC,Kennard Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0102,4,06:37,LAC,,HOU,,L. Kennard,LAC,Kennard REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0102,4,04:36,LAC,,HOU,,L. Kennard,LAC,Kennard REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0102,4,04:20,LAC,,HOU,,L. Kennard,LAC,Kennard REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0102,4,01:27,LAC,,HOU,,L. Kennard,LAC,Kennard P.FOUL (P3.PN) (L.Wood),Foul,Personal,0,0,0,0,,,h
+S2223-G0102,4,00:36.500000,LAC,,HOU,,L. Kennard,LAC,SUB: Coffey FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0102,4,00:06.200000,LAC,,HOU,,L. Kennard,LAC,SUB: Mann FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0088,1,00:02.400000,LAC,,NOP,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0088,1,00:02.100000,LAC,,NOP,,L. Kennard,LAC,MISS Kennard 45' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-213,396,45,1,3.0,0.0,h
+S2223-G0088,2,11:42,LAC,27.0,NOP,18.0,L. Kennard,LAC,Kennard 18' Pullup Jump Shot (2 PTS) (Wall 4 AST),Made Shot,Pullup Jump shot,83,165,18,1,2.0,2.0,h
+S2223-G0088,2,08:07,LAC,,NOP,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0088,2,07:08,LAC,,NOP,,L. Kennard,LAC,MISS Kennard 28' 3PT Jump Shot,Missed Shot,Jump Shot,-26,280,28,1,3.0,0.0,h
+S2223-G0088,2,06:34,LAC,39.0,NOP,30.0,L. Kennard,LAC,Kennard 3PT Jump Shot (5 PTS) (Coffey 1 AST),Made Shot,Jump Shot,228,13,0,1,3.0,3.0,h
+S2223-G0088,2,05:13,LAC,,NOP,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0088,2,05:03,LAC,,NOP,,L. Kennard,LAC,Kennard REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0088,2,03:11,LAC,,NOP,,L. Kennard,LAC,SUB: Wall FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0088,3,02:10,LAC,,NOP,,L. Kennard,LAC,Kennard L.B.FOUL (P1.T2) (M.Davis),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0088,3,00:44.100000,LAC,,NOP,,L. Kennard,LAC,Kennard REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0088,4,07:54,LAC,74.0,NOP,91.0,L. Kennard,LAC,Kennard 16' Pullup Jump Shot (7 PTS) (Powell 3 AST),Made Shot,Pullup Jump shot,-67,147,16,1,2.0,2.0,h
+S2223-G0088,4,07:34,LAC,,NOP,,L. Kennard,LAC,Kennard REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0088,4,04:31,LAC,,NOP,,L. Kennard,LAC,SUB: Coffey FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0067,1,08:14,OKC,8.0,LAC,5.0,L. Kennard,LAC,Kennard 7' Driving Bank Hook Shot (2 PTS),Made Shot,Driving Bank Hook Shot,-65,11,7,1,2.0,2.0,v
+S2223-G0067,1,05:50,OKC,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0067,1,05:48,OKC,17.0,LAC,10.0,L. Kennard,LAC,Kennard 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,23,15,3,1,2.0,2.0,v
+S2223-G0067,1,05:24,OKC,,LAC,,L. Kennard,LAC,Kennard Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0067,1,03:02,OKC,,LAC,,L. Kennard,LAC,Kennard Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0067,1,02:13,OKC,30.0,LAC,18.0,L. Kennard,LAC,Kennard 26' 3PT Jump Shot (7 PTS) (Batum 1 AST),Made Shot,Jump Shot,-119,226,26,1,3.0,3.0,v
+S2223-G0067,1,01:12,OKC,,LAC,,L. Kennard,LAC,Kennard OFF.Foul (P1) (T.Ricks),Foul,Offensive,0,0,0,0,,,v
+S2223-G0067,1,01:12,OKC,,LAC,,L. Kennard,LAC,Kennard Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0067,1,00:44.400000,OKC,,LAC,,L. Kennard,LAC,Kennard Lost Ball Turnover (P4.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0067,1,00:44.400000,OKC,,LAC,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0067,3,02:39,OKC,,LAC,,L. Kennard,LAC,MISS Kennard 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,210,128,25,1,3.0,0.0,v
+S2223-G0067,3,01:16,OKC,87.0,LAC,84.0,L. Kennard,LAC,Kennard 24' 3PT Jump Shot (10 PTS) (Powell 2 AST),Made Shot,Jump Shot,-235,12,24,1,3.0,3.0,v
+S2223-G0067,4,07:24,OKC,,LAC,,L. Kennard,LAC,SUB: George FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0525,2,05:56,BOS,,LAC,,L. Kennard,LAC,SUB: Leonard FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0525,4,07:31,BOS,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0525,4,07:01,BOS,,LAC,,L. Kennard,LAC,Kennard P.FOUL (P1.T2) (M.Myers),Foul,Personal,0,0,0,0,,,v
+S2223-G0525,4,07:01,BOS,,LAC,,L. Kennard,LAC,SUB: Leonard FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0499,1,00:53.500000,DET,,LAC,,L. Kennard,LAC,Kennard Violation:Kicked Ball (M.Ervin),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0499,1,00:25.800000,DET,34.0,LAC,31.0,L. Kennard,LAC,Kennard 25' 3PT Jump Shot (3 PTS) (Wall 1 AST),Made Shot,Jump Shot,-164,191,25,1,3.0,3.0,v
+S2223-G0499,2,11:48,DET,,LAC,,L. Kennard,LAC,MISS Kennard 27' 3PT Jump Shot,Missed Shot,Jump Shot,88,251,27,1,3.0,0.0,v
+S2223-G0499,2,11:12,DET,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0499,2,10:51,DET,36.0,LAC,34.0,L. Kennard,LAC,Kennard 25' 3PT Running Jump Shot (6 PTS) (Wall 2 AST),Made Shot,Running Jump Shot,-169,189,25,1,3.0,3.0,v
+S2223-G0499,2,07:20,DET,,LAC,,L. Kennard,LAC,MISS Kennard 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-6,144,14,1,2.0,0.0,v
+S2223-G0499,2,06:33,DET,,LAC,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,15,259,26,1,3.0,0.0,v
+S2223-G0499,2,06:22,DET,47.0,LAC,46.0,L. Kennard,LAC,Kennard 20' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,-54,190,20,1,2.0,2.0,v
+S2223-G0499,2,03:59,DET,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0499,2,03:51,DET,52.0,LAC,51.0,L. Kennard,LAC,Kennard 28' 3PT Jump Shot (11 PTS) (George 2 AST),Made Shot,Jump Shot,-37,273,28,1,3.0,3.0,v
+S2223-G0499,2,03:02,DET,,LAC,,L. Kennard,LAC,SUB: Wall FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0499,3,03:19,DET,,LAC,,L. Kennard,LAC,Kennard S.FOUL (P1.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0499,3,01:39,DET,,LAC,,L. Kennard,LAC,MISS Kennard 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-12,24,1,3.0,0.0,v
+S2223-G0499,3,01:18,DET,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0499,4,10:44,DET,102.0,LAC,101.0,L. Kennard,LAC,Kennard 17' Step Back Jump Shot (13 PTS) (Wall 5 AST),Made Shot,Step Back Jump shot,11,168,17,1,2.0,2.0,v
+S2223-G0499,4,10:35,DET,,LAC,,L. Kennard,LAC,Kennard P.FOUL (P2.T1) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G0499,4,06:40,DET,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0499,4,06:31,DET,,LAC,,L. Kennard,LAC,MISS Kennard 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-10,157,16,1,2.0,0.0,v
+S2223-G0499,4,05:04,DET,,LAC,,L. Kennard,LAC,MISS Kennard 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,47,24,1,3.0,0.0,v
+S2223-G0499,4,04:54,DET,,LAC,,L. Kennard,LAC,SUB: Batum FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0499,4,01:00,DET,127.0,LAC,124.0,L. Kennard,LAC,Kennard Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0499,4,01:00,DET,127.0,LAC,125.0,L. Kennard,LAC,Kennard Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0499,4,00:20.300000,DET,,LAC,,L. Kennard,LAC,SUB: Zubac FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0499,5,03:27,DET,131.0,LAC,136.0,L. Kennard,LAC,Kennard 3PT Jump Shot (18 PTS) (George 10 AST),Made Shot,Jump Shot,-221,42,0,1,3.0,3.0,v
+S2223-G0499,5,01:12,DET,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0499,5,00:45.900000,DET,,LAC,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0476,1,03:50,LAC,,CHA,,L. Kennard,LAC,Kennard S.FOUL (P1.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0476,1,01:05,LAC,,CHA,,L. Kennard,LAC,Kennard Violation:Kicked Ball (N.Sago),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0476,1,00:02.100000,LAC,,CHA,,L. Kennard,LAC,MISS Kennard 28' 3PT Jump Shot,Missed Shot,Jump Shot,-129,246,28,1,3.0,0.0,h
+S2223-G0476,2,10:31,LAC,45.0,CHA,21.0,L. Kennard,LAC,Kennard 27' 3PT Jump Shot (3 PTS) (Wall 3 AST),Made Shot,Jump Shot,1,267,27,1,3.0,3.0,h
+S2223-G0476,2,10:04,LAC,,CHA,,L. Kennard,LAC,MISS Kennard 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-81,232,25,1,3.0,0.0,h
+S2223-G0476,2,08:08,LAC,52.0,CHA,27.0,L. Kennard,LAC,Kennard 3PT Running Jump Shot (6 PTS) (Jackson 1 AST),Made Shot,Running Jump Shot,225,-23,0,1,3.0,3.0,h
+S2223-G0476,2,06:49,LAC,,CHA,,L. Kennard,LAC,SUB: Morris Sr. FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0476,3,05:32,LAC,,CHA,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0476,3,03:55,LAC,,CHA,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0476,4,11:12,LAC,102.0,CHA,76.0,L. Kennard,LAC,Kennard 24' 3PT Jump Shot (9 PTS) (Mann 1 AST),Made Shot,Jump Shot,233,32,24,1,3.0,3.0,h
+S2223-G0476,4,10:45,LAC,,CHA,,L. Kennard,LAC,Kennard Bad Pass Turnover (P1.T24),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0476,4,08:16,LAC,,CHA,,L. Kennard,LAC,MISS Kennard 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-161,211,27,1,3.0,0.0,h
+S2223-G0476,4,07:52,LAC,107.0,CHA,90.0,L. Kennard,LAC,Kennard 26' 3PT Jump Shot (12 PTS) (Powell 2 AST),Made Shot,Jump Shot,-153,212,26,1,3.0,3.0,h
+S2223-G0476,4,06:37,LAC,,CHA,,L. Kennard,LAC,MISS Kennard 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-183,195,27,1,3.0,0.0,h
+S2223-G0476,4,05:50,LAC,,CHA,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0476,4,03:21,LAC,,CHA,,L. Kennard,LAC,SUB: Covington FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0374,1,00:53.100000,MIA,,LAC,,L. Kennard,LAC,MISS Kennard 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,235,16,24,1,3.0,0.0,v
+S2223-G0374,1,00:49.200000,MIA,20.0,LAC,28.0,L. Kennard,LAC,Kennard 4' Cutting Layup Shot (2 PTS) (Jackson 1 AST),Made Shot,Cutting Layup Shot,13,35,4,1,2.0,2.0,v
+S2223-G0374,2,11:00,MIA,22.0,LAC,32.0,L. Kennard,LAC,Kennard 12' Jump Shot (4 PTS) (Wall 4 AST),Made Shot,Jump Shot,54,112,12,1,2.0,2.0,v
+S2223-G0374,2,09:36,MIA,,LAC,,L. Kennard,LAC,SUB: Morris Sr. FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0374,2,00:00,MIA,56.0,LAC,54.0,L. Kennard,LAC,Kennard 27' 3PT Jump Shot (7 PTS) (George 4 AST),Made Shot,Jump Shot,147,226,27,1,3.0,3.0,v
+S2223-G0374,3,01:35,MIA,,LAC,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-98,244,26,1,3.0,0.0,v
+S2223-G0374,3,01:14,MIA,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0374,4,11:01,MIA,,LAC,,L. Kennard,LAC,MISS Kennard 27' 3PT Jump Shot,Missed Shot,Jump Shot,16,268,27,1,3.0,0.0,v
+S2223-G0374,4,08:06,MIA,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0374,4,07:27,MIA,,LAC,,L. Kennard,LAC,MISS Kennard 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,136,217,26,1,3.0,0.0,v
+S2223-G0374,4,03:42,MIA,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0374,4,02:21,MIA,,LAC,,L. Kennard,LAC,Kennard Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0374,4,02:04,MIA,,LAC,,L. Kennard,LAC,SUB: Batum FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0509,2,10:39,TOR,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0509,2,09:37,TOR,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0509,2,06:54,TOR,,LAC,,L. Kennard,LAC,MISS Kennard 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-129,232,27,1,3.0,0.0,v
+S2223-G0509,2,06:02,TOR,,LAC,,L. Kennard,LAC,SUB: Leonard FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0509,3,03:28,TOR,,LAC,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,91,246,26,1,3.0,0.0,v
+S2223-G0509,4,11:05,TOR,,LAC,,L. Kennard,LAC,MISS Kennard 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-118,236,26,1,3.0,0.0,v
+S2223-G0509,4,11:00,TOR,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0509,4,10:59,TOR,,LAC,,L. Kennard,LAC,MISS Kennard Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0509,4,09:33,TOR,,LAC,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0509,4,07:55,TOR,,LAC,,L. Kennard,LAC,SUB: Jackson FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0158,1,02:40,LAC,,CLE,,L. Kennard,LAC,MISS Kennard 52' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,136,497,52,1,3.0,0.0,h
+S2223-G0158,1,01:26,LAC,,CLE,,L. Kennard,LAC,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,-224,0,0,1,3.0,0.0,h
+S2223-G0158,1,01:07,LAC,,CLE,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0158,1,00:56.800000,LAC,25.0,CLE,34.0,L. Kennard,LAC,Kennard 24' 3PT Jump Shot (3 PTS) (George 2 AST),Made Shot,Jump Shot,-145,197,24,1,3.0,3.0,h
+S2223-G0158,2,10:08,LAC,40.0,CLE,44.0,L. Kennard,LAC,Kennard 25' 3PT Jump Shot (6 PTS) (Mann 1 AST),Made Shot,Jump Shot,-86,231,25,1,3.0,3.0,h
+S2223-G0158,2,08:12,LAC,,CLE,,L. Kennard,LAC,Kennard P.FOUL (P1.T3) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2223-G0158,2,07:44,LAC,,CLE,,L. Kennard,LAC,SUB: Zubac FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0158,4,09:51,LAC,,CLE,,L. Kennard,LAC,Kennard STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0158,4,06:57,LAC,,CLE,,L. Kennard,LAC,SUB: George FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0158,4,00:08,LAC,,CLE,,L. Kennard,LAC,SUB: Mann FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G1088,1,05:33,MEM,,HOU,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1088,1,05:05,MEM,,HOU,,L. Kennard,MEM,MISS Kennard 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,53,106,12,1,2.0,0.0,h
+S2223-G1088,1,03:59,MEM,,HOU,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1088,1,02:49,MEM,,HOU,,L. Kennard,MEM,Kennard Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1088,1,00:48.200000,MEM,,HOU,,L. Kennard,MEM,Kennard REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1088,2,04:29,MEM,63.0,HOU,53.0,L. Kennard,MEM,Kennard 24' 3PT Jump Shot (3 PTS) (Roddy 1 AST),Made Shot,Jump Shot,-59,237,24,1,3.0,3.0,h
+S2223-G1088,2,02:57,MEM,69.0,HOU,57.0,L. Kennard,MEM,Kennard 24' 3PT Running Jump Shot (6 PTS) (Jones 5 AST),Made Shot,Running Jump Shot,211,121,24,1,3.0,3.0,h
+S2223-G1088,2,02:02,MEM,,HOU,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,12,251,25,1,3.0,0.0,h
+S2223-G1088,2,01:59,MEM,,HOU,,L. Kennard,MEM,Kennard REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1088,2,00:00,MEM,75.0,HOU,64.0,L. Kennard,MEM,Kennard 25' 3PT Pullup Jump Shot (9 PTS) (Jones 6 AST),Made Shot,Pullup Jump shot,-69,236,25,1,3.0,3.0,h
+S2223-G1088,4,04:38,MEM,112.0,HOU,112.0,L. Kennard,MEM,Kennard Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1088,4,04:38,MEM,113.0,HOU,112.0,L. Kennard,MEM,Kennard Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1088,4,02:32,MEM,,HOU,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,150,195,25,1,3.0,0.0,h
+S2223-G1088,4,00:24.500000,MEM,125.0,HOU,119.0,L. Kennard,MEM,Kennard Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1088,4,00:24.500000,MEM,126.0,HOU,119.0,L. Kennard,MEM,Kennard Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1088,4,00:24.500000,MEM,,HOU,,L. Kennard,MEM,SUB: Konchar FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G1088,4,00:20.400000,MEM,,HOU,,L. Kennard,MEM,SUB: Konchar FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G1010,2,09:50,,37.0,DAL,30.0,L. Kennard,MEM,Kennard 17' Pullup Jump Shot (2 PTS) (Aldama 1 AST),Made Shot,Pullup Jump shot,-172,-1,17,1,2.0,2.0,h
+S2223-G1010,2,09:08,,,DAL,,L. Kennard,MEM,Kennard STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1010,2,07:18,,,DAL,,L. Kennard,MEM,Kennard STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1010,2,06:06,,,DAL,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,-228,99,25,1,3.0,0.0,h
+S2223-G1010,2,05:46,,,DAL,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1010,2,05:06,,46.0,DAL,41.0,L. Kennard,MEM,Kennard 25' 3PT Jump Shot (5 PTS) (Tillman 1 AST),Made Shot,Jump Shot,83,237,25,1,3.0,3.0,h
+S2223-G1010,2,04:05,,,DAL,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1010,2,03:04,,51.0,DAL,44.0,L. Kennard,MEM,Kennard 24' 3PT Jump Shot (8 PTS) (Jones 6 AST),Made Shot,Jump Shot,228,77,24,1,3.0,3.0,h
+S2223-G1010,2,00:38.600000,,,DAL,,L. Kennard,MEM,Kennard S.FOUL (P1.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G1010,2,00:34.700000,,,DAL,,L. Kennard,MEM,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,233,15,0,1,3.0,0.0,h
+S2223-G1010,2,00:08.200000,,,DAL,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1010,3,01:57,,,DAL,,L. Kennard,MEM,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,-230,4,0,1,3.0,0.0,h
+S2223-G1010,4,09:35,,,DAL,,L. Kennard,MEM,Kennard S.FOUL (P2.T2) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G1010,4,08:35,,,DAL,,L. Kennard,MEM,MISS Kennard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,137,217,26,1,3.0,0.0,h
+S2223-G1010,4,08:20,,,DAL,,L. Kennard,MEM,SUB: Brooks FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0907,1,04:50,MEM,,DEN,,L. Kennard,MEM,MISS Kennard 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-108,3,11,1,2.0,0.0,h
+S2223-G0907,2,05:24,MEM,,DEN,,L. Kennard,MEM,MISS Kennard 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,26,188,19,1,2.0,0.0,h
+S2223-G0907,2,04:53,MEM,55.0,DEN,33.0,L. Kennard,MEM,Kennard 3PT Jump Shot (3 PTS) (Jones 3 AST),Made Shot,Jump Shot,229,-7,0,1,3.0,3.0,h
+S2223-G0907,2,01:28,MEM,,DEN,,L. Kennard,MEM,SUB: Bane FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0907,3,05:25,MEM,,DEN,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,127,215,25,1,3.0,0.0,h
+S2223-G0907,3,05:14,MEM,,DEN,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0907,3,00:56.900000,MEM,94.0,DEN,60.0,L. Kennard,MEM,Kennard 3PT Jump Shot (6 PTS) (Aldama 1 AST),Made Shot,Jump Shot,-230,7,0,1,3.0,3.0,h
+S2223-G0907,4,09:56,MEM,100.0,DEN,65.0,L. Kennard,MEM,Kennard 3PT Jump Shot (9 PTS) (Jones 4 AST),Made Shot,Jump Shot,224,16,0,1,3.0,3.0,h
+S2223-G0907,4,09:29,MEM,,DEN,,L. Kennard,MEM,SUB: Konchar FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0907,4,07:04,MEM,,DEN,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0907,4,06:10,MEM,105.0,DEN,73.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (12 PTS) (Jones 5 AST),Made Shot,Jump Shot,-120,235,26,1,3.0,3.0,h
+S2223-G0907,4,04:15,MEM,,DEN,,L. Kennard,MEM,SUB: Chandler FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G1052,1,06:19,SAS,,MEM,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,-194,163,25,1,3.0,0.0,v
+S2223-G1052,1,02:49,SAS,,MEM,,L. Kennard,MEM,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1052,1,01:26,SAS,,MEM,,L. Kennard,MEM,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-170,195,26,1,3.0,0.0,v
+S2223-G1052,2,02:53,SAS,,MEM,,L. Kennard,MEM,Kennard STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1052,2,02:52,SAS,60.0,MEM,43.0,L. Kennard,MEM,Kennard Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1052,2,02:52,SAS,,MEM,,L. Kennard,MEM,MISS Kennard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1052,2,02:19,SAS,,MEM,,L. Kennard,MEM,SUB: Bane FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G1052,3,02:35,SAS,88.0,MEM,71.0,L. Kennard,MEM,Kennard 25' 3PT Jump Shot (4 PTS) (Jones 4 AST),Made Shot,Jump Shot,-212,125,25,1,3.0,3.0,v
+S2223-G1052,3,01:21,SAS,,MEM,,L. Kennard,MEM,Kennard STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G1052,3,01:17,SAS,,MEM,,L. Kennard,MEM,Kennard Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1052,3,00:00,SAS,93.0,MEM,81.0,L. Kennard,MEM,Kennard 37' 3PT Pullup Jump Shot (7 PTS) (Lofton Jr. 1 AST),Made Shot,Pullup Jump shot,20,367,37,1,3.0,3.0,v
+S2223-G1052,4,11:08,SAS,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1052,4,10:33,SAS,,MEM,,L. Kennard,MEM,Kennard P.FOUL (P1.T1) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2223-G1052,4,09:23,SAS,,MEM,,L. Kennard,MEM,Kennard P.FOUL (P2.T2) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G1052,4,08:41,SAS,94.0,MEM,89.0,L. Kennard,MEM,Kennard 25' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,-50,243,25,1,3.0,3.0,v
+S2223-G1052,4,08:23,SAS,,MEM,,L. Kennard,MEM,Kennard STEAL (4 STL),,,0,0,0,0,,,v
+S2223-G1052,4,06:50,SAS,,MEM,,L. Kennard,MEM,MISS Kennard 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,232,90,25,1,3.0,0.0,v
+S2223-G1052,4,04:27,SAS,,MEM,,L. Kennard,MEM,Kennard Traveling Turnover (P2.T13),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1052,4,02:51,SAS,,MEM,,L. Kennard,MEM,SUB: Lofton Jr. FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G1052,4,00:10.600000,SAS,109.0,MEM,106.0,L. Kennard,MEM,Kennard 25' 3PT Jump Shot (13 PTS) (Bane 6 AST),Made Shot,Jump Shot,-205,146,25,1,3.0,3.0,v
+S2223-G1052,5,00:43.800000,SAS,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1052,5,00:40.400000,SAS,,MEM,,L. Kennard,MEM,Kennard Lost Ball Turnover (P3.T17),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1156,1,03:12,MEM,,LAC,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1156,1,02:04,MEM,,LAC,,L. Kennard,MEM,Kennard Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G1156,1,01:38,MEM,,LAC,,L. Kennard,MEM,Kennard S.FOUL (P1.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G1156,2,10:51,MEM,,LAC,,L. Kennard,MEM,Kennard Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1156,2,10:29,MEM,26.0,LAC,36.0,L. Kennard,MEM,Kennard 27' 3PT Running Jump Shot (3 PTS) (Jones 1 AST),Made Shot,Running Jump Shot,-175,200,27,1,3.0,3.0,h
+S2223-G1156,2,10:10,MEM,,LAC,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1156,2,09:56,MEM,29.0,LAC,36.0,L. Kennard,MEM,Kennard 26' 3PT Step Back Jump Shot (6 PTS) (Tillman 1 AST),Made Shot,Step Back Jump shot,-148,209,26,1,3.0,3.0,h
+S2223-G1156,2,09:34,MEM,,LAC,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1156,2,08:25,MEM,36.0,LAC,38.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (9 PTS) (Jones 2 AST),Made Shot,Jump Shot,-216,136,26,1,3.0,3.0,h
+S2223-G1156,2,08:03,MEM,,LAC,,L. Kennard,MEM,MISS Kennard 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-237,13,24,1,3.0,0.0,h
+S2223-G1156,2,07:38,MEM,,LAC,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1156,2,05:59,MEM,45.0,LAC,41.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (12 PTS) (Jones 3 AST),Made Shot,Jump Shot,-22,256,26,1,3.0,3.0,h
+S2223-G1156,2,05:09,MEM,47.0,LAC,43.0,L. Kennard,MEM,Kennard 13' Fadeaway Jumper (14 PTS),Made Shot,Fadeaway Jump Shot,42,118,13,1,2.0,2.0,h
+S2223-G1156,2,00:32.100000,MEM,,LAC,,L. Kennard,MEM,MISS Kennard 27' 3PT Jump Shot,Missed Shot,Jump Shot,-112,242,27,1,3.0,0.0,h
+S2223-G1156,3,03:24,MEM,,LAC,,L. Kennard,MEM,MISS Kennard 29' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,196,209,29,1,3.0,0.0,h
+S2223-G1156,3,02:16,MEM,,LAC,,L. Kennard,MEM,MISS Kennard 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,237,9,24,1,3.0,0.0,h
+S2223-G1156,4,11:14,MEM,89.0,LAC,72.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (17 PTS) (Bane 8 AST),Made Shot,Jump Shot,157,209,26,1,3.0,3.0,h
+S2223-G1156,4,10:28,MEM,,LAC,,L. Kennard,MEM,Kennard S.FOUL (P2.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G1156,4,07:20,MEM,,LAC,,L. Kennard,MEM,Kennard OFF.Foul (P3) (J.Tiven),Foul,Offensive,0,0,0,0,,,h
+S2223-G1156,4,07:20,MEM,,LAC,,L. Kennard,MEM,Kennard Offensive Foul Turnover (P3.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1156,4,04:30,MEM,,LAC,,L. Kennard,MEM,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,-225,30,0,1,3.0,0.0,h
+S2223-G1156,4,03:46,MEM,,LAC,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1156,4,02:33,MEM,,LAC,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1208,1,08:48,MIL,,MEM,,L. Kennard,MEM,MISS Kennard 27' 3PT Jump Shot,Missed Shot,Jump Shot,183,204,27,1,3.0,0.0,v
+S2223-G1208,1,07:46,MIL,13.0,MEM,9.0,L. Kennard,MEM,Kennard 27' 3PT Running Jump Shot (3 PTS) (Morant 2 AST),Made Shot,Running Jump Shot,104,246,27,1,3.0,3.0,v
+S2223-G1208,1,06:58,MIL,17.0,MEM,12.0,L. Kennard,MEM,Kennard 25' 3PT Jump Shot (6 PTS) (Bane 1 AST),Made Shot,Jump Shot,-233,79,25,1,3.0,3.0,v
+S2223-G1208,1,02:21,MIL,25.0,MEM,28.0,L. Kennard,MEM,Kennard 26' 3PT Pullup Jump Shot (9 PTS) (Konchar 1 AST),Made Shot,Pullup Jump shot,-152,216,26,1,3.0,3.0,v
+S2223-G1208,1,02:08,MIL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1208,1,00:58.900000,MIL,31.0,MEM,34.0,L. Kennard,MEM,Kennard 16' Pullup Jump Shot (11 PTS) (Tillman 1 AST),Made Shot,Pullup Jump shot,10,156,16,1,2.0,2.0,v
+S2223-G1208,1,00:31.700000,MIL,,MEM,,L. Kennard,MEM,SUB: Roddy FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G1208,3,11:16,MIL,,MEM,,L. Kennard,MEM,Kennard P.FOUL (P1.T2) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2223-G1208,3,10:20,MIL,,MEM,,L. Kennard,MEM,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,26,257,26,1,3.0,0.0,v
+S2223-G1208,3,10:09,MIL,77.0,MEM,76.0,L. Kennard,MEM,Kennard 3' Cutting Layup Shot (13 PTS) (Jackson Jr. 2 AST),Made Shot,Cutting Layup Shot,4,27,3,1,2.0,2.0,v
+S2223-G1208,3,07:50,MIL,79.0,MEM,85.0,L. Kennard,MEM,Kennard 3PT Running Jump Shot (16 PTS) (Morant 7 AST),Made Shot,Running Jump Shot,232,-10,0,1,3.0,3.0,v
+S2223-G1208,3,07:09,MIL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1208,3,05:59,MIL,79.0,MEM,95.0,L. Kennard,MEM,Kennard 3PT Running Jump Shot (19 PTS) (Bane 6 AST),Made Shot,Running Jump Shot,221,10,0,1,3.0,3.0,v
+S2223-G1208,3,03:09,MIL,,MEM,,L. Kennard,MEM,Kennard S.FOUL (P2.PN) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2223-G1208,3,01:12,MIL,,MEM,,L. Kennard,MEM,SUB: Roddy FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G1208,4,04:39,MIL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1208,4,04:07,MIL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1208,4,02:38,MIL,,MEM,,L. Kennard,MEM,SUB: Chandler FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0970,1,00:55.300000,LAC,28.0,MEM,28.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (3 PTS) (Bane 2 AST),Made Shot,Jump Shot,-59,253,26,1,3.0,3.0,v
+S2223-G0970,2,10:46,LAC,,MEM,,L. Kennard,MEM,Kennard Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0970,2,10:29,LAC,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0970,2,07:58,LAC,,MEM,,L. Kennard,MEM,MISS Kennard 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-66,108,13,1,2.0,0.0,v
+S2223-G0970,2,05:39,LAC,49.0,MEM,47.0,L. Kennard,MEM,Kennard 25' 3PT Jump Shot (6 PTS) (Jones 4 AST),Made Shot,Jump Shot,-89,235,25,1,3.0,3.0,v
+S2223-G0970,2,03:48,LAC,55.0,MEM,52.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (9 PTS) (Konchar 2 AST),Made Shot,Jump Shot,-98,237,26,1,3.0,3.0,v
+S2223-G0970,2,00:01.900000,LAC,67.0,MEM,61.0,L. Kennard,MEM,Kennard 24' 3PT Jump Shot (12 PTS) (Bane 4 AST),Made Shot,Jump Shot,-190,148,24,1,3.0,3.0,v
+S2223-G0970,3,02:41,LAC,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0970,3,00:11.900000,LAC,,MEM,,L. Kennard,MEM,Kennard S.FOUL (P1.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0970,4,09:36,LAC,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0970,4,07:41,LAC,,MEM,,L. Kennard,MEM,SUB: Tillman FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0970,4,02:29,LAC,,MEM,,L. Kennard,MEM,MISS Kennard 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,162,42,17,1,2.0,0.0,v
+S2223-G0970,4,00:57.900000,LAC,131.0,MEM,129.0,L. Kennard,MEM,Kennard 26' 3PT Running Jump Shot (15 PTS) (Jones 12 AST),Made Shot,Running Jump Shot,162,200,26,1,3.0,3.0,v
+S2223-G0423,1,01:41,LAC,,MIN,,L. Kennard,LAC,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,-213,124,25,1,3.0,0.0,h
+S2223-G0423,2,11:17,LAC,,MIN,,L. Kennard,LAC,MISS Kennard 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,53,24,1,3.0,0.0,h
+S2223-G0423,2,11:00,LAC,23.0,MIN,21.0,L. Kennard,LAC,Kennard 25' 3PT Running Jump Shot (3 PTS) (Batum 1 AST),Made Shot,Running Jump Shot,-224,104,25,1,3.0,3.0,h
+S2223-G0423,2,08:54,LAC,,MIN,,L. Kennard,LAC,Kennard S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0423,2,08:25,LAC,,MIN,,L. Kennard,LAC,Kennard BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0423,2,05:56,LAC,28.0,MIN,31.0,L. Kennard,LAC,Kennard Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0423,2,05:56,LAC,29.0,MIN,31.0,L. Kennard,LAC,Kennard Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0423,2,05:27,LAC,31.0,MIN,31.0,L. Kennard,LAC,Kennard 3' Finger Roll Layup (7 PTS) (George 2 AST),Made Shot,Finger Roll Layup Shot,20,22,3,1,2.0,2.0,h
+S2223-G0423,2,04:33,LAC,,MIN,,L. Kennard,LAC,SUB: Zubac FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0423,3,00:19,LAC,67.0,MIN,65.0,L. Kennard,LAC,Kennard 26' 3PT Jump Shot (10 PTS) (George 9 AST),Made Shot,Jump Shot,-34,254,26,1,3.0,3.0,h
+S2223-G0423,3,00:00.100000,LAC,,MIN,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-123,227,26,1,3.0,0.0,h
+S2223-G0423,4,08:38,LAC,76.0,MIN,71.0,L. Kennard,LAC,Kennard 25' 3PT Jump Shot (13 PTS) (Mann 2 AST),Made Shot,Jump Shot,120,223,25,1,3.0,3.0,h
+S2223-G0423,4,07:12,LAC,81.0,MIN,73.0,L. Kennard,LAC,Kennard 26' 3PT Jump Shot (16 PTS) (Covington 2 AST),Made Shot,Jump Shot,-129,223,26,1,3.0,3.0,h
+S2223-G0423,4,04:32,LAC,,MIN,,L. Kennard,LAC,Kennard S.FOUL (P2.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0423,4,02:36,LAC,,MIN,,L. Kennard,LAC,SUB: Brown FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0927,1,04:14,MEM,,LAL,,L. Kennard,MEM,Kennard P.FOUL (P1.PN) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2223-G0927,1,00:53.100000,MEM,,LAL,,L. Kennard,MEM,MISS Kennard 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,23,105,11,1,2.0,0.0,h
+S2223-G0927,1,00:00,MEM,26.0,LAL,22.0,L. Kennard,MEM,Kennard 26' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,-112,238,26,1,3.0,3.0,h
+S2223-G0927,2,11:19,MEM,,LAL,,L. Kennard,MEM,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-129,220,26,1,3.0,0.0,h
+S2223-G0927,2,10:42,MEM,,LAL,,L. Kennard,MEM,SUB: Konchar FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0927,2,06:31,MEM,,LAL,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,153,199,25,1,3.0,0.0,h
+S2223-G0927,2,03:22,MEM,,LAL,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0927,2,02:08,MEM,,LAL,,L. Kennard,MEM,SUB: Bane FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0927,3,04:42,MEM,,LAL,,L. Kennard,MEM,Kennard S.FOUL (P2.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0927,3,01:38,MEM,88.0,LAL,79.0,L. Kennard,MEM,Kennard 25' 3PT Running Pull-Up Jump Shot (6 PTS) (Morant 8 AST),Made Shot,Running Pull-Up Jump Shot,211,136,25,1,3.0,3.0,h
+S2223-G0927,3,00:34,MEM,,LAL,,L. Kennard,MEM,MISS Kennard 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,123,227,26,1,3.0,0.0,h
+S2223-G0927,4,07:41,MEM,,LAL,,L. Kennard,MEM,MISS Kennard 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,115,219,25,1,3.0,0.0,h
+S2223-G0927,4,05:20,MEM,,LAL,,L. Kennard,MEM,SUB: Bane FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0766,1,11:26,CHI,,LAC,,L. Kennard,LAC,MISS Kennard 27' 3PT Jump Shot,Missed Shot,Jump Shot,28,269,27,1,3.0,0.0,v
+S2223-G0766,1,10:24,CHI,,LAC,,L. Kennard,LAC,MISS Kennard 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-25,10,3,1,2.0,0.0,v
+S2223-G0766,1,09:23,CHI,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0766,1,08:29,CHI,,LAC,,L. Kennard,LAC,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,-21,252,25,1,3.0,0.0,v
+S2223-G0766,1,07:34,CHI,,LAC,,L. Kennard,LAC,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,-74,240,25,1,3.0,0.0,v
+S2223-G0766,1,05:00,CHI,,LAC,,L. Kennard,LAC,SUB: Powell FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0766,2,02:04,CHI,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0766,2,01:13,CHI,,LAC,,L. Kennard,LAC,Kennard P.FOUL (P1.PN) (J.Schroeder),Foul,Personal,0,0,0,0,,,v
+S2223-G0766,3,10:53,CHI,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0766,3,10:26,CHI,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0766,3,09:48,CHI,,LAC,,L. Kennard,LAC,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,-152,193,25,1,3.0,0.0,v
+S2223-G0766,3,09:10,CHI,,LAC,,L. Kennard,LAC,Kennard S.FOUL (P2.T1) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0766,3,04:37,CHI,,LAC,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-153,215,26,1,3.0,0.0,v
+S2223-G0766,3,04:10,CHI,,LAC,,L. Kennard,LAC,SUB: Powell FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G1100,1,05:58,MEM,21.0,HOU,17.0,L. Kennard,MEM,Kennard 3PT Jump Shot (3 PTS) (Jones 2 AST),Made Shot,Jump Shot,234,9,0,1,3.0,3.0,h
+S2223-G1100,1,05:04,MEM,,HOU,,L. Kennard,MEM,Kennard S.FOUL (P1.T3) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2223-G1100,1,04:42,MEM,,HOU,,L. Kennard,MEM,MISS Kennard 25' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-146,204,25,1,3.0,0.0,h
+S2223-G1100,1,02:57,MEM,33.0,HOU,23.0,L. Kennard,MEM,Kennard 25' 3PT Running Jump Shot (6 PTS) (Morant 1 AST),Made Shot,Running Jump Shot,143,206,25,1,3.0,3.0,h
+S2223-G1100,2,00:30.100000,MEM,80.0,HOU,52.0,L. Kennard,MEM,Kennard 25' 3PT Jump Shot (9 PTS) (Jones 3 AST),Made Shot,Jump Shot,201,143,25,1,3.0,3.0,h
+S2223-G1100,2,00:04.100000,MEM,83.0,HOU,52.0,L. Kennard,MEM,Kennard 24' 3PT Jump Shot (12 PTS) (Jones 4 AST),Made Shot,Jump Shot,197,143,24,1,3.0,3.0,h
+S2223-G1100,3,08:14,MEM,91.0,HOU,64.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (15 PTS) (Jones 7 AST),Made Shot,Jump Shot,-4,259,26,1,3.0,3.0,h
+S2223-G1100,3,05:04,MEM,,HOU,,L. Kennard,MEM,Kennard STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1100,3,03:55,MEM,106.0,HOU,77.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (18 PTS) (Morant 7 AST),Made Shot,Jump Shot,126,231,26,1,3.0,3.0,h
+S2223-G1100,3,03:19,MEM,109.0,HOU,77.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (21 PTS) (Jackson Jr. 2 AST),Made Shot,Jump Shot,141,214,26,1,3.0,3.0,h
+S2223-G1100,3,02:23,MEM,112.0,HOU,79.0,L. Kennard,MEM,Kennard 26' 3PT Running Jump Shot (24 PTS) (Jones 8 AST),Made Shot,Running Jump Shot,109,232,26,1,3.0,3.0,h
+S2223-G1100,3,01:51,MEM,115.0,HOU,82.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (27 PTS) (Jones 9 AST),Made Shot,Jump Shot,2,258,26,1,3.0,3.0,h
+S2223-G1100,4,10:34,MEM,124.0,HOU,87.0,L. Kennard,MEM,Kennard 27' 3PT Jump Shot (30 PTS) (Morant 8 AST),Made Shot,Jump Shot,91,249,27,1,3.0,3.0,h
+S2223-G1100,4,10:00,MEM,,HOU,,L. Kennard,MEM,SUB: Konchar FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0438,1,03:36,LAC,,WAS,,L. Kennard,LAC,MISS Kennard 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-42,110,12,1,2.0,0.0,h
+S2223-G0438,1,01:09,LAC,,WAS,,L. Kennard,LAC,MISS Kennard 5' Driving Layup,Missed Shot,Driving Layup Shot,27,38,5,1,2.0,0.0,h
+S2223-G0438,2,11:44,LAC,23.0,WAS,28.0,L. Kennard,LAC,Kennard 27' 3PT Jump Shot (3 PTS) (Wall 2 AST),Made Shot,Jump Shot,123,241,27,1,3.0,3.0,h
+S2223-G0438,2,11:11,LAC,,WAS,,L. Kennard,LAC,Kennard Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0438,2,10:47,LAC,26.0,WAS,33.0,L. Kennard,LAC,Kennard 26' 3PT Jump Shot (6 PTS) (Coffey 1 AST),Made Shot,Jump Shot,-180,190,26,1,3.0,3.0,h
+S2223-G0438,2,10:16,LAC,29.0,WAS,35.0,L. Kennard,LAC,Kennard 26' 3PT Jump Shot (9 PTS) (Mann 1 AST),Made Shot,Jump Shot,70,247,26,1,3.0,3.0,h
+S2223-G0438,2,09:44,LAC,,WAS,,L. Kennard,LAC,MISS Kennard 27' 3PT Jump Shot,Missed Shot,Jump Shot,-66,258,27,1,3.0,0.0,h
+S2223-G0438,2,08:47,LAC,,WAS,,L. Kennard,LAC,MISS Kennard 6' Driving Layup,Missed Shot,Driving Layup Shot,13,57,6,1,2.0,0.0,h
+S2223-G0438,2,08:00,LAC,,WAS,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,27,262,26,1,3.0,0.0,h
+S2223-G0438,2,07:41,LAC,,WAS,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0438,2,03:53,LAC,,WAS,,L. Kennard,LAC,SUB: Wall FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0438,3,04:30,LAC,65.0,WAS,68.0,L. Kennard,LAC,Kennard 26' 3PT Jump Shot (12 PTS) (Mann 4 AST),Made Shot,Jump Shot,25,263,26,1,3.0,3.0,h
+S2223-G0438,3,00:09.500000,LAC,,WAS,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0438,3,00:06.800000,LAC,,WAS,,L. Kennard,LAC,Kennard Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0438,4,11:37,LAC,74.0,WAS,75.0,L. Kennard,LAC,Kennard 4' Driving Floating Bank Jump Shot (14 PTS) (Mann 5 AST),Made Shot,Driving Floating Bank Jump Shot,27,29,4,1,2.0,2.0,h
+S2223-G0438,4,10:52,LAC,76.0,WAS,78.0,L. Kennard,LAC,Kennard 10' Pullup Jump Shot (16 PTS) (Wall 6 AST),Made Shot,Pullup Jump shot,-96,8,10,1,2.0,2.0,h
+S2223-G0438,4,10:21,LAC,81.0,WAS,78.0,L. Kennard,LAC,Kennard Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2223-G0438,4,08:36,LAC,,WAS,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0438,4,06:56,LAC,,WAS,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0438,4,06:02,LAC,87.0,WAS,85.0,L. Kennard,LAC,Kennard 13' Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,92,96,13,1,2.0,2.0,h
+S2223-G0438,4,01:23,LAC,,WAS,,L. Kennard,LAC,MISS Kennard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0438,4,01:23,LAC,99.0,WAS,91.0,L. Kennard,LAC,Kennard Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0438,4,00:56.800000,LAC,,WAS,,L. Kennard,LAC,SUB: Coffey FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0984,1,05:16,LAL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0984,1,04:48,LAL,,MEM,,L. Kennard,MEM,MISS Kennard 27' 3PT Jump Shot,Missed Shot,Jump Shot,36,263,27,1,3.0,0.0,v
+S2223-G0984,1,04:21,LAL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0984,1,02:57,LAL,,MEM,,L. Kennard,MEM,Kennard S.FOUL (P1.T4) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0984,1,01:54,LAL,,MEM,,L. Kennard,MEM,MISS Kennard 4' Driving Layup,Missed Shot,Driving Layup Shot,15,42,4,1,2.0,0.0,v
+S2223-G0984,1,00:34,LAL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0984,2,06:08,LAL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0984,2,04:49,LAL,36.0,MEM,38.0,L. Kennard,MEM,Kennard 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,85,138,16,1,2.0,2.0,v
+S2223-G0984,2,03:07,LAL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0984,2,03:04,LAL,43.0,MEM,46.0,L. Kennard,MEM,Kennard Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0984,2,03:04,LAL,43.0,MEM,47.0,L. Kennard,MEM,Kennard Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0984,2,02:44,LAL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0984,2,02:37,LAL,,MEM,,L. Kennard,MEM,SUB: Bane FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0984,3,04:31,LAL,,MEM,,L. Kennard,MEM,Kennard Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0984,3,02:56,LAL,78.0,MEM,75.0,L. Kennard,MEM,Kennard Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0984,3,02:56,LAL,78.0,MEM,76.0,L. Kennard,MEM,Kennard Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0984,3,01:36,LAL,,MEM,,L. Kennard,MEM,Kennard Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0984,3,00:35.900000,LAL,,MEM,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,-154,200,25,1,3.0,0.0,v
+S2223-G0984,3,00:22.900000,LAL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0879,1,04:57,MEM,18.0,UTA,11.0,L. Kennard,MEM,Kennard Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0879,1,04:57,MEM,19.0,UTA,11.0,L. Kennard,MEM,Kennard Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0879,1,03:09,MEM,,UTA,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,185,162,25,1,3.0,0.0,h
+S2223-G0879,1,03:07,MEM,,UTA,,L. Kennard,MEM,Kennard REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0879,1,00:30.900000,MEM,35.0,UTA,21.0,L. Kennard,MEM,Kennard 25' 3PT Running Pull-Up Jump Shot (5 PTS) (Aldama 1 AST),Made Shot,Running Pull-Up Jump Shot,-132,217,25,1,3.0,3.0,h
+S2223-G0879,2,05:57,MEM,,UTA,,L. Kennard,MEM,Kennard S.FOUL (P1.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G0879,2,05:45,MEM,,UTA,,L. Kennard,MEM,MISS Kennard 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,227,25,0,1,3.0,0.0,h
+S2223-G0879,2,02:51,MEM,,UTA,,L. Kennard,MEM,SUB: Bane FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0879,3,03:38,MEM,82.0,UTA,67.0,L. Kennard,MEM,Kennard Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2223-G0879,3,02:37,MEM,85.0,UTA,69.0,L. Kennard,MEM,Kennard 3PT Running Jump Shot (9 PTS) (Morant 8 AST),Made Shot,Running Jump Shot,233,-1,0,1,3.0,3.0,h
+S2223-G0879,3,00:05.900000,MEM,,UTA,,L. Kennard,MEM,SUB: Brooks FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0879,4,05:14,MEM,,UTA,,L. Kennard,MEM,Kennard P.FOUL (P2.T4) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2223-G0879,4,04:40,MEM,,UTA,,L. Kennard,MEM,Kennard S.FOUL (P3.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0879,4,03:34,MEM,,UTA,,L. Kennard,MEM,SUB: Bane FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0879,4,00:10.900000,MEM,,UTA,,L. Kennard,MEM,SUB: Clarke FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0480,1,03:34,PHI,19.0,LAC,22.0,L. Kennard,LAC,Kennard 24' 3PT Jump Shot (3 PTS) (Morris Sr. 1 AST),Made Shot,Jump Shot,-239,3,24,1,3.0,3.0,v
+S2223-G0480,1,00:07.300000,PHI,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0480,2,10:37,PHI,,LAC,,L. Kennard,LAC,MISS Kennard 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,10,136,14,1,2.0,0.0,v
+S2223-G0480,2,09:46,PHI,29.0,LAC,40.0,L. Kennard,LAC,Kennard 26' 3PT Jump Shot (6 PTS) (Powell 2 AST),Made Shot,Jump Shot,82,247,26,1,3.0,3.0,v
+S2223-G0480,2,09:46,PHI,29.0,LAC,41.0,L. Kennard,LAC,Kennard Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0480,2,09:35,PHI,,LAC,,L. Kennard,LAC,Kennard BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0480,2,08:01,PHI,,LAC,,L. Kennard,LAC,Kennard S.FOUL (P1.T1) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0480,2,07:04,PHI,,LAC,,L. Kennard,LAC,MISS Kennard 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,6,113,11,1,2.0,0.0,v
+S2223-G0480,2,05:09,PHI,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0480,2,04:31,PHI,,LAC,,L. Kennard,LAC,SUB: Jackson FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0480,3,03:24,PHI,,LAC,,L. Kennard,LAC,MISS Kennard 27' 3PT Jump Shot,Missed Shot,Jump Shot,-180,202,27,1,3.0,0.0,v
+S2223-G0480,3,03:16,PHI,,LAC,,L. Kennard,LAC,Kennard P.FOUL (P2.T4) (B.Schwab),Foul,Personal,0,0,0,0,,,v
+S2223-G0480,3,00:12.300000,PHI,83.0,LAC,84.0,L. Kennard,LAC,Kennard Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2223-G0480,3,00:12.300000,PHI,,LAC,,L. Kennard,LAC,SUB: Mann FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0480,4,11:19,PHI,,LAC,,L. Kennard,LAC,Kennard S.FOUL (P3.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2223-G0480,4,09:27,PHI,,LAC,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-11,263,26,1,3.0,0.0,v
+S2223-G0480,4,07:56,PHI,,LAC,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0480,4,05:58,PHI,,LAC,,L. Kennard,LAC,SUB: George FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G1141,1,10:40,MEM,,LAC,,L. Kennard,MEM,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-65,249,26,1,3.0,0.0,h
+S2223-G1141,1,09:48,MEM,,LAC,,L. Kennard,MEM,MISS Kennard 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,17,15,2,1,2.0,0.0,h
+S2223-G1141,1,08:53,MEM,,LAC,,L. Kennard,MEM,Kennard BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1141,1,04:59,MEM,20.0,LAC,16.0,L. Kennard,MEM,Kennard 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-1,99,10,1,2.0,2.0,h
+S2223-G1141,1,04:07,MEM,,LAC,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1141,1,03:06,MEM,23.0,LAC,22.0,L. Kennard,MEM,Kennard 13' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,-77,105,13,1,2.0,2.0,h
+S2223-G1141,1,01:13,MEM,30.0,LAC,27.0,L. Kennard,MEM,Kennard 28' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,18,281,28,1,3.0,3.0,h
+S2223-G1141,1,00:55.400000,MEM,,LAC,,L. Kennard,MEM,SUB: Brooks FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G1141,2,05:56,MEM,46.0,LAC,49.0,L. Kennard,MEM,Kennard 1' Layup (9 PTS) (Tillman 1 AST),Made Shot,Layup Shot,9,8,1,1,2.0,2.0,h
+S2223-G1141,2,05:56,MEM,47.0,LAC,49.0,L. Kennard,MEM,Kennard Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1141,2,03:36,MEM,,LAC,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1141,2,03:20,MEM,,LAC,,L. Kennard,MEM,MISS Kennard 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-9,254,25,1,3.0,0.0,h
+S2223-G1141,2,03:15,MEM,,LAC,,L. Kennard,MEM,Kennard REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1141,2,01:49,MEM,,LAC,,L. Kennard,MEM,MISS Kennard 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,20,22,3,1,2.0,0.0,h
+S2223-G1141,2,01:03,MEM,,LAC,,L. Kennard,MEM,Kennard REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1141,3,09:09,MEM,,LAC,,L. Kennard,MEM,Kennard S.FOUL (P1.T3) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G1141,3,06:06,MEM,,LAC,,L. Kennard,MEM,SUB: LaRavia FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G1141,4,11:10,MEM,107.0,LAC,108.0,L. Kennard,MEM,Kennard 1' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,-7,10,1,1,2.0,2.0,h
+S2223-G1141,4,05:54,MEM,,LAC,,L. Kennard,MEM,SUB: Aldama FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0855,1,03:16,BOS,,MEM,,L. Kennard,MEM,Kennard P.FOUL (P1.T2) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2223-G0855,1,01:47,BOS,,MEM,,L. Kennard,MEM,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-210,147,26,1,3.0,0.0,v
+S2223-G0855,2,09:59,BOS,,MEM,,L. Kennard,MEM,SUB: Konchar FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0855,2,04:13,BOS,,MEM,,L. Kennard,MEM,MISS Kennard 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,119,52,13,1,2.0,0.0,v
+S2223-G0855,2,02:30,BOS,,MEM,,L. Kennard,MEM,SUB: Bane FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0855,3,05:10,BOS,68.0,MEM,66.0,L. Kennard,MEM,Kennard Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0855,3,04:05,BOS,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0855,3,02:42,BOS,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0855,3,01:15,BOS,,MEM,,L. Kennard,MEM,Kennard S.FOUL (P2.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2223-G0855,3,00:02.500000,BOS,82.0,MEM,81.0,L. Kennard,MEM,Kennard 24' 3PT Jump Shot (4 PTS) (Morant 7 AST),Made Shot,Jump Shot,-237,17,24,1,3.0,3.0,v
+S2223-G0855,4,11:18,BOS,,MEM,,L. Kennard,MEM,MISS Kennard 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,31,184,19,1,2.0,0.0,v
+S2223-G0855,4,09:01,BOS,,MEM,,L. Kennard,MEM,Kennard S.FOUL (P3.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0855,4,04:16,BOS,,MEM,,L. Kennard,MEM,SUB: Bane FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0389,1,00:04.400000,WAS,,,,L. Kennard,LAC,MISS Kennard 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,20,29,4,1,2.0,0.0,v
+S2223-G0389,2,11:04,WAS,,,,L. Kennard,LAC,Kennard Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0389,2,09:17,WAS,,,,L. Kennard,LAC,MISS Kennard 27' 3PT Jump Shot,Missed Shot,Jump Shot,184,202,27,1,3.0,0.0,v
+S2223-G0389,2,07:57,WAS,,,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0389,2,07:32,WAS,,,,L. Kennard,LAC,SUB: Morris Sr. FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0389,2,00:49.800000,WAS,63.0,,57.0,L. Kennard,LAC,Kennard 24' 3PT Jump Shot (3 PTS) (George 4 AST),Made Shot,Jump Shot,233,68,24,1,3.0,3.0,v
+S2223-G0389,3,03:30,WAS,,,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0389,3,03:10,WAS,84.0,,76.0,L. Kennard,LAC,Kennard Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0389,3,00:06.600000,WAS,,,,L. Kennard,LAC,Kennard BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0389,3,00:00,WAS,84.0,,86.0,L. Kennard,LAC,Kennard 27' 3PT Jump Shot (7 PTS) (George 6 AST),Made Shot,Jump Shot,-174,201,27,1,3.0,3.0,v
+S2223-G0389,4,10:36,WAS,,,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0389,4,10:34,WAS,,,,L. Kennard,LAC,Kennard Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0389,4,10:05,WAS,,,,L. Kennard,LAC,MISS Kennard 27' 3PT Jump Shot,Missed Shot,Jump Shot,-123,240,27,1,3.0,0.0,v
+S2223-G0389,4,09:33,WAS,,,,L. Kennard,LAC,Kennard P.FOUL (P1.T2) (L.Holtkamp),Foul,Personal,0,0,0,0,,,v
+S2223-G0389,4,08:09,WAS,88.0,,94.0,L. Kennard,LAC,Kennard 27' 3PT Jump Shot (10 PTS) (Wall 2 AST),Made Shot,Jump Shot,-164,219,27,1,3.0,3.0,v
+S2223-G0389,4,07:06,WAS,,,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-107,242,26,1,3.0,0.0,v
+S2223-G0389,4,06:23,WAS,,,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0389,4,04:42,WAS,,,,L. Kennard,LAC,SUB: George FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0389,4,00:14.700000,WAS,,,,L. Kennard,LAC,SUB: Mann FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G1023,1,02:27,DAL,,MEM,,L. Kennard,MEM,MISS Kennard 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-161,97,19,1,2.0,0.0,v
+S2223-G1023,1,00:58.100000,DAL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1023,2,07:02,DAL,,MEM,,L. Kennard,MEM,SUB: Brooks FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G1023,3,01:37,DAL,69.0,MEM,80.0,L. Kennard,MEM,Kennard 9' Driving Floating Jump Shot (2 PTS) (Bane 7 AST),Made Shot,Driving Floating Jump Shot,31,85,9,1,2.0,2.0,v
+S2223-G1023,3,00:09.400000,DAL,,MEM,,L. Kennard,MEM,Kennard Personal Take Foul (P1.T2) (K.Cutler),Foul,Personal Take,0,0,0,0,,,v
+S2223-G1023,4,10:44,DAL,,MEM,,L. Kennard,MEM,Kennard P.FOUL (P2.T3) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2223-G1023,4,09:32,DAL,,MEM,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1023,4,08:05,DAL,,MEM,,L. Kennard,MEM,MISS Kennard 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,232,56,24,1,3.0,0.0,v
+S2223-G1023,4,07:44,DAL,,MEM,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,66,236,25,1,3.0,0.0,v
+S2223-G1023,4,07:22,DAL,,MEM,,L. Kennard,MEM,SUB: Brooks FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G1023,4,01:56,DAL,,MEM,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,82,232,25,1,3.0,0.0,v
+S2223-G0560,1,01:07,LAC,28.0,MIA,31.0,L. Kennard,LAC,Kennard 26' 3PT Jump Shot (3 PTS) (George 4 AST),Made Shot,Jump Shot,-43,256,26,1,3.0,3.0,h
+S2223-G0560,2,11:32,LAC,,MIA,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0560,2,10:17,LAC,,MIA,,L. Kennard,LAC,Kennard S.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0560,2,09:54,LAC,,MIA,,L. Kennard,LAC,MISS Kennard 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,102,87,13,1,2.0,0.0,h
+S2223-G0560,2,05:20,LAC,,MIA,,L. Kennard,LAC,SUB: Morris Sr. FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0560,4,10:18,LAC,,MIA,,L. Kennard,LAC,Kennard L.B.FOUL (P2.T2) (E.Malloy),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0560,4,09:32,LAC,84.0,MIA,88.0,L. Kennard,LAC,Kennard Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0560,4,09:32,LAC,85.0,MIA,88.0,L. Kennard,LAC,Kennard Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0560,4,08:05,LAC,90.0,MIA,94.0,L. Kennard,LAC,Kennard Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2223-G0560,4,06:59,LAC,92.0,MIA,96.0,L. Kennard,LAC,Kennard 14' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,141,-1,14,1,2.0,2.0,h
+S2223-G0560,4,05:40,LAC,95.0,MIA,96.0,L. Kennard,LAC,Kennard 3PT Jump Shot (11 PTS) (Batum 1 AST),Made Shot,Jump Shot,228,48,0,1,3.0,3.0,h
+S2223-G0560,4,03:40,LAC,,MIA,,L. Kennard,LAC,SUB: Jackson FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0126,1,11:12,SAS,2.0,LAC,2.0,L. Kennard,LAC,Kennard 21' Pullup Jump Shot (2 PTS) (Zubac 1 AST),Made Shot,Pullup Jump shot,-159,138,21,1,2.0,2.0,v
+S2223-G0126,1,10:29,SAS,,LAC,,L. Kennard,LAC,Kennard S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0126,1,06:01,SAS,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0126,1,02:38,SAS,,LAC,,L. Kennard,LAC,SUB: Batum FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0043,1,02:23,LAC,,PHX,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0043,1,01:53,LAC,,PHX,,L. Kennard,LAC,MISS Kennard 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-26,47,5,1,2.0,0.0,h
+S2223-G0043,2,11:37,LAC,,PHX,,L. Kennard,LAC,MISS Kennard 2' Driving Layup,Missed Shot,Driving Layup Shot,15,10,2,1,2.0,0.0,h
+S2223-G0043,2,09:00,LAC,,PHX,,L. Kennard,LAC,Kennard OFF.Foul (P1) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,h
+S2223-G0043,2,09:00,LAC,,PHX,,L. Kennard,LAC,Kennard Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0043,2,07:04,LAC,,PHX,,L. Kennard,LAC,SUB: Leonard FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0043,3,00:01.600000,LAC,,PHX,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0043,4,11:33,LAC,74.0,PHX,86.0,L. Kennard,LAC,Kennard 2' Cutting Layup Shot (2 PTS) (Jackson 2 AST),Made Shot,Cutting Layup Shot,6,14,2,1,2.0,2.0,h
+S2223-G0043,4,10:59,LAC,,PHX,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,211,147,26,1,3.0,0.0,h
+S2223-G0043,4,10:47,LAC,,PHX,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0043,4,10:42,LAC,,PHX,,L. Kennard,LAC,Kennard OFF.Foul (P2) (C.Kirkland),Foul,Offensive,0,0,0,0,,,h
+S2223-G0043,4,10:42,LAC,,PHX,,L. Kennard,LAC,Kennard Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0043,4,09:08,LAC,,PHX,,L. Kennard,LAC,Kennard OFF.Foul (P3) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,h
+S2223-G0043,4,09:08,LAC,,PHX,,L. Kennard,LAC,Kennard Offensive Foul Turnover (P3.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0043,4,08:12,LAC,,PHX,,L. Kennard,LAC,SUB: Wall FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0184,1,08:21,LAC,5.0,BKN,5.0,L. Kennard,LAC,Kennard 29' 3PT Jump Shot (3 PTS) (Jackson 1 AST),Made Shot,Jump Shot,170,232,29,1,3.0,3.0,h
+S2223-G0184,1,07:10,LAC,,BKN,,L. Kennard,LAC,Kennard Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0184,1,06:21,LAC,,BKN,,L. Kennard,LAC,Kennard S.FOUL (P1.T3) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0184,1,06:10,LAC,,BKN,,L. Kennard,LAC,MISS Kennard 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-6,24,1,3.0,0.0,h
+S2223-G0184,1,05:27,LAC,,BKN,,L. Kennard,LAC,Kennard S.FOUL (P2.T4) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0184,1,05:27,LAC,,BKN,,L. Kennard,LAC,SUB: Powell FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0184,2,01:36,LAC,,BKN,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0184,2,01:34,LAC,,BKN,,L. Kennard,LAC,SUB: Batum FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0184,3,09:16,LAC,,BKN,,L. Kennard,LAC,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,-85,236,25,1,3.0,0.0,h
+S2223-G0184,3,08:41,LAC,60.0,BKN,62.0,L. Kennard,LAC,Kennard 27' 3PT Jump Shot (6 PTS) (Jackson 5 AST),Made Shot,Jump Shot,-186,201,27,1,3.0,3.0,h
+S2223-G0184,3,07:06,LAC,64.0,BKN,62.0,L. Kennard,LAC,Kennard 2' Driving Layup (8 PTS) (Morris Sr. 2 AST),Made Shot,Driving Layup Shot,-1,21,2,1,2.0,2.0,h
+S2223-G0184,3,07:06,LAC,65.0,BKN,62.0,L. Kennard,LAC,Kennard Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0184,3,05:13,LAC,,BKN,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0184,3,04:59,LAC,,BKN,,L. Kennard,LAC,Kennard Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0184,3,04:08,LAC,,BKN,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0184,3,04:03,LAC,,BKN,,L. Kennard,LAC,SUB: Wall FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0829,2,11:08,LAC,,DAL,,L. Kennard,LAC,MISS Kennard 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-26,156,16,1,2.0,0.0,h
+S2223-G0829,2,09:37,LAC,,DAL,,L. Kennard,LAC,Kennard S.FOUL (P1.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0829,2,08:18,LAC,,DAL,,L. Kennard,LAC,SUB: Mann FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0203,1,11:42,HOU,,LAC,,L. Kennard,LAC,MISS Kennard 27' 3PT Jump Shot,Missed Shot,Jump Shot,161,211,27,1,3.0,0.0,v
+S2223-G0203,1,04:10,HOU,15.0,LAC,17.0,L. Kennard,LAC,Kennard 26' 3PT Jump Shot (3 PTS) (Jackson 2 AST),Made Shot,Jump Shot,-146,220,26,1,3.0,3.0,v
+S2223-G0203,1,03:37,HOU,17.0,LAC,19.0,L. Kennard,LAC,Kennard 13' Pullup Jump Shot (5 PTS) (Jackson 3 AST),Made Shot,Pullup Jump shot,-78,104,13,1,2.0,2.0,v
+S2223-G0203,1,02:56,HOU,17.0,LAC,24.0,L. Kennard,LAC,Kennard 27' 3PT Running Jump Shot (8 PTS) (Morris Sr. 2 AST),Made Shot,Running Jump Shot,-188,196,27,1,3.0,3.0,v
+S2223-G0203,1,01:26,HOU,,LAC,,L. Kennard,LAC,SUB: Mann FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0203,2,06:55,HOU,,LAC,,L. Kennard,LAC,MISS Kennard 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-62,160,17,1,2.0,0.0,v
+S2223-G0203,2,06:14,HOU,,LAC,,L. Kennard,LAC,Kennard Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0203,2,05:56,HOU,,LAC,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0203,2,04:18,HOU,,LAC,,L. Kennard,LAC,MISS Kennard 27' 3PT Jump Shot,Missed Shot,Jump Shot,18,267,27,1,3.0,0.0,v
+S2223-G0203,3,09:22,HOU,,LAC,,L. Kennard,LAC,Kennard Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0203,3,07:05,HOU,,LAC,,L. Kennard,LAC,Kennard S.FOUL (P1.T1) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2223-G0203,3,04:25,HOU,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0203,3,02:34,HOU,,LAC,,L. Kennard,LAC,SUB: Powell FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G1184,1,11:49,MEM,3.0,POR,0.0,L. Kennard,MEM,Kennard 25' 3PT Jump Shot (3 PTS) (Morant 1 AST),Made Shot,Jump Shot,70,241,25,1,3.0,3.0,h
+S2223-G1184,1,09:20,MEM,,POR,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1184,1,07:49,MEM,12.0,POR,7.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (6 PTS) (Bane 1 AST),Made Shot,Jump Shot,-136,219,26,1,3.0,3.0,h
+S2223-G1184,1,05:59,MEM,22.0,POR,13.0,L. Kennard,MEM,Kennard 25' 3PT Jump Shot (9 PTS) (Bane 2 AST),Made Shot,Jump Shot,-138,206,25,1,3.0,3.0,h
+S2223-G1184,1,02:38,MEM,33.0,POR,19.0,L. Kennard,MEM,Kennard 26' 3PT Running Jump Shot (12 PTS) (Jones 1 AST),Made Shot,Running Jump Shot,208,152,26,1,3.0,3.0,h
+S2223-G1184,1,01:47,MEM,,POR,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1184,1,01:06,MEM,,POR,,L. Kennard,MEM,MISS Kennard 24' 3PT Jump Shot,Missed Shot,Jump Shot,186,158,24,1,3.0,0.0,h
+S2223-G1184,1,00:37.700000,MEM,41.0,POR,23.0,L. Kennard,MEM,Kennard 24' 3PT Jump Shot (15 PTS) (Roddy 1 AST),Made Shot,Jump Shot,121,211,24,1,3.0,3.0,h
+S2223-G1184,2,05:09,MEM,,POR,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1184,2,04:16,MEM,,POR,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,-91,234,25,1,3.0,0.0,h
+S2223-G1184,3,11:03,MEM,67.0,POR,66.0,L. Kennard,MEM,Kennard Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1184,3,11:03,MEM,68.0,POR,66.0,L. Kennard,MEM,Kennard Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1184,3,09:13,MEM,,POR,,L. Kennard,MEM,Kennard STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1184,3,09:12,MEM,,POR,,L. Kennard,MEM,Kennard Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1184,3,08:01,MEM,,POR,,L. Kennard,MEM,Kennard STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1184,3,06:35,MEM,,POR,,L. Kennard,MEM,MISS Kennard 3PT Running Jump Shot,Missed Shot,Running Jump Shot,224,57,0,1,3.0,0.0,h
+S2223-G1184,3,05:36,MEM,85.0,POR,78.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (20 PTS) (Aldama 4 AST),Made Shot,Jump Shot,119,227,26,1,3.0,3.0,h
+S2223-G1184,3,02:10,MEM,,POR,,L. Kennard,MEM,SUB: Bane FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G1184,4,05:51,MEM,,POR,,L. Kennard,MEM,MISS Kennard 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-130,65,15,1,2.0,0.0,h
+S2223-G1184,4,02:36,MEM,,POR,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1184,4,02:33,MEM,,POR,,L. Kennard,MEM,MISS Kennard 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,55,254,26,1,3.0,0.0,h
+S2223-G1184,4,02:29,MEM,,POR,,L. Kennard,MEM,Kennard REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,1,01:52,OKC,21.0,LAC,16.0,L. Kennard,LAC,Kennard 8' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,67,38,8,1,2.0,2.0,v
+S2223-G0054,1,01:26,OKC,,LAC,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-2,261,26,1,3.0,0.0,v
+S2223-G0054,1,00:58.100000,OKC,,LAC,,L. Kennard,LAC,MISS Kennard 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,80,8,1,2.0,0.0,v
+S2223-G0054,2,10:02,OKC,25.0,LAC,25.0,L. Kennard,LAC,Kennard 25' 3PT Jump Shot (5 PTS) (Wall 3 AST),Made Shot,Jump Shot,-216,117,25,1,3.0,3.0,v
+S2223-G0054,2,08:34,OKC,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0054,2,08:03,OKC,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0054,2,07:24,OKC,,LAC,,L. Kennard,LAC,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,-50,251,26,1,3.0,0.0,v
+S2223-G0054,2,05:14,OKC,,LAC,,L. Kennard,LAC,SUB: Wall FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0054,2,02:52,OKC,,LAC,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0054,2,02:04,OKC,,LAC,,L. Kennard,LAC,MISS Kennard 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-71,134,15,1,2.0,0.0,v
+S2223-G0054,2,01:05,OKC,,LAC,,L. Kennard,LAC,Kennard S.FOUL (P1.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2223-G0054,2,00:58.200000,OKC,,LAC,,L. Kennard,LAC,MISS Kennard 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-31,189,19,1,2.0,0.0,v
+S2223-G0054,3,04:53,OKC,,LAC,,L. Kennard,LAC,MISS Kennard 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,223,7,0,1,3.0,0.0,v
+S2223-G0054,4,11:00,OKC,86.0,LAC,70.0,L. Kennard,LAC,Kennard 8' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,-18,78,8,1,2.0,2.0,v
+S2223-G0054,4,10:29,OKC,,LAC,,L. Kennard,LAC,Kennard Out of Bounds - Bad Pass Turnover Turnover (P1.T19),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0054,4,08:58,OKC,90.0,LAC,74.0,L. Kennard,LAC,Kennard 1' Driving Reverse Layup (9 PTS) (Jackson 4 AST),Made Shot,Driving Reverse Layup Shot,-6,7,1,1,2.0,2.0,v
+S2223-G0054,4,07:44,OKC,90.0,LAC,79.0,L. Kennard,LAC,Kennard 25' 3PT Jump Shot (12 PTS) (Jackson 5 AST),Made Shot,Jump Shot,142,206,25,1,3.0,3.0,v
+S2223-G0054,4,07:09,OKC,,LAC,,L. Kennard,LAC,MISS Kennard 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,186,172,25,1,3.0,0.0,v
+S2223-G0054,4,06:25,OKC,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0054,4,04:51,OKC,,LAC,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0054,4,04:00,OKC,99.0,LAC,88.0,L. Kennard,LAC,Kennard 26' 3PT Step Back Jump Shot (15 PTS) (Jackson 6 AST),Made Shot,Step Back Jump shot,-82,244,26,1,3.0,3.0,v
+S2223-G0054,4,03:39,OKC,,LAC,,L. Kennard,LAC,Kennard T.FOUL (P1.T3) (J.DeRosa),Foul,Technical,0,0,0,0,,,v
+S2223-G0054,4,02:39,OKC,,LAC,,L. Kennard,LAC,SUB: Boston Jr. FOR Kennard,Substitution,,0,0,0,0,,,v
+S2223-G0170,1,10:23,LAC,,LAL,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0170,1,10:20,LAC,6.0,LAL,2.0,L. Kennard,LAC,Kennard 27' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-56,262,27,1,3.0,3.0,h
+S2223-G0170,1,09:48,LAC,,LAL,,L. Kennard,LAC,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,13,252,25,1,3.0,0.0,h
+S2223-G0170,1,07:45,LAC,,LAL,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0170,1,05:54,LAC,16.0,LAL,10.0,L. Kennard,LAC,Kennard 13' Jump Shot (5 PTS) (George 2 AST),Made Shot,Jump Shot,2,128,13,1,2.0,2.0,h
+S2223-G0170,1,04:05,LAC,23.0,LAL,13.0,L. Kennard,LAC,Kennard 26' 3PT Running Pull-Up Jump Shot (8 PTS) (Morris Sr. 1 AST),Made Shot,Running Pull-Up Jump Shot,-119,226,26,1,3.0,3.0,h
+S2223-G0170,1,02:03,LAC,,LAL,,L. Kennard,LAC,SUB: Powell FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0170,2,03:42,LAC,,LAL,,L. Kennard,LAC,MISS Kennard 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-179,173,25,1,3.0,0.0,h
+S2223-G0170,2,01:00,LAC,,LAL,,L. Kennard,LAC,MISS Kennard 16' Jump Shot,Missed Shot,Jump Shot,-72,144,16,1,2.0,0.0,h
+S2223-G0170,2,00:42.900000,LAC,54.0,LAL,50.0,L. Kennard,LAC,Kennard 1' Running Layup (10 PTS) (Powell 1 AST),Made Shot,Running Layup Shot,5,10,1,1,2.0,2.0,h
+S2223-G0170,3,11:41,LAC,57.0,LAL,52.0,L. Kennard,LAC,Kennard 24' 3PT Jump Shot (13 PTS) (Jackson 1 AST),Made Shot,Jump Shot,234,59,24,1,3.0,3.0,h
+S2223-G0170,3,11:05,LAC,,LAL,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0170,3,10:00,LAC,,LAL,,L. Kennard,LAC,Kennard L.B.FOUL (P1.T1) (B.Kennedy),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0170,3,07:16,LAC,,LAL,,L. Kennard,LAC,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0170,3,05:52,LAC,,LAL,,L. Kennard,LAC,MISS Kennard 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-167,197,26,1,3.0,0.0,h
+S2223-G0170,3,03:45,LAC,,LAL,,L. Kennard,LAC,SUB: Powell FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0408,1,04:24,LAC,,BOS,,L. Kennard,LAC,Kennard STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0408,1,04:06,LAC,,BOS,,L. Kennard,LAC,Kennard P.FOUL (P1.T4) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2223-G0408,1,03:15,LAC,,BOS,,L. Kennard,LAC,MISS Kennard 28' 3PT Jump Shot,Missed Shot,Jump Shot,-98,257,28,1,3.0,0.0,h
+S2223-G0408,1,02:28,LAC,,BOS,,L. Kennard,LAC,Kennard STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0408,1,02:27,LAC,,BOS,,L. Kennard,LAC,Kennard Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0408,2,06:58,LAC,39.0,BOS,36.0,L. Kennard,LAC,Kennard 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,34,3,1,2.0,2.0,h
+S2223-G0408,2,06:47,LAC,,BOS,,L. Kennard,LAC,Kennard P.FOUL (P2.T2) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2223-G0408,2,06:47,LAC,,BOS,,L. Kennard,LAC,SUB: Zubac FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G0408,3,04:44,LAC,,BOS,,L. Kennard,LAC,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,-232,-5,0,1,3.0,0.0,h
+S2223-G0408,3,04:38,LAC,,BOS,,L. Kennard,LAC,Kennard P.FOUL (P3.T3) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,h
+S2223-G0408,3,01:08,LAC,83.0,BOS,70.0,L. Kennard,LAC,Kennard 13' Pullup Jump Shot (4 PTS) (Jackson 1 AST),Made Shot,Pullup Jump shot,64,110,13,1,2.0,2.0,h
+S2223-G0408,3,00:55,LAC,86.0,BOS,70.0,L. Kennard,LAC,Kennard 26' 3PT Running Pull-Up Jump Shot (7 PTS) (Wall 3 AST),Made Shot,Running Pull-Up Jump Shot,-206,157,26,1,3.0,3.0,h
+S2223-G0408,4,11:36,LAC,90.0,BOS,72.0,L. Kennard,LAC,Kennard 12' Jump Shot (9 PTS),Made Shot,Jump Shot,-18,115,12,1,2.0,2.0,h
+S2223-G0408,4,10:10,LAC,,BOS,,L. Kennard,LAC,MISS Kennard 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,2,34,3,1,2.0,0.0,h
+S2223-G0408,4,08:27,LAC,97.0,BOS,80.0,L. Kennard,LAC,Kennard 25' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,-83,235,25,1,3.0,3.0,h
+S2223-G0408,4,06:37,LAC,,BOS,,L. Kennard,LAC,Kennard S.FOUL (P4.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0408,4,03:56,LAC,,BOS,,L. Kennard,LAC,MISS Kennard 29' 3PT Jump Shot,Missed Shot,Jump Shot,-65,284,29,1,3.0,0.0,h
+S2223-G0408,4,03:16,LAC,,BOS,,L. Kennard,LAC,SUB: Boston Jr. FOR Kennard,Substitution,,0,0,0,0,,,h
+S2223-G1075,1,04:17,MEM,,DAL,,L. Kennard,MEM,Kennard P.FOUL (P1.T3) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2223-G1075,1,02:33,MEM,26.0,DAL,21.0,L. Kennard,MEM,Kennard 24' 3PT Jump Shot (3 PTS) (Aldama 1 AST),Made Shot,Jump Shot,234,-25,24,1,3.0,3.0,h
+S2223-G1075,1,00:49.800000,MEM,,DAL,,L. Kennard,MEM,MISS Kennard 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,85,24,1,3.0,0.0,h
+S2223-G1075,2,01:43,MEM,57.0,DAL,60.0,L. Kennard,MEM,Kennard 17' Pullup Jump Shot (5 PTS) (Tillman 1 AST),Made Shot,Pullup Jump shot,87,142,17,1,2.0,2.0,h
+S2223-G1075,2,00:57,MEM,,DAL,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1075,2,00:34.700000,MEM,,DAL,,L. Kennard,MEM,MISS Kennard 4' Driving Layup,Missed Shot,Driving Layup Shot,22,29,4,1,2.0,0.0,h
+S2223-G1075,3,01:24,MEM,,DAL,,L. Kennard,MEM,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,233,-15,0,1,3.0,0.0,h
+S2223-G1075,3,01:12,MEM,,DAL,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1075,4,11:07,MEM,,DAL,,L. Kennard,MEM,Kennard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1075,4,08:50,MEM,,DAL,,L. Kennard,MEM,MISS Kennard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-121,225,26,1,3.0,0.0,h
+S2223-G1075,4,06:22,MEM,100.0,DAL,101.0,L. Kennard,MEM,Kennard 26' 3PT Jump Shot (8 PTS) (Konchar 1 AST),Made Shot,Jump Shot,-143,216,26,1,3.0,3.0,h
+S2223-G1075,4,05:51,MEM,,DAL,,L. Kennard,MEM,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,207,132,25,1,3.0,0.0,h
+S2223-G1075,4,05:36,MEM,102.0,DAL,103.0,L. Kennard,MEM,Kennard 2' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,-2,16,2,1,2.0,2.0,h
+S2223-G1075,4,05:03,MEM,,DAL,,L. Kennard,MEM,Kennard REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1075,4,03:16,MEM,,DAL,,L. Kennard,MEM,SUB: Jones FOR Kennard,Substitution,,0,0,0,0,,,h

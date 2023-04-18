@@ -1,0 +1,632 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0221,1,02:40,POR,,BKN,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0221,1,01:33,POR,,BKN,,J. Winslow,POR,Winslow S.FOUL (P1.T4) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0221,2,08:49,POR,,BKN,,J. Winslow,POR,SUB: Lillard FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0221,3,02:40,POR,,BKN,,J. Winslow,POR,SUB: Little FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0221,4,11:32,POR,,BKN,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0221,4,11:02,POR,89.0,BKN,87.0,J. Winslow,POR,Winslow 3' Floating Jump Shot (2 PTS) (Lillard 10 AST),Made Shot,Floating Jump shot,-20,17,3,1,2.0,2.0,h
+S2223-G0221,4,08:57,POR,,BKN,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0221,4,08:28,POR,,BKN,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0221,4,08:10,POR,,BKN,,J. Winslow,POR,Winslow P.FOUL (P2.T1) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2223-G0221,4,08:01,POR,,BKN,,J. Winslow,POR,Winslow S.FOUL (P3.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0221,4,07:31,POR,,BKN,,J. Winslow,POR,Winslow OFF.Foul (P4) (A.Smith),Foul,Offensive,0,0,0,0,,,h
+S2223-G0221,4,07:31,POR,,BKN,,J. Winslow,POR,Winslow Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0221,4,06:06,POR,,BKN,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0221,4,03:10,POR,,BKN,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0221,4,03:10,POR,,BKN,,J. Winslow,POR,MISS Winslow Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0221,4,01:35,POR,,BKN,,J. Winslow,POR,MISS Winslow 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-7,4,1,1,2.0,0.0,h
+S2223-G0221,4,01:07,POR,,BKN,,J. Winslow,POR,Winslow STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0221,4,00:14.900000,POR,,BKN,,J. Winslow,POR,Winslow P.FOUL (P5.PN) (J.Butler),Foul,Personal,0,0,0,0,,,h
+S2223-G0221,4,00:14.900000,POR,,BKN,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0407,1,05:02,POR,19.0,MIN,13.0,J. Winslow,POR,Winslow 3' Cutting Layup Shot (2 PTS) (Lillard 2 AST),Made Shot,Cutting Layup Shot,-31,4,3,1,2.0,2.0,h
+S2223-G0407,1,03:59,POR,,MIN,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0407,1,01:35,POR,,MIN,,J. Winslow,POR,MISS Winslow 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,45,29,5,1,2.0,0.0,h
+S2223-G0407,1,01:33,POR,,MIN,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0407,1,00:02.800000,POR,,MIN,,J. Winslow,POR,MISS Winslow 3PT Jump Shot,Missed Shot,Jump Shot,228,43,0,1,3.0,0.0,h
+S2223-G0407,2,11:29,POR,,MIN,,J. Winslow,POR,Winslow P.FOUL (P1.T1) (L.Wood),Foul,Personal,0,0,0,0,,,h
+S2223-G0407,2,08:44,POR,,MIN,,J. Winslow,POR,Winslow Violation:Defensive Goaltending (S.Foster),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0407,2,08:31,POR,,MIN,,J. Winslow,POR,Winslow Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0407,2,08:22,POR,,MIN,,J. Winslow,POR,Winslow S.FOUL (P2.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0407,2,07:53,POR,,MIN,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0407,2,05:00,POR,,MIN,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0407,3,03:39,POR,94.0,MIN,80.0,J. Winslow,POR,Winslow 3PT Jump Shot (5 PTS) (Grant 2 AST),Made Shot,Jump Shot,-228,11,0,1,3.0,3.0,h
+S2223-G0407,3,02:08,POR,,MIN,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0407,3,02:05,POR,99.0,MIN,80.0,J. Winslow,POR,Winslow 1' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,-4,-4,1,1,2.0,2.0,h
+S2223-G0407,3,00:32,POR,,MIN,,J. Winslow,POR,Winslow Personal Take Foul (P3.T4) (J.Goble),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0407,4,11:18,POR,110.0,MIN,84.0,J. Winslow,POR,Winslow 1' Running Layup (9 PTS) (Simons 6 AST),Made Shot,Running Layup Shot,4,10,1,1,2.0,2.0,h
+S2223-G0407,4,08:57,POR,,MIN,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0407,4,06:33,POR,,MIN,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0407,4,06:05,POR,,MIN,,J. Winslow,POR,MISS Winslow 3PT Jump Shot,Missed Shot,Jump Shot,-229,-4,0,1,3.0,0.0,h
+S2223-G0407,4,03:52,POR,,MIN,,J. Winslow,POR,MISS Winslow 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-4,179,18,1,2.0,0.0,h
+S2223-G0407,4,02:35,POR,,MIN,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0407,4,01:58,POR,,MIN,,J. Winslow,POR,Winslow Lost Ball Turnover (P2.T16),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0261,1,10:53,CLE,,POR,,J. Winslow,POR,MISS Winslow 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,62,24,1,3.0,0.0,v
+S2223-G0261,1,09:47,CLE,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0261,1,08:25,CLE,,POR,,J. Winslow,POR,MISS Winslow 2' Layup,Missed Shot,Layup Shot,-5,19,2,1,2.0,0.0,v
+S2223-G0261,1,07:40,CLE,,POR,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0261,1,06:58,CLE,8.0,POR,13.0,J. Winslow,POR,Winslow 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,-13,10,2,1,2.0,2.0,v
+S2223-G0261,1,05:59,CLE,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0261,1,05:41,CLE,,POR,,J. Winslow,POR,SUB: Sharpe FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0261,2,11:12,CLE,,POR,,J. Winslow,POR,Winslow L.B.FOUL (P1.T1) (J.Sterling),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0261,2,09:55,CLE,,POR,,J. Winslow,POR,SUB: Hart FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0261,2,03:37,CLE,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0261,2,03:06,CLE,,POR,,J. Winslow,POR,Winslow STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0261,3,10:20,CLE,59.0,POR,54.0,J. Winslow,POR,Winslow 26' 3PT Jump Shot (5 PTS) (Simons 5 AST),Made Shot,Jump Shot,135,218,26,1,3.0,3.0,v
+S2223-G0261,3,09:35,CLE,,POR,,J. Winslow,POR,Winslow P.FOUL (P2.T2) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2223-G0261,3,06:48,CLE,,POR,,J. Winslow,POR,SUB: Sharpe FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0261,3,01:04,CLE,,POR,,J. Winslow,POR,MISS Winslow 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-66,107,13,1,2.0,0.0,v
+S2223-G0261,3,01:02,CLE,,POR,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0261,3,01:00,CLE,,POR,,J. Winslow,POR,MISS Winslow 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,2,13,1,1,2.0,0.0,v
+S2223-G0261,3,00:37.100000,CLE,,POR,,J. Winslow,POR,MISS Winslow 2' Driving Layup,Missed Shot,Driving Layup Shot,9,18,2,1,2.0,0.0,v
+S2223-G0261,3,00:00.600000,CLE,,POR,,J. Winslow,POR,Winslow P.FOUL (P3.PN) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2223-G0261,4,10:14,CLE,,POR,,J. Winslow,POR,MISS Winslow 27' 3PT Jump Shot,Missed Shot,Jump Shot,-4,270,27,1,3.0,0.0,v
+S2223-G0261,4,08:24,CLE,,POR,,J. Winslow,POR,MISS Winslow 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-69,91,11,1,2.0,0.0,v
+S2223-G0261,4,08:05,CLE,,POR,,J. Winslow,POR,MISS Winslow 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-33,111,12,1,2.0,0.0,v
+S2223-G0261,4,07:47,CLE,,POR,,J. Winslow,POR,Winslow BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0261,4,06:43,CLE,,POR,,J. Winslow,POR,SUB: Little FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0324,1,11:18,LAL,0.0,POR,3.0,J. Winslow,POR,Winslow 24' 3PT Jump Shot (3 PTS) (Grant 1 AST),Made Shot,Jump Shot,-230,68,24,1,3.0,3.0,v
+S2223-G0324,1,06:46,LAL,6.0,POR,15.0,J. Winslow,POR,Winslow 7' Turnaround Bank Shot (5 PTS),Made Shot,Turnaround Bank shot,-55,48,7,1,2.0,2.0,v
+S2223-G0324,1,04:57,LAL,,POR,,J. Winslow,POR,MISS Winslow 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-51,47,7,1,2.0,0.0,v
+S2223-G0324,1,04:26,LAL,,POR,,J. Winslow,POR,Winslow S.FOUL (P1.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G0324,1,02:42,LAL,17.0,POR,20.0,J. Winslow,POR,Winslow 26' 3PT Jump Shot (8 PTS) (Eubanks 1 AST),Made Shot,Jump Shot,183,178,26,1,3.0,3.0,v
+S2223-G0324,1,02:17,LAL,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0324,1,01:57,LAL,,POR,,J. Winslow,POR,MISS Winslow 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,90,64,11,1,2.0,0.0,v
+S2223-G0324,1,01:31,LAL,,POR,,J. Winslow,POR,SUB: Brown III FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0324,2,11:16,LAL,,POR,,J. Winslow,POR,Winslow Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0324,2,08:02,LAL,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0324,2,06:17,LAL,,POR,,J. Winslow,POR,Winslow S.FOUL (P2.T1) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0324,2,06:02,LAL,41.0,POR,39.0,J. Winslow,POR,Winslow 25' 3PT Jump Shot (11 PTS) (Grant 2 AST),Made Shot,Jump Shot,-214,123,25,1,3.0,3.0,v
+S2223-G0324,2,03:00,LAL,,POR,,J. Winslow,POR,Winslow P.FOUL (P3.T3) (N.Sago),Foul,Personal,0,0,0,0,,,v
+S2223-G0324,2,03:00,LAL,,POR,,J. Winslow,POR,SUB: Grant FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0324,3,09:50,LAL,,POR,,J. Winslow,POR,Winslow OFF.Foul (P4) (N.Sago),Foul,Offensive,0,0,0,0,,,v
+S2223-G0324,3,09:50,LAL,,POR,,J. Winslow,POR,Winslow Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0324,3,06:51,LAL,,POR,,J. Winslow,POR,Winslow Lost Ball Turnover (P3.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0324,3,04:55,LAL,,POR,,J. Winslow,POR,SUB: Sharpe FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0324,4,11:05,LAL,97.0,POR,84.0,J. Winslow,POR,Winslow 3' Running Layup (13 PTS) (Grant 4 AST),Made Shot,Running Layup Shot,-11,27,3,1,2.0,2.0,v
+S2223-G0324,4,09:48,LAL,102.0,POR,88.0,J. Winslow,POR,Winslow 3' Driving Layup (15 PTS) (Eubanks 2 AST),Made Shot,Driving Layup Shot,-28,16,3,1,2.0,2.0,v
+S2223-G0324,4,08:07,LAL,108.0,POR,96.0,J. Winslow,POR,Winslow 7' Driving Floating Jump Shot (17 PTS) (Simons 6 AST),Made Shot,Driving Floating Jump Shot,10,66,7,1,2.0,2.0,v
+S2223-G0324,4,06:57,LAL,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0324,4,05:06,LAL,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0324,4,05:06,LAL,118.0,POR,103.0,J. Winslow,POR,Winslow Putback Layup (19 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0324,4,04:03,LAL,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0324,4,03:26,LAL,120.0,POR,107.0,J. Winslow,POR,Winslow 3' Driving Layup (21 PTS) (Grant 5 AST),Made Shot,Driving Layup Shot,-20,15,3,1,2.0,2.0,v
+S2223-G0324,4,02:30,LAL,,POR,,J. Winslow,POR,Winslow S.FOUL (P5.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G0324,4,02:22,LAL,,POR,,J. Winslow,POR,SUB: Brown III FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0037,1,03:30,LAL,,POR,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0037,1,03:01,LAL,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0037,1,02:43,LAL,,POR,,J. Winslow,POR,MISS Winslow 4' Running Layup,Missed Shot,Running Layup Shot,-12,38,4,1,2.0,0.0,v
+S2223-G0037,1,02:07,LAL,20.0,POR,25.0,J. Winslow,POR,Winslow Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0037,1,02:07,LAL,20.0,POR,26.0,J. Winslow,POR,Winslow Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0037,1,01:55,LAL,,POR,,J. Winslow,POR,Winslow STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0037,1,00:36.700000,LAL,,POR,,J. Winslow,POR,MISS Winslow 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,71,42,8,1,2.0,0.0,v
+S2223-G0037,2,11:19,LAL,,POR,,J. Winslow,POR,Winslow P.FOUL (P1.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2223-G0037,2,10:44,LAL,,POR,,J. Winslow,POR,MISS Winslow 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,-15,64,7,1,2.0,0.0,v
+S2223-G0037,2,07:21,LAL,,POR,,J. Winslow,POR,MISS Winslow Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0037,2,07:21,LAL,31.0,POR,41.0,J. Winslow,POR,Winslow Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0037,2,06:26,LAL,,POR,,J. Winslow,POR,Winslow BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0037,2,05:48,LAL,,POR,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0037,3,03:58,LAL,70.0,POR,74.0,J. Winslow,POR,Winslow 20' Pullup Jump Shot (5 PTS) (Hart 5 AST),Made Shot,Pullup Jump shot,-69,184,20,1,2.0,2.0,v
+S2223-G0037,3,02:36,LAL,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0037,3,02:16,LAL,,POR,,J. Winslow,POR,MISS Winslow 7' Jump Shot,Missed Shot,Jump Shot,21,69,7,1,2.0,0.0,v
+S2223-G0037,3,01:51,LAL,,POR,,J. Winslow,POR,Winslow OFF.Foul (P2) (E.Malloy),Foul,Offensive,0,0,0,0,,,v
+S2223-G0037,3,01:51,LAL,,POR,,J. Winslow,POR,Winslow Offensive Foul Turnover (P1.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0037,3,01:51,LAL,,POR,,J. Winslow,POR,SUB: Grant FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0037,4,09:03,LAL,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0037,4,09:03,LAL,,POR,,J. Winslow,POR,MISS Winslow 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,-29,24,4,1,2.0,0.0,v
+S2223-G0037,4,08:50,LAL,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0037,4,08:40,LAL,,POR,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0037,4,08:40,LAL,87.0,POR,86.0,J. Winslow,POR,Winslow Putback Layup (7 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0037,4,07:04,LAL,,POR,,J. Winslow,POR,MISS Winslow 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,94,45,10,1,2.0,0.0,v
+S2223-G0037,4,03:43,LAL,,POR,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0175,1,09:30,NOP,,POR,,J. Winslow,POR,MISS Winslow 2' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,-6,24,2,1,2.0,0.0,v
+S2223-G0175,1,09:26,NOP,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0175,1,09:25,NOP,,POR,,J. Winslow,POR,MISS Winslow 2' Putback Layup,Missed Shot,Putback Layup Shot,-21,5,2,1,2.0,0.0,v
+S2223-G0175,1,08:58,NOP,8.0,POR,4.0,J. Winslow,POR,Winslow 2' Cutting Layup Shot (2 PTS) (Simons 1 AST),Made Shot,Cutting Layup Shot,-21,3,2,1,2.0,2.0,v
+S2223-G0175,1,07:06,NOP,14.0,POR,10.0,J. Winslow,POR,Winslow Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0175,1,07:06,NOP,,POR,,J. Winslow,POR,MISS Winslow Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0175,1,06:45,NOP,14.0,POR,12.0,J. Winslow,POR,Winslow 3' Cutting Layup Shot (5 PTS) (Eubanks 1 AST),Made Shot,Cutting Layup Shot,0,30,3,1,2.0,2.0,v
+S2223-G0175,1,06:36,NOP,,POR,,J. Winslow,POR,SUB: Little FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0175,1,01:05,NOP,,POR,,J. Winslow,POR,MISS Winslow 2' Driving Layup,Missed Shot,Driving Layup Shot,17,1,2,1,2.0,0.0,v
+S2223-G0175,1,01:02,NOP,,POR,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0175,1,01:01,NOP,,POR,,J. Winslow,POR,MISS Winslow 1' Putback Layup,Missed Shot,Putback Layup Shot,13,-2,1,1,2.0,0.0,v
+S2223-G0175,1,00:59,NOP,,POR,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0175,1,00:00,NOP,,POR,,J. Winslow,POR,MISS Winslow 25' 3PT Jump Shot,Missed Shot,Jump Shot,-179,173,25,1,3.0,0.0,v
+S2223-G0175,2,07:36,NOP,,POR,,J. Winslow,POR,SUB: Eubanks FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0175,2,04:29,NOP,,POR,,J. Winslow,POR,Winslow S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0175,2,04:05,NOP,,POR,,J. Winslow,POR,MISS Winslow 27' 3PT Jump Shot,Missed Shot,Jump Shot,217,162,27,1,3.0,0.0,v
+S2223-G0175,2,03:48,NOP,,POR,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0175,2,00:39.700000,NOP,,POR,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0175,2,00:00.300000,NOP,,POR,,J. Winslow,POR,Winslow S.FOUL (P2.T4) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,v
+S2223-G0175,3,08:35,NOP,,POR,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0175,3,08:34,NOP,,POR,,J. Winslow,POR,MISS Winslow Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0175,3,08:34,NOP,61.0,POR,63.0,J. Winslow,POR,Winslow Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0175,3,06:13,NOP,,POR,,J. Winslow,POR,MISS Winslow 2' Driving Layup,Missed Shot,Driving Layup Shot,-1,22,2,1,2.0,0.0,v
+S2223-G0175,3,05:55,NOP,,POR,,J. Winslow,POR,MISS Winslow 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-31,153,16,1,2.0,0.0,v
+S2223-G0175,3,05:12,NOP,,POR,,J. Winslow,POR,MISS Winslow 25' 3PT Jump Shot,Missed Shot,Jump Shot,130,216,25,1,3.0,0.0,v
+S2223-G0175,3,03:53,NOP,,POR,,J. Winslow,POR,SUB: Little FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0175,4,09:51,NOP,77.0,POR,82.0,J. Winslow,POR,Winslow 25' 3PT Jump Shot (9 PTS) (Watford 2 AST),Made Shot,Jump Shot,207,139,25,1,3.0,3.0,v
+S2223-G0175,4,06:39,NOP,84.0,POR,91.0,J. Winslow,POR,Winslow Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0175,4,06:39,NOP,,POR,,J. Winslow,POR,MISS Winslow Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0175,4,06:32,NOP,,POR,,J. Winslow,POR,Winslow S.FOUL (P3.T4) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G0175,4,04:05,NOP,,POR,,J. Winslow,POR,Winslow BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0175,4,04:04,NOP,,POR,,J. Winslow,POR,Winslow P.FOUL (P4.PN) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2223-G0175,4,03:32,NOP,,POR,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0175,4,03:32,NOP,90.0,POR,101.0,J. Winslow,POR,Winslow Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0175,4,03:32,NOP,90.0,POR,102.0,J. Winslow,POR,Winslow Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0175,4,02:07,NOP,,POR,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0159,1,11:00,CHA,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0159,1,11:00,CHA,,POR,,J. Winslow,POR,MISS Winslow Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0159,1,09:06,CHA,5.0,POR,4.0,J. Winslow,POR,Winslow 3' Layup (2 PTS) (Simons 1 AST),Made Shot,Layup Shot,-34,1,3,1,2.0,2.0,v
+S2223-G0159,1,03:46,CHA,,POR,,J. Winslow,POR,SUB: Little FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0159,2,05:59,CHA,,POR,,J. Winslow,POR,Winslow Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0159,2,05:04,CHA,49.0,POR,44.0,J. Winslow,POR,Winslow 10' Driving Floating Jump Shot (4 PTS) (Eubanks 1 AST),Made Shot,Driving Floating Jump Shot,-4,96,10,1,2.0,2.0,v
+S2223-G0159,2,03:43,CHA,,POR,,J. Winslow,POR,Winslow Out of Bounds Lost Ball Turnover (P2.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0159,2,00:00,CHA,,POR,,J. Winslow,POR,MISS Winslow 27' 3PT Jump Shot,Missed Shot,Jump Shot,124,239,27,1,3.0,0.0,v
+S2223-G0159,3,11:17,CHA,56.0,POR,60.0,J. Winslow,POR,Winslow 1' Cutting Layup Shot (6 PTS) (Eubanks 2 AST),Made Shot,Cutting Layup Shot,12,8,1,1,2.0,2.0,v
+S2223-G0159,3,10:37,CHA,,POR,,J. Winslow,POR,Winslow Out of Bounds Lost Ball Turnover (P3.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0159,3,08:00,CHA,,POR,,J. Winslow,POR,Winslow S.FOUL (P1.T4) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0159,3,07:30,CHA,,POR,,J. Winslow,POR,Winslow S.FOUL (P2.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0159,3,07:09,CHA,,POR,,J. Winslow,POR,SUB: Walker FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0159,4,04:35,CHA,,POR,,J. Winslow,POR,MISS Winslow 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,46,24,1,3.0,0.0,v
+S2223-G0159,4,01:34,CHA,,POR,,J. Winslow,POR,Winslow P.FOUL (P3.T4) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2223-G0159,4,00:30.300000,CHA,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0420,1,01:00,SAS,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0420,2,11:45,SAS,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0420,2,11:18,SAS,,POR,,J. Winslow,POR,Winslow S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0420,2,09:24,SAS,,POR,,J. Winslow,POR,Winslow Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0420,2,08:34,SAS,,POR,,J. Winslow,POR,SUB: Hart FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0420,3,03:20,SAS,,POR,,J. Winslow,POR,Winslow S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0420,3,01:13,SAS,,POR,,J. Winslow,POR,Winslow S.FOUL (P3.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0420,4,10:32,SAS,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0420,4,10:28,SAS,89.0,POR,102.0,J. Winslow,POR,Winslow 2' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,-15,8,2,1,2.0,2.0,v
+S2223-G0420,4,08:31,SAS,,POR,,J. Winslow,POR,SUB: Hart FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0420,4,00:17.600000,SAS,,POR,,J. Winslow,POR,Winslow P.FOUL (P4.T4) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0027,1,04:50,POR,,PHX,,J. Winslow,POR,MISS Winslow 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-179,183,26,1,3.0,0.0,h
+S2223-G0027,1,03:52,POR,18.0,PHX,21.0,J. Winslow,POR,Winslow 1' Cutting Layup Shot (2 PTS) (Grant 1 AST),Made Shot,Cutting Layup Shot,-5,8,1,1,2.0,2.0,h
+S2223-G0027,1,01:41,POR,,PHX,,J. Winslow,POR,MISS Winslow 26' 3PT Jump Shot,Missed Shot,Jump Shot,110,236,26,1,3.0,0.0,h
+S2223-G0027,2,10:56,POR,,PHX,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0027,2,10:52,POR,,PHX,,J. Winslow,POR,Winslow Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0027,2,09:57,POR,,PHX,,J. Winslow,POR,Winslow BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0027,2,08:07,POR,,PHX,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0027,2,07:45,POR,,PHX,,J. Winslow,POR,Winslow Offensive Charge Foul (P1) (L.Holtkamp),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0027,2,07:45,POR,,PHX,,J. Winslow,POR,Winslow Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0027,2,06:59,POR,,PHX,,J. Winslow,POR,SUB: Lillard FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0027,2,03:13,POR,,PHX,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0027,2,00:00.300000,POR,,PHX,,J. Winslow,POR,Winslow S.FOUL (P2.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0027,3,04:27,POR,,PHX,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0027,3,04:06,POR,,PHX,,J. Winslow,POR,Winslow STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0027,3,03:55,POR,,PHX,,J. Winslow,POR,Winslow Violation:Defensive Goaltending (S.Twardoski),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0027,3,02:09,POR,,PHX,,J. Winslow,POR,MISS Winslow 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,15,2,1,2.0,0.0,h
+S2223-G0027,4,11:42,POR,76.0,PHX,79.0,J. Winslow,POR,Winslow Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0027,4,11:42,POR,77.0,PHX,79.0,J. Winslow,POR,Winslow Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0027,4,06:58,POR,,PHX,,J. Winslow,POR,SUB: Grant FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0436,1,05:13,DAL,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0436,1,05:06,DAL,,POR,,J. Winslow,POR,MISS Winslow 25' 3PT Jump Shot,Missed Shot,Jump Shot,162,192,25,1,3.0,0.0,v
+S2223-G0436,1,02:56,DAL,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0436,1,02:26,DAL,,POR,,J. Winslow,POR,Winslow Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0436,1,01:50,DAL,,POR,,J. Winslow,POR,Winslow BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0436,2,11:45,DAL,,POR,,J. Winslow,POR,Winslow Violation:Kicked Ball (E.Malloy),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0436,2,07:20,DAL,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0436,2,07:19,DAL,49.0,POR,38.0,J. Winslow,POR,Winslow 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-11,-3,1,1,2.0,2.0,v
+S2223-G0436,2,07:07,DAL,,POR,,J. Winslow,POR,Winslow P.FOUL (P1.PN) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2223-G0436,2,07:07,DAL,,POR,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0436,2,00:20.700000,DAL,,POR,,J. Winslow,POR,Winslow L.B.FOUL (P2.PN) (R.Acosta),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0436,2,00:02.600000,DAL,,POR,,J. Winslow,POR,Winslow OFF.Foul (P3) (E.Malloy),Foul,Offensive,0,0,0,0,,,v
+S2223-G0436,2,00:02.600000,DAL,,POR,,J. Winslow,POR,Winslow Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0436,3,06:21,DAL,95.0,POR,73.0,J. Winslow,POR,Winslow 3PT Jump Shot (5 PTS) (Johnson 1 AST),Made Shot,Jump Shot,-229,49,0,1,3.0,3.0,v
+S2223-G0436,3,05:36,DAL,,POR,,J. Winslow,POR,MISS Winslow 25' 3PT Jump Shot,Missed Shot,Jump Shot,201,147,25,1,3.0,0.0,v
+S2223-G0436,3,03:13,DAL,,POR,,J. Winslow,POR,MISS Winslow 3' Driving Layup,Missed Shot,Driving Layup Shot,23,10,3,1,2.0,0.0,v
+S2223-G0441,1,10:59,HOU,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0441,1,05:56,HOU,,POR,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0441,1,05:52,HOU,11.0,POR,19.0,J. Winslow,POR,Winslow 2' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,15,15,2,1,2.0,2.0,v
+S2223-G0441,1,05:38,HOU,,POR,,J. Winslow,POR,Winslow S.FOUL (P1.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0441,1,05:38,HOU,,POR,,J. Winslow,POR,SUB: Watford FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0441,2,08:32,HOU,,POR,,J. Winslow,POR,SUB: Hart FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0441,2,02:03,HOU,,POR,,J. Winslow,POR,MISS Winslow 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-4,3,1,1,2.0,0.0,v
+S2223-G0441,2,00:49.600000,HOU,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0441,3,11:44,HOU,,POR,,J. Winslow,POR,Winslow S.FOUL (P2.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0441,3,10:20,HOU,,POR,,J. Winslow,POR,Winslow STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0441,3,08:19,HOU,,POR,,J. Winslow,POR,Winslow STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0441,3,08:14,HOU,,POR,,J. Winslow,POR,MISS Winslow 4' Running Layup,Missed Shot,Running Layup Shot,-25,28,4,1,2.0,0.0,v
+S2223-G0441,3,08:02,HOU,,POR,,J. Winslow,POR,MISS Winslow 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-20,46,5,1,2.0,0.0,v
+S2223-G0441,3,08:01,HOU,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0441,3,07:16,HOU,,POR,,J. Winslow,POR,Winslow Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0441,3,07:06,HOU,,POR,,J. Winslow,POR,Winslow STEAL (4 STL),,,0,0,0,0,,,v
+S2223-G0441,3,05:22,HOU,,POR,,J. Winslow,POR,SUB: Johnson FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0441,4,05:05,HOU,,POR,,J. Winslow,POR,SUB: Brown III FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0441,4,01:06,HOU,,POR,,J. Winslow,POR,SUB: Johnson FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0139,1,11:47,PHX,,POR,,J. Winslow,POR,MISS Winslow 6' Driving Layup,Missed Shot,Driving Layup Shot,-42,37,6,1,2.0,0.0,v
+S2223-G0139,1,10:13,PHX,,POR,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0139,1,09:19,PHX,,POR,,J. Winslow,POR,MISS Winslow 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,56,114,13,1,2.0,0.0,v
+S2223-G0139,1,07:54,PHX,,POR,,J. Winslow,POR,Winslow P.FOUL (P1.T2) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0139,1,06:02,PHX,,POR,,J. Winslow,POR,MISS Winslow 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-25,68,7,1,2.0,0.0,v
+S2223-G0139,1,06:00,PHX,,POR,,J. Winslow,POR,SUB: Johnson FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0139,2,10:28,PHX,,POR,,J. Winslow,POR,Winslow BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0139,2,09:59,PHX,,POR,,J. Winslow,POR,MISS Winslow 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,174,15,17,1,2.0,0.0,v
+S2223-G0139,2,09:19,PHX,42.0,POR,31.0,J. Winslow,POR,Winslow 24' 3PT Jump Shot (3 PTS) (Hart 5 AST),Made Shot,Jump Shot,-232,59,24,1,3.0,3.0,v
+S2223-G0139,2,08:00,PHX,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0139,2,07:58,PHX,,POR,,J. Winslow,POR,MISS Winslow 2' Putback Layup,Missed Shot,Putback Layup Shot,2,19,2,1,2.0,0.0,v
+S2223-G0139,2,05:48,PHX,,POR,,J. Winslow,POR,MISS Winslow 26' 3PT Jump Shot,Missed Shot,Jump Shot,-124,226,26,1,3.0,0.0,v
+S2223-G0139,2,04:40,PHX,,POR,,J. Winslow,POR,MISS Winslow 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,53,24,1,3.0,0.0,v
+S2223-G0139,2,03:31,PHX,,POR,,J. Winslow,POR,Winslow P.FOUL (P2.PN) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0139,2,02:17,PHX,,POR,,J. Winslow,POR,SUB: Nurkic FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0139,3,11:09,PHX,,POR,,J. Winslow,POR,Winslow Traveling Turnover (P1.T10),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0139,3,10:49,PHX,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0139,3,10:37,PHX,62.0,POR,42.0,J. Winslow,POR,Winslow 3' Cutting Layup Shot (5 PTS) (Hart 6 AST),Made Shot,Cutting Layup Shot,21,22,3,1,2.0,2.0,v
+S2223-G0139,3,06:48,PHX,,POR,,J. Winslow,POR,Winslow P.FOUL (P3.T3) (N.Sago),Foul,Personal,0,0,0,0,,,v
+S2223-G0139,3,06:42,PHX,,POR,,J. Winslow,POR,Winslow S.FOUL (P4.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0139,3,06:42,PHX,,POR,,J. Winslow,POR,SUB: Johnson FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0251,1,01:55,MIL,26.0,POR,28.0,J. Winslow,POR,Winslow 11' Cutting Layup Shot (2 PTS) (Sharpe 1 AST),Made Shot,Cutting Layup Shot,-61,95,11,1,2.0,2.0,v
+S2223-G0251,1,01:28,MIL,26.0,POR,30.0,J. Winslow,POR,Winslow 10' Driving Floating Jump Shot (4 PTS) (Watford 1 AST),Made Shot,Driving Floating Jump Shot,-27,96,10,1,2.0,2.0,v
+S2223-G0251,1,00:30,MIL,28.0,POR,32.0,J. Winslow,POR,Winslow 16' Pullup Jump Shot (6 PTS) (Little 1 AST),Made Shot,Pullup Jump shot,-5,158,16,1,2.0,2.0,v
+S2223-G0251,1,00:01.200000,MIL,,POR,,J. Winslow,POR,Winslow Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0251,2,11:33,MIL,,POR,,J. Winslow,POR,MISS Winslow 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-67,70,10,1,2.0,0.0,v
+S2223-G0251,2,10:31,MIL,32.0,POR,34.0,J. Winslow,POR,Winslow 14' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,-94,109,14,1,2.0,2.0,v
+S2223-G0251,2,09:26,MIL,,POR,,J. Winslow,POR,Winslow Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0251,2,09:05,MIL,,POR,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0251,3,06:00,MIL,,POR,,J. Winslow,POR,Winslow S.FOUL (P1.T4) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0251,3,04:00,MIL,,POR,,J. Winslow,POR,Winslow S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0251,3,03:40,MIL,,POR,,J. Winslow,POR,MISS Winslow 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-43,93,10,1,2.0,0.0,v
+S2223-G0251,3,00:08,MIL,,POR,,J. Winslow,POR,Winslow S.FOUL (P3.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0251,4,03:53,MIL,,POR,,J. Winslow,POR,MISS Winslow 9' Hook Shot,Missed Shot,Hook Shot,72,59,9,1,2.0,0.0,v
+S2223-G0251,4,02:55,MIL,,POR,,J. Winslow,POR,MISS Winslow 3PT Jump Shot,Missed Shot,Jump Shot,-229,30,0,1,3.0,0.0,v
+S2223-G0251,4,01:23,MIL,,POR,,J. Winslow,POR,SUB: Sharpe FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0343,1,11:31,UTA,,POR,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0343,1,09:32,UTA,,POR,,J. Winslow,POR,Winslow STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0343,1,07:44,UTA,,POR,,J. Winslow,POR,Winslow S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0343,1,03:38,UTA,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0343,1,02:52,UTA,,POR,,J. Winslow,POR,SUB: Grant FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0343,2,10:59,UTA,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0343,2,07:37,UTA,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0343,2,06:51,UTA,41.0,POR,54.0,J. Winslow,POR,Winslow 4' Hook Shot (2 PTS) (Grant 3 AST),Made Shot,Hook Shot,1,37,4,1,2.0,2.0,v
+S2223-G0343,2,02:28,UTA,,POR,,J. Winslow,POR,Winslow BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0343,2,02:27,UTA,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0343,2,02:27,UTA,,POR,,J. Winslow,POR,Winslow Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0343,2,01:18,UTA,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0343,3,06:28,UTA,,POR,,J. Winslow,POR,MISS Winslow 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-36,42,6,1,2.0,0.0,v
+S2223-G0343,3,05:47,UTA,,POR,,J. Winslow,POR,SUB: Walker FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0343,4,09:27,UTA,,POR,,J. Winslow,POR,Winslow Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0343,4,07:45,UTA,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0343,4,07:44,UTA,,POR,,J. Winslow,POR,MISS Winslow 4' Putback Layup,Missed Shot,Putback Layup Shot,-4,43,4,1,2.0,0.0,v
+S2223-G0343,4,05:54,UTA,,POR,,J. Winslow,POR,Winslow P.FOUL (P2.T1) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2223-G0343,4,04:15,UTA,,POR,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0343,4,00:00.400000,UTA,,POR,,J. Winslow,POR,Winslow STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0116,1,04:44,POR,,MEM,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0116,1,00:54.300000,POR,,MEM,,J. Winslow,POR,MISS Winslow 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,6,40,4,1,2.0,0.0,h
+S2223-G0116,1,00:53.400000,POR,,MEM,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0116,1,00:53.200000,POR,23.0,MEM,28.0,J. Winslow,POR,Winslow 2' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,10,22,2,1,2.0,2.0,h
+S2223-G0116,1,00:31.800000,POR,,MEM,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0116,1,00:14.500000,POR,,MEM,,J. Winslow,POR,Winslow Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0116,1,00:01.700000,POR,,MEM,,J. Winslow,POR,MISS Winslow 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-45,8,5,1,2.0,0.0,h
+S2223-G0116,2,08:39,POR,,MEM,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0116,2,08:38,POR,,MEM,,J. Winslow,POR,MISS Winslow 1' Layup,Missed Shot,Layup Shot,-9,11,1,1,2.0,0.0,h
+S2223-G0116,2,06:05,POR,,MEM,,J. Winslow,POR,SUB: Sharpe FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0116,2,03:47,POR,,MEM,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0116,2,03:23,POR,,MEM,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0116,2,02:16,POR,,MEM,,J. Winslow,POR,MISS Winslow 7' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,59,38,7,1,2.0,0.0,h
+S2223-G0116,2,01:37,POR,,MEM,,J. Winslow,POR,Winslow REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0116,2,00:10.300000,POR,,MEM,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0116,3,05:46,POR,,MEM,,J. Winslow,POR,MISS Winslow 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-44,64,8,1,2.0,0.0,h
+S2223-G0116,3,03:15,POR,,MEM,,J. Winslow,POR,Winslow Violation:Defensive Goaltending (A.Nagy),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0116,3,00:25.800000,POR,,MEM,,J. Winslow,POR,Winslow REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0116,4,10:39,POR,,MEM,,J. Winslow,POR,SUB: Grant FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0376,1,05:33,POR,,DEN,,J. Winslow,POR,MISS Winslow 3' Running Layup,Missed Shot,Running Layup Shot,29,5,3,1,2.0,0.0,h
+S2223-G0376,1,05:25,POR,20.0,DEN,13.0,J. Winslow,POR,Winslow 1' Cutting Layup Shot (2 PTS) (Nurkic 1 AST),Made Shot,Cutting Layup Shot,-9,-8,1,1,2.0,2.0,h
+S2223-G0376,1,04:46,POR,22.0,DEN,16.0,J. Winslow,POR,Winslow 1' Reverse Layup (4 PTS) (Lillard 4 AST),Made Shot,Reverse Layup Shot,-12,1,1,1,2.0,2.0,h
+S2223-G0376,1,02:01,POR,,DEN,,J. Winslow,POR,Winslow S.FOUL (P1.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0376,1,02:01,POR,,DEN,,J. Winslow,POR,Winslow T.FOUL (P1.PN) (P.Ransom),Foul,Technical,0,0,0,0,,,h
+S2223-G0376,2,10:05,POR,,DEN,,J. Winslow,POR,MISS Winslow 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-4,12,1,1,2.0,0.0,h
+S2223-G0376,2,10:03,POR,,DEN,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0376,2,10:03,POR,,DEN,,J. Winslow,POR,MISS Winslow Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0376,2,10:03,POR,,DEN,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0376,2,10:01,POR,,DEN,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0376,2,09:28,POR,,DEN,,J. Winslow,POR,MISS Winslow 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-31,4,3,1,2.0,0.0,h
+S2223-G0376,2,09:24,POR,,DEN,,J. Winslow,POR,SUB: Hart FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0376,2,00:31.800000,POR,,DEN,,J. Winslow,POR,Winslow REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0376,3,00:06.800000,POR,,DEN,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0376,4,10:21,POR,,DEN,,J. Winslow,POR,Winslow P.FOUL (P2.T1) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2223-G0376,4,07:24,POR,,DEN,,J. Winslow,POR,Winslow REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0376,4,06:09,POR,,DEN,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0458,1,03:10,OKC,16.0,POR,24.0,J. Winslow,POR,Winslow 3' Layup (2 PTS) (Watford 1 AST),Made Shot,Layup Shot,-12,22,3,1,2.0,2.0,v
+S2223-G0458,1,03:00,OKC,,POR,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0458,1,00:01.800000,OKC,,POR,,J. Winslow,POR,Winslow S.FOUL (P1.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2223-G0458,2,11:05,OKC,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0458,2,11:05,OKC,28.0,POR,32.0,J. Winslow,POR,Winslow 1' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,-9,11,1,1,2.0,2.0,v
+S2223-G0458,2,08:59,OKC,,POR,,J. Winslow,POR,Winslow Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0458,2,08:08,OKC,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0458,2,07:42,OKC,,POR,,J. Winslow,POR,SUB: Johnson FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0458,2,05:52,OKC,,POR,,J. Winslow,POR,MISS Winslow 3' Layup,Missed Shot,Layup Shot,27,8,3,1,2.0,0.0,v
+S2223-G0458,2,05:48,OKC,,POR,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0458,2,05:39,OKC,,POR,,J. Winslow,POR,Winslow S.FOUL (P2.T3) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2223-G0458,2,05:05,OKC,,POR,,J. Winslow,POR,SUB: Grant FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0458,3,03:20,OKC,,POR,,J. Winslow,POR,MISS Winslow 26' 3PT Jump Shot,Missed Shot,Jump Shot,239,99,26,1,3.0,0.0,v
+S2223-G0458,3,00:53.600000,OKC,,POR,,J. Winslow,POR,Winslow P.FOUL (P3.T4) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0458,3,00:30.700000,OKC,,POR,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0458,3,00:30.700000,OKC,91.0,POR,91.0,J. Winslow,POR,Winslow Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0458,3,00:01.300000,OKC,,POR,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0458,4,09:15,OKC,,POR,,J. Winslow,POR,Winslow Offensive Charge Foul (P4) (C.Flores),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0458,4,09:15,OKC,,POR,,J. Winslow,POR,Winslow Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0458,4,08:43,OKC,,POR,,J. Winslow,POR,Winslow REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0458,4,08:43,OKC,98.0,POR,101.0,J. Winslow,POR,Winslow Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0458,4,07:02,OKC,,POR,,J. Winslow,POR,MISS Winslow 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,10,-4,1,1,2.0,0.0,v
+S2223-G0458,4,06:23,OKC,,POR,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0458,4,00:20,OKC,,POR,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0458,4,00:17.400000,OKC,,POR,,J. Winslow,POR,Winslow P.FOUL (P5.PN) (C.Flores),Foul,Personal,0,0,0,0,,,v
+S2223-G0458,4,00:17.400000,OKC,,POR,,J. Winslow,POR,SUB: Eubanks FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0474,1,04:51,OKC,,POR,,J. Winslow,POR,MISS Winslow 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,17,24,1,3.0,0.0,v
+S2223-G0474,1,01:41,OKC,,POR,,J. Winslow,POR,SUB: Grant FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0474,2,05:03,OKC,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0474,2,04:01,OKC,,POR,,J. Winslow,POR,MISS Winslow 3' Driving Layup,Missed Shot,Driving Layup Shot,29,13,3,1,2.0,0.0,v
+S2223-G0474,2,03:30,OKC,,POR,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0474,3,06:54,OKC,60.0,POR,67.0,J. Winslow,POR,Winslow 25' 3PT Jump Shot (3 PTS) (Grant 4 AST),Made Shot,Jump Shot,-216,124,25,1,3.0,3.0,v
+S2223-G0474,3,04:26,OKC,,POR,,J. Winslow,POR,MISS Winslow 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-45,15,5,1,2.0,0.0,v
+S2223-G0474,3,04:07,OKC,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0474,3,02:02,OKC,,POR,,J. Winslow,POR,Winslow BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0474,3,00:59.800000,OKC,,POR,,J. Winslow,POR,MISS Winslow 3PT Jump Shot,Missed Shot,Jump Shot,-232,20,0,1,3.0,0.0,v
+S2223-G0474,3,00:34.300000,OKC,,POR,,J. Winslow,POR,SUB: Johnson FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0065,1,05:47,POR,,MIA,,J. Winslow,POR,MISS Winslow 26' 3PT Jump Shot,Missed Shot,Jump Shot,190,174,26,1,3.0,0.0,h
+S2223-G0065,1,04:46,POR,17.0,MIA,14.0,J. Winslow,POR,Winslow 14' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-64,121,14,1,2.0,2.0,h
+S2223-G0065,1,03:31,POR,,MIA,,J. Winslow,POR,Winslow L.B.FOUL (P1.T4) (D.Scott),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0065,1,00:00,POR,,MIA,,J. Winslow,POR,MISS Winslow 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-130,95,16,1,2.0,0.0,h
+S2223-G0065,2,10:38,POR,,MIA,,J. Winslow,POR,MISS Winslow 5' Driving Layup,Missed Shot,Driving Layup Shot,-33,41,5,1,2.0,0.0,h
+S2223-G0065,2,07:39,POR,,MIA,,J. Winslow,POR,SUB: Hart FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0065,2,03:29,POR,,MIA,,J. Winslow,POR,Winslow S.FOUL (P2.T1) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0065,2,02:21,POR,,MIA,,J. Winslow,POR,Winslow BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0065,3,04:16,POR,,MIA,,J. Winslow,POR,Winslow P.FOUL (P3.T1) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2223-G0065,3,03:27,POR,76.0,MIA,84.0,J. Winslow,POR,Winslow 26' 3PT Jump Shot (5 PTS) (Grant 3 AST),Made Shot,Jump Shot,222,135,26,1,3.0,3.0,h
+S2223-G0065,3,02:24,POR,,MIA,,J. Winslow,POR,MISS Winslow 27' 3PT Jump Shot,Missed Shot,Jump Shot,219,153,27,1,3.0,0.0,h
+S2223-G0065,3,01:41,POR,,MIA,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0065,4,09:30,POR,,MIA,,J. Winslow,POR,MISS Winslow 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,36,111,12,1,2.0,0.0,h
+S2223-G0065,4,08:56,POR,,MIA,,J. Winslow,POR,Winslow P.FOUL (P4.T2) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G0065,4,08:20,POR,,MIA,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0065,4,08:20,POR,83.0,MIA,103.0,J. Winslow,POR,Winslow 3' Layup (7 PTS),Made Shot,Layup Shot,27,10,3,1,2.0,2.0,h
+S2223-G0065,4,07:58,POR,85.0,MIA,106.0,J. Winslow,POR,Winslow 4' Cutting Dunk Shot (9 PTS) (Grant 4 AST),Made Shot,Cutting Dunk Shot,20,32,4,1,2.0,2.0,h
+S2223-G0065,4,07:48,POR,,MIA,,J. Winslow,POR,SUB: Eubanks FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0394,1,01:26,POR,,MIN,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0394,1,00:06.100000,POR,,MIN,,J. Winslow,POR,Winslow Personal Take Foul (P1.T4) (M.Myers),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0394,2,08:28,POR,,MIN,,J. Winslow,POR,Winslow S.FOUL (P2.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0394,2,07:32,POR,48.0,MIN,44.0,J. Winslow,POR,Winslow Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0394,2,07:32,POR,49.0,MIN,44.0,J. Winslow,POR,Winslow Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0394,2,06:26,POR,,MIN,,J. Winslow,POR,Winslow Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0394,2,05:11,POR,,MIN,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0394,2,04:59,POR,,MIN,,J. Winslow,POR,Winslow S.FOUL (P3.T4) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0394,2,04:59,POR,,MIN,,J. Winslow,POR,SUB: Grant FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0394,3,04:48,POR,,MIN,,J. Winslow,POR,Winslow P.FOUL (P4.PN) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2223-G0394,3,03:58,POR,,MIN,,J. Winslow,POR,Winslow S.FOUL (P5.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0394,3,03:58,POR,,MIN,,J. Winslow,POR,SUB: Hart FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0290,1,10:11,BKN,4.0,POR,6.0,J. Winslow,POR,Winslow 24' 3PT Jump Shot (3 PTS) (Hart 1 AST),Made Shot,Jump Shot,235,5,24,1,3.0,3.0,v
+S2223-G0290,1,09:48,BKN,,POR,,J. Winslow,POR,MISS Winslow 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,53,24,1,3.0,0.0,v
+S2223-G0290,1,08:25,BKN,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0290,1,07:38,BKN,,POR,,J. Winslow,POR,Winslow Violation:Kicked Ball (E.Lewis),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0290,1,07:21,BKN,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0290,1,06:58,BKN,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0290,1,04:50,BKN,,POR,,J. Winslow,POR,SUB: Sharpe FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0290,1,01:59,BKN,,POR,,J. Winslow,POR,Winslow Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0290,1,01:46,BKN,,POR,,J. Winslow,POR,MISS Winslow 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,62,6,1,2.0,0.0,v
+S2223-G0290,1,00:24.900000,BKN,,POR,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0290,2,11:42,BKN,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0290,2,11:16,BKN,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0290,2,08:13,BKN,,POR,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0290,2,01:38,BKN,,POR,,J. Winslow,POR,Winslow Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0290,2,01:11,BKN,50.0,POR,54.0,J. Winslow,POR,Winslow 3' Running Alley Oop Layup Shot (5 PTS) (Hart 3 AST),Made Shot,Running Alley Oop Layup Shot,26,6,3,1,2.0,2.0,v
+S2223-G0290,2,00:11.400000,BKN,,POR,,J. Winslow,POR,Winslow S.FOUL (P1.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0290,3,10:39,BKN,,POR,,J. Winslow,POR,Winslow Out of Bounds - Bad Pass Turnover Turnover (P3.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0290,3,07:28,BKN,64.0,POR,66.0,J. Winslow,POR,Winslow 10' Floating Jump Shot (7 PTS) (Grant 4 AST),Made Shot,Floating Jump shot,-28,94,10,1,2.0,2.0,v
+S2223-G0290,3,05:53,BKN,71.0,POR,69.0,J. Winslow,POR,Winslow Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0290,3,05:53,BKN,71.0,POR,70.0,J. Winslow,POR,Winslow Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0290,3,04:35,BKN,74.0,POR,72.0,J. Winslow,POR,Winslow 11' Turnaround Jump Shot (11 PTS) (Grant 5 AST),Made Shot,Turnaround Jump Shot,47,96,11,1,2.0,2.0,v
+S2223-G0290,3,02:50,BKN,80.0,POR,77.0,J. Winslow,POR,Winslow 24' 3PT Jump Shot (14 PTS) (Watford 1 AST),Made Shot,Jump Shot,169,175,24,1,3.0,3.0,v
+S2223-G0290,3,02:26,BKN,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0290,3,01:04,BKN,,POR,,J. Winslow,POR,MISS Winslow 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,38,71,8,1,2.0,0.0,v
+S2223-G0290,4,07:00,BKN,,POR,,J. Winslow,POR,MISS Winslow 3' Hook Shot,Missed Shot,Hook Shot,1,28,3,1,2.0,0.0,v
+S2223-G0290,4,06:59,BKN,,POR,,J. Winslow,POR,Winslow P.FOUL (P2.T2) (C.Flores),Foul,Personal,0,0,0,0,,,v
+S2223-G0290,4,05:49,BKN,,POR,,J. Winslow,POR,Winslow S.FOUL (P3.T3) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0290,4,03:14,BKN,,POR,,J. Winslow,POR,Winslow Personal Take Foul (P4.PN) (C.Flores),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0290,4,03:00,BKN,,POR,,J. Winslow,POR,MISS Winslow 26' 3PT Jump Shot,Missed Shot,Jump Shot,-169,200,26,1,3.0,0.0,v
+S2223-G0290,4,01:51,BKN,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0274,1,10:50,NYK,,POR,,J. Winslow,POR,MISS Winslow 5' Layup,Missed Shot,Layup Shot,0,45,5,1,2.0,0.0,v
+S2223-G0274,1,09:37,NYK,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0274,1,08:29,NYK,7.0,POR,7.0,J. Winslow,POR,Winslow 11' Jump Shot (2 PTS) (Nurkic 2 AST),Made Shot,Jump Shot,102,34,11,1,2.0,2.0,v
+S2223-G0274,1,06:46,NYK,,POR,,J. Winslow,POR,MISS Winslow 26' 3PT Jump Shot,Missed Shot,Jump Shot,88,246,26,1,3.0,0.0,v
+S2223-G0274,1,05:34,NYK,,POR,,J. Winslow,POR,MISS Winslow 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-158,156,22,1,2.0,0.0,v
+S2223-G0274,1,03:48,NYK,,POR,,J. Winslow,POR,SUB: Sharpe FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0274,2,10:08,NYK,,POR,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0274,2,03:51,NYK,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0274,2,03:48,NYK,,POR,,J. Winslow,POR,MISS Winslow 2' Putback Layup,Missed Shot,Putback Layup Shot,11,21,2,1,2.0,0.0,v
+S2223-G0274,2,02:45,NYK,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0274,3,09:19,NYK,66.0,POR,69.0,J. Winslow,POR,Winslow 1' Cutting Dunk Shot (4 PTS) (Hart 3 AST),Made Shot,Cutting Dunk Shot,-7,-3,1,1,2.0,2.0,v
+S2223-G0274,3,07:41,NYK,,POR,,J. Winslow,POR,Winslow S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0274,3,06:31,NYK,,POR,,J. Winslow,POR,MISS Winslow 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,18,13,2,1,2.0,0.0,v
+S2223-G0274,3,06:29,NYK,,POR,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0274,3,06:29,NYK,72.0,POR,75.0,J. Winslow,POR,Winslow Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0274,3,04:24,NYK,,POR,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0274,3,03:20,NYK,,POR,,J. Winslow,POR,SUB: Sharpe FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0274,4,11:34,NYK,,POR,,J. Winslow,POR,Winslow L.B.FOUL (P2.T1) (C.Blair),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0274,4,11:04,NYK,,POR,,J. Winslow,POR,MISS Winslow 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-2,32,3,1,2.0,0.0,v
+S2223-G0274,4,09:28,NYK,,POR,,J. Winslow,POR,Winslow S.FOUL (P3.T3) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0274,4,07:29,NYK,,POR,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0274,4,07:22,NYK,,POR,,J. Winslow,POR,Winslow REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0274,4,07:20,NYK,,POR,,J. Winslow,POR,MISS Winslow 1' Layup,Missed Shot,Layup Shot,-13,-1,1,1,2.0,0.0,v
+S2223-G0274,4,04:59,NYK,,POR,,J. Winslow,POR,Winslow REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0274,4,03:55,NYK,,POR,,J. Winslow,POR,Winslow REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0274,4,02:14,NYK,,POR,,J. Winslow,POR,Winslow P.FOUL (P4.PN) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2223-G0274,5,02:57,NYK,,POR,,J. Winslow,POR,Winslow S.FOUL (P5.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0274,5,01:55,NYK,,POR,,J. Winslow,POR,Winslow REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0274,5,00:06.800000,NYK,,POR,,J. Winslow,POR,Winslow REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0274,5,00:06.800000,NYK,127.0,POR,132.0,J. Winslow,POR,Winslow Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0274,5,00:06.800000,NYK,,POR,,J. Winslow,POR,MISS Winslow Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0130,1,11:41,PHX,,POR,,J. Winslow,POR,MISS Winslow 6' Driving Layup,Missed Shot,Driving Layup Shot,59,20,6,1,2.0,0.0,v
+S2223-G0130,1,11:12,PHX,0.0,POR,2.0,J. Winslow,POR,Winslow Cutting Layup Shot (2 PTS) (Grant 1 AST),Made Shot,Cutting Layup Shot,-4,0,0,1,2.0,2.0,v
+S2223-G0130,1,09:39,PHX,,POR,,J. Winslow,POR,Winslow P.FOUL (P1.T1) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0130,1,09:28,PHX,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0130,1,09:00,PHX,,POR,,J. Winslow,POR,MISS Winslow 26' 3PT Jump Shot,Missed Shot,Jump Shot,203,162,26,1,3.0,0.0,v
+S2223-G0130,1,07:58,PHX,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0130,1,07:55,PHX,11.0,POR,7.0,J. Winslow,POR,Winslow 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,13,5,1,1,2.0,2.0,v
+S2223-G0130,1,06:01,PHX,,POR,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0130,1,05:28,PHX,,POR,,J. Winslow,POR,SUB: Johnson FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0130,2,11:30,PHX,,POR,,J. Winslow,POR,Winslow Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0130,2,11:08,PHX,28.0,POR,29.0,J. Winslow,POR,Winslow 4' Driving Layup (6 PTS) (Little 1 AST),Made Shot,Driving Layup Shot,-31,20,4,1,2.0,2.0,v
+S2223-G0130,2,10:27,PHX,,POR,,J. Winslow,POR,Winslow Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0130,2,10:09,PHX,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0130,2,10:08,PHX,30.0,POR,31.0,J. Winslow,POR,Winslow 4' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,-2,36,4,1,2.0,2.0,v
+S2223-G0130,2,09:19,PHX,,POR,,J. Winslow,POR,MISS Winslow 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,51,73,9,1,2.0,0.0,v
+S2223-G0130,2,05:21,PHX,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0130,2,05:04,PHX,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0130,2,03:39,PHX,,POR,,J. Winslow,POR,Winslow P.FOUL (P2.T4) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0130,2,02:16,PHX,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0130,2,01:04,PHX,,POR,,J. Winslow,POR,MISS Winslow 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-12,63,6,1,2.0,0.0,v
+S2223-G0130,2,00:01,PHX,,POR,,J. Winslow,POR,Winslow S.FOUL (P3.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0130,3,11:21,PHX,,POR,,J. Winslow,POR,MISS Winslow 13' Jump Shot,Missed Shot,Jump Shot,18,126,13,1,2.0,0.0,v
+S2223-G0130,3,10:03,PHX,,POR,,J. Winslow,POR,MISS Winslow 13' Jump Shot,Missed Shot,Jump Shot,-125,8,13,1,2.0,0.0,v
+S2223-G0130,3,08:34,PHX,56.0,POR,66.0,J. Winslow,POR,Winslow 5' Hook Shot (10 PTS) (Hart 4 AST),Made Shot,Hook Shot,6,54,5,1,2.0,2.0,v
+S2223-G0130,3,08:07,PHX,,POR,,J. Winslow,POR,Winslow P.FOUL (P4.T1) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2223-G0130,3,08:07,PHX,,POR,,J. Winslow,POR,SUB: Johnson FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0130,3,00:00,PHX,,POR,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0130,3,00:00,PHX,80.0,POR,86.0,J. Winslow,POR,Winslow Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0130,4,11:11,PHX,,POR,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0130,4,09:40,PHX,,POR,,J. Winslow,POR,Winslow STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0130,4,07:49,PHX,,POR,,J. Winslow,POR,Winslow Lost Ball Turnover (P3.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0130,4,07:46,PHX,,POR,,J. Winslow,POR,SUB: Grant FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0130,4,01:22,PHX,,POR,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0014,1,04:25,SAC,,POR,,J. Winslow,POR,Winslow S.FOUL (P1.T3) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0014,1,03:42,SAC,,POR,,J. Winslow,POR,MISS Winslow 3PT Jump Shot,Missed Shot,Jump Shot,227,43,0,1,3.0,0.0,v
+S2223-G0014,1,00:45.700000,SAC,,POR,,J. Winslow,POR,Winslow S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0014,1,00:45.700000,SAC,,POR,,J. Winslow,POR,SUB: Lillard FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0014,2,11:23,SAC,,POR,,J. Winslow,POR,MISS Winslow 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,78,8,1,2.0,0.0,v
+S2223-G0014,2,09:16,SAC,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0014,2,09:11,SAC,,POR,,J. Winslow,POR,SUB: Hart FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0014,3,04:04,SAC,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0014,3,03:42,SAC,,POR,,J. Winslow,POR,Winslow P.FOUL (P3.T2) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2223-G0014,3,02:45,SAC,,POR,,J. Winslow,POR,MISS Winslow 1' Driving Layup,Missed Shot,Driving Layup Shot,5,1,1,1,2.0,0.0,v
+S2223-G0014,3,02:45,SAC,,POR,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0014,3,02:45,SAC,79.0,POR,76.0,J. Winslow,POR,Winslow 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,16,5,2,1,2.0,2.0,v
+S2223-G0014,3,01:57,SAC,79.0,POR,78.0,J. Winslow,POR,Winslow 3' Turnaround Hook Shot (4 PTS) (Eubanks 1 AST),Made Shot,Turnaround Hook Shot,7,31,3,1,2.0,2.0,v
+S2223-G0014,3,00:33,SAC,,POR,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0014,3,00:33,SAC,84.0,POR,82.0,J. Winslow,POR,Winslow 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,16,3,2,1,2.0,2.0,v
+S2223-G0014,4,11:29,SAC,,POR,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0014,4,10:37,SAC,,POR,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0014,4,09:04,SAC,,POR,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0014,4,06:03,SAC,96.0,POR,97.0,J. Winslow,POR,Winslow 24' 3PT Jump Shot (9 PTS) (Hart 4 AST),Made Shot,Jump Shot,238,21,24,1,3.0,3.0,v
+S2223-G0014,4,05:13,SAC,101.0,POR,99.0,J. Winslow,POR,Winslow 1' Layup (11 PTS) (Grant 1 AST),Made Shot,Layup Shot,-10,4,1,1,2.0,2.0,v
+S2223-G0014,4,03:27,SAC,,POR,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0014,4,02:29,SAC,,POR,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0014,4,02:29,SAC,,POR,,J. Winslow,POR,MISS Winslow Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,v
+S2223-G0311,1,06:05,POR,,LAC,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0311,1,04:37,POR,,LAC,,J. Winslow,POR,MISS Winslow 22' Jump Shot,Missed Shot,Jump Shot,44,211,22,1,2.0,0.0,h
+S2223-G0311,1,02:43,POR,,LAC,,J. Winslow,POR,SUB: Little FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0311,2,11:19,POR,,LAC,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0311,2,11:18,POR,31.0,LAC,25.0,J. Winslow,POR,Winslow Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0311,2,11:18,POR,32.0,LAC,25.0,J. Winslow,POR,Winslow Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0311,2,09:31,POR,,LAC,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0311,2,09:28,POR,37.0,LAC,33.0,J. Winslow,POR,Winslow 1' Running Reverse Layup (4 PTS),Made Shot,Running Reverse Layup Shot,11,0,1,1,2.0,2.0,h
+S2223-G0311,2,08:37,POR,,LAC,,J. Winslow,POR,SUB: Hart FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0311,2,06:48,POR,,LAC,,J. Winslow,POR,Winslow Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0311,2,06:34,POR,,LAC,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0311,2,06:29,POR,42.0,LAC,42.0,J. Winslow,POR,Winslow 7' Running Finger Roll Layup (6 PTS),Made Shot,Running Finger Roll Layup Shot,-67,24,7,1,2.0,2.0,h
+S2223-G0311,2,05:36,POR,,LAC,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0311,2,05:23,POR,,LAC,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0311,2,05:21,POR,,LAC,,J. Winslow,POR,Winslow Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0311,2,05:15,POR,,LAC,,J. Winslow,POR,Winslow L.B.FOUL (P1.T1) (S.Wright),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0311,2,05:15,POR,,LAC,,J. Winslow,POR,SUB: Eubanks FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0311,2,00:02.700000,POR,,LAC,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0311,3,11:52,POR,,LAC,,J. Winslow,POR,Winslow S.FOUL (P2.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0311,3,10:23,POR,,LAC,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0311,3,07:56,POR,,LAC,,J. Winslow,POR,MISS Winslow 3' Driving Layup,Missed Shot,Driving Layup Shot,-32,10,3,1,2.0,0.0,h
+S2223-G0311,3,07:07,POR,,LAC,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0311,3,06:58,POR,80.0,LAC,63.0,J. Winslow,POR,Winslow 1' Cutting Layup Shot (8 PTS) (Nurkic 5 AST),Made Shot,Cutting Layup Shot,5,-8,1,1,2.0,2.0,h
+S2223-G0311,3,04:55,POR,,LAC,,J. Winslow,POR,MISS Winslow 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-50,107,12,1,2.0,0.0,h
+S2223-G0311,3,04:12,POR,,LAC,,J. Winslow,POR,MISS Winslow 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-58,91,11,1,2.0,0.0,h
+S2223-G0311,3,03:13,POR,,LAC,,J. Winslow,POR,SUB: Eubanks FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0311,4,07:16,POR,,LAC,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0311,4,06:38,POR,,LAC,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0311,4,04:17,POR,,LAC,,J. Winslow,POR,Winslow L.B.FOUL (P3.PN) (S.Wright),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0311,4,03:20,POR,110.0,LAC,108.0,J. Winslow,POR,Winslow 8' Fadeaway Bank Shot (10 PTS),Made Shot,Fadeaway Bank shot,50,57,8,1,2.0,2.0,h
+S2223-G0311,4,03:03,POR,,LAC,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0311,4,02:50,POR,,LAC,,J. Winslow,POR,MISS Winslow 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-2,97,10,1,2.0,0.0,h
+S2223-G0311,4,02:22,POR,,LAC,,J. Winslow,POR,MISS Winslow 3PT Jump Shot,Missed Shot,Jump Shot,227,36,0,1,3.0,0.0,h
+S2223-G0311,4,00:45.400000,POR,,LAC,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0311,4,00:24.600000,POR,,LAC,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0080,1,05:12,POR,,HOU,,J. Winslow,POR,MISS Winslow 13' Floating Jump Shot,Missed Shot,Floating Jump shot,-2,133,13,1,2.0,0.0,h
+S2223-G0080,1,02:03,POR,,HOU,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0080,1,01:20,POR,,HOU,,J. Winslow,POR,MISS Winslow 1' Driving Layup,Missed Shot,Driving Layup Shot,11,5,1,1,2.0,0.0,h
+S2223-G0080,2,11:29,POR,,HOU,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0080,2,09:22,POR,,HOU,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0080,3,08:09,POR,74.0,HOU,67.0,J. Winslow,POR,Winslow Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0080,3,08:09,POR,,HOU,,J. Winslow,POR,MISS Winslow Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0080,3,07:27,POR,76.0,HOU,69.0,J. Winslow,POR,Winslow 8' Driving Floating Jump Shot (3 PTS) (Hart 3 AST),Made Shot,Driving Floating Jump Shot,80,15,8,1,2.0,2.0,h
+S2223-G0080,3,04:50,POR,84.0,HOU,72.0,J. Winslow,POR,Winslow 25' 3PT Jump Shot (6 PTS) (Simons 4 AST),Made Shot,Jump Shot,138,214,25,1,3.0,3.0,h
+S2223-G0080,3,03:40,POR,,HOU,,J. Winslow,POR,Winslow Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0080,3,03:04,POR,,HOU,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0080,3,01:14,POR,,HOU,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0080,3,01:06,POR,94.0,HOU,80.0,J. Winslow,POR,Winslow Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0080,3,01:06,POR,,HOU,,J. Winslow,POR,MISS Winslow Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0080,3,00:55.600000,POR,,HOU,,J. Winslow,POR,Winslow STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0080,3,00:39.400000,POR,,HOU,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0080,3,00:01.400000,POR,,HOU,,J. Winslow,POR,MISS Winslow 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,229,46,0,1,3.0,0.0,h
+S2223-G0080,4,11:14,POR,,HOU,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0080,4,11:11,POR,,HOU,,J. Winslow,POR,MISS Winslow Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0080,4,10:40,POR,,HOU,,J. Winslow,POR,Winslow Double Dribble Turnover (P2.T13),Turnover,Double Dribble,0,0,0,0,,,h
+S2223-G0080,4,10:29,POR,,HOU,,J. Winslow,POR,Winslow BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0080,4,09:56,POR,,HOU,,J. Winslow,POR,Winslow Lost Ball Turnover (P3.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0080,4,09:43,POR,,HOU,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0080,4,01:20,POR,,HOU,,J. Winslow,POR,Jump Ball Winslow vs. Porter Jr.: Tip to Hart,Jump Ball,,0,0,0,0,,,h
+S2223-G0080,4,01:20,POR,,HOU,,J. Winslow,POR,Winslow STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0080,4,01:09,POR,,HOU,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0080,4,00:58.600000,POR,,HOU,,J. Winslow,POR,SUB: Walker FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0351,1,06:41,POR,,IND,,J. Winslow,POR,Winslow REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0351,1,06:40,POR,,IND,,J. Winslow,POR,MISS Winslow 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-121,175,21,1,2.0,0.0,h
+S2223-G0351,1,06:12,POR,,IND,,J. Winslow,POR,Winslow REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0351,1,06:10,POR,,IND,,J. Winslow,POR,MISS Winslow 2' Putback Layup,Missed Shot,Putback Layup Shot,16,2,2,1,2.0,0.0,h
+S2223-G0351,1,06:10,POR,,IND,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0351,1,05:26,POR,,IND,,J. Winslow,POR,Winslow L.B.FOUL (P1.T2) (R.Acosta),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0351,1,04:01,POR,,IND,,J. Winslow,POR,Winslow P.FOUL (P2.T4) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2223-G0351,1,03:53,POR,,IND,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0351,1,03:38,POR,,IND,,J. Winslow,POR,MISS Winslow 3PT Jump Shot,Missed Shot,Jump Shot,-233,24,0,1,3.0,0.0,h
+S2223-G0351,1,01:33,POR,,IND,,J. Winslow,POR,Winslow Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0351,2,09:52,POR,,IND,,J. Winslow,POR,MISS Winslow 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-55,54,8,1,2.0,0.0,h
+S2223-G0351,2,09:12,POR,,IND,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0351,2,07:54,POR,,IND,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0351,2,05:50,POR,,IND,,J. Winslow,POR,Winslow STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0351,2,05:23,POR,,IND,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0351,3,05:21,POR,,IND,,J. Winslow,POR,Winslow REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0351,3,03:24,POR,84.0,IND,63.0,J. Winslow,POR,Winslow 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,-13,4,1,1,2.0,2.0,h
+S2223-G0351,3,00:49.700000,POR,91.0,IND,71.0,J. Winslow,POR,Winslow 1' Cutting Layup Shot (4 PTS) (Watford 4 AST),Made Shot,Cutting Layup Shot,-6,6,1,1,2.0,2.0,h
+S2223-G0351,4,11:03,POR,,IND,,J. Winslow,POR,Winslow Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0351,4,10:20,POR,,IND,,J. Winslow,POR,Winslow Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0351,4,09:58,POR,,IND,,J. Winslow,POR,SUB: Hart FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0238,1,00:48.900000,POR,,UTA,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0238,2,08:54,POR,,UTA,,J. Winslow,POR,Winslow S.FOUL (P1.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0238,2,08:54,POR,,UTA,,J. Winslow,POR,Winslow T.FOUL (P1.T1) (D.Richardson),Foul,Technical,0,0,0,0,,,h
+S2223-G0238,2,08:54,POR,,UTA,,J. Winslow,POR,SUB: Hart FOR Winslow,Substitution,,0,0,0,0,,,h
+S2223-G0238,3,05:51,POR,,UTA,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0238,3,05:29,POR,,UTA,,J. Winslow,POR,Winslow S.FOUL (P2.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0238,3,03:31,POR,,UTA,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0238,3,03:09,POR,,UTA,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0238,3,02:53,POR,,UTA,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0238,3,02:52,POR,,UTA,,J. Winslow,POR,Winslow Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0238,3,02:10,POR,,UTA,,J. Winslow,POR,Winslow BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0238,3,00:03.100000,POR,,UTA,,J. Winslow,POR,Winslow Traveling Turnover (P2.T14),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0238,4,10:54,POR,,UTA,,J. Winslow,POR,MISS Winslow 27' 3PT Jump Shot,Missed Shot,Jump Shot,86,254,27,1,3.0,0.0,h
+S2223-G0238,4,10:24,POR,,UTA,,J. Winslow,POR,Winslow OFF.Foul (P3) (D.Richardson),Foul,Offensive,0,0,0,0,,,h
+S2223-G0238,4,10:24,POR,,UTA,,J. Winslow,POR,Winslow Offensive Foul Turnover (P3.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0238,4,09:20,POR,,UTA,,J. Winslow,POR,MISS Winslow Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0238,4,09:20,POR,87.0,UTA,94.0,J. Winslow,POR,Winslow Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0238,4,07:47,POR,,UTA,,J. Winslow,POR,MISS Winslow 2' Layup,Missed Shot,Layup Shot,-13,16,2,1,2.0,0.0,h
+S2223-G0238,4,07:29,POR,,UTA,,J. Winslow,POR,Winslow S.FOUL (P4.T2) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0238,4,02:32,POR,,UTA,,J. Winslow,POR,Winslow Lost Ball Turnover (P4.T18),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0238,4,02:32,POR,,UTA,,J. Winslow,POR,Winslow Violation:Kicked Ball (C.Blair),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0238,4,01:16,POR,,UTA,,J. Winslow,POR,Winslow S.FOUL (P5.PN) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2223-G0150,1,01:05,MIA,28.0,POR,26.0,J. Winslow,POR,Winslow 1' Layup (2 PTS),Made Shot,Layup Shot,-10,10,1,1,2.0,2.0,v
+S2223-G0150,1,00:47.800000,MIA,,POR,,J. Winslow,POR,Winslow STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0150,1,00:29.300000,MIA,,POR,,J. Winslow,POR,MISS Winslow 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,-11,24,1,3.0,0.0,v
+S2223-G0150,2,03:37,MIA,,POR,,J. Winslow,POR,SUB: Simons FOR Winslow,Substitution,,0,0,0,0,,,v
+S2223-G0150,3,05:28,MIA,75.0,POR,63.0,J. Winslow,POR,Winslow 10' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-10,98,10,1,2.0,2.0,v
+S2223-G0150,3,04:18,MIA,77.0,POR,67.0,J. Winslow,POR,Winslow 9' Driving Floating Jump Shot (6 PTS) (Lillard 4 AST),Made Shot,Driving Floating Jump Shot,-13,93,9,1,2.0,2.0,v
+S2223-G0150,3,02:54,MIA,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0150,4,10:46,MIA,84.0,POR,75.0,J. Winslow,POR,Winslow 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,5,11,1,1,2.0,2.0,v
+S2223-G0150,4,10:09,MIA,84.0,POR,77.0,J. Winslow,POR,Winslow 8' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,-11,80,8,1,2.0,2.0,v
+S2223-G0150,4,08:42,MIA,,POR,,J. Winslow,POR,Winslow REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0150,4,07:08,MIA,,POR,,J. Winslow,POR,MISS Winslow 1' Driving Layup,Missed Shot,Driving Layup Shot,11,10,1,1,2.0,0.0,v
+S2223-G0150,4,04:35,MIA,98.0,POR,91.0,J. Winslow,POR,Winslow 1' Cutting Dunk Shot (12 PTS) (Hart 6 AST),Made Shot,Cutting Dunk Shot,-1,14,1,1,2.0,2.0,v
+S2223-G0150,4,01:26,MIA,,POR,,J. Winslow,POR,Winslow S.FOUL (P1.T4) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2223-G0150,4,00:52.900000,MIA,,POR,,J. Winslow,POR,Winslow S.FOUL (P2.PN) (L.Wood),Foul,Shooting,0,0,0,0,,,v

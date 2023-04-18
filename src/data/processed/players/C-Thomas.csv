@@ -1,0 +1,932 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0470,2,01:35,BKN,84.0,GSW,46.0,C. Thomas,BKN,Thomas 25' 3PT Jump Shot (3 PTS) (Harris 3 AST),Made Shot,Jump Shot,-130,210,25,1,3.0,3.0,h
+S2223-G0470,2,00:37.600000,BKN,88.0,GSW,48.0,C. Thomas,BKN,Thomas 11' Floating Jump Shot (5 PTS),Made Shot,Floating Jump shot,-31,101,11,1,2.0,2.0,h
+S2223-G0470,4,03:17,BKN,,GSW,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0470,4,02:36,BKN,,GSW,,C. Thomas,BKN,Thomas Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0470,4,01:30,BKN,,GSW,,C. Thomas,BKN,MISS Thomas 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-37,53,6,1,2.0,0.0,h
+S2223-G0470,4,00:49.400000,BKN,,GSW,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0470,4,00:08.100000,BKN,,GSW,,C. Thomas,BKN,Thomas Lost Ball Turnover (P2.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1164,3,04:09,BKN,,UTA,,C. Thomas,BKN,Thomas S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G1164,3,00:44.700000,BKN,85.0,UTA,68.0,C. Thomas,BKN,Thomas 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,125,122,17,1,2.0,2.0,h
+S2223-G1164,3,00:12.200000,BKN,,UTA,,C. Thomas,BKN,MISS Thomas 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-60,88,11,1,2.0,0.0,h
+S2223-G1164,3,00:02.700000,BKN,,UTA,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1164,4,10:02,BKN,,UTA,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1164,4,08:30,BKN,,UTA,,C. Thomas,BKN,MISS Thomas 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-59,128,14,1,2.0,0.0,h
+S2223-G1164,4,07:49,BKN,,UTA,,C. Thomas,BKN,SUB: Finney-Smith FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0221,1,07:00,POR,,BKN,,C. Thomas,BKN,MISS Thomas 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-74,108,13,1,2.0,0.0,v
+S2223-G0221,1,04:45,POR,,BKN,,C. Thomas,BKN,MISS Thomas 7' Floating Jump Shot,Missed Shot,Floating Jump shot,5,66,7,1,2.0,0.0,v
+S2223-G0221,1,02:22,POR,,BKN,,C. Thomas,BKN,MISS Thomas 2' Driving Layup,Missed Shot,Driving Layup Shot,21,11,2,1,2.0,0.0,v
+S2223-G0221,1,00:32.700000,POR,,BKN,,C. Thomas,BKN,Thomas Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0364,2,06:35,BKN,,CHA,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0364,2,05:03,BKN,,CHA,,C. Thomas,BKN,MISS Thomas 1' Driving Layup,Missed Shot,Driving Layup Shot,-9,5,1,1,2.0,0.0,h
+S2223-G0364,2,02:50,BKN,,CHA,,C. Thomas,BKN,MISS Thomas 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,107,63,12,1,2.0,0.0,h
+S2223-G0364,2,02:19,BKN,,CHA,,C. Thomas,BKN,SUB: Irving FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0256,4,01:41,PHI,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1001,1,03:25,MIN,,BKN,,C. Thomas,BKN,MISS Thomas 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,45,117,13,1,2.0,0.0,v
+S2223-G1001,1,02:04,MIN,,BKN,,C. Thomas,BKN,Thomas Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1001,1,01:43,MIN,26.0,BKN,21.0,C. Thomas,BKN,Thomas Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0539,4,02:13,CHA,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0539,4,01:56,CHA,,BKN,,C. Thomas,BKN,MISS Thomas 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,2,15,2,1,2.0,0.0,v
+S2223-G0539,4,01:01,CHA,,BKN,,C. Thomas,BKN,Thomas Traveling Turnover (P1.T14),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0329,2,03:49,BKN,69.0,TOR,34.0,C. Thomas,BKN,Thomas 12' Driving Floating Jump Shot (2 PTS) (Durant 3 AST),Made Shot,Driving Floating Jump Shot,102,70,12,1,2.0,2.0,h
+S2223-G0329,2,03:11,BKN,,TOR,,C. Thomas,BKN,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,180,186,26,1,3.0,0.0,h
+S2223-G0329,2,00:47.400000,BKN,,TOR,,C. Thomas,BKN,Thomas S.FOUL (P1.PN) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2223-G0329,2,00:47.400000,BKN,,TOR,,C. Thomas,BKN,SUB: Claxton FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0329,4,06:01,BKN,,TOR,,C. Thomas,BKN,Thomas S.FOUL (P2.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0329,4,04:11,BKN,,TOR,,C. Thomas,BKN,Thomas Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0329,4,01:56,BKN,,TOR,,C. Thomas,BKN,Jump Ball Thomas vs. Anunoby: Tip to Barnes,Jump Ball,,0,0,0,0,,,h
+S2223-G0329,4,01:56,BKN,,TOR,,C. Thomas,BKN,Thomas Lost Ball Turnover (P2.T18),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0329,4,01:24,BKN,,TOR,,C. Thomas,BKN,MISS Thomas 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-130,213,25,1,3.0,0.0,h
+S2223-G0846,1,02:54,BKN,,PHI,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0846,1,02:30,BKN,,PHI,,C. Thomas,BKN,Thomas S.FOUL (P1.PN) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0846,1,02:15,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 3PT Jump Shot,Missed Shot,Jump Shot,-230,39,0,1,3.0,0.0,h
+S2223-G0846,1,01:11,BKN,28.0,PHI,24.0,C. Thomas,BKN,Thomas 11' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,-104,28,11,1,2.0,2.0,h
+S2223-G0846,1,00:04.300000,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,4,262,26,1,3.0,0.0,h
+S2223-G0846,2,08:09,BKN,44.0,PHI,39.0,C. Thomas,BKN,Thomas 12' Jump Shot (4 PTS) (Harris 1 AST),Made Shot,Jump Shot,-70,92,12,1,2.0,2.0,h
+S2223-G0846,2,07:34,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 20' Jump Shot,Missed Shot,Jump Shot,2,197,20,1,2.0,0.0,h
+S2223-G0846,2,06:27,BKN,,PHI,,C. Thomas,BKN,SUB: Watanabe FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0846,3,01:35,BKN,78.0,PHI,71.0,C. Thomas,BKN,Thomas 18' Pullup Jump Shot (6 PTS) (Dinwiddie 6 AST),Made Shot,Pullup Jump shot,102,150,18,1,2.0,2.0,h
+S2223-G0846,3,01:03,BKN,80.0,PHI,71.0,C. Thomas,BKN,Thomas 9' Driving Floating Jump Shot (8 PTS) (Claxton 2 AST),Made Shot,Driving Floating Jump Shot,-21,90,9,1,2.0,2.0,h
+S2223-G0846,3,00:25.300000,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 4' Driving Layup,Missed Shot,Driving Layup Shot,38,17,4,1,2.0,0.0,h
+S2223-G0846,4,10:42,BKN,84.0,PHI,79.0,C. Thomas,BKN,Thomas 11' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,29,108,11,1,2.0,2.0,h
+S2223-G0846,4,07:43,BKN,94.0,PHI,85.0,C. Thomas,BKN,Thomas 3' Driving Layup (12 PTS) (Finney-Smith 2 AST),Made Shot,Driving Layup Shot,-26,21,3,1,2.0,2.0,h
+S2223-G0846,4,06:52,BKN,96.0,PHI,87.0,C. Thomas,BKN,Thomas 18' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,32,176,18,1,2.0,2.0,h
+S2223-G0846,4,05:43,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-91,56,11,1,2.0,0.0,h
+S2223-G0846,4,05:27,BKN,,PHI,,C. Thomas,BKN,SUB: Johnson FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0555,4,11:05,BKN,110.0,SAS,79.0,C. Thomas,BKN,Thomas 10' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,94,46,10,1,2.0,2.0,h
+S2223-G0555,4,10:08,BKN,,SAS,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0555,4,09:26,BKN,114.0,SAS,83.0,C. Thomas,BKN,Thomas 8' Driving Floating Jump Shot (4 PTS) (Sharpe 2 AST),Made Shot,Driving Floating Jump Shot,21,80,8,1,2.0,2.0,h
+S2223-G0555,4,08:44,BKN,,SAS,,C. Thomas,BKN,MISS Thomas 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-134,16,13,1,2.0,0.0,h
+S2223-G0555,4,04:22,BKN,,SAS,,C. Thomas,BKN,Thomas P.FOUL (P1.T3) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G0555,4,02:51,BKN,132.0,SAS,98.0,C. Thomas,BKN,Thomas 15' Jump Shot (6 PTS) (Sharpe 3 AST),Made Shot,Jump Shot,150,20,15,1,2.0,2.0,h
+S2223-G0555,4,01:30,BKN,,SAS,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0555,4,01:06,BKN,139.0,SAS,103.0,C. Thomas,BKN,Thomas 25' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,-118,221,25,1,3.0,3.0,h
+S2223-G1217,1,10:04,BKN,,PHI,,C. Thomas,BKN,Thomas Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1217,1,08:56,BKN,,PHI,,C. Thomas,BKN,Thomas Out of Bounds Lost Ball Turnover (P2.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1217,1,08:20,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,109,113,16,1,2.0,0.0,h
+S2223-G1217,1,08:00,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 2' Running Layup,Missed Shot,Running Layup Shot,-23,5,2,1,2.0,0.0,h
+S2223-G1217,1,06:07,BKN,8.0,PHI,16.0,C. Thomas,BKN,Thomas 9' Turnaround Jump Shot (2 PTS) (Mills 1 AST),Made Shot,Turnaround Jump Shot,85,-4,9,1,2.0,2.0,h
+S2223-G1217,1,04:11,BKN,15.0,PHI,21.0,C. Thomas,BKN,Thomas 26' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,-92,241,26,1,3.0,3.0,h
+S2223-G1217,1,03:31,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,88,130,16,1,2.0,0.0,h
+S2223-G1217,1,02:02,BKN,18.0,PHI,31.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1217,1,02:02,BKN,19.0,PHI,31.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1217,2,08:05,BKN,,PHI,,C. Thomas,BKN,Thomas S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G1217,2,07:16,BKN,,PHI,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1217,2,07:13,BKN,31.0,PHI,48.0,C. Thomas,BKN,Thomas 1' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,6,13,1,1,2.0,2.0,h
+S2223-G1217,2,05:26,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-28,60,7,1,2.0,0.0,h
+S2223-G1217,2,05:18,BKN,37.0,PHI,50.0,C. Thomas,BKN,Thomas 11' Pullup Jump Shot (11 PTS) (Gray 2 AST),Made Shot,Pullup Jump shot,-47,100,11,1,2.0,2.0,h
+S2223-G1217,2,04:55,BKN,40.0,PHI,50.0,C. Thomas,BKN,Thomas 26' 3PT Jump Shot (14 PTS) (Gray 3 AST),Made Shot,Jump Shot,162,199,26,1,3.0,3.0,h
+S2223-G1217,2,04:34,BKN,,PHI,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1217,2,04:28,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-82,242,26,1,3.0,0.0,h
+S2223-G1217,2,03:19,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 4' Floating Jump Shot,Missed Shot,Floating Jump shot,0,42,4,1,2.0,0.0,h
+S2223-G1217,2,02:41,BKN,46.0,PHI,54.0,C. Thomas,BKN,Thomas 26' 3PT Jump Shot (17 PTS) (Duke Jr. 3 AST),Made Shot,Jump Shot,-20,259,26,1,3.0,3.0,h
+S2223-G1217,2,00:46.500000,BKN,50.0,PHI,57.0,C. Thomas,BKN,Thomas 1' Running Dunk (19 PTS) (Gray 5 AST),Made Shot,Running Dunk Shot,0,5,1,1,2.0,2.0,h
+S2223-G1217,2,00:08.900000,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-65,130,15,1,2.0,0.0,h
+S2223-G1217,3,11:43,BKN,55.0,PHI,61.0,C. Thomas,BKN,Thomas 6' Floating Jump Shot (21 PTS),Made Shot,Floating Jump shot,1,62,6,1,2.0,2.0,h
+S2223-G1217,3,11:06,BKN,,PHI,,C. Thomas,BKN,Thomas Violation:Defensive Goaltending (D.Guthrie),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G1217,3,10:01,BKN,,PHI,,C. Thomas,BKN,Thomas Out of Bounds Lost Ball Turnover (P3.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1217,3,08:04,BKN,66.0,PHI,75.0,C. Thomas,BKN,Thomas 24' 3PT Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,-126,205,24,1,3.0,3.0,h
+S2223-G1217,3,05:40,BKN,,PHI,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1217,3,05:30,BKN,71.0,PHI,81.0,C. Thomas,BKN,Thomas 4' Driving Bank Hook Shot (26 PTS),Made Shot,Driving Bank Hook Shot,40,15,4,1,2.0,2.0,h
+S2223-G1217,3,04:59,BKN,74.0,PHI,84.0,C. Thomas,BKN,Thomas 26' 3PT Pullup Jump Shot (29 PTS) (Smith 2 AST),Made Shot,Pullup Jump shot,6,261,26,1,3.0,3.0,h
+S2223-G1217,3,03:51,BKN,75.0,PHI,86.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1217,3,03:51,BKN,76.0,PHI,86.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1217,3,03:21,BKN,78.0,PHI,89.0,C. Thomas,BKN,Thomas 15' Step Back Jump Shot (33 PTS),Made Shot,Step Back Jump shot,-114,92,15,1,2.0,2.0,h
+S2223-G1217,3,02:51,BKN,81.0,PHI,92.0,C. Thomas,BKN,Thomas 25' 3PT Pullup Jump Shot (36 PTS),Made Shot,Pullup Jump shot,142,208,25,1,3.0,3.0,h
+S2223-G1217,3,01:49,BKN,84.0,PHI,94.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (37 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1217,3,01:49,BKN,85.0,PHI,94.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (38 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1217,3,01:24,BKN,88.0,PHI,94.0,C. Thomas,BKN,Thomas Free Throw Technical (39 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2223-G1217,3,00:53,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-99,183,21,1,2.0,0.0,h
+S2223-G1217,3,00:35.800000,BKN,91.0,PHI,97.0,C. Thomas,BKN,Thomas 1' Driving Layup (41 PTS),Made Shot,Driving Layup Shot,5,5,1,1,2.0,2.0,h
+S2223-G1217,3,00:35.800000,BKN,92.0,PHI,97.0,C. Thomas,BKN,Thomas Free Throw 1 of 1 (42 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1217,4,08:48,BKN,98.0,PHI,111.0,C. Thomas,BKN,Thomas 12' Fadeaway Jumper (44 PTS),Made Shot,Fadeaway Jump Shot,87,85,12,1,2.0,2.0,h
+S2223-G1217,4,08:22,BKN,100.0,PHI,111.0,C. Thomas,BKN,Thomas 1' Driving Layup (46 PTS) (Gray 7 AST),Made Shot,Driving Layup Shot,6,0,1,1,2.0,2.0,h
+S2223-G1217,4,07:32,BKN,,PHI,,C. Thomas,BKN,Thomas Lost Ball Turnover (P4.T16),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1217,4,06:09,BKN,,PHI,,C. Thomas,BKN,Thomas BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1217,4,05:51,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-5,251,25,1,3.0,0.0,h
+S2223-G1217,4,05:12,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 2' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-18,15,2,1,2.0,0.0,h
+S2223-G1217,4,01:38,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-25,140,14,1,2.0,0.0,h
+S2223-G1217,4,01:17,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 1' Driving Layup,Missed Shot,Driving Layup Shot,-11,-7,1,1,2.0,0.0,h
+S2223-G1217,4,00:12,BKN,,PHI,,C. Thomas,BKN,MISS Thomas 3' Driving Layup,Missed Shot,Driving Layup Shot,25,21,3,1,2.0,0.0,h
+S2223-G0810,1,11:18,BKN,,LAC,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0810,1,11:12,BKN,,LAC,,C. Thomas,BKN,MISS Thomas 1' Driving Layup,Missed Shot,Driving Layup Shot,-13,-1,1,1,2.0,0.0,h
+S2223-G0810,1,10:30,BKN,,LAC,,C. Thomas,BKN,Thomas P.FOUL (P1.T1) (E.Lewis),Foul,Personal,0,0,0,0,,,h
+S2223-G0810,1,10:20,BKN,,LAC,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0810,1,08:49,BKN,8.0,LAC,2.0,C. Thomas,BKN,Thomas 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,56,242,25,1,3.0,3.0,h
+S2223-G0810,1,07:47,BKN,,LAC,,C. Thomas,BKN,MISS Thomas 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-4,142,14,1,2.0,0.0,h
+S2223-G0810,1,06:30,BKN,17.0,LAC,10.0,C. Thomas,BKN,Thomas 25' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,31,253,25,1,3.0,3.0,h
+S2223-G0810,1,03:49,BKN,23.0,LAC,17.0,C. Thomas,BKN,Thomas 25' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,142,203,25,1,3.0,3.0,h
+S2223-G0810,1,03:49,BKN,24.0,LAC,17.0,C. Thomas,BKN,Thomas Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0810,1,02:27,BKN,27.0,LAC,19.0,C. Thomas,BKN,Thomas 24' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,233,43,24,1,3.0,3.0,h
+S2223-G0810,1,01:54,BKN,,LAC,,C. Thomas,BKN,MISS Thomas 27' 3PT Jump Shot,Missed Shot,Jump Shot,47,266,27,1,3.0,0.0,h
+S2223-G0810,1,00:57.600000,BKN,,LAC,,C. Thomas,BKN,SUB: Smith FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0810,2,06:54,BKN,38.0,LAC,41.0,C. Thomas,BKN,Thomas 14' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,66,126,14,1,2.0,2.0,h
+S2223-G0810,2,05:35,BKN,,LAC,,C. Thomas,BKN,Thomas Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0810,2,04:55,BKN,,LAC,,C. Thomas,BKN,MISS Thomas 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,168,17,17,1,2.0,0.0,h
+S2223-G0810,2,01:57,BKN,45.0,LAC,51.0,C. Thomas,BKN,Thomas 15' Driving Floating Bank Jump Shot (17 PTS),Made Shot,Driving Floating Bank Jump Shot,125,74,15,1,2.0,2.0,h
+S2223-G0810,2,01:57,BKN,46.0,LAC,51.0,C. Thomas,BKN,Thomas Free Throw Technical (18 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2223-G0810,2,01:57,BKN,47.0,LAC,51.0,C. Thomas,BKN,Thomas Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0810,2,01:39,BKN,50.0,LAC,51.0,C. Thomas,BKN,Thomas 25' 3PT Running Jump Shot (22 PTS) (O'Neale 2 AST),Made Shot,Running Jump Shot,-224,113,25,1,3.0,3.0,h
+S2223-G0810,2,00:43.700000,BKN,,LAC,,C. Thomas,BKN,MISS Thomas 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,81,261,27,1,3.0,0.0,h
+S2223-G0810,3,11:34,BKN,55.0,LAC,57.0,C. Thomas,BKN,Thomas 4' Driving Floating Bank Jump Shot (24 PTS) (Sumner 2 AST),Made Shot,Driving Floating Bank Jump Shot,32,25,4,1,2.0,2.0,h
+S2223-G0810,3,10:25,BKN,58.0,LAC,62.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0810,3,10:25,BKN,59.0,LAC,62.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0810,3,08:55,BKN,,LAC,,C. Thomas,BKN,Thomas Step Out of Bounds Turnover (P2.T8),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0810,3,08:20,BKN,62.0,LAC,72.0,C. Thomas,BKN,Thomas Free Throw 1 of 3 (27 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0810,3,08:20,BKN,63.0,LAC,72.0,C. Thomas,BKN,Thomas Free Throw 2 of 3 (28 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0810,3,08:20,BKN,64.0,LAC,72.0,C. Thomas,BKN,Thomas Free Throw 3 of 3 (29 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0810,3,06:19,BKN,,LAC,,C. Thomas,BKN,MISS Thomas 15' Floating Jump Shot,Missed Shot,Floating Jump shot,112,104,15,1,2.0,0.0,h
+S2223-G0810,3,04:35,BKN,79.0,LAC,77.0,C. Thomas,BKN,Thomas 19' Pullup Jump Shot (31 PTS),Made Shot,Pullup Jump shot,-123,144,19,1,2.0,2.0,h
+S2223-G0810,3,04:25,BKN,,LAC,,C. Thomas,BKN,Thomas S.FOUL (P2.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0810,3,03:43,BKN,,LAC,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0810,3,03:39,BKN,82.0,LAC,79.0,C. Thomas,BKN,Thomas 27' 3PT Pullup Jump Shot (34 PTS),Made Shot,Pullup Jump shot,-13,265,27,1,3.0,3.0,h
+S2223-G0810,3,02:46,BKN,84.0,LAC,83.0,C. Thomas,BKN,Thomas 1' Driving Layup (36 PTS),Made Shot,Driving Layup Shot,9,7,1,1,2.0,2.0,h
+S2223-G0810,3,02:29,BKN,,LAC,,C. Thomas,BKN,MISS Thomas 4' Running Layup,Missed Shot,Running Layup Shot,-29,23,4,1,2.0,0.0,h
+S2223-G0810,3,01:54,BKN,,LAC,,C. Thomas,BKN,MISS Thomas 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,91,236,25,1,3.0,0.0,h
+S2223-G0810,3,01:28,BKN,,LAC,,C. Thomas,BKN,SUB: Mills FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0810,4,09:16,BKN,,LAC,,C. Thomas,BKN,MISS Thomas 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-58,42,7,1,2.0,0.0,h
+S2223-G0810,4,08:30,BKN,,LAC,,C. Thomas,BKN,Thomas REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0810,4,08:27,BKN,96.0,LAC,99.0,C. Thomas,BKN,Thomas 1' Driving Dunk (38 PTS),Made Shot,Driving Dunk Shot,4,-5,1,1,2.0,2.0,h
+S2223-G0810,4,07:55,BKN,99.0,LAC,99.0,C. Thomas,BKN,Thomas 32' 3PT Jump Shot (41 PTS) (Watanabe 2 AST),Made Shot,Jump Shot,72,311,32,1,3.0,3.0,h
+S2223-G0810,4,06:24,BKN,,LAC,,C. Thomas,BKN,MISS Thomas 3' Driving Layup,Missed Shot,Driving Layup Shot,28,11,3,1,2.0,0.0,h
+S2223-G0810,4,05:40,BKN,,LAC,,C. Thomas,BKN,MISS Thomas 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,124,7,12,1,2.0,0.0,h
+S2223-G0810,4,05:09,BKN,,LAC,,C. Thomas,BKN,Thomas Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0810,4,04:28,BKN,109.0,LAC,108.0,C. Thomas,BKN,Thomas 16' Fadeaway Jumper (43 PTS),Made Shot,Fadeaway Jump Shot,114,117,16,1,2.0,2.0,h
+S2223-G0810,4,04:28,BKN,,LAC,,C. Thomas,BKN,MISS Thomas Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0810,4,03:58,BKN,111.0,LAC,108.0,C. Thomas,BKN,Thomas 10' Driving Floating Jump Shot (45 PTS),Made Shot,Driving Floating Jump Shot,-48,86,10,1,2.0,2.0,h
+S2223-G0810,4,03:29,BKN,112.0,LAC,109.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (46 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0810,4,03:29,BKN,113.0,LAC,109.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (47 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0810,4,01:57,BKN,,LAC,,C. Thomas,BKN,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,25,260,26,1,3.0,0.0,h
+S2223-G0810,4,01:36,BKN,,LAC,,C. Thomas,BKN,Thomas Traveling Turnover (P4.T15),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0810,4,00:44.400000,BKN,,LAC,,C. Thomas,BKN,MISS Thomas 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-131,170,21,1,2.0,0.0,h
+S2223-G0810,4,00:38,BKN,,LAC,,C. Thomas,BKN,MISS Thomas 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,115,92,15,1,2.0,0.0,h
+S2223-G0810,4,00:34.900000,BKN,,LAC,,C. Thomas,BKN,Thomas Personal Take Foul (P3.PN) (E.Lewis),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0742,1,04:57,BKN,,NYK,,C. Thomas,BKN,MISS Thomas 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,76,104,13,1,2.0,0.0,h
+S2223-G0742,1,04:04,BKN,,NYK,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0742,1,02:19,BKN,,NYK,,C. Thomas,BKN,Thomas STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0742,1,00:53.700000,BKN,25.0,NYK,19.0,C. Thomas,BKN,Thomas 7' Turnaround Jump Shot (2 PTS) (Sumner 1 AST),Made Shot,Turnaround Jump Shot,5,67,7,1,2.0,2.0,h
+S2223-G0742,1,00:36.200000,BKN,,NYK,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0742,1,00:01.800000,BKN,,NYK,,C. Thomas,BKN,Thomas Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0742,2,07:24,BKN,,NYK,,C. Thomas,BKN,MISS Thomas 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,127,141,19,1,2.0,0.0,h
+S2223-G0742,2,06:33,BKN,49.0,NYK,34.0,C. Thomas,BKN,Thomas 27' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-83,256,27,1,3.0,3.0,h
+S2223-G0742,2,02:40,BKN,,NYK,,C. Thomas,BKN,MISS Thomas 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-55,67,9,1,2.0,0.0,h
+S2223-G0742,2,02:07,BKN,,NYK,,C. Thomas,BKN,SUB: Harris FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G1153,4,00:39.800000,BKN,,ATL,,C. Thomas,BKN,MISS Thomas 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,132,45,14,1,2.0,0.0,h
+S2223-G0666,2,04:48,SAS,39.0,BKN,38.0,C. Thomas,BKN,Thomas 4' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-2,42,4,1,2.0,2.0,v
+S2223-G0666,2,04:24,SAS,42.0,BKN,40.0,C. Thomas,BKN,Thomas 4' Driving Layup (4 PTS) (Simmons 3 AST),Made Shot,Driving Layup Shot,27,26,4,1,2.0,2.0,v
+S2223-G0666,2,04:24,SAS,,BKN,,C. Thomas,BKN,MISS Thomas Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0666,2,03:40,SAS,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P1.T4) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0666,2,03:26,SAS,44.0,BKN,46.0,C. Thomas,BKN,Thomas 11' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-37,104,11,1,2.0,2.0,v
+S2223-G0666,2,03:26,SAS,44.0,BKN,47.0,C. Thomas,BKN,Thomas Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0666,2,02:59,SAS,,BKN,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0666,2,02:55,SAS,44.0,BKN,49.0,C. Thomas,BKN,Thomas 3' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,-12,26,3,1,2.0,2.0,v
+S2223-G0666,2,02:23,SAS,,BKN,,C. Thomas,BKN,MISS Thomas 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,56,6,1,2.0,0.0,v
+S2223-G0666,2,00:57,SAS,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,-157,206,26,1,3.0,0.0,v
+S2223-G0666,3,03:24,SAS,,BKN,,C. Thomas,BKN,Thomas Step Out of Bounds Turnover (P1.T15),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0666,3,02:59,SAS,70.0,BKN,65.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0666,3,02:59,SAS,70.0,BKN,66.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0666,3,02:15,SAS,,BKN,,C. Thomas,BKN,Thomas BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0666,3,02:15,SAS,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P2.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0666,3,02:00,SAS,,BKN,,C. Thomas,BKN,MISS Thomas 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,15,284,28,1,3.0,0.0,v
+S2223-G0666,3,00:35.700000,SAS,,BKN,,C. Thomas,BKN,MISS Thomas 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,9,70,7,1,2.0,0.0,v
+S2223-G0666,4,11:14,SAS,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P3.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0666,4,09:26,SAS,80.0,BKN,75.0,C. Thomas,BKN,Thomas 9' Running Pull-Up Jump Shot (13 PTS) (Claxton 3 AST),Made Shot,Running Pull-Up Jump Shot,1,89,9,1,2.0,2.0,v
+S2223-G0666,4,06:24,SAS,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0666,4,05:53,SAS,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,175,191,26,1,3.0,0.0,v
+S2223-G0666,4,01:57,SAS,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0666,4,00:25.300000,SAS,104.0,BKN,98.0,C. Thomas,BKN,Thomas 4' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,-1,39,4,1,2.0,2.0,v
+S2223-G0666,4,00:07.100000,SAS,,BKN,,C. Thomas,BKN,MISS Thomas 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,25,286,29,1,3.0,0.0,v
+S2223-G0689,1,03:04,UTA,,,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0689,1,01:56,UTA,,,,C. Thomas,BKN,MISS Thomas 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-45,187,19,1,2.0,0.0,v
+S2223-G0689,1,00:30.100000,UTA,21.0,,28.0,C. Thomas,BKN,Thomas 7' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,65,24,7,1,2.0,2.0,v
+S2223-G0689,1,00:15.900000,UTA,,,,C. Thomas,BKN,SUB: O'Neale FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0689,2,00:36.700000,UTA,,,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0689,2,00:31.100000,UTA,,,,C. Thomas,BKN,MISS Thomas 9' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-62,71,9,1,2.0,0.0,v
+S2223-G0689,4,00:32.700000,UTA,,,,C. Thomas,BKN,SUB: Claxton FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0133,1,05:12,CHA,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0133,1,04:59,CHA,11.0,BKN,17.0,C. Thomas,BKN,Thomas 26' 3PT Jump Shot (3 PTS) (Durant 1 AST),Made Shot,Jump Shot,-203,157,26,1,3.0,3.0,v
+S2223-G0133,1,03:41,CHA,,BKN,,C. Thomas,BKN,MISS Thomas 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,86,33,9,1,2.0,0.0,v
+S2223-G0133,1,02:04,CHA,13.0,BKN,26.0,C. Thomas,BKN,Thomas 11' Driving Floating Jump Shot (5 PTS) (Mills 1 AST),Made Shot,Driving Floating Jump Shot,-39,99,11,1,2.0,2.0,v
+S2223-G0133,1,01:36,CHA,,BKN,,C. Thomas,BKN,MISS Thomas 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-44,157,16,1,2.0,0.0,v
+S2223-G0133,1,01:11,CHA,17.0,BKN,27.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0133,1,01:11,CHA,17.0,BKN,28.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0133,2,01:02,CHA,,BKN,,C. Thomas,BKN,Thomas Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0133,2,00:04.900000,CHA,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0133,2,00:02.100000,CHA,44.0,BKN,51.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0133,2,00:02.100000,CHA,44.0,BKN,52.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0133,3,04:02,CHA,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,173,200,26,1,3.0,0.0,v
+S2223-G0133,3,03:19,CHA,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P1.PN) (D.Mosher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0133,3,02:24,CHA,,BKN,,C. Thomas,BKN,Thomas BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0133,3,02:23,CHA,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0133,3,02:13,CHA,67.0,BKN,65.0,C. Thomas,BKN,Thomas 7' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,-10,71,7,1,2.0,2.0,v
+S2223-G0133,3,00:45.400000,CHA,70.0,BKN,67.0,C. Thomas,BKN,Thomas 21' Step Back Jump Shot (13 PTS) (Watanabe 2 AST),Made Shot,Step Back Jump shot,-184,94,21,1,2.0,2.0,v
+S2223-G0133,3,00:05.600000,CHA,70.0,BKN,68.0,C. Thomas,BKN,Thomas Free Throw 1 of 3 (14 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0133,3,00:05.600000,CHA,,BKN,,C. Thomas,BKN,MISS Thomas Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,v
+S2223-G0133,3,00:05.600000,CHA,70.0,BKN,69.0,C. Thomas,BKN,Thomas Free Throw 3 of 3 (15 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0133,4,11:45,CHA,,BKN,,C. Thomas,BKN,MISS Thomas 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,109,-9,11,1,2.0,0.0,v
+S2223-G0133,4,10:27,CHA,,BKN,,C. Thomas,BKN,MISS Thomas 4' Driving Layup,Missed Shot,Driving Layup Shot,-6,43,4,1,2.0,0.0,v
+S2223-G0133,4,09:45,CHA,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P2.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0133,4,07:57,CHA,,BKN,,C. Thomas,BKN,MISS Thomas 14' Jump Shot,Missed Shot,Jump Shot,-7,144,14,1,2.0,0.0,v
+S2223-G0133,4,02:45,CHA,,BKN,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0133,4,02:40,CHA,87.0,BKN,86.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0133,4,02:40,CHA,87.0,BKN,87.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0133,4,01:48,CHA,89.0,BKN,91.0,C. Thomas,BKN,Thomas 7' Driving Floating Jump Shot (19 PTS) (Watanabe 3 AST),Made Shot,Driving Floating Jump Shot,-12,70,7,1,2.0,2.0,v
+S2223-G0133,4,00:14.200000,CHA,94.0,BKN,97.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0133,4,00:14.200000,CHA,94.0,BKN,98.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0133,4,00:05.100000,CHA,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0164,1,02:31,BKN,,NYK,,C. Thomas,BKN,Thomas BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0164,1,02:16,BKN,,NYK,,C. Thomas,BKN,MISS Thomas 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,92,23,9,1,2.0,0.0,h
+S2223-G0164,1,01:26,BKN,33.0,NYK,19.0,C. Thomas,BKN,Thomas 15' Step Back Jump Shot (2 PTS) (Curry 1 AST),Made Shot,Step Back Jump shot,-147,20,15,1,2.0,2.0,h
+S2223-G0164,2,11:26,BKN,,NYK,,C. Thomas,BKN,MISS Thomas 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-91,41,10,1,2.0,0.0,h
+S2223-G0164,2,09:49,BKN,,NYK,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0164,2,08:59,BKN,,NYK,,C. Thomas,BKN,Thomas P.FOUL (P1.T1) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2223-G0164,2,07:43,BKN,,NYK,,C. Thomas,BKN,MISS Thomas 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,59,90,11,1,2.0,0.0,h
+S2223-G0164,2,07:32,BKN,,NYK,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0164,2,06:11,BKN,,NYK,,C. Thomas,BKN,SUB: Sumner FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0164,3,07:06,BKN,,NYK,,C. Thomas,BKN,Thomas Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0164,3,03:15,BKN,86.0,NYK,68.0,C. Thomas,BKN,Thomas 18' Pullup Jump Shot (4 PTS) (Durant 11 AST),Made Shot,Pullup Jump shot,170,53,18,1,2.0,2.0,h
+S2223-G0164,3,02:08,BKN,,NYK,,C. Thomas,BKN,MISS Thomas 34' 3PT Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,197,273,34,1,3.0,0.0,h
+S2223-G0164,3,01:13,BKN,,NYK,,C. Thomas,BKN,Thomas Traveling Turnover (P2.T9),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0164,4,03:13,BKN,,NYK,,C. Thomas,BKN,Thomas Out of Bounds - Bad Pass Turnover Turnover (P3.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0164,4,02:09,BKN,,NYK,,C. Thomas,BKN,MISS Thomas 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,44,41,6,1,2.0,0.0,h
+S2223-G0164,4,01:05,BKN,,NYK,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0164,4,00:47.200000,BKN,112.0,NYK,82.0,C. Thomas,BKN,Thomas 6' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,29,57,6,1,2.0,2.0,h
+S2223-G0315,3,05:58,BKN,,WAS,,C. Thomas,BKN,Thomas BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0315,3,05:02,BKN,,WAS,,C. Thomas,BKN,MISS Thomas 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,17,13,2,1,2.0,0.0,h
+S2223-G0315,3,02:36,BKN,,WAS,,C. Thomas,BKN,Thomas P.FOUL (P1.T3) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2223-G0315,3,02:23,BKN,75.0,WAS,70.0,C. Thomas,BKN,Thomas 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,17,7,2,1,2.0,2.0,h
+S2223-G0315,3,02:03,BKN,,WAS,,C. Thomas,BKN,MISS Thomas 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,105,242,26,1,3.0,0.0,h
+S2223-G0315,4,11:34,BKN,81.0,WAS,78.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0315,4,11:34,BKN,82.0,WAS,78.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0315,4,11:12,BKN,,WAS,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0315,4,09:22,BKN,,WAS,,C. Thomas,BKN,MISS Thomas 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,64,7,1,2.0,0.0,h
+S2223-G0315,4,04:22,BKN,,WAS,,C. Thomas,BKN,SUB: Claxton FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0315,4,02:14,BKN,,WAS,,C. Thomas,BKN,SUB: Claxton FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0315,4,01:23,BKN,107.0,WAS,99.0,C. Thomas,BKN,Thomas 2' Cutting Dunk Shot (6 PTS) (O'Neale 7 AST),Made Shot,Cutting Dunk Shot,2,22,2,1,2.0,2.0,h
+S2223-G0315,4,00:49.100000,BKN,,WAS,,C. Thomas,BKN,Thomas Double Dribble Turnover (P1.T9),Turnover,Double Dribble,0,0,0,0,,,h
+S2223-G0315,4,00:49.100000,BKN,,WAS,,C. Thomas,BKN,SUB: Claxton FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0315,4,00:32.100000,BKN,,WAS,,C. Thomas,BKN,SUB: Claxton FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0006,2,10:39,BKN,,NOP,,C. Thomas,BKN,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,12,258,26,1,3.0,0.0,h
+S2223-G0006,2,06:18,BKN,28.0,NOP,42.0,C. Thomas,BKN,Thomas 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,45,53,7,1,2.0,2.0,h
+S2223-G0006,2,05:03,BKN,,NOP,,C. Thomas,BKN,MISS Thomas 2' Driving Layup,Missed Shot,Driving Layup Shot,-11,20,2,1,2.0,0.0,h
+S2223-G0006,2,03:54,BKN,,NOP,,C. Thomas,BKN,SUB: Simmons FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0006,4,03:44,BKN,,NOP,,C. Thomas,BKN,MISS Thomas 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,53,109,12,1,2.0,0.0,h
+S2223-G0817,1,11:12,BKN,,PHX,,C. Thomas,BKN,MISS Thomas 20' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,168,116,20,1,2.0,0.0,h
+S2223-G0817,1,10:16,BKN,3.0,PHX,3.0,C. Thomas,BKN,Thomas 27' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,159,220,27,1,3.0,3.0,h
+S2223-G0817,1,09:39,BKN,6.0,PHX,3.0,C. Thomas,BKN,Thomas 27' 3PT Running Jump Shot (6 PTS) (Simmons 1 AST),Made Shot,Running Jump Shot,-211,166,27,1,3.0,3.0,h
+S2223-G0817,1,07:55,BKN,,PHX,,C. Thomas,BKN,MISS Thomas 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,161,29,16,1,2.0,0.0,h
+S2223-G0817,1,07:09,BKN,13.0,PHX,11.0,C. Thomas,BKN,Thomas 2' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,-16,-2,2,1,2.0,2.0,h
+S2223-G0817,1,05:43,BKN,,PHX,,C. Thomas,BKN,MISS Thomas 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-131,34,14,1,2.0,0.0,h
+S2223-G0817,1,03:42,BKN,,PHX,,C. Thomas,BKN,SUB: Warren FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0817,2,10:51,BKN,,PHX,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0817,2,10:42,BKN,29.0,PHX,27.0,C. Thomas,BKN,Thomas 8' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,-26,80,8,1,2.0,2.0,h
+S2223-G0817,2,09:08,BKN,,PHX,,C. Thomas,BKN,MISS Thomas 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-118,247,27,1,3.0,0.0,h
+S2223-G0817,2,07:55,BKN,,PHX,,C. Thomas,BKN,Thomas S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0817,2,07:04,BKN,35.0,PHX,35.0,C. Thomas,BKN,Thomas 2' Driving Layup (12 PTS) (Simmons 3 AST),Made Shot,Driving Layup Shot,13,15,2,1,2.0,2.0,h
+S2223-G0817,2,04:47,BKN,,PHX,,C. Thomas,BKN,Thomas BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0817,2,04:47,BKN,,PHX,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0817,2,04:47,BKN,38.0,PHX,41.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,2,04:47,BKN,39.0,PHX,41.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,2,04:27,BKN,41.0,PHX,41.0,C. Thomas,BKN,Thomas 4' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,-20,40,4,1,2.0,2.0,h
+S2223-G0817,2,03:33,BKN,45.0,PHX,44.0,C. Thomas,BKN,Thomas 21' Step Back Jump Shot (18 PTS) (O'Neale 1 AST),Made Shot,Step Back Jump shot,-134,164,21,1,2.0,2.0,h
+S2223-G0817,2,03:33,BKN,46.0,PHX,44.0,C. Thomas,BKN,Thomas Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0817,2,02:25,BKN,49.0,PHX,48.0,C. Thomas,BKN,Thomas 26' 3PT Jump Shot (22 PTS) (Harris 2 AST),Made Shot,Jump Shot,-208,163,26,1,3.0,3.0,h
+S2223-G0817,2,02:01,BKN,50.0,PHX,48.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,2,02:01,BKN,51.0,PHX,48.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,2,00:33.600000,BKN,,PHX,,C. Thomas,BKN,MISS Thomas 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,163,208,26,1,3.0,0.0,h
+S2223-G0817,3,11:19,BKN,,PHX,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0817,3,10:21,BKN,,PHX,,C. Thomas,BKN,MISS Thomas 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-80,42,9,1,2.0,0.0,h
+S2223-G0817,3,08:40,BKN,,PHX,,C. Thomas,BKN,MISS Thomas 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,63,6,1,2.0,0.0,h
+S2223-G0817,3,08:25,BKN,,PHX,,C. Thomas,BKN,MISS Thomas 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,92,131,16,1,2.0,0.0,h
+S2223-G0817,3,07:52,BKN,,PHX,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0817,3,07:27,BKN,62.0,PHX,65.0,C. Thomas,BKN,Thomas 13' Turnaround Fadeaway (26 PTS),Made Shot,Turnaround Fadeaway shot,54,115,13,1,2.0,2.0,h
+S2223-G0817,3,06:47,BKN,63.0,PHX,65.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,3,06:47,BKN,64.0,PHX,65.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,3,06:12,BKN,,PHX,,C. Thomas,BKN,MISS Thomas 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-1,319,32,1,3.0,0.0,h
+S2223-G0817,3,04:33,BKN,,PHX,,C. Thomas,BKN,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,208,157,26,1,3.0,0.0,h
+S2223-G0817,3,03:39,BKN,,PHX,,C. Thomas,BKN,Thomas Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0817,3,03:00,BKN,,PHX,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0817,3,02:29,BKN,,PHX,,C. Thomas,BKN,SUB: Mills FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0817,3,00:24.100000,BKN,80.0,PHX,84.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,3,00:24.100000,BKN,81.0,PHX,84.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,4,06:53,BKN,,PHX,,C. Thomas,BKN,MISS Thomas 29' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-77,281,29,1,3.0,0.0,h
+S2223-G0817,4,05:06,BKN,,PHX,,C. Thomas,BKN,MISS Thomas 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-120,243,27,1,3.0,0.0,h
+S2223-G0817,4,04:32,BKN,,PHX,,C. Thomas,BKN,Thomas Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0817,4,02:50,BKN,,PHX,,C. Thomas,BKN,Thomas Lost Ball Turnover (P3.T17),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0817,4,01:30,BKN,,PHX,,C. Thomas,BKN,MISS Thomas Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,h
+S2223-G0817,4,01:30,BKN,100.0,PHX,109.0,C. Thomas,BKN,Thomas Free Throw 2 of 3 (31 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0817,4,01:30,BKN,101.0,PHX,109.0,C. Thomas,BKN,Thomas Free Throw 3 of 3 (32 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0817,4,01:13,BKN,,PHX,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0817,4,01:12,BKN,102.0,PHX,109.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (33 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,4,01:12,BKN,103.0,PHX,109.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (34 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,4,00:51,BKN,105.0,PHX,111.0,C. Thomas,BKN,Thomas 1' Driving Finger Roll Layup (36 PTS) (O'Neale 5 AST),Made Shot,Driving Finger Roll Layup Shot,-5,6,1,1,2.0,2.0,h
+S2223-G0817,4,00:23.400000,BKN,106.0,PHX,111.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (37 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,4,00:23.400000,BKN,107.0,PHX,111.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (38 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,4,00:11.300000,BKN,109.0,PHX,112.0,C. Thomas,BKN,Thomas 2' Driving Finger Roll Layup (40 PTS) (O'Neale 6 AST),Made Shot,Driving Finger Roll Layup Shot,-2,20,2,1,2.0,2.0,h
+S2223-G0817,4,00:07.700000,BKN,110.0,PHX,112.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (41 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,4,00:07.700000,BKN,111.0,PHX,112.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (42 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,4,00:04.100000,BKN,112.0,PHX,114.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (43 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,4,00:04.100000,BKN,,PHX,,C. Thomas,BKN,MISS Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0817,4,00:03.500000,BKN,,PHX,,C. Thomas,BKN,Thomas Personal Take Foul (P2.PN) (K.Scott),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0155,2,10:20,DAL,,BKN,,C. Thomas,BKN,MISS Thomas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0155,2,10:20,DAL,31.0,BKN,35.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0155,2,08:51,DAL,,BKN,,C. Thomas,BKN,MISS Thomas 3' Driving Layup,Missed Shot,Driving Layup Shot,22,15,3,1,2.0,0.0,v
+S2223-G0155,2,04:03,DAL,,BKN,,C. Thomas,BKN,MISS Thomas 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,126,83,15,1,2.0,0.0,v
+S2223-G0155,2,03:32,DAL,44.0,BKN,43.0,C. Thomas,BKN,Thomas 3PT Jump Shot (4 PTS),Made Shot,Jump Shot,-224,24,0,1,3.0,3.0,v
+S2223-G0155,2,02:49,DAL,46.0,BKN,44.0,C. Thomas,BKN,Thomas Free Throw 1 of 3 (5 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0155,2,02:49,DAL,46.0,BKN,45.0,C. Thomas,BKN,Thomas Free Throw 2 of 3 (6 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0155,2,02:49,DAL,46.0,BKN,46.0,C. Thomas,BKN,Thomas Free Throw 3 of 3 (7 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0155,2,01:46,DAL,,BKN,,C. Thomas,BKN,MISS Thomas 28' 3PT Jump Shot,Missed Shot,Jump Shot,-66,271,28,1,3.0,0.0,v
+S2223-G0155,2,00:35.900000,DAL,,BKN,,C. Thomas,BKN,SUB: O'Neale FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0155,3,05:55,DAL,59.0,BKN,62.0,C. Thomas,BKN,Thomas Driving Finger Roll Layup (9 PTS) (Harris 1 AST),Made Shot,Driving Finger Roll Layup Shot,-2,-4,0,1,2.0,2.0,v
+S2223-G0155,3,05:06,DAL,62.0,BKN,64.0,C. Thomas,BKN,Thomas 14' Driving Floating Jump Shot (11 PTS) (Harris 2 AST),Made Shot,Driving Floating Jump Shot,2,137,14,1,2.0,2.0,v
+S2223-G0155,3,03:38,DAL,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,-179,183,26,1,3.0,0.0,v
+S2223-G0155,3,03:15,DAL,,BKN,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0155,3,03:12,DAL,67.0,BKN,66.0,C. Thomas,BKN,Thomas 1' Running Reverse Layup (13 PTS) (O'Neale 7 AST),Made Shot,Running Reverse Layup Shot,7,0,1,1,2.0,2.0,v
+S2223-G0155,3,01:30,DAL,,BKN,,C. Thomas,BKN,MISS Thomas 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-51,115,13,1,2.0,0.0,v
+S2223-G0155,3,01:27,DAL,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0155,3,00:40.500000,DAL,,BKN,,C. Thomas,BKN,Thomas Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0155,3,00:09.300000,DAL,72.0,BKN,72.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0155,3,00:09.300000,DAL,72.0,BKN,73.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0155,4,10:09,DAL,72.0,BKN,76.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0155,4,10:09,DAL,,BKN,,C. Thomas,BKN,MISS Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0155,4,06:34,DAL,,BKN,,C. Thomas,BKN,Thomas L.B.FOUL (P1.T3) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0155,4,04:17,DAL,,BKN,,C. Thomas,BKN,MISS Thomas 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-116,178,21,1,2.0,0.0,v
+S2223-G0155,4,01:21,DAL,,BKN,,C. Thomas,BKN,MISS Thomas 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,162,143,22,1,2.0,0.0,v
+S2223-G0155,4,00:52.400000,DAL,,BKN,,C. Thomas,BKN,MISS Thomas 2' Driving Layup,Missed Shot,Driving Layup Shot,16,-6,2,1,2.0,0.0,v
+S2223-G0155,4,00:43.400000,DAL,,BKN,,C. Thomas,BKN,Thomas STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0155,4,00:26.100000,DAL,92.0,BKN,91.0,C. Thomas,BKN,Thomas 24' 3PT Pullup Jump Shot (19 PTS) (Harris 4 AST),Made Shot,Pullup Jump shot,214,109,24,1,3.0,3.0,v
+S2223-G0155,4,00:09.800000,DAL,,BKN,,C. Thomas,BKN,Thomas Personal Take Foul (P2.PN) (C.Kirkland),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0155,4,00:05.600000,DAL,,BKN,,C. Thomas,BKN,SUB: Sumner FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0266,1,01:43,TOR,23.0,BKN,34.0,C. Thomas,BKN,Thomas 18' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-113,142,18,1,2.0,2.0,v
+S2223-G0266,1,01:14,TOR,23.0,BKN,36.0,C. Thomas,BKN,Thomas 6' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,49,29,6,1,2.0,2.0,v
+S2223-G0266,1,00:52.300000,TOR,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0266,2,09:15,TOR,,BKN,,C. Thomas,BKN,MISS Thomas 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,23,145,15,1,2.0,0.0,v
+S2223-G0266,2,08:26,TOR,,BKN,,C. Thomas,BKN,Thomas L.B.FOUL (P1.T1) (S.Mehta),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0266,2,05:23,TOR,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,-211,152,26,1,3.0,0.0,v
+S2223-G0266,2,05:11,TOR,,BKN,,C. Thomas,BKN,MISS Thomas 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-28,69,7,1,2.0,0.0,v
+S2223-G0266,2,04:52,TOR,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0266,2,04:19,TOR,,BKN,,C. Thomas,BKN,MISS Thomas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0266,2,04:19,TOR,42.0,BKN,44.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0266,2,03:17,TOR,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0266,2,02:27,TOR,,BKN,,C. Thomas,BKN,Thomas Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0266,2,00:04.500000,TOR,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P2.PN) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0948,1,05:29,BOS,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0948,1,05:19,BOS,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-83,250,26,1,3.0,0.0,v
+S2223-G0948,1,04:52,BOS,,BKN,,C. Thomas,BKN,MISS Thomas 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,48,24,1,3.0,0.0,v
+S2223-G0948,1,02:36,BOS,,BKN,,C. Thomas,BKN,MISS Thomas 27' 3PT Jump Shot,Missed Shot,Jump Shot,25,266,27,1,3.0,0.0,v
+S2223-G0948,1,00:11.800000,BOS,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0948,1,00:00,BOS,,BKN,,C. Thomas,BKN,MISS Thomas 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,74,94,12,1,2.0,0.0,v
+S2223-G1031,1,01:26,OKC,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-199,168,26,1,3.0,0.0,v
+S2223-G1031,1,00:35.100000,OKC,,BKN,,C. Thomas,BKN,Thomas Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0772,1,04:16,BOS,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,219,137,26,1,3.0,0.0,v
+S2223-G0772,1,01:17,BOS,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0772,2,11:26,BOS,48.0,BKN,18.0,C. Thomas,BKN,Thomas 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-16,78,8,1,2.0,2.0,v
+S2223-G0772,2,10:18,BOS,52.0,BKN,20.0,C. Thomas,BKN,Thomas 7' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,59,43,7,1,2.0,2.0,v
+S2223-G0772,2,10:18,BOS,52.0,BKN,21.0,C. Thomas,BKN,Thomas Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0772,2,09:52,BOS,52.0,BKN,24.0,C. Thomas,BKN,Thomas 27' 3PT Jump Bank Shot (8 PTS),Made Shot,Jump Bank Shot,87,253,27,1,3.0,3.0,v
+S2223-G0772,2,09:28,BOS,54.0,BKN,26.0,C. Thomas,BKN,Thomas 11' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,-65,89,11,1,2.0,2.0,v
+S2223-G0772,2,09:19,BOS,,BKN,,C. Thomas,BKN,SUB: Harris FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0772,3,03:06,BOS,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,-169,201,26,1,3.0,0.0,v
+S2223-G0772,3,00:40.200000,BOS,,BKN,,C. Thomas,BKN,MISS Thomas Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,v
+S2223-G0772,3,00:40.200000,BOS,107.0,BKN,71.0,C. Thomas,BKN,Thomas Free Throw 2 of 3 (11 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0772,3,00:40.200000,BOS,107.0,BKN,72.0,C. Thomas,BKN,Thomas Free Throw 3 of 3 (12 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0772,3,00:24.600000,BOS,,BKN,,C. Thomas,BKN,MISS Thomas 24' 3PT Jump Shot,Missed Shot,Jump Shot,203,134,24,1,3.0,0.0,v
+S2223-G0772,4,10:21,BOS,,BKN,,C. Thomas,BKN,MISS Thomas 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-71,181,19,1,2.0,0.0,v
+S2223-G0772,4,09:27,BOS,,BKN,,C. Thomas,BKN,MISS Thomas 1' Running Layup,Missed Shot,Running Layup Shot,-1,11,1,1,2.0,0.0,v
+S2223-G0772,4,07:39,BOS,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-1,257,26,1,3.0,0.0,v
+S2223-G0772,4,07:14,BOS,,BKN,,C. Thomas,BKN,MISS Thomas 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-58,64,9,1,2.0,0.0,v
+S2223-G0772,4,05:22,BOS,127.0,BKN,82.0,C. Thomas,BKN,Thomas 17' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,110,126,17,1,2.0,2.0,v
+S2223-G0772,4,04:54,BOS,,BKN,,C. Thomas,BKN,MISS Thomas 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-4,252,25,1,3.0,0.0,v
+S2223-G0772,4,04:42,BOS,,BKN,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0772,4,03:15,BOS,129.0,BKN,88.0,C. Thomas,BKN,Thomas 1' Driving Reverse Layup (16 PTS),Made Shot,Driving Reverse Layup Shot,-10,0,1,1,2.0,2.0,v
+S2223-G0772,4,03:15,BOS,129.0,BKN,89.0,C. Thomas,BKN,Thomas Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0772,4,02:47,BOS,132.0,BKN,91.0,C. Thomas,BKN,Thomas 19' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,28,184,19,1,2.0,2.0,v
+S2223-G0772,4,01:41,BOS,,BKN,,C. Thomas,BKN,MISS Thomas 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,38,86,9,1,2.0,0.0,v
+S2223-G1118,1,03:03,ORL,,BKN,,C. Thomas,BKN,Thomas Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1118,1,01:21,ORL,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1118,1,00:38.900000,ORL,,BKN,,C. Thomas,BKN,MISS Thomas 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,127,157,20,1,2.0,0.0,v
+S2223-G1118,1,00:10.200000,ORL,24.0,BKN,25.0,C. Thomas,BKN,Thomas 18' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,-153,99,18,1,2.0,2.0,v
+S2223-G1118,2,11:12,ORL,26.0,BKN,27.0,C. Thomas,BKN,Thomas 17' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,10,168,17,1,2.0,2.0,v
+S2223-G1118,2,09:47,ORL,28.0,BKN,29.0,C. Thomas,BKN,Thomas 11' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,-9,107,11,1,2.0,2.0,v
+S2223-G1118,2,09:11,ORL,,BKN,,C. Thomas,BKN,MISS Thomas 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-107,101,15,1,2.0,0.0,v
+S2223-G1118,2,07:34,ORL,33.0,BKN,33.0,C. Thomas,BKN,Thomas 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,20,23,3,1,2.0,2.0,v
+S2223-G1118,2,07:13,ORL,,BKN,,C. Thomas,BKN,MISS Thomas 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22,123,12,1,2.0,0.0,v
+S2223-G1118,2,05:56,ORL,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,221,130,26,1,3.0,0.0,v
+S2223-G1118,2,05:42,ORL,,BKN,,C. Thomas,BKN,MISS Thomas 4' Driving Layup,Missed Shot,Driving Layup Shot,27,23,4,1,2.0,0.0,v
+S2223-G1118,2,05:10,ORL,,BKN,,C. Thomas,BKN,SUB: Bridges FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G1118,3,02:10,ORL,,BKN,,C. Thomas,BKN,Thomas Traveling Turnover (P2.T11),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1118,3,01:50,ORL,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1118,4,11:45,ORL,,BKN,,C. Thomas,BKN,Thomas Traveling Turnover (P3.T14),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1118,4,10:12,ORL,96.0,BKN,81.0,C. Thomas,BKN,Thomas 16' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,71,138,16,1,2.0,2.0,v
+S2223-G1118,4,10:12,ORL,96.0,BKN,82.0,C. Thomas,BKN,Thomas Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1118,4,09:38,ORL,,BKN,,C. Thomas,BKN,MISS Thomas 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-97,234,25,1,3.0,0.0,v
+S2223-G1118,4,08:26,ORL,,BKN,,C. Thomas,BKN,MISS Thomas 27' 3PT Jump Shot,Missed Shot,Jump Shot,123,235,27,1,3.0,0.0,v
+S2223-G1118,4,07:55,ORL,104.0,BKN,86.0,C. Thomas,BKN,Thomas 9' Driving Floating Bank Jump Shot (13 PTS) (Claxton 2 AST),Made Shot,Driving Floating Bank Jump Shot,79,44,9,1,2.0,2.0,v
+S2223-G1118,4,07:55,ORL,104.0,BKN,87.0,C. Thomas,BKN,Thomas Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1118,4,07:24,ORL,,BKN,,C. Thomas,BKN,Thomas P.FOUL (P1.T3) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G1118,4,06:42,ORL,108.0,BKN,92.0,C. Thomas,BKN,Thomas 4' Driving Floating Bank Jump Shot (16 PTS),Made Shot,Driving Floating Bank Jump Shot,34,25,4,1,2.0,2.0,v
+S2223-G1118,4,06:08,ORL,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P2.T4) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G1118,4,04:50,ORL,113.0,BKN,98.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1118,4,04:50,ORL,113.0,BKN,99.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1118,4,04:17,ORL,,BKN,,C. Thomas,BKN,MISS Thomas 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,232,51,24,1,3.0,0.0,v
+S2223-G1118,4,02:26,ORL,,BKN,,C. Thomas,BKN,MISS Thomas 21' Jump Shot,Missed Shot,Jump Shot,64,205,21,1,2.0,0.0,v
+S2223-G0924,1,04:36,BKN,,MIL,,C. Thomas,BKN,MISS Thomas 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-140,203,25,1,3.0,0.0,h
+S2223-G0924,1,02:31,BKN,,MIL,,C. Thomas,BKN,MISS Thomas 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,75,78,11,1,2.0,0.0,h
+S2223-G0924,1,01:58,BKN,,MIL,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0924,1,00:51.200000,BKN,33.0,MIL,20.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0924,1,00:51.200000,BKN,34.0,MIL,20.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0924,1,00:36.200000,BKN,,MIL,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0924,1,00:31.700000,BKN,,MIL,,C. Thomas,BKN,Thomas Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0924,1,00:09.300000,BKN,,MIL,,C. Thomas,BKN,SUB: Bridges FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0924,2,02:07,BKN,,MIL,,C. Thomas,BKN,MISS Thomas 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,67,245,25,1,3.0,0.0,h
+S2223-G0924,2,00:37.100000,BKN,,MIL,,C. Thomas,BKN,SUB: Claxton FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0924,3,01:33,BKN,,MIL,,C. Thomas,BKN,MISS Thomas 3' Running Layup,Missed Shot,Running Layup Shot,25,-1,3,1,2.0,0.0,h
+S2223-G0924,3,00:37.600000,BKN,,MIL,,C. Thomas,BKN,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-15,257,26,1,3.0,0.0,h
+S2223-G0924,3,00:12.800000,BKN,,MIL,,C. Thomas,BKN,SUB: Finney-Smith FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0924,4,09:50,BKN,,MIL,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0924,4,08:34,BKN,,MIL,,C. Thomas,BKN,MISS Thomas 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-6,159,16,1,2.0,0.0,h
+S2223-G0924,4,07:52,BKN,,MIL,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0924,4,05:24,BKN,,MIL,,C. Thomas,BKN,Thomas Lost Ball Turnover (P2.T17),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0924,4,03:46,BKN,,MIL,,C. Thomas,BKN,MISS Thomas 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,64,200,21,1,2.0,0.0,h
+S2223-G0924,4,03:04,BKN,,MIL,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0123,1,04:32,WAS,,BKN,,C. Thomas,BKN,MISS Thomas 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,146,55,16,1,2.0,0.0,v
+S2223-G0123,1,02:21,WAS,26.0,BKN,30.0,C. Thomas,BKN,Thomas 4' Driving Layup (2 PTS) (Durant 4 AST),Made Shot,Driving Layup Shot,-36,16,4,1,2.0,2.0,v
+S2223-G0123,2,06:41,WAS,41.0,BKN,51.0,C. Thomas,BKN,Thomas 20' Pullup Jump Shot (4 PTS) (Durant 6 AST),Made Shot,Pullup Jump shot,-148,129,20,1,2.0,2.0,v
+S2223-G0123,2,05:16,WAS,45.0,BKN,56.0,C. Thomas,BKN,Thomas 26' 3PT Jump Shot (7 PTS) (Durant 7 AST),Made Shot,Jump Shot,126,227,26,1,3.0,3.0,v
+S2223-G0123,2,03:22,WAS,,BKN,,C. Thomas,BKN,MISS Thomas 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,124,142,19,1,2.0,0.0,v
+S2223-G0123,3,05:59,WAS,64.0,BKN,87.0,C. Thomas,BKN,Thomas 8' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,-58,60,8,1,2.0,2.0,v
+S2223-G0123,3,04:51,WAS,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0123,3,04:30,WAS,,BKN,,C. Thomas,BKN,MISS Thomas 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-134,43,14,1,2.0,0.0,v
+S2223-G0123,3,03:02,WAS,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0123,3,02:47,WAS,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,143,221,26,1,3.0,0.0,v
+S2223-G0123,3,02:10,WAS,,BKN,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0123,3,01:16,WAS,,BKN,,C. Thomas,BKN,MISS Thomas 8' Driving Layup,Missed Shot,Driving Layup Shot,-71,42,8,1,2.0,0.0,v
+S2223-G0123,4,10:50,WAS,,BKN,,C. Thomas,BKN,MISS Thomas 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,16,94,10,1,2.0,0.0,v
+S2223-G0123,4,10:22,WAS,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0123,4,07:45,WAS,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0123,4,06:13,WAS,,BKN,,C. Thomas,BKN,Thomas P.FOUL (P1.T2) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0123,4,05:24,WAS,78.0,BKN,118.0,C. Thomas,BKN,Thomas 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,22,22,3,1,2.0,2.0,v
+S2223-G0123,4,05:24,WAS,78.0,BKN,119.0,C. Thomas,BKN,Thomas Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0123,4,04:58,WAS,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P2.T4) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0123,4,04:03,WAS,82.0,BKN,124.0,C. Thomas,BKN,Thomas 27' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,-207,175,27,1,3.0,3.0,v
+S2223-G0123,4,03:24,WAS,,BKN,,C. Thomas,BKN,MISS Thomas 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-23,275,28,1,3.0,0.0,v
+S2223-G0123,4,02:11,WAS,86.0,BKN,127.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0123,4,02:11,WAS,86.0,BKN,128.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0965,1,02:32,BKN,,CHA,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0965,1,01:37,BKN,,CHA,,C. Thomas,BKN,MISS Thomas 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-89,186,21,1,2.0,0.0,h
+S2223-G0965,2,01:08,BKN,66.0,CHA,39.0,C. Thomas,BKN,Thomas 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-22,99,10,1,2.0,2.0,h
+S2223-G0965,2,00:44.500000,BKN,,CHA,,C. Thomas,BKN,MISS Thomas 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,81,142,16,1,2.0,0.0,h
+S2223-G0965,2,00:37.700000,BKN,68.0,CHA,39.0,C. Thomas,BKN,Thomas 2' Driving Layup (4 PTS) (Bridges 2 AST),Made Shot,Driving Layup Shot,10,15,2,1,2.0,2.0,h
+S2223-G0965,2,00:25.300000,BKN,,CHA,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0965,2,00:08.600000,BKN,,CHA,,C. Thomas,BKN,SUB: Finney-Smith FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G1180,2,10:42,BKN,,MIN,,C. Thomas,BKN,MISS Thomas 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-42,80,9,1,2.0,0.0,h
+S2223-G1180,2,09:00,BKN,,MIN,,C. Thomas,BKN,Thomas Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1180,2,07:14,BKN,,MIN,,C. Thomas,BKN,MISS Thomas 3PT Jump Shot,Missed Shot,Jump Shot,-229,41,0,1,3.0,0.0,h
+S2223-G1180,2,07:04,BKN,,MIN,,C. Thomas,BKN,SUB: Bridges FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0210,1,02:13,SAC,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0210,1,02:06,SAC,30.0,BKN,24.0,C. Thomas,BKN,Thomas 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,25,7,3,1,2.0,2.0,v
+S2223-G0210,2,10:54,SAC,,BKN,,C. Thomas,BKN,Thomas Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0210,2,09:48,SAC,38.0,BKN,36.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0210,2,09:48,SAC,38.0,BKN,37.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0210,2,09:26,SAC,,BKN,,C. Thomas,BKN,SUB: Mills FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0210,3,01:35,SAC,,BKN,,C. Thomas,BKN,MISS Thomas 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-89,79,12,1,2.0,0.0,v
+S2223-G0210,4,10:59,SAC,117.0,BKN,87.0,C. Thomas,BKN,Thomas 25' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,-70,240,25,1,3.0,3.0,v
+S2223-G0210,4,08:12,SAC,,BKN,,C. Thomas,BKN,MISS Thomas 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-116,222,25,1,3.0,0.0,v
+S2223-G0210,4,06:51,SAC,131.0,BKN,96.0,C. Thomas,BKN,Thomas 16' Pullup Jump Shot (9 PTS) (Sharpe 3 AST),Made Shot,Pullup Jump shot,157,43,16,1,2.0,2.0,v
+S2223-G0210,4,05:14,SAC,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0210,4,04:28,SAC,,BKN,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0210,4,04:24,SAC,,BKN,,C. Thomas,BKN,Thomas Bad Pass Turnover (P2.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0210,4,04:09,SAC,,BKN,,C. Thomas,BKN,MISS Thomas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0210,4,04:09,SAC,137.0,BKN,106.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0210,4,02:09,SAC,,BKN,,C. Thomas,BKN,MISS Thomas 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,65,41,8,1,2.0,0.0,v
+S2223-G0210,4,01:42,SAC,146.0,BKN,116.0,C. Thomas,BKN,Thomas 2' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,-16,3,2,1,2.0,2.0,v
+S2223-G0210,4,00:45.900000,SAC,,BKN,,C. Thomas,BKN,MISS Thomas 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-36,104,11,1,2.0,0.0,v
+S2223-G0302,2,05:01,BKN,38.0,ORL,35.0,C. Thomas,BKN,Thomas 19' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,-10,193,19,1,2.0,2.0,h
+S2223-G0302,2,01:27,BKN,,ORL,,C. Thomas,BKN,Thomas P.FOUL (P1.PN) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2223-G0302,2,01:01,BKN,,ORL,,C. Thomas,BKN,MISS Thomas 4' Driving Layup,Missed Shot,Driving Layup Shot,31,25,4,1,2.0,0.0,h
+S2223-G0302,2,00:33.900000,BKN,,ORL,,C. Thomas,BKN,SUB: O'Neale FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0302,3,00:00,BKN,,ORL,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0302,4,11:32,BKN,,ORL,,C. Thomas,BKN,Thomas S.FOUL (P2.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G0302,4,09:55,BKN,,ORL,,C. Thomas,BKN,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,2,263,26,1,3.0,0.0,h
+S2223-G0302,4,09:09,BKN,,ORL,,C. Thomas,BKN,SUB: Durant FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0911,1,04:55,ATL,,BKN,,C. Thomas,BKN,MISS Thomas 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,49,150,16,1,2.0,0.0,v
+S2223-G0911,1,02:58,ATL,,BKN,,C. Thomas,BKN,MISS Thomas 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-120,20,12,1,2.0,0.0,v
+S2223-G0911,1,01:11,ATL,35.0,BKN,28.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0911,1,01:11,ATL,35.0,BKN,29.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0911,1,00:57.900000,ATL,,BKN,,C. Thomas,BKN,Thomas P.FOUL (P1.PN) (D.Mosher),Foul,Personal,0,0,0,0,,,v
+S2223-G0911,1,00:30.400000,ATL,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0911,2,05:27,ATL,,BKN,,C. Thomas,BKN,MISS Thomas 1' Driving Layup,Missed Shot,Driving Layup Shot,-13,1,1,1,2.0,0.0,v
+S2223-G0911,2,05:13,ATL,57.0,BKN,41.0,C. Thomas,BKN,Thomas 2' Running Reverse Layup (4 PTS) (Finney-Smith 2 AST),Made Shot,Running Reverse Layup Shot,17,9,2,1,2.0,2.0,v
+S2223-G0911,2,04:50,ATL,58.0,BKN,43.0,C. Thomas,BKN,Thomas 9' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,37,87,9,1,2.0,2.0,v
+S2223-G0911,2,04:21,ATL,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0911,2,03:36,ATL,58.0,BKN,46.0,C. Thomas,BKN,Thomas 3PT Running Jump Shot (9 PTS) (Dinwiddie 4 AST),Made Shot,Running Jump Shot,232,19,0,1,3.0,3.0,v
+S2223-G0911,2,03:09,ATL,,BKN,,C. Thomas,BKN,MISS Thomas 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,37,56,7,1,2.0,0.0,v
+S2223-G0911,2,02:48,ATL,,BKN,,C. Thomas,BKN,MISS Thomas 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,180,174,25,1,3.0,0.0,v
+S2223-G0911,2,02:33,ATL,,BKN,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0911,2,02:25,ATL,58.0,BKN,48.0,C. Thomas,BKN,Thomas 1' Running Reverse Layup (11 PTS),Made Shot,Running Reverse Layup Shot,-1,6,1,1,2.0,2.0,v
+S2223-G0911,2,02:06,ATL,59.0,BKN,50.0,C. Thomas,BKN,Thomas 2' Jump Bank Shot (13 PTS),Made Shot,Jump Bank Shot,-4,16,2,1,2.0,2.0,v
+S2223-G0911,2,00:08,ATL,,BKN,,C. Thomas,BKN,MISS Thomas 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,129,142,19,1,2.0,0.0,v
+S2223-G0911,3,02:06,ATL,,BKN,,C. Thomas,BKN,MISS Thomas 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-26,116,12,1,2.0,0.0,v
+S2223-G0911,3,01:10,ATL,89.0,BKN,91.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0911,3,01:10,ATL,89.0,BKN,92.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0911,3,00:37.600000,ATL,93.0,BKN,94.0,C. Thomas,BKN,Thomas 20' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,123,158,20,1,2.0,2.0,v
+S2223-G0911,3,00:10.400000,ATL,,BKN,,C. Thomas,BKN,Thomas Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0911,3,00:00.500000,ATL,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,173,194,26,1,3.0,0.0,v
+S2223-G0911,4,06:21,ATL,110.0,BKN,104.0,C. Thomas,BKN,Thomas Free Throw 1 of 3 (18 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0911,4,06:21,ATL,110.0,BKN,105.0,C. Thomas,BKN,Thomas Free Throw 2 of 3 (19 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0911,4,06:21,ATL,110.0,BKN,106.0,C. Thomas,BKN,Thomas Free Throw 3 of 3 (20 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0911,4,03:26,ATL,,BKN,,C. Thomas,BKN,SUB: Claxton FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0911,4,02:18,ATL,,BKN,,C. Thomas,BKN,Thomas STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0911,4,02:13,ATL,121.0,BKN,118.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0911,4,02:13,ATL,121.0,BKN,119.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0911,4,01:35,ATL,,BKN,,C. Thomas,BKN,Thomas Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0911,4,01:31,ATL,,BKN,,C. Thomas,BKN,Thomas Violation:Defensive Goaltending (T.Ford),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0911,4,00:47.600000,ATL,,BKN,,C. Thomas,BKN,SUB: Claxton FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0403,1,00:39.700000,WAS,,BKN,,C. Thomas,BKN,MISS Thomas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0403,1,00:39.700000,WAS,23.0,BKN,29.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0403,2,02:53,WAS,,BKN,,C. Thomas,BKN,MISS Thomas 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,58,106,12,1,2.0,0.0,v
+S2223-G0403,3,00:30.800000,WAS,,BKN,,C. Thomas,BKN,MISS Thomas 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-36,70,8,1,2.0,0.0,v
+S2223-G0403,4,07:27,WAS,,BKN,,C. Thomas,BKN,MISS Thomas 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-181,76,20,1,2.0,0.0,v
+S2223-G0403,4,06:28,WAS,92.0,BKN,103.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0403,4,06:28,WAS,92.0,BKN,104.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0403,4,04:28,WAS,96.0,BKN,106.0,C. Thomas,BKN,Thomas 8' Driving Floating Jump Shot (5 PTS) (Durant 6 AST),Made Shot,Driving Floating Jump Shot,47,65,8,1,2.0,2.0,v
+S2223-G0403,4,04:05,WAS,,BKN,,C. Thomas,BKN,SUB: Simmons FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0878,2,09:39,BKN,30.0,MIA,29.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0878,2,09:39,BKN,31.0,MIA,29.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0878,2,09:06,BKN,33.0,MIA,31.0,C. Thomas,BKN,Thomas 12' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,115,2,12,1,2.0,2.0,h
+S2223-G0878,2,08:36,BKN,,MIA,,C. Thomas,BKN,MISS Thomas 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-28,113,12,1,2.0,0.0,h
+S2223-G0878,2,07:24,BKN,36.0,MIA,33.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0878,2,07:24,BKN,37.0,MIA,33.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0878,2,07:13,BKN,,MIA,,C. Thomas,BKN,Thomas S.FOUL (P1.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0878,2,06:56,BKN,39.0,MIA,35.0,C. Thomas,BKN,Thomas 10' Floating Jump Shot (8 PTS),Made Shot,Floating Jump shot,-65,75,10,1,2.0,2.0,h
+S2223-G0878,2,05:44,BKN,42.0,MIA,40.0,C. Thomas,BKN,Thomas 25' 3PT Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,-64,246,25,1,3.0,3.0,h
+S2223-G0878,2,05:20,BKN,,MIA,,C. Thomas,BKN,Thomas Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0878,2,03:54,BKN,,MIA,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0878,2,03:49,BKN,,MIA,,C. Thomas,BKN,MISS Thomas 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-88,237,25,1,3.0,0.0,h
+S2223-G0878,2,01:33,BKN,,MIA,,C. Thomas,BKN,SUB: Harris FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0878,3,06:15,BKN,,MIA,,C. Thomas,BKN,Thomas P.FOUL (P2.T4) (D.Richardson),Foul,Personal,0,0,0,0,,,h
+S2223-G0878,3,06:01,BKN,67.0,MIA,67.0,C. Thomas,BKN,Thomas 25' 3PT Jump Shot (14 PTS) (Finney-Smith 1 AST),Made Shot,Jump Shot,146,205,25,1,3.0,3.0,h
+S2223-G0878,3,05:24,BKN,,MIA,,C. Thomas,BKN,Thomas OFF.Foul (P3) (S.Foster),Foul,Offensive,0,0,0,0,,,h
+S2223-G0878,3,05:24,BKN,,MIA,,C. Thomas,BKN,Thomas Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0878,3,04:32,BKN,70.0,MIA,70.0,C. Thomas,BKN,Thomas 25' 3PT Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,214,124,25,1,3.0,3.0,h
+S2223-G0878,3,03:32,BKN,,MIA,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0878,3,02:44,BKN,,MIA,,C. Thomas,BKN,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,86,243,26,1,3.0,0.0,h
+S2223-G0878,3,02:15,BKN,,MIA,,C. Thomas,BKN,MISS Thomas 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-48,120,13,1,2.0,0.0,h
+S2223-G0878,3,00:17.800000,BKN,,MIA,,C. Thomas,BKN,SUB: Johnson FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0878,4,10:13,BKN,,MIA,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0878,4,10:04,BKN,88.0,MIA,84.0,C. Thomas,BKN,Thomas 19' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,135,131,19,1,2.0,2.0,h
+S2223-G0878,4,09:15,BKN,,MIA,,C. Thomas,BKN,MISS Thomas 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,112,26,11,1,2.0,0.0,h
+S2223-G0878,4,09:00,BKN,,MIA,,C. Thomas,BKN,SUB: Bridges FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0862,2,10:18,NYK,39.0,BKN,33.0,C. Thomas,BKN,Thomas 19' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,119,145,19,1,2.0,2.0,v
+S2223-G0862,2,09:53,NYK,,BKN,,C. Thomas,BKN,MISS Thomas 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-7,22,2,1,2.0,0.0,v
+S2223-G0862,2,08:32,NYK,44.0,BKN,40.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0862,2,08:32,NYK,,BKN,,C. Thomas,BKN,MISS Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0862,2,08:13,NYK,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0862,2,07:24,NYK,45.0,BKN,41.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0862,2,07:24,NYK,45.0,BKN,42.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0862,2,04:57,NYK,49.0,BKN,50.0,C. Thomas,BKN,Thomas 5' Driving Floating Jump Shot (7 PTS) (Sharpe 1 AST),Made Shot,Driving Floating Jump Shot,36,27,5,1,2.0,2.0,v
+S2223-G0862,2,03:24,NYK,,BKN,,C. Thomas,BKN,MISS Thomas 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,39,45,6,1,2.0,0.0,v
+S2223-G0862,2,02:45,NYK,,BKN,,C. Thomas,BKN,MISS Thomas 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-58,4,6,1,2.0,0.0,v
+S2223-G0862,2,02:30,NYK,,BKN,,C. Thomas,BKN,SUB: Johnson FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0862,3,04:27,NYK,,BKN,,C. Thomas,BKN,MISS Thomas 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,76,126,15,1,2.0,0.0,v
+S2223-G0862,3,02:38,NYK,,BKN,,C. Thomas,BKN,MISS Thomas 4' Driving Layup,Missed Shot,Driving Layup Shot,-36,4,4,1,2.0,0.0,v
+S2223-G0862,3,01:18,NYK,,BKN,,C. Thomas,BKN,MISS Thomas 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-110,42,12,1,2.0,0.0,v
+S2223-G0862,3,00:31.400000,NYK,,BKN,,C. Thomas,BKN,SUB: Claxton FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0862,4,04:19,NYK,,BKN,,C. Thomas,BKN,Thomas P.FOUL (P1.PN) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0198,1,06:00,LAL,15.0,BKN,9.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0198,1,06:00,LAL,15.0,BKN,10.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0198,1,04:37,LAL,22.0,BKN,16.0,C. Thomas,BKN,Thomas 13' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,87,94,13,1,2.0,2.0,v
+S2223-G0198,1,04:15,LAL,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0198,1,04:12,LAL,,BKN,,C. Thomas,BKN,MISS Thomas 21' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-2,206,21,1,2.0,0.0,v
+S2223-G0198,1,03:38,LAL,22.0,BKN,20.0,C. Thomas,BKN,Thomas 2' Driving Layup (6 PTS) (Watanabe 1 AST),Made Shot,Driving Layup Shot,16,1,2,1,2.0,2.0,v
+S2223-G0198,1,01:50,LAL,25.0,BKN,22.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0198,1,01:50,LAL,,BKN,,C. Thomas,BKN,MISS Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0198,1,01:08,LAL,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0198,1,00:30.400000,LAL,,BKN,,C. Thomas,BKN,MISS Thomas 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-72,65,10,1,2.0,0.0,v
+S2223-G0198,1,00:09.900000,LAL,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0198,2,09:11,LAL,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-42,252,26,1,3.0,0.0,v
+S2223-G0198,2,07:38,LAL,,BKN,,C. Thomas,BKN,SUB: Harris FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0198,3,05:29,LAL,,BKN,,C. Thomas,BKN,MISS Thomas 33' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,156,295,33,1,3.0,0.0,v
+S2223-G0198,3,04:59,LAL,72.0,BKN,60.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0198,3,04:59,LAL,72.0,BKN,61.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0198,3,00:59.700000,LAL,,BKN,,C. Thomas,BKN,MISS Thomas 1' Driving Layup,Missed Shot,Driving Layup Shot,-12,8,1,1,2.0,0.0,v
+S2223-G0198,4,10:04,LAL,,BKN,,C. Thomas,BKN,SUB: O'Neale FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0198,4,01:48,LAL,,BKN,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0198,4,01:46,LAL,111.0,BKN,99.0,C. Thomas,BKN,Thomas 1' Running Layup (11 PTS),Made Shot,Running Layup Shot,1,8,1,1,2.0,2.0,v
+S2223-G0198,4,01:28,LAL,,BKN,,C. Thomas,BKN,Thomas Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0198,4,00:41.900000,LAL,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0198,4,00:38.300000,LAL,116.0,BKN,101.0,C. Thomas,BKN,Thomas 4' Running Layup (13 PTS),Made Shot,Running Layup Shot,12,35,4,1,2.0,2.0,v
+S2223-G0198,4,00:38.300000,LAL,,BKN,,C. Thomas,BKN,MISS Thomas Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0198,4,00:20.500000,LAL,116.0,BKN,102.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0198,4,00:20.500000,LAL,116.0,BKN,103.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0731,1,02:54,BKN,,DET,,C. Thomas,BKN,MISS Thomas 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-105,53,12,1,2.0,0.0,h
+S2223-G0731,1,01:29,BKN,,DET,,C. Thomas,BKN,Thomas Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0731,1,00:55.600000,BKN,,DET,,C. Thomas,BKN,SUB: Mills FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0793,1,04:16,BKN,,,,C. Thomas,BKN,Thomas Double Dribble Turnover (P1.T3),Turnover,Double Dribble,0,0,0,0,,,h
+S2223-G0793,1,03:52,BKN,,,,C. Thomas,BKN,MISS Thomas 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,92,82,12,1,2.0,0.0,h
+S2223-G0793,1,03:49,BKN,,,,C. Thomas,BKN,Thomas REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0793,1,03:46,BKN,19.0,,34.0,C. Thomas,BKN,Thomas 10' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,56,85,10,1,2.0,2.0,h
+S2223-G0793,1,03:06,BKN,,,,C. Thomas,BKN,Thomas Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0793,1,02:51,BKN,,,,C. Thomas,BKN,MISS Thomas 4' Driving Layup,Missed Shot,Driving Layup Shot,39,6,4,1,2.0,0.0,h
+S2223-G0793,1,02:13,BKN,21.0,,39.0,C. Thomas,BKN,Thomas 10' Pullup Jump Shot (4 PTS) (Claxton 2 AST),Made Shot,Pullup Jump shot,-88,48,10,1,2.0,2.0,h
+S2223-G0793,1,00:54,BKN,,,,C. Thomas,BKN,Thomas Bad Pass Turnover (P3.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0793,1,00:35.200000,BKN,22.0,,44.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0793,1,00:35.200000,BKN,23.0,,44.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0793,1,00:04.300000,BKN,25.0,,44.0,C. Thomas,BKN,Thomas 2' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,-16,3,2,1,2.0,2.0,h
+S2223-G0793,2,11:09,BKN,27.0,,46.0,C. Thomas,BKN,Thomas 1' Running Layup (10 PTS),Made Shot,Running Layup Shot,-11,9,1,1,2.0,2.0,h
+S2223-G0793,2,11:09,BKN,28.0,,46.0,C. Thomas,BKN,Thomas Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0793,2,10:45,BKN,,,,C. Thomas,BKN,MISS Thomas 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-18,266,27,1,3.0,0.0,h
+S2223-G0793,2,08:48,BKN,,,,C. Thomas,BKN,SUB: Curry FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0793,2,02:47,BKN,47.0,,66.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0793,2,02:47,BKN,,,,C. Thomas,BKN,MISS Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0793,2,02:26,BKN,,,,C. Thomas,BKN,Thomas REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0793,2,01:28,BKN,52.0,,68.0,C. Thomas,BKN,Thomas 13' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,104,84,13,1,2.0,2.0,h
+S2223-G0793,2,00:53.800000,BKN,,,,C. Thomas,BKN,MISS Thomas 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,29,121,12,1,2.0,0.0,h
+S2223-G0793,2,00:52.500000,BKN,,,,C. Thomas,BKN,Thomas REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0793,3,05:17,BKN,,,,C. Thomas,BKN,Thomas REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0793,3,02:47,BKN,84.0,,95.0,C. Thomas,BKN,Thomas 25' 3PT Pullup Jump Shot (17 PTS) (Claxton 5 AST),Made Shot,Pullup Jump shot,213,131,25,1,3.0,3.0,h
+S2223-G0793,3,02:47,BKN,85.0,,95.0,C. Thomas,BKN,Thomas Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0793,3,01:48,BKN,88.0,,98.0,C. Thomas,BKN,Thomas 26' 3PT Jump Shot (21 PTS) (Sumner 3 AST),Made Shot,Jump Shot,-27,258,26,1,3.0,3.0,h
+S2223-G0793,3,01:12,BKN,,,,C. Thomas,BKN,Thomas Lost Ball Turnover (P4.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0793,3,00:39.200000,BKN,89.0,,98.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0793,3,00:39.200000,BKN,90.0,,98.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0793,3,00:13,BKN,92.0,,99.0,C. Thomas,BKN,Thomas 10' Pullup Jump Shot (25 PTS),Made Shot,Pullup Jump shot,-70,76,10,1,2.0,2.0,h
+S2223-G0793,4,09:53,BKN,97.0,,99.0,C. Thomas,BKN,Thomas 26' 3PT Running Pull-Up Jump Shot (28 PTS),Made Shot,Running Pull-Up Jump Shot,109,235,26,1,3.0,3.0,h
+S2223-G0793,4,09:23,BKN,,,,C. Thomas,BKN,MISS Thomas 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22,70,7,1,2.0,0.0,h
+S2223-G0793,4,06:45,BKN,107.0,,109.0,C. Thomas,BKN,Thomas 1' Driving Layup (30 PTS),Made Shot,Driving Layup Shot,-5,-5,1,1,2.0,2.0,h
+S2223-G0793,4,06:24,BKN,109.0,,109.0,C. Thomas,BKN,Thomas Running Dunk (32 PTS),Made Shot,Running Dunk Shot,2,0,0,1,2.0,2.0,h
+S2223-G0793,4,05:46,BKN,112.0,,110.0,C. Thomas,BKN,Thomas 25' 3PT Step Back Jump Shot (35 PTS),Made Shot,Step Back Jump shot,-170,190,25,1,3.0,3.0,h
+S2223-G0793,4,04:32,BKN,,,,C. Thomas,BKN,MISS Thomas 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,45,18,5,1,2.0,0.0,h
+S2223-G0793,4,03:26,BKN,114.0,,112.0,C. Thomas,BKN,Thomas 8' Driving Floating Jump Shot (37 PTS),Made Shot,Driving Floating Jump Shot,-22,73,8,1,2.0,2.0,h
+S2223-G0793,4,02:05,BKN,118.0,,117.0,C. Thomas,BKN,Thomas 1' Driving Layup (39 PTS),Made Shot,Driving Layup Shot,5,8,1,1,2.0,2.0,h
+S2223-G0793,4,01:18,BKN,,,,C. Thomas,BKN,MISS Thomas 9' Floating Jump Shot,Missed Shot,Floating Jump shot,70,52,9,1,2.0,0.0,h
+S2223-G0793,4,00:45.900000,BKN,,,,C. Thomas,BKN,Thomas S.FOUL (P1.PN) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0793,4,00:39.200000,BKN,122.0,,121.0,C. Thomas,BKN,Thomas 20' Pullup Jump Shot (41 PTS),Made Shot,Pullup Jump shot,17,201,20,1,2.0,2.0,h
+S2223-G0793,4,00:12.200000,BKN,124.0,,123.0,C. Thomas,BKN,Thomas 3' Driving Layup (43 PTS),Made Shot,Driving Layup Shot,-25,18,3,1,2.0,2.0,h
+S2223-G0793,4,00:12.200000,BKN,125.0,,123.0,C. Thomas,BKN,Thomas Free Throw 1 of 1 (44 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0793,4,00:07.300000,BKN,,,,C. Thomas,BKN,Thomas P.FOUL (P2.PN) (D.Mosher),Foul,Personal,0,0,0,0,,,h
+S2223-G0793,4,00:02.300000,BKN,,,,C. Thomas,BKN,Thomas REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0681,1,03:24,PHX,,BKN,,C. Thomas,BKN,MISS Thomas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0681,1,03:24,PHX,25.0,BKN,21.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0681,1,01:36,PHX,30.0,BKN,25.0,C. Thomas,BKN,Thomas 15' Pullup Jump Shot (3 PTS) (Simmons 4 AST),Made Shot,Pullup Jump shot,47,146,15,1,2.0,2.0,v
+S2223-G0681,1,00:06.600000,PHX,35.0,BKN,28.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0681,1,00:06.600000,PHX,35.0,BKN,29.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0681,2,11:49,PHX,35.0,BKN,31.0,C. Thomas,BKN,Thomas 15' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,105,104,15,1,2.0,2.0,v
+S2223-G0681,2,11:32,PHX,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0681,2,10:58,PHX,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P2.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0681,2,10:40,PHX,,BKN,,C. Thomas,BKN,MISS Thomas 9' Step Back Jump Shot,Missed Shot,Step Back Jump shot,74,51,9,1,2.0,0.0,v
+S2223-G0681,2,09:18,PHX,,BKN,,C. Thomas,BKN,SUB: Irving FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0681,2,03:06,PHX,,BKN,,C. Thomas,BKN,MISS Thomas 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-228,3,0,1,3.0,0.0,v
+S2223-G0681,2,02:10,PHX,61.0,BKN,49.0,C. Thomas,BKN,Thomas 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,13,9,2,1,2.0,2.0,v
+S2223-G0681,2,00:36.100000,PHX,64.0,BKN,51.0,C. Thomas,BKN,Thomas 1' Running Reverse Layup (11 PTS) (Morris 1 AST),Made Shot,Running Reverse Layup Shot,-2,8,1,1,2.0,2.0,v
+S2223-G0681,2,00:01.900000,PHX,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-88,247,26,1,3.0,0.0,v
+S2223-G0681,3,02:39,PHX,88.0,BKN,71.0,C. Thomas,BKN,Thomas 17' Fadeaway Jumper (13 PTS),Made Shot,Fadeaway Jump Shot,-13,173,17,1,2.0,2.0,v
+S2223-G0681,3,01:30,PHX,,BKN,,C. Thomas,BKN,MISS Thomas 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,45,54,7,1,2.0,0.0,v
+S2223-G0681,3,01:13,PHX,,BKN,,C. Thomas,BKN,MISS Thomas 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-22,54,6,1,2.0,0.0,v
+S2223-G0681,3,00:00.500000,PHX,94.0,BKN,74.0,C. Thomas,BKN,Thomas 12' Driving Hook Shot (15 PTS),Made Shot,Driving Hook Shot,1,121,12,1,2.0,2.0,v
+S2223-G0290,2,06:24,BKN,,POR,,C. Thomas,BKN,MISS Thomas 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,65,81,10,1,2.0,0.0,h
+S2223-G0290,2,05:53,BKN,37.0,POR,40.0,C. Thomas,BKN,Thomas 8' Driving Floating Jump Shot (2 PTS) (O'Neale 2 AST),Made Shot,Driving Floating Jump Shot,-39,71,8,1,2.0,2.0,h
+S2223-G0290,2,05:32,BKN,,POR,,C. Thomas,BKN,Thomas S.FOUL (P1.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0290,2,04:03,BKN,,POR,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0290,2,01:54,BKN,,POR,,C. Thomas,BKN,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-154,210,26,1,3.0,0.0,h
+S2223-G0290,2,01:17,BKN,,POR,,C. Thomas,BKN,MISS Thomas 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,22,10,2,1,2.0,0.0,h
+S2223-G0290,2,00:57.900000,BKN,,POR,,C. Thomas,BKN,SUB: Sumner FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0833,1,11:39,BKN,,CHI,,C. Thomas,BKN,MISS Thomas 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,119,26,12,1,2.0,0.0,h
+S2223-G0833,1,09:41,BKN,,CHI,,C. Thomas,BKN,MISS Thomas 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-105,224,25,1,3.0,0.0,h
+S2223-G0833,1,08:08,BKN,,CHI,,C. Thomas,BKN,MISS Thomas 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,94,189,21,1,2.0,0.0,h
+S2223-G0833,1,07:54,BKN,,CHI,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,1,06:14,BKN,,CHI,,C. Thomas,BKN,SUB: Mills FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0833,1,01:02,BKN,,CHI,,C. Thomas,BKN,MISS Thomas 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-25,122,12,1,2.0,0.0,h
+S2223-G0833,1,00:09.500000,BKN,,CHI,,C. Thomas,BKN,MISS Thomas 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,50,75,9,1,2.0,0.0,h
+S2223-G0833,2,11:21,BKN,,CHI,,C. Thomas,BKN,Thomas Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0833,2,10:52,BKN,,CHI,,C. Thomas,BKN,MISS Thomas 3' Driving Layup,Missed Shot,Driving Layup Shot,22,14,3,1,2.0,0.0,h
+S2223-G0833,2,10:10,BKN,,CHI,,C. Thomas,BKN,SUB: Dinwiddie FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0833,2,03:17,BKN,,CHI,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,2,00:45.900000,BKN,,CHI,,C. Thomas,BKN,Thomas Traveling Turnover (P2.T6),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0833,3,10:03,BKN,62.0,CHI,52.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0833,3,10:03,BKN,63.0,CHI,52.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0833,3,08:00,BKN,,CHI,,C. Thomas,BKN,Thomas OFF.Foul (P1) (M.Ervin),Foul,Offensive,0,0,0,0,,,h
+S2223-G0833,3,08:00,BKN,,CHI,,C. Thomas,BKN,Thomas Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0833,3,07:27,BKN,70.0,CHI,60.0,C. Thomas,BKN,Thomas 27' 3PT Jump Shot (5 PTS) (Harris 2 AST),Made Shot,Jump Shot,-27,272,27,1,3.0,3.0,h
+S2223-G0833,3,06:55,BKN,72.0,CHI,62.0,C. Thomas,BKN,Thomas 20' Turnaround Fadeaway (7 PTS),Made Shot,Turnaround Fadeaway shot,85,186,20,1,2.0,2.0,h
+S2223-G0833,3,06:36,BKN,,CHI,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,3,06:33,BKN,,CHI,,C. Thomas,BKN,MISS Thomas 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-105,237,26,1,3.0,0.0,h
+S2223-G0833,3,05:39,BKN,,CHI,,C. Thomas,BKN,SUB: Simmons FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0833,4,10:52,BKN,83.0,CHI,84.0,C. Thomas,BKN,Thomas 10' Driving Floating Bank Jump Shot (9 PTS),Made Shot,Driving Floating Bank Jump Shot,72,64,10,1,2.0,2.0,h
+S2223-G0833,4,10:52,BKN,84.0,CHI,84.0,C. Thomas,BKN,Thomas Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0833,4,10:26,BKN,,CHI,,C. Thomas,BKN,MISS Thomas 10' Floating Jump Shot,Missed Shot,Floating Jump shot,-29,96,10,1,2.0,0.0,h
+S2223-G0833,4,08:47,BKN,,CHI,,C. Thomas,BKN,MISS Thomas 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,228,-5,0,1,3.0,0.0,h
+S2223-G0833,4,08:19,BKN,,CHI,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,4,07:18,BKN,96.0,CHI,91.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0833,4,07:18,BKN,97.0,CHI,91.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0833,4,07:03,BKN,,CHI,,C. Thomas,BKN,Thomas S.FOUL (P2.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0833,4,06:16,BKN,,CHI,,C. Thomas,BKN,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-153,205,26,1,3.0,0.0,h
+S2223-G0833,4,05:36,BKN,,CHI,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,4,05:20,BKN,,CHI,,C. Thomas,BKN,MISS Thomas 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,103,20,10,1,2.0,0.0,h
+S2223-G0833,4,03:45,BKN,,CHI,,C. Thomas,BKN,MISS Thomas 30' 3PT Jump Shot,Missed Shot,Jump Shot,-26,298,30,1,3.0,0.0,h
+S2223-G0833,4,03:12,BKN,105.0,CHI,94.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0833,4,03:12,BKN,106.0,CHI,94.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0833,4,02:40,BKN,,CHI,,C. Thomas,BKN,MISS Thomas 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,5,31,3,1,2.0,0.0,h
+S2223-G0833,4,02:07,BKN,,CHI,,C. Thomas,BKN,Thomas OFF.Foul (P3) (S.Wall),Foul,Offensive,0,0,0,0,,,h
+S2223-G0833,4,02:07,BKN,,CHI,,C. Thomas,BKN,Thomas Offensive Foul Turnover (P4.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0833,4,00:54.500000,BKN,111.0,CHI,99.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0833,4,00:54.500000,BKN,112.0,CHI,99.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0833,4,00:39.600000,BKN,113.0,CHI,102.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0833,4,00:39.600000,BKN,114.0,CHI,102.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0833,4,00:30.800000,BKN,115.0,CHI,105.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0833,4,00:30.800000,BKN,116.0,CHI,105.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0833,4,00:22.600000,BKN,,CHI,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0937,1,05:29,NYK,26.0,BKN,17.0,C. Thomas,BKN,Thomas 3PT Jump Shot (3 PTS) (Dinwiddie 3 AST),Made Shot,Jump Shot,-230,-21,0,1,3.0,3.0,v
+S2223-G0937,1,02:22,NYK,35.0,BKN,23.0,C. Thomas,BKN,Thomas 12' Pullup Jump Shot (5 PTS) (Claxton 1 AST),Made Shot,Pullup Jump shot,13,117,12,1,2.0,2.0,v
+S2223-G0937,1,01:48,NYK,37.0,BKN,25.0,C. Thomas,BKN,Thomas 3' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,-22,26,3,1,2.0,2.0,v
+S2223-G0937,3,04:35,NYK,,BKN,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0937,3,04:11,NYK,,BKN,,C. Thomas,BKN,Thomas AWAY.FROM.PLAY.FOUL (P1.PN) (G.Petraitis),Foul,Away From Play,0,0,0,0,,,v
+S2223-G0937,3,03:11,NYK,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0937,3,03:10,NYK,,BKN,,C. Thomas,BKN,Thomas Step Out of Bounds Turnover (P1.T8),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0937,3,02:12,NYK,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,13,257,26,1,3.0,0.0,v
+S2223-G0937,3,01:39,NYK,,BKN,,C. Thomas,BKN,MISS Thomas 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,21,38,4,1,2.0,0.0,v
+S2223-G0937,3,01:19,NYK,,BKN,,C. Thomas,BKN,MISS Thomas 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-105,190,22,1,2.0,0.0,v
+S2223-G0937,3,01:08,NYK,,BKN,,C. Thomas,BKN,Thomas P.FOUL (P2.PN) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2223-G0937,4,10:18,NYK,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,48,258,26,1,3.0,0.0,v
+S2223-G0937,4,09:09,NYK,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P3.T1) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0937,4,08:33,NYK,119.0,BKN,95.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0937,4,08:33,NYK,119.0,BKN,96.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0937,4,08:11,NYK,,BKN,,C. Thomas,BKN,Thomas BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0937,4,07:05,NYK,123.0,BKN,102.0,C. Thomas,BKN,Thomas 12' Turnaround Jump Shot (11 PTS),Made Shot,Turnaround Jump Shot,85,86,12,1,2.0,2.0,v
+S2223-G0937,4,06:44,NYK,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P4.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0937,4,05:59,NYK,127.0,BKN,106.0,C. Thomas,BKN,Thomas 1' Layup (13 PTS) (Sharpe 2 AST),Made Shot,Layup Shot,-7,7,1,1,2.0,2.0,v
+S2223-G0937,4,05:20,NYK,,BKN,,C. Thomas,BKN,Thomas Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0937,4,04:04,NYK,,BKN,,C. Thomas,BKN,MISS Thomas 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-102,75,13,1,2.0,0.0,v
+S2223-G0937,4,02:44,NYK,139.0,BKN,112.0,C. Thomas,BKN,Thomas 12' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,-120,26,12,1,2.0,2.0,v
+S2223-G0937,4,01:59,NYK,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,145,210,26,1,3.0,0.0,v
+S2223-G0937,4,01:11,NYK,,BKN,,C. Thomas,BKN,MISS Thomas 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-112,75,13,1,2.0,0.0,v
+S2223-G0433,2,04:30,TOR,,BKN,,C. Thomas,BKN,MISS Thomas 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,146,93,17,1,2.0,0.0,v
+S2223-G0433,2,03:30,TOR,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0433,2,03:25,TOR,,BKN,,C. Thomas,BKN,MISS Thomas 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,16,266,27,1,3.0,0.0,v
+S2223-G0433,2,00:29.100000,TOR,,BKN,,C. Thomas,BKN,SUB: Claxton FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0995,1,04:58,MIL,,BKN,,C. Thomas,BKN,MISS Thomas 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-93,122,15,1,2.0,0.0,v
+S2223-G0995,1,02:55,MIL,24.0,BKN,18.0,C. Thomas,BKN,Thomas 28' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,98,257,28,1,3.0,3.0,v
+S2223-G0995,1,02:22,MIL,,BKN,,C. Thomas,BKN,MISS Thomas 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-17,147,15,1,2.0,0.0,v
+S2223-G0995,1,01:05,MIL,,BKN,,C. Thomas,BKN,Thomas Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0995,2,11:48,MIL,37.0,BKN,22.0,C. Thomas,BKN,Thomas 11' Fadeaway Jumper (5 PTS) (Sharpe 1 AST),Made Shot,Fadeaway Jump Shot,-54,100,11,1,2.0,2.0,v
+S2223-G0995,2,11:28,MIL,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0995,2,10:47,MIL,,BKN,,C. Thomas,BKN,MISS Thomas 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-74,272,28,1,3.0,0.0,v
+S2223-G0995,2,07:50,MIL,,BKN,,C. Thomas,BKN,SUB: Duke Jr. FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0995,3,10:08,MIL,,BKN,,C. Thomas,BKN,MISS Thomas 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,137,45,14,1,2.0,0.0,v
+S2223-G0995,3,09:03,MIL,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0995,3,09:02,MIL,71.0,BKN,57.0,C. Thomas,BKN,Thomas Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0995,3,06:56,MIL,,BKN,,C. Thomas,BKN,SUB: Watanabe FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0995,3,00:00.200000,MIL,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0995,4,09:17,MIL,90.0,BKN,87.0,C. Thomas,BKN,Thomas 27' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,15,272,27,1,3.0,3.0,v
+S2223-G0995,4,08:43,MIL,,BKN,,C. Thomas,BKN,Thomas OFF.Foul (P1) (J.Goble),Foul,Offensive,0,0,0,0,,,v
+S2223-G0995,4,08:43,MIL,,BKN,,C. Thomas,BKN,Thomas Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0995,4,07:47,MIL,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0995,4,07:44,MIL,,BKN,,C. Thomas,BKN,MISS Thomas 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,33,283,28,1,3.0,0.0,v
+S2223-G0995,4,07:28,MIL,,BKN,,C. Thomas,BKN,SUB: Watanabe FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0995,4,02:26,MIL,107.0,BKN,100.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0995,4,02:26,MIL,107.0,BKN,101.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0995,4,01:58,MIL,108.0,BKN,102.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0995,4,01:58,MIL,108.0,BKN,103.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0995,4,01:26,MIL,110.0,BKN,106.0,C. Thomas,BKN,Thomas 27' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,-158,215,27,1,3.0,3.0,v
+S2223-G0995,4,01:03,MIL,112.0,BKN,108.0,C. Thomas,BKN,Thomas 15' Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,-129,72,15,1,2.0,2.0,v
+S2223-G0995,4,00:46.300000,MIL,112.0,BKN,110.0,C. Thomas,BKN,Thomas Running Layup (21 PTS),Made Shot,Running Layup Shot,-2,4,0,1,2.0,2.0,v
+S2223-G0995,4,00:11,MIL,,BKN,,C. Thomas,BKN,Thomas Personal Take Foul (P2.PN) (L.Wood),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0995,4,00:04,MIL,,BKN,,C. Thomas,BKN,MISS Thomas 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-148,205,25,1,3.0,0.0,v
+S2223-G0184,1,04:32,LAC,,BKN,,C. Thomas,BKN,Thomas Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0184,1,00:59.700000,LAC,,BKN,,C. Thomas,BKN,MISS Thomas 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,145,92,17,1,2.0,0.0,v
+S2223-G0184,1,00:09,LAC,,BKN,,C. Thomas,BKN,SUB: Sumner FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0184,2,11:06,LAC,,BKN,,C. Thomas,BKN,MISS Thomas 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-4,115,12,1,2.0,0.0,v
+S2223-G0184,2,09:33,LAC,,BKN,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0184,2,09:26,LAC,,BKN,,C. Thomas,BKN,MISS Thomas 5' Running Layup,Missed Shot,Running Layup Shot,16,48,5,1,2.0,0.0,v
+S2223-G0184,2,06:38,LAC,,BKN,,C. Thomas,BKN,MISS Thomas 27' 3PT Jump Shot,Missed Shot,Jump Shot,-207,167,27,1,3.0,0.0,v
+S2223-G0184,2,05:48,LAC,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0184,2,05:44,LAC,35.0,BKN,38.0,C. Thomas,BKN,Thomas 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,-6,23,2,1,2.0,2.0,v
+S2223-G0184,2,02:57,LAC,40.0,BKN,49.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0184,2,02:57,LAC,40.0,BKN,50.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0184,2,01:34,LAC,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P1.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0184,2,01:34,LAC,,BKN,,C. Thomas,BKN,SUB: Harris FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0184,4,11:54,LAC,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P2.T1) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0184,4,09:07,LAC,,BKN,,C. Thomas,BKN,MISS Thomas 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,15,127,13,1,2.0,0.0,v
+S2223-G0184,4,06:25,LAC,,BKN,,C. Thomas,BKN,Thomas Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0184,4,06:15,LAC,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0184,4,03:48,LAC,,BKN,,C. Thomas,BKN,SUB: Harris FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0757,1,04:08,BKN,21.0,LAL,9.0,C. Thomas,BKN,Thomas 9' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-82,43,9,1,2.0,2.0,h
+S2223-G0757,1,01:55,BKN,,LAL,,C. Thomas,BKN,MISS Thomas 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-109,47,12,1,2.0,0.0,h
+S2223-G0757,1,00:28.900000,BKN,29.0,LAL,16.0,C. Thomas,BKN,Thomas 3PT Jump Shot (5 PTS) (Sharpe 1 AST),Made Shot,Jump Shot,232,37,0,1,3.0,3.0,h
+S2223-G0757,1,00:03.300000,BKN,,LAL,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,1,00:02.800000,BKN,,LAL,,C. Thomas,BKN,Thomas Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0757,2,11:23,BKN,,LAL,,C. Thomas,BKN,Thomas Traveling Turnover (P2.T4),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0757,2,10:29,BKN,,LAL,,C. Thomas,BKN,SUB: Claxton FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0757,3,01:27,BKN,,LAL,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,3,01:10,BKN,80.0,LAL,82.0,C. Thomas,BKN,Thomas 17' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,174,16,17,1,2.0,2.0,h
+S2223-G0757,3,00:49.200000,BKN,83.0,LAL,82.0,C. Thomas,BKN,Thomas 27' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,-31,269,27,1,3.0,3.0,h
+S2223-G0757,3,00:37,BKN,,LAL,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,4,10:42,BKN,,LAL,,C. Thomas,BKN,MISS Thomas 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,47,158,16,1,2.0,0.0,h
+S2223-G0757,4,10:32,BKN,,LAL,,C. Thomas,BKN,Thomas S.FOUL (P1.T1) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0757,4,10:02,BKN,93.0,LAL,85.0,C. Thomas,BKN,Thomas 26' 3PT Running Pull-Up Jump Shot (13 PTS),Made Shot,Running Pull-Up Jump Shot,98,241,26,1,3.0,3.0,h
+S2223-G0757,4,09:15,BKN,,LAL,,C. Thomas,BKN,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,-174,193,26,1,3.0,0.0,h
+S2223-G0757,4,08:20,BKN,99.0,LAL,87.0,C. Thomas,BKN,Thomas 7' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,21,68,7,1,2.0,2.0,h
+S2223-G0757,4,08:20,BKN,100.0,LAL,87.0,C. Thomas,BKN,Thomas Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0757,4,06:37,BKN,106.0,LAL,93.0,C. Thomas,BKN,Thomas 1' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,11,5,1,1,2.0,2.0,h
+S2223-G0757,4,05:56,BKN,,LAL,,C. Thomas,BKN,MISS Thomas 18' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,74,169,18,1,2.0,0.0,h
+S2223-G0757,4,04:43,BKN,,LAL,,C. Thomas,BKN,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-11,258,26,1,3.0,0.0,h
+S2223-G0757,4,02:50,BKN,,LAL,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,4,02:41,BKN,,LAL,,C. Thomas,BKN,Thomas Lost Ball Turnover (P3.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0757,4,01:14,BKN,119.0,LAL,102.0,C. Thomas,BKN,Thomas 25' 3PT Step Back Jump Shot (21 PTS),Made Shot,Step Back Jump shot,-207,141,25,1,3.0,3.0,h
+S2223-G0346,1,04:54,BKN,14.0,BOS,16.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0346,1,04:54,BKN,,BOS,,C. Thomas,BKN,MISS Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0346,1,03:53,BKN,,BOS,,C. Thomas,BKN,MISS Thomas 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-55,122,13,1,2.0,0.0,h
+S2223-G0346,1,02:00,BKN,22.0,BOS,27.0,C. Thomas,BKN,Thomas 3PT Jump Shot (4 PTS) (Warren 1 AST),Made Shot,Jump Shot,225,-8,0,1,3.0,3.0,h
+S2223-G0346,1,00:05.300000,BKN,,BOS,,C. Thomas,BKN,MISS Thomas 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,72,258,27,1,3.0,0.0,h
+S2223-G0346,2,00:41.600000,BKN,,BOS,,C. Thomas,BKN,MISS Thomas 6' Driving Layup,Missed Shot,Driving Layup Shot,-29,58,6,1,2.0,0.0,h
+S2223-G0346,4,01:31,BKN,,BOS,,C. Thomas,BKN,MISS Thomas 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,16,63,7,1,2.0,0.0,h
+S2223-G0346,4,00:33.700000,BKN,89.0,BOS,103.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0346,4,00:33.700000,BKN,90.0,BOS,103.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0346,4,00:12.300000,BKN,91.0,BOS,103.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0346,4,00:12.300000,BKN,92.0,BOS,103.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1043,1,03:26,BKN,,SAC,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1043,1,03:12,BKN,,SAC,,C. Thomas,BKN,MISS Thomas 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,47,100,11,1,2.0,0.0,h
+S2223-G1043,1,02:38,BKN,,SAC,,C. Thomas,BKN,Thomas Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1043,1,02:11,BKN,,SAC,,C. Thomas,BKN,MISS Thomas 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,227,-9,0,1,3.0,0.0,h
+S2223-G1043,1,00:25.800000,BKN,,SAC,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1043,1,00:08.400000,BKN,,SAC,,C. Thomas,BKN,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-170,194,26,1,3.0,0.0,h
+S2223-G1043,1,00:05,BKN,,SAC,,C. Thomas,BKN,SUB: Claxton FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G0243,1,01:32,BKN,,MEM,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0243,1,00:57.500000,BKN,,MEM,,C. Thomas,BKN,MISS Thomas 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,7,122,12,1,2.0,0.0,h
+S2223-G0243,1,00:42.800000,BKN,,MEM,,C. Thomas,BKN,Thomas S.FOUL (P1.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0243,1,00:36,BKN,,MEM,,C. Thomas,BKN,MISS Thomas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0243,1,00:36,BKN,,MEM,,C. Thomas,BKN,MISS Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0900,1,02:55,CHI,,BKN,,C. Thomas,BKN,MISS Thomas 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,47,76,9,1,2.0,0.0,v
+S2223-G0900,1,01:42,CHI,,BKN,,C. Thomas,BKN,MISS Thomas 29' 3PT Jump Shot,Missed Shot,Jump Shot,-170,235,29,1,3.0,0.0,v
+S2223-G0900,1,01:37,CHI,28.0,BKN,15.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0900,1,01:37,CHI,28.0,BKN,16.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0900,2,10:43,CHI,,BKN,,C. Thomas,BKN,MISS Thomas 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,88,200,22,1,2.0,0.0,v
+S2223-G0900,2,09:26,CHI,,BKN,,C. Thomas,BKN,SUB: Johnson FOR Thomas,Substitution,,0,0,0,0,,,v
+S2223-G0900,2,03:48,CHI,,BKN,,C. Thomas,BKN,MISS Thomas 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,105,112,15,1,2.0,0.0,v
+S2223-G0900,2,00:34,CHI,63.0,BKN,29.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0900,2,00:34,CHI,,BKN,,C. Thomas,BKN,MISS Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0900,3,03:55,CHI,80.0,BKN,42.0,C. Thomas,BKN,Thomas 20' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-75,190,20,1,2.0,2.0,v
+S2223-G0900,3,03:13,CHI,,BKN,,C. Thomas,BKN,MISS Thomas 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,36,121,13,1,2.0,0.0,v
+S2223-G0900,3,01:04,CHI,90.0,BKN,49.0,C. Thomas,BKN,Thomas 25' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,-150,200,25,1,3.0,3.0,v
+S2223-G0900,3,00:40.600000,CHI,,BKN,,C. Thomas,BKN,MISS Thomas Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,v
+S2223-G0900,3,00:40.600000,CHI,93.0,BKN,50.0,C. Thomas,BKN,Thomas Free Throw 2 of 3 (9 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0900,3,00:40.600000,CHI,93.0,BKN,51.0,C. Thomas,BKN,Thomas Free Throw 3 of 3 (10 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0900,4,10:53,CHI,,BKN,,C. Thomas,BKN,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,186,185,26,1,3.0,0.0,v
+S2223-G0900,4,10:42,CHI,101.0,BKN,53.0,C. Thomas,BKN,Thomas 14' Jump Shot (12 PTS) (Sharpe 1 AST),Made Shot,Jump Shot,4,142,14,1,2.0,2.0,v
+S2223-G0900,4,09:02,CHI,103.0,BKN,58.0,C. Thomas,BKN,Thomas 24' 3PT Jump Shot (15 PTS) (Curry 1 AST),Made Shot,Jump Shot,167,179,24,1,3.0,3.0,v
+S2223-G0900,4,07:36,CHI,,BKN,,C. Thomas,BKN,MISS Thomas 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-138,151,20,1,2.0,0.0,v
+S2223-G0900,4,06:04,CHI,108.0,BKN,68.0,C. Thomas,BKN,Thomas 24' 3PT Pullup Jump Shot (18 PTS) (Curry 2 AST),Made Shot,Pullup Jump shot,-222,94,24,1,3.0,3.0,v
+S2223-G0900,4,04:42,CHI,,BKN,,C. Thomas,BKN,MISS Thomas 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-26,250,25,1,3.0,0.0,v
+S2223-G0900,4,04:12,CHI,116.0,BKN,74.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0900,4,04:12,CHI,116.0,BKN,75.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0900,4,02:55,CHI,122.0,BKN,83.0,C. Thomas,BKN,Thomas 1' Driving Finger Roll Layup (22 PTS) (Curry 3 AST),Made Shot,Driving Finger Roll Layup Shot,-5,4,1,1,2.0,2.0,v
+S2223-G0900,4,01:31,CHI,,BKN,,C. Thomas,BKN,MISS Thomas 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,179,46,18,1,2.0,0.0,v
+S2223-G0900,4,01:11,CHI,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1063,2,06:56,BKN,,DEN,,C. Thomas,BKN,Thomas STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1063,2,05:29,BKN,,DEN,,C. Thomas,BKN,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,21,257,26,1,3.0,0.0,h
+S2223-G1063,2,05:15,BKN,,DEN,,C. Thomas,BKN,MISS Thomas 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,59,21,6,1,2.0,0.0,h
+S2223-G1063,2,04:20,BKN,,DEN,,C. Thomas,BKN,SUB: Dinwiddie FOR Thomas,Substitution,,0,0,0,0,,,h
+S2223-G1063,3,00:51.800000,BKN,,DEN,,C. Thomas,BKN,Thomas Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1063,3,00:43.600000,BKN,,DEN,,C. Thomas,BKN,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1063,3,00:02.100000,BKN,,DEN,,C. Thomas,BKN,MISS Thomas 25' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,123,215,25,1,3.0,0.0,h
+S2223-G1063,4,11:15,BKN,,DEN,,C. Thomas,BKN,MISS Thomas 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,16,77,8,1,2.0,0.0,h
+S2223-G1063,4,05:46,BKN,83.0,DEN,100.0,C. Thomas,BKN,Thomas 20' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,-92,178,20,1,2.0,2.0,h
+S2223-G1063,4,03:45,BKN,,DEN,,C. Thomas,BKN,MISS Thomas 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,25,75,8,1,2.0,0.0,h
+S2223-G1063,4,01:53,BKN,,DEN,,C. Thomas,BKN,MISS Thomas 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,255,26,1,3.0,0.0,h
+S2223-G1063,4,01:35,BKN,96.0,DEN,108.0,C. Thomas,BKN,Thomas 7' Driving Floating Jump Shot (4 PTS) (O'Neale 4 AST),Made Shot,Driving Floating Jump Shot,10,72,7,1,2.0,2.0,h
+S2223-G1063,4,00:44.700000,BKN,99.0,DEN,108.0,C. Thomas,BKN,Thomas 25' 3PT Pullup Jump Shot (7 PTS) (O'Neale 5 AST),Made Shot,Pullup Jump shot,-77,236,25,1,3.0,3.0,h
+S2223-G0388,1,04:13,IND,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P1.PN) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0388,1,03:08,IND,,BKN,,C. Thomas,BKN,Thomas Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0388,1,02:47,IND,,BKN,,C. Thomas,BKN,MISS Thomas 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,86,75,11,1,2.0,0.0,v
+S2223-G0388,1,00:36.700000,IND,38.0,BKN,39.0,C. Thomas,BKN,Thomas 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,12,16,2,1,2.0,2.0,v
+S2223-G0388,1,00:04.600000,IND,38.0,BKN,40.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0388,1,00:04.600000,IND,,BKN,,C. Thomas,BKN,MISS Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0388,2,10:45,IND,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P2.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2223-G0388,2,07:37,IND,53.0,BKN,45.0,C. Thomas,BKN,Thomas 5' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,-39,37,5,1,2.0,2.0,v
+S2223-G0388,2,06:25,IND,53.0,BKN,53.0,C. Thomas,BKN,Thomas 24' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,-211,115,24,1,3.0,3.0,v
+S2223-G0388,2,05:31,IND,,BKN,,C. Thomas,BKN,MISS Thomas 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,38,73,8,1,2.0,0.0,v
+S2223-G0388,2,03:27,IND,62.0,BKN,59.0,C. Thomas,BKN,Thomas 2' Driving Layup (10 PTS) (Sharpe 1 AST),Made Shot,Driving Layup Shot,9,15,2,1,2.0,2.0,v
+S2223-G0388,2,03:05,IND,,BKN,,C. Thomas,BKN,MISS Thomas 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,28,31,4,1,2.0,0.0,v
+S2223-G0388,2,02:00,IND,,BKN,,C. Thomas,BKN,MISS Thomas 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,105,15,11,1,2.0,0.0,v
+S2223-G0388,2,00:45.400000,IND,,BKN,,C. Thomas,BKN,Thomas S.FOUL (P3.T4) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0388,2,00:00.900000,IND,76.0,BKN,69.0,C. Thomas,BKN,Thomas 18' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,-103,142,18,1,2.0,2.0,v
+S2223-G0388,4,11:06,IND,103.0,BKN,99.0,C. Thomas,BKN,Thomas 9' Driving Floating Bank Jump Shot (14 PTS),Made Shot,Driving Floating Bank Jump Shot,-50,71,9,1,2.0,2.0,v
+S2223-G0388,4,10:36,IND,103.0,BKN,101.0,C. Thomas,BKN,Thomas 17' Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,49,165,17,1,2.0,2.0,v
+S2223-G0388,4,08:34,IND,,BKN,,C. Thomas,BKN,MISS Thomas 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,165,23,17,1,2.0,0.0,v
+S2223-G0388,4,08:00,IND,112.0,BKN,108.0,C. Thomas,BKN,Thomas 3PT Jump Shot (19 PTS) (Duke Jr. 3 AST),Made Shot,Jump Shot,-228,15,0,1,3.0,3.0,v
+S2223-G0388,4,06:59,IND,,BKN,,C. Thomas,BKN,Thomas Traveling Turnover (P2.T17),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0388,4,06:26,IND,117.0,BKN,111.0,C. Thomas,BKN,Thomas 26' 3PT Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,206,155,26,1,3.0,3.0,v
+S2223-G0388,4,05:51,IND,,BKN,,C. Thomas,BKN,MISS Thomas 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-21,125,13,1,2.0,0.0,v
+S2223-G0388,4,05:47,IND,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,4,05:44,IND,117.0,BKN,113.0,C. Thomas,BKN,Thomas 6' Jump Shot (24 PTS),Made Shot,Jump Shot,-4,58,6,1,2.0,2.0,v
+S2223-G0388,4,04:20,IND,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,4,04:19,IND,120.0,BKN,116.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0388,4,04:19,IND,,BKN,,C. Thomas,BKN,MISS Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0388,4,04:17,IND,,BKN,,C. Thomas,BKN,Thomas REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,4,04:14,IND,120.0,BKN,117.0,C. Thomas,BKN,Thomas Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0388,4,04:14,IND,120.0,BKN,118.0,C. Thomas,BKN,Thomas Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0388,4,03:09,IND,122.0,BKN,122.0,C. Thomas,BKN,Thomas 8' Driving Floating Jump Shot (29 PTS),Made Shot,Driving Floating Jump Shot,43,69,8,1,2.0,2.0,v
+S2223-G0388,4,01:50,IND,,BKN,,C. Thomas,BKN,MISS Thomas 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,15,169,17,1,2.0,0.0,v
+S2223-G0388,4,01:20,IND,124.0,BKN,130.0,C. Thomas,BKN,Thomas 10' Driving Floating Jump Shot (31 PTS),Made Shot,Driving Floating Jump Shot,-13,96,10,1,2.0,2.0,v
+S2223-G0388,4,00:53.700000,IND,124.0,BKN,132.0,C. Thomas,BKN,Thomas 9' Driving Floating Jump Shot (33 PTS) (Watanabe 2 AST),Made Shot,Driving Floating Jump Shot,-31,85,9,1,2.0,2.0,v

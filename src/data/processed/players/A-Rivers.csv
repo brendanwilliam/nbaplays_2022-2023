@@ -1,0 +1,584 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0407,1,06:16,POR,,MIN,,A. Rivers,MIN,MISS Rivers 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,42,69,8,1,2.0,0.0,v
+S2223-G0407,1,04:22,POR,19.0,MIN,18.0,A. Rivers,MIN,Rivers 3PT Jump Shot (3 PTS) (McDaniels 1 AST),Made Shot,Jump Shot,230,26,0,1,3.0,3.0,v
+S2223-G0407,1,03:18,POR,,MIN,,A. Rivers,MIN,Rivers AWAY.FROM.PLAY.FOUL (P1.PN) (L.Wood),Foul,Away From Play,0,0,0,0,,,v
+S2223-G0407,1,02:39,POR,,MIN,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0407,1,02:21,POR,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P2.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0407,1,01:08,POR,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P3.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0407,1,01:08,POR,,MIN,,A. Rivers,MIN,SUB: Forbes FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0407,3,02:57,POR,,MIN,,A. Rivers,MIN,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-199,154,25,1,3.0,0.0,v
+S2223-G0407,4,05:28,POR,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-234,12,0,1,3.0,0.0,v
+S2223-G0407,4,04:03,POR,,MIN,,A. Rivers,MIN,SUB: Garza FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0153,2,02:13,MIN,47.0,NYK,71.0,A. Rivers,MIN,Rivers Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0153,2,02:13,MIN,48.0,NYK,71.0,A. Rivers,MIN,Rivers Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0153,2,01:55,MIN,,NYK,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0153,2,01:25,MIN,,NYK,,A. Rivers,MIN,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-203,151,25,1,3.0,0.0,h
+S2223-G0153,2,00:08.100000,MIN,,NYK,,A. Rivers,MIN,Rivers Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0153,4,11:42,MIN,83.0,NYK,103.0,A. Rivers,MIN,Rivers 24' 3PT Jump Shot (5 PTS) (Prince 2 AST),Made Shot,Jump Shot,233,54,24,1,3.0,3.0,h
+S2223-G0153,4,10:19,MIN,,NYK,,A. Rivers,MIN,Rivers BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0153,4,09:32,MIN,91.0,NYK,105.0,A. Rivers,MIN,Rivers 1' Layup (7 PTS) (Russell 7 AST),Made Shot,Layup Shot,-7,-5,1,1,2.0,2.0,h
+S2223-G0153,4,06:10,MIN,,NYK,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0153,4,03:37,MIN,,NYK,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-225,-5,0,1,3.0,0.0,h
+S2223-G0153,4,02:00,MIN,,NYK,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-227,16,0,1,3.0,0.0,h
+S2223-G0153,4,01:17,MIN,101.0,NYK,118.0,A. Rivers,MIN,Rivers Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0153,4,01:17,MIN,102.0,NYK,118.0,A. Rivers,MIN,Rivers Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0884,1,00:00.800000,MIN,,WAS,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-230,6,0,1,3.0,0.0,h
+S2223-G0884,2,11:00,MIN,,WAS,,A. Rivers,MIN,Rivers S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0884,2,06:45,MIN,47.0,WAS,33.0,A. Rivers,MIN,Rivers 25' 3PT Running Jump Shot (3 PTS) (Anderson 3 AST),Made Shot,Running Jump Shot,163,189,25,1,3.0,3.0,h
+S2223-G0884,2,06:41,MIN,,WAS,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0980,2,02:22,MIN,,PHI,,A. Rivers,MIN,MISS Rivers 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,35,24,1,3.0,0.0,h
+S2223-G0980,2,01:35,MIN,,PHI,,A. Rivers,MIN,MISS Rivers 4' Driving Layup,Missed Shot,Driving Layup Shot,15,36,4,1,2.0,0.0,h
+S2223-G0774,1,02:44,MIN,27.0,GSW,24.0,A. Rivers,MIN,Rivers 3PT Jump Shot (3 PTS) (Prince 1 AST),Made Shot,Jump Shot,-222,29,0,1,3.0,3.0,h
+S2223-G0774,1,02:02,MIN,,GSW,,A. Rivers,MIN,Rivers S.FOUL (P1.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0774,1,01:29,MIN,,GSW,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0774,2,11:11,MIN,36.0,GSW,34.0,A. Rivers,MIN,Rivers 3' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,4,27,3,1,2.0,2.0,h
+S2223-G0774,2,09:17,MIN,41.0,GSW,39.0,A. Rivers,MIN,Rivers Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0774,2,09:17,MIN,42.0,GSW,39.0,A. Rivers,MIN,Rivers Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0774,2,06:22,MIN,,GSW,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0774,3,01:58,MIN,,GSW,,A. Rivers,MIN,MISS Rivers 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,32,3,1,2.0,0.0,h
+S2223-G0774,3,01:56,MIN,,GSW,,A. Rivers,MIN,Rivers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0774,3,01:54,MIN,,GSW,,A. Rivers,MIN,MISS Rivers 7' Putback Layup,Missed Shot,Putback Layup Shot,61,43,7,1,2.0,0.0,h
+S2223-G0774,4,11:47,MIN,,GSW,,A. Rivers,MIN,Rivers S.FOUL (P2.T1) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2223-G0774,4,11:00,MIN,85.0,GSW,96.0,A. Rivers,MIN,Rivers 3PT Jump Shot (10 PTS) (McDaniels 2 AST),Made Shot,Jump Shot,228,21,0,1,3.0,3.0,h
+S2223-G0774,4,08:45,MIN,,GSW,,A. Rivers,MIN,Rivers BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0774,4,08:43,MIN,,GSW,,A. Rivers,MIN,Rivers REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0774,4,07:20,MIN,,GSW,,A. Rivers,MIN,Rivers REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0774,4,05:56,MIN,,GSW,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,219,64,0,1,3.0,0.0,h
+S2223-G0774,4,04:58,MIN,,GSW,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0774,4,03:33,MIN,,GSW,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0774,4,00:04.500000,MIN,,GSW,,A. Rivers,MIN,SUB: Russell FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0076,1,01:01,MIN,,LAL,,A. Rivers,MIN,MISS Rivers 3' Driving Layup,Missed Shot,Driving Layup Shot,31,12,3,1,2.0,0.0,h
+S2223-G0076,3,00:19.700000,MIN,,LAL,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-224,4,0,1,3.0,0.0,h
+S2223-G0758,1,06:50,MIN,,SAC,,A. Rivers,MIN,MISS Rivers 3' Driving Layup,Missed Shot,Driving Layup Shot,-6,30,3,1,2.0,0.0,h
+S2223-G0758,1,06:35,MIN,,SAC,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0758,1,03:14,MIN,,SAC,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0758,1,02:22,MIN,,SAC,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0758,2,02:38,MIN,,SAC,,A. Rivers,MIN,Rivers Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0758,2,02:17,MIN,45.0,SAC,49.0,A. Rivers,MIN,Rivers 24' 3PT Jump Shot (3 PTS) (Edwards 2 AST),Made Shot,Jump Shot,227,90,24,1,3.0,3.0,h
+S2223-G0758,2,00:13.900000,MIN,53.0,SAC,51.0,A. Rivers,MIN,Rivers 3PT Fadeaway Jumper (6 PTS) (Russell 6 AST),Made Shot,Fadeaway Jump Shot,229,-4,0,1,3.0,3.0,h
+S2223-G0758,3,00:28.400000,MIN,,SAC,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0758,4,01:02,MIN,,SAC,,A. Rivers,MIN,SUB: Russell FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G1050,2,11:26,CHI,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1050,2,11:05,CHI,,MIN,,A. Rivers,MIN,MISS Rivers 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,109,48,12,1,2.0,0.0,v
+S2223-G1050,2,08:14,CHI,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,229,-16,0,1,3.0,0.0,v
+S2223-G1050,2,07:25,CHI,,MIN,,A. Rivers,MIN,SUB: McLaughlin FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0092,1,01:01,SAS,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0092,2,11:18,SAS,,MIN,,A. Rivers,MIN,MISS Rivers 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-20,31,4,1,2.0,0.0,v
+S2223-G0092,2,10:42,SAS,,MIN,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0587,1,02:55,MIN,,LAC,,A. Rivers,MIN,Rivers P.FOUL (P1.T2) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2223-G0587,1,01:28,MIN,,LAC,,A. Rivers,MIN,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-142,204,25,1,3.0,0.0,h
+S2223-G0587,2,08:07,MIN,,LAC,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0587,3,05:25,MIN,,LAC,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0587,3,05:19,MIN,87.0,LAC,66.0,A. Rivers,MIN,Rivers 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,19,2,1,2.0,2.0,h
+S2223-G0587,3,02:34,MIN,,LAC,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-229,17,0,1,3.0,0.0,h
+S2223-G0587,3,00:37.400000,MIN,97.0,LAC,79.0,A. Rivers,MIN,Rivers 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-1,8,1,1,2.0,2.0,h
+S2223-G0587,4,11:43,MIN,,LAC,,A. Rivers,MIN,Rivers P.FOUL (P2.T1) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2223-G0587,4,10:09,MIN,,LAC,,A. Rivers,MIN,Rivers S.FOUL (P3.T3) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0587,4,09:31,MIN,,LAC,,A. Rivers,MIN,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,124,218,25,1,3.0,0.0,h
+S2223-G0587,4,09:21,MIN,,LAC,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0587,4,01:37,MIN,,LAC,,A. Rivers,MIN,Rivers S.FOUL (P4.PN) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0587,4,01:37,MIN,,LAC,,A. Rivers,MIN,SUB: Moore Jr. FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0790,2,10:36,MIN,,ORL,,A. Rivers,MIN,MISS Rivers 10' Floating Jump Shot,Missed Shot,Floating Jump shot,-92,31,10,1,2.0,0.0,h
+S2223-G0790,2,10:17,MIN,,ORL,,A. Rivers,MIN,Rivers S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0790,2,05:28,MIN,,ORL,,A. Rivers,MIN,SUB: Reid FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0790,3,01:58,MIN,,ORL,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,230,15,0,1,3.0,0.0,h
+S2223-G0790,3,01:32,MIN,,ORL,,A. Rivers,MIN,Rivers T.FOUL (P1.T3) (J.Williams),Foul,Technical,0,0,0,0,,,h
+S2223-G0790,3,01:32,MIN,,ORL,,A. Rivers,MIN,Rivers Ejection:Other,Ejection,Other,0,0,0,0,,,h
+S2223-G0790,3,01:32,MIN,,ORL,,A. Rivers,MIN,SUB: Knight FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0456,1,10:39,MIN,,DAL,,A. Rivers,MIN,Rivers S.FOUL (P1.T2) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0456,1,10:04,MIN,,DAL,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0456,1,04:29,MIN,,DAL,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0456,1,03:36,MIN,,DAL,,A. Rivers,MIN,SUB: Forbes FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0456,2,06:24,MIN,33.0,DAL,37.0,A. Rivers,MIN,Rivers 8' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,49,61,8,1,2.0,2.0,h
+S2223-G0456,2,06:24,MIN,34.0,DAL,37.0,A. Rivers,MIN,Rivers Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0456,2,04:22,MIN,,DAL,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0456,2,02:28,MIN,47.0,DAL,39.0,A. Rivers,MIN,Rivers 25' 3PT Jump Shot (6 PTS) (Edwards 3 AST),Made Shot,Jump Shot,-202,145,25,1,3.0,3.0,h
+S2223-G0456,2,02:13,MIN,,DAL,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0456,2,01:19,MIN,51.0,DAL,41.0,A. Rivers,MIN,Rivers 6' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-47,41,6,1,2.0,2.0,h
+S2223-G0456,2,01:19,MIN,,DAL,,A. Rivers,MIN,MISS Rivers Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0456,3,05:22,MIN,78.0,DAL,63.0,A. Rivers,MIN,Rivers 26' 3PT Jump Shot (11 PTS) (Edwards 8 AST),Made Shot,Jump Shot,-67,252,26,1,3.0,3.0,h
+S2223-G0456,3,04:43,MIN,,DAL,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-225,53,0,1,3.0,0.0,h
+S2223-G0456,3,03:31,MIN,,DAL,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0456,3,03:31,MIN,,DAL,,A. Rivers,MIN,SUB: Knight FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0456,4,11:29,MIN,,DAL,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0456,4,11:15,MIN,,DAL,,A. Rivers,MIN,Rivers Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0456,4,05:09,MIN,112.0,DAL,93.0,A. Rivers,MIN,Rivers 3PT Jump Shot (14 PTS) (Reid 1 AST),Made Shot,Jump Shot,225,8,0,1,3.0,3.0,h
+S2223-G0456,4,01:32,MIN,116.0,DAL,101.0,A. Rivers,MIN,Rivers 11' Driving Floating Jump Shot (16 PTS) (Edwards 9 AST),Made Shot,Driving Floating Jump Shot,112,12,11,1,2.0,2.0,h
+S2223-G0456,4,00:53.300000,MIN,,DAL,,A. Rivers,MIN,SUB: Ryan FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0544,1,01:14,,,DET,,A. Rivers,MIN,Rivers P.FOUL (P1.PN) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2223-G0544,1,00:32,,,DET,,A. Rivers,MIN,MISS Rivers 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-10,12,2,1,2.0,0.0,h
+S2223-G0544,2,11:12,,,DET,,A. Rivers,MIN,Rivers Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0544,2,07:29,,47.0,DET,37.0,A. Rivers,MIN,Rivers 3PT Jump Shot (3 PTS) (Edwards 3 AST),Made Shot,Jump Shot,229,32,0,1,3.0,3.0,h
+S2223-G0544,2,06:53,,,DET,,A. Rivers,MIN,Rivers P.FOUL (P2.T1) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2223-G0544,2,05:20,,,DET,,A. Rivers,MIN,SUB: Anderson FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0544,3,04:00,,,DET,,A. Rivers,MIN,MISS Rivers 26' 3PT Jump Shot,Missed Shot,Jump Shot,-129,227,26,1,3.0,0.0,h
+S2223-G0544,4,08:14,,,DET,,A. Rivers,MIN,SUB: Anderson FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0010,4,04:27,MIN,,OKC,,A. Rivers,MIN,SUB: Gobert FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0010,4,00:12,MIN,,OKC,,A. Rivers,MIN,SUB: Russell FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0533,1,01:53,MIL,,MIN,,A. Rivers,MIN,MISS Rivers 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-6,29,3,1,2.0,0.0,v
+S2223-G0533,1,00:51,MIL,,MIN,,A. Rivers,MIN,MISS Rivers 27' 3PT Jump Shot,Missed Shot,Jump Shot,-213,170,27,1,3.0,0.0,v
+S2223-G0533,2,10:38,MIL,,MIN,,A. Rivers,MIN,Rivers L.B.FOUL (P1.T1) (Z.Zarba),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0533,2,09:13,MIL,,MIN,,A. Rivers,MIN,SUB: Ryan FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0533,4,11:05,MIL,,MIN,,A. Rivers,MIN,Rivers Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0533,4,09:18,MIL,,MIN,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0533,4,00:33.900000,MIL,,MIN,,A. Rivers,MIN,Rivers L.B.FOUL (P2.PN) (L.Wood),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0533,4,00:33.900000,MIL,,MIN,,A. Rivers,MIN,SUB: Reid FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0724,1,03:15,NOP,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,232,19,0,1,3.0,0.0,v
+S2223-G0724,1,00:14.100000,NOP,,MIN,,A. Rivers,MIN,MISS Rivers 2' Driving Layup,Missed Shot,Driving Layup Shot,-18,-1,2,1,2.0,0.0,v
+S2223-G0724,2,09:14,NOP,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0724,2,08:31,NOP,,MIN,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0724,2,01:00,NOP,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0724,3,03:43,NOP,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0724,3,00:03.400000,NOP,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-223,16,0,1,3.0,0.0,v
+S2223-G0724,4,08:40,NOP,81.0,MIN,93.0,A. Rivers,MIN,Rivers 9' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-59,62,9,1,2.0,2.0,v
+S2223-G0724,4,07:47,NOP,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,232,-6,0,1,3.0,0.0,v
+S2223-G0724,4,05:55,NOP,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-234,11,0,1,3.0,0.0,v
+S2223-G0724,4,04:51,NOP,,MIN,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0637,1,03:23,MIN,,PHX,,A. Rivers,MIN,Rivers P.FOUL (P1.T3) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2223-G0637,2,11:36,MIN,38.0,PHX,25.0,A. Rivers,MIN,Rivers 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-225,10,0,1,3.0,3.0,h
+S2223-G0637,2,11:00,MIN,,PHX,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-224,23,0,1,3.0,0.0,h
+S2223-G0637,2,09:22,MIN,40.0,PHX,31.0,A. Rivers,MIN,Rivers 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,25,10,3,1,2.0,2.0,h
+S2223-G0637,2,08:36,MIN,,PHX,,A. Rivers,MIN,Rivers L.B.FOUL (P2.T1) (A.Nagy),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0637,2,07:41,MIN,,PHX,,A. Rivers,MIN,MISS Rivers 4' Driving Layup,Missed Shot,Driving Layup Shot,30,20,4,1,2.0,0.0,h
+S2223-G0637,2,05:44,MIN,,PHX,,A. Rivers,MIN,SUB: Anderson FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0637,3,02:25,MIN,,PHX,,A. Rivers,MIN,Rivers P.FOUL (P3.PN) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2223-G0637,3,01:33,MIN,,PHX,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0637,4,11:30,MIN,94.0,PHX,75.0,A. Rivers,MIN,Rivers 6' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,56,29,6,1,2.0,2.0,h
+S2223-G0637,4,09:50,MIN,101.0,PHX,81.0,A. Rivers,MIN,Rivers 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,5,10,1,1,2.0,2.0,h
+S2223-G0637,4,06:54,MIN,,PHX,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0637,4,01:18,MIN,,PHX,,A. Rivers,MIN,SUB: Russell FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0637,4,00:12.900000,MIN,,PHX,,A. Rivers,MIN,SUB: Russell FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0709,1,05:00,HOU,,MIN,,A. Rivers,MIN,Rivers P.FOUL (P1.PN) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2223-G0709,1,01:18,HOU,,MIN,,A. Rivers,MIN,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-134,213,25,1,3.0,0.0,v
+S2223-G0709,2,11:18,HOU,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0709,2,11:13,HOU,31.0,MIN,28.0,A. Rivers,MIN,Rivers 4' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,-5,36,4,1,2.0,2.0,v
+S2223-G0709,2,10:18,HOU,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-227,34,0,1,3.0,0.0,v
+S2223-G0709,2,09:12,HOU,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0709,2,06:18,HOU,,MIN,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0709,3,08:21,HOU,64.0,MIN,64.0,A. Rivers,MIN,Rivers 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,15,11,2,1,2.0,2.0,v
+S2223-G0709,3,07:50,HOU,,MIN,,A. Rivers,MIN,MISS Rivers 4' Driving Layup,Missed Shot,Driving Layup Shot,-4,37,4,1,2.0,0.0,v
+S2223-G0709,3,07:40,HOU,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0709,3,06:35,HOU,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0709,3,05:25,HOU,72.0,MIN,71.0,A. Rivers,MIN,Rivers Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0709,3,05:25,HOU,,MIN,,A. Rivers,MIN,MISS Rivers Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0709,3,03:20,HOU,81.0,MIN,77.0,A. Rivers,MIN,Rivers 25' 3PT Jump Shot (8 PTS) (Knight 1 AST),Made Shot,Jump Shot,222,120,25,1,3.0,3.0,v
+S2223-G0709,3,02:13,HOU,,MIN,,A. Rivers,MIN,MISS Rivers 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,219,132,26,1,3.0,0.0,v
+S2223-G0709,3,00:29.800000,HOU,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0709,4,06:08,HOU,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0709,4,03:33,HOU,,MIN,,A. Rivers,MIN,SUB: Gobert FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0709,4,00:10.700000,HOU,,MIN,,A. Rivers,MIN,Rivers Personal Take Foul (P2.PN) (M.Davis),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0709,4,00:03.600000,HOU,117.0,MIN,114.0,A. Rivers,MIN,Rivers 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,5,26,3,1,2.0,2.0,v
+S2223-G0709,4,00:02.100000,HOU,,MIN,,A. Rivers,MIN,SUB: Anderson FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0898,1,03:08,MIN,,CHA,,A. Rivers,MIN,MISS Rivers 26' 3PT Jump Shot,Missed Shot,Jump Shot,142,218,26,1,3.0,0.0,h
+S2223-G0898,2,11:11,MIN,,CHA,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0898,2,09:43,MIN,,CHA,,A. Rivers,MIN,Rivers S.FOUL (P1.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0898,2,09:43,MIN,,CHA,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0898,4,11:18,MIN,91.0,CHA,96.0,A. Rivers,MIN,Rivers 1' Cutting Layup Shot (2 PTS) (Reid 2 AST),Made Shot,Cutting Layup Shot,-4,6,1,1,2.0,2.0,h
+S2223-G0898,4,09:57,MIN,,CHA,,A. Rivers,MIN,Rivers Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0898,4,06:19,MIN,,CHA,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,229,4,0,1,3.0,0.0,h
+S2223-G0898,4,03:45,MIN,,CHA,,A. Rivers,MIN,SUB: Anderson FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0932,2,09:09,LAC,,MIN,,A. Rivers,MIN,MISS Rivers 4' Running Layup,Missed Shot,Running Layup Shot,9,41,4,1,2.0,0.0,v
+S2223-G0932,2,08:58,LAC,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0932,2,08:41,LAC,,MIN,,A. Rivers,MIN,Rivers BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0932,2,06:14,LAC,,MIN,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0841,2,10:06,MEM,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P1.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0841,2,09:23,MEM,,MIN,,A. Rivers,MIN,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,104,231,25,1,3.0,0.0,v
+S2223-G0841,2,09:09,MEM,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0841,2,09:05,MEM,40.0,MIN,41.0,A. Rivers,MIN,Rivers Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0841,2,09:05,MEM,40.0,MIN,42.0,A. Rivers,MIN,Rivers Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0841,2,06:57,MEM,,MIN,,A. Rivers,MIN,MISS Rivers 26' 3PT Jump Shot,Missed Shot,Jump Shot,-141,214,26,1,3.0,0.0,v
+S2223-G0841,2,06:35,MEM,,MIN,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0841,4,11:23,MEM,103.0,MIN,88.0,A. Rivers,MIN,Rivers 1' Driving Finger Roll Layup (4 PTS) (McLaughlin 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,8,1,1,2.0,2.0,v
+S2223-G0841,4,10:49,MEM,,MIN,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0841,4,03:59,MEM,120.0,MIN,104.0,A. Rivers,MIN,Rivers 3PT Jump Shot (7 PTS) (Conley 3 AST),Made Shot,Jump Shot,230,-5,0,1,3.0,3.0,v
+S2223-G0841,4,03:41,MEM,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P2.T3) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0841,4,01:39,MEM,,MIN,,A. Rivers,MIN,SUB: Moore Jr. FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0482,1,06:46,BOS,15.0,MIN,12.0,A. Rivers,MIN,Rivers 6' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,2,60,6,1,2.0,2.0,v
+S2223-G0482,1,05:40,BOS,,MIN,,A. Rivers,MIN,Rivers Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0482,1,04:38,BOS,,MIN,,A. Rivers,MIN,MISS Rivers 4' Driving Layup,Missed Shot,Driving Layup Shot,-29,29,4,1,2.0,0.0,v
+S2223-G0482,1,04:37,BOS,,MIN,,A. Rivers,MIN,SUB: Reid FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0482,2,06:53,BOS,,MIN,,A. Rivers,MIN,SUB: Russell FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0482,3,11:38,BOS,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0482,3,10:05,BOS,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0482,3,09:58,BOS,,MIN,,A. Rivers,MIN,Rivers OFF.Foul (P1) (T.Maddox),Foul,Offensive,0,0,0,0,,,v
+S2223-G0482,3,09:58,BOS,,MIN,,A. Rivers,MIN,Rivers Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0482,3,08:22,BOS,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P2.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0482,3,05:58,BOS,,MIN,,A. Rivers,MIN,MISS Rivers 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-26,35,4,1,2.0,0.0,v
+S2223-G0482,3,05:45,BOS,,MIN,,A. Rivers,MIN,SUB: Nowell FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0482,4,05:30,BOS,,MIN,,A. Rivers,MIN,SUB: Nowell FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0601,1,01:47,HOU,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0601,2,07:44,HOU,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0601,2,07:39,HOU,48.0,MIN,38.0,A. Rivers,MIN,Rivers 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-17,6,2,1,2.0,2.0,v
+S2223-G0601,2,06:36,HOU,,MIN,,A. Rivers,MIN,MISS Rivers 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,24,24,1,3.0,0.0,v
+S2223-G0601,2,05:10,HOU,,MIN,,A. Rivers,MIN,SUB: Prince FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0601,4,11:37,HOU,,MIN,,A. Rivers,MIN,Rivers Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0601,4,09:48,HOU,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0601,4,09:17,HOU,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,21,0,1,3.0,0.0,v
+S2223-G0601,4,07:55,HOU,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0601,4,07:39,HOU,,MIN,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0291,1,07:42,MIN,,GSW,,A. Rivers,MIN,Rivers S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0291,1,07:04,MIN,,GSW,,A. Rivers,MIN,Rivers Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0291,1,04:04,MIN,,GSW,,A. Rivers,MIN,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-109,226,25,1,3.0,0.0,h
+S2223-G0291,1,03:39,MIN,,GSW,,A. Rivers,MIN,SUB: Forbes FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0291,2,03:56,MIN,,GSW,,A. Rivers,MIN,MISS Rivers 24' 3PT Jump Shot,Missed Shot,Jump Shot,228,75,24,1,3.0,0.0,h
+S2223-G0291,2,02:30,MIN,,GSW,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0291,2,01:48,MIN,,GSW,,A. Rivers,MIN,MISS Rivers 4' Layup,Missed Shot,Layup Shot,-15,32,4,1,2.0,0.0,h
+S2223-G0291,2,01:35,MIN,,GSW,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0291,2,01:16,MIN,,GSW,,A. Rivers,MIN,Rivers P.FOUL (P2.PN) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G0291,2,00:39.600000,MIN,53.0,GSW,74.0,A. Rivers,MIN,Rivers Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0291,2,00:39.600000,MIN,54.0,GSW,74.0,A. Rivers,MIN,Rivers Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0291,2,00:02,MIN,,GSW,,A. Rivers,MIN,Rivers P.FOUL (P3.PN) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G0291,3,06:22,MIN,69.0,GSW,90.0,A. Rivers,MIN,Rivers 3PT Running Jump Shot (5 PTS) (Russell 2 AST),Made Shot,Running Jump Shot,-227,5,0,1,3.0,3.0,h
+S2223-G0291,3,03:13,MIN,,GSW,,A. Rivers,MIN,SUB: Forbes FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0291,4,03:25,MIN,,GSW,,A. Rivers,MIN,SUB: Moore Jr. FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0696,1,01:30,MIN,,HOU,,A. Rivers,MIN,Rivers S.FOUL (P1.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0696,2,11:10,MIN,,HOU,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0696,2,09:21,MIN,,HOU,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,229,43,0,1,3.0,0.0,h
+S2223-G0696,2,08:43,MIN,,HOU,,A. Rivers,MIN,Rivers P.FOUL (P2.T1) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0696,2,06:25,MIN,,HOU,,A. Rivers,MIN,SUB: Prince FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0696,3,01:16,MIN,84.0,HOU,80.0,A. Rivers,MIN,Rivers 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-12,21,2,1,2.0,2.0,h
+S2223-G0696,4,11:33,MIN,,HOU,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0696,4,10:05,MIN,,HOU,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0696,4,05:03,MIN,,HOU,,A. Rivers,MIN,Rivers P.FOUL (P3.T4) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2223-G0696,4,03:48,MIN,,HOU,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-221,34,0,1,3.0,0.0,h
+S2223-G0696,4,03:22,MIN,,HOU,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0696,4,03:20,MIN,105.0,HOU,96.0,A. Rivers,MIN,Rivers 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,23,18,3,1,2.0,2.0,h
+S2223-G0317,1,02:11,MIN,,MEM,,A. Rivers,MIN,Rivers Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0317,1,00:58,MIN,,MEM,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0317,2,10:14,MIN,,MEM,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-233,28,0,1,3.0,0.0,h
+S2223-G0317,2,09:28,MIN,,MEM,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0317,2,09:19,MIN,,MEM,,A. Rivers,MIN,SUB: Moore Jr. FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0317,2,02:16,MIN,,MEM,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-232,-5,0,1,3.0,0.0,h
+S2223-G0317,3,04:32,MIN,,MEM,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0317,3,04:21,MIN,64.0,MEM,56.0,A. Rivers,MIN,Rivers 4' Driving Floating Jump Shot (2 PTS) (Nowell 2 AST),Made Shot,Driving Floating Jump Shot,-22,32,4,1,2.0,2.0,h
+S2223-G0317,3,04:21,MIN,65.0,MEM,56.0,A. Rivers,MIN,Rivers Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0317,3,01:41,MIN,74.0,MEM,67.0,A. Rivers,MIN,Rivers 3PT Jump Shot (6 PTS) (Edwards 3 AST),Made Shot,Jump Shot,229,14,0,1,3.0,3.0,h
+S2223-G0317,4,10:12,MIN,,MEM,,A. Rivers,MIN,Rivers S.FOUL (P1.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0317,4,10:12,MIN,,MEM,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0317,4,03:43,MIN,,MEM,,A. Rivers,MIN,SUB: Russell FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0317,4,00:42.800000,MIN,,MEM,,A. Rivers,MIN,SUB: Russell FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0272,1,02:36,CHA,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P1.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0272,1,02:20,CHA,24.0,MIN,28.0,A. Rivers,MIN,Rivers Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0272,1,02:20,CHA,24.0,MIN,29.0,A. Rivers,MIN,Rivers Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0272,1,00:14.100000,CHA,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P2.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0272,2,11:33,CHA,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0272,2,09:45,CHA,31.0,MIN,40.0,A. Rivers,MIN,Rivers 1' Running Layup (4 PTS) (Edwards 2 AST),Made Shot,Running Layup Shot,2,8,1,1,2.0,2.0,v
+S2223-G0272,2,08:34,CHA,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-227,-1,0,1,3.0,0.0,v
+S2223-G0272,2,08:17,CHA,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0272,2,07:40,CHA,,MIN,,A. Rivers,MIN,SUB: Russell FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0272,3,03:48,CHA,,MIN,,A. Rivers,MIN,Rivers Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0272,4,09:10,CHA,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0272,4,08:42,CHA,,MIN,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0272,4,08:25,CHA,,MIN,,A. Rivers,MIN,SUB: Towns FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0423,1,04:35,LAC,7.0,MIN,14.0,A. Rivers,MIN,Rivers Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0423,1,04:35,LAC,7.0,MIN,15.0,A. Rivers,MIN,Rivers Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0423,1,03:57,LAC,,MIN,,A. Rivers,MIN,SUB: Nowell FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0423,2,11:47,LAC,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P1.T1) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0423,2,11:05,LAC,,MIN,,A. Rivers,MIN,MISS Rivers 2' Driving Layup,Missed Shot,Driving Layup Shot,17,10,2,1,2.0,0.0,v
+S2223-G0423,2,08:25,LAC,,MIN,,A. Rivers,MIN,MISS Rivers 1' Running Dunk,Missed Shot,Running Dunk Shot,10,7,1,1,2.0,0.0,v
+S2223-G0423,2,08:18,LAC,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-230,28,0,1,3.0,0.0,v
+S2223-G0423,2,03:58,LAC,,MIN,,A. Rivers,MIN,SUB: Anderson FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0423,3,10:16,LAC,,MIN,,A. Rivers,MIN,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-157,197,25,1,3.0,0.0,v
+S2223-G0423,3,09:12,LAC,43.0,MIN,48.0,A. Rivers,MIN,Rivers 24' 3PT Jump Shot (5 PTS) (Edwards 2 AST),Made Shot,Jump Shot,237,34,24,1,3.0,3.0,v
+S2223-G0423,3,05:37,LAC,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-227,38,0,1,3.0,0.0,v
+S2223-G0423,3,04:35,LAC,,MIN,,A. Rivers,MIN,SUB: Nowell FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0423,4,06:42,LAC,,MIN,,A. Rivers,MIN,MISS Rivers 11' Floating Jump Shot,Missed Shot,Floating Jump shot,-4,111,11,1,2.0,0.0,v
+S2223-G0423,4,06:35,LAC,,MIN,,A. Rivers,MIN,SUB: Anderson FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0618,1,11:32,DET,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0618,1,10:25,DET,,MIN,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0618,1,08:06,DET,,MIN,,A. Rivers,MIN,Rivers STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0618,1,07:26,DET,,MIN,,A. Rivers,MIN,MISS Rivers 27' 3PT Jump Shot,Missed Shot,Jump Shot,-202,182,27,1,3.0,0.0,v
+S2223-G0618,1,06:02,DET,8.0,MIN,16.0,A. Rivers,MIN,Rivers 24' 3PT Jump Shot (3 PTS) (Edwards 2 AST),Made Shot,Jump Shot,-238,-4,24,1,3.0,3.0,v
+S2223-G0618,1,04:42,DET,,MIN,,A. Rivers,MIN,SUB: Forbes FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0618,2,08:41,DET,41.0,MIN,47.0,A. Rivers,MIN,Rivers 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,10,-6,1,1,2.0,2.0,v
+S2223-G0618,2,08:32,DET,,MIN,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0618,2,05:07,DET,,MIN,,A. Rivers,MIN,Rivers STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0618,2,03:07,DET,,MIN,,A. Rivers,MIN,MISS Rivers 3' Driving Layup,Missed Shot,Driving Layup Shot,-31,3,3,1,2.0,0.0,v
+S2223-G0618,2,01:07,DET,,MIN,,A. Rivers,MIN,MISS Rivers 27' 3PT Jump Shot,Missed Shot,Jump Shot,157,219,27,1,3.0,0.0,v
+S2223-G0618,3,11:01,DET,,MIN,,A. Rivers,MIN,Rivers BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0618,3,08:54,DET,,MIN,,A. Rivers,MIN,Rivers Traveling Turnover (P1.T10),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0618,3,07:53,DET,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0618,3,06:02,DET,83.0,MIN,77.0,A. Rivers,MIN,Rivers 24' 3PT Jump Shot (8 PTS) (McDaniels 3 AST),Made Shot,Jump Shot,239,6,24,1,3.0,3.0,v
+S2223-G0618,3,05:44,DET,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0618,3,05:38,DET,,MIN,,A. Rivers,MIN,Rivers Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0618,3,05:35,DET,,MIN,,A. Rivers,MIN,SUB: Reid FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0618,4,00:51.800000,DET,,MIN,,A. Rivers,MIN,Rivers P.FOUL (P1.PN) (B.Haskill),Foul,Personal,0,0,0,0,,,v
+S2223-G0435,1,10:56,OKC,3.0,MIN,5.0,A. Rivers,MIN,Rivers 3PT Jump Shot (3 PTS) (Edwards 1 AST),Made Shot,Jump Shot,-228,-15,0,1,3.0,3.0,v
+S2223-G0435,1,08:51,OKC,,MIN,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0435,1,06:27,OKC,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0435,1,05:08,OKC,,MIN,,A. Rivers,MIN,SUB: Forbes FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0435,2,08:04,OKC,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-227,-25,0,1,3.0,0.0,v
+S2223-G0435,2,05:31,OKC,43.0,MIN,43.0,A. Rivers,MIN,Rivers 24' 3PT Jump Shot (6 PTS) (Nowell 1 AST),Made Shot,Jump Shot,-191,147,24,1,3.0,3.0,v
+S2223-G0435,2,04:41,OKC,,MIN,,A. Rivers,MIN,Rivers STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0435,2,04:38,OKC,43.0,MIN,46.0,A. Rivers,MIN,Rivers Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0435,2,04:38,OKC,43.0,MIN,47.0,A. Rivers,MIN,Rivers Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0435,2,04:25,OKC,,MIN,,A. Rivers,MIN,Rivers STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0435,2,03:20,OKC,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0435,2,03:14,OKC,43.0,MIN,52.0,A. Rivers,MIN,Rivers Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0435,2,03:14,OKC,43.0,MIN,53.0,A. Rivers,MIN,Rivers Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0435,3,07:44,OKC,,MIN,,A. Rivers,MIN,Rivers STEAL (4 STL),,,0,0,0,0,,,v
+S2223-G0435,3,06:47,OKC,,MIN,,A. Rivers,MIN,SUB: Forbes FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0435,3,02:56,OKC,,MIN,,A. Rivers,MIN,Rivers Traveling Turnover (P1.T10),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0435,3,02:48,OKC,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P1.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G0435,3,01:11,OKC,,MIN,,A. Rivers,MIN,Rivers STEAL (5 STL),,,0,0,0,0,,,v
+S2223-G0435,3,01:04,OKC,80.0,MIN,88.0,A. Rivers,MIN,Rivers 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,7,5,1,1,2.0,2.0,v
+S2223-G0435,3,00:11.700000,OKC,,MIN,,A. Rivers,MIN,Rivers Traveling Turnover (P2.T12),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0435,4,11:48,OKC,91.0,MIN,91.0,A. Rivers,MIN,Rivers 3PT Jump Shot (15 PTS) (Anderson 2 AST),Made Shot,Jump Shot,-227,17,0,1,3.0,3.0,v
+S2223-G0435,4,08:21,OKC,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0435,4,08:02,OKC,96.0,MIN,100.0,A. Rivers,MIN,Rivers 1' Driving Reverse Layup (17 PTS),Made Shot,Driving Reverse Layup Shot,11,9,1,1,2.0,2.0,v
+S2223-G0435,4,07:30,OKC,,MIN,,A. Rivers,MIN,Rivers Traveling Turnover (P3.T14),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0435,4,07:27,OKC,,MIN,,A. Rivers,MIN,Rivers T.FOUL (P1.T1) (B.Forte),Foul,Technical,0,0,0,0,,,v
+S2223-G0435,4,06:46,OKC,,MIN,,A. Rivers,MIN,Rivers AWAY.FROM.PLAY.FOUL (P2.T2) (B.Forte),Foul,Away From Play,0,0,0,0,,,v
+S2223-G0435,4,06:46,OKC,,MIN,,A. Rivers,MIN,SUB: Anderson FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0435,4,00:11.800000,OKC,107.0,MIN,111.0,A. Rivers,MIN,Rivers 3PT Jump Shot (20 PTS),Made Shot,Jump Shot,-229,42,0,1,3.0,3.0,v
+S2223-G0435,4,00:07.200000,OKC,,MIN,,A. Rivers,MIN,SUB: Knight FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0435,4,00:03.400000,OKC,,MIN,,A. Rivers,MIN,Rivers P.FOUL (P3.PN) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2223-G0435,4,00:03.400000,OKC,,MIN,,A. Rivers,MIN,SUB: Knight FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0571,1,03:58,MIN,,POR,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0571,1,02:40,MIN,,POR,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0571,2,11:02,MIN,,POR,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0571,2,07:40,MIN,,POR,,A. Rivers,MIN,SUB: Nowell FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0571,2,03:04,MIN,,POR,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,229,0,0,1,3.0,0.0,h
+S2223-G0571,2,01:49,MIN,55.0,POR,49.0,A. Rivers,MIN,Rivers 3PT Jump Shot (3 PTS) (Nowell 3 AST),Made Shot,Jump Shot,-229,33,0,1,3.0,3.0,h
+S2223-G0571,2,01:25,MIN,,POR,,A. Rivers,MIN,Rivers Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0571,3,07:50,MIN,67.0,POR,64.0,A. Rivers,MIN,Rivers 3PT Jump Shot (6 PTS) (Edwards 2 AST),Made Shot,Jump Shot,-225,6,0,1,3.0,3.0,h
+S2223-G0571,3,05:54,MIN,,POR,,A. Rivers,MIN,Rivers S.FOUL (P1.T4) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0571,3,01:45,MIN,,POR,,A. Rivers,MIN,Rivers STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0571,3,01:38,MIN,85.0,POR,81.0,A. Rivers,MIN,Rivers Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0571,3,01:38,MIN,,POR,,A. Rivers,MIN,MISS Rivers Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0571,4,04:14,MIN,,POR,,A. Rivers,MIN,Rivers S.FOUL (P2.T4) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G0571,4,04:14,MIN,,POR,,A. Rivers,MIN,SUB: Prince FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0025,2,04:15,MIN,,UTA,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0025,2,03:03,MIN,,UTA,,A. Rivers,MIN,MISS Rivers 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,20,12,2,1,2.0,0.0,h
+S2223-G0025,4,00:22.300000,MIN,,UTA,,A. Rivers,MIN,SUB: Russell FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0025,5,00:12.600000,MIN,,UTA,,A. Rivers,MIN,SUB: Towns FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G1073,4,08:31,NYK,,MIN,,A. Rivers,MIN,SUB: Gobert FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0662,1,02:56,MIN,,UTA,,A. Rivers,MIN,MISS Rivers 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-7,27,3,1,2.0,0.0,h
+S2223-G0662,2,11:39,MIN,,UTA,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0662,2,10:54,MIN,32.0,UTA,29.0,A. Rivers,MIN,Rivers 3' Driving Layup (2 PTS) (Garza 1 AST),Made Shot,Driving Layup Shot,23,23,3,1,2.0,2.0,h
+S2223-G0662,2,10:00,MIN,,UTA,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0662,2,07:04,MIN,,UTA,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0662,3,06:10,MIN,,UTA,,A. Rivers,MIN,Rivers S.FOUL (P1.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0662,3,04:34,MIN,,UTA,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-229,-4,0,1,3.0,0.0,h
+S2223-G0662,3,00:48.400000,MIN,,UTA,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0662,4,11:47,MIN,97.0,UTA,87.0,A. Rivers,MIN,Rivers 3' Driving Finger Roll Layup (4 PTS) (Russell 6 AST),Made Shot,Driving Finger Roll Layup Shot,-7,27,3,1,2.0,2.0,h
+S2223-G0662,4,09:12,MIN,102.0,UTA,97.0,A. Rivers,MIN,Rivers 3PT Jump Shot (7 PTS) (Nowell 1 AST),Made Shot,Jump Shot,-225,6,0,1,3.0,3.0,h
+S2223-G0662,4,06:06,MIN,,UTA,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,227,36,0,1,3.0,0.0,h
+S2223-G0662,4,05:11,MIN,,UTA,,A. Rivers,MIN,Rivers S.FOUL (P2.T1) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2223-G0662,4,01:14,MIN,123.0,UTA,125.0,A. Rivers,MIN,Rivers 3PT Jump Shot (10 PTS) (Anderson 10 AST),Made Shot,Jump Shot,-228,10,0,1,3.0,3.0,h
+S2223-G0662,4,00:04.200000,MIN,,UTA,,A. Rivers,MIN,Rivers P.FOUL (P3.PN) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2223-G0662,4,00:04.200000,MIN,,UTA,,A. Rivers,MIN,SUB: Knight FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0341,1,02:18,MIN,,OKC,,A. Rivers,MIN,Rivers Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0341,1,01:05,MIN,,OKC,,A. Rivers,MIN,Rivers Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0341,1,00:18.900000,MIN,29.0,OKC,32.0,A. Rivers,MIN,Rivers 6' Driving Floating Jump Shot (2 PTS) (Nowell 1 AST),Made Shot,Driving Floating Jump Shot,18,58,6,1,2.0,2.0,h
+S2223-G0341,2,11:13,MIN,,OKC,,A. Rivers,MIN,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,70,245,25,1,3.0,0.0,h
+S2223-G0341,2,10:54,MIN,,OKC,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0341,2,09:22,MIN,,OKC,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0341,3,02:15,MIN,,OKC,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0341,3,01:41,MIN,,OKC,,A. Rivers,MIN,Rivers S.FOUL (P1.T4) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0341,4,10:28,MIN,,OKC,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,232,10,0,1,3.0,0.0,h
+S2223-G0341,4,08:44,MIN,109.0,OKC,107.0,A. Rivers,MIN,Rivers Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0341,4,08:44,MIN,110.0,OKC,107.0,A. Rivers,MIN,Rivers Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0341,4,07:58,MIN,,OKC,,A. Rivers,MIN,Rivers P.FOUL (P2.T2) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2223-G0341,4,07:08,MIN,,OKC,,A. Rivers,MIN,SUB: McLaughlin FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0746,1,01:46,MIN,,SAC,,A. Rivers,MIN,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-201,145,25,1,3.0,0.0,h
+S2223-G0746,2,09:29,MIN,36.0,SAC,29.0,A. Rivers,MIN,Rivers 1' Running Dunk (2 PTS) (Russell 3 AST),Made Shot,Running Dunk Shot,-2,8,1,1,2.0,2.0,h
+S2223-G0746,2,06:11,MIN,,SAC,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0746,2,06:02,MIN,,SAC,,A. Rivers,MIN,Rivers Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0746,2,03:12,MIN,,SAC,,A. Rivers,MIN,Rivers S.FOUL (P1.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0746,2,03:12,MIN,,SAC,,A. Rivers,MIN,SUB: Russell FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0746,4,11:42,MIN,,SAC,,A. Rivers,MIN,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,157,194,25,1,3.0,0.0,h
+S2223-G0746,4,10:10,MIN,,SAC,,A. Rivers,MIN,Rivers S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0746,4,08:31,MIN,,SAC,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0300,1,08:36,WAS,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0300,1,03:51,WAS,,MIN,,A. Rivers,MIN,SUB: Nowell FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0300,2,05:51,WAS,,MIN,,A. Rivers,MIN,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-194,162,25,1,3.0,0.0,v
+S2223-G0300,2,05:10,WAS,,MIN,,A. Rivers,MIN,MISS Rivers 24' 3PT Jump Shot,Missed Shot,Jump Shot,212,119,24,1,3.0,0.0,v
+S2223-G0300,2,03:14,WAS,68.0,MIN,46.0,A. Rivers,MIN,Rivers 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,29,3,3,1,2.0,2.0,v
+S2223-G0300,2,03:00,WAS,,MIN,,A. Rivers,MIN,SUB: Nowell FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0300,2,01:00,WAS,,MIN,,A. Rivers,MIN,Rivers P.FOUL (P2.PN) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2223-G0300,2,00:06.400000,WAS,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0300,3,04:06,WAS,,MIN,,A. Rivers,MIN,MISS Rivers 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,-14,24,1,3.0,0.0,v
+S2223-G0300,3,03:00,WAS,100.0,MIN,86.0,A. Rivers,MIN,Rivers 6' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-54,27,6,1,2.0,2.0,v
+S2223-G0300,4,10:44,WAS,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P3.T1) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0300,4,10:44,WAS,,MIN,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0300,4,04:49,WAS,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P4.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0300,4,04:30,WAS,,MIN,,A. Rivers,MIN,SUB: Moore Jr. FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0394,2,08:28,POR,,MIN,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0394,2,02:13,POR,,MIN,,A. Rivers,MIN,MISS Rivers 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,61,57,8,1,2.0,0.0,v
+S2223-G0394,2,00:39.200000,POR,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0394,2,00:20.200000,POR,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0394,3,02:59,POR,,MIN,,A. Rivers,MIN,Rivers Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0394,3,00:55.400000,POR,,MIN,,A. Rivers,MIN,Rivers P.FOUL (P2.PN) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,v
+S2223-G0394,4,08:39,POR,,MIN,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0370,1,01:36,MIN,,IND,,A. Rivers,MIN,Rivers S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0370,1,01:00,MIN,35.0,IND,16.0,A. Rivers,MIN,Rivers 2' Running Dunk (2 PTS) (Edwards 2 AST),Made Shot,Running Dunk Shot,-7,14,2,1,2.0,2.0,h
+S2223-G0370,1,00:21.500000,MIN,,IND,,A. Rivers,MIN,Rivers S.FOUL (P2.PN) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0370,2,09:28,MIN,,IND,,A. Rivers,MIN,Rivers S.FOUL (P3.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0370,2,09:28,MIN,,IND,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0370,2,00:25.100000,MIN,,IND,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0370,3,06:55,MIN,,IND,,A. Rivers,MIN,SUB: Anderson FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0370,3,00:36.100000,MIN,,IND,,A. Rivers,MIN,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-180,167,25,1,3.0,0.0,h
+S2223-G0370,3,00:11.700000,MIN,,IND,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0370,4,10:22,MIN,,IND,,A. Rivers,MIN,MISS Rivers 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-61,67,9,1,2.0,0.0,h
+S2223-G0370,4,05:34,MIN,,IND,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0370,4,00:08.100000,MIN,,IND,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0262,1,00:00,IND,,MIN,,A. Rivers,MIN,MISS Rivers 42' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,205,372,42,1,3.0,0.0,v
+S2223-G0262,2,11:10,IND,,MIN,,A. Rivers,MIN,MISS Rivers Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0262,2,11:10,IND,23.0,MIN,30.0,A. Rivers,MIN,Rivers Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0262,2,10:07,IND,27.0,MIN,32.0,A. Rivers,MIN,Rivers 1' Driving Layup (3 PTS),Made Shot,Driving Layup Shot,1,14,1,1,2.0,2.0,v
+S2223-G0262,2,09:55,IND,27.0,MIN,35.0,A. Rivers,MIN,Rivers 24' 3PT Running Jump Shot (6 PTS) (Nowell 1 AST),Made Shot,Running Jump Shot,239,16,24,1,3.0,3.0,v
+S2223-G0262,2,06:27,IND,,MIN,,A. Rivers,MIN,SUB: Anderson FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0262,4,06:44,IND,,MIN,,A. Rivers,MIN,MISS Rivers 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-214,147,26,1,3.0,0.0,v
+S2223-G0262,4,05:04,IND,,MIN,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0385,1,02:04,UTA,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-219,-1,0,1,3.0,0.0,v
+S2223-G0385,1,01:19,UTA,,MIN,,A. Rivers,MIN,MISS Rivers 4' Running Layup,Missed Shot,Running Layup Shot,1,35,4,1,2.0,0.0,v
+S2223-G0385,2,08:06,UTA,30.0,MIN,39.0,A. Rivers,MIN,Rivers 4' Driving Layup (2 PTS) (Nowell 2 AST),Made Shot,Driving Layup Shot,40,10,4,1,2.0,2.0,v
+S2223-G0385,2,06:22,UTA,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P1.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2223-G0385,2,05:50,UTA,,MIN,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0385,3,05:20,UTA,65.0,MIN,75.0,A. Rivers,MIN,Rivers 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,229,25,0,1,3.0,3.0,v
+S2223-G0385,3,03:22,UTA,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0385,3,03:14,UTA,,MIN,,A. Rivers,MIN,MISS Rivers 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,53,5,1,2.0,0.0,v
+S2223-G0385,3,01:27,UTA,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0385,4,10:36,UTA,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,225,17,0,1,3.0,0.0,v
+S2223-G0385,4,10:27,UTA,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P2.T2) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2223-G0385,4,08:12,UTA,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0385,4,07:03,UTA,,MIN,,A. Rivers,MIN,SUB: Reid FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0645,2,10:07,MIN,,CLE,,A. Rivers,MIN,SUB: Russell FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0645,3,08:50,MIN,,CLE,,A. Rivers,MIN,MISS Rivers 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,98,24,10,1,2.0,0.0,h
+S2223-G0645,3,07:23,MIN,58.0,CLE,69.0,A. Rivers,MIN,Rivers 3PT Jump Shot (3 PTS) (Edwards 4 AST),Made Shot,Jump Shot,-229,2,0,1,3.0,3.0,h
+S2223-G0645,3,03:01,MIN,,CLE,,A. Rivers,MIN,MISS Rivers 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-222,26,0,1,3.0,0.0,h
+S2223-G0645,3,00:00.300000,MIN,,CLE,,A. Rivers,MIN,MISS Rivers 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-227,70,24,1,3.0,0.0,h
+S2223-G0645,4,09:34,MIN,84.0,CLE,82.0,A. Rivers,MIN,Rivers Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,2,0,1,2.0,2.0,h
+S2223-G0645,4,06:19,MIN,95.0,CLE,90.0,A. Rivers,MIN,Rivers 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-5,5,1,1,2.0,2.0,h
+S2223-G0645,4,06:04,MIN,,CLE,,A. Rivers,MIN,SUB: Reid FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0193,1,00:02,CLE,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P1.PN) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2223-G0193,4,00:08.300000,CLE,,MIN,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0557,1,03:06,MIN,21.0,DEN,15.0,A. Rivers,MIN,Rivers 3PT Jump Shot (3 PTS) (Edwards 2 AST),Made Shot,Jump Shot,224,30,0,1,3.0,3.0,h
+S2223-G0557,1,02:08,MIN,,DEN,,A. Rivers,MIN,Rivers S.FOUL (P1.PN) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0557,1,00:43.500000,MIN,,DEN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0557,1,00:31.900000,MIN,,DEN,,A. Rivers,MIN,MISS Rivers 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-109,226,25,1,3.0,0.0,h
+S2223-G0557,2,09:17,MIN,32.0,DEN,29.0,A. Rivers,MIN,Rivers Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0557,2,09:17,MIN,33.0,DEN,29.0,A. Rivers,MIN,Rivers Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0557,2,07:37,MIN,,DEN,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0557,2,03:01,MIN,,DEN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-225,9,0,1,3.0,0.0,h
+S2223-G0557,4,05:55,MIN,,DEN,,A. Rivers,MIN,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-54,247,25,1,3.0,0.0,h
+S2223-G0557,4,03:21,MIN,,DEN,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0557,4,01:44,MIN,118.0,DEN,107.0,A. Rivers,MIN,Rivers 3PT Jump Shot (8 PTS) (McDaniels 4 AST),Made Shot,Jump Shot,228,-3,0,1,3.0,3.0,h
+S2223-G0500,1,11:04,MIA,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0500,1,10:09,MIA,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0500,1,10:06,MIA,,MIN,,A. Rivers,MIN,Rivers Discontinue Dribble Turnover (P1.T1),Turnover,Discontinue Dribble,0,0,0,0,,,v
+S2223-G0500,1,09:45,MIA,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0500,1,09:20,MIA,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,232,-9,0,1,3.0,0.0,v
+S2223-G0500,1,05:57,MIA,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0500,1,05:52,MIA,13.0,MIN,14.0,A. Rivers,MIN,Rivers 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-28,0,3,1,2.0,2.0,v
+S2223-G0500,1,05:11,MIA,,MIN,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0500,1,04:30,MIA,,MIN,,A. Rivers,MIN,SUB: Forbes FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0500,2,08:31,MIA,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0500,2,08:23,MIA,38.0,MIN,33.0,A. Rivers,MIN,Rivers 5' Driving Layup (4 PTS) (Russell 2 AST),Made Shot,Driving Layup Shot,18,47,5,1,2.0,2.0,v
+S2223-G0500,2,00:17.100000,MIA,,MIN,,A. Rivers,MIN,MISS Rivers 7' Driving Layup,Missed Shot,Driving Layup Shot,-28,65,7,1,2.0,0.0,v
+S2223-G0500,3,08:32,MIA,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-230,1,0,1,3.0,0.0,v
+S2223-G0500,3,07:19,MIA,,MIN,,A. Rivers,MIN,SUB: Ryan FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0500,4,08:08,MIA,100.0,MIN,95.0,A. Rivers,MIN,Rivers 7' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,61,38,7,1,2.0,2.0,v
+S2223-G0500,4,08:08,MIA,100.0,MIN,96.0,A. Rivers,MIN,Rivers Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0500,4,07:57,MIA,,MIN,,A. Rivers,MIN,Rivers P.FOUL (P1.T1) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0500,4,06:50,MIA,,MIN,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0500,4,01:52,MIA,111.0,MIN,108.0,A. Rivers,MIN,Rivers 3PT Jump Shot (10 PTS) (McDaniels 3 AST),Made Shot,Jump Shot,-234,-2,0,1,3.0,3.0,v
+S2223-G0500,4,01:00,MIA,,MIN,,A. Rivers,MIN,MISS Rivers 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,10,34,4,1,2.0,0.0,v
+S2223-G0500,4,00:02.500000,MIA,,MIN,,A. Rivers,MIN,SUB: Russell FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0916,1,04:42,GSW,,MIN,,A. Rivers,MIN,MISS Rivers 7' Driving Layup,Missed Shot,Driving Layup Shot,39,53,7,1,2.0,0.0,v
+S2223-G0916,1,01:24,GSW,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P1.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0916,2,09:34,GSW,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-225,-15,0,1,3.0,0.0,v
+S2223-G0916,2,09:16,GSW,,MIN,,A. Rivers,MIN,SUB: Reid FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0916,2,00:58.800000,GSW,,MIN,,A. Rivers,MIN,MISS Rivers 5' Running Layup,Missed Shot,Running Layup Shot,34,34,5,1,2.0,0.0,v
+S2223-G0916,2,00:19.900000,GSW,,MIN,,A. Rivers,MIN,MISS Rivers Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0916,2,00:19.900000,GSW,,MIN,,A. Rivers,MIN,MISS Rivers Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0916,3,00:37.100000,GSW,,MIN,,A. Rivers,MIN,MISS Rivers 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,29,23,4,1,2.0,0.0,v
+S2223-G0916,4,11:27,GSW,78.0,MIN,90.0,A. Rivers,MIN,Rivers 26' 3PT Jump Shot (3 PTS) (Conley 6 AST),Made Shot,Jump Shot,212,142,26,1,3.0,3.0,v
+S2223-G0916,4,11:06,GSW,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P2.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0916,4,09:37,GSW,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0916,4,08:20,GSW,84.0,MIN,94.0,A. Rivers,MIN,Rivers 26' 3PT Jump Shot (6 PTS) (Conley 7 AST),Made Shot,Jump Shot,-201,163,26,1,3.0,3.0,v
+S2223-G0916,4,06:52,GSW,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,229,-3,0,1,3.0,0.0,v
+S2223-G0916,4,06:30,GSW,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,234,5,0,1,3.0,0.0,v
+S2223-G0916,4,05:07,GSW,,MIN,,A. Rivers,MIN,MISS Rivers Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0916,4,05:07,GSW,,MIN,,A. Rivers,MIN,MISS Rivers Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0916,4,04:48,GSW,,MIN,,A. Rivers,MIN,SUB: Anderson FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0520,1,08:53,NOP,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0520,1,08:05,NOP,,MIN,,A. Rivers,MIN,MISS Rivers 7' Driving Layup,Missed Shot,Driving Layup Shot,16,63,7,1,2.0,0.0,v
+S2223-G0520,1,04:56,NOP,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0520,1,04:24,NOP,,MIN,,A. Rivers,MIN,SUB: Forbes FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0520,2,09:42,NOP,,MIN,,A. Rivers,MIN,Rivers P.FOUL (P1.T3) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2223-G0520,2,09:09,NOP,,MIN,,A. Rivers,MIN,MISS Rivers 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,1,24,1,3.0,0.0,v
+S2223-G0520,2,06:38,NOP,34.0,MIN,39.0,A. Rivers,MIN,Rivers 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-18,4,2,1,2.0,2.0,v
+S2223-G0520,2,06:38,NOP,,MIN,,A. Rivers,MIN,MISS Rivers Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0520,2,01:34,NOP,,MIN,,A. Rivers,MIN,SUB: Gobert FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0520,3,09:36,NOP,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P2.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0520,3,07:18,NOP,62.0,MIN,72.0,A. Rivers,MIN,Rivers 25' 3PT Jump Shot (5 PTS) (Reid 1 AST),Made Shot,Jump Shot,238,59,25,1,3.0,3.0,v
+S2223-G0520,3,05:56,NOP,,MIN,,A. Rivers,MIN,SUB: Nowell FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0520,3,02:49,NOP,,MIN,,A. Rivers,MIN,MISS Rivers 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,29,24,1,3.0,0.0,v
+S2223-G0520,3,01:54,NOP,,MIN,,A. Rivers,MIN,Rivers FLAGRANT.FOUL.TYPE1 (P3.PN) (M.Ervin),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2223-G0520,3,00:28.100000,NOP,,MIN,,A. Rivers,MIN,Rivers L.B.FOUL (P4.PN) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0520,4,11:43,NOP,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,228,40,0,1,3.0,0.0,v
+S2223-G0520,4,10:30,NOP,,MIN,,A. Rivers,MIN,Rivers P.FOUL (P5.T1) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G0520,4,07:38,NOP,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P6.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0520,4,07:38,NOP,,MIN,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0473,1,10:47,MIN,,DAL,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0473,1,10:41,MIN,,DAL,,A. Rivers,MIN,MISS Rivers 3' Driving Layup,Missed Shot,Driving Layup Shot,-17,21,3,1,2.0,0.0,h
+S2223-G0473,1,10:15,MIN,,DAL,,A. Rivers,MIN,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-173,178,25,1,3.0,0.0,h
+S2223-G0473,1,09:37,MIN,,DAL,,A. Rivers,MIN,Rivers S.FOUL (P1.T2) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0473,1,09:17,MIN,,DAL,,A. Rivers,MIN,Rivers REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0473,1,06:40,MIN,13.0,DAL,13.0,A. Rivers,MIN,Rivers 2' Driving Finger Roll Layup (2 PTS) (McDaniels 1 AST),Made Shot,Driving Finger Roll Layup Shot,10,19,2,1,2.0,2.0,h
+S2223-G0473,1,05:18,MIN,,DAL,,A. Rivers,MIN,Rivers S.FOUL (P2.T3) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0473,1,04:51,MIN,,DAL,,A. Rivers,MIN,SUB: Forbes FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0473,2,06:42,MIN,35.0,DAL,40.0,A. Rivers,MIN,Rivers 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,44,9,4,1,2.0,2.0,h
+S2223-G0473,2,06:27,MIN,,DAL,,A. Rivers,MIN,Rivers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0473,2,04:44,MIN,,DAL,,A. Rivers,MIN,Rivers REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0473,2,04:38,MIN,42.0,DAL,44.0,A. Rivers,MIN,Rivers 3' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,-26,14,3,1,2.0,2.0,h
+S2223-G0473,2,03:05,MIN,47.0,DAL,47.0,A. Rivers,MIN,Rivers 3PT Jump Shot (9 PTS) (Edwards 3 AST),Made Shot,Jump Shot,-225,8,0,1,3.0,3.0,h
+S2223-G0473,2,02:27,MIN,50.0,DAL,47.0,A. Rivers,MIN,Rivers 3PT Jump Shot (12 PTS) (Edwards 4 AST),Made Shot,Jump Shot,-228,25,0,1,3.0,3.0,h
+S2223-G0473,3,11:45,MIN,,DAL,,A. Rivers,MIN,Rivers STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0473,3,11:42,MIN,53.0,DAL,51.0,A. Rivers,MIN,Rivers Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0473,3,11:42,MIN,54.0,DAL,51.0,A. Rivers,MIN,Rivers Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0473,3,07:14,MIN,,DAL,,A. Rivers,MIN,Rivers P.FOUL (P3.T1) (J.Capers),Foul,Personal,0,0,0,0,,,h
+S2223-G0473,3,07:05,MIN,,DAL,,A. Rivers,MIN,Rivers S.FOUL (P4.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0473,3,07:05,MIN,,DAL,,A. Rivers,MIN,SUB: Nowell FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0473,4,09:59,MIN,,DAL,,A. Rivers,MIN,MISS Rivers 1' Running Layup,Missed Shot,Running Layup Shot,-9,10,1,1,2.0,0.0,h
+S2223-G0473,4,08:25,MIN,,DAL,,A. Rivers,MIN,MISS Rivers 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,77,34,8,1,2.0,0.0,h
+S2223-G0473,4,08:03,MIN,83.0,DAL,80.0,A. Rivers,MIN,Rivers 1' Running Layup (16 PTS) (Edwards 5 AST),Made Shot,Running Layup Shot,4,-3,1,1,2.0,2.0,h
+S2223-G0473,4,03:14,MIN,94.0,DAL,97.0,A. Rivers,MIN,Rivers 3PT Jump Shot (19 PTS) (Russell 7 AST),Made Shot,Jump Shot,-227,6,0,1,3.0,3.0,h
+S2223-G0473,4,02:06,MIN,,DAL,,A. Rivers,MIN,Rivers REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0473,4,01:23,MIN,,DAL,,A. Rivers,MIN,MISS Rivers 26' 3PT Jump Shot,Missed Shot,Jump Shot,-154,206,26,1,3.0,0.0,h
+S2223-G0473,4,00:00.600000,MIN,99.0,DAL,104.0,A. Rivers,MIN,Rivers 2' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,4,20,2,1,2.0,2.0,h
+S2223-G0865,1,00:05.100000,DAL,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,-232,5,0,1,3.0,0.0,v
+S2223-G0865,2,09:27,DAL,34.0,MIN,39.0,A. Rivers,MIN,Rivers 2' Driving Layup (2 PTS) (McLaughlin 2 AST),Made Shot,Driving Layup Shot,-17,10,2,1,2.0,2.0,v
+S2223-G0865,2,08:34,DAL,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0865,2,07:14,DAL,,MIN,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0865,2,06:16,DAL,,MIN,,A. Rivers,MIN,MISS Rivers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-216,119,25,1,3.0,0.0,v
+S2223-G0865,2,06:14,DAL,,MIN,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0865,2,01:22,DAL,,MIN,,A. Rivers,MIN,MISS Rivers 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-230,-1,0,1,3.0,0.0,v
+S2223-G0865,3,04:09,DAL,,MIN,,A. Rivers,MIN,Rivers S.FOUL (P2.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0865,3,03:49,DAL,,MIN,,A. Rivers,MIN,SUB: Nowell FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0865,4,05:47,DAL,,MIN,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0865,4,04:10,DAL,,MIN,,A. Rivers,MIN,SUB: Prince FOR Rivers,Substitution,,0,0,0,0,,,v
+S2223-G0737,1,03:24,MIN,,MEM,,A. Rivers,MIN,Rivers P.FOUL (P1.T4) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2223-G0737,1,02:08,MIN,,MEM,,A. Rivers,MIN,Rivers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0737,2,05:48,MIN,,MEM,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0737,2,05:00,MIN,,MEM,,A. Rivers,MIN,SUB: McDaniels FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0737,4,08:52,MIN,,MEM,,A. Rivers,MIN,Rivers STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0737,4,08:50,MIN,94.0,MEM,81.0,A. Rivers,MIN,Rivers 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,0,10,1,1,2.0,2.0,h
+S2223-G0737,4,03:11,MIN,,MEM,,A. Rivers,MIN,MISS Rivers 24' 3PT Jump Shot,Missed Shot,Jump Shot,-181,159,24,1,3.0,0.0,h
+S2223-G0737,4,03:01,MIN,,MEM,,A. Rivers,MIN,SUB: Russell FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0449,1,01:12,MIN,31.0,CHI,29.0,A. Rivers,MIN,Rivers 3PT Jump Shot (3 PTS) (Anderson 2 AST),Made Shot,Jump Shot,-233,29,0,1,3.0,3.0,h
+S2223-G0449,2,11:14,MIN,,CHI,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0449,2,10:22,MIN,40.0,CHI,37.0,A. Rivers,MIN,Rivers 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,-230,43,0,1,3.0,3.0,h
+S2223-G0449,2,06:05,MIN,,CHI,,A. Rivers,MIN,SUB: Edwards FOR Rivers,Substitution,,0,0,0,0,,,h
+S2223-G0449,3,02:53,MIN,,CHI,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0449,3,00:43,MIN,,CHI,,A. Rivers,MIN,MISS Rivers 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,31,24,1,3.0,0.0,h
+S2223-G0449,3,00:37.900000,MIN,110.0,CHI,94.0,A. Rivers,MIN,Rivers 1' Cutting Layup Shot (8 PTS) (Garza 2 AST),Made Shot,Cutting Layup Shot,4,11,1,1,2.0,2.0,h
+S2223-G0449,3,00:23,MIN,,CHI,,A. Rivers,MIN,Rivers S.FOUL (P1.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0449,4,06:18,MIN,127.0,CHI,109.0,A. Rivers,MIN,Rivers 25' 3PT Jump Shot (11 PTS) (Edwards 10 AST),Made Shot,Jump Shot,233,77,25,1,3.0,3.0,h
+S2223-G0449,4,05:48,MIN,,CHI,,A. Rivers,MIN,MISS Rivers 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,50,24,1,3.0,0.0,h
+S2223-G0449,4,03:43,MIN,,CHI,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0449,4,03:04,MIN,135.0,CHI,118.0,A. Rivers,MIN,Rivers 3PT Jump Shot (14 PTS) (Knight 3 AST),Made Shot,Jump Shot,-227,-13,0,1,3.0,3.0,h
+S2223-G0449,4,01:53,MIN,,CHI,,A. Rivers,MIN,Rivers REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0449,4,01:45,MIN,,CHI,,A. Rivers,MIN,SUB: Garza FOR Rivers,Substitution,,0,0,0,0,,,h

@@ -1,0 +1,520 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0562,4,10:24,OKC,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2223-G0562,4,07:52,OKC,,BOS,,B. Griffin,BOS,Griffin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0562,4,06:34,OKC,,BOS,,B. Griffin,BOS,MISS Griffin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,67,24,1,3.0,0.0,v
+S2223-G0562,4,04:52,OKC,,BOS,,B. Griffin,BOS,Griffin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0562,4,02:24,OKC,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0562,4,00:57.900000,OKC,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,1,02:47,MIA,,BOS,,B. Griffin,BOS,Griffin L.B.FOUL (P1.PN) (K.Lane),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0714,1,01:19,MIA,,BOS,,B. Griffin,BOS,SUB: Williams III FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G1152,1,12:00,BOS,,UTA,,B. Griffin,BOS,Jump Ball Griffin vs. Kessler: Tip to Horton-Tucker,Jump Ball,,0,0,0,0,,,h
+S2223-G1152,1,11:09,BOS,,UTA,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1152,1,09:51,BOS,,UTA,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1152,1,08:32,BOS,,UTA,,B. Griffin,BOS,SUB: Brogdon FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G1152,2,09:43,BOS,,UTA,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1152,2,09:41,BOS,31.0,UTA,33.0,B. Griffin,BOS,Griffin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1152,2,09:41,BOS,32.0,UTA,33.0,B. Griffin,BOS,Griffin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1152,2,09:00,BOS,,UTA,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1152,2,08:32,BOS,,UTA,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1152,2,08:10,BOS,,UTA,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1152,2,06:17,BOS,,UTA,,B. Griffin,BOS,SUB: Brown FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G1152,3,11:22,BOS,,UTA,,B. Griffin,BOS,MISS Griffin 5' Driving Layup,Missed Shot,Driving Layup Shot,-39,23,5,1,2.0,0.0,h
+S2223-G1152,3,11:14,BOS,59.0,UTA,51.0,B. Griffin,BOS,Griffin 2' Running Dunk (4 PTS) (Brown 3 AST),Made Shot,Running Dunk Shot,13,18,2,1,2.0,2.0,h
+S2223-G1152,3,10:54,BOS,,UTA,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1152,3,09:10,BOS,,UTA,,B. Griffin,BOS,MISS Griffin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-115,233,26,1,3.0,0.0,h
+S2223-G1152,3,09:00,BOS,,UTA,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1152,3,08:01,BOS,,UTA,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1152,3,06:02,BOS,,UTA,,B. Griffin,BOS,Griffin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1152,3,04:32,BOS,,UTA,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G1152,4,07:13,BOS,,UTA,,B. Griffin,BOS,Griffin REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1152,4,07:08,BOS,104.0,UTA,91.0,B. Griffin,BOS,Griffin Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1152,4,07:08,BOS,105.0,UTA,91.0,B. Griffin,BOS,Griffin Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1152,4,04:42,BOS,,UTA,,B. Griffin,BOS,Griffin T.FOUL (P0.T3) (T.Brothers),Foul,Technical,0,0,0,0,,,h
+S2223-G1152,4,04:32,BOS,,UTA,,B. Griffin,BOS,Griffin Offensive Goaltending Turnover (P1.T11),Turnover,Offensive Goaltending,0,0,0,0,,,h
+S2223-G1152,4,03:19,BOS,,UTA,,B. Griffin,BOS,MISS Griffin 3' Layup,Missed Shot,Layup Shot,-22,25,3,1,2.0,0.0,h
+S2223-G1152,4,03:17,BOS,,UTA,,B. Griffin,BOS,Griffin REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1152,4,03:17,BOS,,UTA,,B. Griffin,BOS,Griffin Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1152,4,02:42,BOS,,UTA,,B. Griffin,BOS,Griffin REBOUND (Off:5 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1152,4,01:14,BOS,,UTA,,B. Griffin,BOS,MISS Griffin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-161,216,27,1,3.0,0.0,h
+S2223-G0186,1,11:00,DET,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0186,1,10:51,DET,2.0,BOS,5.0,B. Griffin,BOS,Griffin 26' 3PT Jump Shot (3 PTS) (White 1 AST),Made Shot,Jump Shot,-22,261,26,1,3.0,3.0,v
+S2223-G0186,1,10:24,DET,,BOS,,B. Griffin,BOS,MISS Griffin 3' Hook Shot,Missed Shot,Hook Shot,-4,34,3,1,2.0,0.0,v
+S2223-G0186,1,08:54,DET,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0186,1,05:02,DET,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0186,1,03:59,DET,,BOS,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0186,2,10:49,DET,,BOS,,B. Griffin,BOS,MISS Griffin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-223,109,25,1,3.0,0.0,v
+S2223-G0186,2,10:25,DET,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0186,2,09:54,DET,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0186,2,06:17,DET,,BOS,,B. Griffin,BOS,Griffin P.FOUL (P1.T2) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2223-G0186,2,05:50,DET,37.0,BOS,41.0,B. Griffin,BOS,Griffin 3' Layup (5 PTS) (Smart 4 AST),Made Shot,Layup Shot,16,30,3,1,2.0,2.0,v
+S2223-G0186,2,03:40,DET,,BOS,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0186,3,10:12,DET,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0186,3,08:40,DET,66.0,BOS,66.0,B. Griffin,BOS,Griffin 3' Cutting Layup Shot (7 PTS) (Smart 6 AST),Made Shot,Cutting Layup Shot,11,23,3,1,2.0,2.0,v
+S2223-G0186,3,08:15,DET,,BOS,,B. Griffin,BOS,MISS Griffin 3PT Jump Shot,Missed Shot,Jump Shot,-229,41,0,1,3.0,0.0,v
+S2223-G0186,3,07:21,DET,,BOS,,B. Griffin,BOS,SUB: Vonleh FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G1216,1,11:21,BOS,3.0,ATL,2.0,B. Griffin,BOS,Griffin 26' 3PT Jump Shot (3 PTS) (Pritchard 1 AST),Made Shot,Jump Shot,-185,188,26,1,3.0,3.0,h
+S2223-G1216,1,10:55,BOS,,ATL,,B. Griffin,BOS,MISS Griffin 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-71,251,26,1,3.0,0.0,h
+S2223-G1216,1,10:40,BOS,,ATL,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1216,1,10:00,BOS,,ATL,,B. Griffin,BOS,Griffin OFF.Foul (P1) (E.Dalen),Foul,Offensive,0,0,0,0,,,h
+S2223-G1216,1,10:00,BOS,,ATL,,B. Griffin,BOS,Griffin Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1216,1,09:25,BOS,,ATL,,B. Griffin,BOS,MISS Griffin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-151,220,27,1,3.0,0.0,h
+S2223-G1216,1,07:23,BOS,,ATL,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1216,1,06:52,BOS,,ATL,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0692,4,11:25,TOR,,BOS,,B. Griffin,BOS,Griffin P.FOUL (P1.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2223-G0692,4,10:34,TOR,,BOS,,B. Griffin,BOS,Griffin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0692,4,10:32,TOR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0692,4,07:54,TOR,,BOS,,B. Griffin,BOS,Griffin P.FOUL (P2.T2) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0692,4,07:54,TOR,,BOS,,B. Griffin,BOS,SUB: Horford FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0001,1,03:23,BOS,,PHI,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0001,1,03:14,BOS,,PHI,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0001,1,02:07,BOS,,PHI,,B. Griffin,BOS,MISS Griffin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0001,1,02:07,BOS,18.0,PHI,25.0,B. Griffin,BOS,Griffin Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0001,1,01:04,BOS,,PHI,,B. Griffin,BOS,Griffin S.FOUL (P1.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0001,1,00:21.500000,BOS,,PHI,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0001,1,00:01.200000,BOS,,PHI,,B. Griffin,BOS,SUB: Smart FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0001,2,01:25,BOS,,PHI,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0001,2,00:08.400000,BOS,,PHI,,B. Griffin,BOS,SUB: White FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0001,3,00:03.900000,BOS,,PHI,,B. Griffin,BOS,Griffin S.FOUL (P2.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0001,3,00:00,BOS,,PHI,,B. Griffin,BOS,MISS Griffin 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-118,41,12,1,2.0,0.0,h
+S2223-G0001,4,11:23,BOS,,PHI,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0001,4,11:10,BOS,,PHI,,B. Griffin,BOS,MISS Griffin 28' 3PT Jump Shot,Missed Shot,Jump Shot,-126,247,28,1,3.0,0.0,h
+S2223-G0001,4,10:59,BOS,,PHI,,B. Griffin,BOS,Griffin L.B.FOUL (P3.T2) (J.Capers),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0001,4,09:49,BOS,,PHI,,B. Griffin,BOS,SUB: Vonleh FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0373,1,10:53,PHX,,BOS,,B. Griffin,BOS,MISS Griffin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-192,153,25,1,3.0,0.0,v
+S2223-G0373,1,10:03,PHX,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0373,1,07:04,PHX,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0373,1,06:41,PHX,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0373,1,06:20,PHX,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P1.T1) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0373,1,04:51,PHX,16.0,BOS,16.0,B. Griffin,BOS,Griffin 25' 3PT Jump Shot (3 PTS) (Brown 1 AST),Made Shot,Jump Shot,-206,137,25,1,3.0,3.0,v
+S2223-G0373,1,04:15,PHX,,BOS,,B. Griffin,BOS,Griffin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0373,1,04:15,PHX,,BOS,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0373,2,04:31,PHX,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0373,2,03:11,PHX,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0373,2,01:33,PHX,,BOS,,B. Griffin,BOS,MISS Griffin Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-2,-1,0,1,2.0,0.0,v
+S2223-G0373,2,00:47.200000,PHX,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0373,2,00:47.200000,PHX,,BOS,,B. Griffin,BOS,MISS Griffin Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0373,2,00:10,PHX,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0373,3,10:16,PHX,44.0,BOS,77.0,B. Griffin,BOS,Griffin 26' 3PT Jump Shot (6 PTS) (Brown 2 AST),Made Shot,Jump Shot,-148,214,26,1,3.0,3.0,v
+S2223-G0373,3,09:57,PHX,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0373,3,09:34,PHX,,BOS,,B. Griffin,BOS,Griffin P.FOUL (P3.T1) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2223-G0373,3,08:43,PHX,46.0,BOS,83.0,B. Griffin,BOS,Griffin 3PT Jump Shot (9 PTS) (Smart 6 AST),Made Shot,Jump Shot,-232,22,0,1,3.0,3.0,v
+S2223-G0373,3,06:33,PHX,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0373,3,05:42,PHX,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0373,3,04:57,PHX,,BOS,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0430,4,10:40,BOS,,ORL,,B. Griffin,BOS,Griffin S.FOUL (P1.T1) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0430,4,08:41,BOS,,ORL,,B. Griffin,BOS,Griffin L.B.FOUL (P2.T2) (J.DeRosa),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0430,4,08:41,BOS,,ORL,,B. Griffin,BOS,SUB: Williams III FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0495,2,08:55,BOS,,MIL,,B. Griffin,BOS,Griffin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0495,2,08:05,BOS,47.0,MIL,36.0,B. Griffin,BOS,Griffin 3' Cutting Layup Shot (2 PTS) (Smart 2 AST),Made Shot,Cutting Layup Shot,25,24,3,1,2.0,2.0,h
+S2223-G0495,2,07:52,BOS,,MIL,,B. Griffin,BOS,Griffin S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0495,2,07:16,BOS,,MIL,,B. Griffin,BOS,MISS Griffin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,37,24,1,3.0,0.0,h
+S2223-G0495,2,06:44,BOS,,MIL,,B. Griffin,BOS,MISS Griffin 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-18,37,4,1,2.0,0.0,h
+S2223-G0495,2,05:49,BOS,,MIL,,B. Griffin,BOS,SUB: Williams FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G1181,4,10:35,PHI,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P1.T1) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G1181,4,10:33,PHI,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1181,4,10:14,PHI,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1181,4,09:48,PHI,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1181,4,08:05,PHI,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1181,4,06:27,PHI,,BOS,,B. Griffin,BOS,Griffin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1181,4,06:23,PHI,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1181,4,03:40,PHI,,BOS,,B. Griffin,BOS,SUB: Williams FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G1206,1,04:02,BOS,,TOR,,B. Griffin,BOS,Griffin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1206,2,11:35,BOS,,TOR,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,2,11:16,BOS,,TOR,,B. Griffin,BOS,Griffin P.FOUL (P1.T1) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2223-G1206,2,09:36,BOS,,TOR,,B. Griffin,BOS,Griffin S.FOUL (P2.T2) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2223-G1206,2,08:52,BOS,,TOR,,B. Griffin,BOS,SUB: Williams III FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G1206,3,00:30.400000,BOS,,TOR,,B. Griffin,BOS,Griffin S.FOUL (P3.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2223-G1206,4,11:20,BOS,98.0,TOR,75.0,B. Griffin,BOS,Griffin 27' 3PT Jump Shot (3 PTS) (Pritchard 3 AST),Made Shot,Jump Shot,23,266,27,1,3.0,3.0,h
+S2223-G1206,4,10:41,BOS,,TOR,,B. Griffin,BOS,Griffin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1206,4,09:41,BOS,,TOR,,B. Griffin,BOS,Griffin S.FOUL (P4.T1) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G1206,4,07:27,BOS,,TOR,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,4,06:26,BOS,,TOR,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,4,04:49,BOS,,TOR,,B. Griffin,BOS,MISS Griffin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-43,257,26,1,3.0,0.0,h
+S2223-G1206,4,03:32,BOS,,TOR,,B. Griffin,BOS,SUB: Champagnie FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0047,4,05:05,CHI,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0047,4,05:05,CHI,,BOS,,B. Griffin,BOS,MISS Griffin Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0047,4,01:10,CHI,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0047,4,00:40.700000,CHI,,BOS,,B. Griffin,BOS,MISS Griffin 1' Driving Layup,Missed Shot,Driving Layup Shot,-7,-5,1,1,2.0,0.0,v
+S2223-G0047,4,00:40.700000,CHI,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0047,4,00:40.700000,CHI,,BOS,,B. Griffin,BOS,MISS Griffin 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,8,1,1,2.0,0.0,v
+S2223-G0047,4,00:40.700000,CHI,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0047,4,00:40.700000,CHI,120.0,BOS,102.0,B. Griffin,BOS,Griffin Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0030,2,10:13,ORL,,BOS,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0030,3,00:34.100000,ORL,,BOS,,B. Griffin,BOS,Griffin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0030,3,00:21.400000,ORL,,BOS,,B. Griffin,BOS,MISS Griffin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-163,194,25,1,3.0,0.0,v
+S2223-G0030,4,11:46,ORL,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0030,4,09:42,ORL,,BOS,,B. Griffin,BOS,SUB: Tatum FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0772,4,08:57,BOS,,BKN,,B. Griffin,BOS,Griffin S.FOUL (P1.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0772,4,08:27,BOS,,BKN,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,4,05:32,BOS,,BKN,,B. Griffin,BOS,MISS Griffin 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-192,192,27,1,3.0,0.0,h
+S2223-G0772,4,04:52,BOS,,BKN,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,4,02:20,BOS,,BKN,,B. Griffin,BOS,Griffin Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0772,4,01:39,BOS,,BKN,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,1,07:30,NYK,,BOS,,B. Griffin,BOS,Griffin OFF.Foul (P1) (K.Cutler),Foul,Offensive,0,0,0,0,,,v
+S2223-G0135,1,07:30,NYK,,BOS,,B. Griffin,BOS,Griffin Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0135,1,06:53,NYK,,BOS,,B. Griffin,BOS,SUB: Williams FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0135,2,06:49,NYK,,BOS,,B. Griffin,BOS,Griffin Traveling Turnover (P2.T5),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0135,2,05:24,NYK,44.0,BOS,57.0,B. Griffin,BOS,Griffin 2' Cutting Layup Shot (2 PTS) (Smart 5 AST),Made Shot,Cutting Layup Shot,7,14,2,1,2.0,2.0,v
+S2223-G0135,2,05:04,NYK,,BOS,,B. Griffin,BOS,MISS Griffin 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,247,25,1,3.0,0.0,v
+S2223-G0135,2,04:45,NYK,49.0,BOS,59.0,B. Griffin,BOS,Griffin 3' Cutting Layup Shot (4 PTS) (Smart 6 AST),Made Shot,Cutting Layup Shot,-2,27,3,1,2.0,2.0,v
+S2223-G0135,2,04:01,NYK,,BOS,,B. Griffin,BOS,SUB: Williams FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0135,3,11:18,NYK,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0135,3,09:23,NYK,72.0,BOS,75.0,B. Griffin,BOS,Griffin 24' 3PT Jump Shot (7 PTS) (Smart 9 AST),Made Shot,Jump Shot,-235,-10,24,1,3.0,3.0,v
+S2223-G0135,3,05:35,NYK,,BOS,,B. Griffin,BOS,SUB: Hauser FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0877,1,10:48,BOS,,DET,,B. Griffin,BOS,MISS Griffin 6' Driving Layup,Missed Shot,Driving Layup Shot,45,41,6,1,2.0,0.0,h
+S2223-G0877,1,08:13,BOS,11.0,DET,6.0,B. Griffin,BOS,Griffin 27' 3PT Jump Shot (3 PTS) (Tatum 1 AST),Made Shot,Jump Shot,-121,239,27,1,3.0,3.0,h
+S2223-G0877,1,07:38,BOS,,DET,,B. Griffin,BOS,Griffin OFF.Foul (P1) (A.Nagy),Foul,Offensive,0,0,0,0,,,h
+S2223-G0877,1,07:38,BOS,,DET,,B. Griffin,BOS,Griffin Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0877,1,05:53,BOS,,DET,,B. Griffin,BOS,Griffin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0877,1,03:29,BOS,,DET,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0877,2,05:17,BOS,,DET,,B. Griffin,BOS,MISS Griffin 26' 3PT Jump Shot,Missed Shot,Jump Shot,156,213,26,1,3.0,0.0,h
+S2223-G0877,2,04:55,BOS,,DET,,B. Griffin,BOS,Griffin S.FOUL (P2.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0877,2,03:47,BOS,,DET,,B. Griffin,BOS,Griffin S.FOUL (P3.T4) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0877,2,03:27,BOS,,DET,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0877,2,03:26,BOS,,DET,,B. Griffin,BOS,Griffin Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0877,2,03:26,BOS,,DET,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0877,3,11:26,BOS,,DET,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0877,3,10:17,BOS,,DET,,B. Griffin,BOS,MISS Griffin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,25,24,1,3.0,0.0,h
+S2223-G0877,3,09:03,BOS,,DET,,B. Griffin,BOS,MISS Griffin 2' Layup,Missed Shot,Layup Shot,17,16,2,1,2.0,0.0,h
+S2223-G0877,3,09:02,BOS,,DET,,B. Griffin,BOS,Griffin L.B.FOUL (P4.T4) (T.Brothers),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0877,3,08:27,BOS,,DET,,B. Griffin,BOS,MISS Griffin 3' Hook Shot,Missed Shot,Hook Shot,5,29,3,1,2.0,0.0,h
+S2223-G0877,3,08:24,BOS,,DET,,B. Griffin,BOS,Griffin REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0877,3,08:22,BOS,,DET,,B. Griffin,BOS,MISS Griffin 1' Reverse Layup,Missed Shot,Reverse Layup Shot,9,7,1,1,2.0,0.0,h
+S2223-G0877,3,07:15,BOS,,DET,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0877,4,09:41,BOS,103.0,DET,93.0,B. Griffin,BOS,Griffin 2' Cutting Layup Shot (5 PTS) (Williams 2 AST),Made Shot,Cutting Layup Shot,2,17,2,1,2.0,2.0,h
+S2223-G0877,4,07:52,BOS,109.0,DET,97.0,B. Griffin,BOS,Griffin 2' Turnaround Hook Shot (7 PTS),Made Shot,Turnaround Hook Shot,-1,21,2,1,2.0,2.0,h
+S2223-G0877,4,05:12,BOS,116.0,DET,99.0,B. Griffin,BOS,Griffin 2' Layup (9 PTS) (Tatum 6 AST),Made Shot,Layup Shot,-17,12,2,1,2.0,2.0,h
+S2223-G0877,4,03:35,BOS,,DET,,B. Griffin,BOS,Griffin REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0877,4,02:22,BOS,,DET,,B. Griffin,BOS,Griffin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0877,4,01:23,BOS,,DET,,B. Griffin,BOS,Griffin P.FOUL (P5.T3) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2223-G0877,4,00:53.800000,BOS,,DET,,B. Griffin,BOS,Griffin REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0877,4,00:23,BOS,,DET,,B. Griffin,BOS,Griffin S.FOUL (P6.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0877,4,00:23,BOS,,DET,,B. Griffin,BOS,SUB: White FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0355,1,10:43,TOR,3.0,BOS,4.0,B. Griffin,BOS,Griffin 2' Cutting Layup Shot (2 PTS) (Tatum 1 AST),Made Shot,Cutting Layup Shot,-4,21,2,1,2.0,2.0,v
+S2223-G0355,1,09:21,TOR,,BOS,,B. Griffin,BOS,MISS Griffin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-237,79,25,1,3.0,0.0,v
+S2223-G0355,1,09:14,TOR,,BOS,,B. Griffin,BOS,Griffin OFF.Foul (P1) (M.Kallio),Foul,Offensive,0,0,0,0,,,v
+S2223-G0355,1,09:14,TOR,,BOS,,B. Griffin,BOS,Griffin Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0355,1,08:53,TOR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0355,1,08:53,TOR,7.0,BOS,5.0,B. Griffin,BOS,Griffin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0355,1,08:53,TOR,,BOS,,B. Griffin,BOS,MISS Griffin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0355,1,04:43,TOR,14.0,BOS,14.0,B. Griffin,BOS,Griffin 4' Cutting Layup Shot (5 PTS) (Brown 1 AST),Made Shot,Cutting Layup Shot,-27,26,4,1,2.0,2.0,v
+S2223-G0355,1,03:59,TOR,,BOS,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0355,2,07:16,TOR,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P2.T4) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0355,2,05:13,TOR,49.0,BOS,41.0,B. Griffin,BOS,Griffin 6' Turnaround Fadeaway (7 PTS) (Brown 4 AST),Made Shot,Turnaround Fadeaway shot,31,55,6,1,2.0,2.0,v
+S2223-G0355,2,04:52,TOR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0355,2,04:25,TOR,,BOS,,B. Griffin,BOS,Griffin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0355,2,02:10,TOR,55.0,BOS,50.0,B. Griffin,BOS,Griffin 3' Driving Dunk (9 PTS) (Tatum 3 AST),Made Shot,Driving Dunk Shot,6,26,3,1,2.0,2.0,v
+S2223-G0355,2,02:10,TOR,55.0,BOS,51.0,B. Griffin,BOS,Griffin Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0355,3,08:28,TOR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0355,3,08:06,TOR,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P3.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0355,3,06:47,TOR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0355,3,04:56,TOR,,BOS,,B. Griffin,BOS,SUB: Williams FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0355,4,05:53,TOR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0355,4,05:50,TOR,,BOS,,B. Griffin,BOS,Griffin L.B.FOUL (P4.T3) (M.Kallio),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0355,4,05:25,TOR,,BOS,,B. Griffin,BOS,Griffin L.B.FOUL (P5.T4) (S.Corbin),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0355,4,02:35,TOR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0355,4,00:26.800000,TOR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0355,4,00:26.800000,TOR,108.0,BOS,115.0,B. Griffin,BOS,Griffin Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0355,4,00:12.700000,TOR,110.0,BOS,116.0,B. Griffin,BOS,Griffin Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0355,4,00:12.700000,TOR,,BOS,,B. Griffin,BOS,MISS Griffin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0355,4,00:02.800000,TOR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0986,1,03:34,BOS,,POR,,B. Griffin,BOS,Griffin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0986,1,03:02,BOS,,POR,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0986,1,02:33,BOS,,POR,,B. Griffin,BOS,Griffin L.B.FOUL (P1.PN) (B.Kennedy),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0986,2,09:26,BOS,,POR,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0986,2,09:11,BOS,,POR,,B. Griffin,BOS,Griffin P.FOUL (P2.T2) (D.Mosher),Foul,Personal,0,0,0,0,,,h
+S2223-G0986,2,08:50,BOS,,POR,,B. Griffin,BOS,Griffin STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0986,2,08:36,BOS,,POR,,B. Griffin,BOS,MISS Griffin 26' 3PT Jump Shot,Missed Shot,Jump Shot,9,260,26,1,3.0,0.0,h
+S2223-G0986,2,07:51,BOS,,POR,,B. Griffin,BOS,SUB: Horford FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0986,3,02:54,BOS,,POR,,B. Griffin,BOS,Griffin S.FOUL (P3.T3) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0986,3,01:04,BOS,,POR,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0986,4,11:38,BOS,,POR,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0986,4,11:15,BOS,,POR,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0986,4,10:57,BOS,,POR,,B. Griffin,BOS,Griffin P.FOUL (P4.T2) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2223-G0986,4,07:45,BOS,,POR,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0986,4,05:47,BOS,,POR,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0301,1,12:00,BOS,,CHA,,B. Griffin,BOS,Jump Ball Griffin vs. Plumlee: Tip to Smart,Jump Ball,,0,0,0,0,,,h
+S2223-G0301,1,11:43,BOS,3.0,CHA,0.0,B. Griffin,BOS,Griffin 26' 3PT Jump Shot (3 PTS) (Smart 1 AST),Made Shot,Jump Shot,44,253,26,1,3.0,3.0,h
+S2223-G0301,1,10:07,BOS,,CHA,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0301,1,10:00,BOS,,CHA,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0301,1,08:30,BOS,,CHA,,B. Griffin,BOS,Griffin S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0301,1,06:25,BOS,,CHA,,B. Griffin,BOS,Griffin L.B.FOUL (P2.T3) (J.Goldenberg),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0301,1,06:17,BOS,,CHA,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0301,1,04:32,BOS,,CHA,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0301,2,07:26,BOS,,CHA,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0301,2,06:22,BOS,,CHA,,B. Griffin,BOS,Griffin S.FOUL (P3.T4) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2223-G0301,2,05:53,BOS,59.0,CHA,37.0,B. Griffin,BOS,Griffin 2' Alley Oop Dunk (5 PTS) (White 2 AST),Made Shot,Alley Oop Dunk Shot,23,8,2,1,2.0,2.0,h
+S2223-G0301,2,05:35,BOS,,CHA,,B. Griffin,BOS,Griffin Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0301,2,02:00,BOS,74.0,CHA,44.0,B. Griffin,BOS,Griffin 5' Turnaround Hook Shot (7 PTS),Made Shot,Turnaround Hook Shot,50,20,5,1,2.0,2.0,h
+S2223-G0301,2,00:16.700000,BOS,78.0,CHA,52.0,B. Griffin,BOS,Griffin 1' Cutting Dunk Shot (9 PTS) (Brogdon 5 AST),Made Shot,Cutting Dunk Shot,-4,4,1,1,2.0,2.0,h
+S2223-G0301,3,09:51,BOS,,CHA,,B. Griffin,BOS,Griffin S.FOUL (P4.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2223-G0301,3,09:51,BOS,,CHA,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0301,4,08:54,BOS,,CHA,,B. Griffin,BOS,MISS Griffin 26' 3PT Jump Shot,Missed Shot,Jump Shot,232,120,26,1,3.0,0.0,h
+S2223-G0301,4,08:18,BOS,,CHA,,B. Griffin,BOS,SUB: Kabengele FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G1008,1,03:41,ATL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1008,1,03:40,ATL,,BOS,,B. Griffin,BOS,MISS Griffin 4' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,26,31,4,1,2.0,0.0,v
+S2223-G1008,1,02:51,ATL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1008,1,02:50,ATL,,BOS,,B. Griffin,BOS,MISS Griffin Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1008,1,02:50,ATL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1008,1,02:49,ATL,28.0,BOS,28.0,B. Griffin,BOS,Griffin Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1008,1,01:00,ATL,34.0,BOS,35.0,B. Griffin,BOS,Griffin Cutting Layup Shot (4 PTS) (Brogdon 1 AST),Made Shot,Cutting Layup Shot,-1,3,0,1,2.0,2.0,v
+S2223-G1008,2,11:07,ATL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1008,2,07:45,ATL,,BOS,,B. Griffin,BOS,SUB: Horford FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G1008,3,02:20,ATL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1008,3,01:09,ATL,86.0,BOS,97.0,B. Griffin,BOS,Griffin 1' Cutting Dunk Shot (6 PTS) (Brown 4 AST),Made Shot,Cutting Dunk Shot,-1,12,1,1,2.0,2.0,v
+S2223-G1008,3,00:00.900000,ATL,,BOS,,B. Griffin,BOS,Griffin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1008,4,11:41,ATL,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G1008,4,11:26,ATL,,BOS,,B. Griffin,BOS,Griffin OFF.Foul (P2) (M.Myers),Foul,Offensive,0,0,0,0,,,v
+S2223-G1008,4,11:26,ATL,,BOS,,B. Griffin,BOS,Griffin Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1008,4,10:08,ATL,,BOS,,B. Griffin,BOS,Griffin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1008,4,09:33,ATL,96.0,BOS,105.0,B. Griffin,BOS,Griffin 1' Cutting Finger Roll Layup Shot (8 PTS) (Smart 5 AST),Made Shot,Cutting Finger Roll Layup Shot,-4,11,1,1,2.0,2.0,v
+S2223-G1008,4,08:31,ATL,,BOS,,B. Griffin,BOS,SUB: Brown FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0971,1,06:58,CLE,,BOS,,B. Griffin,BOS,Griffin Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0971,1,06:39,CLE,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0971,1,04:05,CLE,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P1.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0971,1,04:05,CLE,,BOS,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0971,2,00:09.300000,CLE,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P2.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0971,2,00:09.300000,CLE,,BOS,,B. Griffin,BOS,SUB: Pritchard FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0971,3,11:33,CLE,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0971,3,11:20,CLE,,BOS,,B. Griffin,BOS,MISS Griffin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-137,221,26,1,3.0,0.0,v
+S2223-G0971,3,10:55,CLE,,BOS,,B. Griffin,BOS,MISS Griffin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-169,205,27,1,3.0,0.0,v
+S2223-G0971,3,08:50,CLE,62.0,BOS,75.0,B. Griffin,BOS,Griffin Cutting Layup Shot (2 PTS) (Brown 6 AST),Made Shot,Cutting Layup Shot,-2,1,0,1,2.0,2.0,v
+S2223-G0971,3,07:02,CLE,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0971,3,06:31,CLE,69.0,BOS,81.0,B. Griffin,BOS,Griffin 2' Cutting Layup Shot (4 PTS) (Brown 7 AST),Made Shot,Cutting Layup Shot,5,17,2,1,2.0,2.0,v
+S2223-G0971,3,06:06,CLE,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0971,3,05:13,CLE,,BOS,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0072,1,06:55,BOS,,CLE,,B. Griffin,BOS,Griffin P.FOUL (P1.T4) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0072,1,06:29,BOS,,CLE,,B. Griffin,BOS,Griffin OFF.Foul (P2) (J.Conley),Foul,Offensive,0,0,0,0,,,h
+S2223-G0072,1,06:29,BOS,,CLE,,B. Griffin,BOS,Griffin Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0072,1,05:18,BOS,,CLE,,B. Griffin,BOS,Griffin S.FOUL (P3.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0072,1,05:18,BOS,,CLE,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0072,1,01:45,BOS,,CLE,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0072,1,00:50.500000,BOS,,CLE,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0072,1,00:44.400000,BOS,28.0,CLE,31.0,B. Griffin,BOS,Griffin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0072,1,00:44.400000,BOS,29.0,CLE,31.0,B. Griffin,BOS,Griffin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0072,2,11:21,BOS,37.0,CLE,35.0,B. Griffin,BOS,Griffin 26' 3PT Jump Shot (5 PTS) (Brogdon 4 AST),Made Shot,Jump Shot,-173,191,26,1,3.0,3.0,h
+S2223-G0072,2,08:42,BOS,,CLE,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0072,3,04:26,BOS,,CLE,,B. Griffin,BOS,Griffin OFF.Foul (P4) (S.Corbin),Foul,Offensive,0,0,0,0,,,h
+S2223-G0072,3,04:26,BOS,,CLE,,B. Griffin,BOS,Griffin Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0072,3,02:49,BOS,,CLE,,B. Griffin,BOS,Griffin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0072,3,02:05,BOS,91.0,CLE,90.0,B. Griffin,BOS,Griffin Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0072,3,02:05,BOS,92.0,CLE,90.0,B. Griffin,BOS,Griffin Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0072,3,00:52.900000,BOS,,CLE,,B. Griffin,BOS,SUB: Smart FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G1024,1,03:59,HOU,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1024,1,03:14,HOU,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1024,1,01:44,HOU,,BOS,,B. Griffin,BOS,MISS Griffin 25' 3PT Jump Shot,Missed Shot,Jump Shot,2,247,25,1,3.0,0.0,v
+S2223-G1024,1,01:38,HOU,,BOS,,B. Griffin,BOS,Griffin P.FOUL (P1.PN) (R.Hussey),Foul,Personal,0,0,0,0,,,v
+S2223-G1024,2,11:25,HOU,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1024,2,09:29,HOU,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1024,2,07:58,HOU,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P2.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G1024,2,07:58,HOU,,BOS,,B. Griffin,BOS,SUB: Horford FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G1053,1,06:08,POR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1053,1,03:21,POR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1053,1,01:42,POR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1053,1,01:34,POR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1053,1,00:32.800000,POR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1053,1,00:09.100000,POR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1053,1,00:00,POR,,BOS,,B. Griffin,BOS,MISS Griffin 26' 3PT Jump Shot,Missed Shot,Jump Shot,134,224,26,1,3.0,0.0,v
+S2223-G1053,3,03:29,POR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1053,3,03:29,POR,,BOS,,B. Griffin,BOS,MISS Griffin 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-18,15,2,1,2.0,0.0,v
+S2223-G1053,3,03:29,POR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1053,3,03:29,POR,,BOS,,B. Griffin,BOS,MISS Griffin Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1053,3,02:52,POR,,BOS,,B. Griffin,BOS,MISS Griffin 3PT Jump Shot,Missed Shot,Jump Shot,-230,-5,0,1,3.0,0.0,v
+S2223-G1053,3,02:08,POR,68.0,BOS,82.0,B. Griffin,BOS,Griffin 1' Layup (2 PTS) (Tatum 4 AST),Made Shot,Layup Shot,-6,4,1,1,2.0,2.0,v
+S2223-G1053,3,00:54.200000,POR,,BOS,,B. Griffin,BOS,Griffin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1053,3,00:45.200000,POR,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:6 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0707,1,10:21,ORL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0707,1,06:04,ORL,15.0,BOS,11.0,B. Griffin,BOS,Griffin 3PT Jump Shot (3 PTS) (Tatum 1 AST),Made Shot,Jump Shot,-223,-10,0,1,3.0,3.0,v
+S2223-G0707,1,05:49,ORL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0707,1,05:15,ORL,,BOS,,B. Griffin,BOS,SUB: Williams FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0707,3,11:26,ORL,,BOS,,B. Griffin,BOS,Griffin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0707,3,08:04,ORL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0707,3,07:22,ORL,,BOS,,B. Griffin,BOS,MISS Griffin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-123,220,25,1,3.0,0.0,v
+S2223-G0707,3,07:15,ORL,,BOS,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G1116,4,04:00,BOS,,SAS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,4,03:21,BOS,,SAS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,4,03:19,BOS,,SAS,,B. Griffin,BOS,Griffin Double Dribble Turnover (P1.T14),Turnover,Double Dribble,0,0,0,0,,,h
+S2223-G0838,1,06:29,BOS,,CHA,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,1,06:15,BOS,,CHA,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,1,06:15,BOS,19.0,CHA,12.0,B. Griffin,BOS,Griffin Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0838,1,05:20,BOS,,CHA,,B. Griffin,BOS,MISS Griffin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-218,121,25,1,3.0,0.0,h
+S2223-G0838,1,03:01,BOS,,CHA,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,1,01:33,BOS,,CHA,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,1,00:03.500000,BOS,,CHA,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,4,09:51,BOS,,CHA,,B. Griffin,BOS,Griffin P.FOUL (P1.T1) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0838,4,09:01,BOS,108.0,CHA,89.0,B. Griffin,BOS,Griffin 27' 3PT Jump Shot (5 PTS) (White 9 AST),Made Shot,Jump Shot,9,269,27,1,3.0,3.0,h
+S2223-G0838,4,08:33,BOS,,CHA,,B. Griffin,BOS,Griffin OFF.Foul (P2) (D.Taylor),Foul,Offensive,0,0,0,0,,,h
+S2223-G0838,4,08:33,BOS,,CHA,,B. Griffin,BOS,Griffin Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0838,4,07:03,BOS,,CHA,,B. Griffin,BOS,SUB: Williams III FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G1062,1,09:53,UTA,,BOS,,B. Griffin,BOS,MISS Griffin 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,29,16,3,1,2.0,0.0,v
+S2223-G1062,1,09:52,UTA,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1062,1,04:37,UTA,,BOS,,B. Griffin,BOS,MISS Griffin 25' 3PT Jump Shot,Missed Shot,Jump Shot,195,162,25,1,3.0,0.0,v
+S2223-G1062,1,04:28,UTA,,BOS,,B. Griffin,BOS,MISS Griffin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1062,1,04:28,UTA,16.0,BOS,20.0,B. Griffin,BOS,Griffin Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1062,1,03:44,UTA,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1062,1,03:44,UTA,,BOS,,B. Griffin,BOS,SUB: Muscala FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G1062,2,06:42,UTA,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1062,2,02:57,UTA,,BOS,,B. Griffin,BOS,SUB: Brogdon FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G1062,3,10:56,UTA,61.0,BOS,67.0,B. Griffin,BOS,Griffin 24' 3PT Jump Shot (4 PTS) (White 2 AST),Made Shot,Jump Shot,-235,10,24,1,3.0,3.0,v
+S2223-G1062,3,09:13,UTA,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1062,3,09:06,UTA,,BOS,,B. Griffin,BOS,MISS Griffin 26' 3PT Jump Shot,Missed Shot,Jump Shot,113,236,26,1,3.0,0.0,v
+S2223-G1062,3,08:43,UTA,65.0,BOS,69.0,B. Griffin,BOS,Griffin 4' Layup (6 PTS) (White 3 AST),Made Shot,Layup Shot,-32,29,4,1,2.0,2.0,v
+S2223-G1062,3,06:25,UTA,,BOS,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0921,1,05:26,NYK,,BOS,,B. Griffin,BOS,Griffin OFF.Foul (P1) (J.DeRosa),Foul,Offensive,0,0,0,0,,,v
+S2223-G0921,1,05:26,NYK,,BOS,,B. Griffin,BOS,Griffin Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0921,1,05:10,NYK,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0921,1,02:26,NYK,,BOS,,B. Griffin,BOS,MISS Griffin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-206,130,24,1,3.0,0.0,v
+S2223-G0921,1,02:11,NYK,,BOS,,B. Griffin,BOS,MISS Griffin 3PT Jump Shot,Missed Shot,Jump Shot,228,24,0,1,3.0,0.0,v
+S2223-G0921,1,00:03.600000,NYK,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P2.PN) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G1039,1,03:37,MIN,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1039,1,03:30,MIN,16.0,BOS,19.0,B. Griffin,BOS,Griffin 2' Cutting Dunk Shot (2 PTS) (Brogdon 1 AST),Made Shot,Cutting Dunk Shot,7,21,2,1,2.0,2.0,v
+S2223-G1039,1,02:13,MIN,,BOS,,B. Griffin,BOS,Griffin P.FOUL (P1.T2) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2223-G1039,1,02:09,MIN,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P2.T3) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2223-G1039,2,11:15,MIN,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1039,2,08:02,MIN,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1039,2,07:29,MIN,,BOS,,B. Griffin,BOS,SUB: Horford FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G1039,3,03:15,MIN,,BOS,,B. Griffin,BOS,Griffin L.B.FOUL (P3.T4) (J.Van Duyne),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1039,3,02:41,MIN,62.0,BOS,75.0,B. Griffin,BOS,Griffin Driving Dunk (4 PTS) (Tatum 1 AST),Made Shot,Driving Dunk Shot,2,3,0,1,2.0,2.0,v
+S2223-G1039,3,02:32,MIN,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P4.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2223-G1039,3,01:43,MIN,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1039,3,00:24.500000,MIN,,BOS,,B. Griffin,BOS,SUB: Hauser FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G1039,4,09:48,MIN,,BOS,,B. Griffin,BOS,SUB: White FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0413,1,11:33,LAL,0.0,BOS,2.0,B. Griffin,BOS,Griffin 2' Running Layup (2 PTS) (Brown 1 AST),Made Shot,Running Layup Shot,10,12,2,1,2.0,2.0,v
+S2223-G0413,1,09:11,LAL,5.0,BOS,12.0,B. Griffin,BOS,Griffin 2' Cutting Layup Shot (4 PTS) (Tatum 3 AST),Made Shot,Cutting Layup Shot,21,8,2,1,2.0,2.0,v
+S2223-G0413,1,08:07,LAL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0413,1,06:31,LAL,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P1.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0413,1,05:37,LAL,,BOS,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0413,2,05:25,LAL,,BOS,,B. Griffin,BOS,MISS Griffin 3PT Jump Shot,Missed Shot,Jump Shot,225,18,0,1,3.0,0.0,v
+S2223-G0413,2,04:16,LAL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0413,2,03:21,LAL,,BOS,,B. Griffin,BOS,Griffin P.FOUL (P2.T3) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G0413,2,02:37,LAL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0413,2,01:14,LAL,,BOS,,B. Griffin,BOS,MISS Griffin 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-224,59,0,1,3.0,0.0,v
+S2223-G0413,2,01:03,LAL,,BOS,,B. Griffin,BOS,Celtics T.Foul (Def. 3 Sec Griffin ) (J.Goble),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0413,2,00:30.800000,LAL,,BOS,,B. Griffin,BOS,MISS Griffin 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-15,44,5,1,2.0,0.0,v
+S2223-G0413,3,11:47,LAL,,BOS,,B. Griffin,BOS,MISS Griffin 3PT Jump Shot,Missed Shot,Jump Shot,-227,22,0,1,3.0,0.0,v
+S2223-G0413,3,10:15,LAL,55.0,BOS,70.0,B. Griffin,BOS,Griffin 6' Cutting Layup Shot (6 PTS) (Brown 3 AST),Made Shot,Cutting Layup Shot,-4,62,6,1,2.0,2.0,v
+S2223-G0413,3,09:28,LAL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0413,3,08:03,LAL,,BOS,,B. Griffin,BOS,Griffin P.FOUL (P3.T2) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G0413,3,07:21,LAL,,BOS,,B. Griffin,BOS,MISS Griffin 3PT Jump Shot,Missed Shot,Jump Shot,225,52,0,1,3.0,0.0,v
+S2223-G0413,3,06:05,LAL,,BOS,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0413,4,11:06,LAL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0413,4,10:53,LAL,,BOS,,B. Griffin,BOS,MISS Griffin 26' 3PT Jump Shot,Missed Shot,Jump Shot,189,182,26,1,3.0,0.0,v
+S2223-G0413,4,09:44,LAL,,BOS,,B. Griffin,BOS,MISS Griffin 8' Driving Layup,Missed Shot,Driving Layup Shot,-50,57,8,1,2.0,0.0,v
+S2223-G0413,4,09:40,LAL,,BOS,,B. Griffin,BOS,MISS Griffin 5' Layup,Missed Shot,Layup Shot,-34,37,5,1,2.0,0.0,v
+S2223-G0413,4,09:20,LAL,,BOS,,B. Griffin,BOS,SUB: Brogdon FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G1146,4,05:54,MIL,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P1.T3) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G1146,4,04:48,MIL,,BOS,,B. Griffin,BOS,Griffin P.FOUL (P2.T4) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2223-G1146,4,03:10,MIL,86.0,BOS,134.0,B. Griffin,BOS,Griffin 27' 3PT Pullup Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Pullup Jump shot,200,185,27,1,3.0,3.0,v
+S2223-G1146,4,01:48,MIL,,BOS,,B. Griffin,BOS,Griffin Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1146,4,01:25,MIL,,BOS,,B. Griffin,BOS,Griffin FLAGRANT.FOUL.TYPE1 (P3.PN) (K.Scott),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2223-G1146,4,01:25,MIL,,BOS,,B. Griffin,BOS,MISS Griffin Free Throw Flagrant 1 of 2,Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1146,4,01:25,MIL,94.0,BOS,137.0,B. Griffin,BOS,Griffin Free Throw Flagrant 2 of 2 (4 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0869,1,10:32,MIL,3.0,BOS,5.0,B. Griffin,BOS,Griffin 27' 3PT Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Jump Shot,86,252,27,1,3.0,3.0,v
+S2223-G0869,1,08:44,MIL,8.0,BOS,12.0,B. Griffin,BOS,Griffin 8' Driving Floating Bank Jump Shot (5 PTS) (White 2 AST),Made Shot,Driving Floating Bank Jump Shot,76,20,8,1,2.0,2.0,v
+S2223-G0869,1,06:07,MIL,,BOS,,B. Griffin,BOS,MISS Griffin 3PT Jump Shot,Missed Shot,Jump Shot,229,10,0,1,3.0,0.0,v
+S2223-G0869,1,05:26,MIL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,1,05:03,MIL,,BOS,,B. Griffin,BOS,SUB: Pritchard FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0869,2,10:15,MIL,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P1.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0869,2,09:56,MIL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,2,09:07,MIL,,BOS,,B. Griffin,BOS,Griffin OFF.Foul (P2) (M.Davis),Foul,Offensive,0,0,0,0,,,v
+S2223-G0869,2,09:07,MIL,,BOS,,B. Griffin,BOS,Griffin Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0869,2,09:07,MIL,,BOS,,B. Griffin,BOS,SUB: Williams III FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0869,2,05:51,MIL,46.0,BOS,52.0,B. Griffin,BOS,Griffin 27' 3PT Jump Shot (8 PTS) (White 7 AST),Made Shot,Jump Shot,-195,184,27,1,3.0,3.0,v
+S2223-G0869,2,05:08,MIL,,BOS,,B. Griffin,BOS,Griffin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0869,2,02:37,MIL,,BOS,,B. Griffin,BOS,SUB: Hauser FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0869,3,10:07,MIL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,3,10:02,MIL,67.0,BOS,68.0,B. Griffin,BOS,Griffin 26' 3PT Jump Shot (11 PTS) (Hauser 1 AST),Made Shot,Jump Shot,219,135,26,1,3.0,3.0,v
+S2223-G0869,3,09:47,MIL,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P3.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0869,3,08:56,MIL,71.0,BOS,73.0,B. Griffin,BOS,Griffin 1' Running Layup (13 PTS) (White 10 AST),Made Shot,Running Layup Shot,-7,6,1,1,2.0,2.0,v
+S2223-G0869,3,08:56,MIL,,BOS,,B. Griffin,BOS,MISS Griffin Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0869,3,08:12,MIL,,BOS,,B. Griffin,BOS,MISS Griffin 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-163,210,27,1,3.0,0.0,v
+S2223-G0869,3,06:06,MIL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,3,05:53,MIL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,3,05:37,MIL,76.0,BOS,83.0,B. Griffin,BOS,Griffin 1' Cutting Layup Shot (15 PTS) (Hauser 2 AST),Made Shot,Cutting Layup Shot,-4,9,1,1,2.0,2.0,v
+S2223-G0869,3,05:24,MIL,,BOS,,B. Griffin,BOS,Griffin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0869,3,05:20,MIL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,3,04:57,MIL,,BOS,,B. Griffin,BOS,SUB: Williams III FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0869,4,10:04,MIL,,BOS,,B. Griffin,BOS,MISS Griffin 31' 3PT Jump Shot,Missed Shot,Jump Shot,176,253,31,1,3.0,0.0,v
+S2223-G0869,4,08:32,MIL,,BOS,,B. Griffin,BOS,SUB: Williams III FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0214,1,04:28,ATL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0214,1,03:04,ATL,,BOS,,B. Griffin,BOS,SUB: Williams FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0214,4,04:29,ATL,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0214,4,04:07,ATL,,BOS,,B. Griffin,BOS,MISS Griffin 2' Driving Layup,Missed Shot,Driving Layup Shot,6,17,2,1,2.0,0.0,v
+S2223-G0214,4,00:24.200000,ATL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0392,1,10:49,GSW,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P1.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0392,1,10:28,GSW,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0392,1,09:30,GSW,3.0,BOS,2.0,B. Griffin,BOS,Griffin 4' Cutting Layup Shot (2 PTS) (Smart 1 AST),Made Shot,Cutting Layup Shot,12,36,4,1,2.0,2.0,v
+S2223-G0392,1,08:54,GSW,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0392,1,08:26,GSW,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0392,1,07:03,GSW,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0392,1,07:02,GSW,10.0,BOS,11.0,B. Griffin,BOS,Griffin Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0392,1,06:17,GSW,,BOS,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0392,2,08:37,GSW,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0392,2,07:41,GSW,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0392,2,05:51,GSW,49.0,BOS,43.0,B. Griffin,BOS,Griffin 4' Layup (6 PTS),Made Shot,Layup Shot,-31,22,4,1,2.0,2.0,v
+S2223-G0392,2,05:51,GSW,49.0,BOS,44.0,B. Griffin,BOS,Griffin Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0392,2,05:00,GSW,51.0,BOS,45.0,B. Griffin,BOS,Griffin Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0392,2,05:00,GSW,51.0,BOS,46.0,B. Griffin,BOS,Griffin Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0392,2,02:16,GSW,,BOS,,B. Griffin,BOS,SUB: Williams FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0392,3,10:26,GSW,73.0,BOS,69.0,B. Griffin,BOS,Griffin 24' 3PT Jump Shot (12 PTS) (Brown 2 AST),Made Shot,Jump Shot,227,68,24,1,3.0,3.0,v
+S2223-G0392,3,08:10,GSW,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0392,3,07:17,GSW,,BOS,,B. Griffin,BOS,MISS Griffin 3' Layup,Missed Shot,Layup Shot,27,12,3,1,2.0,0.0,v
+S2223-G0392,3,07:02,GSW,,BOS,,B. Griffin,BOS,MISS Griffin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0392,3,07:02,GSW,78.0,BOS,74.0,B. Griffin,BOS,Griffin Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0392,3,05:35,GSW,,BOS,,B. Griffin,BOS,SUB: White FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G1192,1,02:54,BOS,,TOR,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,1,01:05,BOS,,TOR,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,2,10:54,BOS,,TOR,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,2,10:54,BOS,33.0,TOR,30.0,B. Griffin,BOS,Griffin Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1192,2,07:32,BOS,,TOR,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,2,07:15,BOS,,TOR,,B. Griffin,BOS,SUB: Brown FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G1192,3,07:01,BOS,,TOR,,B. Griffin,BOS,Griffin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1192,3,06:59,BOS,,TOR,,B. Griffin,BOS,Griffin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,3,02:31,BOS,,TOR,,B. Griffin,BOS,Griffin Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1192,3,02:29,BOS,,TOR,,B. Griffin,BOS,SUB: Williams III FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G1192,4,00:09.700000,BOS,,TOR,,B. Griffin,BOS,SUB: Muscala FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0577,4,01:54,DAL,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0824,1,12:00,BOS,,PHI,,B. Griffin,BOS,Jump Ball Griffin vs. Embiid: Tip to Harden,Jump Ball,,0,0,0,0,,,h
+S2223-G0824,1,11:04,BOS,,PHI,,B. Griffin,BOS,Griffin Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0824,1,09:35,BOS,3.0,PHI,7.0,B. Griffin,BOS,Griffin 27' 3PT Jump Shot (3 PTS) (Brown 1 AST),Made Shot,Jump Shot,-129,233,27,1,3.0,3.0,h
+S2223-G0824,1,09:06,BOS,6.0,PHI,9.0,B. Griffin,BOS,Griffin 27' 3PT Jump Shot (6 PTS) (White 1 AST),Made Shot,Jump Shot,102,246,27,1,3.0,3.0,h
+S2223-G0824,1,08:13,BOS,11.0,PHI,9.0,B. Griffin,BOS,Griffin 24' 3PT Jump Shot (9 PTS) (Williams 1 AST),Made Shot,Jump Shot,-227,71,24,1,3.0,3.0,h
+S2223-G0824,1,06:24,BOS,,PHI,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0824,2,07:37,BOS,,PHI,,B. Griffin,BOS,MISS Griffin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,71,24,1,3.0,0.0,h
+S2223-G0824,2,04:46,BOS,,PHI,,B. Griffin,BOS,MISS Griffin 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,47,24,1,3.0,0.0,h
+S2223-G0824,2,04:36,BOS,,PHI,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0824,3,09:58,BOS,,PHI,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0824,3,09:03,BOS,67.0,PHI,64.0,B. Griffin,BOS,Griffin 24' 3PT Jump Shot (12 PTS) (Williams 3 AST),Made Shot,Jump Shot,-234,37,24,1,3.0,3.0,h
+S2223-G0824,3,07:55,BOS,72.0,PHI,64.0,B. Griffin,BOS,Griffin 3PT Jump Shot (15 PTS) (Tatum 7 AST),Made Shot,Jump Shot,221,15,0,1,3.0,3.0,h
+S2223-G0824,3,07:09,BOS,,PHI,,B. Griffin,BOS,MISS Griffin 26' 3PT Jump Shot,Missed Shot,Jump Shot,43,261,26,1,3.0,0.0,h
+S2223-G0824,3,06:45,BOS,,PHI,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0824,3,06:45,BOS,,PHI,,B. Griffin,BOS,Griffin Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0824,3,05:36,BOS,,PHI,,B. Griffin,BOS,Griffin P.FOUL (P1.T3) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2223-G0824,3,05:36,BOS,,PHI,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0824,4,06:49,BOS,,PHI,,B. Griffin,BOS,SUB: Kornet FOR Griffin,Substitution,,0,0,0,0,,,h
+S2223-G0408,1,10:13,LAC,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0408,1,09:43,LAC,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0408,1,08:05,LAC,8.0,BOS,12.0,B. Griffin,BOS,Griffin 4' Cutting Layup Shot (2 PTS) (Brown 1 AST),Made Shot,Cutting Layup Shot,1,36,4,1,2.0,2.0,v
+S2223-G0408,1,08:05,LAC,8.0,BOS,13.0,B. Griffin,BOS,Griffin Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0408,1,06:31,LAC,,BOS,,B. Griffin,BOS,MISS Griffin 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,188,193,27,1,3.0,0.0,v
+S2223-G0408,1,05:14,LAC,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0408,1,05:02,LAC,22.0,BOS,16.0,B. Griffin,BOS,Griffin Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0408,1,05:02,LAC,,BOS,,B. Griffin,BOS,MISS Griffin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0408,1,04:15,LAC,,BOS,,B. Griffin,BOS,SUB: Williams FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0408,2,04:04,LAC,44.0,BOS,42.0,B. Griffin,BOS,Griffin Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0408,2,04:04,LAC,,BOS,,B. Griffin,BOS,MISS Griffin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0408,2,03:46,LAC,,BOS,,B. Griffin,BOS,Griffin Non-Unsportsmanlike (P0.T3) (S.Wall),Foul,Non-Unsportsmanlike Technical,0,0,0,0,,,v
+S2223-G0408,2,02:32,LAC,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0408,2,02:18,LAC,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0408,2,01:34,LAC,,BOS,,B. Griffin,BOS,SUB: Williams FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0408,3,10:55,LAC,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0408,3,10:14,LAC,,BOS,,B. Griffin,BOS,MISS Griffin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-241,6,24,1,3.0,0.0,v
+S2223-G0408,3,06:41,LAC,,BOS,,B. Griffin,BOS,Griffin L.B.FOUL (P1.T3) (S.Wall),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0408,3,06:41,LAC,,BOS,,B. Griffin,BOS,SUB: Williams FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0808,1,01:33,DET,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,1,01:10,DET,,BOS,,B. Griffin,BOS,Griffin P.FOUL (P1.T4) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0808,1,01:00,DET,,BOS,,B. Griffin,BOS,Griffin S.FOUL (P2.PN) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2223-G0808,1,00:13.100000,DET,,BOS,,B. Griffin,BOS,Griffin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,2,09:20,DET,,BOS,,B. Griffin,BOS,SUB: Williams III FOR Griffin,Substitution,,0,0,0,0,,,v
+S2223-G0808,3,00:30.200000,DET,,BOS,,B. Griffin,BOS,MISS Griffin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0808,3,00:30.200000,DET,,BOS,,B. Griffin,BOS,MISS Griffin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v

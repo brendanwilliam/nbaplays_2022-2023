@@ -1,0 +1,527 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0165,2,09:52,TOR,,HOU,,G. Mathews,HOU,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,-153,204,26,1,3.0,0.0,v
+S2223-G0165,2,07:42,TOR,,HOU,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,-202,174,27,1,3.0,0.0,v
+S2223-G0165,2,06:49,TOR,,HOU,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,-25,267,27,1,3.0,0.0,v
+S2223-G0165,2,06:43,TOR,,HOU,,G. Mathews,HOU,SUB: Martin Jr. FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G1021,4,01:19,ATL,,MIN,,G. Mathews,ATL,MISS Mathews Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,h
+S2223-G1021,4,01:19,ATL,112.0,MIN,133.0,G. Mathews,ATL,Mathews Free Throw 2 of 3 (1 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G1021,4,01:19,ATL,113.0,MIN,133.0,G. Mathews,ATL,Mathews Free Throw 3 of 3 (2 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G1021,4,00:39.400000,ATL,,MIN,,G. Mathews,ATL,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,152,218,27,1,3.0,0.0,h
+S2223-G0722,1,00:29.700000,HOU,30.0,WAS,25.0,G. Mathews,HOU,Mathews 26' 3PT Pullup Jump Shot (3 PTS) (Tate 1 AST),Made Shot,Pullup Jump shot,11,263,26,1,3.0,3.0,h
+S2223-G0722,2,11:43,HOU,,WAS,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0722,2,10:32,HOU,,WAS,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,165,215,27,1,3.0,0.0,h
+S2223-G0722,2,09:31,HOU,37.0,WAS,27.0,G. Mathews,HOU,Mathews 24' 3PT Jump Shot (6 PTS) (Christopher 1 AST),Made Shot,Jump Shot,235,13,24,1,3.0,3.0,h
+S2223-G0722,2,08:07,HOU,,WAS,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0722,2,06:48,HOU,,WAS,,G. Mathews,HOU,SUB: Tate FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0722,3,01:12,HOU,,WAS,,G. Mathews,HOU,Mathews P.FOUL (P1.PN) (B.Schwab),Foul,Personal,0,0,0,0,,,h
+S2223-G0722,4,11:15,HOU,,WAS,,G. Mathews,HOU,Mathews FLAGRANT.FOUL.TYPE1 (P2.T2) (S.Foster),Foul,Flagrant Type 1,0,0,0,0,,,h
+S2223-G0722,4,10:43,HOU,,WAS,,G. Mathews,HOU,MISS Mathews 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-89,253,27,1,3.0,0.0,h
+S2223-G0722,4,10:34,HOU,,WAS,,G. Mathews,HOU,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,47,24,1,3.0,0.0,h
+S2223-G0722,4,09:41,HOU,,WAS,,G. Mathews,HOU,MISS Mathews 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-183,212,28,1,3.0,0.0,h
+S2223-G0722,4,08:55,HOU,,WAS,,G. Mathews,HOU,MISS Mathews 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,156,217,27,1,3.0,0.0,h
+S2223-G0722,4,08:49,HOU,,WAS,,G. Mathews,HOU,SUB: Green FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0671,2,05:01,HOU,,CHA,,G. Mathews,HOU,MISS Mathews 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-205,176,27,1,3.0,0.0,h
+S2223-G0671,2,04:27,HOU,49.0,CHA,45.0,G. Mathews,HOU,Mathews 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,27,258,26,1,3.0,3.0,h
+S2223-G0671,2,02:06,HOU,,CHA,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0671,2,01:59,HOU,,CHA,,G. Mathews,HOU,SUB: Gordon FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0671,4,10:06,HOU,,CHA,,G. Mathews,HOU,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,218,104,24,1,3.0,0.0,h
+S2223-G0671,4,08:34,HOU,,CHA,,G. Mathews,HOU,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,232,9,0,1,3.0,0.0,h
+S2223-G0671,4,08:19,HOU,,CHA,,G. Mathews,HOU,Mathews S.FOUL (P1.PN) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0671,4,05:33,HOU,,CHA,,G. Mathews,HOU,SUB: Tate FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0671,4,00:13.600000,HOU,,CHA,,G. Mathews,HOU,SUB: Tate FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0578,2,02:31,HOU,,UTA,,G. Mathews,HOU,SUB: Sengun FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0743,1,00:01.500000,DET,,HOU,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0743,2,11:32,DET,,HOU,,G. Mathews,HOU,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,228,53,0,1,3.0,0.0,v
+S2223-G0743,2,10:57,DET,37.0,HOU,30.0,G. Mathews,HOU,Mathews 25' 3PT Jump Shot (3 PTS) (Gordon 2 AST),Made Shot,Jump Shot,-158,193,25,1,3.0,3.0,v
+S2223-G0743,2,10:36,DET,40.0,HOU,31.0,G. Mathews,HOU,Mathews Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0743,2,10:36,DET,,HOU,,G. Mathews,HOU,MISS Mathews Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0743,2,08:56,DET,43.0,HOU,37.0,G. Mathews,HOU,Mathews Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2223-G0743,2,07:53,DET,,HOU,,G. Mathews,HOU,SUB: Tate FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0305,2,10:16,DEN,,HOU,,G. Mathews,HOU,MISS Mathews 28' 3PT Jump Shot,Missed Shot,Jump Shot,183,211,28,1,3.0,0.0,v
+S2223-G0305,2,09:56,DEN,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0305,2,08:33,DEN,46.0,HOU,47.0,G. Mathews,HOU,Mathews 3PT Jump Shot (3 PTS) (Martin Jr. 1 AST),Made Shot,Jump Shot,-233,16,0,1,3.0,3.0,v
+S2223-G0305,2,07:11,DEN,,HOU,,G. Mathews,HOU,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,48,24,1,3.0,0.0,v
+S2223-G0305,2,05:27,DEN,,HOU,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0305,2,05:11,DEN,,HOU,,G. Mathews,HOU,SUB: Eason FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0305,4,07:35,DEN,,HOU,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,-199,180,27,1,3.0,0.0,v
+S2223-G0305,4,07:17,DEN,,HOU,,G. Mathews,HOU,Mathews P.FOUL (P1.T3) (M.Dagher),Foul,Personal,0,0,0,0,,,v
+S2223-G0305,4,06:25,DEN,,HOU,,G. Mathews,HOU,MISS Mathews 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,83,246,26,1,3.0,0.0,v
+S2223-G0305,4,04:04,DEN,,HOU,,G. Mathews,HOU,Mathews S.FOUL (P2.T4) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0305,4,04:02,DEN,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0305,4,02:24,DEN,,HOU,,G. Mathews,HOU,MISS Mathews 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-137,226,26,1,3.0,0.0,v
+S2223-G0094,1,01:53,PHX,,HOU,,G. Mathews,HOU,Mathews P.FOUL (P1.T3) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0094,1,01:14,PHX,,HOU,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0094,2,10:05,PHX,,HOU,,G. Mathews,HOU,Mathews OFF.Foul (P2) (B.Kennedy),Foul,Offensive,0,0,0,0,,,v
+S2223-G0094,2,10:05,PHX,,HOU,,G. Mathews,HOU,Mathews Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0094,2,09:13,PHX,,HOU,,G. Mathews,HOU,MISS Mathews 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,72,242,25,1,3.0,0.0,v
+S2223-G0094,2,09:06,PHX,36.0,HOU,32.0,G. Mathews,HOU,Mathews 26' 3PT Jump Shot (3 PTS) (Porter Jr. 3 AST),Made Shot,Jump Shot,-210,147,26,1,3.0,3.0,v
+S2223-G0094,2,09:06,PHX,36.0,HOU,33.0,G. Mathews,HOU,Mathews Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0094,2,07:29,PHX,,HOU,,G. Mathews,HOU,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,203,148,25,1,3.0,0.0,v
+S2223-G0094,2,07:25,PHX,38.0,HOU,36.0,G. Mathews,HOU,Mathews 3PT Jump Shot (7 PTS) (Garuba 1 AST),Made Shot,Jump Shot,230,3,0,1,3.0,3.0,v
+S2223-G0094,2,06:29,PHX,,HOU,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,165,216,27,1,3.0,0.0,v
+S2223-G0094,2,05:54,PHX,,HOU,,G. Mathews,HOU,SUB: Nix FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0094,3,01:39,PHX,,HOU,,G. Mathews,HOU,MISS Mathews 28' 3PT Jump Shot,Missed Shot,Jump Shot,6,275,28,1,3.0,0.0,v
+S2223-G0094,3,01:16,PHX,86.0,HOU,83.0,G. Mathews,HOU,Mathews Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2223-G0094,4,11:27,PHX,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0094,4,11:05,PHX,,HOU,,G. Mathews,HOU,Mathews P.FOUL (P3.T1) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0094,4,11:05,PHX,,HOU,,G. Mathews,HOU,Mathews T.FOUL (P3.T2) (B.Kennedy),Foul,Technical,0,0,0,0,,,v
+S2223-G0094,4,09:51,PHX,,HOU,,G. Mathews,HOU,MISS Mathews 29' 3PT Jump Shot,Missed Shot,Jump Shot,-200,215,29,1,3.0,0.0,v
+S2223-G0094,4,07:13,PHX,,HOU,,G. Mathews,HOU,SUB: Sengun FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0145,2,09:37,ORL,37.0,HOU,41.0,G. Mathews,HOU,Mathews 26' 3PT Jump Shot (3 PTS) (Nix 1 AST),Made Shot,Jump Shot,148,217,26,1,3.0,3.0,v
+S2223-G0145,2,06:23,ORL,,HOU,,G. Mathews,HOU,SUB: Martin Jr. FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0145,4,11:26,ORL,90.0,HOU,103.0,G. Mathews,HOU,Mathews 3PT Jump Shot (6 PTS) (Sengun 4 AST),Made Shot,Jump Shot,-229,8,0,1,3.0,3.0,v
+S2223-G0145,4,11:11,ORL,,HOU,,G. Mathews,HOU,Mathews AWAY.FROM.PLAY.FOUL (P1.T1) (K.Lane),Foul,Away From Play,0,0,0,0,,,v
+S2223-G0145,4,09:30,ORL,,HOU,,G. Mathews,HOU,SUB: Green FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G1216,1,02:11,BOS,,ATL,,G. Mathews,ATL,MISS Mathews 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,145,229,27,1,3.0,0.0,v
+S2223-G1216,2,11:06,BOS,,ATL,,G. Mathews,ATL,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,-232,13,0,1,3.0,0.0,v
+S2223-G1216,2,10:30,BOS,,ATL,,G. Mathews,ATL,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,115,231,26,1,3.0,0.0,v
+S2223-G1216,2,08:44,BOS,,ATL,,G. Mathews,ATL,Mathews L.B.FOUL (P1.T3) (Z.Zarba),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1216,2,08:18,BOS,,ATL,,G. Mathews,ATL,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1216,2,07:54,BOS,41.0,ATL,42.0,G. Mathews,ATL,Mathews 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-218,148,26,1,3.0,3.0,v
+S2223-G1216,2,06:54,BOS,46.0,ATL,44.0,G. Mathews,ATL,Mathews 2' Running Dunk (5 PTS) (Okongwu 2 AST),Made Shot,Running Dunk Shot,4,17,2,1,2.0,2.0,v
+S2223-G1216,2,06:12,BOS,46.0,ATL,45.0,G. Mathews,ATL,Mathews Free Throw 1 of 3 (6 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2223-G1216,2,06:12,BOS,46.0,ATL,46.0,G. Mathews,ATL,Mathews Free Throw 2 of 3 (7 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G1216,2,06:12,BOS,46.0,ATL,47.0,G. Mathews,ATL,Mathews Free Throw 3 of 3 (8 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G1216,2,05:42,BOS,,ATL,,G. Mathews,ATL,SUB: Griffin FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G1216,3,09:54,BOS,,ATL,,G. Mathews,ATL,Mathews T.FOUL (P1.T0) (T.Maddox),Foul,Technical,0,0,0,0,,,v
+S2223-G1216,3,08:56,BOS,75.0,ATL,68.0,G. Mathews,ATL,Mathews 27' 3PT Jump Shot (11 PTS) (Holiday 2 AST),Made Shot,Jump Shot,-145,228,27,1,3.0,3.0,v
+S2223-G1216,3,08:07,BOS,,ATL,,G. Mathews,ATL,Mathews BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1216,3,05:59,BOS,,ATL,,G. Mathews,ATL,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1216,3,04:40,BOS,,ATL,,G. Mathews,ATL,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,-5,258,26,1,3.0,0.0,v
+S2223-G1216,3,04:01,BOS,,ATL,,G. Mathews,ATL,Mathews P.FOUL (P2.T1) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2223-G1216,3,03:32,BOS,87.0,ATL,83.0,G. Mathews,ATL,Mathews 3PT Jump Shot (14 PTS) (Krejci 1 AST),Made Shot,Jump Shot,230,27,0,1,3.0,3.0,v
+S2223-G1216,3,03:01,BOS,90.0,ATL,84.0,G. Mathews,ATL,Mathews Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1216,3,03:01,BOS,90.0,ATL,85.0,G. Mathews,ATL,Mathews Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1216,3,02:03,BOS,,ATL,,G. Mathews,ATL,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,154,220,27,1,3.0,0.0,v
+S2223-G1216,3,01:23,BOS,,ATL,,G. Mathews,ATL,Mathews REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1216,3,00:10.800000,BOS,98.0,ATL,90.0,G. Mathews,ATL,Mathews 27' 3PT Jump Shot (19 PTS) (Martin 1 AST),Made Shot,Jump Shot,-175,210,27,1,3.0,3.0,v
+S2223-G1216,4,04:20,BOS,,ATL,,G. Mathews,ATL,MISS Mathews 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-172,193,26,1,3.0,0.0,v
+S2223-G1216,4,03:16,BOS,,ATL,,G. Mathews,ATL,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,-119,236,26,1,3.0,0.0,v
+S2223-G1216,4,02:34,BOS,,ATL,,G. Mathews,ATL,SUB: Williams FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0112,2,05:22,HOU,,LAC,,G. Mathews,HOU,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,-225,-1,0,1,3.0,0.0,h
+S2223-G0112,2,05:09,HOU,43.0,LAC,44.0,G. Mathews,HOU,Mathews 26' 3PT Jump Shot (3 PTS) (Porter Jr. 5 AST),Made Shot,Jump Shot,-141,220,26,1,3.0,3.0,h
+S2223-G0112,2,04:31,HOU,,LAC,,G. Mathews,HOU,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,147,215,26,1,3.0,0.0,h
+S2223-G0112,2,02:17,HOU,,LAC,,G. Mathews,HOU,Mathews REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0112,2,02:16,HOU,,LAC,,G. Mathews,HOU,Mathews OFF.Foul (P1) (J.DeRosa),Foul,Offensive,0,0,0,0,,,h
+S2223-G0112,2,02:16,HOU,,LAC,,G. Mathews,HOU,Mathews Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0112,2,02:16,HOU,,LAC,,G. Mathews,HOU,SUB: Porter Jr. FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0411,2,09:04,HOU,,PHX,,G. Mathews,HOU,Mathews P.FOUL (P1.T2) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G0411,2,08:04,HOU,,PHX,,G. Mathews,HOU,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,18,260,26,1,3.0,0.0,h
+S2223-G0411,2,07:13,HOU,,PHX,,G. Mathews,HOU,MISS Mathews 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-88,247,26,1,3.0,0.0,h
+S2223-G0411,2,06:58,HOU,,PHX,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0411,2,06:11,HOU,,PHX,,G. Mathews,HOU,MISS Mathews 29' 3PT Jump Shot,Missed Shot,Jump Shot,108,268,29,1,3.0,0.0,h
+S2223-G0411,2,06:09,HOU,,PHX,,G. Mathews,HOU,SUB: Green FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0411,4,08:41,HOU,,PHX,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0411,4,07:54,HOU,92.0,PHX,80.0,G. Mathews,HOU,Mathews Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0411,4,07:54,HOU,93.0,PHX,80.0,G. Mathews,HOU,Mathews Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0411,4,06:40,HOU,,PHX,,G. Mathews,HOU,Mathews REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0411,4,06:40,HOU,97.0,PHX,82.0,G. Mathews,HOU,Mathews Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0411,4,06:40,HOU,98.0,PHX,82.0,G. Mathews,HOU,Mathews Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0411,4,04:55,HOU,,PHX,,G. Mathews,HOU,Mathews REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0411,4,03:33,HOU,109.0,PHX,91.0,G. Mathews,HOU,Mathews 26' 3PT Jump Shot (8 PTS) (Sengun 2 AST),Made Shot,Jump Shot,53,258,26,1,3.0,3.0,h
+S2223-G1191,4,02:09,ATL,,WAS,,G. Mathews,ATL,MISS Mathews 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-229,-15,0,1,3.0,0.0,h
+S2223-G1191,4,01:06,ATL,,WAS,,G. Mathews,ATL,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1153,4,03:06,BKN,,ATL,,G. Mathews,ATL,MISS Mathews 14' Jump Shot,Missed Shot,Jump Shot,-97,102,14,1,2.0,0.0,v
+S2223-G1153,4,02:18,BKN,,ATL,,G. Mathews,ATL,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,-218,125,25,1,3.0,0.0,v
+S2223-G0342,1,00:41.800000,GSW,,HOU,,G. Mathews,HOU,MISS Mathews 30' 3PT Jump Shot,Missed Shot,Jump Shot,147,261,30,1,3.0,0.0,v
+S2223-G0342,2,08:49,GSW,,HOU,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,-137,236,27,1,3.0,0.0,v
+S2223-G0342,2,07:52,GSW,,HOU,,G. Mathews,HOU,Mathews Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0342,2,06:33,GSW,52.0,HOU,30.0,G. Mathews,HOU,Mathews 25' 3PT Running Pull-Up Jump Shot (3 PTS) (Porter Jr. 1 AST),Made Shot,Running Pull-Up Jump Shot,-196,162,25,1,3.0,3.0,v
+S2223-G0342,2,05:11,GSW,,HOU,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0342,2,04:38,GSW,,HOU,,G. Mathews,HOU,SUB: Martin Jr. FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0342,3,00:57.200000,GSW,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0342,4,10:24,GSW,97.0,HOU,85.0,G. Mathews,HOU,Mathews Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0342,4,10:24,GSW,97.0,HOU,86.0,G. Mathews,HOU,Mathews Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0342,4,10:24,GSW,97.0,HOU,87.0,G. Mathews,HOU,Mathews Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0342,4,06:04,GSW,,HOU,,G. Mathews,HOU,SUB: Porter Jr. FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0401,2,11:42,HOU,22.0,,25.0,G. Mathews,HOU,Mathews 25' 3PT Step Back Jump Shot (3 PTS) (Nix 3 AST),Made Shot,Step Back Jump shot,-165,194,25,1,3.0,3.0,h
+S2223-G0401,2,11:24,HOU,,,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0401,2,11:18,HOU,,,,G. Mathews,HOU,MISS Mathews 30' 3PT Jump Shot,Missed Shot,Jump Shot,135,266,30,1,3.0,0.0,h
+S2223-G0401,2,06:37,HOU,36.0,,34.0,G. Mathews,HOU,Mathews 21' Jump Shot (5 PTS) (Fernando 1 AST),Made Shot,Jump Shot,180,116,21,1,2.0,2.0,h
+S2223-G0401,2,05:13,HOU,,,,G. Mathews,HOU,SUB: Green FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0401,4,11:39,HOU,,,,G. Mathews,HOU,Mathews BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0401,4,08:45,HOU,,,,G. Mathews,HOU,Mathews BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0401,4,08:32,HOU,,,,G. Mathews,HOU,MISS Mathews 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-217,138,26,1,3.0,0.0,h
+S2223-G0401,4,08:27,HOU,,,,G. Mathews,HOU,SUB: Green FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0102,1,04:50,LAC,16.0,HOU,18.0,G. Mathews,HOU,Mathews 26' 3PT Pullup Jump Shot (3 PTS) (Sengun 1 AST),Made Shot,Pullup Jump shot,145,220,26,1,3.0,3.0,v
+S2223-G0102,2,09:29,LAC,,HOU,,G. Mathews,HOU,SUB: Christopher FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0102,3,04:47,LAC,,HOU,,G. Mathews,HOU,Mathews P.FOUL (P1.T4) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2223-G0102,3,03:53,LAC,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0102,3,03:44,LAC,,HOU,,G. Mathews,HOU,Mathews Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0102,3,01:32,LAC,,HOU,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,-148,225,27,1,3.0,0.0,v
+S2223-G0102,3,01:00,LAC,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0102,4,11:04,LAC,,HOU,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0102,4,09:58,LAC,,HOU,,G. Mathews,HOU,SUB: Porter Jr. FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0572,2,10:45,NOP,48.0,HOU,27.0,G. Mathews,HOU,Mathews 3PT Jump Shot (3 PTS) (Eason 1 AST),Made Shot,Jump Shot,229,5,0,1,3.0,3.0,v
+S2223-G0572,2,09:59,NOP,,HOU,,G. Mathews,HOU,MISS Mathews 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,221,135,26,1,3.0,0.0,v
+S2223-G0572,2,09:13,NOP,,HOU,,G. Mathews,HOU,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,-224,24,0,1,3.0,0.0,v
+S2223-G0572,2,07:00,NOP,,HOU,,G. Mathews,HOU,SUB: Green FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0572,3,03:04,NOP,,HOU,,G. Mathews,HOU,Mathews P.FOUL (P1.PN) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2223-G0572,3,01:58,NOP,,HOU,,G. Mathews,HOU,MISS Mathews 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-43,78,9,1,2.0,0.0,v
+S2223-G0572,3,01:25,NOP,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0572,3,00:36.200000,NOP,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0572,4,11:02,NOP,98.0,HOU,76.0,G. Mathews,HOU,Mathews 3PT Jump Shot (6 PTS) (Eason 2 AST),Made Shot,Jump Shot,225,4,0,1,3.0,3.0,v
+S2223-G0572,4,10:25,NOP,,HOU,,G. Mathews,HOU,Mathews Traveling Turnover (P1.T11),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0572,4,09:25,NOP,,HOU,,G. Mathews,HOU,SUB: Gordon FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0876,4,02:49,ATL,97.0,NYK,117.0,G. Mathews,ATL,Mathews 3PT Jump Shot (3 PTS) (Johnson 1 AST),Made Shot,Jump Shot,-228,3,0,1,3.0,3.0,h
+S2223-G0876,4,01:19,ATL,,NYK,,G. Mathews,ATL,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0773,2,10:11,HOU,,OKC,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0773,2,09:21,HOU,,OKC,,G. Mathews,HOU,SUB: Christopher FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0773,3,00:03.100000,HOU,,OKC,,G. Mathews,HOU,Mathews Step Out of Bounds Turnover (P1.T12),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0773,4,11:21,HOU,87.0,OKC,89.0,G. Mathews,HOU,Mathews 27' 3PT Jump Shot (3 PTS) (Sengun 3 AST),Made Shot,Jump Shot,28,273,27,1,3.0,3.0,h
+S2223-G0773,4,10:33,HOU,,OKC,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0773,4,05:24,HOU,,OKC,,G. Mathews,HOU,MISS Mathews 29' 3PT Jump Shot,Missed Shot,Jump Shot,205,204,29,1,3.0,0.0,h
+S2223-G0773,4,04:34,HOU,,OKC,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0773,4,04:08,HOU,,OKC,,G. Mathews,HOU,SUB: Martin Jr. FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0334,2,08:31,PHX,,HOU,,G. Mathews,HOU,Mathews P.FOUL (P1.T2) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2223-G0334,2,07:55,PHX,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0334,2,05:52,PHX,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0334,2,03:57,PHX,,HOU,,G. Mathews,HOU,Mathews P.FOUL (P2.T4) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2223-G0334,2,02:54,PHX,,HOU,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0334,2,02:32,PHX,,HOU,,G. Mathews,HOU,SUB: Eason FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0334,4,04:17,PHX,110.0,HOU,113.0,G. Mathews,HOU,Mathews 27' 3PT Jump Shot (3 PTS) (Porter Jr. 7 AST),Made Shot,Jump Shot,-162,212,27,1,3.0,3.0,v
+S2223-G0334,4,03:13,PHX,,HOU,,G. Mathews,HOU,Mathews S.FOUL (P3.PN) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0334,4,02:40,PHX,,HOU,,G. Mathews,HOU,SUB: Gordon FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0733,1,00:18.600000,HOU,,CLE,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,71,259,27,1,3.0,0.0,h
+S2223-G0733,2,08:35,HOU,,CLE,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,-78,256,27,1,3.0,0.0,h
+S2223-G0733,2,08:03,HOU,,CLE,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0733,2,07:47,HOU,,CLE,,G. Mathews,HOU,Mathews S.FOUL (P1.T2) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G0733,2,06:48,HOU,,CLE,,G. Mathews,HOU,SUB: Eason FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0733,4,09:16,HOU,77.0,CLE,103.0,G. Mathews,HOU,Mathews Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2223-G0733,4,02:06,HOU,,CLE,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0709,1,01:08,HOU,31.0,MIN,20.0,G. Mathews,HOU,Mathews 3' Cutting Dunk Shot (2 PTS) (Gordon 2 AST),Made Shot,Cutting Dunk Shot,11,27,3,1,2.0,2.0,h
+S2223-G0709,1,00:27.200000,HOU,,MIN,,G. Mathews,HOU,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,-227,13,0,1,3.0,0.0,h
+S2223-G0709,1,00:24,HOU,,MIN,,G. Mathews,HOU,Mathews REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0709,2,10:38,HOU,,MIN,,G. Mathews,HOU,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0709,2,10:09,HOU,,MIN,,G. Mathews,HOU,SUB: Christopher FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0709,2,04:09,HOU,,MIN,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,216,154,27,1,3.0,0.0,h
+S2223-G0709,2,02:22,HOU,51.0,MIN,48.0,G. Mathews,HOU,Mathews 25' 3PT Jump Shot (5 PTS) (Sengun 3 AST),Made Shot,Jump Shot,-61,243,25,1,3.0,3.0,h
+S2223-G0709,3,03:42,HOU,81.0,MIN,74.0,G. Mathews,HOU,Mathews 3PT Jump Shot (8 PTS) (Green 4 AST),Made Shot,Jump Shot,-230,8,0,1,3.0,3.0,h
+S2223-G0709,3,01:43,HOU,87.0,MIN,77.0,G. Mathews,HOU,Mathews 3' Running Layup (10 PTS),Made Shot,Running Layup Shot,-12,30,3,1,2.0,2.0,h
+S2223-G0709,4,10:52,HOU,,MIN,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,33,266,27,1,3.0,0.0,h
+S2223-G0709,4,09:30,HOU,,MIN,,G. Mathews,HOU,Mathews Traveling Turnover (P1.T18),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0709,4,07:34,HOU,,MIN,,G. Mathews,HOU,Mathews REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0709,4,07:28,HOU,,MIN,,G. Mathews,HOU,MISS Mathews 3PT Running Jump Shot,Missed Shot,Running Jump Shot,227,29,0,1,3.0,0.0,h
+S2223-G0709,4,05:45,HOU,,MIN,,G. Mathews,HOU,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,229,13,0,1,3.0,0.0,h
+S2223-G0709,4,02:05,HOU,,MIN,,G. Mathews,HOU,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,-153,213,26,1,3.0,0.0,h
+S2223-G0709,4,02:00,HOU,,MIN,,G. Mathews,HOU,Mathews S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G0709,4,02:00,HOU,,MIN,,G. Mathews,HOU,SUB: Gordon FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0709,4,00:10.700000,HOU,,MIN,,G. Mathews,HOU,SUB: Tate FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0640,2,10:42,SAC,,HOU,,G. Mathews,HOU,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,1,24,1,3.0,0.0,v
+S2223-G0640,2,10:19,SAC,,HOU,,G. Mathews,HOU,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,-232,6,0,1,3.0,0.0,v
+S2223-G0640,2,09:32,SAC,,HOU,,G. Mathews,HOU,Mathews P.FOUL (P1.T2) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G0640,2,08:37,SAC,,HOU,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0640,2,08:32,SAC,41.0,HOU,44.0,G. Mathews,HOU,Mathews 26' 3PT Running Jump Shot (3 PTS) (Eason 1 AST),Made Shot,Running Jump Shot,-164,206,26,1,3.0,3.0,v
+S2223-G0640,2,08:06,SAC,43.0,HOU,47.0,G. Mathews,HOU,Mathews 26' 3PT Jump Shot (6 PTS) (Gordon 3 AST),Made Shot,Jump Shot,-37,262,26,1,3.0,3.0,v
+S2223-G0640,2,08:00,SAC,,HOU,,G. Mathews,HOU,Mathews S.FOUL (P2.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0640,2,07:36,SAC,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0640,2,07:36,SAC,44.0,HOU,49.0,G. Mathews,HOU,Mathews 1' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,-11,-5,1,1,2.0,2.0,v
+S2223-G0640,2,05:47,SAC,,HOU,,G. Mathews,HOU,MISS Mathews 33' 3PT Jump Shot,Missed Shot,Jump Shot,162,284,33,1,3.0,0.0,v
+S2223-G0640,2,05:05,SAC,,HOU,,G. Mathews,HOU,Mathews STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0640,2,04:16,SAC,,HOU,,G. Mathews,HOU,SUB: Martin Jr. FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0640,2,00:00.500000,SAC,,HOU,,G. Mathews,HOU,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,39,24,1,3.0,0.0,v
+S2223-G0640,4,11:09,SAC,,HOU,,G. Mathews,HOU,Mathews L.B.FOUL (P3.T1) (J.Sterling),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0640,4,11:09,SAC,,HOU,,G. Mathews,HOU,Mathews T.FOUL (P3.T1) (B.Taylor),Foul,Technical,0,0,0,0,,,v
+S2223-G0640,4,11:09,SAC,,HOU,,G. Mathews,HOU,Mathews Ejection:Other,Ejection,Other,0,0,0,0,,,v
+S2223-G0640,4,11:09,SAC,,HOU,,G. Mathews,HOU,SUB: Martin Jr. FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0528,2,08:27,DAL,,HOU,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0528,2,06:10,DAL,,HOU,,G. Mathews,HOU,MISS Mathews 29' 3PT Jump Shot,Missed Shot,Jump Shot,136,253,29,1,3.0,0.0,v
+S2223-G0528,2,05:32,DAL,,HOU,,G. Mathews,HOU,SUB: Green FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0528,4,08:46,DAL,,HOU,,G. Mathews,HOU,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,-230,-5,0,1,3.0,0.0,v
+S2223-G0528,4,08:38,DAL,105.0,HOU,87.0,G. Mathews,HOU,Mathews 3PT Jump Shot (3 PTS) (Eason 1 AST),Made Shot,Jump Shot,-230,22,0,1,3.0,3.0,v
+S2223-G0528,4,07:28,DAL,,HOU,,G. Mathews,HOU,Mathews P.FOUL (P1.T3) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2223-G0528,4,05:38,DAL,114.0,HOU,90.0,G. Mathews,HOU,Mathews Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0528,4,05:38,DAL,114.0,HOU,91.0,G. Mathews,HOU,Mathews Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0528,4,03:04,DAL,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0528,4,01:42,DAL,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0528,4,01:22,DAL,,HOU,,G. Mathews,HOU,Mathews S.FOUL (P2.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G0528,4,00:36.500000,DAL,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0601,2,05:40,HOU,58.0,MIN,38.0,G. Mathews,HOU,Mathews 24' 3PT Pullup Jump Shot (3 PTS) (Sengun 1 AST),Made Shot,Pullup Jump shot,232,55,24,1,3.0,3.0,h
+S2223-G0601,2,05:11,HOU,,MIN,,G. Mathews,HOU,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,-2,259,26,1,3.0,0.0,h
+S2223-G0601,2,04:22,HOU,,MIN,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0601,2,03:22,HOU,,MIN,,G. Mathews,HOU,MISS Mathews 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,28,8,3,1,2.0,0.0,h
+S2223-G0601,2,02:54,HOU,,MIN,,G. Mathews,HOU,SUB: Gordon FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0601,4,10:27,HOU,,MIN,,G. Mathews,HOU,MISS Mathews 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,235,74,25,1,3.0,0.0,h
+S2223-G0601,4,09:55,HOU,,MIN,,G. Mathews,HOU,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,207,147,25,1,3.0,0.0,h
+S2223-G0601,4,07:39,HOU,,MIN,,G. Mathews,HOU,SUB: Green FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0507,1,00:23.900000,BOS,22.0,HOU,21.0,G. Mathews,HOU,Mathews 26' 3PT Jump Shot (3 PTS) (Garuba 1 AST),Made Shot,Jump Shot,194,179,26,1,3.0,3.0,v
+S2223-G0507,1,00:01,BOS,,HOU,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0507,2,08:52,BOS,,HOU,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,-230,150,27,1,3.0,0.0,v
+S2223-G0507,2,08:23,BOS,32.0,HOU,30.0,G. Mathews,HOU,Mathews 26' 3PT Jump Shot (6 PTS) (Porter Jr. 3 AST),Made Shot,Jump Shot,195,177,26,1,3.0,3.0,v
+S2223-G0507,2,07:32,BOS,,HOU,,G. Mathews,HOU,Mathews S.FOUL (P1.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0507,2,06:44,BOS,,HOU,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,183,204,27,1,3.0,0.0,v
+S2223-G0507,2,06:02,BOS,,HOU,,G. Mathews,HOU,MISS Mathews 28' 3PT Jump Shot,Missed Shot,Jump Shot,164,224,28,1,3.0,0.0,v
+S2223-G0507,2,05:34,BOS,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0507,2,04:31,BOS,,HOU,,G. Mathews,HOU,SUB: Martin Jr. FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0507,4,11:08,BOS,,HOU,,G. Mathews,HOU,Mathews Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0507,4,07:41,BOS,,HOU,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,-152,221,27,1,3.0,0.0,v
+S2223-G0507,4,07:20,BOS,,HOU,,G. Mathews,HOU,Mathews STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0507,4,04:32,BOS,,HOU,,G. Mathews,HOU,SUB: Sengun FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0696,1,04:14,MIN,,HOU,,G. Mathews,HOU,Mathews S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0696,1,02:35,MIN,24.0,HOU,24.0,G. Mathews,HOU,Mathews 2' Cutting Layup Shot (2 PTS) (Garuba 1 AST),Made Shot,Cutting Layup Shot,-10,20,2,1,2.0,2.0,v
+S2223-G0696,2,02:25,MIN,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0696,2,02:03,MIN,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0696,2,01:58,MIN,,HOU,,G. Mathews,HOU,SUB: Gordon FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0696,3,04:00,MIN,74.0,HOU,73.0,G. Mathews,HOU,Mathews Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0696,3,04:00,MIN,74.0,HOU,74.0,G. Mathews,HOU,Mathews Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0696,3,04:00,MIN,74.0,HOU,75.0,G. Mathews,HOU,Mathews Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0696,3,03:25,MIN,77.0,HOU,78.0,G. Mathews,HOU,Mathews 24' 3PT Jump Shot (8 PTS) (Tate 2 AST),Made Shot,Jump Shot,-202,130,24,1,3.0,3.0,v
+S2223-G0696,3,01:40,MIN,,HOU,,G. Mathews,HOU,Mathews S.FOUL (P2.T3) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2223-G0696,3,01:31,MIN,,HOU,,G. Mathews,HOU,Mathews Step Out of Bounds Turnover (P1.T16),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0696,4,11:36,MIN,,HOU,,G. Mathews,HOU,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,-197,155,25,1,3.0,0.0,v
+S2223-G0696,4,10:56,MIN,,HOU,,G. Mathews,HOU,Mathews Bad Pass Turnover (P2.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0696,4,10:30,MIN,89.0,HOU,85.0,G. Mathews,HOU,Mathews Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0696,4,10:30,MIN,,HOU,,G. Mathews,HOU,MISS Mathews Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0696,4,10:05,MIN,,HOU,,G. Mathews,HOU,SUB: Washington Jr. FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0287,2,08:27,HOU,,OKC,,G. Mathews,HOU,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,-10,263,26,1,3.0,0.0,h
+S2223-G0287,2,06:46,HOU,36.0,OKC,29.0,G. Mathews,HOU,Mathews 24' 3PT Jump Shot (3 PTS) (Sengun 3 AST),Made Shot,Jump Shot,239,44,24,1,3.0,3.0,h
+S2223-G0287,2,06:15,HOU,39.0,OKC,29.0,G. Mathews,HOU,Mathews 26' 3PT Pullup Jump Shot (6 PTS) (Green 4 AST),Made Shot,Pullup Jump shot,-16,264,26,1,3.0,3.0,h
+S2223-G0287,2,04:36,HOU,,OKC,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0287,2,02:00,HOU,,OKC,,G. Mathews,HOU,SUB: Gordon FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0287,4,09:44,HOU,,OKC,,G. Mathews,HOU,Mathews S.FOUL (P1.T2) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0287,4,09:24,HOU,,OKC,,G. Mathews,HOU,MISS Mathews Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,h
+S2223-G0287,4,09:24,HOU,99.0,OKC,79.0,G. Mathews,HOU,Mathews Free Throw 2 of 3 (7 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0287,4,09:24,HOU,100.0,OKC,79.0,G. Mathews,HOU,Mathews Free Throw 3 of 3 (8 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0287,4,07:39,HOU,,OKC,,G. Mathews,HOU,Mathews S.FOUL (P2.T4) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0287,4,05:06,HOU,112.0,OKC,91.0,G. Mathews,HOU,Mathews 27' 3PT Jump Shot (11 PTS) (Sengun 6 AST),Made Shot,Jump Shot,-92,253,27,1,3.0,3.0,h
+S2223-G0287,4,03:36,HOU,,OKC,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0287,4,01:00,HOU,,OKC,,G. Mathews,HOU,Mathews S.FOUL (P3.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0356,2,08:31,HOU,,PHI,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0356,2,08:26,HOU,,PHI,,G. Mathews,HOU,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,210,147,26,1,3.0,0.0,h
+S2223-G0356,2,05:52,HOU,42.0,PHI,47.0,G. Mathews,HOU,Mathews 27' 3PT Jump Shot (3 PTS) (Porter Jr. 1 AST),Made Shot,Jump Shot,-89,252,27,1,3.0,3.0,h
+S2223-G0356,2,04:26,HOU,,PHI,,G. Mathews,HOU,Mathews P.FOUL (P1.T4) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2223-G0356,2,04:01,HOU,,PHI,,G. Mathews,HOU,MISS Mathews Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,h
+S2223-G0356,2,04:01,HOU,43.0,PHI,47.0,G. Mathews,HOU,Mathews Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0356,2,04:01,HOU,44.0,PHI,47.0,G. Mathews,HOU,Mathews Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0356,2,02:47,HOU,,PHI,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,-205,179,27,1,3.0,0.0,h
+S2223-G0356,2,01:55,HOU,,PHI,,G. Mathews,HOU,SUB: Gordon FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0356,4,07:09,HOU,,PHI,,G. Mathews,HOU,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,192,159,25,1,3.0,0.0,h
+S2223-G0356,4,06:51,HOU,,PHI,,G. Mathews,HOU,Mathews REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0356,4,06:40,HOU,,PHI,,G. Mathews,HOU,Mathews STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0356,4,05:20,HOU,,PHI,,G. Mathews,HOU,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,17,24,1,3.0,0.0,h
+S2223-G0356,4,04:45,HOU,,PHI,,G. Mathews,HOU,SUB: Eason FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0024,2,06:25,HOU,,MEM,,G. Mathews,HOU,SUB: Martin Jr. FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0024,3,00:49.500000,HOU,,MEM,,G. Mathews,HOU,MISS Mathews 28' 3PT Jump Shot,Missed Shot,Jump Shot,124,247,28,1,3.0,0.0,h
+S2223-G0024,3,00:08.400000,HOU,,MEM,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0024,4,09:48,HOU,105.0,MEM,104.0,G. Mathews,HOU,Mathews 26' 3PT Jump Shot (3 PTS) (Eason 1 AST),Made Shot,Jump Shot,221,137,26,1,3.0,3.0,h
+S2223-G0024,4,07:41,HOU,,MEM,,G. Mathews,HOU,Mathews Transition Take Foul (P1.T2) (N.Sago),Foul                                    ,Transition Take,0,0,0,0,,,h
+S2223-G0024,4,07:41,HOU,,MEM,,G. Mathews,HOU,SUB: Green FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0033,1,01:20,MIL,,HOU,,G. Mathews,HOU,Mathews S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G0033,2,07:29,MIL,,HOU,,G. Mathews,HOU,MISS Mathews 29' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-203,205,29,1,3.0,0.0,v
+S2223-G0033,2,06:19,MIL,,HOU,,G. Mathews,HOU,SUB: Green FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0033,3,01:19,MIL,95.0,HOU,77.0,G. Mathews,HOU,Mathews Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2223-G0033,4,10:51,MIL,,HOU,,G. Mathews,HOU,Mathews Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0033,4,09:54,MIL,,HOU,,G. Mathews,HOU,SUB: Green FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0137,1,00:00.400000,MIN,,HOU,,G. Mathews,HOU,MISS Mathews 29' 3PT Jump Shot,Missed Shot,Jump Shot,-186,221,29,1,3.0,0.0,v
+S2223-G0137,2,09:32,MIN,,HOU,,G. Mathews,HOU,MISS Mathews 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,13,42,4,1,2.0,0.0,v
+S2223-G0137,2,08:26,MIN,,HOU,,G. Mathews,HOU,SUB: Christopher FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0137,4,10:38,MIN,,HOU,,G. Mathews,HOU,MISS Mathews 28' 3PT Jump Shot,Missed Shot,Jump Shot,-27,274,28,1,3.0,0.0,v
+S2223-G0137,4,10:32,MIN,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0137,4,08:38,MIN,110.0,HOU,91.0,G. Mathews,HOU,Mathews 24' 3PT Jump Shot (3 PTS) (Gordon 4 AST),Made Shot,Jump Shot,-230,56,24,1,3.0,3.0,v
+S2223-G0137,4,07:59,MIN,,HOU,,G. Mathews,HOU,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,29,24,1,3.0,0.0,v
+S2223-G0137,4,06:31,MIN,,HOU,,G. Mathews,HOU,Mathews Bad Pass Turnover (P1.T22),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0137,4,04:49,MIN,117.0,HOU,103.0,G. Mathews,HOU,Mathews 30' 3PT Jump Shot (6 PTS) (Nix 4 AST),Made Shot,Jump Shot,143,266,30,1,3.0,3.0,v
+S2223-G0137,4,00:54.100000,MIN,129.0,HOU,114.0,G. Mathews,HOU,Mathews 25' 3PT Jump Shot (9 PTS) (Nix 6 AST),Made Shot,Jump Shot,-202,153,25,1,3.0,3.0,v
+S2223-G0320,2,07:52,DEN,,HOU,,G. Mathews,HOU,MISS Mathews 28' 3PT Jump Shot,Missed Shot,Jump Shot,125,248,28,1,3.0,0.0,v
+S2223-G0320,2,03:37,DEN,64.0,HOU,34.0,G. Mathews,HOU,Mathews 25' 3PT Jump Shot (3 PTS) (Eason 1 AST),Made Shot,Jump Shot,-138,214,25,1,3.0,3.0,v
+S2223-G0320,2,02:23,DEN,,HOU,,G. Mathews,HOU,Mathews P.FOUL (P1.T4) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0320,2,00:05.500000,DEN,,HOU,,G. Mathews,HOU,Mathews S.FOUL (P2.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2223-G0320,4,07:25,DEN,106.0,HOU,84.0,G. Mathews,HOU,Mathews 26' 3PT Pullup Jump Shot (6 PTS) (Martin Jr. 2 AST),Made Shot,Pullup Jump shot,58,254,26,1,3.0,3.0,v
+S2223-G0320,4,06:57,DEN,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0320,4,06:39,DEN,,HOU,,G. Mathews,HOU,MISS Mathews 30' 3PT Jump Shot,Missed Shot,Jump Shot,44,295,30,1,3.0,0.0,v
+S2223-G0048,1,01:57,HOU,,UTA,,G. Mathews,HOU,Mathews S.FOUL (P1.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0048,2,11:27,HOU,,UTA,,G. Mathews,HOU,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,-27,258,26,1,3.0,0.0,h
+S2223-G0048,2,11:17,HOU,,UTA,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0048,2,11:07,HOU,24.0,UTA,18.0,G. Mathews,HOU,Mathews 25' 3PT Jump Shot (3 PTS) (Garuba 1 AST),Made Shot,Jump Shot,116,227,25,1,3.0,3.0,h
+S2223-G0048,2,08:56,HOU,,UTA,,G. Mathews,HOU,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,136,225,26,1,3.0,0.0,h
+S2223-G0048,2,08:04,HOU,,UTA,,G. Mathews,HOU,Mathews BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0048,2,07:41,HOU,,UTA,,G. Mathews,HOU,Mathews P.FOUL (P2.T2) (E.Lewis),Foul,Personal,0,0,0,0,,,h
+S2223-G0048,2,07:41,HOU,,UTA,,G. Mathews,HOU,SUB: Christopher FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0048,3,04:41,HOU,,UTA,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0048,3,03:15,HOU,,UTA,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,-190,194,27,1,3.0,0.0,h
+S2223-G0048,3,01:18,HOU,,UTA,,G. Mathews,HOU,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,207,155,26,1,3.0,0.0,h
+S2223-G0048,4,00:08.800000,HOU,,UTA,,G. Mathews,HOU,SUB: Martin Jr. FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0789,1,02:26,HOU,,TOR,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,-200,186,27,1,3.0,0.0,h
+S2223-G0789,1,01:16,HOU,,TOR,,G. Mathews,HOU,MISS Mathews 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-227,-14,0,1,3.0,0.0,h
+S2223-G0789,1,00:29.700000,HOU,,TOR,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0789,2,11:26,HOU,,TOR,,G. Mathews,HOU,Mathews Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0789,2,10:04,HOU,,TOR,,G. Mathews,HOU,SUB: Martin Jr. FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0789,3,04:05,HOU,,TOR,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0789,3,02:50,HOU,,TOR,,G. Mathews,HOU,SUB: Christopher FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0005,1,00:48,ATL,,HOU,,G. Mathews,HOU,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,-157,206,26,1,3.0,0.0,v
+S2223-G0005,2,07:27,ATL,,HOU,,G. Mathews,HOU,SUB: Porter Jr. FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0005,4,11:04,ATL,,HOU,,G. Mathews,HOU,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,-118,233,26,1,3.0,0.0,v
+S2223-G0005,4,10:22,ATL,,HOU,,G. Mathews,HOU,Mathews P.FOUL (P1.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2223-G0005,4,09:41,ATL,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0005,4,06:27,ATL,,HOU,,G. Mathews,HOU,SUB: Porter Jr. FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G1090,1,01:55,MIN,32.0,ATL,36.0,G. Mathews,ATL,Mathews 25' 3PT Jump Shot (3 PTS) (Griffin 1 AST),Made Shot,Jump Shot,-202,152,25,1,3.0,3.0,v
+S2223-G1090,1,00:56.900000,MIN,,ATL,,G. Mathews,ATL,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,-89,239,26,1,3.0,0.0,v
+S2223-G1090,2,08:36,MIN,,ATL,,G. Mathews,ATL,SUB: Collins FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G1090,3,01:19,MIN,,ATL,,G. Mathews,ATL,Mathews P.FOUL (P1.PN) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2223-G1090,4,11:43,MIN,,ATL,,G. Mathews,ATL,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1090,4,11:16,MIN,,ATL,,G. Mathews,ATL,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1090,4,09:43,MIN,,ATL,,G. Mathews,ATL,MISS Mathews 3' Driving Layup,Missed Shot,Driving Layup Shot,22,22,3,1,2.0,0.0,v
+S2223-G1090,4,09:24,MIN,,ATL,,G. Mathews,ATL,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0228,1,01:45,HOU,,IND,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0228,2,10:51,HOU,28.0,IND,10.0,G. Mathews,HOU,Mathews 27' 3PT Jump Shot (3 PTS) (Sengun 2 AST),Made Shot,Jump Shot,-201,178,27,1,3.0,3.0,h
+S2223-G0228,2,10:42,HOU,,IND,,G. Mathews,HOU,Mathews P.FOUL (P1.T2) (L.Wood),Foul,Personal,0,0,0,0,,,h
+S2223-G0228,2,07:32,HOU,,IND,,G. Mathews,HOU,SUB: Eason FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0228,3,01:02,HOU,,IND,,G. Mathews,HOU,MISS Mathews 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,191,122,23,1,2.0,0.0,h
+S2223-G0228,4,12:00,HOU,,IND,,G. Mathews,HOU,"Double Technical - Mathews, Jackson (L.Wood)",Foul,Double Technical,0,0,0,0,,,
+S2223-G0228,4,10:56,HOU,,IND,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,43,263,27,1,3.0,0.0,h
+S2223-G0228,4,09:29,HOU,,IND,,G. Mathews,HOU,Mathews S.FOUL (P2.T1) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2223-G0228,4,08:51,HOU,,IND,,G. Mathews,HOU,MISS Mathews 28' 3PT Jump Shot,Missed Shot,Jump Shot,-71,266,28,1,3.0,0.0,h
+S2223-G0228,4,07:34,HOU,,IND,,G. Mathews,HOU,SUB: Eason FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0649,2,10:30,LAC,31.0,HOU,37.0,G. Mathews,HOU,Mathews 3PT Jump Shot (3 PTS) (Eason 1 AST),Made Shot,Jump Shot,225,42,0,1,3.0,3.0,v
+S2223-G0649,2,09:43,LAC,33.0,HOU,38.0,G. Mathews,HOU,Mathews Free Throw Flagrant 1 of 3 (4 PTS),Free Throw,Free Throw Flagrant 1 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0649,2,09:43,LAC,33.0,HOU,39.0,G. Mathews,HOU,Mathews Free Throw Flagrant 2 of 3 (5 PTS),Free Throw,Free Throw Flagrant 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0649,2,09:43,LAC,33.0,HOU,40.0,G. Mathews,HOU,Mathews Free Throw Flagrant 3 of 3 (6 PTS),Free Throw,Free Throw Flagrant 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0649,2,09:18,LAC,,HOU,,G. Mathews,HOU,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,-235,86,25,1,3.0,0.0,v
+S2223-G0649,2,08:40,LAC,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0649,2,08:06,LAC,,HOU,,G. Mathews,HOU,Mathews Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0649,2,07:51,LAC,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0649,2,07:13,LAC,,HOU,,G. Mathews,HOU,MISS Mathews 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,86,25,1,3.0,0.0,v
+S2223-G0649,2,06:06,LAC,,HOU,,G. Mathews,HOU,SUB: Christopher FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0649,4,09:24,LAC,,HOU,,G. Mathews,HOU,Mathews OFF.Foul (P1) (M.Dagher),Foul,Offensive,0,0,0,0,,,v
+S2223-G0649,4,09:24,LAC,,HOU,,G. Mathews,HOU,Mathews Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0649,4,08:33,LAC,,HOU,,G. Mathews,HOU,MISS Mathews 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-98,230,25,1,3.0,0.0,v
+S2223-G0649,4,06:55,LAC,,HOU,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0649,4,06:51,LAC,,HOU,,G. Mathews,HOU,Mathews Bad Pass Turnover (P3.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0649,4,06:18,LAC,,HOU,,G. Mathews,HOU,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-20,24,1,3.0,0.0,v
+S2223-G0649,4,06:13,LAC,,HOU,,G. Mathews,HOU,Mathews S.FOUL (P2.PN) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0649,4,06:13,LAC,,HOU,,G. Mathews,HOU,SUB: Sengun FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0063,2,07:41,UTA,34.0,HOU,31.0,G. Mathews,HOU,Mathews 25' 3PT Jump Shot (3 PTS) (Nix 2 AST),Made Shot,Jump Shot,-180,167,25,1,3.0,3.0,v
+S2223-G0063,2,06:56,UTA,36.0,HOU,34.0,G. Mathews,HOU,Mathews 28' 3PT Jump Shot (6 PTS) (Tate 1 AST),Made Shot,Jump Shot,-6,281,28,1,3.0,3.0,v
+S2223-G0063,2,06:00,UTA,,HOU,,G. Mathews,HOU,Mathews S.FOUL (P1.T4) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2223-G0063,2,05:24,UTA,,HOU,,G. Mathews,HOU,MISS Mathews 28' 3PT Jump Shot,Missed Shot,Jump Shot,99,258,28,1,3.0,0.0,v
+S2223-G0063,2,03:13,UTA,,HOU,,G. Mathews,HOU,Mathews S.FOUL (P2.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2223-G0063,2,03:13,UTA,,HOU,,G. Mathews,HOU,SUB: Gordon FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0063,3,00:52.200000,UTA,87.0,HOU,73.0,G. Mathews,HOU,Mathews 26' 3PT Jump Shot (9 PTS) (Martin Jr. 2 AST),Made Shot,Jump Shot,161,199,26,1,3.0,3.0,v
+S2223-G0063,4,10:15,UTA,,HOU,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0063,4,09:24,UTA,,HOU,,G. Mathews,HOU,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,-165,193,25,1,3.0,0.0,v
+S2223-G0063,4,08:14,UTA,,HOU,,G. Mathews,HOU,Mathews P.FOUL (P3.T3) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G0063,4,06:15,UTA,97.0,HOU,92.0,G. Mathews,HOU,Mathews Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0063,4,06:15,UTA,97.0,HOU,93.0,G. Mathews,HOU,Mathews Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0063,4,02:47,UTA,,HOU,,G. Mathews,HOU,SUB: Martin Jr. FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0501,2,07:06,CHI,,HOU,,G. Mathews,HOU,Mathews S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0501,2,04:40,CHI,,HOU,,G. Mathews,HOU,SUB: Martin Jr. FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0278,2,10:22,HOU,43.0,ATL,37.0,G. Mathews,HOU,Mathews 3PT Jump Shot (3 PTS) (Porter Jr. 3 AST),Made Shot,Jump Shot,-232,1,0,1,3.0,3.0,h
+S2223-G0278,2,09:27,HOU,44.0,ATL,43.0,G. Mathews,HOU,Mathews Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0278,2,09:27,HOU,45.0,ATL,43.0,G. Mathews,HOU,Mathews Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0278,2,09:27,HOU,46.0,ATL,43.0,G. Mathews,HOU,Mathews Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0278,2,09:18,HOU,,ATL,,G. Mathews,HOU,Mathews P.FOUL (P1.T2) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2223-G0278,2,06:44,HOU,,ATL,,G. Mathews,HOU,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,221,113,25,1,3.0,0.0,h
+S2223-G0278,2,06:13,HOU,,ATL,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,-213,160,27,1,3.0,0.0,h
+S2223-G0278,2,05:38,HOU,,ATL,,G. Mathews,HOU,SUB: Martin Jr. FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0278,3,04:29,HOU,,ATL,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0278,3,03:58,HOU,,ATL,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0278,3,02:50,HOU,,ATL,,G. Mathews,HOU,Mathews Out of Bounds - Bad Pass Turnover Turnover (P1.T20),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0278,3,02:24,HOU,87.0,ATL,98.0,G. Mathews,HOU,Mathews 27' 3PT Jump Shot (9 PTS) (Porter Jr. 6 AST),Made Shot,Jump Shot,-1,272,27,1,3.0,3.0,h
+S2223-G0278,3,00:14.400000,HOU,,ATL,,G. Mathews,HOU,Mathews REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0278,4,11:00,HOU,100.0,ATL,104.0,G. Mathews,HOU,Mathews 3PT Jump Shot (12 PTS) (Porter Jr. 9 AST),Made Shot,Jump Shot,-233,-4,0,1,3.0,3.0,h
+S2223-G0278,4,10:01,HOU,,ATL,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0278,4,09:59,HOU,101.0,ATL,104.0,G. Mathews,HOU,Mathews Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0278,4,09:59,HOU,102.0,ATL,104.0,G. Mathews,HOU,Mathews Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0278,4,09:44,HOU,,ATL,,G. Mathews,HOU,Mathews S.FOUL (P2.T3) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2223-G0278,4,08:05,HOU,,ATL,,G. Mathews,HOU,Mathews REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0278,4,01:46,HOU,,ATL,,G. Mathews,HOU,Mathews STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0278,4,01:46,HOU,119.0,ATL,117.0,G. Mathews,HOU,Mathews Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0278,4,01:46,HOU,120.0,ATL,117.0,G. Mathews,HOU,Mathews Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0278,4,01:40,HOU,,ATL,,G. Mathews,HOU,Mathews S.FOUL (P3.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0278,4,00:50,HOU,124.0,ATL,119.0,G. Mathews,HOU,Mathews 5' Driving Floating Jump Shot (18 PTS),Made Shot,Driving Floating Jump Shot,16,46,5,1,2.0,2.0,h
+S2223-G0278,4,00:50,HOU,,ATL,,G. Mathews,HOU,SUB: Nix FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0278,4,00:13.300000,HOU,126.0,ATL,119.0,G. Mathews,HOU,Mathews Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0278,4,00:13.300000,HOU,127.0,ATL,120.0,G. Mathews,HOU,Mathews Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0556,2,08:29,HOU,,DAL,,G. Mathews,HOU,Mathews P.FOUL (P1.T3) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2223-G0556,2,03:43,HOU,,DAL,,G. Mathews,HOU,Mathews S.FOUL (P2.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0556,2,03:00,HOU,,DAL,,G. Mathews,HOU,SUB: Porter Jr. FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0556,4,08:56,HOU,,DAL,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,-163,213,27,1,3.0,0.0,h
+S2223-G0556,4,06:22,HOU,,DAL,,G. Mathews,HOU,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,-230,-21,0,1,3.0,0.0,h
+S2223-G0556,4,04:33,HOU,,DAL,,G. Mathews,HOU,SUB: Green FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G1078,1,02:11,ATL,,DET,,G. Mathews,ATL,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,-230,-16,0,1,3.0,0.0,h
+S2223-G1078,1,00:46.200000,ATL,,DET,,G. Mathews,ATL,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1078,2,08:07,ATL,,DET,,G. Mathews,ATL,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1078,2,07:32,ATL,,DET,,G. Mathews,ATL,SUB: Hunter FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G1078,3,01:26,ATL,,DET,,G. Mathews,ATL,MISS Mathews 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,156,195,25,1,3.0,0.0,h
+S2223-G1078,3,00:33.300000,ATL,,DET,,G. Mathews,ATL,Mathews REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1078,4,10:38,ATL,,DET,,G. Mathews,ATL,MISS Mathews 5' Driving Layup,Missed Shot,Driving Layup Shot,-38,25,5,1,2.0,0.0,h
+S2223-G1078,4,09:39,ATL,,DET,,G. Mathews,ATL,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,88,241,26,1,3.0,0.0,h
+S2223-G1078,4,07:04,ATL,,DET,,G. Mathews,ATL,SUB: Young FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G1078,4,02:15,ATL,,DET,,G. Mathews,ATL,Mathews Personal Take Foul (P1.T1) (K.Lane),Foul,Personal Take,0,0,0,0,,,h
+S2223-G1078,4,01:52,ATL,125.0,DET,98.0,G. Mathews,ATL,Mathews 16' Pullup Jump Shot (2 PTS) (Holiday 2 AST),Made Shot,Pullup Jump shot,-20,156,16,1,2.0,2.0,h
+S2223-G1078,4,01:15,ATL,,DET,,G. Mathews,ATL,Mathews REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0487,2,10:25,HOU,,DAL,,G. Mathews,HOU,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,268,27,1,3.0,0.0,h
+S2223-G0487,2,08:42,HOU,,DAL,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0487,2,07:02,HOU,,DAL,,G. Mathews,HOU,SUB: Green FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0487,4,10:51,HOU,,DAL,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0487,4,06:04,HOU,,DAL,,G. Mathews,HOU,SUB: Martin Jr. FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0080,2,07:41,POR,,HOU,,G. Mathews,HOU,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,-225,27,0,1,3.0,0.0,v
+S2223-G0080,2,05:49,POR,,HOU,,G. Mathews,HOU,Mathews P.FOUL (P1.T1) (J.Butler),Foul,Personal,0,0,0,0,,,v
+S2223-G0080,2,03:08,POR,,HOU,,G. Mathews,HOU,SUB: Gordon FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0080,4,07:35,POR,,HOU,,G. Mathews,HOU,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,15,248,25,1,3.0,0.0,v
+S2223-G0080,4,07:00,POR,107.0,HOU,96.0,G. Mathews,HOU,Mathews Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0080,4,07:00,POR,107.0,HOU,97.0,G. Mathews,HOU,Mathews Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0080,4,07:00,POR,107.0,HOU,98.0,G. Mathews,HOU,Mathews Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0080,4,03:57,POR,,HOU,,G. Mathews,HOU,SUB: Gordon FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0080,4,00:20.300000,POR,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0203,4,03:11,HOU,,LAC,,G. Mathews,HOU,MISS Mathews 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-228,120,26,1,3.0,0.0,h
+S2223-G0203,4,02:28,HOU,,LAC,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0203,4,00:45.100000,HOU,,LAC,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1107,1,01:11,ATL,,IND,,G. Mathews,ATL,Mathews P.FOUL (P1.T3) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2223-G1107,2,11:28,ATL,42.0,IND,38.0,G. Mathews,ATL,Mathews 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-130,212,25,1,3.0,3.0,h
+S2223-G1107,2,10:22,ATL,,IND,,G. Mathews,ATL,Mathews S.FOUL (P2.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G1107,2,08:56,ATL,,IND,,G. Mathews,ATL,Mathews STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1107,2,08:52,ATL,48.0,IND,43.0,G. Mathews,ATL,Mathews Running Layup (5 PTS),Made Shot,Running Layup Shot,1,-1,0,1,2.0,2.0,h
+S2223-G1107,2,07:54,ATL,53.0,IND,47.0,G. Mathews,ATL,Mathews 26' 3PT Jump Shot (8 PTS) (Murray 8 AST),Made Shot,Jump Shot,-181,190,26,1,3.0,3.0,h
+S2223-G1107,2,06:59,ATL,,IND,,G. Mathews,ATL,SUB: Young FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G1107,4,10:39,ATL,113.0,IND,102.0,G. Mathews,ATL,Mathews 26' 3PT Jump Shot (11 PTS) (Bey 1 AST),Made Shot,Jump Shot,-184,179,26,1,3.0,3.0,h
+S2223-G1107,4,08:35,ATL,123.0,IND,108.0,G. Mathews,ATL,Mathews 26' 3PT Pullup Jump Shot (14 PTS) (Griffin 3 AST),Made Shot,Pullup Jump shot,-126,226,26,1,3.0,3.0,h
+S2223-G1107,4,07:37,ATL,,IND,,G. Mathews,ATL,MISS Mathews 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-45,252,26,1,3.0,0.0,h
+S2223-G1107,4,07:16,ATL,,IND,,G. Mathews,ATL,Mathews Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1107,4,07:11,ATL,,IND,,G. Mathews,ATL,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0541,2,09:21,HOU,,NYK,,G. Mathews,HOU,MISS Mathews 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,197,167,26,1,3.0,0.0,h
+S2223-G0541,2,08:56,HOU,,NYK,,G. Mathews,HOU,MISS Mathews 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-234,146,28,1,3.0,0.0,h
+S2223-G0541,2,04:43,HOU,,NYK,,G. Mathews,HOU,Mathews P.FOUL (P1.T3) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2223-G0541,2,04:32,HOU,,NYK,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0541,2,02:57,HOU,,NYK,,G. Mathews,HOU,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,-230,26,0,1,3.0,0.0,h
+S2223-G0541,2,02:39,HOU,,NYK,,G. Mathews,HOU,MISS Mathews 33' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-217,249,33,1,3.0,0.0,h
+S2223-G0541,2,02:17,HOU,,NYK,,G. Mathews,HOU,SUB: Gordon FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0541,4,06:03,HOU,,NYK,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0541,4,04:59,HOU,,NYK,,G. Mathews,HOU,Mathews P.FOUL (P2.T3) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2223-G0541,4,04:38,HOU,,NYK,,G. Mathews,HOU,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,-164,185,25,1,3.0,0.0,h
+S2223-G0541,4,03:52,HOU,,NYK,,G. Mathews,HOU,SUB: Gordon FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0424,2,10:14,HOU,,MIA,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0424,2,10:13,HOU,33.0,MIA,29.0,G. Mathews,HOU,Mathews Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0424,2,10:13,HOU,34.0,MIA,29.0,G. Mathews,HOU,Mathews Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0424,2,08:47,HOU,,MIA,,G. Mathews,HOU,MISS Mathews 30' 3PT Jump Shot,Missed Shot,Jump Shot,-188,239,30,1,3.0,0.0,h
+S2223-G0424,2,05:25,HOU,43.0,MIA,44.0,G. Mathews,HOU,Mathews 28' 3PT Jump Shot (5 PTS) (Green 1 AST),Made Shot,Jump Shot,164,232,28,1,3.0,3.0,h
+S2223-G0424,2,03:21,HOU,,MIA,,G. Mathews,HOU,SUB: Gordon FOR Mathews,Substitution,,0,0,0,0,,,h
+S2223-G0664,2,11:33,LAL,,HOU,,G. Mathews,HOU,Mathews S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0664,2,11:20,LAL,,HOU,,G. Mathews,HOU,Mathews Backcourt Turnover (P1.T1),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2223-G0664,2,10:07,LAL,,HOU,,G. Mathews,HOU,MISS Mathews 3' Driving Layup,Missed Shot,Driving Layup Shot,-13,26,3,1,2.0,0.0,v
+S2223-G0664,2,08:00,LAL,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0664,2,06:13,LAL,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0664,2,03:55,LAL,60.0,HOU,56.0,G. Mathews,HOU,Mathews 27' 3PT Jump Shot (3 PTS) (Sengun 3 AST),Made Shot,Jump Shot,-154,227,27,1,3.0,3.0,v
+S2223-G0664,2,02:40,LAL,,HOU,,G. Mathews,HOU,SUB: Gordon FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0664,4,08:29,LAL,,HOU,,G. Mathews,HOU,MISS Mathews 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,185,198,27,1,3.0,0.0,v
+S2223-G0664,4,08:20,LAL,117.0,HOU,107.0,G. Mathews,HOU,Mathews 26' 3PT Jump Shot (6 PTS) (Tate 4 AST),Made Shot,Jump Shot,208,152,26,1,3.0,3.0,v
+S2223-G0664,4,06:24,LAL,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0664,4,06:22,LAL,,HOU,,G. Mathews,HOU,MISS Mathews Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0664,4,06:02,LAL,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0664,4,05:06,LAL,,HOU,,G. Mathews,HOU,SUB: Green FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0625,2,07:54,SAC,,HOU,,G. Mathews,HOU,MISS Mathews 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,224,100,25,1,3.0,0.0,v
+S2223-G0625,2,06:40,SAC,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0625,2,06:31,SAC,,HOU,,G. Mathews,HOU,MISS Mathews 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-31,75,8,1,2.0,0.0,v
+S2223-G0625,2,03:46,SAC,57.0,HOU,50.0,G. Mathews,HOU,Mathews 25' 3PT Jump Shot (3 PTS) (Tate 3 AST),Made Shot,Jump Shot,120,223,25,1,3.0,3.0,v
+S2223-G0625,2,03:21,SAC,,HOU,,G. Mathews,HOU,Mathews BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0625,2,01:31,SAC,63.0,HOU,56.0,G. Mathews,HOU,Mathews 26' 3PT Pullup Jump Shot (6 PTS) (Sengun 4 AST),Made Shot,Pullup Jump shot,-12,263,26,1,3.0,3.0,v
+S2223-G0625,3,02:21,SAC,,HOU,,G. Mathews,HOU,Mathews STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0625,3,02:09,SAC,,HOU,,G. Mathews,HOU,Mathews FLAGRANT.FOUL.TYPE1 (P1.PN) (M.Davis),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2223-G0625,3,01:46,SAC,93.0,HOU,89.0,G. Mathews,HOU,Mathews 25' 3PT Running Jump Shot (9 PTS) (Tate 5 AST),Made Shot,Running Jump Shot,-134,209,25,1,3.0,3.0,v
+S2223-G0625,3,00:05.100000,SAC,,HOU,,G. Mathews,HOU,SUB: Martin Jr. FOR Mathews,Substitution,,0,0,0,0,,,v
+S2223-G0625,4,10:15,SAC,,HOU,,G. Mathews,HOU,MISS Mathews 3' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-20,22,3,1,2.0,0.0,v
+S2223-G0625,4,08:44,SAC,100.0,HOU,101.0,G. Mathews,HOU,Mathews 25' 3PT Jump Shot (12 PTS) (Martin Jr. 1 AST),Made Shot,Jump Shot,-162,184,25,1,3.0,3.0,v
+S2223-G0625,4,08:03,SAC,,HOU,,G. Mathews,HOU,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,-239,56,25,1,3.0,0.0,v
+S2223-G0625,4,06:27,SAC,,HOU,,G. Mathews,HOU,Mathews S.FOUL (P2.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0625,4,05:56,SAC,,HOU,,G. Mathews,HOU,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0625,4,04:41,SAC,,HOU,,G. Mathews,HOU,SUB: Gordon FOR Mathews,Substitution,,0,0,0,0,,,v

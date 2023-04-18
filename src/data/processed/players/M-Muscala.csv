@@ -1,0 +1,839 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0523,1,02:05,CHA,,OKC,,M. Muscala,OKC,MISS Muscala 8' Jump Shot,Missed Shot,Jump Shot,-31,73,8,1,2.0,0.0,v
+S2223-G0523,2,03:53,CHA,,OKC,,M. Muscala,OKC,Muscala STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0523,2,02:05,CHA,,OKC,,M. Muscala,OKC,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,232,15,0,1,3.0,0.0,v
+S2223-G0523,2,01:42,CHA,,OKC,,M. Muscala,OKC,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,114,247,27,1,3.0,0.0,v
+S2223-G0523,2,01:33,CHA,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0523,2,00:00.300000,CHA,57.0,OKC,60.0,M. Muscala,OKC,Muscala 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,-233,-6,0,1,3.0,3.0,v
+S2223-G0523,3,03:09,CHA,,OKC,,M. Muscala,OKC,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,234,7,0,1,3.0,0.0,v
+S2223-G0523,3,02:23,CHA,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0523,3,00:08.600000,CHA,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0523,4,01:12,CHA,,OKC,,M. Muscala,OKC,Muscala STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0523,4,00:31.500000,CHA,,OKC,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0523,4,00:21,CHA,,OKC,,M. Muscala,OKC,Muscala P.FOUL (P2.PN) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2223-G0935,2,11:49,BOS,,CLE,,M. Muscala,BOS,Muscala P.FOUL (P1.T1) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2223-G0935,2,10:52,BOS,,CLE,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0935,2,10:43,BOS,,CLE,,M. Muscala,BOS,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,93,253,27,1,3.0,0.0,h
+S2223-G0935,2,05:32,BOS,,CLE,,M. Muscala,BOS,Muscala S.FOUL (P2.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0935,2,05:32,BOS,,CLE,,M. Muscala,BOS,SUB: White FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0935,4,10:41,BOS,,CLE,,M. Muscala,BOS,MISS Muscala 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-147,28,15,1,2.0,0.0,h
+S2223-G0935,4,10:15,BOS,,CLE,,M. Muscala,BOS,MISS Muscala 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,45,24,1,3.0,0.0,h
+S2223-G0935,4,09:38,BOS,,CLE,,M. Muscala,BOS,SUB: Horford FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0759,1,03:27,OKC,,GSW,,M. Muscala,OKC,Muscala P.FOUL (P1.T1) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2223-G0759,1,02:40,OKC,,GSW,,M. Muscala,OKC,MISS Muscala 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,36,64,7,1,2.0,0.0,h
+S2223-G0759,1,01:58,OKC,18.0,GSW,29.0,M. Muscala,OKC,Muscala 25' 3PT Running Jump Shot (3 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Running Jump Shot,-213,124,25,1,3.0,3.0,h
+S2223-G0759,3,03:45,OKC,,GSW,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0759,3,02:43,OKC,,GSW,,M. Muscala,OKC,Muscala STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0759,3,02:33,OKC,73.0,GSW,84.0,M. Muscala,OKC,Muscala Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0759,3,02:33,OKC,74.0,GSW,84.0,M. Muscala,OKC,Muscala Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0759,3,01:47,OKC,,GSW,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0759,3,01:26,OKC,,GSW,,M. Muscala,OKC,Muscala S.FOUL (P2.T2) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0759,3,00:00.400000,OKC,85.0,GSW,94.0,M. Muscala,OKC,Muscala 28' 3PT Jump Shot (8 PTS) (Gilgeous-Alexander 5 AST),Made Shot,Jump Shot,-183,214,28,1,3.0,3.0,h
+S2223-G0759,4,10:04,OKC,,GSW,,M. Muscala,OKC,SUB: Jal. Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0759,4,02:34,OKC,,GSW,,M. Muscala,OKC,SUB: Joe FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0562,1,03:22,OKC,,BOS,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0562,1,03:07,OKC,,BOS,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-34,258,26,1,3.0,0.0,h
+S2223-G0562,1,01:21,OKC,,BOS,,M. Muscala,OKC,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,229,8,0,1,3.0,0.0,h
+S2223-G0562,1,00:33.100000,OKC,,BOS,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0562,3,04:03,OKC,,BOS,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0562,3,02:46,OKC,,BOS,,M. Muscala,OKC,Muscala P.FOUL (P1.T4) (L.Holtkamp),Foul,Personal,0,0,0,0,,,h
+S2223-G0562,3,02:16,OKC,,BOS,,M. Muscala,OKC,MISS Muscala 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-136,10,14,1,2.0,0.0,h
+S2223-G0562,3,02:06,OKC,,BOS,,M. Muscala,OKC,Muscala S.FOUL (P2.PN) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0562,3,01:39,OKC,,BOS,,M. Muscala,OKC,Muscala S.FOUL (P3.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0562,3,00:07.300000,OKC,,BOS,,M. Muscala,OKC,Muscala P.FOUL (P4.PN) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2223-G0562,4,09:12,OKC,,BOS,,M. Muscala,OKC,Muscala OFF.Foul (P5) (M.Lindsay),Foul,Offensive,0,0,0,0,,,h
+S2223-G0562,4,09:12,OKC,,BOS,,M. Muscala,OKC,Muscala Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0562,4,08:04,OKC,,BOS,,M. Muscala,OKC,SUB: Jay. Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0626,2,00:09.600000,PHI,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0626,2,00:07.700000,PHI,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0626,3,05:08,PHI,78.0,OKC,83.0,M. Muscala,OKC,Muscala 24' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Jump Shot,-232,60,24,1,3.0,3.0,v
+S2223-G0626,3,03:44,PHI,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0626,3,03:19,PHI,,OKC,,M. Muscala,OKC,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,-230,38,0,1,3.0,0.0,v
+S2223-G0626,3,03:11,PHI,,OKC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,77,252,26,1,3.0,0.0,v
+S2223-G0626,3,02:07,PHI,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0626,3,01:56,PHI,80.0,OKC,97.0,M. Muscala,OKC,Muscala 27' 3PT Pullup Jump Shot (6 PTS) (Gilgeous-Alexander 5 AST),Made Shot,Pullup Jump shot,-115,246,27,1,3.0,3.0,v
+S2223-G0626,3,00:16.500000,PHI,,OKC,,M. Muscala,OKC,SUB: Dort FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0626,4,04:31,PHI,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P2.T3) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0626,4,04:05,PHI,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0626,4,03:37,PHI,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P3.T4) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0626,4,03:10,PHI,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P4.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0626,4,01:04,PHI,112.0,OKC,131.0,M. Muscala,OKC,Muscala 29' 3PT Jump Shot (9 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Jump Shot,-145,246,29,1,3.0,3.0,v
+S2223-G1152,2,09:01,BOS,,UTA,,M. Muscala,BOS,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-159,204,26,1,3.0,0.0,h
+S2223-G1152,2,07:21,BOS,,UTA,,M. Muscala,BOS,Muscala REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1152,2,07:19,BOS,,UTA,,M. Muscala,BOS,MISS Muscala 6' Hook Shot,Missed Shot,Hook Shot,25,50,6,1,2.0,0.0,h
+S2223-G1152,2,06:17,BOS,,UTA,,M. Muscala,BOS,SUB: Kornet FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G1152,3,00:07.100000,BOS,,UTA,,M. Muscala,BOS,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,-230,11,0,1,3.0,0.0,h
+S2223-G1152,4,08:48,BOS,,UTA,,M. Muscala,BOS,Muscala REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1152,4,08:47,BOS,,UTA,,M. Muscala,BOS,Muscala OFF.Foul (P1) (K.Lane),Foul,Offensive,0,0,0,0,,,h
+S2223-G1152,4,08:47,BOS,,UTA,,M. Muscala,BOS,Muscala Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1152,4,08:36,BOS,,UTA,,M. Muscala,BOS,Muscala S.FOUL (P2.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G1152,4,08:36,BOS,,UTA,,M. Muscala,BOS,SUB: Brown FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0702,1,11:14,DEN,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0702,1,06:46,DEN,8.0,OKC,16.0,M. Muscala,OKC,Muscala 5' Running Reverse Layup (2 PTS) (Jal. Williams 2 AST),Made Shot,Running Reverse Layup Shot,-33,38,5,1,2.0,2.0,v
+S2223-G0702,1,05:03,DEN,,OKC,,M. Muscala,OKC,SUB: Jay. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0702,2,02:07,DEN,,OKC,,M. Muscala,OKC,MISS Muscala 2' Hook Shot,Missed Shot,Hook Shot,18,17,2,1,2.0,0.0,v
+S2223-G0702,2,02:05,DEN,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0702,2,01:52,DEN,,OKC,,M. Muscala,OKC,MISS Muscala 18' Jump Shot,Missed Shot,Jump Shot,100,153,18,1,2.0,0.0,v
+S2223-G0702,2,01:18,DEN,,OKC,,M. Muscala,OKC,MISS Muscala 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-44,100,11,1,2.0,0.0,v
+S2223-G0702,2,00:02,DEN,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0702,2,00:01,DEN,,OKC,,M. Muscala,OKC,MISS Muscala Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,v
+S2223-G0702,3,11:44,DEN,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0702,3,09:41,DEN,49.0,OKC,54.0,M. Muscala,OKC,Muscala 3' Layup (4 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Layup Shot,-33,5,3,1,2.0,2.0,v
+S2223-G0702,3,09:26,DEN,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P1.T2) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0702,3,09:10,DEN,51.0,OKC,56.0,M. Muscala,OKC,Muscala 1' Dunk (6 PTS) (Dort 1 AST),Made Shot,Dunk Shot,-1,8,1,1,2.0,2.0,v
+S2223-G0702,3,05:53,DEN,59.0,OKC,62.0,M. Muscala,OKC,Muscala Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0702,3,05:53,DEN,59.0,OKC,63.0,M. Muscala,OKC,Muscala Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0702,3,05:30,DEN,,OKC,,M. Muscala,OKC,SUB: Jay. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G1216,1,12:00,BOS,,ATL,,M. Muscala,BOS,Jump Ball Muscala vs. Okongwu: Tip to Hunter,Jump Ball,,0,0,0,0,,,h
+S2223-G1216,1,10:09,BOS,,ATL,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1216,1,09:24,BOS,,ATL,,M. Muscala,BOS,Muscala REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1216,1,09:16,BOS,,ATL,,M. Muscala,BOS,Muscala P.FOUL (P1.T1) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2223-G1216,1,08:56,BOS,,ATL,,M. Muscala,BOS,MISS Muscala Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1216,1,08:56,BOS,10.0,ATL,6.0,M. Muscala,BOS,Muscala Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1216,1,07:50,BOS,,ATL,,M. Muscala,BOS,Muscala REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1216,1,07:11,BOS,,ATL,,M. Muscala,BOS,Muscala S.FOUL (P2.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G1216,1,03:57,BOS,,ATL,,M. Muscala,BOS,MISS Muscala 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,21,13,2,1,2.0,0.0,h
+S2223-G1216,1,03:45,BOS,,ATL,,M. Muscala,BOS,Muscala REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1216,1,03:38,BOS,,ATL,,M. Muscala,BOS,SUB: Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G1216,2,05:57,BOS,48.0,ATL,47.0,M. Muscala,BOS,Muscala 6' Turnaround Hook Shot (3 PTS) (Pritchard 4 AST),Made Shot,Turnaround Hook Shot,7,58,6,1,2.0,2.0,h
+S2223-G1216,2,05:29,BOS,49.0,ATL,47.0,M. Muscala,BOS,Muscala Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1216,2,05:29,BOS,50.0,ATL,47.0,M. Muscala,BOS,Muscala Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1216,2,04:34,BOS,,ATL,,M. Muscala,BOS,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-206,163,26,1,3.0,0.0,h
+S2223-G1216,3,11:21,BOS,,ATL,,M. Muscala,BOS,Muscala REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1216,3,10:00,BOS,,ATL,,M. Muscala,BOS,Muscala REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1216,3,09:58,BOS,72.0,ATL,65.0,M. Muscala,BOS,Muscala 3' Hook Shot (7 PTS),Made Shot,Hook Shot,-22,26,3,1,2.0,2.0,h
+S2223-G1216,3,08:08,BOS,,ATL,,M. Muscala,BOS,Muscala REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1216,3,08:06,BOS,,ATL,,M. Muscala,BOS,Muscala REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1216,3,07:28,BOS,,ATL,,M. Muscala,BOS,Muscala Offensive Charge Foul (P3) (Z.Zarba),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1216,3,07:28,BOS,,ATL,,M. Muscala,BOS,Muscala Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1216,3,06:57,BOS,78.0,ATL,70.0,M. Muscala,BOS,Muscala 3PT Jump Shot (10 PTS) (Hauser 5 AST),Made Shot,Jump Shot,-228,11,0,1,3.0,3.0,h
+S2223-G1216,3,06:25,BOS,80.0,ATL,72.0,M. Muscala,BOS,Muscala 4' Dunk (12 PTS) (Champagnie 2 AST),Made Shot,Dunk Shot,-15,35,4,1,2.0,2.0,h
+S2223-G1216,3,05:26,BOS,82.0,ATL,75.0,M. Muscala,BOS,Muscala 13' Jump Shot (14 PTS) (Champagnie 3 AST),Made Shot,Jump Shot,-123,24,13,1,2.0,2.0,h
+S2223-G1216,3,04:53,BOS,85.0,ATL,78.0,M. Muscala,BOS,Muscala 26' 3PT Jump Shot (17 PTS) (Pritchard 8 AST),Made Shot,Jump Shot,-141,220,26,1,3.0,3.0,h
+S2223-G1216,3,03:21,BOS,90.0,ATL,83.0,M. Muscala,BOS,Muscala 26' 3PT Jump Shot (20 PTS) (Pritchard 9 AST),Made Shot,Jump Shot,-51,258,26,1,3.0,3.0,h
+S2223-G1216,3,02:39,BOS,93.0,ATL,85.0,M. Muscala,BOS,Muscala 26' 3PT Jump Shot (23 PTS) (Davison 2 AST),Made Shot,Jump Shot,9,260,26,1,3.0,3.0,h
+S2223-G1216,3,01:55,BOS,,ATL,,M. Muscala,BOS,MISS Muscala 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-4,276,28,1,3.0,0.0,h
+S2223-G1216,4,06:14,BOS,,ATL,,M. Muscala,BOS,Muscala Out of Bounds - Bad Pass Turnover Turnover (P2.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1216,4,04:39,BOS,112.0,ATL,103.0,M. Muscala,BOS,Muscala 4' Layup (25 PTS) (Pritchard 11 AST),Made Shot,Layup Shot,-28,26,4,1,2.0,2.0,h
+S2223-G1216,4,02:22,BOS,119.0,ATL,106.0,M. Muscala,BOS,Muscala Free Throw 1 of 3 (26 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G1216,4,02:22,BOS,,ATL,,M. Muscala,BOS,MISS Muscala Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,h
+S2223-G1216,4,02:22,BOS,120.0,ATL,106.0,M. Muscala,BOS,Muscala Free Throw 3 of 3 (27 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G1216,4,00:13.400000,BOS,,ATL,,M. Muscala,BOS,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-190,173,26,1,3.0,0.0,h
+S2223-G0368,1,04:43,MEM,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0368,1,04:24,MEM,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0368,1,03:30,MEM,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0368,1,01:22,MEM,,OKC,,M. Muscala,OKC,SUB: Robinson-Earl FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0368,3,03:16,MEM,82.0,OKC,79.0,M. Muscala,OKC,Muscala 3PT Jump Shot (3 PTS) (Joe 2 AST),Made Shot,Jump Shot,234,-2,0,1,3.0,3.0,v
+S2223-G0368,4,06:25,MEM,,OKC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,45,261,26,1,3.0,0.0,v
+S2223-G0368,4,05:24,MEM,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P1.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0368,4,04:01,MEM,,OKC,,M. Muscala,OKC,SUB: Jay. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0041,2,10:20,OKC,,MIN,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0041,2,09:12,OKC,,MIN,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0041,2,09:06,OKC,,MIN,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,214,127,25,1,3.0,0.0,h
+S2223-G0041,2,09:03,OKC,,MIN,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0041,2,08:42,OKC,,MIN,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0041,2,07:42,OKC,,MIN,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0041,2,07:27,OKC,28.0,MIN,37.0,M. Muscala,OKC,Muscala 25' 3PT Jump Shot (3 PTS) (Robinson-Earl 2 AST),Made Shot,Jump Shot,-134,211,25,1,3.0,3.0,h
+S2223-G0041,2,07:08,OKC,,MIN,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0041,2,07:05,OKC,,MIN,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0041,2,06:55,OKC,30.0,MIN,37.0,M. Muscala,OKC,Muscala 10' Turnaround Fadeaway (5 PTS) (Wiggins 1 AST),Made Shot,Turnaround Fadeaway shot,-83,61,10,1,2.0,2.0,h
+S2223-G0041,2,03:51,OKC,,MIN,,M. Muscala,OKC,Muscala S.FOUL (P1.PN) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0041,2,03:49,OKC,,MIN,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0041,2,03:18,OKC,,MIN,,M. Muscala,OKC,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,-129,240,27,1,3.0,0.0,h
+S2223-G0041,2,03:16,OKC,,MIN,,M. Muscala,OKC,SUB: Wiggins FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0041,3,06:10,OKC,,MIN,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0041,3,05:21,OKC,,MIN,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0041,3,04:00,OKC,67.0,MIN,73.0,M. Muscala,OKC,Muscala 2' Cutting Layup Shot (7 PTS) (Mann 2 AST),Made Shot,Cutting Layup Shot,-5,20,2,1,2.0,2.0,h
+S2223-G0041,3,03:08,OKC,71.0,MIN,75.0,M. Muscala,OKC,Muscala Free Throw Flagrant 1 of 2 (8 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0041,3,03:08,OKC,72.0,MIN,75.0,M. Muscala,OKC,Muscala Free Throw Flagrant 2 of 2 (9 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0041,3,02:47,OKC,74.0,MIN,75.0,M. Muscala,OKC,Muscala 20' Jump Shot (11 PTS) (Robinson-Earl 3 AST),Made Shot,Jump Shot,200,44,20,1,2.0,2.0,h
+S2223-G0041,3,02:01,OKC,,MIN,,M. Muscala,OKC,SUB: Pokusevski FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0739,1,03:02,OKC,,CLE,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0739,1,01:39,OKC,,CLE,,M. Muscala,OKC,Muscala Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0739,3,10:50,OKC,52.0,CLE,56.0,M. Muscala,OKC,Muscala 26' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,146,218,26,1,3.0,3.0,h
+S2223-G0739,3,09:43,OKC,,CLE,,M. Muscala,OKC,Muscala S.FOUL (P1.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2223-G0739,3,09:34,OKC,,CLE,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,58,253,26,1,3.0,0.0,h
+S2223-G0739,3,09:16,OKC,,CLE,,M. Muscala,OKC,Muscala S.FOUL (P2.T4) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2223-G0739,3,05:50,OKC,,CLE,,M. Muscala,OKC,SUB: Jay. Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0739,4,11:35,OKC,,CLE,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0739,4,07:23,OKC,,CLE,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0739,4,05:44,OKC,,CLE,,M. Muscala,OKC,Muscala S.FOUL (P3.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0739,4,05:44,OKC,,CLE,,M. Muscala,OKC,SUB: Gilgeous-Alexander FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0739,4,02:12,OKC,,CLE,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0739,4,00:50.800000,OKC,,CLE,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0739,4,00:43.200000,OKC,108.0,CLE,94.0,M. Muscala,OKC,Muscala Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0739,4,00:43.200000,OKC,109.0,CLE,94.0,M. Muscala,OKC,Muscala Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0739,4,00:19.900000,OKC,,CLE,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0390,1,04:04,CLE,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0390,2,03:06,CLE,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P1.T3) (D.Mosher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0168,2,09:41,OKC,,MIL,,M. Muscala,OKC,MISS Muscala 14' Jump Shot,Missed Shot,Jump Shot,16,142,14,1,2.0,0.0,h
+S2223-G0168,2,08:32,OKC,,MIL,,M. Muscala,OKC,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,-116,246,27,1,3.0,0.0,h
+S2223-G0168,2,08:10,OKC,,MIL,,M. Muscala,OKC,MISS Muscala 8' Floating Jump Shot,Missed Shot,Floating Jump shot,-67,47,8,1,2.0,0.0,h
+S2223-G0168,2,05:50,OKC,,MIL,,M. Muscala,OKC,MISS Muscala 16' Jump Shot,Missed Shot,Jump Shot,152,46,16,1,2.0,0.0,h
+S2223-G0168,2,05:19,OKC,,MIL,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0168,2,04:49,OKC,46.0,MIL,43.0,M. Muscala,OKC,Muscala 3PT Jump Shot (3 PTS) (Giddey 3 AST),Made Shot,Jump Shot,-222,42,0,1,3.0,3.0,h
+S2223-G0168,2,04:34,OKC,,MIL,,M. Muscala,OKC,THUNDER T.Foul (Def. 3 Sec Muscala ) (P.Fraher),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G0168,2,04:05,OKC,49.0,MIL,46.0,M. Muscala,OKC,Muscala 26' 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,-113,238,26,1,3.0,3.0,h
+S2223-G0168,2,03:24,OKC,,MIL,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0168,2,03:17,OKC,,MIL,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,-11,252,25,1,3.0,0.0,h
+S2223-G0168,2,03:02,OKC,,MIL,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0168,2,02:37,OKC,,MIL,,M. Muscala,OKC,SUB: Pokusevski FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0168,3,04:08,OKC,,MIL,,M. Muscala,OKC,Muscala BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0168,3,03:55,OKC,,MIL,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,-141,210,25,1,3.0,0.0,h
+S2223-G0168,3,00:54.700000,OKC,,MIL,,M. Muscala,OKC,Muscala P.FOUL (P1.T4) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2223-G0168,4,10:31,OKC,,MIL,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,-135,206,25,1,3.0,0.0,h
+S2223-G0168,4,08:24,OKC,,MIL,,M. Muscala,OKC,Muscala S.FOUL (P2.T2) (D.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0168,4,06:56,OKC,,MIL,,M. Muscala,OKC,SUB: Pokusevski FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0168,6,00:18.600000,OKC,,MIL,,M. Muscala,OKC,SUB: Pokusevski FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0168,6,00:12.200000,OKC,,MIL,,M. Muscala,OKC,Muscala OFF.Foul (P3) (D.Scott),Foul,Offensive,0,0,0,0,,,h
+S2223-G0168,6,00:12.200000,OKC,,MIL,,M. Muscala,OKC,Muscala Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0168,6,00:12.200000,OKC,,MIL,,M. Muscala,OKC,SUB: Pokusevski FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0168,6,00:05.600000,OKC,,MIL,,M. Muscala,OKC,SUB: J. Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0611,2,09:25,MIA,,OKC,,M. Muscala,OKC,SUB: Omoruyi FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0611,2,03:31,MIA,54.0,OKC,46.0,M. Muscala,OKC,Muscala 16' Jump Shot (2 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,-156,-9,16,1,2.0,2.0,v
+S2223-G0611,2,00:48.300000,MIA,,OKC,,M. Muscala,OKC,Muscala STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0611,2,00:02.900000,MIA,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0611,4,07:32,MIA,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0611,4,06:37,MIA,,OKC,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0611,4,05:09,MIA,,OKC,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0488,2,06:13,OKC,,NOP,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,12,262,26,1,3.0,0.0,h
+S2223-G0488,2,01:40,OKC,,NOP,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0488,2,01:40,OKC,,NOP,,M. Muscala,OKC,MISS Muscala Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0488,2,00:49,OKC,,NOP,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0488,3,01:43,OKC,,NOP,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0488,3,00:56.200000,OKC,,NOP,,M. Muscala,OKC,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,32,269,27,1,3.0,0.0,h
+S2223-G0488,4,11:36,OKC,,NOP,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0488,4,10:27,OKC,83.0,NOP,82.0,M. Muscala,OKC,Muscala Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0488,4,10:27,OKC,84.0,NOP,82.0,M. Muscala,OKC,Muscala Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0488,4,09:04,OKC,92.0,NOP,83.0,M. Muscala,OKC,Muscala 27' 3PT Running Jump Shot (5 PTS) (Dort 2 AST),Made Shot,Running Jump Shot,132,240,27,1,3.0,3.0,h
+S2223-G0488,4,08:05,OKC,,NOP,,M. Muscala,OKC,Muscala P.FOUL (P1.PN) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0488,4,06:09,OKC,,NOP,,M. Muscala,OKC,SUB: Pokusevski FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0354,1,02:56,ATL,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0354,1,02:14,ATL,21.0,OKC,21.0,M. Muscala,OKC,Muscala 2' Driving Layup (2 PTS) (Pokusevski 1 AST),Made Shot,Driving Layup Shot,0,20,2,1,2.0,2.0,v
+S2223-G0354,1,01:12,ATL,,OKC,,M. Muscala,OKC,SUB: Jal. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0354,2,06:33,ATL,,OKC,,M. Muscala,OKC,Muscala STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0354,2,05:03,ATL,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0354,2,04:27,ATL,,OKC,,M. Muscala,OKC,SUB: Jal. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0354,3,05:00,ATL,77.0,OKC,67.0,M. Muscala,OKC,Muscala 25' 3PT Jump Shot (5 PTS) (Gilgeous-Alexander 5 AST),Made Shot,Jump Shot,-12,247,25,1,3.0,3.0,v
+S2223-G0354,3,01:31,ATL,,OKC,,M. Muscala,OKC,MISS Muscala 24' 3PT Jump Shot,Missed Shot,Jump Shot,-23,242,24,1,3.0,0.0,v
+S2223-G1181,1,01:30,PHI,,BOS,,M. Muscala,BOS,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,-223,60,0,1,3.0,0.0,v
+S2223-G1181,1,00:55.300000,PHI,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1181,2,10:42,PHI,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1181,2,10:16,PHI,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1181,2,06:42,PHI,,BOS,,M. Muscala,BOS,SUB: Horford FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G1181,3,00:01.800000,PHI,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1181,4,07:06,PHI,,BOS,,M. Muscala,BOS,SUB: Tatum FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G1206,1,01:40,BOS,,TOR,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,1,01:29,BOS,,TOR,,M. Muscala,BOS,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-211,160,26,1,3.0,0.0,h
+S2223-G1206,1,01:07,BOS,29.0,TOR,12.0,M. Muscala,BOS,Muscala 26' 3PT Step Back Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Step Back Jump shot,153,210,26,1,3.0,3.0,h
+S2223-G1206,2,09:59,BOS,,TOR,,M. Muscala,BOS,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,-146,222,27,1,3.0,0.0,h
+S2223-G1206,2,09:58,BOS,,TOR,,M. Muscala,BOS,Muscala REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,2,09:51,BOS,,TOR,,M. Muscala,BOS,Muscala REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,2,09:48,BOS,41.0,TOR,19.0,M. Muscala,BOS,Muscala 4' Hook Shot (5 PTS),Made Shot,Hook Shot,-12,42,4,1,2.0,2.0,h
+S2223-G1206,2,08:21,BOS,,TOR,,M. Muscala,BOS,Muscala REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,2,07:56,BOS,,TOR,,M. Muscala,BOS,SUB: Horford FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G1206,3,10:43,BOS,,TOR,,M. Muscala,BOS,Muscala REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,3,09:43,BOS,,TOR,,M. Muscala,BOS,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-183,189,26,1,3.0,0.0,h
+S2223-G1206,3,08:31,BOS,,TOR,,M. Muscala,BOS,MISS Muscala 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,15,24,1,3.0,0.0,h
+S2223-G1206,3,04:43,BOS,81.0,TOR,61.0,M. Muscala,BOS,Muscala 1' Reverse Layup (7 PTS) (White 7 AST),Made Shot,Reverse Layup Shot,14,1,1,1,2.0,2.0,h
+S2223-G1206,3,04:29,BOS,,TOR,,M. Muscala,BOS,Muscala REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,3,03:46,BOS,,TOR,,M. Muscala,BOS,Muscala REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,3,00:33.600000,BOS,93.0,TOR,72.0,M. Muscala,BOS,Muscala 7' Turnaround Bank Hook Shot (9 PTS) (White 10 AST),Made Shot,Turnaround Bank Hook Shot,-59,40,7,1,2.0,2.0,h
+S2223-G1206,3,00:01.200000,BOS,94.0,TOR,73.0,M. Muscala,BOS,Muscala Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1206,3,00:01.200000,BOS,95.0,TOR,73.0,M. Muscala,BOS,Muscala Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1206,4,08:45,BOS,,TOR,,M. Muscala,BOS,SUB: Kornet FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0010,2,03:02,MIN,,OKC,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,51,242,25,1,3.0,0.0,v
+S2223-G0010,2,01:53,MIN,61.0,OKC,48.0,M. Muscala,OKC,Muscala 14' Jump Shot (2 PTS) (K. Williams 1 AST),Made Shot,Jump Shot,141,27,14,1,2.0,2.0,v
+S2223-G0010,2,01:06,MIN,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0010,2,00:30.200000,MIN,,OKC,,M. Muscala,OKC,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,225,-3,0,1,3.0,0.0,v
+S2223-G0010,4,06:06,MIN,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0010,4,04:52,MIN,,OKC,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,89,235,25,1,3.0,0.0,v
+S2223-G0010,4,04:32,MIN,,OKC,,M. Muscala,OKC,SUB: Omoruyi FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0010,4,00:14.300000,MIN,,OKC,,M. Muscala,OKC,SUB: Omoruyi FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0010,4,00:12,MIN,,OKC,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0010,4,00:06.200000,MIN,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0010,4,00:02.700000,MIN,,OKC,,M. Muscala,OKC,Muscala Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0821,1,05:15,LAL,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0821,1,04:36,LAL,19.0,OKC,18.0,M. Muscala,OKC,Muscala 27' 3PT Jump Shot (3 PTS) (Giddey 4 AST),Made Shot,Jump Shot,74,257,27,1,3.0,3.0,v
+S2223-G0821,1,03:26,LAL,22.0,OKC,23.0,M. Muscala,OKC,Muscala 24' 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,-235,13,24,1,3.0,3.0,v
+S2223-G0821,1,02:45,LAL,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0821,1,02:10,LAL,27.0,OKC,29.0,M. Muscala,OKC,Muscala 26' 3PT Pullup Jump Shot (9 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Pullup Jump shot,-186,184,26,1,3.0,3.0,v
+S2223-G0821,1,01:27,LAL,,OKC,,M. Muscala,OKC,MISS Muscala 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-230,74,24,1,3.0,0.0,v
+S2223-G0821,1,00:02.800000,LAL,,OKC,,M. Muscala,OKC,Muscala STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0821,2,06:26,LAL,53.0,OKC,54.0,M. Muscala,OKC,Muscala 3' Reverse Layup (11 PTS) (Joe 1 AST),Made Shot,Reverse Layup Shot,-7,29,3,1,2.0,2.0,v
+S2223-G0821,2,05:42,LAL,53.0,OKC,57.0,M. Muscala,OKC,Muscala 25' 3PT Jump Shot (14 PTS) (K. Williams 3 AST),Made Shot,Jump Shot,-173,180,25,1,3.0,3.0,v
+S2223-G0821,2,05:34,LAL,,OKC,,M. Muscala,OKC,Muscala P.FOUL (P1.PN) (S.Mehta),Foul,Personal,0,0,0,0,,,v
+S2223-G0821,2,04:31,LAL,,OKC,,M. Muscala,OKC,SUB: Giddey FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0821,3,03:54,LAL,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0821,3,02:52,LAL,,OKC,,M. Muscala,OKC,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,108,245,27,1,3.0,0.0,v
+S2223-G0821,3,01:47,LAL,93.0,OKC,102.0,M. Muscala,OKC,Muscala 16' Jump Shot (16 PTS) (K. Williams 4 AST),Made Shot,Jump Shot,135,85,16,1,2.0,2.0,v
+S2223-G0821,3,00:30.200000,LAL,,OKC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-99,239,26,1,3.0,0.0,v
+S2223-G0821,4,05:26,LAL,,OKC,,M. Muscala,OKC,MISS Muscala 12' Floating Jump Shot,Missed Shot,Floating Jump shot,45,108,12,1,2.0,0.0,v
+S2223-G0821,4,04:43,LAL,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0821,4,03:56,LAL,,OKC,,M. Muscala,OKC,SUB: Jay. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0067,1,05:19,OKC,,LAC,,M. Muscala,OKC,SUB: Bazley FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0067,3,06:28,OKC,71.0,LAC,68.0,M. Muscala,OKC,Muscala 12' Jump Shot (2 PTS) (Mann 3 AST),Made Shot,Jump Shot,62,104,12,1,2.0,2.0,h
+S2223-G0067,3,04:39,OKC,,LAC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0067,3,04:00,OKC,,LAC,,M. Muscala,OKC,SUB: Pokusevski FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0067,4,09:07,OKC,97.0,LAC,92.0,M. Muscala,OKC,Muscala Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0067,4,09:07,OKC,,LAC,,M. Muscala,OKC,MISS Muscala Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0067,4,08:52,OKC,,LAC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-147,213,26,1,3.0,0.0,h
+S2223-G0067,4,07:55,OKC,98.0,LAC,94.0,M. Muscala,OKC,Muscala Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0067,4,07:55,OKC,99.0,LAC,94.0,M. Muscala,OKC,Muscala Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0067,4,07:22,OKC,,LAC,,M. Muscala,OKC,MISS Muscala 18' Jump Shot,Missed Shot,Jump Shot,-183,-12,18,1,2.0,0.0,h
+S2223-G0067,4,06:54,OKC,,LAC,,M. Muscala,OKC,SUB: Gilgeous-Alexander FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0636,1,11:28,CHI,2.0,OKC,5.0,M. Muscala,OKC,Muscala 26' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Jump Shot,-146,221,26,1,3.0,3.0,v
+S2223-G0636,1,10:14,CHI,,OKC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-53,259,26,1,3.0,0.0,v
+S2223-G0636,1,09:31,CHI,,OKC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-167,199,26,1,3.0,0.0,v
+S2223-G0636,1,08:31,CHI,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0636,1,08:30,CHI,,OKC,,M. Muscala,OKC,Muscala Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0636,1,08:15,CHI,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0636,1,07:24,CHI,,OKC,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0636,1,02:16,CHI,,OKC,,M. Muscala,OKC,Muscala Offensive Charge Foul (P1) (T.Ford),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0636,1,02:16,CHI,,OKC,,M. Muscala,OKC,Muscala Offensive Foul Turnover (P2.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0636,1,01:44,CHI,,OKC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-38,258,26,1,3.0,0.0,v
+S2223-G0636,2,02:14,CHI,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P2.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0636,2,01:49,CHI,54.0,OKC,64.0,M. Muscala,OKC,Muscala 24' 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,230,53,24,1,3.0,3.0,v
+S2223-G0636,2,00:16.600000,CHI,,OKC,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0636,3,10:36,CHI,,OKC,,M. Muscala,OKC,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,26,266,27,1,3.0,0.0,v
+S2223-G0636,3,10:24,CHI,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0636,3,07:56,CHI,,OKC,,M. Muscala,OKC,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,22,268,27,1,3.0,0.0,v
+S2223-G0636,3,05:36,CHI,,OKC,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0636,3,01:32,CHI,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0636,3,01:31,CHI,,OKC,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,121,221,25,1,3.0,0.0,v
+S2223-G0636,3,00:00.900000,CHI,,OKC,,M. Muscala,OKC,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,-221,43,0,1,3.0,0.0,v
+S2223-G0636,4,10:12,CHI,92.0,OKC,95.0,M. Muscala,OKC,Muscala Driving Layup (8 PTS) (Giddey 4 AST),Made Shot,Driving Layup Shot,0,4,0,1,2.0,2.0,v
+S2223-G0636,4,08:53,CHI,,OKC,,M. Muscala,OKC,SUB: Wiggins FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0773,1,06:59,HOU,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0773,1,06:28,HOU,,OKC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-32,263,26,1,3.0,0.0,v
+S2223-G0773,1,06:05,HOU,,OKC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,199,164,26,1,3.0,0.0,v
+S2223-G0773,1,05:48,HOU,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0773,1,05:48,HOU,,OKC,,M. Muscala,OKC,MISS Muscala Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0773,1,05:48,HOU,20.0,OKC,11.0,M. Muscala,OKC,Muscala Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0773,1,02:05,HOU,30.0,OKC,22.0,M. Muscala,OKC,Muscala 25' 3PT Jump Shot (4 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Jump Shot,-62,243,25,1,3.0,3.0,v
+S2223-G0773,2,04:19,HOU,,OKC,,M. Muscala,OKC,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,11,269,27,1,3.0,0.0,v
+S2223-G0773,2,03:19,HOU,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0773,2,02:25,HOU,56.0,OKC,50.0,M. Muscala,OKC,Muscala 3' Driving Layup (6 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Driving Layup Shot,27,-4,3,1,2.0,2.0,v
+S2223-G0773,2,01:43,HOU,,OKC,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0773,3,00:15,HOU,,OKC,,M. Muscala,OKC,Muscala P.FOUL (P1.PN) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2223-G0773,3,00:13.300000,HOU,,OKC,,M. Muscala,OKC,SUB: Bazley FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0948,3,03:36,BOS,,BKN,,M. Muscala,BOS,Muscala REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0948,3,03:31,BOS,,BKN,,M. Muscala,BOS,Jump Ball Muscala vs. Dinwiddie: Tip to Bridges,Jump Ball,,0,0,0,0,,,h
+S2223-G0948,3,03:31,BOS,,BKN,,M. Muscala,BOS,Muscala Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0948,3,01:51,BOS,,BKN,,M. Muscala,BOS,Muscala REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0948,3,00:46.300000,BOS,,BKN,,M. Muscala,BOS,Muscala REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0725,1,03:32,OKC,31.0,ATL,27.0,M. Muscala,OKC,Muscala 27' 3PT Jump Shot (3 PTS) (Mann 1 AST),Made Shot,Jump Shot,54,261,27,1,3.0,3.0,h
+S2223-G0725,1,02:27,OKC,,ATL,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-39,252,26,1,3.0,0.0,h
+S2223-G0725,3,01:30,OKC,102.0,ATL,102.0,M. Muscala,OKC,Muscala 26' 3PT Jump Shot (6 PTS) (Dieng 1 AST),Made Shot,Jump Shot,-16,258,26,1,3.0,3.0,h
+S2223-G0725,4,10:58,OKC,,ATL,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-184,184,26,1,3.0,0.0,h
+S2223-G0725,4,09:56,OKC,,ATL,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0119,3,11:18,OKC,,DEN,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0119,3,10:23,OKC,,DEN,,M. Muscala,OKC,MISS Muscala 3' Running Layup,Missed Shot,Running Layup Shot,-28,11,3,1,2.0,0.0,h
+S2223-G0119,3,07:19,OKC,,DEN,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0119,3,06:42,OKC,,DEN,,M. Muscala,OKC,Muscala P.FOUL (P1.T1) (L.Holtkamp),Foul,Personal,0,0,0,0,,,h
+S2223-G0119,3,06:22,OKC,,DEN,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-189,181,26,1,3.0,0.0,h
+S2223-G0119,3,06:05,OKC,,DEN,,M. Muscala,OKC,Muscala S.FOUL (P2.T3) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0119,3,04:59,OKC,,DEN,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0119,4,07:32,OKC,,DEN,,M. Muscala,OKC,Muscala P.FOUL (P3.T3) (L.Holtkamp),Foul,Personal,0,0,0,0,,,h
+S2223-G0119,4,06:43,OKC,,DEN,,M. Muscala,OKC,SUB: Pokusevski FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0119,4,01:38,OKC,,DEN,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,105,242,26,1,3.0,0.0,h
+S2223-G0119,4,01:19,OKC,,DEN,,M. Muscala,OKC,Muscala Violation:Kicked Ball (S.Wall),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0119,4,01:19,OKC,,DEN,,M. Muscala,OKC,SUB: Robinson-Earl FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0545,1,04:58,OKC,,PHI,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,197,147,25,1,3.0,0.0,h
+S2223-G0545,1,03:46,OKC,,PHI,,M. Muscala,OKC,Muscala S.FOUL (P1.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0545,1,03:17,OKC,,PHI,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-2,264,26,1,3.0,0.0,h
+S2223-G0545,1,01:45,OKC,,PHI,,M. Muscala,OKC,Muscala S.FOUL (P2.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0545,1,01:31,OKC,,PHI,,M. Muscala,OKC,MISS Muscala 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,25,-4,3,1,2.0,0.0,h
+S2223-G0545,1,00:30.700000,OKC,20.0,PHI,38.0,M. Muscala,OKC,Muscala Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0545,1,00:30.700000,OKC,,PHI,,M. Muscala,OKC,MISS Muscala Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0545,2,05:59,OKC,,PHI,,M. Muscala,OKC,Muscala S.FOUL (P3.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0545,2,03:09,OKC,,PHI,,M. Muscala,OKC,MISS Muscala 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-178,183,26,1,3.0,0.0,h
+S2223-G0545,2,02:21,OKC,,PHI,,M. Muscala,OKC,SUB: Jay. Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0545,3,10:25,OKC,,PHI,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0545,3,09:36,OKC,,PHI,,M. Muscala,OKC,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,227,23,0,1,3.0,0.0,h
+S2223-G0545,3,09:30,OKC,,PHI,,M. Muscala,OKC,MISS Muscala 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-12,6,1,1,2.0,0.0,h
+S2223-G0545,3,07:59,OKC,,PHI,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,2,257,26,1,3.0,0.0,h
+S2223-G0545,3,07:12,OKC,57.0,PHI,79.0,M. Muscala,OKC,Muscala 28' 3PT Jump Shot (4 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Jump Shot,-18,281,28,1,3.0,3.0,h
+S2223-G0545,3,05:51,OKC,,PHI,,M. Muscala,OKC,SUB: Jay. Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0545,3,01:27,OKC,,PHI,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0545,3,01:25,OKC,,PHI,,M. Muscala,OKC,Muscala Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0545,3,00:59,OKC,,PHI,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0969,1,01:28,BOS,,NYK,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0969,1,00:06.300000,BOS,,NYK,,M. Muscala,BOS,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,145,201,25,1,3.0,0.0,h
+S2223-G0969,2,11:48,BOS,,NYK,,M. Muscala,BOS,Muscala Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0969,2,11:18,BOS,37.0,NYK,33.0,M. Muscala,BOS,Muscala 25' 3PT Jump Shot (3 PTS) (Hauser 2 AST),Made Shot,Jump Shot,25,253,25,1,3.0,3.0,h
+S2223-G0969,2,10:49,BOS,,NYK,,M. Muscala,BOS,Muscala STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0969,2,10:44,BOS,,NYK,,M. Muscala,BOS,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,-83,237,25,1,3.0,0.0,h
+S2223-G0969,2,09:52,BOS,,NYK,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0969,2,09:17,BOS,,NYK,,M. Muscala,BOS,Muscala P.FOUL (P1.T3) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2223-G0969,2,08:26,BOS,,NYK,,M. Muscala,BOS,SUB: Horford FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0969,3,00:34.100000,BOS,,NYK,,M. Muscala,BOS,Muscala S.FOUL (P2.T4) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0969,4,11:46,BOS,,NYK,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0969,4,09:20,BOS,,NYK,,M. Muscala,BOS,Muscala OFF.Foul (P3) (E.Malloy),Foul,Offensive,0,0,0,0,,,h
+S2223-G0969,4,09:20,BOS,,NYK,,M. Muscala,BOS,Muscala Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0969,4,09:04,BOS,,NYK,,M. Muscala,BOS,SUB: Horford FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0229,2,01:28,MEM,58.0,OKC,55.0,M. Muscala,OKC,Muscala 18' Pullup Jump Shot (2 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Pullup Jump shot,118,139,18,1,2.0,2.0,v
+S2223-G0229,2,01:18,MEM,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P1.PN) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0229,3,11:00,MEM,,OKC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,27,255,26,1,3.0,0.0,v
+S2223-G0229,3,09:31,MEM,,OKC,,M. Muscala,OKC,MISS Muscala 28' 3PT Jump Shot,Missed Shot,Jump Shot,164,232,28,1,3.0,0.0,v
+S2223-G0229,3,08:06,MEM,,OKC,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0229,3,07:44,MEM,,OKC,,M. Muscala,OKC,Muscala STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0229,3,07:40,MEM,,OKC,,M. Muscala,OKC,SUB: Jal. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0229,3,01:45,MEM,,OKC,,M. Muscala,OKC,SUB: Giddey FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0511,1,02:12,OKC,,SAS,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0511,1,01:51,OKC,31.0,SAS,29.0,M. Muscala,OKC,Muscala Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0511,1,01:51,OKC,32.0,SAS,29.0,M. Muscala,OKC,Muscala Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0511,1,01:08,OKC,,SAS,,M. Muscala,OKC,Muscala P.FOUL (P1.T2) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2223-G0511,1,00:24.200000,OKC,,SAS,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0511,1,00:01.400000,OKC,38.0,SAS,33.0,M. Muscala,OKC,Muscala 25' 3PT Step Back Jump Shot (5 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Step Back Jump shot,-214,137,25,1,3.0,3.0,h
+S2223-G0511,2,05:14,OKC,56.0,SAS,50.0,M. Muscala,OKC,Muscala 3' Cutting Layup Shot (7 PTS) (Gilgeous-Alexander 5 AST),Made Shot,Cutting Layup Shot,5,29,3,1,2.0,2.0,h
+S2223-G0511,2,04:55,OKC,,SAS,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0511,2,04:45,OKC,,SAS,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0511,2,04:34,OKC,59.0,SAS,50.0,M. Muscala,OKC,Muscala 25' 3PT Jump Shot (10 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Jump Shot,-213,132,25,1,3.0,3.0,h
+S2223-G0511,2,02:14,OKC,64.0,SAS,58.0,M. Muscala,OKC,Muscala Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0511,2,02:14,OKC,65.0,SAS,58.0,M. Muscala,OKC,Muscala Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0511,2,01:47,OKC,,SAS,,M. Muscala,OKC,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,-228,-2,0,1,3.0,0.0,h
+S2223-G0511,2,01:09,OKC,,SAS,,M. Muscala,OKC,Muscala REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0511,2,01:08,OKC,67.0,SAS,58.0,M. Muscala,OKC,Muscala 3' Putback Layup (14 PTS),Made Shot,Putback Layup Shot,18,19,3,1,2.0,2.0,h
+S2223-G0511,3,10:16,OKC,,SAS,,M. Muscala,OKC,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,85,254,27,1,3.0,0.0,h
+S2223-G0511,3,09:52,OKC,77.0,SAS,67.0,M. Muscala,OKC,Muscala 27' 3PT Jump Shot (17 PTS) (Giddey 6 AST),Made Shot,Jump Shot,-168,210,27,1,3.0,3.0,h
+S2223-G0511,3,09:22,OKC,,SAS,,M. Muscala,OKC,MISS Muscala 9' Floating Jump Shot,Missed Shot,Floating Jump shot,-2,94,9,1,2.0,0.0,h
+S2223-G0511,3,08:16,OKC,,SAS,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0511,3,08:10,OKC,,SAS,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0511,3,02:38,OKC,,SAS,,M. Muscala,OKC,Muscala REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0511,4,05:25,OKC,115.0,SAS,102.0,M. Muscala,OKC,Muscala Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0511,4,05:25,OKC,116.0,SAS,102.0,M. Muscala,OKC,Muscala Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0511,4,02:53,OKC,,SAS,,M. Muscala,OKC,Muscala STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0511,4,02:33,OKC,,SAS,,M. Muscala,OKC,SUB: Joe FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0213,1,01:02,WAS,,OKC,,M. Muscala,OKC,MISS Muscala Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0213,1,01:02,WAS,37.0,OKC,24.0,M. Muscala,OKC,Muscala Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0213,2,01:15,WAS,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0213,2,00:25.500000,WAS,,OKC,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0213,4,11:46,WAS,,OKC,,M. Muscala,OKC,Muscala P.FOUL (P2.T1) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2223-G0213,4,10:29,WAS,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0213,4,09:30,WAS,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0213,4,08:27,WAS,,OKC,,M. Muscala,OKC,Muscala OFF.Foul (P3) (B.Nansel),Foul,Offensive,0,0,0,0,,,v
+S2223-G0213,4,08:27,WAS,,OKC,,M. Muscala,OKC,Muscala Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0213,4,06:58,WAS,,OKC,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0602,1,03:00,OKC,,DAL,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0602,1,02:32,OKC,25.0,DAL,31.0,M. Muscala,OKC,Muscala 26' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,-92,240,26,1,3.0,3.0,h
+S2223-G0602,1,02:15,OKC,,DAL,,M. Muscala,OKC,Muscala P.FOUL (P1.PN) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2223-G0602,1,02:13,OKC,,DAL,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0602,2,00:27.800000,OKC,,DAL,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0602,2,00:10.500000,OKC,,DAL,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0602,3,03:52,OKC,,DAL,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,211,134,25,1,3.0,0.0,h
+S2223-G0602,3,00:28.700000,OKC,,DAL,,M. Muscala,OKC,SUB: Omoruyi FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0602,4,11:41,OKC,,DAL,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0602,4,11:41,OKC,,DAL,,M. Muscala,OKC,MISS Muscala Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0602,4,11:41,OKC,97.0,DAL,83.0,M. Muscala,OKC,Muscala Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0602,4,11:06,OKC,,DAL,,M. Muscala,OKC,Muscala Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0602,4,10:20,OKC,,DAL,,M. Muscala,OKC,Muscala S.FOUL (P2.T2) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0602,4,09:41,OKC,,DAL,,M. Muscala,OKC,SUB: Giddey FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0086,2,11:49,DAL,,OKC,,M. Muscala,OKC,MISS Muscala 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,45,164,17,1,2.0,0.0,v
+S2223-G0086,2,09:10,DAL,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0086,2,07:31,DAL,30.0,OKC,32.0,M. Muscala,OKC,Muscala Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0086,2,07:31,DAL,30.0,OKC,33.0,M. Muscala,OKC,Muscala Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0086,2,06:15,DAL,,OKC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,197,164,26,1,3.0,0.0,v
+S2223-G0086,2,05:36,DAL,,OKC,,M. Muscala,OKC,Muscala OFF.Foul (P1) (J.Orr),Foul,Offensive,0,0,0,0,,,v
+S2223-G0086,2,05:36,DAL,,OKC,,M. Muscala,OKC,Muscala Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0086,2,05:36,DAL,,OKC,,M. Muscala,OKC,SUB: Dort FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0086,3,03:52,DAL,,OKC,,M. Muscala,OKC,Muscala OFF.Foul (P2) (N.Sago),Foul,Offensive,0,0,0,0,,,v
+S2223-G0086,3,03:52,DAL,,OKC,,M. Muscala,OKC,Muscala Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0086,3,03:37,DAL,,OKC,,M. Muscala,OKC,MISS Muscala 28' 3PT Jump Shot,Missed Shot,Jump Shot,-183,207,28,1,3.0,0.0,v
+S2223-G0086,3,03:11,DAL,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0086,5,00:24.900000,DAL,,OKC,,M. Muscala,OKC,SUB: Bazley FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0086,5,00:17,DAL,,OKC,,M. Muscala,OKC,SUB: Bazley FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0419,1,03:25,OKC,,MIA,,M. Muscala,OKC,MISS Muscala 29' 3PT Jump Shot,Missed Shot,Jump Shot,202,210,29,1,3.0,0.0,h
+S2223-G0419,1,02:22,OKC,,MIA,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0419,1,00:56.600000,OKC,,MIA,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0419,1,00:48.600000,OKC,31.0,MIA,28.0,M. Muscala,OKC,Muscala 27' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Jump Shot,9,271,27,1,3.0,3.0,h
+S2223-G0419,3,02:57,OKC,80.0,MIA,80.0,M. Muscala,OKC,Muscala 12' Turnaround Fadeaway (5 PTS) (Dort 4 AST),Made Shot,Turnaround Fadeaway shot,34,116,12,1,2.0,2.0,h
+S2223-G0419,3,02:44,OKC,,MIA,,M. Muscala,OKC,Muscala P.FOUL (P1.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2223-G0419,3,01:19,OKC,,MIA,,M. Muscala,OKC,Muscala S.FOUL (P2.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0419,3,01:17,OKC,,MIA,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0419,3,00:33.700000,OKC,,MIA,,M. Muscala,OKC,SUB: Bazley FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0458,1,00:29.600000,OKC,26.0,POR,28.0,M. Muscala,OKC,Muscala 29' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,163,237,29,1,3.0,3.0,h
+S2223-G0458,2,05:22,OKC,,POR,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0458,2,05:07,OKC,,POR,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0458,2,04:38,OKC,51.0,POR,45.0,M. Muscala,OKC,Muscala 25' 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,-78,235,25,1,3.0,3.0,h
+S2223-G0458,2,02:53,OKC,,POR,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0458,2,01:54,OKC,,POR,,M. Muscala,OKC,MISS Muscala 29' 3PT Jump Shot,Missed Shot,Jump Shot,158,245,29,1,3.0,0.0,h
+S2223-G0458,2,01:52,OKC,,POR,,M. Muscala,OKC,SUB: Joe FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0458,3,01:33,OKC,,POR,,M. Muscala,OKC,Muscala S.FOUL (P1.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0458,3,01:21,OKC,89.0,POR,86.0,M. Muscala,OKC,Muscala 27' 3PT Jump Shot (9 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Jump Shot,-77,260,27,1,3.0,3.0,h
+S2223-G0458,4,08:06,OKC,103.0,POR,104.0,M. Muscala,OKC,Muscala 25' 3PT Jump Shot (12 PTS) (Wiggins 1 AST),Made Shot,Jump Shot,2,251,25,1,3.0,3.0,h
+S2223-G0458,4,06:59,OKC,,POR,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0458,4,06:23,OKC,,POR,,M. Muscala,OKC,SUB: Dort FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0566,1,03:06,ORL,,OKC,,M. Muscala,OKC,Muscala STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0566,1,01:24,ORL,26.0,OKC,23.0,M. Muscala,OKC,Muscala 27' 3PT Jump Shot (3 PTS) (Mann 2 AST),Made Shot,Jump Shot,131,236,27,1,3.0,3.0,v
+S2223-G0566,2,05:26,ORL,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P1.PN) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0566,2,05:15,ORL,54.0,OKC,42.0,M. Muscala,OKC,Muscala 26' 3PT Jump Shot (6 PTS) (Jal. Williams 3 AST),Made Shot,Jump Shot,170,197,26,1,3.0,3.0,v
+S2223-G0566,2,03:44,ORL,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0566,2,02:18,ORL,,OKC,,M. Muscala,OKC,SUB: Jay. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0566,3,02:44,ORL,92.0,OKC,79.0,M. Muscala,OKC,Muscala 29' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,12,288,29,1,3.0,3.0,v
+S2223-G0566,3,01:52,ORL,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0566,3,00:00.200000,ORL,,OKC,,M. Muscala,OKC,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,-229,16,0,1,3.0,0.0,v
+S2223-G0566,4,09:42,ORL,,OKC,,M. Muscala,OKC,SUB: Jal. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0566,4,01:53,ORL,119.0,OKC,106.0,M. Muscala,OKC,Muscala Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0566,4,01:53,ORL,119.0,OKC,107.0,M. Muscala,OKC,Muscala Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0566,4,01:35,ORL,,OKC,,M. Muscala,OKC,Muscala P.FOUL (P2.PN) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2223-G0566,4,01:35,ORL,,OKC,,M. Muscala,OKC,SUB: Wiggins FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0136,1,11:11,MIL,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0136,1,10:57,MIL,,OKC,,M. Muscala,OKC,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,-71,263,27,1,3.0,0.0,v
+S2223-G0136,1,10:19,MIL,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0136,1,07:47,MIL,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0136,1,05:44,MIL,20.0,OKC,22.0,M. Muscala,OKC,Muscala 1' Cutting Layup Shot (2 PTS) (Robinson-Earl 1 AST),Made Shot,Cutting Layup Shot,7,7,1,1,2.0,2.0,v
+S2223-G0136,1,05:30,MIL,,OKC,,M. Muscala,OKC,SUB: Dieng FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0136,2,06:37,MIL,48.0,OKC,44.0,M. Muscala,OKC,Muscala 26' 3PT Jump Shot (5 PTS) (Dort 6 AST),Made Shot,Jump Shot,-218,143,26,1,3.0,3.0,v
+S2223-G0136,2,05:41,MIL,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0136,2,04:07,MIL,,OKC,,M. Muscala,OKC,MISS Muscala Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,v
+S2223-G0136,2,04:07,MIL,,OKC,,M. Muscala,OKC,MISS Muscala Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,v
+S2223-G0136,2,04:07,MIL,53.0,OKC,48.0,M. Muscala,OKC,Muscala Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0136,2,03:57,MIL,,OKC,,M. Muscala,OKC,SUB: Robinson-Earl FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0136,3,11:51,MIL,,OKC,,M. Muscala,OKC,Muscala OFF.Foul (P1) (J.Goble),Foul,Offensive,0,0,0,0,,,v
+S2223-G0136,3,11:51,MIL,,OKC,,M. Muscala,OKC,Muscala Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0136,3,11:31,MIL,,OKC,,M. Muscala,OKC,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,10,272,27,1,3.0,0.0,v
+S2223-G0136,3,10:54,MIL,,OKC,,M. Muscala,OKC,MISS Muscala 28' 3PT Jump Shot,Missed Shot,Jump Shot,-39,274,28,1,3.0,0.0,v
+S2223-G0136,3,10:40,MIL,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0136,3,09:27,MIL,,OKC,,M. Muscala,OKC,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,-92,250,27,1,3.0,0.0,v
+S2223-G0136,3,08:35,MIL,75.0,OKC,55.0,M. Muscala,OKC,Muscala 2' Cutting Dunk Shot (8 PTS) (Dort 7 AST),Made Shot,Cutting Dunk Shot,6,20,2,1,2.0,2.0,v
+S2223-G0136,3,08:35,MIL,75.0,OKC,56.0,M. Muscala,OKC,Muscala Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0136,3,08:05,MIL,,OKC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-200,172,26,1,3.0,0.0,v
+S2223-G0136,3,06:33,MIL,,OKC,,M. Muscala,OKC,SUB: Robinson-Earl FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0474,1,03:14,OKC,,POR,,M. Muscala,OKC,Muscala P.FOUL (P1.T2) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G0474,1,02:41,OKC,19.0,POR,27.0,M. Muscala,OKC,Muscala 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,-225,-33,0,1,3.0,3.0,h
+S2223-G0474,2,00:35.800000,OKC,,POR,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0474,3,10:24,OKC,,POR,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0474,3,10:21,OKC,,POR,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0474,3,10:02,OKC,,POR,,M. Muscala,OKC,Muscala P.FOUL (P2.T1) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G0474,3,09:52,OKC,,POR,,M. Muscala,OKC,MISS Muscala 22' Jump Shot,Missed Shot,Jump Shot,-184,120,22,1,2.0,0.0,h
+S2223-G0474,3,09:29,OKC,,POR,,M. Muscala,OKC,MISS Muscala 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,-4,24,1,3.0,0.0,h
+S2223-G0474,3,07:27,OKC,,POR,,M. Muscala,OKC,SUB: Pokusevski FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0474,4,10:36,OKC,,POR,,M. Muscala,OKC,Muscala P.FOUL (P3.T1) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0474,4,10:10,OKC,81.0,POR,82.0,M. Muscala,OKC,Muscala 26' 3PT Jump Shot (6 PTS) (Giddey 4 AST),Made Shot,Jump Shot,56,258,26,1,3.0,3.0,h
+S2223-G0474,4,09:07,OKC,,POR,,M. Muscala,OKC,Muscala S.FOUL (P4.T2) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0474,4,07:46,OKC,,POR,,M. Muscala,OKC,SUB: Pokusevski FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0474,4,03:13,OKC,,POR,,M. Muscala,OKC,MISS Muscala 18' Jump Shot,Missed Shot,Jump Shot,-176,1,18,1,2.0,0.0,h
+S2223-G0474,4,02:05,OKC,,POR,,M. Muscala,OKC,Muscala P.FOUL (P5.T4) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G0474,4,00:00.300000,OKC,,POR,,M. Muscala,OKC,SUB: Wiggins FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0435,1,02:52,OKC,,MIN,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0435,1,01:52,OKC,,MIN,,M. Muscala,OKC,MISS Muscala 14' Jump Shot,Missed Shot,Jump Shot,45,130,14,1,2.0,0.0,h
+S2223-G0435,1,00:00.300000,OKC,28.0,MIN,30.0,M. Muscala,OKC,Muscala 21' Jump Shot (2 PTS) (Giddey 2 AST),Made Shot,Jump Shot,208,3,21,1,2.0,2.0,h
+S2223-G0435,2,00:00,OKC,,MIN,,M. Muscala,OKC,MISS Muscala 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,56,24,1,3.0,0.0,h
+S2223-G0435,3,03:54,OKC,,MIN,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0435,3,01:21,OKC,,MIN,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0435,3,00:34.600000,OKC,,MIN,,M. Muscala,OKC,Muscala STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0435,4,10:48,OKC,,MIN,,M. Muscala,OKC,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,-233,29,0,1,3.0,0.0,h
+S2223-G0435,4,10:31,OKC,,MIN,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0435,4,10:19,OKC,,MIN,,M. Muscala,OKC,SUB: Omoruyi FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0435,4,00:03.400000,OKC,,MIN,,M. Muscala,OKC,SUB: Wiggins FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0971,1,11:23,CLE,0.0,BOS,3.0,M. Muscala,BOS,Muscala 27' 3PT Jump Shot (3 PTS) (Brown 1 AST),Made Shot,Jump Shot,189,194,27,1,3.0,3.0,v
+S2223-G0971,1,08:56,CLE,,BOS,,M. Muscala,BOS,MISS Muscala 24' 3PT Jump Shot,Missed Shot,Jump Shot,222,96,24,1,3.0,0.0,v
+S2223-G0971,1,08:31,CLE,,BOS,,M. Muscala,BOS,MISS Muscala 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,43,24,1,3.0,0.0,v
+S2223-G0971,1,07:47,CLE,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0971,1,07:04,CLE,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0971,1,06:24,CLE,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0971,1,05:54,CLE,,BOS,,M. Muscala,BOS,Muscala S.FOUL (P1.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0971,1,04:32,CLE,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0971,1,04:05,CLE,,BOS,,M. Muscala,BOS,SUB: Pritchard FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0971,2,10:53,CLE,,BOS,,M. Muscala,BOS,Muscala STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0971,2,05:50,CLE,,BOS,,M. Muscala,BOS,SUB: Kornet FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0971,3,07:51,CLE,,BOS,,M. Muscala,BOS,Muscala S.FOUL (P2.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0971,3,04:56,CLE,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0971,3,03:12,CLE,,BOS,,M. Muscala,BOS,SUB: Hauser FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0971,4,08:03,CLE,,BOS,,M. Muscala,BOS,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,-176,199,27,1,3.0,0.0,v
+S2223-G0971,4,08:01,CLE,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0971,4,07:59,CLE,87.0,BOS,96.0,M. Muscala,BOS,Muscala Putback Layup (5 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0971,4,07:45,CLE,,BOS,,M. Muscala,BOS,Muscala STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0971,4,06:26,CLE,,BOS,,M. Muscala,BOS,Muscala BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0971,4,05:06,CLE,,BOS,,M. Muscala,BOS,SUB: Kornet FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0971,5,02:27,CLE,,BOS,,M. Muscala,BOS,MISS Muscala 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,1,24,1,3.0,0.0,v
+S2223-G0971,5,01:06,CLE,,BOS,,M. Muscala,BOS,SUB: Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0971,5,00:09.200000,CLE,,BOS,,M. Muscala,BOS,SUB: Smart FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0674,1,00:49.900000,OKC,,IND,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0674,2,10:45,OKC,,IND,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0674,2,08:26,OKC,,IND,,M. Muscala,OKC,MISS Muscala 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,10,138,14,1,2.0,0.0,h
+S2223-G0674,2,08:07,OKC,,IND,,M. Muscala,OKC,MISS Muscala Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,h
+S2223-G0674,2,07:30,OKC,,IND,,M. Muscala,OKC,MISS Muscala 28' 3PT Jump Shot,Missed Shot,Jump Shot,-45,273,28,1,3.0,0.0,h
+S2223-G0674,2,05:47,OKC,,IND,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0674,4,06:07,OKC,,IND,,M. Muscala,OKC,SUB: Jay. Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G1116,2,10:34,BOS,,SAS,,M. Muscala,BOS,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,-227,112,25,1,3.0,0.0,h
+S2223-G1116,2,07:48,BOS,,SAS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,2,06:49,BOS,,SAS,,M. Muscala,BOS,SUB: Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G1116,4,05:17,BOS,,SAS,,M. Muscala,BOS,Muscala REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,4,04:19,BOS,124.0,SAS,86.0,M. Muscala,BOS,Muscala 27' 3PT Jump Shot (3 PTS) (Griffin 1 AST),Made Shot,Jump Shot,-165,219,27,1,3.0,3.0,h
+S2223-G1116,4,02:28,BOS,,SAS,,M. Muscala,BOS,Muscala REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,4,02:13,BOS,131.0,SAS,88.0,M. Muscala,BOS,Muscala 24' 3PT Jump Shot (6 PTS) (Griffin 2 AST),Made Shot,Jump Shot,-234,34,24,1,3.0,3.0,h
+S2223-G1116,4,00:56.300000,BOS,137.0,SAS,90.0,M. Muscala,BOS,Muscala 29' 3PT Pullup Jump Shot (9 PTS) (Hauser 2 AST),Made Shot,Pullup Jump shot,190,215,29,1,3.0,3.0,h
+S2223-G1116,4,00:48.500000,BOS,,SAS,,M. Muscala,BOS,Muscala S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0584,1,12:00,OKC,,WAS,,M. Muscala,OKC,Jump Ball Muscala vs. Porzingis: Tip to Gilgeous-Alexander,Jump Ball,,0,0,0,0,,,h
+S2223-G0584,1,09:24,OKC,,WAS,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0584,1,08:17,OKC,13.0,WAS,7.0,M. Muscala,OKC,Muscala 25' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Jump Shot,163,195,25,1,3.0,3.0,h
+S2223-G0584,1,07:25,OKC,,WAS,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0584,1,05:12,OKC,,WAS,,M. Muscala,OKC,MISS Muscala 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,161,12,16,1,2.0,0.0,h
+S2223-G0584,1,05:02,OKC,,WAS,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0584,1,04:47,OKC,,WAS,,M. Muscala,OKC,SUB: Omoruyi FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0584,1,00:42.700000,OKC,,WAS,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0584,2,00:35.900000,OKC,66.0,WAS,42.0,M. Muscala,OKC,Muscala 2' Cutting Layup Shot (5 PTS) (Giddey 5 AST),Made Shot,Cutting Layup Shot,-15,15,2,1,2.0,2.0,h
+S2223-G0584,3,11:38,OKC,,WAS,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0584,3,03:54,OKC,,WAS,,M. Muscala,OKC,MISS Muscala 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,67,85,11,1,2.0,0.0,h
+S2223-G0584,3,02:59,OKC,,WAS,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0584,3,02:57,OKC,95.0,WAS,71.0,M. Muscala,OKC,Muscala 2' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,-17,-1,2,1,2.0,2.0,h
+S2223-G0584,3,00:38.100000,OKC,,WAS,,M. Muscala,OKC,Muscala STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0584,4,11:45,OKC,106.0,WAS,80.0,M. Muscala,OKC,Muscala 26' 3PT Jump Shot (10 PTS) (Giddey 8 AST),Made Shot,Jump Shot,-112,231,26,1,3.0,3.0,h
+S2223-G0584,4,09:37,OKC,,WAS,,M. Muscala,OKC,Muscala S.FOUL (P1.T2) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0584,4,09:22,OKC,,WAS,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,131,229,26,1,3.0,0.0,h
+S2223-G0584,4,08:30,OKC,,WAS,,M. Muscala,OKC,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,230,10,0,1,3.0,0.0,h
+S2223-G0584,4,06:30,OKC,,WAS,,M. Muscala,OKC,Muscala S.FOUL (P2.T3) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0584,4,06:28,OKC,,WAS,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0584,4,05:17,OKC,,WAS,,M. Muscala,OKC,MISS Muscala 28' 3PT Jump Shot,Missed Shot,Jump Shot,72,266,28,1,3.0,0.0,h
+S2223-G0584,4,04:51,OKC,,WAS,,M. Muscala,OKC,Muscala BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0584,4,04:37,OKC,,WAS,,M. Muscala,OKC,MISS Muscala 14' Jump Shot,Missed Shot,Jump Shot,71,122,14,1,2.0,0.0,h
+S2223-G0584,4,02:44,OKC,,WAS,,M. Muscala,OKC,SUB: Joe FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0838,1,01:49,BOS,26.0,CHA,21.0,M. Muscala,BOS,Muscala 24' 3PT Jump Shot (3 PTS) (Tatum 2 AST),Made Shot,Jump Shot,233,70,24,1,3.0,3.0,h
+S2223-G0838,1,00:36.800000,BOS,,CHA,,M. Muscala,BOS,Muscala P.FOUL (P1.T4) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0838,1,00:06.800000,BOS,,CHA,,M. Muscala,BOS,MISS Muscala 30' 3PT Jump Shot,Missed Shot,Jump Shot,-127,273,30,1,3.0,0.0,h
+S2223-G0838,2,09:10,BOS,,CHA,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,2,08:50,BOS,,CHA,,M. Muscala,BOS,Muscala BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0838,2,08:41,BOS,44.0,CHA,32.0,M. Muscala,BOS,Muscala 28' 3PT Jump Shot (6 PTS) (White 2 AST),Made Shot,Jump Shot,-45,277,28,1,3.0,3.0,h
+S2223-G0838,2,08:21,BOS,,CHA,,M. Muscala,BOS,SUB: Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0838,3,00:26.100000,BOS,,CHA,,M. Muscala,BOS,MISS Muscala 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,37,24,1,3.0,0.0,h
+S2223-G0838,3,00:08.800000,BOS,97.0,CHA,81.0,M. Muscala,BOS,Muscala 24' 3PT Jump Shot (9 PTS) (Brogdon 4 AST),Made Shot,Jump Shot,234,32,24,1,3.0,3.0,h
+S2223-G0838,4,10:52,BOS,,CHA,,M. Muscala,BOS,MISS Muscala 28' 3PT Jump Shot,Missed Shot,Jump Shot,-75,272,28,1,3.0,0.0,h
+S2223-G0838,4,09:31,BOS,105.0,CHA,87.0,M. Muscala,BOS,Muscala 27' 3PT Jump Shot (12 PTS) (White 8 AST),Made Shot,Jump Shot,0,273,27,1,3.0,3.0,h
+S2223-G0838,4,08:01,BOS,,CHA,,M. Muscala,BOS,MISS Muscala 28' 3PT Jump Shot,Missed Shot,Jump Shot,-62,268,28,1,3.0,0.0,h
+S2223-G0838,4,07:03,BOS,,CHA,,M. Muscala,BOS,SUB: Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0814,1,01:27,GSW,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0814,2,04:48,GSW,,OKC,,M. Muscala,OKC,MISS Muscala 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-51,273,28,1,3.0,0.0,v
+S2223-G0814,2,03:26,GSW,,OKC,,M. Muscala,OKC,SUB: Jay. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0814,3,06:40,GSW,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0814,3,06:00,GSW,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0814,3,05:26,GSW,,OKC,,M. Muscala,OKC,Muscala P.FOUL (P1.T1) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0814,3,04:00,GSW,,OKC,,M. Muscala,OKC,MISS Muscala 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,2,94,9,1,2.0,0.0,v
+S2223-G0814,3,03:23,GSW,,OKC,,M. Muscala,OKC,SUB: Mann FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0814,4,11:19,GSW,,OKC,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,-39,248,25,1,3.0,0.0,v
+S2223-G0814,4,11:01,GSW,,OKC,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0814,4,08:47,GSW,,OKC,,M. Muscala,OKC,SUB: Omoruyi FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0855,1,03:24,BOS,,MEM,,M. Muscala,BOS,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,-169,215,27,1,3.0,0.0,h
+S2223-G0855,1,03:11,BOS,,MEM,,M. Muscala,BOS,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,-214,169,27,1,3.0,0.0,h
+S2223-G0855,1,02:43,BOS,17.0,MEM,24.0,M. Muscala,BOS,Muscala 16' Pullup Jump Shot (2 PTS) (Williams 1 AST),Made Shot,Pullup Jump shot,118,101,16,1,2.0,2.0,h
+S2223-G0855,1,01:46,BOS,,MEM,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,1,01:36,BOS,20.0,MEM,24.0,M. Muscala,BOS,Muscala 24' 3PT Jump Shot (5 PTS) (Pritchard 1 AST),Made Shot,Jump Shot,237,20,24,1,3.0,3.0,h
+S2223-G0855,2,09:47,BOS,,MEM,,M. Muscala,BOS,Muscala Step Out of Bounds Turnover (P1.T8),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0855,2,07:34,BOS,34.0,MEM,37.0,M. Muscala,BOS,Muscala 27' 3PT Jump Shot (8 PTS) (White 5 AST),Made Shot,Jump Shot,210,169,27,1,3.0,3.0,h
+S2223-G0855,2,07:13,BOS,,MEM,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,2,07:07,BOS,,MEM,,M. Muscala,BOS,SUB: Kornet FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0855,3,02:54,BOS,,MEM,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,3,02:40,BOS,,MEM,,M. Muscala,BOS,Muscala S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0855,3,02:40,BOS,,MEM,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,3,01:15,BOS,,MEM,,M. Muscala,BOS,Muscala REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,3,01:07,BOS,,MEM,,M. Muscala,BOS,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,168,186,25,1,3.0,0.0,h
+S2223-G0855,3,00:39.400000,BOS,80.0,MEM,78.0,M. Muscala,BOS,Muscala 7' Floating Jump Shot (10 PTS) (Williams 3 AST),Made Shot,Floating Jump shot,1,65,7,1,2.0,2.0,h
+S2223-G0855,4,11:31,BOS,,MEM,,M. Muscala,BOS,Muscala P.FOUL (P2.T1) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2223-G0855,4,09:10,BOS,,MEM,,M. Muscala,BOS,SUB: Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0443,1,02:33,OKC,,MEM,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0443,1,02:05,OKC,,MEM,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0443,1,01:39,OKC,,MEM,,M. Muscala,OKC,Muscala L.B.FOUL (P1.PN) (J.Goble),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0443,3,05:12,OKC,,MEM,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,-168,187,25,1,3.0,0.0,h
+S2223-G0443,3,01:28,OKC,88.0,MEM,74.0,M. Muscala,OKC,Muscala 13' Floating Jump Shot (2 PTS) (Mann 1 AST),Made Shot,Floating Jump shot,-6,131,13,1,2.0,2.0,h
+S2223-G0443,3,00:51.700000,OKC,,MEM,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,93,240,26,1,3.0,0.0,h
+S2223-G1062,1,00:41.500000,UTA,21.0,BOS,34.0,M. Muscala,BOS,Muscala 24' 3PT Jump Shot (3 PTS) (Kornet 1 AST),Made Shot,Jump Shot,237,56,24,1,3.0,3.0,v
+S2223-G1062,2,09:46,UTA,,BOS,,M. Muscala,BOS,SUB: Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G1062,3,07:51,UTA,,BOS,,M. Muscala,BOS,Muscala P.FOUL (P1.T2) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2223-G1062,3,06:27,UTA,,BOS,,M. Muscala,BOS,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,228,7,0,1,3.0,0.0,v
+S2223-G1062,3,03:43,UTA,82.0,BOS,78.0,M. Muscala,BOS,Muscala 3PT Jump Shot (6 PTS) (Brown 3 AST),Made Shot,Jump Shot,-230,-3,0,1,3.0,3.0,v
+S2223-G1062,3,02:38,UTA,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1062,3,02:11,UTA,,BOS,,M. Muscala,BOS,Muscala Violation:Kicked Ball (M.Dagher),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G1062,3,01:56,UTA,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1062,3,01:38,UTA,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1062,3,00:48.100000,UTA,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1062,4,11:46,UTA,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1062,4,10:36,UTA,92.0,BOS,95.0,M. Muscala,BOS,Muscala 17' Jump Shot (8 PTS) (Brogdon 2 AST),Made Shot,Jump Shot,-165,5,17,1,2.0,2.0,v
+S2223-G1062,4,10:12,UTA,,BOS,,M. Muscala,BOS,MISS Muscala 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,21,18,3,1,2.0,0.0,v
+S2223-G1062,4,05:52,UTA,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1062,4,05:21,UTA,,BOS,,M. Muscala,BOS,SUB: Brown FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0921,3,04:19,NYK,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0921,3,03:16,NYK,,BOS,,M. Muscala,BOS,Muscala P.FOUL (P1.T2) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G0921,3,00:55.100000,NYK,,BOS,,M. Muscala,BOS,Muscala S.FOUL (P2.PN) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G0921,4,11:08,NYK,90.0,BOS,78.0,M. Muscala,BOS,Muscala 26' 3PT Jump Shot (3 PTS) (White 4 AST),Made Shot,Jump Shot,2,263,26,1,3.0,3.0,v
+S2223-G0921,4,10:24,NYK,,BOS,,M. Muscala,BOS,Muscala BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0921,4,08:08,NYK,,BOS,,M. Muscala,BOS,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,-229,-20,0,1,3.0,0.0,v
+S2223-G0921,4,06:18,NYK,,BOS,,M. Muscala,BOS,SUB: Horford FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G1081,4,02:15,SAC,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1081,4,00:24.200000,SAC,,BOS,,M. Muscala,BOS,Muscala S.FOUL (P1.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G1097,4,03:37,BOS,,IND,,M. Muscala,BOS,Muscala REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1097,4,02:50,BOS,,IND,,M. Muscala,BOS,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-148,218,26,1,3.0,0.0,h
+S2223-G1097,4,01:44,BOS,,IND,,M. Muscala,BOS,Muscala REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1097,4,01:14,BOS,,IND,,M. Muscala,BOS,Muscala S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G1097,4,00:44.100000,BOS,,IND,,M. Muscala,BOS,Muscala BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1146,4,05:51,MIL,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1146,4,05:20,MIL,,BOS,,M. Muscala,BOS,MISS Muscala 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,49,100,11,1,2.0,0.0,v
+S2223-G1146,4,04:58,MIL,,BOS,,M. Muscala,BOS,MISS Muscala 28' 3PT Jump Shot,Missed Shot,Jump Shot,219,178,28,1,3.0,0.0,v
+S2223-G1146,4,04:04,MIL,,BOS,,M. Muscala,BOS,Muscala S.FOUL (P1.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0192,1,03:17,NYK,30.0,OKC,25.0,M. Muscala,OKC,Muscala 25' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,-10,252,25,1,3.0,3.0,v
+S2223-G0192,1,03:05,NYK,,OKC,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0192,3,11:08,NYK,,OKC,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,-172,184,25,1,3.0,0.0,v
+S2223-G0192,3,08:46,NYK,,OKC,,M. Muscala,OKC,Muscala OFF.Foul (P1) (K.Scott),Foul,Offensive,0,0,0,0,,,v
+S2223-G0192,3,08:46,NYK,,OKC,,M. Muscala,OKC,Muscala Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0192,3,05:56,NYK,93.0,OKC,99.0,M. Muscala,OKC,Muscala 26' 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 7 AST),Made Shot,Jump Shot,49,251,26,1,3.0,3.0,v
+S2223-G0192,3,05:23,NYK,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0192,3,05:00,NYK,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0192,3,04:33,NYK,,OKC,,M. Muscala,OKC,SUB: Robinson-Earl FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0254,2,02:30,OKC,51.0,NYK,62.0,M. Muscala,OKC,Muscala 24' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Jump Shot,-140,201,24,1,3.0,3.0,h
+S2223-G0254,3,00:09.800000,OKC,,NYK,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0254,3,00:00.700000,OKC,,NYK,,M. Muscala,OKC,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,-232,-11,0,1,3.0,0.0,h
+S2223-G0254,4,03:22,OKC,,NYK,,M. Muscala,OKC,Muscala S.FOUL (P1.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0254,4,03:22,OKC,,NYK,,M. Muscala,OKC,SUB: Robinson-Earl FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0869,1,10:06,MIL,5.0,BOS,8.0,M. Muscala,BOS,Muscala 26' 3PT Jump Shot (3 PTS) (Griffin 2 AST),Made Shot,Jump Shot,191,180,26,1,3.0,3.0,v
+S2223-G0869,1,09:08,MIL,7.0,BOS,10.0,M. Muscala,BOS,Muscala 4' Floating Jump Shot (5 PTS) (White 1 AST),Made Shot,Floating Jump shot,-42,6,4,1,2.0,2.0,v
+S2223-G0869,1,07:37,MIL,,BOS,,M. Muscala,BOS,MISS Muscala 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-144,7,14,1,2.0,0.0,v
+S2223-G0869,1,07:09,MIL,10.0,BOS,17.0,M. Muscala,BOS,Muscala 2' Cutting Layup Shot (7 PTS) (White 3 AST),Made Shot,Cutting Layup Shot,0,15,2,1,2.0,2.0,v
+S2223-G0869,1,06:36,MIL,12.0,BOS,20.0,M. Muscala,BOS,Muscala 27' 3PT Jump Shot (10 PTS) (White 4 AST),Made Shot,Jump Shot,-10,268,27,1,3.0,3.0,v
+S2223-G0869,1,05:05,MIL,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,1,03:07,MIL,,BOS,,M. Muscala,BOS,MISS Muscala 28' 3PT Jump Shot,Missed Shot,Jump Shot,-88,264,28,1,3.0,0.0,v
+S2223-G0869,1,02:25,MIL,,BOS,,M. Muscala,BOS,SUB: Hauser FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0869,2,10:48,MIL,,BOS,,M. Muscala,BOS,MISS Muscala 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-12,25,3,1,2.0,0.0,v
+S2223-G0869,2,09:26,MIL,,BOS,,M. Muscala,BOS,Muscala STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0869,2,08:34,MIL,38.0,BOS,42.0,M. Muscala,BOS,Muscala 8' Floating Jump Shot (12 PTS) (Brogdon 2 AST),Made Shot,Floating Jump shot,-20,74,8,1,2.0,2.0,v
+S2223-G0869,2,05:59,MIL,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,2,03:29,MIL,,BOS,,M. Muscala,BOS,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,-105,248,27,1,3.0,0.0,v
+S2223-G0869,2,03:03,MIL,,BOS,,M. Muscala,BOS,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,224,70,0,1,3.0,0.0,v
+S2223-G0869,2,01:24,MIL,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,2,01:18,MIL,,BOS,,M. Muscala,BOS,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,-229,0,0,1,3.0,0.0,v
+S2223-G0869,2,01:00,MIL,61.0,BOS,61.0,M. Muscala,BOS,Muscala Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0869,2,01:00,MIL,,BOS,,M. Muscala,BOS,MISS Muscala Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0869,2,00:46.300000,MIL,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,3,11:00,MIL,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,3,09:34,MIL,70.0,BOS,70.0,M. Muscala,BOS,Muscala 1' Cutting Dunk Shot (15 PTS) (White 9 AST),Made Shot,Cutting Dunk Shot,-12,6,1,1,2.0,2.0,v
+S2223-G0869,3,09:34,MIL,,BOS,,M. Muscala,BOS,Muscala T.FOUL (P0.T1) (M.Davis),Foul,Technical,0,0,0,0,,,v
+S2223-G0869,3,07:33,MIL,71.0,BOS,76.0,M. Muscala,BOS,Muscala 27' 3PT Pullup Jump Shot (18 PTS) (Griffin 5 AST),Made Shot,Pullup Jump shot,-136,232,27,1,3.0,3.0,v
+S2223-G0869,3,04:32,MIL,,BOS,,M. Muscala,BOS,SUB: Pritchard FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0869,3,02:39,MIL,,BOS,,M. Muscala,BOS,Muscala S.FOUL (P1.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0869,3,01:09,MIL,,BOS,,M. Muscala,BOS,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,-230,22,0,1,3.0,0.0,v
+S2223-G0869,3,00:42.800000,MIL,,BOS,,M. Muscala,BOS,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,232,26,0,1,3.0,0.0,v
+S2223-G0869,3,00:30.900000,MIL,,BOS,,M. Muscala,BOS,Muscala S.FOUL (P2.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0869,3,00:19.300000,MIL,,BOS,,M. Muscala,BOS,Muscala OFF.Foul (P3) (J.Sterling),Foul,Offensive,0,0,0,0,,,v
+S2223-G0869,3,00:19.300000,MIL,,BOS,,M. Muscala,BOS,Muscala Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0869,4,06:15,MIL,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,4,00:21.300000,MIL,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,5,04:10,MIL,,BOS,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,5,01:12,MIL,,BOS,,M. Muscala,BOS,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,-140,211,25,1,3.0,0.0,v
+S2223-G0146,1,05:49,DET,,OKC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,184,183,26,1,3.0,0.0,v
+S2223-G0146,1,05:28,DET,,OKC,,M. Muscala,OKC,Muscala L.B.FOUL (P1.PN) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0146,1,03:03,DET,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0146,1,02:31,DET,,OKC,,M. Muscala,OKC,SUB: Dieng FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0146,3,02:48,DET,,OKC,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0146,3,02:03,DET,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P2.T2) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0146,3,01:51,DET,81.0,OKC,83.0,M. Muscala,OKC,Muscala 26' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Jump Shot,-124,228,26,1,3.0,3.0,v
+S2223-G0146,3,01:38,DET,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P3.T3) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0146,3,01:07,DET,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0146,4,07:27,DET,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0146,4,07:01,DET,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0146,4,06:56,DET,98.0,OKC,92.0,M. Muscala,OKC,Muscala 26' 3PT Jump Shot (6 PTS) (K. Williams 3 AST),Made Shot,Jump Shot,11,260,26,1,3.0,3.0,v
+S2223-G0146,4,06:13,DET,98.0,OKC,94.0,M. Muscala,OKC,Muscala 15' Pullup Jump Shot (8 PTS) (Gilgeous-Alexander 5 AST),Made Shot,Pullup Jump shot,-71,136,15,1,2.0,2.0,v
+S2223-G0146,4,05:36,DET,,OKC,,M. Muscala,OKC,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,-225,11,0,1,3.0,0.0,v
+S2223-G0146,4,03:51,DET,102.0,OKC,99.0,M. Muscala,OKC,Muscala 26' 3PT Jump Shot (11 PTS) (K. Williams 4 AST),Made Shot,Jump Shot,-151,206,26,1,3.0,3.0,v
+S2223-G0146,4,02:34,DET,,OKC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-194,168,26,1,3.0,0.0,v
+S2223-G0146,4,00:10.500000,DET,,OKC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-185,180,26,1,3.0,0.0,v
+S2223-G0054,2,06:40,OKC,,LAC,,M. Muscala,OKC,Muscala P.FOUL (P1.T4) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2223-G0054,2,04:14,OKC,,LAC,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,2,03:29,OKC,,LAC,,M. Muscala,OKC,SUB: Mann FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0054,3,11:36,OKC,51.0,LAC,43.0,M. Muscala,OKC,Muscala 19' Jump Shot (2 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Jump Shot,-185,14,19,1,2.0,2.0,h
+S2223-G0054,3,11:01,OKC,,LAC,,M. Muscala,OKC,MISS Muscala 3' Layup,Missed Shot,Layup Shot,27,-13,3,1,2.0,0.0,h
+S2223-G0054,3,10:58,OKC,,LAC,,M. Muscala,OKC,Muscala REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,3,10:58,OKC,53.0,LAC,43.0,M. Muscala,OKC,Muscala Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0054,3,10:31,OKC,,LAC,,M. Muscala,OKC,Muscala REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,3,08:22,OKC,,LAC,,M. Muscala,OKC,Muscala REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,3,07:49,OKC,,LAC,,M. Muscala,OKC,Muscala REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,3,07:45,OKC,,LAC,,M. Muscala,OKC,SUB: Robinson-Earl FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0054,3,02:34,OKC,,LAC,,M. Muscala,OKC,Muscala S.FOUL (P2.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0054,3,01:53,OKC,,LAC,,M. Muscala,OKC,Muscala REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,3,01:52,OKC,81.0,LAC,62.0,M. Muscala,OKC,Muscala Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0054,3,01:49,OKC,,LAC,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0054,4,05:42,OKC,,LAC,,M. Muscala,OKC,Muscala REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,4,04:23,OKC,99.0,LAC,85.0,M. Muscala,OKC,Muscala 8' Turnaround Fadeaway (8 PTS) (K. Williams 2 AST),Made Shot,Turnaround Fadeaway shot,77,16,8,1,2.0,2.0,h
+S2223-G0054,4,03:40,OKC,,LAC,,M. Muscala,OKC,Muscala REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,4,03:01,OKC,,LAC,,M. Muscala,OKC,Muscala REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,4,02:42,OKC,,LAC,,M. Muscala,OKC,Muscala REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,4,00:07.400000,OKC,,LAC,,M. Muscala,OKC,Muscala BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0691,2,02:44,SAC,,OKC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,188,181,26,1,3.0,0.0,v
+S2223-G0691,2,01:27,SAC,,OKC,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,-44,247,25,1,3.0,0.0,v
+S2223-G0691,2,00:01.300000,SAC,,OKC,,M. Muscala,OKC,Muscala Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0691,3,04:27,SAC,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P1.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0691,3,03:44,SAC,,OKC,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,-4,251,25,1,3.0,0.0,v
+S2223-G0691,3,02:08,SAC,,OKC,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,11,250,25,1,3.0,0.0,v
+S2223-G0691,3,01:47,SAC,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0691,3,00:45.300000,SAC,88.0,OKC,86.0,M. Muscala,OKC,Muscala 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Jump Shot,-230,1,0,1,3.0,3.0,v
+S2223-G0691,3,00:28.700000,SAC,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1192,1,08:32,BOS,4.0,TOR,7.0,M. Muscala,BOS,Muscala 24' 3PT Jump Shot (3 PTS) (Hauser 1 AST),Made Shot,Jump Shot,-237,2,24,1,3.0,3.0,h
+S2223-G1192,1,05:39,BOS,14.0,TOR,17.0,M. Muscala,BOS,Muscala 3PT Jump Shot (6 PTS) (Brown 2 AST),Made Shot,Jump Shot,232,27,0,1,3.0,3.0,h
+S2223-G1192,1,04:46,BOS,,TOR,,M. Muscala,BOS,Muscala BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1192,1,03:27,BOS,,TOR,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,1,03:15,BOS,,TOR,,M. Muscala,BOS,Muscala Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1192,1,03:07,BOS,,TOR,,M. Muscala,BOS,SUB: Griffin FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G1192,2,09:11,BOS,,TOR,,M. Muscala,BOS,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,56,252,26,1,3.0,0.0,h
+S2223-G1192,2,08:10,BOS,,TOR,,M. Muscala,BOS,Muscala P.FOUL (P1.T1) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2223-G1192,2,07:22,BOS,,TOR,,M. Muscala,BOS,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,130,218,25,1,3.0,0.0,h
+S2223-G1192,2,07:15,BOS,,TOR,,M. Muscala,BOS,SUB: Kornet FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G1192,3,06:21,BOS,,TOR,,M. Muscala,BOS,Muscala P.FOUL (P2.T4) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G1192,3,04:55,BOS,,TOR,,M. Muscala,BOS,Muscala S.FOUL (P3.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G1192,3,04:55,BOS,,TOR,,M. Muscala,BOS,SUB: Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G1192,4,10:53,BOS,,TOR,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,4,09:53,BOS,,TOR,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,4,09:29,BOS,,TOR,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,4,09:04,BOS,,TOR,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,4,08:59,BOS,82.0,TOR,74.0,M. Muscala,BOS,Muscala Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1192,4,08:59,BOS,,TOR,,M. Muscala,BOS,MISS Muscala Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1192,4,07:40,BOS,,TOR,,M. Muscala,BOS,SUB: Brown FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G1192,4,05:28,BOS,87.0,TOR,82.0,M. Muscala,BOS,Muscala 4' Cutting Layup Shot (9 PTS) (Brogdon 3 AST),Made Shot,Cutting Layup Shot,-16,41,4,1,2.0,2.0,h
+S2223-G1192,4,04:52,BOS,,TOR,,M. Muscala,BOS,Muscala REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,4,02:59,BOS,92.0,TOR,86.0,M. Muscala,BOS,Muscala 24' 3PT Jump Shot (12 PTS) (Brown 5 AST),Made Shot,Jump Shot,235,-5,24,1,3.0,3.0,h
+S2223-G1192,4,00:12.600000,BOS,,TOR,,M. Muscala,BOS,SUB: Griffin FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G1192,4,00:09.700000,BOS,,TOR,,M. Muscala,BOS,SUB: Hauser FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0035,1,04:41,DEN,18.0,OKC,13.0,M. Muscala,OKC,Muscala 12' Jump Shot (2 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,-1,122,12,1,2.0,2.0,v
+S2223-G0035,1,03:43,DEN,18.0,OKC,19.0,M. Muscala,OKC,Muscala 3PT Jump Shot (5 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,-224,10,0,1,3.0,3.0,v
+S2223-G0035,1,02:54,DEN,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0035,1,01:21,DEN,,OKC,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0035,2,01:09,DEN,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0035,2,00:32.300000,DEN,,OKC,,M. Muscala,OKC,MISS Muscala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-143,215,26,1,3.0,0.0,v
+S2223-G0035,3,08:47,DEN,,OKC,,M. Muscala,OKC,Muscala L.B.FOUL (P1.T2) (B.Nansel),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0035,3,07:49,DEN,,OKC,,M. Muscala,OKC,MISS Muscala 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-61,267,27,1,3.0,0.0,v
+S2223-G0035,3,07:35,DEN,70.0,OKC,65.0,M. Muscala,OKC,Muscala 27' 3PT Jump Shot (8 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Jump Shot,-27,264,27,1,3.0,3.0,v
+S2223-G0035,3,07:05,DEN,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P2.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0035,3,05:23,DEN,71.0,OKC,67.0,M. Muscala,OKC,Muscala 3' Running Layup (10 PTS) (Wiggins 1 AST),Made Shot,Running Layup Shot,-27,12,3,1,2.0,2.0,v
+S2223-G0035,3,03:25,DEN,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0035,3,03:02,DEN,79.0,OKC,74.0,M. Muscala,OKC,Muscala 27' 3PT Jump Shot (13 PTS) (Gilgeous-Alexander 7 AST),Made Shot,Jump Shot,-18,265,27,1,3.0,3.0,v
+S2223-G0035,3,02:26,DEN,82.0,OKC,77.0,M. Muscala,OKC,Muscala 26' 3PT Jump Shot (16 PTS) (Mann 3 AST),Made Shot,Jump Shot,-191,179,26,1,3.0,3.0,v
+S2223-G0035,3,01:43,DEN,,OKC,,M. Muscala,OKC,SUB: K. Williams FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0035,4,04:26,DEN,,OKC,,M. Muscala,OKC,MISS Muscala 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-66,28,7,1,2.0,0.0,v
+S2223-G0035,4,04:05,DEN,,OKC,,M. Muscala,OKC,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,-126,243,27,1,3.0,0.0,v
+S2223-G0035,4,03:08,DEN,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0035,4,01:05,DEN,,OKC,,M. Muscala,OKC,Muscala S.FOUL (P3.PN) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0035,4,01:05,DEN,,OKC,,M. Muscala,OKC,SUB: Robinson-Earl FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0035,4,00:29.400000,DEN,118.0,OKC,113.0,M. Muscala,OKC,Muscala Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0035,4,00:29.400000,DEN,118.0,OKC,114.0,M. Muscala,OKC,Muscala Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0035,4,00:21.500000,DEN,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0035,4,00:17.300000,DEN,,OKC,,M. Muscala,OKC,SUB: Bazley FOR Muscala,Substitution,,0,0,0,0,,,v
+S2223-G0035,4,00:02.500000,DEN,,OKC,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0799,1,12:00,OKC,,HOU,,M. Muscala,OKC,Jump Ball Muscala vs. Smith Jr.: Tip to Nix,Jump Ball,,0,0,0,0,,,h
+S2223-G0799,1,11:11,OKC,5.0,HOU,2.0,M. Muscala,OKC,Muscala 25' 3PT Jump Shot (3 PTS) (Giddey 1 AST),Made Shot,Jump Shot,172,177,25,1,3.0,3.0,h
+S2223-G0799,1,10:57,OKC,,HOU,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0799,1,09:47,OKC,,HOU,,M. Muscala,OKC,Muscala P.FOUL (P1.T2) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2223-G0799,1,09:36,OKC,,HOU,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,230,94,25,1,3.0,0.0,h
+S2223-G0799,1,09:04,OKC,16.0,HOU,9.0,M. Muscala,OKC,Muscala 25' 3PT Jump Shot (6 PTS) (Wiggins 1 AST),Made Shot,Jump Shot,-135,216,25,1,3.0,3.0,h
+S2223-G0799,1,08:50,OKC,,HOU,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0799,1,07:53,OKC,,HOU,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0799,1,06:04,OKC,,HOU,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0799,1,04:47,OKC,,HOU,,M. Muscala,OKC,SUB: Mann FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0799,2,03:21,OKC,67.0,HOU,44.0,M. Muscala,OKC,Muscala 24' 3PT Jump Shot (9 PTS) (Jal. Williams 3 AST),Made Shot,Jump Shot,-230,61,24,1,3.0,3.0,h
+S2223-G0799,2,01:02,OKC,,HOU,,M. Muscala,OKC,Muscala REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0799,2,00:48.100000,OKC,,HOU,,M. Muscala,OKC,SUB: Joe FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G0799,3,09:13,OKC,90.0,HOU,61.0,M. Muscala,OKC,Muscala 27' 3PT Jump Shot (12 PTS) (Giddey 5 AST),Made Shot,Jump Shot,-148,225,27,1,3.0,3.0,h
+S2223-G0799,3,08:35,OKC,92.0,HOU,61.0,M. Muscala,OKC,Muscala 10' Fadeaway Jumper (14 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Fadeaway Jump Shot,11,102,10,1,2.0,2.0,h
+S2223-G0799,3,08:13,OKC,,HOU,,M. Muscala,OKC,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,56,263,27,1,3.0,0.0,h
+S2223-G0799,3,08:00,OKC,,HOU,,M. Muscala,OKC,Muscala REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0799,3,07:56,OKC,94.0,HOU,61.0,M. Muscala,OKC,Muscala 19' Jump Shot (16 PTS) (Giddey 6 AST),Made Shot,Jump Shot,-66,176,19,1,2.0,2.0,h
+S2223-G0799,3,07:28,OKC,,HOU,,M. Muscala,OKC,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,59,243,25,1,3.0,0.0,h
+S2223-G0799,3,05:35,OKC,101.0,HOU,67.0,M. Muscala,OKC,Muscala 26' 3PT Jump Shot (19 PTS) (Giddey 7 AST),Made Shot,Jump Shot,210,148,26,1,3.0,3.0,h
+S2223-G0799,3,04:23,OKC,,HOU,,M. Muscala,OKC,SUB: Jay. Williams FOR Muscala,Substitution,,0,0,0,0,,,h
+S2223-G1130,4,06:06,WAS,,BOS,,M. Muscala,BOS,MISS Muscala 3PT Jump Shot,Missed Shot,Jump Shot,-232,-14,0,1,3.0,0.0,v

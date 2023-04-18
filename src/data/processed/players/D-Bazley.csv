@@ -1,0 +1,614 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0759,2,08:09,OKC,,GSW,,D. Bazley,OKC,Bazley Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0759,2,07:55,OKC,26.0,GSW,42.0,D. Bazley,OKC,Bazley 14' Jump Shot (2 PTS) (Giddey 2 AST),Made Shot,Jump Shot,9,141,14,1,2.0,2.0,h
+S2223-G0759,2,07:44,OKC,,GSW,,D. Bazley,OKC,Bazley P.FOUL (P1.T3) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2223-G0759,2,05:26,OKC,,GSW,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0759,2,04:39,OKC,,GSW,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0759,2,02:55,OKC,,GSW,,D. Bazley,OKC,SUB: Wiggins FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0562,1,02:45,OKC,,BOS,,D. Bazley,OKC,MISS Bazley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0562,1,02:45,OKC,,BOS,,D. Bazley,OKC,MISS Bazley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0562,1,01:08,OKC,,BOS,,D. Bazley,OKC,Bazley S.FOUL (P1.T4) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2223-G0562,1,00:21.300000,OKC,34.0,BOS,33.0,D. Bazley,OKC,Bazley 1' Cutting Dunk Shot (2 PTS) (Jal. Williams 2 AST),Made Shot,Cutting Dunk Shot,-4,-5,1,1,2.0,2.0,h
+S2223-G0562,4,03:37,OKC,143.0,BOS,110.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0562,4,03:37,OKC,144.0,BOS,110.0,D. Bazley,OKC,Bazley Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0562,4,03:22,OKC,,BOS,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0562,4,02:28,OKC,,BOS,,D. Bazley,OKC,MISS Bazley 1' Driving Layup,Missed Shot,Driving Layup Shot,-4,8,1,1,2.0,0.0,h
+S2223-G0562,4,01:42,OKC,,BOS,,D. Bazley,OKC,MISS Bazley 3' Driving Layup,Missed Shot,Driving Layup Shot,11,31,3,1,2.0,0.0,h
+S2223-G0562,4,01:24,OKC,,BOS,,D. Bazley,OKC,Bazley Traveling Turnover (P1.T13),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0626,1,01:39,PHI,,OKC,,D. Bazley,OKC,MISS Bazley 2' Running Layup,Missed Shot,Running Layup Shot,-16,11,2,1,2.0,0.0,v
+S2223-G0626,1,01:12,PHI,,OKC,,D. Bazley,OKC,MISS Bazley 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,1,24,1,3.0,0.0,v
+S2223-G0626,1,00:30.900000,PHI,,OKC,,D. Bazley,OKC,Bazley S.FOUL (P1.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0626,2,11:28,PHI,,OKC,,D. Bazley,OKC,Bazley Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0626,2,10:41,PHI,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0626,2,07:38,PHI,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0626,2,07:00,PHI,41.0,OKC,46.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0626,2,07:00,PHI,41.0,OKC,47.0,D. Bazley,OKC,Bazley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0626,2,05:37,PHI,,OKC,,D. Bazley,OKC,Bazley STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0626,2,03:58,PHI,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0626,2,03:53,PHI,,OKC,,D. Bazley,OKC,SUB: Jal. Williams FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0626,4,11:43,PHI,,OKC,,D. Bazley,OKC,MISS Bazley 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,59,24,1,3.0,0.0,v
+S2223-G0626,4,11:26,PHI,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0626,4,11:17,PHI,85.0,OKC,103.0,D. Bazley,OKC,Bazley 3' Alley Oop Layup (4 PTS) (Giddey 8 AST),Made Shot,Alley Oop Layup shot,15,23,3,1,2.0,2.0,v
+S2223-G0626,4,09:46,PHI,92.0,OKC,105.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0626,4,09:46,PHI,92.0,OKC,106.0,D. Bazley,OKC,Bazley Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0626,4,08:49,PHI,,OKC,,D. Bazley,OKC,Bazley Violation:Defensive Goaltending (E.Lewis),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0626,4,08:29,PHI,,OKC,,D. Bazley,OKC,SUB: Muscala FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0651,2,11:25,,,OKC,,D. Bazley,OKC,MISS Bazley 3' Driving Layup,Missed Shot,Driving Layup Shot,31,8,3,1,2.0,0.0,v
+S2223-G0651,2,07:09,,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0651,2,07:02,,,OKC,,D. Bazley,OKC,MISS Bazley 3' Driving Layup,Missed Shot,Driving Layup Shot,25,5,3,1,2.0,0.0,v
+S2223-G0651,2,06:38,,,OKC,,D. Bazley,OKC,Bazley Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0651,2,06:38,,,OKC,,D. Bazley,OKC,SUB: Jal. Williams FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0651,3,00:13.900000,,,OKC,,D. Bazley,OKC,SUB: Waters III FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0651,4,11:44,,,OKC,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0651,4,11:27,,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0651,4,09:14,,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0651,4,09:14,,84.0,OKC,85.0,D. Bazley,OKC,Bazley Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0651,4,07:40,,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0651,4,07:34,,,OKC,,D. Bazley,OKC,MISS Bazley 27' 3PT Jump Shot,Missed Shot,Jump Shot,10,272,27,1,3.0,0.0,v
+S2223-G0651,4,06:16,,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0651,4,05:08,,93.0,OKC,101.0,D. Bazley,OKC,Bazley 1' Cutting Dunk Shot (4 PTS) (Giddey 8 AST),Made Shot,Cutting Dunk Shot,9,1,1,1,2.0,2.0,v
+S2223-G0651,4,03:41,,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0651,4,01:44,,100.0,OKC,110.0,D. Bazley,OKC,Bazley 2' Dunk (6 PTS) (Giddey 9 AST),Made Shot,Dunk Shot,18,-2,2,1,2.0,2.0,v
+S2223-G0702,2,09:45,DEN,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0702,2,07:08,DEN,,OKC,,D. Bazley,OKC,Bazley S.FOUL (P1.T3) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0702,2,05:45,DEN,,OKC,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0702,2,04:49,DEN,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0702,2,02:50,DEN,,OKC,,D. Bazley,OKC,SUB: Muscala FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0702,4,10:59,DEN,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0702,4,06:34,DEN,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0702,4,06:06,DEN,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0702,4,05:40,DEN,,OKC,,D. Bazley,OKC,SUB: K. Williams FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0702,4,00:30.200000,DEN,,OKC,,D. Bazley,OKC,SUB: Jal. Williams FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0041,1,01:22,OKC,,MIN,,D. Bazley,OKC,SUB: Dieng FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0041,3,01:44,OKC,,MIN,,D. Bazley,OKC,MISS Bazley 1' Driving Layup,Missed Shot,Driving Layup Shot,-6,8,1,1,2.0,0.0,h
+S2223-G0105,1,05:00,OKC,,ORL,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0105,1,02:17,OKC,,ORL,,D. Bazley,OKC,Bazley REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0105,1,00:27.800000,OKC,33.0,ORL,29.0,D. Bazley,OKC,Bazley 2' Driving Layup (2 PTS) (Giddey 4 AST),Made Shot,Driving Layup Shot,17,-2,2,1,2.0,2.0,h
+S2223-G0105,1,00:27.800000,OKC,,ORL,,D. Bazley,OKC,MISS Bazley Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0105,2,11:28,OKC,,ORL,,D. Bazley,OKC,Bazley STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0105,2,11:26,OKC,38.0,ORL,32.0,D. Bazley,OKC,Bazley 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,0,-7,1,1,2.0,2.0,h
+S2223-G0105,2,09:21,OKC,,ORL,,D. Bazley,OKC,SUB: Mann FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0105,2,05:11,OKC,,ORL,,D. Bazley,OKC,MISS Bazley 1' Layup,Missed Shot,Layup Shot,-4,6,1,1,2.0,0.0,h
+S2223-G0105,2,05:06,OKC,,ORL,,D. Bazley,OKC,Bazley REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0105,2,05:06,OKC,,ORL,,D. Bazley,OKC,MISS Bazley Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0105,2,03:15,OKC,,ORL,,D. Bazley,OKC,Bazley S.FOUL (P1.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2223-G0105,2,02:43,OKC,,ORL,,D. Bazley,OKC,MISS Bazley 2' Layup,Missed Shot,Layup Shot,-18,3,2,1,2.0,0.0,h
+S2223-G0105,2,01:11,OKC,,ORL,,D. Bazley,OKC,Bazley Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0105,2,01:07,OKC,,ORL,,D. Bazley,OKC,SUB: Robinson-Earl FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0105,3,10:35,OKC,,ORL,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0105,3,10:00,OKC,,ORL,,D. Bazley,OKC,SUB: Pokusevski FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0105,4,06:45,OKC,,ORL,,D. Bazley,OKC,Bazley REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0105,4,06:13,OKC,,ORL,,D. Bazley,OKC,SUB: Mann FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0739,2,11:18,OKC,,CLE,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0739,2,10:56,OKC,29.0,CLE,27.0,D. Bazley,OKC,Bazley 14' Jump Shot (2 PTS) (Dieng 1 AST),Made Shot,Jump Shot,137,3,14,1,2.0,2.0,h
+S2223-G0739,2,09:36,OKC,32.0,CLE,27.0,D. Bazley,OKC,Bazley 27' 3PT Jump Shot (5 PTS) (Mann 1 AST),Made Shot,Jump Shot,108,243,27,1,3.0,3.0,h
+S2223-G0739,2,06:24,OKC,,CLE,,D. Bazley,OKC,MISS Bazley 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,29,22,4,1,2.0,0.0,h
+S2223-G0739,2,06:12,OKC,,CLE,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0739,2,05:29,OKC,34.0,CLE,37.0,D. Bazley,OKC,Bazley Cutting Dunk Shot (7 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Cutting Dunk Shot,2,3,0,1,2.0,2.0,h
+S2223-G0739,2,03:52,OKC,,CLE,,D. Bazley,OKC,SUB: Jay. Williams FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0739,4,11:26,OKC,,CLE,,D. Bazley,OKC,MISS Bazley 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,10,1,1,2.0,0.0,h
+S2223-G0739,4,10:17,OKC,,CLE,,D. Bazley,OKC,MISS Bazley 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-87,123,15,1,2.0,0.0,h
+S2223-G0739,4,08:45,OKC,,CLE,,D. Bazley,OKC,Bazley STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0739,4,08:34,OKC,84.0,CLE,81.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0739,4,08:34,OKC,85.0,CLE,81.0,D. Bazley,OKC,Bazley Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0739,4,07:49,OKC,,CLE,,D. Bazley,OKC,MISS Bazley 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,61,50,8,1,2.0,0.0,h
+S2223-G0739,4,05:44,OKC,,CLE,,D. Bazley,OKC,SUB: Jal. Williams FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0390,1,02:05,CLE,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0390,2,09:57,CLE,,OKC,,D. Bazley,OKC,MISS Bazley 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-114,40,12,1,2.0,0.0,v
+S2223-G0390,2,08:17,CLE,,OKC,,D. Bazley,OKC,MISS Bazley 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-7,15,2,1,2.0,0.0,v
+S2223-G0390,2,08:04,CLE,,OKC,,D. Bazley,OKC,Bazley P.FOUL (P1.T1) (D.Mosher),Foul,Personal,0,0,0,0,,,v
+S2223-G0390,2,08:02,CLE,,OKC,,D. Bazley,OKC,Bazley P.FOUL (P2.T2) (R.Acosta),Foul,Personal,0,0,0,0,,,v
+S2223-G0390,2,07:36,CLE,35.0,OKC,30.0,D. Bazley,OKC,Bazley 3PT Jump Shot (3 PTS) (Mann 1 AST),Made Shot,Jump Shot,230,29,0,1,3.0,3.0,v
+S2223-G0390,2,07:06,CLE,,OKC,,D. Bazley,OKC,MISS Bazley 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,11,24,1,3.0,0.0,v
+S2223-G0390,2,06:34,CLE,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0390,2,05:53,CLE,40.0,OKC,32.0,D. Bazley,OKC,Bazley 3' Driving Dunk (5 PTS) (Jal. Williams 1 AST),Made Shot,Driving Dunk Shot,1,32,3,1,2.0,2.0,v
+S2223-G0390,2,03:44,CLE,,OKC,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0390,2,03:06,CLE,,OKC,,D. Bazley,OKC,SUB: Giddey FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0390,3,02:22,CLE,,OKC,,D. Bazley,OKC,MISS Bazley 1' Driving Layup,Missed Shot,Driving Layup Shot,10,11,1,1,2.0,0.0,v
+S2223-G0390,3,01:47,CLE,80.0,OKC,67.0,D. Bazley,OKC,Bazley 24' 3PT Jump Shot (8 PTS) (Pokusevski 2 AST),Made Shot,Jump Shot,-239,-1,24,1,3.0,3.0,v
+S2223-G0390,4,11:32,CLE,,OKC,,D. Bazley,OKC,Bazley S.FOUL (P3.T1) (D.Mosher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0390,4,10:45,CLE,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0390,4,10:25,CLE,,OKC,,D. Bazley,OKC,Bazley P.FOUL (P4.T2) (D.Mosher),Foul,Personal,0,0,0,0,,,v
+S2223-G0390,4,06:52,CLE,,OKC,,D. Bazley,OKC,Bazley P.FOUL (P5.T3) (R.Acosta),Foul,Personal,0,0,0,0,,,v
+S2223-G0390,4,05:31,CLE,,OKC,,D. Bazley,OKC,Bazley STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0390,4,03:08,CLE,,OKC,,D. Bazley,OKC,SUB: Joe FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0168,1,02:07,OKC,,MIL,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0168,2,11:11,OKC,,MIL,,D. Bazley,OKC,SUB: Robinson-Earl FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0304,2,11:41,NOP,34.0,OKC,27.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0304,2,11:41,NOP,34.0,OKC,28.0,D. Bazley,OKC,Bazley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0304,2,11:22,NOP,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0304,2,10:13,NOP,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0304,2,09:44,NOP,,OKC,,D. Bazley,OKC,MISS Bazley 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-141,71,16,1,2.0,0.0,v
+S2223-G0304,2,07:25,NOP,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0304,2,07:14,NOP,,OKC,,D. Bazley,OKC,Bazley Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0304,2,06:54,NOP,,OKC,,D. Bazley,OKC,MISS Bazley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-126,231,26,1,3.0,0.0,v
+S2223-G0304,2,06:48,NOP,,OKC,,D. Bazley,OKC,SUB: Giddey FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0488,1,01:54,OKC,,NOP,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0488,1,00:44.700000,OKC,,NOP,,D. Bazley,OKC,SUB: Waters III FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0010,1,02:38,MIN,,OKC,,D. Bazley,OKC,MISS Bazley 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,31,17,4,1,2.0,0.0,v
+S2223-G0010,1,01:40,MIN,,OKC,,D. Bazley,OKC,MISS Bazley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0010,1,01:40,MIN,29.0,OKC,20.0,D. Bazley,OKC,Bazley Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0010,1,00:49.400000,MIN,29.0,OKC,22.0,D. Bazley,OKC,Bazley 1' Running Alley Oop Dunk Shot (3 PTS) (Jal. Williams 1 AST),Made Shot,Running Alley Oop Dunk Shot,-2,10,1,1,2.0,2.0,v
+S2223-G0010,2,11:27,MIN,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0010,2,10:42,MIN,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0010,2,09:36,MIN,40.0,OKC,33.0,D. Bazley,OKC,Bazley 25' 3PT Jump Shot (6 PTS) (Giddey 1 AST),Made Shot,Jump Shot,-202,146,25,1,3.0,3.0,v
+S2223-G0010,2,09:10,MIN,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0010,2,08:57,MIN,,OKC,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0010,2,08:26,MIN,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0010,2,08:26,MIN,,OKC,,D. Bazley,OKC,MISS Bazley Putback Layup,Missed Shot,Putback Layup Shot,-1,0,0,1,2.0,0.0,v
+S2223-G0010,2,06:17,MIN,48.0,OKC,37.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0010,2,06:17,MIN,,OKC,,D. Bazley,OKC,MISS Bazley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0010,2,05:47,MIN,,OKC,,D. Bazley,OKC,SUB: Jal. Williams FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0010,3,00:40.200000,MIN,,OKC,,D. Bazley,OKC,Bazley Violation:Kicked Ball (M.Ervin),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0010,3,00:11.100000,MIN,,OKC,,D. Bazley,OKC,SUB: Muscala FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0010,4,11:44,MIN,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0010,4,11:34,MIN,,OKC,,D. Bazley,OKC,MISS Bazley 3' Driving Layup,Missed Shot,Driving Layup Shot,-10,29,3,1,2.0,0.0,v
+S2223-G0010,4,09:58,MIN,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0010,4,08:10,MIN,,OKC,,D. Bazley,OKC,SUB: Pokusevski FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0067,1,05:00,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0067,1,04:21,OKC,,LAC,,D. Bazley,OKC,MISS Bazley 3' Driving Layup,Missed Shot,Driving Layup Shot,-7,34,3,1,2.0,0.0,h
+S2223-G0067,1,04:01,OKC,,LAC,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0067,1,03:58,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0067,1,03:15,OKC,27.0,LAC,12.0,D. Bazley,OKC,Bazley 24' 3PT Jump Shot (3 PTS) (Dort 3 AST),Made Shot,Jump Shot,-234,38,24,1,3.0,3.0,h
+S2223-G0067,1,01:36,OKC,,LAC,,D. Bazley,OKC,Bazley Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0067,2,10:56,OKC,39.0,LAC,26.0,D. Bazley,OKC,Bazley 4' Driving Layup (5 PTS) (K. Williams 1 AST),Made Shot,Driving Layup Shot,-29,22,4,1,2.0,2.0,h
+S2223-G0067,2,10:22,OKC,,LAC,,D. Bazley,OKC,Bazley BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0067,2,09:52,OKC,,LAC,,D. Bazley,OKC,MISS Bazley 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-124,136,18,1,2.0,0.0,h
+S2223-G0067,2,08:37,OKC,,LAC,,D. Bazley,OKC,MISS Bazley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-48,260,26,1,3.0,0.0,h
+S2223-G0067,2,08:21,OKC,,LAC,,D. Bazley,OKC,Bazley BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0067,2,08:07,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0067,2,05:52,OKC,,LAC,,D. Bazley,OKC,SUB: Robinson-Earl FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0067,3,05:35,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0067,3,04:00,OKC,,LAC,,D. Bazley,OKC,MISS Bazley 2' Layup,Missed Shot,Layup Shot,-20,1,2,1,2.0,0.0,h
+S2223-G0067,3,02:24,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0067,3,02:14,OKC,,LAC,,D. Bazley,OKC,MISS Bazley 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-23,9,2,1,2.0,0.0,h
+S2223-G0067,3,02:14,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0067,3,02:14,OKC,85.0,LAC,79.0,D. Bazley,OKC,Bazley Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0067,3,00:58.200000,OKC,89.0,LAC,84.0,D. Bazley,OKC,Bazley 3' Cutting Dunk Shot (9 PTS) (Dieng 1 AST),Made Shot,Cutting Dunk Shot,21,26,3,1,2.0,2.0,h
+S2223-G0067,4,10:23,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0067,4,10:06,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0067,4,09:48,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0067,4,06:43,OKC,,LAC,,D. Bazley,OKC,SUB: Pokusevski FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0319,3,04:02,OKC,,SAS,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0319,3,02:02,OKC,,SAS,,D. Bazley,OKC,MISS Bazley 4' Driving Layup,Missed Shot,Driving Layup Shot,-31,31,4,1,2.0,0.0,h
+S2223-G0319,4,10:38,OKC,,SAS,,D. Bazley,OKC,Bazley Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0319,4,09:34,OKC,,SAS,,D. Bazley,OKC,MISS Bazley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0319,4,09:34,OKC,96.0,SAS,98.0,D. Bazley,OKC,Bazley Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0319,4,07:35,OKC,,SAS,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0319,4,06:13,OKC,,SAS,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0319,4,02:58,OKC,,SAS,,D. Bazley,OKC,SUB: Robinson-Earl FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0319,4,00:16.500000,OKC,,SAS,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0319,4,00:15.700000,OKC,,SAS,,D. Bazley,OKC,SUB: Giddey FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0636,2,09:26,CHI,,OKC,,D. Bazley,OKC,MISS Bazley 8' Floating Jump Shot,Missed Shot,Floating Jump shot,-1,78,8,1,2.0,0.0,v
+S2223-G0636,2,09:03,CHI,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0636,2,09:00,CHI,42.0,OKC,37.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0636,2,09:00,CHI,42.0,OKC,38.0,D. Bazley,OKC,Bazley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0636,2,08:36,CHI,44.0,OKC,41.0,D. Bazley,OKC,Bazley 26' 3PT Jump Shot (5 PTS) (Giddey 3 AST),Made Shot,Jump Shot,115,228,26,1,3.0,3.0,v
+S2223-G0636,2,07:12,CHI,46.0,OKC,48.0,D. Bazley,OKC,Bazley Cutting Layup Shot (7 PTS) (Wiggins 1 AST),Made Shot,Cutting Layup Shot,-1,4,0,1,2.0,2.0,v
+S2223-G0636,2,06:05,CHI,,OKC,,D. Bazley,OKC,MISS Bazley 3' Driving Layup,Missed Shot,Driving Layup Shot,20,18,3,1,2.0,0.0,v
+S2223-G0636,2,05:57,CHI,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0636,2,05:28,CHI,48.0,OKC,52.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0636,2,05:28,CHI,,OKC,,D. Bazley,OKC,MISS Bazley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0636,2,04:23,CHI,,OKC,,D. Bazley,OKC,MISS Bazley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0636,2,04:23,CHI,52.0,OKC,55.0,D. Bazley,OKC,Bazley Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0636,2,03:57,CHI,52.0,OKC,57.0,D. Bazley,OKC,Bazley 1' Running Layup (11 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Running Layup Shot,5,12,1,1,2.0,2.0,v
+S2223-G0636,2,02:14,CHI,,OKC,,D. Bazley,OKC,SUB: K. Williams FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0636,4,10:40,CHI,,OKC,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0636,4,10:00,CHI,,OKC,,D. Bazley,OKC,Bazley Violation:Kicked Ball (D.Taylor),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0636,4,08:17,CHI,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0636,4,08:17,CHI,,OKC,,D. Bazley,OKC,MISS Bazley Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0636,4,07:59,CHI,94.0,OKC,99.0,D. Bazley,OKC,Bazley 1' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,5,5,1,1,2.0,2.0,v
+S2223-G0636,4,07:59,CHI,94.0,OKC,100.0,D. Bazley,OKC,Bazley Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0636,4,07:51,CHI,,OKC,,D. Bazley,OKC,Bazley STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0636,4,05:39,CHI,,OKC,,D. Bazley,OKC,Bazley STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0636,4,03:47,CHI,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0636,4,03:30,CHI,,OKC,,D. Bazley,OKC,MISS Bazley 26' 3PT Jump Shot,Missed Shot,Jump Shot,13,256,26,1,3.0,0.0,v
+S2223-G0636,4,01:58,CHI,,OKC,,D. Bazley,OKC,Bazley STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0773,2,10:18,HOU,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0773,2,09:34,HOU,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0773,2,08:30,HOU,,OKC,,D. Bazley,OKC,Bazley Violation:Kicked Ball (S.Wall),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0773,2,06:31,HOU,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0773,2,06:31,HOU,,OKC,,D. Bazley,OKC,MISS Bazley Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,v
+S2223-G0773,2,06:04,HOU,,OKC,,D. Bazley,OKC,Bazley S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0773,2,05:51,HOU,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0773,2,05:29,HOU,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0773,2,04:34,HOU,,OKC,,D. Bazley,OKC,MISS Bazley 26' 3PT Jump Shot,Missed Shot,Jump Shot,162,200,26,1,3.0,0.0,v
+S2223-G0773,2,04:27,HOU,,OKC,,D. Bazley,OKC,SUB: Jal. Williams FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0773,3,00:03.100000,HOU,,OKC,,D. Bazley,OKC,SUB: Mann FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0773,4,11:44,HOU,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0773,4,10:06,HOU,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0773,4,08:53,HOU,93.0,OKC,91.0,D. Bazley,OKC,Bazley 2' Running Alley Oop Layup Shot (2 PTS) (Giddey 8 AST),Made Shot,Running Alley Oop Layup Shot,-12,18,2,1,2.0,2.0,v
+S2223-G0773,4,06:26,HOU,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0773,4,06:26,HOU,,OKC,,D. Bazley,OKC,MISS Bazley 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,-23,23,3,1,2.0,0.0,v
+S2223-G0773,4,05:21,HOU,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0773,4,05:07,HOU,,OKC,,D. Bazley,OKC,MISS Bazley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0773,4,05:07,HOU,100.0,OKC,96.0,D. Bazley,OKC,Bazley Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0773,4,04:46,HOU,,OKC,,D. Bazley,OKC,SUB: K. Williams FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0725,2,09:38,OKC,,ATL,,D. Bazley,OKC,MISS Bazley 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-18,122,12,1,2.0,0.0,h
+S2223-G0725,2,06:54,OKC,,ATL,,D. Bazley,OKC,Bazley P.FOUL (P1.T2) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0725,2,05:44,OKC,52.0,ATL,54.0,D. Bazley,OKC,Bazley 14' Jump Shot (2 PTS) (Dort 2 AST),Made Shot,Jump Shot,-137,11,14,1,2.0,2.0,h
+S2223-G0725,2,05:02,OKC,,ATL,,D. Bazley,OKC,SUB: K. Williams FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0725,4,01:42,OKC,124.0,ATL,131.0,D. Bazley,OKC,Bazley 2' Reverse Layup (4 PTS) (Jal. Williams 2 AST),Made Shot,Reverse Layup Shot,-12,18,2,1,2.0,2.0,h
+S2223-G0725,4,01:42,OKC,,ATL,,D. Bazley,OKC,MISS Bazley Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0725,4,00:59.900000,OKC,,ATL,,D. Bazley,OKC,SUB: Giddey FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0725,4,00:14.500000,OKC,,ATL,,D. Bazley,OKC,SUB: Joe FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0119,1,02:56,OKC,,DEN,,D. Bazley,OKC,MISS Bazley 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-44,120,13,1,2.0,0.0,h
+S2223-G0119,1,02:41,OKC,,DEN,,D. Bazley,OKC,Bazley STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0119,1,02:17,OKC,,DEN,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0119,1,01:22,OKC,,DEN,,D. Bazley,OKC,MISS Bazley 25' 3PT Jump Shot,Missed Shot,Jump Shot,60,247,25,1,3.0,0.0,h
+S2223-G0119,1,00:23.100000,OKC,,DEN,,D. Bazley,OKC,MISS Bazley 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-21,-1,2,1,2.0,0.0,h
+S2223-G0119,3,10:19,OKC,,DEN,,D. Bazley,OKC,Bazley REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0119,3,10:19,OKC,,DEN,,D. Bazley,OKC,MISS Bazley Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,h
+S2223-G0119,3,10:19,OKC,,DEN,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0119,3,08:48,OKC,,DEN,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0119,3,06:05,OKC,,DEN,,D. Bazley,OKC,SUB: J. Williams FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0119,4,10:51,OKC,,DEN,,D. Bazley,OKC,Bazley S.FOUL (P1.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0119,4,10:37,OKC,,DEN,,D. Bazley,OKC,Bazley REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0119,4,10:35,OKC,,DEN,,D. Bazley,OKC,Bazley Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0119,4,10:25,OKC,99.0,DEN,98.0,D. Bazley,OKC,Bazley 1' Cutting Dunk Shot (2 PTS) (Dort 1 AST),Made Shot,Cutting Dunk Shot,-5,8,1,1,2.0,2.0,h
+S2223-G0119,4,08:49,OKC,,DEN,,D. Bazley,OKC,Bazley REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0119,4,08:07,OKC,,DEN,,D. Bazley,OKC,Bazley P.FOUL (P2.T2) (L.Holtkamp),Foul,Personal,0,0,0,0,,,h
+S2223-G0119,4,08:07,OKC,,DEN,,D. Bazley,OKC,SUB: Muscala FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0545,2,07:46,OKC,,PHI,,D. Bazley,OKC,MISS Bazley 9' Driving Layup,Missed Shot,Driving Layup Shot,-4,85,9,1,2.0,0.0,h
+S2223-G0545,2,04:44,OKC,,PHI,,D. Bazley,OKC,MISS Bazley 1' Driving Layup,Missed Shot,Driving Layup Shot,2,9,1,1,2.0,0.0,h
+S2223-G0545,2,04:37,OKC,,PHI,,D. Bazley,OKC,SUB: Dort FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0545,4,08:35,OKC,,PHI,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0545,4,08:27,OKC,78.0,PHI,96.0,D. Bazley,OKC,Bazley 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-10,17,2,1,2.0,2.0,h
+S2223-G0545,4,07:55,OKC,81.0,PHI,99.0,D. Bazley,OKC,Bazley 3PT Jump Shot (5 PTS) (Mann 1 AST),Made Shot,Jump Shot,228,25,0,1,3.0,3.0,h
+S2223-G0545,4,07:22,OKC,,PHI,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0545,4,07:22,OKC,,PHI,,D. Bazley,OKC,MISS Bazley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0545,4,07:22,OKC,82.0,PHI,99.0,D. Bazley,OKC,Bazley Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0545,4,06:41,OKC,,PHI,,D. Bazley,OKC,Bazley Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0545,4,05:49,OKC,,PHI,,D. Bazley,OKC,Bazley Out of Bounds - Bad Pass Turnover Turnover (P2.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0545,4,05:07,OKC,,PHI,,D. Bazley,OKC,SUB: Mann FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G1092,2,08:49,LAL,,PHX,,D. Bazley,PHX,Bazley STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1092,2,08:47,LAL,,PHX,,D. Bazley,PHX,Bazley Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G1092,2,08:15,LAL,,PHX,,D. Bazley,PHX,Bazley S.FOUL (P1.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G1092,2,08:15,LAL,,PHX,,D. Bazley,PHX,SUB: Craig FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0990,2,10:09,PHX,,OKC,,D. Bazley,PHX,Bazley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0990,2,06:58,PHX,,OKC,,D. Bazley,PHX,MISS Bazley 6' Driving Layup,Missed Shot,Driving Layup Shot,38,46,6,1,2.0,0.0,h
+S2223-G0990,2,06:42,PHX,,OKC,,D. Bazley,PHX,Bazley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0990,2,05:50,PHX,,OKC,,D. Bazley,PHX,SUB: Okogie FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0990,4,04:40,PHX,,OKC,,D. Bazley,PHX,MISS Bazley 5' Jump Shot,Missed Shot,Jump Shot,-9,51,5,1,2.0,0.0,h
+S2223-G0990,4,04:29,PHX,,OKC,,D. Bazley,PHX,Bazley REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0990,4,04:18,PHX,,OKC,,D. Bazley,PHX,MISS Bazley 3PT Jump Shot,Missed Shot,Jump Shot,-229,9,0,1,3.0,0.0,h
+S2223-G0990,4,03:05,PHX,,OKC,,D. Bazley,PHX,Bazley S.FOUL (P1.T4) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0990,4,02:53,PHX,130.0,OKC,97.0,D. Bazley,PHX,Bazley 3PT Jump Shot (3 PTS) (D. Lee 1 AST),Made Shot,Jump Shot,232,9,0,1,3.0,3.0,h
+S2223-G0990,4,01:04,PHX,,OKC,,D. Bazley,PHX,MISS Bazley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-147,213,26,1,3.0,0.0,h
+S2223-G0990,4,00:37,PHX,,OKC,,D. Bazley,PHX,Bazley Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1212,3,08:36,LAL,,PHX,,D. Bazley,PHX,Bazley STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1212,3,07:31,LAL,72.0,PHX,70.0,D. Bazley,PHX,Bazley 7' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,-62,34,7,1,2.0,2.0,v
+S2223-G1212,3,07:03,LAL,,PHX,,D. Bazley,PHX,MISS Bazley 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,36,13,4,1,2.0,0.0,v
+S2223-G1212,3,06:30,LAL,,PHX,,D. Bazley,PHX,Bazley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1212,3,04:28,LAL,,PHX,,D. Bazley,PHX,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1212,3,03:57,LAL,,PHX,,D. Bazley,PHX,Bazley S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G1212,3,03:46,LAL,,PHX,,D. Bazley,PHX,MISS Bazley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-64,253,26,1,3.0,0.0,v
+S2223-G1212,3,02:31,LAL,87.0,PHX,85.0,D. Bazley,PHX,Bazley Cutting Dunk Shot (4 PTS) (Ross 3 AST),Made Shot,Cutting Dunk Shot,1,2,0,1,2.0,2.0,v
+S2223-G1212,3,01:53,LAL,,PHX,,D. Bazley,PHX,Bazley Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1212,3,01:53,LAL,,PHX,,D. Bazley,PHX,Bazley P.FOUL (P2.T3) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G1212,3,01:53,LAL,,PHX,,D. Bazley,PHX,SUB: Shamet FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0950,2,11:46,CHI,,PHX,,D. Bazley,PHX,Bazley S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0950,2,11:44,CHI,,PHX,,D. Bazley,PHX,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0950,2,11:10,CHI,,PHX,,D. Bazley,PHX,Bazley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0950,2,10:43,CHI,,PHX,,D. Bazley,PHX,Bazley P.FOUL (P2.T2) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0950,2,09:55,CHI,,PHX,,D. Bazley,PHX,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0950,2,09:43,CHI,,PHX,,D. Bazley,PHX,Bazley STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0950,2,09:30,CHI,,PHX,,D. Bazley,PHX,MISS Bazley 25' 3PT Jump Shot,Missed Shot,Jump Shot,-72,235,25,1,3.0,0.0,v
+S2223-G0950,2,08:46,CHI,36.0,PHX,48.0,D. Bazley,PHX,Bazley Cutting Dunk Shot (2 PTS) (Payne 2 AST),Made Shot,Cutting Dunk Shot,-4,-2,0,1,2.0,2.0,v
+S2223-G0950,2,06:46,CHI,,PHX,,D. Bazley,PHX,Bazley S.FOUL (P3.T4) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0950,2,06:46,CHI,,PHX,,D. Bazley,PHX,SUB: Booker FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0950,4,01:08,CHI,,PHX,,D. Bazley,PHX,Bazley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0511,1,09:11,OKC,,SAS,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0511,1,08:32,OKC,15.0,SAS,8.0,D. Bazley,OKC,Bazley 3' Cutting Dunk Shot (2 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Cutting Dunk Shot,16,24,3,1,2.0,2.0,h
+S2223-G0511,1,07:56,OKC,,SAS,,D. Bazley,OKC,Bazley Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0511,1,07:02,OKC,,SAS,,D. Bazley,OKC,Bazley Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0511,1,02:28,OKC,29.0,SAS,29.0,D. Bazley,OKC,Bazley 3PT Jump Shot (5 PTS) (Muscala 1 AST),Made Shot,Jump Shot,-225,26,0,1,3.0,3.0,h
+S2223-G0511,1,01:51,OKC,,SAS,,D. Bazley,OKC,SUB: Wiggins FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0511,2,11:44,OKC,,SAS,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0511,2,09:27,OKC,46.0,SAS,37.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0511,2,09:27,OKC,,SAS,,D. Bazley,OKC,MISS Bazley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0511,2,09:10,OKC,,SAS,,D. Bazley,OKC,Bazley P.FOUL (P1.T1) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2223-G0511,2,05:52,OKC,,SAS,,D. Bazley,OKC,SUB: Muscala FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0511,3,04:43,OKC,,SAS,,D. Bazley,OKC,MISS Bazley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0511,3,04:43,OKC,,SAS,,D. Bazley,OKC,MISS Bazley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0511,3,04:15,OKC,,SAS,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0511,3,04:10,OKC,,SAS,,D. Bazley,OKC,MISS Bazley 28' 3PT Jump Shot,Missed Shot,Jump Shot,-162,223,28,1,3.0,0.0,h
+S2223-G0511,3,03:56,OKC,,SAS,,D. Bazley,OKC,MISS Bazley 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,185,-9,19,1,2.0,0.0,h
+S2223-G0511,3,03:19,OKC,,SAS,,D. Bazley,OKC,SUB: Muscala FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0511,4,01:16,OKC,,SAS,,D. Bazley,OKC,MISS Bazley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0511,4,01:16,OKC,127.0,SAS,110.0,D. Bazley,OKC,Bazley Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0287,2,07:25,HOU,,OKC,,D. Bazley,OKC,SUB: J. Williams FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0287,3,06:22,HOU,,OKC,,D. Bazley,OKC,Bazley OFF.Foul (P1) (C.Kirkland),Foul,Offensive,0,0,0,0,,,v
+S2223-G0287,3,06:22,HOU,,OKC,,D. Bazley,OKC,Bazley Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0287,3,04:46,HOU,,OKC,,D. Bazley,OKC,Bazley Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0287,3,04:07,HOU,,OKC,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0287,3,03:47,HOU,,OKC,,D. Bazley,OKC,SUB: Dieng FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0268,1,00:01.600000,OKC,,DEN,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0268,2,10:17,OKC,25.0,DEN,42.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0268,2,10:17,OKC,,DEN,,D. Bazley,OKC,MISS Bazley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0268,2,09:32,OKC,,DEN,,D. Bazley,OKC,MISS Bazley 1' Dunk,Missed Shot,Dunk Shot,-4,6,1,1,2.0,0.0,h
+S2223-G0268,2,08:17,OKC,,DEN,,D. Bazley,OKC,MISS Bazley 3' Driving Layup,Missed Shot,Driving Layup Shot,25,15,3,1,2.0,0.0,h
+S2223-G0268,2,07:58,OKC,,DEN,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0268,2,07:27,OKC,,DEN,,D. Bazley,OKC,Bazley S.FOUL (P1.T2) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G0268,2,07:25,OKC,,DEN,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0268,2,05:44,OKC,,DEN,,D. Bazley,OKC,SUB: Gilgeous-Alexander FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0268,4,09:29,OKC,,DEN,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0268,4,09:02,OKC,,DEN,,D. Bazley,OKC,SUB: Dort FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0268,5,00:08.300000,OKC,,DEN,,D. Bazley,OKC,SUB: Pokusevski FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0086,1,04:30,DAL,15.0,OKC,19.0,D. Bazley,OKC,Bazley 5' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,-4,47,5,1,2.0,2.0,v
+S2223-G0086,1,02:46,DAL,19.0,OKC,23.0,D. Bazley,OKC,Bazley 11' Floating Jump Shot (4 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Floating Jump shot,25,111,11,1,2.0,2.0,v
+S2223-G0086,1,01:31,DAL,,OKC,,D. Bazley,OKC,MISS Bazley 3PT Jump Shot,Missed Shot,Jump Shot,-227,-18,0,1,3.0,0.0,v
+S2223-G0086,1,00:12.100000,DAL,,OKC,,D. Bazley,OKC,SUB: Muscala FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0086,2,00:57.900000,DAL,,OKC,,D. Bazley,OKC,Bazley L.B.FOUL (P1.PN) (E.Malloy),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0086,2,00:04.600000,DAL,,OKC,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0086,2,00:04.600000,DAL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0086,2,00:00.900000,DAL,,OKC,,D. Bazley,OKC,Bazley Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0086,3,06:33,DAL,63.0,OKC,57.0,D. Bazley,OKC,Bazley 3' Cutting Layup Shot (6 PTS) (Dort 1 AST),Made Shot,Cutting Layup Shot,23,12,3,1,2.0,2.0,v
+S2223-G0086,3,06:12,DAL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0086,3,06:06,DAL,,OKC,,D. Bazley,OKC,MISS Bazley 3' Driving Layup,Missed Shot,Driving Layup Shot,16,20,3,1,2.0,0.0,v
+S2223-G0086,3,05:25,DAL,65.0,OKC,59.0,D. Bazley,OKC,Bazley 2' Dunk (8 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Dunk Shot,7,15,2,1,2.0,2.0,v
+S2223-G0086,3,03:05,DAL,69.0,OKC,66.0,D. Bazley,OKC,Bazley 8' Driving Layup (10 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Driving Layup Shot,-40,64,8,1,2.0,2.0,v
+S2223-G0086,3,02:36,DAL,69.0,OKC,68.0,D. Bazley,OKC,Bazley 2' Driving Dunk (12 PTS) (Gilgeous-Alexander 7 AST),Made Shot,Driving Dunk Shot,2,16,2,1,2.0,2.0,v
+S2223-G0086,3,02:13,DAL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0086,3,00:34.800000,DAL,,OKC,,D. Bazley,OKC,MISS Bazley 3PT Jump Shot,Missed Shot,Jump Shot,229,10,0,1,3.0,0.0,v
+S2223-G0086,4,05:51,DAL,,OKC,,D. Bazley,OKC,MISS Bazley 5' Layup,Missed Shot,Layup Shot,-21,42,5,1,2.0,0.0,v
+S2223-G0086,4,05:23,DAL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0086,4,03:57,DAL,97.0,OKC,82.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0086,4,03:57,DAL,,OKC,,D. Bazley,OKC,MISS Bazley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0086,4,03:18,DAL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0086,4,03:06,DAL,97.0,OKC,86.0,D. Bazley,OKC,Bazley 2' Layup (15 PTS) (Joe 1 AST),Made Shot,Layup Shot,-7,20,2,1,2.0,2.0,v
+S2223-G0086,4,01:31,DAL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0086,4,00:59,DAL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0086,4,00:48.800000,DAL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0086,5,01:32,DAL,,OKC,,D. Bazley,OKC,Bazley S.FOUL (P2.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0086,5,00:27.900000,DAL,,OKC,,D. Bazley,OKC,SUB: Joe FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0086,5,00:18.700000,DAL,,OKC,,D. Bazley,OKC,Bazley S.FOUL (P3.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0086,5,00:18.700000,DAL,,OKC,,D. Bazley,OKC,SUB: Muscala FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G1064,2,06:59,OKC,37.0,PHX,49.0,D. Bazley,PHX,Bazley 1' Cutting Dunk Shot (2 PTS) (Paul 6 AST),Made Shot,Cutting Dunk Shot,-4,-4,1,1,2.0,2.0,v
+S2223-G1064,2,06:50,OKC,,PHX,,D. Bazley,PHX,Bazley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1064,2,06:14,OKC,,PHX,,D. Bazley,PHX,MISS Bazley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1064,2,06:14,OKC,37.0,PHX,52.0,D. Bazley,PHX,Bazley Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1064,2,05:30,OKC,,PHX,,D. Bazley,PHX,SUB: Biyombo FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G1064,4,06:52,OKC,,PHX,,D. Bazley,PHX,SUB: Wainright FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0419,1,12:00,OKC,,MIA,,D. Bazley,OKC,Jump Ball Bazley vs. Adebayo: Tip to Gilgeous-Alexander,Jump Ball,,0,0,0,0,,,h
+S2223-G0419,1,09:40,OKC,,MIA,,D. Bazley,OKC,Bazley S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0419,1,08:39,OKC,7.0,MIA,8.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0419,1,08:39,OKC,,MIA,,D. Bazley,OKC,MISS Bazley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0419,1,06:40,OKC,,MIA,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0419,1,04:56,OKC,,MIA,,D. Bazley,OKC,Bazley P.FOUL (P2.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2223-G0419,1,04:47,OKC,,MIA,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0419,1,04:09,OKC,22.0,MIA,19.0,D. Bazley,OKC,Bazley 1' Dunk (3 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Dunk Shot,13,-7,1,1,2.0,2.0,h
+S2223-G0419,1,04:02,OKC,,MIA,,D. Bazley,OKC,Bazley STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0419,1,03:58,OKC,,MIA,,D. Bazley,OKC,MISS Bazley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0419,1,03:58,OKC,23.0,MIA,19.0,D. Bazley,OKC,Bazley Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0419,1,03:47,OKC,,MIA,,D. Bazley,OKC,SUB: Muscala FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0419,2,02:52,OKC,,MIA,,D. Bazley,OKC,SUB: Joe FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0419,3,11:34,OKC,,MIA,,D. Bazley,OKC,MISS Bazley 4' Layup,Missed Shot,Layup Shot,33,-13,4,1,2.0,0.0,h
+S2223-G0419,3,10:57,OKC,,MIA,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0419,3,10:26,OKC,,MIA,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0419,3,07:18,OKC,67.0,MIA,69.0,D. Bazley,OKC,Bazley 1' Layup (6 PTS) (Dort 2 AST),Made Shot,Layup Shot,-11,10,1,1,2.0,2.0,h
+S2223-G0419,3,07:18,OKC,68.0,MIA,69.0,D. Bazley,OKC,Bazley Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0419,3,06:46,OKC,70.0,MIA,72.0,D. Bazley,OKC,Bazley 12' Floating Jump Shot (9 PTS) (Giddey 6 AST),Made Shot,Floating Jump shot,12,116,12,1,2.0,2.0,h
+S2223-G0419,3,05:24,OKC,,MIA,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0419,3,04:43,OKC,74.0,MIA,77.0,D. Bazley,OKC,Bazley 1' Cutting Dunk Shot (11 PTS) (Giddey 7 AST),Made Shot,Cutting Dunk Shot,-2,12,1,1,2.0,2.0,h
+S2223-G0419,3,03:42,OKC,,MIA,,D. Bazley,OKC,SUB: Muscala FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0419,4,11:04,OKC,,MIA,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0419,4,10:47,OKC,87.0,MIA,86.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0419,4,10:47,OKC,,MIA,,D. Bazley,OKC,MISS Bazley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0419,4,10:12,OKC,,MIA,,D. Bazley,OKC,MISS Bazley 3' Layup,Missed Shot,Layup Shot,-1,27,3,1,2.0,0.0,h
+S2223-G0419,4,08:47,OKC,,MIA,,D. Bazley,OKC,SUB: Omoruyi FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0419,4,04:57,OKC,,MIA,,D. Bazley,OKC,MISS Bazley 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,82,151,17,1,2.0,0.0,h
+S2223-G0419,4,00:04.900000,OKC,,MIA,,D. Bazley,OKC,SUB: Muscala FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0136,1,04:51,MIL,,OKC,,D. Bazley,OKC,Bazley Violation:Kicked Ball (J.Sterling),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0136,1,02:46,MIL,24.0,OKC,32.0,D. Bazley,OKC,Bazley 25' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Jump Shot,-22,248,25,1,3.0,3.0,v
+S2223-G0136,1,02:15,MIL,,OKC,,D. Bazley,OKC,MISS Bazley 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-36,21,4,1,2.0,0.0,v
+S2223-G0136,1,02:07,MIL,,OKC,,D. Bazley,OKC,Bazley P.FOUL (P1.T1) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2223-G0136,1,01:13,MIL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0136,1,01:13,MIL,,OKC,,D. Bazley,OKC,MISS Bazley Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0136,1,00:58.600000,MIL,,OKC,,D. Bazley,OKC,SUB: K. Williams FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0136,3,07:33,MIL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0136,3,07:22,MIL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0136,3,05:17,MIL,,OKC,,D. Bazley,OKC,MISS Bazley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-126,222,26,1,3.0,0.0,v
+S2223-G0136,3,02:35,MIL,90.0,OKC,73.0,D. Bazley,OKC,Bazley 24' 3PT Jump Shot (6 PTS) (Dieng 4 AST),Made Shot,Jump Shot,238,52,24,1,3.0,3.0,v
+S2223-G0136,3,01:27,MIL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0136,3,00:35.200000,MIL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0136,4,10:26,MIL,,OKC,,D. Bazley,OKC,Bazley STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0136,4,10:22,MIL,95.0,OKC,85.0,D. Bazley,OKC,Bazley 1' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,-4,8,1,1,2.0,2.0,v
+S2223-G0136,4,09:53,MIL,,OKC,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0136,4,07:54,MIL,,OKC,,D. Bazley,OKC,MISS Bazley 27' 3PT Jump Shot,Missed Shot,Jump Shot,27,266,27,1,3.0,0.0,v
+S2223-G0136,4,06:41,MIL,,OKC,,D. Bazley,OKC,Bazley STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0136,4,05:08,MIL,,OKC,,D. Bazley,OKC,SUB: Jay. Williams FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0674,1,00:00.200000,OKC,,IND,,D. Bazley,OKC,MISS Bazley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0674,1,00:00.200000,OKC,36.0,IND,20.0,D. Bazley,OKC,Bazley Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0674,2,11:00,OKC,,IND,,D. Bazley,OKC,MISS Bazley 5' Driving Layup,Missed Shot,Driving Layup Shot,-27,36,5,1,2.0,0.0,h
+S2223-G0674,2,09:03,OKC,,IND,,D. Bazley,OKC,Bazley Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0674,2,08:40,OKC,,IND,,D. Bazley,OKC,SUB: Dort FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0674,4,10:17,OKC,,IND,,D. Bazley,OKC,MISS Bazley 26' 3PT Jump Shot,Missed Shot,Jump Shot,136,221,26,1,3.0,0.0,h
+S2223-G0674,4,09:50,OKC,,IND,,D. Bazley,OKC,SUB: Jal. Williams FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0341,1,04:35,MIN,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0341,1,01:25,MIN,26.0,OKC,27.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0341,1,01:25,MIN,,OKC,,D. Bazley,OKC,MISS Bazley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0341,1,01:02,MIN,26.0,OKC,29.0,D. Bazley,OKC,Bazley 1' Running Alley Oop Dunk Shot (3 PTS) (Dieng 1 AST),Made Shot,Running Alley Oop Dunk Shot,-5,11,1,1,2.0,2.0,v
+S2223-G0341,1,00:01.900000,MIN,,OKC,,D. Bazley,OKC,MISS Bazley 1' Layup,Missed Shot,Layup Shot,10,10,1,1,2.0,0.0,v
+S2223-G0341,2,11:48,MIN,,OKC,,D. Bazley,OKC,MISS Bazley 1' Driving Layup,Missed Shot,Driving Layup Shot,13,7,1,1,2.0,0.0,v
+S2223-G0341,2,10:54,MIN,,OKC,,D. Bazley,OKC,Bazley Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0341,2,10:46,MIN,,OKC,,D. Bazley,OKC,Bazley STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0341,2,10:25,MIN,,OKC,,D. Bazley,OKC,SUB: Giddey FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0341,3,01:46,MIN,,OKC,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0341,3,00:54.600000,MIN,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0341,4,09:14,MIN,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0341,4,09:00,MIN,108.0,OKC,107.0,D. Bazley,OKC,Bazley 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,-5,19,2,1,2.0,2.0,v
+S2223-G0341,4,08:44,MIN,,OKC,,D. Bazley,OKC,SUB: Giddey FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G1229,1,02:35,PHX,26.0,LAC,16.0,D. Bazley,PHX,Bazley Alley Oop Dunk (2 PTS) (Ross 1 AST),Made Shot,Alley Oop Dunk Shot,1,0,0,1,2.0,2.0,h
+S2223-G1229,1,02:17,PHX,,LAC,,D. Bazley,PHX,Bazley S.FOUL (P1.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G1229,1,01:53,PHX,,LAC,,D. Bazley,PHX,Bazley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1229,1,01:50,PHX,,LAC,,D. Bazley,PHX,Bazley Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1229,1,00:25.800000,PHX,,LAC,,D. Bazley,PHX,Bazley REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1229,1,00:24.200000,PHX,,LAC,,D. Bazley,PHX,MISS Bazley 4' Putback Layup,Missed Shot,Putback Layup Shot,7,43,4,1,2.0,0.0,h
+S2223-G1229,1,00:03.400000,PHX,,LAC,,D. Bazley,PHX,Bazley REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1229,2,11:26,PHX,,LAC,,D. Bazley,PHX,MISS Bazley 8' Driving Layup,Missed Shot,Driving Layup Shot,27,79,8,1,2.0,0.0,h
+S2223-G1229,2,10:24,PHX,,LAC,,D. Bazley,PHX,MISS Bazley 25' 3PT Jump Shot,Missed Shot,Jump Shot,-44,242,25,1,3.0,0.0,h
+S2223-G1229,2,10:16,PHX,,LAC,,D. Bazley,PHX,Bazley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1229,2,09:05,PHX,,LAC,,D. Bazley,PHX,Bazley REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1229,2,08:04,PHX,,LAC,,D. Bazley,PHX,MISS Bazley 12' Jump Shot,Missed Shot,Jump Shot,27,117,12,1,2.0,0.0,h
+S2223-G1229,2,07:37,PHX,37.0,LAC,30.0,D. Bazley,PHX,Bazley 25' 3PT Jump Shot (5 PTS) (Ross 2 AST),Made Shot,Jump Shot,102,227,25,1,3.0,3.0,h
+S2223-G1229,2,07:03,PHX,,LAC,,D. Bazley,PHX,Bazley REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1229,2,06:25,PHX,,LAC,,D. Bazley,PHX,MISS Bazley 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-45,124,13,1,2.0,0.0,h
+S2223-G1229,2,06:19,PHX,,LAC,,D. Bazley,PHX,Bazley Violation:Defensive Goaltending (J.Tiven),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G1229,2,05:59,PHX,39.0,LAC,34.0,D. Bazley,PHX,Bazley Driving Dunk (7 PTS) (S. Lee 2 AST),Made Shot,Driving Dunk Shot,-1,1,0,1,2.0,2.0,h
+S2223-G1229,2,05:46,PHX,,LAC,,D. Bazley,PHX,Bazley REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1229,2,05:09,PHX,,LAC,,D. Bazley,PHX,Bazley Violation:Kicked Ball (J.Tiven),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G1229,2,05:09,PHX,,LAC,,D. Bazley,PHX,SUB: Landale FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G1229,3,03:28,PHX,76.0,LAC,69.0,D. Bazley,PHX,Bazley 2' Running Layup (9 PTS) (Okogie 2 AST),Made Shot,Running Layup Shot,-10,21,2,1,2.0,2.0,h
+S2223-G1229,3,01:06,PHX,,LAC,,D. Bazley,PHX,Bazley S.FOUL (P2.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G1229,4,11:29,PHX,,LAC,,D. Bazley,PHX,Bazley BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1229,4,06:46,PHX,100.0,LAC,100.0,D. Bazley,PHX,Bazley 4' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,-6,43,4,1,2.0,2.0,h
+S2223-G1229,4,06:46,PHX,,LAC,,D. Bazley,PHX,MISS Bazley Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1229,4,03:59,PHX,,LAC,,D. Bazley,PHX,Bazley REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1229,4,02:40,PHX,111.0,LAC,115.0,D. Bazley,PHX,Bazley 1' Driving Dunk (13 PTS) (S. Lee 10 AST),Made Shot,Driving Dunk Shot,-5,8,1,1,2.0,2.0,h
+S2223-G1229,4,01:29,PHX,,LAC,,D. Bazley,PHX,MISS Bazley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1229,4,01:29,PHX,112.0,LAC,117.0,D. Bazley,PHX,Bazley Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1229,4,01:10,PHX,,LAC,,D. Bazley,PHX,Bazley REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1229,4,01:03,PHX,,LAC,,D. Bazley,PHX,MISS Bazley 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-135,220,26,1,3.0,0.0,h
+S2223-G1229,4,00:45.600000,PHX,,LAC,,D. Bazley,PHX,Bazley REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1229,4,00:35.600000,PHX,114.0,LAC,117.0,D. Bazley,PHX,Bazley 1' Dunk (16 PTS) (Okogie 3 AST),Made Shot,Dunk Shot,2,13,1,1,2.0,2.0,h
+S2223-G0814,4,04:56,GSW,,OKC,,D. Bazley,OKC,Bazley Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0814,4,02:07,GSW,135.0,OKC,109.0,D. Bazley,OKC,Bazley 26' 3PT Jump Shot (3 PTS) (Waters III 1 AST),Made Shot,Jump Shot,-123,234,26,1,3.0,3.0,v
+S2223-G0814,4,01:30,GSW,,OKC,,D. Bazley,OKC,Bazley STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0405,1,02:45,DAL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0405,2,11:38,DAL,23.0,OKC,30.0,D. Bazley,OKC,Bazley Cutting Dunk Shot (2 PTS) (Williams 1 AST),Made Shot,Cutting Dunk Shot,-2,3,0,1,2.0,2.0,v
+S2223-G0405,2,10:09,DAL,,OKC,,D. Bazley,OKC,MISS Bazley 4' Driving Layup,Missed Shot,Driving Layup Shot,40,10,4,1,2.0,0.0,v
+S2223-G0405,2,08:37,DAL,,OKC,,D. Bazley,OKC,MISS Bazley 3PT Jump Shot,Missed Shot,Jump Shot,230,26,0,1,3.0,0.0,v
+S2223-G0405,2,08:21,DAL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0405,2,05:44,DAL,,OKC,,D. Bazley,OKC,MISS Bazley 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-2,24,1,3.0,0.0,v
+S2223-G0405,2,05:30,DAL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0405,2,04:20,DAL,,OKC,,D. Bazley,OKC,SUB: Joe FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0405,3,02:38,DAL,,OKC,,D. Bazley,OKC,MISS Bazley 25' 3PT Jump Shot,Missed Shot,Jump Shot,9,253,25,1,3.0,0.0,v
+S2223-G0405,3,01:14,DAL,,OKC,,D. Bazley,OKC,MISS Bazley 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,47,32,6,1,2.0,0.0,v
+S2223-G0405,3,00:40.600000,DAL,,OKC,,D. Bazley,OKC,SUB: Robinson-Earl FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0405,4,02:08,DAL,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0405,4,00:28.100000,DAL,119.0,OKC,114.0,D. Bazley,OKC,Bazley 1' Running Dunk (4 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Running Dunk Shot,0,11,1,1,2.0,2.0,v
+S2223-G0405,4,00:15.800000,DAL,,OKC,,D. Bazley,OKC,SUB: Pokusevski FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0281,2,11:42,OKC,34.0,CHI,30.0,D. Bazley,OKC,Bazley 3' Driving Layup (2 PTS) (Mann 2 AST),Made Shot,Driving Layup Shot,10,26,3,1,2.0,2.0,h
+S2223-G0281,2,11:23,OKC,,CHI,,D. Bazley,OKC,Bazley S.FOUL (P1.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0281,2,11:12,OKC,37.0,CHI,32.0,D. Bazley,OKC,Bazley 3PT Jump Shot (5 PTS) (Giddey 2 AST),Made Shot,Jump Shot,229,0,0,1,3.0,3.0,h
+S2223-G0281,2,09:53,OKC,,CHI,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0281,2,06:41,OKC,44.0,CHI,46.0,D. Bazley,OKC,Bazley 3PT Jump Shot (8 PTS) (Giddey 5 AST),Made Shot,Jump Shot,224,63,0,1,3.0,3.0,h
+S2223-G0281,2,05:18,OKC,,CHI,,D. Bazley,OKC,MISS Bazley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0281,2,05:18,OKC,47.0,CHI,48.0,D. Bazley,OKC,Bazley Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0281,2,04:24,OKC,,CHI,,D. Bazley,OKC,MISS Bazley 28' 3PT Jump Shot,Missed Shot,Jump Shot,-153,232,28,1,3.0,0.0,h
+S2223-G0281,2,04:10,OKC,,CHI,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0281,2,03:57,OKC,51.0,CHI,51.0,D. Bazley,OKC,Bazley 1' Cutting Layup Shot (11 PTS) (J. Williams 1 AST),Made Shot,Cutting Layup Shot,10,4,1,1,2.0,2.0,h
+S2223-G0281,2,02:56,OKC,,CHI,,D. Bazley,OKC,SUB: Pokusevski FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0281,3,02:58,OKC,,CHI,,D. Bazley,OKC,Bazley Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0281,3,02:44,OKC,,CHI,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0281,3,02:13,OKC,,CHI,,D. Bazley,OKC,Bazley BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0281,3,01:21,OKC,85.0,CHI,77.0,D. Bazley,OKC,Bazley 1' Driving Layup (13 PTS) (K. Williams 2 AST),Made Shot,Driving Layup Shot,10,10,1,1,2.0,2.0,h
+S2223-G0281,4,11:22,OKC,,CHI,,D. Bazley,OKC,Bazley S.FOUL (P2.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0281,4,11:06,OKC,91.0,CHI,83.0,D. Bazley,OKC,Bazley 3' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,26,3,3,1,2.0,2.0,h
+S2223-G0281,4,10:18,OKC,,CHI,,D. Bazley,OKC,Bazley Violation:Defensive Goaltending (M.Kallio),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0281,4,09:59,OKC,,CHI,,D. Bazley,OKC,MISS Bazley 3PT Jump Shot,Missed Shot,Jump Shot,-234,10,0,1,3.0,0.0,h
+S2223-G0281,4,09:19,OKC,95.0,CHI,85.0,D. Bazley,OKC,Bazley 2' Cutting Dunk Shot (17 PTS) (Mann 3 AST),Made Shot,Cutting Dunk Shot,16,14,2,1,2.0,2.0,h
+S2223-G0281,4,06:22,OKC,,CHI,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0281,4,05:32,OKC,,CHI,,D. Bazley,OKC,SUB: J. Williams FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0254,1,03:20,OKC,,NYK,,D. Bazley,OKC,MISS Bazley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0254,1,03:20,OKC,23.0,NYK,26.0,D. Bazley,OKC,Bazley Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0254,1,03:03,OKC,25.0,NYK,26.0,D. Bazley,OKC,Bazley 1' Running Layup (3 PTS),Made Shot,Running Layup Shot,6,-4,1,1,2.0,2.0,h
+S2223-G0254,1,01:24,OKC,,NYK,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0254,2,09:56,OKC,,NYK,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0254,2,07:47,OKC,,NYK,,D. Bazley,OKC,Bazley BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0254,2,07:45,OKC,,NYK,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0254,2,07:39,OKC,42.0,NYK,46.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0254,2,07:39,OKC,,NYK,,D. Bazley,OKC,MISS Bazley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0254,2,07:27,OKC,,NYK,,D. Bazley,OKC,Bazley BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0254,2,07:10,OKC,,NYK,,D. Bazley,OKC,MISS Bazley 3' Layup,Missed Shot,Layup Shot,28,6,3,1,2.0,0.0,h
+S2223-G0254,2,07:10,OKC,,NYK,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0254,2,07:08,OKC,,NYK,,D. Bazley,OKC,Bazley T.FOUL (P0.T0) (S.Wright),Foul,Technical,0,0,0,0,,,h
+S2223-G0254,2,06:49,OKC,,NYK,,D. Bazley,OKC,MISS Bazley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-25,255,26,1,3.0,0.0,h
+S2223-G0254,2,05:31,OKC,,NYK,,D. Bazley,OKC,SUB: Waters III FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0254,4,10:45,OKC,,NYK,,D. Bazley,OKC,MISS Bazley 3PT Jump Shot,Missed Shot,Jump Shot,-229,27,0,1,3.0,0.0,h
+S2223-G0254,4,08:58,OKC,91.0,NYK,102.0,D. Bazley,OKC,Bazley 1' Driving Layup (6 PTS) (K. Williams 1 AST),Made Shot,Driving Layup Shot,-2,10,1,1,2.0,2.0,h
+S2223-G0254,4,08:58,OKC,,NYK,,D. Bazley,OKC,MISS Bazley Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0254,4,05:21,OKC,99.0,NYK,112.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0254,4,05:21,OKC,,NYK,,D. Bazley,OKC,MISS Bazley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0254,4,04:07,OKC,,NYK,,D. Bazley,OKC,SUB: Jal. Williams FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G1110,4,00:49.600000,PHX,,PHI,,D. Bazley,PHX,Bazley Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0146,1,02:18,DET,,OKC,,D. Bazley,OKC,Bazley L.B.FOUL (P1.PN) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0146,1,02:00,DET,,OKC,,D. Bazley,OKC,Bazley STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0146,1,01:16,DET,23.0,OKC,29.0,D. Bazley,OKC,Bazley 1' Driving Dunk (2 PTS) (K. Williams 1 AST),Made Shot,Driving Dunk Shot,1,5,1,1,2.0,2.0,v
+S2223-G0146,1,00:42.500000,DET,,OKC,,D. Bazley,OKC,MISS Bazley 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,13,8,2,1,2.0,0.0,v
+S2223-G0146,2,08:34,DET,,OKC,,D. Bazley,OKC,Bazley P.FOUL (P2.T1) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2223-G0146,2,08:20,DET,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0146,2,07:53,DET,,OKC,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0146,2,06:54,DET,,OKC,,D. Bazley,OKC,Bazley STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0146,2,06:47,DET,35.0,OKC,49.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0146,2,06:47,DET,,OKC,,D. Bazley,OKC,MISS Bazley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0146,2,05:34,DET,,OKC,,D. Bazley,OKC,MISS Bazley 25' 3PT Jump Shot,Missed Shot,Jump Shot,114,225,25,1,3.0,0.0,v
+S2223-G0146,2,05:23,DET,,OKC,,D. Bazley,OKC,Bazley BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0146,2,04:41,DET,,OKC,,D. Bazley,OKC,MISS Bazley 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,16,16,2,1,2.0,0.0,v
+S2223-G0146,2,04:37,DET,,OKC,,D. Bazley,OKC,Bazley P.FOUL (P3.T4) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2223-G0146,2,04:28,DET,,OKC,,D. Bazley,OKC,SUB: Robinson-Earl FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0146,3,04:41,DET,77.0,OKC,74.0,D. Bazley,OKC,Bazley 25' 3PT Jump Shot (6 PTS) (Mann 1 AST),Made Shot,Jump Shot,225,112,25,1,3.0,3.0,v
+S2223-G0146,3,04:10,DET,80.0,OKC,76.0,D. Bazley,OKC,Bazley 4' Driving Layup (8 PTS) (Mann 2 AST),Made Shot,Driving Layup Shot,-21,37,4,1,2.0,2.0,v
+S2223-G0146,3,03:32,DET,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0146,3,03:18,DET,,OKC,,D. Bazley,OKC,MISS Bazley 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,124,20,13,1,2.0,0.0,v
+S2223-G0146,3,03:11,DET,,OKC,,D. Bazley,OKC,MISS Bazley 3' Hook Shot,Missed Shot,Hook Shot,10,28,3,1,2.0,0.0,v
+S2223-G0146,3,02:44,DET,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0146,3,02:37,DET,,OKC,,D. Bazley,OKC,SUB: Dieng FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0146,4,10:37,DET,,OKC,,D. Bazley,OKC,Bazley STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0146,4,09:36,DET,,OKC,,D. Bazley,OKC,Bazley S.FOUL (P4.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0146,4,07:46,DET,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0146,4,07:46,DET,,OKC,,D. Bazley,OKC,MISS Bazley Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0146,4,07:46,DET,,OKC,,D. Bazley,OKC,Bazley P.FOUL (P5.T3) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2223-G0146,4,07:46,DET,,OKC,,D. Bazley,OKC,SUB: Muscala FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0054,1,03:25,OKC,19.0,LAC,14.0,D. Bazley,OKC,Bazley 1' Cutting Dunk Shot (2 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Cutting Dunk Shot,-5,11,1,1,2.0,2.0,h
+S2223-G0054,1,02:56,OKC,,LAC,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0054,1,02:53,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,1,02:16,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,2,11:48,OKC,,LAC,,D. Bazley,OKC,MISS Bazley 1' Layup,Missed Shot,Layup Shot,-6,8,1,1,2.0,0.0,h
+S2223-G0054,2,11:44,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,2,11:44,OKC,,LAC,,D. Bazley,OKC,MISS Bazley 2' Layup,Missed Shot,Layup Shot,1,15,2,1,2.0,0.0,h
+S2223-G0054,2,11:28,OKC,,LAC,,D. Bazley,OKC,MISS Bazley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-114,230,26,1,3.0,0.0,h
+S2223-G0054,2,08:21,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,2,07:32,OKC,,LAC,,D. Bazley,OKC,Bazley P.FOUL (P1.T3) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2223-G0054,2,07:21,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,2,07:05,OKC,,LAC,,D. Bazley,OKC,MISS Bazley 4' Layup,Missed Shot,Layup Shot,43,12,4,1,2.0,0.0,h
+S2223-G0054,2,04:45,OKC,35.0,LAC,35.0,D. Bazley,OKC,Bazley 7' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,17,73,7,1,2.0,2.0,h
+S2223-G0054,2,03:29,OKC,,LAC,,D. Bazley,OKC,SUB: Dort FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0054,2,00:54.900000,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,2,00:03.100000,OKC,,LAC,,D. Bazley,OKC,SUB: Joe FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0054,3,06:03,OKC,,LAC,,D. Bazley,OKC,Bazley Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0054,3,05:41,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,3,05:19,OKC,72.0,LAC,48.0,D. Bazley,OKC,Bazley 1' Dunk (6 PTS) (Gilgeous-Alexander 5 AST),Made Shot,Dunk Shot,9,-8,1,1,2.0,2.0,h
+S2223-G0054,3,03:55,OKC,,LAC,,D. Bazley,OKC,MISS Bazley 29' 3PT Jump Shot,Missed Shot,Jump Shot,145,252,29,1,3.0,0.0,h
+S2223-G0054,3,02:25,OKC,77.0,LAC,60.0,D. Bazley,OKC,Bazley Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0054,3,02:25,OKC,,LAC,,D. Bazley,OKC,MISS Bazley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0054,3,02:23,OKC,,LAC,,D. Bazley,OKC,Bazley REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,3,01:49,OKC,,LAC,,D. Bazley,OKC,Bazley S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0054,3,01:49,OKC,,LAC,,D. Bazley,OKC,SUB: Robinson-Earl FOR Bazley,Substitution,,0,0,0,0,,,h
+S2223-G0035,1,05:06,DEN,,OKC,,D. Bazley,OKC,Bazley STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0035,1,04:53,DEN,,OKC,,D. Bazley,OKC,Bazley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0035,1,04:13,DEN,18.0,OKC,16.0,D. Bazley,OKC,Bazley 26' 3PT Jump Shot (3 PTS) (Mann 1 AST),Made Shot,Jump Shot,195,171,26,1,3.0,3.0,v
+S2223-G0035,1,03:23,DEN,,OKC,,D. Bazley,OKC,Bazley S.FOUL (P1.T2) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0035,1,01:05,DEN,26.0,OKC,26.0,D. Bazley,OKC,Bazley 26' 3PT Jump Shot (6 PTS) (Mann 2 AST),Made Shot,Jump Shot,56,250,26,1,3.0,3.0,v
+S2223-G0035,2,10:21,DEN,,OKC,,D. Bazley,OKC,Bazley BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0035,2,10:09,DEN,,OKC,,D. Bazley,OKC,Bazley Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0035,2,07:57,DEN,,OKC,,D. Bazley,OKC,Bazley BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0035,2,07:54,DEN,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0035,2,06:43,DEN,,OKC,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0035,2,06:18,DEN,,OKC,,D. Bazley,OKC,SUB: Robinson-Earl FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0035,3,06:48,DEN,,OKC,,D. Bazley,OKC,MISS Bazley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-211,155,26,1,3.0,0.0,v
+S2223-G0035,3,04:49,DEN,,OKC,,D. Bazley,OKC,MISS Bazley 26' 3PT Jump Shot,Missed Shot,Jump Shot,195,168,26,1,3.0,0.0,v
+S2223-G0035,3,03:55,DEN,,OKC,,D. Bazley,OKC,SUB: Dort FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0035,4,04:18,DEN,,OKC,,D. Bazley,OKC,Bazley STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0035,4,04:11,DEN,,OKC,,D. Bazley,OKC,SUB: Dort FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0035,4,00:22.800000,DEN,,OKC,,D. Bazley,OKC,SUB: Dort FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0035,4,00:09.700000,DEN,,OKC,,D. Bazley,OKC,Bazley Personal Take Foul (P2.PN) (B.Nansel),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0035,4,00:09.700000,DEN,,OKC,,D. Bazley,OKC,SUB: Muscala FOR Bazley,Substitution,,0,0,0,0,,,v
+S2223-G0799,4,10:52,OKC,126.0,HOU,85.0,D. Bazley,OKC,Bazley 26' 3PT Jump Shot (3 PTS) (Giddey 8 AST),Made Shot,Jump Shot,-233,109,26,1,3.0,3.0,h
+S2223-G0799,4,09:16,OKC,,HOU,,D. Bazley,OKC,Bazley STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0799,4,09:08,OKC,,HOU,,D. Bazley,OKC,Bazley S.FOUL (P1.T3) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0799,4,06:03,OKC,139.0,HOU,103.0,D. Bazley,OKC,Bazley 1' Cutting Dunk Shot (5 PTS) (Mann 3 AST),Made Shot,Cutting Dunk Shot,0,12,1,1,2.0,2.0,h
+S2223-G0799,4,03:28,OKC,,HOU,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0799,4,01:39,OKC,,HOU,,D. Bazley,OKC,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0799,4,00:29.800000,OKC,153.0,HOU,118.0,D. Bazley,OKC,Bazley 29' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-7,291,29,1,3.0,3.0,h

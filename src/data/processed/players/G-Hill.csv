@@ -1,0 +1,529 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G1220,1,01:49,NYK,,IND,,G. Hill,IND,MISS Hill 2' Driving Layup,Missed Shot,Driving Layup Shot,-15,15,2,1,2.0,0.0,v
+S2223-G1220,1,00:00,NYK,45.0,IND,41.0,G. Hill,IND,Hill 45' 3PT Jump Bank Shot (3 PTS) (Johnson 2 AST),Made Shot,Jump Bank Shot,-105,442,45,1,3.0,3.0,v
+S2223-G1220,2,10:23,NYK,,IND,,G. Hill,IND,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1220,2,09:33,NYK,,IND,,G. Hill,IND,MISS Hill 25' 3PT Jump Shot,Missed Shot,Jump Shot,-142,203,25,1,3.0,0.0,v
+S2223-G1220,2,08:06,NYK,,IND,,G. Hill,IND,Hill STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1220,2,07:41,NYK,57.0,IND,52.0,G. Hill,IND,Hill 25' 3PT Running Jump Shot (6 PTS) (Brissett 2 AST),Made Shot,Running Jump Shot,109,225,25,1,3.0,3.0,v
+S2223-G1220,2,06:58,NYK,,IND,,G. Hill,IND,MISS Hill Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,v
+S2223-G1220,2,06:58,NYK,57.0,IND,53.0,G. Hill,IND,Hill Free Throw 2 of 3 (7 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G1220,2,06:58,NYK,57.0,IND,54.0,G. Hill,IND,Hill Free Throw 3 of 3 (8 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G1220,2,06:45,NYK,,IND,,G. Hill,IND,Hill S.FOUL (P1.T2) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G1220,2,03:10,NYK,,IND,,G. Hill,IND,SUB: Nesmith FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G1220,4,10:00,NYK,112.0,IND,110.0,G. Hill,IND,Hill 26' 3PT Jump Shot (11 PTS) (Brissett 3 AST),Made Shot,Jump Shot,43,252,26,1,3.0,3.0,v
+S2223-G1220,4,09:15,NYK,112.0,IND,113.0,G. Hill,IND,Hill 24' 3PT Jump Shot (14 PTS) (Nembhard 9 AST),Made Shot,Jump Shot,-238,-8,24,1,3.0,3.0,v
+S2223-G1220,4,08:57,NYK,,IND,,G. Hill,IND,Hill P.FOUL (P2.T1) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2223-G1220,4,07:40,NYK,,IND,,G. Hill,IND,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1220,4,07:36,NYK,,IND,,G. Hill,IND,Hill OFF.Foul (P3) (D.Mosher),Foul,Offensive,0,0,0,0,,,v
+S2223-G1220,4,07:36,NYK,,IND,,G. Hill,IND,Hill Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1220,4,05:23,NYK,,IND,,G. Hill,IND,Hill REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1220,4,05:20,NYK,117.0,IND,127.0,G. Hill,IND,Hill 25' 3PT Running Pull-Up Jump Shot (17 PTS),Made Shot,Running Pull-Up Jump Shot,62,246,25,1,3.0,3.0,v
+S2223-G1220,4,05:19,NYK,,IND,,G. Hill,IND,SUB: Nembhard FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0519,1,04:21,CHI,16.0,MIL,19.0,G. Hill,MIL,Hill 17' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,109,127,17,1,2.0,2.0,v
+S2223-G0519,1,04:21,CHI,16.0,MIL,20.0,G. Hill,MIL,Hill Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0519,1,02:54,CHI,20.0,MIL,27.0,G. Hill,MIL,Hill 2' Running Finger Roll Layup (5 PTS) (Portis 1 AST),Made Shot,Running Finger Roll Layup Shot,-18,0,2,1,2.0,2.0,v
+S2223-G0519,1,01:43,CHI,,MIL,,G. Hill,MIL,Hill STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0519,1,01:41,CHI,22.0,MIL,32.0,G. Hill,MIL,Hill 1' Running Dunk (7 PTS),Made Shot,Running Dunk Shot,5,-4,1,1,2.0,2.0,v
+S2223-G0519,1,00:48.800000,CHI,,MIL,,G. Hill,MIL,Hill STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0519,1,00:27.100000,CHI,,MIL,,G. Hill,MIL,Hill S.FOUL (P1.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G0519,1,00:07.700000,CHI,,MIL,,G. Hill,MIL,MISS Hill 3PT Jump Shot,Missed Shot,Jump Shot,-229,-15,0,1,3.0,0.0,v
+S2223-G0519,2,10:17,CHI,,MIL,,G. Hill,MIL,SUB: Carter FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0519,2,03:35,CHI,,MIL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0519,2,03:26,CHI,50.0,MIL,50.0,G. Hill,MIL,Hill Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2223-G0519,3,00:46,CHI,,MIL,,G. Hill,MIL,MISS Hill 3PT Jump Shot,Missed Shot,Jump Shot,-221,-14,0,1,3.0,0.0,v
+S2223-G0519,3,00:30.600000,CHI,,MIL,,G. Hill,MIL,MISS Hill 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,123,216,25,1,3.0,0.0,v
+S2223-G0519,3,00:10.300000,CHI,,MIL,,G. Hill,MIL,SUB: G. Antetokounmpo FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0519,4,08:36,CHI,,MIL,,G. Hill,MIL,SUB: Carter FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0519,4,02:30,CHI,,MIL,,G. Hill,MIL,Hill Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0519,4,02:18,CHI,,MIL,,G. Hill,MIL,Hill S.FOUL (P2.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G0519,5,00:03.700000,CHI,,MIL,,G. Hill,MIL,Hill P.FOUL (P3.PN) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2223-G0519,5,00:00.400000,CHI,,MIL,,G. Hill,MIL,MISS Hill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,202,164,26,1,3.0,0.0,v
+S2223-G0149,2,11:37,ATL,,MIL,,G. Hill,MIL,MISS Hill 26' 3PT Jump Shot,Missed Shot,Jump Shot,183,185,26,1,3.0,0.0,v
+S2223-G0149,2,09:04,ATL,,MIL,,G. Hill,MIL,SUB: Allen FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0149,3,00:16.500000,ATL,87.0,MIL,80.0,G. Hill,MIL,Hill 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,6,1,1,1,2.0,2.0,v
+S2223-G0149,3,00:01,ATL,,MIL,,G. Hill,MIL,MISS Hill 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-94,187,21,1,2.0,0.0,v
+S2223-G0149,4,09:51,ATL,,MIL,,G. Hill,MIL,SUB: Lopez FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0149,4,04:58,ATL,,MIL,,G. Hill,MIL,MISS Hill 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,229,46,0,1,3.0,0.0,v
+S2223-G0149,4,03:51,ATL,,MIL,,G. Hill,MIL,SUB: T. Antetokounmpo FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0410,1,03:30,MIL,,GSW,,G. Hill,MIL,Hill Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0410,1,03:14,MIL,,GSW,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0410,1,02:59,MIL,25.0,GSW,16.0,G. Hill,MIL,Hill 27' 3PT Jump Shot (3 PTS) (Lopez 1 AST),Made Shot,Jump Shot,32,264,27,1,3.0,3.0,h
+S2223-G0410,1,02:49,MIL,,GSW,,G. Hill,MIL,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0410,1,01:53,MIL,,GSW,,G. Hill,MIL,SUB: Middleton FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0410,2,10:44,MIL,,GSW,,G. Hill,MIL,Hill REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0410,2,09:16,MIL,,GSW,,G. Hill,MIL,SUB: Carter FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0410,2,04:21,MIL,,GSW,,G. Hill,MIL,Hill REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0410,2,01:18,MIL,,GSW,,G. Hill,MIL,SUB: Carter FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0410,3,02:32,MIL,,GSW,,G. Hill,MIL,Hill STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0410,3,02:31,MIL,92.0,GSW,72.0,G. Hill,MIL,Hill Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0410,3,02:31,MIL,93.0,GSW,72.0,G. Hill,MIL,Hill Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0410,3,01:03,MIL,,GSW,,G. Hill,MIL,Hill Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0410,3,00:03,MIL,,GSW,,G. Hill,MIL,Hill REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0410,4,11:45,MIL,,GSW,,G. Hill,MIL,Hill OFF.Foul (P1) (B.Taylor),Foul,Offensive,0,0,0,0,,,h
+S2223-G0410,4,11:45,MIL,,GSW,,G. Hill,MIL,Hill Offensive Foul Turnover (P3.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0410,4,08:42,MIL,,GSW,,G. Hill,MIL,SUB: Carter FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0386,2,08:56,DAL,,MIL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0386,2,08:48,DAL,,MIL,,G. Hill,MIL,MISS Hill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-21,264,26,1,3.0,0.0,v
+S2223-G0386,2,08:26,DAL,,MIL,,G. Hill,MIL,SUB: Carter FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0386,3,01:53,DAL,,MIL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0386,3,00:20.500000,DAL,,MIL,,G. Hill,MIL,Hill Out of Bounds Lost Ball Turnover (P1.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0386,4,08:20,DAL,92.0,MIL,86.0,G. Hill,MIL,Hill 3PT Jump Shot (3 PTS) (Middleton 5 AST),Made Shot,Jump Shot,-233,-11,0,1,3.0,3.0,v
+S2223-G0386,4,03:56,DAL,100.0,MIL,102.0,G. Hill,MIL,Hill 3PT Jump Shot (6 PTS) (Holiday 6 AST),Made Shot,Jump Shot,222,-5,0,1,3.0,3.0,v
+S2223-G0386,4,02:52,DAL,,MIL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0369,2,09:05,MIL,,SAC,,G. Hill,MIL,MISS Hill 3PT Jump Shot,Missed Shot,Jump Shot,233,26,0,1,3.0,0.0,h
+S2223-G0369,2,08:50,MIL,,SAC,,G. Hill,MIL,SUB: Holiday FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0369,2,01:05,MIL,66.0,SAC,59.0,G. Hill,MIL,Hill 25' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 4 AST),Made Shot,Jump Shot,239,58,25,1,3.0,3.0,h
+S2223-G0369,2,00:04,MIL,,SAC,,G. Hill,MIL,Hill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0369,2,00:03.700000,MIL,,SAC,,G. Hill,MIL,MISS Hill Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0369,4,09:56,MIL,,SAC,,G. Hill,MIL,Hill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0369,4,08:46,MIL,,SAC,,G. Hill,MIL,MISS Hill 3PT Jump Shot,Missed Shot,Jump Shot,224,-1,0,1,3.0,0.0,h
+S2223-G0369,4,08:29,MIL,,SAC,,G. Hill,MIL,Hill S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0369,4,06:03,MIL,,SAC,,G. Hill,MIL,SUB: Holiday FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0113,1,04:23,MIL,,DET,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0113,1,02:04,MIL,,DET,,G. Hill,MIL,MISS Hill 1' Running Layup,Missed Shot,Running Layup Shot,1,10,1,1,2.0,0.0,h
+S2223-G0113,2,11:31,MIL,,DET,,G. Hill,MIL,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0113,2,10:47,MIL,,DET,,G. Hill,MIL,Hill REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0113,2,10:32,MIL,,DET,,G. Hill,MIL,SUB: Holiday FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0113,3,04:35,MIL,,DET,,G. Hill,MIL,MISS Hill 3PT Jump Shot,Missed Shot,Jump Shot,227,-24,0,1,3.0,0.0,h
+S2223-G0113,3,04:11,MIL,72.0,DET,55.0,G. Hill,MIL,Hill 3PT Jump Shot (3 PTS) (Portis 1 AST),Made Shot,Jump Shot,233,-20,0,1,3.0,3.0,h
+S2223-G0113,3,03:04,MIL,,DET,,G. Hill,MIL,MISS Hill 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-104,181,21,1,2.0,0.0,h
+S2223-G0113,4,05:04,MIL,105.0,DET,78.0,G. Hill,MIL,Hill Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0113,4,05:04,MIL,,DET,,G. Hill,MIL,MISS Hill Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,h
+S2223-G0113,4,05:04,MIL,106.0,DET,78.0,G. Hill,MIL,Hill Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0113,4,03:25,MIL,111.0,DET,80.0,G. Hill,MIL,Hill Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,1,0,1,2.0,2.0,h
+S2223-G0113,4,02:15,MIL,,DET,,G. Hill,MIL,Hill S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0113,4,01:35,MIL,,DET,,G. Hill,MIL,Hill REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0113,4,01:18,MIL,,DET,,G. Hill,MIL,MISS Hill 25' 3PT Jump Shot,Missed Shot,Jump Shot,127,217,25,1,3.0,0.0,h
+S2223-G0353,1,01:37,ORL,,MIL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0353,2,09:04,ORL,,MIL,,G. Hill,MIL,Hill STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0353,2,09:00,ORL,,MIL,,G. Hill,MIL,SUB: Green FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0353,4,06:50,ORL,,MIL,,G. Hill,MIL,MISS Hill 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,23,24,1,3.0,0.0,v
+S2223-G0353,4,05:22,ORL,,MIL,,G. Hill,MIL,SUB: Carter FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G1057,1,04:29,IND,,PHI,,G. Hill,IND,Hill Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1057,1,03:35,IND,,PHI,,G. Hill,IND,MISS Hill 28' 3PT Jump Shot,Missed Shot,Jump Shot,39,273,28,1,3.0,0.0,h
+S2223-G1057,1,01:56,IND,,PHI,,G. Hill,IND,MISS Hill 3PT Running Jump Shot,Missed Shot,Running Jump Shot,232,12,0,1,3.0,0.0,h
+S2223-G1057,1,00:38.300000,IND,,PHI,,G. Hill,IND,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1057,2,10:02,IND,,PHI,,G. Hill,IND,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1057,2,08:13,IND,,PHI,,G. Hill,IND,Hill S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G1057,2,07:59,IND,,PHI,,G. Hill,IND,SUB: Nwora FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G1057,3,02:15,IND,,PHI,,G. Hill,IND,Hill BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1057,3,01:52,IND,,PHI,,G. Hill,IND,Hill REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1057,3,01:07,IND,,PHI,,G. Hill,IND,MISS Hill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-130,220,26,1,3.0,0.0,h
+S2223-G1057,4,09:46,IND,,PHI,,G. Hill,IND,Hill S.FOUL (P2.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G1057,4,09:46,IND,,PHI,,G. Hill,IND,SUB: Hield FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G1057,4,01:55,IND,,PHI,,G. Hill,IND,Hill REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0216,1,01:07,MIL,34.0,CLE,33.0,G. Hill,MIL,Hill 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,4,30,3,1,2.0,2.0,h
+S2223-G0216,1,00:08.900000,MIL,,CLE,,G. Hill,MIL,Hill Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0216,1,00:01,MIL,,CLE,,G. Hill,MIL,Hill S.FOUL (P1.T3) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0216,1,00:00.300000,MIL,,CLE,,G. Hill,MIL,MISS Hill 49' 3PT Jump Shot,Missed Shot,Jump Shot,-120,473,49,1,3.0,0.0,h
+S2223-G0216,2,10:20,MIL,,CLE,,G. Hill,MIL,MISS Hill 3PT Jump Shot,Missed Shot,Jump Shot,-223,57,0,1,3.0,0.0,h
+S2223-G0216,2,09:32,MIL,,CLE,,G. Hill,MIL,SUB: Carter FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0216,2,00:58,MIL,,CLE,,G. Hill,MIL,MISS Hill 28' 3PT Jump Shot,Missed Shot,Jump Shot,58,273,28,1,3.0,0.0,h
+S2223-G0216,2,00:00.900000,MIL,,CLE,,G. Hill,MIL,Hill P.FOUL (P2.T4) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2223-G0216,3,02:33,MIL,89.0,CLE,71.0,G. Hill,MIL,Hill 24' 3PT Jump Shot (5 PTS) (Carter 6 AST),Made Shot,Jump Shot,-235,7,24,1,3.0,3.0,h
+S2223-G0216,3,02:14,MIL,,CLE,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0216,3,00:34.600000,MIL,,CLE,,G. Hill,MIL,Hill S.FOUL (P3.T4) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0216,4,10:51,MIL,97.0,CLE,80.0,G. Hill,MIL,Hill 1' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,4,6,1,1,2.0,2.0,h
+S2223-G0216,4,10:36,MIL,,CLE,,G. Hill,MIL,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0216,4,09:56,MIL,,CLE,,G. Hill,MIL,Hill OFF.Foul (P4) (M.Davis),Foul,Offensive,0,0,0,0,,,h
+S2223-G0216,4,09:56,MIL,,CLE,,G. Hill,MIL,Hill Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0216,4,09:20,MIL,,CLE,,G. Hill,MIL,Hill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0216,4,09:09,MIL,,CLE,,G. Hill,MIL,SUB: Portis FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0216,4,01:55,MIL,,CLE,,G. Hill,MIL,SUB: T. Antetokounmpo FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0168,2,03:35,OKC,,MIL,,G. Hill,MIL,MISS Hill 6' Driving Layup,Missed Shot,Driving Layup Shot,49,34,6,1,2.0,0.0,v
+S2223-G0168,2,03:24,OKC,,MIL,,G. Hill,MIL,MISS Hill 5' Driving Layup,Missed Shot,Driving Layup Shot,-50,11,5,1,2.0,0.0,v
+S2223-G0168,2,00:32,OKC,,MIL,,G. Hill,MIL,Hill STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0168,2,00:31.900000,OKC,52.0,MIL,52.0,G. Hill,MIL,Hill Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0168,2,00:31.900000,OKC,52.0,MIL,53.0,G. Hill,MIL,Hill Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0168,2,00:03.200000,OKC,55.0,MIL,55.0,G. Hill,MIL,Hill 20' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-113,168,20,1,2.0,2.0,v
+S2223-G0168,3,04:08,OKC,,MIL,,G. Hill,MIL,MISS Hill 7' Layup,Missed Shot,Layup Shot,59,29,7,1,2.0,0.0,v
+S2223-G0168,3,00:00.100000,OKC,87.0,MIL,84.0,G. Hill,MIL,Hill 28' 3PT Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,-86,265,28,1,3.0,3.0,v
+S2223-G0168,4,10:28,OKC,,MIL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0168,4,08:41,OKC,92.0,MIL,94.0,G. Hill,MIL,Hill 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,-9,4,1,1,2.0,2.0,v
+S2223-G0168,4,08:30,OKC,,MIL,,G. Hill,MIL,Hill STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0168,4,08:30,OKC,92.0,MIL,95.0,G. Hill,MIL,Hill Free Throw Clear Path 1 of 2 (10 PTS),Free Throw,Free Throw Clear Path 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0168,4,08:30,OKC,92.0,MIL,96.0,G. Hill,MIL,Hill Free Throw Clear Path 2 of 2 (11 PTS),Free Throw,Free Throw Clear Path 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0168,4,08:30,OKC,,MIL,,G. Hill,MIL,SUB: Carter FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0168,4,05:07,OKC,,MIL,,G. Hill,MIL,SUB: Matthews FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0168,4,03:40,OKC,,MIL,,G. Hill,MIL,MISS Hill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0168,4,03:40,OKC,106.0,MIL,115.0,G. Hill,MIL,Hill Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0168,5,04:27,OKC,,MIL,,G. Hill,MIL,Hill STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0168,5,04:24,OKC,,MIL,,G. Hill,MIL,Hill Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0168,5,04:18,OKC,,MIL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0168,5,02:49,OKC,,MIL,,G. Hill,MIL,SUB: Matthews FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0168,5,00:00.200000,OKC,,MIL,,G. Hill,MIL,SUB: Ibaka FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0168,6,00:18.600000,OKC,,MIL,,G. Hill,MIL,Hill S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0129,1,01:12,MIN,,MIL,,G. Hill,MIL,MISS Hill 9' Driving Layup,Missed Shot,Driving Layup Shot,82,31,9,1,2.0,0.0,v
+S2223-G0129,1,00:24.300000,MIN,26.0,MIL,34.0,G. Hill,MIL,Hill 15' Pullup Jump Shot (2 PTS) (Portis 2 AST),Made Shot,Pullup Jump shot,-130,82,15,1,2.0,2.0,v
+S2223-G0129,2,11:38,MIN,,MIL,,G. Hill,MIL,Hill STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0129,2,10:38,MIN,,MIL,,G. Hill,MIL,SUB: Holiday FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0129,3,00:00.200000,MIN,,MIL,,G. Hill,MIL,MISS Hill 44' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-173,409,44,1,3.0,0.0,v
+S2223-G0129,4,10:08,MIN,,MIL,,G. Hill,MIL,SUB: Holiday FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0298,1,02:25,MIL,,DAL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0298,2,11:31,MIL,43.0,DAL,33.0,G. Hill,MIL,Hill 10' Driving Floating Jump Shot (2 PTS) (Lopez 1 AST),Made Shot,Driving Floating Jump Shot,36,88,10,1,2.0,2.0,h
+S2223-G0298,2,10:33,MIL,,DAL,,G. Hill,MIL,Hill P.FOUL (P1.T1) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G0298,2,10:33,MIL,,DAL,,G. Hill,MIL,SUB: Nwora FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0298,3,01:48,MIL,,DAL,,G. Hill,MIL,Hill S.FOUL (P2.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0298,4,06:49,MIL,,DAL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0298,4,05:02,MIL,,DAL,,G. Hill,MIL,Hill Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0298,4,04:37,MIL,121.0,DAL,106.0,G. Hill,MIL,Hill 26' 3PT Jump Shot (5 PTS) (G. Antetokounmpo 4 AST),Made Shot,Jump Shot,207,160,26,1,3.0,3.0,h
+S2223-G0298,4,01:58,MIL,,DAL,,G. Hill,MIL,SUB: Beauchamp FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G1020,1,01:03,DET,,IND,,G. Hill,IND,Hill Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1020,1,00:14.400000,DET,,IND,,G. Hill,IND,MISS Hill 5' Driving Layup,Missed Shot,Driving Layup Shot,43,34,5,1,2.0,0.0,v
+S2223-G1020,2,11:16,DET,,IND,,G. Hill,IND,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1020,2,08:35,DET,,IND,,G. Hill,IND,SUB: Hield FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G1020,3,00:28.100000,DET,89.0,IND,68.0,G. Hill,IND,Hill 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,147,212,26,1,3.0,3.0,v
+S2223-G1020,3,00:00.200000,DET,,IND,,G. Hill,IND,MISS Hill 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-72,274,28,1,3.0,0.0,v
+S2223-G1020,4,07:56,DET,,IND,,G. Hill,IND,MISS Hill 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,78,174,19,1,2.0,0.0,v
+S2223-G1020,4,05:44,DET,,IND,,G. Hill,IND,SUB: Nembhard FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0060,1,03:36,MIL,12.0,BKN,11.0,G. Hill,MIL,Hill 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,119,159,20,1,2.0,2.0,h
+S2223-G0060,2,11:11,MIL,27.0,BKN,20.0,G. Hill,MIL,Hill 2' Reverse Layup (4 PTS) (G. Antetokounmpo 1 AST),Made Shot,Reverse Layup Shot,2,17,2,1,2.0,2.0,h
+S2223-G0060,2,09:32,MIL,,BKN,,G. Hill,MIL,MISS Hill 29' 3PT Jump Shot,Missed Shot,Jump Shot,-72,276,29,1,3.0,0.0,h
+S2223-G0060,2,08:16,MIL,,BKN,,G. Hill,MIL,SUB: Lopez FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0060,3,08:43,MIL,,BKN,,G. Hill,MIL,Hill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0060,3,05:20,MIL,65.0,BKN,67.0,G. Hill,MIL,Hill Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0060,3,05:20,MIL,66.0,BKN,67.0,G. Hill,MIL,Hill Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0060,3,04:24,MIL,67.0,BKN,70.0,G. Hill,MIL,Hill Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2223-G0060,3,04:24,MIL,68.0,BKN,70.0,G. Hill,MIL,Hill Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2223-G0060,3,03:02,MIL,,BKN,,G. Hill,MIL,Hill S.FOUL (P1.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0060,3,02:57,MIL,,BKN,,G. Hill,MIL,SUB: Holiday FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0060,4,08:28,MIL,,BKN,,G. Hill,MIL,Hill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0060,4,08:26,MIL,,BKN,,G. Hill,MIL,Hill Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0060,4,08:18,MIL,,BKN,,G. Hill,MIL,Hill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0060,4,06:45,MIL,,BKN,,G. Hill,MIL,Hill Violation:Kicked Ball (M.Myers),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0060,4,03:20,MIL,,BKN,,G. Hill,MIL,Hill S.FOUL (P2.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0060,4,01:40,MIL,,BKN,,G. Hill,MIL,Hill P.FOUL (P3.PN) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G0060,4,01:00,MIL,,BKN,,G. Hill,MIL,Hill STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0060,4,00:58.600000,MIL,,BKN,,G. Hill,MIL,SUB: Allen FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0657,1,03:28,MIL,,IND,,G. Hill,MIL,Hill S.FOUL (P1.T4) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G0657,2,08:22,MIL,43.0,IND,50.0,G. Hill,MIL,Hill 3PT Jump Shot (3 PTS) (Connaughton 1 AST),Made Shot,Jump Shot,-229,17,0,1,3.0,3.0,h
+S2223-G0657,2,08:03,MIL,,IND,,G. Hill,MIL,MISS Hill 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,135,236,27,1,3.0,0.0,h
+S2223-G0657,2,07:59,MIL,,IND,,G. Hill,MIL,Hill STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0657,2,07:43,MIL,,IND,,G. Hill,MIL,SUB: Nwora FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0657,3,02:48,MIL,86.0,IND,93.0,G. Hill,MIL,Hill 1' Cutting Finger Roll Layup Shot (5 PTS) (Matthews 1 AST),Made Shot,Cutting Finger Roll Layup Shot,11,8,1,1,2.0,2.0,h
+S2223-G0657,3,02:11,MIL,88.0,IND,95.0,G. Hill,MIL,Hill 2' Cutting Layup Shot (7 PTS) (Portis 2 AST),Made Shot,Cutting Layup Shot,6,16,2,1,2.0,2.0,h
+S2223-G0657,3,01:54,MIL,,IND,,G. Hill,MIL,Hill P.FOUL (P2.T2) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2223-G0657,3,01:16,MIL,,IND,,G. Hill,MIL,Hill STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0657,4,10:22,MIL,,IND,,G. Hill,MIL,Hill STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0657,4,09:00,MIL,,IND,,G. Hill,MIL,SUB: Holiday FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0657,4,01:42,MIL,,IND,,G. Hill,MIL,MISS Hill 3PT Jump Shot,Missed Shot,Jump Shot,222,-21,0,1,3.0,0.0,h
+S2223-G0657,4,01:41,MIL,128.0,IND,117.0,G. Hill,MIL,Hill 3' Floating Jump Shot (9 PTS) (Allen 4 AST),Made Shot,Floating Jump shot,-1,33,3,1,2.0,2.0,h
+S2223-G0180,1,02:52,SAS,,,,G. Hill,MIL,Hill S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2223-G0180,1,02:00,SAS,,,,G. Hill,MIL,MISS Hill 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-16,27,3,1,2.0,0.0,v
+S2223-G0180,1,01:57,SAS,,,,G. Hill,MIL,Hill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0180,1,01:55,SAS,,,,G. Hill,MIL,MISS Hill 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-163,110,20,1,2.0,0.0,v
+S2223-G0180,1,01:15,SAS,26.0,,25.0,G. Hill,MIL,Hill Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0180,1,01:15,SAS,26.0,,26.0,G. Hill,MIL,Hill Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0180,1,00:29.300000,SAS,,,,G. Hill,MIL,MISS Hill 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-11,275,28,1,3.0,0.0,v
+S2223-G0180,1,00:02.500000,SAS,,,,G. Hill,MIL,MISS Hill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0180,1,00:02.500000,SAS,30.0,,27.0,G. Hill,MIL,Hill Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0180,2,04:01,SAS,,,,G. Hill,MIL,MISS Hill 3PT Jump Shot,Missed Shot,Jump Shot,223,2,0,1,3.0,0.0,v
+S2223-G0180,2,01:48,SAS,,,,G. Hill,MIL,MISS Hill 3PT Jump Shot,Missed Shot,Jump Shot,227,42,0,1,3.0,0.0,v
+S2223-G0180,2,00:21.800000,SAS,,,,G. Hill,MIL,MISS Hill 2' Running Layup,Missed Shot,Running Layup Shot,-12,15,2,1,2.0,0.0,v
+S2223-G0180,3,00:32.300000,SAS,83.0,,76.0,G. Hill,MIL,Hill 11' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,108,5,11,1,2.0,2.0,v
+S2223-G0180,4,11:34,SAS,,,,G. Hill,MIL,Hill REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0180,4,10:09,SAS,,,,G. Hill,MIL,Hill Out of Bounds - Bad Pass Turnover Turnover (P1.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0180,4,09:47,SAS,,,,G. Hill,MIL,MISS Hill 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,99,227,25,1,3.0,0.0,v
+S2223-G0180,4,08:46,SAS,,,,G. Hill,MIL,SUB: Matthews FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0180,4,05:05,SAS,,,,G. Hill,MIL,MISS Hill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,92,246,26,1,3.0,0.0,v
+S2223-G0180,4,03:47,SAS,,,,G. Hill,MIL,Hill BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0180,4,02:30,SAS,,,,G. Hill,MIL,SUB: Antetokounmpo FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0401,2,05:16,HOU,,,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0401,2,05:13,HOU,,,,G. Hill,MIL,SUB: Carter FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0401,4,10:41,HOU,,,,G. Hill,MIL,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0401,4,09:54,HOU,,,,G. Hill,MIL,Hill Out of Bounds Lost Ball Turnover (P1.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0401,4,09:04,HOU,,,,G. Hill,MIL,SUB: Lopez FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0944,1,11:03,,,,,G. Hill,IND,Hill BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0944,1,09:52,,,,,G. Hill,IND,MISS Hill 25' 3PT Jump Shot,Missed Shot,Jump Shot,-185,167,25,1,3.0,0.0,v
+S2223-G0944,1,06:35,,,,,G. Hill,IND,SUB: Mathurin FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0944,2,08:17,,33.0,,40.0,G. Hill,IND,Hill 1' Running Layup (2 PTS) (Nwora 1 AST),Made Shot,Running Layup Shot,10,3,1,1,2.0,2.0,v
+S2223-G0944,2,07:24,,33.0,,42.0,G. Hill,IND,Hill Reverse Layup (4 PTS) (Nwora 2 AST),Made Shot,Reverse Layup Shot,-1,0,0,1,2.0,2.0,v
+S2223-G0944,2,05:44,,,,,G. Hill,IND,Hill STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0944,2,04:01,,,,,G. Hill,IND,SUB: Nesmith FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0944,3,10:35,,,,,G. Hill,IND,Hill P.FOUL (P1.T1) (B.Schwab),Foul,Personal,0,0,0,0,,,v
+S2223-G0944,3,09:01,,,,,G. Hill,IND,Hill S.FOUL (P2.T2) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2223-G0944,3,08:41,,63.0,,57.0,G. Hill,IND,Hill 3PT Jump Shot (7 PTS) (Hield 2 AST),Made Shot,Jump Shot,232,-8,0,1,3.0,3.0,v
+S2223-G0944,3,07:33,,,,,G. Hill,IND,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0944,3,07:22,,,,,G. Hill,IND,SUB: Duarte FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0339,1,00:05.300000,CHA,,MIL,,G. Hill,MIL,Hill S.FOUL (P1.T2) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0339,2,10:03,CHA,24.0,MIL,35.0,G. Hill,MIL,Hill 2' Running Dunk (2 PTS) (Carter 4 AST),Made Shot,Running Dunk Shot,-1,15,2,1,2.0,2.0,v
+S2223-G0339,2,10:03,CHA,,MIL,,G. Hill,MIL,SUB: Nwora FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0339,2,02:52,CHA,,MIL,,G. Hill,MIL,MISS Hill 2' Driving Layup,Missed Shot,Driving Layup Shot,-5,15,2,1,2.0,0.0,v
+S2223-G0339,2,02:29,CHA,,MIL,,G. Hill,MIL,Hill Out of Bounds Lost Ball Turnover (P1.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0339,2,01:50,CHA,,MIL,,G. Hill,MIL,Hill S.FOUL (P2.T2) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2223-G0339,2,00:50.200000,CHA,45.0,MIL,55.0,G. Hill,MIL,Hill 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,6,2,1,1,2.0,2.0,v
+S2223-G0339,2,00:01.900000,CHA,,MIL,,G. Hill,MIL,SUB: Antetokounmpo FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0339,3,02:28,CHA,,MIL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0339,3,02:00,CHA,,MIL,,G. Hill,MIL,Hill Out of Bounds - Bad Pass Turnover Turnover (P2.T17),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0339,3,00:54.800000,CHA,,MIL,,G. Hill,MIL,MISS Hill 2' Driving Layup,Missed Shot,Driving Layup Shot,11,15,2,1,2.0,0.0,v
+S2223-G0339,3,00:52.300000,CHA,,MIL,,G. Hill,MIL,Hill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0339,3,00:42.400000,CHA,71.0,MIL,82.0,G. Hill,MIL,Hill 1' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,-7,-5,1,1,2.0,2.0,v
+S2223-G0339,3,00:15.300000,CHA,,MIL,,G. Hill,MIL,MISS Hill 2' Driving Layup,Missed Shot,Driving Layup Shot,16,1,2,1,2.0,0.0,v
+S2223-G0339,4,09:48,CHA,,MIL,,G. Hill,MIL,SUB: Nwora FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0339,4,05:11,CHA,87.0,MIL,95.0,G. Hill,MIL,Hill 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,2,5,1,1,2.0,2.0,v
+S2223-G0339,4,04:57,CHA,,MIL,,G. Hill,MIL,Hill STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0339,4,04:32,CHA,,MIL,,G. Hill,MIL,Hill Bad Pass Turnover (P3.T20),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0339,4,04:11,CHA,,MIL,,G. Hill,MIL,Hill Bad Pass Turnover (P4.T21),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1123,2,11:44,IND,,DAL,,G. Hill,IND,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1123,2,10:44,IND,,DAL,,G. Hill,IND,Hill S.FOUL (P1.T1) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2223-G1123,2,08:57,IND,,DAL,,G. Hill,IND,SUB: Mathurin FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0226,1,03:06,PHI,18.0,MIL,30.0,G. Hill,MIL,Hill 27' 3PT Jump Shot (3 PTS) (Allen 1 AST),Made Shot,Jump Shot,-143,225,27,1,3.0,3.0,v
+S2223-G0226,1,02:00,PHI,,MIL,,G. Hill,MIL,MISS Hill 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-7,75,8,1,2.0,0.0,v
+S2223-G0226,1,00:31.900000,PHI,,MIL,,G. Hill,MIL,MISS Hill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0226,1,00:31.900000,PHI,20.0,MIL,33.0,G. Hill,MIL,Hill Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0226,1,00:00.100000,PHI,,MIL,,G. Hill,MIL,Hill S.FOUL (P1.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0226,2,10:37,PHI,26.0,MIL,37.0,G. Hill,MIL,Hill 27' 3PT Jump Shot (7 PTS) (G. Antetokounmpo 1 AST),Made Shot,Jump Shot,83,255,27,1,3.0,3.0,v
+S2223-G0226,2,10:03,PHI,,MIL,,G. Hill,MIL,Hill STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0226,2,06:11,PHI,,MIL,,G. Hill,MIL,SUB: Nwora FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0226,3,01:52,PHI,,MIL,,G. Hill,MIL,MISS Hill 26' 3PT Jump Shot,Missed Shot,Jump Shot,-42,254,26,1,3.0,0.0,v
+S2223-G0226,4,10:39,PHI,,MIL,,G. Hill,MIL,MISS Hill 3PT Jump Shot,Missed Shot,Jump Shot,-219,-8,0,1,3.0,0.0,v
+S2223-G0226,4,09:52,PHI,,MIL,,G. Hill,MIL,SUB: Carter FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0267,2,11:17,MIL,34.0,CHI,32.0,G. Hill,MIL,Hill Free Throw Flagrant 1 of 2 (1 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0267,2,11:17,MIL,35.0,CHI,32.0,G. Hill,MIL,Hill Free Throw Flagrant 2 of 2 (2 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0267,2,11:10,MIL,38.0,CHI,32.0,G. Hill,MIL,Hill 3PT Jump Shot (5 PTS) (G. Antetokounmpo 2 AST),Made Shot,Jump Shot,228,49,0,1,3.0,3.0,h
+S2223-G0267,2,10:34,MIL,,CHI,,G. Hill,MIL,SUB: Holiday FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0267,2,02:36,MIL,,CHI,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0267,2,02:18,MIL,,CHI,,G. Hill,MIL,MISS Hill 9' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,80,29,9,1,2.0,0.0,h
+S2223-G0267,2,00:57.900000,MIL,60.0,CHI,56.0,G. Hill,MIL,Hill 3PT Jump Shot (8 PTS) (G. Antetokounmpo 3 AST),Made Shot,Jump Shot,222,-5,0,1,3.0,3.0,h
+S2223-G0267,3,03:33,MIL,,CHI,,G. Hill,MIL,MISS Hill 27' 3PT Jump Shot,Missed Shot,Jump Shot,-59,264,27,1,3.0,0.0,h
+S2223-G0267,3,02:38,MIL,79.0,CHI,79.0,G. Hill,MIL,Hill 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,12,29,3,1,2.0,2.0,h
+S2223-G0267,3,01:40,MIL,,CHI,,G. Hill,MIL,MISS Hill 4' Driving Layup,Missed Shot,Driving Layup Shot,9,42,4,1,2.0,0.0,h
+S2223-G0267,4,11:37,MIL,,CHI,,G. Hill,MIL,MISS Hill 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,58,24,1,3.0,0.0,h
+S2223-G0267,4,09:46,MIL,,CHI,,G. Hill,MIL,SUB: Carter FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0695,1,01:40,CLE,21.0,MIL,26.0,G. Hill,MIL,Hill 24' 3PT Jump Shot (3 PTS) (Carter 2 AST),Made Shot,Jump Shot,241,6,24,1,3.0,3.0,v
+S2223-G0695,1,01:02,CLE,,MIL,,G. Hill,MIL,MISS Hill 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-138,257,29,1,3.0,0.0,v
+S2223-G0695,1,00:00.900000,CLE,,MIL,,G. Hill,MIL,MISS Hill 25' 3PT Jump Shot,Missed Shot,Jump Shot,211,126,25,1,3.0,0.0,v
+S2223-G0695,2,09:25,CLE,,MIL,,G. Hill,MIL,Hill P.FOUL (P1.T1) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0695,2,07:45,CLE,,MIL,,G. Hill,MIL,SUB: Connaughton FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0695,3,03:17,CLE,,MIL,,G. Hill,MIL,SUB: Lopez FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0695,3,00:02.200000,CLE,,MIL,,G. Hill,MIL,Hill STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0695,3,00:02.200000,CLE,86.0,MIL,80.0,G. Hill,MIL,Hill Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0695,3,00:02.200000,CLE,86.0,MIL,81.0,G. Hill,MIL,Hill Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0695,4,11:02,CLE,,MIL,,G. Hill,MIL,Hill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0695,4,07:05,CLE,,MIL,,G. Hill,MIL,SUB: Allen FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G1006,1,04:13,DET,19.0,IND,24.0,G. Hill,IND,Hill 3' Driving Layup (2 PTS) (Nembhard 3 AST),Made Shot,Driving Layup Shot,-22,17,3,1,2.0,2.0,v
+S2223-G1006,1,03:06,DET,,IND,,G. Hill,IND,MISS Hill 24' 3PT Jump Shot,Missed Shot,Jump Shot,-120,211,24,1,3.0,0.0,v
+S2223-G1006,1,01:54,DET,,IND,,G. Hill,IND,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1006,1,00:57.700000,DET,,IND,,G. Hill,IND,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1006,1,00:57.300000,DET,,IND,,G. Hill,IND,Hill Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1006,1,00:12.900000,DET,,IND,,G. Hill,IND,Hill Out of Bounds Lost Ball Turnover (P2.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G1006,2,08:31,DET,,IND,,G. Hill,IND,SUB: Nembhard FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G1006,3,00:20.400000,DET,,IND,,G. Hill,IND,Hill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1006,4,11:28,DET,,IND,,G. Hill,IND,Hill STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1006,4,11:25,DET,,IND,,G. Hill,IND,Hill Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1006,4,08:12,DET,,IND,,G. Hill,IND,Hill S.FOUL (P1.T1) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G1006,4,07:39,DET,,IND,,G. Hill,IND,Hill REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1006,4,07:36,DET,,IND,,G. Hill,IND,MISS Hill 3' Running Layup,Missed Shot,Running Layup Shot,-16,20,3,1,2.0,0.0,v
+S2223-G1006,4,06:29,DET,103.0,IND,110.0,G. Hill,IND,Hill 11' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-89,65,11,1,2.0,2.0,v
+S2223-G1006,4,04:34,DET,,IND,,G. Hill,IND,SUB: Duarte FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0251,1,01:07,MIL,,POR,,G. Hill,MIL,MISS Hill 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,52,24,1,3.0,0.0,h
+S2223-G0251,2,10:10,MIL,,POR,,G. Hill,MIL,SUB: Allen FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0251,2,00:54.200000,MIL,,POR,,G. Hill,MIL,Hill Violation:Kicked Ball (K.Scott),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0251,2,00:27.300000,MIL,,POR,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0251,3,03:07,MIL,,POR,,G. Hill,MIL,Hill STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0251,3,00:31.200000,MIL,,POR,,G. Hill,MIL,Hill BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0251,3,00:28.200000,MIL,,POR,,G. Hill,MIL,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0251,3,00:11.100000,MIL,,POR,,G. Hill,MIL,Hill STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0251,4,10:09,MIL,,POR,,G. Hill,MIL,SUB: Carter FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0251,4,05:09,MIL,,POR,,G. Hill,MIL,Hill REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0251,4,03:11,MIL,,POR,,G. Hill,MIL,Hill REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0251,4,01:40,MIL,,POR,,G. Hill,MIL,Hill REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0251,4,00:39.700000,MIL,,POR,,G. Hill,MIL,SUB: Green FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0085,2,02:06,MIL,,ATL,,G. Hill,MIL,SUB: Allen FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0085,3,04:15,MIL,,ATL,,G. Hill,MIL,Hill S.FOUL (P1.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0085,4,10:21,MIL,,ATL,,G. Hill,MIL,SUB: Carter FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0085,4,07:19,MIL,,ATL,,G. Hill,MIL,Hill P.FOUL (P2.T2) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2223-G0085,4,06:22,MIL,,ATL,,G. Hill,MIL,MISS Hill 26' 3PT Jump Shot,Missed Shot,Jump Shot,-189,180,26,1,3.0,0.0,h
+S2223-G0085,4,04:24,MIL,,ATL,,G. Hill,MIL,SUB: Portis FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0442,1,03:06,MIL,20.0,UTA,19.0,G. Hill,MIL,Hill 9' Driving Floating Jump Shot (2 PTS) (Mamukelashvili 1 AST),Made Shot,Driving Floating Jump Shot,-16,91,9,1,2.0,2.0,h
+S2223-G0442,1,01:46,MIL,,UTA,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0442,1,01:38,MIL,24.0,UTA,22.0,G. Hill,MIL,Hill 1' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,-2,8,1,1,2.0,2.0,h
+S2223-G0442,1,00:41.700000,MIL,,UTA,,G. Hill,MIL,Hill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0442,1,00:40.200000,MIL,,UTA,,G. Hill,MIL,Hill Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0442,1,00:02,MIL,,UTA,,G. Hill,MIL,Hill REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0442,2,11:26,MIL,30.0,UTA,22.0,G. Hill,MIL,Hill 24' 3PT Jump Shot (7 PTS) (Mamukelashvili 2 AST),Made Shot,Jump Shot,208,128,24,1,3.0,3.0,h
+S2223-G0442,2,08:33,MIL,,UTA,,G. Hill,MIL,Hill STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0442,2,08:28,MIL,,UTA,,G. Hill,MIL,SUB: Holiday FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0442,2,01:22,MIL,,UTA,,G. Hill,MIL,Hill Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0442,2,01:00,MIL,,UTA,,G. Hill,MIL,Hill REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0442,2,00:00.300000,MIL,,UTA,,G. Hill,MIL,MISS Hill 48' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,105,470,48,1,3.0,0.0,h
+S2223-G0442,3,02:52,MIL,,UTA,,G. Hill,MIL,Hill P.FOUL (P1.T3) (C.Flores),Foul,Personal,0,0,0,0,,,h
+S2223-G0442,3,00:11.100000,MIL,91.0,UTA,81.0,G. Hill,MIL,Hill Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0442,3,00:11.100000,MIL,92.0,UTA,81.0,G. Hill,MIL,Hill Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0442,4,10:18,MIL,,UTA,,G. Hill,MIL,Hill REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0442,4,10:14,MIL,,UTA,,G. Hill,MIL,Hill Out of Bounds Lost Ball Turnover (P3.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0442,4,07:46,MIL,,UTA,,G. Hill,MIL,SUB: Holiday FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0784,3,00:00.500000,MIL,,LAC,,G. Hill,MIL,SUB: Lopez FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0100,1,02:03,,,DET,,G. Hill,MIL,MISS Hill 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-74,256,27,1,3.0,0.0,h
+S2223-G0100,1,01:41,,,DET,,G. Hill,MIL,MISS Hill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0100,1,01:41,,32.0,DET,20.0,G. Hill,MIL,Hill Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0100,2,11:49,,,DET,,G. Hill,MIL,Hill P.FOUL (P1.T1) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G0100,2,10:51,,,DET,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0100,2,09:11,,,DET,,G. Hill,MIL,SUB: Beauchamp FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0100,2,01:45,,,DET,,G. Hill,MIL,MISS Hill 26' 3PT Jump Shot,Missed Shot,Jump Shot,-129,222,26,1,3.0,0.0,h
+S2223-G0100,3,03:17,,84.0,DET,69.0,G. Hill,MIL,Hill Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0100,3,03:17,,85.0,DET,69.0,G. Hill,MIL,Hill Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0100,4,11:47,,,DET,,G. Hill,MIL,MISS Hill 24' 3PT Jump Shot,Missed Shot,Jump Shot,-243,-13,24,1,3.0,0.0,h
+S2223-G0100,4,10:50,,,DET,,G. Hill,MIL,SUB: Lopez FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0100,4,03:39,,,DET,,G. Hill,MIL,SUB: G. Antetokounmpo FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0136,2,11:25,MIL,,OKC,,G. Hill,MIL,MISS Hill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0136,2,11:25,MIL,,OKC,,G. Hill,MIL,MISS Hill Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0136,2,11:03,MIL,,OKC,,G. Hill,MIL,Hill Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0136,2,08:18,MIL,,OKC,,G. Hill,MIL,SUB: Beauchamp FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0136,2,02:30,MIL,,OKC,,G. Hill,MIL,Hill Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0136,2,01:16,MIL,62.0,OKC,50.0,G. Hill,MIL,Hill 19' Jump Shot (2 PTS) (Ibaka 2 AST),Made Shot,Jump Shot,32,183,19,1,2.0,2.0,h
+S2223-G0136,2,00:33.700000,MIL,,OKC,,G. Hill,MIL,Hill P.FOUL (P1.T3) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2223-G0136,2,00:05.100000,MIL,,OKC,,G. Hill,MIL,Hill S.FOUL (P2.PN) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G0136,2,00:01,MIL,,OKC,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0136,2,00:00,MIL,,OKC,,G. Hill,MIL,MISS Hill 11' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,7,114,11,1,2.0,0.0,h
+S2223-G0136,4,06:41,MIL,,OKC,,G. Hill,MIL,Hill Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0136,4,05:56,MIL,,OKC,,G. Hill,MIL,Hill P.FOUL (P3.T1) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0136,4,04:40,MIL,,OKC,,G. Hill,MIL,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0136,4,03:13,MIL,,OKC,,G. Hill,MIL,SUB: Allen FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0033,1,04:24,MIL,,HOU,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0033,1,03:13,MIL,29.0,HOU,16.0,G. Hill,MIL,Hill 1' Running Layup (2 PTS) (Holiday 3 AST),Made Shot,Running Layup Shot,-10,8,1,1,2.0,2.0,h
+S2223-G0033,1,00:55.100000,MIL,,HOU,,G. Hill,MIL,MISS Hill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0033,1,00:55.100000,MIL,38.0,HOU,23.0,G. Hill,MIL,Hill Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0033,1,00:22.800000,MIL,41.0,HOU,23.0,G. Hill,MIL,Hill 26' 3PT Jump Shot (6 PTS) (G. Antetokounmpo 2 AST),Made Shot,Jump Shot,154,213,26,1,3.0,3.0,h
+S2223-G0033,2,01:01,MIL,,HOU,,G. Hill,MIL,Hill S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0033,3,02:01,MIL,,HOU,,G. Hill,MIL,MISS Hill 26' 3PT Jump Shot,Missed Shot,Jump Shot,-189,175,26,1,3.0,0.0,h
+S2223-G0033,3,01:40,MIL,,HOU,,G. Hill,MIL,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0033,4,10:54,MIL,,HOU,,G. Hill,MIL,SUB: Allen FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0033,4,04:59,MIL,114.0,HOU,97.0,G. Hill,MIL,Hill 26' 3PT Jump Shot (9 PTS) (Holiday 10 AST),Made Shot,Jump Shot,-223,126,26,1,3.0,3.0,h
+S2223-G0033,4,02:14,MIL,,HOU,,G. Hill,MIL,Hill Personal Take Foul (P2.T4) (J.DeRosa),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0033,4,02:14,MIL,,HOU,,G. Hill,MIL,SUB: Beauchamp FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G1136,1,00:02.600000,IND,,MIL,,G. Hill,IND,Hill S.FOUL (P1.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G1136,2,11:48,IND,,MIL,,G. Hill,IND,Hill STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1136,2,05:55,IND,,MIL,,G. Hill,IND,SUB: Brissett FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G1136,3,00:43.900000,IND,99.0,MIL,117.0,G. Hill,IND,Hill Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1136,3,00:43.900000,IND,100.0,MIL,117.0,G. Hill,IND,Hill Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1136,3,00:02.600000,IND,,MIL,,G. Hill,IND,SUB: Smith FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0859,2,09:06,IND,,UTA,,G. Hill,IND,Hill STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0859,2,08:38,IND,,UTA,,G. Hill,IND,SUB: Hield FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0859,4,08:29,IND,,UTA,,G. Hill,IND,SUB: Hield FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0204,2,07:52,MIL,,ATL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0204,2,06:52,MIL,,ATL,,G. Hill,MIL,MISS Hill 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,137,1,14,1,2.0,0.0,h
+S2223-G0204,2,03:03,MIL,,ATL,,G. Hill,MIL,SUB: Beauchamp FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0204,2,01:09,MIL,,ATL,,G. Hill,MIL,Hill Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0204,2,01:04,MIL,,ATL,,G. Hill,MIL,Hill BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0204,3,03:36,MIL,72.0,ATL,87.0,G. Hill,MIL,Hill Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0204,3,03:36,MIL,73.0,ATL,87.0,G. Hill,MIL,Hill Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0204,3,01:37,MIL,,ATL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0204,3,01:24,MIL,,ATL,,G. Hill,MIL,Hill Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0204,4,04:48,MIL,,ATL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0204,4,02:56,MIL,,ATL,,G. Hill,MIL,SUB: G. Antetokounmpo FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G1045,1,03:51,MIL,,IND,,G. Hill,IND,MISS Hill 3PT Jump Shot,Missed Shot,Jump Shot,221,0,0,1,3.0,0.0,v
+S2223-G1045,1,01:14,MIL,,IND,,G. Hill,IND,Hill STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1045,2,10:52,MIL,43.0,IND,35.0,G. Hill,IND,Hill 3PT Running Jump Shot (3 PTS) (McConnell 4 AST),Made Shot,Running Jump Shot,229,15,0,1,3.0,3.0,v
+S2223-G1045,2,09:59,MIL,43.0,IND,38.0,G. Hill,IND,Hill 25' 3PT Running Jump Shot (6 PTS) (Nwora 1 AST),Made Shot,Running Jump Shot,163,191,25,1,3.0,3.0,v
+S2223-G1045,2,06:24,MIL,,IND,,G. Hill,IND,SUB: Nembhard FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G1045,3,04:16,MIL,,IND,,G. Hill,IND,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1045,3,02:04,MIL,101.0,IND,95.0,G. Hill,IND,Hill 1' Driving Layup (8 PTS) (McConnell 7 AST),Made Shot,Driving Layup Shot,10,-1,1,1,2.0,2.0,v
+S2223-G1045,3,01:20,MIL,101.0,IND,99.0,G. Hill,IND,Hill 1' Running Dunk (10 PTS) (McConnell 8 AST),Made Shot,Running Dunk Shot,-11,4,1,1,2.0,2.0,v
+S2223-G1045,4,11:43,MIL,,IND,,G. Hill,IND,Hill S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G1045,4,10:41,MIL,105.0,IND,109.0,G. Hill,IND,Hill Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1045,4,10:41,MIL,105.0,IND,110.0,G. Hill,IND,Hill Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1045,4,10:07,MIL,105.0,IND,115.0,G. Hill,IND,Hill 24' 3PT Jump Shot (15 PTS) (Nembhard 5 AST),Made Shot,Jump Shot,236,4,24,1,3.0,3.0,v
+S2223-G1045,4,09:18,MIL,,IND,,G. Hill,IND,Hill P.FOUL (P2.T2) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G1045,4,09:18,MIL,,IND,,G. Hill,IND,SUB: Nesmith FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G1045,4,06:11,MIL,,IND,,G. Hill,IND,Hill BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1045,4,03:04,MIL,,IND,,G. Hill,IND,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1045,4,02:31,MIL,,IND,,G. Hill,IND,SUB: Nembhard FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0316,1,04:26,NYK,,MIL,,G. Hill,MIL,MISS Hill 26' 3PT Jump Shot,Missed Shot,Jump Shot,-154,209,26,1,3.0,0.0,v
+S2223-G0316,3,03:10,NYK,62.0,MIL,65.0,G. Hill,MIL,Hill 10' Driving Floating Jump Shot (2 PTS) (G. Antetokounmpo 5 AST),Made Shot,Driving Floating Jump Shot,5,104,10,1,2.0,2.0,v
+S2223-G0316,3,02:33,NYK,,MIL,,G. Hill,MIL,Hill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0316,3,02:31,NYK,65.0,MIL,67.0,G. Hill,MIL,Hill 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-9,4,1,1,2.0,2.0,v
+S2223-G0316,3,01:09,NYK,,MIL,,G. Hill,MIL,SUB: Connaughton FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0316,4,00:04.400000,NYK,,MIL,,G. Hill,MIL,Hill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0316,4,00:02.400000,NYK,,MIL,,G. Hill,MIL,MISS Hill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0316,4,00:02.400000,NYK,103.0,MIL,109.0,G. Hill,MIL,Hill Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0331,1,00:58.200000,MIL,,LAL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0331,1,00:43.200000,MIL,,LAL,,G. Hill,MIL,Hill S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G0331,2,09:15,MIL,,LAL,,G. Hill,MIL,SUB: Holiday FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0331,4,09:39,MIL,,LAL,,G. Hill,MIL,SUB: Carter FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0665,1,00:10.200000,MIL,44.0,TOR,31.0,G. Hill,MIL,Hill 26' 3PT Jump Shot (3 PTS) (Green 2 AST),Made Shot,Jump Shot,213,143,26,1,3.0,3.0,h
+S2223-G0665,1,00:00,MIL,,TOR,,G. Hill,MIL,MISS Hill 48' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,169,445,48,1,3.0,0.0,h
+S2223-G0665,2,11:09,MIL,46.0,TOR,36.0,G. Hill,MIL,Hill 17' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-116,119,17,1,2.0,2.0,h
+S2223-G0665,2,07:43,MIL,,TOR,,G. Hill,MIL,SUB: Holiday FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0665,3,01:57,MIL,,TOR,,G. Hill,MIL,MISS Hill 3PT Jump Shot,Missed Shot,Jump Shot,223,-11,0,1,3.0,0.0,h
+S2223-G0665,4,10:06,MIL,,TOR,,G. Hill,MIL,Hill S.FOUL (P1.T1) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0665,4,08:40,MIL,,TOR,,G. Hill,MIL,SUB: Allen FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0425,1,03:46,MEM,,MIL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0425,1,03:40,MEM,,MIL,,G. Hill,MIL,MISS Hill 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,121,245,27,1,3.0,0.0,v
+S2223-G0425,1,02:24,MEM,26.0,MIL,16.0,G. Hill,MIL,Hill 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,123,232,26,1,3.0,3.0,v
+S2223-G0425,1,00:59.400000,MEM,,MIL,,G. Hill,MIL,MISS Hill 25' 3PT Jump Shot,Missed Shot,Jump Shot,-114,225,25,1,3.0,0.0,v
+S2223-G0425,2,09:35,MEM,,MIL,,G. Hill,MIL,SUB: Beauchamp FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0425,2,01:05,MEM,66.0,MIL,39.0,G. Hill,MIL,Hill 2' Layup (5 PTS) (Middleton 3 AST),Made Shot,Layup Shot,15,6,2,1,2.0,2.0,v
+S2223-G0425,3,04:00,MEM,,MIL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0425,3,02:28,MEM,,MIL,,G. Hill,MIL,MISS Hill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,221,132,26,1,3.0,0.0,v
+S2223-G0425,3,01:51,MEM,,MIL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0425,3,01:02,MEM,,MIL,,G. Hill,MIL,MISS Hill 27' 3PT Jump Shot,Missed Shot,Jump Shot,-77,260,27,1,3.0,0.0,v
+S2223-G0425,3,00:30.300000,MEM,,MIL,,G. Hill,MIL,MISS Hill 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-44,265,27,1,3.0,0.0,v
+S2223-G0425,4,11:17,MEM,,MIL,,G. Hill,MIL,Hill P.FOUL (P1.T1) (M.Kallio),Foul,Personal,0,0,0,0,,,v
+S2223-G0425,4,10:14,MEM,,MIL,,G. Hill,MIL,SUB: Connaughton FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0075,1,01:44,MIL,,NYK,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0075,2,09:11,MIL,,NYK,,G. Hill,MIL,SUB: Allen FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0075,2,03:12,MIL,,NYK,,G. Hill,MIL,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0075,2,02:59,MIL,,NYK,,G. Hill,MIL,Hill P.FOUL (P1.T3) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2223-G0075,2,02:43,MIL,,NYK,,G. Hill,MIL,MISS Hill Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,h
+S2223-G0075,2,02:43,MIL,47.0,NYK,44.0,G. Hill,MIL,Hill Free Throw 2 of 3 (1 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0075,2,02:43,MIL,48.0,NYK,44.0,G. Hill,MIL,Hill Free Throw 3 of 3 (2 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0075,2,01:16,MIL,53.0,NYK,48.0,G. Hill,MIL,Hill 27' 3PT Jump Shot (5 PTS) (Lopez 2 AST),Made Shot,Jump Shot,-100,247,27,1,3.0,3.0,h
+S2223-G0075,2,00:28.500000,MIL,,NYK,,G. Hill,MIL,MISS Hill 27' 3PT Jump Shot,Missed Shot,Jump Shot,202,177,27,1,3.0,0.0,h
+S2223-G0075,3,04:26,MIL,90.0,NYK,66.0,G. Hill,MIL,Hill 26' 3PT Jump Shot (8 PTS) (G. Antetokounmpo 6 AST),Made Shot,Jump Shot,76,252,26,1,3.0,3.0,h
+S2223-G0075,3,01:00,MIL,96.0,NYK,80.0,G. Hill,MIL,Hill 18' Floating Jump Shot (10 PTS),Made Shot,Floating Jump shot,-127,128,18,1,2.0,2.0,h
+S2223-G0075,4,10:09,MIL,,NYK,,G. Hill,MIL,MISS Hill 25' 3PT Jump Shot,Missed Shot,Jump Shot,213,139,25,1,3.0,0.0,h
+S2223-G0075,4,10:09,MIL,,NYK,,G. Hill,MIL,Hill P.FOUL (P2.T1) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2223-G0075,4,08:59,MIL,,NYK,,G. Hill,MIL,SUB: Holiday FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0075,4,04:53,MIL,115.0,NYK,98.0,G. Hill,MIL,Hill 1' Running Layup (12 PTS) (G. Antetokounmpo 9 AST),Made Shot,Running Layup Shot,5,12,1,1,2.0,2.0,h
+S2223-G0075,4,04:23,MIL,,NYK,,G. Hill,MIL,Hill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0075,4,04:22,MIL,,NYK,,G. Hill,MIL,MISS Hill Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0075,4,04:21,MIL,,NYK,,G. Hill,MIL,Hill REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0075,4,04:20,MIL,,NYK,,G. Hill,MIL,MISS Hill Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0075,4,03:50,MIL,,NYK,,G. Hill,MIL,MISS Hill 27' 3PT Jump Shot,Missed Shot,Jump Shot,-99,256,27,1,3.0,0.0,h
+S2223-G0075,4,02:49,MIL,,NYK,,G. Hill,MIL,MISS Hill 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-4,24,1,3.0,0.0,h
+S2223-G0075,4,02:49,MIL,,NYK,,G. Hill,MIL,SUB: Lopez FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G1097,4,06:01,BOS,,IND,,G. Hill,IND,Hill Personal Take Foul (P1.T2) (R.Hussey),Foul,Personal Take,0,0,0,0,,,v
+S2223-G1097,4,05:51,BOS,,IND,,G. Hill,IND,Hill STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1097,4,05:25,BOS,,IND,,G. Hill,IND,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1097,4,01:27,BOS,,IND,,G. Hill,IND,MISS Hill 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,235,81,25,1,3.0,0.0,v
+S2223-G0583,4,06:40,MIL,95.0,CHA,122.0,G. Hill,MIL,Hill 15' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-70,136,15,1,2.0,2.0,h
+S2223-G0583,4,06:23,MIL,,CHA,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0583,4,02:01,MIL,,CHA,,G. Hill,MIL,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0583,4,01:43,MIL,,CHA,,G. Hill,MIL,Hill STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0583,4,00:23.700000,MIL,109.0,CHA,138.0,G. Hill,MIL,Hill 28' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-159,226,28,1,3.0,3.0,h
+S2223-G0280,1,05:10,MIL,,CLE,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0280,1,04:42,MIL,,CLE,,G. Hill,MIL,Hill Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0280,1,03:55,MIL,,CLE,,G. Hill,MIL,MISS Hill 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,6,64,6,1,2.0,0.0,h
+S2223-G0280,1,00:39.200000,MIL,,CLE,,G. Hill,MIL,SUB: Mamukelashvili FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0280,2,00:44.300000,MIL,,CLE,,G. Hill,MIL,Hill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0280,2,00:37,MIL,,CLE,,G. Hill,MIL,Hill S.FOUL (P1.PN) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G0280,2,00:33.500000,MIL,,CLE,,G. Hill,MIL,MISS Hill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0280,2,00:33.500000,MIL,,CLE,,G. Hill,MIL,MISS Hill Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0280,2,00:04.300000,MIL,52.0,CLE,63.0,G. Hill,MIL,Hill 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-66,77,10,1,2.0,2.0,h
+S2223-G0280,4,11:09,MIL,90.0,CLE,73.0,G. Hill,MIL,Hill 3PT Jump Shot (5 PTS) (Portis 4 AST),Made Shot,Jump Shot,-227,-3,0,1,3.0,3.0,h
+S2223-G0280,4,09:34,MIL,,CLE,,G. Hill,MIL,MISS Hill 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-148,230,27,1,3.0,0.0,h
+S2223-G0280,4,08:23,MIL,,CLE,,G. Hill,MIL,Hill S.FOUL (P2.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G0280,4,06:14,MIL,,CLE,,G. Hill,MIL,MISS Hill 3PT Jump Shot,Missed Shot,Jump Shot,-234,12,0,1,3.0,0.0,h
+S2223-G0280,4,05:59,MIL,,CLE,,G. Hill,MIL,SUB: Matthews FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G1203,1,01:41,IND,,DET,,G. Hill,IND,MISS Hill 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-116,6,12,1,2.0,0.0,h
+S2223-G1203,2,11:05,IND,,DET,,G. Hill,IND,SUB: Nembhard FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G1203,3,03:41,IND,80.0,DET,90.0,G. Hill,IND,Hill 26' 3PT Jump Shot (3 PTS) (York 3 AST),Made Shot,Jump Shot,-205,153,26,1,3.0,3.0,h
+S2223-G1203,3,00:31.400000,IND,,DET,,G. Hill,IND,Hill Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1203,4,08:40,IND,97.0,DET,104.0,G. Hill,IND,Hill 4' Running Finger Roll Layup (5 PTS),Made Shot,Running Finger Roll Layup Shot,31,17,4,1,2.0,2.0,h
+S2223-G1203,4,08:07,IND,,DET,,G. Hill,IND,MISS Hill 25' 3PT Jump Shot,Missed Shot,Jump Shot,-230,109,25,1,3.0,0.0,h
+S2223-G1203,4,07:56,IND,98.0,DET,107.0,G. Hill,IND,Hill Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1203,4,07:56,IND,99.0,DET,107.0,G. Hill,IND,Hill Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1203,4,07:05,IND,,DET,,G. Hill,IND,Hill S.FOUL (P1.T1) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G1203,4,05:36,IND,104.0,DET,112.0,G. Hill,IND,Hill 4' Driving Layup (9 PTS) (Hield 2 AST),Made Shot,Driving Layup Shot,39,19,4,1,2.0,2.0,h
+S2223-G1203,4,05:06,IND,,DET,,G. Hill,IND,Hill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1203,4,05:02,IND,,DET,,G. Hill,IND,SUB: Nembhard FOR Hill,Substitution,,0,0,0,0,,,h
+S2223-G0015,1,03:08,PHI,16.0,MIL,25.0,G. Hill,MIL,Hill 18' Pullup Jump Shot (2 PTS) (G. Antetokounmpo 2 AST),Made Shot,Pullup Jump shot,-108,147,18,1,2.0,2.0,v
+S2223-G0015,1,00:00.600000,PHI,,MIL,,G. Hill,MIL,Hill Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0015,2,04:31,PHI,,MIL,,G. Hill,MIL,Hill Offensive Charge Foul (P1) (J.Sterling),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0015,2,04:31,PHI,,MIL,,G. Hill,MIL,Hill Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0015,2,00:05,PHI,,MIL,,G. Hill,MIL,Hill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0015,3,00:09,PHI,,MIL,,G. Hill,MIL,Hill S.FOUL (P2.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2223-G0015,3,00:04.300000,PHI,61.0,MIL,73.0,G. Hill,MIL,Hill 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,4,15,2,1,2.0,2.0,v
+S2223-G0015,4,08:25,PHI,,MIL,,G. Hill,MIL,SUB: Portis FOR Hill,Substitution,,0,0,0,0,,,v
+S2223-G0019,2,06:06,,36.0,CHI,39.0,G. Hill,,Instant Replay2nd Period (7:52 PM EST),Instant Replay                          ,Replay Center,0,0,0,0,,,

@@ -1,0 +1,457 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0077,1,01:05,SAS,,CHI,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0077,2,10:32,SAS,,CHI,,I. Roby,SAS,Roby STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0077,2,09:14,SAS,,CHI,,I. Roby,SAS,MISS Roby 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-199,168,26,1,3.0,0.0,h
+S2223-G0077,2,09:14,SAS,,CHI,,I. Roby,SAS,SUB: McDermott FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0775,2,07:13,SAS,,SAC,,I. Roby,SAS,Roby Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0775,2,06:01,SAS,40.0,SAC,49.0,I. Roby,SAS,Roby 26' 3PT Jump Shot (3 PTS) (K. Johnson 1 AST),Made Shot,Jump Shot,202,163,26,1,3.0,3.0,h
+S2223-G0775,2,03:59,SAS,44.0,SAC,53.0,I. Roby,SAS,Roby 11' Fadeaway Jumper (5 PTS) (Branham 3 AST),Made Shot,Fadeaway Jump Shot,-26,111,11,1,2.0,2.0,h
+S2223-G0775,2,03:35,SAS,,SAC,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0333,1,04:27,SAS,,NOP,,I. Roby,SAS,Roby REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0333,1,02:39,SAS,,NOP,,I. Roby,SAS,Roby STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0333,1,01:07,SAS,22.0,NOP,23.0,I. Roby,SAS,Roby 5' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,2,47,5,1,2.0,2.0,h
+S2223-G0333,1,00:40.200000,SAS,,NOP,,I. Roby,SAS,Roby REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0333,2,11:12,SAS,,NOP,,I. Roby,SAS,Roby REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0333,2,11:12,SAS,,NOP,,I. Roby,SAS,Roby Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0333,2,10:45,SAS,,NOP,,I. Roby,SAS,MISS Roby 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,225,52,0,1,3.0,0.0,h
+S2223-G0333,2,10:30,SAS,,NOP,,I. Roby,SAS,SUB: Bates-Diop FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0333,2,04:00,SAS,,NOP,,I. Roby,SAS,SUB: Jones FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0333,4,10:10,SAS,,NOP,,I. Roby,SAS,MISS Roby 26' 3PT Jump Shot,Missed Shot,Jump Shot,-27,259,26,1,3.0,0.0,h
+S2223-G0333,4,08:33,SAS,81.0,NOP,92.0,I. Roby,SAS,Roby 25' 3PT Jump Shot (5 PTS) (Vassell 3 AST),Made Shot,Jump Shot,1,253,25,1,3.0,3.0,h
+S2223-G0333,4,07:44,SAS,83.0,NOP,92.0,I. Roby,SAS,Roby 10' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,99,10,1,2.0,2.0,h
+S2223-G0333,4,07:21,SAS,,NOP,,I. Roby,SAS,Roby REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0333,4,05:20,SAS,,NOP,,I. Roby,SAS,Roby Traveling Turnover (P2.T10),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0333,4,05:20,SAS,,NOP,,I. Roby,SAS,SUB: Jones FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0333,4,01:46,SAS,,NOP,,I. Roby,SAS,Roby REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0811,2,09:43,CHI,,SAS,,I. Roby,SAS,Roby Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0811,2,07:19,CHI,48.0,SAS,39.0,I. Roby,SAS,Roby 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,5,12,1,1,2.0,2.0,v
+S2223-G0811,2,06:46,CHI,,SAS,,I. Roby,SAS,SUB: K. Johnson FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0811,3,01:52,CHI,,SAS,,I. Roby,SAS,MISS Roby 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-61,-4,6,1,2.0,0.0,v
+S2223-G0811,3,01:36,CHI,,SAS,,I. Roby,SAS,Roby P.FOUL (P1.T4) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2223-G0811,3,00:53.300000,CHI,85.0,SAS,85.0,I. Roby,SAS,Roby 1' Layup (4 PTS) (Collins 2 AST),Made Shot,Layup Shot,-9,10,1,1,2.0,2.0,v
+S2223-G0811,4,11:43,CHI,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0811,4,11:02,CHI,,SAS,,I. Roby,SAS,Roby Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0811,4,10:20,CHI,,SAS,,I. Roby,SAS,SUB: Branham FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0811,4,03:38,CHI,,SAS,,I. Roby,SAS,MISS Roby 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,88,263,28,1,3.0,0.0,v
+S2223-G0811,4,02:08,CHI,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0811,4,01:59,CHI,126.0,SAS,96.0,I. Roby,SAS,Roby Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0811,4,01:59,CHI,126.0,SAS,97.0,I. Roby,SAS,Roby Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0811,4,01:29,CHI,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0811,4,01:11,CHI,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0811,4,01:03,CHI,126.0,SAS,104.0,I. Roby,SAS,Roby 8' Driving Floating Jump Shot (8 PTS) (Wesley 1 AST),Made Shot,Driving Floating Jump Shot,-18,78,8,1,2.0,2.0,v
+S2223-G0811,4,00:30.600000,CHI,,SAS,,I. Roby,SAS,MISS Roby 24' 3PT Jump Shot,Missed Shot,Jump Shot,-165,179,24,1,3.0,0.0,v
+S2223-G0387,1,02:29,MIA,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0387,1,02:07,MIA,,SAS,,I. Roby,SAS,Roby REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0387,1,02:07,MIA,,SAS,,I. Roby,SAS,Roby Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0387,1,01:27,MIA,26.0,SAS,20.0,I. Roby,SAS,Roby 8' Turnaround Hook Shot (2 PTS) (Collins 2 AST),Made Shot,Turnaround Hook Shot,-16,75,8,1,2.0,2.0,v
+S2223-G0387,1,01:16,MIA,,SAS,,I. Roby,SAS,Roby STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0387,1,01:13,MIA,26.0,SAS,22.0,I. Roby,SAS,Roby 8' Running Layup (4 PTS),Made Shot,Running Layup Shot,6,80,8,1,2.0,2.0,v
+S2223-G0387,1,01:13,MIA,26.0,SAS,23.0,I. Roby,SAS,Roby Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0387,1,00:27.900000,MIA,,SAS,,I. Roby,SAS,Roby REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0387,1,00:27.100000,MIA,,SAS,,I. Roby,SAS,MISS Roby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0387,1,00:27.100000,MIA,,SAS,,I. Roby,SAS,MISS Roby Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0387,1,00:08.300000,MIA,,SAS,,I. Roby,SAS,Roby S.FOUL (P1.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G0387,1,00:05.900000,MIA,,SAS,,I. Roby,SAS,Roby REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0387,1,00:00.500000,MIA,,SAS,,I. Roby,SAS,Roby STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0850,1,06:06,ATL,,SAS,,I. Roby,SAS,Roby S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2223-G0850,1,05:53,ATL,,SAS,,I. Roby,SAS,MISS Roby 25' 3PT Jump Shot,Missed Shot,Jump Shot,-98,229,25,1,3.0,0.0,v
+S2223-G0850,1,05:02,ATL,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0850,1,04:59,ATL,,SAS,,I. Roby,SAS,Roby Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0850,1,04:10,ATL,,SAS,,I. Roby,SAS,Roby Traveling Turnover (P2.T5),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0850,1,03:56,ATL,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0850,1,02:47,ATL,,SAS,,I. Roby,SAS,Roby BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0850,1,02:43,ATL,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0850,1,02:37,ATL,,SAS,,I. Roby,SAS,SUB: Dieng FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0850,2,09:01,ATL,,SAS,,I. Roby,SAS,MISS Roby 15' Jump Shot,Missed Shot,Jump Shot,-5,148,15,1,2.0,0.0,v
+S2223-G0850,2,08:19,ATL,,SAS,,I. Roby,SAS,Roby STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0850,2,06:17,ATL,,SAS,,I. Roby,SAS,MISS Roby 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,31,3,1,2.0,0.0,v
+S2223-G0850,2,05:27,ATL,,SAS,,I. Roby,SAS,SUB: Sochan FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0850,3,03:52,ATL,,SAS,,I. Roby,SAS,Roby L.B.FOUL (P2.T3) (N.Sago),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0850,3,03:30,ATL,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0850,3,02:47,ATL,,SAS,,I. Roby,SAS,Roby REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0850,3,02:03,ATL,84.0,SAS,75.0,I. Roby,SAS,Roby 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-11,17,2,1,2.0,2.0,v
+S2223-G0850,3,01:13,ATL,,SAS,,I. Roby,SAS,MISS Roby 4' Driving Layup,Missed Shot,Driving Layup Shot,-32,21,4,1,2.0,0.0,v
+S2223-G0850,3,00:31.400000,ATL,,SAS,,I. Roby,SAS,Roby P.FOUL (P3.T4) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0850,3,00:00.500000,ATL,,SAS,,I. Roby,SAS,Roby S.FOUL (P4.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0850,4,04:32,ATL,,SAS,,I. Roby,SAS,Roby Lost Ball Turnover (P3.T20),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0850,4,04:32,ATL,,SAS,,I. Roby,SAS,Roby P.FOUL (P5.T1) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0850,4,04:09,ATL,,SAS,,I. Roby,SAS,MISS Roby 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,49,260,26,1,3.0,0.0,v
+S2223-G0850,4,02:34,ATL,121.0,SAS,100.0,I. Roby,SAS,Roby 2' Running Layup (4 PTS) (Branham 1 AST),Made Shot,Running Layup Shot,0,22,2,1,2.0,2.0,v
+S2223-G0850,4,02:15,ATL,,SAS,,I. Roby,SAS,Roby REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0555,3,02:39,BKN,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0555,3,01:56,BKN,101.0,SAS,73.0,I. Roby,SAS,Roby 1' Driving Dunk (2 PTS) (Richardson 3 AST),Made Shot,Driving Dunk Shot,-11,4,1,1,2.0,2.0,v
+S2223-G0555,3,01:19,BKN,,SAS,,I. Roby,SAS,Roby S.FOUL (P1.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2223-G0555,3,00:01.700000,BKN,,SAS,,I. Roby,SAS,MISS Roby 25' 3PT Jump Shot,Missed Shot,Jump Shot,208,143,25,1,3.0,0.0,v
+S2223-G0555,4,08:36,BKN,,SAS,,I. Roby,SAS,Roby Offensive Charge Foul (P2) (S.Corbin),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0555,4,08:36,BKN,,SAS,,I. Roby,SAS,Roby Offensive Foul Turnover (P1.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0555,4,06:55,BKN,120.0,SAS,91.0,I. Roby,SAS,Roby 3' Driving Finger Roll Layup (4 PTS) (Dieng 3 AST),Made Shot,Driving Finger Roll Layup Shot,-21,22,3,1,2.0,2.0,v
+S2223-G0555,4,05:57,BKN,,SAS,,I. Roby,SAS,MISS Roby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0555,4,05:57,BKN,,SAS,,I. Roby,SAS,MISS Roby Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0555,4,03:51,BKN,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0555,4,03:06,BKN,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0555,4,03:05,BKN,,SAS,,I. Roby,SAS,MISS Roby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0555,4,03:05,BKN,130.0,SAS,98.0,I. Roby,SAS,Roby Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0555,4,00:48.100000,BKN,,SAS,,I. Roby,SAS,Roby REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0555,4,00:43.700000,BKN,,SAS,,I. Roby,SAS,MISS Roby 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-109,247,27,1,3.0,0.0,v
+S2223-G0555,4,00:37.100000,BKN,,SAS,,I. Roby,SAS,MISS Roby 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,-11,52,5,1,2.0,0.0,v
+S2223-G0406,1,09:37,SAS,,CLE,,I. Roby,SAS,Roby REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0406,1,09:35,SAS,6.0,CLE,5.0,I. Roby,SAS,Roby 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-16,0,2,1,2.0,2.0,h
+S2223-G0406,1,09:16,SAS,,CLE,,I. Roby,SAS,Roby REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0406,1,09:11,SAS,8.0,CLE,5.0,I. Roby,SAS,Roby 17' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-26,172,17,1,2.0,2.0,h
+S2223-G0406,1,08:34,SAS,10.0,CLE,5.0,I. Roby,SAS,Roby 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-23,10,3,1,2.0,2.0,h
+S2223-G0406,1,06:41,SAS,,CLE,,I. Roby,SAS,SUB: Richardson FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0406,2,09:02,SAS,,CLE,,I. Roby,SAS,Roby Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0406,2,08:16,SAS,,CLE,,I. Roby,SAS,Roby L.B.FOUL (P1.T3) (G.Petraitis),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0406,2,05:31,SAS,,CLE,,I. Roby,SAS,SUB: Vassell FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0406,3,11:01,SAS,,CLE,,I. Roby,SAS,MISS Roby 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,10,114,11,1,2.0,0.0,h
+S2223-G0406,3,10:31,SAS,68.0,CLE,51.0,I. Roby,SAS,Roby 27' 3PT Jump Shot (9 PTS) (Collins 3 AST),Made Shot,Jump Shot,176,200,27,1,3.0,3.0,h
+S2223-G0406,3,10:09,SAS,,CLE,,I. Roby,SAS,Roby REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0406,3,09:33,SAS,,CLE,,I. Roby,SAS,MISS Roby 27' 3PT Jump Shot,Missed Shot,Jump Shot,170,209,27,1,3.0,0.0,h
+S2223-G0406,3,07:52,SAS,,CLE,,I. Roby,SAS,MISS Roby 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,136,136,19,1,2.0,0.0,h
+S2223-G0406,3,07:28,SAS,,CLE,,I. Roby,SAS,SUB: Sochan FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0282,2,08:08,SAS,30.0,LAL,40.0,I. Roby,SAS,Roby 2' Running Finger Roll Layup (2 PTS) (Sochan 2 AST),Made Shot,Running Finger Roll Layup Shot,20,1,2,1,2.0,2.0,h
+S2223-G0282,2,06:34,SAS,,LAL,,I. Roby,SAS,MISS Roby 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,110,236,26,1,3.0,0.0,h
+S2223-G0282,2,05:11,SAS,,LAL,,I. Roby,SAS,MISS Roby 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,21,19,3,1,2.0,0.0,h
+S2223-G0282,2,04:55,SAS,,LAL,,I. Roby,SAS,SUB: Jones FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0282,4,11:35,SAS,,LAL,,I. Roby,SAS,Roby Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0282,4,10:49,SAS,78.0,LAL,81.0,I. Roby,SAS,Roby 26' 3PT Jump Shot (5 PTS) (Jones 5 AST),Made Shot,Jump Shot,-161,204,26,1,3.0,3.0,h
+S2223-G0282,4,09:52,SAS,,LAL,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0282,4,09:22,SAS,,LAL,,I. Roby,SAS,MISS Roby 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-15,0,2,1,2.0,0.0,h
+S2223-G0282,4,09:09,SAS,,LAL,,I. Roby,SAS,Roby P.FOUL (P1.T1) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2223-G0282,4,09:09,SAS,,LAL,,I. Roby,SAS,SUB: Sochan FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0345,1,03:10,SAS,,PHX,,I. Roby,SAS,Roby S.FOUL (P1.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0345,1,02:11,SAS,,PHX,,I. Roby,SAS,Roby S.FOUL (P2.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0345,1,01:13,SAS,,PHX,,I. Roby,SAS,SUB: Jones FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0345,2,08:51,SAS,,PHX,,I. Roby,SAS,MISS Roby 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,202,147,25,1,3.0,0.0,h
+S2223-G0345,2,08:26,SAS,,PHX,,I. Roby,SAS,Roby Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0345,2,07:42,SAS,,PHX,,I. Roby,SAS,MISS Roby 3PT Running Jump Shot,Missed Shot,Running Jump Shot,224,15,0,1,3.0,0.0,h
+S2223-G0345,2,07:20,SAS,,PHX,,I. Roby,SAS,SUB: Dieng FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0345,4,06:36,SAS,,PHX,,I. Roby,SAS,Roby REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0345,4,05:42,SAS,,PHX,,I. Roby,SAS,MISS Roby 25' 3PT Jump Shot,Missed Shot,Jump Shot,197,148,25,1,3.0,0.0,h
+S2223-G0345,4,04:25,SAS,,PHX,,I. Roby,SAS,Roby STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0345,4,04:19,SAS,,PHX,,I. Roby,SAS,MISS Roby 2' Running Layup,Missed Shot,Running Layup Shot,-16,-4,2,1,2.0,0.0,h
+S2223-G0345,4,04:05,SAS,,PHX,,I. Roby,SAS,MISS Roby 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-96,1,10,1,2.0,0.0,h
+S2223-G0345,4,02:23,SAS,,PHX,,I. Roby,SAS,Roby REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0345,4,02:13,SAS,90.0,PHX,124.0,I. Roby,SAS,Roby 5' Hook Shot (2 PTS) (Dieng 1 AST),Made Shot,Hook Shot,-4,50,5,1,2.0,2.0,h
+S2223-G0345,4,01:53,SAS,,PHX,,I. Roby,SAS,Roby REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0735,1,02:21,LAC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0735,1,02:21,LAC,,SAS,,I. Roby,SAS,MISS Roby Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0735,1,02:20,LAC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0735,1,02:20,LAC,28.0,SAS,20.0,I. Roby,SAS,Roby Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0735,1,01:18,LAC,,SAS,,I. Roby,SAS,MISS Roby 3' Driving Layup,Missed Shot,Driving Layup Shot,2,29,3,1,2.0,0.0,v
+S2223-G0735,1,00:50.900000,LAC,,SAS,,I. Roby,SAS,Roby S.FOUL (P1.PN) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2223-G0735,2,11:44,LAC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0735,2,11:44,LAC,41.0,SAS,27.0,I. Roby,SAS,Roby Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0735,2,11:14,LAC,43.0,SAS,29.0,I. Roby,SAS,Roby 3' Cutting Dunk Shot (6 PTS) (Collins 2 AST),Made Shot,Cutting Dunk Shot,-6,27,3,1,2.0,2.0,v
+S2223-G0735,2,11:14,LAC,,SAS,,I. Roby,SAS,MISS Roby Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0735,2,08:48,LAC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0735,2,08:38,LAC,,SAS,,I. Roby,SAS,SUB: K. Johnson FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0735,3,05:46,LAC,,SAS,,I. Roby,SAS,Roby S.FOUL (P2.T4) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2223-G0735,3,04:43,LAC,98.0,SAS,71.0,I. Roby,SAS,Roby 27' 3PT Jump Shot (9 PTS) (Poeltl 3 AST),Made Shot,Jump Shot,86,252,27,1,3.0,3.0,v
+S2223-G0735,3,02:33,LAC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0735,3,02:00,LAC,100.0,SAS,79.0,I. Roby,SAS,Roby 25' 3PT Jump Shot (12 PTS) (S. Johnson 1 AST),Made Shot,Jump Shot,-100,234,25,1,3.0,3.0,v
+S2223-G0735,4,06:04,LAC,,SAS,,I. Roby,SAS,MISS Roby 12' Jump Shot,Missed Shot,Jump Shot,114,25,12,1,2.0,0.0,v
+S2223-G0735,4,02:49,LAC,130.0,SAS,96.0,I. Roby,SAS,Roby Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0735,4,02:49,LAC,130.0,SAS,97.0,I. Roby,SAS,Roby Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0735,4,02:32,LAC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0735,4,01:55,LAC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0735,4,01:42,LAC,,SAS,,I. Roby,SAS,MISS Roby 3' Driving Layup,Missed Shot,Driving Layup Shot,-13,29,3,1,2.0,0.0,v
+S2223-G0826,1,05:32,TOR,13.0,SAS,17.0,I. Roby,SAS,Roby 9' Driving Floating Bank Jump Shot (2 PTS) (K. Johnson 1 AST),Made Shot,Driving Floating Bank Jump Shot,65,58,9,1,2.0,2.0,v
+S2223-G0826,1,05:10,TOR,,SAS,,I. Roby,SAS,Roby Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0826,1,04:40,TOR,,SAS,,I. Roby,SAS,Roby S.FOUL (P1.T3) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2223-G0826,1,04:19,TOR,,SAS,,I. Roby,SAS,Roby Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0826,1,02:19,TOR,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0826,1,01:06,TOR,31.0,SAS,24.0,I. Roby,SAS,Roby 3' Running Layup (4 PTS) (Wesley 1 AST),Made Shot,Running Layup Shot,29,9,3,1,2.0,2.0,v
+S2223-G0826,3,05:06,TOR,,SAS,,I. Roby,SAS,Roby S.FOUL (P2.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0826,3,04:30,TOR,82.0,SAS,68.0,I. Roby,SAS,Roby 24' 3PT Step Back Jump Shot (7 PTS) (Wesley 4 AST),Made Shot,Step Back Jump shot,225,78,24,1,3.0,3.0,v
+S2223-G0826,3,03:58,TOR,,SAS,,I. Roby,SAS,Roby Lost Ball Turnover (P3.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0826,3,03:35,TOR,,SAS,,I. Roby,SAS,MISS Roby 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,145,210,26,1,3.0,0.0,v
+S2223-G0826,3,03:30,TOR,,SAS,,I. Roby,SAS,Roby STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0826,3,03:15,TOR,,SAS,,I. Roby,SAS,Roby STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0826,3,02:01,TOR,86.0,SAS,71.0,I. Roby,SAS,Roby Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0826,3,02:01,TOR,,SAS,,I. Roby,SAS,MISS Roby Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0826,3,00:30.900000,TOR,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0826,4,06:00,TOR,,SAS,,I. Roby,SAS,Roby S.FOUL (P3.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2223-G0826,4,05:34,TOR,,SAS,,I. Roby,SAS,MISS Roby 2' Running Layup,Missed Shot,Running Layup Shot,21,4,2,1,2.0,0.0,v
+S2223-G0826,4,03:32,TOR,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0826,4,02:25,TOR,,SAS,,I. Roby,SAS,Roby P.FOUL (P4.T2) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0826,4,02:03,TOR,,SAS,,I. Roby,SAS,MISS Roby 26' 3PT Jump Shot,Missed Shot,Jump Shot,83,246,26,1,3.0,0.0,v
+S2223-G0826,4,00:07.600000,TOR,,SAS,,I. Roby,SAS,MISS Roby 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,34,81,9,1,2.0,0.0,v
+S2223-G0591,2,06:35,SAS,,BOS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0591,2,06:16,SAS,,BOS,,I. Roby,SAS,Roby S.FOUL (P1.T2) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0591,2,06:16,SAS,,BOS,,I. Roby,SAS,SUB: Sochan FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0180,4,01:05,SAS,,,,I. Roby,SAS,Roby Violation:Kicked Ball (J.Goble),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0138,2,09:39,DEN,,SAS,,I. Roby,SAS,SUB: Sochan FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0138,3,01:55,DEN,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0138,3,00:06.500000,DEN,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0138,3,00:06.100000,DEN,99.0,SAS,76.0,I. Roby,SAS,Roby 2' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,-9,20,2,1,2.0,2.0,v
+S2223-G0138,3,00:06.100000,DEN,,SAS,,I. Roby,SAS,MISS Roby Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0138,4,08:38,DEN,,SAS,,I. Roby,SAS,MISS Roby 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,55,28,6,1,2.0,0.0,v
+S2223-G0138,4,07:56,DEN,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0138,4,06:16,DEN,,SAS,,I. Roby,SAS,MISS Roby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0138,4,06:16,DEN,117.0,SAS,91.0,I. Roby,SAS,Roby Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0138,4,05:45,DEN,,SAS,,I. Roby,SAS,MISS Roby 26' 3PT Jump Shot,Missed Shot,Jump Shot,-20,256,26,1,3.0,0.0,v
+S2223-G0138,4,04:57,DEN,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0138,4,04:51,DEN,120.0,SAS,95.0,I. Roby,SAS,Roby 6' Running Layup (5 PTS),Made Shot,Running Layup Shot,-7,60,6,1,2.0,2.0,v
+S2223-G0138,4,04:15,DEN,,SAS,,I. Roby,SAS,MISS Roby 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-2,43,4,1,2.0,0.0,v
+S2223-G0138,4,03:20,DEN,120.0,SAS,99.0,I. Roby,SAS,Roby 3' Layup (7 PTS) (Branham 1 AST),Made Shot,Layup Shot,-26,22,3,1,2.0,2.0,v
+S2223-G0138,4,01:07,DEN,,SAS,,I. Roby,SAS,MISS Roby 5' Driving Layup,Missed Shot,Driving Layup Shot,1,47,5,1,2.0,0.0,v
+S2223-G0319,1,05:03,OKC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0319,1,04:55,OKC,17.0,SAS,23.0,I. Roby,SAS,Roby 5' Cutting Layup Shot (2 PTS) (K. Johnson 2 AST),Made Shot,Cutting Layup Shot,51,5,5,1,2.0,2.0,v
+S2223-G0319,1,04:12,OKC,19.0,SAS,25.0,I. Roby,SAS,Roby 3' Driving Dunk (4 PTS) (K. Johnson 3 AST),Made Shot,Driving Dunk Shot,-20,23,3,1,2.0,2.0,v
+S2223-G0319,1,03:10,OKC,,SAS,,I. Roby,SAS,MISS Roby 7' Driving Dunk,Missed Shot,Driving Dunk Shot,2,67,7,1,2.0,0.0,v
+S2223-G0319,1,02:50,OKC,,SAS,,I. Roby,SAS,MISS Roby 29' 3PT Jump Shot,Missed Shot,Jump Shot,-127,257,29,1,3.0,0.0,v
+S2223-G0319,1,02:45,OKC,,SAS,,I. Roby,SAS,Roby Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0319,1,01:28,OKC,,SAS,,I. Roby,SAS,SUB: Collins FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0319,2,10:37,OKC,,SAS,,I. Roby,SAS,Roby BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0319,2,10:26,OKC,,SAS,,I. Roby,SAS,Roby S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0319,2,09:14,OKC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0319,2,08:43,OKC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0319,2,07:22,OKC,,SAS,,I. Roby,SAS,SUB: A. Johnson FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0319,3,06:58,OKC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0319,3,06:01,OKC,,SAS,,I. Roby,SAS,Roby STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0319,3,03:37,OKC,,SAS,,I. Roby,SAS,MISS Roby 26' 3PT Jump Shot,Missed Shot,Jump Shot,-179,183,26,1,3.0,0.0,v
+S2223-G0319,3,02:40,OKC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0319,3,01:40,OKC,,SAS,,I. Roby,SAS,MISS Roby 27' 3PT Jump Shot,Missed Shot,Jump Shot,180,204,27,1,3.0,0.0,v
+S2223-G0319,4,06:10,OKC,,SAS,,I. Roby,SAS,Roby Violation:Defensive Goaltending (E.Lewis),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0319,4,05:46,OKC,,SAS,,I. Roby,SAS,SUB: Vassell FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0375,1,03:43,SAS,,HOU,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0375,1,02:54,SAS,,HOU,,I. Roby,SAS,Roby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0375,1,02:06,SAS,,HOU,,I. Roby,SAS,Roby Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0375,1,00:07,SAS,,HOU,,I. Roby,SAS,MISS Roby 26' 3PT Jump Shot,Missed Shot,Jump Shot,148,215,26,1,3.0,0.0,h
+S2223-G0375,3,06:31,SAS,,HOU,,I. Roby,SAS,MISS Roby 26' 3PT Jump Shot,Missed Shot,Jump Shot,89,241,26,1,3.0,0.0,h
+S2223-G0375,3,06:00,SAS,,HOU,,I. Roby,SAS,Roby STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0375,3,04:30,SAS,,HOU,,I. Roby,SAS,Roby REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0375,3,03:50,SAS,,HOU,,I. Roby,SAS,MISS Roby 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-70,-2,7,1,2.0,0.0,h
+S2223-G0375,3,02:38,SAS,,HOU,,I. Roby,SAS,Roby P.FOUL (P1.T3) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2223-G0375,3,02:21,SAS,,HOU,,I. Roby,SAS,Roby REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0375,3,00:30.900000,SAS,,HOU,,I. Roby,SAS,Roby REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0375,3,00:01.500000,SAS,,HOU,,I. Roby,SAS,Roby OFF.Foul (P2) (J.Schroeder),Foul,Offensive,0,0,0,0,,,h
+S2223-G0375,3,00:01.500000,SAS,,HOU,,I. Roby,SAS,Roby Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0375,4,05:53,SAS,,HOU,,I. Roby,SAS,Roby S.FOUL (P3.T2) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2223-G0375,4,05:01,SAS,,HOU,,I. Roby,SAS,Roby Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0375,4,04:30,SAS,,HOU,,I. Roby,SAS,SUB: Jones FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0288,2,03:49,SAS,,LAL,,I. Roby,SAS,Roby L.B.FOUL (P1.PN) (M.Smith),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0288,2,03:02,SAS,,LAL,,I. Roby,SAS,SUB: McDermott FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0288,3,06:54,SAS,,LAL,,I. Roby,SAS,MISS Roby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0288,3,06:54,SAS,,LAL,,I. Roby,SAS,MISS Roby Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0288,3,04:36,SAS,84.0,LAL,86.0,I. Roby,SAS,Roby 3PT Running Jump Shot (3 PTS) (Johnson 3 AST),Made Shot,Running Jump Shot,229,16,0,1,3.0,3.0,h
+S2223-G0288,3,04:08,SAS,,LAL,,I. Roby,SAS,Roby S.FOUL (P2.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0288,3,02:50,SAS,,LAL,,I. Roby,SAS,Roby S.FOUL (P3.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0288,3,02:34,SAS,,LAL,,I. Roby,SAS,SUB: Collins FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0288,3,01:35,SAS,95.0,LAL,100.0,I. Roby,SAS,Roby 7' Cutting Finger Roll Layup Shot (5 PTS) (Vassell 2 AST),Made Shot,Cutting Finger Roll Layup Shot,43,49,7,1,2.0,2.0,h
+S2223-G0288,3,00:43.100000,SAS,97.0,LAL,104.0,I. Roby,SAS,Roby 3' Driving Finger Roll Layup (7 PTS) (Branham 2 AST),Made Shot,Driving Finger Roll Layup Shot,-15,28,3,1,2.0,2.0,h
+S2223-G0288,4,11:49,SAS,,LAL,,I. Roby,SAS,Roby OFF.Foul (P4) (M.Smith),Foul,Offensive,0,0,0,0,,,h
+S2223-G0288,4,11:49,SAS,,LAL,,I. Roby,SAS,Roby Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0288,4,11:39,SAS,,LAL,,I. Roby,SAS,SUB: Bassey FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0288,4,07:46,SAS,110.0,LAL,121.0,I. Roby,SAS,Roby 24' 3PT Running Jump Shot (10 PTS) (Langford 4 AST),Made Shot,Running Jump Shot,230,67,24,1,3.0,3.0,h
+S2223-G0288,4,06:17,SAS,,LAL,,I. Roby,SAS,MISS Roby 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-26,20,3,1,2.0,0.0,h
+S2223-G0288,4,05:21,SAS,,LAL,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0288,4,04:24,SAS,,LAL,,I. Roby,SAS,Roby P.FOUL (P5.T4) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G0288,4,03:02,SAS,,LAL,,I. Roby,SAS,MISS Roby 26' 3PT Jump Shot,Missed Shot,Jump Shot,-4,264,26,1,3.0,0.0,h
+S2223-G0288,4,02:41,SAS,,LAL,,I. Roby,SAS,Roby S.FOUL (P6.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0288,4,02:41,SAS,,LAL,,I. Roby,SAS,SUB: Langford FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0420,2,11:18,SAS,29.0,POR,42.0,I. Roby,SAS,Roby Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0420,2,11:18,SAS,,POR,,I. Roby,SAS,MISS Roby Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0420,2,09:52,SAS,,POR,,I. Roby,SAS,MISS Roby 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-1,59,6,1,2.0,0.0,h
+S2223-G0420,2,09:52,SAS,,POR,,I. Roby,SAS,Roby Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0420,2,09:41,SAS,,POR,,I. Roby,SAS,SUB: Bassey FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0420,4,02:30,SAS,106.0,POR,122.0,I. Roby,SAS,Roby 27' 3PT Jump Shot (4 PTS) (S. Johnson 2 AST),Made Shot,Jump Shot,-130,235,27,1,3.0,3.0,h
+S2223-G0420,4,02:09,SAS,,POR,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0477,4,00:30.200000,NOP,,SAS,,I. Roby,SAS,Roby P.FOUL (P1.T3) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2223-G0154,2,01:42,SAS,,DEN,,I. Roby,SAS,Roby S.FOUL (P1.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0154,2,01:42,SAS,,DEN,,I. Roby,SAS,SUB: Jones FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0050,1,04:44,MIN,14.0,SAS,23.0,I. Roby,SAS,Roby 25' 3PT Step Back Jump Shot (3 PTS) (Johnson 2 AST),Made Shot,Step Back Jump shot,70,239,25,1,3.0,3.0,v
+S2223-G0050,1,04:18,MIN,17.0,SAS,26.0,I. Roby,SAS,Roby 3PT Jump Shot (6 PTS) (Poeltl 2 AST),Made Shot,Jump Shot,-227,-5,0,1,3.0,3.0,v
+S2223-G0050,1,02:35,MIN,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0050,1,02:08,MIN,,SAS,,I. Roby,SAS,MISS Roby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0050,1,02:08,MIN,,SAS,,I. Roby,SAS,MISS Roby Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0050,1,01:51,MIN,,SAS,,I. Roby,SAS,Roby P.FOUL (P1.T3) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0050,1,01:51,MIN,,SAS,,I. Roby,SAS,SUB: McDermott FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0050,2,05:00,MIN,,SAS,,I. Roby,SAS,MISS Roby 25' 3PT Jump Shot,Missed Shot,Jump Shot,124,220,25,1,3.0,0.0,v
+S2223-G0050,2,03:46,MIN,,SAS,,I. Roby,SAS,Roby P.FOUL (P2.T4) (J.Reneau),Foul,Personal,0,0,0,0,,,v
+S2223-G0050,2,03:09,MIN,,SAS,,I. Roby,SAS,MISS Roby 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,74,38,8,1,2.0,0.0,v
+S2223-G0050,2,03:03,MIN,,SAS,,I. Roby,SAS,Roby STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0050,2,02:53,MIN,,SAS,,I. Roby,SAS,SUB: Vassell FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0050,3,06:20,MIN,,SAS,,I. Roby,SAS,Roby REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0050,3,06:19,MIN,,SAS,,I. Roby,SAS,MISS Roby 1' Putback Layup,Missed Shot,Putback Layup Shot,2,8,1,1,2.0,0.0,v
+S2223-G0050,3,05:47,MIN,,SAS,,I. Roby,SAS,MISS Roby 25' 3PT Jump Shot,Missed Shot,Jump Shot,-146,204,25,1,3.0,0.0,v
+S2223-G0050,3,04:45,MIN,,SAS,,I. Roby,SAS,Roby Offensive Goaltending Turnover (P1.T5),Turnover,Offensive Goaltending,0,0,0,0,,,v
+S2223-G0050,3,03:53,MIN,,SAS,,I. Roby,SAS,Roby STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0050,3,01:58,MIN,,SAS,,I. Roby,SAS,SUB: McDermott FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0791,4,09:56,SAS,,PHI,,I. Roby,SAS,Roby S.FOUL (P1.T2) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0791,4,09:21,SAS,,PHI,,I. Roby,SAS,MISS Roby 27' 3PT Jump Shot,Missed Shot,Jump Shot,184,192,27,1,3.0,0.0,h
+S2223-G0791,4,07:50,SAS,,PHI,,I. Roby,SAS,Roby REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0791,4,07:48,SAS,,PHI,,I. Roby,SAS,MISS Roby 6' Putback Layup,Missed Shot,Putback Layup Shot,58,13,6,1,2.0,0.0,h
+S2223-G0791,4,05:23,SAS,110.0,PHI,122.0,I. Roby,SAS,Roby 9' Pullup Jump Shot (2 PTS) (S. Johnson 3 AST),Made Shot,Pullup Jump shot,37,79,9,1,2.0,2.0,h
+S2223-G0791,4,05:05,SAS,,PHI,,I. Roby,SAS,Roby STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0791,4,01:00,SAS,,PHI,,I. Roby,SAS,Roby S.FOUL (P2.PN) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0791,4,00:55.100000,SAS,,PHI,,I. Roby,SAS,Roby Bad Pass Turnover (P1.T18),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0791,4,00:41.400000,SAS,123.0,PHI,136.0,I. Roby,SAS,Roby 2' Cutting Dunk Shot (4 PTS) (Branham 2 AST),Made Shot,Cutting Dunk Shot,17,9,2,1,2.0,2.0,h
+S2223-G0247,2,10:34,LAL,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0247,2,09:10,LAL,,SAS,,I. Roby,SAS,Roby S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0247,2,08:41,LAL,,SAS,,I. Roby,SAS,Spurs T.Foul (Def. 3 Sec Roby ) (J.Williams),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0247,2,08:09,LAL,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0247,2,07:58,LAL,,SAS,,I. Roby,SAS,MISS Roby 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-91,25,9,1,2.0,0.0,v
+S2223-G0247,2,07:43,LAL,,SAS,,I. Roby,SAS,SUB: Sochan FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0247,3,04:35,LAL,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0247,3,02:49,LAL,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0247,3,00:29.500000,LAL,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0247,3,00:26.200000,LAL,95.0,SAS,67.0,I. Roby,SAS,Roby 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,-2,15,2,1,2.0,2.0,v
+S2223-G0247,4,04:47,LAL,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0247,4,04:23,LAL,,SAS,,I. Roby,SAS,Roby S.FOUL (P2.T3) (D.Mosher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0247,4,02:12,LAL,,SAS,,I. Roby,SAS,Roby REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0511,4,02:12,OKC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0511,4,02:11,OKC,126.0,SAS,108.0,I. Roby,SAS,Roby 6' Turnaround Bank Shot (2 PTS),Made Shot,Turnaround Bank shot,51,25,6,1,2.0,2.0,v
+S2223-G0585,1,02:01,SAS,,DET,,I. Roby,SAS,MISS Roby 26' 3PT Jump Shot,Missed Shot,Jump Shot,178,184,26,1,3.0,0.0,h
+S2223-G0585,3,11:39,SAS,,DET,,I. Roby,SAS,MISS Roby 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-61,-15,6,1,2.0,0.0,h
+S2223-G0585,3,07:50,SAS,59.0,DET,59.0,I. Roby,SAS,Roby Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0585,3,07:50,SAS,60.0,DET,59.0,I. Roby,SAS,Roby Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0585,3,07:35,SAS,,DET,,I. Roby,SAS,SUB: Branham FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0028,1,04:06,PHI,,SAS,,I. Roby,SAS,Roby BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0028,1,03:45,PHI,,SAS,,I. Roby,SAS,Roby REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0028,1,03:03,PHI,,SAS,,I. Roby,SAS,Roby REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0028,1,01:38,PHI,23.0,SAS,19.0,I. Roby,SAS,Roby 17' Pullup Jump Shot (2 PTS) (Richardson 1 AST),Made Shot,Pullup Jump shot,-167,-11,17,1,2.0,2.0,v
+S2223-G0028,1,01:29,PHI,,SAS,,I. Roby,SAS,Roby P.FOUL (P1.T1) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G0028,1,00:01.700000,PHI,,SAS,,I. Roby,SAS,Roby REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0028,1,00:00,PHI,,SAS,,I. Roby,SAS,MISS Roby Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0028,2,11:47,PHI,,SAS,,I. Roby,SAS,Roby STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0028,2,10:27,PHI,,SAS,,I. Roby,SAS,SUB: Sochan FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0028,2,02:02,PHI,,SAS,,I. Roby,SAS,Roby REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0028,2,00:33.900000,PHI,,SAS,,I. Roby,SAS,Roby S.FOUL (P2.PN) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0028,4,06:43,PHI,,SAS,,I. Roby,SAS,Roby Violation:Kicked Ball (T.Maddox),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0028,4,04:50,PHI,,SAS,,I. Roby,SAS,SUB: Primo FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0439,4,02:26,SAS,,MIA,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0205,1,02:54,GSW,,SAS,,I. Roby,SAS,MISS Roby 3PT Jump Shot,Missed Shot,Jump Shot,229,16,0,1,3.0,0.0,v
+S2223-G0205,1,01:10,GSW,,SAS,,I. Roby,SAS,MISS Roby 1' Driving Layup,Missed Shot,Driving Layup Shot,1,14,1,1,2.0,0.0,v
+S2223-G0205,2,09:29,GSW,,SAS,,I. Roby,SAS,SUB: Poeltl FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0205,2,02:57,GSW,,SAS,,I. Roby,SAS,MISS Roby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0205,2,02:57,GSW,56.0,SAS,40.0,I. Roby,SAS,Roby Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0205,2,02:42,GSW,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0205,2,02:34,GSW,56.0,SAS,43.0,I. Roby,SAS,Roby 25' 3PT Jump Shot (4 PTS) (Richardson 3 AST),Made Shot,Jump Shot,-72,237,25,1,3.0,3.0,v
+S2223-G0205,2,00:33.400000,GSW,,SAS,,I. Roby,SAS,Roby P.FOUL (P1.T3) (D.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0205,3,01:47,GSW,,SAS,,I. Roby,SAS,Roby S.FOUL (P2.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0205,3,01:05,GSW,,SAS,,I. Roby,SAS,MISS Roby 2' Layup,Missed Shot,Layup Shot,-10,16,2,1,2.0,0.0,v
+S2223-G0205,4,10:27,GSW,,SAS,,I. Roby,SAS,Roby Lost Ball Turnover (P1.T18),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0205,4,09:01,GSW,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0205,4,08:08,GSW,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0205,4,08:04,GSW,,SAS,,I. Roby,SAS,MISS Roby 5' Driving Layup,Missed Shot,Driving Layup Shot,-27,38,5,1,2.0,0.0,v
+S2223-G0205,4,07:42,GSW,111.0,SAS,80.0,I. Roby,SAS,Roby 2' Running Layup (6 PTS) (Hall 3 AST),Made Shot,Running Layup Shot,2,16,2,1,2.0,2.0,v
+S2223-G0205,4,06:30,GSW,111.0,SAS,82.0,I. Roby,SAS,Roby 1' Driving Layup (8 PTS) (Bates-Diop 2 AST),Made Shot,Driving Layup Shot,9,7,1,1,2.0,2.0,v
+S2223-G0205,4,06:30,GSW,,SAS,,I. Roby,SAS,SUB: Bassey FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0205,4,03:32,GSW,,SAS,,I. Roby,SAS,MISS Roby 27' 3PT Jump Shot,Missed Shot,Jump Shot,-82,254,27,1,3.0,0.0,v
+S2223-G0205,4,01:48,GSW,125.0,SAS,90.0,I. Roby,SAS,Roby Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0205,4,01:48,GSW,,SAS,,I. Roby,SAS,MISS Roby Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0205,4,01:09,GSW,,SAS,,I. Roby,SAS,Roby BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0205,4,01:09,GSW,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0205,4,00:39.500000,GSW,,SAS,,I. Roby,SAS,MISS Roby 27' 3PT Jump Shot,Missed Shot,Jump Shot,172,205,27,1,3.0,0.0,v
+S2223-G0858,1,05:19,CLE,,SAS,,I. Roby,SAS,Roby REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0835,1,11:37,DET,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0835,1,10:44,DET,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0835,1,08:46,DET,,SAS,,I. Roby,SAS,MISS Roby 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,150,213,26,1,3.0,0.0,v
+S2223-G0835,1,08:39,DET,,SAS,,I. Roby,SAS,Roby S.FOUL (P1.T2) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0835,1,06:41,DET,,SAS,,I. Roby,SAS,Roby L.B.FOUL (P2.T4) (M.Davis),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0835,1,05:07,DET,,SAS,,I. Roby,SAS,MISS Roby 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-16,11,2,1,2.0,0.0,v
+S2223-G0835,1,05:06,DET,,SAS,,I. Roby,SAS,Roby REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0835,1,05:04,DET,9.0,SAS,17.0,I. Roby,SAS,Roby 9' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,91,15,9,1,2.0,2.0,v
+S2223-G0835,1,05:04,DET,9.0,SAS,18.0,I. Roby,SAS,Roby Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0835,1,04:31,DET,,SAS,,I. Roby,SAS,SUB: Graham FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0835,2,04:08,DET,,SAS,,I. Roby,SAS,MISS Roby 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,126,125,18,1,2.0,0.0,v
+S2223-G0835,2,00:42.500000,DET,,SAS,,I. Roby,SAS,Roby REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0835,3,11:23,DET,,SAS,,I. Roby,SAS,Roby STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0835,3,09:13,DET,,SAS,,I. Roby,SAS,MISS Roby 3PT Jump Shot,Missed Shot,Jump Shot,230,2,0,1,3.0,0.0,v
+S2223-G0835,3,08:33,DET,,SAS,,I. Roby,SAS,MISS Roby 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,15,21,3,1,2.0,0.0,v
+S2223-G0835,3,07:40,DET,,SAS,,I. Roby,SAS,Roby Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0835,3,07:20,DET,,SAS,,I. Roby,SAS,Roby Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0835,3,06:22,DET,,SAS,,I. Roby,SAS,Roby P.FOUL (P3.T3) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G0835,3,06:22,DET,,SAS,,I. Roby,SAS,SUB: Graham FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0835,4,04:39,DET,,SAS,,I. Roby,SAS,MISS Roby 19' Jump Shot,Missed Shot,Jump Shot,-184,-26,19,1,2.0,0.0,v
+S2223-G0835,4,04:15,DET,,SAS,,I. Roby,SAS,SUB: S. Johnson FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0209,2,09:09,POR,,SAS,,I. Roby,SAS,MISS Roby 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,234,58,24,1,3.0,0.0,v
+S2223-G0209,2,08:47,POR,32.0,SAS,40.0,I. Roby,SAS,Roby 1' Running Dunk (2 PTS) (Jones 3 AST),Made Shot,Running Dunk Shot,-1,6,1,1,2.0,2.0,v
+S2223-G0209,2,08:47,POR,,SAS,,I. Roby,SAS,MISS Roby Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0209,2,07:29,POR,,SAS,,I. Roby,SAS,Roby S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2223-G0209,2,07:08,POR,,SAS,,I. Roby,SAS,MISS Roby 6' Layup,Missed Shot,Layup Shot,-58,15,6,1,2.0,0.0,v
+S2223-G0209,2,07:04,POR,,SAS,,I. Roby,SAS,Roby REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0209,2,07:04,POR,37.0,SAS,44.0,I. Roby,SAS,Roby 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,24,2,1,2.0,2.0,v
+S2223-G0209,2,03:53,POR,,SAS,,I. Roby,SAS,Roby Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0209,2,03:53,POR,,SAS,,I. Roby,SAS,SUB: Johnson FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0635,3,04:38,SAS,,GSW,,I. Roby,SAS,Roby STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0635,3,04:20,SAS,,GSW,,I. Roby,SAS,MISS Roby 24' 3PT Jump Shot,Missed Shot,Jump Shot,241,14,24,1,3.0,0.0,h
+S2223-G0635,3,04:04,SAS,,GSW,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0635,3,03:56,SAS,,GSW,,I. Roby,SAS,MISS Roby 27' 3PT Jump Shot,Missed Shot,Jump Shot,175,203,27,1,3.0,0.0,h
+S2223-G0635,3,01:10,SAS,,GSW,,I. Roby,SAS,SUB: Poeltl FOR Roby,Substitution,,0,0,0,0,,,h
+S2223-G0635,4,04:40,SAS,,GSW,,I. Roby,SAS,Roby Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0635,4,03:37,SAS,,GSW,,I. Roby,SAS,Roby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0635,4,01:36,SAS,,GSW,,I. Roby,SAS,Roby REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0635,4,01:34,SAS,107.0,GSW,142.0,I. Roby,SAS,Roby Running Layup (2 PTS),Made Shot,Running Layup Shot,-4,1,0,1,2.0,2.0,h
+S2223-G0635,4,00:33.600000,SAS,113.0,GSW,144.0,I. Roby,SAS,Roby 2' Running Dunk (4 PTS) (S. Johnson 3 AST),Made Shot,Running Dunk Shot,0,16,2,1,2.0,2.0,h
+S2223-G0711,4,05:54,POR,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0711,4,05:42,POR,,SAS,,I. Roby,SAS,MISS Roby 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,67,178,19,1,2.0,0.0,v
+S2223-G0711,4,05:25,POR,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0711,4,04:58,POR,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0711,4,02:19,POR,141.0,SAS,121.0,I. Roby,SAS,Roby Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0711,4,02:19,POR,,SAS,,I. Roby,SAS,MISS Roby Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0711,4,02:12,POR,,SAS,,I. Roby,SAS,MISS Roby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0711,4,02:12,POR,,SAS,,I. Roby,SAS,MISS Roby Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0711,4,01:08,POR,144.0,SAS,125.0,I. Roby,SAS,Roby 2' Layup (3 PTS),Made Shot,Layup Shot,1,18,2,1,2.0,2.0,v
+S2223-G0479,4,03:10,ORL,,SAS,,I. Roby,SAS,MISS Roby 3PT Jump Shot,Missed Shot,Jump Shot,-232,3,0,1,3.0,0.0,v
+S2223-G0479,4,01:28,ORL,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0269,1,03:20,SAS,,NOP,,I. Roby,SAS,MISS Roby Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0269,1,03:20,SAS,12.0,NOP,26.0,I. Roby,SAS,Roby Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0269,3,03:15,SAS,,NOP,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0269,3,01:44,SAS,,NOP,,I. Roby,SAS,MISS Roby 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-75,41,9,1,2.0,0.0,h
+S2223-G0269,3,00:57.700000,SAS,84.0,NOP,100.0,I. Roby,SAS,Roby 1' Dunk (3 PTS) (Vassell 8 AST),Made Shot,Dunk Shot,2,11,1,1,2.0,2.0,h
+S2223-G0269,3,00:01.700000,SAS,,NOP,,I. Roby,SAS,Roby S.FOUL (P1.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0269,4,04:21,SAS,,NOP,,I. Roby,SAS,Roby REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0269,4,04:20,SAS,99.0,NOP,118.0,I. Roby,SAS,Roby Putback Dunk (5 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0269,4,03:45,SAS,102.0,NOP,118.0,I. Roby,SAS,Roby 25' 3PT Jump Shot (8 PTS) (Dieng 1 AST),Made Shot,Jump Shot,217,128,25,1,3.0,3.0,h
+S2223-G0269,4,02:03,SAS,,NOP,,I. Roby,SAS,Roby REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0455,1,02:51,HOU,,SAS,,I. Roby,SAS,Roby S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0455,1,02:51,HOU,,SAS,,I. Roby,SAS,SUB: Sochan FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0455,4,02:01,HOU,,SAS,,I. Roby,SAS,MISS Roby 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,78,24,1,3.0,0.0,v
+S2223-G0239,1,04:16,LAC,22.0,SAS,15.0,I. Roby,SAS,Roby 25' 3PT Pullup Jump Shot (3 PTS) (Sochan 1 AST),Made Shot,Pullup Jump shot,152,204,25,1,3.0,3.0,v
+S2223-G0239,1,03:57,LAC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0239,1,02:25,LAC,,SAS,,I. Roby,SAS,Roby Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0239,1,01:05,LAC,,SAS,,I. Roby,SAS,SUB: Jones FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0239,2,04:30,LAC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0239,2,03:44,LAC,,SAS,,I. Roby,SAS,MISS Roby 25' 3PT Jump Shot,Missed Shot,Jump Shot,-76,242,25,1,3.0,0.0,v
+S2223-G0239,2,03:26,LAC,,SAS,,I. Roby,SAS,SUB: Richardson FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0239,4,11:32,LAC,93.0,SAS,71.0,I. Roby,SAS,Roby 3' Driving Layup (5 PTS) (Jones 9 AST),Made Shot,Driving Layup Shot,10,24,3,1,2.0,2.0,v
+S2223-G0239,4,11:10,LAC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0239,4,07:34,LAC,,SAS,,I. Roby,SAS,MISS Roby 25' 3PT Jump Shot,Missed Shot,Jump Shot,-217,125,25,1,3.0,0.0,v
+S2223-G0239,4,05:56,LAC,110.0,SAS,86.0,I. Roby,SAS,Roby Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2223-G0239,4,05:35,LAC,,SAS,,I. Roby,SAS,Roby STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0239,4,04:24,LAC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0239,4,04:24,LAC,110.0,SAS,89.0,I. Roby,SAS,Roby Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0239,4,04:24,LAC,110.0,SAS,90.0,I. Roby,SAS,Roby Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0239,4,03:14,LAC,,SAS,,I. Roby,SAS,MISS Roby 29' 3PT Jump Shot,Missed Shot,Jump Shot,-38,285,29,1,3.0,0.0,v
+S2223-G0239,4,02:59,LAC,,SAS,,I. Roby,SAS,Roby S.FOUL (P1.T4) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0239,4,02:28,LAC,,SAS,,I. Roby,SAS,Roby S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0239,4,01:18,LAC,,SAS,,I. Roby,SAS,MISS Roby 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-135,222,26,1,3.0,0.0,v
+S2223-G0062,1,02:31,MIN,,SAS,,I. Roby,SAS,MISS Roby 28' 3PT Jump Shot,Missed Shot,Jump Shot,-54,275,28,1,3.0,0.0,v
+S2223-G0062,1,02:17,MIN,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0062,1,01:41,MIN,35.0,SAS,28.0,I. Roby,SAS,Roby 2' Cutting Dunk Shot (2 PTS) (Collins 2 AST),Made Shot,Cutting Dunk Shot,-9,15,2,1,2.0,2.0,v
+S2223-G0062,2,03:16,MIN,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0062,2,03:13,MIN,,SAS,,I. Roby,SAS,Roby Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0062,2,00:33.600000,MIN,,SAS,,I. Roby,SAS,MISS Roby 4' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,-9,34,4,1,2.0,0.0,v
+S2223-G0062,4,03:06,MIN,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0062,4,02:42,MIN,,SAS,,I. Roby,SAS,SUB: Richardson FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0222,1,04:03,SAC,24.0,SAS,17.0,I. Roby,SAS,Roby 27' 3PT Pullup Jump Shot (3 PTS) (Bassey 1 AST),Made Shot,Pullup Jump shot,62,258,27,1,3.0,3.0,v
+S2223-G0222,1,01:40,SAC,,SAS,,I. Roby,SAS,Roby BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0222,1,00:00,SAC,37.0,SAS,28.0,I. Roby,SAS,Roby 28' 3PT Jump Shot (6 PTS) (Bassey 2 AST),Made Shot,Jump Shot,-18,275,28,1,3.0,3.0,v
+S2223-G0222,2,10:55,SAC,,SAS,,I. Roby,SAS,MISS Roby 6' Driving Layup,Missed Shot,Driving Layup Shot,-55,32,6,1,2.0,0.0,v
+S2223-G0222,2,10:02,SAC,41.0,SAS,36.0,I. Roby,SAS,Roby 3PT Jump Shot (9 PTS) (Jones 2 AST),Made Shot,Jump Shot,-230,22,0,1,3.0,3.0,v
+S2223-G0222,2,09:10,SAC,,SAS,,I. Roby,SAS,SUB: Hall FOR Roby,Substitution,,0,0,0,0,,,v
+S2223-G0222,2,02:03,SAC,56.0,SAS,51.0,I. Roby,SAS,Roby 1' Running Alley Oop Dunk Shot (11 PTS) (Jones 3 AST),Made Shot,Running Alley Oop Dunk Shot,-1,12,1,1,2.0,2.0,v
+S2223-G0222,2,01:13,SAC,,SAS,,I. Roby,SAS,Roby S.FOUL (P1.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0222,3,06:26,SAC,,SAS,,I. Roby,SAS,MISS Roby 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,104,179,21,1,2.0,0.0,v
+S2223-G0222,3,04:17,SAC,,SAS,,I. Roby,SAS,Roby S.FOUL (P2.T4) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G0222,3,03:40,SAC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0222,3,03:12,SAC,,SAS,,I. Roby,SAS,Roby S.FOUL (P3.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0222,3,02:09,SAC,,SAS,,I. Roby,SAS,Roby BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0222,4,03:23,SAC,,SAS,,I. Roby,SAS,Roby REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0222,4,03:13,SAC,,SAS,,I. Roby,SAS,MISS Roby 5' Driving Layup,Missed Shot,Driving Layup Shot,-11,50,5,1,2.0,0.0,v
+S2223-G0760,4,00:50.100000,SAS,,WAS,,I. Roby,SAS,MISS Roby 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-31,26,4,1,2.0,0.0,h
+S2223-G0760,4,00:45.300000,SAS,,WAS,,I. Roby,SAS,Roby REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0760,4,00:45.300000,SAS,,WAS,,I. Roby,SAS,MISS Roby Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h

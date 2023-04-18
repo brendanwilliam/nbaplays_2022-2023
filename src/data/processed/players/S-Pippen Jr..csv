@@ -1,0 +1,35 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0719,4,02:03,LAL,111.0,LAC,127.0,S. Pippen Jr.,LAL,Pippen Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0719,4,02:03,LAL,,LAC,,S. Pippen Jr.,LAL,MISS Pippen Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0719,4,01:53,LAL,,LAC,,S. Pippen Jr.,LAL,MISS Pippen Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,-10,46,5,1,2.0,0.0,h
+S2223-G0719,4,01:34,LAL,113.0,LAC,127.0,S. Pippen Jr.,LAL,Pippen Jr. 5' Fadeaway Jumper (3 PTS),Made Shot,Fadeaway Jump Shot,-48,4,5,1,2.0,2.0,h
+S2223-G0590,4,00:43.600000,LAL,,ATL,,S. Pippen Jr.,LAL,MISS Pippen Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,13,270,27,1,3.0,0.0,h
+S2223-G0157,4,05:59,UTA,,LAL,,S. Pippen Jr.,LAL,Pippen Jr. P.FOUL (P1.T2) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G0157,4,05:28,UTA,,LAL,,S. Pippen Jr.,LAL,Pippen Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0157,4,02:55,UTA,,LAL,,S. Pippen Jr.,LAL,MISS Pippen Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0157,4,02:55,UTA,131.0,LAL,111.0,S. Pippen Jr.,LAL,Pippen Jr. Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0157,4,02:28,UTA,,LAL,,S. Pippen Jr.,LAL,Pippen Jr. Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0157,4,01:56,UTA,,LAL,,S. Pippen Jr.,LAL,MISS Pippen Jr. 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,48,148,16,1,2.0,0.0,v
+S2223-G0157,4,01:44,UTA,,LAL,,S. Pippen Jr.,LAL,Pippen Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0157,4,00:05.100000,UTA,,LAL,,S. Pippen Jr.,LAL,MISS Pippen Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,34,-4,3,1,2.0,0.0,v
+S2223-G0157,4,00:03.800000,UTA,,LAL,,S. Pippen Jr.,LAL,Pippen Jr. P.FOUL (P2.T4) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G0459,2,11:19,PHX,,LAL,,S. Pippen Jr.,LAL,Pippen Jr. S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0459,2,11:04,PHX,,LAL,,S. Pippen Jr.,LAL,Pippen Jr. Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0459,2,09:39,PHX,,LAL,,S. Pippen Jr.,LAL,Pippen Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0459,2,09:07,PHX,,LAL,,S. Pippen Jr.,LAL,MISS Pippen Jr. 1' Running Layup,Missed Shot,Running Layup Shot,4,8,1,1,2.0,0.0,v
+S2223-G0459,2,07:33,PHX,,LAL,,S. Pippen Jr.,LAL,SUB: Beverley FOR Pippen Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0459,4,04:05,PHX,123.0,LAL,99.0,S. Pippen Jr.,LAL,Pippen Jr. 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,151,201,25,1,3.0,3.0,v
+S2223-G0459,4,02:58,PHX,,LAL,,S. Pippen Jr.,LAL,MISS Pippen Jr. 16' Jump Shot,Missed Shot,Jump Shot,2,159,16,1,2.0,0.0,v
+S2223-G0459,4,02:41,PHX,,LAL,,S. Pippen Jr.,LAL,Pippen Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0459,4,02:26,PHX,,LAL,,S. Pippen Jr.,LAL,MISS Pippen Jr. 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-20,145,15,1,2.0,0.0,v
+S2223-G0459,4,02:21,PHX,,LAL,,S. Pippen Jr.,LAL,Pippen Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0459,4,02:15,PHX,,LAL,,S. Pippen Jr.,LAL,MISS Pippen Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-228,56,0,1,3.0,0.0,v
+S2223-G0459,4,02:07,PHX,,LAL,,S. Pippen Jr.,LAL,Pippen Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0459,4,01:00,PHX,128.0,LAL,104.0,S. Pippen Jr.,LAL,Pippen Jr. Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0459,4,01:00,PHX,,LAL,,S. Pippen Jr.,LAL,MISS Pippen Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0002,4,00:45.100000,GSW,123.0,LAL,105.0,S. Pippen Jr.,LAL,Pippen Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0002,4,00:45.100000,GSW,123.0,LAL,106.0,S. Pippen Jr.,LAL,Pippen Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0609,4,00:56,DEN,120.0,,107.0,S. Pippen Jr.,LAL,Pippen Jr. 3' Driving Finger Roll Layup (2 PTS) (Swider 3 AST),Made Shot,Driving Finger Roll Layup Shot,26,11,3,1,2.0,2.0,v
+S2223-G0609,4,00:33,DEN,122.0,,109.0,S. Pippen Jr.,LAL,Pippen Jr. 3' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,10,32,3,1,2.0,2.0,v
+S2223-G0609,4,00:33,DEN,,,,S. Pippen Jr.,LAL,MISS Pippen Jr. Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0609,4,00:19.200000,DEN,,,,S. Pippen Jr.,LAL,Pippen Jr. STEAL (1 STL),,,0,0,0,0,,,v

@@ -1,0 +1,52 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G1169,4,03:11,ORL,118.0,DET,94.0,B. Boeheim,DET,Boeheim 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,34,46,6,1,2.0,2.0,v
+S2223-G1169,4,02:52,ORL,,DET,,B. Boeheim,DET,Boeheim REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1169,4,02:33,ORL,,DET,,B. Boeheim,DET,Boeheim S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G1020,1,01:03,DET,,IND,,B. Boeheim,DET,Boeheim STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1020,1,00:02.100000,DET,,IND,,B. Boeheim,DET,MISS Boeheim 3PT Jump Shot,Missed Shot,Jump Shot,-229,34,0,1,3.0,0.0,h
+S2223-G1020,2,05:41,DET,,IND,,B. Boeheim,DET,MISS Boeheim 26' 3PT Jump Shot,Missed Shot,Jump Shot,205,155,26,1,3.0,0.0,h
+S2223-G1020,2,04:11,DET,,IND,,B. Boeheim,DET,Boeheim P.FOUL (P1.T4) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2223-G1020,2,03:24,DET,,IND,,B. Boeheim,DET,SUB: Hampton FOR Boeheim,Substitution,,0,0,0,0,,,h
+S2223-G1020,3,02:31,DET,,IND,,B. Boeheim,DET,MISS Boeheim 3PT Jump Shot,Missed Shot,Jump Shot,228,15,0,1,3.0,0.0,h
+S2223-G1020,3,02:21,DET,,IND,,B. Boeheim,DET,MISS Boeheim 25' 3PT Jump Shot,Missed Shot,Jump Shot,-190,168,25,1,3.0,0.0,h
+S2223-G1020,3,00:05.600000,DET,,IND,,B. Boeheim,DET,MISS Boeheim 25' 3PT Jump Shot,Missed Shot,Jump Shot,-195,151,25,1,3.0,0.0,h
+S2223-G1020,4,09:50,DET,,IND,,B. Boeheim,DET,Boeheim STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1020,4,07:38,DET,103.0,IND,74.0,B. Boeheim,DET,Boeheim 24' 3PT Jump Shot (3 PTS) (Joseph 5 AST),Made Shot,Jump Shot,-165,180,24,1,3.0,3.0,h
+S2223-G1020,4,06:28,DET,,IND,,B. Boeheim,DET,MISS Boeheim 27' 3PT Jump Shot,Missed Shot,Jump Shot,157,219,27,1,3.0,0.0,h
+S2223-G1020,4,04:40,DET,,IND,,B. Boeheim,DET,SUB: Omoruyi FOR Boeheim,Substitution,,0,0,0,0,,,h
+S2223-G1066,1,01:01,DET,,MIA,,B. Boeheim,DET,MISS Boeheim 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,235,22,24,1,3.0,0.0,h
+S2223-G1066,1,00:53.700000,DET,,MIA,,B. Boeheim,DET,Boeheim P.FOUL (P1.T4) (J.Butler),Foul,Personal,0,0,0,0,,,h
+S2223-G1066,1,00:28.300000,DET,,MIA,,B. Boeheim,DET,MISS Boeheim 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,68,24,1,3.0,0.0,h
+S2223-G1066,2,10:24,DET,,MIA,,B. Boeheim,DET,MISS Boeheim 27' 3PT Jump Shot,Missed Shot,Jump Shot,-200,179,27,1,3.0,0.0,h
+S2223-G1066,2,09:13,DET,,MIA,,B. Boeheim,DET,MISS Boeheim 24' 3PT Jump Shot,Missed Shot,Jump Shot,241,38,24,1,3.0,0.0,h
+S2223-G1066,2,08:15,DET,,MIA,,B. Boeheim,DET,MISS Boeheim 27' 3PT Jump Shot,Missed Shot,Jump Shot,186,196,27,1,3.0,0.0,h
+S2223-G1066,2,07:59,DET,,MIA,,B. Boeheim,DET,Boeheim REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1066,2,07:34,DET,,MIA,,B. Boeheim,DET,SUB: McGruder FOR Boeheim,Substitution,,0,0,0,0,,,h
+S2223-G1028,2,11:30,WAS,,DET,,B. Boeheim,DET,MISS Boeheim 30' 3PT Jump Shot,Missed Shot,Jump Shot,179,235,30,1,3.0,0.0,v
+S2223-G1028,2,07:59,WAS,,DET,,B. Boeheim,DET,Boeheim REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1028,2,07:59,WAS,44.0,DET,28.0,B. Boeheim,DET,Boeheim Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1028,2,07:59,WAS,44.0,DET,29.0,B. Boeheim,DET,Boeheim Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1028,2,07:08,WAS,46.0,DET,32.0,B. Boeheim,DET,Boeheim 24' 3PT Jump Shot (5 PTS) (Joseph 2 AST),Made Shot,Jump Shot,-238,-6,24,1,3.0,3.0,v
+S2223-G1028,2,06:42,WAS,,DET,,B. Boeheim,DET,MISS Boeheim 24' 3PT Jump Shot,Missed Shot,Jump Shot,225,96,24,1,3.0,0.0,v
+S2223-G1028,2,05:02,WAS,,DET,,B. Boeheim,DET,MISS Boeheim 14' Running Jump Shot,Missed Shot,Running Jump Shot,143,17,14,1,2.0,0.0,v
+S2223-G1028,2,05:01,WAS,,DET,,B. Boeheim,DET,Boeheim REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1028,2,02:51,WAS,,DET,,B. Boeheim,DET,MISS Boeheim 27' 3PT Jump Shot,Missed Shot,Jump Shot,181,204,27,1,3.0,0.0,v
+S2223-G1028,2,02:33,WAS,,DET,,B. Boeheim,DET,Boeheim P.FOUL (P1.T1) (S.Jelks),Foul,Personal,0,0,0,0,,,v
+S2223-G1028,2,02:33,WAS,,DET,,B. Boeheim,DET,SUB: Hampton FOR Boeheim,Substitution,,0,0,0,0,,,v
+S2223-G1028,3,00:22.600000,WAS,,DET,,B. Boeheim,DET,Boeheim S.FOUL (P2.PN) (S.Jelks),Foul,Shooting,0,0,0,0,,,v
+S2223-G1028,4,10:10,WAS,94.0,DET,80.0,B. Boeheim,DET,Boeheim 24' 3PT Jump Shot (8 PTS) (Joseph 4 AST),Made Shot,Jump Shot,240,10,24,1,3.0,3.0,v
+S2223-G1028,4,08:17,WAS,,DET,,B. Boeheim,DET,MISS Boeheim 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,33,268,27,1,3.0,0.0,v
+S2223-G1028,4,04:03,WAS,,DET,,B. Boeheim,DET,SUB: Wiseman FOR Boeheim,Substitution,,0,0,0,0,,,v
+S2223-G1078,4,01:46,ATL,,DET,,B. Boeheim,DET,MISS Boeheim 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-152,228,27,1,3.0,0.0,v
+S2223-G1042,2,06:50,DET,,DEN,,B. Boeheim,DET,SUB: Omoruyi FOR Boeheim,Substitution,,0,0,0,0,,,h
+S2223-G0957,4,04:42,CLE,,DET,,B. Boeheim,DET,MISS Boeheim 26' 3PT Jump Shot,Missed Shot,Jump Shot,-223,142,26,1,3.0,0.0,v
+S2223-G0957,4,01:59,CLE,,DET,,B. Boeheim,DET,Boeheim REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0957,4,01:49,CLE,,DET,,B. Boeheim,DET,MISS Boeheim 26' 3PT Jump Shot,Missed Shot,Jump Shot,230,116,26,1,3.0,0.0,v
+S2223-G0957,4,01:27,CLE,112.0,DET,85.0,B. Boeheim,DET,Boeheim 3PT Jump Shot (3 PTS) (Livers 2 AST),Made Shot,Jump Shot,232,17,0,1,3.0,3.0,v
+S2223-G1203,2,06:37,IND,,DET,,B. Boeheim,DET,Boeheim P.FOUL (P1.PN) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2223-G1203,2,05:54,IND,,DET,,B. Boeheim,DET,SUB: Bagley III FOR Boeheim,Substitution,,0,0,0,0,,,v
+S2223-G1223,4,10:05,CHI,,DET,,B. Boeheim,DET,Boeheim REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1223,4,05:41,CHI,,DET,,B. Boeheim,DET,SUB: Hayes FOR Boeheim,Substitution,,0,0,0,0,,,v
+S2223-G1223,4,03:42,CHI,,DET,,B. Boeheim,DET,MISS Boeheim 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-22,24,1,3.0,0.0,v
+S2223-G1223,4,00:40.200000,CHI,,DET,,B. Boeheim,DET,MISS Boeheim 3PT Jump Shot,Missed Shot,Jump Shot,-224,11,0,1,3.0,0.0,v
+S2223-G1223,4,00:35.200000,CHI,,DET,,B. Boeheim,DET,MISS Boeheim 3PT Jump Shot,Missed Shot,Jump Shot,-230,-13,0,1,3.0,0.0,v

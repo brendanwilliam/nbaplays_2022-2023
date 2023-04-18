@@ -1,0 +1,92 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G1217,1,09:53,BKN,,PHI,,J. Springer,PHI,SUB: McClung FOR Springer,Substitution,,0,0,0,0,,,v
+S2223-G1057,4,02:44,IND,,PHI,,J. Springer,PHI,Springer REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1057,4,01:16,IND,,PHI,,J. Springer,PHI,MISS Springer 26' 3PT Jump Shot,Missed Shot,Jump Shot,130,226,26,1,3.0,0.0,v
+S2223-G1016,4,02:41,PHI,,WAS,,J. Springer,PHI,Springer STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1016,4,01:48,PHI,,WAS,,J. Springer,PHI,Springer REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1016,4,01:30,PHI,,WAS,,J. Springer,PHI,Springer STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1016,4,01:02,PHI,,WAS,,J. Springer,PHI,MISS Springer 3PT Jump Shot,Missed Shot,Jump Shot,-232,6,0,1,3.0,0.0,h
+S2223-G1103,4,00:26.600000,GSW,,PHI,,J. Springer,PHI,SUB: Niang FOR Springer,Substitution,,0,0,0,0,,,v
+S2223-G1103,4,00:01.900000,GSW,,PHI,,J. Springer,PHI,MISS Springer 12' Floating Jump Shot,Missed Shot,Floating Jump shot,26,115,12,1,2.0,0.0,v
+S2223-G0545,4,03:32,OKC,,PHI,,J. Springer,PHI,Springer S.FOUL (P1.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0545,4,03:19,OKC,,PHI,,J. Springer,PHI,Springer REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0545,4,03:17,OKC,86.0,PHI,111.0,J. Springer,PHI,Springer 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-4,-4,1,1,2.0,2.0,v
+S2223-G0545,4,02:29,OKC,,PHI,,J. Springer,PHI,Springer REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0545,4,01:08,OKC,,PHI,,J. Springer,PHI,Springer P.FOUL (P2.PN) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2223-G0545,4,00:55.200000,OKC,,PHI,,J. Springer,PHI,MISS Springer 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-6,135,14,1,2.0,0.0,v
+S2223-G1047,4,04:54,CHA,,PHI,,J. Springer,PHI,Springer STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1047,4,04:39,CHA,,PHI,,J. Springer,PHI,MISS Springer 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-40,95,10,1,2.0,0.0,v
+S2223-G1047,4,04:29,CHA,,PHI,,J. Springer,PHI,Springer S.FOUL (P1.T3) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G1047,4,03:44,CHA,,PHI,,J. Springer,PHI,Springer S.FOUL (P2.T4) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G1047,4,00:39.400000,CHA,80.0,PHI,121.0,J. Springer,PHI,Springer 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,11,8,1,1,2.0,2.0,v
+S2223-G1087,4,02:13,CHI,87.0,PHI,114.0,J. Springer,PHI,Springer 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,0,82,8,1,2.0,2.0,v
+S2223-G1087,4,00:35,CHI,,PHI,,J. Springer,PHI,Springer REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1087,4,00:31.600000,CHI,,PHI,,J. Springer,PHI,MISS Springer 2' Driving Layup,Missed Shot,Driving Layup Shot,4,15,2,1,2.0,0.0,v
+S2223-G0399,4,00:57.700000,PHI,,CHA,,J. Springer,PHI,Springer Personal Take Foul (P1.PN) (D.Taylor),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0399,4,00:44.300000,PHI,,CHA,,J. Springer,PHI,Springer Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0073,4,01:27,TOR,87.0,PHI,108.0,J. Springer,PHI,Springer 15' Jump Shot (2 PTS) (Milton 1 AST),Made Shot,Jump Shot,-110,99,15,1,2.0,2.0,v
+S2223-G0073,4,00:56.900000,TOR,,PHI,,J. Springer,PHI,Springer S.FOUL (P1.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0073,4,00:35.600000,TOR,90.0,PHI,112.0,J. Springer,PHI,Springer 8' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-1,84,8,1,2.0,2.0,v
+S2223-G0044,4,01:18,PHI,,IND,,J. Springer,PHI,Springer BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0044,4,01:08,PHI,,IND,,J. Springer,PHI,Springer REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0044,4,00:59.700000,PHI,120.0,IND,101.0,J. Springer,PHI,Springer Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0044,4,00:59.700000,PHI,,IND,,J. Springer,PHI,MISS Springer Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0044,4,00:56.400000,PHI,,IND,,J. Springer,PHI,Springer REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0044,4,00:53.300000,PHI,,IND,,J. Springer,PHI,MISS Springer 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,56,169,18,1,2.0,0.0,h
+S2223-G1205,1,11:24,ATL,,PHI,,J. Springer,PHI,Springer S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G1205,1,11:18,ATL,1.0,PHI,4.0,J. Springer,PHI,Springer 1' Running Layup (2 PTS) (Niang 1 AST),Made Shot,Running Layup Shot,1,6,1,1,2.0,2.0,v
+S2223-G1205,1,08:43,ATL,,PHI,,J. Springer,PHI,Springer Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1205,1,06:43,ATL,,PHI,,J. Springer,PHI,MISS Springer 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-100,99,14,1,2.0,0.0,v
+S2223-G1205,1,06:38,ATL,17.0,PHI,17.0,J. Springer,PHI,Springer 26' 3PT Jump Shot (5 PTS) (Reed 1 AST),Made Shot,Jump Shot,-184,183,26,1,3.0,3.0,v
+S2223-G1205,1,04:38,ATL,,PHI,,J. Springer,PHI,MISS Springer 2' Driving Layup,Missed Shot,Driving Layup Shot,20,14,2,1,2.0,0.0,v
+S2223-G1205,1,03:13,ATL,,PHI,,J. Springer,PHI,SUB: McClung FOR Springer,Substitution,,0,0,0,0,,,v
+S2223-G1205,2,09:58,ATL,,PHI,,J. Springer,PHI,MISS Springer 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-227,36,0,1,3.0,0.0,v
+S2223-G1205,2,06:56,ATL,,PHI,,J. Springer,PHI,Springer BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1205,2,06:00,ATL,,PHI,,J. Springer,PHI,Springer REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,2,04:51,ATL,49.0,PHI,44.0,J. Springer,PHI,Springer 5' Driving Floating Jump Shot (7 PTS) (Milton 3 AST),Made Shot,Driving Floating Jump Shot,2,53,5,1,2.0,2.0,v
+S2223-G1205,2,04:37,ATL,49.0,PHI,46.0,J. Springer,PHI,Springer 1' Running Dunk (9 PTS) (Milton 4 AST),Made Shot,Running Dunk Shot,0,9,1,1,2.0,2.0,v
+S2223-G1205,2,03:44,ATL,,PHI,,J. Springer,PHI,Springer L.B.FOUL (P2.T4) (T.Brothers),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1205,2,01:35,ATL,,PHI,,J. Springer,PHI,Springer Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1205,2,01:10,ATL,,PHI,,J. Springer,PHI,SUB: Dedmon FOR Springer,Substitution,,0,0,0,0,,,v
+S2223-G1205,3,10:22,ATL,70.0,PHI,57.0,J. Springer,PHI,Springer 12' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,-2,115,12,1,2.0,2.0,v
+S2223-G1205,3,08:37,ATL,,PHI,,J. Springer,PHI,Springer S.FOUL (P3.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G1205,3,07:53,ATL,,PHI,,J. Springer,PHI,Springer S.FOUL (P4.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G1205,3,07:53,ATL,,PHI,,J. Springer,PHI,SUB: House Jr. FOR Springer,Substitution,,0,0,0,0,,,v
+S2223-G1205,4,05:18,ATL,,PHI,,J. Springer,PHI,MISS Springer 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-38,96,10,1,2.0,0.0,v
+S2223-G1205,4,03:47,ATL,,PHI,,J. Springer,PHI,MISS Springer Running Layup,Missed Shot,Running Layup Shot,1,1,0,1,2.0,0.0,v
+S2223-G1205,4,03:32,ATL,110.0,PHI,106.0,J. Springer,PHI,Springer 26' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,23,257,26,1,3.0,3.0,v
+S2223-G1205,4,02:57,ATL,,PHI,,J. Springer,PHI,Springer STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1205,4,00:47.500000,ATL,117.0,PHI,117.0,J. Springer,PHI,Springer 4' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,38,4,4,1,2.0,2.0,v
+S2223-G1205,4,00:25.900000,ATL,,PHI,,J. Springer,PHI,Springer REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,4,00:25.900000,ATL,119.0,PHI,119.0,J. Springer,PHI,Springer Tip Dunk Shot (18 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G1205,5,00:49.400000,ATL,,PHI,,J. Springer,PHI,Springer S.FOUL (P5.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G1205,5,00:38.800000,ATL,130.0,PHI,133.0,J. Springer,PHI,Springer Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1205,5,00:38.800000,ATL,,PHI,,J. Springer,PHI,MISS Springer Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1205,5,00:35.600000,ATL,,PHI,,J. Springer,PHI,Springer S.FOUL (P6.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G1205,5,00:35.600000,ATL,,PHI,,J. Springer,PHI,SUB: Niang FOR Springer,Substitution,,0,0,0,0,,,v
+S2223-G0409,4,04:47,PHI,,SAC,,J. Springer,PHI,Springer BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0409,4,01:32,PHI,,SAC,,J. Springer,PHI,MISS Springer 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-168,131,21,1,2.0,0.0,h
+S2223-G0409,4,01:20,PHI,,SAC,,J. Springer,PHI,Springer REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0409,4,00:25.900000,PHI,,SAC,,J. Springer,PHI,MISS Springer 3' Driving Layup,Missed Shot,Driving Layup Shot,15,29,3,1,2.0,0.0,h
+S2223-G0612,4,08:09,PHI,,DET,,J. Springer,PHI,Springer S.FOUL (P1.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0612,4,07:24,PHI,,DET,,J. Springer,PHI,Springer REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0612,4,07:24,PHI,123.0,DET,97.0,J. Springer,PHI,Springer Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0612,4,07:18,PHI,,DET,,J. Springer,PHI,Springer STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0612,4,07:15,PHI,125.0,DET,97.0,J. Springer,PHI,Springer 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,9,10,1,1,2.0,2.0,h
+S2223-G0612,4,06:49,PHI,127.0,DET,99.0,J. Springer,PHI,Springer 1' Cutting Layup Shot (6 PTS) (Reed 1 AST),Made Shot,Cutting Layup Shot,10,6,1,1,2.0,2.0,h
+S2223-G0612,4,06:06,PHI,,DET,,J. Springer,PHI,Springer S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0612,4,03:25,PHI,140.0,DET,110.0,J. Springer,PHI,Springer Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0612,4,03:25,PHI,141.0,DET,110.0,J. Springer,PHI,Springer Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0612,4,01:39,PHI,,DET,,J. Springer,PHI,Springer REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0612,4,01:39,PHI,147.0,DET,116.0,J. Springer,PHI,Springer Putback Layup (10 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1110,4,03:49,PHX,,PHI,,J. Springer,PHI,MISS Springer 7' Driving Layup,Missed Shot,Driving Layup Shot,44,52,7,1,2.0,0.0,v
+S2223-G1110,4,00:49.600000,PHX,,PHI,,J. Springer,PHI,Springer STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1110,4,00:00,PHX,,PHI,,J. Springer,PHI,MISS Springer 6' Driving Layup,Missed Shot,Driving Layup Shot,2,59,6,1,2.0,0.0,v
+S2223-G0668,4,01:57,LAC,,PHI,,J. Springer,PHI,Springer P.FOUL (P1.PN) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2223-G0668,4,01:04,LAC,,PHI,,J. Springer,PHI,Springer STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0668,4,01:01,LAC,,PHI,,J. Springer,PHI,MISS Springer 4' Running Layup,Missed Shot,Running Layup Shot,25,25,4,1,2.0,0.0,v
+S2223-G1126,4,02:25,DEN,,PHI,,J. Springer,PHI,Springer REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1126,4,02:22,DEN,112.0,PHI,103.0,J. Springer,PHI,Springer Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1126,4,02:22,DEN,112.0,PHI,104.0,J. Springer,PHI,Springer Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1126,4,00:36.300000,DEN,,PHI,,J. Springer,PHI,Springer REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1126,4,00:30.600000,DEN,,PHI,,J. Springer,PHI,MISS Springer 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,62,6,1,2.0,0.0,v

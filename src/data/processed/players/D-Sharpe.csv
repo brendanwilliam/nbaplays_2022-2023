@@ -1,0 +1,681 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0098,1,04:03,BKN,,IND,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0098,1,03:38,BKN,,IND,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0098,1,02:13,BKN,,IND,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0098,2,08:17,BKN,,IND,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0098,2,07:43,BKN,,IND,,D. Sharpe,BKN,Sharpe Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0098,2,07:24,BKN,,IND,,D. Sharpe,BKN,Sharpe 3 Second Violation Turnover (P2.T7),Turnover,3 Second Violation,0,0,0,0,,,h
+S2223-G0098,2,05:08,BKN,,IND,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0098,2,04:23,BKN,55.0,IND,36.0,D. Sharpe,BKN,Sharpe 1' Cutting Layup Shot (2 PTS) (Durant 3 AST),Made Shot,Cutting Layup Shot,7,4,1,1,2.0,2.0,h
+S2223-G0098,2,03:19,BKN,,IND,,D. Sharpe,BKN,SUB: Sumner FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0098,3,05:32,BKN,80.0,IND,63.0,D. Sharpe,BKN,Sharpe 3' Cutting Layup Shot (4 PTS) (Irving 3 AST),Made Shot,Cutting Layup Shot,27,13,3,1,2.0,2.0,h
+S2223-G0098,3,04:19,BKN,,IND,,D. Sharpe,BKN,Sharpe S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0098,3,03:28,BKN,,IND,,D. Sharpe,BKN,Sharpe S.FOUL (P2.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0098,3,03:28,BKN,,IND,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G1164,1,04:19,BKN,,UTA,,D. Sharpe,BKN,MISS Sharpe 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,47,5,5,1,2.0,0.0,h
+S2223-G1164,1,02:32,BKN,,UTA,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1164,1,02:12,BKN,,UTA,,D. Sharpe,BKN,SUB: Curry FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G1164,2,08:56,BKN,38.0,UTA,25.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1164,2,08:56,BKN,39.0,UTA,25.0,D. Sharpe,BKN,Sharpe Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1164,2,07:07,BKN,,UTA,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G1164,3,05:05,BKN,,UTA,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1164,3,04:44,BKN,,UTA,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1164,3,02:45,BKN,,UTA,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1164,3,02:45,BKN,80.0,UTA,61.0,D. Sharpe,BKN,Sharpe Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1164,3,01:53,BKN,,UTA,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1164,3,01:35,BKN,,UTA,,D. Sharpe,BKN,Sharpe Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1164,4,10:18,BKN,,UTA,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1164,4,09:51,BKN,93.0,UTA,70.0,D. Sharpe,BKN,Sharpe 2' Layup (6 PTS) (Watanabe 2 AST),Made Shot,Layup Shot,17,4,2,1,2.0,2.0,h
+S2223-G1164,4,09:18,BKN,,UTA,,D. Sharpe,BKN,Sharpe REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1164,4,09:07,BKN,,UTA,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G1164,4,08:58,BKN,,UTA,,D. Sharpe,BKN,Sharpe OFF.Foul (P2) (M.Boland),Foul,Offensive,0,0,0,0,,,h
+S2223-G1164,4,08:58,BKN,,UTA,,D. Sharpe,BKN,Sharpe Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1164,4,07:49,BKN,,UTA,,D. Sharpe,BKN,SUB: Dinwiddie FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G1164,4,00:07.900000,BKN,,UTA,,D. Sharpe,BKN,SUB: Curry FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0651,3,05:51,,,OKC,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0651,3,05:28,,,OKC,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0651,3,02:58,,,OKC,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0651,4,09:20,,,OKC,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0651,4,08:48,,,OKC,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0651,4,07:53,,,OKC,,D. Sharpe,BKN,SUB: Watanabe FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0256,4,02:50,PHI,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T4) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0256,4,02:18,PHI,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0256,4,01:23,PHI,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P2.PN) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2223-G0539,4,02:28,CHA,101.0,BKN,120.0,D. Sharpe,BKN,Sharpe 4' Hook Shot (2 PTS) (Thomas 1 AST),Made Shot,Hook Shot,7,44,4,1,2.0,2.0,v
+S2223-G0539,4,01:44,CHA,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0539,4,01:29,CHA,103.0,BKN,123.0,D. Sharpe,BKN,Sharpe 26' 3PT Jump Bank Shot (5 PTS) (Curry 3 AST),Made Shot,Jump Bank Shot,53,256,26,1,3.0,3.0,v
+S2223-G0846,1,07:18,BKN,,PHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0846,1,07:18,BKN,16.0,PHI,6.0,D. Sharpe,BKN,Sharpe Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0846,1,06:29,BKN,,PHI,,D. Sharpe,BKN,MISS Sharpe 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,-5,24,1,3.0,0.0,h
+S2223-G0846,1,06:05,BKN,18.0,PHI,9.0,D. Sharpe,BKN,Sharpe 1' Cutting Dunk Shot (4 PTS) (Johnson 1 AST),Made Shot,Cutting Dunk Shot,-2,8,1,1,2.0,2.0,h
+S2223-G0846,1,04:44,BKN,,PHI,,D. Sharpe,BKN,SUB: Mills FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0555,1,02:56,BKN,,SAS,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0555,1,01:18,BKN,,SAS,,D. Sharpe,BKN,MISS Sharpe 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,2,31,3,1,2.0,0.0,h
+S2223-G0555,3,04:23,BKN,96.0,SAS,66.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0555,3,04:23,BKN,,SAS,,D. Sharpe,BKN,MISS Sharpe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0555,3,03:30,BKN,,SAS,,D. Sharpe,BKN,MISS Sharpe 2' Layup,Missed Shot,Layup Shot,-23,5,2,1,2.0,0.0,h
+S2223-G0555,3,01:03,BKN,,SAS,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0555,3,00:51.500000,BKN,,SAS,,D. Sharpe,BKN,Sharpe Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0555,3,00:34.500000,BKN,106.0,SAS,77.0,D. Sharpe,BKN,Sharpe 5' Turnaround Jump Shot (3 PTS) (Durant 10 AST),Made Shot,Turnaround Jump Shot,42,29,5,1,2.0,2.0,h
+S2223-G0555,3,00:26.700000,BKN,,SAS,,D. Sharpe,BKN,Sharpe OFF.Foul (P2) (P.Ransom),Foul,Offensive,0,0,0,0,,,h
+S2223-G0555,3,00:26.700000,BKN,,SAS,,D. Sharpe,BKN,Sharpe Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0555,4,11:39,BKN,,SAS,,D. Sharpe,BKN,MISS Sharpe 4' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,25,25,4,1,2.0,0.0,h
+S2223-G0555,4,11:19,BKN,,SAS,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0555,4,09:54,BKN,,SAS,,D. Sharpe,BKN,Sharpe Step Out of Bounds Turnover (P3.T12),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0555,4,08:47,BKN,,SAS,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0555,4,06:36,BKN,122.0,SAS,91.0,D. Sharpe,BKN,Sharpe 1' Driving Layup (5 PTS) (Thomas 1 AST),Made Shot,Driving Layup Shot,13,4,1,1,2.0,2.0,h
+S2223-G0555,4,05:27,BKN,,SAS,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0555,4,05:27,BKN,124.0,SAS,93.0,D. Sharpe,BKN,Sharpe Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0555,4,04:51,BKN,,SAS,,D. Sharpe,BKN,MISS Sharpe 5' Driving Layup,Missed Shot,Driving Layup Shot,50,6,5,1,2.0,0.0,h
+S2223-G0555,4,04:48,BKN,,SAS,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0555,4,03:57,BKN,,SAS,,D. Sharpe,BKN,MISS Sharpe 23' Jump Shot,Missed Shot,Jump Shot,-13,226,23,1,2.0,0.0,h
+S2223-G0555,4,03:05,BKN,,SAS,,D. Sharpe,BKN,Sharpe S.FOUL (P3.T4) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0555,4,02:12,BKN,134.0,SAS,101.0,D. Sharpe,BKN,Sharpe 1' Alley Oop Layup (9 PTS) (Thomas 2 AST),Made Shot,Alley Oop Layup shot,9,4,1,1,2.0,2.0,h
+S2223-G1217,1,12:00,BKN,,PHI,,D. Sharpe,BKN,Jump Ball Sharpe vs. Reed: Tip to McDaniels,Jump Ball,,0,0,0,0,,,h
+S2223-G1217,1,11:08,BKN,,PHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1217,1,10:31,BKN,,PHI,,D. Sharpe,BKN,MISS Sharpe 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,26,41,5,1,2.0,0.0,h
+S2223-G1217,1,09:39,BKN,,PHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1217,1,08:46,BKN,,PHI,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1217,1,08:05,BKN,,PHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1217,1,06:42,BKN,,PHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1217,1,06:33,BKN,,PHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1217,1,06:33,BKN,,PHI,,D. Sharpe,BKN,MISS Sharpe 1' Putback Layup,Missed Shot,Putback Layup Shot,-7,13,1,1,2.0,0.0,h
+S2223-G1217,1,05:01,BKN,,PHI,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G1217,1,05:01,BKN,,PHI,,D. Sharpe,BKN,SUB: Gray FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G1217,1,01:05,BKN,,PHI,,D. Sharpe,BKN,MISS Sharpe 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,2,52,5,1,2.0,0.0,h
+S2223-G1217,1,00:30.900000,BKN,,PHI,,D. Sharpe,BKN,Sharpe S.FOUL (P2.T4) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G1217,1,00:30.900000,BKN,,PHI,,D. Sharpe,BKN,SUB: Watanabe FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G1217,3,11:29,BKN,,PHI,,D. Sharpe,BKN,Sharpe P.FOUL (P3.T1) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2223-G1217,3,10:51,BKN,,PHI,,D. Sharpe,BKN,Sharpe BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1217,3,10:38,BKN,57.0,PHI,65.0,D. Sharpe,BKN,Sharpe 1' Layup (2 PTS) (Duke Jr. 4 AST),Made Shot,Layup Shot,-11,-1,1,1,2.0,2.0,h
+S2223-G1217,3,08:23,BKN,,PHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1217,3,06:04,BKN,,PHI,,D. Sharpe,BKN,SUB: Gray FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G1217,3,01:24,BKN,87.0,PHI,94.0,D. Sharpe,BKN,Sharpe 2' Layup (4 PTS) (Gray 6 AST),Made Shot,Layup Shot,20,0,2,1,2.0,2.0,h
+S2223-G1217,3,01:24,BKN,89.0,PHI,94.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1217,3,00:02.700000,BKN,,PHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1217,4,11:30,BKN,,PHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1217,4,08:04,BKN,,PHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1217,4,07:59,BKN,,PHI,,D. Sharpe,BKN,MISS Sharpe 2' Running Layup,Missed Shot,Running Layup Shot,21,8,2,1,2.0,0.0,h
+S2223-G1217,4,07:37,BKN,,PHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1217,4,07:03,BKN,,PHI,,D. Sharpe,BKN,SUB: Watanabe FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0810,1,01:14,BKN,,LAC,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0810,1,01:14,BKN,,LAC,,D. Sharpe,BKN,MISS Sharpe Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0810,1,01:13,BKN,,LAC,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0810,1,01:11,BKN,,LAC,,D. Sharpe,BKN,Sharpe Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0810,1,00:48.600000,BKN,,LAC,,D. Sharpe,BKN,Sharpe S.FOUL (P1.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2223-G0810,1,00:48.600000,BKN,,LAC,,D. Sharpe,BKN,SUB: Harris FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0810,2,08:43,BKN,,LAC,,D. Sharpe,BKN,Sharpe S.FOUL (P2.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2223-G0810,2,07:09,BKN,,LAC,,D. Sharpe,BKN,Sharpe L.B.FOUL (P3.T4) (E.Lewis),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0810,2,07:09,BKN,,LAC,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G1094,1,03:08,BKN,20.0,CLE,24.0,D. Sharpe,BKN,Sharpe 1' Cutting Finger Roll Layup Shot (2 PTS) (Dinwiddie 3 AST),Made Shot,Cutting Finger Roll Layup Shot,-1,10,1,1,2.0,2.0,h
+S2223-G1094,1,01:45,BKN,,CLE,,D. Sharpe,BKN,Sharpe Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1094,1,00:56.700000,BKN,,CLE,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1094,1,00:07.800000,BKN,,CLE,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1094,1,00:01.800000,BKN,33.0,CLE,31.0,D. Sharpe,BKN,Sharpe 2' Alley Oop Layup (4 PTS) (Dinwiddie 4 AST),Made Shot,Alley Oop Layup shot,17,2,2,1,2.0,2.0,h
+S2223-G1094,1,00:01.800000,BKN,,CLE,,D. Sharpe,BKN,MISS Sharpe Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1094,2,08:44,BKN,,CLE,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1094,2,08:18,BKN,,CLE,,D. Sharpe,BKN,MISS Sharpe 26' 3PT Jump Shot,Missed Shot,Jump Shot,-153,210,26,1,3.0,0.0,h
+S2223-G1094,2,08:04,BKN,,CLE,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1094,2,07:31,BKN,,CLE,,D. Sharpe,BKN,Sharpe Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1094,2,07:28,BKN,,CLE,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2223-G1094,2,07:28,BKN,,CLE,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G1094,3,01:01,BKN,,CLE,,D. Sharpe,BKN,Sharpe S.FOUL (P2.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G1094,3,00:49,BKN,89.0,CLE,85.0,D. Sharpe,BKN,Sharpe 1' Alley Oop Dunk (6 PTS) (Dinwiddie 10 AST),Made Shot,Alley Oop Dunk Shot,5,-2,1,1,2.0,2.0,h
+S2223-G1094,3,00:26.500000,BKN,,CLE,,D. Sharpe,BKN,SUB: Finney-Smith FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G1094,4,10:19,BKN,,CLE,,D. Sharpe,BKN,MISS Sharpe 3' Layup,Missed Shot,Layup Shot,-18,19,3,1,2.0,0.0,h
+S2223-G1094,4,08:41,BKN,,CLE,,D. Sharpe,BKN,Sharpe BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1094,4,08:29,BKN,,CLE,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0742,1,04:49,BKN,,NYK,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0742,1,04:49,BKN,19.0,NYK,12.0,D. Sharpe,BKN,Sharpe Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0742,1,04:20,BKN,,NYK,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0742,1,04:20,BKN,21.0,NYK,12.0,D. Sharpe,BKN,Sharpe Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0742,1,01:40,BKN,,NYK,,D. Sharpe,BKN,MISS Sharpe 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-2,18,2,1,2.0,0.0,h
+S2223-G0742,1,00:57.100000,BKN,,NYK,,D. Sharpe,BKN,MISS Sharpe 2' Driving Layup,Missed Shot,Driving Layup Shot,20,11,2,1,2.0,0.0,h
+S2223-G0742,2,05:57,BKN,,NYK,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0742,2,05:57,BKN,51.0,NYK,34.0,D. Sharpe,BKN,Sharpe Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0742,2,04:44,BKN,,NYK,,D. Sharpe,BKN,Sharpe OFF.Foul (P1) (Z.Zarba),Foul,Offensive,0,0,0,0,,,h
+S2223-G0742,2,04:44,BKN,,NYK,,D. Sharpe,BKN,Sharpe Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0742,2,03:10,BKN,,NYK,,D. Sharpe,BKN,SUB: Curry FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0742,3,04:03,BKN,,NYK,,D. Sharpe,BKN,MISS Sharpe 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,-17,17,2,1,2.0,0.0,h
+S2223-G1153,1,05:51,BKN,,ATL,,D. Sharpe,BKN,MISS Sharpe 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,7,21,2,1,2.0,0.0,h
+S2223-G1153,1,05:39,BKN,,ATL,,D. Sharpe,BKN,Sharpe STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1153,1,02:42,BKN,,ATL,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1153,1,00:40.500000,BKN,,ATL,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T3) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2223-G1153,1,00:40.500000,BKN,,ATL,,D. Sharpe,BKN,SUB: Curry FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G1153,4,01:19,BKN,,ATL,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1153,4,01:02,BKN,,ATL,,D. Sharpe,BKN,MISS Sharpe 1' Driving Dunk,Missed Shot,Driving Dunk Shot,10,0,1,1,2.0,0.0,h
+S2223-G0666,1,04:48,SAS,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0666,1,04:11,SAS,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0666,1,04:11,SAS,,BKN,,D. Sharpe,BKN,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0666,1,04:11,SAS,19.0,BKN,9.0,D. Sharpe,BKN,Sharpe Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0666,1,03:31,SAS,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0666,1,02:24,SAS,,BKN,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0666,1,02:14,SAS,,BKN,,D. Sharpe,BKN,Sharpe Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0666,1,01:55,SAS,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0666,1,00:52.700000,SAS,,BKN,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0164,4,03:00,BKN,,NYK,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0164,4,02:58,BKN,,NYK,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0164,4,02:41,BKN,,NYK,,D. Sharpe,BKN,Sharpe Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0164,4,01:27,BKN,,NYK,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0021,1,04:47,BKN,18.0,TOR,16.0,D. Sharpe,BKN,Sharpe 5' Turnaround Hook Shot (2 PTS) (Durant 3 AST),Made Shot,Turnaround Hook Shot,-34,34,5,1,2.0,2.0,h
+S2223-G0021,1,04:18,BKN,20.0,TOR,18.0,D. Sharpe,BKN,Sharpe 1' Cutting Dunk Shot (4 PTS) (Durant 4 AST),Made Shot,Cutting Dunk Shot,-5,10,1,1,2.0,2.0,h
+S2223-G0021,1,03:17,BKN,,TOR,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0021,1,02:51,BKN,,TOR,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0021,1,02:17,BKN,,TOR,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0021,1,01:56,BKN,,TOR,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0021,1,01:25,BKN,,TOR,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0021,1,00:33.800000,BKN,,TOR,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0021,1,00:28.200000,BKN,,TOR,,D. Sharpe,BKN,Sharpe Transition Take Foul (P2.PN) (S.Corbin),Foul                                    ,Transition Take,0,0,0,0,,,h
+S2223-G0021,1,00:13,BKN,,TOR,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0021,2,05:15,BKN,,TOR,,D. Sharpe,BKN,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0021,2,05:15,BKN,,TOR,,D. Sharpe,BKN,MISS Sharpe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0021,2,04:54,BKN,,TOR,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0021,2,04:20,BKN,,TOR,,D. Sharpe,BKN,MISS Sharpe 6' Driving Layup,Missed Shot,Driving Layup Shot,-42,48,6,1,2.0,0.0,h
+S2223-G0021,2,04:13,BKN,,TOR,,D. Sharpe,BKN,Sharpe P.FOUL (P3.T3) (J.Capers),Foul,Personal,0,0,0,0,,,h
+S2223-G0021,2,03:34,BKN,,TOR,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0021,2,03:17,BKN,,TOR,,D. Sharpe,BKN,SUB: Irving FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0021,3,04:24,BKN,,TOR,,D. Sharpe,BKN,Sharpe Violation:Defensive Goaltending (J.Capers),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0021,3,03:12,BKN,,TOR,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0021,4,00:06.200000,BKN,,TOR,,D. Sharpe,BKN,SUB: Mills FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G1108,1,04:38,MIA,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1108,1,04:38,MIA,19.0,BKN,17.0,D. Sharpe,BKN,Sharpe Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1108,1,04:38,MIA,19.0,BKN,18.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1108,1,03:33,MIA,,BKN,,D. Sharpe,BKN,Sharpe STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1108,1,03:19,MIA,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1108,1,03:19,MIA,25.0,BKN,22.0,D. Sharpe,BKN,Sharpe Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1108,1,03:08,MIA,,BKN,,D. Sharpe,BKN,Sharpe P.FOUL (P1.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2223-G1108,1,01:37,MIA,,BKN,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G1108,2,04:03,MIA,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1108,2,03:57,MIA,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1108,2,03:42,MIA,,BKN,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1108,2,02:59,MIA,,BKN,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G1108,3,02:57,MIA,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:5 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1108,3,01:45,MIA,,BKN,,D. Sharpe,BKN,MISS Sharpe 3' Layup,Missed Shot,Layup Shot,31,1,3,1,2.0,0.0,v
+S2223-G1108,3,01:31,MIA,80.0,BKN,100.0,D. Sharpe,BKN,Sharpe 1' Running Alley Oop Dunk Shot (7 PTS) (O'Neale 2 AST),Made Shot,Running Alley Oop Dunk Shot,-13,1,1,1,2.0,2.0,v
+S2223-G1108,3,01:19,MIA,,BKN,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G1108,4,01:43,MIA,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1108,4,01:29,MIA,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:6 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1108,4,01:29,MIA,97.0,BKN,128.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1108,4,01:29,MIA,97.0,BKN,129.0,D. Sharpe,BKN,Sharpe Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1108,4,01:06,MIA,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:6 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0060,1,03:50,MIL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0060,1,03:45,MIL,,BKN,,D. Sharpe,BKN,Sharpe OFF.Foul (P1) (J.Tiven),Foul,Offensive,0,0,0,0,,,v
+S2223-G0060,1,03:45,MIL,,BKN,,D. Sharpe,BKN,Sharpe Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0060,1,00:37.300000,MIL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0060,1,00:10,MIL,,BKN,,D. Sharpe,BKN,MISS Sharpe 5' Layup,Missed Shot,Layup Shot,51,17,5,1,2.0,0.0,v
+S2223-G0060,2,11:30,MIL,,BKN,,D. Sharpe,BKN,Sharpe Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0060,2,10:54,MIL,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P2.T1) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0060,2,10:33,MIL,,BKN,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0060,2,09:23,MIL,,BKN,,D. Sharpe,BKN,Sharpe STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0060,2,08:46,MIL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0060,2,08:39,MIL,32.0,BKN,30.0,D. Sharpe,BKN,Sharpe 7' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,25,60,7,1,2.0,2.0,v
+S2223-G0060,2,08:16,MIL,,BKN,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0060,3,05:20,MIL,,BKN,,D. Sharpe,BKN,Sharpe P.FOUL (P3.PN) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0060,3,03:45,MIL,,BKN,,D. Sharpe,BKN,MISS Sharpe 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-12,71,7,1,2.0,0.0,v
+S2223-G0060,3,03:02,MIL,74.0,BKN,72.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0060,3,03:02,MIL,,BKN,,D. Sharpe,BKN,MISS Sharpe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0060,3,01:55,MIL,,BKN,,D. Sharpe,BKN,Sharpe P.FOUL (P4.PN) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0060,3,01:55,MIL,,BKN,,D. Sharpe,BKN,SUB: Simmons FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0483,4,01:28,BKN,,MIL,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0483,4,01:27,BKN,115.0,MIL,98.0,D. Sharpe,BKN,Sharpe 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,5,11,1,1,2.0,2.0,h
+S2223-G0483,4,00:32.400000,BKN,,MIL,,D. Sharpe,BKN,Sharpe Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0006,1,04:20,BKN,,NOP,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0006,1,04:15,BKN,,NOP,,D. Sharpe,BKN,MISS Sharpe Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0006,1,02:38,BKN,,NOP,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0006,1,02:33,BKN,,NOP,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0006,1,02:23,BKN,,NOP,,D. Sharpe,BKN,MISS Sharpe 3' Layup,Missed Shot,Layup Shot,22,24,3,1,2.0,0.0,h
+S2223-G0006,1,02:21,BKN,,NOP,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0006,1,02:21,BKN,,NOP,,D. Sharpe,BKN,MISS Sharpe Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0006,1,00:00.700000,BKN,,NOP,,D. Sharpe,BKN,Sharpe STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0006,2,04:10,BKN,,NOP,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0006,2,03:00,BKN,,NOP,,D. Sharpe,BKN,SUB: Irving FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0006,3,04:26,BKN,,NOP,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0006,3,04:26,BKN,,NOP,,D. Sharpe,BKN,MISS Sharpe Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0006,3,03:04,BKN,,NOP,,D. Sharpe,BKN,Sharpe S.FOUL (P1.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0006,3,02:52,BKN,66.0,NOP,89.0,D. Sharpe,BKN,Sharpe 1' Cutting Dunk Shot (2 PTS) (Sumner 2 AST),Made Shot,Cutting Dunk Shot,5,0,1,1,2.0,2.0,h
+S2223-G0006,3,02:35,BKN,,NOP,,D. Sharpe,BKN,Sharpe S.FOUL (P2.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0006,3,01:46,BKN,,NOP,,D. Sharpe,BKN,Sharpe S.FOUL (P3.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0006,3,01:24,BKN,,NOP,,D. Sharpe,BKN,Sharpe BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0006,3,01:06,BKN,,NOP,,D. Sharpe,BKN,Sharpe REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0006,3,01:05,BKN,,NOP,,D. Sharpe,BKN,MISS Sharpe 1' Putback Layup,Missed Shot,Putback Layup Shot,7,-10,1,1,2.0,0.0,h
+S2223-G0006,3,00:58.700000,BKN,,NOP,,D. Sharpe,BKN,Sharpe STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0006,3,00:33.400000,BKN,,NOP,,D. Sharpe,BKN,Sharpe REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0006,4,10:09,BKN,,NOP,,D. Sharpe,BKN,Sharpe REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0006,4,10:09,BKN,,NOP,,D. Sharpe,BKN,MISS Sharpe Putback Dunk,Missed Shot,Putback Dunk Shot,0,0,0,1,2.0,0.0,h
+S2223-G0006,4,09:58,BKN,,NOP,,D. Sharpe,BKN,Sharpe P.FOUL (P4.T1) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G0006,4,09:01,BKN,,NOP,,D. Sharpe,BKN,SUB: Durant FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0006,4,03:18,BKN,,NOP,,D. Sharpe,BKN,MISS Sharpe 26' 3PT Jump Shot,Missed Shot,Jump Shot,10,256,26,1,3.0,0.0,h
+S2223-G0006,4,00:20.800000,BKN,107.0,NOP,130.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0006,4,00:20.800000,BKN,108.0,NOP,130.0,D. Sharpe,BKN,Sharpe Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,1,02:44,BKN,,PHX,,D. Sharpe,BKN,MISS Sharpe 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,5,8,1,1,2.0,0.0,h
+S2223-G0817,1,01:48,BKN,,PHX,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0817,1,01:29,BKN,22.0,PHX,23.0,D. Sharpe,BKN,Sharpe 1' Cutting Dunk Shot (2 PTS) (Mills 1 AST),Made Shot,Cutting Dunk Shot,6,8,1,1,2.0,2.0,h
+S2223-G0817,1,00:19.800000,BKN,,PHX,,D. Sharpe,BKN,SUB: Thomas FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0817,2,11:44,BKN,,PHX,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0817,2,11:43,BKN,27.0,PHX,24.0,D. Sharpe,BKN,Sharpe Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,-2,4,0,1,2.0,2.0,h
+S2223-G0817,2,10:10,BKN,,PHX,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0817,2,09:44,BKN,,PHX,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0817,2,09:26,BKN,,PHX,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0817,2,01:06,BKN,,PHX,,D. Sharpe,BKN,Sharpe Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0817,3,03:14,BKN,73.0,PHX,76.0,D. Sharpe,BKN,Sharpe Cutting Dunk Shot (6 PTS) (Sumner 2 AST),Made Shot,Cutting Dunk Shot,2,2,0,1,2.0,2.0,h
+S2223-G0817,3,02:47,BKN,,PHX,,D. Sharpe,BKN,Sharpe Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0817,3,02:29,BKN,,PHX,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0817,4,00:03.500000,BKN,,PHX,,D. Sharpe,BKN,SUB: Smith FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0266,4,03:38,TOR,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0266,4,03:38,TOR,88.0,BKN,109.0,D. Sharpe,BKN,Sharpe Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0266,4,03:15,TOR,,BKN,,D. Sharpe,BKN,MISS Sharpe 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,49,29,6,1,2.0,0.0,v
+S2223-G0266,4,02:36,TOR,92.0,BKN,112.0,D. Sharpe,BKN,Sharpe 26' 3PT Jump Shot (5 PTS) (Duke Jr. 1 AST),Made Shot,Jump Shot,-15,260,26,1,3.0,3.0,v
+S2223-G0266,4,01:11,TOR,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0266,4,00:36.200000,TOR,,BKN,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0266,4,00:29.200000,TOR,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0772,1,03:30,BOS,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T1) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0772,1,02:09,BOS,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P2.T2) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2223-G0772,1,01:34,BOS,44.0,BKN,14.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0772,1,01:34,BOS,,BKN,,D. Sharpe,BKN,MISS Sharpe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0772,1,01:01,BOS,44.0,BKN,16.0,D. Sharpe,BKN,Sharpe 2' Cutting Dunk Shot (3 PTS) (Mills 1 AST),Made Shot,Cutting Dunk Shot,0,16,2,1,2.0,2.0,v
+S2223-G0772,2,10:18,BOS,,BKN,,D. Sharpe,BKN,SUB: Irving FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0772,2,02:02,BOS,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0772,2,01:44,BOS,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0772,2,01:43,BOS,,BKN,,D. Sharpe,BKN,MISS Sharpe 3' Hook Shot,Missed Shot,Hook Shot,0,27,3,1,2.0,0.0,v
+S2223-G0772,3,02:33,BOS,102.0,BKN,70.0,D. Sharpe,BKN,Sharpe 1' Cutting Dunk Shot (5 PTS) (Thomas 1 AST),Made Shot,Cutting Dunk Shot,9,11,1,1,2.0,2.0,v
+S2223-G0772,3,01:52,BOS,,BKN,,D. Sharpe,BKN,MISS Sharpe 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,56,26,6,1,2.0,0.0,v
+S2223-G0772,3,01:00,BOS,,BKN,,D. Sharpe,BKN,Sharpe Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0772,3,00:57.700000,BOS,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P3.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0772,4,11:19,BOS,113.0,BKN,74.0,D. Sharpe,BKN,Sharpe 1' Cutting Dunk Shot (7 PTS) (Morris 1 AST),Made Shot,Cutting Dunk Shot,-1,-5,1,1,2.0,2.0,v
+S2223-G0772,4,10:43,BOS,115.0,BKN,76.0,D. Sharpe,BKN,Sharpe 1' Cutting Dunk Shot (9 PTS) (Mills 2 AST),Made Shot,Cutting Dunk Shot,1,-8,1,1,2.0,2.0,v
+S2223-G0772,4,10:28,BOS,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0772,4,09:52,BOS,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0772,4,09:51,BOS,,BKN,,D. Sharpe,BKN,MISS Sharpe 3' Layup,Missed Shot,Layup Shot,23,16,3,1,2.0,0.0,v
+S2223-G0772,4,08:36,BOS,,BKN,,D. Sharpe,BKN,Sharpe STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0772,4,05:30,BOS,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0772,4,04:23,BOS,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0772,4,03:23,BOS,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1118,1,02:50,ORL,,BKN,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1118,1,02:03,ORL,19.0,BKN,20.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1118,1,02:03,ORL,19.0,BKN,21.0,D. Sharpe,BKN,Sharpe Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1118,1,01:49,ORL,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G1118,1,01:46,ORL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1118,2,07:07,ORL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1118,2,06:40,ORL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1118,2,06:40,ORL,,BKN,,D. Sharpe,BKN,MISS Sharpe Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1118,2,06:22,ORL,37.0,BKN,38.0,D. Sharpe,BKN,Sharpe 1' Alley Oop Dunk (4 PTS) (Mills 2 AST),Made Shot,Alley Oop Dunk Shot,2,7,1,1,2.0,2.0,v
+S2223-G1118,2,04:59,ORL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1118,2,01:59,ORL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1118,2,01:59,ORL,54.0,BKN,47.0,D. Sharpe,BKN,Sharpe Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G1118,2,01:21,ORL,,BKN,,D. Sharpe,BKN,Sharpe P.FOUL (P2.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G1118,3,04:29,ORL,79.0,BKN,66.0,D. Sharpe,BKN,Sharpe 3' Cutting Layup Shot (8 PTS) (Dinwiddie 5 AST),Made Shot,Cutting Layup Shot,-5,31,3,1,2.0,2.0,v
+S2223-G1118,3,04:13,ORL,,BKN,,D. Sharpe,BKN,Sharpe STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1118,3,03:20,ORL,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P3.T2) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G1118,3,01:07,ORL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1118,3,00:36.200000,ORL,,BKN,,D. Sharpe,BKN,Sharpe OFF.Foul (P4) (K.Lane),Foul,Offensive,0,0,0,0,,,v
+S2223-G1118,3,00:36.200000,ORL,,BKN,,D. Sharpe,BKN,Sharpe Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0924,1,02:09,BKN,30.0,MIL,18.0,D. Sharpe,BKN,Sharpe 2' Cutting Dunk Shot (2 PTS) (Dinwiddie 5 AST),Made Shot,Cutting Dunk Shot,12,15,2,1,2.0,2.0,h
+S2223-G0924,1,02:00,BKN,,MIL,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T4) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0924,1,01:41,BKN,,MIL,,D. Sharpe,BKN,Sharpe OFF.Foul (P2) (D.Guthrie),Foul,Offensive,0,0,0,0,,,h
+S2223-G0924,1,01:41,BKN,,MIL,,D. Sharpe,BKN,Sharpe Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0924,1,01:41,BKN,,MIL,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0924,3,06:09,BKN,,MIL,,D. Sharpe,BKN,Sharpe S.FOUL (P3.T4) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G0924,3,06:09,BKN,,MIL,,D. Sharpe,BKN,SUB: O'Neale FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0924,4,03:34,BKN,,MIL,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0924,4,02:40,BKN,,MIL,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0924,4,01:52,BKN,,MIL,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0924,4,01:08,BKN,,MIL,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0924,4,00:55.600000,BKN,,MIL,,D. Sharpe,BKN,MISS Sharpe 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,45,38,6,1,2.0,0.0,h
+S2223-G0123,4,03:44,WAS,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P1.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0123,4,02:59,WAS,,BKN,,D. Sharpe,BKN,MISS Sharpe 3' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-34,4,3,1,2.0,0.0,v
+S2223-G0123,4,01:43,WAS,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0123,4,00:58.900000,WAS,,BKN,,D. Sharpe,BKN,Sharpe OFF.Foul (P2) (M.Myers),Foul,Offensive,0,0,0,0,,,v
+S2223-G0123,4,00:58.900000,WAS,,BKN,,D. Sharpe,BKN,Sharpe Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1207,1,03:11,BKN,19.0,ORL,15.0,D. Sharpe,BKN,Sharpe 1' Cutting Layup Shot (2 PTS) (Harris 1 AST),Made Shot,Cutting Layup Shot,5,4,1,1,2.0,2.0,h
+S2223-G1207,1,02:58,BKN,,ORL,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G1207,3,01:18,BKN,,ORL,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1207,4,02:12,BKN,95.0,ORL,77.0,D. Sharpe,BKN,Sharpe 4' Driving Hook Shot (4 PTS) (Smith 1 AST),Made Shot,Driving Hook Shot,-4,42,4,1,2.0,2.0,h
+S2223-G1207,4,00:35,BKN,100.0,ORL,82.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1207,4,00:35,BKN,101.0,ORL,82.0,D. Sharpe,BKN,Sharpe Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0380,2,08:03,BKN,,ATL,,D. Sharpe,BKN,Sharpe OFF.Foul (P1) (R.Mott),Foul,Offensive,0,0,0,0,,,h
+S2223-G0380,2,08:03,BKN,,ATL,,D. Sharpe,BKN,Sharpe Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0380,2,07:05,BKN,,ATL,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0380,2,06:41,BKN,,ATL,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0380,2,06:17,BKN,,ATL,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0380,2,02:47,BKN,,ATL,,D. Sharpe,BKN,MISS Sharpe 1' Layup,Missed Shot,Layup Shot,-2,8,1,1,2.0,0.0,h
+S2223-G0380,2,01:56,BKN,,ATL,,D. Sharpe,BKN,SUB: Warren FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G1180,1,05:09,BKN,,MIN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1180,1,03:29,BKN,,MIN,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0210,4,11:26,SAC,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0210,4,10:41,SAC,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0210,4,09:21,SAC,,BKN,,D. Sharpe,BKN,MISS Sharpe 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-18,63,7,1,2.0,0.0,v
+S2223-G0210,4,04:49,SAC,137.0,BKN,104.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0210,4,04:49,SAC,137.0,BKN,105.0,D. Sharpe,BKN,Sharpe Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0210,4,04:16,SAC,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0210,4,03:49,SAC,139.0,BKN,109.0,D. Sharpe,BKN,Sharpe 25' 3PT Jump Shot (5 PTS) (Thomas 2 AST),Made Shot,Jump Shot,-21,245,25,1,3.0,3.0,v
+S2223-G0210,4,03:14,SAC,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0210,4,02:26,SAC,,BKN,,D. Sharpe,BKN,MISS Sharpe 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,31,84,9,1,2.0,0.0,v
+S2223-G0210,4,01:29,SAC,,BKN,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0210,4,01:08,SAC,148.0,BKN,118.0,D. Sharpe,BKN,Sharpe 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,18,4,2,1,2.0,2.0,v
+S2223-G0049,1,05:30,MEM,20.0,BKN,17.0,D. Sharpe,BKN,Sharpe 1' Cutting Layup Shot (2 PTS) (Durant 2 AST),Made Shot,Cutting Layup Shot,-2,7,1,1,2.0,2.0,v
+S2223-G0049,1,04:38,MEM,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0049,1,01:05,MEM,,BKN,,D. Sharpe,BKN,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0049,1,01:05,MEM,33.0,BKN,28.0,D. Sharpe,BKN,Sharpe Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0049,1,00:44.200000,MEM,35.0,BKN,30.0,D. Sharpe,BKN,Sharpe 2' Alley Oop Dunk (5 PTS) (Mills 2 AST),Made Shot,Alley Oop Dunk Shot,4,15,2,1,2.0,2.0,v
+S2223-G0049,2,05:02,MEM,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0049,2,03:21,MEM,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0049,2,00:53.100000,MEM,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0049,2,00:27.800000,MEM,,BKN,,D. Sharpe,BKN,Sharpe OFF.Foul (P2) (S.Wright),Foul,Offensive,0,0,0,0,,,v
+S2223-G0049,2,00:27.800000,MEM,,BKN,,D. Sharpe,BKN,Sharpe Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0049,2,00:10.100000,MEM,,BKN,,D. Sharpe,BKN,SUB: Harris FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0049,3,07:16,MEM,,BKN,,D. Sharpe,BKN,Sharpe L.B.FOUL (P3.T2) (S.Wright),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0049,3,06:54,MEM,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P4.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0049,3,06:28,MEM,,BKN,,D. Sharpe,BKN,Sharpe L.B.FOUL (P5.T4) (J.Orr),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0049,3,06:28,MEM,,BKN,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G1137,1,00:51.200000,BKN,28.0,HOU,25.0,D. Sharpe,BKN,Sharpe 4' Alley Oop Layup (2 PTS) (O'Neale 1 AST),Made Shot,Alley Oop Layup shot,40,4,4,1,2.0,2.0,h
+S2223-G1137,1,00:00,BKN,,HOU,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1137,2,10:18,BKN,,HOU,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1137,2,09:52,BKN,,HOU,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1137,2,09:52,BKN,34.0,HOU,32.0,D. Sharpe,BKN,Sharpe Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1137,2,07:47,BKN,,HOU,,D. Sharpe,BKN,MISS Sharpe 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-2,48,5,1,2.0,0.0,h
+S2223-G1137,2,07:19,BKN,,HOU,,D. Sharpe,BKN,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1137,2,07:19,BKN,,HOU,,D. Sharpe,BKN,MISS Sharpe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1137,2,07:17,BKN,,HOU,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1137,2,06:15,BKN,,HOU,,D. Sharpe,BKN,SUB: Bridges FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0862,1,04:15,NYK,15.0,BKN,18.0,D. Sharpe,BKN,Sharpe 2' Cutting Finger Roll Layup Shot (2 PTS) (Bridges 2 AST),Made Shot,Cutting Finger Roll Layup Shot,0,22,2,1,2.0,2.0,v
+S2223-G0862,1,03:56,NYK,,BKN,,D. Sharpe,BKN,Sharpe P.FOUL (P1.T2) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0862,1,02:34,NYK,,BKN,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0862,2,06:07,NYK,,BKN,,D. Sharpe,BKN,Sharpe Violation:Defensive Goaltending (J.Goble),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0862,2,05:57,NYK,,BKN,,D. Sharpe,BKN,Sharpe OFF.Foul (P2) (J.Goble),Foul,Offensive,0,0,0,0,,,v
+S2223-G0862,2,05:57,NYK,,BKN,,D. Sharpe,BKN,Sharpe Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0862,2,05:30,NYK,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0862,2,05:08,NYK,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0862,2,03:33,NYK,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0862,2,02:30,NYK,,BKN,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0862,3,03:53,NYK,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0862,3,03:51,NYK,78.0,BKN,78.0,D. Sharpe,BKN,Sharpe 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-21,8,2,1,2.0,2.0,v
+S2223-G0862,3,03:10,NYK,80.0,BKN,80.0,D. Sharpe,BKN,Sharpe 2' Alley Oop Layup (6 PTS) (O'Neale 1 AST),Made Shot,Alley Oop Layup shot,-20,-3,2,1,2.0,2.0,v
+S2223-G0862,3,02:25,NYK,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0862,3,01:53,NYK,,BKN,,D. Sharpe,BKN,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0862,3,01:53,NYK,,BKN,,D. Sharpe,BKN,MISS Sharpe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0862,3,01:17,NYK,85.0,BKN,81.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0862,3,01:17,NYK,,BKN,,D. Sharpe,BKN,MISS Sharpe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0862,3,00:54.200000,NYK,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P3.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0862,3,00:36.400000,NYK,,BKN,,D. Sharpe,BKN,SUB: Johnson FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0862,4,03:28,NYK,117.0,BKN,98.0,D. Sharpe,BKN,Sharpe 12' Jump Shot (9 PTS) (Smith 1 AST),Made Shot,Jump Shot,-22,113,12,1,2.0,2.0,v
+S2223-G0862,4,01:17,NYK,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0862,4,00:58.200000,NYK,,BKN,,D. Sharpe,BKN,Sharpe P.FOUL (P4.PN) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2223-G0862,4,00:37.700000,NYK,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0862,4,00:17.100000,NYK,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0198,4,03:20,LAL,,BKN,,D. Sharpe,BKN,Sharpe Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0198,4,02:54,LAL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0198,4,02:18,LAL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0198,4,01:03,LAL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0198,4,01:03,LAL,,BKN,,D. Sharpe,BKN,MISS Sharpe Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0198,4,00:25.700000,LAL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0793,1,06:33,BKN,,,,D. Sharpe,BKN,Sharpe S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0793,1,04:53,BKN,,,,D. Sharpe,BKN,Sharpe S.FOUL (P2.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0793,1,04:35,BKN,,,,D. Sharpe,BKN,Sharpe Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0793,1,04:04,BKN,,,,D. Sharpe,BKN,Sharpe L.B.FOUL (P3.PN) (D.Mosher),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0793,1,03:11,BKN,,,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0793,1,02:51,BKN,,,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0793,2,07:07,BKN,,,,D. Sharpe,BKN,MISS Sharpe 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,13,50,5,1,2.0,0.0,h
+S2223-G0793,2,07:00,BKN,,,,D. Sharpe,BKN,Sharpe P.FOUL (P4.T2) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0793,2,06:21,BKN,,,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0793,2,06:21,BKN,,,,D. Sharpe,BKN,Sharpe Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0793,2,03:08,BKN,,,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0793,3,02:39,BKN,,,,D. Sharpe,BKN,Sharpe P.FOUL (P5.PN) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2223-G0793,3,02:39,BKN,,,,D. Sharpe,BKN,SUB: Sumner FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0681,3,01:23,PHX,,BKN,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0681,3,00:41.400000,PHX,,BKN,,D. Sharpe,BKN,Sharpe FLAGRANT.FOUL.TYPE1 (P2.PN) (E.Lewis),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2223-G0681,4,00:17.100000,PHX,,BKN,,D. Sharpe,BKN,SUB: Harris FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0681,4,00:09,PHX,,BKN,,D. Sharpe,BKN,SUB: Harris FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0681,4,00:06.600000,PHX,,BKN,,D. Sharpe,BKN,SUB: Curry FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G1189,1,03:55,DET,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1189,1,02:31,DET,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1189,1,02:31,DET,29.0,BKN,37.0,D. Sharpe,BKN,Sharpe Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1189,1,01:46,DET,32.0,BKN,42.0,D. Sharpe,BKN,Sharpe 3' Cutting Layup Shot (4 PTS) (Dinwiddie 9 AST),Made Shot,Cutting Layup Shot,1,27,3,1,2.0,2.0,v
+S2223-G1189,1,01:46,DET,32.0,BKN,43.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1189,1,01:31,DET,,BKN,,D. Sharpe,BKN,Sharpe STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1189,1,00:30.100000,DET,,BKN,,D. Sharpe,BKN,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1189,1,00:30.100000,DET,32.0,BKN,47.0,D. Sharpe,BKN,Sharpe Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1189,2,03:32,DET,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1189,2,03:31,DET,,BKN,,D. Sharpe,BKN,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1189,2,03:31,DET,,BKN,,D. Sharpe,BKN,MISS Sharpe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1189,2,03:11,DET,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1189,2,02:06,DET,55.0,BKN,66.0,D. Sharpe,BKN,Sharpe 2' Layup (8 PTS) (Dinwiddie 11 AST),Made Shot,Layup Shot,20,9,2,1,2.0,2.0,v
+S2223-G1189,2,02:06,DET,,BKN,,D. Sharpe,BKN,MISS Sharpe Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G1189,2,00:45.500000,DET,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1189,2,00:43.500000,DET,,BKN,,D. Sharpe,BKN,MISS Sharpe 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,8,20,2,1,2.0,0.0,v
+S2223-G1189,2,00:41.800000,DET,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1189,2,00:41.800000,DET,57.0,BKN,72.0,D. Sharpe,BKN,Sharpe Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1189,2,00:30.800000,DET,,BKN,,D. Sharpe,BKN,Sharpe STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1189,3,01:50,DET,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1189,3,01:49,DET,,BKN,,D. Sharpe,BKN,MISS Sharpe 5' Putback Layup,Missed Shot,Putback Layup Shot,31,33,5,1,2.0,0.0,v
+S2223-G1189,3,00:59.800000,DET,,BKN,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0833,1,12:00,BKN,,CHI,,D. Sharpe,BKN,Jump Ball Sharpe vs. Vucevic: Tip to O'Neale,Jump Ball,,0,0,0,0,,,h
+S2223-G0833,1,10:59,BKN,,CHI,,D. Sharpe,BKN,MISS Sharpe 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,28,71,8,1,2.0,0.0,h
+S2223-G0833,1,10:55,BKN,,CHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,1,10:55,BKN,,CHI,,D. Sharpe,BKN,MISS Sharpe Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0833,1,08:36,BKN,,CHI,,D. Sharpe,BKN,MISS Sharpe 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-16,1,2,1,2.0,0.0,h
+S2223-G0833,1,07:43,BKN,,CHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,1,07:43,BKN,6.0,CHI,2.0,D. Sharpe,BKN,Sharpe Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0833,1,06:14,BKN,,CHI,,D. Sharpe,BKN,SUB: Simmons FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0833,2,09:01,BKN,,CHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,2,08:49,BKN,,CHI,,D. Sharpe,BKN,MISS Sharpe 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,23,13,3,1,2.0,0.0,h
+S2223-G0833,2,08:42,BKN,,CHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,2,08:40,BKN,27.0,CHI,34.0,D. Sharpe,BKN,Sharpe 2' Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,4,16,2,1,2.0,2.0,h
+S2223-G0833,2,07:28,BKN,,CHI,,D. Sharpe,BKN,Sharpe P.FOUL (P1.T3) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2223-G0833,2,06:59,BKN,,CHI,,D. Sharpe,BKN,Sharpe Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0833,2,06:45,BKN,,CHI,,D. Sharpe,BKN,Sharpe L.B.FOUL (P2.T4) (S.Wall),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0833,2,06:38,BKN,,CHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,2,05:56,BKN,,CHI,,D. Sharpe,BKN,SUB: Simmons FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0833,3,11:32,BKN,,CHI,,D. Sharpe,BKN,MISS Sharpe 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-15,12,2,1,2.0,0.0,h
+S2223-G0833,3,11:20,BKN,,CHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,3,09:50,BKN,,CHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,3,05:39,BKN,,CHI,,D. Sharpe,BKN,SUB: Mills FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0833,4,11:43,BKN,81.0,CHI,84.0,D. Sharpe,BKN,Sharpe 1' Dunk (6 PTS) (Dinwiddie 6 AST),Made Shot,Dunk Shot,-4,7,1,1,2.0,2.0,h
+S2223-G0833,4,11:08,BKN,,CHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,4,10:37,BKN,,CHI,,D. Sharpe,BKN,Sharpe S.FOUL (P3.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0833,4,08:16,BKN,93.0,CHI,88.0,D. Sharpe,BKN,Sharpe 1' Running Alley Oop Dunk Shot (8 PTS) (Thomas 3 AST),Made Shot,Running Alley Oop Dunk Shot,0,13,1,1,2.0,2.0,h
+S2223-G0833,4,07:24,BKN,,CHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,4,07:01,BKN,,CHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,4,05:08,BKN,,CHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,4,02:59,BKN,,CHI,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0833,4,02:35,BKN,,CHI,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0937,2,03:47,NYK,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0937,2,01:03,NYK,,BKN,,D. Sharpe,BKN,MISS Sharpe 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-1,6,1,1,2.0,0.0,v
+S2223-G0937,3,05:18,NYK,,BKN,,D. Sharpe,BKN,MISS Sharpe 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,-26,1,3,1,2.0,0.0,v
+S2223-G0937,3,03:54,NYK,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0937,3,03:53,NYK,101.0,BKN,81.0,D. Sharpe,BKN,Sharpe 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,5,1,1,2.0,2.0,v
+S2223-G0937,3,03:41,NYK,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P2.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0937,3,03:11,NYK,,BKN,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0937,3,03:10,NYK,,BKN,,D. Sharpe,BKN,SUB: Curry FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0937,4,11:48,NYK,,BKN,,D. Sharpe,BKN,Sharpe OFF.Foul (P3) (S.Foster),Foul,Offensive,0,0,0,0,,,v
+S2223-G0937,4,11:48,NYK,,BKN,,D. Sharpe,BKN,Sharpe Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0937,4,10:17,NYK,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0937,4,10:15,NYK,,BKN,,D. Sharpe,BKN,Sharpe Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0937,4,08:09,NYK,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0937,4,07:20,NYK,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P4.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0937,4,04:59,NYK,,BKN,,D. Sharpe,BKN,Sharpe Offensive Charge Foul (P5) (E.Scott),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0937,4,04:59,NYK,,BKN,,D. Sharpe,BKN,Sharpe Offensive Foul Turnover (P3.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0937,4,03:15,NYK,,BKN,,D. Sharpe,BKN,MISS Sharpe 26' 3PT Jump Shot,Missed Shot,Jump Shot,21,258,26,1,3.0,0.0,v
+S2223-G0937,4,02:26,NYK,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0937,4,01:31,NYK,,BKN,,D. Sharpe,BKN,MISS Sharpe 2' Driving Layup,Missed Shot,Driving Layup Shot,-18,1,2,1,2.0,0.0,v
+S2223-G0937,4,00:00.700000,NYK,142.0,BKN,118.0,D. Sharpe,BKN,Sharpe 25' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,82,233,25,1,3.0,3.0,v
+S2223-G0995,1,05:35,MIL,,BKN,,D. Sharpe,BKN,MISS Sharpe 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,33,53,6,1,2.0,0.0,v
+S2223-G0995,1,03:37,MIL,,BKN,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0995,1,03:20,MIL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0995,1,03:20,MIL,24.0,BKN,15.0,D. Sharpe,BKN,Sharpe Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0995,1,01:14,MIL,,BKN,,D. Sharpe,BKN,Sharpe STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0995,2,11:20,MIL,,BKN,,D. Sharpe,BKN,Sharpe Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0995,2,09:51,MIL,43.0,BKN,24.0,D. Sharpe,BKN,Sharpe 1' Cutting Layup Shot (4 PTS) (Sumner 1 AST),Made Shot,Cutting Layup Shot,2,6,1,1,2.0,2.0,v
+S2223-G0995,2,09:20,MIL,,BKN,,D. Sharpe,BKN,SUB: Mills FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0995,2,02:41,MIL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0995,2,02:39,MIL,59.0,BKN,41.0,D. Sharpe,BKN,Sharpe Putback Layup (6 PTS),Made Shot,Putback Layup Shot,4,2,0,1,2.0,2.0,v
+S2223-G0995,2,01:22,MIL,,BKN,,D. Sharpe,BKN,MISS Sharpe 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-15,17,2,1,2.0,0.0,v
+S2223-G0995,2,00:58.500000,MIL,62.0,BKN,43.0,D. Sharpe,BKN,Sharpe 1' Layup (8 PTS) (Mills 1 AST),Made Shot,Layup Shot,10,8,1,1,2.0,2.0,v
+S2223-G0995,2,00:58.500000,MIL,62.0,BKN,44.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0995,3,11:38,MIL,,BKN,,D. Sharpe,BKN,MISS Sharpe 13' Floating Jump Shot,Missed Shot,Floating Jump shot,16,129,13,1,2.0,0.0,v
+S2223-G0995,3,06:26,MIL,77.0,BKN,68.0,D. Sharpe,BKN,Sharpe 2' Cutting Layup Shot (11 PTS) (Smith 4 AST),Made Shot,Cutting Layup Shot,1,16,2,1,2.0,2.0,v
+S2223-G0995,3,04:37,MIL,,BKN,,D. Sharpe,BKN,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,-142,203,25,1,3.0,0.0,v
+S2223-G0995,3,03:53,MIL,,BKN,,D. Sharpe,BKN,SUB: Noel FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0995,4,11:40,MIL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0995,4,10:52,MIL,,BKN,,D. Sharpe,BKN,MISS Sharpe 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,2,51,5,1,2.0,0.0,v
+S2223-G0995,4,10:51,MIL,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0995,4,10:51,MIL,,BKN,,D. Sharpe,BKN,MISS Sharpe Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0995,4,10:15,MIL,,BKN,,D. Sharpe,BKN,Sharpe OFF.Foul (P1) (J.Goble),Foul,Offensive,0,0,0,0,,,v
+S2223-G0995,4,10:15,MIL,,BKN,,D. Sharpe,BKN,Sharpe Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0995,4,08:09,MIL,,BKN,,D. Sharpe,BKN,MISS Sharpe 2' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,16,16,2,1,2.0,0.0,v
+S2223-G0995,4,07:28,MIL,,BKN,,D. Sharpe,BKN,SUB: Noel FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0995,4,04:31,MIL,,BKN,,D. Sharpe,BKN,MISS Sharpe 4' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,12,34,4,1,2.0,0.0,v
+S2223-G0995,4,02:13,MIL,,BKN,,D. Sharpe,BKN,SUB: Smith FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0995,4,00:50.400000,MIL,,BKN,,D. Sharpe,BKN,Sharpe STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0184,4,01:27,LAC,91.0,BKN,105.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0184,4,01:27,LAC,91.0,BKN,106.0,D. Sharpe,BKN,Sharpe Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0184,4,00:47.700000,LAC,95.0,BKN,110.0,D. Sharpe,BKN,Sharpe Alley Oop Layup (4 PTS) (Duke Jr. 1 AST),Made Shot,Alley Oop Layup shot,-1,-1,0,1,2.0,2.0,v
+S2223-G0184,4,00:34.600000,LAC,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0757,1,03:42,BKN,,LAL,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,1,03:06,BKN,,LAL,,D. Sharpe,BKN,Sharpe OFF.Foul (P1) (T.Brothers),Foul,Offensive,0,0,0,0,,,h
+S2223-G0757,1,03:06,BKN,,LAL,,D. Sharpe,BKN,Sharpe Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0757,1,01:52,BKN,,LAL,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,1,01:42,BKN,,LAL,,D. Sharpe,BKN,SUB: Watanabe FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0757,1,01:06,BKN,,LAL,,D. Sharpe,BKN,Sharpe S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0757,1,00:07.200000,BKN,,LAL,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0757,2,11:45,BKN,,LAL,,D. Sharpe,BKN,MISS Sharpe 4' Hook Shot,Missed Shot,Hook Shot,5,38,4,1,2.0,0.0,h
+S2223-G0757,2,11:43,BKN,,LAL,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,2,11:43,BKN,31.0,LAL,16.0,D. Sharpe,BKN,Sharpe Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0757,2,11:35,BKN,,LAL,,D. Sharpe,BKN,Sharpe S.FOUL (P3.T1) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0757,2,10:37,BKN,,LAL,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,2,10:29,BKN,,LAL,,D. Sharpe,BKN,SUB: Morris FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0757,2,06:02,BKN,,LAL,,D. Sharpe,BKN,Sharpe BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0757,2,05:26,BKN,,LAL,,D. Sharpe,BKN,Sharpe Violation:Defensive Goaltending (B.Taylor),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0757,2,04:20,BKN,,LAL,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,2,04:11,BKN,,LAL,,D. Sharpe,BKN,Sharpe REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,2,04:11,BKN,,LAL,,D. Sharpe,BKN,MISS Sharpe Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0757,2,04:00,BKN,,LAL,,D. Sharpe,BKN,Sharpe REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,2,02:41,BKN,,LAL,,D. Sharpe,BKN,Sharpe REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,2,02:40,BKN,,LAL,,D. Sharpe,BKN,MISS Sharpe 1' Putback Layup,Missed Shot,Putback Layup Shot,-1,9,1,1,2.0,0.0,h
+S2223-G0757,2,01:58,BKN,,LAL,,D. Sharpe,BKN,Sharpe REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,2,01:24,BKN,,LAL,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0757,3,01:49,BKN,,LAL,,D. Sharpe,BKN,Sharpe STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0757,3,00:52.600000,BKN,,LAL,,D. Sharpe,BKN,Sharpe REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,3,00:29.300000,BKN,,LAL,,D. Sharpe,BKN,Sharpe REBOUND (Off:6 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,3,00:29,BKN,85.0,LAL,82.0,D. Sharpe,BKN,Sharpe 3' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,-16,28,3,1,2.0,2.0,h
+S2223-G0757,4,11:27,BKN,87.0,LAL,84.0,D. Sharpe,BKN,Sharpe 2' Driving Layup (6 PTS) (Irving 4 AST),Made Shot,Driving Layup Shot,-23,-3,2,1,2.0,2.0,h
+S2223-G0757,4,10:58,BKN,,LAL,,D. Sharpe,BKN,Sharpe REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,4,09:53,BKN,,LAL,,D. Sharpe,BKN,Sharpe P.FOUL (P4.T2) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2223-G0757,4,08:42,BKN,,LAL,,D. Sharpe,BKN,Sharpe REBOUND (Off:8 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,4,08:42,BKN,,LAL,,D. Sharpe,BKN,MISS Sharpe Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0757,4,08:42,BKN,,LAL,,D. Sharpe,BKN,Sharpe REBOUND (Off:7 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,4,08:40,BKN,97.0,LAL,87.0,D. Sharpe,BKN,Sharpe Putback Dunk (8 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0757,4,08:33,BKN,,LAL,,D. Sharpe,BKN,Sharpe S.FOUL (P5.T4) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0757,4,08:33,BKN,,LAL,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G0346,4,01:10,BKN,,BOS,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0346,4,00:59.800000,BKN,88.0,BOS,101.0,D. Sharpe,BKN,Sharpe 25' 3PT Jump Shot (3 PTS) (Thomas 1 AST),Made Shot,Jump Shot,-72,239,25,1,3.0,3.0,h
+S2223-G0346,4,00:37.500000,BKN,,BOS,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0346,4,00:19.600000,BKN,,BOS,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0243,4,02:02,BKN,127.0,MEM,108.0,D. Sharpe,BKN,Sharpe 2' Layup (2 PTS),Made Shot,Layup Shot,15,2,2,1,2.0,2.0,h
+S2223-G0243,4,01:50,BKN,,MEM,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0243,4,00:38.100000,BKN,,MEM,,D. Sharpe,BKN,MISS Sharpe 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-1,64,6,1,2.0,0.0,h
+S2223-G0900,1,02:05,CHI,,BKN,,D. Sharpe,BKN,Sharpe OFF.Foul (P1) (P.Fraher),Foul,Offensive,0,0,0,0,,,v
+S2223-G0900,1,02:05,CHI,,BKN,,D. Sharpe,BKN,Sharpe Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0900,1,01:38,CHI,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0900,1,01:11,CHI,28.0,BKN,18.0,D. Sharpe,BKN,Sharpe 1' Alley Oop Dunk (2 PTS) (Thomas 1 AST),Made Shot,Alley Oop Dunk Shot,2,5,1,1,2.0,2.0,v
+S2223-G0900,1,00:38,CHI,,BKN,,D. Sharpe,BKN,Sharpe P.FOUL (P2.PN) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2223-G0900,1,00:31.500000,CHI,,BKN,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0900,4,11:38,CHI,,BKN,,D. Sharpe,BKN,Sharpe Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0900,4,10:53,CHI,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0900,4,08:46,CHI,,BKN,,D. Sharpe,BKN,Sharpe STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0900,4,05:52,CHI,,BKN,,D. Sharpe,BKN,Sharpe BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0900,4,05:04,CHI,,BKN,,D. Sharpe,BKN,Sharpe P.FOUL (P3.T4) (M.Myers),Foul,Personal,0,0,0,0,,,v
+S2223-G0900,4,02:15,CHI,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1079,1,04:43,BKN,,CLE,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1079,1,04:41,BKN,,CLE,,D. Sharpe,BKN,MISS Sharpe 4' Putback Layup,Missed Shot,Putback Layup Shot,21,32,4,1,2.0,0.0,h
+S2223-G1079,1,04:17,BKN,,CLE,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1079,1,04:11,BKN,,CLE,,D. Sharpe,BKN,Sharpe Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1079,1,03:57,BKN,19.0,CLE,16.0,D. Sharpe,BKN,Sharpe 1' Cutting Dunk Shot (2 PTS) (Dinwiddie 3 AST),Made Shot,Cutting Dunk Shot,2,8,1,1,2.0,2.0,h
+S2223-G1079,1,03:26,BKN,21.0,CLE,16.0,D. Sharpe,BKN,Sharpe 1' Cutting Dunk Shot (4 PTS) (Watanabe 1 AST),Made Shot,Cutting Dunk Shot,7,5,1,1,2.0,2.0,h
+S2223-G1079,1,01:16,BKN,,CLE,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1079,2,05:15,BKN,38.0,CLE,43.0,D. Sharpe,BKN,Sharpe 4' Turnaround Hook Shot (6 PTS) (Johnson 3 AST),Made Shot,Turnaround Hook Shot,17,38,4,1,2.0,2.0,h
+S2223-G1079,2,04:33,BKN,39.0,CLE,46.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1079,2,04:33,BKN,40.0,CLE,46.0,D. Sharpe,BKN,Sharpe Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1079,2,04:07,BKN,,CLE,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1079,2,04:07,BKN,42.0,CLE,46.0,D. Sharpe,BKN,Sharpe Tip Dunk Shot (10 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G1079,2,03:39,BKN,,CLE,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G1079,3,03:54,BKN,,CLE,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1079,3,01:37,BKN,,CLE,,D. Sharpe,BKN,Sharpe BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1079,3,00:46,BKN,,CLE,,D. Sharpe,BKN,Sharpe STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1079,3,00:33.400000,BKN,,CLE,,D. Sharpe,BKN,SUB: Claxton FOR Sharpe,Substitution,,0,0,0,0,,,h
+S2223-G1079,4,07:42,BKN,86.0,CLE,106.0,D. Sharpe,BKN,Sharpe Cutting Layup Shot (12 PTS) (Dinwiddie 9 AST),Made Shot,Cutting Layup Shot,0,-2,0,1,2.0,2.0,h
+S2223-G1079,4,05:45,BKN,,CLE,,D. Sharpe,BKN,MISS Sharpe 3' Jump Bank Shot,Missed Shot,Jump Bank Shot,18,19,3,1,2.0,0.0,h
+S2223-G1079,4,05:44,BKN,,CLE,,D. Sharpe,BKN,Sharpe REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1079,4,05:43,BKN,,CLE,,D. Sharpe,BKN,MISS Sharpe 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,5,1,1,2.0,0.0,h
+S2223-G1079,4,05:42,BKN,,CLE,,D. Sharpe,BKN,Sharpe REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1079,4,05:41,BKN,,CLE,,D. Sharpe,BKN,MISS Sharpe 1' Putback Layup,Missed Shot,Putback Layup Shot,2,5,1,1,2.0,0.0,h
+S2223-G1079,4,05:08,BKN,,CLE,,D. Sharpe,BKN,Sharpe STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1079,4,04:01,BKN,,CLE,,D. Sharpe,BKN,Sharpe REBOUND (Off:6 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1079,4,03:08,BKN,,CLE,,D. Sharpe,BKN,Sharpe Bad Pass Turnover (P2.T17),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1079,4,02:57,BKN,,CLE,,D. Sharpe,BKN,Sharpe S.FOUL (P1.T2) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G1079,4,02:20,BKN,,CLE,,D. Sharpe,BKN,Sharpe REBOUND (Off:6 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1079,4,01:40,BKN,,CLE,,D. Sharpe,BKN,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1079,4,01:40,BKN,100.0,CLE,111.0,D. Sharpe,BKN,Sharpe Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1079,4,01:12,BKN,,CLE,,D. Sharpe,BKN,Sharpe REBOUND (Off:7 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1079,4,01:12,BKN,102.0,CLE,111.0,D. Sharpe,BKN,Sharpe Tip Dunk Shot (15 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G1079,4,01:02,BKN,104.0,CLE,112.0,D. Sharpe,BKN,Sharpe 1' Dunk (17 PTS) (Johnson 4 AST),Made Shot,Dunk Shot,0,6,1,1,2.0,2.0,h
+S2223-G1079,4,00:40.300000,BKN,,CLE,,D. Sharpe,BKN,Sharpe REBOUND (Off:8 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1079,4,00:28.800000,BKN,,CLE,,D. Sharpe,BKN,Sharpe P.FOUL (P2.PN) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G1079,4,00:16,BKN,109.0,CLE,114.0,D. Sharpe,BKN,Sharpe 25' 3PT Jump Shot (20 PTS) (Dinwiddie 11 AST),Made Shot,Jump Shot,-130,218,25,1,3.0,3.0,h
+S2223-G1079,4,00:04.300000,BKN,,CLE,,D. Sharpe,BKN,Sharpe REBOUND (Off:9 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1063,4,06:59,BKN,,DEN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1063,4,06:59,BKN,81.0,DEN,98.0,D. Sharpe,BKN,Sharpe 6' Turnaround Bank Shot (2 PTS),Made Shot,Turnaround Bank shot,59,27,6,1,2.0,2.0,h
+S2223-G1063,4,06:41,BKN,,DEN,,D. Sharpe,BKN,Sharpe P.FOUL (P1.T2) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G1063,4,06:19,BKN,,DEN,,D. Sharpe,BKN,MISS Sharpe 12' Jump Shot,Missed Shot,Jump Shot,-9,121,12,1,2.0,0.0,h
+S2223-G1063,4,05:02,BKN,,DEN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1063,4,03:59,BKN,,DEN,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1063,4,03:44,BKN,,DEN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1063,4,03:44,BKN,92.0,DEN,100.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1063,4,03:44,BKN,93.0,DEN,100.0,D. Sharpe,BKN,Sharpe Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1063,4,03:08,BKN,,DEN,,D. Sharpe,BKN,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1063,4,03:08,BKN,94.0,DEN,103.0,D. Sharpe,BKN,Sharpe Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1063,4,02:25,BKN,,DEN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1063,4,00:50.800000,BKN,,DEN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0388,1,10:05,IND,,BKN,,D. Sharpe,BKN,MISS Sharpe 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-2,52,5,1,2.0,0.0,v
+S2223-G0388,1,09:49,IND,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,1,09:39,IND,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,1,09:38,IND,,BKN,,D. Sharpe,BKN,MISS Sharpe 2' Putback Layup,Missed Shot,Putback Layup Shot,-20,10,2,1,2.0,0.0,v
+S2223-G0388,1,09:35,IND,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,1,09:35,IND,9.0,BKN,11.0,D. Sharpe,BKN,Sharpe Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0388,1,08:36,IND,,BKN,,D. Sharpe,BKN,Sharpe P.FOUL (P1.T2) (M.Dagher),Foul,Personal,0,0,0,0,,,v
+S2223-G0388,1,08:20,IND,12.0,BKN,15.0,D. Sharpe,BKN,Sharpe 2' Running Layup (4 PTS) (Mills 3 AST),Made Shot,Running Layup Shot,-15,14,2,1,2.0,2.0,v
+S2223-G0388,1,04:13,IND,,BKN,,D. Sharpe,BKN,Sharpe Violation:Defensive Goaltending (M.Dagher),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0388,1,03:38,IND,,BKN,,D. Sharpe,BKN,Sharpe OFF.Foul (P2) (B.Nansel),Foul,Offensive,0,0,0,0,,,v
+S2223-G0388,1,03:38,IND,,BKN,,D. Sharpe,BKN,Sharpe Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0388,1,03:38,IND,,BKN,,D. Sharpe,BKN,SUB: Morris FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0388,2,04:13,IND,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,2,04:11,IND,,BKN,,D. Sharpe,BKN,Sharpe Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0388,2,03:31,IND,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,2,03:04,IND,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,2,03:04,IND,64.0,BKN,60.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0388,2,03:04,IND,64.0,BKN,61.0,D. Sharpe,BKN,Sharpe Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0388,2,01:56,IND,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:6 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,2,01:54,IND,66.0,BKN,63.0,D. Sharpe,BKN,Sharpe 3' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,-23,19,3,1,2.0,2.0,v
+S2223-G0388,2,01:24,IND,,BKN,,D. Sharpe,BKN,MISS Sharpe 2' Running Layup,Missed Shot,Running Layup Shot,-13,9,2,1,2.0,0.0,v
+S2223-G0388,2,00:46.900000,IND,,BKN,,D. Sharpe,BKN,Sharpe Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0388,2,00:33.100000,IND,74.0,BKN,67.0,D. Sharpe,BKN,Sharpe 1' Layup (10 PTS) (Sumner 2 AST),Made Shot,Layup Shot,-4,-4,1,1,2.0,2.0,v
+S2223-G0388,3,11:43,IND,76.0,BKN,71.0,D. Sharpe,BKN,Sharpe 3' Cutting Dunk Shot (12 PTS) (Mills 5 AST),Made Shot,Cutting Dunk Shot,-4,25,3,1,2.0,2.0,v
+S2223-G0388,3,10:46,IND,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:6 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,3,10:12,IND,,BKN,,D. Sharpe,BKN,Sharpe BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0388,3,08:33,IND,87.0,BKN,79.0,D. Sharpe,BKN,Sharpe Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0388,3,08:33,IND,87.0,BKN,80.0,D. Sharpe,BKN,Sharpe Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0388,3,07:36,IND,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:7 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,3,07:36,IND,,BKN,,D. Sharpe,BKN,MISS Sharpe 2' Layup,Missed Shot,Layup Shot,-17,18,2,1,2.0,0.0,v
+S2223-G0388,3,07:36,IND,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:8 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,3,07:35,IND,,BKN,,D. Sharpe,BKN,MISS Sharpe 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,-11,10,1,1,2.0,0.0,v
+S2223-G0388,3,07:15,IND,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:8 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,3,06:24,IND,,BKN,,D. Sharpe,BKN,SUB: Watanabe FOR Sharpe,Substitution,,0,0,0,0,,,v
+S2223-G0388,3,00:51,IND,98.0,BKN,95.0,D. Sharpe,BKN,Sharpe 2' Cutting Layup Shot (16 PTS) (Mills 6 AST),Made Shot,Cutting Layup Shot,-4,17,2,1,2.0,2.0,v
+S2223-G0388,4,11:41,IND,100.0,BKN,97.0,D. Sharpe,BKN,Sharpe 1' Alley Oop Dunk (18 PTS) (Sumner 4 AST),Made Shot,Alley Oop Dunk Shot,-4,7,1,1,2.0,2.0,v
+S2223-G0388,4,11:06,IND,,BKN,,D. Sharpe,BKN,MISS Sharpe Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0388,4,10:20,IND,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P3.T1) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0388,4,10:12,IND,105.0,BKN,103.0,D. Sharpe,BKN,Sharpe 1' Cutting Dunk Shot (20 PTS) (Sumner 5 AST),Made Shot,Cutting Dunk Shot,2,12,1,1,2.0,2.0,v
+S2223-G0388,4,08:59,IND,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P4.T2) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0388,4,08:32,IND,,BKN,,D. Sharpe,BKN,Sharpe REBOUND (Off:9 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,4,04:22,IND,,BKN,,D. Sharpe,BKN,Sharpe BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0388,4,03:24,IND,,BKN,,D. Sharpe,BKN,Sharpe S.FOUL (P5.PN) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0388,4,00:43.200000,IND,,BKN,,D. Sharpe,BKN,SUB: Sumner FOR Sharpe,Substitution,,0,0,0,0,,,v

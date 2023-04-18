@@ -1,0 +1,490 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G1040,2,08:06,SAS,,DAL,,J. McGee,DAL,McGee S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G1040,2,07:52,SAS,,DAL,,J. McGee,DAL,McGee L.B.FOUL (P2.T2) (S.Foster),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1040,2,06:42,SAS,40.0,DAL,42.0,J. McGee,DAL,McGee Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1040,2,06:42,SAS,40.0,DAL,43.0,J. McGee,DAL,McGee Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1040,2,05:29,SAS,44.0,DAL,48.0,J. McGee,DAL,McGee 3' Layup (4 PTS) (Wright IV 2 AST),Made Shot,Layup Shot,-28,4,3,1,2.0,2.0,v
+S2223-G1040,2,05:15,SAS,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1040,2,04:49,SAS,,DAL,,J. McGee,DAL,McGee OFF.Foul (P3) (S.Foster),Foul,Offensive,0,0,0,0,,,v
+S2223-G1040,2,04:49,SAS,,DAL,,J. McGee,DAL,McGee Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1040,2,04:49,SAS,,DAL,,J. McGee,DAL,SUB: Hardy FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0647,1,06:52,POR,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0647,1,06:52,POR,,DAL,,J. McGee,DAL,McGee Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0647,1,06:31,POR,,DAL,,J. McGee,DAL,McGee L.B.FOUL (P1.T3) (S.Corbin),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0647,1,04:48,POR,,DAL,,J. McGee,DAL,McGee STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0647,1,03:20,POR,,DAL,,J. McGee,DAL,MISS McGee 1' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-4,6,1,1,2.0,0.0,v
+S2223-G0647,1,03:08,POR,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0647,1,02:42,POR,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0647,1,01:43,POR,,DAL,,J. McGee,DAL,SUB: Pinson FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0647,3,02:49,POR,,DAL,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0647,3,02:05,POR,,DAL,,J. McGee,DAL,McGee S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0647,3,01:08,POR,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0647,3,01:08,POR,100.0,DAL,88.0,J. McGee,DAL,McGee Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0647,3,00:11.400000,POR,,DAL,,J. McGee,DAL,McGee REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0647,3,00:01.200000,POR,,DAL,,J. McGee,DAL,McGee Offensive Goaltending Turnover (P2.T10),Turnover,Offensive Goaltending,0,0,0,0,,,v
+S2223-G0391,2,11:17,CHI,,DAL,,J. McGee,DAL,McGee S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0391,2,11:02,CHI,45.0,DAL,32.0,J. McGee,DAL,McGee 1' Alley Oop Layup (2 PTS) (Wood 1 AST),Made Shot,Alley Oop Layup shot,-12,7,1,1,2.0,2.0,v
+S2223-G0391,2,09:56,CHI,,DAL,,J. McGee,DAL,McGee S.FOUL (P2.T4) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0391,2,09:43,CHI,,DAL,,J. McGee,DAL,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0391,2,09:43,CHI,52.0,DAL,36.0,J. McGee,DAL,McGee Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0391,2,08:35,CHI,,DAL,,J. McGee,DAL,McGee S.FOUL (P3.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0391,2,08:35,CHI,,DAL,,J. McGee,DAL,SUB: Powell FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0391,4,10:26,CHI,,DAL,,J. McGee,DAL,MISS McGee 3PT Jump Shot,Missed Shot,Jump Shot,-219,-10,0,1,3.0,0.0,v
+S2223-G0391,4,09:59,CHI,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0391,4,09:50,CHI,117.0,DAL,90.0,J. McGee,DAL,McGee 1' Cutting Dunk Shot (5 PTS) (Hardy 1 AST),Made Shot,Cutting Dunk Shot,5,1,1,1,2.0,2.0,v
+S2223-G0391,4,09:36,CHI,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0391,4,08:52,CHI,118.0,DAL,92.0,J. McGee,DAL,McGee Cutting Dunk Shot (7 PTS) (Ntilikina 4 AST),Made Shot,Cutting Dunk Shot,1,4,0,1,2.0,2.0,v
+S2223-G0391,4,07:52,CHI,120.0,DAL,96.0,J. McGee,DAL,McGee Dunk (9 PTS) (Walker 4 AST),Made Shot,Dunk Shot,1,-1,0,1,2.0,2.0,v
+S2223-G0391,4,06:52,CHI,,DAL,,J. McGee,DAL,McGee S.FOUL (P4.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0391,4,05:33,CHI,127.0,DAL,102.0,J. McGee,DAL,McGee 3' Hook Bank Shot (11 PTS) (Ntilikina 5 AST),Made Shot,Hook Bank Shot,33,10,3,1,2.0,2.0,v
+S2223-G0391,4,04:46,CHI,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0391,4,04:38,CHI,129.0,DAL,104.0,J. McGee,DAL,McGee 7' Hook Shot (13 PTS),Made Shot,Hook Shot,27,63,7,1,2.0,2.0,v
+S2223-G0391,4,04:13,CHI,129.0,DAL,107.0,J. McGee,DAL,McGee 25' 3PT Jump Shot (16 PTS) (Walker 5 AST),Made Shot,Jump Shot,-12,253,25,1,3.0,3.0,v
+S2223-G0391,4,01:58,CHI,138.0,DAL,113.0,J. McGee,DAL,McGee 1' Driving Dunk (18 PTS) (Ntilikina 6 AST),Made Shot,Driving Dunk Shot,1,8,1,1,2.0,2.0,v
+S2223-G0391,4,01:10,CHI,,DAL,,J. McGee,DAL,MISS McGee 25' 3PT Jump Shot,Missed Shot,Jump Shot,142,210,25,1,3.0,0.0,v
+S2223-G0391,4,00:56.600000,CHI,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0298,2,05:20,MIL,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0298,2,04:59,MIL,,DAL,,J. McGee,DAL,McGee OFF.Foul (P1) (S.Foster),Foul,Offensive,0,0,0,0,,,v
+S2223-G0298,2,04:59,MIL,,DAL,,J. McGee,DAL,McGee Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0298,2,04:27,MIL,62.0,DAL,53.0,J. McGee,DAL,McGee Cutting Dunk Shot (2 PTS) (Doncic 6 AST),Made Shot,Cutting Dunk Shot,-4,0,0,1,2.0,2.0,v
+S2223-G0298,2,03:14,MIL,,DAL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0670,1,01:43,DAL,30.0,ATL,32.0,J. McGee,DAL,McGee 4' Layup (2 PTS) (Doncic 3 AST),Made Shot,Layup Shot,0,39,4,1,2.0,2.0,h
+S2223-G0670,1,01:43,DAL,31.0,ATL,32.0,J. McGee,DAL,McGee Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0670,1,01:17,DAL,,ATL,,J. McGee,DAL,McGee 3 Second Violation Turnover (P1.T6),Turnover,3 Second Violation,0,0,0,0,,,h
+S2223-G0670,1,00:57.700000,DAL,,ATL,,J. McGee,DAL,McGee OFF.Foul (P1) (S.Foster),Foul,Offensive,0,0,0,0,,,h
+S2223-G0670,1,00:57.700000,DAL,,ATL,,J. McGee,DAL,McGee Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0670,1,00:06.500000,DAL,,ATL,,J. McGee,DAL,SUB: Powell FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0172,2,10:46,WAS,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0172,2,10:45,WAS,,DAL,,J. McGee,DAL,McGee Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0172,2,10:32,WAS,,DAL,,J. McGee,DAL,MISS McGee 5' Dunk,Missed Shot,Dunk Shot,-2,48,5,1,2.0,0.0,v
+S2223-G0172,2,10:10,WAS,36.0,DAL,39.0,J. McGee,DAL,McGee 3' Hook Shot (2 PTS) (Kleber 1 AST),Made Shot,Hook Shot,-1,29,3,1,2.0,2.0,v
+S2223-G0172,2,09:34,WAS,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0172,2,09:01,WAS,,DAL,,J. McGee,DAL,SUB: Powell FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0172,3,01:55,WAS,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0172,3,01:46,WAS,,DAL,,J. McGee,DAL,MISS McGee 6' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,11,54,6,1,2.0,0.0,v
+S2223-G0172,3,01:36,WAS,,DAL,,J. McGee,DAL,McGee OFF.Foul (P1) (A.Smith),Foul,Offensive,0,0,0,0,,,v
+S2223-G0172,3,01:36,WAS,,DAL,,J. McGee,DAL,McGee Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0172,3,01:12,WAS,87.0,DAL,83.0,J. McGee,DAL,McGee Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0172,3,01:12,WAS,,DAL,,J. McGee,DAL,MISS McGee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0172,3,00:35.400000,WAS,,DAL,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0172,4,11:30,WAS,,DAL,,J. McGee,DAL,MISS McGee 3' Running Layup,Missed Shot,Running Layup Shot,4,26,3,1,2.0,0.0,v
+S2223-G0172,4,10:33,WAS,,DAL,,J. McGee,DAL,SUB: Powell FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0246,2,07:44,DAL,,DEN,,J. McGee,DAL,MISS McGee 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-69,25,7,1,2.0,0.0,h
+S2223-G0246,2,04:13,DAL,,DEN,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0246,2,03:22,DAL,,DEN,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0246,2,02:15,DAL,,DEN,,J. McGee,DAL,MISS McGee 2' Layup,Missed Shot,Layup Shot,-7,21,2,1,2.0,0.0,h
+S2223-G0246,2,02:15,DAL,,DEN,,J. McGee,DAL,SUB: Powell FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0246,4,10:01,DAL,81.0,DEN,83.0,J. McGee,DAL,McGee 1' Alley Oop Layup (2 PTS) (Dinwiddie 5 AST),Made Shot,Alley Oop Layup shot,-2,6,1,1,2.0,2.0,h
+S2223-G0246,4,05:17,DAL,,DEN,,J. McGee,DAL,SUB: Powell FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0456,1,01:07,MIN,19.0,DAL,27.0,J. McGee,DAL,McGee 1' Alley Oop Dunk (2 PTS) (Doncic 5 AST),Made Shot,Alley Oop Dunk Shot,-2,10,1,1,2.0,2.0,v
+S2223-G0456,2,11:26,MIN,23.0,DAL,32.0,J. McGee,DAL,McGee 1' Alley Oop Layup (4 PTS) (Walker 1 AST),Made Shot,Alley Oop Layup shot,-9,6,1,1,2.0,2.0,v
+S2223-G0456,2,09:58,MIN,,DAL,,J. McGee,DAL,McGee Violation:Kicked Ball (M.Dagher),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0456,2,09:38,MIN,,DAL,,J. McGee,DAL,McGee OFF.Foul (P1) (R.Mott),Foul,Offensive,0,0,0,0,,,v
+S2223-G0456,2,09:38,MIN,,DAL,,J. McGee,DAL,McGee Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0456,2,08:31,MIN,,DAL,,J. McGee,DAL,McGee Violation:Defensive Goaltending (M.Dagher),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0456,2,08:14,MIN,,DAL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0456,4,01:16,MIN,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0456,4,01:16,MIN,116.0,DAL,102.0,J. McGee,DAL,McGee Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0456,4,01:16,MIN,,DAL,,J. McGee,DAL,MISS McGee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0456,4,00:59.900000,MIN,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1139,2,09:29,PHI,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1139,2,09:15,PHI,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1139,2,09:13,PHI,,DAL,,J. McGee,DAL,McGee Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1139,2,08:51,PHI,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1139,2,06:46,PHI,,DAL,,J. McGee,DAL,McGee S.FOUL (P1.T3) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2223-G1139,2,06:20,PHI,,DAL,,J. McGee,DAL,SUB: Doncic FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G1139,4,07:50,PHI,,DAL,,J. McGee,DAL,McGee Violation:Defensive Goaltending (T.Ford),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G1139,4,07:07,PHI,100.0,DAL,103.0,J. McGee,DAL,McGee 5' Running Dunk (2 PTS) (Hardaway Jr. 2 AST),Made Shot,Running Dunk Shot,9,48,5,1,2.0,2.0,v
+S2223-G1139,4,06:13,PHI,,DAL,,J. McGee,DAL,SUB: Kleber FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G1210,1,03:27,DAL,19.0,CHI,17.0,J. McGee,DAL,McGee 1' Running Dunk (2 PTS) (Pinson 1 AST),Made Shot,Running Dunk Shot,-6,6,1,1,2.0,2.0,h
+S2223-G1210,1,02:38,DAL,,CHI,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1210,1,02:26,DAL,24.0,CHI,17.0,J. McGee,DAL,McGee 2' Alley Oop Dunk (4 PTS) (Doncic 2 AST),Made Shot,Alley Oop Dunk Shot,16,9,2,1,2.0,2.0,h
+S2223-G1210,1,02:06,DAL,,CHI,,J. McGee,DAL,McGee S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G1210,1,00:00.500000,DAL,,CHI,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1210,2,11:44,DAL,,CHI,,J. McGee,DAL,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1210,2,09:44,DAL,39.0,CHI,28.0,J. McGee,DAL,McGee 25' 3PT Jump Shot (7 PTS) (Holiday 1 AST),Made Shot,Jump Shot,-82,240,25,1,3.0,3.0,h
+S2223-G1210,2,09:18,DAL,41.0,CHI,28.0,J. McGee,DAL,McGee 1' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,6,1,1,2.0,2.0,h
+S2223-G1210,2,08:30,DAL,,CHI,,J. McGee,DAL,SUB: Bullock FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0440,1,01:13,CLE,,DAL,,J. McGee,DAL,McGee Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0440,1,01:02,CLE,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0440,2,11:35,CLE,27.0,DAL,31.0,J. McGee,DAL,McGee 6' Hook Shot (2 PTS) (Finney-Smith 2 AST),Made Shot,Hook Shot,36,52,6,1,2.0,2.0,v
+S2223-G0440,2,09:20,CLE,,DAL,,J. McGee,DAL,McGee Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0440,2,09:05,CLE,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0440,2,08:59,CLE,,DAL,,J. McGee,DAL,McGee REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0440,2,08:37,CLE,,DAL,,J. McGee,DAL,SUB: Walker FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0440,4,11:34,CLE,,DAL,,J. McGee,DAL,McGee S.FOUL (P1.T1) (P.O'Connell),Foul,Shooting,0,0,0,0,,,v
+S2223-G0440,4,11:23,CLE,70.0,DAL,77.0,J. McGee,DAL,McGee 1' Alley Oop Dunk (4 PTS) (Hardy 1 AST),Made Shot,Alley Oop Dunk Shot,1,7,1,1,2.0,2.0,v
+S2223-G0440,4,10:30,CLE,,DAL,,J. McGee,DAL,McGee Violation:Defensive Goaltending (P.O'Connell),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0440,4,10:01,CLE,,DAL,,J. McGee,DAL,SUB: Hardaway Jr. FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0155,1,12:00,DAL,,BKN,,J. McGee,DAL,Jump Ball McGee vs. Claxton: Tip to Dinwiddie,Jump Ball,,0,0,0,0,,,h
+S2223-G0155,1,11:10,DAL,,BKN,,J. McGee,DAL,MISS McGee 5' Hook Shot,Missed Shot,Hook Shot,47,8,5,1,2.0,0.0,h
+S2223-G0155,1,09:01,DAL,,BKN,,J. McGee,DAL,McGee Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0155,1,08:35,DAL,,BKN,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G1123,2,10:44,IND,27.0,DAL,34.0,J. McGee,DAL,McGee 1' Alley Oop Layup (2 PTS) (Green 1 AST),Made Shot,Alley Oop Layup shot,-4,4,1,1,2.0,2.0,v
+S2223-G1123,2,10:44,IND,,DAL,,J. McGee,DAL,MISS McGee Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G1123,2,10:30,IND,,DAL,,J. McGee,DAL,McGee Violation:Defensive Goaltending (B.Taylor),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G1123,2,09:19,IND,29.0,DAL,38.0,J. McGee,DAL,McGee Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1123,2,09:19,IND,29.0,DAL,39.0,J. McGee,DAL,McGee Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1123,2,07:21,IND,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1123,2,06:20,IND,,DAL,,J. McGee,DAL,McGee S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G1123,2,05:31,IND,,DAL,,J. McGee,DAL,McGee OFF.Foul (P2) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,v
+S2223-G1123,2,05:31,IND,,DAL,,J. McGee,DAL,McGee Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1123,2,05:31,IND,,DAL,,J. McGee,DAL,SUB: Hardaway Jr. FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G1123,4,11:20,IND,,DAL,,J. McGee,DAL,Mavericks T.Foul (Def. 3 Sec McGee ) (J.Van Duyne),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G1123,4,09:49,IND,75.0,DAL,106.0,J. McGee,DAL,McGee 1' Driving Layup (6 PTS) (Irving 6 AST),Made Shot,Driving Layup Shot,13,2,1,1,2.0,2.0,v
+S2223-G1123,4,09:37,IND,,DAL,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1123,4,09:09,IND,,DAL,,J. McGee,DAL,MISS McGee 1' Dunk,Missed Shot,Dunk Shot,0,8,1,1,2.0,0.0,v
+S2223-G1123,4,08:43,IND,77.0,DAL,108.0,J. McGee,DAL,McGee 1' Driving Dunk (8 PTS) (Ntilikina 2 AST),Made Shot,Driving Dunk Shot,-4,6,1,1,2.0,2.0,v
+S2223-G1123,4,07:59,IND,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1123,4,06:57,IND,,DAL,,J. McGee,DAL,McGee OFF.Foul (P3) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,v
+S2223-G1123,4,06:57,IND,,DAL,,J. McGee,DAL,McGee Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1123,4,06:47,IND,,DAL,,J. McGee,DAL,McGee BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1123,4,06:35,IND,85.0,DAL,114.0,J. McGee,DAL,McGee 1' Cutting Dunk Shot (10 PTS) (Hardy 4 AST),Made Shot,Cutting Dunk Shot,9,6,1,1,2.0,2.0,v
+S2223-G1123,4,05:12,IND,,DAL,,J. McGee,DAL,SUB: Morris FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0230,2,08:01,DAL,44.0,DEN,36.0,J. McGee,DAL,McGee 5' Turnaround Jump Shot (2 PTS) (Wood 1 AST),Made Shot,Turnaround Jump Shot,9,53,5,1,2.0,2.0,h
+S2223-G0230,2,06:37,DAL,,DEN,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0230,2,06:22,DAL,,DEN,,J. McGee,DAL,McGee S.FOUL (P1.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0230,2,06:09,DAL,51.0,DEN,43.0,J. McGee,DAL,McGee 1' Dunk (4 PTS) (Doncic 5 AST),Made Shot,Dunk Shot,-1,10,1,1,2.0,2.0,h
+S2223-G0230,2,04:31,DAL,57.0,DEN,43.0,J. McGee,DAL,McGee 1' Dunk (6 PTS) (Doncic 6 AST),Made Shot,Dunk Shot,2,8,1,1,2.0,2.0,h
+S2223-G0230,2,02:41,DAL,63.0,DEN,45.0,J. McGee,DAL,McGee 5' Driving Hook Shot (8 PTS) (Bullock 2 AST),Made Shot,Driving Hook Shot,51,10,5,1,2.0,2.0,h
+S2223-G0230,2,02:31,DAL,,DEN,,J. McGee,DAL,McGee S.FOUL (P2.T3) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G0230,2,01:51,DAL,,DEN,,J. McGee,DAL,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0230,2,01:41,DAL,,DEN,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0230,4,09:11,DAL,,DEN,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0230,4,07:30,DAL,,DEN,,J. McGee,DAL,McGee OFF.Foul (P3) (J.Capers),Foul,Offensive,0,0,0,0,,,h
+S2223-G0230,4,07:30,DAL,,DEN,,J. McGee,DAL,McGee Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0230,4,05:18,DAL,,DEN,,J. McGee,DAL,MISS McGee 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,-47,77,9,1,2.0,0.0,h
+S2223-G0230,4,03:49,DAL,,DEN,,J. McGee,DAL,McGee REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0230,4,03:07,DAL,,DEN,,J. McGee,DAL,McGee REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0230,4,03:00,DAL,,DEN,,J. McGee,DAL,McGee Offensive Charge Foul (P4) (E.Dalen),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0230,4,03:00,DAL,,DEN,,J. McGee,DAL,McGee Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0230,4,01:44,DAL,,DEN,,J. McGee,DAL,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0230,4,01:44,DAL,,DEN,,J. McGee,DAL,MISS McGee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0230,4,01:25,DAL,,DEN,,J. McGee,DAL,McGee BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0230,4,00:43.600000,DAL,127.0,DEN,99.0,J. McGee,DAL,McGee 1' Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,5,-4,1,1,2.0,2.0,h
+S2223-G0066,1,10:36,BKN,4.0,DAL,1.0,J. McGee,DAL,McGee Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0066,1,10:36,BKN,4.0,DAL,2.0,J. McGee,DAL,McGee Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0066,1,09:46,BKN,,DAL,,J. McGee,DAL,McGee Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0066,1,08:50,BKN,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0066,1,08:10,BKN,9.0,DAL,6.0,J. McGee,DAL,McGee 8' Hook Shot (4 PTS) (Finney-Smith 1 AST),Made Shot,Hook Shot,25,77,8,1,2.0,2.0,v
+S2223-G0066,1,04:47,BKN,15.0,DAL,17.0,J. McGee,DAL,McGee Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0066,1,04:47,BKN,15.0,DAL,18.0,J. McGee,DAL,McGee Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0066,1,04:14,BKN,17.0,DAL,20.0,J. McGee,DAL,McGee 1' Dunk (8 PTS) (Doncic 2 AST),Made Shot,Dunk Shot,5,0,1,1,2.0,2.0,v
+S2223-G0066,1,03:51,BKN,,DAL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0066,2,04:12,BKN,,DAL,,J. McGee,DAL,MISS McGee 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,-1,11,1,1,2.0,0.0,v
+S2223-G0066,2,04:12,BKN,,DAL,,J. McGee,DAL,McGee REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0066,2,04:08,BKN,,DAL,,J. McGee,DAL,MISS McGee Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0066,2,03:28,BKN,,DAL,,J. McGee,DAL,McGee REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0066,2,03:28,BKN,,DAL,,J. McGee,DAL,MISS McGee Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0066,2,03:21,BKN,,DAL,,J. McGee,DAL,SUB: Kleber FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0066,3,11:26,BKN,,DAL,,J. McGee,DAL,McGee Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0066,3,11:21,BKN,,DAL,,J. McGee,DAL,McGee Inbound Turnover (P3.T6),Turnover,Inbound Turnover,0,0,0,0,,,v
+S2223-G0066,3,10:03,BKN,,DAL,,J. McGee,DAL,SUB: Kleber FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0436,4,06:28,DAL,,POR,,J. McGee,DAL,McGee OFF.Foul (P1) (R.Acosta),Foul,Offensive,0,0,0,0,,,h
+S2223-G0436,4,06:28,DAL,,POR,,J. McGee,DAL,McGee Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0436,4,05:08,DAL,,POR,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0436,4,03:49,DAL,,POR,,J. McGee,DAL,MISS McGee 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-39,-1,4,1,2.0,0.0,h
+S2223-G0436,4,03:39,DAL,,POR,,J. McGee,DAL,MISS McGee 24' 3PT Jump Shot,Missed Shot,Jump Shot,-26,241,24,1,3.0,0.0,h
+S2223-G0436,4,02:30,DAL,,POR,,J. McGee,DAL,MISS McGee 3' Driving Layup,Missed Shot,Driving Layup Shot,9,29,3,1,2.0,0.0,h
+S2223-G0436,4,00:59,DAL,,POR,,J. McGee,DAL,McGee BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0436,4,00:56.500000,DAL,,POR,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0436,4,00:33.300000,DAL,,POR,,J. McGee,DAL,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0115,1,12:00,DAL,,UTA,,J. McGee,DAL,Jump Ball McGee vs. Olynyk: Tip to Conley,Jump Ball,,0,0,0,0,,,h
+S2223-G0115,1,09:49,DAL,,UTA,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0115,1,09:16,DAL,10.0,UTA,9.0,J. McGee,DAL,McGee 1' Alley Oop Dunk (2 PTS) (Doncic 2 AST),Made Shot,Alley Oop Dunk Shot,4,8,1,1,2.0,2.0,h
+S2223-G0115,1,07:16,DAL,,UTA,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0115,3,11:36,DAL,49.0,UTA,50.0,J. McGee,DAL,McGee 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,9,11,1,1,2.0,2.0,h
+S2223-G0115,3,11:24,DAL,,UTA,,J. McGee,DAL,MAVERICKS T.Foul (Def. 3 Sec McGee ) (M.Dagher),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G0115,3,11:10,DAL,,UTA,,J. McGee,DAL,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0115,3,09:36,DAL,,UTA,,J. McGee,DAL,McGee STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0115,3,08:45,DAL,,UTA,,J. McGee,DAL,McGee L.B.FOUL (P1.T1) (K.Scott),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0115,3,08:45,DAL,,UTA,,J. McGee,DAL,SUB: Hardaway Jr. FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0512,5,05:00,DAL,,NYK,,J. McGee,DAL,Jump Ball McGee vs. Robinson: Tip to Dinwiddie,Jump Ball,,0,0,0,0,,,h
+S2223-G0512,5,03:54,DAL,,NYK,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0512,5,02:21,DAL,,NYK,,J. McGee,DAL,SUB: Powell FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0093,1,12:00,DAL,,ORL,,J. McGee,DAL,Jump Ball McGee vs. Bol: Tip to Carter Jr.,Jump Ball,,0,0,0,0,,,h
+S2223-G0093,1,11:26,DAL,,ORL,,J. McGee,DAL,MISS McGee 6' Hook Shot,Missed Shot,Hook Shot,49,29,6,1,2.0,0.0,h
+S2223-G0093,1,10:24,DAL,,ORL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0093,1,08:37,DAL,,ORL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0093,1,07:22,DAL,,ORL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0093,3,09:30,DAL,,ORL,,J. McGee,DAL,McGee S.FOUL (P1.T1) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0093,3,08:33,DAL,,ORL,,J. McGee,DAL,MISS McGee 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,34,-4,3,1,2.0,0.0,h
+S2223-G0093,3,07:57,DAL,,ORL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0093,3,07:46,DAL,,ORL,,J. McGee,DAL,SUB: Powell FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0617,2,10:39,LAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0617,2,10:39,LAC,33.0,DAL,31.0,J. McGee,DAL,McGee Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0617,2,09:50,LAC,,DAL,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0617,2,09:44,LAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0617,2,09:29,LAC,,DAL,,J. McGee,DAL,McGee S.FOUL (P1.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0617,2,09:27,LAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0617,2,08:49,LAC,,DAL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0528,4,05:26,DAL,,HOU,,J. McGee,DAL,MISS McGee 3' Layup,Missed Shot,Layup Shot,-1,25,3,1,2.0,0.0,h
+S2223-G0528,4,04:59,DAL,116.0,HOU,93.0,J. McGee,DAL,McGee 1' Driving Reverse Dunk Shot (2 PTS),Made Shot,Driving Reverse Dunk Shot,-7,3,1,1,2.0,2.0,h
+S2223-G0528,4,03:57,DAL,,HOU,,J. McGee,DAL,McGee S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0528,4,03:54,DAL,,HOU,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0528,4,03:38,DAL,,HOU,,J. McGee,DAL,MISS McGee 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,5,73,7,1,2.0,0.0,h
+S2223-G0528,4,00:57.800000,DAL,129.0,HOU,109.0,J. McGee,DAL,McGee 11' Driving Floating Jump Shot (4 PTS) (Wright IV 3 AST),Made Shot,Driving Floating Jump Shot,-47,99,11,1,2.0,2.0,h
+S2223-G0528,4,00:45.600000,DAL,,HOU,,J. McGee,DAL,MISS McGee 5' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,53,9,5,1,2.0,0.0,h
+S2223-G0854,1,06:25,SAC,,DAL,,J. McGee,DAL,McGee OFF.Foul (P1) (M.Myers),Foul,Offensive,0,0,0,0,,,v
+S2223-G0854,1,06:25,SAC,,DAL,,J. McGee,DAL,McGee Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0854,1,05:17,SAC,,DAL,,J. McGee,DAL,MISS McGee 8' Jump Shot,Missed Shot,Jump Shot,4,79,8,1,2.0,0.0,v
+S2223-G0854,1,05:14,SAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0854,1,05:14,SAC,15.0,DAL,19.0,J. McGee,DAL,McGee 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-22,17,3,1,2.0,2.0,v
+S2223-G0854,1,04:45,SAC,15.0,DAL,20.0,J. McGee,DAL,McGee Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0854,1,04:45,SAC,15.0,DAL,21.0,J. McGee,DAL,McGee Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0854,1,02:17,SAC,26.0,DAL,28.0,J. McGee,DAL,McGee 3' Alley Oop Dunk (6 PTS) (Doncic 3 AST),Made Shot,Alley Oop Dunk Shot,-2,32,3,1,2.0,2.0,v
+S2223-G0854,1,02:09,SAC,,DAL,,J. McGee,DAL,McGee Violation:Defensive Goaltending (B.Forte),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0854,1,00:50.500000,SAC,,DAL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0854,3,07:18,SAC,71.0,DAL,75.0,J. McGee,DAL,McGee 2' Hook Shot (8 PTS) (Irving 5 AST),Made Shot,Hook Shot,-18,-1,2,1,2.0,2.0,v
+S2223-G0854,3,06:00,SAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0854,3,05:59,SAC,,DAL,,J. McGee,DAL,McGee Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0854,3,05:08,SAC,,DAL,,J. McGee,DAL,MISS McGee 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,16,66,7,1,2.0,0.0,v
+S2223-G0854,3,04:31,SAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0854,3,03:59,SAC,,DAL,,J. McGee,DAL,MISS McGee 8' Hook Shot,Missed Shot,Hook Shot,81,-11,8,1,2.0,0.0,v
+S2223-G0854,3,03:51,SAC,,DAL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0012,1,11:49,PHX,,DAL,,J. McGee,DAL,McGee Violation:Kicked Ball (E.Lewis),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0012,1,09:22,PHX,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0012,1,09:12,PHX,,DAL,,J. McGee,DAL,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0012,1,09:12,PHX,2.0,DAL,5.0,J. McGee,DAL,McGee Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0012,1,06:56,PHX,7.0,DAL,9.0,J. McGee,DAL,McGee 1' Cutting Layup Shot (3 PTS) (Doncic 1 AST),Made Shot,Cutting Layup Shot,0,5,1,1,2.0,2.0,v
+S2223-G0012,1,05:25,PHX,,DAL,,J. McGee,DAL,McGee STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0012,1,05:19,PHX,,DAL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0012,2,06:09,PHX,,DAL,,J. McGee,DAL,McGee Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0012,2,05:28,PHX,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0012,2,05:18,PHX,,DAL,,J. McGee,DAL,MISS McGee 5' Hook Shot,Missed Shot,Hook Shot,-10,51,5,1,2.0,0.0,v
+S2223-G0012,2,05:17,PHX,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0012,2,05:17,PHX,,DAL,,J. McGee,DAL,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0012,2,05:17,PHX,,DAL,,J. McGee,DAL,MISS McGee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0012,2,04:52,PHX,,DAL,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0012,2,04:07,PHX,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0012,2,03:32,PHX,,DAL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0012,3,09:36,PHX,,DAL,,J. McGee,DAL,MISS McGee 7' Hook Shot,Missed Shot,Hook Shot,15,64,7,1,2.0,0.0,v
+S2223-G0012,3,07:59,PHX,,DAL,,J. McGee,DAL,McGee Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0012,3,07:37,PHX,,DAL,,J. McGee,DAL,McGee S.FOUL (P1.T4) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G0012,3,07:37,PHX,,DAL,,J. McGee,DAL,SUB: Kleber FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G1195,2,11:33,DAL,,SAC,,J. McGee,DAL,Jump Ball McGee vs. Lyles: Tip to Fox,Jump Ball,,0,0,0,0,,,h
+S2223-G1195,2,11:11,DAL,,SAC,,J. McGee,DAL,McGee Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1195,2,07:32,DAL,,SAC,,J. McGee,DAL,MISS McGee 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,6,68,7,1,2.0,0.0,h
+S2223-G1195,2,07:32,DAL,,SAC,,J. McGee,DAL,SUB: Kleber FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G1195,3,05:40,DAL,,SAC,,J. McGee,DAL,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1195,3,05:40,DAL,83.0,SAC,81.0,J. McGee,DAL,McGee Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1195,3,04:36,DAL,85.0,SAC,83.0,J. McGee,DAL,McGee 5' Turnaround Bank Shot (3 PTS) (Bullock 1 AST),Made Shot,Turnaround Bank shot,53,11,5,1,2.0,2.0,h
+S2223-G1195,3,03:51,DAL,,SAC,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1195,3,02:56,DAL,,SAC,,J. McGee,DAL,McGee BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1195,3,01:52,DAL,,SAC,,J. McGee,DAL,SUB: Hardy FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0053,1,11:26,NOP,,DAL,,J. McGee,DAL,McGee S.FOUL (P1.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2223-G0053,1,10:44,NOP,4.0,DAL,4.0,J. McGee,DAL,McGee 3' Driving Finger Roll Layup (2 PTS) (Bullock 1 AST),Made Shot,Driving Finger Roll Layup Shot,25,3,3,1,2.0,2.0,v
+S2223-G0053,1,10:08,NOP,,DAL,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0053,1,09:26,NOP,11.0,DAL,8.0,J. McGee,DAL,McGee Alley Oop Dunk (4 PTS) (Doncic 1 AST),Made Shot,Alley Oop Dunk Shot,2,-1,0,1,2.0,2.0,v
+S2223-G0053,1,07:17,NOP,,DAL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0053,2,04:23,NOP,57.0,DAL,49.0,J. McGee,DAL,McGee 1' Alley Oop Dunk (6 PTS) (Dinwiddie 3 AST),Made Shot,Alley Oop Dunk Shot,-5,6,1,1,2.0,2.0,v
+S2223-G0053,2,03:04,NOP,,DAL,,J. McGee,DAL,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0053,2,03:04,NOP,64.0,DAL,55.0,J. McGee,DAL,McGee Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0053,2,02:50,NOP,,DAL,,J. McGee,DAL,McGee STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0053,2,02:20,NOP,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0053,2,01:37,NOP,,DAL,,J. McGee,DAL,MISS McGee 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,27,11,3,1,2.0,0.0,v
+S2223-G0053,2,00:57,NOP,,DAL,,J. McGee,DAL,SUB: Kleber FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0053,3,11:24,NOP,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0053,3,11:17,NOP,,DAL,,J. McGee,DAL,MISS McGee 4' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,-31,22,4,1,2.0,0.0,v
+S2223-G0053,3,09:14,NOP,,DAL,,J. McGee,DAL,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0053,3,09:14,NOP,68.0,DAL,71.0,J. McGee,DAL,McGee Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0053,3,08:06,NOP,,DAL,,J. McGee,DAL,SUB: Kleber FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0881,1,05:47,DEN,,DAL,,J. McGee,DAL,McGee Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0881,1,04:23,DEN,19.0,DAL,14.0,J. McGee,DAL,McGee 3' Cutting Dunk Shot (2 PTS) (Doncic 3 AST),Made Shot,Cutting Dunk Shot,13,22,3,1,2.0,2.0,v
+S2223-G0881,1,04:16,DEN,,DAL,,J. McGee,DAL,McGee S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0881,1,03:39,DEN,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0881,1,03:04,DEN,,DAL,,J. McGee,DAL,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0881,1,03:04,DEN,23.0,DAL,18.0,J. McGee,DAL,McGee Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0881,1,02:51,DEN,,DAL,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0881,1,02:33,DEN,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0881,1,02:12,DEN,,DAL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0881,2,01:12,DEN,57.0,DAL,42.0,J. McGee,DAL,McGee 3' Layup (5 PTS) (Pinson 1 AST),Made Shot,Layup Shot,26,13,3,1,2.0,2.0,v
+S2223-G0881,2,00:39.700000,DEN,,DAL,,J. McGee,DAL,MISS McGee 3' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,22,25,3,1,2.0,0.0,v
+S2223-G0881,3,02:45,DEN,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0602,2,08:48,OKC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0602,2,06:54,OKC,,DAL,,J. McGee,DAL,SUB: Powell FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0593,1,05:07,DAL,,NOP,,J. McGee,DAL,McGee P.FOUL (P1.T4) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,h
+S2223-G0593,1,04:55,DAL,,NOP,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0593,1,04:00,DAL,23.0,NOP,11.0,J. McGee,DAL,McGee 8' Driving Bank Hook Shot (2 PTS),Made Shot,Driving Bank Hook Shot,58,52,8,1,2.0,2.0,h
+S2223-G0593,1,02:32,DAL,,NOP,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0593,1,02:13,DAL,,NOP,,J. McGee,DAL,McGee BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0593,1,02:00,DAL,,NOP,,J. McGee,DAL,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0593,1,01:39,DAL,,NOP,,J. McGee,DAL,McGee REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0593,1,00:48.500000,DAL,,NOP,,J. McGee,DAL,McGee REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0593,1,00:47,DAL,,NOP,,J. McGee,DAL,McGee Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0593,1,00:12.200000,DAL,,NOP,,J. McGee,DAL,McGee S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G0593,1,00:06.400000,DAL,,NOP,,J. McGee,DAL,McGee REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0593,2,01:28,DAL,58.0,NOP,40.0,J. McGee,DAL,McGee 1' Alley Oop Dunk (4 PTS) (Ntilikina 1 AST),Made Shot,Alley Oop Dunk Shot,4,6,1,1,2.0,2.0,h
+S2223-G0593,4,11:49,DAL,,NOP,,J. McGee,DAL,McGee BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0593,4,10:36,DAL,,NOP,,J. McGee,DAL,McGee S.FOUL (P3.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0593,4,10:04,DAL,,NOP,,J. McGee,DAL,MISS McGee 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-23,29,4,1,2.0,0.0,h
+S2223-G0593,4,09:54,DAL,,NOP,,J. McGee,DAL,McGee REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0593,4,09:19,DAL,,NOP,,J. McGee,DAL,McGee P.FOUL (P4.T3) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G0593,4,08:27,DAL,,NOP,,J. McGee,DAL,SUB: Powell FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0593,4,02:49,DAL,121.0,NOP,106.0,J. McGee,DAL,McGee 2' Alley Oop Dunk (6 PTS) (Doncic 10 AST),Made Shot,Alley Oop Dunk Shot,2,18,2,1,2.0,2.0,h
+S2223-G0593,4,02:30,DAL,,NOP,,J. McGee,DAL,McGee L.B.FOUL (P5.PN) (K.Scott),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0593,4,00:30.900000,DAL,,NOP,,J. McGee,DAL,SUB: Lawson FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0337,1,02:44,NYK,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0337,1,00:25.100000,NYK,30.0,DAL,20.0,J. McGee,DAL,McGee 1' Driving Layup (2 PTS) (Green 2 AST),Made Shot,Driving Layup Shot,2,8,1,1,2.0,2.0,v
+S2223-G0337,2,11:45,NYK,,DAL,,J. McGee,DAL,McGee Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0337,2,11:40,NYK,,DAL,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0337,2,10:43,NYK,,DAL,,J. McGee,DAL,SUB: Finney-Smith FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0264,2,07:49,BOS,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0264,2,07:35,BOS,50.0,DAL,32.0,J. McGee,DAL,McGee 5' Cutting Layup Shot (2 PTS) (Wood 1 AST),Made Shot,Cutting Layup Shot,-36,38,5,1,2.0,2.0,v
+S2223-G0264,2,07:35,BOS,50.0,DAL,33.0,J. McGee,DAL,McGee Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0264,2,05:33,BOS,53.0,DAL,40.0,J. McGee,DAL,McGee 12' Turnaround Hook Shot (5 PTS) (Dinwiddie 3 AST),Made Shot,Turnaround Hook Shot,56,101,12,1,2.0,2.0,v
+S2223-G0264,2,04:01,BOS,,DAL,,J. McGee,DAL,McGee S.FOUL (P1.T3) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0264,2,04:01,BOS,,DAL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0161,1,00:02.500000,ORL,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0161,1,00:00,ORL,,DAL,,J. McGee,DAL,MISS McGee Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0161,2,11:43,ORL,,DAL,,J. McGee,DAL,MISS McGee 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,23,112,11,1,2.0,0.0,v
+S2223-G0161,2,11:23,ORL,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0161,2,11:12,ORL,24.0,DAL,30.0,J. McGee,DAL,McGee 2' Alley Oop Layup (2 PTS) (Green 1 AST),Made Shot,Alley Oop Layup shot,-9,13,2,1,2.0,2.0,v
+S2223-G0161,2,07:48,ORL,,DAL,,J. McGee,DAL,McGee OFF.Foul (P1) (C.Flores),Foul,Offensive,0,0,0,0,,,v
+S2223-G0161,2,07:48,ORL,,DAL,,J. McGee,DAL,McGee Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0161,2,07:48,ORL,,DAL,,J. McGee,DAL,SUB: Powell FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0161,3,01:04,ORL,,DAL,,J. McGee,DAL,McGee REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0161,3,01:04,ORL,69.0,DAL,72.0,J. McGee,DAL,McGee Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0161,3,01:04,ORL,,DAL,,J. McGee,DAL,MISS McGee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0161,4,11:43,ORL,,DAL,,J. McGee,DAL,McGee REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0161,4,09:29,ORL,,DAL,,J. McGee,DAL,McGee REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0161,4,08:34,ORL,,DAL,,J. McGee,DAL,McGee REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0161,4,08:34,ORL,78.0,DAL,81.0,J. McGee,DAL,McGee Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0161,4,07:49,ORL,,DAL,,J. McGee,DAL,McGee P.FOUL (P2.T2) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0161,4,07:49,ORL,,DAL,,J. McGee,DAL,SUB: Powell FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0286,2,05:38,TOR,,DAL,,J. McGee,DAL,McGee Offensive Charge Foul (P1) (J.Butler),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0286,2,05:38,TOR,,DAL,,J. McGee,DAL,McGee Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0286,2,04:31,TOR,,DAL,,J. McGee,DAL,McGee P.FOUL (P2.T2) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2223-G0286,2,02:43,TOR,49.0,DAL,45.0,J. McGee,DAL,McGee 2' Alley Oop Layup (2 PTS) (Finney-Smith 2 AST),Made Shot,Alley Oop Layup shot,16,17,2,1,2.0,2.0,v
+S2223-G0286,2,02:30,TOR,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0286,2,02:10,TOR,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0286,2,01:17,TOR,,DAL,,J. McGee,DAL,SUB: Powell FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0013,1,11:49,PHX,,DAL,,J. McGee,DAL,McGee Violation:Kicked Ball (E.Lewis),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0013,1,09:22,PHX,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0013,1,09:12,PHX,,DAL,,J. McGee,DAL,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0013,1,09:12,PHX,2.0,DAL,5.0,J. McGee,DAL,McGee Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0013,1,06:56,PHX,7.0,DAL,9.0,J. McGee,DAL,McGee 1' Cutting Layup Shot (3 PTS) (Doncic 1 AST),Made Shot,Cutting Layup Shot,0,5,1,1,2.0,2.0,v
+S2223-G0013,1,05:25,PHX,,DAL,,J. McGee,DAL,McGee STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0013,1,05:19,PHX,,DAL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0013,2,06:09,PHX,,DAL,,J. McGee,DAL,McGee Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0013,2,05:28,PHX,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0013,2,05:18,PHX,,DAL,,J. McGee,DAL,MISS McGee 5' Hook Shot,Missed Shot,Hook Shot,-10,51,5,1,2.0,0.0,v
+S2223-G0013,2,05:17,PHX,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0013,2,05:17,PHX,,DAL,,J. McGee,DAL,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0013,2,05:17,PHX,,DAL,,J. McGee,DAL,MISS McGee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0013,2,04:52,PHX,,DAL,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0013,2,04:07,PHX,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0013,2,03:32,PHX,,DAL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0013,3,09:36,PHX,,DAL,,J. McGee,DAL,MISS McGee 7' Hook Shot,Missed Shot,Hook Shot,15,64,7,1,2.0,0.0,v
+S2223-G0013,3,07:59,PHX,,DAL,,J. McGee,DAL,McGee Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0013,3,07:37,PHX,,DAL,,J. McGee,DAL,McGee S.FOUL (P1.T4) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G0013,3,07:37,PHX,,DAL,,J. McGee,DAL,SUB: Kleber FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0761,2,07:50,DAL,,DET,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0761,2,07:34,DAL,36.0,DET,34.0,J. McGee,DAL,McGee 5' Hook Shot (2 PTS) (Hardaway Jr. 1 AST),Made Shot,Hook Shot,15,48,5,1,2.0,2.0,h
+S2223-G0761,2,04:10,DAL,45.0,DET,45.0,J. McGee,DAL,McGee 4' Hook Shot (4 PTS) (Doncic 4 AST),Made Shot,Hook Shot,6,36,4,1,2.0,2.0,h
+S2223-G0761,2,04:10,DAL,,DET,,J. McGee,DAL,MISS McGee Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0761,2,03:22,DAL,,DET,,J. McGee,DAL,McGee Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0761,2,02:58,DAL,,DET,,J. McGee,DAL,MISS McGee 7' Floating Jump Shot,Missed Shot,Floating Jump shot,22,66,7,1,2.0,0.0,h
+S2223-G0761,2,02:55,DAL,,DET,,J. McGee,DAL,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0761,2,02:53,DAL,47.0,DET,48.0,J. McGee,DAL,McGee Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0761,2,01:31,DAL,49.0,DET,55.0,J. McGee,DAL,McGee 2' Cutting Dunk Shot (8 PTS) (Finney-Smith 1 AST),Made Shot,Cutting Dunk Shot,-6,15,2,1,2.0,2.0,h
+S2223-G0761,2,00:32.900000,DAL,,DET,,J. McGee,DAL,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0761,3,11:31,DAL,,DET,,J. McGee,DAL,McGee L.B.FOUL (P1.T1) (E.Scott),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0761,3,10:23,DAL,,DET,,J. McGee,DAL,McGee Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0761,3,09:43,DAL,,DET,,J. McGee,DAL,SUB: Powell FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0034,1,12:00,DAL,,MEM,,J. McGee,DAL,Jump Ball McGee vs. Adams: Tip to Konchar,Jump Ball,,0,0,0,0,,,h
+S2223-G0034,1,08:28,DAL,,MEM,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0034,1,08:11,DAL,,MEM,,J. McGee,DAL,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0034,1,08:11,DAL,,MEM,,J. McGee,DAL,MISS McGee Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0034,1,08:07,DAL,,MEM,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0034,1,08:03,DAL,,MEM,,J. McGee,DAL,McGee S.FOUL (P1.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2223-G0034,1,08:01,DAL,,MEM,,J. McGee,DAL,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0034,1,07:47,DAL,11.0,MEM,4.0,J. McGee,DAL,McGee 1' Alley Oop Dunk (2 PTS) (Doncic 1 AST),Made Shot,Alley Oop Dunk Shot,5,5,1,1,2.0,2.0,h
+S2223-G0034,1,07:00,DAL,,MEM,,J. McGee,DAL,McGee REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0034,1,05:59,DAL,,MEM,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0034,2,06:56,DAL,,MEM,,J. McGee,DAL,McGee REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0034,2,06:40,DAL,,MEM,,J. McGee,DAL,McGee OFF.Foul (P2) (J.Goldenberg),Foul,Offensive,0,0,0,0,,,h
+S2223-G0034,2,06:40,DAL,,MEM,,J. McGee,DAL,McGee Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0034,2,05:10,DAL,51.0,MEM,30.0,J. McGee,DAL,McGee Cutting Dunk Shot (4 PTS) (Doncic 4 AST),Made Shot,Cutting Dunk Shot,1,4,0,1,2.0,2.0,h
+S2223-G0034,2,04:35,DAL,,MEM,,J. McGee,DAL,McGee P.FOUL (P3.PN) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2223-G0034,2,04:35,DAL,,MEM,,J. McGee,DAL,SUB: Kleber FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0034,3,10:23,DAL,,MEM,,J. McGee,DAL,McGee REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0034,3,10:23,DAL,68.0,MEM,42.0,J. McGee,DAL,McGee Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0034,3,09:41,DAL,,MEM,,J. McGee,DAL,McGee BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0034,3,07:34,DAL,,MEM,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0813,2,10:51,UTA,,DAL,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0813,2,08:37,UTA,,DAL,,J. McGee,DAL,MISS McGee 2' Driving Dunk,Missed Shot,Driving Dunk Shot,17,9,2,1,2.0,0.0,v
+S2223-G0813,2,07:01,UTA,,DAL,,J. McGee,DAL,SUB: Powell FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0813,4,10:18,UTA,,DAL,,J. McGee,DAL,SUB: Green FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0844,1,10:02,SAC,,DAL,,J. McGee,DAL,McGee S.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0844,1,09:47,SAC,4.0,DAL,8.0,J. McGee,DAL,McGee 2' Alley Oop Layup (2 PTS) (Irving 2 AST),Made Shot,Alley Oop Layup shot,16,10,2,1,2.0,2.0,v
+S2223-G0844,1,09:34,SAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0844,1,08:05,SAC,,DAL,,J. McGee,DAL,MISS McGee 6' Floating Jump Shot,Missed Shot,Floating Jump shot,26,59,6,1,2.0,0.0,v
+S2223-G0844,1,08:05,SAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0844,1,08:01,SAC,9.0,DAL,13.0,J. McGee,DAL,McGee 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,2,22,2,1,2.0,2.0,v
+S2223-G0844,1,07:27,SAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0844,1,06:58,SAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0844,1,06:43,SAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0844,1,06:00,SAC,13.0,DAL,19.0,J. McGee,DAL,McGee 1' Dunk (6 PTS) (Green 1 AST),Made Shot,Dunk Shot,10,7,1,1,2.0,2.0,v
+S2223-G0844,1,05:15,SAC,,DAL,,J. McGee,DAL,McGee S.FOUL (P2.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0844,1,05:15,SAC,,DAL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0844,2,08:46,SAC,,DAL,,J. McGee,DAL,MISS McGee 9' Floating Jump Shot,Missed Shot,Floating Jump shot,-42,74,9,1,2.0,0.0,v
+S2223-G0844,2,08:44,SAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0844,2,08:44,SAC,,DAL,,J. McGee,DAL,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0844,2,08:44,SAC,37.0,DAL,54.0,J. McGee,DAL,McGee Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0844,2,08:15,SAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0844,2,05:09,SAC,,DAL,,J. McGee,DAL,McGee S.FOUL (P3.T4) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0844,2,02:46,SAC,,DAL,,J. McGee,DAL,MISS McGee 3' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,32,8,3,1,2.0,0.0,v
+S2223-G0844,2,01:36,SAC,,DAL,,J. McGee,DAL,MISS McGee 12' Jump Shot,Missed Shot,Jump Shot,119,32,12,1,2.0,0.0,v
+S2223-G0844,3,03:09,SAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0844,3,02:23,SAC,75.0,DAL,94.0,J. McGee,DAL,McGee 4' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,-29,29,4,1,2.0,2.0,v
+S2223-G0844,3,01:49,SAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0844,3,01:09,SAC,80.0,DAL,98.0,J. McGee,DAL,McGee 8' Driving Hook Shot (11 PTS),Made Shot,Driving Hook Shot,77,9,8,1,2.0,2.0,v
+S2223-G0844,3,00:50.600000,SAC,,DAL,,J. McGee,DAL,SUB: Green FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0487,2,00:58.600000,HOU,48.0,DAL,61.0,J. McGee,DAL,McGee 1' Running Layup (2 PTS) (Pinson 1 AST),Made Shot,Running Layup Shot,9,11,1,1,2.0,2.0,v
+S2223-G0829,1,03:04,LAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0829,1,02:50,LAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0829,1,02:35,LAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0829,1,01:18,LAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0829,1,01:07,LAC,21.0,DAL,40.0,J. McGee,DAL,McGee 3' Cutting Dunk Shot (2 PTS) (Bullock 2 AST),Made Shot,Cutting Dunk Shot,-15,22,3,1,2.0,2.0,v
+S2223-G0829,1,00:55.400000,LAC,,DAL,,J. McGee,DAL,McGee S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0829,1,00:55.400000,LAC,,DAL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0829,3,03:33,LAC,,DAL,,J. McGee,DAL,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0829,3,02:48,LAC,,DAL,,J. McGee,DAL,McGee BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0829,3,02:01,LAC,,DAL,,J. McGee,DAL,McGee BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0829,3,01:45,LAC,,DAL,,J. McGee,DAL,MISS McGee 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,26,46,5,1,2.0,0.0,v
+S2223-G0829,3,01:44,LAC,,DAL,,J. McGee,DAL,McGee REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0829,3,01:44,LAC,,DAL,,J. McGee,DAL,MISS McGee 3' Putback Layup,Missed Shot,Putback Layup Shot,1,32,3,1,2.0,0.0,v
+S2223-G0829,3,01:11,LAC,,DAL,,J. McGee,DAL,SUB: Wood FOR McGee,Substitution,,0,0,0,0,,,v
+S2223-G0127,2,10:33,DAL,33.0,TOR,31.0,J. McGee,DAL,McGee Running Dunk (2 PTS) (Dinwiddie 1 AST),Made Shot,Running Dunk Shot,0,-3,0,1,2.0,2.0,h
+S2223-G0127,2,10:01,DAL,,TOR,,J. McGee,DAL,McGee Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0127,2,09:47,DAL,,TOR,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0127,2,09:31,DAL,35.0,TOR,31.0,J. McGee,DAL,McGee 7' Turnaround Bank Shot (4 PTS) (Hardaway Jr. 1 AST),Made Shot,Turnaround Bank shot,-39,58,7,1,2.0,2.0,h
+S2223-G0127,2,09:31,DAL,36.0,TOR,31.0,J. McGee,DAL,McGee Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0127,2,06:55,DAL,,TOR,,J. McGee,DAL,SUB: Powell FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G0577,4,02:29,DAL,90.0,BOS,116.0,J. McGee,DAL,McGee 7' Driving Floating Jump Shot (2 PTS) (Wright IV 1 AST),Made Shot,Driving Floating Jump Shot,-1,67,7,1,2.0,2.0,h
+S2223-G0577,4,02:04,DAL,,BOS,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0577,4,01:57,DAL,,BOS,,J. McGee,DAL,MISS McGee 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,52,34,6,1,2.0,0.0,h
+S2223-G0577,4,00:59.600000,DAL,,BOS,,J. McGee,DAL,McGee Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0865,1,04:45,DAL,,MIN,,J. McGee,DAL,McGee S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0865,1,04:43,DAL,,MIN,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0865,1,04:10,DAL,,MIN,,J. McGee,DAL,SUB: Pinson FOR McGee,Substitution,,0,0,0,0,,,h
+S2223-G1167,3,05:29,ATL,,DAL,,J. McGee,DAL,McGee S.FOUL (P1.T2) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G1167,3,04:45,ATL,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1167,3,04:37,ATL,92.0,DAL,81.0,J. McGee,DAL,McGee Running Layup (2 PTS) (Green 1 AST),Made Shot,Running Layup Shot,0,1,0,1,2.0,2.0,v
+S2223-G1167,3,04:15,ATL,92.0,DAL,83.0,J. McGee,DAL,McGee Alley Oop Layup (4 PTS) (Wood 2 AST),Made Shot,Alley Oop Layup shot,2,-1,0,1,2.0,2.0,v
+S2223-G1167,3,03:38,ATL,,DAL,,J. McGee,DAL,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1167,3,03:16,ATL,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1167,3,02:08,ATL,,DAL,,J. McGee,DAL,MISS McGee 1' Running Layup,Missed Shot,Running Layup Shot,6,7,1,1,2.0,0.0,v
+S2223-G1167,3,01:54,ATL,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1167,3,01:31,ATL,,DAL,,J. McGee,DAL,McGee Violation:Defensive Goaltending (J.Goble),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G1167,4,09:32,ATL,,DAL,,J. McGee,DAL,McGee S.FOUL (P2.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2223-G1167,4,08:01,ATL,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1167,4,06:00,ATL,113.0,DAL,109.0,J. McGee,DAL,McGee 1' Alley Oop Dunk (6 PTS) (Green 3 AST),Made Shot,Alley Oop Dunk Shot,0,5,1,1,2.0,2.0,v
+S2223-G1167,4,05:00,ATL,113.0,DAL,111.0,J. McGee,DAL,McGee Dunk (8 PTS) (Doncic 7 AST),Made Shot,Dunk Shot,0,1,0,1,2.0,2.0,v
+S2223-G1167,4,00:00.400000,ATL,,DAL,,J. McGee,DAL,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1167,4,00:00.400000,ATL,123.0,DAL,123.0,J. McGee,DAL,McGee Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1167,5,04:46,ATL,,DAL,,J. McGee,DAL,McGee Violation:Defensive Goaltending (M.Lindsay),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G1167,5,02:30,ATL,,DAL,,J. McGee,DAL,McGee S.FOUL (P3.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G1167,5,02:28,ATL,,DAL,,J. McGee,DAL,McGee REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1167,5,02:11,ATL,128.0,DAL,128.0,J. McGee,DAL,McGee 5' Floating Jump Shot (11 PTS) (Irving 4 AST),Made Shot,Floating Jump shot,49,10,5,1,2.0,2.0,v

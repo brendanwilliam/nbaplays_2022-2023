@@ -1,0 +1,692 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0718,1,01:33,PHX,31.0,CHA,14.0,T. Maledon,CHA,Maledon 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-9,76,8,1,2.0,2.0,v
+S2223-G0718,1,01:19,PHX,,CHA,,T. Maledon,CHA,Maledon P.FOUL (P1.T3) (R.Acosta),Foul,Personal,0,0,0,0,,,v
+S2223-G0718,2,11:11,PHX,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0718,2,11:06,PHX,,CHA,,T. Maledon,CHA,MISS Maledon 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,7,17,2,1,2.0,0.0,v
+S2223-G0718,2,09:56,PHX,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0718,2,07:28,PHX,,CHA,,T. Maledon,CHA,SUB: McGowens FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0718,3,02:01,PHX,90.0,CHA,72.0,T. Maledon,CHA,Maledon 25' 3PT Step Back Jump Shot (5 PTS) (Smith Jr. 2 AST),Made Shot,Step Back Jump shot,-126,215,25,1,3.0,3.0,v
+S2223-G0718,4,02:45,PHX,,CHA,,T. Maledon,CHA,MISS Maledon 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,129,29,13,1,2.0,0.0,v
+S2223-G0718,4,01:15,PHX,122.0,CHA,95.0,T. Maledon,CHA,Maledon 5' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,47,22,5,1,2.0,2.0,v
+S2223-G0523,2,03:53,CHA,,OKC,,T. Maledon,CHA,Maledon Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0523,2,03:18,CHA,,OKC,,T. Maledon,CHA,SUB: Ball FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0523,3,03:07,CHA,,OKC,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0523,3,02:25,CHA,,OKC,,T. Maledon,CHA,MISS Maledon 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-159,206,26,1,3.0,0.0,h
+S2223-G0523,3,00:53.600000,CHA,,OKC,,T. Maledon,CHA,MISS Maledon 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,17,155,16,1,2.0,0.0,h
+S2223-G1148,1,10:10,CHA,,CHI,,T. Maledon,CHA,Maledon Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1148,1,07:30,CHA,,CHI,,T. Maledon,CHA,Maledon Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1148,1,07:25,CHA,,CHI,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1148,1,07:25,CHA,5.0,CHI,15.0,T. Maledon,CHA,Maledon 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,6,6,1,1,2.0,2.0,h
+S2223-G1148,1,07:25,CHA,,CHI,,T. Maledon,CHA,MISS Maledon Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1148,1,06:27,CHA,,CHI,,T. Maledon,CHA,MISS Maledon 4' Driving Layup,Missed Shot,Driving Layup Shot,-23,32,4,1,2.0,0.0,h
+S2223-G1148,1,04:36,CHA,,CHI,,T. Maledon,CHA,SUB: Richards FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G1148,2,07:43,CHA,,CHI,,T. Maledon,CHA,MISS Maledon 2' Driving Layup,Missed Shot,Driving Layup Shot,1,19,2,1,2.0,0.0,h
+S2223-G1148,2,07:23,CHA,,CHI,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,2,05:29,CHA,39.0,CHI,45.0,T. Maledon,CHA,Maledon 14' Pullup Jump Shot (4 PTS) (Sneed 1 AST),Made Shot,Pullup Jump shot,-77,116,14,1,2.0,2.0,h
+S2223-G1148,2,02:12,CHA,,CHI,,T. Maledon,CHA,MISS Maledon 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-164,192,25,1,3.0,0.0,h
+S2223-G1148,2,01:44,CHA,,CHI,,T. Maledon,CHA,MISS Maledon 6' Floating Jump Shot,Missed Shot,Floating Jump shot,7,63,6,1,2.0,0.0,h
+S2223-G1148,2,00:09.900000,CHA,46.0,CHI,60.0,T. Maledon,CHA,Maledon 2' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,-4,20,2,1,2.0,2.0,h
+S2223-G1148,2,00:00,CHA,,CHI,,T. Maledon,CHA,MISS Maledon 30' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,82,293,30,1,3.0,0.0,h
+S2223-G1148,3,11:47,CHA,48.0,CHI,62.0,T. Maledon,CHA,Maledon 1' Reverse Layup (8 PTS) (Mykhailiuk 2 AST),Made Shot,Reverse Layup Shot,5,-5,1,1,2.0,2.0,h
+S2223-G1148,3,10:53,CHA,,CHI,,T. Maledon,CHA,Maledon S.FOUL (P1.T1) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1148,3,08:42,CHA,,CHI,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,3,05:22,CHA,,CHI,,T. Maledon,CHA,MISS Maledon 26' 3PT Jump Shot,Missed Shot,Jump Shot,83,249,26,1,3.0,0.0,h
+S2223-G1148,3,04:51,CHA,,CHI,,T. Maledon,CHA,MISS Maledon 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-230,21,0,1,3.0,0.0,h
+S2223-G1148,3,04:27,CHA,,CHI,,T. Maledon,CHA,MISS Maledon Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1148,3,04:27,CHA,67.0,CHI,81.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1148,3,04:11,CHA,,CHI,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,3,02:53,CHA,,CHI,,T. Maledon,CHA,SUB: Thor FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G1148,4,10:35,CHA,,CHI,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,4,09:24,CHA,,CHI,,T. Maledon,CHA,Maledon Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1148,4,07:54,CHA,,CHI,,T. Maledon,CHA,MISS Maledon 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-13,141,14,1,2.0,0.0,h
+S2223-G1148,4,06:18,CHA,,CHI,,T. Maledon,CHA,Maledon P.FOUL (P2.T3) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2223-G1148,4,05:49,CHA,,CHI,,T. Maledon,CHA,MISS Maledon 28' 3PT Jump Shot,Missed Shot,Jump Shot,-77,269,28,1,3.0,0.0,h
+S2223-G1148,4,04:20,CHA,,CHI,,T. Maledon,CHA,Maledon S.FOUL (P3.T4) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G1148,4,03:58,CHA,,CHI,,T. Maledon,CHA,SUB: Sneed FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0260,3,03:21,CHA,,PHI,,T. Maledon,CHA,MISS Maledon 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,5,75,8,1,2.0,0.0,h
+S2223-G0260,3,02:31,CHA,,PHI,,T. Maledon,CHA,MISS Maledon 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-4,20,2,1,2.0,0.0,h
+S2223-G0260,3,00:00,CHA,,PHI,,T. Maledon,CHA,MISS Maledon 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,70,94,12,1,2.0,0.0,h
+S2223-G0260,4,08:33,CHA,,PHI,,T. Maledon,CHA,MISS Maledon 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-16,262,26,1,3.0,0.0,h
+S2223-G0260,4,07:23,CHA,,PHI,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0260,4,07:20,CHA,85.0,PHI,82.0,T. Maledon,CHA,Maledon 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,9,1,1,2.0,2.0,h
+S2223-G0260,4,07:12,CHA,,PHI,,T. Maledon,CHA,Maledon STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0260,4,07:09,CHA,87.0,PHI,82.0,T. Maledon,CHA,Maledon 1' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,2,5,1,1,2.0,2.0,h
+S2223-G0260,4,02:31,CHA,,PHI,,T. Maledon,CHA,Maledon Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0260,4,01:55,CHA,,PHI,,T. Maledon,CHA,Maledon S.FOUL (P1.T3) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0364,2,04:49,BKN,,CHA,,T. Maledon,CHA,SUB: Rozier FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0364,3,01:45,BKN,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0364,3,01:43,BKN,96.0,CHA,82.0,T. Maledon,CHA,Maledon 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,20,4,2,1,2.0,2.0,v
+S2223-G0364,3,01:43,BKN,96.0,CHA,83.0,T. Maledon,CHA,Maledon Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0364,3,01:20,BKN,96.0,CHA,84.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0364,3,01:20,BKN,96.0,CHA,85.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0364,3,00:30.200000,BKN,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0082,1,02:48,CHA,26.0,GSW,17.0,T. Maledon,CHA,Maledon 29' 3PT Jump Shot (3 PTS) (Bouknight 1 AST),Made Shot,Jump Shot,-97,270,29,1,3.0,3.0,h
+S2223-G0082,1,02:08,CHA,,GSW,,T. Maledon,CHA,MISS Maledon 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-20,113,11,1,2.0,0.0,h
+S2223-G0082,1,00:03.900000,CHA,,GSW,,T. Maledon,CHA,MISS Maledon 3' Layup,Missed Shot,Layup Shot,27,16,3,1,2.0,0.0,h
+S2223-G0082,2,09:58,CHA,,GSW,,T. Maledon,CHA,MISS Maledon 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-140,214,26,1,3.0,0.0,h
+S2223-G0082,2,08:52,CHA,,GSW,,T. Maledon,CHA,Maledon Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0082,2,06:05,CHA,,GSW,,T. Maledon,CHA,SUB: Plumlee FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0082,4,10:21,CHA,86.0,GSW,83.0,T. Maledon,CHA,Maledon 13' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-50,117,13,1,2.0,2.0,h
+S2223-G0082,4,08:56,CHA,,GSW,,T. Maledon,CHA,MISS Maledon 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-72,248,26,1,3.0,0.0,h
+S2223-G0082,4,08:22,CHA,,GSW,,T. Maledon,CHA,MISS Maledon 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,64,68,9,1,2.0,0.0,h
+S2223-G0082,4,07:37,CHA,,GSW,,T. Maledon,CHA,MISS Maledon 28' 3PT Jump Shot,Missed Shot,Jump Shot,60,277,28,1,3.0,0.0,h
+S2223-G0082,4,07:37,CHA,,GSW,,T. Maledon,CHA,SUB: Smith Jr. FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0539,1,02:02,CHA,,BKN,,T. Maledon,CHA,Maledon S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G0539,1,01:39,CHA,21.0,BKN,28.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0539,1,01:39,CHA,22.0,BKN,28.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0539,1,00:57.800000,CHA,,BKN,,T. Maledon,CHA,Maledon P.FOUL (P2.T2) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2223-G0539,1,00:51.100000,CHA,,BKN,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0539,1,00:46.300000,CHA,,BKN,,T. Maledon,CHA,MISS Maledon 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,217,137,26,1,3.0,0.0,h
+S2223-G0539,1,00:15.300000,CHA,,BKN,,T. Maledon,CHA,MISS Maledon 26' 3PT Jump Shot,Missed Shot,Jump Shot,-147,215,26,1,3.0,0.0,h
+S2223-G0539,3,02:06,CHA,,BKN,,T. Maledon,CHA,MISS Maledon 27' 3PT Jump Shot,Missed Shot,Jump Shot,70,264,27,1,3.0,0.0,h
+S2223-G0539,3,01:52,CHA,,BKN,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0539,3,01:22,CHA,,BKN,,T. Maledon,CHA,MISS Maledon 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-6,105,11,1,2.0,0.0,h
+S2223-G0539,3,00:46,CHA,79.0,BKN,94.0,T. Maledon,CHA,Maledon 25' 3PT Jump Shot (5 PTS) (Hayward 3 AST),Made Shot,Jump Shot,-203,151,25,1,3.0,3.0,h
+S2223-G0539,3,00:00,CHA,,BKN,,T. Maledon,CHA,Maledon STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0539,4,02:17,CHA,,BKN,,T. Maledon,CHA,MISS Maledon 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,98,34,10,1,2.0,0.0,h
+S2223-G0539,4,01:46,CHA,,BKN,,T. Maledon,CHA,MISS Maledon 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,16,3,2,1,2.0,0.0,h
+S2223-G0539,4,00:41.400000,CHA,106.0,BKN,123.0,T. Maledon,CHA,Maledon 27' 3PT Jump Shot (8 PTS) (Bouknight 1 AST),Made Shot,Jump Shot,120,240,27,1,3.0,3.0,h
+S2223-G0539,4,00:17.300000,CHA,,BKN,,T. Maledon,CHA,Maledon BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0352,1,05:48,CHA,,LAC,,T. Maledon,CHA,Maledon Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0352,1,04:06,CHA,,LAC,,T. Maledon,CHA,MISS Maledon 8' Jump Shot,Missed Shot,Jump Shot,-67,41,8,1,2.0,0.0,h
+S2223-G0352,1,03:59,CHA,,LAC,,T. Maledon,CHA,Maledon P.FOUL (P1.T3) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2223-G0352,1,02:33,CHA,,LAC,,T. Maledon,CHA,MISS Maledon 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,62,159,17,1,2.0,0.0,h
+S2223-G0352,1,01:35,CHA,,LAC,,T. Maledon,CHA,MISS Maledon 5' Floating Jump Shot,Missed Shot,Floating Jump shot,5,48,5,1,2.0,0.0,h
+S2223-G0352,1,01:06,CHA,26.0,LAC,26.0,T. Maledon,CHA,Maledon 25' 3PT Jump Shot (3 PTS) (Rozier 2 AST),Made Shot,Jump Shot,-222,114,25,1,3.0,3.0,h
+S2223-G0352,2,05:48,CHA,,LAC,,T. Maledon,CHA,Maledon P.FOUL (P2.T3) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2223-G0352,2,05:18,CHA,,LAC,,T. Maledon,CHA,SUB: Rozier FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0352,3,03:27,CHA,,LAC,,T. Maledon,CHA,Maledon Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0352,3,03:05,CHA,,LAC,,T. Maledon,CHA,MISS Maledon 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,127,225,26,1,3.0,0.0,h
+S2223-G0352,3,00:49,CHA,,LAC,,T. Maledon,CHA,Maledon BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0352,3,00:41.300000,CHA,,LAC,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0352,3,00:41.300000,CHA,90.0,LAC,84.0,T. Maledon,CHA,Maledon 2' Running Layup (5 PTS),Made Shot,Running Layup Shot,6,16,2,1,2.0,2.0,h
+S2223-G0352,4,07:04,CHA,,LAC,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,4,07:03,CHA,,LAC,,T. Maledon,CHA,MISS Maledon 2' Layup,Missed Shot,Layup Shot,16,15,2,1,2.0,0.0,h
+S2223-G0352,4,05:24,CHA,,LAC,,T. Maledon,CHA,SUB: Plumlee FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G1113,1,03:38,CHA,,DAL,,T. Maledon,CHA,MISS Maledon 28' 3PT Jump Shot,Missed Shot,Jump Shot,-78,265,28,1,3.0,0.0,h
+S2223-G1113,1,02:59,CHA,,DAL,,T. Maledon,CHA,MISS Maledon 26' 3PT Jump Shot,Missed Shot,Jump Shot,199,162,26,1,3.0,0.0,h
+S2223-G1113,1,02:47,CHA,,DAL,,T. Maledon,CHA,Maledon S.FOUL (P1.T4) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G1113,1,01:42,CHA,,DAL,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1113,1,00:55.200000,CHA,,DAL,,T. Maledon,CHA,MISS Maledon 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,6,78,8,1,2.0,0.0,h
+S2223-G1113,2,11:24,CHA,,DAL,,T. Maledon,CHA,SUB: Smith Jr. FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G1113,2,04:40,CHA,,DAL,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1113,2,04:30,CHA,46.0,DAL,29.0,T. Maledon,CHA,Maledon 8' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,-21,79,8,1,2.0,2.0,h
+S2223-G1113,2,04:09,CHA,,DAL,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1113,2,03:32,CHA,,DAL,,T. Maledon,CHA,MISS Maledon 2' Driving Layup,Missed Shot,Driving Layup Shot,18,6,2,1,2.0,0.0,h
+S2223-G1113,2,03:08,CHA,,DAL,,T. Maledon,CHA,MISS Maledon 26' 3PT Jump Shot,Missed Shot,Jump Shot,154,210,26,1,3.0,0.0,h
+S2223-G1113,2,00:53.100000,CHA,,DAL,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1113,3,03:08,CHA,,DAL,,T. Maledon,CHA,Maledon S.FOUL (P2.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G1113,3,02:21,CHA,,DAL,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1113,3,00:24,CHA,79.0,DAL,72.0,T. Maledon,CHA,Maledon 6' Floating Jump Shot (4 PTS) (McGowens 3 AST),Made Shot,Floating Jump shot,6,61,6,1,2.0,2.0,h
+S2223-G1113,3,00:04.500000,CHA,80.0,DAL,72.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1113,3,00:04.500000,CHA,81.0,DAL,72.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1113,4,09:46,CHA,,DAL,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1113,4,07:59,CHA,,DAL,,T. Maledon,CHA,Maledon Traveling Turnover (P1.T13),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1113,4,07:59,CHA,,DAL,,T. Maledon,CHA,SUB: Hayward FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0450,1,02:26,DEN,,CHA,,T. Maledon,CHA,MISS Maledon 26' 3PT Jump Shot,Missed Shot,Jump Shot,107,238,26,1,3.0,0.0,v
+S2223-G0450,1,00:48.300000,DEN,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0450,3,02:45,DEN,90.0,CHA,75.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0450,3,02:45,DEN,90.0,CHA,76.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0450,3,01:25,DEN,,CHA,,T. Maledon,CHA,Maledon Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0450,3,01:14,DEN,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P1.PN) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2223-G0450,3,00:55.300000,DEN,,CHA,,T. Maledon,CHA,MISS Maledon 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-233,11,0,1,3.0,0.0,v
+S2223-G0450,4,09:27,DEN,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0450,4,08:02,DEN,,CHA,,T. Maledon,CHA,MISS Maledon 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,212,152,26,1,3.0,0.0,v
+S2223-G0450,4,08:00,DEN,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0450,4,07:55,DEN,,CHA,,T. Maledon,CHA,SUB: Oubre Jr. FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0144,2,03:29,CHA,,WAS,,T. Maledon,CHA,SUB: Rozier FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0144,4,04:51,CHA,,WAS,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,4,04:45,CHA,,WAS,,T. Maledon,CHA,SUB: Rozier FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0492,1,01:56,LAL,,CHA,,T. Maledon,CHA,Maledon P.FOUL (P1.T3) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2223-G0492,1,00:34.200000,LAL,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P2.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2223-G0492,1,00:00.600000,LAL,,CHA,,T. Maledon,CHA,MISS Maledon 55' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,123,541,55,1,3.0,0.0,v
+S2223-G0492,2,00:31.700000,LAL,64.0,CHA,65.0,T. Maledon,CHA,Maledon 25' 3PT Jump Shot (3 PTS) (Hayward 2 AST),Made Shot,Jump Shot,127,211,25,1,3.0,3.0,v
+S2223-G0492,2,00:09.400000,LAL,64.0,CHA,66.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0492,2,00:09.400000,LAL,64.0,CHA,67.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0492,2,00:00.100000,LAL,,CHA,,T. Maledon,CHA,Maledon Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0492,3,03:27,LAL,83.0,CHA,90.0,T. Maledon,CHA,Maledon 21' Jump Shot (7 PTS) (Plumlee 3 AST),Made Shot,Jump Shot,-113,176,21,1,2.0,2.0,v
+S2223-G0492,3,02:23,LAL,,CHA,,T. Maledon,CHA,MISS Maledon 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-212,148,26,1,3.0,0.0,v
+S2223-G0492,3,01:11,LAL,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0492,3,00:01.200000,LAL,,CHA,,T. Maledon,CHA,MISS Maledon 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-181,197,27,1,3.0,0.0,v
+S2223-G0200,1,07:51,ORL,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0200,1,07:31,ORL,7.0,CHA,14.0,T. Maledon,CHA,Maledon 27' 3PT Jump Shot (3 PTS) (Washington 2 AST),Made Shot,Jump Shot,-53,267,27,1,3.0,3.0,v
+S2223-G0200,1,06:53,ORL,,CHA,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0200,2,01:13,ORL,43.0,CHA,56.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0200,2,01:13,ORL,43.0,CHA,57.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0200,2,00:37.600000,ORL,,CHA,,T. Maledon,CHA,Maledon Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0200,2,00:26.800000,ORL,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0200,2,00:02.300000,ORL,45.0,CHA,58.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0200,2,00:02.300000,ORL,,CHA,,T. Maledon,CHA,MISS Maledon Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0200,3,04:55,ORL,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0200,3,04:14,ORL,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P1.T2) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G0200,3,03:35,ORL,,CHA,,T. Maledon,CHA,Maledon STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0200,3,02:36,ORL,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P2.T3) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0200,3,00:58.700000,ORL,66.0,CHA,84.0,T. Maledon,CHA,Maledon 28' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,132,243,28,1,3.0,3.0,v
+S2223-G0200,4,09:41,ORL,,CHA,,T. Maledon,CHA,Maledon P.FOUL (P3.T1) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2223-G0200,4,09:03,ORL,79.0,CHA,95.0,T. Maledon,CHA,Maledon 1' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,2,6,1,1,2.0,2.0,v
+S2223-G0200,4,09:03,ORL,79.0,CHA,96.0,T. Maledon,CHA,Maledon Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0200,4,08:54,ORL,,CHA,,T. Maledon,CHA,Maledon P.FOUL (P4.T2) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2223-G0200,4,07:44,ORL,,CHA,,T. Maledon,CHA,SUB: Oubre Jr. FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0200,4,04:51,ORL,89.0,CHA,102.0,T. Maledon,CHA,Maledon 2' Driving Floating Jump Shot (14 PTS) (Plumlee 2 AST),Made Shot,Driving Floating Jump Shot,18,8,2,1,2.0,2.0,v
+S2223-G0200,4,04:26,ORL,,CHA,,T. Maledon,CHA,SUB: Washington FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0133,1,03:57,CHA,,BKN,,T. Maledon,CHA,MISS Maledon 4' Driving Layup,Missed Shot,Driving Layup Shot,5,41,4,1,2.0,0.0,h
+S2223-G0133,1,02:24,CHA,,BKN,,T. Maledon,CHA,SUB: Washington FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0133,2,06:04,CHA,,BKN,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,2,05:02,CHA,,BKN,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,2,04:12,CHA,,BKN,,T. Maledon,CHA,SUB: Rozier FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0133,3,03:58,CHA,,BKN,,T. Maledon,CHA,Maledon S.FOUL (P1.T4) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0133,3,03:32,CHA,,BKN,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,3,03:01,CHA,67.0,BKN,61.0,T. Maledon,CHA,Maledon 1' Running Layup (2 PTS) (Bouknight 3 AST),Made Shot,Running Layup Shot,9,-2,1,1,2.0,2.0,h
+S2223-G0133,3,02:13,CHA,,BKN,,T. Maledon,CHA,SUB: Rozier FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0133,4,05:20,CHA,,BKN,,T. Maledon,CHA,MISS Maledon 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,162,208,26,1,3.0,0.0,h
+S2223-G0133,4,04:57,CHA,,BKN,,T. Maledon,CHA,SUB: Rozier FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0125,1,01:11,MEM,39.0,CHA,22.0,T. Maledon,CHA,Maledon 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,162,191,25,1,3.0,3.0,v
+S2223-G0125,2,03:50,MEM,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P1.T4) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0125,2,03:11,MEM,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P2.PN) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0125,2,02:40,MEM,,CHA,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0125,2,02:37,MEM,,CHA,,T. Maledon,CHA,MISS Maledon 3' Layup,Missed Shot,Layup Shot,23,18,3,1,2.0,0.0,v
+S2223-G0125,2,02:26,MEM,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,2,01:48,MEM,,CHA,,T. Maledon,CHA,Maledon Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0125,2,01:48,MEM,,CHA,,T. Maledon,CHA,SUB: Smith Jr. FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0125,3,03:46,MEM,,CHA,,T. Maledon,CHA,MISS Maledon 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,169,200,26,1,3.0,0.0,v
+S2223-G0125,3,00:08.600000,MEM,,CHA,,T. Maledon,CHA,Maledon P.FOUL (P3.T4) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2223-G0125,4,08:19,MEM,,CHA,,T. Maledon,CHA,Maledon Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0125,4,06:29,MEM,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,4,06:23,MEM,,CHA,,T. Maledon,CHA,Maledon Lost Ball Turnover (P3.T17),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0125,4,05:35,MEM,124.0,CHA,82.0,T. Maledon,CHA,Maledon 12' Pullup Jump Shot (5 PTS) (Thor 2 AST),Made Shot,Pullup Jump shot,67,98,12,1,2.0,2.0,v
+S2223-G0125,4,03:37,MEM,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,4,02:34,MEM,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,4,01:34,MEM,130.0,CHA,97.0,T. Maledon,CHA,Maledon 2' Driving Finger Roll Layup (7 PTS) (Bouknight 5 AST),Made Shot,Driving Finger Roll Layup Shot,-20,-5,2,1,2.0,2.0,v
+S2223-G0125,4,01:15,MEM,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0211,1,04:08,CHA,18.0,IND,18.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0211,1,04:08,CHA,19.0,IND,18.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0211,1,02:07,CHA,,IND,,T. Maledon,CHA,MISS Maledon 12' Driving Layup,Missed Shot,Driving Layup Shot,50,106,12,1,2.0,0.0,h
+S2223-G0211,2,06:11,CHA,,IND,,T. Maledon,CHA,Maledon P.FOUL (P1.T3) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2223-G0211,2,05:15,CHA,,IND,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0211,2,05:02,CHA,55.0,IND,43.0,T. Maledon,CHA,Maledon 27' 3PT Jump Shot (5 PTS) (Plumlee 1 AST),Made Shot,Jump Shot,85,252,27,1,3.0,3.0,h
+S2223-G0211,2,04:22,CHA,,IND,,T. Maledon,CHA,SUB: Ball FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0211,3,04:02,CHA,84.0,IND,84.0,T. Maledon,CHA,Maledon 11' Pullup Jump Shot (7 PTS) (McDaniels 3 AST),Made Shot,Pullup Jump shot,38,101,11,1,2.0,2.0,h
+S2223-G0211,3,03:14,CHA,,IND,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0211,3,02:50,CHA,,IND,,T. Maledon,CHA,Maledon S.FOUL (P2.T2) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0211,3,00:27.700000,CHA,,IND,,T. Maledon,CHA,MISS Maledon 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,227,56,0,1,3.0,0.0,h
+S2223-G0211,3,00:01.500000,CHA,,IND,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0211,4,09:05,CHA,,IND,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0211,4,08:14,CHA,,IND,,T. Maledon,CHA,Maledon STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0211,4,06:39,CHA,,IND,,T. Maledon,CHA,Maledon BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0211,4,05:56,CHA,,IND,,T. Maledon,CHA,SUB: Ball FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0513,1,03:17,GSW,25.0,CHA,16.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0513,1,03:17,GSW,25.0,CHA,17.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0513,1,01:42,GSW,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P1.T3) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0513,2,11:05,GSW,,CHA,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0513,2,08:35,GSW,,CHA,,T. Maledon,CHA,SUB: Washington FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0513,2,00:24.500000,GSW,,CHA,,T. Maledon,CHA,MISS Maledon 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-225,100,25,1,3.0,0.0,v
+S2223-G0513,2,00:13.800000,GSW,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0513,2,00:02.500000,GSW,65.0,CHA,52.0,T. Maledon,CHA,Maledon 10' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,47,93,10,1,2.0,2.0,v
+S2223-G0513,3,00:21.600000,GSW,,CHA,,T. Maledon,CHA,MISS Maledon Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0513,3,00:21.600000,GSW,89.0,CHA,78.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0339,1,03:00,CHA,,MIL,,T. Maledon,CHA,MISS Maledon 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,109,4,11,1,2.0,0.0,h
+S2223-G0339,1,02:39,CHA,,MIL,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0339,2,04:14,CHA,,MIL,,T. Maledon,CHA,SUB: Rozier FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0339,3,02:16,CHA,,MIL,,T. Maledon,CHA,MISS Maledon 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,61,253,26,1,3.0,0.0,h
+S2223-G0339,3,01:44,CHA,69.0,MIL,77.0,T. Maledon,CHA,Maledon 27' 3PT Jump Shot (3 PTS) (Jones 1 AST),Made Shot,Jump Shot,-141,230,27,1,3.0,3.0,h
+S2223-G0339,3,01:12,CHA,71.0,MIL,80.0,T. Maledon,CHA,Maledon 9' Pullup Jump Shot (5 PTS) (Rozier 3 AST),Made Shot,Pullup Jump shot,27,89,9,1,2.0,2.0,h
+S2223-G0339,4,06:26,CHA,,MIL,,T. Maledon,CHA,SUB: Rozier FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0460,1,04:44,SAC,,CHA,,T. Maledon,CHA,MISS Maledon Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0460,1,04:44,SAC,20.0,CHA,21.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0460,1,01:48,SAC,,CHA,,T. Maledon,CHA,MISS Maledon 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,80,78,11,1,2.0,0.0,v
+S2223-G0460,1,01:33,SAC,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0460,1,00:35.600000,SAC,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,2,10:56,SAC,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,2,09:52,SAC,,CHA,,T. Maledon,CHA,MISS Maledon 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,78,8,1,2.0,0.0,v
+S2223-G0460,2,07:55,SAC,,CHA,,T. Maledon,CHA,MISS Maledon 26' 3PT Jump Shot,Missed Shot,Jump Shot,-228,115,26,1,3.0,0.0,v
+S2223-G0460,2,06:22,SAC,46.0,CHA,48.0,T. Maledon,CHA,Maledon 9' Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,81,27,9,1,2.0,2.0,v
+S2223-G0460,2,05:13,SAC,,CHA,,T. Maledon,CHA,Maledon Violation:Defensive Goaltending (C.Kirkland),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0460,2,04:56,SAC,,CHA,,T. Maledon,CHA,Maledon P.FOUL (P2.T4) (J.Butler),Foul,Personal,0,0,0,0,,,v
+S2223-G0460,2,02:59,SAC,,CHA,,T. Maledon,CHA,MISS Maledon 25' 3PT Jump Shot,Missed Shot,Jump Shot,-202,149,25,1,3.0,0.0,v
+S2223-G0460,2,02:16,SAC,,CHA,,T. Maledon,CHA,MISS Maledon 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,5,22,2,1,2.0,0.0,v
+S2223-G0460,2,01:58,SAC,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,2,01:01,SAC,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,2,00:49.600000,SAC,63.0,CHA,64.0,T. Maledon,CHA,Maledon 2' Layup (5 PTS),Made Shot,Layup Shot,-5,23,2,1,2.0,2.0,v
+S2223-G0460,2,00:34.300000,SAC,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,2,00:14.700000,SAC,63.0,CHA,66.0,T. Maledon,CHA,Maledon 4' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,7,36,4,1,2.0,2.0,v
+S2223-G0460,4,11:25,SAC,92.0,CHA,96.0,T. Maledon,CHA,Maledon 1' Running Layup (9 PTS) (Ball 11 AST),Made Shot,Running Layup Shot,5,13,1,1,2.0,2.0,v
+S2223-G0460,4,10:41,SAC,,CHA,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0460,4,09:09,SAC,,CHA,,T. Maledon,CHA,MISS Maledon 25' 3PT Jump Shot,Missed Shot,Jump Shot,4,252,25,1,3.0,0.0,v
+S2223-G0460,4,07:49,SAC,,CHA,,T. Maledon,CHA,SUB: Oubre Jr. FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0460,4,00:20.700000,SAC,119.0,CHA,123.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0460,4,00:20.700000,SAC,,CHA,,T. Maledon,CHA,MISS Maledon Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0460,4,00:09.900000,SAC,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,4,00:06.800000,SAC,119.0,CHA,124.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0460,4,00:06.800000,SAC,119.0,CHA,125.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0460,4,00:01.400000,SAC,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0476,1,03:50,LAC,25.0,CHA,11.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0476,1,03:50,LAC,,CHA,,T. Maledon,CHA,MISS Maledon Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0476,1,01:55,LAC,,CHA,,T. Maledon,CHA,Maledon Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0476,1,00:54.600000,LAC,,CHA,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0476,2,08:46,LAC,,CHA,,T. Maledon,CHA,Maledon STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0476,2,08:42,LAC,,CHA,,T. Maledon,CHA,SUB: Thor FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0476,2,04:58,LAC,65.0,CHA,34.0,T. Maledon,CHA,Maledon 13' Pullup Jump Shot (3 PTS) (Ball 4 AST),Made Shot,Pullup Jump shot,-55,115,13,1,2.0,2.0,v
+S2223-G0476,2,02:57,LAC,,CHA,,T. Maledon,CHA,SUB: Hayward FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0476,3,01:52,LAC,,CHA,,T. Maledon,CHA,Maledon STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0476,3,00:09.300000,LAC,,CHA,,T. Maledon,CHA,MISS Maledon 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,-2,52,5,1,2.0,0.0,v
+S2223-G0476,3,00:02.100000,LAC,,CHA,,T. Maledon,CHA,Maledon STEAL (4 STL),,,0,0,0,0,,,v
+S2223-G0071,1,00:21.700000,ORL,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0071,2,03:59,ORL,38.0,CHA,30.0,T. Maledon,CHA,Maledon 25' 3PT Jump Shot (3 PTS) (Thor 1 AST),Made Shot,Jump Shot,-195,156,25,1,3.0,3.0,v
+S2223-G0071,2,02:44,ORL,,CHA,,T. Maledon,CHA,SUB: Smith Jr. FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0071,2,00:01.600000,ORL,,CHA,,T. Maledon,CHA,MISS Maledon 9' Driving Layup,Missed Shot,Driving Layup Shot,-65,63,9,1,2.0,0.0,v
+S2223-G0071,3,01:41,ORL,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0071,3,01:10,ORL,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0071,3,01:10,ORL,76.0,CHA,51.0,T. Maledon,CHA,Maledon Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0071,3,00:14.600000,ORL,,CHA,,T. Maledon,CHA,MISS Maledon 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-96,285,30,1,3.0,0.0,v
+S2223-G0071,4,06:53,ORL,98.0,CHA,69.0,T. Maledon,CHA,Maledon 28' 3PT Jump Shot (8 PTS) (McDaniels 2 AST),Made Shot,Jump Shot,6,283,28,1,3.0,3.0,v
+S2223-G0071,4,04:57,ORL,,CHA,,T. Maledon,CHA,Maledon Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0071,4,03:39,ORL,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0071,4,00:26.800000,ORL,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0159,2,05:33,CHA,,POR,,T. Maledon,CHA,Maledon S.FOUL (P1.T3) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0159,2,03:08,CHA,,POR,,T. Maledon,CHA,SUB: Rozier FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0159,3,00:11.800000,CHA,,POR,,T. Maledon,CHA,SUB: Smith Jr. FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0159,4,11:31,CHA,,POR,,T. Maledon,CHA,MISS Maledon 3PT Jump Shot,Missed Shot,Jump Shot,-229,-7,0,1,3.0,0.0,h
+S2223-G0159,4,09:49,CHA,,POR,,T. Maledon,CHA,MISS Maledon 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,25,80,8,1,2.0,0.0,h
+S2223-G0159,4,08:43,CHA,,POR,,T. Maledon,CHA,Maledon BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0159,4,07:58,CHA,,POR,,T. Maledon,CHA,Maledon Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0159,4,07:11,CHA,,POR,,T. Maledon,CHA,Maledon S.FOUL (P2.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0159,4,06:35,CHA,,POR,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0159,4,05:14,CHA,,POR,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0159,4,04:56,CHA,,POR,,T. Maledon,CHA,SUB: Rozier FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G1134,1,10:02,OKC,4.0,CHA,8.0,T. Maledon,CHA,Maledon 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,21,26,3,1,2.0,2.0,v
+S2223-G1134,1,06:49,OKC,,CHA,,T. Maledon,CHA,Maledon Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1134,1,05:23,OKC,,CHA,,T. Maledon,CHA,MISS Maledon 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-29,127,13,1,2.0,0.0,v
+S2223-G1134,1,04:39,OKC,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1134,1,03:00,OKC,,CHA,,T. Maledon,CHA,SUB: Mykhailiuk FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G1134,2,09:53,OKC,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P2.T3) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2223-G1134,2,08:47,OKC,,CHA,,T. Maledon,CHA,MISS Maledon 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,112,258,28,1,3.0,0.0,v
+S2223-G1134,2,08:32,OKC,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,2,07:43,OKC,,CHA,,T. Maledon,CHA,MISS Maledon 27' 3PT Jump Shot,Missed Shot,Jump Shot,-23,264,27,1,3.0,0.0,v
+S2223-G1134,2,06:04,OKC,,CHA,,T. Maledon,CHA,SUB: Mykhailiuk FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G1134,2,02:43,OKC,,CHA,,T. Maledon,CHA,Maledon Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1134,2,01:17,OKC,,CHA,,T. Maledon,CHA,MISS Maledon 3' Driving Layup,Missed Shot,Driving Layup Shot,-23,20,3,1,2.0,0.0,v
+S2223-G1134,2,01:04,OKC,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,2,00:35.800000,OKC,63.0,CHA,56.0,T. Maledon,CHA,Maledon 11' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-43,102,11,1,2.0,2.0,v
+S2223-G1134,2,00:11.100000,OKC,65.0,CHA,57.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1134,2,00:11.100000,OKC,,CHA,,T. Maledon,CHA,MISS Maledon Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1134,3,11:46,OKC,,CHA,,T. Maledon,CHA,Maledon BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1134,3,10:13,OKC,72.0,CHA,62.0,T. Maledon,CHA,Maledon 25' 3PT Jump Shot (8 PTS) (Washington 2 AST),Made Shot,Jump Shot,-126,216,25,1,3.0,3.0,v
+S2223-G1134,3,07:57,OKC,,CHA,,T. Maledon,CHA,MISS Maledon 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,234,67,24,1,3.0,0.0,v
+S2223-G1134,3,07:05,OKC,,CHA,,T. Maledon,CHA,Hornets T.Foul (Def. 3 Sec Maledon ) (S.Corbin),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G1134,3,05:11,OKC,88.0,CHA,79.0,T. Maledon,CHA,Maledon 4' Driving Layup (10 PTS) (Bouknight 4 AST),Made Shot,Driving Layup Shot,40,19,4,1,2.0,2.0,v
+S2223-G1134,3,05:11,OKC,88.0,CHA,80.0,T. Maledon,CHA,Maledon Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1134,3,02:45,OKC,,CHA,,T. Maledon,CHA,Maledon Out of Bounds - Bad Pass Turnover Turnover (P3.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1134,3,02:45,OKC,,CHA,,T. Maledon,CHA,SUB: Jones FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G1134,4,09:52,OKC,,CHA,,T. Maledon,CHA,Maledon BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1134,4,09:39,OKC,103.0,CHA,103.0,T. Maledon,CHA,Maledon 4' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,-40,8,4,1,2.0,2.0,v
+S2223-G1134,4,09:39,OKC,103.0,CHA,104.0,T. Maledon,CHA,Maledon Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1134,4,09:22,OKC,,CHA,,T. Maledon,CHA,Maledon BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G1134,4,07:09,OKC,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,4,06:00,OKC,110.0,CHA,123.0,T. Maledon,CHA,Maledon 27' 3PT Jump Shot (17 PTS) (Mykhailiuk 8 AST),Made Shot,Jump Shot,-72,262,27,1,3.0,3.0,v
+S2223-G1134,4,05:32,OKC,,CHA,,T. Maledon,CHA,Maledon OFF.Foul (P3) (S.Corbin),Foul,Offensive,0,0,0,0,,,v
+S2223-G1134,4,05:32,OKC,,CHA,,T. Maledon,CHA,Maledon Offensive Foul Turnover (P4.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1134,4,05:24,OKC,,CHA,,T. Maledon,CHA,Maledon BLOCK (4 BLK),,,0,0,0,0,,,v
+S2223-G1134,4,05:21,OKC,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P4.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1134,4,05:05,OKC,,CHA,,T. Maledon,CHA,Maledon Bad Pass Turnover (P5.T18),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1134,4,03:55,OKC,119.0,CHA,127.0,T. Maledon,CHA,Maledon 4' Cutting Layup Shot (19 PTS) (Washington 5 AST),Made Shot,Cutting Layup Shot,31,24,4,1,2.0,2.0,v
+S2223-G1134,4,02:25,OKC,,CHA,,T. Maledon,CHA,MISS Maledon 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,50,5,1,2.0,0.0,v
+S2223-G1134,4,01:28,OKC,,CHA,,T. Maledon,CHA,MISS Maledon 5' Floating Jump Shot,Missed Shot,Floating Jump shot,17,51,5,1,2.0,0.0,v
+S2223-G1134,4,01:26,OKC,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,4,01:01,OKC,,CHA,,T. Maledon,CHA,MISS Maledon 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-2,132,13,1,2.0,0.0,v
+S2223-G1163,1,11:30,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,20,32,4,1,2.0,0.0,h
+S2223-G1163,1,10:26,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,21,18,3,1,2.0,0.0,h
+S2223-G1163,1,08:17,CHA,9.0,TOR,8.0,T. Maledon,CHA,Maledon 8' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-9,84,8,1,2.0,2.0,h
+S2223-G1163,1,07:59,CHA,,TOR,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,1,06:34,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 31' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-143,270,31,1,3.0,0.0,h
+S2223-G1163,1,05:13,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,10,23,3,1,2.0,0.0,h
+S2223-G1163,1,05:08,CHA,,TOR,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,1,05:06,CHA,15.0,TOR,17.0,T. Maledon,CHA,Maledon 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,5,16,2,1,2.0,2.0,h
+S2223-G1163,1,04:27,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 27' 3PT Jump Shot,Missed Shot,Jump Shot,28,264,27,1,3.0,0.0,h
+S2223-G1163,1,02:55,CHA,,TOR,,T. Maledon,CHA,Maledon S.FOUL (P1.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G1163,1,02:55,CHA,,TOR,,T. Maledon,CHA,SUB: McGowens FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G1163,2,11:09,CHA,,TOR,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,2,09:36,CHA,30.0,TOR,42.0,T. Maledon,CHA,Maledon 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,16,10,2,1,2.0,2.0,h
+S2223-G1163,2,06:17,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,4,83,8,1,2.0,0.0,h
+S2223-G1163,2,03:49,CHA,,TOR,,T. Maledon,CHA,SUB: McGowens FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G1163,2,02:35,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,73,7,1,2.0,0.0,h
+S2223-G1163,2,01:34,CHA,,TOR,,T. Maledon,CHA,Maledon Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1163,2,00:33.200000,CHA,,TOR,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,2,00:00,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 42' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,110,403,42,1,3.0,0.0,h
+S2223-G1163,3,09:41,CHA,,TOR,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,3,04:48,CHA,,TOR,,T. Maledon,CHA,Maledon S.FOUL (P2.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G1163,3,03:58,CHA,,TOR,,T. Maledon,CHA,Maledon BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1163,3,03:19,CHA,,TOR,,T. Maledon,CHA,SUB: Sneed FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G1163,4,10:40,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-38,256,26,1,3.0,0.0,h
+S2223-G1163,4,09:03,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-89,240,26,1,3.0,0.0,h
+S2223-G1163,4,05:53,CHA,,TOR,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,4,05:25,CHA,104.0,TOR,114.0,T. Maledon,CHA,Maledon 3' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,-25,1,3,1,2.0,2.0,h
+S2223-G1163,4,03:53,CHA,,TOR,,T. Maledon,CHA,Maledon Bad Pass Turnover (P2.T18),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1163,4,02:30,CHA,,TOR,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,4,01:23,CHA,,TOR,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,4,01:17,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 26' 3PT Jump Shot,Missed Shot,Jump Shot,116,230,26,1,3.0,0.0,h
+S2223-G1163,4,00:21.300000,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 9' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,-43,78,9,1,2.0,0.0,h
+S2223-G0174,2,03:35,MIA,,CHA,,T. Maledon,CHA,SUB: Rozier FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0174,2,00:41.100000,MIA,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0174,3,02:22,MIA,,CHA,,T. Maledon,CHA,Maledon Out of Bounds - Bad Pass Turnover Turnover (P1.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0174,3,01:15,MIA,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0174,3,00:01,MIA,,CHA,,T. Maledon,CHA,MISS Maledon 43' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-29,432,43,1,3.0,0.0,v
+S2223-G0504,1,02:44,POR,,CHA,,T. Maledon,CHA,Maledon Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0504,1,02:27,POR,25.0,CHA,23.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0504,1,02:27,POR,25.0,CHA,24.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0504,1,01:16,POR,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0504,1,00:00.600000,POR,,CHA,,T. Maledon,CHA,Maledon Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0504,2,08:38,POR,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0504,2,08:15,POR,,CHA,,T. Maledon,CHA,Maledon P.FOUL (P1.PN) (L.Wood),Foul,Personal,0,0,0,0,,,v
+S2223-G0504,2,08:15,POR,,CHA,,T. Maledon,CHA,SUB: Washington FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0301,1,08:14,BOS,13.0,CHA,6.0,T. Maledon,CHA,Maledon 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-33,27,4,1,2.0,2.0,v
+S2223-G0301,1,07:39,BOS,,CHA,,T. Maledon,CHA,MISS Maledon 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-102,263,28,1,3.0,0.0,v
+S2223-G0301,1,05:18,BOS,,CHA,,T. Maledon,CHA,Maledon Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0301,1,05:18,BOS,,CHA,,T. Maledon,CHA,SUB: Bouknight FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0301,1,01:22,BOS,,CHA,,T. Maledon,CHA,MISS Maledon 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-153,229,28,1,3.0,0.0,v
+S2223-G0301,1,01:15,BOS,,CHA,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0301,2,11:20,BOS,,CHA,,T. Maledon,CHA,MISS Maledon 14' Floating Jump Shot,Missed Shot,Floating Jump shot,126,68,14,1,2.0,0.0,v
+S2223-G0301,2,11:13,BOS,,CHA,,T. Maledon,CHA,Maledon STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0301,2,08:43,BOS,,CHA,,T. Maledon,CHA,Maledon Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0301,2,07:17,BOS,,CHA,,T. Maledon,CHA,SUB: Oubre Jr. FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0301,2,02:25,BOS,,CHA,,T. Maledon,CHA,MISS Maledon 4' Driving Layup,Missed Shot,Driving Layup Shot,-4,41,4,1,2.0,0.0,v
+S2223-G0301,2,00:03.600000,BOS,78.0,CHA,55.0,T. Maledon,CHA,Maledon 26' 3PT Jump Shot (5 PTS) (Richards 1 AST),Made Shot,Jump Shot,137,226,26,1,3.0,3.0,v
+S2223-G0301,3,10:35,BOS,85.0,CHA,60.0,T. Maledon,CHA,Maledon 6' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,-26,55,6,1,2.0,2.0,v
+S2223-G0301,3,06:08,BOS,,CHA,,T. Maledon,CHA,SUB: McGowens FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0301,3,02:37,BOS,,CHA,,T. Maledon,CHA,Maledon Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0301,3,01:06,BOS,115.0,CHA,81.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0301,3,01:06,BOS,115.0,CHA,82.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0301,3,00:06.500000,BOS,,CHA,,T. Maledon,CHA,MISS Maledon 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,5,69,7,1,2.0,0.0,v
+S2223-G0301,4,11:43,BOS,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,4,11:10,BOS,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,4,09:24,BOS,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,4,09:21,BOS,,CHA,,T. Maledon,CHA,MISS Maledon 27' 3PT Jump Shot,Missed Shot,Jump Shot,-174,205,27,1,3.0,0.0,v
+S2223-G0301,4,07:29,BOS,,CHA,,T. Maledon,CHA,MISS Maledon 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-66,113,13,1,2.0,0.0,v
+S2223-G0301,4,06:30,BOS,,CHA,,T. Maledon,CHA,MISS Maledon 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-16,52,5,1,2.0,0.0,v
+S2223-G0301,4,05:29,BOS,,CHA,,T. Maledon,CHA,Maledon Bad Pass Turnover (P4.T18),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0301,4,04:28,BOS,,CHA,,T. Maledon,CHA,Maledon STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0301,4,04:24,BOS,,CHA,,T. Maledon,CHA,MISS Maledon 3' Driving Layup,Missed Shot,Driving Layup Shot,-25,22,3,1,2.0,0.0,v
+S2223-G0301,4,01:38,BOS,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,4,00:53.100000,BOS,140.0,CHA,105.0,T. Maledon,CHA,Maledon 15' Jump Shot (11 PTS) (McGowens 6 AST),Made Shot,Jump Shot,-146,41,15,1,2.0,2.0,v
+S2223-G0301,4,00:28.500000,BOS,,CHA,,T. Maledon,CHA,Maledon Out of Bounds - Bad Pass Turnover Turnover (P5.T20),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1101,1,02:00,DAL,,CHA,,T. Maledon,CHA,MISS Maledon 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,55,6,1,2.0,0.0,v
+S2223-G1101,2,06:52,DAL,,CHA,,T. Maledon,CHA,MISS Maledon 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-49,25,6,1,2.0,0.0,v
+S2223-G1101,2,06:45,DAL,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P1.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G1101,2,05:29,DAL,,CHA,,T. Maledon,CHA,MISS Maledon 26' 3PT Jump Shot,Missed Shot,Jump Shot,151,215,26,1,3.0,0.0,v
+S2223-G1101,2,00:54,DAL,,CHA,,T. Maledon,CHA,Maledon P.FOUL (P2.PN) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2223-G1101,3,02:09,DAL,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1101,3,00:30.200000,DAL,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P3.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G1101,4,07:43,DAL,,CHA,,T. Maledon,CHA,MISS Maledon 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-62,49,8,1,2.0,0.0,v
+S2223-G1101,4,07:09,DAL,,CHA,,T. Maledon,CHA,SUB: Hayward FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G1176,1,10:57,CHA,,TOR,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,1,10:22,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 28' 3PT Jump Shot,Missed Shot,Jump Shot,-115,251,28,1,3.0,0.0,h
+S2223-G1176,1,09:51,CHA,4.0,TOR,2.0,T. Maledon,CHA,Maledon 1' Driving Layup (2 PTS) (Mykhailiuk 1 AST),Made Shot,Driving Layup Shot,1,7,1,1,2.0,2.0,h
+S2223-G1176,1,07:51,CHA,,TOR,,T. Maledon,CHA,Maledon Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1176,1,06:51,CHA,15.0,TOR,6.0,T. Maledon,CHA,Maledon 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,15,18,2,1,2.0,2.0,h
+S2223-G1176,1,06:19,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 2' Driving Layup,Missed Shot,Driving Layup Shot,-4,18,2,1,2.0,0.0,h
+S2223-G1176,1,06:03,CHA,,TOR,,T. Maledon,CHA,Maledon Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1176,1,04:39,CHA,19.0,TOR,15.0,T. Maledon,CHA,Maledon 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,5,4,1,1,2.0,2.0,h
+S2223-G1176,1,04:39,CHA,20.0,TOR,15.0,T. Maledon,CHA,Maledon Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1176,1,03:53,CHA,,TOR,,T. Maledon,CHA,Maledon P.FOUL (P1.T4) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G1176,1,03:24,CHA,,TOR,,T. Maledon,CHA,Maledon Traveling Turnover (P3.T4),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1176,1,03:10,CHA,,TOR,,T. Maledon,CHA,SUB: McGowens FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G1176,2,10:38,CHA,35.0,TOR,26.0,T. Maledon,CHA,Maledon 25' 3PT Jump Shot (10 PTS) (McGowens 2 AST),Made Shot,Jump Shot,164,193,25,1,3.0,3.0,h
+S2223-G1176,2,09:27,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-9,12,2,1,2.0,0.0,h
+S2223-G1176,2,07:23,CHA,,TOR,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,2,07:19,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 1' Running Layup,Missed Shot,Running Layup Shot,-1,10,1,1,2.0,0.0,h
+S2223-G1176,2,06:21,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,38,4,1,2.0,0.0,h
+S2223-G1176,2,05:41,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 5' Driving Layup,Missed Shot,Driving Layup Shot,-21,42,5,1,2.0,0.0,h
+S2223-G1176,2,04:42,CHA,,TOR,,T. Maledon,CHA,Maledon Out of Bounds - Bad Pass Turnover Turnover (P4.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1176,2,02:21,CHA,,TOR,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,2,01:14,CHA,,TOR,,T. Maledon,CHA,Maledon Lost Ball Turnover (P5.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1176,2,00:45.900000,CHA,,TOR,,T. Maledon,CHA,Maledon Lost Ball Turnover (P6.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1176,3,11:06,CHA,,TOR,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,3,09:53,CHA,,TOR,,T. Maledon,CHA,Maledon P.FOUL (P2.T1) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G1176,3,04:08,CHA,,TOR,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1176,3,04:08,CHA,72.0,TOR,80.0,T. Maledon,CHA,Maledon Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1176,3,02:37,CHA,,TOR,,T. Maledon,CHA,SUB: Thor FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G1176,3,00:14.100000,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 1' Driving Layup,Missed Shot,Driving Layup Shot,11,5,1,1,2.0,0.0,h
+S2223-G1176,4,11:51,CHA,,TOR,,T. Maledon,CHA,Maledon STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1176,4,09:41,CHA,,TOR,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,4,09:08,CHA,,TOR,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,4,08:40,CHA,81.0,TOR,99.0,T. Maledon,CHA,Maledon 1' Running Layup (13 PTS),Made Shot,Running Layup Shot,5,4,1,1,2.0,2.0,h
+S2223-G1176,4,06:50,CHA,,TOR,,T. Maledon,CHA,Maledon P.FOUL (P3.T4) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G1176,4,05:52,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 4' Driving Layup,Missed Shot,Driving Layup Shot,22,34,4,1,2.0,0.0,h
+S2223-G1176,4,05:46,CHA,,TOR,,T. Maledon,CHA,Jump Ball Maledon vs. Dowtin Jr.: Tip to McGowens,Jump Ball,,0,0,0,0,,,h
+S2223-G1176,4,03:43,CHA,,TOR,,T. Maledon,CHA,MISS Maledon 2' Driving Layup,Missed Shot,Driving Layup Shot,11,13,2,1,2.0,0.0,h
+S2223-G1176,4,03:42,CHA,,TOR,,T. Maledon,CHA,SUB: Simmons FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0272,1,02:56,CHA,21.0,MIN,27.0,T. Maledon,CHA,Maledon 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,6,20,2,1,2.0,2.0,h
+S2223-G0272,1,02:56,CHA,,MIN,,T. Maledon,CHA,MISS Maledon Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0272,1,02:36,CHA,23.0,MIN,27.0,T. Maledon,CHA,Maledon 3' Driving Layup (4 PTS) (Bouknight 1 AST),Made Shot,Driving Layup Shot,4,25,3,1,2.0,2.0,h
+S2223-G0272,1,02:36,CHA,24.0,MIN,27.0,T. Maledon,CHA,Maledon Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0272,1,00:29.100000,CHA,,MIN,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,2,07:01,CHA,,MIN,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0272,2,05:40,CHA,,MIN,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,2,01:50,CHA,,MIN,,T. Maledon,CHA,MISS Maledon 9' Driving Layup,Missed Shot,Driving Layup Shot,-51,79,9,1,2.0,0.0,h
+S2223-G0272,2,01:37,CHA,,MIN,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,2,00:47.700000,CHA,,MIN,,T. Maledon,CHA,Maledon S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0272,2,00:35.900000,CHA,52.0,MIN,59.0,T. Maledon,CHA,Maledon 10' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,11,101,10,1,2.0,2.0,h
+S2223-G0272,3,04:59,CHA,74.0,MIN,75.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0272,3,04:59,CHA,75.0,MIN,75.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0272,3,04:25,CHA,78.0,MIN,77.0,T. Maledon,CHA,Maledon 26' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,-140,215,26,1,3.0,3.0,h
+S2223-G0272,3,03:55,CHA,79.0,MIN,77.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0272,3,03:55,CHA,80.0,MIN,77.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0272,3,03:24,CHA,,MIN,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,3,02:35,CHA,,MIN,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,4,07:12,CHA,,MIN,,T. Maledon,CHA,MISS Maledon 1' Driving Layup,Missed Shot,Driving Layup Shot,2,5,1,1,2.0,0.0,h
+S2223-G0272,4,04:49,CHA,,MIN,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,4,04:49,CHA,,MIN,,T. Maledon,CHA,MISS Maledon 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-20,43,5,1,2.0,0.0,h
+S2223-G0272,4,04:46,CHA,,MIN,,T. Maledon,CHA,Maledon REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,4,04:45,CHA,,MIN,,T. Maledon,CHA,Maledon Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0272,4,04:28,CHA,,MIN,,T. Maledon,CHA,SUB: McDaniels FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0272,4,00:00.400000,CHA,,MIN,,T. Maledon,CHA,SUB: Plumlee FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0225,1,03:47,CLE,,CHA,,T. Maledon,CHA,MISS Maledon 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,59,36,7,1,2.0,0.0,v
+S2223-G0225,1,00:13.300000,CLE,,CHA,,T. Maledon,CHA,MISS Maledon 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-165,197,26,1,3.0,0.0,v
+S2223-G0225,2,04:32,CLE,,CHA,,T. Maledon,CHA,Maledon Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0225,2,03:42,CLE,,CHA,,T. Maledon,CHA,SUB: Washington FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0225,3,05:11,CLE,,CHA,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0225,3,04:46,CLE,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,3,03:15,CLE,,CHA,,T. Maledon,CHA,Maledon Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0225,3,03:03,CLE,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,3,02:53,CLE,,CHA,,T. Maledon,CHA,MISS Maledon Driving Layup,Missed Shot,Driving Layup Shot,1,0,0,1,2.0,0.0,v
+S2223-G0225,3,02:26,CLE,,CHA,,T. Maledon,CHA,MISS Maledon 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,56,47,7,1,2.0,0.0,v
+S2223-G0225,3,00:27.200000,CLE,,CHA,,T. Maledon,CHA,MISS Maledon 27' 3PT Jump Shot,Missed Shot,Jump Shot,146,222,27,1,3.0,0.0,v
+S2223-G0399,1,03:19,PHI,,CHA,,T. Maledon,CHA,MISS Maledon 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,47,272,28,1,3.0,0.0,v
+S2223-G0399,1,00:59.600000,PHI,,CHA,,T. Maledon,CHA,Maledon Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0399,1,00:37.200000,PHI,,CHA,,T. Maledon,CHA,MISS Maledon 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,26,65,7,1,2.0,0.0,v
+S2223-G0399,2,07:33,PHI,,CHA,,T. Maledon,CHA,MISS Maledon 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,25,46,5,1,2.0,0.0,v
+S2223-G0399,2,05:51,PHI,,CHA,,T. Maledon,CHA,SUB: Oubre Jr. FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0399,2,01:33,PHI,53.0,CHA,49.0,T. Maledon,CHA,Maledon 26' 3PT Jump Shot (3 PTS) (Oubre Jr. 1 AST),Made Shot,Jump Shot,159,209,26,1,3.0,3.0,v
+S2223-G0399,3,04:11,PHI,,CHA,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0399,3,04:11,PHI,87.0,CHA,77.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0399,3,04:11,PHI,87.0,CHA,78.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0399,3,03:10,PHI,89.0,CHA,79.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0399,3,03:10,PHI,89.0,CHA,80.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0399,3,01:49,PHI,,CHA,,T. Maledon,CHA,MISS Maledon 3' Running Layup,Missed Shot,Running Layup Shot,-27,9,3,1,2.0,0.0,v
+S2223-G0399,4,00:57.700000,PHI,131.0,CHA,112.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0399,4,00:57.700000,PHI,131.0,CHA,113.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0377,1,03:30,CHA,16.0,NYK,18.0,T. Maledon,CHA,Maledon 10' Driving Floating Jump Shot (2 PTS) (McGowens 1 AST),Made Shot,Driving Floating Jump Shot,-49,88,10,1,2.0,2.0,h
+S2223-G0377,1,02:22,CHA,17.0,NYK,20.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0377,1,02:22,CHA,18.0,NYK,20.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0377,2,06:37,CHA,,NYK,,T. Maledon,CHA,MISS Maledon 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,21,17,3,1,2.0,0.0,h
+S2223-G0377,2,04:51,CHA,,NYK,,T. Maledon,CHA,Maledon P.FOUL (P1.T3) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2223-G0377,2,04:36,CHA,,NYK,,T. Maledon,CHA,Maledon OFF.Foul (P2) (E.Lewis),Foul,Offensive,0,0,0,0,,,h
+S2223-G0377,2,04:36,CHA,,NYK,,T. Maledon,CHA,Maledon Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0377,2,03:02,CHA,,NYK,,T. Maledon,CHA,SUB: Oubre Jr. FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0377,2,00:32.400000,CHA,,NYK,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0377,4,10:03,CHA,,NYK,,T. Maledon,CHA,MISS Maledon 26' 3PT Jump Shot,Missed Shot,Jump Shot,130,227,26,1,3.0,0.0,h
+S2223-G0377,4,08:49,CHA,,NYK,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0377,4,08:42,CHA,77.0,NYK,98.0,T. Maledon,CHA,Maledon 17' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,2,168,17,1,2.0,2.0,h
+S2223-G0377,4,05:22,CHA,,NYK,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0377,4,04:54,CHA,,NYK,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0377,4,03:46,CHA,,NYK,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0377,4,02:41,CHA,,NYK,,T. Maledon,CHA,MISS Maledon 26' 3PT Jump Shot,Missed Shot,Jump Shot,75,246,26,1,3.0,0.0,h
+S2223-G0377,4,02:00,CHA,,NYK,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0377,4,01:12,CHA,100.0,NYK,118.0,T. Maledon,CHA,Maledon 4' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,-40,6,4,1,2.0,2.0,h
+S2223-G0414,1,03:25,CHA,,DET,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0414,1,02:20,CHA,,DET,,T. Maledon,CHA,MISS Maledon 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-114,241,27,1,3.0,0.0,h
+S2223-G0414,1,01:48,CHA,,DET,,T. Maledon,CHA,MISS Maledon 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,4,76,8,1,2.0,0.0,h
+S2223-G0414,1,00:30.900000,CHA,30.0,DET,32.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0414,1,00:30.900000,CHA,31.0,DET,32.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0414,1,00:00.900000,CHA,33.0,DET,35.0,T. Maledon,CHA,Maledon 1' Driving Reverse Layup (4 PTS),Made Shot,Driving Reverse Layup Shot,9,8,1,1,2.0,2.0,h
+S2223-G0414,2,10:34,CHA,,DET,,T. Maledon,CHA,MISS Maledon 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-25,54,6,1,2.0,0.0,h
+S2223-G0414,2,10:34,CHA,,DET,,T. Maledon,CHA,SUB: McDaniels FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0414,2,05:11,CHA,,DET,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0414,2,04:34,CHA,,DET,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0414,2,02:08,CHA,,DET,,T. Maledon,CHA,SUB: Ball FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0414,3,03:40,CHA,,DET,,T. Maledon,CHA,Maledon S.FOUL (P1.T4) (J.Ralls),Foul,Shooting,0,0,0,0,,,h
+S2223-G0414,3,02:05,CHA,,DET,,T. Maledon,CHA,MISS Maledon 7' Hook Shot,Missed Shot,Hook Shot,1,74,7,1,2.0,0.0,h
+S2223-G0414,3,01:11,CHA,93.0,DET,103.0,T. Maledon,CHA,Maledon 24' 3PT Jump Shot (7 PTS) (McDaniels 1 AST),Made Shot,Jump Shot,-148,195,24,1,3.0,3.0,h
+S2223-G0414,3,00:15.700000,CHA,97.0,DET,107.0,T. Maledon,CHA,Maledon 6' Driving Floating Bank Jump Shot (9 PTS),Made Shot,Driving Floating Bank Jump Shot,-42,40,6,1,2.0,2.0,h
+S2223-G0414,4,10:36,CHA,,DET,,T. Maledon,CHA,SUB: McDaniels FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0414,4,06:01,CHA,,DET,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0414,4,05:53,CHA,,DET,,T. Maledon,CHA,Maledon Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0414,4,05:41,CHA,,DET,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0414,4,05:06,CHA,,DET,,T. Maledon,CHA,SUB: Ball FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0414,4,00:01.300000,CHA,,DET,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0414,4,00:01.300000,CHA,,DET,,T. Maledon,CHA,SUB: Washington FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G1218,1,10:44,CLE,,CHA,,T. Maledon,CHA,Maledon Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1218,1,10:01,CLE,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,1,08:47,CLE,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,1,05:23,CLE,10.0,CHA,6.0,T. Maledon,CHA,Maledon 11' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,112,-2,11,1,2.0,2.0,v
+S2223-G1218,1,04:42,CLE,,CHA,,T. Maledon,CHA,MISS Maledon 2' Driving Layup,Missed Shot,Driving Layup Shot,-7,21,2,1,2.0,0.0,v
+S2223-G1218,1,03:59,CLE,,CHA,,T. Maledon,CHA,MISS Maledon 26' 3PT Jump Shot,Missed Shot,Jump Shot,218,145,26,1,3.0,0.0,v
+S2223-G1218,1,03:27,CLE,,CHA,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1218,1,01:26,CLE,,CHA,,T. Maledon,CHA,SUB: McGowens FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G1218,2,10:40,CLE,,CHA,,T. Maledon,CHA,MISS Maledon 26' 3PT Jump Shot,Missed Shot,Jump Shot,134,226,26,1,3.0,0.0,v
+S2223-G1218,2,08:24,CLE,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,2,08:18,CLE,33.0,CHA,28.0,T. Maledon,CHA,Maledon 9' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,18,93,9,1,2.0,2.0,v
+S2223-G1218,2,06:56,CLE,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G1218,2,05:33,CLE,43.0,CHA,34.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1218,2,05:33,CLE,43.0,CHA,35.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1218,2,05:04,CLE,43.0,CHA,37.0,T. Maledon,CHA,Maledon 8' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,-9,77,8,1,2.0,2.0,v
+S2223-G1218,2,04:36,CLE,,CHA,,T. Maledon,CHA,SUB: Simmons FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G1218,2,00:27.800000,CLE,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,2,00:00.600000,CLE,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,3,11:37,CLE,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,3,09:46,CLE,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,3,08:12,CLE,,CHA,,T. Maledon,CHA,Maledon Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1218,3,07:44,CLE,,CHA,,T. Maledon,CHA,MISS Maledon 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,31,85,9,1,2.0,0.0,v
+S2223-G1218,3,07:42,CLE,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,3,06:03,CLE,58.0,CHA,59.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1218,3,06:03,CLE,58.0,CHA,60.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1218,3,04:49,CLE,63.0,CHA,62.0,T. Maledon,CHA,Maledon 9' Driving Floating Jump Shot (12 PTS) (Thor 3 AST),Made Shot,Driving Floating Jump Shot,-1,86,9,1,2.0,2.0,v
+S2223-G1218,3,03:14,CLE,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P2.T4) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G1218,3,03:14,CLE,,CHA,,T. Maledon,CHA,SUB: McGowens FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G1218,4,11:12,CLE,,CHA,,T. Maledon,CHA,MISS Maledon 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,64,96,12,1,2.0,0.0,v
+S2223-G1218,4,07:23,CLE,81.0,CHA,90.0,T. Maledon,CHA,Maledon 11' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,36,109,11,1,2.0,2.0,v
+S2223-G1218,4,07:16,CLE,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P3.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G1218,4,06:40,CLE,86.0,CHA,94.0,T. Maledon,CHA,Maledon 1' Driving Layup (16 PTS) (Richards 1 AST),Made Shot,Driving Layup Shot,2,10,1,1,2.0,2.0,v
+S2223-G1218,4,06:16,CLE,,CHA,,T. Maledon,CHA,Maledon Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1218,4,02:38,CLE,,CHA,,T. Maledon,CHA,MISS Maledon 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-100,185,21,1,2.0,0.0,v
+S2223-G1218,4,02:01,CLE,91.0,CHA,103.0,T. Maledon,CHA,Maledon 1' Driving Finger Roll Layup (18 PTS),Made Shot,Driving Finger Roll Layup Shot,1,6,1,1,2.0,2.0,v
+S2223-G1202,1,10:25,CHA,,HOU,,T. Maledon,CHA,Maledon Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1202,1,10:23,CHA,,HOU,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1202,1,10:09,CHA,,HOU,,T. Maledon,CHA,Maledon STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1202,1,10:03,CHA,8.0,HOU,2.0,T. Maledon,CHA,Maledon 26' 3PT Running Jump Shot (3 PTS) (Mykhailiuk 1 AST),Made Shot,Running Jump Shot,-130,226,26,1,3.0,3.0,h
+S2223-G1202,1,09:48,CHA,,HOU,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1202,1,09:10,CHA,13.0,HOU,4.0,T. Maledon,CHA,Maledon 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-71,247,26,1,3.0,3.0,h
+S2223-G1202,1,07:41,CHA,,HOU,,T. Maledon,CHA,Maledon Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1202,1,07:04,CHA,,HOU,,T. Maledon,CHA,Maledon Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1202,1,06:42,CHA,,HOU,,T. Maledon,CHA,MISS Maledon 27' 3PT Jump Shot,Missed Shot,Jump Shot,113,243,27,1,3.0,0.0,h
+S2223-G1202,1,06:21,CHA,15.0,HOU,13.0,T. Maledon,CHA,Maledon 18' Running Pull-Up Jump Shot (8 PTS),Made Shot,Running Pull-Up Jump Shot,96,158,18,1,2.0,2.0,h
+S2223-G1202,1,04:03,CHA,,HOU,,T. Maledon,CHA,Maledon STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G1202,1,03:50,CHA,,HOU,,T. Maledon,CHA,SUB: Jones FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G1202,2,08:22,CHA,36.0,HOU,35.0,T. Maledon,CHA,Maledon 15' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,147,-5,15,1,2.0,2.0,h
+S2223-G1202,2,05:36,CHA,,HOU,,T. Maledon,CHA,Maledon Out of Bounds - Bad Pass Turnover Turnover (P4.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1202,2,05:34,CHA,,HOU,,T. Maledon,CHA,SUB: Sneed FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G1202,2,01:09,CHA,,HOU,,T. Maledon,CHA,MISS Maledon 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-26,80,8,1,2.0,0.0,h
+S2223-G1202,3,08:48,CHA,,HOU,,T. Maledon,CHA,Maledon P.FOUL (P1.T1) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G1202,3,07:39,CHA,,HOU,,T. Maledon,CHA,MISS Maledon 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,131,220,26,1,3.0,0.0,h
+S2223-G1202,3,07:26,CHA,,HOU,,T. Maledon,CHA,Maledon STEAL (4 STL),,,0,0,0,0,,,h
+S2223-G1202,3,06:55,CHA,59.0,HOU,66.0,T. Maledon,CHA,Maledon 2' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,16,6,2,1,2.0,2.0,h
+S2223-G1202,3,04:27,CHA,62.0,HOU,72.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1202,3,04:27,CHA,63.0,HOU,72.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1202,3,04:08,CHA,,HOU,,T. Maledon,CHA,SUB: Jones FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G1202,3,01:01,CHA,,HOU,,T. Maledon,CHA,Maledon STEAL (5 STL),,,0,0,0,0,,,h
+S2223-G1202,3,00:36.800000,CHA,,HOU,,T. Maledon,CHA,Maledon P.FOUL (P2.T4) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G1202,4,10:34,CHA,,HOU,,T. Maledon,CHA,MISS Maledon 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,233,32,24,1,3.0,0.0,h
+S2223-G1202,4,08:49,CHA,,HOU,,T. Maledon,CHA,Maledon P.FOUL (P3.T1) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G1202,4,07:53,CHA,,HOU,,T. Maledon,CHA,MISS Maledon 27' 3PT Jump Shot,Missed Shot,Jump Shot,148,221,27,1,3.0,0.0,h
+S2223-G1202,4,07:22,CHA,,HOU,,T. Maledon,CHA,MISS Maledon 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-26,101,10,1,2.0,0.0,h
+S2223-G1202,4,07:05,CHA,,HOU,,T. Maledon,CHA,MISS Maledon Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,h
+S2223-G1202,4,05:06,CHA,97.0,HOU,101.0,T. Maledon,CHA,Maledon 25' 3PT Step Back Jump Shot (17 PTS) (Bouknight 3 AST),Made Shot,Step Back Jump shot,-102,232,25,1,3.0,3.0,h
+S2223-G1202,4,04:51,CHA,,HOU,,T. Maledon,CHA,Maledon S.FOUL (P4.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G1202,4,04:37,CHA,99.0,HOU,102.0,T. Maledon,CHA,Maledon 2' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,9,21,2,1,2.0,2.0,h
+S2223-G1202,4,03:09,CHA,,HOU,,T. Maledon,CHA,MISS Maledon 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-58,93,11,1,2.0,0.0,h
+S2223-G1202,4,02:54,CHA,,HOU,,T. Maledon,CHA,Maledon BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1202,4,01:40,CHA,104.0,HOU,110.0,T. Maledon,CHA,Maledon 25' 3PT Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,54,248,25,1,3.0,3.0,h
+S2223-G0096,1,04:08,CHA,,SAC,,T. Maledon,CHA,Maledon Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0096,1,03:37,CHA,,SAC,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0096,1,03:15,CHA,,SAC,,T. Maledon,CHA,Maledon BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0096,1,01:41,CHA,,SAC,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0096,1,01:40,CHA,,SAC,,T. Maledon,CHA,Maledon Double Dribble Turnover (P2.T6),Turnover,Double Dribble,0,0,0,0,,,h
+S2223-G0096,1,00:52.800000,CHA,,SAC,,T. Maledon,CHA,MISS Maledon 27' 3PT Jump Shot,Missed Shot,Jump Shot,98,247,27,1,3.0,0.0,h
+S2223-G0096,1,00:01.100000,CHA,,SAC,,T. Maledon,CHA,MISS Maledon 28' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,-190,204,28,1,3.0,0.0,h
+S2223-G0096,2,02:35,CHA,,SAC,,T. Maledon,CHA,SUB: Bouknight FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0096,3,01:30,CHA,,SAC,,T. Maledon,CHA,Maledon S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0096,3,00:20.900000,CHA,85.0,SAC,89.0,T. Maledon,CHA,Maledon 9' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,50,77,9,1,2.0,2.0,h
+S2223-G0038,1,01:49,ATL,,CHA,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0038,2,03:09,ATL,,CHA,,T. Maledon,CHA,SUB: Smith Jr. FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0038,2,00:27.600000,ATL,53.0,CHA,59.0,T. Maledon,CHA,Maledon 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-5,104,10,1,2.0,2.0,v
+S2223-G0038,3,01:18,ATL,80.0,CHA,99.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0038,3,01:18,ATL,80.0,CHA,100.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0038,3,00:30.800000,ATL,,CHA,,T. Maledon,CHA,MISS Maledon Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,v
+S2223-G0038,3,00:24,ATL,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0428,2,03:24,,,ATL,,T. Maledon,CHA,Maledon P.FOUL (P1.PN) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2223-G0428,2,02:44,,,ATL,,T. Maledon,CHA,MISS Maledon 3' Driving Layup,Missed Shot,Driving Layup Shot,20,18,3,1,2.0,0.0,h
+S2223-G0428,2,02:23,,,ATL,,T. Maledon,CHA,SUB: Ball FOR Maledon,Substitution,,0,0,0,0,,,h
+S2223-G0428,3,04:23,,,ATL,,T. Maledon,CHA,MISS Maledon 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,34,96,10,1,2.0,0.0,h
+S2223-G0428,3,02:17,,,ATL,,T. Maledon,CHA,MISS Maledon 25' 3PT Jump Shot,Missed Shot,Jump Shot,-164,189,25,1,3.0,0.0,h
+S2223-G0428,3,01:57,,,ATL,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,3,01:47,,84.0,ATL,94.0,T. Maledon,CHA,Maledon 26' 3PT Jump Shot (3 PTS) (Richards 1 AST),Made Shot,Jump Shot,140,215,26,1,3.0,3.0,h
+S2223-G0428,3,01:01,,,ATL,,T. Maledon,CHA,Maledon P.FOUL (P2.PN) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2223-G0428,4,01:46,,,ATL,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,4,00:42.200000,,,ATL,,T. Maledon,CHA,MISS Maledon 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,147,222,27,1,3.0,0.0,h
+S2223-G0111,1,01:18,CHI,,CHA,,T. Maledon,CHA,Maledon BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0111,2,02:17,CHI,,CHA,,T. Maledon,CHA,MISS Maledon 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-140,227,27,1,3.0,0.0,v
+S2223-G0111,2,01:51,CHI,,CHA,,T. Maledon,CHA,SUB: Smith Jr. FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0111,3,04:47,CHI,,CHA,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0111,3,03:37,CHI,,CHA,,T. Maledon,CHA,Maledon Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0111,3,03:35,CHI,,CHA,,T. Maledon,CHA,Maledon S.FOUL (P1.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G0111,3,03:15,CHI,,CHA,,T. Maledon,CHA,Maledon Step Out of Bounds Turnover (P2.T11),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0111,3,02:49,CHI,,CHA,,T. Maledon,CHA,Maledon Traveling Turnover (P3.T12),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0111,3,02:14,CHI,,CHA,,T. Maledon,CHA,SUB: Smith Jr. FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0111,4,04:02,CHI,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0111,4,01:40,CHI,,CHA,,T. Maledon,CHA,MISS Maledon 26' 3PT Jump Shot,Missed Shot,Jump Shot,93,241,26,1,3.0,0.0,v
+S2223-G0189,2,07:53,MIA,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0189,2,06:49,MIA,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0189,2,05:55,MIA,44.0,CHA,40.0,T. Maledon,CHA,Maledon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0189,2,05:55,MIA,44.0,CHA,41.0,T. Maledon,CHA,Maledon Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0189,2,04:35,MIA,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0189,2,04:20,MIA,,CHA,,T. Maledon,CHA,Maledon P.FOUL (P1.PN) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0189,2,02:49,MIA,52.0,CHA,49.0,T. Maledon,CHA,Maledon 2' Driving Finger Roll Layup (4 PTS) (Rozier 3 AST),Made Shot,Driving Finger Roll Layup Shot,0,21,2,1,2.0,2.0,v
+S2223-G0189,2,02:26,MIA,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0189,2,00:27.900000,MIA,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0189,2,00:10.700000,MIA,54.0,CHA,59.0,T. Maledon,CHA,Maledon 3' Driving Floating Jump Shot (6 PTS) (Rozier 4 AST),Made Shot,Driving Floating Jump Shot,-7,32,3,1,2.0,2.0,v
+S2223-G0189,4,07:38,MIA,,CHA,,T. Maledon,CHA,Maledon REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0189,4,06:59,MIA,114.0,CHA,97.0,T. Maledon,CHA,Maledon 12' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,-33,115,12,1,2.0,2.0,v
+S2223-G0189,4,06:03,MIA,,CHA,,T. Maledon,CHA,Maledon P.FOUL (P2.T4) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2223-G0189,4,06:03,MIA,,CHA,,T. Maledon,CHA,SUB: Ball FOR Maledon,Substitution,,0,0,0,0,,,v
+S2223-G0326,1,05:27,CHA,,WAS,,T. Maledon,CHA,MISS Maledon 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-5,52,5,1,2.0,0.0,h
+S2223-G0326,1,05:27,CHA,,WAS,,T. Maledon,CHA,Maledon REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0326,1,03:59,CHA,27.0,WAS,22.0,T. Maledon,CHA,Maledon 25' 3PT Jump Shot (3 PTS) (Plumlee 1 AST),Made Shot,Jump Shot,138,213,25,1,3.0,3.0,h
+S2223-G0326,1,01:48,CHA,,WAS,,T. Maledon,CHA,Maledon REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0326,1,01:38,CHA,,WAS,,T. Maledon,CHA,MISS Maledon 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,229,21,0,1,3.0,0.0,h
+S2223-G0326,2,05:19,CHA,57.0,WAS,47.0,T. Maledon,CHA,Maledon 3' Alley Oop Layup (5 PTS) (Rozier 4 AST),Made Shot,Alley Oop Layup shot,4,32,3,1,2.0,2.0,h
+S2223-G0326,2,03:18,CHA,64.0,WAS,49.0,T. Maledon,CHA,Maledon Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,2,3,0,1,2.0,2.0,h
+S2223-G0326,2,02:37,CHA,,WAS,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0326,2,02:32,CHA,,WAS,,T. Maledon,CHA,MISS Maledon 2' Running Layup,Missed Shot,Running Layup Shot,-1,17,2,1,2.0,0.0,h
+S2223-G0326,2,01:14,CHA,,WAS,,T. Maledon,CHA,Maledon REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0326,3,03:42,CHA,,WAS,,T. Maledon,CHA,Maledon REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0058,1,02:53,NYK,,CHA,,T. Maledon,CHA,Maledon P.FOUL (P1.T4) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2223-G0058,1,02:22,NYK,25.0,CHA,23.0,T. Maledon,CHA,Maledon 26' 3PT Pullup Jump Shot (3 PTS) (Richards 1 AST),Made Shot,Pullup Jump shot,-205,154,26,1,3.0,3.0,v
+S2223-G0058,1,00:28.500000,NYK,,CHA,,T. Maledon,CHA,Maledon Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0058,2,04:55,NYK,55.0,CHA,51.0,T. Maledon,CHA,Maledon 5' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,-28,42,5,1,2.0,2.0,v
+S2223-G0058,2,02:35,NYK,63.0,CHA,55.0,T. Maledon,CHA,Maledon 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-13,13,2,1,2.0,2.0,v
+S2223-G0058,2,02:35,NYK,63.0,CHA,56.0,T. Maledon,CHA,Maledon Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0058,2,02:18,NYK,,CHA,,T. Maledon,CHA,Maledon STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0058,2,00:15.700000,NYK,,CHA,,T. Maledon,CHA,MISS Maledon 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,85,9,1,2.0,0.0,v
+S2223-G0058,3,02:42,NYK,91.0,CHA,82.0,T. Maledon,CHA,Maledon 25' 3PT Jump Shot (11 PTS) (Bouknight 3 AST),Made Shot,Jump Shot,145,201,25,1,3.0,3.0,v
+S2223-G0058,3,00:35.400000,NYK,98.0,CHA,88.0,T. Maledon,CHA,Maledon 10' Fadeaway Jumper (13 PTS),Made Shot,Fadeaway Jump Shot,20,103,10,1,2.0,2.0,v
+S2223-G0058,3,00:02.700000,NYK,98.0,CHA,90.0,T. Maledon,CHA,Maledon 1' Reverse Layup (15 PTS) (Richards 2 AST),Made Shot,Reverse Layup Shot,-7,5,1,1,2.0,2.0,v
+S2223-G0058,4,10:09,NYK,,CHA,,T. Maledon,CHA,SUB: Smith Jr. FOR Maledon,Substitution,,0,0,0,0,,,v

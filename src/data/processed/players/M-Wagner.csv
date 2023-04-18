@@ -1,0 +1,1228 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0831,1,00:37,ORL,,DEN,,M. Wagner,ORL,MISS M. Wagner 3PT Jump Shot,Missed Shot,Jump Shot,234,9,0,1,3.0,0.0,h
+S2223-G0831,2,11:07,ORL,33.0,DEN,27.0,M. Wagner,ORL,M. Wagner 1' Driving Layup (2 PTS) (F. Wagner 2 AST),Made Shot,Driving Layup Shot,-1,11,1,1,2.0,2.0,h
+S2223-G0831,2,10:37,ORL,,DEN,,M. Wagner,ORL,MISS M. Wagner 30' 3PT Jump Shot,Missed Shot,Jump Shot,66,290,30,1,3.0,0.0,h
+S2223-G0831,2,08:27,ORL,46.0,DEN,34.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Shot (5 PTS) (Anthony 5 AST),Made Shot,Jump Shot,169,190,25,1,3.0,3.0,h
+S2223-G0831,2,08:18,ORL,,DEN,,M. Wagner,ORL,M. Wagner P.FOUL (P1.T2) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0831,2,07:54,ORL,,DEN,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0831,2,06:00,ORL,,DEN,,M. Wagner,ORL,MISS M. Wagner 3PT Jump Shot,Missed Shot,Jump Shot,-225,5,0,1,3.0,0.0,h
+S2223-G0831,2,05:05,ORL,,DEN,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0831,3,02:31,ORL,,DEN,,M. Wagner,ORL,M. Wagner P.FOUL (P2.T3) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2223-G0831,3,01:12,ORL,87.0,DEN,81.0,M. Wagner,ORL,M. Wagner 27' 3PT Jump Shot (8 PTS) (Isaac 1 AST),Made Shot,Jump Shot,-140,233,27,1,3.0,3.0,h
+S2223-G0831,3,00:31.400000,ORL,89.0,DEN,83.0,M. Wagner,ORL,M. Wagner 3' Layup (10 PTS) (Anthony 6 AST),Made Shot,Layup Shot,-1,31,3,1,2.0,2.0,h
+S2223-G0831,4,08:59,ORL,,DEN,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0831,4,07:49,ORL,,DEN,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0831,4,07:48,ORL,100.0,DEN,86.0,M. Wagner,ORL,M. Wagner 1' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,1,12,1,1,2.0,2.0,h
+S2223-G0831,4,06:15,ORL,,DEN,,M. Wagner,ORL,M. Wagner STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0831,4,04:58,ORL,,DEN,,M. Wagner,ORL,M. Wagner S.FOUL (P3.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0831,4,04:45,ORL,,DEN,,M. Wagner,ORL,MISS M. Wagner 3' Driving Layup,Missed Shot,Driving Layup Shot,9,26,3,1,2.0,0.0,h
+S2223-G0831,4,04:36,ORL,,DEN,,M. Wagner,ORL,SUB: Fultz FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G1133,1,01:26,MEM,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G1133,1,01:07,MEM,,ORL,,M. Wagner,ORL,M. Wagner Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1133,1,00:47,MEM,,ORL,,M. Wagner,ORL,M. Wagner Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1133,2,11:07,MEM,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1133,2,10:53,MEM,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1133,2,10:35,MEM,,ORL,,M. Wagner,ORL,M. Wagner Lane Violation Turnover (P3.T7),Turnover,Lane Violation,0,0,0,0,,,v
+S2223-G1133,2,10:22,MEM,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1133,2,09:04,MEM,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1133,2,08:49,MEM,,ORL,,M. Wagner,ORL,M. Wagner BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1133,2,08:49,MEM,,ORL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0313,2,11:22,ORL,28.0,ATL,41.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0313,2,11:22,ORL,,ATL,,M. Wagner,ORL,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0313,2,10:57,ORL,,ATL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0313,2,07:17,ORL,36.0,ATL,45.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0313,2,07:17,ORL,37.0,ATL,45.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0313,2,06:43,ORL,39.0,ATL,47.0,M. Wagner,ORL,M. Wagner 2' Cutting Dunk Shot (5 PTS) (Banchero 2 AST),Made Shot,Cutting Dunk Shot,9,12,2,1,2.0,2.0,h
+S2223-G0313,2,05:22,ORL,,ATL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0313,2,05:15,ORL,,ATL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,121,224,25,1,3.0,0.0,h
+S2223-G0313,2,04:56,ORL,,ATL,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T2) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0313,2,04:56,ORL,,ATL,,M. Wagner,ORL,SUB: Fultz FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0313,3,05:53,ORL,,ATL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0313,3,03:00,ORL,,ATL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0313,3,02:44,ORL,,ATL,,M. Wagner,ORL,M. Wagner P.FOUL (P2.T4) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2223-G0313,3,00:06.700000,ORL,,ATL,,M. Wagner,ORL,M. Wagner S.FOUL (P3.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0313,4,11:50,ORL,78.0,ATL,100.0,M. Wagner,ORL,M. Wagner 4' Cutting Dunk Shot (7 PTS) (Fultz 3 AST),Made Shot,Cutting Dunk Shot,11,43,4,1,2.0,2.0,h
+S2223-G0313,4,11:25,ORL,,ATL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0313,4,11:18,ORL,80.0,ATL,100.0,M. Wagner,ORL,M. Wagner 3' Layup (9 PTS) (Fultz 4 AST),Made Shot,Layup Shot,-4,27,3,1,2.0,2.0,h
+S2223-G0313,4,10:24,ORL,,ATL,,M. Wagner,ORL,M. Wagner Traveling Turnover (P1.T15),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0313,4,08:29,ORL,,ATL,,M. Wagner,ORL,M. Wagner BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0313,4,08:14,ORL,,ATL,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0313,4,03:06,ORL,,ATL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0313,4,02:00,ORL,,ATL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,70,244,25,1,3.0,0.0,h
+S2223-G0939,1,02:00,MIL,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0939,1,00:07.800000,MIL,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-186,188,26,1,3.0,0.0,v
+S2223-G0939,2,10:26,MIL,,ORL,,M. Wagner,ORL,M. Wagner OFF.Foul (P1) (M.Myers),Foul,Offensive,0,0,0,0,,,v
+S2223-G0939,2,10:26,MIL,,ORL,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0939,2,09:30,MIL,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0939,2,09:21,MIL,39.0,ORL,40.0,M. Wagner,ORL,M. Wagner 2' Layup (2 PTS) (Suggs 1 AST),Made Shot,Layup Shot,5,16,2,1,2.0,2.0,v
+S2223-G0939,2,08:10,MIL,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P2.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0939,2,08:10,MIL,,ORL,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0939,3,03:27,MIL,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0939,3,02:23,MIL,,ORL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,39,250,25,1,3.0,0.0,v
+S2223-G0939,3,00:33.400000,MIL,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P3.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0610,1,01:38,SAC,,ORL,,M. Wagner,ORL,M. Wagner P.FOUL (P1.T4) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G0610,1,00:10,SAC,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0610,1,00:01.100000,SAC,,ORL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,96,235,25,1,3.0,0.0,v
+S2223-G0610,2,11:03,SAC,,ORL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-170,178,25,1,3.0,0.0,v
+S2223-G0610,2,10:30,SAC,,ORL,,M. Wagner,ORL,M. Wagner OFF.Foul (P2) (S.Foster),Foul,Offensive,0,0,0,0,,,v
+S2223-G0610,2,10:30,SAC,,ORL,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0610,2,07:36,SAC,,ORL,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0610,3,03:14,SAC,,ORL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-64,245,25,1,3.0,0.0,v
+S2223-G0610,3,02:57,SAC,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0610,3,02:15,SAC,,ORL,,M. Wagner,ORL,M. Wagner P.FOUL (P3.T2) (M.Myers),Foul,Personal,0,0,0,0,,,v
+S2223-G0610,3,00:46.400000,SAC,,ORL,,M. Wagner,ORL,M. Wagner Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0610,3,00:45,SAC,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P4.T3) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2223-G0610,3,00:07.800000,SAC,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P5.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0610,4,11:50,SAC,,ORL,,M. Wagner,ORL,MISS M. Wagner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0610,4,11:50,SAC,107.0,ORL,85.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0610,4,11:01,SAC,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0610,4,10:47,SAC,,ORL,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0610,4,05:23,SAC,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0610,4,04:57,SAC,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0610,4,04:32,SAC,126.0,ORL,100.0,M. Wagner,ORL,M. Wagner 3PT Jump Shot (4 PTS) (Anthony 2 AST),Made Shot,Jump Shot,228,19,0,1,3.0,3.0,v
+S2223-G0610,4,04:09,SAC,126.0,ORL,103.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Shot (7 PTS) (Suggs 3 AST),Made Shot,Jump Shot,-48,247,25,1,3.0,3.0,v
+S2223-G0610,4,03:08,SAC,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0610,4,01:52,SAC,132.0,ORL,108.0,M. Wagner,ORL,M. Wagner 7' Driving Floating Bank Jump Shot (9 PTS) (Anthony 3 AST),Made Shot,Driving Floating Bank Jump Shot,2,66,7,1,2.0,2.0,v
+S2223-G0610,4,01:32,SAC,,ORL,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0610,4,00:35.100000,SAC,136.0,ORL,111.0,M. Wagner,ORL,M. Wagner 3PT Jump Shot (12 PTS) (Suggs 4 AST),Made Shot,Jump Shot,-230,-8,0,1,3.0,3.0,v
+S2223-G0978,1,12:00,ORL,,MIL,,M. Wagner,ORL,Jump Ball M. Wagner vs. Lopez: Tip to Portis,Jump Ball,,0,0,0,0,,,h
+S2223-G0978,1,11:22,ORL,2.0,MIL,2.0,M. Wagner,ORL,M. Wagner 4' Cutting Layup Shot (2 PTS) (Banchero 1 AST),Made Shot,Cutting Layup Shot,32,17,4,1,2.0,2.0,h
+S2223-G0978,1,10:58,ORL,,MIL,,M. Wagner,ORL,M. Wagner OFF.Foul (P1) (J.DeRosa),Foul,Offensive,0,0,0,0,,,h
+S2223-G0978,1,10:58,ORL,,MIL,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0978,1,07:34,ORL,7.0,MIL,11.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Shot (5 PTS) (Suggs 1 AST),Made Shot,Jump Shot,223,115,25,1,3.0,3.0,h
+S2223-G0978,1,07:11,ORL,8.0,MIL,13.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0978,1,07:11,ORL,9.0,MIL,13.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0978,1,06:53,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0978,1,06:09,ORL,14.0,MIL,15.0,M. Wagner,ORL,M. Wagner 26' 3PT Jump Shot (10 PTS) (Fultz 2 AST),Made Shot,Jump Shot,21,263,26,1,3.0,3.0,h
+S2223-G0978,1,05:44,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0978,1,05:26,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0978,1,05:26,ORL,16.0,MIL,15.0,M. Wagner,ORL,M. Wagner Putback Layup (12 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0978,1,04:33,ORL,,MIL,,M. Wagner,ORL,M. Wagner Step Out of Bounds Turnover (P2.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0978,1,03:49,ORL,,MIL,,M. Wagner,ORL,SUB: Bitadze FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0978,2,04:06,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0978,2,03:52,ORL,,MIL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-134,218,26,1,3.0,0.0,h
+S2223-G0978,2,03:01,ORL,,MIL,,M. Wagner,ORL,M. Wagner OFF.Foul (P2) (E.Malloy),Foul,Offensive,0,0,0,0,,,h
+S2223-G0978,2,03:01,ORL,,MIL,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0978,2,00:27.900000,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0978,3,11:26,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0978,3,10:43,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0978,3,10:43,ORL,62.0,MIL,72.0,M. Wagner,ORL,M. Wagner Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0978,3,10:31,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0978,3,10:25,ORL,63.0,MIL,74.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0978,3,10:25,ORL,64.0,MIL,74.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0978,3,10:14,ORL,,MIL,,M. Wagner,ORL,M. Wagner S.FOUL (P3.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0978,3,09:46,ORL,,MIL,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0978,3,05:39,ORL,,MIL,,M. Wagner,ORL,M. Wagner STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0978,3,05:34,ORL,79.0,MIL,89.0,M. Wagner,ORL,M. Wagner 3' Running Layup (18 PTS),Made Shot,Running Layup Shot,25,-8,3,1,2.0,2.0,h
+S2223-G0978,3,04:47,ORL,,MIL,,M. Wagner,ORL,SUB: Bitadze FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0515,1,10:50,DET,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0515,1,09:56,DET,,ORL,,M. Wagner,ORL,MISS M. Wagner 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,77,43,9,1,2.0,0.0,v
+S2223-G0515,1,09:00,DET,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0515,1,08:52,DET,0.0,ORL,9.0,M. Wagner,ORL,M. Wagner 29' 3PT Jump Shot (3 PTS) (F. Wagner 2 AST),Made Shot,Jump Shot,36,284,29,1,3.0,3.0,v
+S2223-G0515,1,08:31,DET,,ORL,,M. Wagner,ORL,M. Wagner Violation:Kicked Ball (J.Butler),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0515,1,06:38,DET,,ORL,,M. Wagner,ORL,MISS M. Wagner 4' Layup,Missed Shot,Layup Shot,-43,9,4,1,2.0,0.0,v
+S2223-G0515,1,06:36,DET,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0515,1,06:09,DET,,ORL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0515,2,06:51,DET,39.0,ORL,37.0,M. Wagner,ORL,M. Wagner 26' 3PT Jump Shot (6 PTS) (F. Wagner 3 AST),Made Shot,Jump Shot,-18,255,26,1,3.0,3.0,v
+S2223-G0515,2,06:15,DET,41.0,ORL,38.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0515,2,06:15,DET,,ORL,,M. Wagner,ORL,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0515,2,05:13,DET,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-22,256,26,1,3.0,0.0,v
+S2223-G0515,2,02:50,DET,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0515,2,00:33.200000,DET,,ORL,,M. Wagner,ORL,M. Wagner FLAGRANT.FOUL.TYPE2 (P1.PN) (N.Buchert),Foul,Flagrant Type 2,0,0,0,0,,,v
+S2223-G0515,2,00:33.200000,DET,,ORL,,M. Wagner,ORL,M. Wagner Ejection:Other,Ejection,Other,0,0,0,0,,,v
+S2223-G0515,2,00:33.200000,DET,,ORL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0738,1,01:05,MIA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0738,2,11:40,MIA,26.0,ORL,33.0,M. Wagner,ORL,M. Wagner 2' Running Layup (2 PTS) (Suggs 1 AST),Made Shot,Running Layup Shot,-20,10,2,1,2.0,2.0,v
+S2223-G0738,2,11:01,MIA,,ORL,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0738,2,10:47,MIA,,ORL,,M. Wagner,ORL,MISS M. Wagner 3PT Jump Shot,Missed Shot,Jump Shot,229,12,0,1,3.0,0.0,v
+S2223-G0738,2,09:07,MIA,,ORL,,M. Wagner,ORL,MISS M. Wagner 4' Layup,Missed Shot,Layup Shot,36,11,4,1,2.0,0.0,v
+S2223-G0738,2,07:30,MIA,32.0,ORL,41.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0738,2,07:30,MIA,32.0,ORL,42.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0738,2,06:46,MIA,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T3) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0738,2,06:46,MIA,,ORL,,M. Wagner,ORL,SUB: Harris FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0738,3,04:11,MIA,,ORL,,M. Wagner,ORL,M. Wagner OFF.Foul (P2) (A.Smith),Foul,Offensive,0,0,0,0,,,v
+S2223-G0738,3,04:11,MIA,,ORL,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0738,3,03:29,MIA,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,92,241,26,1,3.0,0.0,v
+S2223-G0738,3,03:21,MIA,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P3.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0738,3,01:54,MIA,,ORL,,M. Wagner,ORL,M. Wagner L.B.FOUL (P4.T3) (J.Butler),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0738,3,01:24,MIA,73.0,ORL,74.0,M. Wagner,ORL,M. Wagner 5' Driving Layup (6 PTS) (Anthony 1 AST),Made Shot,Driving Layup Shot,-12,45,5,1,2.0,2.0,v
+S2223-G0738,3,01:24,MIA,73.0,ORL,75.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0738,4,11:42,MIA,73.0,ORL,81.0,M. Wagner,ORL,M. Wagner 2' Cutting Dunk Shot (9 PTS) (Suggs 4 AST),Made Shot,Cutting Dunk Shot,-17,17,2,1,2.0,2.0,v
+S2223-G0738,4,10:47,MIA,,ORL,,M. Wagner,ORL,M. Wagner Violation:Kicked Ball (T.Ford),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0738,4,10:40,MIA,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P5.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0738,4,10:10,MIA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0738,4,09:30,MIA,,ORL,,M. Wagner,ORL,M. Wagner Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0738,4,09:21,MIA,,ORL,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0693,1,00:49.400000,WAS,,ORL,,M. Wagner,ORL,M. Wagner Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0693,2,11:48,WAS,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-175,190,26,1,3.0,0.0,v
+S2223-G0693,2,11:04,WAS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0693,2,11:04,WAS,37.0,ORL,28.0,M. Wagner,ORL,M. Wagner 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-10,14,2,1,2.0,2.0,v
+S2223-G0693,2,10:46,WAS,,ORL,,M. Wagner,ORL,MISS M. Wagner 4' Driving Dunk,Missed Shot,Driving Dunk Shot,4,43,4,1,2.0,0.0,v
+S2223-G0693,2,10:42,WAS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0693,2,09:51,WAS,,ORL,,M. Wagner,ORL,MISS M. Wagner 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-126,243,27,1,3.0,0.0,v
+S2223-G0693,2,09:03,WAS,,ORL,,M. Wagner,ORL,SUB: Fultz FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0693,4,00:15.700000,WAS,138.0,ORL,118.0,M. Wagner,ORL,M. Wagner 2' Driving Dunk (4 PTS) (Bamba 2 AST),Made Shot,Driving Dunk Shot,2,22,2,1,2.0,2.0,v
+S2223-G1169,2,07:36,ORL,,DET,,M. Wagner,ORL,M. Wagner BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1169,2,07:13,ORL,,DET,,M. Wagner,ORL,MAGIC T.Foul (Def. 3 Sec M. Wagner ) (D.Richardson),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G1169,2,05:51,ORL,,DET,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G1169,4,07:20,ORL,105.0,DET,82.0,M. Wagner,ORL,M. Wagner 5' Hook Shot (2 PTS) (Bitadze 3 AST),Made Shot,Hook Shot,-4,52,5,1,2.0,2.0,h
+S2223-G1169,4,07:20,ORL,106.0,DET,82.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1169,4,06:35,ORL,,DET,,M. Wagner,ORL,M. Wagner Out of Bounds Lost Ball Turnover (P1.T14),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1169,4,05:39,ORL,,DET,,M. Wagner,ORL,M. Wagner S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G1169,4,05:21,ORL,111.0,DET,88.0,M. Wagner,ORL,M. Wagner 3PT Jump Shot (6 PTS) (Houstan 1 AST),Made Shot,Jump Shot,-230,-1,0,1,3.0,3.0,h
+S2223-G1169,4,03:32,ORL,117.0,DET,92.0,M. Wagner,ORL,M. Wagner 4' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,-33,26,4,1,2.0,2.0,h
+S2223-G1169,4,03:32,ORL,118.0,DET,92.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1169,4,02:18,ORL,122.0,DET,96.0,M. Wagner,ORL,M. Wagner 3' Cutting Dunk Shot (11 PTS) (Houstan 2 AST),Made Shot,Cutting Dunk Shot,-5,34,3,1,2.0,2.0,h
+S2223-G1169,4,01:47,ORL,,DET,,M. Wagner,ORL,SUB: Carter-Williams FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0353,1,11:41,ORL,,MIL,,M. Wagner,ORL,M. Wagner Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0353,1,10:35,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,1,10:16,ORL,,MIL,,M. Wagner,ORL,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,137,230,27,1,3.0,0.0,h
+S2223-G0353,1,10:04,ORL,,MIL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-135,225,26,1,3.0,0.0,h
+S2223-G0353,1,08:59,ORL,10.0,MIL,5.0,M. Wagner,ORL,M. Wagner 3' Cutting Layup Shot (2 PTS) (Fultz 2 AST),Made Shot,Cutting Layup Shot,-5,32,3,1,2.0,2.0,h
+S2223-G0353,1,08:59,ORL,11.0,MIL,5.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0353,1,08:08,ORL,,MIL,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0353,1,07:59,ORL,13.0,MIL,7.0,M. Wagner,ORL,M. Wagner 2' Cutting Layup Shot (5 PTS) (F. Wagner 2 AST),Made Shot,Cutting Layup Shot,7,15,2,1,2.0,2.0,h
+S2223-G0353,1,05:08,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,1,04:54,ORL,17.0,MIL,14.0,M. Wagner,ORL,M. Wagner 1' Reverse Layup (7 PTS) (Banchero 1 AST),Made Shot,Reverse Layup Shot,5,12,1,1,2.0,2.0,h
+S2223-G0353,1,03:42,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,1,03:21,ORL,21.0,MIL,16.0,M. Wagner,ORL,M. Wagner 2' Cutting Layup Shot (9 PTS) (Banchero 3 AST),Made Shot,Cutting Layup Shot,17,12,2,1,2.0,2.0,h
+S2223-G0353,1,03:01,ORL,,MIL,,M. Wagner,ORL,M. Wagner OFF.Foul (P1) (N.Green),Foul,Offensive,0,0,0,0,,,h
+S2223-G0353,1,03:01,ORL,,MIL,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0353,1,03:01,ORL,,MIL,,M. Wagner,ORL,SUB: Ross FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0353,2,09:36,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,2,07:51,ORL,27.0,MIL,39.0,M. Wagner,ORL,M. Wagner 4' Driving Floating Jump Shot (11 PTS) (Anthony 1 AST),Made Shot,Driving Floating Jump Shot,10,37,4,1,2.0,2.0,h
+S2223-G0353,2,06:54,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,2,06:40,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,2,06:26,ORL,,MIL,,M. Wagner,ORL,SUB: Bol FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0353,3,09:36,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,3,09:36,ORL,54.0,MIL,65.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0353,3,09:36,ORL,55.0,MIL,65.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0353,3,08:34,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,3,08:25,ORL,,MIL,,M. Wagner,ORL,M. Wagner S.FOUL (P2.T4) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0353,3,06:17,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,3,06:17,ORL,,MIL,,M. Wagner,ORL,MISS M. Wagner Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0353,3,06:12,ORL,,MIL,,M. Wagner,ORL,SUB: Schofield FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0353,3,02:22,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,3,01:59,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,3,01:52,ORL,,MIL,,M. Wagner,ORL,M. Wagner P.FOUL (P3.PN) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2223-G0353,4,11:37,ORL,74.0,MIL,88.0,M. Wagner,ORL,M. Wagner 1' Layup (15 PTS) (Ross 2 AST),Made Shot,Layup Shot,6,6,1,1,2.0,2.0,h
+S2223-G0353,4,07:46,ORL,,MIL,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,4,07:05,ORL,86.0,MIL,96.0,M. Wagner,ORL,M. Wagner 1' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,-6,5,1,1,2.0,2.0,h
+S2223-G0353,4,06:23,ORL,,MIL,,M. Wagner,ORL,M. Wagner L.B.FOUL (P4.T2) (E.Dalen),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0353,4,05:22,ORL,,MIL,,M. Wagner,ORL,M. Wagner P.FOUL (P5.T3) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2223-G0353,4,02:51,ORL,93.0,MIL,101.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0353,4,02:51,ORL,94.0,MIL,101.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0353,4,02:00,ORL,,MIL,,M. Wagner,ORL,M. Wagner S.FOUL (P6.T4) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0353,4,02:00,ORL,,MIL,,M. Wagner,ORL,SUB: Houstan FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G1077,1,01:40,ORL,21.0,WAS,25.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1077,1,01:40,ORL,22.0,WAS,25.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1077,1,01:04,ORL,24.0,WAS,25.0,M. Wagner,ORL,M. Wagner 1' Driving Dunk (4 PTS) (Banchero 3 AST),Made Shot,Driving Dunk Shot,2,7,1,1,2.0,2.0,h
+S2223-G1077,1,00:02,ORL,26.0,WAS,25.0,M. Wagner,ORL,M. Wagner Cutting Dunk Shot (6 PTS) (Banchero 4 AST),Made Shot,Cutting Dunk Shot,-1,1,0,1,2.0,2.0,h
+S2223-G1077,2,11:45,ORL,29.0,WAS,25.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Shot (9 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,7,252,25,1,3.0,3.0,h
+S2223-G1077,2,11:01,ORL,31.0,WAS,25.0,M. Wagner,ORL,M. Wagner 2' Cutting Dunk Shot (11 PTS) (Houstan 1 AST),Made Shot,Cutting Dunk Shot,5,16,2,1,2.0,2.0,h
+S2223-G1077,2,10:40,ORL,,WAS,,M. Wagner,ORL,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,44,263,27,1,3.0,0.0,h
+S2223-G1077,2,10:14,ORL,,WAS,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1077,2,10:14,ORL,,WAS,,M. Wagner,ORL,MISS M. Wagner 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,4,7,1,1,2.0,0.0,h
+S2223-G1077,2,09:01,ORL,,WAS,,M. Wagner,ORL,MISS M. Wagner 4' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,20,34,4,1,2.0,0.0,h
+S2223-G1077,2,08:28,ORL,,WAS,,M. Wagner,ORL,MISS M. Wagner 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,7,10,1,1,2.0,0.0,h
+S2223-G1077,2,08:22,ORL,,WAS,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G1077,4,11:36,ORL,88.0,WAS,91.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1077,4,11:36,ORL,89.0,WAS,91.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1077,4,10:43,ORL,,WAS,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1077,4,10:19,ORL,,WAS,,M. Wagner,ORL,M. Wagner Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1077,4,10:19,ORL,,WAS,,M. Wagner,ORL,M. Wagner L.B.FOUL (P1.T1) (J.Goble),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1077,4,09:07,ORL,,WAS,,M. Wagner,ORL,MISS M. Wagner 3' Driving Layup,Missed Shot,Driving Layup Shot,-27,14,3,1,2.0,0.0,h
+S2223-G1077,4,07:46,ORL,99.0,WAS,94.0,M. Wagner,ORL,M. Wagner 3' Cutting Layup Shot (15 PTS) (Fultz 5 AST),Made Shot,Cutting Layup Shot,23,21,3,1,2.0,2.0,h
+S2223-G1077,4,06:50,ORL,,WAS,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1077,4,06:08,ORL,,WAS,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0922,1,10:00,NOP,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0922,1,09:48,NOP,7.0,ORL,7.0,M. Wagner,ORL,M. Wagner 2' Driving Layup (2 PTS) (F. Wagner 1 AST),Made Shot,Driving Layup Shot,17,0,2,1,2.0,2.0,v
+S2223-G0922,1,09:24,NOP,7.0,ORL,10.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Shot (5 PTS) (Fultz 1 AST),Made Shot,Jump Shot,-189,169,25,1,3.0,3.0,v
+S2223-G0922,1,08:27,NOP,,ORL,,M. Wagner,ORL,MISS M. Wagner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0922,1,08:27,NOP,9.0,ORL,13.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0922,1,07:37,NOP,,ORL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-65,243,25,1,3.0,0.0,v
+S2223-G0922,1,07:18,NOP,,ORL,,M. Wagner,ORL,M. Wagner Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0922,1,06:02,NOP,15.0,ORL,19.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0922,1,06:02,NOP,,ORL,,M. Wagner,ORL,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0922,1,05:02,NOP,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0922,1,04:53,NOP,,ORL,,M. Wagner,ORL,M. Wagner 3 Second Violation Turnover (P2.T4),Turnover,3 Second Violation,0,0,0,0,,,v
+S2223-G0922,1,04:13,NOP,,ORL,,M. Wagner,ORL,Magic T.Foul (Def. 3 Sec M. Wagner ) (C.Washington),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0922,1,02:58,NOP,19.0,ORL,27.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0922,1,02:58,NOP,19.0,ORL,28.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0922,1,01:23,NOP,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0922,2,10:10,NOP,,ORL,,M. Wagner,ORL,MISS M. Wagner 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-34,55,6,1,2.0,0.0,v
+S2223-G0922,2,09:34,NOP,32.0,ORL,40.0,M. Wagner,ORL,M. Wagner 3' Driving Layup (11 PTS) (Anthony 1 AST),Made Shot,Driving Layup Shot,-25,-2,3,1,2.0,2.0,v
+S2223-G0922,2,08:39,NOP,,ORL,,M. Wagner,ORL,M. Wagner Traveling Turnover (P3.T5),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0922,2,08:24,NOP,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0922,2,07:02,NOP,,ORL,,M. Wagner,ORL,SUB: Harris FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0922,2,00:42.200000,NOP,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P2.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0922,2,00:18.900000,NOP,,ORL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-121,218,25,1,3.0,0.0,v
+S2223-G0922,4,10:20,NOP,76.0,ORL,82.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Bank Shot (14 PTS) (Anthony 2 AST),Made Shot,Jump Bank Shot,-148,207,25,1,3.0,3.0,v
+S2223-G0922,4,09:13,NOP,,ORL,,M. Wagner,ORL,MISS M. Wagner 2' Driving Layup,Missed Shot,Driving Layup Shot,18,11,2,1,2.0,0.0,v
+S2223-G0922,4,07:45,NOP,,ORL,,M. Wagner,ORL,MISS M. Wagner 2' Driving Layup,Missed Shot,Driving Layup Shot,-17,-3,2,1,2.0,0.0,v
+S2223-G0922,4,07:29,NOP,,ORL,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0888,1,02:14,ORL,24.0,DET,22.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0888,1,02:14,ORL,25.0,DET,22.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0888,1,02:01,ORL,,DET,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0888,1,01:53,ORL,,DET,,M. Wagner,ORL,M. Wagner Offensive Charge Foul (P1) (J.Goble),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0888,1,01:53,ORL,,DET,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0888,1,00:32.900000,ORL,,DET,,M. Wagner,ORL,MISS M. Wagner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0888,1,00:32.900000,ORL,28.0,DET,26.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0888,2,11:38,ORL,,DET,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0888,2,08:52,ORL,32.0,DET,32.0,M. Wagner,ORL,M. Wagner 2' Cutting Dunk Shot (5 PTS) (Anthony 2 AST),Made Shot,Cutting Dunk Shot,1,16,2,1,2.0,2.0,h
+S2223-G0888,2,08:15,ORL,34.0,DET,32.0,M. Wagner,ORL,M. Wagner 3' Cutting Layup Shot (7 PTS) (Anthony 3 AST),Made Shot,Cutting Layup Shot,18,22,3,1,2.0,2.0,h
+S2223-G0888,2,07:34,ORL,,DET,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0888,4,09:20,ORL,,DET,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-32,250,25,1,3.0,0.0,h
+S2223-G0888,4,08:12,ORL,87.0,DET,88.0,M. Wagner,ORL,M. Wagner 2' Cutting Layup Shot (9 PTS) (F. Wagner 1 AST),Made Shot,Cutting Layup Shot,-11,13,2,1,2.0,2.0,h
+S2223-G0888,4,07:14,ORL,,DET,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0430,1,10:32,BOS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0430,1,10:25,BOS,,ORL,,M. Wagner,ORL,MISS M. Wagner 5' Driving Layup,Missed Shot,Driving Layup Shot,-36,30,5,1,2.0,0.0,v
+S2223-G0430,1,08:56,BOS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0430,1,08:55,BOS,,ORL,,M. Wagner,ORL,MISS M. Wagner 5' Putback Layup,Missed Shot,Putback Layup Shot,-28,36,5,1,2.0,0.0,v
+S2223-G0430,1,08:54,BOS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0430,1,08:54,BOS,,ORL,,M. Wagner,ORL,M. Wagner Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0430,1,08:19,BOS,,ORL,,M. Wagner,ORL,MISS M. Wagner 28' 3PT Jump Shot,Missed Shot,Jump Shot,-60,272,28,1,3.0,0.0,v
+S2223-G0430,1,07:50,BOS,14.0,ORL,6.0,M. Wagner,ORL,M. Wagner 3' Dunk (2 PTS) (Fultz 1 AST),Made Shot,Dunk Shot,-2,30,3,1,2.0,2.0,v
+S2223-G0430,1,07:50,BOS,14.0,ORL,7.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0430,1,06:52,BOS,17.0,ORL,10.0,M. Wagner,ORL,M. Wagner 26' 3PT Jump Shot (6 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,165,199,26,1,3.0,3.0,v
+S2223-G0430,1,04:41,BOS,,ORL,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0430,1,04:37,BOS,19.0,ORL,14.0,M. Wagner,ORL,M. Wagner 3' Running Layup (8 PTS),Made Shot,Running Layup Shot,4,25,3,1,2.0,2.0,v
+S2223-G0430,1,03:02,BOS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0430,1,02:56,BOS,,ORL,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0430,2,04:11,BOS,43.0,ORL,51.0,M. Wagner,ORL,M. Wagner 7' Driving Layup (10 PTS) (Banchero 1 AST),Made Shot,Driving Layup Shot,58,40,7,1,2.0,2.0,v
+S2223-G0430,2,04:11,BOS,43.0,ORL,52.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0430,2,03:10,BOS,,ORL,,M. Wagner,ORL,M. Wagner L.B.FOUL (P1.PN) (J.Williams),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0430,2,01:16,BOS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0430,2,00:31.600000,BOS,54.0,ORL,62.0,M. Wagner,ORL,M. Wagner 4' Cutting Dunk Shot (13 PTS) (Banchero 2 AST),Made Shot,Cutting Dunk Shot,0,38,4,1,2.0,2.0,v
+S2223-G0430,2,00:15.500000,BOS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0430,3,11:44,BOS,54.0,ORL,64.0,M. Wagner,ORL,M. Wagner 1' Cutting Dunk Shot (15 PTS) (F. Wagner 2 AST),Made Shot,Cutting Dunk Shot,5,5,1,1,2.0,2.0,v
+S2223-G0430,3,10:39,BOS,,ORL,,M. Wagner,ORL,M. Wagner AWAY.FROM.PLAY.FOUL (P2.T3) (J.DeRosa),Foul,Away From Play,0,0,0,0,,,v
+S2223-G0430,3,10:39,BOS,56.0,ORL,67.0,M. Wagner,ORL,M. Wagner Free Throw Flagrant 1 of 2 (16 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0430,3,10:39,BOS,56.0,ORL,68.0,M. Wagner,ORL,M. Wagner Free Throw Flagrant 2 of 2 (17 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0430,3,09:46,BOS,56.0,ORL,71.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0430,3,09:46,BOS,56.0,ORL,73.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0430,3,06:55,BOS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0430,3,06:54,BOS,63.0,ORL,77.0,M. Wagner,ORL,M. Wagner 1' Putback Layup (21 PTS),Made Shot,Putback Layup Shot,-5,8,1,1,2.0,2.0,v
+S2223-G0430,3,06:24,BOS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0430,3,05:51,BOS,,ORL,,M. Wagner,ORL,M. Wagner Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0430,3,04:14,BOS,,ORL,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0430,4,01:20,BOS,102.0,ORL,115.0,M. Wagner,ORL,M. Wagner 1' Cutting Dunk Shot (23 PTS) (Banchero 5 AST),Made Shot,Cutting Dunk Shot,5,12,1,1,2.0,2.0,v
+S2223-G0430,4,00:26.600000,BOS,108.0,ORL,117.0,M. Wagner,ORL,M. Wagner 1' Driving Dunk (25 PTS) (Anthony 3 AST),Made Shot,Driving Dunk Shot,-4,5,1,1,2.0,2.0,v
+S2223-G1046,2,08:53,PHX,39.0,ORL,41.0,M. Wagner,ORL,M. Wagner Driving Layup (2 PTS) (Bol 1 AST),Made Shot,Driving Layup Shot,-1,-1,0,1,2.0,2.0,v
+S2223-G1046,2,08:31,PHX,,ORL,,M. Wagner,ORL,MISS M. Wagner Layup,Missed Shot,Layup Shot,-2,0,0,1,2.0,0.0,v
+S2223-G1046,2,07:53,PHX,,ORL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G1007,1,03:29,ORL,,MIA,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1007,1,03:06,ORL,,MIA,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1007,1,01:10,ORL,34.0,MIA,22.0,M. Wagner,ORL,M. Wagner 3PT Jump Shot (3 PTS) (Banchero 3 AST),Made Shot,Jump Shot,234,16,0,1,3.0,3.0,h
+S2223-G1007,1,00:35.200000,ORL,,MIA,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1007,1,00:34.600000,ORL,,MIA,,M. Wagner,ORL,MISS M. Wagner 3' Putback Layup,Missed Shot,Putback Layup Shot,17,20,3,1,2.0,0.0,h
+S2223-G1007,2,11:29,ORL,,MIA,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-12,260,26,1,3.0,0.0,h
+S2223-G1007,2,11:05,ORL,,MIA,,M. Wagner,ORL,MISS M. Wagner 4' Driving Layup,Missed Shot,Driving Layup Shot,11,34,4,1,2.0,0.0,h
+S2223-G1007,2,10:56,ORL,,MIA,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1007,2,10:40,ORL,,MIA,,M. Wagner,ORL,MAGIC T.Foul (Def. 3 Sec M. Wagner ) (B.Schwab),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G1007,2,10:18,ORL,36.0,MIA,31.0,M. Wagner,ORL,M. Wagner 1' Driving Dunk (5 PTS) (F. Wagner 2 AST),Made Shot,Driving Dunk Shot,10,8,1,1,2.0,2.0,h
+S2223-G1007,2,09:21,ORL,,MIA,,M. Wagner,ORL,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,138,236,27,1,3.0,0.0,h
+S2223-G1007,2,08:33,ORL,,MIA,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G1007,3,05:01,ORL,,MIA,,M. Wagner,ORL,M. Wagner L.B.FOUL (P1.T3) (B.Schwab),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1007,3,02:03,ORL,78.0,MIA,76.0,M. Wagner,ORL,M. Wagner 4' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,33,13,4,1,2.0,2.0,h
+S2223-G1007,3,02:03,ORL,79.0,MIA,76.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1007,3,01:46,ORL,,MIA,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1007,3,01:39,ORL,,MIA,,M. Wagner,ORL,MISS M. Wagner 3PT Jump Shot,Missed Shot,Jump Shot,-228,11,0,1,3.0,0.0,h
+S2223-G1007,3,01:35,ORL,,MIA,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0616,1,00:47.200000,POR,20.0,ORL,31.0,M. Wagner,ORL,M. Wagner 28' 3PT Jump Shot (3 PTS) (Suggs 2 AST),Made Shot,Jump Shot,124,251,28,1,3.0,3.0,v
+S2223-G0616,2,09:40,POR,,ORL,,M. Wagner,ORL,MISS M. Wagner 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-5,17,2,1,2.0,0.0,v
+S2223-G0616,2,09:39,POR,,ORL,,M. Wagner,ORL,M. Wagner Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0616,2,09:21,POR,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0616,2,07:50,POR,,ORL,,M. Wagner,ORL,M. Wagner Traveling Turnover (P2.T6),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0616,2,07:45,POR,,ORL,,M. Wagner,ORL,M. Wagner P.FOUL (P2.T3) (M.Dagher),Foul,Personal,0,0,0,0,,,v
+S2223-G0616,2,07:19,POR,,ORL,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0616,2,02:30,POR,40.0,ORL,45.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Shot (6 PTS) (Fultz 2 AST),Made Shot,Jump Shot,1,246,25,1,3.0,3.0,v
+S2223-G0616,2,01:56,POR,42.0,ORL,47.0,M. Wagner,ORL,M. Wagner 2' Cutting Layup Shot (8 PTS) (Anthony 1 AST),Made Shot,Cutting Layup Shot,13,8,2,1,2.0,2.0,v
+S2223-G0616,2,01:18,POR,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P3.PN) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0616,2,00:49.900000,POR,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0616,3,04:09,POR,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0616,3,00:29.100000,POR,70.0,ORL,82.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Shot (11 PTS) (Fultz 6 AST),Made Shot,Jump Shot,98,231,25,1,3.0,3.0,v
+S2223-G0616,3,00:11.600000,POR,,ORL,,M. Wagner,ORL,M. Wagner P.FOUL (P4.T3) (M.Dagher),Foul,Personal,0,0,0,0,,,v
+S2223-G0616,4,10:29,POR,,ORL,,M. Wagner,ORL,MISS M. Wagner 3' Driving Dunk,Missed Shot,Driving Dunk Shot,10,23,3,1,2.0,0.0,v
+S2223-G0616,4,10:07,POR,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-26,262,26,1,3.0,0.0,v
+S2223-G0616,4,10:02,POR,,ORL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0790,1,02:11,MIN,27.0,ORL,18.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0790,1,02:11,MIN,27.0,ORL,19.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0790,1,01:16,MIN,30.0,ORL,23.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Shot (5 PTS) (Anthony 1 AST),Made Shot,Jump Shot,113,225,25,1,3.0,3.0,v
+S2223-G0790,1,00:55.100000,MIN,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T4) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0790,1,00:44.300000,MIN,32.0,ORL,24.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0790,1,00:44.300000,MIN,32.0,ORL,25.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0790,2,10:17,MIN,37.0,ORL,31.0,M. Wagner,ORL,M. Wagner 3' Cutting Layup Shot (9 PTS) (Suggs 2 AST),Made Shot,Cutting Layup Shot,-9,26,3,1,2.0,2.0,v
+S2223-G0790,2,10:17,MIN,,ORL,,M. Wagner,ORL,MISS M. Wagner Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0790,2,09:48,MIN,37.0,ORL,32.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0790,2,09:48,MIN,37.0,ORL,33.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0790,2,07:16,MIN,43.0,ORL,41.0,M. Wagner,ORL,M. Wagner 2' Cutting Layup Shot (13 PTS) (Suggs 3 AST),Made Shot,Cutting Layup Shot,15,11,2,1,2.0,2.0,v
+S2223-G0790,2,05:28,MIN,,ORL,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0790,3,06:16,MIN,,ORL,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0790,3,02:42,MIN,,ORL,,M. Wagner,ORL,MISS M. Wagner 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,4,22,2,1,2.0,0.0,v
+S2223-G0790,3,01:36,MIN,,ORL,,M. Wagner,ORL,MISS M. Wagner 1' Layup,Missed Shot,Layup Shot,10,9,1,1,2.0,0.0,v
+S2223-G0790,3,01:21,MIN,,ORL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-65,245,25,1,3.0,0.0,v
+S2223-G0790,4,10:19,MIN,77.0,ORL,96.0,M. Wagner,ORL,M. Wagner 2' Dunk (15 PTS) (F. Wagner 4 AST),Made Shot,Dunk Shot,5,19,2,1,2.0,2.0,v
+S2223-G0790,4,09:53,MIN,77.0,ORL,98.0,M. Wagner,ORL,M. Wagner 7' Floating Jump Shot (17 PTS),Made Shot,Floating Jump shot,4,66,7,1,2.0,2.0,v
+S2223-G0790,4,08:15,MIN,83.0,ORL,104.0,M. Wagner,ORL,M. Wagner 3' Layup (19 PTS) (Anthony 5 AST),Made Shot,Layup Shot,6,32,3,1,2.0,2.0,v
+S2223-G0790,4,07:11,MIN,,ORL,,M. Wagner,ORL,MISS M. Wagner 3' Layup,Missed Shot,Layup Shot,5,25,3,1,2.0,0.0,v
+S2223-G0790,4,05:47,MIN,,ORL,,M. Wagner,ORL,SUB: Fultz FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0905,1,05:46,ORL,,IND,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0905,1,04:10,ORL,17.0,IND,13.0,M. Wagner,ORL,M. Wagner 2' Layup (2 PTS) (Suggs 1 AST),Made Shot,Layup Shot,-23,-4,2,1,2.0,2.0,h
+S2223-G0905,1,03:53,ORL,,IND,,M. Wagner,ORL,M. Wagner P.FOUL (P1.T4) (L.Wood),Foul,Personal,0,0,0,0,,,h
+S2223-G0905,1,01:56,ORL,,IND,,M. Wagner,ORL,MISS M. Wagner 3' Driving Layup,Missed Shot,Driving Layup Shot,26,19,3,1,2.0,0.0,h
+S2223-G0905,1,00:01.700000,ORL,25.0,IND,27.0,M. Wagner,ORL,M. Wagner 1' Cutting Dunk Shot (4 PTS) (Anthony 1 AST),Made Shot,Cutting Dunk Shot,7,5,1,1,2.0,2.0,h
+S2223-G0905,2,11:23,ORL,27.0,IND,27.0,M. Wagner,ORL,M. Wagner 2' Cutting Layup Shot (6 PTS) (Anthony 2 AST),Made Shot,Cutting Layup Shot,-18,10,2,1,2.0,2.0,h
+S2223-G0905,2,10:59,ORL,29.0,IND,27.0,M. Wagner,ORL,M. Wagner 2' Layup (8 PTS) (Anthony 3 AST),Made Shot,Layup Shot,12,15,2,1,2.0,2.0,h
+S2223-G0905,2,08:08,ORL,,IND,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0905,2,07:07,ORL,,IND,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0905,2,06:15,ORL,,IND,,M. Wagner,ORL,SUB: Bitadze FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0905,3,03:36,ORL,,IND,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0905,3,03:31,ORL,,IND,,M. Wagner,ORL,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,-97,247,27,1,3.0,0.0,h
+S2223-G0905,4,10:42,ORL,,IND,,M. Wagner,ORL,M. Wagner S.FOUL (P2.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0905,4,09:47,ORL,,IND,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,126,212,25,1,3.0,0.0,h
+S2223-G0905,4,09:42,ORL,,IND,,M. Wagner,ORL,MISS M. Wagner 17' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,147,85,17,1,2.0,0.0,h
+S2223-G0905,4,08:39,ORL,,IND,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G1093,1,01:15,ORL,,NYK,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1093,1,01:04,ORL,,NYK,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1093,1,00:52.400000,ORL,21.0,NYK,20.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1093,1,00:52.400000,ORL,22.0,NYK,20.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1093,2,11:32,ORL,,NYK,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1093,2,10:09,ORL,,NYK,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1093,2,10:09,ORL,31.0,NYK,27.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1093,2,10:09,ORL,32.0,NYK,27.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1093,2,09:15,ORL,37.0,NYK,27.0,M. Wagner,ORL,M. Wagner 1' Cutting Dunk Shot (6 PTS) (F. Wagner 4 AST),Made Shot,Cutting Dunk Shot,-5,1,1,1,2.0,2.0,h
+S2223-G1093,2,08:28,ORL,,NYK,,M. Wagner,ORL,MISS M. Wagner 24' 3PT Jump Shot,Missed Shot,Jump Shot,15,243,24,1,3.0,0.0,h
+S2223-G1093,2,08:05,ORL,40.0,NYK,27.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1093,2,08:05,ORL,41.0,NYK,27.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1093,2,07:37,ORL,,NYK,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-179,172,25,1,3.0,0.0,h
+S2223-G1093,2,06:59,ORL,,NYK,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G1093,3,03:45,ORL,,NYK,,M. Wagner,ORL,MISS M. Wagner 2' Driving Layup,Missed Shot,Driving Layup Shot,23,6,2,1,2.0,0.0,h
+S2223-G1093,3,02:18,ORL,,NYK,,M. Wagner,ORL,M. Wagner Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1093,3,01:28,ORL,,NYK,,M. Wagner,ORL,M. Wagner Out of Bounds - Bad Pass Turnover Turnover (P2.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1093,3,00:32.500000,ORL,,NYK,,M. Wagner,ORL,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,-6,274,27,1,3.0,0.0,h
+S2223-G1093,3,00:27.500000,ORL,,NYK,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1093,4,10:43,ORL,,NYK,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1093,4,08:32,ORL,86.0,NYK,80.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1093,4,08:32,ORL,,NYK,,M. Wagner,ORL,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1093,4,08:13,ORL,88.0,NYK,80.0,M. Wagner,ORL,M. Wagner 2' Running Dunk (11 PTS) (F. Wagner 6 AST),Made Shot,Running Dunk Shot,10,22,2,1,2.0,2.0,h
+S2223-G1093,4,07:13,ORL,,NYK,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1093,4,07:00,ORL,,NYK,,M. Wagner,ORL,M. Wagner Traveling Turnover (P3.T13),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1093,4,07:00,ORL,,NYK,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G1197,1,11:38,ORL,,CLE,,M. Wagner,ORL,Wagner Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1197,1,11:01,ORL,,CLE,,M. Wagner,ORL,Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1197,1,10:51,ORL,,CLE,,M. Wagner,ORL,MISS Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,25,245,25,1,3.0,0.0,h
+S2223-G1197,1,09:44,ORL,,CLE,,M. Wagner,ORL,Wagner S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G1197,1,07:07,ORL,,CLE,,M. Wagner,ORL,MISS Wagner 3' Driving Dunk,Missed Shot,Driving Dunk Shot,-27,17,3,1,2.0,0.0,h
+S2223-G1197,1,05:54,ORL,,CLE,,M. Wagner,ORL,SUB: Bitadze FOR Wagner,Substitution,,0,0,0,0,,,h
+S2223-G1197,2,05:53,ORL,,CLE,,M. Wagner,ORL,MISS Wagner 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-12,0,1,1,2.0,0.0,h
+S2223-G1197,2,05:31,ORL,,CLE,,M. Wagner,ORL,MISS Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-148,200,25,1,3.0,0.0,h
+S2223-G1197,2,05:05,ORL,50.0,CLE,49.0,M. Wagner,ORL,Wagner 1' Cutting Layup Shot (2 PTS) (Houstan 1 AST),Made Shot,Cutting Layup Shot,7,6,1,1,2.0,2.0,h
+S2223-G1197,2,03:14,ORL,,CLE,,M. Wagner,ORL,Wagner Offensive Charge Foul (P2) (M.Lindsay),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1197,2,03:14,ORL,,CLE,,M. Wagner,ORL,Wagner Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1197,3,11:08,ORL,,CLE,,M. Wagner,ORL,Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1197,3,10:28,ORL,,CLE,,M. Wagner,ORL,Wagner Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1197,3,09:56,ORL,,CLE,,M. Wagner,ORL,Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1197,3,09:40,ORL,,CLE,,M. Wagner,ORL,Wagner BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1197,3,09:23,ORL,,CLE,,M. Wagner,ORL,MISS Wagner 20' Jump Shot,Missed Shot,Jump Shot,113,163,20,1,2.0,0.0,h
+S2223-G1197,3,08:53,ORL,,CLE,,M. Wagner,ORL,MISS Wagner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1197,3,08:53,ORL,58.0,CLE,77.0,M. Wagner,ORL,Wagner Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1197,3,08:27,ORL,,CLE,,M. Wagner,ORL,MISS Wagner 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-228,38,0,1,3.0,0.0,h
+S2223-G1197,3,07:28,ORL,63.0,CLE,80.0,M. Wagner,ORL,Wagner 24' 3PT Jump Shot (6 PTS) (Okeke 3 AST),Made Shot,Jump Shot,-235,3,24,1,3.0,3.0,h
+S2223-G1197,3,07:12,ORL,,CLE,,M. Wagner,ORL,Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1197,3,07:11,ORL,,CLE,,M. Wagner,ORL,Wagner P.FOUL (P3.T1) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2223-G1197,3,06:09,ORL,,CLE,,M. Wagner,ORL,SUB: Bitadze FOR Wagner,Substitution,,0,0,0,0,,,h
+S2223-G1197,4,07:13,ORL,81.0,CLE,105.0,M. Wagner,ORL,Wagner 26' 3PT Jump Shot (9 PTS) (Houstan 2 AST),Made Shot,Jump Shot,-74,249,26,1,3.0,3.0,h
+S2223-G1197,4,06:39,ORL,,CLE,,M. Wagner,ORL,MISS Wagner 5' Layup,Missed Shot,Layup Shot,10,46,5,1,2.0,0.0,h
+S2223-G1197,4,06:34,ORL,,CLE,,M. Wagner,ORL,MISS Wagner 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,21,32,4,1,2.0,0.0,h
+S2223-G1197,4,06:16,ORL,,CLE,,M. Wagner,ORL,SUB: Bol FOR Wagner,Substitution,,0,0,0,0,,,h
+S2223-G1178,1,00:44.900000,ORL,,CLE,,M. Wagner,ORL,M. Wagner L.B.FOUL (P1.T4) (J.Conley),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1178,1,00:32.800000,ORL,,CLE,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1178,2,11:31,ORL,,CLE,,M. Wagner,ORL,M. Wagner S.FOUL (P2.T1) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2223-G1178,2,10:46,ORL,,CLE,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1178,2,09:59,ORL,,CLE,,M. Wagner,ORL,MISS M. Wagner 3PT Jump Shot,Missed Shot,Jump Shot,-225,3,0,1,3.0,0.0,h
+S2223-G1178,2,06:57,ORL,,CLE,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G1178,4,10:02,ORL,,CLE,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1178,4,09:02,ORL,,CLE,,M. Wagner,ORL,M. Wagner P.FOUL (P3.T1) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2223-G1178,4,08:22,ORL,,CLE,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1178,4,07:56,ORL,,CLE,,M. Wagner,ORL,SUB: Fultz FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0505,1,10:42,ORL,,LAL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0505,1,10:35,ORL,,LAL,,M. Wagner,ORL,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,108,247,27,1,3.0,0.0,h
+S2223-G0505,1,10:27,ORL,,LAL,,M. Wagner,ORL,M. Wagner L.B.FOUL (P1.T1) (B.Barnaky),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0505,1,09:16,ORL,,LAL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0505,1,09:16,ORL,,LAL,,M. Wagner,ORL,MISS M. Wagner Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0505,1,09:09,ORL,,LAL,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0505,1,08:59,ORL,,LAL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0505,1,07:08,ORL,,LAL,,M. Wagner,ORL,M. Wagner STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0505,1,05:40,ORL,13.0,LAL,16.0,M. Wagner,ORL,M. Wagner 3' Layup (2 PTS) (Fultz 1 AST),Made Shot,Layup Shot,-18,21,3,1,2.0,2.0,h
+S2223-G0505,1,05:19,ORL,,LAL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0505,2,09:17,ORL,,LAL,,M. Wagner,ORL,MISS M. Wagner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0505,2,09:17,ORL,32.0,LAL,39.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0505,2,07:30,ORL,,LAL,,M. Wagner,ORL,M. Wagner P.FOUL (P2.T2) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2223-G0505,2,06:59,ORL,,LAL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0505,2,06:51,ORL,,LAL,,M. Wagner,ORL,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,-33,267,27,1,3.0,0.0,h
+S2223-G0505,2,06:44,ORL,,LAL,,M. Wagner,ORL,M. Wagner P.FOUL (P3.T3) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2223-G0505,2,06:44,ORL,,LAL,,M. Wagner,ORL,SUB: Bol FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0505,3,11:44,ORL,57.0,LAL,65.0,M. Wagner,ORL,M. Wagner 19' Jump Shot (5 PTS),Made Shot,Jump Shot,143,129,19,1,2.0,2.0,h
+S2223-G0505,3,10:05,ORL,,LAL,,M. Wagner,ORL,M. Wagner Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0505,3,06:43,ORL,,LAL,,M. Wagner,ORL,M. Wagner S.FOUL (P4.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0505,3,06:43,ORL,,LAL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0505,4,07:07,ORL,96.0,LAL,107.0,M. Wagner,ORL,M. Wagner 1' Cutting Dunk Shot (7 PTS) (Ross 1 AST),Made Shot,Cutting Dunk Shot,-5,-1,1,1,2.0,2.0,h
+S2223-G0505,4,05:43,ORL,98.0,LAL,111.0,M. Wagner,ORL,M. Wagner 1' Cutting Dunk Shot (9 PTS) (Fultz 2 AST),Made Shot,Cutting Dunk Shot,-6,3,1,1,2.0,2.0,h
+S2223-G0505,4,03:59,ORL,,LAL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0505,4,02:09,ORL,108.0,LAL,123.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Shot (12 PTS) (Hampton 1 AST),Made Shot,Jump Shot,-5,250,25,1,3.0,3.0,h
+S2223-G0505,4,01:23,ORL,,LAL,,M. Wagner,ORL,M. Wagner Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0363,1,11:12,ORL,,LAC,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0363,1,10:26,ORL,,LAC,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0363,1,09:35,ORL,1.0,LAC,7.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0363,1,09:35,ORL,2.0,LAC,7.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0363,1,08:07,ORL,,LAC,,M. Wagner,ORL,MISS M. Wagner 6' Driving Layup,Missed Shot,Driving Layup Shot,34,44,6,1,2.0,0.0,h
+S2223-G0363,1,06:35,ORL,,LAC,,M. Wagner,ORL,MISS M. Wagner 28' 3PT Jump Shot,Missed Shot,Jump Shot,159,225,28,1,3.0,0.0,h
+S2223-G0363,1,06:10,ORL,,LAC,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0363,1,05:12,ORL,,LAC,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0363,2,08:03,ORL,,LAC,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0363,2,07:50,ORL,,LAC,,M. Wagner,ORL,M. Wagner L.B.FOUL (P1.T1) (D.Mosher),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0363,2,07:33,ORL,,LAC,,M. Wagner,ORL,M. Wagner BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0363,2,06:13,ORL,26.0,LAC,39.0,M. Wagner,ORL,M. Wagner Cutting Dunk Shot (4 PTS) (Anthony 2 AST),Made Shot,Cutting Dunk Shot,2,3,0,1,2.0,2.0,h
+S2223-G0363,2,05:52,ORL,28.0,LAC,39.0,M. Wagner,ORL,M. Wagner 1' Running Dunk (6 PTS) (Bol 1 AST),Made Shot,Running Dunk Shot,11,7,1,1,2.0,2.0,h
+S2223-G0363,2,05:35,ORL,,LAC,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0363,2,02:40,ORL,,LAC,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0363,2,01:27,ORL,,LAC,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0363,2,01:27,ORL,,LAC,,M. Wagner,ORL,MISS M. Wagner 3' Dunk,Missed Shot,Dunk Shot,18,21,3,1,2.0,0.0,h
+S2223-G0363,2,01:19,ORL,37.0,LAC,43.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0363,2,01:19,ORL,38.0,LAC,43.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0363,3,11:07,ORL,44.0,LAC,51.0,M. Wagner,ORL,M. Wagner 8' Finger Roll Layup (10 PTS),Made Shot,Finger Roll Layup Shot,78,17,8,1,2.0,2.0,h
+S2223-G0363,3,08:51,ORL,,LAC,,M. Wagner,ORL,M. Wagner STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0363,3,06:57,ORL,,LAC,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0363,3,06:19,ORL,55.0,LAC,67.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Shot (13 PTS) (Anthony 3 AST),Made Shot,Jump Shot,64,245,25,1,3.0,3.0,h
+S2223-G0363,3,05:03,ORL,,LAC,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0363,4,06:31,ORL,89.0,LAC,88.0,M. Wagner,ORL,M. Wagner Layup (15 PTS) (Harris 1 AST),Made Shot,Layup Shot,-2,-4,0,1,2.0,2.0,h
+S2223-G0363,4,05:12,ORL,,LAC,,M. Wagner,ORL,MISS M. Wagner 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-11,73,7,1,2.0,0.0,h
+S2223-G0363,4,04:52,ORL,,LAC,,M. Wagner,ORL,M. Wagner Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0363,4,03:59,ORL,,LAC,,M. Wagner,ORL,MISS M. Wagner 24' 3PT Jump Shot,Missed Shot,Jump Shot,-51,236,24,1,3.0,0.0,h
+S2223-G0363,4,03:45,ORL,,LAC,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0363,4,03:35,ORL,93.0,LAC,97.0,M. Wagner,ORL,M. Wagner 3' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,-29,9,3,1,2.0,2.0,h
+S2223-G0363,4,03:22,ORL,,LAC,,M. Wagner,ORL,M. Wagner S.FOUL (P2.T2) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0363,4,02:41,ORL,,LAC,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0363,4,02:15,ORL,,LAC,,M. Wagner,ORL,M. Wagner Turnover Turnover (P2.T12),Turnover                                , ,0,0,0,0,,,h
+S2223-G0363,4,00:51.400000,ORL,,LAC,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0363,4,00:26,ORL,,LAC,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0363,5,02:27,ORL,,LAC,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-64,237,25,1,3.0,0.0,h
+S2223-G0363,5,02:23,ORL,,LAC,,M. Wagner,ORL,M. Wagner REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0363,5,02:23,ORL,105.0,LAC,105.0,M. Wagner,ORL,M. Wagner Putback Dunk (19 PTS),Made Shot,Putback Dunk Shot,0,1,0,1,2.0,2.0,h
+S2223-G0363,5,02:23,ORL,106.0,LAC,105.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0363,5,01:35,ORL,,LAC,,M. Wagner,ORL,M. Wagner S.FOUL (P3.T1) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0363,5,01:22,ORL,,LAC,,M. Wagner,ORL,M. Wagner L.B.FOUL (P4.PN) (S.Foster),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0363,5,01:19,ORL,,LAC,,M. Wagner,ORL,M. Wagner REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1118,1,02:03,ORL,,BKN,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G1118,1,01:49,ORL,20.0,BKN,21.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1118,1,01:49,ORL,,BKN,,M. Wagner,ORL,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1118,1,00:55.700000,ORL,22.0,BKN,23.0,M. Wagner,ORL,M. Wagner 3' Cutting Finger Roll Layup Shot (3 PTS) (Anthony 1 AST),Made Shot,Cutting Finger Roll Layup Shot,-1,27,3,1,2.0,2.0,h
+S2223-G1118,2,10:47,ORL,,BKN,,M. Wagner,ORL,M. Wagner Jump Ball Violation Turnover (P1.T2),Turnover,Jump Ball Violation,0,0,0,0,,,h
+S2223-G1118,2,10:15,ORL,,BKN,,M. Wagner,ORL,MISS M. Wagner 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-237,-1,24,1,3.0,0.0,h
+S2223-G1118,2,10:03,ORL,,BKN,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1118,2,09:58,ORL,28.0,BKN,27.0,M. Wagner,ORL,M. Wagner Running Dunk (5 PTS),Made Shot,Running Dunk Shot,-2,4,0,1,2.0,2.0,h
+S2223-G1118,2,08:18,ORL,,BKN,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G1118,3,06:37,ORL,,BKN,,M. Wagner,ORL,M. Wagner S.FOUL (P2.T2) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G1118,3,06:35,ORL,,BKN,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1118,3,03:58,ORL,,BKN,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1118,3,03:20,ORL,83.0,BKN,68.0,M. Wagner,ORL,M. Wagner 3' Driving Layup (7 PTS) (Fultz 9 AST),Made Shot,Driving Layup Shot,25,21,3,1,2.0,2.0,h
+S2223-G1118,3,03:20,ORL,84.0,BKN,68.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1118,3,01:44,ORL,,BKN,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1118,3,01:27,ORL,87.0,BKN,71.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1118,3,01:27,ORL,88.0,BKN,71.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1118,4,09:32,ORL,100.0,BKN,82.0,M. Wagner,ORL,M. Wagner 1' Running Dunk (12 PTS) (Suggs 1 AST),Made Shot,Running Dunk Shot,1,13,1,1,2.0,2.0,h
+S2223-G1118,4,09:07,ORL,,BKN,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1118,4,09:02,ORL,,BKN,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0416,1,11:09,ORL,2.0,ATL,0.0,M. Wagner,ORL,M. Wagner 1' Running Dunk (2 PTS) (Fultz 1 AST),Made Shot,Running Dunk Shot,-6,0,1,1,2.0,2.0,h
+S2223-G0416,1,09:48,ORL,9.0,ATL,4.0,M. Wagner,ORL,M. Wagner 26' 3PT Jump Shot (5 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,125,230,26,1,3.0,3.0,h
+S2223-G0416,1,08:38,ORL,,ATL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0416,1,07:21,ORL,,ATL,,M. Wagner,ORL,M. Wagner P.FOUL (P1.T2) (L.Holtkamp),Foul,Personal,0,0,0,0,,,h
+S2223-G0416,1,06:03,ORL,22.0,ATL,6.0,M. Wagner,ORL,M. Wagner 1' Running Layup (7 PTS) (Bol 2 AST),Made Shot,Running Layup Shot,-9,10,1,1,2.0,2.0,h
+S2223-G0416,1,04:16,ORL,,ATL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0416,1,04:09,ORL,,ATL,,M. Wagner,ORL,M. Wagner Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0416,1,04:03,ORL,,ATL,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0416,2,05:00,ORL,64.0,ATL,40.0,M. Wagner,ORL,M. Wagner 26' 3PT Jump Shot (10 PTS) (Banchero 3 AST),Made Shot,Jump Shot,-129,220,26,1,3.0,3.0,h
+S2223-G0416,2,00:45.300000,ORL,,ATL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0416,2,00:43.700000,ORL,,ATL,,M. Wagner,ORL,MISS M. Wagner 4' Putback Layup,Missed Shot,Putback Layup Shot,26,25,4,1,2.0,0.0,h
+S2223-G0416,3,10:27,ORL,,ATL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0416,3,10:27,ORL,81.0,ATL,69.0,M. Wagner,ORL,M. Wagner 4' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,21,31,4,1,2.0,2.0,h
+S2223-G0416,3,09:08,ORL,,ATL,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0416,3,06:04,ORL,91.0,ATL,80.0,M. Wagner,ORL,M. Wagner 3' Cutting Layup Shot (14 PTS) (Fultz 7 AST),Made Shot,Cutting Layup Shot,26,15,3,1,2.0,2.0,h
+S2223-G0416,3,02:38,ORL,,ATL,,M. Wagner,ORL,M. Wagner OFF.Foul (P2) (L.Holtkamp),Foul,Offensive,0,0,0,0,,,h
+S2223-G0416,3,02:38,ORL,,ATL,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0416,3,02:38,ORL,,ATL,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0416,4,03:12,ORL,,ATL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,175,186,26,1,3.0,0.0,h
+S2223-G0416,4,01:50,ORL,131.0,ATL,116.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Shot (17 PTS) (F. Wagner 4 AST),Made Shot,Jump Shot,-192,164,25,1,3.0,3.0,h
+S2223-G0416,4,01:40,ORL,,ATL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0816,1,02:31,ORL,,NYK,,M. Wagner,ORL,M. Wagner BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0816,1,02:09,ORL,,NYK,,M. Wagner,ORL,MISS M. Wagner 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-16,169,17,1,2.0,0.0,h
+S2223-G0816,1,00:45.600000,ORL,,NYK,,M. Wagner,ORL,MISS M. Wagner 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-5,45,5,1,2.0,0.0,h
+S2223-G0816,1,00:09.700000,ORL,,NYK,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0816,2,10:45,ORL,,NYK,,M. Wagner,ORL,MISS M. Wagner 3' Driving Layup,Missed Shot,Driving Layup Shot,-29,9,3,1,2.0,0.0,h
+S2223-G0816,2,10:33,ORL,,NYK,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0816,2,09:23,ORL,,NYK,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-92,235,25,1,3.0,0.0,h
+S2223-G0816,2,08:08,ORL,,NYK,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0816,2,08:02,ORL,,NYK,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,125,216,25,1,3.0,0.0,h
+S2223-G0816,2,07:40,ORL,,NYK,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0816,3,02:06,ORL,66.0,NYK,60.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0816,3,02:06,ORL,67.0,NYK,60.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0816,3,00:58.100000,ORL,,NYK,,M. Wagner,ORL,MISS M. Wagner 3' Driving Layup,Missed Shot,Driving Layup Shot,-22,22,3,1,2.0,0.0,h
+S2223-G0816,3,00:04,ORL,,NYK,,M. Wagner,ORL,M. Wagner S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0816,4,10:28,ORL,,NYK,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0816,4,10:28,ORL,73.0,NYK,72.0,M. Wagner,ORL,M. Wagner 3' Reverse Layup (4 PTS),Made Shot,Reverse Layup Shot,16,22,3,1,2.0,2.0,h
+S2223-G0816,4,10:28,ORL,74.0,NYK,72.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0816,4,09:06,ORL,77.0,NYK,72.0,M. Wagner,ORL,M. Wagner 27' 3PT Jump Shot (8 PTS) (F. Wagner 3 AST),Made Shot,Jump Shot,-23,264,27,1,3.0,3.0,h
+S2223-G0816,4,08:12,ORL,80.0,NYK,75.0,M. Wagner,ORL,M. Wagner 26' 3PT Jump Shot (11 PTS) (F. Wagner 4 AST),Made Shot,Jump Shot,11,263,26,1,3.0,3.0,h
+S2223-G0816,4,07:32,ORL,,NYK,,M. Wagner,ORL,M. Wagner Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0816,4,06:00,ORL,,NYK,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,91,241,26,1,3.0,0.0,h
+S2223-G0816,4,05:22,ORL,84.0,NYK,82.0,M. Wagner,ORL,M. Wagner 3' Driving Layup (13 PTS) (Fultz 6 AST),Made Shot,Driving Layup Shot,21,15,3,1,2.0,2.0,h
+S2223-G0816,4,05:06,ORL,,NYK,,M. Wagner,ORL,M. Wagner S.FOUL (P3.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0816,4,05:06,ORL,,NYK,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0683,1,02:35,ORL,,NOP,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0683,1,02:32,ORL,,NOP,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0683,1,01:45,ORL,,NOP,,M. Wagner,ORL,M. Wagner S.FOUL (P2.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0683,1,01:11,ORL,,NOP,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0683,1,00:37.600000,ORL,,NOP,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0683,4,11:06,ORL,,NOP,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,13,251,25,1,3.0,0.0,h
+S2223-G0683,4,10:53,ORL,,NOP,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0683,4,10:29,ORL,,NOP,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0683,4,09:20,ORL,,NOP,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,2,251,25,1,3.0,0.0,h
+S2223-G0683,4,05:41,ORL,108.0,NOP,100.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0683,4,05:41,ORL,109.0,NOP,100.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0683,4,02:42,ORL,115.0,NOP,104.0,M. Wagner,ORL,M. Wagner 3' Layup (4 PTS) (Anthony 4 AST),Made Shot,Layup Shot,11,27,3,1,2.0,2.0,h
+S2223-G0683,4,02:42,ORL,116.0,NOP,104.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0379,1,10:34,ORL,5.0,TOR,5.0,M. Wagner,ORL,M. Wagner 27' 3PT Jump Shot (3 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,-10,266,27,1,3.0,3.0,h
+S2223-G0379,1,10:14,ORL,7.0,TOR,5.0,M. Wagner,ORL,M. Wagner 1' Layup (5 PTS) (Bol 1 AST),Made Shot,Layup Shot,-5,5,1,1,2.0,2.0,h
+S2223-G0379,1,09:48,ORL,,TOR,,M. Wagner,ORL,MISS M. Wagner 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-33,77,8,1,2.0,0.0,h
+S2223-G0379,1,09:09,ORL,,TOR,,M. Wagner,ORL,M. Wagner BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0379,1,09:08,ORL,,TOR,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0379,1,09:05,ORL,,TOR,,M. Wagner,ORL,M. Wagner Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0379,1,05:57,ORL,,TOR,,M. Wagner,ORL,MISS M. Wagner 3PT Jump Shot,Missed Shot,Jump Shot,-225,9,0,1,3.0,0.0,h
+S2223-G0379,1,05:38,ORL,,TOR,,M. Wagner,ORL,M. Wagner P.FOUL (P1.T2) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2223-G0379,1,05:10,ORL,,TOR,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0379,2,03:44,ORL,,TOR,,M. Wagner,ORL,M. Wagner S.FOUL (P2.PN) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G0379,2,02:49,ORL,59.0,TOR,57.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0379,2,02:49,ORL,60.0,TOR,57.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0379,2,01:00,ORL,,TOR,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0379,2,00:27.700000,ORL,,TOR,,M. Wagner,ORL,M. Wagner S.FOUL (P3.PN) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G0379,2,00:27.700000,ORL,,TOR,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0379,3,10:13,ORL,,TOR,,M. Wagner,ORL,MISS M. Wagner 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,13,24,1,3.0,0.0,h
+S2223-G0379,3,06:35,ORL,,TOR,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0379,3,05:36,ORL,,TOR,,M. Wagner,ORL,M. Wagner S.FOUL (P4.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0379,3,04:29,ORL,,TOR,,M. Wagner,ORL,MISS M. Wagner 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,58,63,9,1,2.0,0.0,h
+S2223-G0379,3,04:02,ORL,,TOR,,M. Wagner,ORL,MISS M. Wagner 3' Layup,Missed Shot,Layup Shot,1,33,3,1,2.0,0.0,h
+S2223-G0379,3,01:19,ORL,,TOR,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0379,4,05:10,ORL,106.0,TOR,98.0,M. Wagner,ORL,M. Wagner 2' Cutting Layup Shot (9 PTS) (Fultz 4 AST),Made Shot,Cutting Layup Shot,9,16,2,1,2.0,2.0,h
+S2223-G0379,4,04:26,ORL,,TOR,,M. Wagner,ORL,MISS M. Wagner 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,4,11,1,1,2.0,0.0,h
+S2223-G0379,4,03:10,ORL,108.0,TOR,104.0,M. Wagner,ORL,M. Wagner 16' Jump Shot (11 PTS) (Fultz 5 AST),Made Shot,Jump Shot,156,7,16,1,2.0,2.0,h
+S2223-G0379,4,02:36,ORL,,TOR,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-26,258,26,1,3.0,0.0,h
+S2223-G0379,4,02:29,ORL,,TOR,,M. Wagner,ORL,M. Wagner S.FOUL (P5.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0379,4,00:55.900000,ORL,,TOR,,M. Wagner,ORL,M. Wagner Lost Ball Turnover (P2.T20),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0379,4,00:50.100000,ORL,,TOR,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0302,1,00:23.100000,BKN,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0302,2,10:46,BKN,,ORL,,M. Wagner,ORL,M. Wagner L.B.FOUL (P1.T1) (N.Buchert),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0302,2,10:00,BKN,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0302,2,09:22,BKN,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0302,2,09:13,BKN,,ORL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-75,239,25,1,3.0,0.0,v
+S2223-G0302,2,08:48,BKN,,ORL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,130,215,25,1,3.0,0.0,v
+S2223-G0302,2,07:57,BKN,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0302,2,07:04,BKN,,ORL,,M. Wagner,ORL,SUB: Houstan FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0302,4,11:32,BKN,87.0,ORL,77.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0302,4,11:32,BKN,87.0,ORL,78.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0302,4,09:35,BKN,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0302,4,09:09,BKN,,ORL,,M. Wagner,ORL,SUB: F. Wagner FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0744,1,01:50,ORL,,CHI,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0744,1,01:16,ORL,,CHI,,M. Wagner,ORL,M. Wagner S.FOUL (P2.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0744,1,00:31.700000,ORL,,CHI,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0744,2,10:41,ORL,23.0,CHI,30.0,M. Wagner,ORL,M. Wagner 2' Driving Dunk (2 PTS) (Anthony 1 AST),Made Shot,Driving Dunk Shot,-17,17,2,1,2.0,2.0,h
+S2223-G0744,2,09:44,ORL,25.0,CHI,34.0,M. Wagner,ORL,M. Wagner 4' Driving Layup (4 PTS) (Anthony 2 AST),Made Shot,Driving Layup Shot,33,20,4,1,2.0,2.0,h
+S2223-G0744,2,09:13,ORL,,CHI,,M. Wagner,ORL,MISS M. Wagner 8' Driving Layup,Missed Shot,Driving Layup Shot,-69,34,8,1,2.0,0.0,h
+S2223-G0744,2,07:36,ORL,30.0,CHI,39.0,M. Wagner,ORL,M. Wagner 7' Driving Layup (6 PTS) (F. Wagner 1 AST),Made Shot,Driving Layup Shot,13,69,7,1,2.0,2.0,h
+S2223-G0744,2,07:36,ORL,31.0,CHI,39.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0744,2,06:50,ORL,,CHI,,M. Wagner,ORL,SUB: Fultz FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0744,3,02:07,ORL,72.0,CHI,91.0,M. Wagner,ORL,M. Wagner 3' Driving Layup (9 PTS) (Suggs 3 AST),Made Shot,Driving Layup Shot,-23,15,3,1,2.0,2.0,h
+S2223-G0744,3,01:43,ORL,75.0,CHI,91.0,M. Wagner,ORL,M. Wagner 26' 3PT Jump Shot (12 PTS) (Bol 1 AST),Made Shot,Jump Shot,96,241,26,1,3.0,3.0,h
+S2223-G0744,3,01:21,ORL,76.0,CHI,91.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0744,3,01:21,ORL,77.0,CHI,91.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0744,3,00:56.600000,ORL,78.0,CHI,93.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0744,3,00:56.600000,ORL,,CHI,,M. Wagner,ORL,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0744,3,00:33.200000,ORL,81.0,CHI,95.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Shot (18 PTS) (Anthony 4 AST),Made Shot,Jump Shot,99,229,25,1,3.0,3.0,h
+S2223-G0744,3,00:01.100000,ORL,,CHI,,M. Wagner,ORL,MISS M. Wagner 4' Driving Layup,Missed Shot,Driving Layup Shot,37,20,4,1,2.0,0.0,h
+S2223-G0744,4,11:48,ORL,83.0,CHI,95.0,M. Wagner,ORL,M. Wagner 2' Cutting Layup Shot (20 PTS) (Bol 2 AST),Made Shot,Cutting Layup Shot,15,-4,2,1,2.0,2.0,h
+S2223-G0744,4,11:19,ORL,86.0,CHI,98.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Shot (23 PTS) (Anthony 5 AST),Made Shot,Jump Shot,-28,248,25,1,3.0,3.0,h
+S2223-G0744,4,08:41,ORL,,CHI,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0744,4,07:28,ORL,96.0,CHI,106.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0744,4,07:28,ORL,97.0,CHI,106.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0744,4,06:01,ORL,,CHI,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0744,4,05:35,ORL,100.0,CHI,109.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0744,4,05:35,ORL,101.0,CHI,109.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0744,4,03:09,ORL,,CHI,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-112,236,26,1,3.0,0.0,h
+S2223-G0946,1,03:06,CHA,,ORL,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0946,1,03:00,CHA,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,116,237,26,1,3.0,0.0,v
+S2223-G0946,1,02:48,CHA,15.0,ORL,24.0,M. Wagner,ORL,M. Wagner 1' Driving Layup (2 PTS) (Schofield 1 AST),Made Shot,Driving Layup Shot,7,3,1,1,2.0,2.0,v
+S2223-G0946,1,01:50,CHA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0946,1,00:56.900000,CHA,,ORL,,M. Wagner,ORL,Magic T.Foul (Def. 3 Sec M. Wagner ) (G.Petraitis),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0946,2,11:02,CHA,28.0,ORL,35.0,M. Wagner,ORL,M. Wagner 1' Driving Dunk (4 PTS) (Anthony 2 AST),Made Shot,Driving Dunk Shot,-4,6,1,1,2.0,2.0,v
+S2223-G0946,2,10:40,CHA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0946,2,09:24,CHA,,ORL,,M. Wagner,ORL,MISS M. Wagner 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,43,106,11,1,2.0,0.0,v
+S2223-G0946,2,09:20,CHA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0946,2,08:53,CHA,28.0,ORL,39.0,M. Wagner,ORL,M. Wagner 2' Running Dunk (6 PTS) (Anthony 3 AST),Made Shot,Running Dunk Shot,11,13,2,1,2.0,2.0,v
+S2223-G0946,2,08:11,CHA,30.0,ORL,41.0,M. Wagner,ORL,M. Wagner 1' Layup (8 PTS) (Bol 1 AST),Made Shot,Layup Shot,7,-1,1,1,2.0,2.0,v
+S2223-G0946,2,07:29,CHA,,ORL,,M. Wagner,ORL,M. Wagner STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0946,2,06:01,CHA,,ORL,,M. Wagner,ORL,M. Wagner BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0946,2,05:57,CHA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0946,2,05:45,CHA,,ORL,,M. Wagner,ORL,M. Wagner OFF.Foul (P1) (G.Petraitis),Foul,Offensive,0,0,0,0,,,v
+S2223-G0946,2,05:45,CHA,,ORL,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0946,2,05:45,CHA,,ORL,,M. Wagner,ORL,SUB: Harris FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0946,3,02:01,CHA,,ORL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,245,6,25,1,3.0,0.0,v
+S2223-G0946,3,01:38,CHA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0946,3,00:01.600000,CHA,,ORL,,M. Wagner,ORL,MISS M. Wagner 1' Layup,Missed Shot,Layup Shot,9,4,1,1,2.0,0.0,v
+S2223-G0946,4,11:09,CHA,74.0,ORL,94.0,M. Wagner,ORL,M. Wagner 26' 3PT Jump Shot (11 PTS) (Bol 3 AST),Made Shot,Jump Shot,2,264,26,1,3.0,3.0,v
+S2223-G0946,4,10:37,CHA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0946,4,10:37,CHA,75.0,ORL,96.0,M. Wagner,ORL,M. Wagner Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0946,4,10:12,CHA,,ORL,,M. Wagner,ORL,M. Wagner L.B.FOUL (P2.T4) (N.Sago),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0946,4,10:03,CHA,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P3.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0946,4,08:54,CHA,,ORL,,M. Wagner,ORL,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,-66,263,27,1,3.0,0.0,v
+S2223-G0946,4,08:50,CHA,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P4.PN) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G0946,4,08:30,CHA,,ORL,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0454,1,10:38,ATL,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0454,1,09:42,ATL,,ORL,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0454,1,06:49,ATL,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T2) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0454,1,04:53,ATL,,ORL,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0454,2,03:32,ATL,59.0,ORL,55.0,M. Wagner,ORL,M. Wagner 1' Cutting Layup Shot (2 PTS) (Fultz 6 AST),Made Shot,Cutting Layup Shot,-7,0,1,1,2.0,2.0,v
+S2223-G0454,2,03:18,ATL,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0454,2,02:57,ATL,,ORL,,M. Wagner,ORL,M. Wagner BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0454,2,02:28,ATL,,ORL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-99,234,25,1,3.0,0.0,v
+S2223-G0454,3,11:31,ATL,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,48,260,26,1,3.0,0.0,v
+S2223-G0454,3,10:09,ATL,75.0,ORL,67.0,M. Wagner,ORL,M. Wagner 2' Running Layup (4 PTS) (Banchero 5 AST),Made Shot,Running Layup Shot,5,17,2,1,2.0,2.0,v
+S2223-G0454,3,09:50,ATL,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0454,3,09:45,ATL,75.0,ORL,70.0,M. Wagner,ORL,M. Wagner 26' 3PT Jump Shot (7 PTS) (Fultz 7 AST),Made Shot,Jump Shot,-88,243,26,1,3.0,3.0,v
+S2223-G0454,3,08:50,ATL,,ORL,,M. Wagner,ORL,MISS M. Wagner 3' Driving Layup,Missed Shot,Driving Layup Shot,4,25,3,1,2.0,0.0,v
+S2223-G0454,3,08:44,ATL,75.0,ORL,71.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0454,3,08:44,ATL,75.0,ORL,72.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0454,3,08:13,ATL,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,11,262,26,1,3.0,0.0,v
+S2223-G0454,3,08:03,ATL,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0454,3,06:42,ATL,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0454,3,05:48,ATL,81.0,ORL,78.0,M. Wagner,ORL,M. Wagner 1' Driving Dunk (11 PTS) (Ross 2 AST),Made Shot,Driving Dunk Shot,4,6,1,1,2.0,2.0,v
+S2223-G0454,3,05:48,ATL,81.0,ORL,79.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0454,3,05:32,ATL,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0454,3,05:24,ATL,,ORL,,M. Wagner,ORL,MISS M. Wagner 3PT Jump Shot,Missed Shot,Jump Shot,-228,-29,0,1,3.0,0.0,v
+S2223-G0454,3,04:47,ATL,,ORL,,M. Wagner,ORL,Magic T.Foul (Def. 3 Sec M. Wagner ) (K.Lane),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0454,3,02:16,ATL,,ORL,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0454,4,06:23,ATL,,ORL,,M. Wagner,ORL,M. Wagner STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0454,4,05:48,ATL,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0454,4,04:38,ATL,117.0,ORL,107.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0454,4,04:38,ATL,117.0,ORL,108.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0454,4,02:32,ATL,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0454,4,01:44,ATL,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0454,4,01:37,ATL,124.0,ORL,119.0,M. Wagner,ORL,M. Wagner 1' Cutting Layup Shot (16 PTS) (Fultz 8 AST),Made Shot,Cutting Layup Shot,6,13,1,1,2.0,2.0,v
+S2223-G0454,4,00:31.500000,ATL,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0638,1,02:53,UTA,26.0,ORL,23.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Shot (3 PTS) (Bol 1 AST),Made Shot,Jump Shot,65,242,25,1,3.0,3.0,v
+S2223-G0638,2,11:09,UTA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0638,2,09:10,UTA,,ORL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-10,245,25,1,3.0,0.0,v
+S2223-G0638,2,08:33,UTA,,ORL,,M. Wagner,ORL,M. Wagner P.FOUL (P1.T1) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0638,2,08:17,UTA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0638,2,08:04,UTA,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P2.T2) (D.Mosher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0638,2,07:24,UTA,,ORL,,M. Wagner,ORL,M. Wagner Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0638,2,06:57,UTA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0638,2,06:56,UTA,45.0,ORL,41.0,M. Wagner,ORL,M. Wagner 7' Turnaround Hook Shot (5 PTS),Made Shot,Turnaround Hook Shot,11,73,7,1,2.0,2.0,v
+S2223-G0638,2,05:18,UTA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0638,2,05:15,UTA,,ORL,,M. Wagner,ORL,SUB: Harris FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0638,4,11:51,UTA,88.0,ORL,84.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0638,4,11:51,UTA,88.0,ORL,85.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0638,4,10:45,UTA,,ORL,,M. Wagner,ORL,MISS M. Wagner 6' Driving Layup,Missed Shot,Driving Layup Shot,-43,36,6,1,2.0,0.0,v
+S2223-G0638,4,09:24,UTA,93.0,ORL,87.0,M. Wagner,ORL,M. Wagner 3' Layup (9 PTS) (F. Wagner 2 AST),Made Shot,Layup Shot,22,26,3,1,2.0,2.0,v
+S2223-G0638,4,08:04,UTA,96.0,ORL,89.0,M. Wagner,ORL,M. Wagner 3' Driving Reverse Layup (11 PTS),Made Shot,Driving Reverse Layup Shot,-26,11,3,1,2.0,2.0,v
+S2223-G0638,4,07:35,UTA,,ORL,,M. Wagner,ORL,M. Wagner L.B.FOUL (P3.T1) (M.Davis),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0638,4,07:17,UTA,,ORL,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0638,4,07:09,UTA,,ORL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-31,253,25,1,3.0,0.0,v
+S2223-G0638,4,06:55,UTA,,ORL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0638,4,00:11.800000,UTA,,ORL,,M. Wagner,ORL,SUB: Ross FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0340,1,11:15,TOR,,ORL,,M. Wagner,ORL,MISS M. Wagner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0340,1,11:15,TOR,2.0,ORL,1.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0340,1,10:37,TOR,2.0,ORL,3.0,M. Wagner,ORL,M. Wagner Driving Layup (3 PTS) (Banchero 1 AST),Made Shot,Driving Layup Shot,2,1,0,1,2.0,2.0,v
+S2223-G0340,1,08:10,TOR,,ORL,,M. Wagner,ORL,MISS M. Wagner 4' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,-6,40,4,1,2.0,0.0,v
+S2223-G0340,1,07:50,TOR,,ORL,,M. Wagner,ORL,M. Wagner Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0340,1,06:28,TOR,,ORL,,M. Wagner,ORL,MISS M. Wagner 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-2,29,3,1,2.0,0.0,v
+S2223-G0340,1,06:23,TOR,,ORL,,M. Wagner,ORL,SUB: Houstan FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0340,1,01:58,TOR,,ORL,,M. Wagner,ORL,MISS M. Wagner 3PT Jump Shot,Missed Shot,Jump Shot,-234,14,0,1,3.0,0.0,v
+S2223-G0340,1,01:16,TOR,,ORL,,M. Wagner,ORL,MISS M. Wagner 2' Layup,Missed Shot,Layup Shot,-11,19,2,1,2.0,0.0,v
+S2223-G0340,2,11:42,TOR,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0340,2,11:02,TOR,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T1) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2223-G0340,2,10:27,TOR,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0340,2,09:16,TOR,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0340,2,08:50,TOR,,ORL,,M. Wagner,ORL,M. Wagner BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0340,2,07:18,TOR,46.0,ORL,36.0,M. Wagner,ORL,M. Wagner 2' Driving Finger Roll Layup (5 PTS) (F. Wagner 1 AST),Made Shot,Driving Finger Roll Layup Shot,6,15,2,1,2.0,2.0,v
+S2223-G0340,2,07:05,TOR,,ORL,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0340,2,06:03,TOR,,ORL,,M. Wagner,ORL,SUB: Schofield FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0340,3,09:55,TOR,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P2.T1) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2223-G0340,3,08:01,TOR,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0340,3,07:54,TOR,,ORL,,M. Wagner,ORL,M. Wagner OFF.Foul (P3) (L.Holtkamp),Foul,Offensive,0,0,0,0,,,v
+S2223-G0340,3,07:54,TOR,,ORL,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0340,3,05:35,TOR,,ORL,,M. Wagner,ORL,MISS M. Wagner 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,26,15,3,1,2.0,0.0,v
+S2223-G0340,3,04:25,TOR,,ORL,,M. Wagner,ORL,M. Wagner Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0340,3,04:00,TOR,,ORL,,M. Wagner,ORL,SUB: Ross FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0966,1,12:00,ORL,,POR,,M. Wagner,ORL,Jump Ball M. Wagner vs. Eubanks: Tip to Lillard,Jump Ball,,0,0,0,0,,,h
+S2223-G0966,1,10:31,ORL,,POR,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,45,261,26,1,3.0,0.0,h
+S2223-G0966,1,10:18,ORL,,POR,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0966,1,09:44,ORL,4.0,POR,8.0,M. Wagner,ORL,M. Wagner 2' Driving Dunk (2 PTS) (F. Wagner 1 AST),Made Shot,Driving Dunk Shot,1,15,2,1,2.0,2.0,h
+S2223-G0966,1,09:30,ORL,,POR,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0966,1,07:47,ORL,11.0,POR,12.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0966,1,07:47,ORL,,POR,,M. Wagner,ORL,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0966,1,07:27,ORL,,POR,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0966,1,06:09,ORL,,POR,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0966,1,06:03,ORL,,POR,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,18,258,26,1,3.0,0.0,h
+S2223-G0966,1,05:03,ORL,18.0,POR,17.0,M. Wagner,ORL,M. Wagner 24' 3PT Jump Shot (6 PTS) (Anthony 2 AST),Made Shot,Jump Shot,235,29,24,1,3.0,3.0,h
+S2223-G0966,1,03:02,ORL,,POR,,M. Wagner,ORL,SUB: Schofield FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0966,2,04:07,ORL,47.0,POR,43.0,M. Wagner,ORL,M. Wagner 3' Driving Layup (8 PTS) (F. Wagner 4 AST),Made Shot,Driving Layup Shot,20,15,3,1,2.0,2.0,h
+S2223-G0966,2,03:33,ORL,49.0,POR,46.0,M. Wagner,ORL,M. Wagner 3' Layup (10 PTS) (F. Wagner 5 AST),Made Shot,Layup Shot,-2,25,3,1,2.0,2.0,h
+S2223-G0966,2,01:55,ORL,,POR,,M. Wagner,ORL,M. Wagner S.FOUL (P1.PN) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2223-G0966,2,01:20,ORL,,POR,,M. Wagner,ORL,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,65,257,27,1,3.0,0.0,h
+S2223-G0966,2,00:48.600000,ORL,,POR,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0966,3,07:19,ORL,,POR,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0966,3,06:46,ORL,,POR,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,34,259,26,1,3.0,0.0,h
+S2223-G0966,3,06:26,ORL,,POR,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0966,3,05:03,ORL,77.0,POR,78.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0966,3,05:03,ORL,,POR,,M. Wagner,ORL,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0966,3,04:18,ORL,,POR,,M. Wagner,ORL,M. Wagner P.FOUL (P2.T3) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0966,3,03:35,ORL,82.0,POR,83.0,M. Wagner,ORL,M. Wagner 2' Driving Layup (13 PTS) (Fultz 8 AST),Made Shot,Driving Layup Shot,-7,18,2,1,2.0,2.0,h
+S2223-G0966,3,03:35,ORL,83.0,POR,83.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0966,3,02:51,ORL,,POR,,M. Wagner,ORL,MISS M. Wagner 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,16,15,2,1,2.0,0.0,h
+S2223-G0966,3,02:51,ORL,,POR,,M. Wagner,ORL,M. Wagner L.B.FOUL (P3.T4) (Z.Zarba),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0966,3,00:02.200000,ORL,,POR,,M. Wagner,ORL,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,69,258,27,1,3.0,0.0,h
+S2223-G0966,4,04:03,ORL,,POR,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0966,4,01:22,ORL,111.0,POR,113.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0966,4,01:22,ORL,,POR,,M. Wagner,ORL,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0966,4,00:32.200000,ORL,,POR,,M. Wagner,ORL,SUB: Houstan FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0863,1,00:49.400000,CHI,,ORL,,M. Wagner,ORL,M. Wagner OFF.Foul (P1) (D.Mosher),Foul,Offensive,0,0,0,0,,,v
+S2223-G0863,1,00:49.400000,CHI,,ORL,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0863,1,00:36.800000,CHI,,ORL,,M. Wagner,ORL,M. Wagner P.FOUL (P2.T4) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2223-G0863,1,00:01,CHI,,ORL,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0863,2,11:15,CHI,23.0,ORL,26.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0863,2,11:15,CHI,23.0,ORL,27.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0863,2,10:42,CHI,25.0,ORL,29.0,M. Wagner,ORL,M. Wagner 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,2,7,1,1,2.0,2.0,v
+S2223-G0863,2,08:58,CHI,,ORL,,M. Wagner,ORL,M. Wagner Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0863,2,06:47,CHI,,ORL,,M. Wagner,ORL,MISS M. Wagner 24' 3PT Jump Shot,Missed Shot,Jump Shot,192,151,24,1,3.0,0.0,v
+S2223-G0863,2,06:20,CHI,,ORL,,M. Wagner,ORL,MISS M. Wagner 3PT Jump Shot,Missed Shot,Jump Shot,-228,-14,0,1,3.0,0.0,v
+S2223-G0863,2,06:09,CHI,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0863,2,06:05,CHI,,ORL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0863,3,02:42,CHI,,ORL,,M. Wagner,ORL,M. Wagner BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0863,3,00:50.500000,CHI,,ORL,,M. Wagner,ORL,M. Wagner STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0863,3,00:30.600000,CHI,68.0,ORL,76.0,M. Wagner,ORL,M. Wagner 27' 3PT Jump Shot (7 PTS) (Suggs 1 AST),Made Shot,Jump Shot,129,232,27,1,3.0,3.0,v
+S2223-G0863,3,00:00.500000,CHI,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-126,230,26,1,3.0,0.0,v
+S2223-G0863,4,10:25,CHI,,ORL,,M. Wagner,ORL,M. Wagner STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0863,4,06:32,CHI,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0863,4,06:18,CHI,,ORL,,M. Wagner,ORL,SUB: Harris FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0770,1,01:12,PHI,,ORL,,M. Wagner,ORL,M. Wagner P.FOUL (P1.PN) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2223-G0770,1,00:36.300000,PHI,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-129,230,26,1,3.0,0.0,v
+S2223-G0770,2,11:45,PHI,,ORL,,M. Wagner,ORL,MISS M. Wagner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0770,2,11:45,PHI,37.0,ORL,24.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0770,2,11:17,PHI,37.0,ORL,26.0,M. Wagner,ORL,M. Wagner Cutting Dunk Shot (3 PTS) (Suggs 2 AST),Made Shot,Cutting Dunk Shot,0,1,0,1,2.0,2.0,v
+S2223-G0770,2,10:35,PHI,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0770,2,10:14,PHI,,ORL,,M. Wagner,ORL,M. Wagner Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0770,2,07:45,PHI,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,39,256,26,1,3.0,0.0,v
+S2223-G0770,2,06:50,PHI,,ORL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0770,3,02:20,PHI,,ORL,,M. Wagner,ORL,M. Wagner P.FOUL (P2.T3) (M.Myers),Foul,Personal,0,0,0,0,,,v
+S2223-G0770,3,01:24,PHI,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P3.T4) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2223-G0770,3,00:33.600000,PHI,82.0,ORL,77.0,M. Wagner,ORL,M. Wagner 2' Layup (5 PTS) (F. Wagner 1 AST),Made Shot,Layup Shot,-18,4,2,1,2.0,2.0,v
+S2223-G0770,3,00:33.600000,PHI,82.0,ORL,78.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0770,4,10:40,PHI,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0770,4,08:48,PHI,,ORL,,M. Wagner,ORL,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,40,262,27,1,3.0,0.0,v
+S2223-G0770,4,07:38,PHI,,ORL,,M. Wagner,ORL,SUB: F. Wagner FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0398,1,11:19,ORL,,TOR,,M. Wagner,ORL,MISS M. Wagner 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,80,24,1,3.0,0.0,h
+S2223-G0398,1,10:07,ORL,,TOR,,M. Wagner,ORL,M. Wagner P.FOUL (P1.T1) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2223-G0398,1,08:53,ORL,,TOR,,M. Wagner,ORL,MISS M. Wagner 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,-2,16,2,1,2.0,0.0,h
+S2223-G0398,1,08:17,ORL,,TOR,,M. Wagner,ORL,MISS M. Wagner 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,6,34,3,1,2.0,0.0,h
+S2223-G0398,1,06:30,ORL,,TOR,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0398,1,06:27,ORL,,TOR,,M. Wagner,ORL,M. Wagner Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0398,1,04:28,ORL,,TOR,,M. Wagner,ORL,M. Wagner P.FOUL (P2.T3) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0398,1,04:01,ORL,,TOR,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0398,2,01:54,ORL,,TOR,,M. Wagner,ORL,MISS M. Wagner 3PT Jump Shot,Missed Shot,Jump Shot,222,66,0,1,3.0,0.0,h
+S2223-G0398,3,11:47,ORL,,TOR,,M. Wagner,ORL,MISS M. Wagner 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,26,20,3,1,2.0,0.0,h
+S2223-G0398,3,11:32,ORL,50.0,TOR,39.0,M. Wagner,ORL,M. Wagner 26' 3PT Jump Shot (3 PTS) (Bol 1 AST),Made Shot,Jump Shot,-83,251,26,1,3.0,3.0,h
+S2223-G0398,3,10:35,ORL,,TOR,,M. Wagner,ORL,M. Wagner S.FOUL (P3.T1) (I.Hwang),Foul,Shooting,0,0,0,0,,,h
+S2223-G0398,3,10:19,ORL,55.0,TOR,44.0,M. Wagner,ORL,M. Wagner 24' 3PT Jump Shot (6 PTS) (Fultz 2 AST),Made Shot,Jump Shot,232,51,24,1,3.0,3.0,h
+S2223-G0398,3,07:21,ORL,,TOR,,M. Wagner,ORL,M. Wagner S.FOUL (P4.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0398,3,07:18,ORL,,TOR,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0398,3,05:34,ORL,,TOR,,M. Wagner,ORL,M. Wagner S.FOUL (P5.PN) (I.Hwang),Foul,Shooting,0,0,0,0,,,h
+S2223-G0398,3,05:34,ORL,,TOR,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0398,4,01:54,ORL,,TOR,,M. Wagner,ORL,MISS M. Wagner 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,18,20,3,1,2.0,0.0,h
+S2223-G0398,4,01:50,ORL,,TOR,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1032,1,02:59,SAS,29.0,ORL,21.0,M. Wagner,ORL,M. Wagner 6' Hook Shot (2 PTS) (Anthony 1 AST),Made Shot,Hook Shot,23,59,6,1,2.0,2.0,v
+S2223-G1032,1,02:59,SAS,29.0,ORL,22.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1032,1,01:24,SAS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1032,2,08:46,SAS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1032,2,08:18,SAS,,ORL,,M. Wagner,ORL,SUB: G. Harris FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G1032,2,01:39,SAS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1032,2,01:32,SAS,64.0,ORL,59.0,M. Wagner,ORL,M. Wagner 26' 3PT Jump Shot (6 PTS) (Fultz 4 AST),Made Shot,Jump Shot,-67,253,26,1,3.0,3.0,v
+S2223-G1032,2,01:05,SAS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1032,3,01:04,SAS,,ORL,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1032,4,10:58,SAS,101.0,ORL,90.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1032,4,10:58,SAS,101.0,ORL,91.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1032,4,10:43,SAS,101.0,ORL,93.0,M. Wagner,ORL,M. Wagner 2' Driving Layup (10 PTS) (F. Wagner 4 AST),Made Shot,Driving Layup Shot,-21,11,2,1,2.0,2.0,v
+S2223-G1032,4,09:07,SAS,106.0,ORL,96.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1032,4,09:07,SAS,,ORL,,M. Wagner,ORL,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1032,4,08:08,SAS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1032,4,08:03,SAS,,ORL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G1032,4,00:13.400000,SAS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1032,4,00:13.400000,SAS,,ORL,,M. Wagner,ORL,MISS M. Wagner 2' Layup,Missed Shot,Layup Shot,1,22,2,1,2.0,0.0,v
+S2223-G1032,4,00:13.400000,SAS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1032,4,00:13.400000,SAS,132.0,ORL,114.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1032,4,00:13.400000,SAS,,ORL,,M. Wagner,ORL,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0273,1,01:11,ORL,27.0,PHI,21.0,M. Wagner,ORL,M. Wagner 3PT Running Jump Shot (3 PTS) (Houstan 1 AST),Made Shot,Running Jump Shot,-225,20,0,1,3.0,3.0,h
+S2223-G0273,1,00:35.100000,ORL,28.0,PHI,23.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0273,1,00:35.100000,ORL,29.0,PHI,23.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0273,1,00:23.400000,ORL,,PHI,,M. Wagner,ORL,M. Wagner S.FOUL (P1.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0273,1,00:05.600000,ORL,,PHI,,M. Wagner,ORL,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,33,264,27,1,3.0,0.0,h
+S2223-G0273,2,09:30,ORL,33.0,PHI,28.0,M. Wagner,ORL,M. Wagner 2' Driving Reverse Layup (7 PTS),Made Shot,Driving Reverse Layup Shot,-23,6,2,1,2.0,2.0,h
+S2223-G0273,2,09:01,ORL,,PHI,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-2,250,25,1,3.0,0.0,h
+S2223-G0273,2,08:49,ORL,,PHI,,M. Wagner,ORL,M. Wagner P.FOUL (P2.T3) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2223-G0273,2,08:34,ORL,,PHI,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0273,2,08:25,ORL,,PHI,,M. Wagner,ORL,M. Wagner Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0273,2,08:01,ORL,,PHI,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0273,2,07:59,ORL,,PHI,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-168,187,25,1,3.0,0.0,h
+S2223-G0273,2,07:52,ORL,,PHI,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0273,3,03:43,ORL,,PHI,,M. Wagner,ORL,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,-162,218,27,1,3.0,0.0,h
+S2223-G0273,3,03:24,ORL,,PHI,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0273,3,02:54,ORL,,PHI,,M. Wagner,ORL,M. Wagner S.FOUL (P3.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0273,3,01:59,ORL,,PHI,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0273,3,00:56.500000,ORL,,PHI,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0273,4,11:15,ORL,,PHI,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0273,4,11:15,ORL,,PHI,,M. Wagner,ORL,MISS M. Wagner Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0273,4,09:45,ORL,,PHI,,M. Wagner,ORL,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,-1,270,27,1,3.0,0.0,h
+S2223-G0273,4,07:55,ORL,,PHI,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0479,1,10:54,ORL,,SAS,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,62,251,26,1,3.0,0.0,h
+S2223-G0479,1,09:30,ORL,,SAS,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0479,1,08:21,ORL,,SAS,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0479,1,06:43,ORL,,SAS,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0479,1,06:31,ORL,13.0,SAS,13.0,M. Wagner,ORL,M. Wagner 3' Cutting Layup Shot (2 PTS) (Fultz 1 AST),Made Shot,Cutting Layup Shot,1,27,3,1,2.0,2.0,h
+S2223-G0479,1,04:49,ORL,,SAS,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0479,2,08:29,ORL,,SAS,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-15,246,25,1,3.0,0.0,h
+S2223-G0479,2,07:34,ORL,,SAS,,M. Wagner,ORL,M. Wagner Backcourt Turnover (P1.T8),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2223-G0479,2,06:14,ORL,,SAS,,M. Wagner,ORL,MISS M. Wagner 3' Layup,Missed Shot,Layup Shot,-27,15,3,1,2.0,0.0,h
+S2223-G0479,2,06:06,ORL,,SAS,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0479,2,05:07,ORL,,SAS,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T3) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2223-G0479,2,04:45,ORL,,SAS,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0479,2,04:45,ORL,46.0,SAS,52.0,M. Wagner,ORL,M. Wagner Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0479,2,03:28,ORL,,SAS,,M. Wagner,ORL,SUB: Anthony FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0479,3,10:13,ORL,,SAS,,M. Wagner,ORL,M. Wagner OFF.Foul (P2) (J.Sterling),Foul,Offensive,0,0,0,0,,,h
+S2223-G0479,3,10:13,ORL,,SAS,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0479,3,09:54,ORL,63.0,SAS,63.0,M. Wagner,ORL,M. Wagner 3' Cutting Layup Shot (6 PTS) (Fultz 6 AST),Made Shot,Cutting Layup Shot,-7,25,3,1,2.0,2.0,h
+S2223-G0479,3,08:20,ORL,66.0,SAS,68.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0479,3,08:20,ORL,67.0,SAS,68.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0479,3,07:48,ORL,68.0,SAS,71.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0479,3,07:48,ORL,69.0,SAS,71.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0479,3,07:26,ORL,,SAS,,M. Wagner,ORL,M. Wagner Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0479,3,07:10,ORL,,SAS,,M. Wagner,ORL,MISS M. Wagner 4' Layup,Missed Shot,Layup Shot,1,37,4,1,2.0,0.0,h
+S2223-G0479,3,07:09,ORL,,SAS,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0479,3,07:09,ORL,,SAS,,M. Wagner,ORL,MISS M. Wagner Putback Layup,Missed Shot,Putback Layup Shot,1,4,0,1,2.0,0.0,h
+S2223-G0479,3,06:29,ORL,,SAS,,M. Wagner,ORL,SUB: Anthony FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0479,4,10:24,ORL,,SAS,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0479,4,08:31,ORL,112.0,SAS,94.0,M. Wagner,ORL,M. Wagner 3' Cutting Layup Shot (12 PTS) (Anthony 6 AST),Made Shot,Cutting Layup Shot,17,22,3,1,2.0,2.0,h
+S2223-G0479,4,07:35,ORL,115.0,SAS,96.0,M. Wagner,ORL,M. Wagner 26' 3PT Jump Shot (15 PTS) (Anthony 7 AST),Made Shot,Jump Shot,12,258,26,1,3.0,3.0,h
+S2223-G0479,4,06:31,ORL,117.0,SAS,98.0,M. Wagner,ORL,M. Wagner 17' Jump Shot (17 PTS) (Anthony 8 AST),Made Shot,Jump Shot,54,164,17,1,2.0,2.0,h
+S2223-G0479,4,05:35,ORL,,SAS,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0479,4,05:31,ORL,,SAS,,M. Wagner,ORL,SUB: Houstan FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0707,2,11:23,ORL,,BOS,,M. Wagner,ORL,M. Wagner Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0707,2,11:16,ORL,,BOS,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0707,2,10:24,ORL,,BOS,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0707,2,10:08,ORL,34.0,BOS,28.0,M. Wagner,ORL,M. Wagner 2' Cutting Layup Shot (2 PTS) (Suggs 1 AST),Made Shot,Cutting Layup Shot,20,5,2,1,2.0,2.0,h
+S2223-G0707,2,09:15,ORL,,BOS,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0707,2,08:53,ORL,,BOS,,M. Wagner,ORL,MISS M. Wagner 3' Layup,Missed Shot,Layup Shot,1,26,3,1,2.0,0.0,h
+S2223-G0707,2,08:13,ORL,43.0,BOS,29.0,M. Wagner,ORL,M. Wagner 26' 3PT Jump Shot (5 PTS) (F. Wagner 4 AST),Made Shot,Jump Shot,125,224,26,1,3.0,3.0,h
+S2223-G0707,2,07:24,ORL,,BOS,,M. Wagner,ORL,MISS M. Wagner 24' 3PT Jump Shot,Missed Shot,Jump Shot,-180,163,24,1,3.0,0.0,h
+S2223-G0707,2,07:06,ORL,,BOS,,M. Wagner,ORL,M. Wagner OFF.Foul (P1) (P.Ransom),Foul,Offensive,0,0,0,0,,,h
+S2223-G0707,2,07:06,ORL,,BOS,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0707,2,07:06,ORL,,BOS,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0707,3,03:01,ORL,,BOS,,M. Wagner,ORL,M. Wagner L.B.FOUL (P2.T1) (P.Ransom),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0707,3,01:28,ORL,,BOS,,M. Wagner,ORL,MISS M. Wagner 5' Driving Dunk,Missed Shot,Driving Dunk Shot,13,46,5,1,2.0,0.0,h
+S2223-G0707,3,01:10,ORL,,BOS,,M. Wagner,ORL,M. Wagner L.B.FOUL (P3.T2) (J.Goble),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0707,3,01:10,ORL,,BOS,,M. Wagner,ORL,M. Wagner T.FOUL (P3.T2) (J.Goble),Foul,Technical,0,0,0,0,,,h
+S2223-G0707,4,07:24,ORL,,BOS,,M. Wagner,ORL,M. Wagner S.FOUL (P4.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0707,4,07:24,ORL,,BOS,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0802,1,00:32.800000,CHA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0802,2,11:02,CHA,37.0,ORL,32.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0802,2,11:02,CHA,37.0,ORL,33.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0802,2,09:18,CHA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0802,2,08:45,CHA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0802,2,07:12,CHA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0802,2,06:16,CHA,,ORL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0802,4,08:44,CHA,95.0,ORL,93.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0802,4,08:44,CHA,,ORL,,M. Wagner,ORL,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0802,4,07:38,CHA,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0802,4,07:06,CHA,97.0,ORL,102.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0802,4,07:06,CHA,97.0,ORL,103.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0802,4,06:28,CHA,,ORL,,M. Wagner,ORL,MISS M. Wagner 1' Reverse Layup,Missed Shot,Reverse Layup Shot,-4,11,1,1,2.0,0.0,v
+S2223-G0802,4,06:06,CHA,99.0,ORL,105.0,M. Wagner,ORL,M. Wagner 1' Driving Layup (7 PTS) (Anthony 5 AST),Made Shot,Driving Layup Shot,-2,12,1,1,2.0,2.0,v
+S2223-G0802,4,06:06,CHA,99.0,ORL,106.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0802,4,04:41,CHA,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0802,4,04:41,CHA,,ORL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0720,1,00:37,ORL,43.0,IND,26.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,25,250,25,1,3.0,3.0,h
+S2223-G0720,1,00:22.700000,ORL,,IND,,M. Wagner,ORL,M. Wagner S.FOUL (P1.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0720,2,11:42,ORL,,IND,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0720,2,11:03,ORL,,IND,,M. Wagner,ORL,MISS M. Wagner 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,10,1,1,1,2.0,0.0,h
+S2223-G0720,2,08:33,ORL,,IND,,M. Wagner,ORL,MAGIC T.Foul (Def. 3 Sec M. Wagner ) (M.Myers),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G0720,2,08:25,ORL,,IND,,M. Wagner,ORL,M. Wagner S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0720,2,07:18,ORL,,IND,,M. Wagner,ORL,M. Wagner Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0720,2,07:03,ORL,,IND,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0848,1,01:10,ORL,,MIA,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,138,208,25,1,3.0,0.0,h
+S2223-G0848,1,00:45.700000,ORL,,MIA,,M. Wagner,ORL,M. Wagner BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0848,1,00:31.500000,ORL,,MIA,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T2) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0848,1,00:07.300000,ORL,,MIA,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0848,2,11:40,ORL,31.0,MIA,19.0,M. Wagner,ORL,M. Wagner 2' Cutting Layup Shot (2 PTS) (Suggs 2 AST),Made Shot,Cutting Layup Shot,16,0,2,1,2.0,2.0,h
+S2223-G0848,2,09:52,ORL,,MIA,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0848,2,07:52,ORL,,MIA,,M. Wagner,ORL,M. Wagner L.B.FOUL (P2.T1) (A.Smith),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0848,2,06:30,ORL,,MIA,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0848,3,04:49,ORL,,MIA,,M. Wagner,ORL,M. Wagner S.FOUL (P3.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0848,3,03:59,ORL,67.0,MIA,64.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0848,3,03:59,ORL,68.0,MIA,64.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0848,3,03:47,ORL,,MIA,,M. Wagner,ORL,M. Wagner STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0848,3,03:43,ORL,,MIA,,M. Wagner,ORL,MISS M. Wagner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0848,3,03:43,ORL,69.0,MIA,64.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0848,3,03:24,ORL,72.0,MIA,66.0,M. Wagner,ORL,M. Wagner 27' 3PT Jump Shot (8 PTS) (Anthony 2 AST),Made Shot,Jump Shot,48,263,27,1,3.0,3.0,h
+S2223-G0848,3,02:40,ORL,75.0,MIA,69.0,M. Wagner,ORL,M. Wagner 3PT Jump Shot (11 PTS) (Anthony 3 AST),Made Shot,Jump Shot,-230,1,0,1,3.0,3.0,h
+S2223-G0848,3,01:18,ORL,,MIA,,M. Wagner,ORL,MISS M. Wagner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0848,3,01:18,ORL,76.0,MIA,72.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0848,4,09:27,ORL,,MIA,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-210,149,26,1,3.0,0.0,h
+S2223-G0848,4,08:09,ORL,87.0,MIA,79.0,M. Wagner,ORL,M. Wagner 3' Layup (14 PTS) (Anthony 5 AST),Made Shot,Layup Shot,13,25,3,1,2.0,2.0,h
+S2223-G0848,4,05:01,ORL,,MIA,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0848,4,04:40,ORL,,MIA,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0848,4,04:39,ORL,,MIA,,M. Wagner,ORL,MISS M. Wagner 2' Putback Layup,Missed Shot,Putback Layup Shot,9,17,2,1,2.0,0.0,h
+S2223-G0848,4,03:20,ORL,,MIA,,M. Wagner,ORL,SUB: Harris FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0472,1,11:33,HOU,,ORL,,M. Wagner,ORL,MISS M. Wagner 2' Driving Layup,Missed Shot,Driving Layup Shot,-1,19,2,1,2.0,0.0,v
+S2223-G0472,1,09:53,HOU,,ORL,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0472,1,07:29,HOU,,ORL,,M. Wagner,ORL,MISS M. Wagner 2' Layup,Missed Shot,Layup Shot,22,3,2,1,2.0,0.0,v
+S2223-G0472,1,07:15,HOU,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0472,1,06:28,HOU,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,211,145,26,1,3.0,0.0,v
+S2223-G0472,1,05:24,HOU,,ORL,,M. Wagner,ORL,M. Wagner P.FOUL (P1.T3) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G0472,1,05:24,HOU,,ORL,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0472,2,03:46,HOU,52.0,ORL,49.0,M. Wagner,ORL,M. Wagner 25' 3PT Jump Shot (3 PTS) (Anthony 5 AST),Made Shot,Jump Shot,86,235,25,1,3.0,3.0,v
+S2223-G0472,2,03:21,HOU,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0472,2,02:40,HOU,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0472,2,02:38,HOU,55.0,ORL,51.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0472,2,02:38,HOU,55.0,ORL,52.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0472,2,00:17.900000,HOU,64.0,ORL,53.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0472,2,00:17.900000,HOU,64.0,ORL,54.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0472,3,11:04,HOU,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0472,3,08:01,HOU,77.0,ORL,65.0,M. Wagner,ORL,M. Wagner 4' Cutting Dunk Shot (9 PTS) (Banchero 2 AST),Made Shot,Cutting Dunk Shot,-7,37,4,1,2.0,2.0,v
+S2223-G0472,3,07:31,HOU,77.0,ORL,67.0,M. Wagner,ORL,M. Wagner 3' Running Layup (11 PTS) (Banchero 3 AST),Made Shot,Running Layup Shot,-10,27,3,1,2.0,2.0,v
+S2223-G0472,3,07:31,HOU,77.0,ORL,68.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0472,3,06:53,HOU,,ORL,,M. Wagner,ORL,M. Wagner OFF.Foul (P2) (J.Orr),Foul,Offensive,0,0,0,0,,,v
+S2223-G0472,3,06:53,HOU,,ORL,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0472,3,06:16,HOU,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0472,3,06:11,HOU,,ORL,,M. Wagner,ORL,MISS M. Wagner Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0472,3,05:29,HOU,,ORL,,M. Wagner,ORL,MISS M. Wagner 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,10,24,1,3.0,0.0,v
+S2223-G0472,3,05:08,HOU,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0472,3,02:18,HOU,,ORL,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0472,4,03:43,HOU,,ORL,,M. Wagner,ORL,M. Wagner STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0472,4,00:35.600000,HOU,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,1,04:30,ORL,,PHI,,M. Wagner,ORL,M. Wagner P.FOUL (P1.T4) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G0297,1,03:58,ORL,21.0,PHI,21.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0297,1,03:58,ORL,22.0,PHI,21.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0297,1,03:26,ORL,,PHI,,M. Wagner,ORL,MISS M. Wagner 24' 3PT Jump Shot,Missed Shot,Jump Shot,107,215,24,1,3.0,0.0,h
+S2223-G0297,1,00:47.200000,ORL,,PHI,,M. Wagner,ORL,M. Wagner Offensive Charge Foul (P2) (K.Scott),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0297,1,00:47.200000,ORL,,PHI,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0297,1,00:28.800000,ORL,32.0,PHI,31.0,M. Wagner,ORL,M. Wagner 3' Driving Layup (4 PTS) (Houstan 1 AST),Made Shot,Driving Layup Shot,-27,10,3,1,2.0,2.0,h
+S2223-G0297,1,00:02.300000,ORL,,PHI,,M. Wagner,ORL,M. Wagner Traveling Turnover (P2.T6),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0297,2,10:55,ORL,,PHI,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0297,2,10:53,ORL,,PHI,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,110,219,25,1,3.0,0.0,h
+S2223-G0297,2,10:34,ORL,,PHI,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0297,2,10:21,ORL,,PHI,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-201,151,25,1,3.0,0.0,h
+S2223-G0297,2,10:05,ORL,,PHI,,M. Wagner,ORL,SUB: Bamba FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0297,2,02:17,ORL,,PHI,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-168,180,25,1,3.0,0.0,h
+S2223-G0297,2,01:49,ORL,43.0,PHI,65.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0297,2,01:49,ORL,44.0,PHI,65.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0297,2,00:54.700000,ORL,,PHI,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0297,2,00:48.300000,ORL,45.0,PHI,67.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0297,2,00:48.300000,ORL,,PHI,,M. Wagner,ORL,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0297,3,10:27,ORL,,PHI,,M. Wagner,ORL,M. Wagner S.FOUL (P3.T2) (D.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0297,3,09:59,ORL,,PHI,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0297,3,09:54,ORL,53.0,PHI,71.0,M. Wagner,ORL,M. Wagner 26' 3PT Jump Shot (10 PTS) (G. Harris 5 AST),Made Shot,Jump Shot,-87,243,26,1,3.0,3.0,h
+S2223-G0297,3,06:24,ORL,,PHI,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0297,3,05:49,ORL,,PHI,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0297,3,05:17,ORL,,PHI,,M. Wagner,ORL,M. Wagner S.FOUL (P4.T4) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0297,3,05:11,ORL,,PHI,,M. Wagner,ORL,M. Wagner OFF.Foul (P5) (D.Scott),Foul,Offensive,0,0,0,0,,,h
+S2223-G0297,3,05:11,ORL,,PHI,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P3.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0297,3,05:11,ORL,,PHI,,M. Wagner,ORL,SUB: Houstan FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0297,4,06:18,ORL,,PHI,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0297,4,06:18,ORL,90.0,PHI,113.0,M. Wagner,ORL,M. Wagner Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0297,4,05:22,ORL,,PHI,,M. Wagner,ORL,M. Wagner Lost Ball Turnover (P4.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0868,1,02:20,TOR,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-59,252,26,1,3.0,0.0,v
+S2223-G0868,2,11:43,TOR,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0868,2,11:28,TOR,,ORL,,M. Wagner,ORL,MISS M. Wagner 3' Layup,Missed Shot,Layup Shot,-13,22,3,1,2.0,0.0,v
+S2223-G0868,2,10:58,TOR,37.0,ORL,31.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0868,2,10:58,TOR,37.0,ORL,32.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0868,2,07:16,TOR,,ORL,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0868,3,04:30,TOR,,ORL,,M. Wagner,ORL,M. Wagner T.FOUL (P0.T3) (B.Taylor),Foul,Technical,0,0,0,0,,,v
+S2223-G0868,3,01:00,TOR,,ORL,,M. Wagner,ORL,MISS M. Wagner 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-2,34,3,1,2.0,0.0,v
+S2223-G0868,4,11:04,TOR,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-232,113,26,1,3.0,0.0,v
+S2223-G0868,4,10:42,TOR,,ORL,,M. Wagner,ORL,M. Wagner P.FOUL (P1.T1) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0868,4,08:12,TOR,,ORL,,M. Wagner,ORL,MISS M. Wagner 1' Driving Dunk,Missed Shot,Driving Dunk Shot,-10,11,1,1,2.0,0.0,v
+S2223-G0868,4,08:11,TOR,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0868,4,08:11,TOR,,ORL,,M. Wagner,ORL,M. Wagner Out of Bounds Lost Ball Turnover (P1.T16),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0868,4,07:31,TOR,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0868,4,07:06,TOR,,ORL,,M. Wagner,ORL,SUB: Fultz FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0653,1,00:29.800000,DEN,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0653,2,09:15,DEN,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-141,214,26,1,3.0,0.0,v
+S2223-G0653,2,07:59,DEN,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0653,2,07:59,DEN,41.0,ORL,33.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0653,2,07:59,DEN,41.0,ORL,34.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0653,2,06:40,DEN,,ORL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0653,3,01:08,DEN,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P1.PN) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2223-G0653,3,01:06,DEN,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0653,3,00:58.200000,DEN,91.0,ORL,83.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0653,3,00:58.200000,DEN,91.0,ORL,84.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0653,3,00:01.900000,DEN,,ORL,,M. Wagner,ORL,MISS M. Wagner 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,-8,24,1,3.0,0.0,v
+S2223-G0653,4,11:23,DEN,96.0,ORL,90.0,M. Wagner,ORL,M. Wagner 4' Layup (6 PTS) (Anthony 3 AST),Made Shot,Layup Shot,-27,28,4,1,2.0,2.0,v
+S2223-G0653,4,11:23,DEN,,ORL,,M. Wagner,ORL,MISS M. Wagner Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0653,4,10:35,DEN,98.0,ORL,94.0,M. Wagner,ORL,M. Wagner 1' Dunk (8 PTS),Made Shot,Dunk Shot,0,8,1,1,2.0,2.0,v
+S2223-G0653,4,10:15,DEN,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0653,4,09:42,DEN,,ORL,,M. Wagner,ORL,MISS M. Wagner 3PT Jump Shot,Missed Shot,Jump Shot,234,11,0,1,3.0,0.0,v
+S2223-G0653,4,09:22,DEN,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0653,4,09:22,DEN,,ORL,,M. Wagner,ORL,M. Wagner Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0653,4,07:19,DEN,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,55,252,26,1,3.0,0.0,v
+S2223-G0653,4,05:53,DEN,,ORL,,M. Wagner,ORL,M. Wagner P.FOUL (P2.T2) (M.Kallio),Foul,Personal,0,0,0,0,,,v
+S2223-G0653,4,05:53,DEN,,ORL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0594,1,00:34,GSW,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0594,1,00:34,GSW,29.0,ORL,25.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0594,1,00:34,GSW,,ORL,,M. Wagner,ORL,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0594,2,10:44,GSW,,ORL,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0594,2,08:20,GSW,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0594,2,08:13,GSW,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,153,206,26,1,3.0,0.0,v
+S2223-G0594,2,07:56,GSW,,ORL,,M. Wagner,ORL,MISS M. Wagner 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,48,37,6,1,2.0,0.0,v
+S2223-G0594,2,05:02,GSW,,ORL,,M. Wagner,ORL,SUB: Harris FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0594,3,01:58,GSW,,ORL,,M. Wagner,ORL,MISS M. Wagner 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,22,53,6,1,2.0,0.0,v
+S2223-G0594,3,01:37,GSW,,ORL,,M. Wagner,ORL,M. Wagner P.FOUL (P1.PN) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2223-G0594,3,00:47.500000,GSW,,ORL,,M. Wagner,ORL,M. Wagner Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0594,4,11:02,GSW,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0594,4,10:51,GSW,,ORL,,M. Wagner,ORL,MISS M. Wagner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0594,4,10:51,GSW,,ORL,,M. Wagner,ORL,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0594,4,10:50,GSW,,ORL,,M. Wagner,ORL,M. Wagner Violation:Lane (S.Wright),Violation,Lane,0,0,0,0,,,v
+S2223-G0594,4,10:39,GSW,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0594,4,09:08,GSW,87.0,ORL,102.0,M. Wagner,ORL,M. Wagner 26' 3PT Jump Shot (4 PTS) (F. Wagner 2 AST),Made Shot,Jump Shot,-20,257,26,1,3.0,3.0,v
+S2223-G0594,4,08:05,GSW,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0594,4,05:47,GSW,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P2.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0594,4,05:07,GSW,,ORL,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G1151,2,11:21,WAS,34.0,ORL,26.0,M. Wagner,ORL,M. Wagner 2' Cutting Dunk Shot (2 PTS) (Bitadze 2 AST),Made Shot,Cutting Dunk Shot,9,15,2,1,2.0,2.0,v
+S2223-G1151,2,10:40,WAS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1151,2,10:17,WAS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1151,2,10:05,WAS,37.0,ORL,28.0,M. Wagner,ORL,M. Wagner 2' Cutting Layup Shot (4 PTS) (Suggs 2 AST),Made Shot,Cutting Layup Shot,18,-4,2,1,2.0,2.0,v
+S2223-G1151,2,07:34,WAS,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T1) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G1151,2,07:34,WAS,,ORL,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0756,1,05:26,PHI,,ORL,,M. Wagner,ORL,MISS M. Wagner 28' 3PT Jump Shot,Missed Shot,Jump Shot,-142,237,28,1,3.0,0.0,v
+S2223-G0756,1,04:43,PHI,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0756,1,04:05,PHI,21.0,ORL,8.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0756,1,04:05,PHI,21.0,ORL,9.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0756,1,03:34,PHI,,ORL,,M. Wagner,ORL,MISS M. Wagner 1' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,4,-3,1,1,2.0,0.0,v
+S2223-G0756,1,03:23,PHI,,ORL,,M. Wagner,ORL,MISS M. Wagner 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-232,-17,0,1,3.0,0.0,v
+S2223-G0756,1,02:23,PHI,,ORL,,M. Wagner,ORL,MISS M. Wagner 28' 3PT Jump Shot,Missed Shot,Jump Shot,-38,278,28,1,3.0,0.0,v
+S2223-G0756,1,02:06,PHI,,ORL,,M. Wagner,ORL,M. Wagner BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0756,1,01:20,PHI,25.0,ORL,15.0,M. Wagner,ORL,M. Wagner 1' Running Dunk (4 PTS) (Suggs 1 AST),Made Shot,Running Dunk Shot,-4,7,1,1,2.0,2.0,v
+S2223-G0756,1,00:10.400000,PHI,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0756,1,00:10.400000,PHI,30.0,ORL,17.0,M. Wagner,ORL,M. Wagner Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0756,2,09:03,PHI,39.0,ORL,20.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0756,2,09:03,PHI,39.0,ORL,21.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0756,2,07:53,PHI,,ORL,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0756,4,10:37,PHI,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0756,4,08:50,PHI,97.0,ORL,97.0,M. Wagner,ORL,M. Wagner 1' Cutting Finger Roll Layup Shot (10 PTS) (F. Wagner 2 AST),Made Shot,Cutting Finger Roll Layup Shot,-4,6,1,1,2.0,2.0,v
+S2223-G0756,4,08:15,PHI,,ORL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,10,251,25,1,3.0,0.0,v
+S2223-G0756,4,08:05,PHI,99.0,ORL,98.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0756,4,08:05,PHI,99.0,ORL,99.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0756,4,07:03,PHI,101.0,ORL,102.0,M. Wagner,ORL,M. Wagner 1' Reverse Layup (14 PTS),Made Shot,Reverse Layup Shot,12,4,1,1,2.0,2.0,v
+S2223-G0756,4,07:03,PHI,101.0,ORL,103.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0756,4,06:42,PHI,101.0,ORL,105.0,M. Wagner,ORL,M. Wagner 1' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,4,14,1,1,2.0,2.0,v
+S2223-G0756,4,06:42,PHI,101.0,ORL,106.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0756,4,05:23,PHI,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0756,4,04:20,PHI,,ORL,,M. Wagner,ORL,SUB: Carter Jr. FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0756,4,02:34,PHI,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0756,4,02:34,PHI,107.0,ORL,113.0,M. Wagner,ORL,M. Wagner Putback Layup (20 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0756,4,02:11,PHI,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0756,4,02:11,PHI,107.0,ORL,114.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0756,4,02:11,PHI,107.0,ORL,115.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0756,4,00:11.300000,PHI,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0994,1,12:00,ORL,,UTA,,M. Wagner,ORL,Jump Ball M. Wagner vs. Kessler: Tip to Horton-Tucker,Jump Ball,,0,0,0,0,,,h
+S2223-G0994,1,11:14,ORL,,UTA,,M. Wagner,ORL,MAGIC T.Foul (Def. 3 Sec M. Wagner ) (T.Brothers),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G0994,1,09:07,ORL,,UTA,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0994,1,08:59,ORL,,UTA,,M. Wagner,ORL,MISS M. Wagner 5' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,39,26,5,1,2.0,0.0,h
+S2223-G0994,1,08:49,ORL,,UTA,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0994,1,07:56,ORL,,UTA,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0994,1,07:19,ORL,,UTA,,M. Wagner,ORL,MISS M. Wagner 4' Running Layup,Missed Shot,Running Layup Shot,-37,25,4,1,2.0,0.0,h
+S2223-G0994,1,05:18,ORL,12.0,UTA,20.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0994,1,05:18,ORL,13.0,UTA,20.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0994,1,04:52,ORL,,UTA,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0994,1,03:58,ORL,,UTA,,M. Wagner,ORL,SUB: Bol FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0994,2,06:47,ORL,,UTA,,M. Wagner,ORL,MISS M. Wagner 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-22,62,7,1,2.0,0.0,h
+S2223-G0994,2,05:06,ORL,,UTA,,M. Wagner,ORL,Jump Ball M. Wagner vs. Kessler: Tip to Horton-Tucker,Jump Ball,,0,0,0,0,,,h
+S2223-G0994,2,03:35,ORL,50.0,UTA,47.0,M. Wagner,ORL,M. Wagner 3' Cutting Layup Shot (4 PTS) (Fultz 1 AST),Made Shot,Cutting Layup Shot,25,13,3,1,2.0,2.0,h
+S2223-G0994,2,03:21,ORL,,UTA,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T4) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0994,2,02:35,ORL,,UTA,,M. Wagner,ORL,MISS M. Wagner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0994,2,02:35,ORL,51.0,UTA,53.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0994,2,01:47,ORL,53.0,UTA,55.0,M. Wagner,ORL,M. Wagner 3' Cutting Layup Shot (7 PTS) (Fultz 2 AST),Made Shot,Cutting Layup Shot,-21,27,3,1,2.0,2.0,h
+S2223-G0994,2,01:35,ORL,,UTA,,M. Wagner,ORL,SUB: F. Wagner FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0994,3,11:07,ORL,,UTA,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,28,257,26,1,3.0,0.0,h
+S2223-G0994,3,08:49,ORL,66.0,UTA,79.0,M. Wagner,ORL,M. Wagner 5' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,-34,37,5,1,2.0,2.0,h
+S2223-G0994,3,08:12,ORL,68.0,UTA,79.0,M. Wagner,ORL,M. Wagner 4' Cutting Dunk Shot (11 PTS) (Banchero 2 AST),Made Shot,Cutting Dunk Shot,-23,27,4,1,2.0,2.0,h
+S2223-G0994,3,07:53,ORL,,UTA,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0994,3,06:43,ORL,,UTA,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0994,3,05:08,ORL,,UTA,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0994,3,02:55,ORL,,UTA,,M. Wagner,ORL,SUB: Bitadze FOR M. Wagner,Substitution,,0,0,0,0,,,h
+S2223-G0445,1,11:14,BOS,,ORL,,M. Wagner,ORL,MISS M. Wagner 3' Layup,Missed Shot,Layup Shot,22,25,3,1,2.0,0.0,v
+S2223-G0445,1,10:29,BOS,,ORL,,M. Wagner,ORL,M. Wagner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0445,1,10:07,BOS,2.0,ORL,4.0,M. Wagner,ORL,M. Wagner 3' Cutting Layup Shot (2 PTS) (Fultz 2 AST),Made Shot,Cutting Layup Shot,21,26,3,1,2.0,2.0,v
+S2223-G0445,1,07:27,BOS,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-145,215,26,1,3.0,0.0,v
+S2223-G0445,1,05:59,BOS,,ORL,,M. Wagner,ORL,MISS M. Wagner 4' Driving Layup,Missed Shot,Driving Layup Shot,-23,27,4,1,2.0,0.0,v
+S2223-G0445,1,05:43,BOS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0445,1,05:35,BOS,8.0,ORL,14.0,M. Wagner,ORL,M. Wagner 27' 3PT Jump Shot (5 PTS) (Fultz 3 AST),Made Shot,Jump Shot,-38,267,27,1,3.0,3.0,v
+S2223-G0445,1,04:04,BOS,,ORL,,M. Wagner,ORL,MISS M. Wagner 13' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-12,126,13,1,2.0,0.0,v
+S2223-G0445,1,02:21,BOS,,ORL,,M. Wagner,ORL,M. Wagner STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0445,1,02:06,BOS,,ORL,,M. Wagner,ORL,SUB: F. Wagner FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0445,2,01:21,BOS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0445,2,01:03,BOS,,ORL,,M. Wagner,ORL,MISS M. Wagner 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,46,24,1,3.0,0.0,v
+S2223-G0445,3,09:33,BOS,47.0,ORL,53.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0445,3,09:33,BOS,47.0,ORL,54.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0445,3,08:51,BOS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0445,3,08:30,BOS,,ORL,,M. Wagner,ORL,M. Wagner S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0445,3,07:17,BOS,,ORL,,M. Wagner,ORL,MISS M. Wagner 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,54,24,1,3.0,0.0,v
+S2223-G0445,3,04:17,BOS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0445,3,03:32,BOS,61.0,ORL,62.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0445,3,03:32,BOS,61.0,ORL,63.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0445,3,01:42,BOS,,ORL,,M. Wagner,ORL,SUB: Schofield FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0445,4,05:14,BOS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0445,4,03:08,BOS,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0445,4,00:05.300000,BOS,92.0,ORL,94.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0445,4,00:05.300000,BOS,92.0,ORL,95.0,M. Wagner,ORL,M. Wagner Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0330,1,11:40,CLE,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0330,1,10:44,CLE,,ORL,,M. Wagner,ORL,M. Wagner P.FOUL (P1.T1) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2223-G0330,1,08:50,CLE,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0330,1,08:41,CLE,8.0,ORL,10.0,M. Wagner,ORL,M. Wagner 1' Cutting Dunk Shot (2 PTS) (F. Wagner 1 AST),Made Shot,Cutting Dunk Shot,2,13,1,1,2.0,2.0,v
+S2223-G0330,1,06:39,CLE,8.0,ORL,13.0,M. Wagner,ORL,M. Wagner 26' 3PT Jump Shot (5 PTS) (Banchero 2 AST),Made Shot,Jump Shot,141,216,26,1,3.0,3.0,v
+S2223-G0330,1,03:57,CLE,,ORL,,M. Wagner,ORL,MISS M. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-138,213,25,1,3.0,0.0,v
+S2223-G0330,1,03:55,CLE,,ORL,,M. Wagner,ORL,SUB: Houstan FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0330,2,11:16,CLE,,ORL,,M. Wagner,ORL,M. Wagner Traveling Turnover (P1.T7),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0330,2,10:42,CLE,30.0,ORL,26.0,M. Wagner,ORL,M. Wagner Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0330,2,10:42,CLE,,ORL,,M. Wagner,ORL,MISS M. Wagner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0330,2,08:57,CLE,,ORL,,M. Wagner,ORL,M. Wagner P.FOUL (P2.T2) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2223-G0330,2,07:54,CLE,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0330,2,07:52,CLE,37.0,ORL,32.0,M. Wagner,ORL,M. Wagner Putback Dunk (8 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0330,2,06:42,CLE,37.0,ORL,36.0,M. Wagner,ORL,M. Wagner 2' Cutting Layup Shot (10 PTS) (Fultz 1 AST),Made Shot,Cutting Layup Shot,-6,22,2,1,2.0,2.0,v
+S2223-G0330,2,06:13,CLE,,ORL,,M. Wagner,ORL,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,126,226,26,1,3.0,0.0,v
+S2223-G0330,2,05:51,CLE,,ORL,,M. Wagner,ORL,M. Wagner OFF.Foul (P3) (E.Scott),Foul,Offensive,0,0,0,0,,,v
+S2223-G0330,2,05:51,CLE,,ORL,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0330,2,05:51,CLE,,ORL,,M. Wagner,ORL,SUB: Banchero FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0330,3,11:41,CLE,54.0,ORL,49.0,M. Wagner,ORL,M. Wagner 3' Cutting Layup Shot (12 PTS) (Fultz 2 AST),Made Shot,Cutting Layup Shot,23,21,3,1,2.0,2.0,v
+S2223-G0330,3,09:55,CLE,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0330,3,09:31,CLE,,ORL,,M. Wagner,ORL,MISS M. Wagner 7' Driving Layup,Missed Shot,Driving Layup Shot,-62,23,7,1,2.0,0.0,v
+S2223-G0330,3,03:56,CLE,,ORL,,M. Wagner,ORL,MISS M. Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,-71,260,27,1,3.0,0.0,v
+S2223-G0330,3,03:04,CLE,,ORL,,M. Wagner,ORL,SUB: F. Wagner FOR M. Wagner,Substitution,,0,0,0,0,,,v
+S2223-G0330,4,10:44,CLE,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0330,4,06:42,CLE,,ORL,,M. Wagner,ORL,M. Wagner OFF.Foul (P4) (E.Scott),Foul,Offensive,0,0,0,0,,,v
+S2223-G0330,4,06:42,CLE,,ORL,,M. Wagner,ORL,M. Wagner Offensive Foul Turnover (P3.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0330,4,05:46,CLE,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0330,4,05:16,CLE,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0330,4,05:03,CLE,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0330,4,05:02,CLE,,ORL,,M. Wagner,ORL,MISS M. Wagner Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0330,4,05:01,CLE,,ORL,,M. Wagner,ORL,M. Wagner REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0330,4,03:37,CLE,97.0,ORL,89.0,M. Wagner,ORL,M. Wagner 3' Turnaround Bank Hook Shot (14 PTS) (Fultz 5 AST),Made Shot,Turnaround Bank Hook Shot,6,30,3,1,2.0,2.0,v
+S2223-G0330,4,01:52,CLE,,ORL,,M. Wagner,ORL,M. Wagner P.FOUL (P5.T2) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2223-G0330,4,01:27,CLE,103.0,ORL,94.0,M. Wagner,ORL,M. Wagner 1' Cutting Dunk Shot (16 PTS) (Fultz 6 AST),Made Shot,Cutting Dunk Shot,5,2,1,1,2.0,2.0,v

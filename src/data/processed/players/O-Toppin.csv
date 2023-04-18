@@ -1,0 +1,921 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G1220,1,10:51,NYK,4.0,IND,2.0,O. Toppin,NYK,Toppin 8' Driving Floating Jump Shot (2 PTS) (Quickley 1 AST),Made Shot,Driving Floating Jump Shot,-40,74,8,1,2.0,2.0,h
+S2223-G1220,1,10:51,NYK,5.0,IND,2.0,O. Toppin,NYK,Toppin Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1220,1,09:12,NYK,,IND,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1220,1,07:37,NYK,,IND,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1220,1,05:34,NYK,,IND,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1220,1,05:31,NYK,28.0,IND,18.0,O. Toppin,NYK,Toppin 2' Running Layup (5 PTS),Made Shot,Running Layup Shot,-17,1,2,1,2.0,2.0,h
+S2223-G1220,1,04:53,NYK,,IND,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,186,176,26,1,3.0,0.0,h
+S2223-G1220,1,04:14,NYK,30.0,IND,21.0,O. Toppin,NYK,Toppin 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-18,2,2,1,2.0,2.0,h
+S2223-G1220,1,03:43,NYK,32.0,IND,24.0,O. Toppin,NYK,Toppin 1' Cutting Dunk Shot (9 PTS) (Hartenstein 2 AST),Made Shot,Cutting Dunk Shot,7,6,1,1,2.0,2.0,h
+S2223-G1220,1,03:08,NYK,,IND,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1220,1,02:45,NYK,,IND,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1220,1,02:39,NYK,,IND,,O. Toppin,NYK,MISS Toppin 1' Running Layup,Missed Shot,Running Layup Shot,-11,-8,1,1,2.0,0.0,h
+S2223-G1220,1,02:01,NYK,38.0,IND,29.0,O. Toppin,NYK,Toppin Running Dunk (11 PTS) (Hartenstein 3 AST),Made Shot,Running Dunk Shot,-1,0,0,1,2.0,2.0,h
+S2223-G1220,1,01:38,NYK,41.0,IND,29.0,O. Toppin,NYK,Toppin 26' 3PT Jump Shot (14 PTS) (Hartenstein 4 AST),Made Shot,Jump Shot,72,248,26,1,3.0,3.0,h
+S2223-G1220,1,00:48.100000,NYK,,IND,,O. Toppin,NYK,Toppin OFF.Foul (P1) (C.Kirkland),Foul,Offensive,0,0,0,0,,,h
+S2223-G1220,1,00:48.100000,NYK,,IND,,O. Toppin,NYK,Toppin Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1220,1,00:24.300000,NYK,42.0,IND,36.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1220,1,00:24.300000,NYK,43.0,IND,36.0,O. Toppin,NYK,Toppin Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1220,2,00:02.600000,NYK,,IND,,O. Toppin,NYK,MISS Toppin 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-10,71,7,1,2.0,0.0,h
+S2223-G1220,3,11:33,NYK,,IND,,O. Toppin,NYK,Toppin STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1220,3,11:29,NYK,74.0,IND,73.0,O. Toppin,NYK,Toppin 2' Running Layup (18 PTS),Made Shot,Running Layup Shot,-4,22,2,1,2.0,2.0,h
+S2223-G1220,3,10:50,NYK,,IND,,O. Toppin,NYK,MISS Toppin 1' Running Layup,Missed Shot,Running Layup Shot,-5,6,1,1,2.0,0.0,h
+S2223-G1220,3,10:48,NYK,,IND,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1220,3,10:45,NYK,76.0,IND,76.0,O. Toppin,NYK,Toppin 2' Putback Layup (20 PTS),Made Shot,Putback Layup Shot,-7,14,2,1,2.0,2.0,h
+S2223-G1220,3,09:01,NYK,84.0,IND,76.0,O. Toppin,NYK,Toppin 27' 3PT Running Jump Shot (23 PTS) (Quickley 5 AST),Made Shot,Running Jump Shot,158,218,27,1,3.0,3.0,h
+S2223-G1220,3,08:27,NYK,,IND,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-223,2,0,1,3.0,0.0,h
+S2223-G1220,3,07:47,NYK,,IND,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,224,78,24,1,3.0,0.0,h
+S2223-G1220,3,04:25,NYK,99.0,IND,83.0,O. Toppin,NYK,Toppin 3PT Running Jump Shot (26 PTS) (Grimes 2 AST),Made Shot,Running Jump Shot,-225,-21,0,1,3.0,3.0,h
+S2223-G1220,3,03:44,NYK,,IND,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,172,199,26,1,3.0,0.0,h
+S2223-G1220,3,01:32,NYK,107.0,IND,96.0,O. Toppin,NYK,Toppin 1' Dunk (28 PTS) (Grimes 3 AST),Made Shot,Dunk Shot,0,5,1,1,2.0,2.0,h
+S2223-G1220,4,07:22,NYK,115.0,IND,117.0,O. Toppin,NYK,Toppin 24' 3PT Step Back Jump Shot (31 PTS) (Quickley 6 AST),Made Shot,Step Back Jump shot,229,67,24,1,3.0,3.0,h
+S2223-G1220,4,06:38,NYK,,IND,,O. Toppin,NYK,MISS Toppin 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,92,46,10,1,2.0,0.0,h
+S2223-G1220,4,06:25,NYK,,IND,,O. Toppin,NYK,MISS Toppin 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-168,198,26,1,3.0,0.0,h
+S2223-G1220,4,04:11,NYK,,IND,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1220,4,04:05,NYK,,IND,,O. Toppin,NYK,MISS Toppin 3' Running Layup,Missed Shot,Running Layup Shot,18,20,3,1,2.0,0.0,h
+S2223-G1220,4,01:36,NYK,,IND,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1220,4,00:04.700000,NYK,,IND,,O. Toppin,NYK,Toppin P.FOUL (P2.PN) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2223-G1220,4,00:02.400000,NYK,136.0,IND,139.0,O. Toppin,NYK,Toppin 28' 3PT Turnaround Jump Shot (34 PTS) (Quickley 7 AST),Made Shot,Turnaround Jump Shot,163,222,28,1,3.0,3.0,h
+S2223-G0348,2,11:06,NYK,,CLE,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-229,123,26,1,3.0,0.0,h
+S2223-G0348,2,10:51,NYK,25.0,CLE,16.0,O. Toppin,NYK,Toppin 1' Alley Oop Dunk (2 PTS) (McBride 1 AST),Made Shot,Alley Oop Dunk Shot,-7,2,1,1,2.0,2.0,h
+S2223-G0348,2,09:59,NYK,,CLE,,O. Toppin,NYK,MISS Toppin 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-4,37,4,1,2.0,0.0,h
+S2223-G0348,2,09:35,NYK,,CLE,,O. Toppin,NYK,Toppin L.B.FOUL (P1.T1) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0348,2,08:58,NYK,,CLE,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0348,2,06:51,NYK,,CLE,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0348,2,06:12,NYK,,CLE,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0348,4,10:08,NYK,,CLE,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,228,55,0,1,3.0,0.0,h
+S2223-G0348,4,09:50,NYK,76.0,CLE,69.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0348,4,09:50,NYK,,CLE,,O. Toppin,NYK,MISS Toppin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0348,4,08:19,NYK,80.0,CLE,69.0,O. Toppin,NYK,Toppin 1' Cutting Layup Shot (5 PTS) (Brunson 3 AST),Made Shot,Cutting Layup Shot,1,6,1,1,2.0,2.0,h
+S2223-G0348,4,07:55,NYK,,CLE,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0348,4,07:46,NYK,,CLE,,O. Toppin,NYK,MISS Toppin 2' Driving Layup,Missed Shot,Driving Layup Shot,-10,13,2,1,2.0,0.0,h
+S2223-G0348,4,06:47,NYK,,CLE,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0348,4,06:38,NYK,,CLE,,O. Toppin,NYK,MISS Toppin 27' 3PT Jump Shot,Missed Shot,Jump Shot,181,195,27,1,3.0,0.0,h
+S2223-G0348,4,06:22,NYK,,CLE,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0309,2,09:27,DET,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0309,2,07:46,DET,,NYK,,O. Toppin,NYK,SUB: Robinson FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0309,4,07:27,DET,89.0,NYK,119.0,O. Toppin,NYK,Toppin 30' 3PT Jump Shot (3 PTS) (Quickley 4 AST),Made Shot,Jump Shot,-60,293,30,1,3.0,3.0,v
+S2223-G0309,4,07:05,DET,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0309,4,06:54,DET,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,50,24,1,3.0,0.0,v
+S2223-G0309,4,06:12,DET,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0309,4,03:10,DET,103.0,NYK,132.0,O. Toppin,NYK,Toppin 3PT Jump Shot (6 PTS) (McBride 1 AST),Made Shot,Jump Shot,-228,37,0,1,3.0,3.0,v
+S2223-G0309,4,00:39.800000,DET,108.0,NYK,140.0,O. Toppin,NYK,Toppin 3' Alley Oop Dunk (8 PTS) (McBride 3 AST),Made Shot,Alley Oop Dunk Shot,-7,27,3,1,2.0,2.0,v
+S2223-G0240,2,09:48,PHX,,NYK,,O. Toppin,NYK,Toppin L.B.FOUL (P1.T1) (K.Lane),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0240,2,07:36,PHX,,NYK,,O. Toppin,NYK,MISS Toppin 1' Layup,Missed Shot,Layup Shot,1,5,1,1,2.0,0.0,v
+S2223-G0240,2,07:19,PHX,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0240,2,07:01,PHX,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0240,4,10:57,PHX,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0240,4,09:55,PHX,,NYK,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-141,209,25,1,3.0,0.0,v
+S2223-G0240,4,09:28,PHX,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0240,4,08:14,PHX,,NYK,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,138,218,26,1,3.0,0.0,v
+S2223-G0240,4,06:37,PHX,,NYK,,O. Toppin,NYK,MISS Toppin 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-112,-5,11,1,2.0,0.0,v
+S2223-G0240,4,05:06,PHX,,NYK,,O. Toppin,NYK,SUB: Mykhailiuk FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0997,2,11:29,SAC,,NYK,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-2,258,26,1,3.0,0.0,v
+S2223-G0997,2,10:24,SAC,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0997,2,09:26,SAC,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0997,2,08:58,SAC,,NYK,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0997,2,05:40,SAC,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0997,4,11:45,SAC,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,8,24,1,3.0,0.0,v
+S2223-G0997,4,11:14,SAC,92.0,NYK,87.0,O. Toppin,NYK,Toppin 3PT Jump Shot (3 PTS) (Hart 6 AST),Made Shot,Jump Shot,-230,-4,0,1,3.0,3.0,v
+S2223-G0997,4,10:27,SAC,92.0,NYK,91.0,O. Toppin,NYK,Toppin Running Dunk (5 PTS) (McBride 2 AST),Made Shot,Running Dunk Shot,1,0,0,1,2.0,2.0,v
+S2223-G0997,4,08:59,SAC,,NYK,,O. Toppin,NYK,MISS Toppin 8' Floating Jump Shot,Missed Shot,Floating Jump shot,12,75,8,1,2.0,0.0,v
+S2223-G0997,4,08:56,SAC,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0997,4,08:36,SAC,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,230,6,0,1,3.0,0.0,v
+S2223-G0997,4,07:16,SAC,,NYK,,O. Toppin,NYK,Toppin Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0997,4,06:48,SAC,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-227,-1,0,1,3.0,0.0,v
+S2223-G0997,4,06:37,SAC,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G1168,1,09:11,NYK,7.0,WAS,4.0,O. Toppin,NYK,Toppin 1' Running Alley Oop Dunk Shot (2 PTS) (Grimes 1 AST),Made Shot,Running Alley Oop Dunk Shot,-4,6,1,1,2.0,2.0,h
+S2223-G1168,1,08:45,NYK,,WAS,,O. Toppin,NYK,Toppin Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1168,1,08:24,NYK,9.0,WAS,10.0,O. Toppin,NYK,Toppin 1' Alley Oop Dunk (4 PTS) (Quickley 1 AST),Made Shot,Alley Oop Dunk Shot,1,10,1,1,2.0,2.0,h
+S2223-G1168,1,05:31,NYK,15.0,WAS,16.0,O. Toppin,NYK,Toppin 3PT Jump Shot (7 PTS) (Brunson 2 AST),Made Shot,Jump Shot,230,-7,0,1,3.0,3.0,h
+S2223-G1168,1,04:51,NYK,,WAS,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,230,47,0,1,3.0,0.0,h
+S2223-G1168,1,03:00,NYK,,WAS,,O. Toppin,NYK,SUB: McBride FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G1168,3,11:25,NYK,,WAS,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-232,-5,0,1,3.0,0.0,h
+S2223-G1168,3,10:49,NYK,,WAS,,O. Toppin,NYK,MISS Toppin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-169,207,27,1,3.0,0.0,h
+S2223-G1168,3,07:51,NYK,61.0,WAS,64.0,O. Toppin,NYK,Toppin 2' Driving Layup (9 PTS) (Quickley 3 AST),Made Shot,Driving Layup Shot,-22,1,2,1,2.0,2.0,h
+S2223-G1168,3,06:46,NYK,,WAS,,O. Toppin,NYK,MISS Toppin 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-61,17,6,1,2.0,0.0,h
+S2223-G1168,3,06:36,NYK,,WAS,,O. Toppin,NYK,Toppin P.FOUL (P1.T2) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G1168,3,05:47,NYK,,WAS,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1168,3,02:07,NYK,,WAS,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1168,3,01:12,NYK,,WAS,,O. Toppin,NYK,Toppin P.FOUL (P2.PN) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2223-G1168,3,00:49.200000,NYK,,WAS,,O. Toppin,NYK,Toppin STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1168,4,11:46,NYK,89.0,WAS,79.0,O. Toppin,NYK,Toppin 25' 3PT Jump Shot (12 PTS) (Quickley 4 AST),Made Shot,Jump Shot,-188,169,25,1,3.0,3.0,h
+S2223-G1168,4,10:46,NYK,,WAS,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,227,-9,0,1,3.0,0.0,h
+S2223-G1168,4,08:42,NYK,96.0,WAS,85.0,O. Toppin,NYK,Toppin 2' Cutting Layup Shot (14 PTS) (Hartenstein 2 AST),Made Shot,Cutting Layup Shot,-20,-4,2,1,2.0,2.0,h
+S2223-G1168,4,08:10,NYK,98.0,WAS,88.0,O. Toppin,NYK,Toppin Cutting Dunk Shot (16 PTS) (Grimes 4 AST),Made Shot,Cutting Dunk Shot,1,2,0,1,2.0,2.0,h
+S2223-G1168,4,06:11,NYK,104.0,WAS,91.0,O. Toppin,NYK,Toppin 26' 3PT Jump Shot (19 PTS) (Brunson 8 AST),Made Shot,Jump Shot,167,200,26,1,3.0,3.0,h
+S2223-G1168,4,05:23,NYK,,WAS,,O. Toppin,NYK,MISS Toppin 28' 3PT Jump Shot,Missed Shot,Jump Shot,151,233,28,1,3.0,0.0,h
+S2223-G1168,4,05:12,NYK,,WAS,,O. Toppin,NYK,Toppin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1168,4,05:02,NYK,107.0,WAS,92.0,O. Toppin,NYK,Toppin 2' Running Layup (21 PTS),Made Shot,Running Layup Shot,-6,21,2,1,2.0,2.0,h
+S2223-G0684,1,00:57.900000,ATL,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,1,00:21.600000,ATL,35.0,NYK,38.0,O. Toppin,NYK,Toppin Driving Dunk (2 PTS) (Quickley 1 AST),Made Shot,Driving Dunk Shot,1,0,0,1,2.0,2.0,v
+S2223-G0684,2,11:22,ATL,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,2,10:27,ATL,,NYK,,O. Toppin,NYK,MISS Toppin 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,97,-5,10,1,2.0,0.0,v
+S2223-G0684,2,08:06,ATL,47.0,NYK,51.0,O. Toppin,NYK,Toppin 1' Alley Oop Dunk (4 PTS) (Brunson 3 AST),Made Shot,Alley Oop Dunk Shot,-4,-4,1,1,2.0,2.0,v
+S2223-G0684,2,07:32,ATL,49.0,NYK,54.0,O. Toppin,NYK,Toppin 25' 3PT Jump Shot (7 PTS) (McBride 2 AST),Made Shot,Jump Shot,-170,180,25,1,3.0,3.0,v
+S2223-G0684,2,05:49,ATL,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,2,05:12,ATL,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0684,4,11:01,ATL,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-230,39,0,1,3.0,0.0,v
+S2223-G0684,4,09:42,ATL,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,228,-3,0,1,3.0,0.0,v
+S2223-G0684,4,07:03,ATL,,NYK,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,196,169,26,1,3.0,0.0,v
+S2223-G0684,4,06:49,ATL,,NYK,,O. Toppin,NYK,SUB: Sims FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0780,1,00:43.100000,NYK,,MIA,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0780,2,11:08,NYK,,MIA,,O. Toppin,NYK,MISS Toppin 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,136,211,25,1,3.0,0.0,h
+S2223-G0780,2,11:02,NYK,,MIA,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,161,206,26,1,3.0,0.0,h
+S2223-G0780,2,10:52,NYK,,MIA,,O. Toppin,NYK,Toppin S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0780,2,07:02,NYK,,MIA,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0780,4,11:30,NYK,80.0,MIA,72.0,O. Toppin,NYK,Toppin 3PT Jump Shot (3 PTS) (McBride 2 AST),Made Shot,Jump Shot,232,-4,0,1,3.0,3.0,h
+S2223-G0780,4,09:09,NYK,88.0,MIA,81.0,O. Toppin,NYK,Toppin 15' Turnaround Jump Shot (5 PTS) (Fournier 3 AST),Made Shot,Turnaround Jump Shot,81,130,15,1,2.0,2.0,h
+S2223-G0780,4,08:43,NYK,90.0,MIA,81.0,O. Toppin,NYK,Toppin 1' Running Layup (7 PTS) (Fournier 4 AST),Made Shot,Running Layup Shot,13,1,1,1,2.0,2.0,h
+S2223-G0780,4,06:59,NYK,,MIA,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-224,-11,0,1,3.0,0.0,h
+S2223-G0780,4,06:01,NYK,,MIA,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0780,4,04:53,NYK,,MIA,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0153,1,01:17,MIN,25.0,NYK,31.0,O. Toppin,NYK,Toppin 3PT Jump Shot (3 PTS) (Hartenstein 2 AST),Made Shot,Jump Shot,-228,12,0,1,3.0,3.0,v
+S2223-G0153,1,01:04,MIN,,NYK,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0153,1,00:41.900000,MIN,,NYK,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,142,217,26,1,3.0,0.0,v
+S2223-G0153,2,11:32,MIN,,NYK,,O. Toppin,NYK,Toppin STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0153,2,11:31,MIN,29.0,NYK,39.0,O. Toppin,NYK,Toppin Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2223-G0153,2,11:31,MIN,29.0,NYK,40.0,O. Toppin,NYK,Toppin Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0153,2,09:33,MIN,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,2,09:13,MIN,29.0,NYK,48.0,O. Toppin,NYK,Toppin 3PT Jump Shot (8 PTS) (Brunson 4 AST),Made Shot,Jump Shot,225,62,0,1,3.0,3.0,v
+S2223-G0153,2,07:17,MIN,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,2,07:15,MIN,33.0,NYK,55.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0153,2,07:15,MIN,33.0,NYK,56.0,O. Toppin,NYK,Toppin Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0153,2,06:30,MIN,33.0,NYK,60.0,O. Toppin,NYK,Toppin 2' Running Dunk (12 PTS) (Fournier 3 AST),Made Shot,Running Dunk Shot,-4,18,2,1,2.0,2.0,v
+S2223-G0153,2,06:03,MIN,,NYK,,O. Toppin,NYK,MISS Toppin 29' 3PT Jump Shot,Missed Shot,Jump Shot,-172,232,29,1,3.0,0.0,v
+S2223-G0153,2,05:56,MIN,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0153,2,00:08.100000,MIN,,NYK,,O. Toppin,NYK,Toppin STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0153,3,01:50,MIN,76.0,NYK,101.0,O. Toppin,NYK,Toppin 25' 3PT Jump Shot (15 PTS) (Quickley 1 AST),Made Shot,Jump Shot,-181,179,25,1,3.0,3.0,v
+S2223-G0153,3,01:04,MIN,,NYK,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-174,180,25,1,3.0,0.0,v
+S2223-G0153,4,11:27,MIN,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-226,57,0,1,3.0,0.0,v
+S2223-G0153,4,10:27,MIN,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,4,10:20,MIN,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,4,10:19,MIN,,NYK,,O. Toppin,NYK,MISS Toppin 7' Jump Shot,Missed Shot,Jump Shot,0,71,7,1,2.0,0.0,v
+S2223-G0153,4,08:20,MIN,,NYK,,O. Toppin,NYK,Toppin P.FOUL (P1.T2) (S.Mehta),Foul,Personal,0,0,0,0,,,v
+S2223-G0153,4,07:37,MIN,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,4,05:55,MIN,,NYK,,O. Toppin,NYK,Toppin STEAL (4 STL),,,0,0,0,0,,,v
+S2223-G0153,4,05:13,MIN,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,4,03:54,MIN,,NYK,,O. Toppin,NYK,MISS Toppin 29' 3PT Jump Shot,Missed Shot,Jump Shot,165,241,29,1,3.0,0.0,v
+S2223-G0153,4,00:48.300000,MIN,,NYK,,O. Toppin,NYK,Toppin Bad Pass Turnover (P1.T18),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0153,4,00:26.400000,MIN,,NYK,,O. Toppin,NYK,Toppin Step Out of Bounds Turnover (P2.T19),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0153,4,00:19.400000,MIN,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0851,2,07:36,NYK,47.0,UTA,36.0,O. Toppin,NYK,Toppin 2' Running Layup (2 PTS) (Hart 3 AST),Made Shot,Running Layup Shot,16,14,2,1,2.0,2.0,h
+S2223-G0851,2,06:40,NYK,,UTA,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-227,-8,0,1,3.0,0.0,h
+S2223-G0851,2,06:32,NYK,,UTA,,O. Toppin,NYK,SUB: Sims FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0851,4,11:12,NYK,,UTA,,O. Toppin,NYK,MISS Toppin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0851,4,11:12,NYK,,UTA,,O. Toppin,NYK,MISS Toppin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0851,4,09:43,NYK,,UTA,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,47,24,1,3.0,0.0,h
+S2223-G0851,4,08:33,NYK,,UTA,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,229,18,0,1,3.0,0.0,h
+S2223-G0851,4,08:26,NYK,,UTA,,O. Toppin,NYK,SUB: Brunson FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G1190,1,11:40,IND,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-232,4,0,1,3.0,0.0,v
+S2223-G1190,1,11:11,IND,0.0,NYK,1.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1190,1,11:11,IND,0.0,NYK,2.0,O. Toppin,NYK,Toppin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1190,1,06:46,IND,7.0,NYK,18.0,O. Toppin,NYK,Toppin 3' Cutting Layup Shot (4 PTS) (Quickley 4 AST),Made Shot,Cutting Layup Shot,-21,14,3,1,2.0,2.0,v
+S2223-G1190,1,05:37,IND,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1190,1,05:02,IND,11.0,NYK,26.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1190,1,05:02,IND,11.0,NYK,27.0,O. Toppin,NYK,Toppin Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1190,1,02:26,IND,,NYK,,O. Toppin,NYK,Toppin Offensive Charge Foul (P1) (M.Boland),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G1190,1,02:26,IND,,NYK,,O. Toppin,NYK,Toppin Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1190,1,01:27,IND,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1190,1,01:23,IND,22.0,NYK,36.0,O. Toppin,NYK,Toppin Running Alley Oop Dunk Shot (8 PTS) (Grimes 2 AST),Made Shot,Running Alley Oop Dunk Shot,1,0,0,1,2.0,2.0,v
+S2223-G1190,2,05:22,IND,,NYK,,O. Toppin,NYK,MISS Toppin 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-224,111,25,1,3.0,0.0,v
+S2223-G1190,2,04:57,IND,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P2.T4) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G1190,2,04:19,IND,49.0,NYK,57.0,O. Toppin,NYK,Toppin 2' Driving Finger Roll Layup (10 PTS) (Hart 1 AST),Made Shot,Driving Finger Roll Layup Shot,-20,10,2,1,2.0,2.0,v
+S2223-G1190,2,03:48,IND,51.0,NYK,60.0,O. Toppin,NYK,Toppin 3PT Jump Shot (13 PTS) (Quickley 6 AST),Made Shot,Jump Shot,-229,3,0,1,3.0,3.0,v
+S2223-G1190,2,02:25,IND,58.0,NYK,65.0,O. Toppin,NYK,Toppin 25' 3PT Jump Shot (16 PTS) (Quickley 7 AST),Made Shot,Jump Shot,-186,161,25,1,3.0,3.0,v
+S2223-G1190,2,02:09,IND,,NYK,,O. Toppin,NYK,Toppin Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1190,2,01:49,IND,,NYK,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-170,190,25,1,3.0,0.0,v
+S2223-G1190,2,00:20.200000,IND,67.0,NYK,70.0,O. Toppin,NYK,Toppin 26' 3PT Jump Shot (19 PTS) (Hartenstein 1 AST),Made Shot,Jump Shot,-167,195,26,1,3.0,3.0,v
+S2223-G1190,2,00:00.400000,IND,,NYK,,O. Toppin,NYK,MISS Toppin 43' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-119,408,43,1,3.0,0.0,v
+S2223-G1190,3,08:28,IND,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1190,3,05:35,IND,82.0,NYK,86.0,O. Toppin,NYK,Toppin 24' 3PT Step Back Jump Shot (22 PTS) (Hart 3 AST),Made Shot,Step Back Jump shot,235,34,24,1,3.0,3.0,v
+S2223-G1190,3,01:06,IND,91.0,NYK,100.0,O. Toppin,NYK,Toppin 3PT Jump Shot (25 PTS) (Grimes 4 AST),Made Shot,Jump Shot,-232,1,0,1,3.0,3.0,v
+S2223-G1190,3,01:06,IND,91.0,NYK,101.0,O. Toppin,NYK,Toppin Free Throw Flagrant 1 of 1 (26 PTS),Free Throw,Free Throw Flagrant 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1190,3,00:43.800000,IND,91.0,NYK,105.0,O. Toppin,NYK,Toppin 2' Running Alley Oop Dunk Shot (28 PTS) (Hart 6 AST),Made Shot,Running Alley Oop Dunk Shot,2,15,2,1,2.0,2.0,v
+S2223-G1190,4,11:14,IND,,NYK,,O. Toppin,NYK,Toppin OFF.Foul (P3) (K.Cutler),Foul,Offensive,0,0,0,0,,,v
+S2223-G1190,4,11:14,IND,,NYK,,O. Toppin,NYK,Toppin Offensive Foul Turnover (P3.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1190,4,08:51,IND,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-228,75,24,1,3.0,0.0,v
+S2223-G1190,4,07:14,IND,,NYK,,O. Toppin,NYK,Toppin Lost Ball Turnover (P4.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1190,4,06:26,IND,,NYK,,O. Toppin,NYK,MISS Toppin 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-200,185,27,1,3.0,0.0,v
+S2223-G1190,4,04:06,IND,120.0,NYK,122.0,O. Toppin,NYK,Toppin 2' Running Dunk (30 PTS) (Quickley 8 AST),Made Shot,Running Dunk Shot,1,15,2,1,2.0,2.0,v
+S2223-G1190,4,03:43,IND,120.0,NYK,124.0,O. Toppin,NYK,Toppin 1' Running Dunk (32 PTS) (Hart 7 AST),Made Shot,Running Dunk Shot,2,5,1,1,2.0,2.0,v
+S2223-G1190,4,01:20,IND,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,223,-10,0,1,3.0,0.0,v
+S2223-G1190,4,01:06,IND,,NYK,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0979,2,11:39,NYK,,CHA,,O. Toppin,NYK,MISS Toppin 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-229,2,0,1,3.0,0.0,h
+S2223-G0979,2,05:25,NYK,,CHA,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0979,3,00:32,NYK,89.0,CHA,87.0,O. Toppin,NYK,Toppin 25' 3PT Jump Shot (3 PTS) (Barrett 4 AST),Made Shot,Jump Shot,-153,193,25,1,3.0,3.0,h
+S2223-G0979,4,09:15,NYK,,CHA,,O. Toppin,NYK,MISS Toppin 3PT Running Jump Shot,Missed Shot,Running Jump Shot,223,29,0,1,3.0,0.0,h
+S2223-G0979,4,06:54,NYK,,CHA,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-4,24,1,3.0,0.0,h
+S2223-G0979,4,06:38,NYK,,CHA,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0742,2,09:11,BKN,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0742,2,08:05,BKN,42.0,NYK,31.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0742,2,08:05,BKN,42.0,NYK,32.0,O. Toppin,NYK,Toppin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0742,2,07:41,BKN,44.0,NYK,34.0,O. Toppin,NYK,Toppin 2' Cutting Layup Shot (4 PTS) (Quickley 1 AST),Made Shot,Cutting Layup Shot,-21,10,2,1,2.0,2.0,v
+S2223-G0742,2,07:14,BKN,,NYK,,O. Toppin,NYK,MISS Toppin 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,49,17,5,1,2.0,0.0,v
+S2223-G0742,2,06:58,BKN,,NYK,,O. Toppin,NYK,SUB: Grimes FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0742,4,07:16,BKN,,NYK,,O. Toppin,NYK,SUB: Brunson FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0607,1,02:23,NYK,,MIL,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0607,2,02:07,NYK,,MIL,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0607,2,01:54,NYK,,MIL,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-222,-7,0,1,3.0,0.0,h
+S2223-G0607,2,00:59.800000,NYK,,MIL,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0607,4,11:23,NYK,81.0,MIL,73.0,O. Toppin,NYK,Toppin 3PT Jump Shot (3 PTS) (Fournier 2 AST),Made Shot,Jump Shot,-234,11,0,1,3.0,3.0,h
+S2223-G0607,4,08:36,NYK,,MIL,,O. Toppin,NYK,MISS Toppin 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-87,76,12,1,2.0,0.0,h
+S2223-G0607,4,07:41,NYK,,MIL,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0715,1,00:50.600000,NYK,32.0,CLE,27.0,O. Toppin,NYK,Toppin 3PT Jump Shot (3 PTS) (McBride 2 AST),Made Shot,Jump Shot,229,1,0,1,3.0,3.0,h
+S2223-G0715,1,00:34.600000,NYK,,CLE,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0715,1,00:23.900000,NYK,34.0,CLE,27.0,O. Toppin,NYK,Toppin 4' Driving Layup (5 PTS) (Quickley 1 AST),Made Shot,Driving Layup Shot,10,37,4,1,2.0,2.0,h
+S2223-G0715,2,11:30,NYK,,CLE,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0715,2,10:09,NYK,,CLE,,O. Toppin,NYK,MISS Toppin 10' Floating Jump Shot,Missed Shot,Floating Jump shot,-5,96,10,1,2.0,0.0,h
+S2223-G0715,2,07:20,NYK,44.0,CLE,32.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0715,2,07:20,NYK,,CLE,,O. Toppin,NYK,MISS Toppin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0715,2,06:52,NYK,,CLE,,O. Toppin,NYK,SUB: Quickley FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0715,4,11:33,NYK,83.0,CLE,75.0,O. Toppin,NYK,Toppin 3PT Jump Shot (9 PTS) (McBride 3 AST),Made Shot,Jump Shot,224,-1,0,1,3.0,3.0,h
+S2223-G0715,4,11:03,NYK,85.0,CLE,75.0,O. Toppin,NYK,Toppin 1' Layup (11 PTS) (Quickley 6 AST),Made Shot,Layup Shot,-5,3,1,1,2.0,2.0,h
+S2223-G0715,4,10:05,NYK,,CLE,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0715,4,09:43,NYK,,CLE,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,4,256,26,1,3.0,0.0,h
+S2223-G0715,4,08:16,NYK,,CLE,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G1124,2,08:02,NYK,,HOU,,O. Toppin,NYK,Toppin S.FOUL (P1.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G1124,2,07:03,NYK,,HOU,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,0,24,1,3.0,0.0,h
+S2223-G1124,2,06:53,NYK,,HOU,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1124,2,04:19,NYK,,HOU,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-185,165,25,1,3.0,0.0,h
+S2223-G1124,2,04:16,NYK,,HOU,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G1124,4,10:25,NYK,,HOU,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1124,4,09:50,NYK,110.0,HOU,90.0,O. Toppin,NYK,Toppin 25' 3PT Jump Shot (3 PTS) (Hartenstein 6 AST),Made Shot,Jump Shot,-170,179,25,1,3.0,3.0,h
+S2223-G1124,4,08:33,NYK,117.0,HOU,92.0,O. Toppin,NYK,Toppin 1' Running Dunk (5 PTS) (Barrett 5 AST),Made Shot,Running Dunk Shot,-2,-7,1,1,2.0,2.0,h
+S2223-G1124,4,07:47,NYK,120.0,HOU,95.0,O. Toppin,NYK,Toppin 25' 3PT Jump Shot (8 PTS) (McBride 3 AST),Made Shot,Jump Shot,-163,192,25,1,3.0,3.0,h
+S2223-G1124,4,07:08,NYK,,HOU,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,232,-8,0,1,3.0,0.0,h
+S2223-G1124,4,05:39,NYK,129.0,HOU,97.0,O. Toppin,NYK,Toppin 2' Running Alley Oop Dunk Shot (10 PTS) (Grimes 5 AST),Made Shot,Running Alley Oop Dunk Shot,-7,14,2,1,2.0,2.0,h
+S2223-G1124,4,05:06,NYK,,HOU,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-207,131,24,1,3.0,0.0,h
+S2223-G1124,4,04:54,NYK,,HOU,,O. Toppin,NYK,Toppin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1124,4,03:38,NYK,,HOU,,O. Toppin,NYK,MISS Toppin 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,108,0,11,1,2.0,0.0,h
+S2223-G1124,4,03:00,NYK,,HOU,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-230,-7,0,1,3.0,0.0,h
+S2223-G1124,4,01:24,NYK,134.0,HOU,109.0,O. Toppin,NYK,Toppin 1' Driving Finger Roll Layup (12 PTS) (McBride 4 AST),Made Shot,Driving Finger Roll Layup Shot,6,13,1,1,2.0,2.0,h
+S2223-G1124,4,00:36.900000,NYK,137.0,HOU,113.0,O. Toppin,NYK,Toppin 3PT Jump Shot (15 PTS) (Grimes 6 AST),Made Shot,Jump Shot,228,3,0,1,3.0,3.0,h
+S2223-G0365,2,10:41,NYK,,ATL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0365,2,09:01,NYK,38.0,ATL,20.0,O. Toppin,NYK,Toppin 3PT Jump Shot (3 PTS) (Hartenstein 1 AST),Made Shot,Jump Shot,230,-19,0,1,3.0,3.0,h
+S2223-G0365,2,08:37,NYK,,ATL,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,179,185,26,1,3.0,0.0,h
+S2223-G0365,2,07:33,NYK,,ATL,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,138,210,25,1,3.0,0.0,h
+S2223-G0365,2,06:06,NYK,,ATL,,O. Toppin,NYK,SUB: Robinson FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0164,2,10:42,BKN,,NYK,,O. Toppin,NYK,MISS Toppin 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,33,3,3,1,2.0,0.0,v
+S2223-G0164,2,08:35,BKN,50.0,NYK,32.0,O. Toppin,NYK,Toppin 2' Reverse Layup (2 PTS) (Quickley 3 AST),Made Shot,Reverse Layup Shot,21,-2,2,1,2.0,2.0,v
+S2223-G0164,2,08:35,BKN,50.0,NYK,33.0,O. Toppin,NYK,Toppin Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0164,2,07:34,BKN,,NYK,,O. Toppin,NYK,MISS Toppin 5' Layup,Missed Shot,Layup Shot,40,29,5,1,2.0,0.0,v
+S2223-G0164,2,07:18,BKN,50.0,NYK,37.0,O. Toppin,NYK,Toppin 2' Running Layup (5 PTS) (Brunson 1 AST),Made Shot,Running Layup Shot,17,1,2,1,2.0,2.0,v
+S2223-G0164,2,06:59,BKN,,NYK,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0164,2,04:32,BKN,,NYK,,O. Toppin,NYK,SUB: Reddish FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0164,3,02:46,BKN,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0164,3,02:06,BKN,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0164,3,00:17.300000,BKN,,NYK,,O. Toppin,NYK,MISS Toppin 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-110,117,16,1,2.0,0.0,v
+S2223-G0164,4,10:57,BKN,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0164,4,10:49,BKN,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,34,24,1,3.0,0.0,v
+S2223-G0164,4,06:44,BKN,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0164,4,03:36,BKN,,NYK,,O. Toppin,NYK,MISS Toppin 28' 3PT Jump Shot,Missed Shot,Jump Shot,-167,221,28,1,3.0,0.0,v
+S2223-G0164,4,03:13,BKN,,NYK,,O. Toppin,NYK,SUB: Arcidiacono FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G1154,1,11:41,CLE,0.0,NYK,3.0,O. Toppin,NYK,Toppin 26' 3PT Jump Shot (3 PTS) (Brunson 1 AST),Made Shot,Jump Shot,212,157,26,1,3.0,3.0,v
+S2223-G1154,1,10:00,CLE,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P1.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2223-G1154,1,03:55,CLE,31.0,NYK,28.0,O. Toppin,NYK,Toppin 24' 3PT Jump Shot (6 PTS) (Grimes 1 AST),Made Shot,Jump Shot,235,16,24,1,3.0,3.0,v
+S2223-G1154,1,02:37,CLE,,NYK,,O. Toppin,NYK,SUB: Hart FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G1154,3,08:57,CLE,,NYK,,O. Toppin,NYK,MISS Toppin 1' Dunk,Missed Shot,Dunk Shot,5,7,1,1,2.0,0.0,v
+S2223-G1154,3,08:53,CLE,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1154,3,07:26,CLE,,NYK,,O. Toppin,NYK,MISS Toppin 3' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,10,25,3,1,2.0,0.0,v
+S2223-G1154,3,06:17,CLE,86.0,NYK,90.0,O. Toppin,NYK,Toppin 1' Dunk (8 PTS) (Brunson 6 AST),Made Shot,Dunk Shot,4,5,1,1,2.0,2.0,v
+S2223-G1154,3,04:31,CLE,91.0,NYK,97.0,O. Toppin,NYK,Toppin 1' Running Layup (10 PTS) (Brunson 8 AST),Made Shot,Running Layup Shot,10,5,1,1,2.0,2.0,v
+S2223-G1154,3,03:48,CLE,94.0,NYK,101.0,O. Toppin,NYK,Toppin 1' Running Dunk (12 PTS) (Grimes 2 AST),Made Shot,Running Dunk Shot,2,6,1,1,2.0,2.0,v
+S2223-G1154,3,02:48,CLE,,NYK,,O. Toppin,NYK,SUB: Hart FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0895,2,10:26,WAS,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0895,2,10:09,WAS,,NYK,,O. Toppin,NYK,Toppin Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0895,2,09:39,WAS,,NYK,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-132,224,26,1,3.0,0.0,v
+S2223-G0895,2,08:59,WAS,,NYK,,O. Toppin,NYK,MISS Toppin 5' Driving Layup,Missed Shot,Driving Layup Shot,-49,19,5,1,2.0,0.0,v
+S2223-G0895,2,08:35,WAS,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0895,2,07:14,WAS,,NYK,,O. Toppin,NYK,Toppin P.FOUL (P1.T2) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0895,2,06:37,WAS,,NYK,,O. Toppin,NYK,MISS Toppin 5' Layup,Missed Shot,Layup Shot,33,35,5,1,2.0,0.0,v
+S2223-G0895,2,06:23,WAS,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0895,3,00:53.900000,WAS,,NYK,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0895,4,10:15,WAS,91.0,NYK,93.0,O. Toppin,NYK,Toppin 2' Running Dunk (2 PTS) (Barrett 3 AST),Made Shot,Running Dunk Shot,-20,4,2,1,2.0,2.0,v
+S2223-G0895,4,07:08,WAS,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G1093,2,11:03,ORL,,NYK,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,152,216,26,1,3.0,0.0,v
+S2223-G1093,2,09:25,ORL,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,227,43,0,1,3.0,0.0,v
+S2223-G1093,2,08:05,ORL,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P1.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G1093,2,07:51,ORL,,NYK,,O. Toppin,NYK,MISS Toppin 27' 3PT Jump Shot,Missed Shot,Jump Shot,158,225,27,1,3.0,0.0,v
+S2223-G1093,2,06:16,ORL,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1093,2,05:30,ORL,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G1093,4,10:21,ORL,80.0,NYK,78.0,O. Toppin,NYK,Toppin 28' 3PT Jump Shot (3 PTS) (Quickley 4 AST),Made Shot,Jump Shot,109,257,28,1,3.0,3.0,v
+S2223-G1093,4,09:39,ORL,,NYK,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-154,206,26,1,3.0,0.0,v
+S2223-G1093,4,09:26,ORL,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1093,4,07:59,ORL,88.0,NYK,82.0,O. Toppin,NYK,Toppin 1' Layup (5 PTS),Made Shot,Layup Shot,-12,8,1,1,2.0,2.0,v
+S2223-G1093,4,07:17,ORL,,NYK,,O. Toppin,NYK,MISS Toppin 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-135,53,15,1,2.0,0.0,v
+S2223-G1093,4,07:00,ORL,,NYK,,O. Toppin,NYK,SUB: Grimes FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0122,1,01:59,PHI,20.0,NYK,18.0,O. Toppin,NYK,Toppin 1' Alley Oop Dunk (2 PTS) (Quickley 2 AST),Made Shot,Alley Oop Dunk Shot,10,8,1,1,2.0,2.0,v
+S2223-G0122,1,00:01.500000,PHI,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0122,2,08:38,PHI,27.0,NYK,24.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0122,2,08:38,PHI,27.0,NYK,25.0,O. Toppin,NYK,Toppin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0122,2,08:28,PHI,,NYK,,O. Toppin,NYK,SUB: Reddish FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0122,4,11:43,PHI,,NYK,,O. Toppin,NYK,MISS Toppin 27' 3PT Jump Shot,Missed Shot,Jump Shot,143,224,27,1,3.0,0.0,v
+S2223-G0122,4,11:35,PHI,,NYK,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,188,178,26,1,3.0,0.0,v
+S2223-G0122,4,10:58,PHI,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0122,4,10:48,PHI,,NYK,,O. Toppin,NYK,Toppin Bad Pass Turnover (P1.T19),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0122,4,10:15,PHI,86.0,NYK,77.0,O. Toppin,NYK,Toppin 26' 3PT Jump Shot (7 PTS) (Brunson 6 AST),Made Shot,Jump Shot,-54,258,26,1,3.0,3.0,v
+S2223-G0122,4,09:37,PHI,86.0,NYK,79.0,O. Toppin,NYK,Toppin 1' Alley Oop Dunk (9 PTS) (Fournier 2 AST),Made Shot,Alley Oop Dunk Shot,-7,5,1,1,2.0,2.0,v
+S2223-G0122,4,08:04,PHI,,NYK,,O. Toppin,NYK,MISS Toppin 28' 3PT Jump Shot,Missed Shot,Jump Shot,131,252,28,1,3.0,0.0,v
+S2223-G0122,4,07:51,PHI,,NYK,,O. Toppin,NYK,Toppin Illegal Assist Turnover (P2.T20),Turnover,Illegal Assist Turnover,0,0,0,0,,,v
+S2223-G0122,4,06:35,PHI,,NYK,,O. Toppin,NYK,Toppin Traveling Turnover (P3.T21),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0122,4,06:07,PHI,,NYK,,O. Toppin,NYK,MISS Toppin 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-45,25,5,1,2.0,0.0,v
+S2223-G0122,4,05:58,PHI,91.0,NYK,83.0,O. Toppin,NYK,Toppin Running Dunk (11 PTS) (Reddish 3 AST),Made Shot,Running Dunk Shot,2,-1,0,1,2.0,2.0,v
+S2223-G0122,4,05:34,PHI,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0122,4,04:24,PHI,,NYK,,O. Toppin,NYK,Toppin L.B.FOUL (P1.T3) (J.Goble),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0122,4,03:29,PHI,93.0,NYK,90.0,O. Toppin,NYK,Toppin 3PT Jump Shot (14 PTS) (Brunson 7 AST),Made Shot,Jump Shot,-234,-16,0,1,3.0,3.0,v
+S2223-G0122,4,01:27,PHI,96.0,NYK,97.0,O. Toppin,NYK,Toppin 26' 3PT Jump Shot (17 PTS) (Randle 5 AST),Made Shot,Jump Shot,-167,200,26,1,3.0,3.0,v
+S2223-G0122,4,00:19.400000,PHI,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0122,4,00:19.400000,PHI,,NYK,,O. Toppin,NYK,SUB: Brunson FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0876,2,08:39,ATL,27.0,NYK,44.0,O. Toppin,NYK,Toppin 25' 3PT Jump Shot (3 PTS) (Hart 1 AST),Made Shot,Jump Shot,132,211,25,1,3.0,3.0,v
+S2223-G0876,2,07:17,ATL,29.0,NYK,49.0,O. Toppin,NYK,Toppin 25' 3PT Running Jump Shot (6 PTS) (Brunson 3 AST),Made Shot,Running Jump Shot,126,213,25,1,3.0,3.0,v
+S2223-G0876,2,07:01,ATL,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P1.T1) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0876,2,06:58,ATL,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,2,05:59,ATL,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,224,61,0,1,3.0,0.0,v
+S2223-G0876,2,05:55,ATL,34.0,NYK,51.0,O. Toppin,NYK,Toppin Alley Oop Dunk (8 PTS) (Brunson 4 AST),Made Shot,Alley Oop Dunk Shot,0,-1,0,1,2.0,2.0,v
+S2223-G0876,2,05:34,ATL,,NYK,,O. Toppin,NYK,SUB: Grimes FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0876,4,11:49,ATL,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,42,24,1,3.0,0.0,v
+S2223-G0876,4,11:25,ATL,78.0,NYK,94.0,O. Toppin,NYK,Toppin 3PT Jump Shot (11 PTS) (Quickley 1 AST),Made Shot,Jump Shot,232,-10,0,1,3.0,3.0,v
+S2223-G0876,4,07:42,ATL,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0876,4,01:50,ATL,,NYK,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,210,146,26,1,3.0,0.0,v
+S2223-G0837,2,11:33,PHI,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-233,-8,0,1,3.0,0.0,v
+S2223-G0837,2,10:14,PHI,32.0,NYK,38.0,O. Toppin,NYK,Toppin 8' Driving Floating Jump Shot (2 PTS) (Quickley 1 AST),Made Shot,Driving Floating Jump Shot,-26,79,8,1,2.0,2.0,v
+S2223-G0837,2,10:03,PHI,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P1.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0837,2,09:45,PHI,,NYK,,O. Toppin,NYK,MISS Toppin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-77,262,27,1,3.0,0.0,v
+S2223-G0837,2,06:15,PHI,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P2.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0837,2,05:53,PHI,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,227,-3,0,1,3.0,0.0,v
+S2223-G0837,2,05:35,PHI,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0837,4,08:52,PHI,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0837,4,06:58,PHI,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0765,1,02:41,NYK,,LAL,,O. Toppin,NYK,Toppin S.FOUL (P1.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0765,2,11:45,NYK,,LAL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,2,11:09,NYK,,LAL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,2,10:11,NYK,,LAL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,2,10:11,NYK,,LAL,,O. Toppin,NYK,Toppin Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0765,2,09:12,NYK,,LAL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,2,08:56,NYK,,LAL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,2,08:48,NYK,,LAL,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0765,3,02:49,NYK,,LAL,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,168,201,26,1,3.0,0.0,h
+S2223-G0765,3,02:29,NYK,79.0,LAL,78.0,O. Toppin,NYK,Toppin 3PT Jump Shot (3 PTS) (Brunson 3 AST),Made Shot,Jump Shot,223,-6,0,1,3.0,3.0,h
+S2223-G0765,3,01:26,NYK,,LAL,,O. Toppin,NYK,Toppin S.FOUL (P2.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0765,3,00:21.500000,NYK,,LAL,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0765,4,05:53,NYK,,LAL,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0949,2,11:13,MIA,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-233,11,0,1,3.0,0.0,v
+S2223-G0949,2,08:44,MIA,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-229,1,0,1,3.0,0.0,v
+S2223-G0949,2,08:09,MIA,,NYK,,O. Toppin,NYK,MISS Toppin 5' Jump Bank Shot,Missed Shot,Jump Bank Shot,-48,18,5,1,2.0,0.0,v
+S2223-G0949,2,08:04,MIA,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0949,2,08:04,MIA,36.0,NYK,49.0,O. Toppin,NYK,Toppin 2' Dunk (2 PTS),Made Shot,Dunk Shot,7,16,2,1,2.0,2.0,v
+S2223-G0949,2,06:33,MIA,,NYK,,O. Toppin,NYK,MISS Toppin 27' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,172,210,27,1,3.0,0.0,v
+S2223-G0949,2,04:52,MIA,,NYK,,O. Toppin,NYK,Toppin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0949,2,04:23,MIA,,NYK,,O. Toppin,NYK,SUB: Brunson FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0949,4,10:03,MIA,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0949,4,07:24,MIA,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0135,1,01:58,NYK,,BOS,,O. Toppin,NYK,Toppin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0135,2,11:15,NYK,,BOS,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-233,5,0,1,3.0,0.0,h
+S2223-G0135,2,10:21,NYK,,BOS,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,2,10:19,NYK,,BOS,,O. Toppin,NYK,MISS Toppin Putback Dunk,Missed Shot,Putback Dunk Shot,0,0,0,1,2.0,0.0,h
+S2223-G0135,2,10:18,NYK,,BOS,,O. Toppin,NYK,Toppin REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,2,10:17,NYK,,BOS,,O. Toppin,NYK,MISS Toppin 1' Putback Layup,Missed Shot,Putback Layup Shot,5,6,1,1,2.0,0.0,h
+S2223-G0135,2,09:59,NYK,,BOS,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,16,24,1,3.0,0.0,h
+S2223-G0135,2,09:13,NYK,,BOS,,O. Toppin,NYK,Toppin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,2,07:34,NYK,,BOS,,O. Toppin,NYK,SUB: Rose FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0135,4,11:42,NYK,,BOS,,O. Toppin,NYK,Toppin P.FOUL (P1.T1) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2223-G0135,4,11:28,NYK,,BOS,,O. Toppin,NYK,Toppin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,4,11:06,NYK,,BOS,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0135,4,09:19,NYK,,BOS,,O. Toppin,NYK,Toppin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,4,08:29,NYK,,BOS,,O. Toppin,NYK,MISS Toppin 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,141,236,27,1,3.0,0.0,h
+S2223-G0135,4,08:17,NYK,,BOS,,O. Toppin,NYK,Toppin REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,4,08:11,NYK,101.0,BOS,106.0,O. Toppin,NYK,Toppin 25' 3PT Jump Shot (3 PTS) (Brunson 10 AST),Made Shot,Jump Shot,-158,194,25,1,3.0,3.0,h
+S2223-G0135,4,07:29,NYK,103.0,BOS,108.0,O. Toppin,NYK,Toppin 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,6,-1,1,1,2.0,2.0,h
+S2223-G0135,4,06:52,NYK,105.0,BOS,111.0,O. Toppin,NYK,Toppin 1' Driving Finger Roll Layup (7 PTS) (Fournier 1 AST),Made Shot,Driving Finger Roll Layup Shot,-2,-5,1,1,2.0,2.0,h
+S2223-G0135,4,06:17,NYK,,BOS,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,212,130,25,1,3.0,0.0,h
+S2223-G0135,4,06:10,NYK,,BOS,,O. Toppin,NYK,SUB: Hartenstein FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0046,1,01:11,NYK,,ORL,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,229,-15,0,1,3.0,0.0,h
+S2223-G0046,1,00:35.800000,NYK,34.0,ORL,26.0,O. Toppin,NYK,Toppin 1' Running Dunk (2 PTS) (Quickley 4 AST),Made Shot,Running Dunk Shot,-5,-3,1,1,2.0,2.0,h
+S2223-G0046,2,10:47,NYK,35.0,ORL,33.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0046,2,10:47,NYK,36.0,ORL,33.0,O. Toppin,NYK,Toppin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0046,2,10:12,NYK,,ORL,,O. Toppin,NYK,Toppin Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0046,2,09:28,NYK,38.0,ORL,33.0,O. Toppin,NYK,Toppin 1' Alley Oop Dunk (6 PTS) (Reddish 1 AST),Made Shot,Alley Oop Dunk Shot,-2,13,1,1,2.0,2.0,h
+S2223-G0046,2,08:23,NYK,43.0,ORL,36.0,O. Toppin,NYK,Toppin 1' Alley Oop Dunk (8 PTS) (Quickley 6 AST),Made Shot,Alley Oop Dunk Shot,6,0,1,1,2.0,2.0,h
+S2223-G0046,2,08:13,NYK,,ORL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0046,2,07:29,NYK,,ORL,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0046,2,07:29,NYK,,ORL,,O. Toppin,NYK,MISS Toppin Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0046,2,07:15,NYK,,ORL,,O. Toppin,NYK,SUB: Brunson FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0046,3,04:52,NYK,,ORL,,O. Toppin,NYK,Toppin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0046,3,02:49,NYK,89.0,ORL,78.0,O. Toppin,NYK,Toppin 1' Alley Oop Dunk (10 PTS) (Barrett 1 AST),Made Shot,Alley Oop Dunk Shot,7,13,1,1,2.0,2.0,h
+S2223-G0046,3,00:54.500000,NYK,,ORL,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0046,3,00:01.700000,NYK,,ORL,,O. Toppin,NYK,Toppin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0046,4,11:04,NYK,,ORL,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G1084,2,11:35,MIA,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1084,2,11:08,MIA,,NYK,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-218,132,25,1,3.0,0.0,v
+S2223-G1084,2,10:01,MIA,36.0,NYK,37.0,O. Toppin,NYK,Toppin 24' 3PT Jump Shot (3 PTS) (Barrett 2 AST),Made Shot,Jump Shot,-238,43,24,1,3.0,3.0,v
+S2223-G1084,2,08:37,MIA,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,227,-15,0,1,3.0,0.0,v
+S2223-G1084,2,07:04,MIA,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,170,175,24,1,3.0,0.0,v
+S2223-G1084,2,06:46,MIA,,NYK,,O. Toppin,NYK,MISS Toppin 1' Running Alley Oop Dunk Shot,Missed Shot,Running Alley Oop Dunk Shot,-12,8,1,1,2.0,0.0,v
+S2223-G1084,2,06:36,MIA,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1084,2,05:27,MIA,,NYK,,O. Toppin,NYK,SUB: Grimes FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G1084,4,09:05,MIA,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1084,4,07:42,MIA,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1084,4,06:32,MIA,,NYK,,O. Toppin,NYK,SUB: Brunson FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0816,2,11:25,ORL,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,46,24,1,3.0,0.0,v
+S2223-G0816,2,10:42,ORL,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,2,10:34,ORL,,NYK,,O. Toppin,NYK,MISS Toppin 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-130,228,26,1,3.0,0.0,v
+S2223-G0816,2,10:33,ORL,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,2,10:33,ORL,28.0,NYK,25.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0816,2,10:33,ORL,28.0,NYK,26.0,O. Toppin,NYK,Toppin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0816,2,09:05,ORL,,NYK,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,232,79,25,1,3.0,0.0,v
+S2223-G0816,2,08:10,ORL,,NYK,,O. Toppin,NYK,MISS Toppin 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,37,21,4,1,2.0,0.0,v
+S2223-G0816,2,07:59,ORL,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,2,05:50,ORL,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P1.T3) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2223-G0816,2,05:50,ORL,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0816,4,10:28,ORL,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P2.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0816,4,09:28,ORL,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,227,74,24,1,3.0,0.0,v
+S2223-G0816,4,08:36,ORL,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,4,05:54,ORL,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,4,05:06,ORL,84.0,NYK,83.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0816,4,05:06,ORL,,NYK,,O. Toppin,NYK,MISS Toppin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0816,4,05:03,ORL,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,4,05:02,ORL,,NYK,,O. Toppin,NYK,MISS Toppin 3' Layup,Missed Shot,Layup Shot,-4,26,3,1,2.0,0.0,v
+S2223-G0816,4,04:16,ORL,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G1138,2,07:37,NYK,31.0,MIA,30.0,O. Toppin,NYK,Toppin 25' 3PT Running Jump Shot (3 PTS) (Hart 1 AST),Made Shot,Running Jump Shot,-196,155,25,1,3.0,3.0,h
+S2223-G1138,2,06:50,NYK,,MIA,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1138,2,05:17,NYK,,MIA,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G1138,3,09:44,NYK,51.0,MIA,52.0,O. Toppin,NYK,Toppin 24' 3PT Jump Shot (6 PTS) (Grimes 2 AST),Made Shot,Jump Shot,-237,-5,24,1,3.0,3.0,h
+S2223-G1138,3,08:29,NYK,,MIA,,O. Toppin,NYK,MISS Toppin 27' 3PT Jump Shot,Missed Shot,Jump Shot,205,169,27,1,3.0,0.0,h
+S2223-G1138,3,08:08,NYK,,MIA,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1138,3,05:52,NYK,,MIA,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-227,-10,0,1,3.0,0.0,h
+S2223-G1138,3,02:27,NYK,,MIA,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1138,3,01:39,NYK,,MIA,,O. Toppin,NYK,SUB: Hart FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0178,1,03:02,NYK,,DET,,O. Toppin,NYK,Toppin Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0178,1,02:59,NYK,,DET,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0178,1,01:54,NYK,,DET,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-232,-6,0,1,3.0,0.0,h
+S2223-G0178,1,01:14,NYK,,DET,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,1,00:47.500000,NYK,,DET,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,2,09:41,NYK,39.0,DET,29.0,O. Toppin,NYK,Toppin 3PT Jump Shot (3 PTS) (Fournier 1 AST),Made Shot,Jump Shot,-232,-21,0,1,3.0,3.0,h
+S2223-G0178,2,09:18,NYK,,DET,,O. Toppin,NYK,Toppin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0178,2,09:12,NYK,,DET,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-146,211,26,1,3.0,0.0,h
+S2223-G0178,2,08:13,NYK,,DET,,O. Toppin,NYK,SUB: Hartenstein FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0178,2,05:03,NYK,,DET,,O. Toppin,NYK,Toppin P.FOUL (P1.PN) (L.Wood),Foul,Personal,0,0,0,0,,,h
+S2223-G0178,2,02:58,NYK,63.0,DET,47.0,O. Toppin,NYK,Toppin 17' Pullup Jump Shot (5 PTS) (Randle 3 AST),Made Shot,Pullup Jump shot,97,134,17,1,2.0,2.0,h
+S2223-G0178,2,00:59.500000,NYK,,DET,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-1,24,1,3.0,0.0,h
+S2223-G0178,2,00:28.700000,NYK,,DET,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,4,11:22,NYK,,DET,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,115,219,25,1,3.0,0.0,h
+S2223-G0178,4,10:20,NYK,,DET,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,4,10:16,NYK,,DET,,O. Toppin,NYK,MISS Toppin 2' Tip Dunk Shot,Missed Shot,Tip Dunk Shot,4,16,2,1,2.0,0.0,h
+S2223-G0178,4,08:55,NYK,,DET,,O. Toppin,NYK,Toppin S.FOUL (P2.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0178,4,08:12,NYK,,DET,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,4,07:38,NYK,101.0,DET,92.0,O. Toppin,NYK,Toppin 3PT Jump Shot (8 PTS) (Brunson 6 AST),Made Shot,Jump Shot,227,14,0,1,3.0,3.0,h
+S2223-G0178,4,06:40,NYK,,DET,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,232,-1,0,1,3.0,0.0,h
+S2223-G0178,4,06:34,NYK,,DET,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0969,2,10:58,BOS,,NYK,,O. Toppin,NYK,MISS Toppin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-175,204,27,1,3.0,0.0,v
+S2223-G0969,2,07:46,BOS,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0969,2,06:23,BOS,45.0,NYK,45.0,O. Toppin,NYK,Toppin 2' Running Alley Oop Dunk Shot (2 PTS) (Hart 1 AST),Made Shot,Running Alley Oop Dunk Shot,-9,16,2,1,2.0,2.0,v
+S2223-G0969,2,05:07,BOS,,NYK,,O. Toppin,NYK,SUB: Barrett FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0969,4,10:10,BOS,87.0,NYK,91.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0969,4,10:10,BOS,87.0,NYK,92.0,O. Toppin,NYK,Toppin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0969,4,08:33,BOS,89.0,NYK,100.0,O. Toppin,NYK,Toppin 2' Driving Layup (6 PTS) (Quickley 6 AST),Made Shot,Driving Layup Shot,-17,13,2,1,2.0,2.0,v
+S2223-G0969,4,08:15,BOS,,NYK,,O. Toppin,NYK,Toppin OFF.Foul (P1) (T.Maddox),Foul,Offensive,0,0,0,0,,,v
+S2223-G0969,4,08:15,BOS,,NYK,,O. Toppin,NYK,Toppin Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0969,4,07:24,BOS,,NYK,,O. Toppin,NYK,SUB: Robinson FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0090,1,02:22,CLE,30.0,NYK,25.0,O. Toppin,NYK,Toppin 24' 3PT Jump Shot (3 PTS) (Quickley 1 AST),Made Shot,Jump Shot,-240,-12,24,1,3.0,3.0,v
+S2223-G0090,1,01:38,CLE,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0090,2,10:52,CLE,37.0,NYK,34.0,O. Toppin,NYK,Toppin 2' Driving Layup (5 PTS) (Rose 1 AST),Made Shot,Driving Layup Shot,-12,19,2,1,2.0,2.0,v
+S2223-G0090,2,10:31,CLE,,NYK,,O. Toppin,NYK,MISS Toppin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-173,209,27,1,3.0,0.0,v
+S2223-G0090,2,10:26,CLE,,NYK,,O. Toppin,NYK,Toppin P.FOUL (P1.T2) (E.Lewis),Foul,Personal,0,0,0,0,,,v
+S2223-G0090,2,10:07,CLE,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0090,2,08:08,CLE,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0090,2,07:53,CLE,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0090,2,05:57,CLE,48.0,NYK,45.0,O. Toppin,NYK,Toppin 1' Running Layup (7 PTS) (Quickley 2 AST),Made Shot,Running Layup Shot,0,11,1,1,2.0,2.0,v
+S2223-G0090,2,04:56,CLE,51.0,NYK,47.0,O. Toppin,NYK,Toppin 2' Running Alley Oop Dunk Shot (9 PTS) (Quickley 3 AST),Made Shot,Running Alley Oop Dunk Shot,-12,14,2,1,2.0,2.0,v
+S2223-G0090,2,04:56,CLE,,NYK,,O. Toppin,NYK,SUB: Barrett FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0090,4,11:43,CLE,,NYK,,O. Toppin,NYK,Toppin Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0090,4,11:02,CLE,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,234,44,24,1,3.0,0.0,v
+S2223-G0090,4,10:39,CLE,,NYK,,O. Toppin,NYK,MISS Toppin 2' Running Layup,Missed Shot,Running Layup Shot,13,11,2,1,2.0,0.0,v
+S2223-G0090,4,10:23,CLE,,NYK,,O. Toppin,NYK,Toppin Traveling Turnover (P2.T11),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0090,4,09:14,CLE,,NYK,,O. Toppin,NYK,Toppin OFF.Foul (P2) (M.Kogut),Foul,Offensive,0,0,0,0,,,v
+S2223-G0090,4,09:14,CLE,,NYK,,O. Toppin,NYK,Toppin Offensive Foul Turnover (P3.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0090,4,07:25,CLE,,NYK,,O. Toppin,NYK,SUB: Robinson FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0337,2,11:45,NYK,,DAL,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0337,2,10:50,NYK,35.0,DAL,23.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0337,2,10:50,NYK,36.0,DAL,23.0,O. Toppin,NYK,Toppin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0337,2,08:12,NYK,,DAL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0337,2,07:57,NYK,,DAL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0337,2,06:59,NYK,,DAL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0337,2,06:52,NYK,,DAL,,O. Toppin,NYK,MISS Toppin 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-7,49,5,1,2.0,0.0,h
+S2223-G0337,2,04:30,NYK,,DAL,,O. Toppin,NYK,SUB: Robinson FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0337,3,00:30.800000,NYK,,DAL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0337,3,00:25.700000,NYK,,DAL,,O. Toppin,NYK,Toppin Traveling Turnover (P1.T15),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0337,4,10:30,NYK,,DAL,,O. Toppin,NYK,MISS Toppin 28' 3PT Jump Shot,Missed Shot,Jump Shot,203,189,28,1,3.0,0.0,h
+S2223-G0337,4,10:01,NYK,80.0,DAL,101.0,O. Toppin,NYK,Toppin Alley Oop Dunk (4 PTS) (Brunson 3 AST),Made Shot,Alley Oop Dunk Shot,-4,0,0,1,2.0,2.0,h
+S2223-G0337,4,08:59,NYK,,DAL,,O. Toppin,NYK,Toppin S.FOUL (P1.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0337,4,08:57,NYK,,DAL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0337,4,07:05,NYK,,DAL,,O. Toppin,NYK,MISS Toppin 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-91,21,9,1,2.0,0.0,h
+S2223-G0337,4,02:54,NYK,,DAL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0337,4,00:32.800000,NYK,,DAL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0337,4,00:18.400000,NYK,,DAL,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,8,24,1,3.0,0.0,h
+S2223-G0622,2,11:16,NYK,42.0,IND,21.0,O. Toppin,NYK,Toppin 25' 3PT Jump Shot (3 PTS) (Quickley 1 AST),Made Shot,Jump Shot,-132,211,25,1,3.0,3.0,h
+S2223-G0622,2,10:58,NYK,,IND,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0622,2,10:50,NYK,,IND,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-91,238,25,1,3.0,0.0,h
+S2223-G0622,2,08:12,NYK,,IND,,O. Toppin,NYK,Toppin S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G0622,2,08:10,NYK,,IND,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0622,2,07:34,NYK,,IND,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0622,2,06:48,NYK,48.0,IND,30.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0622,2,06:48,NYK,49.0,IND,30.0,O. Toppin,NYK,Toppin Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0622,2,06:17,NYK,,IND,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,219,0,0,1,3.0,0.0,h
+S2223-G0622,2,05:43,NYK,,IND,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0622,4,09:39,NYK,,IND,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0730,1,00:28.500000,BOS,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,2,09:45,BOS,34.0,NYK,34.0,O. Toppin,NYK,Toppin 3' Running Layup (2 PTS) (Hartenstein 2 AST),Made Shot,Running Layup Shot,-17,20,3,1,2.0,2.0,v
+S2223-G0730,2,07:36,BOS,,NYK,,O. Toppin,NYK,MISS Toppin 27' 3PT Jump Shot,Missed Shot,Jump Shot,91,255,27,1,3.0,0.0,v
+S2223-G0730,2,07:24,BOS,,NYK,,O. Toppin,NYK,MISS Toppin 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,32,64,7,1,2.0,0.0,v
+S2223-G0730,2,02:24,BOS,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0730,4,08:32,BOS,89.0,NYK,100.0,O. Toppin,NYK,Toppin 25' 3PT Step Back Jump Shot (5 PTS) (Quickley 1 AST),Made Shot,Step Back Jump shot,212,128,25,1,3.0,3.0,v
+S2223-G0730,4,07:42,BOS,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,4,06:07,BOS,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0233,1,02:06,GSW,,NYK,,O. Toppin,NYK,MISS Toppin 3' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-6,31,3,1,2.0,0.0,v
+S2223-G0233,1,01:51,GSW,32.0,NYK,17.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0233,1,01:51,GSW,,NYK,,O. Toppin,NYK,MISS Toppin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0233,1,01:17,GSW,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,241,15,24,1,3.0,0.0,v
+S2223-G0233,1,01:12,GSW,,NYK,,O. Toppin,NYK,MISS Toppin 7' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,58,34,7,1,2.0,0.0,v
+S2223-G0233,1,00:00.400000,GSW,,NYK,,O. Toppin,NYK,MISS Toppin 32' 3PT Jump Shot,Missed Shot,Jump Shot,124,298,32,1,3.0,0.0,v
+S2223-G0233,2,11:22,GSW,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,2,07:53,GSW,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,2,02:58,GSW,,NYK,,O. Toppin,NYK,SUB: Hartenstein FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0233,3,00:40.500000,GSW,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P1.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G0233,3,00:38.800000,GSW,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,3,00:37,GSW,,NYK,,O. Toppin,NYK,Toppin Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0233,3,00:30.900000,GSW,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,4,10:11,GSW,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,-10,24,1,3.0,0.0,v
+S2223-G0233,4,08:28,GSW,,NYK,,O. Toppin,NYK,Toppin P.FOUL (P2.T2) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2223-G0233,4,08:09,GSW,,NYK,,O. Toppin,NYK,Toppin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0233,4,08:06,GSW,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,4,06:44,GSW,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P3.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2223-G0233,4,06:44,GSW,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0634,1,01:44,WAS,,NYK,,O. Toppin,NYK,Toppin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0634,2,09:35,WAS,,NYK,,O. Toppin,NYK,Toppin OFF.Foul (P1) (B.Schwab),Foul,Offensive,0,0,0,0,,,v
+S2223-G0634,2,09:35,WAS,,NYK,,O. Toppin,NYK,Toppin Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0634,2,08:50,WAS,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,11,24,1,3.0,0.0,v
+S2223-G0634,2,07:33,WAS,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0634,4,08:46,WAS,,NYK,,O. Toppin,NYK,MISS Toppin 27' 3PT Jump Shot,Missed Shot,Jump Shot,224,143,27,1,3.0,0.0,v
+S2223-G0634,4,07:57,WAS,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0862,2,08:30,NYK,,BKN,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0862,2,08:18,NYK,,BKN,,O. Toppin,NYK,MISS Toppin 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-225,117,25,1,3.0,0.0,h
+S2223-G0862,2,08:03,NYK,,BKN,,O. Toppin,NYK,Toppin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0862,2,07:59,NYK,,BKN,,O. Toppin,NYK,Jump Ball Toppin vs. Claxton: Tip to O'Neale,Jump Ball,,0,0,0,0,,,h
+S2223-G0862,2,05:57,NYK,,BKN,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0862,3,00:31.400000,NYK,,BKN,,O. Toppin,NYK,Toppin S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0862,4,11:47,NYK,95.0,BKN,83.0,O. Toppin,NYK,Toppin 1' Alley Oop Dunk (2 PTS) (Quickley 4 AST),Made Shot,Alley Oop Dunk Shot,-1,9,1,1,2.0,2.0,h
+S2223-G0862,4,08:23,NYK,,BKN,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-5,251,25,1,3.0,0.0,h
+S2223-G0862,4,08:07,NYK,,BKN,,O. Toppin,NYK,SUB: Brunson FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0862,4,01:24,NYK,,BKN,,O. Toppin,NYK,MISS Toppin 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,9,53,5,1,2.0,0.0,h
+S2223-G0659,2,11:03,NYK,,TOR,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0659,2,10:34,NYK,,TOR,,O. Toppin,NYK,Toppin S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0659,2,09:17,NYK,27.0,TOR,34.0,O. Toppin,NYK,Toppin 1' Running Dunk (2 PTS) (Hartenstein 1 AST),Made Shot,Running Dunk Shot,-4,-6,1,1,2.0,2.0,h
+S2223-G0659,2,08:31,NYK,,TOR,,O. Toppin,NYK,Toppin S.FOUL (P2.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0659,2,08:10,NYK,32.0,TOR,38.0,O. Toppin,NYK,Toppin 3PT Jump Shot (5 PTS) (Barrett 1 AST),Made Shot,Jump Shot,-224,13,0,1,3.0,3.0,h
+S2223-G0659,2,07:30,NYK,,TOR,,O. Toppin,NYK,MISS Toppin 1' Dunk,Missed Shot,Dunk Shot,-9,5,1,1,2.0,0.0,h
+S2223-G0659,2,05:58,NYK,,TOR,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0659,2,05:00,NYK,,TOR,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0659,4,10:26,NYK,,TOR,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0659,4,08:35,NYK,,TOR,,O. Toppin,NYK,MISS Toppin 9' Jump Shot,Missed Shot,Jump Shot,-88,17,9,1,2.0,0.0,h
+S2223-G0659,4,08:00,NYK,,TOR,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0208,1,00:46.400000,UTA,,NYK,,O. Toppin,NYK,MISS Toppin 27' 3PT Jump Shot,Missed Shot,Jump Shot,207,179,27,1,3.0,0.0,v
+S2223-G0208,2,09:33,UTA,,NYK,,O. Toppin,NYK,Toppin P.FOUL (P1.T2) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G0208,2,06:44,UTA,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0208,2,00:28,UTA,58.0,NYK,58.0,O. Toppin,NYK,Toppin 25' 3PT Jump Shot (3 PTS) (Reddish 1 AST),Made Shot,Jump Shot,-140,204,25,1,3.0,3.0,v
+S2223-G0208,2,00:04.100000,UTA,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,3,00:52.900000,UTA,82.0,NYK,81.0,O. Toppin,NYK,Toppin 24' 3PT Jump Shot (6 PTS) (Sims 1 AST),Made Shot,Jump Shot,-235,8,24,1,3.0,3.0,v
+S2223-G0208,4,10:43,UTA,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,4,10:29,UTA,87.0,NYK,88.0,O. Toppin,NYK,Toppin 24' 3PT Jump Shot (9 PTS) (Sims 2 AST),Made Shot,Jump Shot,-237,23,24,1,3.0,3.0,v
+S2223-G0208,4,08:35,UTA,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,4,08:24,UTA,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,4,07:52,UTA,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,4,06:53,UTA,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,4,06:20,UTA,,NYK,,O. Toppin,NYK,SUB: Reddish FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0009,2,09:41,MEM,30.0,NYK,30.0,O. Toppin,NYK,Toppin 1' Dunk (2 PTS) (Hartenstein 2 AST),Made Shot,Dunk Shot,-6,4,1,1,2.0,2.0,v
+S2223-G0009,2,09:10,MEM,,NYK,,O. Toppin,NYK,MISS Toppin 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,37,101,11,1,2.0,0.0,v
+S2223-G0009,2,05:58,MEM,,NYK,,O. Toppin,NYK,Toppin Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0009,2,05:53,MEM,,NYK,,O. Toppin,NYK,SUB: Fournier FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0009,3,00:55.200000,MEM,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0009,4,11:29,MEM,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0009,4,07:38,MEM,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P1.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0009,4,07:36,MEM,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0009,4,07:22,MEM,,NYK,,O. Toppin,NYK,MISS Toppin 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-9,73,7,1,2.0,0.0,v
+S2223-G0009,4,07:12,MEM,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G1073,2,08:20,NYK,46.0,MIN,56.0,O. Toppin,NYK,Toppin 1' Alley Oop Dunk (2 PTS) (Brunson 4 AST),Made Shot,Alley Oop Dunk Shot,-7,0,1,1,2.0,2.0,h
+S2223-G1073,2,05:58,NYK,52.0,MIN,65.0,O. Toppin,NYK,Toppin 1' Cutting Layup Shot (4 PTS) (Brunson 5 AST),Made Shot,Cutting Layup Shot,12,-1,1,1,2.0,2.0,h
+S2223-G1073,2,05:24,NYK,,MIN,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G1073,4,11:22,NYK,,MIN,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1073,4,07:29,NYK,,MIN,,O. Toppin,NYK,SUB: Brunson FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G1209,1,10:34,NOP,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G1209,1,09:11,NOP,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,221,90,24,1,3.0,0.0,v
+S2223-G1209,1,08:56,NOP,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1209,1,08:17,NOP,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P2.T4) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G1209,1,08:17,NOP,,NYK,,O. Toppin,NYK,SUB: Hart FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G1209,2,09:13,NOP,36.0,NYK,35.0,O. Toppin,NYK,Toppin 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,234,117,26,1,3.0,3.0,v
+S2223-G1209,2,07:34,NOP,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,228,32,0,1,3.0,0.0,v
+S2223-G1209,2,06:42,NOP,42.0,NYK,39.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1209,2,06:42,NOP,,NYK,,O. Toppin,NYK,MISS Toppin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1209,2,05:00,NOP,44.0,NYK,45.0,O. Toppin,NYK,Toppin 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-15,22,3,1,2.0,2.0,v
+S2223-G1209,2,01:21,NOP,,NYK,,O. Toppin,NYK,MISS Toppin 4' Driving Layup,Missed Shot,Driving Layup Shot,25,31,4,1,2.0,0.0,v
+S2223-G1209,2,01:17,NOP,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1209,2,01:17,NOP,56.0,NYK,55.0,O. Toppin,NYK,Toppin Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1209,3,10:59,NOP,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1209,3,09:54,NOP,65.0,NYK,62.0,O. Toppin,NYK,Toppin 4' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,-32,29,4,1,2.0,2.0,v
+S2223-G1209,3,04:59,NOP,,NYK,,O. Toppin,NYK,MISS Toppin 6' Driving Layup,Missed Shot,Driving Layup Shot,-21,57,6,1,2.0,0.0,v
+S2223-G1209,3,01:56,NOP,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,234,-6,0,1,3.0,0.0,v
+S2223-G1209,3,01:40,NOP,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1209,3,00:14.200000,NOP,,NYK,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0316,2,11:05,NYK,,MIL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0316,2,10:55,NYK,24.0,MIL,22.0,O. Toppin,NYK,Toppin 3PT Jump Shot (3 PTS) (Brunson 1 AST),Made Shot,Jump Shot,232,26,0,1,3.0,3.0,h
+S2223-G0316,2,09:44,NYK,,MIL,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-232,17,0,1,3.0,0.0,h
+S2223-G0316,2,09:28,NYK,,MIL,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,207,164,26,1,3.0,0.0,h
+S2223-G0316,2,08:07,NYK,,MIL,,O. Toppin,NYK,Toppin OFF.Foul (P1) (B.Kennedy),Foul,Offensive,0,0,0,0,,,h
+S2223-G0316,2,08:07,NYK,,MIL,,O. Toppin,NYK,Toppin Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0316,2,06:43,NYK,,MIL,,O. Toppin,NYK,SUB: Grimes FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0316,3,00:48,NYK,,MIL,,O. Toppin,NYK,Toppin S.FOUL (P2.PN) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0316,4,11:44,NYK,,MIL,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,60,241,25,1,3.0,0.0,h
+S2223-G0316,4,09:32,NYK,,MIL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0316,4,09:26,NYK,78.0,MIL,81.0,O. Toppin,NYK,Toppin 25' 3PT Running Jump Shot (6 PTS) (Reddish 1 AST),Made Shot,Running Jump Shot,163,189,25,1,3.0,3.0,h
+S2223-G0316,4,08:24,NYK,79.0,MIL,83.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0316,4,08:24,NYK,,MIL,,O. Toppin,NYK,MISS Toppin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0316,4,07:28,NYK,,MIL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0316,4,06:41,NYK,,MIL,,O. Toppin,NYK,SUB: Robinson FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G1004,2,11:52,LAC,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,224,26,0,1,3.0,0.0,v
+S2223-G1004,2,10:29,LAC,24.0,NYK,21.0,O. Toppin,NYK,Toppin 3' Cutting Layup Shot (2 PTS) (Hartenstein 1 AST),Made Shot,Cutting Layup Shot,6,28,3,1,2.0,2.0,v
+S2223-G1004,2,09:24,LAC,27.0,NYK,25.0,O. Toppin,NYK,Toppin 2' Alley Oop Dunk (4 PTS) (Hart 2 AST),Made Shot,Alley Oop Dunk Shot,5,20,2,1,2.0,2.0,v
+S2223-G1004,2,09:04,LAC,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1004,2,08:17,LAC,32.0,NYK,29.0,O. Toppin,NYK,Toppin 7' Driving Floating Bank Jump Shot (6 PTS) (Hartenstein 3 AST),Made Shot,Driving Floating Bank Jump Shot,-56,39,7,1,2.0,2.0,v
+S2223-G1004,2,07:31,LAC,34.0,NYK,33.0,O. Toppin,NYK,Toppin 1' Running Dunk (8 PTS) (Hart 3 AST),Made Shot,Running Dunk Shot,-1,11,1,1,2.0,2.0,v
+S2223-G1004,2,07:13,LAC,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1004,2,05:33,LAC,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1004,2,05:10,LAC,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-201,139,24,1,3.0,0.0,v
+S2223-G1004,2,04:58,LAC,,NYK,,O. Toppin,NYK,Toppin Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G1004,2,04:42,LAC,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1004,2,04:31,LAC,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G1004,4,10:42,LAC,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,61,24,1,3.0,0.0,v
+S2223-G1004,4,09:17,LAC,,NYK,,O. Toppin,NYK,MISS Toppin 13' Jump Shot,Missed Shot,Jump Shot,-61,117,13,1,2.0,0.0,v
+S2223-G1004,4,09:12,LAC,84.0,NYK,77.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1004,4,09:12,LAC,84.0,NYK,78.0,O. Toppin,NYK,Toppin Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1004,4,08:52,LAC,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1004,4,08:48,LAC,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-225,36,0,1,3.0,0.0,v
+S2223-G1004,4,06:28,LAC,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0906,1,00:38.800000,NYK,42.0,NOP,22.0,O. Toppin,NYK,Toppin 24' 3PT Jump Shot (3 PTS) (Hart 1 AST),Made Shot,Jump Shot,235,3,24,1,3.0,3.0,h
+S2223-G0906,1,00:00.200000,NYK,,NOP,,O. Toppin,NYK,MISS Toppin 47' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-61,468,47,1,3.0,0.0,h
+S2223-G0906,2,11:47,NYK,,NOP,,O. Toppin,NYK,Toppin S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2223-G0906,2,10:43,NYK,,NOP,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0906,2,10:21,NYK,,NOP,,O. Toppin,NYK,Toppin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0906,2,09:15,NYK,,NOP,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-4,24,1,3.0,0.0,h
+S2223-G0906,2,08:38,NYK,,NOP,,O. Toppin,NYK,Toppin Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0906,2,08:14,NYK,,NOP,,O. Toppin,NYK,Toppin S.FOUL (P2.T3) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G0906,2,06:48,NYK,,NOP,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0906,4,11:22,NYK,,NOP,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,227,16,0,1,3.0,0.0,h
+S2223-G0906,4,07:50,NYK,,NOP,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0906,4,06:44,NYK,,NOP,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0906,4,02:58,NYK,,NOP,,O. Toppin,NYK,Toppin Bad Pass Turnover (P2.T18),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0906,4,01:15,NYK,,NOP,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-232,15,0,1,3.0,0.0,h
+S2223-G0274,2,10:04,NYK,,POR,,O. Toppin,NYK,Toppin S.FOUL (P1.T4) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0274,2,09:50,NYK,,POR,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,228,26,0,1,3.0,0.0,h
+S2223-G0274,2,08:58,NYK,41.0,POR,32.0,O. Toppin,NYK,Toppin 25' 3PT Jump Shot (3 PTS) (Brunson 2 AST),Made Shot,Jump Shot,-227,95,25,1,3.0,3.0,h
+S2223-G0274,2,07:18,NYK,,POR,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0274,4,08:18,NYK,,POR,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-154,195,25,1,3.0,0.0,h
+S2223-G0274,4,07:44,NYK,,POR,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0274,4,07:19,NYK,,POR,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0274,4,06:58,NYK,,POR,,O. Toppin,NYK,Toppin L.B.FOUL (P2.T4) (C.Blair),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0274,4,06:58,NYK,,POR,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0219,1,02:44,DEN,,NYK,,O. Toppin,NYK,Toppin Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0219,1,02:33,DEN,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0219,1,01:51,DEN,22.0,NYK,23.0,O. Toppin,NYK,Toppin 26' 3PT Jump Shot (3 PTS) (Rose 1 AST),Made Shot,Jump Shot,217,140,26,1,3.0,3.0,v
+S2223-G0219,1,01:27,DEN,22.0,NYK,25.0,O. Toppin,NYK,Toppin 2' Running Dunk (5 PTS) (Sims 1 AST),Made Shot,Running Dunk Shot,-6,24,2,1,2.0,2.0,v
+S2223-G0219,2,10:57,DEN,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,37,24,1,3.0,0.0,v
+S2223-G0219,2,10:15,DEN,30.0,NYK,34.0,O. Toppin,NYK,Toppin 5' Driving Layup (7 PTS) (Rose 2 AST),Made Shot,Driving Layup Shot,36,37,5,1,2.0,2.0,v
+S2223-G0219,2,07:25,DEN,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0219,2,06:43,DEN,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0219,3,01:46,DEN,,NYK,,O. Toppin,NYK,MISS Toppin 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-27,89,9,1,2.0,0.0,v
+S2223-G0219,4,07:50,DEN,,NYK,,O. Toppin,NYK,MISS Toppin 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-201,155,25,1,3.0,0.0,v
+S2223-G0219,4,07:23,DEN,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,26,0,1,3.0,0.0,v
+S2223-G0219,4,04:46,DEN,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0219,4,01:23,DEN,,NYK,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-66,254,26,1,3.0,0.0,v
+S2223-G0219,4,00:50.600000,DEN,,NYK,,O. Toppin,NYK,SUB: Sims FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0075,1,01:32,MIL,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0075,1,00:18.100000,MIL,,NYK,,O. Toppin,NYK,MISS Toppin 28' 3PT Jump Shot,Missed Shot,Jump Shot,-37,275,28,1,3.0,0.0,v
+S2223-G0075,2,11:46,MIL,,NYK,,O. Toppin,NYK,MISS Toppin 28' 3PT Jump Shot,Missed Shot,Jump Shot,-207,186,28,1,3.0,0.0,v
+S2223-G0075,2,11:22,MIL,,NYK,,O. Toppin,NYK,MISS Toppin 3' Running Layup,Missed Shot,Running Layup Shot,-13,22,3,1,2.0,0.0,v
+S2223-G0075,2,10:33,MIL,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0075,2,08:59,MIL,36.0,NYK,33.0,O. Toppin,NYK,Toppin 27' 3PT Step Back Jump Shot (3 PTS) (Rose 1 AST),Made Shot,Step Back Jump shot,-162,212,27,1,3.0,3.0,v
+S2223-G0075,2,08:05,MIL,36.0,NYK,35.0,O. Toppin,NYK,Toppin 3' Running Alley Oop Dunk Shot (5 PTS) (Reddish 1 AST),Made Shot,Running Alley Oop Dunk Shot,22,12,3,1,2.0,2.0,v
+S2223-G0075,2,06:37,MIL,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0075,3,02:23,MIL,92.0,NYK,75.0,O. Toppin,NYK,Toppin 27' 3PT Jump Shot (8 PTS) (Hartenstein 1 AST),Made Shot,Jump Shot,116,247,27,1,3.0,3.0,v
+S2223-G0075,4,10:09,MIL,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0075,4,07:17,MIL,108.0,NYK,97.0,O. Toppin,NYK,Toppin 28' 3PT Jump Shot (11 PTS) (Quickley 2 AST),Made Shot,Jump Shot,189,210,28,1,3.0,3.0,v
+S2223-G0075,4,06:28,MIL,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0921,2,10:49,NYK,,BOS,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0921,2,09:53,NYK,,BOS,,O. Toppin,NYK,Toppin S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0921,2,09:03,NYK,36.0,BOS,23.0,O. Toppin,NYK,Toppin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0921,2,09:03,NYK,37.0,BOS,23.0,O. Toppin,NYK,Toppin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0921,2,06:02,NYK,49.0,BOS,29.0,O. Toppin,NYK,Toppin 1' Driving Layup (4 PTS) (Hart 3 AST),Made Shot,Driving Layup Shot,-2,5,1,1,2.0,2.0,h
+S2223-G0921,2,05:38,NYK,,BOS,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0921,4,11:18,NYK,,BOS,,O. Toppin,NYK,Toppin Step Out of Bounds Turnover (P1.T9),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0921,4,10:40,NYK,,BOS,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0921,4,10:35,NYK,,BOS,,O. Toppin,NYK,Toppin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0921,4,07:45,NYK,96.0,BOS,83.0,O. Toppin,NYK,Toppin 3PT Jump Shot (7 PTS) (Hart 4 AST),Made Shot,Jump Shot,224,51,0,1,3.0,3.0,h
+S2223-G0921,4,07:02,NYK,,BOS,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-87,240,26,1,3.0,0.0,h
+S2223-G0921,4,06:42,NYK,98.0,BOS,86.0,O. Toppin,NYK,Toppin 1' Running Dunk (9 PTS) (Hart 5 AST),Made Shot,Running Dunk Shot,-2,5,1,1,2.0,2.0,h
+S2223-G0921,4,06:25,NYK,,BOS,,O. Toppin,NYK,Toppin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0921,4,06:18,NYK,,BOS,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G1019,2,09:21,LAL,29.0,NYK,37.0,O. Toppin,NYK,Toppin 3' Reverse Layup (2 PTS) (Hartenstein 1 AST),Made Shot,Reverse Layup Shot,-11,29,3,1,2.0,2.0,v
+S2223-G1019,2,08:50,LAL,32.0,NYK,40.0,O. Toppin,NYK,Toppin 26' 3PT Jump Shot (5 PTS) (Hart 1 AST),Made Shot,Jump Shot,20,262,26,1,3.0,3.0,v
+S2223-G1019,2,08:30,LAL,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1019,2,07:40,LAL,,NYK,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-188,160,25,1,3.0,0.0,v
+S2223-G1019,2,07:08,LAL,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P1.T3) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G1019,2,06:49,LAL,,NYK,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,156,205,26,1,3.0,0.0,v
+S2223-G1019,2,06:05,LAL,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G1019,4,07:57,LAL,94.0,NYK,101.0,O. Toppin,NYK,Toppin 2' Running Layup (7 PTS) (Hart 3 AST),Made Shot,Running Layup Shot,-9,16,2,1,2.0,2.0,v
+S2223-G1019,4,06:14,LAL,96.0,NYK,103.0,O. Toppin,NYK,Toppin 2' Running Alley Oop Dunk Shot (9 PTS) (Barrett 2 AST),Made Shot,Running Alley Oop Dunk Shot,-1,17,2,1,2.0,2.0,v
+S2223-G1019,4,05:41,LAL,,NYK,,O. Toppin,NYK,SUB: Quickley FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0937,2,11:17,NYK,,BKN,,O. Toppin,NYK,MISS Toppin 1' Running Dunk,Missed Shot,Running Dunk Shot,-7,-1,1,1,2.0,0.0,h
+S2223-G0937,2,10:36,NYK,49.0,BKN,30.0,O. Toppin,NYK,Toppin Running Dunk (2 PTS) (Quickley 1 AST),Made Shot,Running Dunk Shot,2,2,0,1,2.0,2.0,h
+S2223-G0937,2,08:17,NYK,,BKN,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0937,2,06:40,NYK,,BKN,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0937,4,10:41,NYK,,BKN,,O. Toppin,NYK,Toppin Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0937,4,09:37,NYK,,BKN,,O. Toppin,NYK,Toppin OFF.Foul (P1) (G.Petraitis),Foul,Offensive,0,0,0,0,,,h
+S2223-G0937,4,09:37,NYK,,BKN,,O. Toppin,NYK,Toppin Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0937,4,08:23,NYK,,BKN,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-224,-4,0,1,3.0,0.0,h
+S2223-G0937,4,07:20,NYK,,BKN,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0937,4,01:24,NYK,,BKN,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-223,-18,0,1,3.0,0.0,h
+S2223-G0937,4,01:09,NYK,,BKN,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0110,2,11:16,NYK,,ATL,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0110,2,10:06,NYK,37.0,ATL,24.0,O. Toppin,NYK,Toppin 9' Pullup Jump Shot (2 PTS) (Brunson 1 AST),Made Shot,Pullup Jump shot,-69,55,9,1,2.0,2.0,h
+S2223-G0110,2,09:49,NYK,39.0,ATL,24.0,O. Toppin,NYK,Toppin 2' Running Layup (4 PTS) (Hartenstein 1 AST),Made Shot,Running Layup Shot,-20,-6,2,1,2.0,2.0,h
+S2223-G0110,2,09:26,NYK,42.0,ATL,24.0,O. Toppin,NYK,Toppin 3PT Jump Shot (7 PTS) (Brunson 2 AST),Made Shot,Jump Shot,-233,-14,0,1,3.0,3.0,h
+S2223-G0110,2,07:37,NYK,48.0,ATL,26.0,O. Toppin,NYK,Toppin 24' 3PT Jump Shot (10 PTS) (Brunson 3 AST),Made Shot,Jump Shot,213,112,24,1,3.0,3.0,h
+S2223-G0110,2,06:36,NYK,,ATL,,O. Toppin,NYK,MISS Toppin 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-183,189,26,1,3.0,0.0,h
+S2223-G0110,2,05:48,NYK,,ATL,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0110,3,02:36,NYK,,ATL,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,224,67,0,1,3.0,0.0,h
+S2223-G0110,3,02:03,NYK,73.0,ATL,83.0,O. Toppin,NYK,Toppin 1' Cutting Dunk Shot (12 PTS) (Reddish 1 AST),Made Shot,Cutting Dunk Shot,6,1,1,1,2.0,2.0,h
+S2223-G0110,4,10:59,NYK,,ATL,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0110,4,10:57,NYK,,ATL,,O. Toppin,NYK,MISS Toppin Putback Layup,Missed Shot,Putback Layup Shot,4,1,0,1,2.0,0.0,h
+S2223-G0110,4,10:54,NYK,,ATL,,O. Toppin,NYK,Toppin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0110,4,10:54,NYK,,ATL,,O. Toppin,NYK,MISS Toppin 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,-5,4,1,1,2.0,0.0,h
+S2223-G0110,4,07:40,NYK,,ATL,,O. Toppin,NYK,MISS Toppin 2' Running Layup,Missed Shot,Running Layup Shot,15,13,2,1,2.0,0.0,h
+S2223-G0110,4,06:35,NYK,,ATL,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-230,-17,0,1,3.0,0.0,h
+S2223-G0110,4,06:21,NYK,,ATL,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,230,-2,0,1,3.0,0.0,h
+S2223-G0110,4,05:26,NYK,,ATL,,O. Toppin,NYK,MISS Toppin 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,0,9,1,1,2.0,0.0,h
+S2223-G0110,4,05:17,NYK,,ATL,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0669,2,10:31,NYK,,WAS,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0669,2,08:36,NYK,,WAS,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0669,2,07:21,NYK,,WAS,,O. Toppin,NYK,SUB: Brunson FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0669,4,11:41,NYK,,WAS,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0669,4,11:06,NYK,,WAS,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0669,4,07:14,NYK,,WAS,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0669,4,07:14,NYK,,WAS,,O. Toppin,NYK,MISS Toppin Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0669,4,06:38,NYK,,WAS,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0700,2,10:21,TOR,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0700,2,09:44,TOR,,NYK,,O. Toppin,NYK,MISS Toppin 5' Running Layup,Missed Shot,Running Layup Shot,27,37,5,1,2.0,0.0,v
+S2223-G0700,2,08:56,TOR,42.0,NYK,29.0,O. Toppin,NYK,Toppin 3PT Jump Shot (3 PTS) (Barrett 2 AST),Made Shot,Jump Shot,228,20,0,1,3.0,3.0,v
+S2223-G0700,2,07:56,TOR,44.0,NYK,33.0,O. Toppin,NYK,Toppin 3PT Jump Shot (6 PTS) (Fournier 1 AST),Made Shot,Jump Shot,-225,25,0,1,3.0,3.0,v
+S2223-G0700,2,07:09,TOR,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P1.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0700,2,06:47,TOR,,NYK,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0700,2,06:41,TOR,44.0,NYK,36.0,O. Toppin,NYK,Toppin 3PT Jump Shot (9 PTS) (Fournier 2 AST),Made Shot,Jump Shot,-227,32,0,1,3.0,3.0,v
+S2223-G0700,2,06:06,TOR,46.0,NYK,39.0,O. Toppin,NYK,Toppin 26' 3PT Jump Shot (12 PTS) (Brunson 2 AST),Made Shot,Jump Shot,5,263,26,1,3.0,3.0,v
+S2223-G0700,2,04:52,TOR,,NYK,,O. Toppin,NYK,MISS Toppin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-91,258,27,1,3.0,0.0,v
+S2223-G0700,2,04:39,TOR,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P2.T4) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0700,2,04:39,TOR,,NYK,,O. Toppin,NYK,SUB: Grimes FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0700,4,10:28,TOR,88.0,NYK,88.0,O. Toppin,NYK,Toppin 1' Running Dunk (14 PTS) (Barrett 5 AST),Made Shot,Running Dunk Shot,5,5,1,1,2.0,2.0,v
+S2223-G0700,4,08:50,TOR,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0192,1,01:49,NYK,40.0,OKC,31.0,O. Toppin,NYK,Toppin 24' 3PT Jump Shot (3 PTS) (Rose 4 AST),Made Shot,Jump Shot,-140,201,24,1,3.0,3.0,h
+S2223-G0192,1,00:35,NYK,46.0,OKC,33.0,O. Toppin,NYK,Toppin Alley Oop Dunk (5 PTS) (Fournier 1 AST),Made Shot,Alley Oop Dunk Shot,4,-1,0,1,2.0,2.0,h
+S2223-G0192,2,11:30,NYK,,OKC,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,2,10:15,NYK,,OKC,,O. Toppin,NYK,Toppin Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0192,2,10:15,NYK,,OKC,,O. Toppin,NYK,Toppin P.FOUL (P1.T1) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G0192,2,07:37,NYK,,OKC,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0192,3,02:40,NYK,98.0,OKC,113.0,O. Toppin,NYK,Toppin 25' 3PT Jump Shot (8 PTS) (Quickley 1 AST),Made Shot,Jump Shot,145,204,25,1,3.0,3.0,h
+S2223-G0192,4,11:45,NYK,,OKC,,O. Toppin,NYK,MISS Toppin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-213,158,27,1,3.0,0.0,h
+S2223-G0192,4,09:38,NYK,,OKC,,O. Toppin,NYK,Toppin Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0192,4,08:48,NYK,,OKC,,O. Toppin,NYK,Toppin Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0192,4,08:37,NYK,115.0,OKC,128.0,O. Toppin,NYK,Toppin 1' Running Dunk (10 PTS),Made Shot,Running Dunk Shot,1,5,1,1,2.0,2.0,h
+S2223-G0192,4,08:17,NYK,,OKC,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,4,07:18,NYK,,OKC,,O. Toppin,NYK,SUB: Reddish FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0254,1,02:39,OKC,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P1.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0254,1,01:06,OKC,32.0,NYK,33.0,O. Toppin,NYK,Toppin 25' 3PT Jump Shot (3 PTS) (Quickley 2 AST),Made Shot,Jump Shot,-227,116,25,1,3.0,3.0,v
+S2223-G0254,1,00:52,OKC,,NYK,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-24,24,1,3.0,0.0,v
+S2223-G0254,1,00:00,OKC,,NYK,,O. Toppin,NYK,MISS Toppin 54' 3PT Jump Shot,Missed Shot,Jump Shot,-77,531,54,1,3.0,0.0,v
+S2223-G0254,2,11:14,OKC,,NYK,,O. Toppin,NYK,Toppin STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0254,2,10:56,OKC,,NYK,,O. Toppin,NYK,MISS Toppin 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,5,17,2,1,2.0,0.0,v
+S2223-G0254,2,09:56,OKC,,NYK,,O. Toppin,NYK,MISS Toppin 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,2,11,1,1,2.0,0.0,v
+S2223-G0254,2,09:40,OKC,38.0,NYK,44.0,O. Toppin,NYK,Toppin 2' Layup (5 PTS) (Grimes 1 AST),Made Shot,Layup Shot,-18,15,2,1,2.0,2.0,v
+S2223-G0254,2,07:27,OKC,,NYK,,O. Toppin,NYK,MISS Toppin 2' Driving Layup,Missed Shot,Driving Layup Shot,7,17,2,1,2.0,0.0,v
+S2223-G0254,2,06:21,OKC,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0254,3,01:41,OKC,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,3,00:49.900000,OKC,,NYK,,O. Toppin,NYK,MISS Toppin 4' Layup,Missed Shot,Layup Shot,22,29,4,1,2.0,0.0,v
+S2223-G0254,4,10:30,OKC,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-228,-13,0,1,3.0,0.0,v
+S2223-G0254,4,10:15,OKC,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-233,-20,0,1,3.0,0.0,v
+S2223-G0254,4,09:32,OKC,,NYK,,O. Toppin,NYK,Toppin P.FOUL (P2.T2) (J.Schroeder),Foul,Personal,0,0,0,0,,,v
+S2223-G0254,4,07:16,OKC,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,4,06:27,OKC,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P3.T4) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G0254,4,06:07,OKC,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,4,06:07,OKC,,NYK,,O. Toppin,NYK,MISS Toppin Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0254,4,05:21,OKC,,NYK,,O. Toppin,NYK,Toppin S.FOUL (P4.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0254,4,05:21,OKC,,NYK,,O. Toppin,NYK,SUB: Sims FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G1055,2,11:42,NYK,,DEN,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-157,193,25,1,3.0,0.0,h
+S2223-G1055,2,10:08,NYK,41.0,DEN,32.0,O. Toppin,NYK,Toppin 3PT Jump Shot (3 PTS) (Hart 2 AST),Made Shot,Jump Shot,230,15,0,1,3.0,3.0,h
+S2223-G1055,2,09:23,NYK,,DEN,,O. Toppin,NYK,Toppin Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1055,2,08:03,NYK,,DEN,,O. Toppin,NYK,Toppin S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G1055,2,07:51,NYK,,DEN,,O. Toppin,NYK,Toppin OFF.Foul (P2) (M.Kogut),Foul,Offensive,0,0,0,0,,,h
+S2223-G1055,2,07:51,NYK,,DEN,,O. Toppin,NYK,Toppin Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1055,2,07:10,NYK,,DEN,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,225,52,0,1,3.0,0.0,h
+S2223-G1055,2,07:05,NYK,47.0,DEN,37.0,O. Toppin,NYK,Toppin 2' Reverse Layup (5 PTS) (Robinson 2 AST),Made Shot,Reverse Layup Shot,-13,-9,2,1,2.0,2.0,h
+S2223-G1055,2,05:19,NYK,,DEN,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G1055,4,10:37,NYK,,DEN,,O. Toppin,NYK,Toppin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1055,4,09:36,NYK,,DEN,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,162,187,25,1,3.0,0.0,h
+S2223-G1055,4,07:23,NYK,,DEN,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0795,2,11:46,NYK,31.0,LAC,36.0,O. Toppin,NYK,Toppin 26' 3PT Jump Shot (3 PTS) (Barrett 3 AST),Made Shot,Jump Shot,205,159,26,1,3.0,3.0,h
+S2223-G0795,2,11:00,NYK,,LAC,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0795,2,10:34,NYK,,LAC,,O. Toppin,NYK,Toppin P.FOUL (P1.T2) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2223-G0795,2,08:59,NYK,36.0,LAC,40.0,O. Toppin,NYK,Toppin 6' Driving Floating Jump Shot (5 PTS) (Hartenstein 2 AST),Made Shot,Driving Floating Jump Shot,-48,43,6,1,2.0,2.0,h
+S2223-G0795,2,07:36,NYK,,LAC,,O. Toppin,NYK,MISS Toppin 27' 3PT Jump Shot,Missed Shot,Jump Shot,71,256,27,1,3.0,0.0,h
+S2223-G0795,2,05:11,NYK,,LAC,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0795,4,09:46,NYK,89.0,LAC,100.0,O. Toppin,NYK,Toppin 3PT Jump Shot (8 PTS) (Hartenstein 4 AST),Made Shot,Jump Shot,-234,-1,0,1,3.0,3.0,h
+S2223-G0795,4,07:10,NYK,,LAC,,O. Toppin,NYK,SUB: Brunson FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0804,2,08:46,NYK,,PHI,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,2,07:55,NYK,,PHI,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,2,06:14,NYK,,PHI,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-98,239,26,1,3.0,0.0,h
+S2223-G0804,2,05:18,NYK,,PHI,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0804,4,11:36,NYK,,PHI,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,4,10:56,NYK,,PHI,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,4,09:29,NYK,82.0,PHI,82.0,O. Toppin,NYK,Toppin 24' 3PT Jump Shot (3 PTS) (Brunson 4 AST),Made Shot,Jump Shot,230,75,24,1,3.0,3.0,h
+S2223-G0804,4,09:12,NYK,,PHI,,O. Toppin,NYK,MISS Toppin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0804,4,09:12,NYK,83.0,PHI,82.0,O. Toppin,NYK,Toppin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0804,4,07:11,NYK,,PHI,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-224,105,25,1,3.0,0.0,h
+S2223-G0804,4,05:21,NYK,,PHI,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0296,1,01:36,NYK,,MEM,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,205,147,25,1,3.0,0.0,h
+S2223-G0296,1,01:06,NYK,,MEM,,O. Toppin,NYK,MISS Toppin 3' Layup,Missed Shot,Layup Shot,22,17,3,1,2.0,0.0,h
+S2223-G0296,1,00:45.500000,NYK,23.0,MEM,25.0,O. Toppin,NYK,Toppin 1' Dunk (2 PTS) (Reddish 1 AST),Made Shot,Dunk Shot,6,4,1,1,2.0,2.0,h
+S2223-G0296,2,10:43,NYK,,MEM,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0296,2,10:27,NYK,,MEM,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-39,246,25,1,3.0,0.0,h
+S2223-G0296,2,09:53,NYK,,MEM,,O. Toppin,NYK,Toppin Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0296,2,09:17,NYK,,MEM,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,-16,24,1,3.0,0.0,h
+S2223-G0296,2,08:00,NYK,,MEM,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0296,2,07:52,NYK,30.0,MEM,32.0,O. Toppin,NYK,Toppin Cutting Dunk Shot (4 PTS) (Brunson 2 AST),Made Shot,Cutting Dunk Shot,1,0,0,1,2.0,2.0,h
+S2223-G0296,2,06:52,NYK,,MEM,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0296,3,01:16,NYK,,MEM,,O. Toppin,NYK,Toppin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0296,4,11:04,NYK,88.0,MEM,95.0,O. Toppin,NYK,Toppin 3PT Jump Shot (7 PTS) (Barrett 4 AST),Made Shot,Jump Shot,-234,-14,0,1,3.0,3.0,h
+S2223-G0296,4,10:12,NYK,,MEM,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0296,4,10:11,NYK,92.0,MEM,97.0,O. Toppin,NYK,Toppin Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,0,0,1,2.0,2.0,h
+S2223-G0296,4,10:00,NYK,,MEM,,O. Toppin,NYK,Toppin S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0296,4,06:14,NYK,,MEM,,O. Toppin,NYK,SUB: Robinson FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0023,1,02:43,NYK,,DET,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,228,44,0,1,3.0,0.0,h
+S2223-G0023,1,01:28,NYK,22.0,DET,18.0,O. Toppin,NYK,Toppin 20' Jump Shot (2 PTS) (Rose 1 AST),Made Shot,Jump Shot,-202,23,20,1,2.0,2.0,h
+S2223-G0023,1,01:15,NYK,,DET,,O. Toppin,NYK,Toppin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0023,1,01:15,NYK,,DET,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0023,1,01:12,NYK,24.0,DET,18.0,O. Toppin,NYK,Toppin Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,0,4,0,1,2.0,2.0,h
+S2223-G0023,2,10:57,NYK,,DET,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0023,2,08:02,NYK,,DET,,O. Toppin,NYK,Toppin S.FOUL (P1.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0023,2,08:02,NYK,,DET,,O. Toppin,NYK,SUB: Robinson FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0023,3,01:41,NYK,99.0,DET,81.0,O. Toppin,NYK,Toppin 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,-230,-10,0,1,3.0,3.0,h
+S2223-G0023,3,00:46,NYK,,DET,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-230,-16,0,1,3.0,0.0,h
+S2223-G0023,3,00:40.300000,NYK,,DET,,O. Toppin,NYK,MISS Toppin 6' Driving Layup,Missed Shot,Driving Layup Shot,26,55,6,1,2.0,0.0,h
+S2223-G0023,4,11:40,NYK,,DET,,O. Toppin,NYK,MISS Toppin 2' Layup,Missed Shot,Layup Shot,-15,8,2,1,2.0,0.0,h
+S2223-G0023,4,11:37,NYK,,DET,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0023,4,11:34,NYK,105.0,DET,81.0,O. Toppin,NYK,Toppin 1' Alley Oop Dunk (9 PTS) (Quickley 4 AST),Made Shot,Alley Oop Dunk Shot,6,5,1,1,2.0,2.0,h
+S2223-G0023,4,10:36,NYK,109.0,DET,81.0,O. Toppin,NYK,Toppin Running Dunk (11 PTS) (Rose 5 AST),Made Shot,Running Dunk Shot,-1,3,0,1,2.0,2.0,h
+S2223-G0023,4,09:57,NYK,,DET,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0023,4,07:31,NYK,,DET,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,34,262,26,1,3.0,0.0,h
+S2223-G0023,4,04:15,NYK,118.0,DET,94.0,O. Toppin,NYK,Toppin 27' 3PT Jump Shot (14 PTS) (Quickley 5 AST),Made Shot,Jump Shot,78,260,27,1,3.0,3.0,h
+S2223-G0023,4,03:25,NYK,122.0,DET,96.0,O. Toppin,NYK,Toppin 1' Running Finger Roll Layup (16 PTS) (Quickley 6 AST),Made Shot,Running Finger Roll Layup Shot,-4,14,1,1,2.0,2.0,h
+S2223-G0023,4,01:49,NYK,,DET,,O. Toppin,NYK,SUB: Arcidiacono FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0648,1,01:18,DET,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0648,1,00:17.600000,DET,,NYK,,O. Toppin,NYK,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,151,215,26,1,3.0,0.0,v
+S2223-G0648,2,10:19,DET,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0648,2,07:42,DET,,NYK,,O. Toppin,NYK,MISS Toppin 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-7,5,1,1,2.0,0.0,v
+S2223-G0648,2,07:39,DET,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0648,2,07:38,DET,,NYK,,O. Toppin,NYK,MISS Toppin 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,-11,3,1,1,2.0,0.0,v
+S2223-G0648,2,07:36,DET,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0648,2,07:35,DET,,NYK,,O. Toppin,NYK,MISS Toppin 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-10,15,2,1,2.0,0.0,v
+S2223-G0648,2,07:27,DET,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0648,4,10:35,DET,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0648,4,09:48,DET,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0648,4,09:07,DET,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,229,22,0,1,3.0,0.0,v
+S2223-G0648,4,08:41,DET,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G0058,2,10:42,NYK,,CHA,,O. Toppin,NYK,Toppin S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0058,2,09:59,NYK,,CHA,,O. Toppin,NYK,MISS Toppin 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,34,22,4,1,2.0,0.0,h
+S2223-G0058,2,09:57,NYK,,CHA,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0058,2,09:54,NYK,40.0,CHA,38.0,O. Toppin,NYK,Toppin 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,-92,231,25,1,3.0,3.0,h
+S2223-G0058,2,09:32,NYK,,CHA,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0058,2,09:25,NYK,43.0,CHA,38.0,O. Toppin,NYK,Toppin 27' 3PT Jump Shot (6 PTS) (Quickley 2 AST),Made Shot,Jump Shot,-135,230,27,1,3.0,3.0,h
+S2223-G0058,2,07:51,NYK,,CHA,,O. Toppin,NYK,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,53,24,1,3.0,0.0,h
+S2223-G0058,2,06:57,NYK,,CHA,,O. Toppin,NYK,SUB: Robinson FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G0058,4,09:17,NYK,105.0,CHA,99.0,O. Toppin,NYK,Toppin 26' 3PT Jump Shot (9 PTS) (Rose 2 AST),Made Shot,Jump Shot,-190,181,26,1,3.0,3.0,h
+S2223-G0058,4,07:33,NYK,,CHA,,O. Toppin,NYK,Toppin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0058,4,07:20,NYK,,CHA,,O. Toppin,NYK,MISS Toppin 2' Driving Layup,Missed Shot,Driving Layup Shot,-22,2,2,1,2.0,0.0,h
+S2223-G0058,4,06:46,NYK,,CHA,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,h
+S2223-G1034,2,10:24,POR,36.0,NYK,28.0,O. Toppin,NYK,Toppin 25' 3PT Running Pull-Up Jump Shot (3 PTS) (Hartenstein 2 AST),Made Shot,Running Pull-Up Jump Shot,-115,226,25,1,3.0,3.0,v
+S2223-G1034,2,09:47,POR,,NYK,,O. Toppin,NYK,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,-227,37,0,1,3.0,0.0,v
+S2223-G1034,2,08:16,POR,40.0,NYK,33.0,O. Toppin,NYK,Toppin 3PT Pullup Jump Shot (6 PTS) (Hartenstein 3 AST),Made Shot,Pullup Jump shot,-227,30,0,1,3.0,3.0,v
+S2223-G1034,2,03:57,POR,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v
+S2223-G1034,4,11:42,POR,,NYK,,O. Toppin,NYK,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1034,4,09:00,POR,86.0,NYK,104.0,O. Toppin,NYK,Toppin 27' 3PT Jump Shot (9 PTS) (Hart 7 AST),Made Shot,Jump Shot,-189,186,27,1,3.0,3.0,v
+S2223-G1034,4,08:05,POR,89.0,NYK,106.0,O. Toppin,NYK,Toppin 3' Driving Layup (11 PTS) (Hartenstein 4 AST),Made Shot,Driving Layup Shot,-26,17,3,1,2.0,2.0,v
+S2223-G1034,4,06:41,POR,,NYK,,O. Toppin,NYK,MISS Toppin 25' 3PT Jump Shot,Missed Shot,Jump Shot,223,111,25,1,3.0,0.0,v
+S2223-G1034,4,06:34,POR,,NYK,,O. Toppin,NYK,SUB: Randle FOR Toppin,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,605 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0935,1,03:52,BOS,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0935,1,01:42,BOS,,CLE,,D. Wade,CLE,Wade P.FOUL (P1.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2223-G0935,2,11:13,BOS,,CLE,,D. Wade,CLE,MISS Wade 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,136,239,27,1,3.0,0.0,v
+S2223-G0935,2,05:32,BOS,,CLE,,D. Wade,CLE,SUB: Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0935,3,03:18,BOS,,CLE,,D. Wade,CLE,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,167,189,25,1,3.0,0.0,v
+S2223-G0935,3,02:03,BOS,,CLE,,D. Wade,CLE,SUB: Rubio FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0779,1,05:29,CLE,,MEM,,D. Wade,CLE,Wade S.FOUL (P1.T4) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0779,2,11:44,CLE,,MEM,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0779,2,10:01,CLE,36.0,MEM,28.0,D. Wade,CLE,Wade 24' 3PT Jump Shot (3 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,-239,24,24,1,3.0,3.0,h
+S2223-G0779,2,08:37,CLE,,MEM,,D. Wade,CLE,SUB: Okoro FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0779,3,03:05,CLE,,MEM,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,-137,226,26,1,3.0,0.0,h
+S2223-G0779,3,02:28,CLE,,MEM,,D. Wade,CLE,Wade REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0779,3,02:20,CLE,94.0,MEM,85.0,D. Wade,CLE,Wade 2' Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,8,14,2,1,2.0,2.0,h
+S2223-G0779,3,02:08,CLE,,MEM,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0295,1,11:17,DET,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0295,1,10:45,DET,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0295,1,06:03,DET,,CLE,,D. Wade,CLE,SUB: Okoro FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0295,2,06:56,DET,,CLE,,D. Wade,CLE,SUB: Mitchell FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0295,2,01:18,DET,,CLE,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,-165,179,24,1,3.0,0.0,v
+S2223-G0295,2,00:28.300000,DET,,CLE,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,157,211,26,1,3.0,0.0,v
+S2223-G0295,2,00:13.900000,DET,,CLE,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,0,24,1,3.0,0.0,v
+S2223-G0295,3,11:32,DET,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0295,3,10:44,DET,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0295,3,09:48,DET,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0295,3,09:43,DET,,CLE,,D. Wade,CLE,MISS Wade 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,178,183,26,1,3.0,0.0,v
+S2223-G0295,3,08:14,DET,,CLE,,D. Wade,CLE,Wade P.FOUL (P1.T3) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0295,3,08:14,DET,,CLE,,D. Wade,CLE,SUB: Osman FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0295,3,05:43,DET,,CLE,,D. Wade,CLE,Wade Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0295,3,02:12,DET,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0295,3,01:25,DET,,CLE,,D. Wade,CLE,Wade S.FOUL (P2.PN) (D.Mosher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0295,3,01:23,DET,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0295,3,00:29.200000,DET,,CLE,,D. Wade,CLE,Wade L.B.FOUL (P3.PN) (B.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0295,3,00:29.200000,DET,,CLE,,D. Wade,CLE,SUB: E. Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0295,4,10:02,DET,80.0,CLE,79.0,D. Wade,CLE,Wade 3PT Jump Shot (3 PTS) (Garland 9 AST),Made Shot,Jump Shot,-234,16,0,1,3.0,3.0,v
+S2223-G0295,4,05:10,DET,,CLE,,D. Wade,CLE,Wade S.FOUL (P4.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0295,4,05:10,DET,,CLE,,D. Wade,CLE,SUB: Garland FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0295,4,00:03.400000,DET,,CLE,,D. Wade,CLE,SUB: Diakite FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0914,1,02:33,CLE,,TOR,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0914,2,10:25,CLE,,TOR,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0914,2,09:40,CLE,,TOR,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,-143,214,26,1,3.0,0.0,h
+S2223-G0914,2,06:50,CLE,,TOR,,D. Wade,CLE,SUB: Mobley FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0914,3,03:37,CLE,,TOR,,D. Wade,CLE,Wade P.FOUL (P1.T2) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2223-G0914,3,01:29,CLE,,TOR,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0914,3,00:55.700000,CLE,,TOR,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0914,3,00:45.900000,CLE,,TOR,,D. Wade,CLE,MISS Wade 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-7,70,7,1,2.0,0.0,h
+S2223-G0914,4,07:51,CLE,,TOR,,D. Wade,CLE,Wade REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0914,4,07:23,CLE,,TOR,,D. Wade,CLE,Wade REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0914,4,07:11,CLE,110.0,TOR,80.0,D. Wade,CLE,Wade 25' 3PT Jump Shot (3 PTS) (LeVert 6 AST),Made Shot,Jump Shot,-219,117,25,1,3.0,3.0,h
+S2223-G0914,4,07:05,CLE,,TOR,,D. Wade,CLE,Wade S.FOUL (P2.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0914,4,06:37,CLE,,TOR,,D. Wade,CLE,Wade REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0914,4,06:01,CLE,,TOR,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,-170,199,26,1,3.0,0.0,h
+S2223-G0914,4,05:42,CLE,,TOR,,D. Wade,CLE,Wade S.FOUL (P3.T4) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0914,4,05:20,CLE,,TOR,,D. Wade,CLE,MISS Wade 3' Driving Layup,Missed Shot,Driving Layup Shot,-11,29,3,1,2.0,0.0,h
+S2223-G0914,4,03:27,CLE,,TOR,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,124,234,26,1,3.0,0.0,h
+S2223-G0914,4,00:53.400000,CLE,,TOR,,D. Wade,CLE,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,172,180,25,1,3.0,0.0,h
+S2223-G0739,1,05:02,OKC,,CLE,,D. Wade,CLE,Wade S.FOUL (P1.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0739,1,03:02,OKC,,CLE,,D. Wade,CLE,Wade P.FOUL (P2.T4) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G0739,1,01:49,OKC,,CLE,,D. Wade,CLE,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,-141,205,25,1,3.0,0.0,v
+S2223-G0739,1,01:39,OKC,,CLE,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0739,2,04:26,OKC,,CLE,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,-228,1,0,1,3.0,0.0,v
+S2223-G0739,2,01:46,OKC,42.0,CLE,49.0,D. Wade,CLE,Wade 28' 3PT Jump Shot (3 PTS) (LeVert 8 AST),Made Shot,Jump Shot,-140,246,28,1,3.0,3.0,v
+S2223-G0739,2,00:57,OKC,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0739,3,01:39,OKC,,CLE,,D. Wade,CLE,Wade Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0739,3,01:27,OKC,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0739,4,11:26,OKC,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0739,4,11:13,OKC,,CLE,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,-229,4,0,1,3.0,0.0,v
+S2223-G0739,4,10:14,OKC,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0739,4,08:34,OKC,,CLE,,D. Wade,CLE,Wade S.FOUL (P3.T1) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2223-G0739,4,08:34,OKC,,CLE,,D. Wade,CLE,SUB: Allen FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0739,4,06:55,OKC,90.0,CLE,83.0,D. Wade,CLE,Wade 2' Driving Finger Roll Layup (5 PTS) (Garland 12 AST),Made Shot,Driving Finger Roll Layup Shot,17,-8,2,1,2.0,2.0,v
+S2223-G0739,4,04:55,OKC,,CLE,,D. Wade,CLE,SUB: Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0056,1,10:43,CLE,3.0,ORL,1.0,D. Wade,CLE,Wade 24' 3PT Jump Shot (3 PTS) (LeVert 1 AST),Made Shot,Jump Shot,-238,-1,24,1,3.0,3.0,h
+S2223-G0056,1,09:57,CLE,,ORL,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0056,1,09:24,CLE,,ORL,,D. Wade,CLE,Wade P.FOUL (P1.T3) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2223-G0056,1,06:46,CLE,,ORL,,D. Wade,CLE,Wade P.FOUL (P2.T4) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G0056,1,06:46,CLE,,ORL,,D. Wade,CLE,SUB: Love FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0056,2,07:26,CLE,39.0,ORL,35.0,D. Wade,CLE,Wade 3PT Jump Shot (6 PTS) (Mitchell 5 AST),Made Shot,Jump Shot,233,16,0,1,3.0,3.0,h
+S2223-G0056,2,02:51,CLE,,ORL,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,-163,205,26,1,3.0,0.0,h
+S2223-G0056,2,01:22,CLE,51.0,ORL,50.0,D. Wade,CLE,Wade 3PT Jump Shot (9 PTS) (Mitchell 6 AST),Made Shot,Jump Shot,-230,41,0,1,3.0,3.0,h
+S2223-G0056,3,11:19,CLE,,ORL,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0056,3,10:03,CLE,,ORL,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,140,216,26,1,3.0,0.0,h
+S2223-G0056,3,05:07,CLE,,ORL,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,-238,113,26,1,3.0,0.0,h
+S2223-G0056,3,04:59,CLE,,ORL,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0056,3,04:34,CLE,,ORL,,D. Wade,CLE,SUB: Osman FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0056,4,08:58,CLE,81.0,ORL,74.0,D. Wade,CLE,Wade 3PT Jump Shot (12 PTS) (Mobley 3 AST),Made Shot,Jump Shot,234,14,0,1,3.0,3.0,h
+S2223-G0056,4,04:48,CLE,,ORL,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0056,4,03:39,CLE,,ORL,,D. Wade,CLE,SUB: LeVert FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0056,4,00:33,CLE,,ORL,,D. Wade,CLE,SUB: Osman FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0754,1,05:07,CLE,21.0,LAC,6.0,D. Wade,CLE,Wade 1' Running Dunk (2 PTS) (Garland 4 AST),Made Shot,Running Dunk Shot,-4,8,1,1,2.0,2.0,h
+S2223-G0754,1,05:07,CLE,22.0,LAC,6.0,D. Wade,CLE,Wade Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0754,1,01:51,CLE,,LAC,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0754,2,10:09,CLE,,LAC,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,137,216,26,1,3.0,0.0,h
+S2223-G0754,2,08:42,CLE,,LAC,,D. Wade,CLE,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,-216,131,25,1,3.0,0.0,h
+S2223-G0754,2,08:36,CLE,,LAC,,D. Wade,CLE,SUB: Mitchell FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0754,2,06:24,CLE,,LAC,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0754,2,01:58,CLE,58.0,LAC,29.0,D. Wade,CLE,Wade Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0754,2,01:58,CLE,59.0,LAC,29.0,D. Wade,CLE,Wade Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0754,2,01:41,CLE,,LAC,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0754,2,01:13,CLE,,LAC,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0754,2,00:32.600000,CLE,,LAC,,D. Wade,CLE,MISS Wade Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0754,2,00:32.600000,CLE,,LAC,,D. Wade,CLE,MISS Wade Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0754,3,05:33,CLE,,LAC,,D. Wade,CLE,Wade REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0754,3,05:30,CLE,,LAC,,D. Wade,CLE,Wade Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0754,3,00:39.700000,CLE,,LAC,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0754,4,07:48,CLE,,LAC,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,-162,201,26,1,3.0,0.0,h
+S2223-G0754,4,07:16,CLE,98.0,LAC,74.0,D. Wade,CLE,Wade 26' 3PT Jump Shot (8 PTS) (LeVert 1 AST),Made Shot,Jump Shot,-65,252,26,1,3.0,3.0,h
+S2223-G0754,4,06:18,CLE,,LAC,,D. Wade,CLE,Wade S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0754,4,04:37,CLE,,LAC,,D. Wade,CLE,SUB: LeVert FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0312,1,11:39,CLE,,PHI,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0312,1,09:46,CLE,,PHI,,D. Wade,CLE,Wade S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0312,1,04:23,CLE,,PHI,,D. Wade,CLE,SUB: Osman FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0312,1,03:25,CLE,,PHI,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0312,1,00:28.500000,CLE,25.0,PHI,21.0,D. Wade,CLE,Wade 2' Reverse Layup (2 PTS) (Garland 5 AST),Made Shot,Reverse Layup Shot,0,17,2,1,2.0,2.0,h
+S2223-G0312,1,00:12.200000,CLE,,PHI,,D. Wade,CLE,SUB: Mitchell FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0312,2,05:17,CLE,,PHI,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0312,2,02:25,CLE,,PHI,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0312,3,11:47,CLE,,PHI,,D. Wade,CLE,Wade Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0312,3,09:42,CLE,,PHI,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0312,3,07:32,CLE,,PHI,,D. Wade,CLE,Wade Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0312,3,05:15,CLE,,PHI,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,206,160,26,1,3.0,0.0,h
+S2223-G0312,3,03:30,CLE,,PHI,,D. Wade,CLE,SUB: Mobley FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0312,4,11:43,CLE,,PHI,,D. Wade,CLE,Wade STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0312,4,10:36,CLE,,PHI,,D. Wade,CLE,MISS Wade 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-10,14,2,1,2.0,0.0,h
+S2223-G0312,4,08:10,CLE,,PHI,,D. Wade,CLE,MISS Wade 2' Driving Layup,Missed Shot,Driving Layup Shot,-10,14,2,1,2.0,0.0,h
+S2223-G0312,4,08:08,CLE,,PHI,,D. Wade,CLE,Wade REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0312,4,08:04,CLE,,PHI,,D. Wade,CLE,Wade REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0312,4,07:35,CLE,,PHI,,D. Wade,CLE,Wade STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0312,4,07:25,CLE,101.0,PHI,72.0,D. Wade,CLE,Wade 1' Cutting Layup Shot (4 PTS) (Garland 9 AST),Made Shot,Cutting Layup Shot,-4,13,1,1,2.0,2.0,h
+S2223-G0312,4,06:54,CLE,,PHI,,D. Wade,CLE,MISS Wade 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,40,168,17,1,2.0,0.0,h
+S2223-G0312,4,06:18,CLE,103.0,PHI,74.0,D. Wade,CLE,Wade 1' Driving Bank Hook Shot (6 PTS),Made Shot,Driving Bank Hook Shot,-6,10,1,1,2.0,2.0,h
+S2223-G0312,4,06:18,CLE,,PHI,,D. Wade,CLE,SUB: Neto FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0715,2,04:50,NYK,,CLE,,D. Wade,CLE,Wade L.B.FOUL (P1.T4) (B.Kennedy),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0715,2,04:45,NYK,,CLE,,D. Wade,CLE,Wade S.FOUL (P2.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2223-G0715,2,04:45,NYK,,CLE,,D. Wade,CLE,SUB: Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G1173,1,11:19,CLE,,IND,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1173,1,07:39,CLE,,IND,,D. Wade,CLE,Wade REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1173,1,03:49,CLE,21.0,IND,19.0,D. Wade,CLE,Wade 26' 3PT Jump Shot (3 PTS) (Rubio 2 AST),Made Shot,Jump Shot,237,97,26,1,3.0,3.0,h
+S2223-G1173,1,03:37,CLE,,IND,,D. Wade,CLE,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1173,1,03:26,CLE,,IND,,D. Wade,CLE,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,7,254,25,1,3.0,0.0,h
+S2223-G1173,1,03:09,CLE,,IND,,D. Wade,CLE,SUB: Osman FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G1173,2,05:36,CLE,,IND,,D. Wade,CLE,Wade S.FOUL (P1.PN) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G1173,2,03:44,CLE,,IND,,D. Wade,CLE,Wade REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1173,2,03:38,CLE,,IND,,D. Wade,CLE,SUB: Garland FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G1173,3,10:10,CLE,,IND,,D. Wade,CLE,Wade L.B.FOUL (P2.T2) (J.Orr),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1173,3,04:37,CLE,,IND,,D. Wade,CLE,SUB: Stevens FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G1173,4,05:29,CLE,,IND,,D. Wade,CLE,Wade REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1173,4,03:59,CLE,102.0,IND,95.0,D. Wade,CLE,Wade 1' Cutting Layup Shot (5 PTS) (LeVert 3 AST),Made Shot,Cutting Layup Shot,-5,11,1,1,2.0,2.0,h
+S2223-G1173,4,01:03,CLE,,IND,,D. Wade,CLE,Wade P.FOUL (P3.T4) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0261,1,01:36,CLE,,POR,,D. Wade,CLE,Wade P.FOUL (P1.T3) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0261,1,01:17,CLE,,POR,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0261,2,08:34,CLE,,POR,,D. Wade,CLE,SUB: Mitchell FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0261,3,04:50,CLE,,POR,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0261,3,04:07,CLE,,POR,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,-225,-6,0,1,3.0,0.0,h
+S2223-G0261,3,03:45,CLE,,POR,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0261,3,02:05,CLE,83.0,POR,71.0,D. Wade,CLE,Wade 12' Turnaround Jump Shot (2 PTS) (Garland 9 AST),Made Shot,Turnaround Jump Shot,67,99,12,1,2.0,2.0,h
+S2223-G0261,4,07:27,CLE,97.0,POR,77.0,D. Wade,CLE,Wade 2' Driving Reverse Layup (4 PTS) (E. Mobley 3 AST),Made Shot,Driving Reverse Layup Shot,-13,17,2,1,2.0,2.0,h
+S2223-G0261,4,05:51,CLE,,POR,,D. Wade,CLE,SUB: Allen FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G1154,1,02:14,CLE,,NYK,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1154,1,00:50.100000,CLE,,NYK,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1154,2,10:36,CLE,,NYK,,D. Wade,CLE,SUB: LeVert FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G1154,3,00:52.800000,CLE,,NYK,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1154,3,00:05.400000,CLE,,NYK,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,-22,24,1,3.0,0.0,h
+S2223-G1154,4,10:47,CLE,,NYK,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1154,4,10:05,CLE,104.0,NYK,107.0,D. Wade,CLE,Wade 2' Running Reverse Layup (2 PTS) (Neto 2 AST),Made Shot,Running Reverse Layup Shot,-5,19,2,1,2.0,2.0,h
+S2223-G1154,4,07:55,CLE,,NYK,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,227,9,0,1,3.0,0.0,h
+S2223-G1154,4,07:18,CLE,107.0,NYK,119.0,D. Wade,CLE,Wade 3PT Jump Shot (5 PTS) (Mobley 5 AST),Made Shot,Jump Shot,228,14,0,1,3.0,3.0,h
+S2223-G1154,4,07:07,CLE,,NYK,,D. Wade,CLE,SUB: Stevens FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0303,1,11:07,TOR,,CLE,,D. Wade,CLE,MISS Wade 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,36,113,12,1,2.0,0.0,v
+S2223-G0303,1,08:45,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0303,1,08:26,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0303,1,08:16,TOR,,CLE,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,6,260,26,1,3.0,0.0,v
+S2223-G0303,1,08:10,TOR,,CLE,,D. Wade,CLE,Wade S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0303,1,06:51,TOR,11.0,CLE,12.0,D. Wade,CLE,Wade 24' 3PT Jump Shot (3 PTS) (Garland 3 AST),Made Shot,Jump Shot,-235,19,24,1,3.0,3.0,v
+S2223-G0303,1,05:12,TOR,,CLE,,D. Wade,CLE,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,183,176,25,1,3.0,0.0,v
+S2223-G0303,1,04:34,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0303,1,03:49,TOR,,CLE,,D. Wade,CLE,SUB: E. Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0303,2,09:45,TOR,29.0,CLE,27.0,D. Wade,CLE,Wade 3PT Running Jump Shot (6 PTS) (Garland 4 AST),Made Shot,Running Jump Shot,230,25,0,1,3.0,3.0,v
+S2223-G0303,2,08:03,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0303,2,04:04,TOR,,CLE,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0303,2,03:58,TOR,,CLE,,D. Wade,CLE,SUB: E. Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0303,3,09:21,TOR,,CLE,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,-233,1,0,1,3.0,0.0,v
+S2223-G0303,3,09:00,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0303,3,08:38,TOR,,CLE,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,-225,137,26,1,3.0,0.0,v
+S2223-G0303,3,08:20,TOR,,CLE,,D. Wade,CLE,Wade P.FOUL (P2.T4) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2223-G0303,3,08:16,TOR,,CLE,,D. Wade,CLE,Wade P.FOUL (P3.PN) (E.Dalen),Foul,Personal,0,0,0,0,,,v
+S2223-G0303,3,07:56,TOR,,CLE,,D. Wade,CLE,SUB: Lopez FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0303,3,04:52,TOR,67.0,CLE,58.0,D. Wade,CLE,Wade 1' Running Layup (8 PTS) (Garland 9 AST),Made Shot,Running Layup Shot,0,6,1,1,2.0,2.0,v
+S2223-G0303,3,01:48,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0303,3,01:03,TOR,,CLE,,D. Wade,CLE,Wade L.B.FOUL (P4.PN) (T.Brothers),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0303,3,00:21,TOR,,CLE,,D. Wade,CLE,MISS Wade 2' Driving Dunk,Missed Shot,Driving Dunk Shot,-11,17,2,1,2.0,0.0,v
+S2223-G0303,4,11:05,TOR,,CLE,,D. Wade,CLE,MISS Wade 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-21,36,4,1,2.0,0.0,v
+S2223-G0303,4,09:30,TOR,,CLE,,D. Wade,CLE,SUB: Osman FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G1197,1,11:45,ORL,,CLE,,D. Wade,CLE,Wade Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1197,1,10:34,ORL,,CLE,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1197,1,04:45,ORL,,CLE,,D. Wade,CLE,SUB: Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G1197,2,11:13,ORL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1197,2,08:55,ORL,44.0,CLE,45.0,D. Wade,CLE,Wade 25' 3PT Jump Shot (3 PTS) (Lopez 2 AST),Made Shot,Jump Shot,229,88,25,1,3.0,3.0,v
+S2223-G1197,2,07:30,ORL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1197,2,07:28,ORL,,CLE,,D. Wade,CLE,MISS Wade 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,162,210,27,1,3.0,0.0,v
+S2223-G1197,2,06:34,ORL,,CLE,,D. Wade,CLE,Wade Step Out of Bounds Turnover (P2.T5),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G1197,2,06:21,ORL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1197,2,05:27,ORL,48.0,CLE,49.0,D. Wade,CLE,Wade 2' Running Dunk (5 PTS) (Rubio 2 AST),Made Shot,Running Dunk Shot,10,20,2,1,2.0,2.0,v
+S2223-G1197,2,05:27,ORL,,CLE,,D. Wade,CLE,SUB: Green FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G1197,3,10:22,ORL,,CLE,,D. Wade,CLE,MISS Wade 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,148,221,27,1,3.0,0.0,v
+S2223-G1197,3,09:53,ORL,,CLE,,D. Wade,CLE,Wade P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2223-G1197,3,09:36,ORL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1197,3,09:35,ORL,57.0,CLE,75.0,D. Wade,CLE,Wade 3' Putback Dunk (7 PTS),Made Shot,Putback Dunk Shot,-27,22,3,1,2.0,2.0,v
+S2223-G1197,3,09:19,ORL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1197,3,08:32,ORL,,CLE,,D. Wade,CLE,MISS Wade 6' Driving Layup,Missed Shot,Driving Layup Shot,-42,38,6,1,2.0,0.0,v
+S2223-G1197,3,05:32,ORL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1197,3,03:24,ORL,,CLE,,D. Wade,CLE,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,-226,113,25,1,3.0,0.0,v
+S2223-G1197,3,03:14,ORL,,CLE,,D. Wade,CLE,SUB: Merrill FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G1178,1,11:23,ORL,,CLE,,D. Wade,CLE,Wade S.FOUL (P1.T1) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2223-G1178,1,08:06,ORL,,CLE,,D. Wade,CLE,Wade P.FOUL (P2.T3) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2223-G1178,1,06:57,ORL,,CLE,,D. Wade,CLE,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,-225,106,25,1,3.0,0.0,v
+S2223-G1178,1,05:06,ORL,,CLE,,D. Wade,CLE,SUB: Rubio FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G1178,2,06:37,ORL,,CLE,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,-227,18,0,1,3.0,0.0,v
+S2223-G1178,2,03:38,ORL,,CLE,,D. Wade,CLE,SUB: Garland FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G1178,3,11:38,ORL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1178,3,10:18,ORL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1178,3,08:59,ORL,66.0,CLE,68.0,D. Wade,CLE,Wade 3PT Jump Shot (3 PTS) (Garland 6 AST),Made Shot,Jump Shot,229,50,0,1,3.0,3.0,v
+S2223-G1178,3,05:07,ORL,,CLE,,D. Wade,CLE,SUB: LeVert FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G1178,4,09:32,ORL,,CLE,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1178,4,08:53,ORL,,CLE,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,5,24,1,3.0,0.0,v
+S2223-G1178,4,08:26,ORL,,CLE,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,230,27,0,1,3.0,0.0,v
+S2223-G1178,4,08:01,ORL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1178,4,05:11,ORL,,CLE,,D. Wade,CLE,Wade P.FOUL (P3.T1) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2223-G1178,4,03:53,ORL,,CLE,,D. Wade,CLE,SUB: Allen FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G1178,4,00:04.800000,ORL,,CLE,,D. Wade,CLE,Wade S.FOUL (P4.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G1178,4,00:04.800000,ORL,,CLE,,D. Wade,CLE,SUB: Garland FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G1027,1,02:46,CHA,,CLE,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1027,1,02:36,CHA,,CLE,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,-129,221,26,1,3.0,0.0,v
+S2223-G1027,1,02:08,CHA,,CLE,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,74,248,26,1,3.0,0.0,v
+S2223-G1027,1,00:36.800000,CHA,,CLE,,D. Wade,CLE,Wade P.FOUL (P1.T4) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2223-G1027,3,03:39,CHA,,CLE,,D. Wade,CLE,Wade S.FOUL (P2.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G1027,3,02:12,CHA,,CLE,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,17,24,1,3.0,0.0,v
+S2223-G1027,4,11:45,CHA,,CLE,,D. Wade,CLE,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,-157,199,25,1,3.0,0.0,v
+S2223-G1027,4,04:07,CHA,,CLE,,D. Wade,CLE,SUB: I. Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0764,1,04:12,CLE,,MIA,,D. Wade,CLE,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,-234,85,25,1,3.0,0.0,h
+S2223-G0764,1,02:01,CLE,21.0,MIA,18.0,D. Wade,CLE,Wade 24' 3PT Jump Shot (3 PTS) (Rubio 1 AST),Made Shot,Jump Shot,-240,8,24,1,3.0,3.0,h
+S2223-G0764,1,00:49.700000,CLE,,MIA,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,232,5,0,1,3.0,0.0,h
+S2223-G0764,1,00:08.100000,CLE,,MIA,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0764,2,10:13,CLE,,MIA,,D. Wade,CLE,Wade S.FOUL (P1.T1) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0764,2,10:13,CLE,,MIA,,D. Wade,CLE,SUB: Okoro FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0764,2,03:09,CLE,,MIA,,D. Wade,CLE,MISS Wade 1' Driving Layup,Missed Shot,Driving Layup Shot,9,-1,1,1,2.0,0.0,h
+S2223-G0764,3,00:35.800000,CLE,,MIA,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,230,-2,0,1,3.0,0.0,h
+S2223-G0764,4,11:50,CLE,81.0,MIA,79.0,D. Wade,CLE,Wade 1' Reverse Layup (5 PTS) (Mobley 4 AST),Made Shot,Reverse Layup Shot,-5,9,1,1,2.0,2.0,h
+S2223-G0764,4,09:41,CLE,,MIA,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0764,4,09:21,CLE,,MIA,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0764,4,08:31,CLE,,MIA,,D. Wade,CLE,Wade Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0764,4,08:23,CLE,,MIA,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0764,4,07:38,CLE,,MIA,,D. Wade,CLE,SUB: Mitchell FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0764,4,00:08.700000,CLE,,MIA,,D. Wade,CLE,SUB: Okoro FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0158,2,10:22,LAC,37.0,CLE,44.0,D. Wade,CLE,Wade 26' 3PT Jump Shot (3 PTS) (Love 2 AST),Made Shot,Jump Shot,207,155,26,1,3.0,3.0,v
+S2223-G0158,2,09:17,LAC,,CLE,,D. Wade,CLE,MISS Wade 3' Driving Layup,Missed Shot,Driving Layup Shot,-22,17,3,1,2.0,0.0,v
+S2223-G0158,2,07:13,LAC,,CLE,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0158,2,06:11,LAC,,CLE,,D. Wade,CLE,Wade P.FOUL (P1.T1) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0158,2,06:11,LAC,,CLE,,D. Wade,CLE,SUB: LeVert FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0158,2,02:55,LAC,56.0,CLE,59.0,D. Wade,CLE,Wade 3PT Jump Shot (6 PTS) (LeVert 3 AST),Made Shot,Jump Shot,230,29,0,1,3.0,3.0,v
+S2223-G0158,2,02:34,LAC,,CLE,,D. Wade,CLE,SUB: Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0158,3,01:05,LAC,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0158,3,00:47,LAC,,CLE,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,48,24,1,3.0,0.0,v
+S2223-G0158,4,00:08,LAC,,CLE,,D. Wade,CLE,Wade Personal Take Foul (P2.PN) (J.Tiven),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0158,4,00:08,LAC,,CLE,,D. Wade,CLE,SUB: Love FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0733,1,03:33,HOU,19.0,CLE,24.0,D. Wade,CLE,Wade 25' 3PT Jump Shot (3 PTS) (Rubio 1 AST),Made Shot,Jump Shot,124,219,25,1,3.0,3.0,v
+S2223-G0733,1,03:13,HOU,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0733,1,03:00,HOU,,CLE,,D. Wade,CLE,Wade Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0733,1,02:35,HOU,20.0,CLE,26.0,D. Wade,CLE,Wade 4' Cutting Layup Shot (5 PTS) (Rubio 2 AST),Made Shot,Cutting Layup Shot,-17,34,4,1,2.0,2.0,v
+S2223-G0733,1,02:35,HOU,,CLE,,D. Wade,CLE,MISS Wade Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0733,1,01:11,HOU,,CLE,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0733,1,00:00.700000,HOU,,CLE,,D. Wade,CLE,Wade BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0733,2,09:52,HOU,,CLE,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,229,-11,0,1,3.0,0.0,v
+S2223-G0733,2,08:28,HOU,,CLE,,D. Wade,CLE,Wade S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2223-G0733,2,08:28,HOU,,CLE,,D. Wade,CLE,SUB: LeVert FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0733,2,04:00,HOU,,CLE,,D. Wade,CLE,MISS Wade Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0733,2,04:00,HOU,38.0,CLE,60.0,D. Wade,CLE,Wade Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0733,2,03:40,HOU,,CLE,,D. Wade,CLE,SUB: Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0733,3,07:54,HOU,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0733,3,06:38,HOU,57.0,CLE,87.0,D. Wade,CLE,Wade 26' 3PT Jump Shot (9 PTS) (LeVert 4 AST),Made Shot,Jump Shot,-207,162,26,1,3.0,3.0,v
+S2223-G0733,3,05:03,HOU,,CLE,,D. Wade,CLE,Wade S.FOUL (P2.T2) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0733,3,05:03,HOU,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0733,3,04:19,HOU,,CLE,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,36,24,1,3.0,0.0,v
+S2223-G0733,3,00:07.700000,HOU,71.0,CLE,97.0,D. Wade,CLE,Wade 26' 3PT Jump Shot (12 PTS) (Rubio 6 AST),Made Shot,Jump Shot,-142,223,26,1,3.0,3.0,v
+S2223-G0733,4,03:30,HOU,89.0,CLE,111.0,D. Wade,CLE,Wade 3PT Jump Shot (15 PTS) (Rubio 7 AST),Made Shot,Jump Shot,-225,10,0,1,3.0,3.0,v
+S2223-G0733,4,02:07,HOU,,CLE,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,141,221,26,1,3.0,0.0,v
+S2223-G0733,4,01:53,HOU,,CLE,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0695,1,02:19,CLE,,MIL,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0695,2,00:15.800000,CLE,,MIL,,D. Wade,CLE,Wade P.FOUL (P1.T1) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0695,3,03:04,CLE,,MIL,,D. Wade,CLE,Wade S.FOUL (P2.T4) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0695,3,00:44.700000,CLE,,MIL,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0803,1,05:58,IND,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0803,1,04:51,IND,15.0,CLE,16.0,D. Wade,CLE,Wade 26' 3PT Jump Shot (3 PTS) (Rubio 1 AST),Made Shot,Jump Shot,-109,231,26,1,3.0,3.0,v
+S2223-G0803,1,04:33,IND,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0803,1,03:21,IND,,CLE,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0803,1,01:21,IND,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0803,1,00:55.400000,IND,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0803,1,00:04.700000,IND,,CLE,,D. Wade,CLE,Wade P.FOUL (P1.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2223-G0803,2,10:49,IND,,CLE,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,-228,32,0,1,3.0,0.0,v
+S2223-G0803,2,08:41,IND,32.0,CLE,32.0,D. Wade,CLE,Wade 25' 3PT Jump Shot (6 PTS) (Rubio 5 AST),Made Shot,Jump Shot,-211,130,25,1,3.0,3.0,v
+S2223-G0803,2,07:22,IND,,CLE,,D. Wade,CLE,SUB: Okoro FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0803,2,01:03,IND,,CLE,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0803,3,05:16,IND,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0803,3,01:45,IND,,CLE,,D. Wade,CLE,Wade S.FOUL (P2.T4) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0803,4,09:46,IND,,CLE,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,36,24,1,3.0,0.0,v
+S2223-G0803,4,08:43,IND,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0803,4,06:20,IND,,CLE,,D. Wade,CLE,Wade S.FOUL (P3.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0803,4,06:20,IND,,CLE,,D. Wade,CLE,SUB: Allen FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0842,1,05:22,NOP,,CLE,,D. Wade,CLE,Wade P.FOUL (P1.T4) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2223-G0842,1,04:03,NOP,19.0,CLE,27.0,D. Wade,CLE,Wade 2' Cutting Dunk Shot (2 PTS) (Mitchell 1 AST),Made Shot,Cutting Dunk Shot,-20,13,2,1,2.0,2.0,v
+S2223-G0842,1,03:30,NOP,,CLE,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0842,1,03:20,NOP,,CLE,,D. Wade,CLE,Wade S.FOUL (P2.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2223-G0842,1,03:04,NOP,,CLE,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,234,4,0,1,3.0,0.0,v
+S2223-G0842,1,03:02,NOP,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0842,1,02:35,NOP,21.0,CLE,34.0,D. Wade,CLE,Wade 26' 3PT Jump Shot (5 PTS) (LeVert 2 AST),Made Shot,Jump Shot,-167,194,26,1,3.0,3.0,v
+S2223-G0842,1,01:19,NOP,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0842,2,11:04,NOP,,CLE,,D. Wade,CLE,Wade STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0842,2,09:04,NOP,,CLE,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0842,2,05:15,NOP,,CLE,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,52,24,1,3.0,0.0,v
+S2223-G0842,2,04:39,NOP,,CLE,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,227,35,0,1,3.0,0.0,v
+S2223-G0842,2,04:08,NOP,,CLE,,D. Wade,CLE,SUB: Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0842,2,00:00.200000,NOP,,CLE,,D. Wade,CLE,Wade S.FOUL (P3.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2223-G0842,3,03:29,NOP,,CLE,,D. Wade,CLE,Wade Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0842,3,02:16,NOP,,CLE,,D. Wade,CLE,Wade S.FOUL (P4.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G0090,1,08:10,CLE,7.0,NYK,10.0,D. Wade,CLE,Wade 1' Running Layup (2 PTS) (Mitchell 1 AST),Made Shot,Running Layup Shot,0,6,1,1,2.0,2.0,h
+S2223-G0090,1,07:55,CLE,,NYK,,D. Wade,CLE,Wade S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0090,1,06:34,CLE,16.0,NYK,11.0,D. Wade,CLE,Wade 26' 3PT Jump Shot (5 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,-134,222,26,1,3.0,3.0,h
+S2223-G0090,1,04:08,CLE,25.0,NYK,20.0,D. Wade,CLE,Wade 25' 3PT Jump Shot (8 PTS) (Mitchell 4 AST),Made Shot,Jump Shot,244,27,25,1,3.0,3.0,h
+S2223-G0090,1,03:44,CLE,27.0,NYK,20.0,D. Wade,CLE,Wade 1' Cutting Layup Shot (10 PTS) (Mitchell 5 AST),Made Shot,Cutting Layup Shot,5,6,1,1,2.0,2.0,h
+S2223-G0090,1,02:46,CLE,,NYK,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0090,1,01:27,CLE,,NYK,,D. Wade,CLE,SUB: LeVert FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0090,2,02:31,CLE,58.0,NYK,51.0,D. Wade,CLE,Wade 25' 3PT Jump Shot (13 PTS) (Mobley 2 AST),Made Shot,Jump Shot,-148,205,25,1,3.0,3.0,h
+S2223-G0090,2,01:24,CLE,,NYK,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0090,3,10:25,CLE,,NYK,,D. Wade,CLE,MISS Wade 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,110,40,12,1,2.0,0.0,h
+S2223-G0090,3,09:26,CLE,,NYK,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,-4,24,1,3.0,0.0,h
+S2223-G0090,3,08:49,CLE,,NYK,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,178,187,26,1,3.0,0.0,h
+S2223-G0090,3,06:48,CLE,,NYK,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0090,3,06:26,CLE,73.0,NYK,73.0,D. Wade,CLE,Wade 27' 3PT Pullup Jump Shot (16 PTS) (Allen 1 AST),Made Shot,Pullup Jump shot,25,268,27,1,3.0,3.0,h
+S2223-G0090,3,06:00,CLE,,NYK,,D. Wade,CLE,Wade REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0090,3,04:14,CLE,76.0,NYK,77.0,D. Wade,CLE,Wade 26' 3PT Running Jump Shot (19 PTS) (Mitchell 7 AST),Made Shot,Running Jump Shot,216,143,26,1,3.0,3.0,h
+S2223-G0090,3,04:04,CLE,,NYK,,D. Wade,CLE,SUB: Lopez FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0090,4,07:10,CLE,,NYK,,D. Wade,CLE,Wade P.FOUL (P2.T2) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2223-G0090,4,03:19,CLE,112.0,NYK,101.0,D. Wade,CLE,Wade 3PT Jump Shot (22 PTS) (Mitchell 12 AST),Made Shot,Jump Shot,228,27,0,1,3.0,3.0,h
+S2223-G0090,4,02:41,CLE,,NYK,,D. Wade,CLE,Wade P.FOUL (P3.T4) (E.Lewis),Foul,Personal,0,0,0,0,,,h
+S2223-G0090,4,01:03,CLE,,NYK,,D. Wade,CLE,Wade P.FOUL (P4.PN) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2223-G0090,4,00:18.700000,CLE,,NYK,,D. Wade,CLE,SUB: Stevens FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0858,1,03:40,CLE,,SAS,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0858,1,03:24,CLE,,SAS,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0858,1,03:05,CLE,29.0,SAS,15.0,D. Wade,CLE,Wade 14' Fadeaway Jumper (2 PTS) (LeVert 2 AST),Made Shot,Fadeaway Jump Shot,9,142,14,1,2.0,2.0,h
+S2223-G0858,1,02:22,CLE,,SAS,,D. Wade,CLE,Wade S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G0858,1,02:08,CLE,,SAS,,D. Wade,CLE,MISS Wade 27' 3PT Jump Shot,Missed Shot,Jump Shot,218,153,27,1,3.0,0.0,h
+S2223-G0858,1,00:22.600000,CLE,,SAS,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0008,1,05:08,TOR,13.0,CLE,15.0,D. Wade,CLE,Wade 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-18,24,3,1,2.0,2.0,v
+S2223-G0008,1,03:59,TOR,,CLE,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0008,1,01:13,TOR,,CLE,,D. Wade,CLE,Wade L.B.FOUL (P1.PN) (J.Tiven),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0008,2,08:54,TOR,,CLE,,D. Wade,CLE,SUB: LeVert FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0008,3,01:40,TOR,74.0,CLE,78.0,D. Wade,CLE,Wade 1' Cutting Dunk Shot (4 PTS) (Love 2 AST),Made Shot,Cutting Dunk Shot,-2,5,1,1,2.0,2.0,v
+S2223-G0008,3,00:32.400000,TOR,76.0,CLE,82.0,D. Wade,CLE,Wade 3PT Jump Shot (7 PTS) (Mitchell 7 AST),Made Shot,Jump Shot,225,1,0,1,3.0,3.0,v
+S2223-G0008,4,11:46,TOR,,CLE,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,-207,160,26,1,3.0,0.0,v
+S2223-G0008,4,09:44,TOR,,CLE,,D. Wade,CLE,SUB: Osman FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0008,4,08:11,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0008,4,05:09,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0008,4,04:55,TOR,92.0,CLE,97.0,D. Wade,CLE,Wade Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0008,4,04:55,TOR,,CLE,,D. Wade,CLE,MISS Wade Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0008,4,04:25,TOR,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0008,4,03:06,TOR,,CLE,,D. Wade,CLE,SUB: LeVert FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0008,4,00:07.400000,TOR,,CLE,,D. Wade,CLE,SUB: Osman FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0032,4,03:47,CHI,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0032,4,03:30,CHI,,CLE,,D. Wade,CLE,Wade Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0032,4,02:38,CHI,96.0,CLE,120.0,D. Wade,CLE,Wade 1' Layup (2 PTS) (Neto 2 AST),Made Shot,Layup Shot,11,-1,1,1,2.0,2.0,v
+S2223-G0032,4,02:01,CHI,,CLE,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,-151,211,26,1,3.0,0.0,v
+S2223-G0032,4,01:35,CHI,96.0,CLE,123.0,D. Wade,CLE,Wade 25' 3PT Jump Shot (5 PTS) (Neto 3 AST),Made Shot,Jump Shot,29,250,25,1,3.0,3.0,v
+S2223-G0032,4,01:15,CHI,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0120,1,10:23,DET,,CLE,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,207,150,26,1,3.0,0.0,v
+S2223-G0120,1,08:54,DET,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0120,1,06:41,DET,,CLE,,D. Wade,CLE,Wade P.FOUL (P1.T3) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2223-G0120,1,04:37,DET,,CLE,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0120,1,04:29,DET,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0120,1,02:22,DET,,CLE,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0120,1,01:46,DET,,CLE,,D. Wade,CLE,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,239,67,25,1,3.0,0.0,v
+S2223-G0120,1,01:26,DET,,CLE,,D. Wade,CLE,SUB: Allen FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0120,2,02:56,DET,,CLE,,D. Wade,CLE,MISS Wade 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,20,40,4,1,2.0,0.0,v
+S2223-G0120,2,02:32,DET,,CLE,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,222,134,26,1,3.0,0.0,v
+S2223-G0120,3,09:52,DET,,CLE,,D. Wade,CLE,Wade Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0120,3,05:31,DET,,CLE,,D. Wade,CLE,Wade P.FOUL (P2.T4) (B.Schwab),Foul,Personal,0,0,0,0,,,v
+S2223-G0120,3,04:14,DET,,CLE,,D. Wade,CLE,SUB: LeVert FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0822,1,02:19,CLE,,DET,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0822,1,01:12,CLE,,DET,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0822,1,00:04.100000,CLE,,DET,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0822,2,10:52,CLE,,DET,,D. Wade,CLE,Wade REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0822,2,07:58,CLE,,DET,,D. Wade,CLE,Wade Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0822,2,06:30,CLE,,DET,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,127,226,26,1,3.0,0.0,h
+S2223-G0822,2,03:05,CLE,,DET,,D. Wade,CLE,SUB: Allen FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0822,3,04:02,CLE,,DET,,D. Wade,CLE,Wade S.FOUL (P1.T4) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0822,3,03:27,CLE,,DET,,D. Wade,CLE,Wade P.FOUL (P2.PN) (B.Adair),Foul,Personal,0,0,0,0,,,h
+S2223-G0822,3,02:35,CLE,,DET,,D. Wade,CLE,Wade REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0822,3,00:10.800000,CLE,76.0,DET,66.0,D. Wade,CLE,Wade 28' 3PT Jump Shot (3 PTS) (Rubio 4 AST),Made Shot,Jump Shot,-119,257,28,1,3.0,3.0,h
+S2223-G0822,4,11:45,CLE,78.0,DET,68.0,D. Wade,CLE,Wade 2' Cutting Layup Shot (5 PTS) (Mobley 2 AST),Made Shot,Cutting Layup Shot,2,15,2,1,2.0,2.0,h
+S2223-G0822,4,10:39,CLE,,DET,,D. Wade,CLE,Wade REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0822,4,10:20,CLE,83.0,DET,68.0,D. Wade,CLE,Wade 25' 3PT Jump Shot (8 PTS) (Okoro 4 AST),Made Shot,Jump Shot,-235,73,25,1,3.0,3.0,h
+S2223-G0822,4,06:57,CLE,,DET,,D. Wade,CLE,Wade REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0822,4,06:33,CLE,,DET,,D. Wade,CLE,Wade REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0822,4,05:30,CLE,,DET,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0822,4,05:30,CLE,,DET,,D. Wade,CLE,Wade REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0822,4,02:08,CLE,,DET,,D. Wade,CLE,Wade P.FOUL (P3.T3) (M.Dagher),Foul,Personal,0,0,0,0,,,h
+S2223-G0822,4,02:04,CLE,,DET,,D. Wade,CLE,Wade S.FOUL (P4.T4) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0822,4,01:47,CLE,107.0,DET,80.0,D. Wade,CLE,Wade Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0822,4,01:47,CLE,108.0,DET,80.0,D. Wade,CLE,Wade Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0875,1,04:05,PHI,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0875,1,02:53,PHI,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0875,1,02:04,PHI,,CLE,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0875,1,01:52,PHI,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0875,1,00:02.300000,PHI,,CLE,,D. Wade,CLE,Wade BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0875,2,10:33,PHI,,CLE,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,-225,13,0,1,3.0,0.0,v
+S2223-G0875,2,09:35,PHI,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0875,2,08:02,PHI,,CLE,,D. Wade,CLE,SUB: Mitchell FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0971,1,06:42,CLE,,BOS,,D. Wade,CLE,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,142,204,25,1,3.0,0.0,h
+S2223-G0971,1,06:29,CLE,,BOS,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0971,1,04:46,CLE,,BOS,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0072,1,11:35,BOS,,CLE,,D. Wade,CLE,MISS Wade Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0072,1,11:35,BOS,0.0,CLE,1.0,D. Wade,CLE,Wade Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0072,1,04:15,BOS,,CLE,,D. Wade,CLE,SUB: Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0072,2,06:37,BOS,,CLE,,D. Wade,CLE,Wade S.FOUL (P1.T4) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0072,2,06:16,BOS,,CLE,,D. Wade,CLE,MISS Wade 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,64,137,15,1,2.0,0.0,v
+S2223-G0072,2,04:41,BOS,,CLE,,D. Wade,CLE,Wade P.FOUL (P2.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G0072,2,01:40,BOS,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0072,2,01:02,BOS,69.0,CLE,58.0,D. Wade,CLE,Wade 26' 3PT Jump Shot (4 PTS) (Mobley 2 AST),Made Shot,Jump Shot,208,150,26,1,3.0,3.0,v
+S2223-G0072,3,11:16,BOS,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0072,3,09:12,BOS,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0072,3,07:22,BOS,,CLE,,D. Wade,CLE,Wade P.FOUL (P3.T2) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G0072,3,03:53,BOS,,CLE,,D. Wade,CLE,SUB: Osman FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0072,4,08:29,BOS,,CLE,,D. Wade,CLE,Wade Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0072,4,04:39,BOS,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0072,4,03:00,BOS,,CLE,,D. Wade,CLE,Wade S.FOUL (P4.T4) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2223-G0072,4,00:28,BOS,,CLE,,D. Wade,CLE,SUB: Osman FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0072,5,04:21,BOS,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0072,5,02:10,BOS,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0072,5,01:18,BOS,,CLE,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,64,24,1,3.0,0.0,v
+S2223-G0896,1,03:51,ATL,,CLE,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0896,1,00:01,ATL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0896,4,02:23,ATL,,CLE,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0896,4,01:08,ATL,133.0,CLE,117.0,D. Wade,CLE,Wade 26' 3PT Running Pull-Up Jump Shot (3 PTS) (Neto 4 AST),Made Shot,Running Pull-Up Jump Shot,-154,210,26,1,3.0,3.0,v
+S2223-G0896,4,00:47.200000,ATL,,CLE,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,37,24,1,3.0,0.0,v
+S2223-G0140,1,00:55,LAL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0140,2,09:27,LAL,,CLE,,D. Wade,CLE,SUB: LeVert FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0140,2,06:38,LAL,,CLE,,D. Wade,CLE,Wade S.FOUL (P1.PN) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0140,2,05:10,LAL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0140,2,04:37,LAL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0140,2,03:28,LAL,,CLE,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,-156,205,26,1,3.0,0.0,v
+S2223-G0140,2,03:19,LAL,,CLE,,D. Wade,CLE,Wade S.FOUL (P2.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2223-G0140,2,03:19,LAL,,CLE,,D. Wade,CLE,SUB: LeVert FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0140,3,01:37,LAL,,CLE,,D. Wade,CLE,Wade P.FOUL (P3.T2) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2223-G0140,3,01:11,LAL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0140,4,11:18,LAL,,CLE,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0140,4,11:16,LAL,80.0,CLE,92.0,D. Wade,CLE,Wade 3' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,-11,30,3,1,2.0,2.0,v
+S2223-G0140,4,10:53,LAL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0140,4,10:39,LAL,,CLE,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,46,24,1,3.0,0.0,v
+S2223-G0140,4,09:37,LAL,,CLE,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0140,4,08:32,LAL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0140,4,06:12,LAL,,CLE,,D. Wade,CLE,Wade S.FOUL (P4.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2223-G0140,4,05:38,LAL,,CLE,,D. Wade,CLE,SUB: Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0809,1,00:06.400000,WAS,,CLE,,D. Wade,CLE,Wade S.FOUL (P1.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0809,2,08:39,WAS,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0809,2,08:16,WAS,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0809,2,07:51,WAS,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0809,2,06:18,WAS,,CLE,,D. Wade,CLE,SUB: Allen FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0809,2,02:30,WAS,,CLE,,D. Wade,CLE,Wade S.FOUL (P2.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0809,3,04:01,WAS,,CLE,,D. Wade,CLE,Wade S.FOUL (P3.T1) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0809,3,02:44,WAS,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0809,4,04:26,WAS,,CLE,,D. Wade,CLE,SUB: Lopez FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G1218,1,11:12,CLE,,CHA,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1218,1,10:35,CLE,5.0,CHA,0.0,D. Wade,CLE,Wade 26' 3PT Jump Shot (3 PTS) (Osman 1 AST),Made Shot,Jump Shot,-107,236,26,1,3.0,3.0,h
+S2223-G1218,1,10:12,CLE,,CHA,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1218,1,09:44,CLE,,CHA,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1218,1,08:36,CLE,,CHA,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1218,1,07:47,CLE,,CHA,,D. Wade,CLE,Wade P.FOUL (P1.T1) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2223-G1218,1,06:28,CLE,10.0,CHA,2.0,D. Wade,CLE,Wade 25' 3PT Jump Shot (6 PTS) (Rubio 2 AST),Made Shot,Jump Shot,234,76,25,1,3.0,3.0,h
+S2223-G1218,1,04:57,CLE,,CHA,,D. Wade,CLE,SUB: Green FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G1218,2,11:35,CLE,,CHA,,D. Wade,CLE,MISS Wade 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,97,10,1,2.0,0.0,h
+S2223-G1218,2,10:58,CLE,,CHA,,D. Wade,CLE,Wade STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1218,2,10:29,CLE,,CHA,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,43,24,1,3.0,0.0,h
+S2223-G1218,2,07:56,CLE,,CHA,,D. Wade,CLE,SUB: Merrill FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G1218,3,10:54,CLE,,CHA,,D. Wade,CLE,Wade STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G1218,3,10:36,CLE,,CHA,,D. Wade,CLE,MISS Wade 19' Jump Shot,Missed Shot,Jump Shot,-82,174,19,1,2.0,0.0,h
+S2223-G1218,3,06:44,CLE,,CHA,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1218,3,06:09,CLE,,CHA,,D. Wade,CLE,Wade Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1218,3,05:03,CLE,,CHA,,D. Wade,CLE,SUB: Stevens FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G1218,3,01:40,CLE,73.0,CHA,67.0,D. Wade,CLE,Wade 24' 3PT Jump Shot (9 PTS) (Diakite 1 AST),Made Shot,Jump Shot,-238,-2,24,1,3.0,3.0,h
+S2223-G1218,4,09:32,CLE,,CHA,,D. Wade,CLE,SUB: Green FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0171,2,04:41,SAC,,CLE,,D. Wade,CLE,Wade S.FOUL (P1.T4) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2223-G0171,2,03:26,SAC,,CLE,,D. Wade,CLE,SUB: Garland FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0171,3,05:59,SAC,,CLE,,D. Wade,CLE,Wade P.FOUL (P2.T3) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G0171,3,04:33,SAC,89.0,CLE,84.0,D. Wade,CLE,Wade 3PT Jump Shot (3 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,-230,10,0,1,3.0,3.0,v
+S2223-G0171,3,03:36,SAC,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0171,3,02:19,SAC,,CLE,,D. Wade,CLE,SUB: Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0171,4,09:26,SAC,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0171,4,06:45,SAC,,CLE,,D. Wade,CLE,SUB: Garland FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0171,4,05:38,SAC,,CLE,,D. Wade,CLE,Wade P.FOUL (P3.PN) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0171,4,04:37,SAC,,CLE,,D. Wade,CLE,SUB: Mitchell FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0852,1,03:53,CLE,,CHI,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0852,1,00:07.800000,CLE,,CHI,,D. Wade,CLE,MISS Wade 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,14,1,1,2.0,0.0,h
+S2223-G0852,1,00:07.600000,CLE,,CHI,,D. Wade,CLE,Wade REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0852,1,00:07,CLE,,CHI,,D. Wade,CLE,MISS Wade 2' Putback Layup,Missed Shot,Putback Layup Shot,-7,17,2,1,2.0,0.0,h
+S2223-G0852,2,11:30,CLE,,CHI,,D. Wade,CLE,SUB: Okoro FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0852,2,04:06,CLE,,CHI,,D. Wade,CLE,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0852,2,03:43,CLE,,CHI,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,43,24,1,3.0,0.0,h
+S2223-G0852,2,03:06,CLE,,CHI,,D. Wade,CLE,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,-115,226,25,1,3.0,0.0,h
+S2223-G0852,2,01:10,CLE,,CHI,,D. Wade,CLE,Wade P.FOUL (P1.T3) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0852,2,00:42.300000,CLE,,CHI,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-4,24,1,3.0,0.0,h
+S2223-G0039,1,04:04,CLE,,WAS,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0039,1,03:16,CLE,,WAS,,D. Wade,CLE,Wade REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0039,1,01:03,CLE,30.0,WAS,29.0,D. Wade,CLE,Wade Running Alley Oop Layup Shot (2 PTS) (Mitchell 3 AST),Made Shot,Running Alley Oop Layup Shot,-2,0,0,1,2.0,2.0,h
+S2223-G0039,2,09:35,CLE,,WAS,,D. Wade,CLE,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0039,2,09:19,CLE,37.0,WAS,33.0,D. Wade,CLE,Wade Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0039,2,09:19,CLE,,WAS,,D. Wade,CLE,MISS Wade Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,h
+S2223-G0039,2,09:19,CLE,38.0,WAS,33.0,D. Wade,CLE,Wade Free Throw 3 of 3 (4 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0039,2,07:27,CLE,,WAS,,D. Wade,CLE,SUB: Okoro FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0039,2,00:33.100000,CLE,,WAS,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0039,4,11:21,CLE,86.0,WAS,76.0,D. Wade,CLE,Wade 3PT Jump Shot (7 PTS) (Osman 3 AST),Made Shot,Jump Shot,230,37,0,1,3.0,3.0,h
+S2223-G0039,4,09:45,CLE,87.0,WAS,84.0,D. Wade,CLE,Wade Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0039,4,09:45,CLE,88.0,WAS,84.0,D. Wade,CLE,Wade Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0039,4,09:32,CLE,,WAS,,D. Wade,CLE,Wade P.FOUL (P1.T2) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2223-G0039,4,07:35,CLE,,WAS,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,223,75,24,1,3.0,0.0,h
+S2223-G0039,4,06:56,CLE,95.0,WAS,88.0,D. Wade,CLE,Wade 25' 3PT Jump Shot (12 PTS) (Allen 2 AST),Made Shot,Jump Shot,181,179,25,1,3.0,3.0,h
+S2223-G0039,4,03:45,CLE,,WAS,,D. Wade,CLE,SUB: Osman FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0039,4,01:34,CLE,,WAS,,D. Wade,CLE,SUB: Mitchell FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0886,1,07:48,CLE,,DEN,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0886,1,07:39,CLE,10.0,DEN,9.0,D. Wade,CLE,Wade 2' Cutting Layup Shot (2 PTS) (Garland 1 AST),Made Shot,Cutting Layup Shot,-7,20,2,1,2.0,2.0,h
+S2223-G0886,1,07:23,CLE,,DEN,,D. Wade,CLE,Wade S.FOUL (P1.PN) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G0886,1,06:32,CLE,,DEN,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0886,1,06:27,CLE,,DEN,,D. Wade,CLE,Wade Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0886,1,05:56,CLE,,DEN,,D. Wade,CLE,Wade S.FOUL (P2.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0886,1,02:25,CLE,,DEN,,D. Wade,CLE,MISS Wade 13' Jump Shot,Missed Shot,Jump Shot,132,18,13,1,2.0,0.0,h
+S2223-G0886,1,01:27,CLE,,DEN,,D. Wade,CLE,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0886,1,01:04,CLE,,DEN,,D. Wade,CLE,SUB: Stevens FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0280,1,11:10,MIL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0280,1,10:50,MIL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0280,1,08:23,MIL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0280,1,06:25,MIL,,CLE,,D. Wade,CLE,SUB: Osman FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0280,1,02:38,MIL,13.0,CLE,26.0,D. Wade,CLE,Wade 26' 3PT Jump Shot (3 PTS) (Garland 1 AST),Made Shot,Jump Shot,140,220,26,1,3.0,3.0,v
+S2223-G0280,1,01:53,MIL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0280,1,00:39.200000,MIL,,CLE,,D. Wade,CLE,MISS Wade Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0280,1,00:39.200000,MIL,20.0,CLE,30.0,D. Wade,CLE,Wade Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0280,2,09:55,MIL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0280,2,08:25,MIL,,CLE,,D. Wade,CLE,SUB: E. Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0280,2,06:30,MIL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0280,2,06:04,MIL,,CLE,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0280,2,05:07,MIL,,CLE,,D. Wade,CLE,Wade S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0280,2,04:33,MIL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0280,2,04:04,MIL,,CLE,,D. Wade,CLE,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,219,-8,0,1,3.0,0.0,v
+S2223-G0280,2,03:24,MIL,,CLE,,D. Wade,CLE,Wade P.FOUL (P2.PN) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2223-G0280,2,01:29,MIL,,CLE,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0280,2,01:25,MIL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0280,2,00:31.400000,MIL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0280,3,08:47,MIL,,CLE,,D. Wade,CLE,Wade S.FOUL (P3.T1) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2223-G0280,3,06:14,MIL,,CLE,,D. Wade,CLE,Wade P.FOUL (P4.T3) (R.Hussey),Foul,Personal,0,0,0,0,,,v
+S2223-G0280,3,06:14,MIL,,CLE,,D. Wade,CLE,SUB: Okoro FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0280,3,03:36,MIL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0280,3,03:31,MIL,,CLE,,D. Wade,CLE,MISS Wade 5' Driving Layup,Missed Shot,Driving Layup Shot,11,48,5,1,2.0,0.0,v
+S2223-G0280,3,03:09,MIL,,CLE,,D. Wade,CLE,MISS Wade 27' 3PT Jump Shot,Missed Shot,Jump Shot,152,229,27,1,3.0,0.0,v
+S2223-G0280,4,09:31,MIL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0280,4,07:07,MIL,95.0,CLE,83.0,D. Wade,CLE,Wade 24' 3PT Jump Shot (7 PTS) (Osman 2 AST),Made Shot,Jump Shot,-207,129,24,1,3.0,3.0,v
+S2223-G0280,4,06:11,MIL,,CLE,,D. Wade,CLE,Wade REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0280,4,06:01,MIL,,CLE,,D. Wade,CLE,MISS Wade 28' 3PT Jump Shot,Missed Shot,Jump Shot,217,174,28,1,3.0,0.0,v
+S2223-G0280,4,05:38,MIL,,CLE,,D. Wade,CLE,MISS Wade 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,173,206,27,1,3.0,0.0,v
+S2223-G0280,4,04:40,MIL,,CLE,,D. Wade,CLE,SUB: E. Mobley FOR Wade,Substitution,,0,0,0,0,,,v
+S2223-G0957,1,01:27,CLE,,DET,,D. Wade,CLE,SUB: Osman FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0957,4,08:26,CLE,,DET,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0957,4,05:53,CLE,,DET,,D. Wade,CLE,Wade S.FOUL (P1.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0957,4,05:30,CLE,,DET,,D. Wade,CLE,MISS Wade 27' 3PT Jump Shot,Missed Shot,Jump Shot,235,136,27,1,3.0,0.0,h
+S2223-G0957,4,05:06,CLE,,DET,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0957,4,04:17,CLE,,DET,,D. Wade,CLE,Wade BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0957,4,02:42,CLE,,DET,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,-219,131,26,1,3.0,0.0,h
+S2223-G0957,4,00:46.800000,CLE,,DET,,D. Wade,CLE,Wade S.FOUL (P2.T4) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0107,1,05:38,CLE,,BOS,,D. Wade,CLE,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,227,113,25,1,3.0,0.0,h
+S2223-G0107,1,05:35,CLE,,BOS,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0107,1,05:30,CLE,20.0,BOS,13.0,D. Wade,CLE,Wade Layup (2 PTS) (Mitchell 3 AST),Made Shot,Layup Shot,2,1,0,1,2.0,2.0,h
+S2223-G0107,1,05:30,CLE,21.0,BOS,13.0,D. Wade,CLE,Wade Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0107,1,02:33,CLE,,BOS,,D. Wade,CLE,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0107,1,01:57,CLE,,BOS,,D. Wade,CLE,Wade S.FOUL (P1.T4) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0107,2,10:23,CLE,,BOS,,D. Wade,CLE,MISS Wade 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-218,146,26,1,3.0,0.0,h
+S2223-G0107,2,08:55,CLE,,BOS,,D. Wade,CLE,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,74,249,26,1,3.0,0.0,h
+S2223-G0107,2,07:24,CLE,,BOS,,D. Wade,CLE,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0107,2,07:21,CLE,,BOS,,D. Wade,CLE,Wade Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0107,2,07:21,CLE,,BOS,,D. Wade,CLE,Jump Ball Wade vs. Williams: Tip to Brown,Jump Ball,,0,0,0,0,,,h
+S2223-G0107,2,06:41,CLE,,BOS,,D. Wade,CLE,SUB: Love FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0107,2,03:43,CLE,,BOS,,D. Wade,CLE,MISS Wade 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,126,27,13,1,2.0,0.0,h
+S2223-G0107,2,02:43,CLE,,BOS,,D. Wade,CLE,MISS Wade 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-58,92,11,1,2.0,0.0,h
+S2223-G0107,2,01:50,CLE,,BOS,,D. Wade,CLE,SUB: Osman FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0107,3,02:06,CLE,,BOS,,D. Wade,CLE,Wade STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0107,3,01:39,CLE,,BOS,,D. Wade,CLE,Wade P.FOUL (P2.T2) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G0107,3,00:26.600000,CLE,,BOS,,D. Wade,CLE,Wade P.FOUL (P3.PN) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G0107,3,00:26.600000,CLE,,BOS,,D. Wade,CLE,SUB: Mitchell FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0107,4,06:45,CLE,,BOS,,D. Wade,CLE,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0107,4,06:42,CLE,86.0,BOS,87.0,D. Wade,CLE,Wade 2' Driving Layup (5 PTS) (Mitchell 5 AST),Made Shot,Driving Layup Shot,-4,15,2,1,2.0,2.0,h
+S2223-G0107,4,06:42,CLE,87.0,BOS,87.0,D. Wade,CLE,Wade Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0107,4,06:23,CLE,,BOS,,D. Wade,CLE,Wade REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0107,4,06:00,CLE,,BOS,,D. Wade,CLE,Wade S.FOUL (P4.T4) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0107,4,03:43,CLE,,BOS,,D. Wade,CLE,SUB: Allen FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0107,4,00:06.700000,CLE,,BOS,,D. Wade,CLE,SUB: Garland FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0330,1,07:24,CLE,,ORL,,D. Wade,CLE,Wade STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0330,1,04:22,CLE,,ORL,,D. Wade,CLE,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,53,24,1,3.0,0.0,h
+S2223-G0330,1,03:55,CLE,,ORL,,D. Wade,CLE,SUB: Osman FOR Wade,Substitution,,0,0,0,0,,,h
+S2223-G0330,2,08:06,CLE,,ORL,,D. Wade,CLE,Wade P.FOUL (P1.T2) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2223-G0330,2,06:41,CLE,,ORL,,D. Wade,CLE,SUB: Stevens FOR Wade,Substitution,,0,0,0,0,,,h

@@ -1,0 +1,746 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0667,2,07:39,DEN,40.0,POR,40.0,N. Little,POR,Little 2' Running Alley Oop Dunk Shot (2 PTS) (Grant 1 AST),Made Shot,Running Alley Oop Dunk Shot,-6,22,2,1,2.0,2.0,v
+S2223-G0667,2,05:38,DEN,,POR,,N. Little,POR,SUB: Simons FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0667,3,01:31,DEN,,POR,,N. Little,POR,MISS Little 27' 3PT Jump Shot,Missed Shot,Jump Shot,-167,216,27,1,3.0,0.0,v
+S2223-G0667,4,10:15,DEN,,POR,,N. Little,POR,MISS Little 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,6,95,10,1,2.0,0.0,v
+S2223-G0667,4,08:08,DEN,,POR,,N. Little,POR,MISS Little 4' Driving Layup,Missed Shot,Driving Layup Shot,-37,11,4,1,2.0,0.0,v
+S2223-G0667,4,08:01,DEN,,POR,,N. Little,POR,Little S.FOUL (P1.T3) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0667,4,08:01,DEN,,POR,,N. Little,POR,SUB: Nurkic FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0221,1,03:03,POR,,BKN,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0221,1,02:35,POR,22.0,BKN,21.0,N. Little,POR,Little 3' Running Layup (2 PTS) (Winslow 2 AST),Made Shot,Running Layup Shot,-5,26,3,1,2.0,2.0,h
+S2223-G0221,1,02:22,POR,,BKN,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0221,2,11:00,POR,,BKN,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,185,175,25,1,3.0,0.0,h
+S2223-G0221,2,10:30,POR,,BKN,,N. Little,POR,MISS Little 3' Driving Layup,Missed Shot,Driving Layup Shot,-26,2,3,1,2.0,0.0,h
+S2223-G0221,2,08:49,POR,,BKN,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0221,3,01:37,POR,,BKN,,N. Little,POR,MISS Little 27' 3PT Jump Shot,Missed Shot,Jump Shot,141,227,27,1,3.0,0.0,h
+S2223-G0221,3,01:13,POR,,BKN,,N. Little,POR,MISS Little 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-59,117,13,1,2.0,0.0,h
+S2223-G0221,3,00:36,POR,,BKN,,N. Little,POR,Little S.FOUL (P1.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0221,3,00:36,POR,,BKN,,N. Little,POR,SUB: Lillard FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0221,4,10:42,POR,,BKN,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0221,4,10:30,POR,90.0,BKN,87.0,N. Little,POR,Little Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0221,4,10:30,POR,91.0,BKN,87.0,N. Little,POR,Little Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0221,4,09:35,POR,,BKN,,N. Little,POR,Little REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0221,4,09:13,POR,,BKN,,N. Little,POR,MISS Little 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-53,10,5,1,2.0,0.0,h
+S2223-G0221,4,08:10,POR,,BKN,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0763,1,04:06,POR,,ATL,,N. Little,POR,Little L.B.FOUL (P1.T3) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0763,1,01:37,POR,,ATL,,N. Little,POR,MISS Little 2' Driving Layup,Missed Shot,Driving Layup Shot,-22,4,2,1,2.0,0.0,h
+S2223-G0763,2,09:39,POR,,ATL,,N. Little,POR,Little S.FOUL (P2.T2) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0763,2,09:39,POR,,ATL,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0763,4,11:02,POR,102.0,ATL,94.0,N. Little,POR,Little 25' 3PT Jump Shot (3 PTS) (Sharpe 1 AST),Made Shot,Jump Shot,-213,131,25,1,3.0,3.0,h
+S2223-G0763,4,08:30,POR,111.0,ATL,101.0,N. Little,POR,Little 26' 3PT Jump Shot (6 PTS) (Eubanks 2 AST),Made Shot,Jump Shot,137,225,26,1,3.0,3.0,h
+S2223-G0763,4,08:11,POR,,ATL,,N. Little,POR,SUB: Hart FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0763,4,00:05.300000,POR,,ATL,,N. Little,POR,SUB: Eubanks FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G1017,1,04:45,NOP,,POR,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,165,192,25,1,3.0,0.0,v
+S2223-G1017,1,04:19,NOP,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1017,1,01:24,NOP,,POR,,N. Little,POR,Little S.FOUL (P1.PN) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G1017,1,00:30.200000,NOP,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1017,2,10:40,NOP,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1017,2,10:40,NOP,44.0,POR,30.0,N. Little,POR,Little Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G1017,2,10:17,NOP,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1017,2,08:29,NOP,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1017,2,08:20,NOP,49.0,POR,37.0,N. Little,POR,Little 4' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,0,35,4,1,2.0,2.0,v
+S2223-G1017,2,06:51,NOP,49.0,POR,41.0,N. Little,POR,Little 1' Running Dunk (6 PTS) (Simons 2 AST),Made Shot,Running Dunk Shot,-7,6,1,1,2.0,2.0,v
+S2223-G1017,2,04:01,NOP,,POR,,N. Little,POR,MISS Little 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-169,174,24,1,3.0,0.0,v
+S2223-G1017,3,02:57,NOP,96.0,POR,70.0,N. Little,POR,Little Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1017,3,02:57,NOP,96.0,POR,71.0,N. Little,POR,Little Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1017,3,02:14,NOP,,POR,,N. Little,POR,MISS Little 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,65,199,21,1,2.0,0.0,v
+S2223-G1017,3,01:17,NOP,105.0,POR,73.0,N. Little,POR,Little 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,-17,1,2,1,2.0,2.0,v
+S2223-G1017,3,00:56.700000,NOP,,POR,,N. Little,POR,Little S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1017,3,00:40.700000,NOP,,POR,,N. Little,POR,MISS Little 3' Driving Layup,Missed Shot,Driving Layup Shot,-28,16,3,1,2.0,0.0,v
+S2223-G1017,3,00:22.300000,NOP,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0190,2,11:01,DAL,38.0,POR,27.0,N. Little,POR,Little 4' Driving Floating Bank Jump Shot (2 PTS) (Walker 1 AST),Made Shot,Driving Floating Bank Jump Shot,31,26,4,1,2.0,2.0,v
+S2223-G0190,2,10:07,DAL,,POR,,N. Little,POR,MISS Little 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,2,111,11,1,2.0,0.0,v
+S2223-G0190,2,10:02,DAL,,POR,,N. Little,POR,Little STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0190,2,09:20,DAL,40.0,POR,33.0,N. Little,POR,Little 18' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-66,163,18,1,2.0,2.0,v
+S2223-G0190,2,06:09,DAL,,POR,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0190,3,02:29,DAL,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0190,4,08:51,DAL,,POR,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0796,1,01:14,CHI,,,,N. Little,POR,Little S.FOUL (P1.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2223-G0796,2,08:42,CHI,,,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0796,2,08:39,CHI,,,,N. Little,POR,SUB: Hart FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0796,3,04:34,CHI,,,,N. Little,POR,MISS Little 27' 3PT Jump Shot,Missed Shot,Jump Shot,110,242,27,1,3.0,0.0,v
+S2223-G0796,3,02:32,CHI,,,,N. Little,POR,Little REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0796,3,02:19,CHI,,,,N. Little,POR,Little Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0796,3,01:47,CHI,,,,N. Little,POR,Little S.FOUL (P2.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0796,3,01:47,CHI,,,,N. Little,POR,SUB: Payton II FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0796,4,09:27,CHI,,,,N. Little,POR,Little S.FOUL (P3.T2) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2223-G0796,4,09:27,CHI,,,,N. Little,POR,SUB: Eubanks FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G1145,1,08:45,POR,,SAC,,N. Little,POR,MISS Little 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,150,218,26,1,3.0,0.0,h
+S2223-G1145,1,07:27,POR,9.0,SAC,9.0,N. Little,POR,Little 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,7,6,1,1,2.0,2.0,h
+S2223-G1145,1,07:09,POR,,SAC,,N. Little,POR,MISS Little 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-53,17,6,1,2.0,0.0,h
+S2223-G1145,1,06:46,POR,,SAC,,N. Little,POR,SUB: Walker FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G1145,1,04:03,POR,,SAC,,N. Little,POR,MISS Little 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,115,185,22,1,2.0,0.0,h
+S2223-G1145,1,02:27,POR,,SAC,,N. Little,POR,MISS Little 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,84,8,1,2.0,0.0,h
+S2223-G1145,2,10:57,POR,,SAC,,N. Little,POR,Little Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1145,2,09:50,POR,23.0,SAC,27.0,N. Little,POR,Little Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1145,2,09:50,POR,24.0,SAC,27.0,N. Little,POR,Little Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1145,2,08:57,POR,,SAC,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,2,07:28,POR,,SAC,,N. Little,POR,Little Out of Bounds Lost Ball Turnover (P2.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1145,2,05:05,POR,30.0,SAC,37.0,N. Little,POR,Little 12' Driving Floating Jump Shot (6 PTS) (Sharpe 2 AST),Made Shot,Driving Floating Jump Shot,-34,118,12,1,2.0,2.0,h
+S2223-G1145,2,04:07,POR,,SAC,,N. Little,POR,MISS Little 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-50,253,26,1,3.0,0.0,h
+S2223-G1145,2,02:09,POR,,SAC,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,2,02:04,POR,39.0,SAC,44.0,N. Little,POR,Little 1' Running Reverse Layup (8 PTS),Made Shot,Running Reverse Layup Shot,6,-5,1,1,2.0,2.0,h
+S2223-G1145,2,01:07,POR,,SAC,,N. Little,POR,MISS Little 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-102,279,30,1,3.0,0.0,h
+S2223-G1145,2,00:08.900000,POR,46.0,SAC,50.0,N. Little,POR,Little 16' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,-81,134,16,1,2.0,2.0,h
+S2223-G1145,3,08:36,POR,,SAC,,N. Little,POR,Little S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G1145,3,08:10,POR,,SAC,,N. Little,POR,SUB: Butler Jr. FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G1145,3,05:15,POR,,SAC,,N. Little,POR,MISS Little 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-154,225,27,1,3.0,0.0,h
+S2223-G1145,3,04:41,POR,,SAC,,N. Little,POR,MISS Little 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,26,137,14,1,2.0,0.0,h
+S2223-G1145,3,02:00,POR,,SAC,,N. Little,POR,Little Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1145,3,01:23,POR,,SAC,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1145,3,01:17,POR,,SAC,,N. Little,POR,MISS Little 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,147,241,28,1,3.0,0.0,h
+S2223-G1145,3,00:23.600000,POR,,SAC,,N. Little,POR,Little Bad Pass Turnover (P4.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1145,4,11:34,POR,,SAC,,N. Little,POR,MISS Little 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-222,106,25,1,3.0,0.0,h
+S2223-G1145,4,11:10,POR,,SAC,,N. Little,POR,MISS Little 28' 3PT Jump Shot,Missed Shot,Jump Shot,-157,230,28,1,3.0,0.0,h
+S2223-G1145,4,11:01,POR,,SAC,,N. Little,POR,MISS Little 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,6,142,14,1,2.0,0.0,h
+S2223-G1145,4,09:22,POR,,SAC,,N. Little,POR,SUB: Walker FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G1145,4,00:38.600000,POR,,SAC,,N. Little,POR,MISS Little 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-192,182,26,1,3.0,0.0,h
+S2223-G1104,1,01:17,POR,,CHI,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,-72,245,26,1,3.0,0.0,h
+S2223-G1104,1,01:09,POR,24.0,CHI,22.0,N. Little,POR,Little 6' Driving Floating Jump Shot (2 PTS) (Johnson 2 AST),Made Shot,Driving Floating Jump Shot,21,53,6,1,2.0,2.0,h
+S2223-G1104,2,09:38,POR,,CHI,,N. Little,POR,SUB: Eubanks FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G1104,2,04:01,POR,,CHI,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,163,201,26,1,3.0,0.0,h
+S2223-G1104,2,02:04,POR,,CHI,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1104,2,01:57,POR,,CHI,,N. Little,POR,Little REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1104,2,00:43.900000,POR,43.0,CHI,55.0,N. Little,POR,Little 2' Cutting Dunk Shot (4 PTS) (Watford 3 AST),Made Shot,Cutting Dunk Shot,10,14,2,1,2.0,2.0,h
+S2223-G1104,3,00:47.500000,POR,,CHI,,N. Little,POR,Little REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1104,4,07:39,POR,,CHI,,N. Little,POR,MISS Little 28' 3PT Jump Shot,Missed Shot,Jump Shot,-212,176,28,1,3.0,0.0,h
+S2223-G1104,4,07:36,POR,,CHI,,N. Little,POR,SUB: Butler Jr. FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0261,2,11:42,CLE,,POR,,N. Little,POR,Little OFF.Foul (P1) (J.Goble),Foul,Offensive,0,0,0,0,,,v
+S2223-G0261,2,11:42,CLE,,POR,,N. Little,POR,Little Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0261,2,11:15,CLE,,POR,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,-142,213,26,1,3.0,0.0,v
+S2223-G0261,2,07:50,CLE,40.0,POR,27.0,N. Little,POR,Little 3PT Jump Shot (3 PTS) (Hart 2 AST),Made Shot,Jump Shot,229,19,0,1,3.0,3.0,v
+S2223-G0261,2,07:14,CLE,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0261,2,05:29,CLE,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0261,2,04:00,CLE,,POR,,N. Little,POR,SUB: Eubanks FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0261,3,03:38,CLE,,POR,,N. Little,POR,Little S.FOUL (P2.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G0261,3,03:13,CLE,,POR,,N. Little,POR,MISS Little 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,88,209,23,1,2.0,0.0,v
+S2223-G0261,4,11:39,CLE,,POR,,N. Little,POR,Little P.FOUL (P3.T1) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0261,4,10:39,CLE,90.0,POR,77.0,N. Little,POR,Little 4' Driving Floating Jump Shot (5 PTS) (Nurkic 1 AST),Made Shot,Driving Floating Jump Shot,20,37,4,1,2.0,2.0,v
+S2223-G0261,4,09:38,CLE,,POR,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,108,241,26,1,3.0,0.0,v
+S2223-G0261,4,08:49,CLE,,POR,,N. Little,POR,SUB: Eubanks FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0261,4,01:44,CLE,,POR,,N. Little,POR,MISS Little 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-201,154,25,1,3.0,0.0,v
+S2223-G0261,4,01:06,CLE,,POR,,N. Little,POR,MISS Little 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,6,11,1,1,2.0,0.0,v
+S2223-G0830,1,03:38,POR,,GSW,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0830,1,02:24,POR,30.0,GSW,21.0,N. Little,POR,Little 3' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,-13,32,3,1,2.0,2.0,h
+S2223-G0830,1,01:37,POR,,GSW,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0830,2,11:20,POR,,GSW,,N. Little,POR,Little REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0830,2,08:47,POR,,GSW,,N. Little,POR,SUB: Payton II FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0830,3,04:33,POR,84.0,GSW,84.0,N. Little,POR,Little 2' Driving Floating Jump Shot (4 PTS) (Watford 3 AST),Made Shot,Driving Floating Jump Shot,-9,19,2,1,2.0,2.0,h
+S2223-G0830,3,02:47,POR,,GSW,,N. Little,POR,Little REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0830,3,01:32,POR,93.0,GSW,91.0,N. Little,POR,Little 26' 3PT Jump Shot (7 PTS) (Lillard 9 AST),Made Shot,Jump Shot,-191,183,26,1,3.0,3.0,h
+S2223-G0830,3,00:06.700000,POR,,GSW,,N. Little,POR,Little Personal Take Foul (P1.T1) (S.Mehta),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0830,4,09:06,POR,,GSW,,N. Little,POR,Little P.FOUL (P2.T1) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2223-G0830,4,03:17,POR,,GSW,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,-218,130,25,1,3.0,0.0,h
+S2223-G0830,4,01:59,POR,,GSW,,N. Little,POR,Little REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0830,4,00:53.500000,POR,,GSW,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,-150,215,26,1,3.0,0.0,h
+S2223-G0830,4,00:35.700000,POR,123.0,GSW,116.0,N. Little,POR,Little 1' Cutting Dunk Shot (9 PTS) (Simons 6 AST),Made Shot,Cutting Dunk Shot,7,-1,1,1,2.0,2.0,h
+S2223-G0830,4,00:19,POR,,GSW,,N. Little,POR,SUB: Payton II FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0867,1,03:11,POR,,LAL,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0867,1,02:07,POR,25.0,LAL,16.0,N. Little,POR,Little 25' 3PT Jump Shot (3 PTS) (Walker 1 AST),Made Shot,Jump Shot,-218,127,25,1,3.0,3.0,h
+S2223-G0867,2,10:09,POR,,LAL,,N. Little,POR,Little BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0867,2,07:21,POR,,LAL,,N. Little,POR,SUB: Reddish FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0867,3,05:38,POR,85.0,LAL,64.0,N. Little,POR,Little 19' Pullup Jump Shot (5 PTS) (Simons 6 AST),Made Shot,Pullup Jump shot,88,169,19,1,2.0,2.0,h
+S2223-G0867,3,03:52,POR,,LAL,,N. Little,POR,MISS Little 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-113,12,11,1,2.0,0.0,h
+S2223-G0867,3,03:36,POR,,LAL,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0867,3,01:16,POR,101.0,LAL,74.0,N. Little,POR,Little 26' 3PT Jump Shot (8 PTS) (Lillard 4 AST),Made Shot,Jump Shot,163,201,26,1,3.0,3.0,h
+S2223-G0867,3,00:04.200000,POR,,LAL,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,-178,190,26,1,3.0,0.0,h
+S2223-G0867,4,09:47,POR,,LAL,,N. Little,POR,Little S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0867,4,09:31,POR,107.0,LAL,84.0,N. Little,POR,Little 25' 3PT Jump Shot (11 PTS) (Lillard 5 AST),Made Shot,Jump Shot,205,144,25,1,3.0,3.0,h
+S2223-G0867,4,07:14,POR,,LAL,,N. Little,POR,MISS Little 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,228,46,0,1,3.0,0.0,h
+S2223-G0867,4,06:42,POR,,LAL,,N. Little,POR,SUB: Walker FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0037,1,02:30,LAL,16.0,POR,24.0,N. Little,POR,Little 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,145,212,26,1,3.0,3.0,v
+S2223-G0037,1,01:32,LAL,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0037,2,11:41,LAL,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0037,2,11:31,LAL,,POR,,N. Little,POR,MISS Little 3PT Jump Shot,Missed Shot,Jump Shot,224,16,0,1,3.0,0.0,v
+S2223-G0037,2,08:40,LAL,,POR,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0037,3,01:20,LAL,,POR,,N. Little,POR,MISS Little 27' 3PT Jump Shot,Missed Shot,Jump Shot,108,242,27,1,3.0,0.0,v
+S2223-G0037,4,11:29,LAL,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0037,4,11:13,LAL,83.0,POR,80.0,N. Little,POR,Little 2' Driving Layup (5 PTS) (Simons 2 AST),Made Shot,Driving Layup Shot,-16,14,2,1,2.0,2.0,v
+S2223-G0037,4,10:26,LAL,83.0,POR,82.0,N. Little,POR,Little 18' Pullup Jump Shot (7 PTS) (Sharpe 1 AST),Made Shot,Pullup Jump shot,-39,180,18,1,2.0,2.0,v
+S2223-G0037,4,09:31,LAL,,POR,,N. Little,POR,MISS Little 6' Driving Layup,Missed Shot,Driving Layup Shot,1,63,6,1,2.0,0.0,v
+S2223-G0037,4,07:42,LAL,,POR,,N. Little,POR,SUB: Nurkic FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0682,1,04:19,POR,,PHI,,N. Little,POR,Little REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0682,1,04:19,POR,,PHI,,N. Little,POR,MISS Little 2' Putback Layup,Missed Shot,Putback Layup Shot,-21,7,2,1,2.0,0.0,h
+S2223-G0682,1,04:11,POR,,PHI,,N. Little,POR,MISS Little 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-100,178,20,1,2.0,0.0,h
+S2223-G0682,1,03:23,POR,,PHI,,N. Little,POR,Little REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0682,1,00:37,POR,,PHI,,N. Little,POR,Little REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0682,3,07:03,POR,,PHI,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,-228,96,25,1,3.0,0.0,h
+S2223-G0682,3,03:52,POR,55.0,PHI,75.0,N. Little,POR,Little 24' 3PT Jump Shot (3 PTS) (Sharpe 1 AST),Made Shot,Jump Shot,238,41,24,1,3.0,3.0,h
+S2223-G0682,3,03:36,POR,,PHI,,N. Little,POR,Little REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0682,3,03:29,POR,57.0,PHI,75.0,N. Little,POR,Little 1' Driving Layup (5 PTS) (Lillard 8 AST),Made Shot,Driving Layup Shot,9,4,1,1,2.0,2.0,h
+S2223-G0682,3,02:07,POR,,PHI,,N. Little,POR,Little REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0682,3,01:31,POR,63.0,PHI,75.0,N. Little,POR,Little 1' Running Layup (7 PTS) (Lillard 9 AST),Made Shot,Running Layup Shot,12,1,1,1,2.0,2.0,h
+S2223-G0682,3,01:31,POR,,PHI,,N. Little,POR,MISS Little Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0682,3,00:39.400000,POR,,PHI,,N. Little,POR,Little REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0682,4,10:13,POR,68.0,PHI,85.0,N. Little,POR,Little Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0682,4,10:13,POR,,PHI,,N. Little,POR,MISS Little Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0682,4,08:31,POR,73.0,PHI,87.0,N. Little,POR,Little 3' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,25,9,3,1,2.0,2.0,h
+S2223-G0682,4,08:14,POR,,PHI,,N. Little,POR,SUB: Lillard FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0051,1,01:34,POR,,DEN,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0051,1,00:50,POR,23.0,DEN,27.0,N. Little,POR,Little 1' Running Dunk (2 PTS) (Simons 1 AST),Made Shot,Running Dunk Shot,4,4,1,1,2.0,2.0,h
+S2223-G0051,1,00:00,POR,,DEN,,N. Little,POR,MISS Little 55' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,183,514,55,1,3.0,0.0,h
+S2223-G0051,2,09:46,POR,28.0,DEN,36.0,N. Little,POR,Little 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-159,193,25,1,3.0,3.0,h
+S2223-G0051,2,08:32,POR,,DEN,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0051,2,08:21,POR,,DEN,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0051,4,11:06,POR,105.0,DEN,86.0,N. Little,POR,Little 27' 3PT Jump Shot (8 PTS) (Nurkic 5 AST),Made Shot,Jump Shot,92,257,27,1,3.0,3.0,h
+S2223-G0051,4,07:43,POR,,DEN,,N. Little,POR,Little REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0051,4,07:16,POR,,DEN,,N. Little,POR,SUB: Lillard FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0051,4,01:58,POR,,DEN,,N. Little,POR,Little REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0051,4,01:53,POR,,DEN,,N. Little,POR,MISS Little Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0051,4,01:53,POR,,DEN,,N. Little,POR,MISS Little Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0051,4,01:07,POR,,DEN,,N. Little,POR,MISS Little 4' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-26,25,4,1,2.0,0.0,h
+S2223-G0051,4,00:50.100000,POR,134.0,DEN,108.0,N. Little,POR,Little Running Layup (10 PTS) (Johnson 1 AST),Made Shot,Running Layup Shot,-2,3,0,1,2.0,2.0,h
+S2223-G0051,4,00:50.100000,POR,135.0,DEN,108.0,N. Little,POR,Little Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0175,1,05:14,NOP,,POR,,N. Little,POR,Little S.FOUL (P1.T3) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G0175,1,03:58,NOP,,POR,,N. Little,POR,MISS Little 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-145,1,15,1,2.0,0.0,v
+S2223-G0175,1,01:54,NOP,,POR,,N. Little,POR,MISS Little 2' Layup,Missed Shot,Layup Shot,-9,20,2,1,2.0,0.0,v
+S2223-G0175,1,00:44.900000,NOP,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0175,2,08:37,NOP,,POR,,N. Little,POR,Little Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0175,2,07:50,NOP,,POR,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,-180,178,25,1,3.0,0.0,v
+S2223-G0175,2,07:22,NOP,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0175,2,06:13,NOP,43.0,POR,38.0,N. Little,POR,Little 1' Driving Layup (2 PTS) (Simons 3 AST),Made Shot,Driving Layup Shot,-11,-2,1,1,2.0,2.0,v
+S2223-G0175,2,05:30,NOP,,POR,,N. Little,POR,SUB: Winslow FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0175,3,02:10,NOP,68.0,POR,74.0,N. Little,POR,Little 26' 3PT Jump Shot (5 PTS) (Grant 4 AST),Made Shot,Jump Shot,-169,197,26,1,3.0,3.0,v
+S2223-G0175,3,01:36,NOP,,POR,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,-22,263,26,1,3.0,0.0,v
+S2223-G0175,3,01:00,NOP,74.0,POR,76.0,N. Little,POR,Little 1' Driving Layup (7 PTS) (Watford 1 AST),Made Shot,Driving Layup Shot,13,5,1,1,2.0,2.0,v
+S2223-G0175,4,11:40,NOP,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0175,4,09:35,NOP,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0175,4,08:40,NOP,77.0,POR,86.0,N. Little,POR,Little Cutting Dunk Shot (9 PTS) (Winslow 6 AST),Made Shot,Cutting Dunk Shot,0,2,0,1,2.0,2.0,v
+S2223-G0175,4,07:54,NOP,79.0,POR,88.0,N. Little,POR,Little 2' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,-17,5,2,1,2.0,2.0,v
+S2223-G0175,4,07:54,NOP,79.0,POR,89.0,N. Little,POR,Little Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0175,4,07:18,NOP,,POR,,N. Little,POR,MISS Little 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-4,206,21,1,2.0,0.0,v
+S2223-G0175,4,07:13,NOP,,POR,,N. Little,POR,MISS Little Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0175,4,07:13,NOP,81.0,POR,90.0,N. Little,POR,Little Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0175,4,05:33,NOP,87.0,POR,95.0,N. Little,POR,Little 2' Cutting Dunk Shot (15 PTS) (Watford 3 AST),Made Shot,Cutting Dunk Shot,-5,15,2,1,2.0,2.0,v
+S2223-G0175,4,05:20,NOP,,POR,,N. Little,POR,SUB: Hart FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0159,1,01:18,CHA,30.0,POR,23.0,N. Little,POR,Little 3PT Jump Shot (3 PTS) (Watford 2 AST),Made Shot,Jump Shot,227,31,0,1,3.0,3.0,v
+S2223-G0159,1,00:58.600000,CHA,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0159,2,10:48,CHA,34.0,POR,30.0,N. Little,POR,Little 17' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-100,140,17,1,2.0,2.0,v
+S2223-G0159,2,07:48,CHA,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0159,2,06:46,CHA,,POR,,N. Little,POR,SUB: Winslow FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0159,2,00:27,CHA,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0159,3,01:13,CHA,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0159,3,00:47.900000,CHA,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0159,3,00:11.800000,CHA,,POR,,N. Little,POR,SUB: Lillard FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0159,4,09:54,CHA,,POR,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0159,4,08:37,CHA,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0159,4,07:58,CHA,,POR,,N. Little,POR,SUB: Hart FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0027,1,00:04.700000,POR,,PHX,,N. Little,POR,SUB: Simons FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0027,2,11:06,POR,,PHX,,N. Little,POR,Little REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0027,2,11:06,POR,27.0,PHX,28.0,N. Little,POR,Little Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0027,2,10:25,POR,,PHX,,N. Little,POR,MISS Little 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-28,110,11,1,2.0,0.0,h
+S2223-G0027,2,09:01,POR,,PHX,,N. Little,POR,Little STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0027,2,08:58,POR,,PHX,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0027,3,01:22,POR,70.0,PHX,74.0,N. Little,POR,Little 4' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,-20,29,4,1,2.0,2.0,h
+S2223-G0027,3,00:56.400000,POR,,PHX,,N. Little,POR,Little S.FOUL (P1.T4) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0027,3,00:40.900000,POR,73.0,PHX,76.0,N. Little,POR,Little 24' 3PT Jump Shot (7 PTS) (Simons 1 AST),Made Shot,Jump Shot,229,78,24,1,3.0,3.0,h
+S2223-G0027,4,10:53,POR,79.0,PHX,79.0,N. Little,POR,Little 14' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,-1,143,14,1,2.0,2.0,h
+S2223-G0027,4,09:22,POR,,PHX,,N. Little,POR,SUB: Lillard FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G1159,1,05:47,POR,19.0,SAC,20.0,N. Little,POR,Little 24' 3PT Jump Shot (3 PTS) (Eubanks 1 AST),Made Shot,Jump Shot,212,111,24,1,3.0,3.0,h
+S2223-G1159,1,04:53,POR,,SAC,,N. Little,POR,MISS Little 2' Driving Layup,Missed Shot,Driving Layup Shot,-18,12,2,1,2.0,0.0,h
+S2223-G1159,1,04:00,POR,,SAC,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1159,1,01:26,POR,,SAC,,N. Little,POR,MISS Little 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-5,207,21,1,2.0,0.0,h
+S2223-G1159,2,10:18,POR,35.0,SAC,40.0,N. Little,POR,Little 26' 3PT Pullup Jump Shot (6 PTS) (Mays 3 AST),Made Shot,Pullup Jump shot,163,202,26,1,3.0,3.0,h
+S2223-G1159,2,07:16,POR,,SAC,,N. Little,POR,Little STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1159,2,07:10,POR,43.0,SAC,49.0,N. Little,POR,Little Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1159,2,07:10,POR,,SAC,,N. Little,POR,MISS Little Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1159,2,06:53,POR,,SAC,,N. Little,POR,SUB: Thybulle FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0787,1,01:09,WAS,,POR,,N. Little,POR,MISS Little 28' 3PT Jump Shot,Missed Shot,Jump Shot,-176,220,28,1,3.0,0.0,v
+S2223-G0787,1,00:57.700000,WAS,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0787,2,09:53,WAS,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0787,2,09:11,WAS,,POR,,N. Little,POR,MISS Little 29' 3PT Jump Shot,Missed Shot,Jump Shot,-154,246,29,1,3.0,0.0,v
+S2223-G0787,2,08:49,WAS,,POR,,N. Little,POR,SUB: Hart FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0787,3,01:51,WAS,,POR,,N. Little,POR,Little P.FOUL (P1.PN) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2223-G0787,3,00:00.100000,WAS,,POR,,N. Little,POR,MISS Little 28' 3PT Jump Shot,Missed Shot,Jump Shot,221,170,28,1,3.0,0.0,v
+S2223-G0787,4,11:19,WAS,,POR,,N. Little,POR,MISS Little 7' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,-51,52,7,1,2.0,0.0,v
+S2223-G0787,4,10:16,WAS,,POR,,N. Little,POR,MISS Little 3PT Jump Shot,Missed Shot,Jump Shot,-233,11,0,1,3.0,0.0,v
+S2223-G0787,4,09:38,WAS,,POR,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0787,4,09:22,WAS,,POR,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,-232,105,25,1,3.0,0.0,v
+S2223-G0787,4,07:18,WAS,,POR,,N. Little,POR,SUB: Simons FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0139,1,04:52,PHX,18.0,POR,15.0,N. Little,POR,Little Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0139,1,04:52,PHX,18.0,POR,16.0,N. Little,POR,Little Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0139,1,04:27,PHX,,POR,,N. Little,POR,MISS Little 8' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-71,45,8,1,2.0,0.0,v
+S2223-G0139,1,04:03,PHX,24.0,POR,19.0,N. Little,POR,Little 26' 3PT Jump Shot (5 PTS) (Grant 2 AST),Made Shot,Jump Shot,-105,243,26,1,3.0,3.0,v
+S2223-G0139,1,03:43,PHX,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0139,1,03:05,PHX,,POR,,N. Little,POR,Little S.FOUL (P1.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0139,1,01:42,PHX,30.0,POR,23.0,N. Little,POR,Little 2' Cutting Layup Shot (7 PTS) (Eubanks 1 AST),Made Shot,Cutting Layup Shot,16,9,2,1,2.0,2.0,v
+S2223-G0139,2,09:41,PHX,,POR,,N. Little,POR,SUB: Watford FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0139,3,02:39,PHX,74.0,POR,58.0,N. Little,POR,Little 17' Pullup Jump Shot (9 PTS) (Hart 8 AST),Made Shot,Pullup Jump shot,-114,130,17,1,2.0,2.0,v
+S2223-G0139,4,10:42,PHX,,POR,,N. Little,POR,Little Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0139,4,09:48,PHX,,POR,,N. Little,POR,MISS Little 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-83,189,21,1,2.0,0.0,v
+S2223-G0139,4,08:57,PHX,,POR,,N. Little,POR,SUB: Brown III FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0705,1,03:03,POR,,LAL,,N. Little,POR,MISS Little 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,233,117,26,1,3.0,0.0,h
+S2223-G0705,1,02:47,POR,24.0,LAL,26.0,N. Little,POR,Little 26' 3PT Jump Shot (3 PTS) (Simons 2 AST),Made Shot,Jump Shot,154,211,26,1,3.0,3.0,h
+S2223-G0705,1,01:06,POR,26.0,LAL,30.0,N. Little,POR,Little 5' Driving Floating Jump Shot (5 PTS) (Lillard 2 AST),Made Shot,Driving Floating Jump Shot,2,45,5,1,2.0,2.0,h
+S2223-G0705,1,00:05.900000,POR,,LAL,,N. Little,POR,Little Personal Take Foul (P1.PN) (C.Kirkland),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0705,2,11:10,POR,29.0,LAL,35.0,N. Little,POR,Little 26' 3PT Jump Shot (8 PTS) (Lillard 3 AST),Made Shot,Jump Shot,-91,240,26,1,3.0,3.0,h
+S2223-G0705,2,10:08,POR,34.0,LAL,37.0,N. Little,POR,Little 24' 3PT Jump Shot (11 PTS) (Nurkic 2 AST),Made Shot,Jump Shot,-211,122,24,1,3.0,3.0,h
+S2223-G0705,2,09:40,POR,,LAL,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0705,3,06:51,POR,,LAL,,N. Little,POR,MISS Little 3PT Jump Shot,Missed Shot,Jump Shot,-232,10,0,1,3.0,0.0,h
+S2223-G0705,3,05:39,POR,,LAL,,N. Little,POR,Little S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0705,3,04:04,POR,,LAL,,N. Little,POR,Little P.FOUL (P3.PN) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2223-G0705,3,02:59,POR,,LAL,,N. Little,POR,MISS Little 2' Driving Layup,Missed Shot,Driving Layup Shot,-9,16,2,1,2.0,0.0,h
+S2223-G0705,3,02:15,POR,,LAL,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0894,1,11:34,SAC,,POR,,N. Little,POR,Little STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0894,1,10:51,SAC,0.0,POR,3.0,N. Little,POR,Little 25' 3PT Running Pull-Up Jump Shot (3 PTS) (Arcidiacono 1 AST),Made Shot,Running Pull-Up Jump Shot,115,222,25,1,3.0,3.0,v
+S2223-G0894,1,09:16,SAC,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0894,1,09:06,SAC,2.0,POR,7.0,N. Little,POR,Little 3' Driving Layup (5 PTS) (Arcidiacono 2 AST),Made Shot,Driving Layup Shot,28,10,3,1,2.0,2.0,v
+S2223-G0894,1,09:06,SAC,2.0,POR,8.0,N. Little,POR,Little Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0894,1,08:56,SAC,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0894,1,08:03,SAC,4.0,POR,14.0,N. Little,POR,Little 26' 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,-158,207,26,1,3.0,3.0,v
+S2223-G0894,1,07:46,SAC,,POR,,N. Little,POR,MISS Little 17' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-5,173,17,1,2.0,0.0,v
+S2223-G0894,1,04:39,SAC,11.0,POR,27.0,N. Little,POR,Little 26' 3PT Jump Shot (12 PTS) (Watford 3 AST),Made Shot,Jump Shot,-201,162,26,1,3.0,3.0,v
+S2223-G0894,1,03:57,SAC,,POR,,N. Little,POR,SUB: Walker FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0894,2,08:19,SAC,,POR,,N. Little,POR,MISS Little 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,163,191,25,1,3.0,0.0,v
+S2223-G0894,2,00:37.900000,SAC,,POR,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,190,164,25,1,3.0,0.0,v
+S2223-G0894,3,11:44,SAC,66.0,POR,59.0,N. Little,POR,Little 20' Pullup Jump Shot (14 PTS) (Reddish 4 AST),Made Shot,Pullup Jump shot,-26,200,20,1,2.0,2.0,v
+S2223-G0894,3,11:06,SAC,,POR,,N. Little,POR,MISS Little 14' Floating Jump Shot,Missed Shot,Floating Jump shot,2,137,14,1,2.0,0.0,v
+S2223-G0894,3,09:04,SAC,71.0,POR,63.0,N. Little,POR,Little 12' Fadeaway Jumper (16 PTS),Made Shot,Fadeaway Jump Shot,-64,99,12,1,2.0,2.0,v
+S2223-G0894,3,08:42,SAC,72.0,POR,65.0,N. Little,POR,Little 22' Step Back Jump Shot (18 PTS),Made Shot,Step Back Jump shot,-54,216,22,1,2.0,2.0,v
+S2223-G0894,3,08:32,SAC,,POR,,N. Little,POR,Little STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0894,3,08:01,SAC,74.0,POR,68.0,N. Little,POR,Little 25' 3PT Jump Shot (21 PTS) (Thybulle 1 AST),Made Shot,Jump Shot,27,250,25,1,3.0,3.0,v
+S2223-G0894,3,06:10,SAC,,POR,,N. Little,POR,Little STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0894,3,06:05,SAC,,POR,,N. Little,POR,MISS Little 3' Running Layup,Missed Shot,Running Layup Shot,-17,19,3,1,2.0,0.0,v
+S2223-G0894,3,04:16,SAC,87.0,POR,76.0,N. Little,POR,Little 26' 3PT Jump Shot (24 PTS) (Arcidiacono 4 AST),Made Shot,Jump Shot,38,256,26,1,3.0,3.0,v
+S2223-G0894,3,03:10,SAC,,POR,,N. Little,POR,MISS Little 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-15,58,6,1,2.0,0.0,v
+S2223-G0894,3,03:00,SAC,,POR,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0894,3,02:27,SAC,91.0,POR,81.0,N. Little,POR,Little 2' Driving Layup (26 PTS),Made Shot,Driving Layup Shot,-21,5,2,1,2.0,2.0,v
+S2223-G0894,3,02:17,SAC,,POR,,N. Little,POR,Little STEAL (4 STL),,,0,0,0,0,,,v
+S2223-G0894,3,01:38,SAC,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0894,3,00:08.700000,SAC,,POR,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,6,248,25,1,3.0,0.0,v
+S2223-G0894,4,07:27,SAC,,POR,,N. Little,POR,MISS Little 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,135,104,17,1,2.0,0.0,v
+S2223-G0894,4,06:52,SAC,,POR,,N. Little,POR,Little P.FOUL (P1.T4) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2223-G0894,4,04:57,SAC,,POR,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,-44,243,25,1,3.0,0.0,v
+S2223-G0894,4,04:34,SAC,,POR,,N. Little,POR,SUB: Walker FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0251,1,01:59,MIL,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0251,2,11:04,MIL,,POR,,N. Little,POR,MISS Little 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-27,262,26,1,3.0,0.0,v
+S2223-G0251,2,10:12,MIL,,POR,,N. Little,POR,Little Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0251,2,05:20,MIL,,POR,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,-158,197,25,1,3.0,0.0,v
+S2223-G0251,2,05:18,MIL,,POR,,N. Little,POR,SUB: Sharpe FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0251,3,02:46,MIL,,POR,,N. Little,POR,Little Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0251,3,01:10,MIL,,POR,,N. Little,POR,MISS Little 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-31,212,21,1,2.0,0.0,v
+S2223-G0251,3,00:04.900000,MIL,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0251,3,00:00.400000,MIL,93.0,POR,79.0,N. Little,POR,Little 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-115,121,17,1,2.0,2.0,v
+S2223-G0251,4,08:52,MIL,,POR,,N. Little,POR,MISS Little 24' 3PT Jump Shot,Missed Shot,Jump Shot,243,24,24,1,3.0,0.0,v
+S2223-G0251,4,07:42,MIL,102.0,POR,92.0,N. Little,POR,Little 4' Driving Layup (4 PTS) (Simons 4 AST),Made Shot,Driving Layup Shot,33,16,4,1,2.0,2.0,v
+S2223-G0251,4,06:48,MIL,,POR,,N. Little,POR,MISS Little 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-20,45,5,1,2.0,0.0,v
+S2223-G0251,4,05:49,MIL,,POR,,N. Little,POR,Little S.FOUL (P1.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0251,4,05:49,MIL,,POR,,N. Little,POR,SUB: Winslow FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0251,4,00:20.800000,MIL,,POR,,N. Little,POR,Little STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0251,4,00:18.800000,MIL,119.0,POR,111.0,N. Little,POR,Little 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,10,17,2,1,2.0,2.0,v
+S2223-G0986,1,01:44,BOS,,POR,,N. Little,POR,MISS Little 2' Driving Layup,Missed Shot,Driving Layup Shot,20,3,2,1,2.0,0.0,v
+S2223-G0986,1,00:18.400000,BOS,34.0,POR,28.0,N. Little,POR,Little 26' 3PT Step Back Jump Shot (3 PTS) (Sharpe 1 AST),Made Shot,Step Back Jump shot,-146,218,26,1,3.0,3.0,v
+S2223-G0986,1,00:00.600000,BOS,,POR,,N. Little,POR,Little S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0986,2,09:46,BOS,,POR,,N. Little,POR,MISS Little 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-188,190,27,1,3.0,0.0,v
+S2223-G0986,2,06:51,BOS,,POR,,N. Little,POR,SUB: Reddish FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0986,3,07:29,BOS,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0986,3,07:00,BOS,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0986,3,06:56,BOS,,POR,,N. Little,POR,Little OFF.Foul (P2) (B.Kennedy),Foul,Offensive,0,0,0,0,,,v
+S2223-G0986,3,06:56,BOS,,POR,,N. Little,POR,Little Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0986,3,05:59,BOS,,POR,,N. Little,POR,MISS Little 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,37,24,1,3.0,0.0,v
+S2223-G0986,3,03:49,BOS,,POR,,N. Little,POR,Little P.FOUL (P3.T2) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0986,3,01:59,BOS,,POR,,N. Little,POR,Little Offensive Charge Foul (P4) (B.Kennedy),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0986,3,01:59,BOS,,POR,,N. Little,POR,Little Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0986,3,00:32.400000,BOS,,POR,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0986,4,10:46,BOS,,POR,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,-196,165,26,1,3.0,0.0,v
+S2223-G0986,4,10:10,BOS,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0986,4,05:47,BOS,,POR,,N. Little,POR,SUB: Johnson FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0116,1,02:05,POR,,MEM,,N. Little,POR,MISS Little 28' 3PT Step Back Bank Jump Shot,Missed Shot,Step Back Bank Jump Shot,-137,241,28,1,3.0,0.0,h
+S2223-G0116,1,01:26,POR,21.0,MEM,25.0,N. Little,POR,Little 26' 3PT Jump Shot (3 PTS) (Winslow 2 AST),Made Shot,Jump Shot,161,204,26,1,3.0,3.0,h
+S2223-G0116,1,00:41.600000,POR,,MEM,,N. Little,POR,Little Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0116,2,11:11,POR,,MEM,,N. Little,POR,MISS Little 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-43,24,5,1,2.0,0.0,h
+S2223-G0116,2,08:56,POR,,MEM,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0116,2,08:40,POR,,MEM,,N. Little,POR,MISS Little 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-21,8,2,1,2.0,0.0,h
+S2223-G0116,2,08:31,POR,,MEM,,N. Little,POR,SUB: Simons FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0116,3,03:21,POR,,MEM,,N. Little,POR,MISS Little 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,27,24,1,3.0,0.0,h
+S2223-G0116,4,10:39,POR,,MEM,,N. Little,POR,SUB: Simons FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0815,2,10:44,POR,,MIL,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,92,247,26,1,3.0,0.0,h
+S2223-G0815,2,09:32,POR,26.0,MIL,38.0,N. Little,POR,Little 17' Turnaround Fadeaway Bank Jump Shot (2 PTS) (Watford 1 AST),Made Shot,Turnaround Fadeaway Bank Jump Shot,4,166,17,1,2.0,2.0,h
+S2223-G0815,2,08:51,POR,,MIL,,N. Little,POR,Little STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0815,2,07:52,POR,,MIL,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0815,3,01:30,POR,,MIL,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,189,160,25,1,3.0,0.0,h
+S2223-G0815,3,00:01.100000,POR,,MIL,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0815,3,00:01.100000,POR,,MIL,,N. Little,POR,Little Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0815,4,03:00,POR,102.0,MIL,121.0,N. Little,POR,Little 27' 3PT Pullup Jump Shot (5 PTS) (Brown III 1 AST),Made Shot,Pullup Jump shot,-137,231,27,1,3.0,3.0,h
+S2223-G0815,4,02:00,POR,,MIL,,N. Little,POR,MISS Little Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0815,4,02:00,POR,103.0,MIL,123.0,N. Little,POR,Little Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0815,4,00:34.200000,POR,,MIL,,N. Little,POR,MISS Little 3' Driving Layup,Missed Shot,Driving Layup Shot,-29,10,3,1,2.0,0.0,h
+S2223-G0815,4,00:30.400000,POR,108.0,MIL,127.0,N. Little,POR,Little 1' Driving Layup (8 PTS) (Sharpe 3 AST),Made Shot,Driving Layup Shot,4,8,1,1,2.0,2.0,h
+S2223-G0751,1,08:38,POR,5.0,TOR,11.0,N. Little,POR,Little 16' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,81,141,16,1,2.0,2.0,h
+S2223-G0751,1,07:11,POR,,TOR,,N. Little,POR,MISS Little 2' Driving Layup,Missed Shot,Driving Layup Shot,17,0,2,1,2.0,0.0,h
+S2223-G0751,1,04:59,POR,,TOR,,N. Little,POR,SUB: Payton II FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0751,2,04:11,POR,39.0,TOR,51.0,N. Little,POR,Little 25' 3PT Running Jump Shot (5 PTS) (Lillard 1 AST),Made Shot,Running Jump Shot,206,142,25,1,3.0,3.0,h
+S2223-G0751,2,00:01.600000,POR,44.0,TOR,63.0,N. Little,POR,Little 24' 3PT Pullup Jump Shot (8 PTS) (Lillard 2 AST),Made Shot,Pullup Jump shot,-229,63,24,1,3.0,3.0,h
+S2223-G0751,3,09:41,POR,,TOR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0751,3,06:59,POR,,TOR,,N. Little,POR,Little Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0751,3,06:55,POR,,TOR,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0751,3,05:28,POR,,TOR,,N. Little,POR,MISS Little 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,36,24,1,3.0,0.0,h
+S2223-G0751,3,04:39,POR,,TOR,,N. Little,POR,SUB: Sharpe FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0751,4,09:43,POR,,TOR,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0751,4,05:34,POR,,TOR,,N. Little,POR,MISS Little 27' 3PT Jump Shot,Missed Shot,Jump Shot,83,252,27,1,3.0,0.0,h
+S2223-G0751,4,05:19,POR,,TOR,,N. Little,POR,Little REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0751,4,01:32,POR,,TOR,,N. Little,POR,SUB: Johnson FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0771,2,11:40,MEM,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0771,2,11:26,MEM,,POR,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,158,202,26,1,3.0,0.0,v
+S2223-G0771,2,10:07,MEM,,POR,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,-138,220,26,1,3.0,0.0,v
+S2223-G0771,2,09:56,MEM,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0771,2,08:19,MEM,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0771,2,07:52,MEM,,POR,,N. Little,POR,SUB: Simons FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0771,3,05:42,MEM,,POR,,N. Little,POR,Little STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0771,3,02:49,MEM,83.0,POR,78.0,N. Little,POR,Little 15' Pullup Jump Shot (2 PTS) (Lillard 8 AST),Made Shot,Pullup Jump shot,0,153,15,1,2.0,2.0,v
+S2223-G0771,3,01:51,MEM,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0771,3,01:39,MEM,,POR,,N. Little,POR,Little Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0771,4,08:37,MEM,,POR,,N. Little,POR,SUB: Hart FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0931,1,05:35,GSW,15.0,POR,21.0,N. Little,POR,Little 3PT Jump Shot (3 PTS) (Lillard 3 AST),Made Shot,Jump Shot,228,38,0,1,3.0,3.0,v
+S2223-G0931,1,05:02,GSW,,POR,,N. Little,POR,MISS Little 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,162,6,16,1,2.0,0.0,v
+S2223-G0931,1,02:25,GSW,20.0,POR,35.0,N. Little,POR,Little 8' Driving Floating Bank Jump Shot (5 PTS) (Johnson 1 AST),Made Shot,Driving Floating Bank Jump Shot,23,74,8,1,2.0,2.0,v
+S2223-G0931,1,01:50,GSW,22.0,POR,37.0,N. Little,POR,Little 8' Driving Layup (7 PTS) (Watford 3 AST),Made Shot,Driving Layup Shot,74,31,8,1,2.0,2.0,v
+S2223-G0931,1,01:03,GSW,,POR,,N. Little,POR,MISS Little 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,206,176,27,1,3.0,0.0,v
+S2223-G0931,2,10:29,GSW,,POR,,N. Little,POR,SUB: Reddish FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0931,3,06:02,GSW,,POR,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,211,139,25,1,3.0,0.0,v
+S2223-G0931,3,05:39,GSW,,POR,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0931,3,04:35,GSW,,POR,,N. Little,POR,MISS Little 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-135,243,28,1,3.0,0.0,v
+S2223-G0931,3,04:02,GSW,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0931,3,03:09,GSW,,POR,,N. Little,POR,MISS Little 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-48,84,10,1,2.0,0.0,v
+S2223-G0209,1,02:25,POR,22.0,SAS,27.0,N. Little,POR,Little Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0209,1,02:25,POR,23.0,SAS,27.0,N. Little,POR,Little Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0209,1,01:59,POR,,SAS,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0209,1,01:10,POR,,SAS,,N. Little,POR,Little STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0209,1,00:02.700000,POR,,SAS,,N. Little,POR,Little Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0209,2,10:52,POR,,SAS,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,-148,214,26,1,3.0,0.0,h
+S2223-G0209,2,09:19,POR,,SAS,,N. Little,POR,MISS Little 27' 3PT Jump Shot,Missed Shot,Jump Shot,161,212,27,1,3.0,0.0,h
+S2223-G0209,2,09:05,POR,,SAS,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0209,2,08:47,POR,,SAS,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0209,3,01:55,POR,,SAS,,N. Little,POR,Little REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0209,3,01:37,POR,,SAS,,N. Little,POR,Little S.FOUL (P1.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0209,3,01:23,POR,,SAS,,N. Little,POR,Little Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0209,4,11:22,POR,,SAS,,N. Little,POR,Little Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0209,4,09:09,POR,,SAS,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0065,1,00:31.200000,POR,,MIA,,N. Little,POR,Little STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0065,1,00:07,POR,,MIA,,N. Little,POR,Little S.FOUL (P1.PN) (D.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0065,2,11:38,POR,,MIA,,N. Little,POR,Little REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0065,2,07:39,POR,,MIA,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0065,4,09:20,POR,,MIA,,N. Little,POR,SUB: Simons FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0065,4,03:30,POR,,MIA,,N. Little,POR,MISS Little 27' 3PT Jump Shot,Missed Shot,Jump Shot,-172,211,27,1,3.0,0.0,h
+S2223-G0065,4,03:01,POR,95.0,MIA,115.0,N. Little,POR,Little 2' Driving Dunk (2 PTS) (Johnson 1 AST),Made Shot,Driving Dunk Shot,10,15,2,1,2.0,2.0,h
+S2223-G0065,4,02:37,POR,,MIA,,N. Little,POR,Little Bad Pass Turnover (P1.T18),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0065,4,01:42,POR,,MIA,,N. Little,POR,MISS Little 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-224,120,25,1,3.0,0.0,h
+S2223-G0966,1,06:00,ORL,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0966,1,04:09,ORL,18.0,POR,22.0,N. Little,POR,Little 26' 3PT Jump Shot (3 PTS) (Sharpe 1 AST),Made Shot,Jump Shot,-80,252,26,1,3.0,3.0,v
+S2223-G0966,1,03:02,ORL,,POR,,N. Little,POR,Little Offensive Charge Foul (P1) (J.Sterling),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0966,1,03:02,ORL,,POR,,N. Little,POR,Little Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0966,1,00:46.300000,ORL,27.0,POR,31.0,N. Little,POR,Little 3' Running Layup (5 PTS) (Grant 2 AST),Made Shot,Running Layup Shot,12,23,3,1,2.0,2.0,v
+S2223-G0966,2,10:26,ORL,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0966,2,05:29,ORL,,POR,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0966,3,01:42,ORL,,POR,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0966,4,11:07,ORL,,POR,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,-207,141,25,1,3.0,0.0,v
+S2223-G0966,4,09:29,ORL,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0966,4,08:24,ORL,97.0,POR,103.0,N. Little,POR,Little 26' 3PT Jump Shot (8 PTS) (Grant 5 AST),Made Shot,Jump Shot,-210,145,26,1,3.0,3.0,v
+S2223-G0966,4,06:49,ORL,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0966,4,06:08,ORL,,POR,,N. Little,POR,SUB: Thybulle FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0966,4,01:47,ORL,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0966,4,01:33,ORL,,POR,,N. Little,POR,MISS Little 27' 3PT Jump Shot,Missed Shot,Jump Shot,66,260,27,1,3.0,0.0,v
+S2223-G0966,4,00:35.200000,ORL,113.0,POR,116.0,N. Little,POR,Little 26' 3PT Jump Shot (11 PTS) (Grant 7 AST),Made Shot,Jump Shot,153,204,26,1,3.0,3.0,v
+S2223-G0966,4,00:35,ORL,,POR,,N. Little,POR,SUB: Thybulle FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0727,1,02:13,POR,,UTA,,N. Little,POR,Little S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G0727,1,01:19,POR,,UTA,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,150,199,25,1,3.0,0.0,h
+S2223-G0727,1,00:00,POR,,UTA,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,-194,169,26,1,3.0,0.0,h
+S2223-G0727,2,07:12,POR,37.0,UTA,44.0,N. Little,POR,Little 2' Running Layup (2 PTS) (Lillard 3 AST),Made Shot,Running Layup Shot,13,16,2,1,2.0,2.0,h
+S2223-G0727,2,00:00,POR,66.0,UTA,64.0,N. Little,POR,Little 25' 3PT Jump Shot (5 PTS) (Simons 3 AST),Made Shot,Jump Shot,-218,124,25,1,3.0,3.0,h
+S2223-G0727,3,08:26,POR,,UTA,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0727,3,02:23,POR,,UTA,,N. Little,POR,SUB: Payton II FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0727,4,10:33,POR,,UTA,,N. Little,POR,Little REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0727,4,09:58,POR,111.0,UTA,96.0,N. Little,POR,Little 29' 3PT Jump Shot (8 PTS) (Simons 6 AST),Made Shot,Jump Shot,-170,241,29,1,3.0,3.0,h
+S2223-G0727,4,03:38,POR,,UTA,,N. Little,POR,Little REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0727,4,01:26,POR,,UTA,,N. Little,POR,Little L.B.FOUL (P2.PN) (B.Barnaky),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0727,4,01:12,POR,,UTA,,N. Little,POR,MISS Little 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-26,21,3,1,2.0,0.0,h
+S2223-G1120,1,02:16,POR,26.0,OKC,17.0,N. Little,POR,Little 6' Turnaround Bank Shot (2 PTS),Made Shot,Turnaround Bank shot,-7,59,6,1,2.0,2.0,h
+S2223-G1120,1,01:07,POR,34.0,OKC,22.0,N. Little,POR,Little 29' 3PT Pullup Jump Shot (5 PTS) (Johnson 3 AST),Made Shot,Pullup Jump shot,-174,228,29,1,3.0,3.0,h
+S2223-G1120,1,00:06.600000,POR,,OKC,,N. Little,POR,Little REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1120,1,00:00.300000,POR,,OKC,,N. Little,POR,MISS Little 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-167,189,25,1,3.0,0.0,h
+S2223-G1120,2,11:36,POR,,OKC,,N. Little,POR,MISS Little 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-23,49,5,1,2.0,0.0,h
+S2223-G1120,2,09:56,POR,40.0,OKC,31.0,N. Little,POR,Little 2' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,20,-1,2,1,2.0,2.0,h
+S2223-G1120,2,09:07,POR,,OKC,,N. Little,POR,MISS Little 2' Driving Layup,Missed Shot,Driving Layup Shot,-5,15,2,1,2.0,0.0,h
+S2223-G1120,2,08:43,POR,,OKC,,N. Little,POR,MISS Little 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,39,169,17,1,2.0,0.0,h
+S2223-G1120,2,07:39,POR,,OKC,,N. Little,POR,SUB: Thybulle FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G1120,2,03:28,POR,53.0,OKC,55.0,N. Little,POR,Little 17' Step Back Jump Shot (9 PTS) (Eubanks 3 AST),Made Shot,Step Back Jump shot,77,147,17,1,2.0,2.0,h
+S2223-G1120,2,01:25,POR,60.0,OKC,63.0,N. Little,POR,Little 4' Driving Floating Jump Shot (11 PTS) (Arcidiacono 2 AST),Made Shot,Driving Floating Jump Shot,0,36,4,1,2.0,2.0,h
+S2223-G1120,2,01:09,POR,,OKC,,N. Little,POR,Little S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1120,3,11:34,POR,,OKC,,N. Little,POR,MISS Little 3' Running Dunk,Missed Shot,Running Dunk Shot,-23,19,3,1,2.0,0.0,h
+S2223-G1120,3,10:42,POR,,OKC,,N. Little,POR,Little REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1120,3,08:50,POR,67.0,OKC,70.0,N. Little,POR,Little 25' 3PT Jump Shot (14 PTS) (Arcidiacono 3 AST),Made Shot,Jump Shot,-206,143,25,1,3.0,3.0,h
+S2223-G1120,3,08:31,POR,69.0,OKC,70.0,N. Little,POR,Little 2' Running Finger Roll Layup (16 PTS),Made Shot,Running Finger Roll Layup Shot,12,16,2,1,2.0,2.0,h
+S2223-G1120,3,08:31,POR,70.0,OKC,70.0,N. Little,POR,Little Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1120,3,07:29,POR,,OKC,,N. Little,POR,MISS Little 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-37,13,4,1,2.0,0.0,h
+S2223-G1120,3,07:24,POR,,OKC,,N. Little,POR,Little REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1120,3,07:24,POR,75.0,OKC,72.0,N. Little,POR,Little Putback Dunk (19 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G1120,3,06:56,POR,,OKC,,N. Little,POR,Little REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1120,3,06:48,POR,,OKC,,N. Little,POR,Little Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1120,3,06:43,POR,,OKC,,N. Little,POR,Little S.FOUL (P2.T1) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G1120,3,06:31,POR,78.0,OKC,74.0,N. Little,POR,Little 27' 3PT Jump Shot (22 PTS) (Sharpe 2 AST),Made Shot,Jump Shot,129,240,27,1,3.0,3.0,h
+S2223-G1120,3,05:41,POR,,OKC,,N. Little,POR,Little S.FOUL (P3.T4) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G1120,3,03:43,POR,,OKC,,N. Little,POR,Little Offensive Charge Foul (P4) (R.Mott),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1120,3,03:43,POR,,OKC,,N. Little,POR,Little Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1120,3,02:40,POR,90.0,OKC,86.0,N. Little,POR,Little 1' Driving Layup (24 PTS) (Johnson 5 AST),Made Shot,Driving Layup Shot,-6,9,1,1,2.0,2.0,h
+S2223-G1120,3,02:02,POR,,OKC,,N. Little,POR,MISS Little 21' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,110,182,21,1,2.0,0.0,h
+S2223-G1120,3,00:00,POR,,OKC,,N. Little,POR,MISS Little 48' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,195,440,48,1,3.0,0.0,h
+S2223-G1120,4,11:06,POR,97.0,OKC,98.0,N. Little,POR,Little Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1120,4,11:06,POR,98.0,OKC,98.0,N. Little,POR,Little Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1120,4,10:39,POR,,OKC,,N. Little,POR,Little REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1120,4,10:18,POR,,OKC,,N. Little,POR,Little REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1120,4,10:14,POR,102.0,OKC,98.0,N. Little,POR,Little Running Dunk (28 PTS),Made Shot,Running Dunk Shot,1,4,0,1,2.0,2.0,h
+S2223-G1120,4,09:03,POR,,OKC,,N. Little,POR,MISS Little 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-78,195,21,1,2.0,0.0,h
+S2223-G1120,4,08:08,POR,,OKC,,N. Little,POR,Little S.FOUL (P5.T1) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G1120,4,07:49,POR,,OKC,,N. Little,POR,MISS Little 28' 3PT Jump Shot,Missed Shot,Jump Shot,169,224,28,1,3.0,0.0,h
+S2223-G1120,4,07:46,POR,,OKC,,N. Little,POR,SUB: Thybulle FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0654,2,06:06,POR,,DAL,,N. Little,POR,Little L.B.FOUL (P1.T3) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0654,2,03:49,POR,56.0,DAL,46.0,N. Little,POR,Little 3PT Jump Shot (3 PTS) (Lillard 5 AST),Made Shot,Jump Shot,-234,-14,0,1,3.0,3.0,h
+S2223-G0654,2,02:22,POR,,DAL,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0654,2,01:38,POR,,DAL,,N. Little,POR,Little BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0654,2,01:15,POR,,DAL,,N. Little,POR,Little S.FOUL (P2.PN) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2223-G0654,2,00:32.500000,POR,,DAL,,N. Little,POR,MISS Little 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,69,24,1,3.0,0.0,h
+S2223-G0654,3,04:13,POR,,DAL,,N. Little,POR,Little STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0654,3,04:08,POR,86.0,DAL,79.0,N. Little,POR,Little 26' 3PT Running Jump Shot (6 PTS) (Sharpe 3 AST),Made Shot,Running Jump Shot,148,215,26,1,3.0,3.0,h
+S2223-G0654,3,03:17,POR,,DAL,,N. Little,POR,MISS Little 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,130,13,1,2.0,0.0,h
+S2223-G0654,3,02:49,POR,91.0,DAL,83.0,N. Little,POR,Little 26' 3PT Jump Shot (9 PTS) (Grant 1 AST),Made Shot,Jump Shot,138,216,26,1,3.0,3.0,h
+S2223-G0654,3,02:13,POR,,DAL,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,4,263,26,1,3.0,0.0,h
+S2223-G0654,3,01:37,POR,,DAL,,N. Little,POR,Little Violation:Defensive Goaltending (J.Sterling),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0654,4,10:48,POR,,DAL,,N. Little,POR,Little REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0654,4,10:48,POR,,DAL,,N. Little,POR,MISS Little Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0654,4,10:48,POR,104.0,DAL,99.0,N. Little,POR,Little Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0654,4,10:18,POR,,DAL,,N. Little,POR,SUB: Simons FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0711,1,06:16,POR,,SAS,,N. Little,POR,MISS Little 5' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,7,53,5,1,2.0,0.0,h
+S2223-G0711,1,02:47,POR,29.0,SAS,25.0,N. Little,POR,Little 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-7,12,1,1,2.0,2.0,h
+S2223-G0711,1,01:52,POR,33.0,SAS,30.0,N. Little,POR,Little 16' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,-72,144,16,1,2.0,2.0,h
+S2223-G0711,1,01:29,POR,,SAS,,N. Little,POR,Little REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0711,1,00:00.700000,POR,40.0,SAS,38.0,N. Little,POR,Little 26' 3PT Step Back Jump Shot (7 PTS) (Lillard 5 AST),Made Shot,Step Back Jump shot,-174,188,26,1,3.0,3.0,h
+S2223-G0711,2,10:15,POR,,SAS,,N. Little,POR,MISS Little 3' Driving Layup,Missed Shot,Driving Layup Shot,-25,18,3,1,2.0,0.0,h
+S2223-G0711,2,10:15,POR,,SAS,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0711,2,06:17,POR,,SAS,,N. Little,POR,Little REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0711,2,05:01,POR,,SAS,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0711,2,04:22,POR,,SAS,,N. Little,POR,SUB: Lillard FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0711,4,09:31,POR,129.0,SAS,107.0,N. Little,POR,Little 26' 3PT Pullup Jump Shot (10 PTS) (Nurkic 7 AST),Made Shot,Pullup Jump shot,-211,146,26,1,3.0,3.0,h
+S2223-G0711,4,05:16,POR,,SAS,,N. Little,POR,SUB: Walker FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0843,1,04:00,POR,,OKC,,N. Little,POR,Little S.FOUL (P1.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0843,2,07:14,POR,,OKC,,N. Little,POR,Little REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0843,2,06:26,POR,52.0,OKC,46.0,N. Little,POR,Little 27' 3PT Jump Shot (3 PTS) (Lillard 5 AST),Made Shot,Jump Shot,163,210,27,1,3.0,3.0,h
+S2223-G0843,2,05:08,POR,,OKC,,N. Little,POR,MISS Little 27' 3PT Jump Shot,Missed Shot,Jump Shot,143,226,27,1,3.0,0.0,h
+S2223-G0843,2,03:40,POR,,OKC,,N. Little,POR,Little S.FOUL (P2.T4) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0843,2,03:40,POR,,OKC,,N. Little,POR,SUB: Reddish FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0843,3,07:33,POR,84.0,OKC,78.0,N. Little,POR,Little 27' 3PT Jump Shot (6 PTS) (Lillard 8 AST),Made Shot,Jump Shot,120,246,27,1,3.0,3.0,h
+S2223-G0843,3,03:56,POR,,OKC,,N. Little,POR,Little REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0843,3,03:54,POR,,OKC,,N. Little,POR,Little Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0843,3,00:26.800000,POR,,OKC,,N. Little,POR,Little REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0843,4,11:36,POR,,OKC,,N. Little,POR,Little REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0843,4,11:15,POR,,OKC,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0843,4,11:10,POR,,OKC,,N. Little,POR,Little Out of Bounds - Bad Pass Turnover Turnover (P2.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0843,4,09:24,POR,,OKC,,N. Little,POR,MISS Little 27' 3PT Jump Shot,Missed Shot,Jump Shot,112,247,27,1,3.0,0.0,h
+S2223-G0843,4,08:45,POR,,OKC,,N. Little,POR,Little Offensive Charge Foul (P3) (A.Nagy),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0843,4,08:45,POR,,OKC,,N. Little,POR,Little Offensive Foul Turnover (P3.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0843,4,08:37,POR,,OKC,,N. Little,POR,SUB: Sharpe FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0843,4,02:02,POR,,OKC,,N. Little,POR,SUB: Eubanks FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0843,4,00:52.500000,POR,,OKC,,N. Little,POR,Little REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0843,4,00:47.900000,POR,126.0,OKC,138.0,N. Little,POR,Little Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0843,4,00:47.900000,POR,127.0,OKC,138.0,N. Little,POR,Little Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1069,1,00:39.200000,POR,27.0,LAC,36.0,N. Little,POR,Little Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1069,1,00:39.200000,POR,28.0,LAC,36.0,N. Little,POR,Little Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1069,1,00:05,POR,30.0,LAC,36.0,N. Little,POR,Little 20' Step Back Jump Shot (4 PTS) (Simons 2 AST),Made Shot,Step Back Jump shot,-55,195,20,1,2.0,2.0,h
+S2223-G1069,1,00:00.800000,POR,,LAC,,N. Little,POR,Little Personal Take Foul (P1.T4) (T.Ford),Foul,Personal Take,0,0,0,0,,,h
+S2223-G1069,2,09:50,POR,,LAC,,N. Little,POR,MISS Little 27' 3PT Jump Shot,Missed Shot,Jump Shot,114,243,27,1,3.0,0.0,h
+S2223-G1069,2,09:06,POR,,LAC,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1069,2,06:46,POR,,LAC,,N. Little,POR,Little STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1069,2,06:43,POR,,LAC,,N. Little,POR,Jump Ball Little vs. Leonard: Tip to George,Jump Ball,,0,0,0,0,,,h
+S2223-G1069,2,06:43,POR,,LAC,,N. Little,POR,Little Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1069,2,04:32,POR,,LAC,,N. Little,POR,Little Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1069,2,04:19,POR,,LAC,,N. Little,POR,SUB: Simons FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G1069,3,01:44,POR,,LAC,,N. Little,POR,Little L.B.FOUL (P2.PN) (M.Davis),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1069,3,01:06,POR,,LAC,,N. Little,POR,Little P.FOUL (P3.PN) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2223-G1069,4,11:07,POR,,LAC,,N. Little,POR,Little Lost Ball Turnover (P3.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1069,4,10:24,POR,,LAC,,N. Little,POR,SUB: Reddish FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G1069,4,01:07,POR,,LAC,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1069,4,01:04,POR,,LAC,,N. Little,POR,Jump Ball Little vs. George: Tip to Nurkic,Jump Ball,,0,0,0,0,,,h
+S2223-G1069,4,00:55.200000,POR,,LAC,,N. Little,POR,MISS Little 3PT Jump Shot,Missed Shot,Jump Shot,225,23,0,1,3.0,0.0,h
+S2223-G1069,4,00:50,POR,,LAC,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,208,137,25,1,3.0,0.0,h
+S2223-G0947,1,00:56.600000,ATL,,POR,,N. Little,POR,MISS Little 3PT Jump Shot,Missed Shot,Jump Shot,-230,19,0,1,3.0,0.0,v
+S2223-G0947,1,00:02.400000,ATL,,POR,,N. Little,POR,Little P.FOUL (P1.T2) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2223-G0947,2,10:05,ATL,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0947,2,09:41,ATL,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0947,2,09:08,ATL,38.0,POR,26.0,N. Little,POR,Little 15' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,-50,137,15,1,2.0,2.0,v
+S2223-G0947,2,08:26,ATL,,POR,,N. Little,POR,SUB: Reddish FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0947,4,10:10,ATL,,POR,,N. Little,POR,Little Violation:Kicked Ball (A.Nagy),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0947,4,09:08,ATL,,POR,,N. Little,POR,SUB: Lillard FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0290,2,10:12,BKN,,POR,,N. Little,POR,Little STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0290,2,07:42,BKN,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0290,2,05:32,BKN,37.0,POR,42.0,N. Little,POR,Little 1' Driving Layup (2 PTS) (Simons 3 AST),Made Shot,Driving Layup Shot,-10,3,1,1,2.0,2.0,v
+S2223-G0290,2,05:32,BKN,37.0,POR,43.0,N. Little,POR,Little Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0290,2,05:14,BKN,,POR,,N. Little,POR,Little P.FOUL (P1.T1) (E.Lewis),Foul,Personal,0,0,0,0,,,v
+S2223-G0290,2,04:06,BKN,,POR,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,143,206,25,1,3.0,0.0,v
+S2223-G0290,2,03:53,BKN,,POR,,N. Little,POR,SUB: Winslow FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0290,3,00:34.100000,BKN,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0290,3,00:34.100000,BKN,,POR,,N. Little,POR,MISS Little Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0290,3,00:34.100000,BKN,82.0,POR,80.0,N. Little,POR,Little Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0274,1,03:32,NYK,,POR,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,-109,231,26,1,3.0,0.0,v
+S2223-G0274,2,10:33,NYK,,POR,,N. Little,POR,MISS Little 5' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-18,48,5,1,2.0,0.0,v
+S2223-G0274,2,10:16,NYK,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0274,2,08:33,NYK,,POR,,N. Little,POR,SUB: Watford FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0274,3,02:38,NYK,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0274,4,11:19,NYK,,POR,,N. Little,POR,Little S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0274,4,10:32,NYK,,POR,,N. Little,POR,SUB: Simons FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0274,5,00:19.900000,NYK,,POR,,N. Little,POR,SUB: Nurkic FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G1127,1,11:45,POR,2.0,NOP,0.0,N. Little,POR,Little 12' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-109,56,12,1,2.0,2.0,h
+S2223-G1127,1,09:52,POR,,NOP,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,154,206,26,1,3.0,0.0,h
+S2223-G1127,1,09:31,POR,,NOP,,N. Little,POR,MISS Little 27' 3PT Jump Shot,Missed Shot,Jump Shot,156,219,27,1,3.0,0.0,h
+S2223-G1127,1,07:55,POR,,NOP,,N. Little,POR,Little S.FOUL (P1.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G1127,1,07:38,POR,,NOP,,N. Little,POR,MISS Little 27' 3PT Jump Shot,Missed Shot,Jump Shot,162,210,27,1,3.0,0.0,h
+S2223-G1127,1,07:25,POR,,NOP,,N. Little,POR,Little STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1127,1,05:35,POR,,NOP,,N. Little,POR,SUB: Reddish FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G1127,2,07:27,POR,29.0,NOP,49.0,N. Little,POR,Little 3' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,-28,10,3,1,2.0,2.0,h
+S2223-G1127,2,06:24,POR,,NOP,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1127,2,04:35,POR,,NOP,,N. Little,POR,Little REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1127,2,03:52,POR,,NOP,,N. Little,POR,Little STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1127,2,03:11,POR,,NOP,,N. Little,POR,MISS Little 2' Driving Layup,Missed Shot,Driving Layup Shot,-16,3,2,1,2.0,0.0,h
+S2223-G1127,2,02:38,POR,,NOP,,N. Little,POR,MISS Little 3PT Jump Shot,Missed Shot,Jump Shot,227,9,0,1,3.0,0.0,h
+S2223-G1127,2,02:34,POR,,NOP,,N. Little,POR,MISS Little 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-6,11,1,1,2.0,0.0,h
+S2223-G1127,2,01:46,POR,,NOP,,N. Little,POR,SUB: Eubanks FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G1127,2,00:52.300000,POR,,NOP,,N. Little,POR,Little T.FOUL (P1.T1) (J.Goble),Foul,Technical,0,0,0,0,,,h
+S2223-G1127,3,09:32,POR,,NOP,,N. Little,POR,Little Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1127,3,07:34,POR,,NOP,,N. Little,POR,MISS Little 2' Driving Layup,Missed Shot,Driving Layup Shot,16,7,2,1,2.0,0.0,h
+S2223-G1127,3,07:05,POR,44.0,NOP,71.0,N. Little,POR,Little 25' 3PT Jump Shot (7 PTS) (Johnson 2 AST),Made Shot,Jump Shot,-229,90,25,1,3.0,3.0,h
+S2223-G1127,3,04:35,POR,,NOP,,N. Little,POR,Little S.FOUL (P2.T3) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G1127,3,04:35,POR,,NOP,,N. Little,POR,SUB: Walker FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0130,1,01:56,PHX,,POR,,N. Little,POR,MISS Little 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,11,158,16,1,2.0,0.0,v
+S2223-G0130,1,01:42,PHX,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0130,2,11:15,PHX,28.0,POR,26.0,N. Little,POR,Little Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0130,2,11:15,PHX,28.0,POR,27.0,N. Little,POR,Little Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0130,2,10:13,PHX,,POR,,N. Little,POR,MISS Little 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-229,5,0,1,3.0,0.0,v
+S2223-G0130,2,08:14,PHX,,POR,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0130,2,07:29,PHX,34.0,POR,39.0,N. Little,POR,Little 26' 3PT Jump Shot (5 PTS) (Nurkic 2 AST),Made Shot,Jump Shot,-86,245,26,1,3.0,3.0,v
+S2223-G0130,2,07:16,PHX,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0130,2,07:15,PHX,,POR,,N. Little,POR,Little Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0130,2,07:14,PHX,,POR,,N. Little,POR,Little P.FOUL (P1.T3) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0130,2,06:52,PHX,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0130,2,03:23,PHX,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0130,2,01:31,PHX,41.0,POR,56.0,N. Little,POR,Little 2' Driving Layup (7 PTS) (Grant 2 AST),Made Shot,Driving Layup Shot,13,15,2,1,2.0,2.0,v
+S2223-G0130,2,01:17,PHX,,POR,,N. Little,POR,Little P.FOUL (P2.PN) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2223-G0130,2,00:33.900000,PHX,45.0,POR,59.0,N. Little,POR,Little 25' 3PT Jump Shot (10 PTS) (Winslow 5 AST),Made Shot,Jump Shot,-202,152,25,1,3.0,3.0,v
+S2223-G0130,4,10:11,PHX,,POR,,N. Little,POR,Little OFF.Foul (P3) (M.Kallio),Foul,Offensive,0,0,0,0,,,v
+S2223-G0130,4,10:11,PHX,,POR,,N. Little,POR,Little Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0130,4,09:00,PHX,,POR,,N. Little,POR,MISS Little 28' 3PT Jump Shot,Missed Shot,Jump Shot,-59,270,28,1,3.0,0.0,v
+S2223-G0130,4,08:23,PHX,84.0,POR,92.0,N. Little,POR,Little 20' Pullup Jump Shot (12 PTS) (Winslow 7 AST),Made Shot,Pullup Jump shot,-22,201,20,1,2.0,2.0,v
+S2223-G0130,4,07:46,PHX,,POR,,N. Little,POR,SUB: Hart FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0872,1,02:22,POR,,WAS,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,176,197,26,1,3.0,0.0,h
+S2223-G0872,1,01:06,POR,,WAS,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0872,1,00:30.300000,POR,,WAS,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,-232,105,25,1,3.0,0.0,h
+S2223-G0872,2,10:37,POR,,WAS,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,-227,109,25,1,3.0,0.0,h
+S2223-G0872,2,08:56,POR,,WAS,,N. Little,POR,SUB: Simons FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0872,2,01:35,POR,,WAS,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,-96,239,26,1,3.0,0.0,h
+S2223-G0872,2,01:05,POR,,WAS,,N. Little,POR,Little REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0872,2,00:17.200000,POR,,WAS,,N. Little,POR,Little REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0872,2,00:04.300000,POR,,WAS,,N. Little,POR,Little Personal Take Foul (P1.T2) (D.Taylor),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0872,3,04:52,POR,,WAS,,N. Little,POR,Little REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0872,3,04:46,POR,,WAS,,N. Little,POR,MISS Little 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-143,227,27,1,3.0,0.0,h
+S2223-G0872,3,03:50,POR,,WAS,,N. Little,POR,Little REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0872,3,00:01.900000,POR,,WAS,,N. Little,POR,MISS Little Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0872,3,00:01.900000,POR,74.0,WAS,94.0,N. Little,POR,Little Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0014,2,11:28,SAC,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0014,2,10:19,SAC,,POR,,N. Little,POR,MISS Little 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-3,24,1,3.0,0.0,v
+S2223-G0014,2,09:43,SAC,,POR,,N. Little,POR,Little STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0014,2,09:42,SAC,,POR,,N. Little,POR,MISS Little Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0014,2,09:42,SAC,,POR,,N. Little,POR,MISS Little Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0014,2,09:11,SAC,,POR,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0014,3,00:12.100000,SAC,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0014,4,09:19,SAC,,POR,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,121,229,26,1,3.0,0.0,v
+S2223-G0014,4,08:11,SAC,,POR,,N. Little,POR,SUB: Lillard FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0917,1,03:33,POR,25.0,HOU,21.0,N. Little,POR,Little 25' 3PT Jump Shot (3 PTS) (Thybulle 1 AST),Made Shot,Jump Shot,183,169,25,1,3.0,3.0,h
+S2223-G0917,1,03:13,POR,,HOU,,N. Little,POR,Little S.FOUL (P1.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0917,1,01:04,POR,,HOU,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0917,1,00:11.400000,POR,31.0,HOU,31.0,N. Little,POR,Little Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0917,1,00:11.400000,POR,32.0,HOU,31.0,N. Little,POR,Little Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0917,2,11:40,POR,,HOU,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0917,2,10:59,POR,,HOU,,N. Little,POR,Little REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0917,2,10:44,POR,,HOU,,N. Little,POR,Little REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0917,2,10:24,POR,39.0,HOU,33.0,N. Little,POR,Little 3PT Pullup Jump Shot (8 PTS) (Johnson 1 AST),Made Shot,Pullup Jump shot,-229,37,0,1,3.0,3.0,h
+S2223-G0917,2,09:44,POR,,HOU,,N. Little,POR,Little REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0917,2,07:13,POR,,HOU,,N. Little,POR,Little REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0917,2,05:39,POR,,HOU,,N. Little,POR,Little REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0917,2,05:05,POR,,HOU,,N. Little,POR,SUB: Reddish FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0917,3,02:29,POR,,HOU,,N. Little,POR,Little BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0917,3,02:10,POR,,HOU,,N. Little,POR,Little REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0917,3,01:29,POR,100.0,HOU,83.0,N. Little,POR,Little 26' 3PT Jump Shot (11 PTS) (Johnson 2 AST),Made Shot,Jump Shot,-178,195,26,1,3.0,3.0,h
+S2223-G0917,3,00:42.700000,POR,,HOU,,N. Little,POR,Little S.FOUL (P2.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0917,3,00:16.800000,POR,,HOU,,N. Little,POR,Little REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0917,4,10:40,POR,,HOU,,N. Little,POR,SUB: Reddish FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0311,1,01:13,POR,,LAC,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0311,2,10:19,POR,,LAC,,N. Little,POR,MISS Little Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0311,2,10:19,POR,33.0,LAC,31.0,N. Little,POR,Little Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0311,2,08:37,POR,,LAC,,N. Little,POR,SUB: Simons FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0311,4,09:07,POR,,LAC,,N. Little,POR,Little Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0311,4,08:58,POR,,LAC,,N. Little,POR,SUB: Simons FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0080,1,03:19,POR,,HOU,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0080,1,01:47,POR,,HOU,,N. Little,POR,Little P.FOUL (P1.T1) (J.Butler),Foul,Personal,0,0,0,0,,,h
+S2223-G0080,1,01:40,POR,,HOU,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0080,1,01:35,POR,,HOU,,N. Little,POR,MISS Little 1' Running Layup,Missed Shot,Running Layup Shot,-10,6,1,1,2.0,0.0,h
+S2223-G0080,1,00:40.100000,POR,32.0,HOU,18.0,N. Little,POR,Little 26' 3PT Pullup Jump Shot (3 PTS) (Winslow 3 AST),Made Shot,Pullup Jump shot,-6,256,26,1,3.0,3.0,h
+S2223-G0080,2,09:22,POR,,HOU,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0080,3,00:49.600000,POR,,HOU,,N. Little,POR,Little Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0080,4,10:27,POR,,HOU,,N. Little,POR,Little REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0080,4,08:47,POR,,HOU,,N. Little,POR,MISS Little 28' 3PT Jump Shot,Missed Shot,Jump Shot,-114,257,28,1,3.0,0.0,h
+S2223-G0080,4,07:15,POR,,HOU,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0238,1,00:30.400000,POR,,UTA,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0238,2,11:24,POR,26.0,UTA,20.0,N. Little,POR,Little 26' 3PT Jump Shot (3 PTS) (Simons 4 AST),Made Shot,Jump Shot,173,188,26,1,3.0,3.0,h
+S2223-G0238,2,09:49,POR,,UTA,,N. Little,POR,Little STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0238,2,08:54,POR,,UTA,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0238,4,10:52,POR,,UTA,,N. Little,POR,Little REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0238,4,10:50,POR,83.0,UTA,89.0,N. Little,POR,Little 1' Layup (5 PTS),Made Shot,Layup Shot,11,2,1,1,2.0,2.0,h
+S2223-G0238,4,09:56,POR,86.0,UTA,94.0,N. Little,POR,Little 25' 3PT Jump Shot (8 PTS) (Winslow 3 AST),Made Shot,Jump Shot,-200,152,25,1,3.0,3.0,h
+S2223-G0238,4,08:32,POR,,UTA,,N. Little,POR,Little REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0238,4,08:22,POR,,UTA,,N. Little,POR,SUB: Hart FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0941,1,03:36,POR,,NOP,,N. Little,POR,Little Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0941,1,03:01,POR,,NOP,,N. Little,POR,Little S.FOUL (P1.T4) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0941,1,02:46,POR,,NOP,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,-138,203,25,1,3.0,0.0,h
+S2223-G0941,2,11:02,POR,,NOP,,N. Little,POR,Little REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0941,2,11:02,POR,,NOP,,N. Little,POR,MISS Little 6' Driving Layup,Missed Shot,Driving Layup Shot,10,55,6,1,2.0,0.0,h
+S2223-G0941,2,09:29,POR,,NOP,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,161,199,26,1,3.0,0.0,h
+S2223-G0941,2,08:36,POR,,NOP,,N. Little,POR,Little S.FOUL (P2.T2) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0941,2,07:28,POR,,NOP,,N. Little,POR,Little REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0941,2,07:13,POR,,NOP,,N. Little,POR,Little REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0941,2,05:58,POR,,NOP,,N. Little,POR,SUB: Reddish FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0941,3,00:49.200000,POR,,NOP,,N. Little,POR,Little S.FOUL (P3.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0941,3,00:21.200000,POR,,NOP,,N. Little,POR,SUB: Lillard FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G0941,4,04:29,POR,,NOP,,N. Little,POR,MISS Little 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-153,207,26,1,3.0,0.0,h
+S2223-G0150,1,02:13,MIA,22.0,POR,24.0,N. Little,POR,Little 24' 3PT Jump Shot (3 PTS) (Grant 2 AST),Made Shot,Jump Shot,-238,10,24,1,3.0,3.0,v
+S2223-G0150,2,11:36,MIA,,POR,,N. Little,POR,MISS Little 28' 3PT Jump Shot,Missed Shot,Jump Shot,-181,210,28,1,3.0,0.0,v
+S2223-G0150,2,09:33,MIA,,POR,,N. Little,POR,SUB: Lillard FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0150,4,05:29,MIA,96.0,POR,89.0,N. Little,POR,Little 26' 3PT Jump Shot (6 PTS) (Hart 5 AST),Made Shot,Jump Shot,161,203,26,1,3.0,3.0,v
+S2223-G0150,4,04:58,MIA,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0150,4,04:53,MIA,,POR,,N. Little,POR,Little S.FOUL (P1.T2) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2223-G0150,4,04:53,MIA,,POR,,N. Little,POR,SUB: Simons FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0977,1,04:04,DET,11.0,POR,19.0,N. Little,POR,Little 2' Driving Layup (2 PTS) (Lillard 2 AST),Made Shot,Driving Layup Shot,-21,4,2,1,2.0,2.0,v
+S2223-G0977,2,10:30,DET,,POR,,N. Little,POR,MISS Little 4' Running Layup,Missed Shot,Running Layup Shot,33,13,4,1,2.0,0.0,v
+S2223-G0977,2,09:14,DET,,POR,,N. Little,POR,Little P.FOUL (P1.T1) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2223-G0977,2,08:52,DET,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0977,2,08:34,DET,,POR,,N. Little,POR,Little STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0977,2,07:52,DET,24.0,POR,38.0,N. Little,POR,Little 2' Driving Layup (4 PTS) (Eubanks 1 AST),Made Shot,Driving Layup Shot,-17,15,2,1,2.0,2.0,v
+S2223-G0977,2,06:37,DET,,POR,,N. Little,POR,Little REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0977,2,06:33,DET,,POR,,N. Little,POR,SUB: Thybulle FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0977,3,01:10,DET,70.0,POR,89.0,N. Little,POR,Little 27' 3PT Jump Shot (7 PTS) (Reddish 5 AST),Made Shot,Jump Shot,183,197,27,1,3.0,3.0,v
+S2223-G0977,4,11:33,DET,76.0,POR,91.0,N. Little,POR,Little 4' Driving Dunk (9 PTS) (Watford 1 AST),Made Shot,Driving Dunk Shot,-26,32,4,1,2.0,2.0,v
+S2223-G0977,4,10:51,DET,,POR,,N. Little,POR,MISS Little 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-156,212,26,1,3.0,0.0,v
+S2223-G0977,4,10:14,DET,,POR,,N. Little,POR,SUB: Lillard FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0998,1,00:01.400000,PHI,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0998,1,00:01.200000,PHI,,POR,,N. Little,POR,MISS Little 3' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-17,28,3,1,2.0,0.0,v
+S2223-G0998,2,11:37,PHI,,POR,,N. Little,POR,Little REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0998,2,08:43,PHI,,POR,,N. Little,POR,Little Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0998,2,08:40,PHI,,POR,,N. Little,POR,SUB: Sharpe FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G0998,4,10:30,PHI,,POR,,N. Little,POR,Little P.FOUL (P1.T1) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2223-G0998,4,09:05,PHI,,POR,,N. Little,POR,MISS Little 26' 3PT Jump Shot,Missed Shot,Jump Shot,165,197,26,1,3.0,0.0,v
+S2223-G0998,4,08:52,PHI,,POR,,N. Little,POR,Little S.FOUL (P2.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0998,4,08:52,PHI,,POR,,N. Little,POR,SUB: Grant FOR Little,Substitution,,0,0,0,0,,,v
+S2223-G1034,1,03:12,POR,,NYK,,N. Little,POR,MISS Little 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-27,120,12,1,2.0,0.0,h
+S2223-G1034,2,10:22,POR,,NYK,,N. Little,POR,SUB: Nurkic FOR Little,Substitution,,0,0,0,0,,,h
+S2223-G1034,3,03:32,POR,,NYK,,N. Little,POR,MISS Little 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,82,40,9,1,2.0,0.0,h
+S2223-G1034,3,02:54,POR,,NYK,,N. Little,POR,MISS Little 25' 3PT Jump Shot,Missed Shot,Jump Shot,-203,146,25,1,3.0,0.0,h
+S2223-G1034,3,01:24,POR,,NYK,,N. Little,POR,MISS Little 3' Driving Dunk,Missed Shot,Driving Dunk Shot,2,25,3,1,2.0,0.0,h
+S2223-G1034,3,01:20,POR,,NYK,,N. Little,POR,Little REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1034,3,01:14,POR,,NYK,,N. Little,POR,MISS Little 5' Putback Layup,Missed Shot,Putback Layup Shot,31,36,5,1,2.0,0.0,h
+S2223-G1034,3,01:08,POR,,NYK,,N. Little,POR,Little T.FOUL (P0.PN) (T.Maddox),Foul,Technical,0,0,0,0,,,h

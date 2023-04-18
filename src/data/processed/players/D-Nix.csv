@@ -1,0 +1,655 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0165,2,10:34,TOR,,HOU,,D. Nix,HOU,Nix Violation:Kicked Ball (T.Maddox),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0165,2,09:59,TOR,,HOU,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0165,2,09:47,TOR,,HOU,,D. Nix,HOU,Nix STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0165,2,09:35,TOR,,HOU,,D. Nix,HOU,Nix S.FOUL (P1.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0165,2,09:07,TOR,,HOU,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0165,4,09:48,TOR,87.0,HOU,89.0,D. Nix,HOU,Nix 27' 3PT Jump Shot (3 PTS) (Eason 3 AST),Made Shot,Jump Shot,0,265,27,1,3.0,3.0,v
+S2223-G0165,4,09:01,TOR,,HOU,,D. Nix,HOU,Nix S.FOUL (P2.T2) (D.Mosher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0165,4,08:49,TOR,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0165,4,08:39,TOR,,HOU,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0743,1,11:34,DET,,HOU,,D. Nix,HOU,Nix S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0743,1,07:48,DET,,HOU,,D. Nix,HOU,MISS Nix 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-53,153,16,1,2.0,0.0,v
+S2223-G0743,1,07:25,DET,,HOU,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,-232,96,25,1,3.0,0.0,v
+S2223-G0743,1,06:34,DET,,HOU,,D. Nix,HOU,SUB: Washington Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0743,1,02:40,DET,,HOU,,D. Nix,HOU,MISS Nix 6' Driving Layup,Missed Shot,Driving Layup Shot,-6,57,6,1,2.0,0.0,v
+S2223-G0743,1,01:36,DET,,HOU,,D. Nix,HOU,MISS Nix Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0743,1,01:36,DET,34.0,HOU,21.0,D. Nix,HOU,Nix Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0743,1,00:25,DET,,HOU,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0743,2,11:40,DET,,HOU,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,48,247,25,1,3.0,0.0,v
+S2223-G0743,2,07:59,DET,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0743,2,07:53,DET,,HOU,,D. Nix,HOU,SUB: Smith Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0743,3,11:08,DET,57.0,HOU,60.0,D. Nix,HOU,Nix Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0743,3,11:08,DET,57.0,HOU,61.0,D. Nix,HOU,Nix Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0743,3,08:07,DET,,HOU,,D. Nix,HOU,Nix Traveling Turnover (P2.T9),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0743,3,07:37,DET,,HOU,,D. Nix,HOU,Nix S.FOUL (P2.T3) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0743,3,06:58,DET,,HOU,,D. Nix,HOU,SUB: Tate FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0743,4,11:44,DET,,HOU,,D. Nix,HOU,Nix S.FOUL (P3.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0743,4,08:42,DET,92.0,HOU,90.0,D. Nix,HOU,Nix 28' 3PT Jump Shot (6 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,132,251,28,1,3.0,3.0,v
+S2223-G0743,4,07:01,DET,,HOU,,D. Nix,HOU,Nix Lost Ball Turnover (P3.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0743,4,04:47,DET,103.0,HOU,103.0,D. Nix,HOU,Nix 26' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,129,222,26,1,3.0,3.0,v
+S2223-G0743,4,02:36,DET,,HOU,,D. Nix,HOU,SUB: Smith Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0305,1,02:29,DEN,,HOU,,D. Nix,HOU,Nix S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0305,2,11:39,DEN,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0305,2,10:09,DEN,,HOU,,D. Nix,HOU,Nix P.FOUL (P2.T1) (M.Dagher),Foul,Personal,0,0,0,0,,,v
+S2223-G0305,2,09:07,DEN,44.0,HOU,44.0,D. Nix,HOU,Nix 25' 3PT Jump Shot (3 PTS) (Sengun 2 AST),Made Shot,Jump Shot,-105,222,25,1,3.0,3.0,v
+S2223-G0305,2,08:14,DEN,,HOU,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0305,4,11:24,DEN,,HOU,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,216,118,25,1,3.0,0.0,v
+S2223-G0305,4,10:01,DEN,110.0,HOU,93.0,D. Nix,HOU,Nix Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0305,4,10:01,DEN,110.0,HOU,94.0,D. Nix,HOU,Nix Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0305,4,04:20,DEN,,HOU,,D. Nix,HOU,Nix Out of Bounds - Bad Pass Turnover Turnover (P1.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0305,4,01:36,DEN,125.0,HOU,108.0,D. Nix,HOU,Nix 5' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,-43,27,5,1,2.0,2.0,v
+S2223-G0094,1,02:02,PHX,,HOU,,D. Nix,HOU,Nix Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0094,1,00:00.500000,PHX,,HOU,,D. Nix,HOU,Nix S.FOUL (P1.PN) (I.Hwang),Foul,Shooting,0,0,0,0,,,v
+S2223-G0094,2,04:24,PHX,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0094,2,03:59,PHX,,HOU,,D. Nix,HOU,SUB: Martin Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0094,3,04:43,PHX,,HOU,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,78,242,25,1,3.0,0.0,v
+S2223-G0094,3,02:35,PHX,,HOU,,D. Nix,HOU,MISS Nix 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,2,10,1,1,2.0,0.0,v
+S2223-G0094,3,02:26,PHX,,HOU,,D. Nix,HOU,Nix REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0094,3,00:28.300000,PHX,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0145,1,00:30.300000,ORL,,HOU,,D. Nix,HOU,Nix P.FOUL (P1.T2) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0145,2,08:11,ORL,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0145,2,08:01,ORL,,HOU,,D. Nix,HOU,MISS Nix 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,-10,24,1,3.0,0.0,v
+S2223-G0145,2,07:48,ORL,,HOU,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0145,3,00:06.900000,ORL,,HOU,,D. Nix,HOU,MISS Nix 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-38,51,6,1,2.0,0.0,v
+S2223-G0145,4,08:56,ORL,100.0,HOU,109.0,D. Nix,HOU,Nix 25' 3PT Jump Shot (3 PTS) (Porter Jr. 8 AST),Made Shot,Jump Shot,161,195,25,1,3.0,3.0,v
+S2223-G0145,4,08:27,ORL,,HOU,,D. Nix,HOU,SUB: Martin Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0112,1,03:40,HOU,8.0,LAC,23.0,D. Nix,HOU,Nix 26' 3PT Jump Shot (3 PTS) (Eason 1 AST),Made Shot,Jump Shot,141,220,26,1,3.0,3.0,h
+S2223-G0112,1,02:18,HOU,,LAC,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0112,1,02:14,HOU,13.0,LAC,24.0,D. Nix,HOU,Nix 27' 3PT Running Jump Shot (6 PTS) (Eason 2 AST),Made Shot,Running Jump Shot,-183,203,27,1,3.0,3.0,h
+S2223-G0112,1,00:40.800000,HOU,,LAC,,D. Nix,HOU,MISS Nix 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-176,188,26,1,3.0,0.0,h
+S2223-G0112,2,11:34,HOU,,LAC,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0112,2,10:10,HOU,,LAC,,D. Nix,HOU,MISS Nix 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,55,6,1,2.0,0.0,h
+S2223-G0112,2,09:50,HOU,,LAC,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0112,2,09:14,HOU,,LAC,,D. Nix,HOU,SUB: Mathews FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0112,3,02:34,HOU,77.0,LAC,78.0,D. Nix,HOU,Nix 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,99,243,26,1,3.0,3.0,h
+S2223-G0112,3,00:48.700000,HOU,,LAC,,D. Nix,HOU,MISS Nix 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,37,42,6,1,2.0,0.0,h
+S2223-G0112,4,09:47,HOU,82.0,LAC,88.0,D. Nix,HOU,Nix 26' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,164,200,26,1,3.0,3.0,h
+S2223-G0112,4,05:57,HOU,,LAC,,D. Nix,HOU,Nix S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0112,4,05:34,HOU,,LAC,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0112,4,04:53,HOU,,LAC,,D. Nix,HOU,Nix REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0112,4,04:14,HOU,,LAC,,D. Nix,HOU,MISS Nix 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,26,24,1,3.0,0.0,h
+S2223-G0112,4,03:35,HOU,,LAC,,D. Nix,HOU,SUB: Eason FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0411,1,02:26,HOU,22.0,PHX,15.0,D. Nix,HOU,Nix 3PT Jump Shot (3 PTS) (Green 1 AST),Made Shot,Jump Shot,232,16,0,1,3.0,3.0,h
+S2223-G0411,1,00:59.300000,HOU,25.0,PHX,20.0,D. Nix,HOU,Nix 26' 3PT Jump Shot (6 PTS) (Green 2 AST),Made Shot,Jump Shot,147,219,26,1,3.0,3.0,h
+S2223-G0411,2,10:46,HOU,,PHX,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0411,2,10:37,HOU,,PHX,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,-162,194,25,1,3.0,0.0,h
+S2223-G0411,2,09:37,HOU,,PHX,,D. Nix,HOU,Nix Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0411,2,07:12,HOU,,PHX,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0411,3,01:36,HOU,,PHX,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0411,3,01:03,HOU,81.0,PHX,65.0,D. Nix,HOU,Nix Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0411,3,01:03,HOU,82.0,PHX,65.0,D. Nix,HOU,Nix Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0411,3,00:04.200000,HOU,,PHX,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0411,3,00:00.100000,HOU,,PHX,,D. Nix,HOU,Nix Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0411,4,11:47,HOU,,PHX,,D. Nix,HOU,Nix REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0411,4,10:03,HOU,,PHX,,D. Nix,HOU,Nix REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0411,4,08:31,HOU,,PHX,,D. Nix,HOU,Nix Lost Ball Turnover (P3.T20),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0411,4,08:14,HOU,,PHX,,D. Nix,HOU,Nix Bad Pass Turnover (P4.T21),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0411,4,08:02,HOU,,PHX,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0191,1,01:34,NOP,,HOU,,D. Nix,HOU,Nix Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0191,3,02:49,NOP,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0191,3,01:32,NOP,,HOU,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0191,3,00:40.400000,NOP,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0191,3,00:01.100000,NOP,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P2.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0191,4,11:19,NOP,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0191,4,09:52,NOP,,HOU,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0938,2,01:09,HOU,,MEM,,D. Nix,HOU,MISS Nix 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-2,253,25,1,3.0,0.0,h
+S2223-G0938,2,00:47.600000,HOU,,MEM,,D. Nix,HOU,Nix S.FOUL (P1.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0938,3,00:45,HOU,,MEM,,D. Nix,HOU,MISS Nix 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-162,206,26,1,3.0,0.0,h
+S2223-G0938,4,09:40,HOU,,MEM,,D. Nix,HOU,MISS Nix 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,13,47,5,1,2.0,0.0,h
+S2223-G0938,4,09:39,HOU,,MEM,,D. Nix,HOU,Nix REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0938,4,09:39,HOU,74.0,MEM,93.0,D. Nix,HOU,Nix Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0938,4,09:39,HOU,,MEM,,D. Nix,HOU,MISS Nix Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0938,4,09:13,HOU,,MEM,,D. Nix,HOU,Nix Inbound Turnover (P1.T10),Turnover,Inbound Turnover,0,0,0,0,,,h
+S2223-G0938,4,07:31,HOU,,MEM,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0938,4,00:56.800000,HOU,,MEM,,D. Nix,HOU,Nix REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1124,2,09:09,NYK,,HOU,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,26,248,25,1,3.0,0.0,v
+S2223-G1124,2,06:30,NYK,,HOU,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G1124,4,11:14,NYK,,HOU,,D. Nix,HOU,Nix S.FOUL (P1.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G1124,4,10:56,NYK,,HOU,,D. Nix,HOU,Nix Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1124,4,10:28,NYK,,HOU,,D. Nix,HOU,Nix REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1124,4,09:50,NYK,,HOU,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G1124,4,04:31,NYK,,HOU,,D. Nix,HOU,Nix REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1124,4,01:43,NYK,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,-195,170,26,1,3.0,0.0,v
+S2223-G0959,1,03:09,SAS,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,-188,185,26,1,3.0,0.0,v
+S2223-G0959,1,02:32,SAS,,HOU,,D. Nix,HOU,MISS Nix 1' Layup,Missed Shot,Layup Shot,-11,9,1,1,2.0,0.0,v
+S2223-G0959,2,10:36,SAS,34.0,HOU,35.0,D. Nix,HOU,Nix 1' Driving Layup (2 PTS) (Martin Jr. 1 AST),Made Shot,Driving Layup Shot,-11,0,1,1,2.0,2.0,v
+S2223-G0959,2,10:12,SAS,,HOU,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0959,3,03:34,SAS,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0959,3,01:53,SAS,84.0,HOU,91.0,D. Nix,HOU,Nix 12' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,6,121,12,1,2.0,2.0,v
+S2223-G0959,4,11:18,SAS,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,146,217,26,1,3.0,0.0,v
+S2223-G0959,4,10:35,SAS,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0959,4,10:08,SAS,,HOU,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0959,4,10:07,SAS,94.0,HOU,107.0,D. Nix,HOU,Nix 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,13,13,2,1,2.0,2.0,v
+S2223-G0959,4,08:26,SAS,96.0,HOU,109.0,D. Nix,HOU,Nix 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,-13,22,3,1,2.0,2.0,v
+S2223-G0959,4,07:29,SAS,,HOU,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0342,1,02:49,GSW,,HOU,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,-145,209,25,1,3.0,0.0,v
+S2223-G0342,1,02:25,GSW,,HOU,,D. Nix,HOU,Nix Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0342,1,01:33,GSW,,HOU,,D. Nix,HOU,Nix Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0342,2,11:21,GSW,,HOU,,D. Nix,HOU,MISS Nix 8' Driving Layup,Missed Shot,Driving Layup Shot,66,50,8,1,2.0,0.0,v
+S2223-G0342,2,11:21,GSW,,HOU,,D. Nix,HOU,Nix REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0342,2,11:15,GSW,,HOU,,D. Nix,HOU,MISS Nix 3PT Jump Shot,Missed Shot,Jump Shot,230,14,0,1,3.0,0.0,v
+S2223-G0342,2,09:56,GSW,,HOU,,D. Nix,HOU,Nix REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0342,2,08:15,GSW,,HOU,,D. Nix,HOU,Nix REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0342,2,07:23,GSW,,HOU,,D. Nix,HOU,SUB: Fernando FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0342,3,02:22,GSW,,HOU,,D. Nix,HOU,MISS Nix 27' 3PT Jump Shot,Missed Shot,Jump Shot,132,231,27,1,3.0,0.0,v
+S2223-G0342,3,01:57,GSW,91.0,HOU,77.0,D. Nix,HOU,Nix 5' Driving Layup (2 PTS) (Mathews 2 AST),Made Shot,Driving Layup Shot,-42,32,5,1,2.0,2.0,v
+S2223-G0342,3,00:36.700000,GSW,,HOU,,D. Nix,HOU,MISS Nix Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0342,3,00:36.700000,GSW,94.0,HOU,80.0,D. Nix,HOU,Nix Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0342,4,09:56,GSW,,HOU,,D. Nix,HOU,Nix REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0342,4,08:49,GSW,,HOU,,D. Nix,HOU,MISS Nix 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,118,239,27,1,3.0,0.0,v
+S2223-G0342,4,08:09,GSW,100.0,HOU,94.0,D. Nix,HOU,Nix 26' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,-141,218,26,1,3.0,3.0,v
+S2223-G0342,4,06:32,GSW,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,151,216,26,1,3.0,0.0,v
+S2223-G0342,4,06:04,GSW,,HOU,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0342,4,00:46.100000,GSW,,HOU,,D. Nix,HOU,Nix OFF.Foul (P1) (B.Nansel),Foul,Offensive,0,0,0,0,,,v
+S2223-G0342,4,00:46.100000,GSW,,HOU,,D. Nix,HOU,Nix Offensive Foul Turnover (P3.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0840,1,05:04,MIA,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0840,1,01:39,MIA,,HOU,,D. Nix,HOU,Nix P.FOUL (P1.T4) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0840,1,00:31.800000,MIA,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,203,157,26,1,3.0,0.0,v
+S2223-G0840,1,00:10.300000,MIA,,HOU,,D. Nix,HOU,Nix S.FOUL (P2.PN) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0840,1,00:10.300000,MIA,,HOU,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0840,3,06:27,MIA,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0840,3,02:41,MIA,73.0,HOU,71.0,D. Nix,HOU,Nix 25' 3PT Jump Shot (3 PTS) (Washington Jr. 4 AST),Made Shot,Jump Shot,216,131,25,1,3.0,3.0,v
+S2223-G0840,3,02:14,MIA,,HOU,,D. Nix,HOU,Nix Violation:Kicked Ball (P.Ransom),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0840,3,01:23,MIA,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0840,3,00:13.200000,MIA,75.0,HOU,73.0,D. Nix,HOU,Nix 4' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,-25,36,4,1,2.0,2.0,v
+S2223-G0840,3,00:00,MIA,,HOU,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0840,4,00:07,MIA,,HOU,,D. Nix,HOU,SUB: Sengun FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0401,2,10:17,HOU,,,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,-29,253,25,1,3.0,0.0,h
+S2223-G0401,2,10:05,HOU,,,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0401,2,10:00,HOU,26.0,,25.0,D. Nix,HOU,Nix 1' Running Layup (2 PTS) (Smith Jr. 1 AST),Made Shot,Running Layup Shot,13,5,1,1,2.0,2.0,h
+S2223-G0401,2,09:08,HOU,,,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0401,3,02:51,HOU,70.0,,70.0,D. Nix,HOU,Nix 26' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,-199,165,26,1,3.0,3.0,h
+S2223-G0401,3,00:30,HOU,,,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0401,3,00:01,HOU,,,,D. Nix,HOU,MISS Nix 50' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,172,472,50,1,3.0,0.0,h
+S2223-G0401,4,10:13,HOU,,,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0102,2,11:04,LAC,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0102,2,10:21,LAC,,HOU,,D. Nix,HOU,MISS Nix 27' 3PT Jump Shot,Missed Shot,Jump Shot,162,214,27,1,3.0,0.0,v
+S2223-G0102,2,09:56,LAC,,HOU,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0102,2,09:51,LAC,,HOU,,D. Nix,HOU,Nix REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0102,2,08:58,LAC,,HOU,,D. Nix,HOU,MISS Nix 5' Driving Layup,Missed Shot,Driving Layup Shot,22,48,5,1,2.0,0.0,v
+S2223-G0102,2,05:53,LAC,37.0,HOU,35.0,D. Nix,HOU,Nix 25' 3PT Pullup Jump Shot (3 PTS) (Martin Jr. 1 AST),Made Shot,Pullup Jump shot,47,246,25,1,3.0,3.0,v
+S2223-G0102,2,05:51,LAC,,HOU,,D. Nix,HOU,SUB: Sengun FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0572,4,04:06,NOP,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0572,4,00:27.100000,NOP,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0773,1,07:34,HOU,,OKC,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0773,1,06:26,HOU,,OKC,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0773,1,06:03,HOU,,OKC,,D. Nix,HOU,Nix REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0773,1,03:59,HOU,,OKC,,D. Nix,HOU,MISS Nix 27' 3PT Jump Shot,Missed Shot,Jump Shot,185,190,27,1,3.0,0.0,h
+S2223-G0773,1,03:53,HOU,,OKC,,D. Nix,HOU,MISS Nix 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,17,8,2,1,2.0,0.0,h
+S2223-G0773,1,02:13,HOU,,OKC,,D. Nix,HOU,SUB: Fernando FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0773,2,05:54,HOU,,OKC,,D. Nix,HOU,Nix REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0773,2,03:09,HOU,,OKC,,D. Nix,HOU,Nix BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0773,2,02:19,HOU,,OKC,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,189,170,25,1,3.0,0.0,h
+S2223-G0773,2,02:04,HOU,,OKC,,D. Nix,HOU,Nix REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0773,2,00:35,HOU,65.0,OKC,55.0,D. Nix,HOU,Nix 2' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,21,1,2,1,2.0,2.0,h
+S2223-G0773,2,00:05,HOU,66.0,OKC,58.0,D. Nix,HOU,Nix Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0773,2,00:05,HOU,67.0,OKC,58.0,D. Nix,HOU,Nix Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0773,3,09:16,HOU,,OKC,,D. Nix,HOU,Nix REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0773,3,07:54,HOU,,OKC,,D. Nix,HOU,Nix S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0773,3,05:44,HOU,,OKC,,D. Nix,HOU,Nix REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0773,3,05:14,HOU,,OKC,,D. Nix,HOU,MISS Nix 3' Layup,Missed Shot,Layup Shot,26,4,3,1,2.0,0.0,h
+S2223-G0773,3,04:00,HOU,,OKC,,D. Nix,HOU,Nix BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0773,3,02:57,HOU,,OKC,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0773,3,02:40,HOU,,OKC,,D. Nix,HOU,MISS Nix 27' 3PT Jump Shot,Missed Shot,Jump Shot,222,145,27,1,3.0,0.0,h
+S2223-G0773,3,02:11,HOU,79.0,OKC,79.0,D. Nix,HOU,Nix 4' Driving Layup (6 PTS) (Eason 1 AST),Made Shot,Driving Layup Shot,39,19,4,1,2.0,2.0,h
+S2223-G0773,3,01:38,HOU,,OKC,,D. Nix,HOU,SUB: Gordon FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0773,4,02:27,HOU,,OKC,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,-135,221,26,1,3.0,0.0,h
+S2223-G0773,4,01:02,HOU,107.0,OKC,100.0,D. Nix,HOU,Nix 3' Driving Layup (8 PTS) (Tate 3 AST),Made Shot,Driving Layup Shot,-29,-4,3,1,2.0,2.0,h
+S2223-G0334,1,02:26,PHX,,HOU,,D. Nix,HOU,Nix REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0334,1,02:24,PHX,28.0,HOU,20.0,D. Nix,HOU,Nix 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,12,9,2,1,2.0,2.0,v
+S2223-G0334,1,02:24,PHX,28.0,HOU,21.0,D. Nix,HOU,Nix Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0334,2,11:46,PHX,,HOU,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0334,2,11:36,PHX,,HOU,,D. Nix,HOU,Nix P.FOUL (P1.T1) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2223-G0334,2,09:56,PHX,,HOU,,D. Nix,HOU,MISS Nix 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-47,25,5,1,2.0,0.0,v
+S2223-G0334,2,09:35,PHX,,HOU,,D. Nix,HOU,Nix REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0334,2,08:22,PHX,,HOU,,D. Nix,HOU,Nix REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0334,2,06:11,PHX,,HOU,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0334,3,06:02,PHX,,HOU,,D. Nix,HOU,Nix REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0334,3,01:56,PHX,,HOU,,D. Nix,HOU,Nix REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0733,1,00:00.700000,HOU,,CLE,,D. Nix,HOU,MISS Nix 5' Running Layup,Missed Shot,Running Layup Shot,-45,17,5,1,2.0,0.0,h
+S2223-G0733,2,10:39,HOU,,CLE,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0733,2,05:45,HOU,,CLE,,D. Nix,HOU,SUB: Martin Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0733,4,10:59,HOU,,CLE,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0733,4,10:53,HOU,,CLE,,D. Nix,HOU,MISS Nix 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-23,8,2,1,2.0,0.0,h
+S2223-G0733,4,09:49,HOU,,CLE,,D. Nix,HOU,Nix Lost Ball Turnover (P1.T19),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0733,4,07:50,HOU,82.0,CLE,103.0,D. Nix,HOU,Nix 25' 3PT Jump Shot (3 PTS) (Fernando 1 AST),Made Shot,Jump Shot,100,230,25,1,3.0,3.0,h
+S2223-G0733,4,04:40,HOU,,CLE,,D. Nix,HOU,MISS Nix 3PT Jump Shot,Missed Shot,Jump Shot,224,43,0,1,3.0,0.0,h
+S2223-G0733,4,04:16,HOU,,CLE,,D. Nix,HOU,Nix Bad Pass Turnover (P2.T21),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1088,1,00:00,MEM,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1088,2,08:07,MEM,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-94,239,26,1,3.0,0.0,v
+S2223-G1088,2,06:59,MEM,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1088,2,05:24,MEM,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,-212,142,26,1,3.0,0.0,v
+S2223-G1088,2,05:17,MEM,,HOU,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,-194,157,25,1,3.0,0.0,v
+S2223-G1088,2,04:45,MEM,,HOU,,D. Nix,HOU,SUB: Sengun FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G1088,4,10:57,MEM,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1088,4,10:25,MEM,,HOU,,D. Nix,HOU,Nix OFF.Foul (P1) (P.Fraher),Foul,Offensive,0,0,0,0,,,v
+S2223-G1088,4,10:25,MEM,,HOU,,D. Nix,HOU,Nix Offensive Foul Turnover (P3.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1088,4,10:18,MEM,,HOU,,D. Nix,HOU,Nix T.FOUL (P1.T2) (S.Corbin),Foul,Technical,0,0,0,0,,,v
+S2223-G1088,4,10:09,MEM,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1088,4,08:57,MEM,,HOU,,D. Nix,HOU,MISS Nix 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,71,27,8,1,2.0,0.0,v
+S2223-G1088,4,06:04,MEM,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P4.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1088,4,05:33,MEM,,HOU,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0375,1,00:00,SAS,,HOU,,D. Nix,HOU,MISS Nix 21' Jump Shot,Missed Shot,Jump Shot,174,120,21,1,2.0,0.0,v
+S2223-G0375,2,10:42,SAS,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,-210,148,26,1,3.0,0.0,v
+S2223-G0375,2,09:57,SAS,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0375,2,09:16,SAS,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,189,177,26,1,3.0,0.0,v
+S2223-G0375,2,06:20,SAS,,HOU,,D. Nix,HOU,Nix P.FOUL (P1.T1) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2223-G0375,2,06:20,SAS,,HOU,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0375,3,01:48,SAS,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,-86,248,26,1,3.0,0.0,v
+S2223-G0375,3,01:24,SAS,85.0,HOU,72.0,D. Nix,HOU,Nix Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0375,3,01:24,SAS,85.0,HOU,73.0,D. Nix,HOU,Nix Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0375,3,01:04,SAS,87.0,HOU,75.0,D. Nix,HOU,Nix 3' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,-1,32,3,1,2.0,2.0,v
+S2223-G0375,3,00:01.500000,SAS,,HOU,,D. Nix,HOU,Nix T.FOUL (P1.T3) (J.Schroeder),Foul,Technical,0,0,0,0,,,v
+S2223-G0375,4,10:10,SAS,97.0,HOU,82.0,D. Nix,HOU,Nix 2' Driving Finger Roll Layup (6 PTS) (Martin Jr. 2 AST),Made Shot,Driving Finger Roll Layup Shot,-15,17,2,1,2.0,2.0,v
+S2223-G0375,4,08:42,SAS,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0375,4,08:34,SAS,,HOU,,D. Nix,HOU,MISS Nix 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-5,46,5,1,2.0,0.0,v
+S2223-G0375,4,08:31,SAS,,HOU,,D. Nix,HOU,Nix REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0375,4,07:28,SAS,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0375,4,06:59,SAS,,HOU,,D. Nix,HOU,Nix P.FOUL (P2.T2) (J.Schroeder),Foul,Personal,0,0,0,0,,,v
+S2223-G0375,4,06:59,SAS,,HOU,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0375,4,02:29,SAS,,HOU,,D. Nix,HOU,Nix REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0375,4,02:28,SAS,115.0,HOU,102.0,D. Nix,HOU,Nix Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0375,4,02:28,SAS,115.0,HOU,103.0,D. Nix,HOU,Nix Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0375,4,02:08,SAS,,HOU,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0375,4,02:04,SAS,,HOU,,D. Nix,HOU,MISS Nix 27' 3PT Jump Shot,Missed Shot,Jump Shot,174,211,27,1,3.0,0.0,v
+S2223-G0375,4,01:36,SAS,,HOU,,D. Nix,HOU,Nix S.FOUL (P3.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0441,2,03:19,HOU,,POR,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0441,4,11:14,HOU,,POR,,D. Nix,HOU,Nix Offensive Charge Foul (P1) (J.Van Duyne),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0441,4,11:14,HOU,,POR,,D. Nix,HOU,Nix Offensive Foul Turnover (P1.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0441,4,10:57,HOU,,POR,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0441,4,10:54,HOU,67.0,POR,87.0,D. Nix,HOU,Nix 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,6,5,1,1,2.0,2.0,h
+S2223-G0441,4,10:17,HOU,70.0,POR,87.0,D. Nix,HOU,Nix 26' 3PT Jump Shot (5 PTS) (Eason 1 AST),Made Shot,Jump Shot,137,220,26,1,3.0,3.0,h
+S2223-G0441,4,07:17,HOU,,POR,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,-86,237,25,1,3.0,0.0,h
+S2223-G0441,4,06:30,HOU,,POR,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0441,4,02:55,HOU,,POR,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0441,4,00:56.300000,HOU,,POR,,D. Nix,HOU,Nix STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0528,4,03:57,DAL,119.0,HOU,97.0,D. Nix,HOU,Nix Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0528,4,03:57,DAL,,HOU,,D. Nix,HOU,MISS Nix Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0528,4,01:38,DAL,125.0,HOU,106.0,D. Nix,HOU,Nix 25' 3PT Running Pull-Up Jump Shot (4 PTS) (Mathews 1 AST),Made Shot,Running Pull-Up Jump Shot,212,126,25,1,3.0,3.0,v
+S2223-G0528,4,01:10,DAL,127.0,HOU,109.0,D. Nix,HOU,Nix 25' 3PT Jump Bank Shot (7 PTS),Made Shot,Jump Bank Shot,-225,107,25,1,3.0,3.0,v
+S2223-G1155,2,11:22,HOU,,DET,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1155,2,10:11,HOU,,DET,,D. Nix,HOU,MISS Nix 27' 3PT Jump Shot,Missed Shot,Jump Shot,156,216,27,1,3.0,0.0,h
+S2223-G1155,2,08:05,HOU,,DET,,D. Nix,HOU,Nix Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1155,2,06:35,HOU,45.0,DET,44.0,D. Nix,HOU,Nix 5' Driving Layup (2 PTS) (Eason 1 AST),Made Shot,Driving Layup Shot,-34,36,5,1,2.0,2.0,h
+S2223-G1155,2,05:51,HOU,,DET,,D. Nix,HOU,SUB: Garuba FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0287,1,01:47,HOU,,OKC,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0287,2,09:08,HOU,,OKC,,D. Nix,HOU,Jump Ball Nix vs. Mann: Tip to Giddey,Jump Ball,,0,0,0,0,,,h
+S2223-G0287,2,09:08,HOU,,OKC,,D. Nix,HOU,Nix Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0287,2,07:25,HOU,,OKC,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0287,4,10:40,HOU,,OKC,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0287,4,09:47,HOU,,OKC,,D. Nix,HOU,Nix Lost Ball Turnover (P2.T18),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0287,4,06:41,HOU,,OKC,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G1183,2,10:41,HOU,,DEN,,D. Nix,HOU,MISS Nix 3PT Jump Shot,Missed Shot,Jump Shot,233,29,0,1,3.0,0.0,h
+S2223-G1183,2,08:43,HOU,,DEN,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1183,2,06:46,HOU,,DEN,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0993,1,10:42,IND,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,159,201,26,1,3.0,0.0,v
+S2223-G0993,1,09:13,IND,9.0,HOU,4.0,D. Nix,HOU,Nix 4' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,25,34,4,1,2.0,2.0,v
+S2223-G0993,1,08:58,IND,11.0,HOU,6.0,D. Nix,HOU,Nix 3' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,-21,14,3,1,2.0,2.0,v
+S2223-G0993,1,05:23,IND,,HOU,,D. Nix,HOU,SUB: Eason FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0993,2,06:53,IND,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0993,2,05:05,IND,,HOU,,D. Nix,HOU,MISS Nix 7' Driving Layup,Missed Shot,Driving Layup Shot,67,26,7,1,2.0,0.0,v
+S2223-G0993,2,05:01,IND,,HOU,,D. Nix,HOU,Nix REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0993,2,05:01,IND,,HOU,,D. Nix,HOU,MISS Nix Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0993,2,05:00,IND,,HOU,,D. Nix,HOU,Nix REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0993,2,00:47.500000,IND,,HOU,,D. Nix,HOU,MISS Nix 1' Driving Layup,Missed Shot,Driving Layup Shot,7,6,1,1,2.0,0.0,v
+S2223-G0993,3,11:48,IND,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0993,3,11:05,IND,,HOU,,D. Nix,HOU,Nix REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0993,3,10:58,IND,,HOU,,D. Nix,HOU,MISS Nix 3PT Jump Shot,Missed Shot,Jump Shot,-229,25,0,1,3.0,0.0,v
+S2223-G0993,3,10:03,IND,,HOU,,D. Nix,HOU,Nix P.FOUL (P1.T2) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2223-G0993,3,09:55,IND,,HOU,,D. Nix,HOU,Nix S.FOUL (P2.T3) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0993,3,08:16,IND,,HOU,,D. Nix,HOU,Nix REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0993,3,08:15,IND,,HOU,,D. Nix,HOU,MISS Nix 2' Putback Layup,Missed Shot,Putback Layup Shot,13,17,2,1,2.0,0.0,v
+S2223-G0993,3,07:56,IND,,HOU,,D. Nix,HOU,Nix S.FOUL (P3.T4) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0993,3,07:24,IND,,HOU,,D. Nix,HOU,Nix REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0993,3,06:23,IND,,HOU,,D. Nix,HOU,Nix S.FOUL (P4.PN) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2223-G0993,3,05:38,IND,,HOU,,D. Nix,HOU,SUB: Tate FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0993,4,08:48,IND,,HOU,,D. Nix,HOU,Nix P.FOUL (P5.T2) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2223-G0993,4,07:13,IND,,HOU,,D. Nix,HOU,MISS Nix 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-6,39,4,1,2.0,0.0,v
+S2223-G0993,4,06:55,IND,,HOU,,D. Nix,HOU,MISS Nix 4' Driving Layup,Missed Shot,Driving Layup Shot,-34,22,4,1,2.0,0.0,v
+S2223-G0993,4,06:42,IND,,HOU,,D. Nix,HOU,Nix REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0993,4,00:00.600000,IND,,HOU,,D. Nix,HOU,Nix REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0993,5,03:21,IND,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P3.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0993,5,03:08,IND,122.0,HOU,119.0,D. Nix,HOU,Nix 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-18,13,2,1,2.0,2.0,v
+S2223-G0993,5,02:47,IND,,HOU,,D. Nix,HOU,MISS Nix 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,31,-3,3,1,2.0,0.0,v
+S2223-G0993,5,00:32.100000,IND,,HOU,,D. Nix,HOU,Nix Personal Take Foul (P6.T1) (J.Conley),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0993,5,00:32.100000,IND,,HOU,,D. Nix,HOU,SUB: Eason FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0356,1,00:31.100000,HOU,,PHI,,D. Nix,HOU,MISS Nix 4' Driving Layup,Missed Shot,Driving Layup Shot,-28,22,4,1,2.0,0.0,h
+S2223-G0356,2,09:28,HOU,,PHI,,D. Nix,HOU,Nix Backcourt Turnover (P1.T7),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2223-G0356,2,07:41,HOU,,PHI,,D. Nix,HOU,Nix S.FOUL (P1.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0356,2,07:41,HOU,,PHI,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0356,4,06:40,HOU,,PHI,,D. Nix,HOU,SUB: Smith Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G1117,1,00:10.200000,CLE,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1117,2,11:49,CLE,,HOU,,D. Nix,HOU,MISS Nix 1' Driving Layup,Missed Shot,Driving Layup Shot,4,13,1,1,2.0,0.0,v
+S2223-G1117,2,10:40,CLE,,HOU,,D. Nix,HOU,Nix Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1117,2,07:49,CLE,44.0,HOU,35.0,D. Nix,HOU,Nix Running Dunk (2 PTS) (Garuba 1 AST),Made Shot,Running Dunk Shot,-2,3,0,1,2.0,2.0,v
+S2223-G1117,2,07:07,CLE,,HOU,,D. Nix,HOU,MISS Nix 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,125,138,19,1,2.0,0.0,v
+S2223-G1117,2,06:57,CLE,,HOU,,D. Nix,HOU,SUB: Smith Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G1117,3,00:26.700000,CLE,,HOU,,D. Nix,HOU,Nix Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1117,4,08:57,CLE,,HOU,,D. Nix,HOU,Nix REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1117,4,08:56,CLE,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,-159,201,26,1,3.0,0.0,v
+S2223-G1117,4,05:41,CLE,,HOU,,D. Nix,HOU,SUB: Smith Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G1117,4,02:01,CLE,,HOU,,D. Nix,HOU,Nix REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1117,4,00:51,CLE,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,-154,207,26,1,3.0,0.0,v
+S2223-G1137,2,10:52,BKN,32.0,HOU,32.0,D. Nix,HOU,Nix 26' 3PT Jump Shot (3 PTS) (Christopher 2 AST),Made Shot,Jump Shot,74,252,26,1,3.0,3.0,v
+S2223-G1137,2,10:33,BKN,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1137,2,07:52,BKN,,HOU,,D. Nix,HOU,Nix Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1137,2,07:19,BKN,,HOU,,D. Nix,HOU,Nix S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G1137,2,07:13,BKN,,HOU,,D. Nix,HOU,Nix BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1137,2,06:04,BKN,,HOU,,D. Nix,HOU,Nix Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1137,2,05:02,BKN,,HOU,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0033,1,04:57,MIL,,HOU,,D. Nix,HOU,MISS Nix 3PT Jump Shot,Missed Shot,Jump Shot,222,15,0,1,3.0,0.0,v
+S2223-G0033,1,04:27,MIL,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,147,216,26,1,3.0,0.0,v
+S2223-G0033,1,03:25,MIL,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0033,1,02:29,MIL,31.0,HOU,18.0,D. Nix,HOU,Nix 3' Reverse Layup (2 PTS) (Sengun 1 AST),Made Shot,Reverse Layup Shot,22,16,3,1,2.0,2.0,v
+S2223-G0033,1,01:20,MIL,,HOU,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0033,3,03:23,MIL,,HOU,,D. Nix,HOU,Nix P.FOUL (P1.T4) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0033,3,01:29,MIL,,HOU,,D. Nix,HOU,Nix OFF.Foul (P2) (J.Schroeder),Foul,Offensive,0,0,0,0,,,v
+S2223-G0033,3,01:29,MIL,,HOU,,D. Nix,HOU,Nix Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0926,1,09:47,HOU,,DEN,,D. Nix,HOU,Nix Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0926,1,08:27,HOU,10.0,DEN,13.0,D. Nix,HOU,Nix 26' 3PT Jump Shot (3 PTS) (Sengun 3 AST),Made Shot,Jump Shot,58,251,26,1,3.0,3.0,h
+S2223-G0926,1,07:04,HOU,15.0,DEN,19.0,D. Nix,HOU,Nix 3' Driving Layup (5 PTS) (Sengun 4 AST),Made Shot,Driving Layup Shot,23,18,3,1,2.0,2.0,h
+S2223-G0926,1,07:04,HOU,,DEN,,D. Nix,HOU,MISS Nix Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0926,1,06:37,HOU,,DEN,,D. Nix,HOU,Nix Lost Ball Turnover (P2.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0926,1,06:03,HOU,17.0,DEN,21.0,D. Nix,HOU,Nix 2' Driving Layup (7 PTS) (Smith Jr. 1 AST),Made Shot,Driving Layup Shot,18,16,2,1,2.0,2.0,h
+S2223-G0926,1,02:56,HOU,,DEN,,D. Nix,HOU,Nix P.FOUL (P1.T3) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0926,1,02:04,HOU,,DEN,,D. Nix,HOU,Nix Violation:Kicked Ball (M.Kallio),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0926,1,02:04,HOU,,DEN,,D. Nix,HOU,SUB: Christopher FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0926,2,05:48,HOU,46.0,DEN,56.0,D. Nix,HOU,Nix 6' Driving Floating Bank Jump Shot (9 PTS) (Green 5 AST),Made Shot,Driving Floating Bank Jump Shot,5,60,6,1,2.0,2.0,h
+S2223-G0926,2,04:29,HOU,,DEN,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,82,237,25,1,3.0,0.0,h
+S2223-G0926,2,02:36,HOU,,DEN,,D. Nix,HOU,MISS Nix 2' Layup,Missed Shot,Layup Shot,-18,7,2,1,2.0,0.0,h
+S2223-G0926,2,02:24,HOU,,DEN,,D. Nix,HOU,Jump Ball Nix vs. Murray: Tip to Gordon,Jump Ball,,0,0,0,0,,,h
+S2223-G0926,2,00:30.800000,HOU,,DEN,,D. Nix,HOU,MISS Nix 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,88,36,10,1,2.0,0.0,h
+S2223-G0926,3,11:16,HOU,57.0,DEN,76.0,D. Nix,HOU,Nix 25' 3PT Jump Shot (12 PTS) (Sengun 5 AST),Made Shot,Jump Shot,-66,239,25,1,3.0,3.0,h
+S2223-G0926,3,09:13,HOU,,DEN,,D. Nix,HOU,Nix Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0926,3,08:45,HOU,,DEN,,D. Nix,HOU,MISS Nix 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,58,24,1,3.0,0.0,h
+S2223-G0926,3,07:32,HOU,,DEN,,D. Nix,HOU,Nix S.FOUL (P2.T1) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2223-G0926,3,04:31,HOU,73.0,DEN,95.0,D. Nix,HOU,Nix 3' Driving Layup (14 PTS) (Sengun 6 AST),Made Shot,Driving Layup Shot,-10,30,3,1,2.0,2.0,h
+S2223-G0926,3,03:29,HOU,,DEN,,D. Nix,HOU,Nix Bad Pass Turnover (P4.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0926,3,02:32,HOU,,DEN,,D. Nix,HOU,SUB: Christopher FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0137,1,00:58.800000,MIN,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0137,2,09:23,MIN,,HOU,,D. Nix,HOU,Nix S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0137,2,07:52,MIN,,HOU,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0137,4,11:19,MIN,,HOU,,D. Nix,HOU,MISS Nix 10' Driving Layup,Missed Shot,Driving Layup Shot,12,98,10,1,2.0,0.0,v
+S2223-G0137,4,09:59,MIN,,HOU,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0137,4,09:56,MIN,,HOU,,D. Nix,HOU,Nix Lost Ball Turnover (P2.T20),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0137,4,08:56,MIN,,HOU,,D. Nix,HOU,Nix Lost Ball Turnover (P3.T21),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0137,4,07:53,MIN,,HOU,,D. Nix,HOU,MISS Nix 3PT Jump Shot,Missed Shot,Jump Shot,-227,25,0,1,3.0,0.0,v
+S2223-G0137,4,07:44,MIN,,HOU,,D. Nix,HOU,Nix STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0137,4,07:40,MIN,,HOU,,D. Nix,HOU,MISS Nix 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,175,184,25,1,3.0,0.0,v
+S2223-G0137,4,05:51,MIN,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P4.T23),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0137,4,05:39,MIN,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0137,4,03:28,MIN,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0137,4,02:28,MIN,,HOU,,D. Nix,HOU,MISS Nix 4' Driving Layup,Missed Shot,Driving Layup Shot,-1,35,4,1,2.0,0.0,v
+S2223-G0137,4,01:18,MIN,,HOU,,D. Nix,HOU,Nix STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0320,1,02:26,DEN,34.0,HOU,23.0,D. Nix,HOU,Nix 3PT Jump Shot (3 PTS) (Martin Jr. 1 AST),Made Shot,Jump Shot,229,35,0,1,3.0,3.0,v
+S2223-G0320,1,01:59,DEN,,HOU,,D. Nix,HOU,MISS Nix 3PT Jump Shot,Missed Shot,Jump Shot,233,14,0,1,3.0,0.0,v
+S2223-G0320,1,00:38.500000,DEN,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0320,2,09:22,DEN,,HOU,,D. Nix,HOU,MISS Nix 3PT Jump Shot,Missed Shot,Jump Shot,229,51,0,1,3.0,0.0,v
+S2223-G0320,2,08:36,DEN,,HOU,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0320,3,00:00.200000,DEN,,HOU,,D. Nix,HOU,MISS Nix 27' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-31,265,27,1,3.0,0.0,v
+S2223-G0320,4,09:40,DEN,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0320,4,08:50,DEN,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,-164,196,26,1,3.0,0.0,v
+S2223-G0320,4,08:40,DEN,,HOU,,D. Nix,HOU,Nix REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0320,4,08:03,DEN,,HOU,,D. Nix,HOU,Nix REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0320,4,07:58,DEN,106.0,HOU,81.0,D. Nix,HOU,Nix 3' Driving Reverse Layup (5 PTS),Made Shot,Driving Reverse Layup Shot,26,17,3,1,2.0,2.0,v
+S2223-G0320,4,07:23,DEN,,HOU,,D. Nix,HOU,SUB: Sengun FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0320,4,02:53,DEN,117.0,HOU,96.0,D. Nix,HOU,Nix 2' Driving Reverse Layup (7 PTS),Made Shot,Driving Reverse Layup Shot,-23,5,2,1,2.0,2.0,v
+S2223-G0048,2,10:24,HOU,25.0,UTA,20.0,D. Nix,HOU,Nix Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0048,2,10:24,HOU,,UTA,,D. Nix,HOU,MISS Nix Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0048,2,08:14,HOU,,UTA,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0048,3,05:12,HOU,,UTA,,D. Nix,HOU,Nix P.FOUL (P1.T4) (E.Lewis),Foul,Personal,0,0,0,0,,,h
+S2223-G0048,3,04:47,HOU,,UTA,,D. Nix,HOU,Nix BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0048,3,03:50,HOU,,UTA,,D. Nix,HOU,MISS Nix 6' Driving Layup,Missed Shot,Driving Layup Shot,-12,57,6,1,2.0,0.0,h
+S2223-G0048,3,00:54.300000,HOU,74.0,UTA,73.0,D. Nix,HOU,Nix Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0048,3,00:54.300000,HOU,75.0,UTA,73.0,D. Nix,HOU,Nix Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0048,4,11:28,HOU,,UTA,,D. Nix,HOU,Nix REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0048,4,11:25,HOU,79.0,UTA,76.0,D. Nix,HOU,Nix 4' Driving Reverse Layup (5 PTS),Made Shot,Driving Reverse Layup Shot,-36,16,4,1,2.0,2.0,h
+S2223-G0048,4,05:49,HOU,100.0,UTA,93.0,D. Nix,HOU,Nix 4' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,31,28,4,1,2.0,2.0,h
+S2223-G0048,4,02:38,HOU,,UTA,,D. Nix,HOU,SUB: Gordon FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0789,1,11:45,HOU,2.0,TOR,0.0,D. Nix,HOU,Nix 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,18,13,2,1,2.0,2.0,h
+S2223-G0789,1,11:24,HOU,,TOR,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0789,1,09:21,HOU,,TOR,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0789,1,07:24,HOU,,TOR,,D. Nix,HOU,Nix REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0789,1,05:52,HOU,19.0,TOR,6.0,D. Nix,HOU,Nix 26' 3PT Jump Shot (5 PTS) (Martin Jr. 1 AST),Made Shot,Jump Shot,-176,191,26,1,3.0,3.0,h
+S2223-G0789,1,04:40,HOU,,TOR,,D. Nix,HOU,MISS Nix 3' Driving Layup,Missed Shot,Driving Layup Shot,-12,22,3,1,2.0,0.0,h
+S2223-G0789,1,03:53,HOU,,TOR,,D. Nix,HOU,Nix S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0789,1,03:33,HOU,,TOR,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0789,1,02:25,HOU,,TOR,,D. Nix,HOU,Nix REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0789,1,02:04,HOU,,TOR,,D. Nix,HOU,SUB: Gordon FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0789,2,04:01,HOU,,TOR,,D. Nix,HOU,MISS Nix 2' Driving Layup,Missed Shot,Driving Layup Shot,18,8,2,1,2.0,0.0,h
+S2223-G0789,2,03:27,HOU,,TOR,,D. Nix,HOU,MISS Nix 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-42,68,8,1,2.0,0.0,h
+S2223-G0789,2,02:12,HOU,,TOR,,D. Nix,HOU,MISS Nix 3PT Jump Shot,Missed Shot,Jump Shot,-234,-6,0,1,3.0,0.0,h
+S2223-G0789,3,10:48,HOU,,TOR,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,179,184,26,1,3.0,0.0,h
+S2223-G0789,3,10:21,HOU,,TOR,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,11,250,25,1,3.0,0.0,h
+S2223-G0789,3,07:49,HOU,,TOR,,D. Nix,HOU,Nix S.FOUL (P2.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0789,3,03:55,HOU,,TOR,,D. Nix,HOU,MISS Nix 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,21,19,3,1,2.0,0.0,h
+S2223-G0789,3,02:57,HOU,,TOR,,D. Nix,HOU,MISS Nix 28' 3PT Jump Shot,Missed Shot,Jump Shot,-91,262,28,1,3.0,0.0,h
+S2223-G0789,3,02:10,HOU,,TOR,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,173,199,26,1,3.0,0.0,h
+S2223-G0789,3,02:07,HOU,,TOR,,D. Nix,HOU,SUB: Washington Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0789,4,04:02,HOU,,TOR,,D. Nix,HOU,Nix REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0789,4,03:26,HOU,,TOR,,D. Nix,HOU,MISS Nix 3PT Jump Shot,Missed Shot,Jump Shot,-225,17,0,1,3.0,0.0,h
+S2223-G0789,4,00:13,HOU,108.0,TOR,114.0,D. Nix,HOU,Nix 6' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,10,64,6,1,2.0,2.0,h
+S2223-G0789,4,00:00.900000,HOU,,TOR,,D. Nix,HOU,Nix Personal Take Foul (P3.PN) (S.Corbin),Foul,Personal Take,0,0,0,0,,,h
+S2223-G1100,2,10:40,MEM,,HOU,,D. Nix,HOU,Nix S.FOUL (P1.T1) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G1100,2,10:22,MEM,,HOU,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1100,2,10:18,MEM,51.0,HOU,36.0,D. Nix,HOU,Nix 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,-5,4,1,1,2.0,2.0,v
+S2223-G1100,2,09:58,MEM,,HOU,,D. Nix,HOU,MISS Nix 27' 3PT Jump Shot,Missed Shot,Jump Shot,-157,217,27,1,3.0,0.0,v
+S2223-G1100,2,09:09,MEM,,HOU,,D. Nix,HOU,MISS Nix 2' Driving Layup,Missed Shot,Driving Layup Shot,-1,16,2,1,2.0,0.0,v
+S2223-G1100,2,08:15,MEM,,HOU,,D. Nix,HOU,MISS Nix 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,110,230,25,1,3.0,0.0,v
+S2223-G1100,2,07:16,MEM,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1100,2,05:34,MEM,64.0,HOU,41.0,D. Nix,HOU,Nix Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1100,2,05:34,MEM,,HOU,,D. Nix,HOU,MISS Nix Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1100,2,05:19,MEM,,HOU,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G1100,4,10:59,MEM,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1100,4,10:52,MEM,121.0,HOU,87.0,D. Nix,HOU,Nix 25' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,105,232,25,1,3.0,3.0,v
+S2223-G1100,4,10:12,MEM,,HOU,,D. Nix,HOU,MISS Nix 24' 3PT Jump Shot,Missed Shot,Jump Shot,-31,241,24,1,3.0,0.0,v
+S2223-G1100,4,10:05,MEM,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1100,4,08:46,MEM,128.0,HOU,92.0,D. Nix,HOU,Nix 3PT Running Jump Shot (9 PTS) (Christopher 2 AST),Made Shot,Running Jump Shot,-227,0,0,1,3.0,3.0,v
+S2223-G1100,4,06:53,MEM,,HOU,,D. Nix,HOU,MISS Nix 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-21,250,25,1,3.0,0.0,v
+S2223-G0245,1,01:19,HOU,,GSW,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0245,1,00:33.500000,HOU,,GSW,,D. Nix,HOU,MISS Nix 6' Driving Layup,Missed Shot,Driving Layup Shot,44,34,6,1,2.0,0.0,h
+S2223-G0245,2,07:42,HOU,,GSW,,D. Nix,HOU,MISS Nix 27' 3PT Jump Shot,Missed Shot,Jump Shot,124,243,27,1,3.0,0.0,h
+S2223-G0245,2,06:27,HOU,,GSW,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0245,3,00:31.300000,HOU,,GSW,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0245,4,09:42,HOU,,GSW,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,-185,185,26,1,3.0,0.0,h
+S2223-G0245,4,09:32,HOU,,GSW,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0245,4,08:30,HOU,,GSW,,D. Nix,HOU,SUB: Sengun FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0455,1,01:48,HOU,,SAS,,D. Nix,HOU,MISS Nix 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,148,211,26,1,3.0,0.0,h
+S2223-G0455,1,00:05.200000,HOU,,SAS,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0455,2,08:58,HOU,40.0,SAS,45.0,D. Nix,HOU,Nix 21' Pullup Jump Shot (2 PTS) (Sengun 2 AST),Made Shot,Pullup Jump shot,47,201,21,1,2.0,2.0,h
+S2223-G0455,2,08:40,HOU,,SAS,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0455,2,06:12,HOU,,SAS,,D. Nix,HOU,Nix STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0455,2,05:24,HOU,,SAS,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0455,2,04:10,HOU,,SAS,,D. Nix,HOU,MISS Nix 28' 3PT Jump Shot,Missed Shot,Jump Shot,-176,218,28,1,3.0,0.0,h
+S2223-G0455,2,01:00,HOU,,SAS,,D. Nix,HOU,Nix P.FOUL (P1.T4) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2223-G0455,2,00:46.700000,HOU,,SAS,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,134,218,26,1,3.0,0.0,h
+S2223-G0455,4,10:43,HOU,,SAS,,D. Nix,HOU,Nix REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0455,4,10:12,HOU,,SAS,,D. Nix,HOU,Nix Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0455,4,09:47,HOU,81.0,SAS,101.0,D. Nix,HOU,Nix 3' Reverse Layup (4 PTS),Made Shot,Reverse Layup Shot,-26,17,3,1,2.0,2.0,h
+S2223-G0455,4,09:06,HOU,,SAS,,D. Nix,HOU,Nix S.FOUL (P2.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2223-G0455,4,08:51,HOU,,SAS,,D. Nix,HOU,Nix Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0455,4,06:16,HOU,,SAS,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0455,4,03:03,HOU,,SAS,,D. Nix,HOU,Nix STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0455,4,02:59,HOU,,SAS,,D. Nix,HOU,MISS Nix 4' Running Layup,Missed Shot,Running Layup Shot,27,34,4,1,2.0,0.0,h
+S2223-G0455,4,00:07.100000,HOU,,SAS,,D. Nix,HOU,MISS Nix 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,37,24,1,3.0,0.0,h
+S2223-G0228,1,01:59,HOU,,IND,,D. Nix,HOU,Nix P.FOUL (P1.T3) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0228,1,00:31.400000,HOU,,IND,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0228,2,11:39,HOU,,IND,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0228,2,07:38,HOU,,IND,,D. Nix,HOU,MISS Nix 3' Driving Layup,Missed Shot,Driving Layup Shot,25,16,3,1,2.0,0.0,h
+S2223-G0228,2,06:56,HOU,,IND,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0228,2,06:39,HOU,40.0,IND,23.0,D. Nix,HOU,Nix 26' 3PT Jump Shot (3 PTS) (Sengun 3 AST),Made Shot,Jump Shot,-38,262,26,1,3.0,3.0,h
+S2223-G0228,2,06:38,HOU,,IND,,D. Nix,HOU,SUB: Christopher FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0228,2,00:32.200000,HOU,,IND,,D. Nix,HOU,MISS Nix 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,29,10,3,1,2.0,0.0,h
+S2223-G0228,3,05:06,HOU,,IND,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0228,3,04:47,HOU,,IND,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,197,168,26,1,3.0,0.0,h
+S2223-G0228,3,03:54,HOU,,IND,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,211,142,25,1,3.0,0.0,h
+S2223-G0228,3,03:18,HOU,,IND,,D. Nix,HOU,Nix Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0228,4,08:17,HOU,,IND,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0228,4,04:18,HOU,,IND,,D. Nix,HOU,SUB: Gordon FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G1074,2,08:20,HOU,,GSW,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1074,2,06:55,HOU,,GSW,,D. Nix,HOU,Nix Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1074,2,06:03,HOU,,GSW,,D. Nix,HOU,Nix Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1074,2,06:00,HOU,,GSW,,D. Nix,HOU,SUB: Martin Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G1074,3,01:37,HOU,,GSW,,D. Nix,HOU,Nix Violation:Kicked Ball (J.Williams),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G1074,4,11:02,HOU,,GSW,,D. Nix,HOU,MISS Nix 5' Driving Layup,Missed Shot,Driving Layup Shot,-34,31,5,1,2.0,0.0,h
+S2223-G1074,4,10:34,HOU,87.0,GSW,90.0,D. Nix,HOU,Nix 25' 3PT Pullup Jump Shot (3 PTS) (Smith Jr. 2 AST),Made Shot,Pullup Jump shot,146,206,25,1,3.0,3.0,h
+S2223-G1074,4,07:48,HOU,,GSW,,D. Nix,HOU,Nix Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1074,4,05:23,HOU,,GSW,,D. Nix,HOU,SUB: Smith Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0649,1,02:10,LAC,,HOU,,D. Nix,HOU,SUB: Eason FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0649,2,07:25,LAC,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0649,2,06:17,LAC,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,66,253,26,1,3.0,0.0,v
+S2223-G0649,2,00:59.300000,LAC,,HOU,,D. Nix,HOU,Nix P.FOUL (P1.T3) (M.Dagher),Foul,Personal,0,0,0,0,,,v
+S2223-G0649,3,10:39,LAC,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,-89,249,26,1,3.0,0.0,v
+S2223-G0649,3,08:49,LAC,,HOU,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0649,3,07:32,LAC,,HOU,,D. Nix,HOU,Nix Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0649,3,06:58,LAC,,HOU,,D. Nix,HOU,Nix S.FOUL (P2.T1) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0649,3,05:39,LAC,73.0,HOU,77.0,D. Nix,HOU,Nix Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0649,3,05:39,LAC,,HOU,,D. Nix,HOU,MISS Nix Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0649,3,03:23,LAC,,HOU,,D. Nix,HOU,Nix S.FOUL (P3.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2223-G0649,3,02:46,LAC,,HOU,,D. Nix,HOU,SUB: Washington Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0649,4,07:01,LAC,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0649,4,01:17,LAC,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P4.T20),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0649,4,00:50.800000,LAC,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0472,1,00:00.500000,HOU,,ORL,,D. Nix,HOU,MISS Nix 24' 3PT Jump Shot,Missed Shot,Jump Shot,-241,17,24,1,3.0,0.0,h
+S2223-G0472,2,07:08,HOU,,ORL,,D. Nix,HOU,MISS Nix 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,25,256,26,1,3.0,0.0,h
+S2223-G0472,2,06:15,HOU,,ORL,,D. Nix,HOU,MISS Nix 2' Driving Layup,Missed Shot,Driving Layup Shot,21,12,2,1,2.0,0.0,h
+S2223-G0472,2,05:48,HOU,,ORL,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0472,4,09:49,HOU,,ORL,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0472,4,08:48,HOU,,ORL,,D. Nix,HOU,MISS Nix 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,104,271,29,1,3.0,0.0,h
+S2223-G0472,4,06:12,HOU,,ORL,,D. Nix,HOU,Nix S.FOUL (P1.T4) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G0472,4,06:12,HOU,,ORL,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G1222,1,01:28,WAS,37.0,HOU,26.0,D. Nix,HOU,Nix 6' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,11,61,6,1,2.0,2.0,v
+S2223-G1222,2,11:46,WAS,,HOU,,D. Nix,HOU,Nix P.FOUL (P1.T1) (E.Lewis),Foul,Personal,0,0,0,0,,,v
+S2223-G1222,2,04:32,WAS,,HOU,,D. Nix,HOU,MISS Nix 27' 3PT Jump Shot,Missed Shot,Jump Shot,134,230,27,1,3.0,0.0,v
+S2223-G1222,2,03:09,WAS,,HOU,,D. Nix,HOU,SUB: Christopher FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G1222,4,11:06,WAS,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1222,4,10:25,WAS,,HOU,,D. Nix,HOU,MISS Nix 5' Layup,Missed Shot,Layup Shot,-16,52,5,1,2.0,0.0,v
+S2223-G1222,4,09:47,WAS,,HOU,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1222,4,09:13,WAS,,HOU,,D. Nix,HOU,MISS Nix 28' 3PT Jump Shot,Missed Shot,Jump Shot,-110,260,28,1,3.0,0.0,v
+S2223-G1222,4,08:54,WAS,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1222,4,07:54,WAS,,HOU,,D. Nix,HOU,SUB: Marjanovic FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0063,1,00:44.700000,UTA,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0063,2,08:04,UTA,,HOU,,D. Nix,HOU,MISS Nix 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,29,6,3,1,2.0,0.0,v
+S2223-G0063,2,07:12,UTA,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0063,2,06:00,UTA,,HOU,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0063,3,04:56,UTA,,HOU,,D. Nix,HOU,Nix Out of Bounds Lost Ball Turnover (P3.T16),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0063,3,04:32,UTA,,HOU,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,-214,138,25,1,3.0,0.0,v
+S2223-G0063,3,03:36,UTA,,HOU,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,172,184,25,1,3.0,0.0,v
+S2223-G0063,3,01:54,UTA,,HOU,,D. Nix,HOU,Nix Lost Ball Turnover (P4.T17),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0063,3,01:45,UTA,,HOU,,D. Nix,HOU,SUB: Mathews FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0917,1,02:12,POR,,HOU,,D. Nix,HOU,MISS Nix 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-15,-8,2,1,2.0,0.0,v
+S2223-G0917,1,01:22,POR,,HOU,,D. Nix,HOU,MISS Nix 1' Running Layup,Missed Shot,Running Layup Shot,-7,11,1,1,2.0,0.0,v
+S2223-G0917,1,01:22,POR,,HOU,,D. Nix,HOU,Nix Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0917,1,01:09,POR,,HOU,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0917,2,10:08,POR,,HOU,,D. Nix,HOU,MISS Nix 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,49,15,5,1,2.0,0.0,v
+S2223-G0917,2,08:42,POR,,HOU,,D. Nix,HOU,MISS Nix 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,116,245,27,1,3.0,0.0,v
+S2223-G0917,2,07:14,POR,,HOU,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,-232,99,25,1,3.0,0.0,v
+S2223-G0917,2,06:23,POR,50.0,HOU,43.0,D. Nix,HOU,Nix 2' Driving Reverse Layup (2 PTS) (Smith Jr. 2 AST),Made Shot,Driving Reverse Layup Shot,-16,-1,2,1,2.0,2.0,v
+S2223-G0917,2,05:41,POR,,HOU,,D. Nix,HOU,SUB: Martin Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0917,2,02:07,POR,62.0,HOU,54.0,D. Nix,HOU,Nix 25' 3PT Jump Shot (5 PTS) (Martin Jr. 2 AST),Made Shot,Jump Shot,-181,179,25,1,3.0,3.0,v
+S2223-G0917,2,00:31.200000,POR,71.0,HOU,56.0,D. Nix,HOU,Nix 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,22,11,2,1,2.0,2.0,v
+S2223-G0917,2,00:00,POR,,HOU,,D. Nix,HOU,MISS Nix 65' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-192,621,65,1,3.0,0.0,v
+S2223-G0917,3,11:10,POR,,HOU,,D. Nix,HOU,MISS Nix 1' Driving Layup,Missed Shot,Driving Layup Shot,-11,7,1,1,2.0,0.0,v
+S2223-G0917,3,09:03,POR,,HOU,,D. Nix,HOU,MISS Nix 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,170,159,23,1,2.0,0.0,v
+S2223-G0917,3,08:49,POR,,HOU,,D. Nix,HOU,Nix P.FOUL (P1.T3) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0917,3,07:56,POR,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,115,233,26,1,3.0,0.0,v
+S2223-G0917,3,05:37,POR,89.0,HOU,69.0,D. Nix,HOU,Nix 25' 3PT Jump Shot (10 PTS) (Smith Jr. 3 AST),Made Shot,Jump Shot,-190,157,25,1,3.0,3.0,v
+S2223-G0917,3,04:12,POR,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0917,3,03:58,POR,93.0,HOU,76.0,D. Nix,HOU,Nix 1' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,-12,6,1,1,2.0,2.0,v
+S2223-G0917,3,02:56,POR,97.0,HOU,81.0,D. Nix,HOU,Nix 4' Driving Floating Bank Jump Shot (14 PTS) (Washington Jr. 1 AST),Made Shot,Driving Floating Bank Jump Shot,37,13,4,1,2.0,2.0,v
+S2223-G0917,3,02:17,POR,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0917,3,01:55,POR,,HOU,,D. Nix,HOU,MISS Nix 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,-17,15,2,1,2.0,0.0,v
+S2223-G0917,3,01:44,POR,,HOU,,D. Nix,HOU,MISS Nix 28' 3PT Jump Shot,Missed Shot,Jump Shot,-158,233,28,1,3.0,0.0,v
+S2223-G0917,3,00:42.700000,POR,,HOU,,D. Nix,HOU,SUB: Christopher FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0917,4,05:48,POR,,HOU,,D. Nix,HOU,Nix S.FOUL (P2.T4) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0917,4,04:32,POR,,HOU,,D. Nix,HOU,MISS Nix 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,89,9,1,2.0,0.0,v
+S2223-G0917,4,03:59,POR,121.0,HOU,107.0,D. Nix,HOU,Nix 1' Running Reverse Layup (16 PTS) (Smith Jr. 4 AST),Made Shot,Running Reverse Layup Shot,10,10,1,1,2.0,2.0,v
+S2223-G0917,4,02:35,POR,,HOU,,D. Nix,HOU,Nix OFF.Foul (P3) (K.Scott),Foul,Offensive,0,0,0,0,,,v
+S2223-G0917,4,02:35,POR,,HOU,,D. Nix,HOU,Nix Offensive Foul Turnover (P3.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0278,1,05:34,HOU,,ATL,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0278,1,04:36,HOU,,ATL,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0278,1,04:33,HOU,,ATL,,D. Nix,HOU,Nix Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0278,1,04:06,HOU,,ATL,,D. Nix,HOU,Nix P.FOUL (P1.T4) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2223-G0278,1,03:44,HOU,,ATL,,D. Nix,HOU,MISS Nix 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-69,268,28,1,3.0,0.0,h
+S2223-G0278,1,02:33,HOU,,ATL,,D. Nix,HOU,MISS Nix 9' Driving Layup,Missed Shot,Driving Layup Shot,66,60,9,1,2.0,0.0,h
+S2223-G0278,1,02:06,HOU,,ATL,,D. Nix,HOU,Nix REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0278,1,01:25,HOU,,ATL,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0278,2,04:29,HOU,,ATL,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0278,4,10:35,HOU,,ATL,,D. Nix,HOU,Nix S.FOUL (P2.T2) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2223-G0278,4,09:18,HOU,,ATL,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0278,4,07:54,HOU,,ATL,,D. Nix,HOU,Nix Out of Bounds - Bad Pass Turnover Turnover (P2.T21),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0278,4,06:45,HOU,,ATL,,D. Nix,HOU,Nix STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0278,4,06:43,HOU,,ATL,,D. Nix,HOU,Nix Out of Bounds - Bad Pass Turnover Turnover (P3.T22),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0278,4,04:33,HOU,,ATL,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0278,4,00:29.600000,HOU,,ATL,,D. Nix,HOU,MISS Nix Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0278,4,00:29.600000,HOU,125.0,ATL,119.0,D. Nix,HOU,Nix Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0278,4,00:09.100000,HOU,,ATL,,D. Nix,HOU,Nix S.FOUL (P3.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0278,4,00:07.800000,HOU,128.0,ATL,122.0,D. Nix,HOU,Nix Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0278,4,00:07.800000,HOU,,ATL,,D. Nix,HOU,MISS Nix Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0901,1,01:06,GSW,,HOU,,D. Nix,HOU,MISS Nix 27' 3PT Jump Shot,Missed Shot,Jump Shot,152,229,27,1,3.0,0.0,v
+S2223-G0901,1,00:45.800000,GSW,,HOU,,D. Nix,HOU,MISS Nix 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-26,6,3,1,2.0,0.0,v
+S2223-G0901,2,08:31,GSW,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-163,200,26,1,3.0,0.0,v
+S2223-G0901,2,06:21,GSW,,HOU,,D. Nix,HOU,SUB: Eason FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0901,3,01:31,GSW,83.0,HOU,75.0,D. Nix,HOU,Nix 26' 3PT Step Back Jump Shot (3 PTS) (Garuba 2 AST),Made Shot,Step Back Jump shot,-194,169,26,1,3.0,3.0,v
+S2223-G0901,3,00:13.100000,GSW,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0901,4,09:44,GSW,,HOU,,D. Nix,HOU,Nix S.FOUL (P1.T1) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0901,4,09:10,GSW,,HOU,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0901,4,09:01,GSW,98.0,HOU,86.0,D. Nix,HOU,Nix 28' 3PT Jump Shot (6 PTS) (Martin Jr. 1 AST),Made Shot,Jump Shot,-23,280,28,1,3.0,3.0,v
+S2223-G0901,4,08:27,GSW,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,-199,167,26,1,3.0,0.0,v
+S2223-G0901,4,07:28,GSW,106.0,HOU,91.0,D. Nix,HOU,Nix 26' 3PT Pullup Jump Shot (9 PTS) (Martin Jr. 2 AST),Made Shot,Pullup Jump shot,-210,157,26,1,3.0,3.0,v
+S2223-G0901,4,06:38,GSW,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0901,4,05:56,GSW,,HOU,,D. Nix,HOU,MISS Nix 28' 3PT Jump Shot,Missed Shot,Jump Shot,32,275,28,1,3.0,0.0,v
+S2223-G0901,4,01:41,GSW,,HOU,,D. Nix,HOU,SUB: Hudgins FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0487,1,03:29,HOU,23.0,DAL,19.0,D. Nix,HOU,Nix 3PT Jump Shot (3 PTS) (Martin Jr. 1 AST),Made Shot,Jump Shot,233,4,0,1,3.0,3.0,h
+S2223-G0487,1,02:58,HOU,,DAL,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,197,165,26,1,3.0,0.0,h
+S2223-G0487,1,01:22,HOU,,DAL,,D. Nix,HOU,Nix S.FOUL (P1.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0487,1,00:39.500000,HOU,,DAL,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0487,1,00:03.100000,HOU,,DAL,,D. Nix,HOU,MISS Nix Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0487,1,00:03.100000,HOU,,DAL,,D. Nix,HOU,MISS Nix Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0487,2,09:46,HOU,,DAL,,D. Nix,HOU,Nix Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0487,2,08:40,HOU,,DAL,,D. Nix,HOU,SUB: Washington Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0080,2,09:51,POR,36.0,HOU,31.0,D. Nix,HOU,Nix 26' 3PT Jump Shot (3 PTS) (Gordon 4 AST),Made Shot,Jump Shot,9,255,26,1,3.0,3.0,v
+S2223-G0080,2,08:35,POR,41.0,HOU,34.0,D. Nix,HOU,Nix 26' 3PT Jump Shot (6 PTS) (Gordon 5 AST),Made Shot,Jump Shot,222,137,26,1,3.0,3.0,v
+S2223-G0080,2,07:23,POR,45.0,HOU,37.0,D. Nix,HOU,Nix 25' 3PT Running Jump Shot (9 PTS) (Tate 3 AST),Made Shot,Running Jump Shot,-207,136,25,1,3.0,3.0,v
+S2223-G0080,2,06:42,POR,,HOU,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0080,3,00:49.600000,POR,,HOU,,D. Nix,HOU,Nix STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0080,3,00:01.300000,POR,,HOU,,D. Nix,HOU,MISS Nix 59' 3PT Jump Shot,Missed Shot,Jump Shot,87,579,59,1,3.0,0.0,v
+S2223-G0203,1,01:26,HOU,,LAC,,D. Nix,HOU,Nix Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0203,1,00:41.500000,HOU,,LAC,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0203,1,00:30.400000,HOU,23.0,LAC,28.0,D. Nix,HOU,Nix 26' 3PT Pullup Jump Shot (3 PTS) (Martin Jr. 1 AST),Made Shot,Pullup Jump shot,-21,258,26,1,3.0,3.0,h
+S2223-G0203,2,10:27,HOU,,LAC,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0203,3,05:43,HOU,,LAC,,D. Nix,HOU,MISS Nix 26' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,-200,168,26,1,3.0,0.0,h
+S2223-G0203,3,01:07,HOU,,LAC,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0203,3,00:58.300000,HOU,,LAC,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,214,136,25,1,3.0,0.0,h
+S2223-G0203,4,09:03,HOU,,LAC,,D. Nix,HOU,SUB: Green FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G0541,4,02:29,HOU,,NYK,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,-91,245,26,1,3.0,0.0,h
+S2223-G0541,4,02:23,HOU,,NYK,,D. Nix,HOU,Nix REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0541,4,02:19,HOU,,NYK,,D. Nix,HOU,Nix Lost Ball Turnover (P1.T25),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0218,1,03:52,DAL,,HOU,,D. Nix,HOU,Nix P.FOUL (P1.T3) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2223-G0218,3,01:11,DAL,72.0,HOU,76.0,D. Nix,HOU,Nix 25' 3PT Running Jump Shot (3 PTS) (Martin Jr. 1 AST),Made Shot,Running Jump Shot,-185,170,25,1,3.0,3.0,v
+S2223-G0218,3,00:56,DAL,,HOU,,D. Nix,HOU,Nix BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0218,4,11:51,DAL,,HOU,,D. Nix,HOU,Nix BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0218,4,11:48,DAL,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0218,4,11:02,DAL,,HOU,,D. Nix,HOU,Nix P.FOUL (P2.T1) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G0218,4,10:09,DAL,,HOU,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,-183,179,26,1,3.0,0.0,v
+S2223-G0218,4,09:39,DAL,,HOU,,D. Nix,HOU,SUB: Smith Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0799,1,10:30,OKC,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0799,1,09:09,OKC,13.0,HOU,9.0,D. Nix,HOU,Nix 1' Cutting Layup Shot (2 PTS) (Sengun 1 AST),Made Shot,Cutting Layup Shot,10,-1,1,1,2.0,2.0,v
+S2223-G0799,1,08:14,OKC,,HOU,,D. Nix,HOU,MISS Nix 3PT Jump Shot,Missed Shot,Jump Shot,234,-11,0,1,3.0,0.0,v
+S2223-G0799,1,06:47,OKC,,HOU,,D. Nix,HOU,Nix Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0799,1,06:06,OKC,,HOU,,D. Nix,HOU,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,213,127,25,1,3.0,0.0,v
+S2223-G0799,1,05:53,OKC,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0799,1,03:35,OKC,,HOU,,D. Nix,HOU,Nix BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0799,1,02:28,OKC,,HOU,,D. Nix,HOU,SUB: Washington Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G0799,3,07:26,OKC,,HOU,,D. Nix,HOU,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0799,3,04:23,OKC,,HOU,,D. Nix,HOU,SUB: Washington Jr. FOR Nix,Substitution,,0,0,0,0,,,v
+S2223-G1171,2,10:47,HOU,,LAL,,D. Nix,HOU,MISS Nix 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,28,3,1,2.0,0.0,h
+S2223-G1171,2,10:18,HOU,,LAL,,D. Nix,HOU,MISS Nix 27' 3PT Jump Shot,Missed Shot,Jump Shot,-146,227,27,1,3.0,0.0,h
+S2223-G1171,2,08:48,HOU,,LAL,,D. Nix,HOU,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1171,2,07:20,HOU,,LAL,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G1171,4,10:19,HOU,,LAL,,D. Nix,HOU,MISS Nix 26' 3PT Jump Shot,Missed Shot,Jump Shot,23,257,26,1,3.0,0.0,h
+S2223-G1171,4,08:01,HOU,,LAL,,D. Nix,HOU,Nix P.FOUL (P1.T3) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G1171,4,08:01,HOU,,LAL,,D. Nix,HOU,SUB: Porter Jr. FOR Nix,Substitution,,0,0,0,0,,,h
+S2223-G1171,4,00:54.700000,HOU,,LAL,,D. Nix,HOU,MISS Nix 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-116,219,25,1,3.0,0.0,h
+S2223-G0625,4,01:40,SAC,127.0,HOU,113.0,D. Nix,HOU,Nix 3PT Jump Shot (3 PTS) (Fernando 2 AST),Made Shot,Jump Shot,-224,-16,0,1,3.0,3.0,v

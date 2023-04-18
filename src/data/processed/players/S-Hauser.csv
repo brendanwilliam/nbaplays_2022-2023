@@ -1,0 +1,935 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0124,1,02:38,BOS,,CHI,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0124,1,02:37,BOS,,CHI,,S. Hauser,BOS,MISS Hauser 3' Layup,Missed Shot,Layup Shot,-6,33,3,1,2.0,0.0,h
+S2223-G0124,1,00:53,BOS,,CHI,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0124,2,11:46,BOS,29.0,CHI,31.0,S. Hauser,BOS,Hauser 25' 3PT Pullup Jump Shot (3 PTS) (Kornet 1 AST),Made Shot,Pullup Jump shot,143,210,25,1,3.0,3.0,h
+S2223-G0124,2,08:03,BOS,,CHI,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-184,200,27,1,3.0,0.0,h
+S2223-G0124,2,07:13,BOS,,CHI,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0124,2,05:52,BOS,,CHI,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0124,3,00:29.100000,BOS,,CHI,,S. Hauser,BOS,Hauser REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0124,3,00:29.100000,BOS,92.0,CHI,85.0,S. Hauser,BOS,Hauser 1' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,-6,8,1,1,2.0,2.0,h
+S2223-G0124,4,10:21,BOS,98.0,CHI,87.0,S. Hauser,BOS,Hauser 24' 3PT Jump Shot (8 PTS) (Williams 3 AST),Made Shot,Jump Shot,-233,52,24,1,3.0,3.0,h
+S2223-G0124,4,08:53,BOS,,CHI,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,143,202,25,1,3.0,0.0,h
+S2223-G0124,4,07:00,BOS,,CHI,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0935,1,01:28,BOS,24.0,CLE,24.0,S. Hauser,BOS,Hauser 27' 3PT Pullup Jump Shot (3 PTS) (Tatum 1 AST),Made Shot,Pullup Jump shot,153,225,27,1,3.0,3.0,h
+S2223-G0935,1,01:11,BOS,,CLE,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0935,1,00:24.200000,BOS,,CLE,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0935,1,00:00.200000,BOS,,CLE,,S. Hauser,BOS,MISS Hauser 60' 3PT Jump Shot,Missed Shot,Jump Shot,156,583,60,1,3.0,0.0,h
+S2223-G0935,2,10:16,BOS,,CLE,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,58,24,1,3.0,0.0,h
+S2223-G0935,2,09:32,BOS,,CLE,,S. Hauser,BOS,Hauser S.FOUL (P1.T4) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0935,2,08:47,BOS,34.0,CLE,31.0,S. Hauser,BOS,Hauser 24' 3PT Running Jump Shot (6 PTS) (Tatum 3 AST),Made Shot,Running Jump Shot,-232,71,24,1,3.0,3.0,h
+S2223-G0935,2,07:51,BOS,,CLE,,S. Hauser,BOS,Hauser S.FOUL (P2.PN) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0935,2,07:51,BOS,,CLE,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0935,4,11:37,BOS,,CLE,,S. Hauser,BOS,SUB: Williams III FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0562,1,03:36,OKC,,BOS,,S. Hauser,BOS,Hauser Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0562,1,01:38,OKC,32.0,BOS,30.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Jump Shot,-157,204,26,1,3.0,3.0,v
+S2223-G0562,1,01:17,OKC,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0562,2,08:41,OKC,45.0,BOS,38.0,S. Hauser,BOS,Hauser 25' 3PT Running Jump Shot (6 PTS) (Brogdon 2 AST),Made Shot,Running Jump Shot,210,128,25,1,3.0,3.0,v
+S2223-G0562,2,08:13,OKC,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,208,144,25,1,3.0,0.0,v
+S2223-G0562,2,07:32,OKC,,BOS,,S. Hauser,BOS,SUB: White FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0562,4,06:08,OKC,,BOS,,S. Hauser,BOS,Hauser Lost Ball Turnover (P2.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0562,4,05:41,OKC,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0562,4,05:38,OKC,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,-184,164,25,1,3.0,0.0,v
+S2223-G0562,4,05:18,OKC,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0562,4,05:11,OKC,,BOS,,S. Hauser,BOS,Hauser Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0562,4,04:40,OKC,,BOS,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0562,4,02:00,OKC,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,42,255,26,1,3.0,0.0,v
+S2223-G0562,4,01:36,OKC,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-183,179,26,1,3.0,0.0,v
+S2223-G0562,4,00:28.100000,OKC,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,1,04:45,MIA,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P1.T4) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G0714,1,04:40,MIA,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P2.PN) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G0714,1,03:55,MIA,,BOS,,S. Hauser,BOS,MISS Hauser 5' Jump Shot,Missed Shot,Jump Shot,5,47,5,1,2.0,0.0,v
+S2223-G0714,1,02:53,MIA,,BOS,,S. Hauser,BOS,Hauser BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0714,1,02:26,MIA,,BOS,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,227,16,0,1,3.0,0.0,v
+S2223-G0714,1,01:53,MIA,,BOS,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-243,20,24,1,3.0,0.0,v
+S2223-G0714,2,08:06,MIA,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-141,218,26,1,3.0,0.0,v
+S2223-G0714,2,04:05,MIA,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,2,03:10,MIA,,BOS,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,223,64,0,1,3.0,0.0,v
+S2223-G0714,2,01:05,MIA,,BOS,,S. Hauser,BOS,Hauser BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0714,2,00:57.500000,MIA,,BOS,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0714,2,00:25.900000,MIA,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,4,11:41,MIA,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,4,07:04,MIA,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-71,247,26,1,3.0,0.0,v
+S2223-G0714,4,05:44,MIA,,BOS,,S. Hauser,BOS,SUB: Williams FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0201,1,01:38,BOS,,OKC,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,233,84,25,1,3.0,0.0,h
+S2223-G0201,2,11:48,BOS,35.0,OKC,35.0,S. Hauser,BOS,Hauser 28' 3PT Jump Shot (3 PTS) (White 1 AST),Made Shot,Jump Shot,1,281,28,1,3.0,3.0,h
+S2223-G0201,2,09:21,BOS,,OKC,,S. Hauser,BOS,Hauser Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0201,2,06:40,BOS,,OKC,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0201,3,04:33,BOS,,OKC,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0201,3,03:40,BOS,,OKC,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0201,3,03:11,BOS,,OKC,,S. Hauser,BOS,Hauser BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0201,3,02:49,BOS,,OKC,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,64,24,1,3.0,0.0,h
+S2223-G0201,4,10:06,BOS,97.0,OKC,102.0,S. Hauser,BOS,Hauser 3PT Jump Shot (6 PTS) (Pritchard 1 AST),Made Shot,Jump Shot,-230,29,0,1,3.0,3.0,h
+S2223-G0201,4,09:44,BOS,,OKC,,S. Hauser,BOS,MISS Hauser 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,238,-14,24,1,3.0,0.0,h
+S2223-G0201,4,08:48,BOS,,OKC,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G1152,2,10:54,BOS,,UTA,,S. Hauser,BOS,Hauser Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1152,2,10:42,BOS,,UTA,,S. Hauser,BOS,SUB: Muscala FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G1152,3,00:45.200000,BOS,91.0,UTA,76.0,S. Hauser,BOS,Hauser 2' Running Layup (2 PTS) (Brogdon 6 AST),Made Shot,Running Layup Shot,22,11,2,1,2.0,2.0,h
+S2223-G1152,4,10:17,BOS,,UTA,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1152,4,10:12,BOS,,UTA,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0606,2,11:24,BOS,31.0,CHI,27.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (3 PTS) (Brogdon 1 AST),Made Shot,Jump Shot,145,231,27,1,3.0,3.0,h
+S2223-G0606,2,06:56,BOS,,CHI,,S. Hauser,BOS,SUB: White FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0606,3,02:12,BOS,,CHI,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0606,3,00:30.800000,BOS,,CHI,,S. Hauser,BOS,MISS Hauser 22' Jump Shot,Missed Shot,Jump Shot,208,55,22,1,2.0,0.0,h
+S2223-G0186,1,03:13,DET,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0186,1,02:30,DET,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,72,242,25,1,3.0,0.0,v
+S2223-G0186,1,00:06.400000,DET,29.0,BOS,30.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (3 PTS) (Pritchard 1 AST),Made Shot,Jump Shot,-196,153,25,1,3.0,3.0,v
+S2223-G0186,2,10:58,DET,,BOS,,S. Hauser,BOS,MISS Hauser 28' 3PT Jump Shot,Missed Shot,Jump Shot,23,283,28,1,3.0,0.0,v
+S2223-G0186,2,08:54,DET,,BOS,,S. Hauser,BOS,SUB: Williams FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0186,2,02:51,DET,47.0,BOS,48.0,S. Hauser,BOS,Hauser 4' Floating Jump Shot (5 PTS) (Tatum 1 AST),Made Shot,Floating Jump shot,21,30,4,1,2.0,2.0,v
+S2223-G0186,2,01:41,DET,,BOS,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,146,222,27,1,3.0,0.0,v
+S2223-G0186,3,08:55,DET,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0186,3,06:32,DET,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P2.T2) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0186,3,06:19,DET,,BOS,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,53,24,1,3.0,0.0,v
+S2223-G0186,3,05:46,DET,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-175,188,26,1,3.0,0.0,v
+S2223-G0186,3,05:46,DET,,BOS,,S. Hauser,BOS,SUB: Pritchard FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0186,4,00:16.700000,DET,,BOS,,S. Hauser,BOS,Hauser Violation:Kicked Ball (P.Ransom),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G1216,1,11:25,BOS,,ATL,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,7,260,26,1,3.0,0.0,h
+S2223-G1216,1,09:19,BOS,9.0,ATL,6.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (3 PTS) (Muscala 1 AST),Made Shot,Jump Shot,-13,257,26,1,3.0,3.0,h
+S2223-G1216,1,09:05,BOS,,ATL,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1216,1,06:54,BOS,19.0,ATL,14.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (6 PTS) (White 1 AST),Made Shot,Jump Shot,5,257,26,1,3.0,3.0,h
+S2223-G1216,1,06:37,BOS,,ATL,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1216,1,06:36,BOS,,ATL,,S. Hauser,BOS,Hauser Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1216,1,06:00,BOS,,ATL,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1216,1,04:52,BOS,24.0,ATL,20.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (9 PTS) (Pritchard 2 AST),Made Shot,Jump Shot,150,215,26,1,3.0,3.0,h
+S2223-G1216,1,04:08,BOS,,ATL,,S. Hauser,BOS,Hauser BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1216,1,00:39.700000,BOS,,ATL,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-5,270,27,1,3.0,0.0,h
+S2223-G1216,2,04:11,BOS,,ATL,,S. Hauser,BOS,Hauser S.FOUL (P1.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G1216,2,03:39,BOS,,ATL,,S. Hauser,BOS,Hauser S.FOUL (P2.T4) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G1216,2,02:28,BOS,,ATL,,S. Hauser,BOS,MISS Hauser 4' Running Dunk,Missed Shot,Running Dunk Shot,-22,38,4,1,2.0,0.0,h
+S2223-G1216,2,02:26,BOS,,ATL,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1216,2,01:50,BOS,,ATL,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-126,238,27,1,3.0,0.0,h
+S2223-G1216,2,01:14,BOS,58.0,ATL,61.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (12 PTS) (Pritchard 5 AST),Made Shot,Jump Shot,69,252,26,1,3.0,3.0,h
+S2223-G1216,3,11:45,BOS,64.0,ATL,64.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (15 PTS) (Kornet 4 AST),Made Shot,Jump Shot,1,257,26,1,3.0,3.0,h
+S2223-G1216,3,11:11,BOS,67.0,ATL,64.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (18 PTS) (Pritchard 6 AST),Made Shot,Jump Shot,175,185,25,1,3.0,3.0,h
+S2223-G1216,3,10:33,BOS,70.0,ATL,64.0,S. Hauser,BOS,Hauser 24' 3PT Fadeaway Jumper (21 PTS) (Pritchard 7 AST),Made Shot,Fadeaway Jump Shot,240,32,24,1,3.0,3.0,h
+S2223-G1216,3,10:02,BOS,,ATL,,S. Hauser,BOS,MISS Hauser 25' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,241,56,25,1,3.0,0.0,h
+S2223-G1216,3,04:29,BOS,,ATL,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,9,24,1,3.0,0.0,h
+S2223-G1216,3,03:54,BOS,87.0,ATL,80.0,S. Hauser,BOS,Hauser 3' Cutting Layup Shot (23 PTS) (Muscala 2 AST),Made Shot,Cutting Layup Shot,-22,22,3,1,2.0,2.0,h
+S2223-G1216,4,08:06,BOS,,ATL,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1216,4,05:21,BOS,,ATL,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1216,4,04:01,BOS,115.0,ATL,103.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (26 PTS) (Kornet 6 AST),Made Shot,Jump Shot,156,218,27,1,3.0,3.0,h
+S2223-G1216,4,01:21,BOS,,ATL,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-176,198,26,1,3.0,0.0,h
+S2223-G0152,1,01:16,MEM,29.0,BOS,26.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (3 PTS) (Vonleh 1 AST),Made Shot,Jump Shot,-145,215,26,1,3.0,3.0,v
+S2223-G0152,2,09:55,MEM,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P1.T1) (M.Dagher),Foul,Personal,0,0,0,0,,,v
+S2223-G0152,2,09:14,MEM,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0152,2,08:54,MEM,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0152,4,11:15,MEM,,BOS,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0152,4,09:07,MEM,88.0,BOS,89.0,S. Hauser,BOS,Hauser Free Throw Clear Path 1 of 2 (4 PTS),Free Throw,Free Throw Clear Path 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0152,4,09:07,MEM,88.0,BOS,90.0,S. Hauser,BOS,Hauser Free Throw Clear Path 2 of 2 (5 PTS),Free Throw,Free Throw Clear Path 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0152,4,08:23,MEM,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,-17,247,25,1,3.0,0.0,v
+S2223-G0152,4,07:13,MEM,,BOS,,S. Hauser,BOS,SUB: Horford FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0294,1,02:58,BOS,,WAS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0294,1,02:15,BOS,31.0,WAS,21.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (3 PTS) (Brogdon 1 AST),Made Shot,Jump Shot,71,256,27,1,3.0,3.0,h
+S2223-G0294,1,01:01,BOS,,WAS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0294,1,00:38.900000,BOS,,WAS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0294,2,10:28,BOS,44.0,WAS,31.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (6 PTS) (Brogdon 2 AST),Made Shot,Jump Shot,-235,75,25,1,3.0,3.0,h
+S2223-G0294,2,09:01,BOS,,WAS,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0294,3,05:29,BOS,,WAS,,S. Hauser,BOS,Hauser S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2223-G0294,3,03:51,BOS,,WAS,,S. Hauser,BOS,Hauser P.FOUL (P2.PN) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2223-G0294,3,02:32,BOS,102.0,WAS,80.0,S. Hauser,BOS,Hauser 4' Driving Floating Jump Shot (8 PTS) (Brogdon 3 AST),Made Shot,Driving Floating Jump Shot,13,39,4,1,2.0,2.0,h
+S2223-G0294,3,02:32,BOS,103.0,WAS,80.0,S. Hauser,BOS,Hauser Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0294,3,00:52.600000,BOS,109.0,WAS,84.0,S. Hauser,BOS,Hauser Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0294,3,00:52.600000,BOS,110.0,WAS,84.0,S. Hauser,BOS,Hauser Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0294,3,00:06.200000,BOS,113.0,WAS,88.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (14 PTS) (Pritchard 1 AST),Made Shot,Jump Shot,202,143,25,1,3.0,3.0,h
+S2223-G0294,4,11:37,BOS,,WAS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0294,4,08:46,BOS,,WAS,,S. Hauser,BOS,Hauser S.FOUL (P3.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0294,4,07:41,BOS,,WAS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0294,4,06:06,BOS,,WAS,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,28,24,1,3.0,0.0,h
+S2223-G0294,4,05:52,BOS,,WAS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0294,4,01:45,BOS,,WAS,,S. Hauser,BOS,Hauser Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0294,4,00:26.600000,BOS,,WAS,,S. Hauser,BOS,Hauser Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0001,2,07:12,BOS,,PHI,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0001,4,11:50,BOS,,PHI,,S. Hauser,BOS,Hauser S.FOUL (P1.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0001,4,09:49,BOS,,PHI,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0328,2,08:57,,,,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,41,24,1,3.0,0.0,h
+S2223-G0328,2,08:37,,,,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0328,2,07:58,,,,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0328,2,00:27.300000,,62.0,,59.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (3 PTS) (Brown 4 AST),Made Shot,Jump Shot,-233,81,25,1,3.0,3.0,h
+S2223-G0328,3,00:04.300000,,,,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0328,3,00:00.100000,,,,,S. Hauser,BOS,MISS Hauser 64' 3PT Jump Shot,Missed Shot,Jump Shot,-146,625,64,1,3.0,0.0,h
+S2223-G0328,4,09:31,,91.0,,83.0,S. Hauser,BOS,Hauser 2' Driving Layup (5 PTS) (White 3 AST),Made Shot,Driving Layup Shot,-17,15,2,1,2.0,2.0,h
+S2223-G0328,4,07:16,,,,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0627,2,11:00,BKN,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,-47,246,25,1,3.0,0.0,v
+S2223-G0627,2,07:28,BKN,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0627,2,07:27,BKN,43.0,BOS,39.0,S. Hauser,BOS,Hauser Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0627,2,06:58,BKN,,BOS,,S. Hauser,BOS,SUB: Williams FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0373,1,02:47,PHX,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,-141,206,25,1,3.0,0.0,v
+S2223-G0373,1,00:51.300000,PHX,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0373,1,00:25.200000,PHX,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0373,2,10:46,PHX,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0373,2,10:16,PHX,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0373,2,08:18,PHX,,BOS,,S. Hauser,BOS,SUB: Williams FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0373,4,11:35,PHX,,BOS,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-39,264,27,1,3.0,0.0,v
+S2223-G0373,4,10:33,PHX,,BOS,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0373,4,10:09,PHX,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0373,4,10:01,PHX,69.0,BOS,109.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (3 PTS) (Kornet 2 AST),Made Shot,Jump Shot,-196,186,27,1,3.0,3.0,v
+S2223-G0373,4,09:12,PHX,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0373,4,08:18,PHX,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P2.T3) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0373,4,07:21,PHX,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0373,4,07:15,PHX,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,75,251,26,1,3.0,0.0,v
+S2223-G0373,4,05:22,PHX,82.0,BOS,123.0,S. Hauser,BOS,Hauser 3PT Jump Shot (6 PTS) (Pritchard 1 AST),Made Shot,Jump Shot,230,11,0,1,3.0,3.0,v
+S2223-G0373,4,03:58,PHX,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0373,4,03:45,PHX,,BOS,,S. Hauser,BOS,MISS Hauser 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,9,21,2,1,2.0,0.0,v
+S2223-G0373,4,02:34,PHX,,BOS,,S. Hauser,BOS,MISS Hauser 29' 3PT Jump Shot,Missed Shot,Jump Shot,-53,283,29,1,3.0,0.0,v
+S2223-G0430,2,11:25,BOS,,ORL,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0430,2,11:15,BOS,,ORL,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,233,-1,0,1,3.0,0.0,h
+S2223-G0430,2,10:35,BOS,,ORL,,S. Hauser,BOS,Hauser P.FOUL (P1.T1) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2223-G0430,2,09:50,BOS,,ORL,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,199,153,25,1,3.0,0.0,h
+S2223-G0430,2,09:16,BOS,,ORL,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0430,3,01:00,BOS,,ORL,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0430,3,00:11.200000,BOS,,ORL,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0591,1,02:45,SAS,,BOS,,S. Hauser,BOS,Hauser Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0591,1,02:33,SAS,,BOS,,S. Hauser,BOS,MISS Hauser Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0591,1,02:33,SAS,23.0,BOS,26.0,S. Hauser,BOS,Hauser Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0591,1,01:45,SAS,,BOS,,S. Hauser,BOS,MISS Hauser 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-4,4,1,1,2.0,0.0,v
+S2223-G0591,1,00:09.700000,SAS,,BOS,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,229,-12,0,1,3.0,0.0,v
+S2223-G0591,2,11:17,SAS,30.0,BOS,37.0,S. Hauser,BOS,Hauser 14' Pullup Jump Shot (3 PTS) (Tatum 1 AST),Made Shot,Pullup Jump shot,140,-10,14,1,2.0,2.0,v
+S2223-G0591,2,10:14,SAS,,BOS,,S. Hauser,BOS,SUB: White FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0591,3,02:15,SAS,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0591,3,01:41,SAS,,BOS,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0591,4,09:26,SAS,95.0,BOS,103.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (6 PTS) (Brogdon 5 AST),Made Shot,Jump Shot,-173,199,26,1,3.0,3.0,v
+S2223-G0591,4,07:32,SAS,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P1.T2) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2223-G0591,4,07:32,SAS,,BOS,,S. Hauser,BOS,SUB: White FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0250,1,02:48,CHI,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P1.T1) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G0250,1,01:41,CHI,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P2.PN) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0250,1,01:22,CHI,,BOS,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,-234,-5,0,1,3.0,0.0,v
+S2223-G0250,1,00:04.200000,CHI,,BOS,,S. Hauser,BOS,SUB: Williams FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0250,2,11:05,CHI,28.0,BOS,26.0,S. Hauser,BOS,Hauser 3PT Jump Shot (3 PTS) (Tatum 2 AST),Made Shot,Jump Shot,-232,7,0,1,3.0,3.0,v
+S2223-G0250,2,10:14,CHI,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0250,2,10:07,CHI,,BOS,,S. Hauser,BOS,MISS Hauser Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0250,2,10:07,CHI,31.0,BOS,29.0,S. Hauser,BOS,Hauser Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0250,2,08:30,CHI,,BOS,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0250,4,10:58,CHI,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P3.T1) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G0250,4,10:40,CHI,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0250,4,08:28,CHI,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P4.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0250,4,08:28,CHI,,BOS,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0495,1,01:58,BOS,,MIL,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,41,24,1,3.0,0.0,h
+S2223-G0495,1,01:33,BOS,,MIL,,S. Hauser,BOS,MISS Hauser 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-134,235,27,1,3.0,0.0,h
+S2223-G0495,1,00:00,BOS,36.0,MIL,28.0,S. Hauser,BOS,Hauser 32' 3PT Pullup Jump Shot (3 PTS) (Williams 2 AST),Made Shot,Pullup Jump shot,183,261,32,1,3.0,3.0,h
+S2223-G0495,4,02:35,BOS,,MIL,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0495,4,01:30,BOS,137.0,MIL,115.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (6 PTS) (Pritchard 1 AST),Made Shot,Jump Shot,-151,214,26,1,3.0,3.0,h
+S2223-G0495,4,01:14,BOS,,MIL,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1181,1,00:45.500000,PHI,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G1181,4,00:11.700000,PHI,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-235,104,26,1,3.0,0.0,v
+S2223-G1181,4,00:02,PHI,,BOS,,S. Hauser,BOS,SUB: Williams FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G1206,1,11:42,BOS,,TOR,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,-218,125,25,1,3.0,0.0,h
+S2223-G1206,1,10:52,BOS,,TOR,,S. Hauser,BOS,Hauser Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G1206,1,09:32,BOS,,TOR,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,1,09:10,BOS,5.0,TOR,2.0,S. Hauser,BOS,Hauser 3PT Jump Shot (3 PTS) (White 1 AST),Made Shot,Jump Shot,-230,25,0,1,3.0,3.0,h
+S2223-G1206,1,08:45,BOS,,TOR,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,1,07:12,BOS,12.0,TOR,2.0,S. Hauser,BOS,Hauser 1' Reverse Layup (5 PTS) (Williams III 1 AST),Made Shot,Reverse Layup Shot,-6,10,1,1,2.0,2.0,h
+S2223-G1206,1,04:01,BOS,,TOR,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,1,03:44,BOS,24.0,TOR,7.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (8 PTS) (Tatum 2 AST),Made Shot,Jump Shot,-181,184,26,1,3.0,3.0,h
+S2223-G1206,1,02:47,BOS,,TOR,,S. Hauser,BOS,SUB: Williams FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G1206,2,05:25,BOS,53.0,TOR,27.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (11 PTS) (Pritchard 2 AST),Made Shot,Jump Shot,-167,185,25,1,3.0,3.0,h
+S2223-G1206,2,05:14,BOS,,TOR,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,2,05:04,BOS,,TOR,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,60,247,25,1,3.0,0.0,h
+S2223-G1206,2,02:33,BOS,,TOR,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,23,272,27,1,3.0,0.0,h
+S2223-G1206,3,10:55,BOS,,TOR,,S. Hauser,BOS,Hauser Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1206,3,07:12,BOS,,TOR,,S. Hauser,BOS,MISS Hauser 28' 3PT Jump Shot,Missed Shot,Jump Shot,-163,222,28,1,3.0,0.0,h
+S2223-G1206,3,03:39,BOS,86.0,TOR,61.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (14 PTS) (White 8 AST),Made Shot,Jump Shot,-229,89,25,1,3.0,3.0,h
+S2223-G1206,3,02:16,BOS,89.0,TOR,66.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (17 PTS) (White 9 AST),Made Shot,Jump Shot,-240,57,25,1,3.0,3.0,h
+S2223-G1206,3,01:56,BOS,91.0,TOR,66.0,S. Hauser,BOS,Hauser 2' Running Dunk (19 PTS) (Horford 3 AST),Made Shot,Running Dunk Shot,0,21,2,1,2.0,2.0,h
+S2223-G1206,4,11:04,BOS,,TOR,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,4,10:22,BOS,,TOR,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,47,24,1,3.0,0.0,h
+S2223-G1206,4,09:48,BOS,100.0,TOR,75.0,S. Hauser,BOS,Hauser 3' Cutting Dunk Shot (21 PTS) (Pritchard 4 AST),Made Shot,Cutting Dunk Shot,17,29,3,1,2.0,2.0,h
+S2223-G1206,4,09:29,BOS,102.0,TOR,78.0,S. Hauser,BOS,Hauser 3' Cutting Dunk Shot (23 PTS) (Muscala 1 AST),Made Shot,Cutting Dunk Shot,9,27,3,1,2.0,2.0,h
+S2223-G1206,4,07:11,BOS,,TOR,,S. Hauser,BOS,MISS Hauser 28' 3PT Jump Shot,Missed Shot,Jump Shot,-127,245,28,1,3.0,0.0,h
+S2223-G1206,4,05:51,BOS,,TOR,,S. Hauser,BOS,Hauser Bad Pass Turnover (P3.T20),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1206,4,03:51,BOS,112.0,TOR,88.0,S. Hauser,BOS,Hauser 3PT Jump Shot (26 PTS) (Kornet 1 AST),Made Shot,Jump Shot,224,21,0,1,3.0,3.0,h
+S2223-G1206,4,03:32,BOS,,TOR,,S. Hauser,BOS,SUB: Kabengele FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0047,2,10:25,CHI,37.0,BOS,42.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (3 PTS) (Brogdon 2 AST),Made Shot,Jump Shot,94,235,25,1,3.0,3.0,v
+S2223-G0047,2,08:56,CHI,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-113,236,26,1,3.0,0.0,v
+S2223-G0047,2,08:51,CHI,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0047,4,05:04,CHI,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0047,4,03:24,CHI,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,232,99,25,1,3.0,0.0,v
+S2223-G0047,4,02:10,CHI,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0047,4,02:00,CHI,,BOS,,S. Hauser,BOS,MISS Hauser Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0047,4,02:00,CHI,116.0,BOS,100.0,S. Hauser,BOS,Hauser Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0047,4,01:03,CHI,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,200,171,26,1,3.0,0.0,v
+S2223-G0525,1,04:00,BOS,,LAC,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0525,1,02:15,BOS,,LAC,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0525,1,01:41,BOS,,LAC,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-27,260,26,1,3.0,0.0,h
+S2223-G0525,1,00:30.300000,BOS,,LAC,,S. Hauser,BOS,MISS Hauser 29' 3PT Jump Shot,Missed Shot,Jump Shot,113,268,29,1,3.0,0.0,h
+S2223-G0525,2,08:51,BOS,,LAC,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0525,2,08:17,BOS,,LAC,,S. Hauser,BOS,SUB: Williams FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0525,3,04:40,BOS,78.0,LAC,74.0,S. Hauser,BOS,Hauser 25' 3PT Running Jump Shot (3 PTS) (Tatum 1 AST),Made Shot,Running Jump Shot,210,141,25,1,3.0,3.0,h
+S2223-G0525,3,02:50,BOS,,LAC,,S. Hauser,BOS,MISS Hauser 20' Jump Shot,Missed Shot,Jump Shot,15,202,20,1,2.0,0.0,h
+S2223-G0525,3,02:40,BOS,,LAC,,S. Hauser,BOS,Hauser S.FOUL (P1.T2) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0525,3,01:11,BOS,,LAC,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,184,165,25,1,3.0,0.0,h
+S2223-G0525,4,09:36,BOS,,LAC,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0030,1,01:44,ORL,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,27,263,26,1,3.0,0.0,v
+S2223-G0030,1,01:09,ORL,31.0,BOS,33.0,S. Hauser,BOS,Hauser 3PT Jump Shot (3 PTS) (Brogdon 1 AST),Made Shot,Jump Shot,-222,41,0,1,3.0,3.0,v
+S2223-G0030,1,00:43.700000,ORL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0030,2,10:02,ORL,40.0,BOS,42.0,S. Hauser,BOS,Hauser 3PT Jump Shot (6 PTS) (Brogdon 3 AST),Made Shot,Jump Shot,-222,44,0,1,3.0,3.0,v
+S2223-G0030,2,08:58,ORL,42.0,BOS,46.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (9 PTS) (Brogdon 4 AST),Made Shot,Jump Shot,110,230,25,1,3.0,3.0,v
+S2223-G0030,2,07:52,ORL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0030,2,07:08,ORL,,BOS,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0749,2,09:12,BOS,,LAL,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0749,2,08:45,BOS,,LAL,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0749,2,06:46,BOS,,LAL,,S. Hauser,BOS,SUB: White FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0163,1,03:45,BOS,,DET,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,97,238,26,1,3.0,0.0,h
+S2223-G0163,1,02:58,BOS,,DET,,S. Hauser,BOS,Hauser P.FOUL (P1.PN) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2223-G0163,1,00:00,BOS,,DET,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-120,230,26,1,3.0,0.0,h
+S2223-G0163,2,09:25,BOS,37.0,DET,31.0,S. Hauser,BOS,Hauser 28' 3PT Jump Shot (3 PTS) (White 2 AST),Made Shot,Jump Shot,-92,267,28,1,3.0,3.0,h
+S2223-G0163,2,08:13,BOS,,DET,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,-225,54,0,1,3.0,0.0,h
+S2223-G0163,2,07:09,BOS,,DET,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0163,2,05:36,BOS,,DET,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0163,2,04:45,BOS,44.0,DET,39.0,S. Hauser,BOS,Hauser 10' Driving Floating Jump Shot (5 PTS) (Brown 3 AST),Made Shot,Driving Floating Jump Shot,-42,96,10,1,2.0,2.0,h
+S2223-G0163,2,03:09,BOS,50.0,DET,40.0,S. Hauser,BOS,Hauser Cutting Layup Shot (7 PTS) (Tatum 2 AST),Made Shot,Cutting Layup Shot,-1,2,0,1,2.0,2.0,h
+S2223-G0163,2,02:45,BOS,53.0,DET,43.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (10 PTS) (Smart 5 AST),Made Shot,Jump Shot,43,268,27,1,3.0,3.0,h
+S2223-G0163,2,02:21,BOS,55.0,DET,43.0,S. Hauser,BOS,Hauser 2' Cutting Layup Shot (12 PTS) (Horford 2 AST),Made Shot,Cutting Layup Shot,21,4,2,1,2.0,2.0,h
+S2223-G0163,3,03:29,BOS,,DET,,S. Hauser,BOS,Hauser P.FOUL (P2.PN) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2223-G0163,3,02:24,BOS,,DET,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,55,24,1,3.0,0.0,h
+S2223-G0163,3,01:26,BOS,89.0,DET,76.0,S. Hauser,BOS,Hauser 24' 3PT Jump Shot (15 PTS) (White 4 AST),Made Shot,Jump Shot,-237,53,24,1,3.0,3.0,h
+S2223-G0163,3,00:55.900000,BOS,92.0,DET,76.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (18 PTS) (Kornet 1 AST),Made Shot,Jump Shot,134,227,26,1,3.0,3.0,h
+S2223-G0163,4,11:46,BOS,,DET,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,115,237,26,1,3.0,0.0,h
+S2223-G0163,4,09:17,BOS,,DET,,S. Hauser,BOS,Hauser S.FOUL (P3.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0163,4,07:37,BOS,,DET,,S. Hauser,BOS,SUB: Williams FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0163,4,03:34,BOS,123.0,DET,101.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (21 PTS) (Pritchard 1 AST),Made Shot,Jump Shot,-53,266,27,1,3.0,3.0,h
+S2223-G0163,4,03:11,BOS,126.0,DET,103.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (24 PTS) (Jackson 1 AST),Made Shot,Jump Shot,147,209,26,1,3.0,3.0,h
+S2223-G0163,4,02:40,BOS,,DET,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,174,187,26,1,3.0,0.0,h
+S2223-G0231,1,01:29,NOP,,BOS,,S. Hauser,BOS,Hauser Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0231,1,00:02.600000,NOP,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0231,2,11:41,NOP,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,-179,180,25,1,3.0,0.0,v
+S2223-G0231,2,11:29,NOP,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0231,2,10:32,NOP,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,-156,197,25,1,3.0,0.0,v
+S2223-G0231,2,07:59,NOP,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,118,236,26,1,3.0,0.0,v
+S2223-G0231,2,07:46,NOP,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P1.T1) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2223-G0231,2,05:03,NOP,,BOS,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0231,2,00:41.700000,NOP,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0231,2,00:40.400000,NOP,,BOS,,S. Hauser,BOS,MISS Hauser 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,-4,6,1,1,2.0,0.0,v
+S2223-G0231,2,00:03.800000,NOP,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0231,2,00:02.500000,NOP,,BOS,,S. Hauser,BOS,MISS Hauser 8' Putback Layup,Missed Shot,Putback Layup Shot,66,53,8,1,2.0,0.0,v
+S2223-G0231,3,03:30,NOP,66.0,BOS,84.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (3 PTS) (Brown 6 AST),Made Shot,Jump Shot,-54,253,26,1,3.0,3.0,v
+S2223-G0231,3,03:14,NOP,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P2.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0231,4,07:59,NOP,85.0,BOS,98.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (6 PTS) (Tatum 8 AST),Made Shot,Jump Shot,-152,226,27,1,3.0,3.0,v
+S2223-G0231,4,07:36,NOP,,BOS,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0948,1,06:31,BOS,,BKN,,S. Hauser,BOS,Hauser S.FOUL (P1.T2) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2223-G0948,1,05:44,BOS,,BKN,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0948,1,04:46,BOS,,BKN,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0948,1,04:18,BOS,26.0,BKN,7.0,S. Hauser,BOS,Hauser 24' 3PT Jump Shot (3 PTS) (Horford 1 AST),Made Shot,Jump Shot,-240,23,24,1,3.0,3.0,h
+S2223-G0948,2,11:01,BOS,42.0,BKN,18.0,S. Hauser,BOS,Hauser 24' 3PT Jump Shot (6 PTS) (Tatum 2 AST),Made Shot,Jump Shot,-238,42,24,1,3.0,3.0,h
+S2223-G0948,2,09:42,BOS,,BKN,,S. Hauser,BOS,MISS Hauser 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,199,163,26,1,3.0,0.0,h
+S2223-G0948,2,09:02,BOS,,BKN,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0948,3,00:27,BOS,,BKN,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0948,3,00:01.500000,BOS,,BKN,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0948,4,07:14,BOS,,BKN,,S. Hauser,BOS,SUB: Williams FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0621,1,06:27,BOS,,NOP,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0621,1,06:15,BOS,,NOP,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,221,125,25,1,3.0,0.0,h
+S2223-G0621,1,02:59,BOS,,NOP,,S. Hauser,BOS,MISS Hauser 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-51,11,5,1,2.0,0.0,h
+S2223-G0621,1,02:01,BOS,,NOP,,S. Hauser,BOS,SUB: Brogdon FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0621,4,02:04,BOS,,NOP,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,-233,88,25,1,3.0,0.0,h
+S2223-G0621,4,01:41,BOS,,NOP,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0621,4,01:22,BOS,,NOP,,S. Hauser,BOS,Hauser S.FOUL (P1.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0549,1,01:10,DEN,35.0,BOS,27.0,S. Hauser,BOS,Hauser 3' Driving Reverse Layup (2 PTS) (Tatum 3 AST),Made Shot,Driving Reverse Layup Shot,-34,8,3,1,2.0,2.0,v
+S2223-G0549,2,10:20,DEN,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,-217,119,25,1,3.0,0.0,v
+S2223-G0549,2,09:54,DEN,,BOS,,S. Hauser,BOS,SUB: White FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0549,3,01:14,DEN,93.0,BOS,82.0,S. Hauser,BOS,Hauser 3PT Jump Shot (5 PTS) (Brogdon 3 AST),Made Shot,Jump Shot,-229,25,0,1,3.0,3.0,v
+S2223-G0549,4,09:28,DEN,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0772,4,10:18,BOS,,BKN,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,4,08:09,BOS,,BKN,,S. Hauser,BOS,Hauser P.FOUL (P1.T2) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G0772,4,08:01,BOS,,BKN,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,4,07:53,BOS,125.0,BKN,78.0,S. Hauser,BOS,Hauser 3PT Jump Shot (3 PTS) (Griffin 1 AST),Made Shot,Jump Shot,223,58,0,1,3.0,3.0,h
+S2223-G0772,4,07:11,BOS,,BKN,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,4,07:06,BOS,,BKN,,S. Hauser,BOS,MISS Hauser 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,0,278,28,1,3.0,0.0,h
+S2223-G0772,4,06:10,BOS,,BKN,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,4,05:03,BOS,,BKN,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-13,266,27,1,3.0,0.0,h
+S2223-G0772,4,04:42,BOS,,BKN,,S. Hauser,BOS,Hauser Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0772,4,04:26,BOS,,BKN,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,223,127,26,1,3.0,0.0,h
+S2223-G0772,4,04:05,BOS,,BKN,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,4,03:00,BOS,132.0,BKN,89.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (6 PTS) (Kornet 3 AST),Made Shot,Jump Shot,-218,153,27,1,3.0,3.0,h
+S2223-G0772,4,01:53,BOS,134.0,BKN,94.0,S. Hauser,BOS,Hauser 3' Reverse Layup (8 PTS) (Kornet 4 AST),Made Shot,Reverse Layup Shot,-4,25,3,1,2.0,2.0,h
+S2223-G0772,4,01:15,BOS,,BKN,,S. Hauser,BOS,MISS Hauser 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,188,180,26,1,3.0,0.0,h
+S2223-G0908,2,07:06,PHI,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P1.T3) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2223-G0908,2,07:06,PHI,,BOS,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0135,1,03:24,NYK,,BOS,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,232,10,0,1,3.0,0.0,v
+S2223-G0135,1,00:57.600000,NYK,24.0,BOS,27.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (3 PTS) (Brogdon 1 AST),Made Shot,Jump Shot,192,169,26,1,3.0,3.0,v
+S2223-G0135,1,00:40.200000,NYK,24.0,BOS,30.0,S. Hauser,BOS,Hauser 3PT Running Jump Shot (6 PTS) (Tatum 1 AST),Made Shot,Running Jump Shot,223,13,0,1,3.0,3.0,v
+S2223-G0135,1,00:09.400000,NYK,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0135,2,10:09,NYK,29.0,BOS,41.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (9 PTS) (Tatum 2 AST),Made Shot,Jump Shot,-29,268,27,1,3.0,3.0,v
+S2223-G0135,2,08:41,NYK,35.0,BOS,45.0,S. Hauser,BOS,Hauser Driving Layup (11 PTS) (Brown 1 AST),Made Shot,Driving Layup Shot,-1,1,0,1,2.0,2.0,v
+S2223-G0135,2,08:34,NYK,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0135,2,07:40,NYK,39.0,BOS,53.0,S. Hauser,BOS,Hauser 24' 3PT Running Jump Shot (14 PTS) (Brogdon 3 AST),Made Shot,Running Jump Shot,238,36,24,1,3.0,3.0,v
+S2223-G0135,2,07:07,NYK,,BOS,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-224,72,24,1,3.0,0.0,v
+S2223-G0135,2,06:49,NYK,,BOS,,S. Hauser,BOS,SUB: White FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0135,3,05:10,NYK,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P2.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2223-G0135,3,04:13,NYK,88.0,BOS,92.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (17 PTS) (Smart 10 AST),Made Shot,Jump Shot,-146,212,26,1,3.0,3.0,v
+S2223-G0135,4,10:45,NYK,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0135,4,08:27,NYK,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0135,4,07:56,NYK,,BOS,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,2,24,1,3.0,0.0,v
+S2223-G0135,4,07:43,NYK,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0877,1,03:19,BOS,,DET,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0877,2,10:26,BOS,,DET,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,-229,20,0,1,3.0,0.0,h
+S2223-G0877,2,07:30,BOS,,DET,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0877,2,05:50,BOS,,DET,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0877,2,05:24,BOS,,DET,,S. Hauser,BOS,SUB: Brogdon FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0877,3,04:00,BOS,,DET,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,-227,26,0,1,3.0,0.0,h
+S2223-G0877,3,01:35,BOS,94.0,DET,84.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (3 PTS) (Brogdon 2 AST),Made Shot,Jump Shot,-104,252,27,1,3.0,3.0,h
+S2223-G0877,4,08:36,BOS,107.0,DET,95.0,S. Hauser,BOS,Hauser 2' Reverse Layup (5 PTS) (Brogdon 4 AST),Made Shot,Reverse Layup Shot,-9,15,2,1,2.0,2.0,h
+S2223-G0877,4,06:01,BOS,,DET,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0089,1,00:55.900000,BOS,,WAS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0089,1,00:51.700000,BOS,,WAS,,S. Hauser,BOS,MISS Hauser 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,70,248,26,1,3.0,0.0,h
+S2223-G0089,1,00:37.900000,BOS,,WAS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0089,1,00:08.100000,BOS,,WAS,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0089,2,11:21,BOS,37.0,WAS,15.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (3 PTS) (Brogdon 1 AST),Made Shot,Jump Shot,-121,246,27,1,3.0,3.0,h
+S2223-G0089,2,09:19,BOS,,WAS,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-228,71,24,1,3.0,0.0,h
+S2223-G0089,2,09:08,BOS,,WAS,,S. Hauser,BOS,Hauser BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0089,2,09:07,BOS,,WAS,,S. Hauser,BOS,Hauser S.FOUL (P1.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0089,2,07:11,BOS,,WAS,,S. Hauser,BOS,SUB: Horford FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0089,3,03:36,BOS,,WAS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0089,3,00:40,BOS,87.0,WAS,66.0,S. Hauser,BOS,Hauser 28' 3PT Jump Shot (6 PTS) (Brogdon 3 AST),Made Shot,Jump Shot,-167,222,28,1,3.0,3.0,h
+S2223-G0089,3,00:31.200000,BOS,,WAS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0089,4,10:18,BOS,,WAS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0089,4,10:11,BOS,93.0,WAS,68.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (9 PTS) (Williams 3 AST),Made Shot,Jump Shot,-237,96,26,1,3.0,3.0,h
+S2223-G0089,4,06:53,BOS,,WAS,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0355,1,05:06,TOR,,BOS,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,37,24,1,3.0,0.0,v
+S2223-G0355,1,04:53,TOR,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0355,1,03:59,TOR,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0355,1,03:18,TOR,,BOS,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,63,24,1,3.0,0.0,v
+S2223-G0355,1,02:04,TOR,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0355,1,01:35,TOR,19.0,BOS,27.0,S. Hauser,BOS,Hauser 25' 3PT Running Jump Shot (3 PTS) (Tatum 2 AST),Made Shot,Running Jump Shot,230,89,25,1,3.0,3.0,v
+S2223-G0355,1,00:02.100000,TOR,,BOS,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-25,269,27,1,3.0,0.0,v
+S2223-G0355,2,11:07,TOR,27.0,BOS,29.0,S. Hauser,BOS,Hauser 3' Running Reverse Layup (5 PTS) (White 1 AST),Made Shot,Running Reverse Layup Shot,-15,20,3,1,2.0,2.0,v
+S2223-G0355,2,09:36,TOR,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P2.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0355,2,09:36,TOR,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0355,4,11:13,TOR,,BOS,,S. Hauser,BOS,Hauser L.B.FOUL (P3.T1) (J.Tiven),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0355,4,10:07,TOR,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0355,4,08:14,TOR,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0482,1,05:26,BOS,,MIN,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0482,1,05:00,BOS,,MIN,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0482,1,04:51,BOS,,MIN,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-136,237,27,1,3.0,0.0,h
+S2223-G0482,1,04:16,BOS,,MIN,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-186,195,27,1,3.0,0.0,h
+S2223-G0482,1,04:07,BOS,,MIN,,S. Hauser,BOS,Hauser P.FOUL (P1.T2) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2223-G0482,1,01:58,BOS,,MIN,,S. Hauser,BOS,Hauser Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0482,1,00:56.200000,BOS,,MIN,,S. Hauser,BOS,Hauser S.FOUL (P2.PN) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0482,1,00:29.600000,BOS,,MIN,,S. Hauser,BOS,Hauser S.FOUL (P3.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0482,1,00:29.600000,BOS,,MIN,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0314,2,11:23,BOS,,MIA,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,221,112,25,1,3.0,0.0,h
+S2223-G0314,2,11:02,BOS,,MIA,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0314,2,08:53,BOS,,MIA,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,-1,24,1,3.0,0.0,h
+S2223-G0314,2,08:37,BOS,,MIA,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0986,1,02:07,BOS,31.0,POR,22.0,S. Hauser,BOS,Hauser 26' 3PT Running Jump Shot (3 PTS) (Tatum 2 AST),Made Shot,Running Jump Shot,-137,220,26,1,3.0,3.0,h
+S2223-G0986,1,01:44,BOS,,POR,,S. Hauser,BOS,Hauser BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0986,1,01:22,BOS,34.0,POR,25.0,S. Hauser,BOS,Hauser 3PT Jump Shot (6 PTS) (Griffin 1 AST),Made Shot,Jump Shot,-230,48,0,1,3.0,3.0,h
+S2223-G0986,2,11:45,BOS,38.0,POR,28.0,S. Hauser,BOS,Hauser 24' 3PT Jump Shot (9 PTS) (Griffin 2 AST),Made Shot,Jump Shot,239,4,24,1,3.0,3.0,h
+S2223-G0986,2,08:42,BOS,,POR,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,53,24,1,3.0,0.0,h
+S2223-G0986,2,08:07,BOS,,POR,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,232,-4,0,1,3.0,0.0,h
+S2223-G0986,2,07:25,BOS,,POR,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,63,24,1,3.0,0.0,h
+S2223-G0986,2,04:08,BOS,,POR,,S. Hauser,BOS,SUB: Brogdon FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0986,2,01:59,BOS,,POR,,S. Hauser,BOS,Hauser S.FOUL (P1.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0986,3,03:35,BOS,,POR,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-109,240,26,1,3.0,0.0,h
+S2223-G0986,3,01:21,BOS,87.0,POR,70.0,S. Hauser,BOS,Hauser Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0986,3,01:21,BOS,88.0,POR,70.0,S. Hauser,BOS,Hauser Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0986,3,00:27,BOS,,POR,,S. Hauser,BOS,Hauser S.FOUL (P2.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0986,4,11:18,BOS,,POR,,S. Hauser,BOS,Hauser BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0986,4,10:40,BOS,,POR,,S. Hauser,BOS,MISS Hauser 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,232,67,24,1,3.0,0.0,h
+S2223-G0986,4,09:20,BOS,,POR,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0986,4,09:10,BOS,,POR,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0986,4,03:54,BOS,,POR,,S. Hauser,BOS,Hauser Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0986,4,03:32,BOS,,POR,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-80,248,26,1,3.0,0.0,h
+S2223-G0969,1,04:46,BOS,,NYK,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,33,24,1,3.0,0.0,h
+S2223-G0969,1,04:42,BOS,17.0,NYK,17.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (3 PTS) (Horford 2 AST),Made Shot,Jump Shot,-196,174,26,1,3.0,3.0,h
+S2223-G0969,1,02:42,BOS,,NYK,,S. Hauser,BOS,Hauser S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0969,1,01:28,BOS,,NYK,,S. Hauser,BOS,Hauser S.FOUL (P2.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0969,2,07:39,BOS,,NYK,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0969,3,04:54,BOS,,NYK,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0969,3,02:47,BOS,,NYK,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,41,24,1,3.0,0.0,h
+S2223-G0969,3,02:38,BOS,,NYK,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0969,3,02:17,BOS,,NYK,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-135,229,27,1,3.0,0.0,h
+S2223-G0969,4,10:16,BOS,,NYK,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0969,4,10:15,BOS,,NYK,,S. Hauser,BOS,Hauser Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0969,4,10:10,BOS,,NYK,,S. Hauser,BOS,Hauser S.FOUL (P3.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0969,4,09:04,BOS,,NYK,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0656,2,10:26,CHA,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0656,2,10:09,CHA,,BOS,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,230,47,0,1,3.0,0.0,v
+S2223-G0656,2,08:45,CHA,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,v
+S2223-G0656,2,07:55,CHA,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0656,2,06:56,CHA,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0656,2,06:37,CHA,,BOS,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0656,4,09:33,CHA,,BOS,,S. Hauser,BOS,SUB: White FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0507,1,05:23,BOS,,HOU,,S. Hauser,BOS,Hauser P.FOUL (P1.T3) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2223-G0507,1,04:50,BOS,,HOU,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,1,03:45,BOS,,HOU,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,228,73,24,1,3.0,0.0,h
+S2223-G0507,1,03:38,BOS,,HOU,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-136,232,27,1,3.0,0.0,h
+S2223-G0507,1,01:37,BOS,,HOU,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,1,01:35,BOS,,HOU,,S. Hauser,BOS,Hauser Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0507,2,11:18,BOS,,HOU,,S. Hauser,BOS,SUB: White FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0507,3,00:20.100000,BOS,,HOU,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-230,145,27,1,3.0,0.0,h
+S2223-G0507,4,02:20,BOS,123.0,HOU,99.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (3 PTS) (White 3 AST),Made Shot,Jump Shot,165,197,26,1,3.0,3.0,h
+S2223-G0507,4,01:17,BOS,,HOU,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,4,01:11,BOS,,HOU,,S. Hauser,BOS,MISS Hauser Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0507,4,01:11,BOS,,HOU,,S. Hauser,BOS,MISS Hauser Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0507,4,00:52.300000,BOS,,HOU,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0301,1,01:39,BOS,,CHA,,S. Hauser,BOS,Hauser Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0301,1,00:23,BOS,,CHA,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0301,2,08:54,BOS,,CHA,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,-217,133,25,1,3.0,0.0,h
+S2223-G0301,2,08:43,BOS,,CHA,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0301,2,06:51,BOS,,CHA,,S. Hauser,BOS,SUB: Brogdon FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0301,3,05:22,BOS,,CHA,,S. Hauser,BOS,MISS Hauser 29' 3PT Jump Shot,Missed Shot,Jump Shot,-148,245,29,1,3.0,0.0,h
+S2223-G0301,3,03:11,BOS,110.0,CHA,80.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (3 PTS) (Brogdon 6 AST),Made Shot,Jump Shot,151,214,26,1,3.0,3.0,h
+S2223-G0301,3,01:29,BOS,,CHA,,S. Hauser,BOS,Hauser BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0301,3,01:20,BOS,115.0,CHA,80.0,S. Hauser,BOS,Hauser 3' Running Layup (5 PTS) (Smart 14 AST),Made Shot,Running Layup Shot,10,26,3,1,2.0,2.0,h
+S2223-G0301,3,00:41.600000,BOS,,CHA,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0301,4,10:55,BOS,124.0,CHA,82.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (8 PTS) (White 5 AST),Made Shot,Jump Shot,-169,216,27,1,3.0,3.0,h
+S2223-G0301,4,09:28,BOS,,CHA,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-34,260,26,1,3.0,0.0,h
+S2223-G0301,4,09:19,BOS,,CHA,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0301,4,04:28,BOS,,CHA,,S. Hauser,BOS,Hauser Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0301,4,04:24,BOS,,CHA,,S. Hauser,BOS,Hauser BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0301,4,03:34,BOS,135.0,CHA,96.0,S. Hauser,BOS,Hauser 24' 3PT Jump Shot (11 PTS) (Pritchard 2 AST),Made Shot,Jump Shot,237,15,24,1,3.0,3.0,h
+S2223-G0730,2,09:10,BOS,37.0,NYK,35.0,S. Hauser,BOS,Hauser 24' 3PT Running Jump Shot (3 PTS) (White 2 AST),Made Shot,Running Jump Shot,237,38,24,1,3.0,3.0,h
+S2223-G0730,2,06:15,BOS,46.0,NYK,45.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (6 PTS) (Tatum 1 AST),Made Shot,Jump Shot,92,233,25,1,3.0,3.0,h
+S2223-G0730,2,05:32,BOS,,NYK,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0730,3,00:01.100000,BOS,84.0,NYK,91.0,S. Hauser,BOS,Hauser Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0730,3,00:01.100000,BOS,85.0,NYK,91.0,S. Hauser,BOS,Hauser Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0730,3,00:00,BOS,,NYK,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0730,4,11:41,BOS,,NYK,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-96,239,26,1,3.0,0.0,h
+S2223-G0730,4,11:15,BOS,,NYK,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0730,4,10:33,BOS,,NYK,,S. Hauser,BOS,Hauser S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0730,4,09:21,BOS,,NYK,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,140,225,27,1,3.0,0.0,h
+S2223-G0730,4,09:03,BOS,,NYK,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0730,4,08:16,BOS,,NYK,,S. Hauser,BOS,SUB: Williams FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0264,1,05:17,BOS,,DAL,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0264,1,04:45,BOS,,DAL,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0264,1,04:15,BOS,,DAL,,S. Hauser,BOS,MISS Hauser 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,157,197,25,1,3.0,0.0,h
+S2223-G0264,1,02:48,BOS,,DAL,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,148,216,26,1,3.0,0.0,h
+S2223-G0264,2,09:02,BOS,46.0,DAL,28.0,S. Hauser,BOS,Hauser 24' 3PT Jump Shot (3 PTS) (Williams 2 AST),Made Shot,Jump Shot,-230,55,24,1,3.0,3.0,h
+S2223-G0264,2,08:31,BOS,,DAL,,S. Hauser,BOS,Hauser S.FOUL (P1.T2) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0264,2,08:03,BOS,,DAL,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0264,2,07:35,BOS,,DAL,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0264,3,04:35,BOS,,DAL,,S. Hauser,BOS,Hauser P.FOUL (P2.PN) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2223-G0264,3,04:25,BOS,,DAL,,S. Hauser,BOS,Hauser P.FOUL (P3.PN) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2223-G0176,1,03:14,BOS,,DEN,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-199,180,27,1,3.0,0.0,h
+S2223-G0176,1,01:45,BOS,31.0,DEN,21.0,S. Hauser,BOS,Hauser 4' Cutting Layup Shot (2 PTS) (Williams 2 AST),Made Shot,Cutting Layup Shot,34,13,4,1,2.0,2.0,h
+S2223-G0176,2,11:34,BOS,,DEN,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-228,71,24,1,3.0,0.0,h
+S2223-G0176,2,09:59,BOS,,DEN,,S. Hauser,BOS,Hauser S.FOUL (P1.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0176,2,09:24,BOS,,DEN,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,51,244,25,1,3.0,0.0,h
+S2223-G0176,2,08:02,BOS,,DEN,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0176,2,06:31,BOS,,DEN,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0176,3,02:07,BOS,93.0,DEN,87.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (5 PTS) (White 4 AST),Made Shot,Jump Shot,146,227,27,1,3.0,3.0,h
+S2223-G0176,3,01:46,BOS,,DEN,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0176,4,11:07,BOS,,DEN,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0176,4,10:35,BOS,,DEN,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0176,4,08:50,BOS,,DEN,,S. Hauser,BOS,Hauser BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0176,4,08:47,BOS,,DEN,,S. Hauser,BOS,Hauser BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0176,4,08:07,BOS,,DEN,,S. Hauser,BOS,Hauser S.FOUL (P2.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0176,4,07:50,BOS,,DEN,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,232,83,25,1,3.0,0.0,h
+S2223-G0176,4,07:05,BOS,,DEN,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0176,4,06:35,BOS,,DEN,,S. Hauser,BOS,SUB: Williams FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0176,4,00:49.900000,BOS,,DEN,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,157,209,26,1,3.0,0.0,h
+S2223-G1008,1,02:24,ATL,30.0,BOS,31.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (3 PTS) (Tatum 2 AST),Made Shot,Jump Shot,98,232,25,1,3.0,3.0,v
+S2223-G1008,2,10:49,ATL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1008,2,08:49,ATL,40.0,BOS,49.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (6 PTS) (Tatum 3 AST),Made Shot,Jump Shot,-141,215,26,1,3.0,3.0,v
+S2223-G1008,2,06:58,ATL,42.0,BOS,54.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (9 PTS) (Brogdon 3 AST),Made Shot,Jump Shot,28,248,25,1,3.0,3.0,v
+S2223-G1008,2,04:45,ATL,,BOS,,S. Hauser,BOS,SUB: White FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G1008,3,04:38,ATL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1008,3,03:02,ATL,79.0,BOS,93.0,S. Hauser,BOS,Hauser 3PT Jump Shot (12 PTS) (Griffin 1 AST),Made Shot,Jump Shot,-227,15,0,1,3.0,3.0,v
+S2223-G1008,3,02:34,ATL,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,190,168,25,1,3.0,0.0,v
+S2223-G1008,3,00:54.600000,ATL,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G1008,4,11:14,ATL,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P2.T2) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2223-G1008,4,08:31,ATL,,BOS,,S. Hauser,BOS,SUB: Horford FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0971,1,03:02,CLE,,BOS,,S. Hauser,BOS,Hauser Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0971,1,02:28,CLE,,BOS,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0971,1,01:07,CLE,,BOS,,S. Hauser,BOS,Hauser BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0971,1,00:10.100000,CLE,23.0,BOS,31.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (3 PTS) (Brown 4 AST),Made Shot,Jump Shot,85,248,26,1,3.0,3.0,v
+S2223-G0971,3,02:56,CLE,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0971,3,01:28,CLE,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0971,3,00:25.500000,CLE,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0971,3,00:02.600000,CLE,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0072,1,03:19,BOS,,CLE,,S. Hauser,BOS,Hauser Offensive Charge Foul (P1) (B.Taylor),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0072,1,03:19,BOS,,CLE,,S. Hauser,BOS,Hauser Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0072,1,02:40,BOS,23.0,CLE,29.0,S. Hauser,BOS,Hauser 2' Running Finger Roll Layup (2 PTS) (Brogdon 2 AST),Made Shot,Running Finger Roll Layup Shot,-4,18,2,1,2.0,2.0,h
+S2223-G0072,1,00:01,BOS,34.0,CLE,33.0,S. Hauser,BOS,Hauser 29' 3PT Running Jump Shot (5 PTS) (Smart 3 AST),Made Shot,Running Jump Shot,-157,247,29,1,3.0,3.0,h
+S2223-G0072,2,10:31,BOS,,CLE,,S. Hauser,BOS,MISS Hauser 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,207,132,25,1,3.0,0.0,h
+S2223-G0072,2,08:25,BOS,,CLE,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0072,2,06:37,BOS,,CLE,,S. Hauser,BOS,SUB: White FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0072,4,08:45,BOS,,CLE,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G1024,1,04:42,HOU,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,69,239,25,1,3.0,0.0,v
+S2223-G1024,1,02:43,HOU,,BOS,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,216,159,27,1,3.0,0.0,v
+S2223-G1024,2,10:19,HOU,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,146,200,25,1,3.0,0.0,v
+S2223-G1024,2,09:15,HOU,,BOS,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G1024,2,01:39,HOU,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P1.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G1024,2,01:28,HOU,,BOS,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,234,3,0,1,3.0,0.0,v
+S2223-G1024,2,01:13,HOU,,BOS,,S. Hauser,BOS,MISS Hauser 19' Jump Shot,Missed Shot,Jump Shot,184,21,19,1,2.0,0.0,v
+S2223-G1024,2,00:50.900000,HOU,59.0,BOS,53.0,S. Hauser,BOS,Hauser 24' 3PT Jump Shot (3 PTS) (Brown 1 AST),Made Shot,Jump Shot,235,6,24,1,3.0,3.0,v
+S2223-G1024,4,10:21,HOU,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P2.T1) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2223-G1024,4,10:00,HOU,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1024,4,08:55,HOU,89.0,BOS,87.0,S. Hauser,BOS,Hauser 3' Running Reverse Layup (5 PTS) (Brown 2 AST),Made Shot,Running Reverse Layup Shot,28,2,3,1,2.0,2.0,v
+S2223-G1024,4,08:10,HOU,,BOS,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,-233,0,0,1,3.0,0.0,v
+S2223-G1024,4,07:06,HOU,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G1053,1,01:36,POR,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,125,224,26,1,3.0,0.0,v
+S2223-G1053,1,00:40.600000,POR,,BOS,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1053,2,11:02,POR,27.0,BOS,37.0,S. Hauser,BOS,Hauser 3PT Jump Shot (3 PTS) (Smart 2 AST),Made Shot,Jump Shot,-227,6,0,1,3.0,3.0,v
+S2223-G1053,2,08:22,POR,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P1.T3) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2223-G1053,2,08:22,POR,,BOS,,S. Hauser,BOS,SUB: White FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G1053,3,02:50,POR,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1053,3,02:24,POR,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1053,3,01:09,POR,68.0,BOS,87.0,S. Hauser,BOS,Hauser 3PT Jump Shot (6 PTS) (Smart 5 AST),Made Shot,Jump Shot,-232,28,0,1,3.0,3.0,v
+S2223-G1053,3,00:02.800000,POR,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1053,3,00:00,POR,,BOS,,S. Hauser,BOS,MISS Hauser Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,v
+S2223-G1053,4,10:04,POR,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1053,4,08:24,POR,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1053,4,07:49,POR,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-89,247,26,1,3.0,0.0,v
+S2223-G1053,4,07:01,POR,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1053,4,06:55,POR,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0642,2,11:32,CHA,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-82,247,26,1,3.0,0.0,v
+S2223-G0642,2,08:53,CHA,,BOS,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,68,24,1,3.0,0.0,v
+S2223-G0642,2,08:39,CHA,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0642,3,02:01,CHA,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0642,3,02:01,CHA,,BOS,,S. Hauser,BOS,SUB: Pritchard FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0642,4,01:05,CHA,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0642,4,00:30.700000,CHA,104.0,BOS,122.0,S. Hauser,BOS,Hauser 2' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,15,10,2,1,2.0,2.0,v
+S2223-G0707,1,03:20,ORL,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P1.T3) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0707,1,02:40,ORL,,BOS,,S. Hauser,BOS,MISS Hauser 6' Hook Shot,Missed Shot,Hook Shot,-37,43,6,1,2.0,0.0,v
+S2223-G0707,1,01:13,ORL,23.0,BOS,23.0,S. Hauser,BOS,Hauser 4' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-15,38,4,1,2.0,2.0,v
+S2223-G0707,1,00:54.500000,ORL,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P2.T4) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2223-G0707,2,10:54,ORL,32.0,BOS,28.0,S. Hauser,BOS,Hauser 24' 3PT Jump Shot (5 PTS) (Williams 2 AST),Made Shot,Jump Shot,237,-1,24,1,3.0,3.0,v
+S2223-G0707,2,10:40,ORL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0707,2,08:53,ORL,,BOS,,S. Hauser,BOS,Hauser BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0707,2,08:11,ORL,,BOS,,S. Hauser,BOS,SUB: Pritchard FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0707,3,03:11,ORL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0707,3,01:51,ORL,86.0,BOS,76.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (8 PTS) (Tatum 5 AST),Made Shot,Jump Shot,221,126,25,1,3.0,3.0,v
+S2223-G0707,3,01:10,ORL,,BOS,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,-26,24,1,3.0,0.0,v
+S2223-G0707,3,01:00,ORL,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-159,203,26,1,3.0,0.0,v
+S2223-G0707,4,10:07,ORL,92.0,BOS,84.0,S. Hauser,BOS,Hauser 13' Pullup Jump Shot (10 PTS) (Tatum 6 AST),Made Shot,Pullup Jump shot,-25,130,13,1,2.0,2.0,v
+S2223-G0707,4,09:25,ORL,92.0,BOS,87.0,S. Hauser,BOS,Hauser 24' 3PT Jump Shot (13 PTS) (Tatum 7 AST),Made Shot,Jump Shot,241,38,24,1,3.0,3.0,v
+S2223-G0707,4,09:08,ORL,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P3.T2) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0707,4,07:24,ORL,,BOS,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0707,4,00:50.100000,ORL,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,49,247,25,1,3.0,0.0,v
+S2223-G1116,1,04:44,BOS,20.0,SAS,19.0,S. Hauser,BOS,Hauser 3PT Jump Shot (3 PTS) (White 1 AST),Made Shot,Jump Shot,229,26,0,1,3.0,3.0,h
+S2223-G1116,1,00:02.400000,BOS,,SAS,,S. Hauser,BOS,MISS Hauser 30' 3PT Jump Shot,Missed Shot,Jump Shot,123,272,30,1,3.0,0.0,h
+S2223-G1116,3,09:22,BOS,,SAS,,S. Hauser,BOS,Hauser P.FOUL (P1.T1) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2223-G1116,3,07:44,BOS,,SAS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,3,07:08,BOS,,SAS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,3,05:59,BOS,,SAS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,3,05:56,BOS,,SAS,,S. Hauser,BOS,MISS Hauser 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,159,218,27,1,3.0,0.0,h
+S2223-G1116,3,04:54,BOS,,SAS,,S. Hauser,BOS,Hauser P.FOUL (P2.T2) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G1116,3,04:19,BOS,,SAS,,S. Hauser,BOS,Hauser S.FOUL (P3.T3) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G1116,3,02:58,BOS,,SAS,,S. Hauser,BOS,SUB: Williams FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G1116,4,05:50,BOS,,SAS,,S. Hauser,BOS,MISS Hauser 28' 3PT Jump Shot,Missed Shot,Jump Shot,-143,240,28,1,3.0,0.0,h
+S2223-G1116,4,05:37,BOS,,SAS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,4,01:48,BOS,,SAS,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-207,176,27,1,3.0,0.0,h
+S2223-G1116,4,01:18,BOS,134.0,SAS,90.0,S. Hauser,BOS,Hauser 27' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-176,208,27,1,3.0,3.0,h
+S2223-G0838,1,11:47,BOS,3.0,CHA,0.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (3 PTS) (Tatum 1 AST),Made Shot,Jump Shot,85,243,26,1,3.0,3.0,h
+S2223-G0838,1,10:10,BOS,,CHA,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,148,204,25,1,3.0,0.0,h
+S2223-G0838,1,08:56,BOS,,CHA,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,1,08:51,BOS,,CHA,,S. Hauser,BOS,MISS Hauser 4' Running Layup,Missed Shot,Running Layup Shot,34,12,4,1,2.0,0.0,h
+S2223-G0838,1,06:04,BOS,,CHA,,S. Hauser,BOS,Hauser S.FOUL (P1.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G0838,1,04:40,BOS,,CHA,,S. Hauser,BOS,SUB: Pritchard FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0838,2,10:48,BOS,,CHA,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,113,230,26,1,3.0,0.0,h
+S2223-G0838,2,07:56,BOS,49.0,CHA,32.0,S. Hauser,BOS,Hauser 24' 3PT Jump Shot (6 PTS) (White 3 AST),Made Shot,Jump Shot,235,39,24,1,3.0,3.0,h
+S2223-G0838,2,07:21,BOS,,CHA,,S. Hauser,BOS,Hauser S.FOUL (P2.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0838,2,06:19,BOS,,CHA,,S. Hauser,BOS,SUB: Brogdon FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0838,3,10:58,BOS,74.0,CHA,56.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (9 PTS) (Tatum 4 AST),Made Shot,Jump Shot,229,104,25,1,3.0,3.0,h
+S2223-G0838,3,10:05,BOS,,CHA,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,3,05:51,BOS,,CHA,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,3,04:54,BOS,,CHA,,S. Hauser,BOS,MISS Hauser 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,47,153,16,1,2.0,0.0,h
+S2223-G0838,3,04:52,BOS,,CHA,,S. Hauser,BOS,SUB: Pritchard FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0838,4,10:01,BOS,102.0,CHA,85.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (12 PTS) (Muscala 2 AST),Made Shot,Jump Shot,192,187,27,1,3.0,3.0,h
+S2223-G0838,4,07:18,BOS,,CHA,,S. Hauser,BOS,MISS Hauser 28' 3PT Jump Shot,Missed Shot,Jump Shot,26,279,28,1,3.0,0.0,h
+S2223-G0838,4,06:05,BOS,,CHA,,S. Hauser,BOS,Hauser S.FOUL (P3.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G0838,4,04:59,BOS,,CHA,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-121,237,27,1,3.0,0.0,h
+S2223-G0838,4,04:01,BOS,,CHA,,S. Hauser,BOS,Hauser S.FOUL (P4.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0838,4,02:42,BOS,,CHA,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-80,250,26,1,3.0,0.0,h
+S2223-G0838,4,01:00,BOS,,CHA,,S. Hauser,BOS,SUB: Kornet FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0855,1,11:20,BOS,2.0,MEM,2.0,S. Hauser,BOS,Hauser 2' Cutting Layup Shot (2 PTS) (Williams III 1 AST),Made Shot,Cutting Layup Shot,1,21,2,1,2.0,2.0,h
+S2223-G0855,1,10:12,BOS,5.0,MEM,5.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (5 PTS) (White 1 AST),Made Shot,Jump Shot,-169,215,27,1,3.0,3.0,h
+S2223-G0855,1,08:08,BOS,,MEM,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0855,1,07:13,BOS,13.0,MEM,11.0,S. Hauser,BOS,Hauser 24' 3PT Jump Shot (8 PTS) (Horford 1 AST),Made Shot,Jump Shot,237,31,24,1,3.0,3.0,h
+S2223-G0855,1,06:42,BOS,,MEM,,S. Hauser,BOS,Hauser S.FOUL (P1.T2) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0855,1,05:30,BOS,,MEM,,S. Hauser,BOS,MISS Hauser 28' 3PT Jump Shot,Missed Shot,Jump Shot,-191,199,28,1,3.0,0.0,h
+S2223-G0855,1,03:48,BOS,,MEM,,S. Hauser,BOS,Hauser Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0855,1,03:35,BOS,,MEM,,S. Hauser,BOS,Hauser S.FOUL (P2.T3) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0855,1,03:35,BOS,,MEM,,S. Hauser,BOS,SUB: Kornet FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0855,2,06:26,BOS,39.0,MEM,39.0,S. Hauser,BOS,Hauser 29' 3PT Jump Shot (11 PTS) (Tatum 1 AST),Made Shot,Jump Shot,-174,230,29,1,3.0,3.0,h
+S2223-G0855,3,10:51,BOS,,MEM,,S. Hauser,BOS,MISS Hauser 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-172,209,27,1,3.0,0.0,h
+S2223-G0855,3,07:32,BOS,,MEM,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-115,248,27,1,3.0,0.0,h
+S2223-G0855,3,05:46,BOS,68.0,MEM,63.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (14 PTS) (Horford 5 AST),Made Shot,Jump Shot,-214,153,26,1,3.0,3.0,h
+S2223-G0855,3,05:10,BOS,,MEM,,S. Hauser,BOS,Hauser Transition Take Foul (P3.T1) (S.Corbin),Foul                                    ,Transition Take,0,0,0,0,,,h
+S2223-G0855,3,04:39,BOS,71.0,MEM,67.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (17 PTS) (White 8 AST),Made Shot,Jump Shot,119,225,25,1,3.0,3.0,h
+S2223-G0855,3,02:46,BOS,,MEM,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,232,-9,0,1,3.0,0.0,h
+S2223-G0855,3,01:15,BOS,,MEM,,S. Hauser,BOS,SUB: Kornet FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0855,4,11:40,BOS,,MEM,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,4,24,1,3.0,0.0,h
+S2223-G0855,4,08:32,BOS,94.0,MEM,89.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (20 PTS),Made Shot,Jump Shot,76,244,26,1,3.0,3.0,h
+S2223-G0855,4,06:52,BOS,,MEM,,S. Hauser,BOS,SUB: Horford FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G1062,1,03:23,UTA,16.0,BOS,26.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (3 PTS) (Muscala 1 AST),Made Shot,Jump Shot,115,229,26,1,3.0,3.0,v
+S2223-G1062,1,00:11.400000,UTA,,BOS,,S. Hauser,BOS,MISS Hauser 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-162,179,24,1,3.0,0.0,v
+S2223-G1062,2,10:56,UTA,,BOS,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1062,2,10:34,UTA,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1062,2,10:20,UTA,,BOS,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,234,-4,0,1,3.0,0.0,v
+S2223-G1062,2,08:07,UTA,31.0,BOS,45.0,S. Hauser,BOS,Hauser 3PT Jump Shot (6 PTS) (Tatum 3 AST),Made Shot,Jump Shot,-227,14,0,1,3.0,3.0,v
+S2223-G1062,2,07:54,UTA,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P1.T2) (M.Dagher),Foul,Personal,0,0,0,0,,,v
+S2223-G1062,2,07:54,UTA,,BOS,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G1062,2,01:45,UTA,,BOS,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-224,98,24,1,3.0,0.0,v
+S2223-G1062,2,01:22,UTA,,BOS,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-89,225,24,1,3.0,0.0,v
+S2223-G1062,3,00:00,UTA,,BOS,,S. Hauser,BOS,MISS Hauser 27' 3PT Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,136,238,27,1,3.0,0.0,v
+S2223-G1062,4,09:30,UTA,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1062,4,08:27,UTA,,BOS,,S. Hauser,BOS,SUB: Kornet FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0921,2,11:26,NYK,,BOS,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0921,2,10:25,NYK,,BOS,,S. Hauser,BOS,Hauser OFF.Foul (P1) (D.Richardson),Foul,Offensive,0,0,0,0,,,v
+S2223-G0921,2,10:25,NYK,,BOS,,S. Hauser,BOS,Hauser Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0921,2,10:11,NYK,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0921,2,08:34,NYK,,BOS,,S. Hauser,BOS,Hauser BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0921,2,07:42,NYK,,BOS,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0921,3,00:03.800000,NYK,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0921,3,00:03.800000,NYK,88.0,BOS,75.0,S. Hauser,BOS,Hauser Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0921,4,11:29,NYK,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,-189,165,25,1,3.0,0.0,v
+S2223-G0921,4,06:49,NYK,,BOS,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-3,24,1,3.0,0.0,v
+S2223-G0921,4,06:18,NYK,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0921,4,00:50,NYK,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-196,158,25,1,3.0,0.0,v
+S2223-G0022,1,00:02.800000,MIA,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P1.T3) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2223-G0022,2,11:10,MIA,22.0,BOS,33.0,S. Hauser,BOS,Hauser 3PT Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Jump Shot,227,21,0,1,3.0,3.0,v
+S2223-G0022,2,08:16,MIA,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P2.T1) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2223-G0022,2,08:16,MIA,,BOS,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0022,3,01:05,MIA,,BOS,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0022,3,00:01.300000,MIA,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-235,105,26,1,3.0,0.0,v
+S2223-G0022,4,08:34,MIA,84.0,BOS,96.0,S. Hauser,BOS,Hauser 24' 3PT Jump Shot (6 PTS) (Horford 1 AST),Made Shot,Jump Shot,-238,10,24,1,3.0,3.0,v
+S2223-G0022,4,08:34,MIA,,BOS,,S. Hauser,BOS,SUB: White FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G1039,1,03:55,MIN,,BOS,,S. Hauser,BOS,Hauser OFF.Foul (P1) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,v
+S2223-G1039,1,03:55,MIN,,BOS,,S. Hauser,BOS,Hauser Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1039,1,02:45,MIN,,BOS,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0413,1,02:42,LAL,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P1.T4) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0413,1,02:12,LAL,15.0,BOS,28.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (3 PTS) (Kornet 1 AST),Made Shot,Jump Shot,6,259,26,1,3.0,3.0,v
+S2223-G0413,1,00:41.300000,LAL,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,146,218,26,1,3.0,0.0,v
+S2223-G0413,1,00:17,LAL,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0413,2,09:34,LAL,,BOS,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,223,6,0,1,3.0,0.0,v
+S2223-G0413,2,07:35,LAL,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0413,3,02:56,LAL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0413,3,02:01,LAL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0413,3,00:53.100000,LAL,,BOS,,S. Hauser,BOS,Hauser Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0413,3,00:10.100000,LAL,,BOS,,S. Hauser,BOS,MISS Hauser 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,156,220,27,1,3.0,0.0,v
+S2223-G0413,3,00:06.800000,LAL,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G1081,4,02:37,SAC,99.0,BOS,126.0,S. Hauser,BOS,Hauser 25' 3PT Pullup Jump Shot (3 PTS) (Kornet 1 AST),Made Shot,Pullup Jump shot,6,251,25,1,3.0,3.0,v
+S2223-G1081,4,02:00,SAC,,BOS,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,229,13,0,1,3.0,0.0,v
+S2223-G1097,1,05:00,BOS,24.0,IND,19.0,S. Hauser,BOS,Hauser 3PT Jump Shot (3 PTS) (Brown 2 AST),Made Shot,Jump Shot,232,27,0,1,3.0,3.0,h
+S2223-G1097,1,03:22,BOS,,IND,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1097,1,01:00,BOS,,IND,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1097,2,11:23,BOS,,IND,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1097,2,10:00,BOS,,IND,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1097,2,06:39,BOS,,IND,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G1097,4,10:38,BOS,,IND,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1097,4,09:37,BOS,98.0,IND,78.0,S. Hauser,BOS,Hauser 28' 3PT Jump Shot (6 PTS) (White 7 AST),Made Shot,Jump Shot,-174,213,28,1,3.0,3.0,h
+S2223-G1097,4,07:22,BOS,,IND,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G1097,4,03:30,BOS,,IND,,S. Hauser,BOS,MISS Hauser 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,26,92,10,1,2.0,0.0,h
+S2223-G1097,4,02:07,BOS,,IND,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,41,24,1,3.0,0.0,h
+S2223-G1097,4,01:21,BOS,,IND,,S. Hauser,BOS,Hauser S.FOUL (P1.T3) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G1097,4,01:06,BOS,,IND,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1097,4,00:51.100000,BOS,120.0,IND,95.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (9 PTS) (Davison 1 AST),Made Shot,Jump Shot,184,183,26,1,3.0,3.0,h
+S2223-G0887,2,08:12,IND,,BOS,,S. Hauser,BOS,Hauser BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0887,2,06:17,IND,39.0,BOS,50.0,S. Hauser,BOS,Hauser 1' Running Finger Roll Layup (2 PTS) (Horford 2 AST),Made Shot,Running Finger Roll Layup Shot,9,5,1,1,2.0,2.0,v
+S2223-G0887,2,06:13,IND,,BOS,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0887,3,03:13,IND,90.0,BOS,93.0,S. Hauser,BOS,Hauser 28' 3PT Jump Shot (5 PTS) (Brogdon 3 AST),Made Shot,Jump Shot,-109,257,28,1,3.0,3.0,v
+S2223-G0887,3,01:56,IND,,BOS,,S. Hauser,BOS,Hauser BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0887,4,09:17,IND,,BOS,,S. Hauser,BOS,Hauser BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0887,4,09:09,IND,102.0,BOS,111.0,S. Hauser,BOS,Hauser 3PT Jump Shot (8 PTS) (Brogdon 6 AST),Made Shot,Jump Shot,-229,20,0,1,3.0,3.0,v
+S2223-G0887,4,06:35,IND,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0887,4,06:21,IND,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P1.T2) (J.Butler),Foul,Personal,0,0,0,0,,,v
+S2223-G0887,4,06:21,IND,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G1146,4,11:55,MIL,,BOS,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1146,4,10:58,MIL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1146,4,10:49,MIL,76.0,BOS,117.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (3 PTS) (Williams III 1 AST),Made Shot,Jump Shot,-22,257,26,1,3.0,3.0,v
+S2223-G1146,4,09:13,MIL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1146,4,07:22,MIL,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,173,184,25,1,3.0,0.0,v
+S2223-G1146,4,05:29,MIL,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,-180,172,25,1,3.0,0.0,v
+S2223-G1146,4,01:27,MIL,,BOS,,S. Hauser,BOS,Hauser Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0346,2,08:21,BKN,,BOS,,S. Hauser,BOS,Hauser BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0346,2,06:43,BKN,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0346,2,06:29,BKN,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0346,2,06:26,BKN,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-185,169,25,1,3.0,0.0,v
+S2223-G0346,2,06:18,BKN,,BOS,,S. Hauser,BOS,SUB: Brogdon FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0346,3,00:24.300000,BKN,,BOS,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0346,4,10:31,BKN,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0346,4,10:13,BKN,71.0,BOS,78.0,S. Hauser,BOS,Hauser 3PT Jump Shot (3 PTS) (Brogdon 5 AST),Made Shot,Jump Shot,-229,17,0,1,3.0,3.0,v
+S2223-G0346,4,09:31,BKN,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-20,258,26,1,3.0,0.0,v
+S2223-G0346,4,08:53,BKN,,BOS,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0469,1,04:15,BOS,,IND,,S. Hauser,BOS,MISS Hauser 5' Driving Layup,Missed Shot,Driving Layup Shot,50,12,5,1,2.0,0.0,h
+S2223-G0469,1,04:13,BOS,,IND,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,1,04:12,BOS,13.0,IND,23.0,S. Hauser,BOS,Hauser 4' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,34,12,4,1,2.0,2.0,h
+S2223-G0469,1,01:39,BOS,,IND,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,1,01:35,BOS,,IND,,S. Hauser,BOS,Jump Ball Hauser vs. Duarte: Tip to Williams III,Jump Ball,,0,0,0,0,,,h
+S2223-G0469,2,06:07,BOS,,IND,,S. Hauser,BOS,Hauser BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0469,2,05:52,BOS,,IND,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,-20,24,1,3.0,0.0,h
+S2223-G0469,2,04:29,BOS,,IND,,S. Hauser,BOS,SUB: Williams III FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0469,3,04:46,BOS,,IND,,S. Hauser,BOS,Hauser REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,3,04:05,BOS,,IND,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0469,3,02:35,BOS,76.0,IND,89.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (5 PTS) (Brogdon 3 AST),Made Shot,Jump Shot,119,224,25,1,3.0,3.0,h
+S2223-G0469,3,00:13.300000,BOS,,IND,,S. Hauser,BOS,Hauser STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0469,3,00:12.300000,BOS,,IND,,S. Hauser,BOS,Hauser Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0469,4,11:44,BOS,88.0,IND,100.0,S. Hauser,BOS,Hauser 3PT Jump Shot (8 PTS) (Brogdon 5 AST),Made Shot,Jump Shot,-232,37,0,1,3.0,3.0,h
+S2223-G0469,4,10:35,BOS,,IND,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,-227,20,0,1,3.0,0.0,h
+S2223-G0469,4,09:50,BOS,90.0,IND,103.0,S. Hauser,BOS,Hauser 2' Cutting Layup Shot (10 PTS) (Horford 4 AST),Made Shot,Cutting Layup Shot,16,15,2,1,2.0,2.0,h
+S2223-G0469,4,09:40,BOS,,IND,,S. Hauser,BOS,Hauser REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,4,08:41,BOS,,IND,,S. Hauser,BOS,Hauser REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,4,08:12,BOS,,IND,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0469,4,00:01.300000,BOS,,IND,,S. Hauser,BOS,Hauser REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,4,00:01.300000,BOS,,IND,,S. Hauser,BOS,MISS Hauser Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0869,1,08:03,MIL,10.0,BOS,15.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (3 PTS) (Williams 2 AST),Made Shot,Jump Shot,58,256,26,1,3.0,3.0,v
+S2223-G0869,1,07:49,MIL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,1,05:03,MIL,,BOS,,S. Hauser,BOS,SUB: Brogdon FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0869,1,01:02,MIL,,BOS,,S. Hauser,BOS,MISS Hauser 30' 3PT Jump Shot,Missed Shot,Jump Shot,-152,257,30,1,3.0,0.0,v
+S2223-G0869,2,01:54,MIL,,BOS,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0869,2,01:37,MIL,,BOS,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-210,167,27,1,3.0,0.0,v
+S2223-G0869,3,11:42,MIL,,BOS,,S. Hauser,BOS,MISS Hauser 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,45,104,11,1,2.0,0.0,v
+S2223-G0869,3,11:23,MIL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,3,10:22,MIL,67.0,BOS,65.0,S. Hauser,BOS,Hauser 5' Layup (5 PTS) (White 8 AST),Made Shot,Layup Shot,34,36,5,1,2.0,2.0,v
+S2223-G0869,3,09:19,MIL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,3,08:35,MIL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,3,07:02,MIL,74.0,BOS,78.0,S. Hauser,BOS,Hauser 1' Cutting Layup Shot (7 PTS) (Griffin 6 AST),Made Shot,Cutting Layup Shot,-9,8,1,1,2.0,2.0,v
+S2223-G0869,3,06:08,MIL,,BOS,,S. Hauser,BOS,MISS Hauser 29' 3PT Jump Shot,Missed Shot,Jump Shot,162,239,29,1,3.0,0.0,v
+S2223-G0869,3,00:19.300000,MIL,,BOS,,S. Hauser,BOS,SUB: Williams FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0869,4,09:56,MIL,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P1.T2) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2223-G0869,4,09:33,MIL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,4,08:40,MIL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,4,08:13,MIL,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P2.T3) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2223-G0869,4,06:36,MIL,103.0,BOS,104.0,S. Hauser,BOS,Hauser 28' 3PT Jump Shot (10 PTS) (White 12 AST),Made Shot,Jump Shot,206,188,28,1,3.0,3.0,v
+S2223-G0869,4,03:28,MIL,,BOS,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,34,24,1,3.0,0.0,v
+S2223-G0869,4,03:25,MIL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,4,03:18,MIL,113.0,BOS,109.0,S. Hauser,BOS,Hauser 2' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,-16,8,2,1,2.0,2.0,v
+S2223-G0869,4,03:02,MIL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,4,01:00,MIL,,BOS,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-113,243,27,1,3.0,0.0,v
+S2223-G0869,4,00:07.400000,MIL,,BOS,,S. Hauser,BOS,SUB: Williams III FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0869,4,00:03,MIL,116.0,BOS,116.0,S. Hauser,BOS,Hauser 29' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,99,269,29,1,3.0,3.0,v
+S2223-G0869,4,00:03,MIL,,BOS,,S. Hauser,BOS,SUB: Williams III FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0869,5,02:57,MIL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,5,01:55,MIL,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P3.T3) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0869,5,00:03.900000,MIL,,BOS,,S. Hauser,BOS,SUB: Williams III FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0214,1,04:58,ATL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0214,1,04:53,ATL,11.0,BOS,18.0,S. Hauser,BOS,Hauser 25' 3PT Running Jump Shot (3 PTS) (White 1 AST),Made Shot,Running Jump Shot,65,241,25,1,3.0,3.0,v
+S2223-G0214,1,03:42,ATL,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P1.T4) (E.Dalen),Foul,Personal,0,0,0,0,,,v
+S2223-G0214,1,02:38,ATL,14.0,BOS,25.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (6 PTS) (Tatum 5 AST),Made Shot,Jump Shot,129,222,26,1,3.0,3.0,v
+S2223-G0214,2,10:50,ATL,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P2.T1) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0214,2,10:20,ATL,22.0,BOS,35.0,S. Hauser,BOS,Hauser 24' 3PT Jump Shot (9 PTS) (Pritchard 2 AST),Made Shot,Jump Shot,-39,239,24,1,3.0,3.0,v
+S2223-G0214,2,09:52,ATL,,BOS,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0214,3,10:20,ATL,58.0,BOS,68.0,S. Hauser,BOS,Hauser 25' 3PT Running Jump Shot (12 PTS) (Tatum 7 AST),Made Shot,Running Jump Shot,-222,122,25,1,3.0,3.0,v
+S2223-G0214,3,06:38,ATL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0214,3,06:16,ATL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0214,3,03:47,ATL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0214,3,02:58,ATL,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-134,217,26,1,3.0,0.0,v
+S2223-G0214,3,01:10,ATL,74.0,BOS,92.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (15 PTS) (White 9 AST),Made Shot,Jump Shot,-213,128,25,1,3.0,3.0,v
+S2223-G0214,4,08:53,ATL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0214,4,07:56,ATL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0214,4,03:32,ATL,,BOS,,S. Hauser,BOS,SUB: Davison FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0392,1,02:09,GSW,,BOS,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,54,266,27,1,3.0,0.0,v
+S2223-G0392,2,11:32,GSW,,BOS,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,-221,-7,0,1,3.0,0.0,v
+S2223-G0392,2,09:39,GSW,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0392,2,08:25,GSW,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0392,4,00:28.700000,GSW,123.0,BOS,107.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (3 PTS) (Pritchard 1 AST),Made Shot,Jump Shot,-191,188,27,1,3.0,3.0,v
+S2223-G0107,2,09:42,CLE,,BOS,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0107,3,03:30,CLE,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P1.T4) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0107,3,02:59,CLE,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P2.PN) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2223-G0107,3,00:46.700000,CLE,,BOS,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-244,4,24,1,3.0,0.0,v
+S2223-G0107,3,00:36.700000,CLE,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P3.PN) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G1192,1,11:21,BOS,,TOR,,S. Hauser,BOS,MISS Hauser 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-148,210,26,1,3.0,0.0,h
+S2223-G1192,1,10:00,BOS,,TOR,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,181,176,25,1,3.0,0.0,h
+S2223-G1192,1,07:46,BOS,,TOR,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,1,06:48,BOS,,TOR,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-96,252,27,1,3.0,0.0,h
+S2223-G1192,1,05:05,BOS,17.0,TOR,20.0,S. Hauser,BOS,Hauser 28' 3PT Jump Shot (3 PTS) (Muscala 1 AST),Made Shot,Jump Shot,-119,248,28,1,3.0,3.0,h
+S2223-G1192,1,04:41,BOS,,TOR,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,1,03:07,BOS,,TOR,,S. Hauser,BOS,Hauser S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1192,1,00:25.300000,BOS,,TOR,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1192,2,05:18,BOS,,TOR,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,26,24,1,3.0,0.0,h
+S2223-G1192,2,04:21,BOS,,TOR,,S. Hauser,BOS,Hauser BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1192,2,01:02,BOS,,TOR,,S. Hauser,BOS,SUB: Muscala FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G1192,3,11:02,BOS,,TOR,,S. Hauser,BOS,MISS Hauser 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-159,211,26,1,3.0,0.0,h
+S2223-G1192,3,09:38,BOS,,TOR,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,3,08:30,BOS,,TOR,,S. Hauser,BOS,Hauser STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1192,3,08:05,BOS,,TOR,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,3,07:37,BOS,,TOR,,S. Hauser,BOS,MISS Hauser 28' 3PT Jump Shot,Missed Shot,Jump Shot,164,230,28,1,3.0,0.0,h
+S2223-G1192,3,06:49,BOS,,TOR,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,3,06:47,BOS,,TOR,,S. Hauser,BOS,SUB: Brogdon FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G1192,3,02:51,BOS,,TOR,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,3,02:29,BOS,,TOR,,S. Hauser,BOS,Hauser S.FOUL (P2.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1192,3,01:08,BOS,,TOR,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,88,252,27,1,3.0,0.0,h
+S2223-G1192,4,00:09.700000,BOS,,TOR,,S. Hauser,BOS,SUB: Williams III FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0445,1,00:07.600000,BOS,,ORL,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0445,2,11:36,BOS,,ORL,,S. Hauser,BOS,MISS Hauser 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,229,7,0,1,3.0,0.0,h
+S2223-G0445,2,08:25,BOS,,ORL,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0445,2,07:03,BOS,,ORL,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-229,123,26,1,3.0,0.0,h
+S2223-G0445,2,06:33,BOS,,ORL,,S. Hauser,BOS,SUB: Brogdon FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0445,3,03:14,BOS,,ORL,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,217,136,26,1,3.0,0.0,h
+S2223-G0445,3,01:26,BOS,,ORL,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0445,3,01:26,BOS,67.0,ORL,68.0,S. Hauser,BOS,Hauser Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0445,4,09:41,BOS,74.0,ORL,73.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (5 PTS) (Williams III 1 AST),Made Shot,Jump Shot,113,237,26,1,3.0,3.0,h
+S2223-G0445,4,07:10,BOS,,ORL,,S. Hauser,BOS,SUB: Horford FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0577,1,03:44,DAL,12.0,BOS,20.0,S. Hauser,BOS,Hauser 3PT Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Jump Shot,-232,-4,0,1,3.0,3.0,v
+S2223-G0577,1,01:46,DAL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0577,1,01:46,DAL,14.0,BOS,24.0,S. Hauser,BOS,Hauser Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0577,2,11:16,DAL,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0577,2,10:49,DAL,,BOS,,S. Hauser,BOS,MISS Hauser 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,126,205,24,1,3.0,0.0,v
+S2223-G0577,2,08:00,DAL,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0577,4,02:34,DAL,,BOS,,S. Hauser,BOS,Hauser L.B.FOUL (P1.T3) (S.Wright),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0577,4,01:43,DAL,,BOS,,S. Hauser,BOS,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,110,225,25,1,3.0,0.0,v
+S2223-G0824,1,04:47,BOS,,PHI,,S. Hauser,BOS,Hauser Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0824,1,03:22,BOS,,PHI,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0824,1,01:31,BOS,24.0,PHI,25.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (3 PTS) (Williams 2 AST),Made Shot,Jump Shot,180,184,26,1,3.0,3.0,h
+S2223-G0824,1,00:42.100000,BOS,,PHI,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0824,1,00:08.700000,BOS,,PHI,,S. Hauser,BOS,SUB: Brown FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0824,2,07:26,BOS,,PHI,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0824,2,07:04,BOS,,PHI,,S. Hauser,BOS,Hauser P.FOUL (P1.T2) (N.Green),Foul,Personal,0,0,0,0,,,h
+S2223-G0824,2,06:35,BOS,,PHI,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0824,3,05:10,BOS,78.0,PHI,69.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (6 PTS) (Tatum 8 AST),Made Shot,Jump Shot,164,203,26,1,3.0,3.0,h
+S2223-G0824,3,04:11,BOS,,PHI,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0824,3,01:34,BOS,,PHI,,S. Hauser,BOS,MISS Hauser 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-141,137,20,1,2.0,0.0,h
+S2223-G0824,3,01:00,BOS,83.0,PHI,79.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (9 PTS) (Williams 4 AST),Made Shot,Jump Shot,-206,145,25,1,3.0,3.0,h
+S2223-G0824,3,00:35,BOS,,PHI,,S. Hauser,BOS,SUB: White FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0824,4,11:39,BOS,,PHI,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0824,4,10:46,BOS,,PHI,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0824,4,10:37,BOS,88.0,PHI,81.0,S. Hauser,BOS,Hauser 23' Jump Shot (11 PTS) (Brogdon 3 AST),Made Shot,Jump Shot,-202,117,23,1,2.0,2.0,h
+S2223-G0824,4,10:16,BOS,,PHI,,S. Hauser,BOS,Hauser S.FOUL (P2.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0824,4,08:26,BOS,,PHI,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0824,4,08:20,BOS,95.0,PHI,85.0,S. Hauser,BOS,Hauser 3PT Jump Shot (14 PTS) (Griffin 1 AST),Made Shot,Jump Shot,-228,14,0,1,3.0,3.0,h
+S2223-G0824,4,07:25,BOS,,PHI,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0824,4,06:49,BOS,,PHI,,S. Hauser,BOS,SUB: Tatum FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0408,1,02:52,LAC,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,164,200,26,1,3.0,0.0,v
+S2223-G0408,1,02:35,LAC,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0408,2,11:43,LAC,29.0,BOS,27.0,S. Hauser,BOS,Hauser 4' Fadeaway Jumper (2 PTS) (Brogdon 1 AST),Made Shot,Fadeaway Jump Shot,-4,38,4,1,2.0,2.0,v
+S2223-G0408,2,11:10,LAC,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,129,221,26,1,3.0,0.0,v
+S2223-G0408,2,09:11,LAC,,BOS,,S. Hauser,BOS,SUB: Smart FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0408,3,00:41.700000,LAC,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,153,205,26,1,3.0,0.0,v
+S2223-G0408,4,01:42,LAC,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-34,260,26,1,3.0,0.0,v
+S2223-G0408,4,01:21,LAC,111.0,BOS,91.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (5 PTS) (Kornet 1 AST),Made Shot,Jump Shot,-178,192,26,1,3.0,3.0,v
+S2223-G0408,4,00:12.800000,LAC,,BOS,,S. Hauser,BOS,MISS Hauser 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-53,261,27,1,3.0,0.0,v
+S2223-G1130,4,08:36,WAS,,BOS,,S. Hauser,BOS,MISS Hauser 28' 3PT Jump Shot,Missed Shot,Jump Shot,-173,214,28,1,3.0,0.0,v
+S2223-G1130,4,05:17,WAS,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1130,4,02:06,WAS,123.0,BOS,106.0,S. Hauser,BOS,Hauser 3PT Jump Shot (3 PTS) (Pritchard 1 AST),Made Shot,Jump Shot,233,-8,0,1,3.0,3.0,v
+S2223-G1130,4,01:45,WAS,,BOS,,S. Hauser,BOS,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,-77,259,27,1,3.0,0.0,v
+S2223-G1130,4,01:28,WAS,,BOS,,S. Hauser,BOS,Hauser STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1130,4,00:24.100000,WAS,130.0,BOS,111.0,S. Hauser,BOS,Hauser 2' Reverse Layup (5 PTS) (Kornet 2 AST),Made Shot,Reverse Layup Shot,-15,7,2,1,2.0,2.0,v
+S2223-G0808,1,10:02,DET,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,1,09:41,DET,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,1,08:50,DET,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,1,07:56,DET,6.0,BOS,10.0,S. Hauser,BOS,Hauser 25' 3PT Jump Shot (3 PTS) (White 3 AST),Made Shot,Jump Shot,-72,243,25,1,3.0,3.0,v
+S2223-G0808,1,06:40,DET,6.0,BOS,13.0,S. Hauser,BOS,Hauser 27' 3PT Jump Shot (6 PTS) (Tatum 1 AST),Made Shot,Jump Shot,132,239,27,1,3.0,3.0,v
+S2223-G0808,1,05:06,DET,,BOS,,S. Hauser,BOS,SUB: Pritchard FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0808,2,10:28,DET,,BOS,,S. Hauser,BOS,Hauser BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0808,2,09:27,DET,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,2,08:56,DET,,BOS,,S. Hauser,BOS,Hauser Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0808,2,08:31,DET,34.0,BOS,40.0,S. Hauser,BOS,Hauser 3PT Jump Shot (9 PTS) (Brogdon 3 AST),Made Shot,Jump Shot,-232,9,0,1,3.0,3.0,v
+S2223-G0808,2,07:54,DET,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P1.T2) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2223-G0808,2,07:01,DET,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-140,220,26,1,3.0,0.0,v
+S2223-G0808,2,02:57,DET,49.0,BOS,53.0,S. Hauser,BOS,Hauser 3PT Jump Shot (12 PTS) (Tatum 3 AST),Made Shot,Jump Shot,-224,38,0,1,3.0,3.0,v
+S2223-G0808,2,02:40,DET,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P2.T4) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2223-G0808,2,01:20,DET,51.0,BOS,58.0,S. Hauser,BOS,Hauser 3PT Jump Shot (15 PTS) (Horford 3 AST),Made Shot,Jump Shot,-233,0,0,1,3.0,3.0,v
+S2223-G0808,3,08:18,DET,,BOS,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,-232,7,0,1,3.0,0.0,v
+S2223-G0808,3,07:31,DET,,BOS,,S. Hauser,BOS,Hauser S.FOUL (P3.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0808,3,07:07,DET,,BOS,,S. Hauser,BOS,Hauser P.FOUL (P4.T3) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0808,3,07:07,DET,,BOS,,S. Hauser,BOS,SUB: Brogdon FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0808,4,11:44,DET,,BOS,,S. Hauser,BOS,MISS Hauser 29' 3PT Jump Shot,Missed Shot,Jump Shot,-65,278,29,1,3.0,0.0,v
+S2223-G0808,4,10:46,DET,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,4,10:40,DET,,BOS,,S. Hauser,BOS,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,-105,236,26,1,3.0,0.0,v
+S2223-G0808,4,06:22,DET,,BOS,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,4,06:10,DET,,BOS,,S. Hauser,BOS,MISS Hauser 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,143,23,14,1,2.0,0.0,v
+S2223-G0808,4,04:58,DET,,BOS,,S. Hauser,BOS,SUB: Brogdon FOR Hauser,Substitution,,0,0,0,0,,,v
+S2223-G0275,1,02:12,BOS,,SAC,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,-233,17,0,1,3.0,0.0,h
+S2223-G0275,1,01:12,BOS,34.0,SAC,20.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (3 PTS) (Brogdon 1 AST),Made Shot,Jump Shot,-214,146,26,1,3.0,3.0,h
+S2223-G0275,2,09:47,BOS,,SAC,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0275,2,07:52,BOS,,SAC,,S. Hauser,BOS,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0275,2,07:48,BOS,46.0,SAC,33.0,S. Hauser,BOS,Hauser 26' 3PT Jump Shot (6 PTS) (Brown 3 AST),Made Shot,Jump Shot,-131,222,26,1,3.0,3.0,h
+S2223-G0275,2,07:05,BOS,,SAC,,S. Hauser,BOS,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,228,18,0,1,3.0,0.0,h
+S2223-G0275,2,04:17,BOS,,SAC,,S. Hauser,BOS,SUB: White FOR Hauser,Substitution,,0,0,0,0,,,h
+S2223-G0275,4,11:22,BOS,97.0,SAC,84.0,S. Hauser,BOS,Hauser 28' 3PT Jump Shot (9 PTS) (Tatum 4 AST),Made Shot,Jump Shot,-159,225,28,1,3.0,3.0,h
+S2223-G0275,4,10:35,BOS,,SAC,,S. Hauser,BOS,MISS Hauser 24' 3PT Jump Shot,Missed Shot,Jump Shot,-230,69,24,1,3.0,0.0,h
+S2223-G0275,4,06:58,BOS,,SAC,,S. Hauser,BOS,Hauser REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0275,4,05:58,BOS,,SAC,,S. Hauser,BOS,Hauser P.FOUL (P1.T2) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2223-G0275,4,05:58,BOS,,SAC,,S. Hauser,BOS,SUB: Brogdon FOR Hauser,Substitution,,0,0,0,0,,,h

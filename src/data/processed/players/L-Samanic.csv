@@ -1,0 +1,154 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G1164,1,03:10,BKN,,UTA,,L. Samanic,UTA,Samanic OFF.Foul (P1) (R.Mott),Foul,Offensive,0,0,0,0,,,v
+S2223-G1164,1,03:10,BKN,,UTA,,L. Samanic,UTA,Samanic Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1164,1,02:20,BKN,,UTA,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1164,1,01:12,BKN,,UTA,,L. Samanic,UTA,MISS Samanic 26' 3PT Jump Shot,Missed Shot,Jump Shot,129,223,26,1,3.0,0.0,v
+S2223-G1164,4,08:27,BKN,,UTA,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1164,4,08:20,BKN,93.0,UTA,80.0,L. Samanic,UTA,Samanic 3PT Jump Shot (3 PTS) (Olynyk 3 AST),Made Shot,Jump Shot,-227,-18,0,1,3.0,3.0,v
+S2223-G1164,4,06:46,BKN,,UTA,,L. Samanic,UTA,MISS Samanic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1164,4,06:46,BKN,99.0,UTA,81.0,L. Samanic,UTA,Samanic Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1164,4,05:38,BKN,,UTA,,L. Samanic,UTA,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,229,9,0,1,3.0,0.0,v
+S2223-G1164,4,05:14,BKN,,UTA,,L. Samanic,UTA,SUB: Toscano-Anderson FOR Samanic,Substitution,,0,0,0,0,,,v
+S2223-G1152,1,01:40,BOS,,UTA,,L. Samanic,UTA,Samanic P.FOUL (P1.T3) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G1152,1,00:55.900000,BOS,,UTA,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1152,2,11:31,BOS,27.0,UTA,31.0,L. Samanic,UTA,Samanic 3' Cutting Dunk Shot (2 PTS) (Toscano-Anderson 2 AST),Made Shot,Cutting Dunk Shot,-25,16,3,1,2.0,2.0,v
+S2223-G1152,2,11:09,BOS,,UTA,,L. Samanic,UTA,Samanic Traveling Turnover (P1.T7),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1152,2,10:54,BOS,,UTA,,L. Samanic,UTA,Samanic STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1152,2,10:48,BOS,,UTA,,L. Samanic,UTA,Samanic Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1152,2,10:30,BOS,,UTA,,L. Samanic,UTA,MISS Samanic 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-167,221,28,1,3.0,0.0,v
+S2223-G1152,2,09:44,BOS,,UTA,,L. Samanic,UTA,Samanic BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1152,2,09:41,BOS,,UTA,,L. Samanic,UTA,Samanic S.FOUL (P2.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2223-G1152,2,07:59,BOS,,UTA,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1152,2,06:17,BOS,,UTA,,L. Samanic,UTA,Samanic S.FOUL (P3.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G1152,2,06:17,BOS,,UTA,,L. Samanic,UTA,SUB: Kessler FOR Samanic,Substitution,,0,0,0,0,,,v
+S2223-G1152,3,01:17,BOS,87.0,UTA,76.0,L. Samanic,UTA,Samanic 7' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,51,41,7,1,2.0,2.0,v
+S2223-G1152,4,10:19,BOS,,UTA,,L. Samanic,UTA,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,-229,13,0,1,3.0,0.0,v
+S2223-G1152,4,09:39,BOS,,UTA,,L. Samanic,UTA,SUB: Fontecchio FOR Samanic,Substitution,,0,0,0,0,,,v
+S2223-G1200,1,11:26,UTA,2.0,OKC,2.0,L. Samanic,UTA,Samanic 3' Layup (2 PTS) (Olynyk 1 AST),Made Shot,Layup Shot,18,20,3,1,2.0,2.0,h
+S2223-G1200,1,09:59,UTA,,OKC,,L. Samanic,UTA,Samanic S.FOUL (P1.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G1200,1,07:45,UTA,,OKC,,L. Samanic,UTA,Samanic P.FOUL (P2.T2) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2223-G1200,1,06:18,UTA,,OKC,,L. Samanic,UTA,MISS Samanic 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-93,106,14,1,2.0,0.0,h
+S2223-G1200,1,06:04,UTA,,OKC,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1200,1,05:11,UTA,,OKC,,L. Samanic,UTA,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,-174,185,25,1,3.0,0.0,h
+S2223-G1200,1,04:55,UTA,,OKC,,L. Samanic,UTA,SUB: Toscano-Anderson FOR Samanic,Substitution,,0,0,0,0,,,h
+S2223-G1200,2,06:05,UTA,36.0,OKC,48.0,L. Samanic,UTA,Samanic 27' 3PT Jump Shot (5 PTS) (Dunn 4 AST),Made Shot,Jump Shot,-186,190,27,1,3.0,3.0,h
+S2223-G1200,2,05:34,UTA,,OKC,,L. Samanic,UTA,Samanic P.FOUL (P3.T2) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2223-G1200,2,02:19,UTA,,OKC,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1200,2,01:04,UTA,49.0,OKC,55.0,L. Samanic,UTA,Samanic 5' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-40,26,5,1,2.0,2.0,h
+S2223-G1200,2,00:30.600000,UTA,,OKC,,L. Samanic,UTA,SUB: Toscano-Anderson FOR Samanic,Substitution,,0,0,0,0,,,h
+S2223-G1200,3,07:55,UTA,,OKC,,L. Samanic,UTA,MISS Samanic 24' 3PT Jump Shot,Missed Shot,Jump Shot,224,93,24,1,3.0,0.0,h
+S2223-G1200,3,04:12,UTA,,OKC,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1200,3,03:20,UTA,,OKC,,L. Samanic,UTA,SUB: Juzang FOR Samanic,Substitution,,0,0,0,0,,,h
+S2223-G1200,4,07:02,UTA,,OKC,,L. Samanic,UTA,Samanic S.FOUL (P4.T3) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G1200,4,05:42,UTA,,OKC,,L. Samanic,UTA,MISS Samanic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1200,4,05:42,UTA,89.0,OKC,104.0,L. Samanic,UTA,Samanic Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1200,4,05:06,UTA,,OKC,,L. Samanic,UTA,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,232,-4,0,1,3.0,0.0,h
+S2223-G1200,4,00:58.100000,UTA,,OKC,,L. Samanic,UTA,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,-150,205,25,1,3.0,0.0,h
+S2223-G1186,1,08:01,UTA,11.0,LAL,8.0,L. Samanic,UTA,Samanic 3' Cutting Dunk Shot (2 PTS) (Olynyk 2 AST),Made Shot,Cutting Dunk Shot,-13,29,3,1,2.0,2.0,h
+S2223-G1186,1,06:55,UTA,,LAL,,L. Samanic,UTA,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,-163,195,25,1,3.0,0.0,h
+S2223-G1186,1,06:43,UTA,,LAL,,L. Samanic,UTA,SUB: Fontecchio FOR Samanic,Substitution,,0,0,0,0,,,h
+S2223-G1186,2,11:17,UTA,,LAL,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1186,2,10:40,UTA,,LAL,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1186,2,09:58,UTA,37.0,LAL,38.0,L. Samanic,UTA,Samanic 3' Running Dunk (4 PTS) (Dunn 2 AST),Made Shot,Running Dunk Shot,2,28,3,1,2.0,2.0,h
+S2223-G1186,2,08:13,UTA,42.0,LAL,46.0,L. Samanic,UTA,Samanic 26' 3PT Jump Shot (7 PTS) (Toscano-Anderson 2 AST),Made Shot,Jump Shot,-112,236,26,1,3.0,3.0,h
+S2223-G1186,2,07:17,UTA,,LAL,,L. Samanic,UTA,Samanic S.FOUL (P1.T4) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G1186,2,06:52,UTA,,LAL,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1186,2,05:23,UTA,,LAL,,L. Samanic,UTA,SUB: Fontecchio FOR Samanic,Substitution,,0,0,0,0,,,h
+S2223-G1186,3,10:04,UTA,62.0,LAL,71.0,L. Samanic,UTA,Samanic 3PT Jump Shot (10 PTS) (Horton-Tucker 4 AST),Made Shot,Jump Shot,-229,-4,0,1,3.0,3.0,h
+S2223-G1186,3,09:33,UTA,,LAL,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1186,3,06:34,UTA,,LAL,,L. Samanic,UTA,SUB: Fontecchio FOR Samanic,Substitution,,0,0,0,0,,,h
+S2223-G1186,4,09:53,UTA,99.0,LAL,97.0,L. Samanic,UTA,Samanic 2' Cutting Dunk Shot (12 PTS) (Jones 1 AST),Made Shot,Cutting Dunk Shot,-9,16,2,1,2.0,2.0,h
+S2223-G1186,4,08:01,UTA,,LAL,,L. Samanic,UTA,Samanic STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1186,4,07:03,UTA,,LAL,,L. Samanic,UTA,SUB: Olynyk FOR Samanic,Substitution,,0,0,0,0,,,h
+S2223-G1143,1,03:29,SAS,,UTA,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,1,03:25,SAS,,UTA,,L. Samanic,UTA,Samanic L.B.FOUL (P1.T3) (S.Wright),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1143,1,03:16,SAS,,UTA,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,1,02:48,SAS,,UTA,,L. Samanic,UTA,Samanic S.FOUL (P2.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G1143,1,02:30,SAS,24.0,UTA,28.0,L. Samanic,UTA,Samanic 5' Turnaround Jump Shot (2 PTS) (Juzang 1 AST),Made Shot,Turnaround Jump Shot,-4,53,5,1,2.0,2.0,v
+S2223-G1143,1,02:03,SAS,26.0,UTA,29.0,L. Samanic,UTA,Samanic Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1143,1,02:03,SAS,26.0,UTA,30.0,L. Samanic,UTA,Samanic Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1143,1,01:48,SAS,,UTA,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,1,00:59.400000,SAS,,UTA,,L. Samanic,UTA,Samanic BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1143,1,00:01.600000,SAS,,UTA,,L. Samanic,UTA,Samanic P.FOUL (P3.PN) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2223-G1143,2,07:49,SAS,,UTA,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,2,03:59,SAS,,UTA,,L. Samanic,UTA,SUB: Agbaji FOR Samanic,Substitution,,0,0,0,0,,,v
+S2223-G1143,3,06:02,SAS,,UTA,,L. Samanic,UTA,MISS Samanic 26' 3PT Jump Shot,Missed Shot,Jump Shot,-132,220,26,1,3.0,0.0,v
+S2223-G1143,3,05:54,SAS,,UTA,,L. Samanic,UTA,Samanic S.FOUL (P4.T2) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2223-G1143,3,05:13,SAS,,UTA,,L. Samanic,UTA,Samanic STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1143,3,05:08,SAS,75.0,UTA,82.0,L. Samanic,UTA,Samanic 25' 3PT Jump Shot (7 PTS) (Juzang 2 AST),Made Shot,Jump Shot,-134,211,25,1,3.0,3.0,v
+S2223-G1143,3,03:34,SAS,,UTA,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,3,03:07,SAS,,UTA,,L. Samanic,UTA,MISS Samanic 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,172,94,20,1,2.0,0.0,v
+S2223-G1143,3,02:54,SAS,,UTA,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,3,02:13,SAS,82.0,UTA,90.0,L. Samanic,UTA,Samanic Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1143,3,02:13,SAS,82.0,UTA,91.0,L. Samanic,UTA,Samanic Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1143,3,00:47.800000,SAS,,UTA,,L. Samanic,UTA,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,-58,242,25,1,3.0,0.0,v
+S2223-G1143,4,11:44,SAS,,UTA,,L. Samanic,UTA,MISS Samanic 3' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,-11,25,3,1,2.0,0.0,v
+S2223-G1143,4,11:32,SAS,,UTA,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,4,10:52,SAS,,UTA,,L. Samanic,UTA,Samanic Violation:Kicked Ball (S.Wright),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G1143,4,09:24,SAS,,UTA,,L. Samanic,UTA,MISS Samanic 1' Driving Layup,Missed Shot,Driving Layup Shot,-11,10,1,1,2.0,0.0,v
+S2223-G1143,4,08:50,SAS,,UTA,,L. Samanic,UTA,SUB: Agbaji FOR Samanic,Substitution,,0,0,0,0,,,v
+S2223-G1143,4,04:41,SAS,,UTA,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,4,04:30,SAS,,UTA,,L. Samanic,UTA,Samanic Out of Bounds Lost Ball Turnover (P1.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G1143,4,03:43,SAS,,UTA,,L. Samanic,UTA,Samanic Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1143,4,02:13,SAS,,UTA,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,4,01:33,SAS,,UTA,,L. Samanic,UTA,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,-69,236,25,1,3.0,0.0,v
+S2223-G1228,1,09:56,LAL,,UTA,,L. Samanic,UTA,MISS Samanic 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-143,201,25,1,3.0,0.0,v
+S2223-G1228,1,08:33,LAL,13.0,UTA,5.0,L. Samanic,UTA,Samanic 1' Cutting Layup Shot (2 PTS) (Dunn 1 AST),Made Shot,Cutting Layup Shot,-9,0,1,1,2.0,2.0,v
+S2223-G1228,1,07:47,LAL,,UTA,,L. Samanic,UTA,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,-127,211,25,1,3.0,0.0,v
+S2223-G1228,1,07:12,LAL,,UTA,,L. Samanic,UTA,MISS Samanic 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-157,203,26,1,3.0,0.0,v
+S2223-G1228,1,06:55,LAL,,UTA,,L. Samanic,UTA,MISS Samanic 26' 3PT Jump Shot,Missed Shot,Jump Shot,123,226,26,1,3.0,0.0,v
+S2223-G1228,1,06:47,LAL,,UTA,,L. Samanic,UTA,SUB: Fontecchio FOR Samanic,Substitution,,0,0,0,0,,,v
+S2223-G1228,2,06:09,LAL,,UTA,,L. Samanic,UTA,Samanic Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1228,2,01:02,LAL,,UTA,,L. Samanic,UTA,Samanic STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1228,3,11:05,LAL,67.0,UTA,61.0,L. Samanic,UTA,Samanic Layup (4 PTS) (Olynyk 3 AST),Made Shot,Layup Shot,1,1,0,1,2.0,2.0,v
+S2223-G1228,3,10:24,LAL,,UTA,,L. Samanic,UTA,Samanic S.FOUL (P1.T1) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G1228,3,08:55,LAL,77.0,UTA,67.0,L. Samanic,UTA,Samanic Running Layup (6 PTS),Made Shot,Running Layup Shot,0,4,0,1,2.0,2.0,v
+S2223-G1228,3,08:17,LAL,,UTA,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1228,3,08:13,LAL,77.0,UTA,71.0,L. Samanic,UTA,Samanic 1' Running Layup (8 PTS),Made Shot,Running Layup Shot,2,11,1,1,2.0,2.0,v
+S2223-G1228,3,08:13,LAL,77.0,UTA,72.0,L. Samanic,UTA,Samanic Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1228,3,05:57,LAL,,UTA,,L. Samanic,UTA,Samanic Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1228,3,05:39,LAL,,UTA,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1228,3,05:32,LAL,,UTA,,L. Samanic,UTA,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,-98,230,25,1,3.0,0.0,v
+S2223-G1228,3,04:16,LAL,,UTA,,L. Samanic,UTA,MISS Samanic 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,32,34,5,1,2.0,0.0,v
+S2223-G1228,3,03:59,LAL,,UTA,,L. Samanic,UTA,MISS Samanic 2' Running Layup,Missed Shot,Running Layup Shot,-15,8,2,1,2.0,0.0,v
+S2223-G1228,3,03:44,LAL,,UTA,,L. Samanic,UTA,SUB: Toscano-Anderson FOR Samanic,Substitution,,0,0,0,0,,,v
+S2223-G1228,4,05:49,LAL,,UTA,,L. Samanic,UTA,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,-152,204,25,1,3.0,0.0,v
+S2223-G1228,4,03:12,LAL,,UTA,,L. Samanic,UTA,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,-225,27,0,1,3.0,0.0,v
+S2223-G1228,4,02:33,LAL,,UTA,,L. Samanic,UTA,Samanic P.FOUL (P2.T3) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2223-G1228,4,01:39,LAL,,UTA,,L. Samanic,UTA,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,221,62,0,1,3.0,0.0,v
+S2223-G1213,1,10:47,UTA,,DEN,,L. Samanic,UTA,Samanic STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1213,1,10:43,UTA,2.0,DEN,0.0,L. Samanic,UTA,Samanic 3' Alley Oop Dunk (2 PTS) (Dunn 1 AST),Made Shot,Alley Oop Dunk Shot,27,12,3,1,2.0,2.0,h
+S2223-G1213,1,09:30,UTA,9.0,DEN,2.0,L. Samanic,UTA,Samanic 3' Layup (4 PTS) (Toscano-Anderson 2 AST),Made Shot,Layup Shot,-25,18,3,1,2.0,2.0,h
+S2223-G1213,1,09:11,UTA,,DEN,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,1,07:35,UTA,,DEN,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,1,07:16,UTA,,DEN,,L. Samanic,UTA,MISS Samanic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1213,1,07:16,UTA,15.0,DEN,2.0,L. Samanic,UTA,Samanic Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1213,1,06:38,UTA,,DEN,,L. Samanic,UTA,Samanic STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1213,1,04:53,UTA,,DEN,,L. Samanic,UTA,Samanic Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1213,1,03:50,UTA,,DEN,,L. Samanic,UTA,SUB: Potter FOR Samanic,Substitution,,0,0,0,0,,,h
+S2223-G1213,2,05:58,UTA,,DEN,,L. Samanic,UTA,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,-113,227,25,1,3.0,0.0,h
+S2223-G1213,2,05:47,UTA,,DEN,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,2,05:18,UTA,,DEN,,L. Samanic,UTA,MISS Samanic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1213,2,05:18,UTA,46.0,DEN,36.0,L. Samanic,UTA,Samanic Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1213,2,04:56,UTA,,DEN,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,2,03:23,UTA,,DEN,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,2,02:43,UTA,54.0,DEN,41.0,L. Samanic,UTA,Samanic 25' 3PT Jump Shot (9 PTS) (Agbaji 2 AST),Made Shot,Jump Shot,72,244,25,1,3.0,3.0,h
+S2223-G1213,2,01:42,UTA,,DEN,,L. Samanic,UTA,Samanic Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1213,2,00:00.600000,UTA,58.0,DEN,55.0,L. Samanic,UTA,Samanic 3' Layup (11 PTS) (Dunn 4 AST),Made Shot,Layup Shot,-25,20,3,1,2.0,2.0,h
+S2223-G1213,3,11:25,UTA,,DEN,,L. Samanic,UTA,MISS Samanic 24' 3PT Jump Shot,Missed Shot,Jump Shot,-222,94,24,1,3.0,0.0,h
+S2223-G1213,3,10:23,UTA,,DEN,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,3,09:57,UTA,,DEN,,L. Samanic,UTA,Samanic OFF.Foul (P1) (S.Corbin),Foul,Offensive,0,0,0,0,,,h
+S2223-G1213,3,09:57,UTA,,DEN,,L. Samanic,UTA,Samanic Offensive Foul Turnover (P3.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1213,3,09:25,UTA,65.0,DEN,64.0,L. Samanic,UTA,Samanic 25' 3PT Jump Shot (14 PTS) (Azubuike 1 AST),Made Shot,Jump Shot,112,227,25,1,3.0,3.0,h
+S2223-G1213,3,08:44,UTA,,DEN,,L. Samanic,UTA,MISS Samanic 4' Layup,Missed Shot,Layup Shot,11,42,4,1,2.0,0.0,h
+S2223-G1213,3,08:30,UTA,,DEN,,L. Samanic,UTA,MISS Samanic 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,72,24,1,3.0,0.0,h
+S2223-G1213,3,07:02,UTA,76.0,DEN,69.0,L. Samanic,UTA,Samanic 26' 3PT Jump Shot (17 PTS) (Toscano-Anderson 5 AST),Made Shot,Jump Shot,0,263,26,1,3.0,3.0,h
+S2223-G1213,3,06:08,UTA,81.0,DEN,72.0,L. Samanic,UTA,Samanic 3' Cutting Layup Shot (19 PTS) (Dunn 7 AST),Made Shot,Cutting Layup Shot,34,8,3,1,2.0,2.0,h
+S2223-G1213,3,05:08,UTA,,DEN,,L. Samanic,UTA,SUB: Agbaji FOR Samanic,Substitution,,0,0,0,0,,,h
+S2223-G1213,4,11:25,UTA,,DEN,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,4,09:38,UTA,,DEN,,L. Samanic,UTA,MISS Samanic 9' Jump Shot,Missed Shot,Jump Shot,33,84,9,1,2.0,0.0,h
+S2223-G1213,4,09:04,UTA,93.0,DEN,100.0,L. Samanic,UTA,Samanic 1' Reverse Layup (21 PTS) (Dunn 10 AST),Made Shot,Reverse Layup Shot,0,14,1,1,2.0,2.0,h
+S2223-G1213,4,08:44,UTA,,DEN,,L. Samanic,UTA,Samanic S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G1213,4,06:51,UTA,,DEN,,L. Samanic,UTA,Samanic REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,4,06:32,UTA,102.0,DEN,104.0,L. Samanic,UTA,Samanic 2' Layup (23 PTS) (Dunn 11 AST),Made Shot,Layup Shot,-16,3,2,1,2.0,2.0,h
+S2223-G1213,4,06:32,UTA,,DEN,,L. Samanic,UTA,SUB: Toscano-Anderson FOR Samanic,Substitution,,0,0,0,0,,,h

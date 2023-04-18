@@ -1,0 +1,1267 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0574,1,00:51.900000,LAL,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0574,2,08:04,LAL,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0574,2,07:53,LAL,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,202,155,25,1,3.0,0.0,v
+S2223-G0574,2,07:18,LAL,42.0,MIA,31.0,G. Vincent,MIA,Vincent 4' Driving Finger Roll Layup (2 PTS) (Strus 1 AST),Made Shot,Driving Finger Roll Layup Shot,-13,38,4,1,2.0,2.0,v
+S2223-G0574,2,07:18,LAL,,MIA,,G. Vincent,MIA,MISS Vincent Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0574,2,06:29,LAL,,MIA,,G. Vincent,MIA,SUB: Butler FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0574,4,06:58,LAL,,MIA,,G. Vincent,MIA,SUB: Butler FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0535,1,00:02.800000,DEN,,MIA,,G. Vincent,MIA,MISS Vincent 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-91,266,28,1,3.0,0.0,v
+S2223-G0535,2,10:31,DEN,26.0,MIA,28.0,G. Vincent,MIA,Vincent 27' 3PT Jump Shot (3 PTS) (Butler 3 AST),Made Shot,Jump Shot,-137,227,27,1,3.0,3.0,v
+S2223-G0535,2,08:20,DEN,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0535,2,08:02,DEN,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-227,24,0,1,3.0,0.0,v
+S2223-G0535,2,06:44,DEN,,MIA,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0535,3,03:31,DEN,,MIA,,G. Vincent,MIA,Vincent OFF.Foul (P2) (J.Goldenberg),Foul,Offensive,0,0,0,0,,,v
+S2223-G0535,3,03:31,DEN,,MIA,,G. Vincent,MIA,Vincent Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0535,3,02:43,DEN,,MIA,,G. Vincent,MIA,MISS Vincent 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-28,20,3,1,2.0,0.0,v
+S2223-G0535,3,01:32,DEN,,MIA,,G. Vincent,MIA,MISS Vincent 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-65,100,12,1,2.0,0.0,v
+S2223-G0535,3,01:07,DEN,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0535,3,00:00.700000,DEN,,MIA,,G. Vincent,MIA,Vincent Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0535,4,10:50,DEN,,MIA,,G. Vincent,MIA,Vincent Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0535,4,07:22,DEN,,MIA,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,15,24,1,3.0,0.0,v
+S2223-G0535,4,07:15,DEN,,MIA,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0535,4,00:12.700000,DEN,,MIA,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0974,1,11:45,MIA,,ATL,,G. Vincent,MIA,Vincent P.FOUL (P1.T1) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G0974,1,10:21,MIA,7.0,ATL,6.0,G. Vincent,MIA,Vincent 16' Pullup Jump Shot (2 PTS) (Butler 1 AST),Made Shot,Pullup Jump shot,-156,-6,16,1,2.0,2.0,h
+S2223-G0974,1,08:41,MIA,,ATL,,G. Vincent,MIA,Vincent Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0974,1,07:07,MIA,14.0,ATL,18.0,G. Vincent,MIA,Vincent 25' 3PT Jump Shot (5 PTS) (Butler 2 AST),Made Shot,Jump Shot,-61,246,25,1,3.0,3.0,h
+S2223-G0974,1,06:40,MIA,,ATL,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,-214,151,26,1,3.0,0.0,h
+S2223-G0974,1,05:38,MIA,,ATL,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0974,1,04:21,MIA,,ATL,,G. Vincent,MIA,Vincent Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0974,1,03:12,MIA,,ATL,,G. Vincent,MIA,SUB: Martin FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0974,2,02:38,MIA,,ATL,,G. Vincent,MIA,MISS Vincent 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-12,264,26,1,3.0,0.0,h
+S2223-G0974,3,09:06,MIA,,ATL,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0974,3,08:02,MIA,,ATL,,G. Vincent,MIA,Vincent S.FOUL (P2.T4) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2223-G0974,3,06:02,MIA,,ATL,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0974,3,05:51,MIA,,ATL,,G. Vincent,MIA,MISS Vincent 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-36,301,30,1,3.0,0.0,h
+S2223-G0974,3,02:32,MIA,90.0,ATL,90.0,G. Vincent,MIA,Vincent 26' 3PT Jump Shot (8 PTS) (Butler 7 AST),Made Shot,Jump Shot,-219,143,26,1,3.0,3.0,h
+S2223-G0974,3,01:18,MIA,,ATL,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0958,1,10:01,MIA,,ATL,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0958,1,09:57,MIA,5.0,ATL,4.0,G. Vincent,MIA,Vincent 24' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,-222,101,24,1,3.0,3.0,h
+S2223-G0958,1,08:58,MIA,,ATL,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0958,1,07:39,MIA,,ATL,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-227,22,0,1,3.0,0.0,h
+S2223-G0958,1,07:20,MIA,,ATL,,G. Vincent,MIA,Vincent S.FOUL (P1.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0958,1,06:52,MIA,,ATL,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,-188,169,25,1,3.0,0.0,h
+S2223-G0958,1,05:14,MIA,,ATL,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0958,1,01:42,MIA,,ATL,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0958,2,02:48,MIA,,ATL,,G. Vincent,MIA,MISS Vincent 3' Driving Layup,Missed Shot,Driving Layup Shot,-33,11,3,1,2.0,0.0,h
+S2223-G0958,2,01:16,MIA,,ATL,,G. Vincent,MIA,MISS Vincent 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-16,3,2,1,2.0,0.0,h
+S2223-G0958,2,00:36.300000,MIA,,ATL,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0958,3,05:21,MIA,77.0,ATL,59.0,G. Vincent,MIA,Vincent 3PT Jump Shot (6 PTS) (Butler 6 AST),Made Shot,Jump Shot,230,21,0,1,3.0,3.0,h
+S2223-G0958,3,04:46,MIA,80.0,ATL,59.0,G. Vincent,MIA,Vincent 26' 3PT Jump Shot (9 PTS) (Herro 4 AST),Made Shot,Jump Shot,-126,226,26,1,3.0,3.0,h
+S2223-G0958,3,04:36,MIA,,ATL,,G. Vincent,MIA,Vincent S.FOUL (P2.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0958,3,03:55,MIA,,ATL,,G. Vincent,MIA,MISS Vincent 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,218,131,25,1,3.0,0.0,h
+S2223-G0958,3,02:22,MIA,,ATL,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,-135,237,27,1,3.0,0.0,h
+S2223-G0958,3,02:16,MIA,,ATL,,G. Vincent,MIA,SUB: Adebayo FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0958,4,07:09,MIA,,ATL,,G. Vincent,MIA,Vincent S.FOUL (P3.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0958,4,03:26,MIA,,ATL,,G. Vincent,MIA,Vincent Out of Bounds - Bad Pass Turnover Turnover (P2.T19),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0958,4,01:08,MIA,,ATL,,G. Vincent,MIA,MISS Vincent 14' Jump Shot,Missed Shot,Jump Shot,7,143,14,1,2.0,0.0,h
+S2223-G1060,1,09:28,CHI,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,225,-19,0,1,3.0,0.0,v
+S2223-G1060,1,08:42,CHI,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1060,1,04:19,CHI,,MIA,,G. Vincent,MIA,MISS Vincent 14' Step Back Bank Jump Shot,Missed Shot,Step Back Bank Jump Shot,-137,43,14,1,2.0,0.0,v
+S2223-G1060,1,03:43,CHI,,MIA,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G1060,2,02:14,CHI,,MIA,,G. Vincent,MIA,MISS Vincent 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-7,17,2,1,2.0,0.0,v
+S2223-G1060,3,09:58,CHI,76.0,MIA,51.0,G. Vincent,MIA,Vincent 1' Cutting Layup Shot (2 PTS) (Adebayo 4 AST),Made Shot,Cutting Layup Shot,-7,1,1,1,2.0,2.0,v
+S2223-G1060,3,09:58,CHI,76.0,MIA,52.0,G. Vincent,MIA,Vincent Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1060,3,07:58,CHI,,MIA,,G. Vincent,MIA,MISS Vincent 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,38,305,31,1,3.0,0.0,v
+S2223-G1060,3,01:41,CHI,,MIA,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0714,1,04:40,MIA,15.0,BOS,16.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0714,1,04:40,MIA,16.0,BOS,16.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0714,1,02:47,MIA,,BOS,,G. Vincent,MIA,MISS Vincent 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-103,36,11,1,2.0,0.0,h
+S2223-G0714,1,00:35.500000,MIA,,BOS,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0714,2,10:45,MIA,,BOS,,G. Vincent,MIA,MISS Vincent 4' Driving Layup,Missed Shot,Driving Layup Shot,-33,16,4,1,2.0,0.0,h
+S2223-G0714,2,09:14,MIA,36.0,BOS,37.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0714,2,09:14,MIA,37.0,BOS,37.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0714,2,06:57,MIA,44.0,BOS,39.0,G. Vincent,MIA,Vincent 3PT Jump Shot (7 PTS) (Strus 1 AST),Made Shot,Jump Shot,-229,36,0,1,3.0,3.0,h
+S2223-G0714,2,06:41,MIA,,BOS,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0714,4,11:48,MIA,,BOS,,G. Vincent,MIA,MISS Vincent 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,22,8,2,1,2.0,0.0,h
+S2223-G0714,4,09:36,MIA,,BOS,,G. Vincent,MIA,MISS Vincent 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,28,39,5,1,2.0,0.0,h
+S2223-G0714,4,09:21,MIA,,BOS,,G. Vincent,MIA,MISS Vincent 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-87,214,23,1,2.0,0.0,h
+S2223-G0714,4,06:54,MIA,,BOS,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-228,-11,0,1,3.0,0.0,h
+S2223-G0738,1,03:22,MIA,22.0,ORL,22.0,G. Vincent,MIA,Vincent 3PT Jump Shot (3 PTS) (Herro 2 AST),Made Shot,Jump Shot,-229,8,0,1,3.0,3.0,h
+S2223-G0738,1,02:28,MIA,,ORL,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0738,1,01:08,MIA,,ORL,,G. Vincent,MIA,MISS Vincent 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,234,37,24,1,3.0,0.0,h
+S2223-G0738,2,11:22,MIA,,ORL,,G. Vincent,MIA,MISS Vincent 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-102,231,25,1,3.0,0.0,h
+S2223-G0738,2,08:18,MIA,,ORL,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-228,37,0,1,3.0,0.0,h
+S2223-G0738,2,07:30,MIA,,ORL,,G. Vincent,MIA,Vincent S.FOUL (P1.T3) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0738,2,06:46,MIA,,ORL,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0738,3,01:24,MIA,,ORL,,G. Vincent,MIA,Vincent S.FOUL (P2.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0738,4,10:40,MIA,77.0,ORL,81.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0738,4,10:40,MIA,78.0,ORL,81.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0738,4,09:45,MIA,81.0,ORL,83.0,G. Vincent,MIA,Vincent 3PT Jump Shot (8 PTS) (Oladipo 2 AST),Made Shot,Jump Shot,232,-5,0,1,3.0,3.0,h
+S2223-G0738,4,09:23,MIA,84.0,ORL,83.0,G. Vincent,MIA,Vincent 27' 3PT Jump Shot (11 PTS) (Martin 2 AST),Made Shot,Jump Shot,170,207,27,1,3.0,3.0,h
+S2223-G0738,4,08:16,MIA,,ORL,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,169,194,26,1,3.0,0.0,h
+S2223-G0738,4,07:55,MIA,,ORL,,G. Vincent,MIA,MISS Vincent 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-93,149,18,1,2.0,0.0,h
+S2223-G0738,4,04:48,MIA,,ORL,,G. Vincent,MIA,Vincent Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0738,4,03:55,MIA,,ORL,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0104,2,09:15,MIA,,GSW,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0104,2,08:36,MIA,,GSW,,G. Vincent,MIA,Vincent Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0104,2,08:26,MIA,,GSW,,G. Vincent,MIA,Vincent S.FOUL (P1.T2) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0104,2,07:33,MIA,,GSW,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0104,2,07:07,MIA,,GSW,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0104,2,04:23,MIA,,GSW,,G. Vincent,MIA,Vincent S.FOUL (P2.T4) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0104,2,02:03,MIA,,GSW,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0104,2,00:40.300000,MIA,,GSW,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,-234,79,25,1,3.0,0.0,h
+S2223-G0104,2,00:33.200000,MIA,,GSW,,G. Vincent,MIA,Vincent P.FOUL (P3.PN) (L.Holtkamp),Foul,Personal,0,0,0,0,,,h
+S2223-G0104,2,00:33.200000,MIA,,GSW,,G. Vincent,MIA,SUB: Robinson FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0104,3,05:03,MIA,,GSW,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,232,16,0,1,3.0,0.0,h
+S2223-G0104,3,04:53,MIA,,GSW,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0104,3,02:47,MIA,80.0,GSW,86.0,G. Vincent,MIA,Vincent 11' Driving Floating Jump Shot (2 PTS) (Butler 7 AST),Made Shot,Driving Floating Jump Shot,-31,108,11,1,2.0,2.0,h
+S2223-G0104,3,01:35,MIA,,GSW,,G. Vincent,MIA,Vincent Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0104,4,11:16,MIA,,GSW,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0104,4,10:26,MIA,,GSW,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,13,24,1,3.0,0.0,h
+S2223-G0104,4,07:52,MIA,,GSW,,G. Vincent,MIA,Vincent REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0104,4,07:30,MIA,,GSW,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0104,4,07:10,MIA,,GSW,,G. Vincent,MIA,Vincent REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0104,4,05:58,MIA,,GSW,,G. Vincent,MIA,Vincent REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0104,4,03:29,MIA,,GSW,,G. Vincent,MIA,Vincent P.FOUL (P4.T1) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2223-G0104,4,03:12,MIA,,GSW,,G. Vincent,MIA,Vincent STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0104,4,01:17,MIA,,GSW,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,225,2,0,1,3.0,0.0,h
+S2223-G0104,4,00:38.700000,MIA,,GSW,,G. Vincent,MIA,MISS Vincent 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,64,79,10,1,2.0,0.0,h
+S2223-G0104,4,00:08.100000,MIA,116.0,GSW,109.0,G. Vincent,MIA,Vincent 1' Cutting Layup Shot (4 PTS) (Lowry 9 AST),Made Shot,Cutting Layup Shot,7,2,1,1,2.0,2.0,h
+S2223-G0780,1,02:57,NYK,,MIA,,G. Vincent,MIA,Vincent Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0780,1,01:55,NYK,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0780,1,01:45,NYK,28.0,MIA,20.0,G. Vincent,MIA,Vincent 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-65,245,25,1,3.0,3.0,v
+S2223-G0780,1,00:19.900000,NYK,,MIA,,G. Vincent,MIA,Vincent OFF.Foul (P1) (M.Davis),Foul,Offensive,0,0,0,0,,,v
+S2223-G0780,1,00:19.900000,NYK,,MIA,,G. Vincent,MIA,Vincent Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0780,2,09:26,NYK,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,228,-1,0,1,3.0,0.0,v
+S2223-G0780,2,07:12,NYK,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0780,2,06:29,NYK,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-72,241,25,1,3.0,0.0,v
+S2223-G0780,2,05:36,NYK,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0780,2,05:00,NYK,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P2.T2) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2223-G0780,2,04:43,NYK,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0780,2,03:32,NYK,40.0,MIA,44.0,G. Vincent,MIA,Vincent 17' Turnaround Jump Shot (5 PTS),Made Shot,Turnaround Jump Shot,-165,1,17,1,2.0,2.0,v
+S2223-G0780,2,03:21,NYK,,MIA,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0780,3,01:35,NYK,,MIA,,G. Vincent,MIA,Vincent Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0780,3,01:34,NYK,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P3.PN) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0780,3,01:16,NYK,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,157,207,26,1,3.0,0.0,v
+S2223-G0780,4,10:49,NYK,,MIA,,G. Vincent,MIA,Vincent STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0780,4,08:47,NYK,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,131,220,26,1,3.0,0.0,v
+S2223-G0780,4,08:19,NYK,,MIA,,G. Vincent,MIA,MISS Vincent 2' Driving Layup,Missed Shot,Driving Layup Shot,-21,2,2,1,2.0,0.0,v
+S2223-G0780,4,07:45,NYK,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-232,-21,0,1,3.0,0.0,v
+S2223-G0780,4,05:06,NYK,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0780,4,03:22,NYK,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P4.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0797,1,11:41,MIL,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0797,1,11:29,MIL,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-229,-13,0,1,3.0,0.0,v
+S2223-G0797,1,09:31,MIL,,MIA,,G. Vincent,MIA,MISS Vincent 28' 3PT Jump Shot,Missed Shot,Jump Shot,-80,268,28,1,3.0,0.0,v
+S2223-G0797,1,05:16,MIL,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P1.T3) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2223-G0797,1,04:28,MIL,,MIA,,G. Vincent,MIA,MISS Vincent 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,15,159,16,1,2.0,0.0,v
+S2223-G0797,1,04:05,MIL,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0797,1,03:00,MIL,,MIA,,G. Vincent,MIA,Vincent STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0797,1,02:37,MIL,,MIA,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0797,2,06:30,MIL,,MIA,,G. Vincent,MIA,MISS Vincent 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-191,200,28,1,3.0,0.0,v
+S2223-G0797,2,03:52,MIL,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0797,2,03:41,MIL,55.0,MIA,50.0,G. Vincent,MIA,Vincent 30' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-152,260,30,1,3.0,3.0,v
+S2223-G0797,2,01:25,MIL,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0797,3,10:43,MIL,,MIA,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0797,3,08:58,MIL,,MIA,,G. Vincent,MIA,Vincent STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0797,3,05:56,MIL,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-11,255,26,1,3.0,0.0,v
+S2223-G0797,3,04:36,MIL,,MIA,,G. Vincent,MIA,Vincent Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0797,3,01:22,MIL,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,189,195,27,1,3.0,0.0,v
+S2223-G0797,3,01:12,MIL,,MIA,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0797,4,04:49,MIL,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0797,4,04:05,MIL,110.0,MIA,103.0,G. Vincent,MIA,Vincent 1' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,-13,3,1,1,2.0,2.0,v
+S2223-G0797,4,00:05.400000,MIL,123.0,MIA,115.0,G. Vincent,MIA,Vincent 20' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,10,203,20,1,2.0,2.0,v
+S2223-G0328,1,03:37,,,,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0328,1,03:26,,,,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0328,1,03:04,,,,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,46,24,1,3.0,0.0,v
+S2223-G0328,1,02:29,,,,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,208,163,26,1,3.0,0.0,v
+S2223-G0328,1,01:21,,,,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0328,2,09:31,,29.0,,34.0,G. Vincent,MIA,Vincent 27' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-156,222,27,1,3.0,3.0,v
+S2223-G0328,2,08:37,,,,,G. Vincent,MIA,MISS Vincent 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,83,272,28,1,3.0,0.0,v
+S2223-G0328,2,06:27,,,,,G. Vincent,MIA,MISS Vincent 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-194,35,20,1,2.0,0.0,v
+S2223-G0328,2,03:54,,,,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0328,3,07:10,,,,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,39,24,1,3.0,0.0,v
+S2223-G0328,3,01:55,,,,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0328,3,00:24.500000,,,,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0328,4,08:28,,,,,G. Vincent,MIA,Vincent P.FOUL (P1.T1) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2223-G0328,4,07:19,,,,,G. Vincent,MIA,Vincent STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0328,4,07:16,,,,,G. Vincent,MIA,SUB: Butler FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0611,1,09:52,MIA,,OKC,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0611,1,09:40,MIA,,OKC,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,126,220,25,1,3.0,0.0,h
+S2223-G0611,1,08:55,MIA,11.0,OKC,6.0,G. Vincent,MIA,Vincent 2' Driving Layup (2 PTS) (Butler 1 AST),Made Shot,Driving Layup Shot,9,19,2,1,2.0,2.0,h
+S2223-G0611,1,08:02,MIA,,OKC,,G. Vincent,MIA,MISS Vincent 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,6,75,8,1,2.0,0.0,h
+S2223-G0611,1,06:09,MIA,,OKC,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0611,1,02:01,MIA,,OKC,,G. Vincent,MIA,Vincent Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0611,2,11:39,MIA,,OKC,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0611,2,10:57,MIA,,OKC,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0611,2,10:48,MIA,,OKC,,G. Vincent,MIA,MISS Vincent 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-75,32,8,1,2.0,0.0,h
+S2223-G0611,2,08:09,MIA,,OKC,,G. Vincent,MIA,SUB: Butler FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0611,2,06:12,MIA,,OKC,,G. Vincent,MIA,MISS Vincent 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-81,19,8,1,2.0,0.0,h
+S2223-G0611,2,05:51,MIA,,OKC,,G. Vincent,MIA,Vincent Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0611,2,05:23,MIA,,OKC,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,194,171,26,1,3.0,0.0,h
+S2223-G0611,2,02:48,MIA,,OKC,,G. Vincent,MIA,Vincent OFF.Foul (P1) (C.Washington),Foul,Offensive,0,0,0,0,,,h
+S2223-G0611,2,02:48,MIA,,OKC,,G. Vincent,MIA,Vincent Offensive Foul Turnover (P3.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0611,2,01:03,MIA,60.0,OKC,50.0,G. Vincent,MIA,Vincent 7' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,-7,68,7,1,2.0,2.0,h
+S2223-G0611,2,01:03,MIA,61.0,OKC,50.0,G. Vincent,MIA,Vincent Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0611,3,10:45,MIA,64.0,OKC,60.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0611,3,10:45,MIA,65.0,OKC,60.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0611,3,10:05,MIA,,OKC,,G. Vincent,MIA,MISS Vincent 28' 3PT Jump Shot,Missed Shot,Jump Shot,-39,280,28,1,3.0,0.0,h
+S2223-G0611,3,08:58,MIA,71.0,OKC,66.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0611,3,08:58,MIA,72.0,OKC,66.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0611,3,07:32,MIA,,OKC,,G. Vincent,MIA,Vincent Offensive Charge Foul (P2) (K.Scott),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0611,3,07:32,MIA,,OKC,,G. Vincent,MIA,Vincent Offensive Foul Turnover (P4.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0611,3,06:00,MIA,,OKC,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0611,3,01:54,MIA,,OKC,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-16,24,1,3.0,0.0,h
+S2223-G0611,4,11:39,MIA,,OKC,,G. Vincent,MIA,Vincent Backcourt Turnover (P5.T16),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2223-G0611,4,09:55,MIA,,OKC,,G. Vincent,MIA,MISS Vincent 3' Driving Layup,Missed Shot,Driving Layup Shot,18,26,3,1,2.0,0.0,h
+S2223-G0611,4,07:51,MIA,96.0,OKC,96.0,G. Vincent,MIA,Vincent 26' 3PT Pullup Jump Shot (12 PTS) (Strus 3 AST),Made Shot,Pullup Jump shot,0,260,26,1,3.0,3.0,h
+S2223-G0611,4,07:51,MIA,97.0,OKC,96.0,G. Vincent,MIA,Vincent Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0611,4,06:18,MIA,,OKC,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0611,4,05:59,MIA,,OKC,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,130,214,25,1,3.0,0.0,h
+S2223-G0611,4,03:44,MIA,,OKC,,G. Vincent,MIA,Vincent Lost Ball Turnover (P6.T19),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0611,4,03:30,MIA,,OKC,,G. Vincent,MIA,Vincent Bad Pass Turnover (P7.T20),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0611,4,00:00.800000,MIA,,OKC,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0611,4,00:00.800000,MIA,,OKC,,G. Vincent,MIA, ,Jump Ball,,0,0,0,0,,,h
+S2223-G1000,1,07:17,MIA,12.0,CLE,10.0,G. Vincent,MIA,Vincent 5' Driving Layup (2 PTS) (Butler 1 AST),Made Shot,Driving Layup Shot,42,24,5,1,2.0,2.0,h
+S2223-G1000,1,04:39,MIA,,CLE,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,165,190,25,1,3.0,0.0,h
+S2223-G1000,1,03:17,MIA,,CLE,,G. Vincent,MIA,MISS Vincent 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,220,124,25,1,3.0,0.0,h
+S2223-G1000,1,02:22,MIA,,CLE,,G. Vincent,MIA,Vincent P.FOUL (P1.T3) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2223-G1000,1,02:22,MIA,,CLE,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1000,2,06:12,MIA,,CLE,,G. Vincent,MIA,Vincent Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1000,2,03:55,MIA,43.0,CLE,47.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1000,2,03:55,MIA,44.0,CLE,47.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1000,2,03:33,MIA,,CLE,,G. Vincent,MIA,MISS Vincent 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-36,4,4,1,2.0,0.0,h
+S2223-G1000,2,03:32,MIA,,CLE,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1000,2,01:37,MIA,,CLE,,G. Vincent,MIA,Vincent S.FOUL (P2.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G1000,2,01:37,MIA,,CLE,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1000,3,09:28,MIA,,CLE,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1000,3,08:45,MIA,,CLE,,G. Vincent,MIA,MISS Vincent 2' Driving Layup,Missed Shot,Driving Layup Shot,-16,12,2,1,2.0,0.0,h
+S2223-G1000,3,05:32,MIA,67.0,CLE,72.0,G. Vincent,MIA,Vincent 1' Driving Layup (6 PTS) (Butler 2 AST),Made Shot,Driving Layup Shot,10,4,1,1,2.0,2.0,h
+S2223-G1000,3,04:59,MIA,,CLE,,G. Vincent,MIA,Vincent Offensive Charge Foul (P3) (M.Kogut),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1000,3,04:59,MIA,,CLE,,G. Vincent,MIA,Vincent Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1000,3,04:27,MIA,,CLE,,G. Vincent,MIA,MISS Vincent 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-147,212,26,1,3.0,0.0,h
+S2223-G1000,3,04:18,MIA,,CLE,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1036,1,10:58,MIA,,MEM,,G. Vincent,MIA,MISS Vincent 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-10,101,10,1,2.0,0.0,h
+S2223-G1036,1,10:50,MIA,,MEM,,G. Vincent,MIA,Vincent S.FOUL (P1.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G1036,1,06:29,MIA,10.0,MEM,11.0,G. Vincent,MIA,Vincent 27' 3PT Jump Shot (3 PTS) (Love 1 AST),Made Shot,Jump Shot,-174,201,27,1,3.0,3.0,h
+S2223-G1036,1,03:41,MIA,,MEM,,G. Vincent,MIA,Vincent Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1036,1,02:54,MIA,,MEM,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1036,1,02:44,MIA,,MEM,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1036,3,10:26,MIA,,MEM,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1036,3,08:16,MIA,75.0,MEM,60.0,G. Vincent,MIA,Vincent 19' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-103,162,19,1,2.0,2.0,h
+S2223-G1036,3,05:47,MIA,,MEM,,G. Vincent,MIA,Vincent Step Out of Bounds Turnover (P2.T8),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G1036,3,05:19,MIA,86.0,MEM,69.0,G. Vincent,MIA,Vincent 24' 3PT Jump Shot (8 PTS) (Butler 4 AST),Made Shot,Jump Shot,-224,72,24,1,3.0,3.0,h
+S2223-G1036,3,04:51,MIA,88.0,MEM,70.0,G. Vincent,MIA,Vincent 18' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,-178,22,18,1,2.0,2.0,h
+S2223-G1036,3,02:31,MIA,,MEM,,G. Vincent,MIA,Vincent STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1036,3,02:03,MIA,,MEM,,G. Vincent,MIA,SUB: Adebayo FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0109,1,04:02,MIA,,SAC,,G. Vincent,MIA,MISS Vincent 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-33,150,15,1,2.0,0.0,h
+S2223-G0109,1,03:40,MIA,21.0,SAC,20.0,G. Vincent,MIA,Vincent 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,61,251,26,1,3.0,3.0,h
+S2223-G0109,1,02:51,MIA,,SAC,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,6,24,1,3.0,0.0,h
+S2223-G0109,1,01:32,MIA,,SAC,,G. Vincent,MIA,MISS Vincent 3' Driving Layup,Missed Shot,Driving Layup Shot,-20,20,3,1,2.0,0.0,h
+S2223-G0109,1,00:29,MIA,,SAC,,G. Vincent,MIA,MISS Vincent 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-178,179,25,1,3.0,0.0,h
+S2223-G0109,2,10:49,MIA,,SAC,,G. Vincent,MIA,MISS Vincent 5' Driving Layup,Missed Shot,Driving Layup Shot,51,17,5,1,2.0,0.0,h
+S2223-G0109,2,09:56,MIA,,SAC,,G. Vincent,MIA,MISS Vincent 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,17,29,3,1,2.0,0.0,h
+S2223-G0109,2,09:04,MIA,,SAC,,G. Vincent,MIA,Vincent P.FOUL (P1.T2) (E.Lewis),Foul,Personal,0,0,0,0,,,h
+S2223-G0109,2,05:24,MIA,,SAC,,G. Vincent,MIA,MISS Vincent Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0109,2,05:24,MIA,41.0,SAC,42.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0109,2,04:25,MIA,,SAC,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-234,-2,0,1,3.0,0.0,h
+S2223-G0109,2,02:56,MIA,,SAC,,G. Vincent,MIA,SUB: Adebayo FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0109,3,00:16.600000,MIA,,SAC,,G. Vincent,MIA,Vincent P.FOUL (P2.T4) (E.Lewis),Foul,Personal,0,0,0,0,,,h
+S2223-G0109,4,11:05,MIA,80.0,SAC,78.0,G. Vincent,MIA,Vincent 27' 3PT Jump Shot (7 PTS) (Dedmon 3 AST),Made Shot,Jump Shot,-143,231,27,1,3.0,3.0,h
+S2223-G0109,4,11:05,MIA,81.0,SAC,78.0,G. Vincent,MIA,Vincent Free Throw Flagrant 1 of 1 (8 PTS),Free Throw,Free Throw Flagrant 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0109,4,09:45,MIA,,SAC,,G. Vincent,MIA,MISS Vincent 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,190,165,25,1,3.0,0.0,h
+S2223-G0109,4,06:11,MIA,,SAC,,G. Vincent,MIA,Vincent S.FOUL (P3.T3) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0109,4,05:52,MIA,,SAC,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-233,8,0,1,3.0,0.0,h
+S2223-G0109,4,05:21,MIA,,SAC,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0109,4,02:20,MIA,100.0,SAC,99.0,G. Vincent,MIA,Vincent 2' Cutting Layup Shot (10 PTS) (Adebayo 5 AST),Made Shot,Cutting Layup Shot,-17,6,2,1,2.0,2.0,h
+S2223-G0109,4,01:57,MIA,,SAC,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0109,4,00:53.400000,MIA,,SAC,,G. Vincent,MIA,Vincent P.FOUL (P4.PN) (E.Lewis),Foul,Personal,0,0,0,0,,,h
+S2223-G1132,1,09:28,TOR,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1132,1,07:26,TOR,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-233,-4,0,1,3.0,0.0,v
+S2223-G1132,1,06:54,TOR,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1132,1,06:48,TOR,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,212,145,26,1,3.0,0.0,v
+S2223-G1132,1,06:19,TOR,,MIA,,G. Vincent,MIA,MISS Vincent 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-20,20,3,1,2.0,0.0,v
+S2223-G1132,1,02:31,TOR,16.0,MIA,21.0,G. Vincent,MIA,Vincent 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,14,1,1,2.0,2.0,v
+S2223-G1132,1,01:04,TOR,,MIA,,G. Vincent,MIA,MISS Vincent 5' Driving Layup,Missed Shot,Driving Layup Shot,-11,48,5,1,2.0,0.0,v
+S2223-G1132,3,09:38,TOR,,MIA,,G. Vincent,MIA,Vincent BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1132,3,05:59,TOR,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1132,3,05:31,TOR,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P1.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G1132,3,05:31,TOR,,MIA,,G. Vincent,MIA,SUB: Martin FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0518,1,11:09,MIA,3.0,LAL,2.0,G. Vincent,MIA,Vincent 25' 3PT Jump Shot (3 PTS) (Herro 1 AST),Made Shot,Jump Shot,206,142,25,1,3.0,3.0,h
+S2223-G0518,1,05:24,MIA,,LAL,,G. Vincent,MIA,Vincent S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G0518,1,04:39,MIA,,LAL,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0518,2,06:31,MIA,,LAL,,G. Vincent,MIA,MISS Vincent 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-188,181,26,1,3.0,0.0,h
+S2223-G0518,2,04:52,MIA,47.0,LAL,45.0,G. Vincent,MIA,Vincent 13' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-96,84,13,1,2.0,2.0,h
+S2223-G0518,2,04:20,MIA,,LAL,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0518,2,04:19,MIA,49.0,LAL,45.0,G. Vincent,MIA,Vincent 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-16,15,2,1,2.0,2.0,h
+S2223-G0518,2,01:49,MIA,56.0,LAL,48.0,G. Vincent,MIA,Vincent 25' 3PT Jump Shot (10 PTS) (Herro 4 AST),Made Shot,Jump Shot,208,131,25,1,3.0,3.0,h
+S2223-G0518,2,01:14,MIA,,LAL,,G. Vincent,MIA,MISS Vincent 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,6,262,26,1,3.0,0.0,h
+S2223-G0518,3,11:30,MIA,,LAL,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,154,214,26,1,3.0,0.0,h
+S2223-G0518,3,10:24,MIA,,LAL,,G. Vincent,MIA,Vincent S.FOUL (P2.T1) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G0518,3,07:35,MIA,,LAL,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0518,3,07:33,MIA,,LAL,,G. Vincent,MIA, ,Jump Ball,,0,0,0,0,,,h
+S2223-G0518,3,07:33,MIA,,LAL,,G. Vincent,MIA,Vincent Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0518,3,06:34,MIA,,LAL,,G. Vincent,MIA,Vincent S.FOUL (P3.T3) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G0518,3,05:01,MIA,,LAL,,G. Vincent,MIA,MISS Vincent 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-5,27,3,1,2.0,0.0,h
+S2223-G0518,3,05:01,MIA,,LAL,,G. Vincent,MIA,Vincent REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0518,3,05:01,MIA,82.0,LAL,63.0,G. Vincent,MIA,Vincent 2' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,-4,16,2,1,2.0,2.0,h
+S2223-G0518,3,03:48,MIA,,LAL,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1108,1,11:01,MIA,,BKN,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1108,1,10:36,MIA,,BKN,,G. Vincent,MIA,Vincent S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2223-G1108,1,09:45,MIA,6.0,BKN,6.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1108,1,09:45,MIA,7.0,BKN,6.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1108,1,09:09,MIA,10.0,BKN,9.0,G. Vincent,MIA,Vincent 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,80,242,25,1,3.0,3.0,h
+S2223-G1108,1,07:38,MIA,,BKN,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1108,1,06:49,MIA,,BKN,,G. Vincent,MIA,Vincent Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G1108,1,06:09,MIA,,BKN,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,-25,262,26,1,3.0,0.0,h
+S2223-G1108,1,04:07,MIA,,BKN,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1108,1,03:33,MIA,,BKN,,G. Vincent,MIA,Vincent Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1108,1,03:19,MIA,,BKN,,G. Vincent,MIA,SUB: Martin FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1108,2,02:59,MIA,,BKN,,G. Vincent,MIA,Vincent S.FOUL (P2.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2223-G1108,2,02:00,MIA,,BKN,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-230,1,0,1,3.0,0.0,h
+S2223-G1108,3,11:12,MIA,,BKN,,G. Vincent,MIA,MISS Vincent 5' Driving Layup,Missed Shot,Driving Layup Shot,34,43,5,1,2.0,0.0,h
+S2223-G1108,3,10:20,MIA,,BKN,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1108,3,08:58,MIA,,BKN,,G. Vincent,MIA,MISS Vincent 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-54,74,9,1,2.0,0.0,h
+S2223-G1108,3,07:13,MIA,,BKN,,G. Vincent,MIA,MISS Vincent 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-150,257,30,1,3.0,0.0,h
+S2223-G1108,3,04:07,MIA,,BKN,,G. Vincent,MIA,Vincent Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1108,3,03:26,MIA,,BKN,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0987,1,09:31,MIA,,CLE,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0987,1,02:59,MIA,,CLE,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0987,3,10:36,MIA,,CLE,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0987,3,08:12,MIA,,CLE,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,212,126,25,1,3.0,0.0,h
+S2223-G0987,3,07:20,MIA,,CLE,,G. Vincent,MIA,Vincent FLAGRANT.FOUL.TYPE1 (P1.T1) (C.Washington),Foul,Flagrant Type 1,0,0,0,0,,,h
+S2223-G0987,3,07:20,MIA,,CLE,,G. Vincent,MIA,Vincent Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0987,3,02:40,MIA,,CLE,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1007,1,11:44,ORL,0.0,MIA,2.0,G. Vincent,MIA,Vincent 3' Cutting Layup Shot (2 PTS) (Adebayo 1 AST),Made Shot,Cutting Layup Shot,13,31,3,1,2.0,2.0,v
+S2223-G1007,1,09:22,ORL,9.0,MIA,6.0,G. Vincent,MIA,Vincent 5' Driving Layup (4 PTS) (Love 1 AST),Made Shot,Driving Layup Shot,45,18,5,1,2.0,2.0,v
+S2223-G1007,1,08:29,ORL,,MIA,,G. Vincent,MIA,Vincent Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G1007,1,04:42,ORL,23.0,MIA,18.0,G. Vincent,MIA,Vincent 22' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-33,216,22,1,2.0,2.0,v
+S2223-G1007,1,04:17,ORL,,MIA,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G1007,2,05:02,ORL,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P1.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2223-G1007,2,03:15,ORL,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-227,12,0,1,3.0,0.0,v
+S2223-G1007,2,00:03.500000,ORL,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P2.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2223-G1007,3,09:18,ORL,60.0,MIA,63.0,G. Vincent,MIA,Vincent 24' 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,-235,15,24,1,3.0,3.0,v
+S2223-G1007,3,07:22,ORL,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1007,3,05:02,ORL,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,69,247,26,1,3.0,0.0,v
+S2223-G1007,3,03:14,ORL,,MIA,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G1007,4,08:15,ORL,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1007,4,06:43,ORL,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,225,51,0,1,3.0,0.0,v
+S2223-G1007,4,06:23,ORL,,MIA,,G. Vincent,MIA,MISS Vincent 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,32,48,6,1,2.0,0.0,v
+S2223-G1007,4,03:25,ORL,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1007,4,00:06.100000,ORL,,MIA,,G. Vincent,MIA,Vincent Personal Take Foul (P3.T4) (B.Schwab),Foul,Personal Take,0,0,0,0,,,v
+S2223-G1007,4,00:05,ORL,,MIA,,G. Vincent,MIA,Vincent Personal Take Foul (P4.PN) (B.Schwab),Foul,Personal Take,0,0,0,0,,,v
+S2223-G1007,4,00:05,ORL,,MIA,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G1007,5,02:41,ORL,118.0,MIA,111.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1007,5,02:41,ORL,118.0,MIA,112.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1007,5,01:50,ORL,123.0,MIA,114.0,G. Vincent,MIA,Vincent 4' Driving Layup (13 PTS) (Adebayo 3 AST),Made Shot,Driving Layup Shot,9,35,4,1,2.0,2.0,v
+S2223-G1007,5,01:18,ORL,,MIA,,G. Vincent,MIA,MISS Vincent 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-123,26,13,1,2.0,0.0,v
+S2223-G1007,5,00:41.900000,ORL,,MIA,,G. Vincent,MIA,Vincent Bad Pass Turnover (P2.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0641,1,09:40,MIA,8.0,MIL,3.0,G. Vincent,MIA,Vincent 27' 3PT Jump Shot (3 PTS) (Highsmith 1 AST),Made Shot,Jump Shot,-170,215,27,1,3.0,3.0,h
+S2223-G0641,1,09:16,MIA,11.0,MIL,5.0,G. Vincent,MIA,Vincent 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,76,248,26,1,3.0,3.0,h
+S2223-G0641,1,08:05,MIA,,MIL,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0641,1,08:00,MIA,,MIL,,G. Vincent,MIA,MISS Vincent 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-132,232,27,1,3.0,0.0,h
+S2223-G0641,1,07:39,MIA,17.0,MIL,8.0,G. Vincent,MIA,Vincent 24' 3PT Jump Shot (9 PTS) (Strus 1 AST),Made Shot,Jump Shot,-235,29,24,1,3.0,3.0,h
+S2223-G0641,1,06:36,MIA,,MIL,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0641,1,05:51,MIA,,MIL,,G. Vincent,MIA,Vincent STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0641,1,04:11,MIA,,MIL,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0641,2,11:10,MIA,30.0,MIL,20.0,G. Vincent,MIA,Vincent 17' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,98,141,17,1,2.0,2.0,h
+S2223-G0641,2,09:44,MIA,,MIL,,G. Vincent,MIA,Vincent Step Out of Bounds Turnover (P2.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0641,2,07:45,MIA,,MIL,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0641,2,07:37,MIA,34.0,MIL,24.0,G. Vincent,MIA,Vincent 16' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,-30,159,16,1,2.0,2.0,h
+S2223-G0641,2,07:04,MIA,36.0,MIL,27.0,G. Vincent,MIA,Vincent 11' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,-60,95,11,1,2.0,2.0,h
+S2223-G0641,2,06:41,MIA,,MIL,,G. Vincent,MIA,Vincent STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0641,2,06:34,MIA,39.0,MIL,27.0,G. Vincent,MIA,Vincent 26' 3PT Running Pull-Up Jump Shot (18 PTS),Made Shot,Running Pull-Up Jump Shot,-140,221,26,1,3.0,3.0,h
+S2223-G0641,2,06:14,MIA,,MIL,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0641,2,05:32,MIA,42.0,MIL,27.0,G. Vincent,MIA,Vincent 3PT Jump Shot (21 PTS) (Highsmith 2 AST),Made Shot,Jump Shot,224,-3,0,1,3.0,3.0,h
+S2223-G0641,2,04:28,MIA,,MIL,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,10,24,1,3.0,0.0,h
+S2223-G0641,2,03:26,MIA,,MIL,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0641,2,02:09,MIA,,MIL,,G. Vincent,MIA,Vincent S.FOUL (P1.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0641,3,10:11,MIA,,MIL,,G. Vincent,MIA,MISS Vincent 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-227,134,26,1,3.0,0.0,h
+S2223-G0641,3,09:18,MIA,,MIL,,G. Vincent,MIA,Vincent STEAL (4 STL),,,0,0,0,0,,,h
+S2223-G0641,3,08:25,MIA,59.0,MIL,54.0,G. Vincent,MIA,Vincent 17' Pullup Jump Shot (23 PTS),Made Shot,Pullup Jump shot,-32,171,17,1,2.0,2.0,h
+S2223-G0641,3,05:53,MIA,65.0,MIL,62.0,G. Vincent,MIA,Vincent 12' Driving Floating Jump Shot (25 PTS),Made Shot,Driving Floating Jump Shot,61,106,12,1,2.0,2.0,h
+S2223-G0641,3,05:31,MIA,,MIL,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0641,3,04:12,MIA,,MIL,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0641,4,08:10,MIA,,MIL,,G. Vincent,MIA,Vincent P.FOUL (P2.T1) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2223-G0641,4,08:02,MIA,,MIL,,G. Vincent,MIA,Vincent STEAL (5 STL),,,0,0,0,0,,,h
+S2223-G0641,4,02:54,MIA,107.0,MIL,88.0,G. Vincent,MIA,Vincent 7' Driving Finger Roll Layup (27 PTS),Made Shot,Driving Finger Roll Layup Shot,69,-1,7,1,2.0,2.0,h
+S2223-G0641,4,00:59.900000,MIA,,MIL,,G. Vincent,MIA,SUB: Highsmith FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0840,1,06:23,MIA,,HOU,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0840,1,03:02,MIA,,HOU,,G. Vincent,MIA,MISS Vincent 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-13,273,27,1,3.0,0.0,h
+S2223-G0840,1,01:39,MIA,,HOU,,G. Vincent,MIA,SUB: Bouyea FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0840,2,05:36,MIA,,HOU,,G. Vincent,MIA,MISS Vincent 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-232,53,24,1,3.0,0.0,h
+S2223-G0840,2,03:36,MIA,,HOU,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,131,231,27,1,3.0,0.0,h
+S2223-G0840,2,02:31,MIA,53.0,HOU,51.0,G. Vincent,MIA,Vincent 20' Pullup Jump Shot (2 PTS) (Martin 1 AST),Made Shot,Pullup Jump shot,124,163,20,1,2.0,2.0,h
+S2223-G0840,2,01:06,MIA,,HOU,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0840,3,10:53,MIA,61.0,HOU,58.0,G. Vincent,MIA,Vincent 25' 3PT Running Pull-Up Jump Shot (5 PTS) (Butler 2 AST),Made Shot,Running Pull-Up Jump Shot,-216,126,25,1,3.0,3.0,h
+S2223-G0840,3,07:23,MIA,,HOU,,G. Vincent,MIA,MISS Vincent 3PT Running Jump Shot,Missed Shot,Running Jump Shot,234,0,0,1,3.0,0.0,h
+S2223-G0840,3,07:16,MIA,,HOU,,G. Vincent,MIA,Vincent STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0840,3,06:45,MIA,,HOU,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0840,3,04:43,MIA,,HOU,,G. Vincent,MIA,MISS Vincent 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,42,70,8,1,2.0,0.0,h
+S2223-G0840,3,03:25,MIA,,HOU,,G. Vincent,MIA,SUB: Bouyea FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0840,4,11:46,MIA,,HOU,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,-175,206,27,1,3.0,0.0,h
+S2223-G0840,4,11:20,MIA,,HOU,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0840,4,10:35,MIA,,HOU,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0840,4,09:31,MIA,,HOU,,G. Vincent,MIA,Vincent Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0840,4,06:05,MIA,,HOU,,G. Vincent,MIA,SUB: Butler FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0840,4,03:01,MIA,,HOU,,G. Vincent,MIA,Vincent BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0661,1,10:13,ATL,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,230,20,0,1,3.0,0.0,v
+S2223-G0661,1,09:40,ATL,,MIA,,G. Vincent,MIA,MISS Vincent 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,2,20,2,1,2.0,0.0,v
+S2223-G0661,1,08:13,ATL,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0661,1,07:25,ATL,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P1.T3) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2223-G0661,1,06:57,ATL,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0661,1,06:11,ATL,,MIA,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0661,1,03:26,ATL,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0661,1,03:05,ATL,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P2.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0661,1,03:05,ATL,,MIA,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0661,2,07:55,ATL,51.0,MIA,36.0,G. Vincent,MIA,Vincent 3PT Jump Shot (3 PTS) (Adebayo 2 AST),Made Shot,Jump Shot,227,35,0,1,3.0,3.0,v
+S2223-G0661,2,07:26,ATL,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,91,236,25,1,3.0,0.0,v
+S2223-G0661,2,06:53,ATL,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,-145,204,25,1,3.0,0.0,v
+S2223-G0661,2,06:50,ATL,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0661,2,05:59,ATL,,MIA,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0661,2,04:50,ATL,,MIA,,G. Vincent,MIA,Vincent STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0661,2,02:59,ATL,,MIA,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0661,3,11:26,ATL,,MIA,,G. Vincent,MIA,Vincent Out of Bounds Lost Ball Turnover (P2.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0661,3,09:51,ATL,76.0,MIA,57.0,G. Vincent,MIA,Vincent 4' Driving Layup (5 PTS) (Butler 3 AST),Made Shot,Driving Layup Shot,1,37,4,1,2.0,2.0,v
+S2223-G0661,3,07:38,ATL,80.0,MIA,66.0,G. Vincent,MIA,Vincent 3PT Running Jump Shot (8 PTS) (Adebayo 4 AST),Made Shot,Running Jump Shot,-225,-8,0,1,3.0,3.0,v
+S2223-G0661,3,05:24,ATL,,MIA,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0661,3,00:23.500000,ATL,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-199,158,25,1,3.0,0.0,v
+S2223-G0661,4,09:48,ATL,94.0,MIA,85.0,G. Vincent,MIA,Vincent 1' Driving Reverse Layup (10 PTS),Made Shot,Driving Reverse Layup Shot,1,11,1,1,2.0,2.0,v
+S2223-G0661,4,09:00,ATL,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-174,193,26,1,3.0,0.0,v
+S2223-G0661,4,07:37,ATL,,MIA,,G. Vincent,MIA,SUB: Butler FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G1066,1,04:56,DET,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1066,1,04:48,DET,,MIA,,G. Vincent,MIA,MISS Vincent 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-126,257,29,1,3.0,0.0,v
+S2223-G1066,1,03:11,DET,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P1.T2) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G1066,1,02:04,DET,,MIA,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G1066,2,03:34,DET,38.0,MIA,49.0,G. Vincent,MIA,Vincent 27' 3PT Running Jump Shot (3 PTS) (Butler 5 AST),Made Shot,Running Jump Shot,-218,159,27,1,3.0,3.0,v
+S2223-G1066,2,03:03,DET,,MIA,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,-20,24,1,3.0,0.0,v
+S2223-G1066,2,02:28,DET,,MIA,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,-241,6,24,1,3.0,0.0,v
+S2223-G1066,2,02:23,DET,43.0,MIA,52.0,G. Vincent,MIA,Vincent 24' 3PT Jump Shot (6 PTS) (Adebayo 4 AST),Made Shot,Jump Shot,-240,4,24,1,3.0,3.0,v
+S2223-G1066,2,00:00.300000,DET,,MIA,,G. Vincent,MIA,MISS Vincent 34' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,71,336,34,1,3.0,0.0,v
+S2223-G1066,3,11:40,DET,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,234,92,25,1,3.0,0.0,v
+S2223-G1066,3,09:30,DET,,MIA,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,12,24,1,3.0,0.0,v
+S2223-G1066,3,05:24,DET,,MIA,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1066,3,03:29,DET,,MIA,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0764,2,11:14,CLE,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P1.T1) (C.Flores),Foul,Personal,0,0,0,0,,,v
+S2223-G0764,2,10:44,CLE,28.0,MIA,27.0,G. Vincent,MIA,Vincent 26' 3PT Jump Shot (3 PTS) (Strus 1 AST),Made Shot,Jump Shot,-49,255,26,1,3.0,3.0,v
+S2223-G0764,2,09:28,CLE,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P2.T3) (T.Maddox),Foul,Personal,0,0,0,0,,,v
+S2223-G0764,2,07:53,CLE,,MIA,,G. Vincent,MIA,MISS Vincent 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,7,29,3,1,2.0,0.0,v
+S2223-G0764,2,07:40,CLE,38.0,MIA,37.0,G. Vincent,MIA,Vincent 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-219,134,26,1,3.0,3.0,v
+S2223-G0764,2,06:08,CLE,,MIA,,G. Vincent,MIA,SUB: Butler FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0764,3,00:19.300000,CLE,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0764,4,11:30,CLE,,MIA,,G. Vincent,MIA,MISS Vincent 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,55,28,6,1,2.0,0.0,v
+S2223-G0764,4,10:29,CLE,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P3.T2) (C.Flores),Foul,Personal,0,0,0,0,,,v
+S2223-G0764,4,10:11,CLE,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P4.T3) (C.Flores),Foul,Personal,0,0,0,0,,,v
+S2223-G0764,4,09:46,CLE,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-232,12,0,1,3.0,0.0,v
+S2223-G0764,4,08:49,CLE,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-227,15,0,1,3.0,0.0,v
+S2223-G0764,4,05:09,CLE,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0764,4,04:41,CLE,87.0,MIA,92.0,G. Vincent,MIA,Vincent 29' 3PT Jump Shot (9 PTS) (Martin 1 AST),Made Shot,Jump Shot,-168,235,29,1,3.0,3.0,v
+S2223-G0764,4,04:19,CLE,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P5.T4) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2223-G0764,4,04:19,CLE,,MIA,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0764,4,00:48,CLE,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,-202,178,27,1,3.0,0.0,v
+S2223-G0699,1,02:48,MIA,,NOP,,G. Vincent,MIA,Vincent S.FOUL (P1.T4) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2223-G0699,2,11:12,MIA,,NOP,,G. Vincent,MIA,MISS Vincent 5' Driving Layup,Missed Shot,Driving Layup Shot,36,35,5,1,2.0,0.0,h
+S2223-G0699,2,08:49,MIA,,NOP,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0699,2,08:46,MIA,,NOP,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0699,2,08:18,MIA,,NOP,,G. Vincent,MIA,MISS Vincent 29' 3PT Jump Shot,Missed Shot,Jump Shot,148,247,29,1,3.0,0.0,h
+S2223-G0699,2,07:05,MIA,,NOP,,G. Vincent,MIA,Vincent Violation:Kicked Ball (D.Collins),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0699,2,07:05,MIA,,NOP,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0699,3,01:43,MIA,,NOP,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0699,3,01:07,MIA,,NOP,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0699,3,01:01,MIA,,NOP,,G. Vincent,MIA,Vincent Bad Pass Turnover (P2.T17),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0699,4,11:43,MIA,71.0,NOP,72.0,G. Vincent,MIA,Vincent 2' Cutting Layup Shot (2 PTS) (Adebayo 1 AST),Made Shot,Cutting Layup Shot,-22,11,2,1,2.0,2.0,h
+S2223-G0699,4,11:19,MIA,,NOP,,G. Vincent,MIA,MISS Vincent 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-134,203,24,1,3.0,0.0,h
+S2223-G0699,4,09:34,MIA,76.0,NOP,74.0,G. Vincent,MIA,Vincent 3PT Jump Shot (5 PTS) (Oladipo 5 AST),Made Shot,Jump Shot,-230,25,0,1,3.0,3.0,h
+S2223-G0699,4,09:03,MIA,,NOP,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0699,4,08:54,MIA,,NOP,,G. Vincent,MIA,MISS Vincent 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-186,180,26,1,3.0,0.0,h
+S2223-G0699,4,08:16,MIA,,NOP,,G. Vincent,MIA,Vincent Bad Pass Turnover (P3.T18),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0699,4,05:35,MIA,,NOP,,G. Vincent,MIA,Vincent P.FOUL (P2.T4) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2223-G0699,4,05:35,MIA,,NOP,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0949,1,09:34,MIA,,NYK,,G. Vincent,MIA,Vincent OFF.Foul (P1) (Z.Zarba),Foul,Offensive,0,0,0,0,,,h
+S2223-G0949,1,09:34,MIA,,NYK,,G. Vincent,MIA,Vincent Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0949,1,07:25,MIA,,NYK,,G. Vincent,MIA,MISS Vincent 5' Running Layup,Missed Shot,Running Layup Shot,25,41,5,1,2.0,0.0,h
+S2223-G0949,1,06:40,MIA,,NYK,,G. Vincent,MIA,Vincent S.FOUL (P2.T3) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0949,1,06:40,MIA,,NYK,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0949,2,09:46,MIA,,NYK,,G. Vincent,MIA,MISS Vincent 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,16,155,16,1,2.0,0.0,h
+S2223-G0949,2,08:38,MIA,,NYK,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0949,2,05:25,MIA,,NYK,,G. Vincent,MIA,Vincent STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0949,2,04:40,MIA,47.0,NYK,57.0,G. Vincent,MIA,Vincent 25' 3PT Jump Shot (3 PTS) (Adebayo 3 AST),Made Shot,Jump Shot,-165,193,25,1,3.0,3.0,h
+S2223-G0949,2,01:33,MIA,,NYK,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-232,1,0,1,3.0,0.0,h
+S2223-G0949,2,00:45,MIA,,NYK,,G. Vincent,MIA,SUB: Martin FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0949,3,10:38,MIA,,NYK,,G. Vincent,MIA,Vincent P.FOUL (P3.T1) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2223-G0949,3,06:27,MIA,,NYK,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0949,3,05:59,MIA,,NYK,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0949,3,05:52,MIA,,NYK,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0949,3,00:14.600000,MIA,,NYK,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,4,24,1,3.0,0.0,h
+S2223-G0949,4,11:05,MIA,,NYK,,G. Vincent,MIA,MISS Vincent 28' 3PT Jump Shot,Missed Shot,Jump Shot,-148,235,28,1,3.0,0.0,h
+S2223-G0949,4,07:39,MIA,,NYK,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0861,1,11:03,MIA,6.0,DEN,2.0,G. Vincent,MIA,Vincent 25' 3PT Jump Shot (3 PTS) (Butler 2 AST),Made Shot,Jump Shot,-125,219,25,1,3.0,3.0,h
+S2223-G0861,1,09:55,MIA,,DEN,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,24,24,1,3.0,0.0,h
+S2223-G0861,1,08:18,MIA,,DEN,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,-162,205,26,1,3.0,0.0,h
+S2223-G0861,1,05:28,MIA,,DEN,,G. Vincent,MIA,SUB: Highsmith FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0861,1,00:46.600000,MIA,,DEN,,G. Vincent,MIA,Vincent S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0861,1,00:01.300000,MIA,36.0,DEN,27.0,G. Vincent,MIA,Vincent 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-25,255,26,1,3.0,3.0,h
+S2223-G0861,2,10:06,MIA,,DEN,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0861,2,09:01,MIA,,DEN,,G. Vincent,MIA,Vincent P.FOUL (P2.T1) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2223-G0861,2,08:36,MIA,,DEN,,G. Vincent,MIA,MISS Vincent 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-120,164,20,1,2.0,0.0,h
+S2223-G0861,2,08:27,MIA,,DEN,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0861,2,03:04,MIA,54.0,DEN,54.0,G. Vincent,MIA,Vincent 26' 3PT Jump Shot (9 PTS) (Butler 7 AST),Made Shot,Jump Shot,-134,218,26,1,3.0,3.0,h
+S2223-G0861,2,01:06,MIA,,DEN,,G. Vincent,MIA,MISS Vincent 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,67,248,26,1,3.0,0.0,h
+S2223-G0861,3,11:49,MIA,,DEN,,G. Vincent,MIA,Vincent L.B.FOUL (P3.T1) (J.Schroeder),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0861,3,10:27,MIA,,DEN,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,66,244,25,1,3.0,0.0,h
+S2223-G0861,3,09:16,MIA,68.0,DEN,67.0,G. Vincent,MIA,Vincent 13' Floating Jump Shot (11 PTS),Made Shot,Floating Jump shot,-39,121,13,1,2.0,2.0,h
+S2223-G0861,3,09:16,MIA,69.0,DEN,67.0,G. Vincent,MIA,Vincent Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0861,3,08:53,MIA,,DEN,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,-59,258,26,1,3.0,0.0,h
+S2223-G0861,3,07:57,MIA,,DEN,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0861,3,07:56,MIA,,DEN,,G. Vincent,MIA,Vincent Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0861,3,07:49,MIA,,DEN,,G. Vincent,MIA,Vincent S.FOUL (P4.T2) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2223-G0861,3,07:49,MIA,,DEN,,G. Vincent,MIA,SUB: Bouyea FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0861,3,01:48,MIA,,DEN,,G. Vincent,MIA,Vincent Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0861,3,01:24,MIA,,DEN,,G. Vincent,MIA,MISS Vincent 8' Floating Jump Shot,Missed Shot,Floating Jump shot,-75,36,8,1,2.0,0.0,h
+S2223-G0861,3,00:11.700000,MIA,,DEN,,G. Vincent,MIA,MISS Vincent 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,43,67,8,1,2.0,0.0,h
+S2223-G0861,4,07:33,MIA,,DEN,,G. Vincent,MIA,SUB: Butler FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0861,4,04:04,MIA,101.0,DEN,105.0,G. Vincent,MIA,Vincent 3PT Jump Shot (15 PTS) (Adebayo 2 AST),Made Shot,Jump Shot,225,-6,0,1,3.0,3.0,h
+S2223-G0861,4,00:47.900000,MIA,,DEN,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0861,4,00:07.300000,MIA,,DEN,,G. Vincent,MIA,Vincent Personal Take Foul (P5.PN) (J.Schroeder),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0861,4,00:01.600000,MIA,,DEN,,G. Vincent,MIA,Vincent Personal Take Foul (P6.PN) (C.Kirkland),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0861,4,00:01.600000,MIA,,DEN,,G. Vincent,MIA,SUB: Bouyea FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0174,1,03:27,MIA,,CHA,,G. Vincent,MIA,MISS Vincent 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-135,13,14,1,2.0,0.0,h
+S2223-G0174,1,02:55,MIA,24.0,CHA,17.0,G. Vincent,MIA,Vincent 3PT Jump Shot (3 PTS) (Butler 3 AST),Made Shot,Jump Shot,225,25,0,1,3.0,3.0,h
+S2223-G0174,1,00:12.500000,MIA,,CHA,,G. Vincent,MIA,MISS Vincent 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,21,5,2,1,2.0,0.0,h
+S2223-G0174,2,10:38,MIA,,CHA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0174,2,09:25,MIA,,CHA,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,214,142,26,1,3.0,0.0,h
+S2223-G0174,2,08:17,MIA,,CHA,,G. Vincent,MIA,Vincent P.FOUL (P1.T2) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2223-G0174,2,07:56,MIA,41.0,CHA,32.0,G. Vincent,MIA,Vincent 25' 3PT Jump Shot (6 PTS) (Adebayo 3 AST),Made Shot,Jump Shot,164,195,25,1,3.0,3.0,h
+S2223-G0174,2,06:38,MIA,,CHA,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0174,2,02:47,MIA,,CHA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0174,2,02:12,MIA,,CHA,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,-159,218,27,1,3.0,0.0,h
+S2223-G0174,2,01:26,MIA,,CHA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0174,2,01:08,MIA,,CHA,,G. Vincent,MIA,Vincent P.FOUL (P2.PN) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0174,2,00:00.100000,MIA,58.0,CHA,50.0,G. Vincent,MIA,Vincent 16' Fadeaway Jumper (8 PTS) (Butler 5 AST),Made Shot,Fadeaway Jump Shot,162,10,16,1,2.0,2.0,h
+S2223-G0174,3,05:33,MIA,,CHA,,G. Vincent,MIA,Vincent P.FOUL (P3.T2) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2223-G0174,3,05:03,MIA,,CHA,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,-141,221,26,1,3.0,0.0,h
+S2223-G0174,3,04:25,MIA,,CHA,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,-195,171,26,1,3.0,0.0,h
+S2223-G0174,3,00:55.300000,MIA,,CHA,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,-218,127,25,1,3.0,0.0,h
+S2223-G0174,4,08:47,MIA,,CHA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0174,4,05:59,MIA,,CHA,,G. Vincent,MIA,MISS Vincent 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-94,157,18,1,2.0,0.0,h
+S2223-G0174,4,04:11,MIA,,CHA,,G. Vincent,MIA,Vincent P.FOUL (P4.T4) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2223-G0174,4,01:20,MIA,,CHA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0174,5,00:09,MIA,114.0,CHA,112.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0174,5,00:09,MIA,115.0,CHA,112.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0174,5,00:03.800000,MIA,116.0,CHA,112.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0174,5,00:03.800000,MIA,117.0,CHA,112.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0031,1,10:20,MIA,3.0,TOR,3.0,G. Vincent,MIA,Vincent 26' 3PT Jump Shot (3 PTS) (Martin 1 AST),Made Shot,Jump Shot,-217,138,26,1,3.0,3.0,h
+S2223-G0031,1,09:22,MIA,,TOR,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0031,1,08:57,MIA,,TOR,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0031,1,02:20,MIA,,TOR,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0031,1,01:16,MIA,,TOR,,G. Vincent,MIA,Vincent Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0031,1,00:30.300000,MIA,,TOR,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0031,2,11:29,MIA,,TOR,,G. Vincent,MIA,MISS Vincent 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,159,222,27,1,3.0,0.0,h
+S2223-G0031,2,11:14,MIA,,TOR,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0031,2,10:17,MIA,43.0,TOR,36.0,G. Vincent,MIA,Vincent 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,-33,10,3,1,2.0,2.0,h
+S2223-G0031,2,09:51,MIA,,TOR,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0031,2,09:05,MIA,,TOR,,G. Vincent,MIA,MISS Vincent 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,74,267,28,1,3.0,0.0,h
+S2223-G0031,2,08:32,MIA,,TOR,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0031,2,00:34,MIA,,TOR,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-223,17,0,1,3.0,0.0,h
+S2223-G0031,3,02:52,MIA,,TOR,,G. Vincent,MIA,MISS Vincent 28' 3PT Jump Shot,Missed Shot,Jump Shot,37,279,28,1,3.0,0.0,h
+S2223-G0031,3,01:48,MIA,87.0,TOR,78.0,G. Vincent,MIA,Vincent 1' Driving Reverse Layup (7 PTS),Made Shot,Driving Reverse Layup Shot,7,7,1,1,2.0,2.0,h
+S2223-G0031,3,01:28,MIA,,TOR,,G. Vincent,MIA,Vincent P.FOUL (P1.PN) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0031,3,00:01.500000,MIA,91.0,TOR,83.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0031,3,00:01.500000,MIA,92.0,TOR,83.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0031,4,11:28,MIA,,TOR,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0031,4,11:15,MIA,,TOR,,G. Vincent,MIA,Vincent Step Out of Bounds Turnover (P2.T13),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0031,4,08:09,MIA,,TOR,,G. Vincent,MIA,Vincent OFF.Foul (P2) (T.Ford),Foul,Offensive,0,0,0,0,,,h
+S2223-G0031,4,08:09,MIA,,TOR,,G. Vincent,MIA,Vincent Offensive Foul Turnover (P3.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0031,4,03:28,MIA,,TOR,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0031,4,02:48,MIA,,TOR,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1084,1,08:33,MIA,10.0,NYK,12.0,G. Vincent,MIA,Vincent 24' 3PT Jump Shot (3 PTS) (Butler 2 AST),Made Shot,Jump Shot,-235,-10,24,1,3.0,3.0,h
+S2223-G1084,1,07:41,MIA,15.0,NYK,12.0,G. Vincent,MIA,Vincent 25' 3PT Running Jump Shot (6 PTS) (Butler 3 AST),Made Shot,Running Jump Shot,-235,85,25,1,3.0,3.0,h
+S2223-G1084,1,03:49,MIA,23.0,NYK,22.0,G. Vincent,MIA,Vincent 29' 3PT Jump Shot (9 PTS) (Butler 4 AST),Made Shot,Jump Shot,17,289,29,1,3.0,3.0,h
+S2223-G1084,1,03:36,MIA,,NYK,,G. Vincent,MIA,Vincent S.FOUL (P1.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G1084,1,03:01,MIA,,NYK,,G. Vincent,MIA,MISS Vincent 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-235,85,25,1,3.0,0.0,h
+S2223-G1084,1,02:56,MIA,,NYK,,G. Vincent,MIA,Vincent S.FOUL (P2.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G1084,1,02:56,MIA,,NYK,,G. Vincent,MIA,SUB: Martin FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1084,2,04:55,MIA,,NYK,,G. Vincent,MIA,MISS Vincent 2' Driving Layup,Missed Shot,Driving Layup Shot,-7,14,2,1,2.0,0.0,h
+S2223-G1084,2,03:34,MIA,53.0,NYK,49.0,G. Vincent,MIA,Vincent 18' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,-103,147,18,1,2.0,2.0,h
+S2223-G1084,2,00:57.300000,MIA,62.0,NYK,55.0,G. Vincent,MIA,Vincent 19' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,-62,183,19,1,2.0,2.0,h
+S2223-G1084,2,00:31.300000,MIA,,NYK,,G. Vincent,MIA,MISS Vincent 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-29,-1,3,1,2.0,0.0,h
+S2223-G1084,2,00:02.800000,MIA,64.0,NYK,61.0,G. Vincent,MIA,Vincent 12' Jump Shot (15 PTS) (Butler 5 AST),Made Shot,Jump Shot,-116,10,12,1,2.0,2.0,h
+S2223-G1084,3,11:34,MIA,66.0,NYK,61.0,G. Vincent,MIA,Vincent 13' Driving Floating Jump Shot (17 PTS) (Love 4 AST),Made Shot,Driving Floating Jump Shot,-9,130,13,1,2.0,2.0,h
+S2223-G1084,3,09:53,MIA,70.0,NYK,67.0,G. Vincent,MIA,Vincent 14' Fadeaway Jumper (19 PTS),Made Shot,Fadeaway Jump Shot,-16,143,14,1,2.0,2.0,h
+S2223-G1084,3,09:16,MIA,,NYK,,G. Vincent,MIA,Vincent P.FOUL (P3.T2) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2223-G1084,3,04:59,MIA,,NYK,,G. Vincent,MIA,MISS Vincent 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,213,134,25,1,3.0,0.0,h
+S2223-G1084,3,02:16,MIA,,NYK,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1084,4,00:22.300000,MIA,,NYK,,G. Vincent,MIA,SUB: Love FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1138,1,11:25,NYK,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1138,1,09:40,NYK,8.0,MIA,3.0,G. Vincent,MIA,Vincent 3PT Jump Shot (3 PTS) (Adebayo 1 AST),Made Shot,Jump Shot,229,37,0,1,3.0,3.0,v
+S2223-G1138,1,08:43,NYK,,MIA,,G. Vincent,MIA,Vincent STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1138,1,05:59,NYK,8.0,MIA,14.0,G. Vincent,MIA,Vincent 12' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,-121,11,12,1,2.0,2.0,v
+S2223-G1138,1,05:28,NYK,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1138,1,04:33,NYK,11.0,MIA,16.0,G. Vincent,MIA,Vincent 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-23,25,3,1,2.0,2.0,v
+S2223-G1138,1,02:57,NYK,,MIA,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G1138,2,05:18,NYK,,MIA,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1138,2,01:48,NYK,,MIA,,G. Vincent,MIA,MISS Vincent Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1138,2,01:48,NYK,40.0,MIA,40.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1138,2,01:20,NYK,43.0,MIA,43.0,G. Vincent,MIA,Vincent 3PT Jump Shot (11 PTS) (Butler 2 AST),Made Shot,Jump Shot,-224,-22,0,1,3.0,3.0,v
+S2223-G1138,2,01:00,NYK,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1138,3,10:03,NYK,48.0,MIA,52.0,G. Vincent,MIA,Vincent 27' 3PT Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,1,267,27,1,3.0,3.0,v
+S2223-G1138,3,08:10,NYK,,MIA,,G. Vincent,MIA,MISS Vincent 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-114,146,19,1,2.0,0.0,v
+S2223-G1138,3,07:43,NYK,54.0,MIA,54.0,G. Vincent,MIA,Vincent 1' Layup (16 PTS) (Butler 4 AST),Made Shot,Layup Shot,5,1,1,1,2.0,2.0,v
+S2223-G1138,3,05:07,NYK,61.0,MIA,62.0,G. Vincent,MIA,Vincent 9' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,93,15,9,1,2.0,2.0,v
+S2223-G1138,3,03:12,NYK,,MIA,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G1138,4,02:43,NYK,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1138,4,01:54,NYK,100.0,MIA,92.0,G. Vincent,MIA,Vincent 24' 3PT Pullup Jump Shot (21 PTS) (Adebayo 4 AST),Made Shot,Pullup Jump shot,-237,5,24,1,3.0,3.0,v
+S2223-G1138,4,00:56.600000,NYK,,MIA,,G. Vincent,MIA,MISS Vincent 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,192,152,24,1,3.0,0.0,v
+S2223-G1138,4,00:29.300000,NYK,,MIA,,G. Vincent,MIA,MISS Vincent 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-21,15,3,1,2.0,0.0,v
+S2223-G0904,1,08:45,CHA,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P1.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0904,1,05:16,CHA,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0904,1,05:16,CHA,,MIA,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0904,2,04:14,CHA,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0904,2,00:52.700000,CHA,,MIA,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0904,3,10:25,CHA,,MIA,,G. Vincent,MIA,Vincent OFF.Foul (P3) (S.Corbin),Foul,Offensive,0,0,0,0,,,v
+S2223-G0904,3,10:25,CHA,,MIA,,G. Vincent,MIA,Vincent Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0904,3,08:43,CHA,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P4.T1) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2223-G0904,3,08:43,CHA,,MIA,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0904,4,09:43,CHA,82.0,MIA,81.0,G. Vincent,MIA,Vincent 27' 3PT Jump Shot (3 PTS) (Martin 1 AST),Made Shot,Jump Shot,174,201,27,1,3.0,3.0,v
+S2223-G0904,4,08:05,CHA,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0904,4,07:53,CHA,88.0,MIA,88.0,G. Vincent,MIA,Vincent 1' Driving Reverse Layup (5 PTS),Made Shot,Driving Reverse Layup Shot,0,6,1,1,2.0,2.0,v
+S2223-G0904,4,06:55,CHA,,MIA,,G. Vincent,MIA,Vincent Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0904,4,06:44,CHA,,MIA,,G. Vincent,MIA,MISS Vincent 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,181,211,28,1,3.0,0.0,v
+S2223-G0904,4,05:34,CHA,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,-145,228,27,1,3.0,0.0,v
+S2223-G0904,4,04:31,CHA,,MIA,,G. Vincent,MIA,Vincent Lost Ball Turnover (P3.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0904,4,03:15,CHA,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0904,4,00:17.200000,CHA,,MIA,,G. Vincent,MIA,MISS Vincent 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-104,256,28,1,3.0,0.0,v
+S2223-G0007,1,00:16.300000,,,CHI,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0007,2,11:19,,,CHI,,G. Vincent,MIA,Vincent S.FOUL (P1.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0007,2,10:38,,,CHI,,G. Vincent,MIA,Jump Ball Vincent vs. Caruso: Tip to Drummond,Jump Ball,,0,0,0,0,,,h
+S2223-G0007,2,10:38,,,CHI,,G. Vincent,MIA,Vincent Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0007,2,09:26,,,CHI,,G. Vincent,MIA,MISS Vincent 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,34,32,5,1,2.0,0.0,h
+S2223-G0007,2,08:45,,,CHI,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,151,205,25,1,3.0,0.0,h
+S2223-G0007,2,07:11,,,CHI,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0007,3,00:31.500000,,84.0,CHI,94.0,G. Vincent,MIA,Vincent 10' Floating Jump Shot (2 PTS) (Robinson 2 AST),Made Shot,Floating Jump shot,34,90,10,1,2.0,2.0,h
+S2223-G0007,4,10:51,,,CHI,,G. Vincent,MIA,Vincent Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0007,4,09:47,,,CHI,,G. Vincent,MIA,MISS Vincent 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,40,58,7,1,2.0,0.0,h
+S2223-G0007,4,06:46,,,CHI,,G. Vincent,MIA,Vincent Traveling Turnover (P4.T17),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0007,4,05:49,,,CHI,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0752,1,00:50.300000,CHA,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0752,2,11:48,CHA,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P1.T1) (T.Washington),Foul,Personal,0,0,0,0,,,v
+S2223-G0752,2,10:00,CHA,34.0,MIA,35.0,G. Vincent,MIA,Vincent 1' Driving Floating Jump Shot (2 PTS) (Adebayo 2 AST),Made Shot,Driving Floating Jump Shot,5,6,1,1,2.0,2.0,v
+S2223-G0752,2,10:00,CHA,34.0,MIA,36.0,G. Vincent,MIA,Vincent Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0752,2,09:48,CHA,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P2.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0752,2,07:57,CHA,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,-138,229,27,1,3.0,0.0,v
+S2223-G0752,2,05:03,CHA,,MIA,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0752,3,01:55,CHA,83.0,MIA,83.0,G. Vincent,MIA,Vincent 19' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-1,186,19,1,2.0,2.0,v
+S2223-G0752,3,01:18,CHA,86.0,MIA,86.0,G. Vincent,MIA,Vincent 24' 3PT Jump Shot (8 PTS) (Oladipo 4 AST),Made Shot,Jump Shot,235,-1,24,1,3.0,3.0,v
+S2223-G0752,3,00:51.100000,CHA,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,153,220,27,1,3.0,0.0,v
+S2223-G0752,3,00:41.500000,CHA,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,151,212,26,1,3.0,0.0,v
+S2223-G0752,3,00:14.700000,CHA,,MIA,,G. Vincent,MIA,MISS Vincent 6' Layup,Missed Shot,Layup Shot,13,63,6,1,2.0,0.0,v
+S2223-G0752,4,11:29,CHA,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0752,4,11:19,CHA,,MIA,,G. Vincent,MIA,Vincent Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0752,4,10:48,CHA,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0752,4,06:54,CHA,,MIA,,G. Vincent,MIA,SUB: Butler FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0314,1,02:45,BOS,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,196,169,26,1,3.0,0.0,v
+S2223-G0314,2,08:37,BOS,,MIA,,G. Vincent,MIA,SUB: Martin FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0314,2,05:49,BOS,59.0,MIA,51.0,G. Vincent,MIA,Vincent 3' Cutting Layup Shot (2 PTS) (Lowry 4 AST),Made Shot,Cutting Layup Shot,-20,20,3,1,2.0,2.0,v
+S2223-G0314,2,02:56,BOS,63.0,MIA,58.0,G. Vincent,MIA,Vincent 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-208,141,25,1,3.0,3.0,v
+S2223-G0314,2,02:22,BOS,,MIA,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0314,3,05:15,BOS,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0314,3,03:24,BOS,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P2.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0314,3,03:08,BOS,,MIA,,G. Vincent,MIA,MISS Vincent 17' Jump Shot,Missed Shot,Jump Shot,96,136,17,1,2.0,0.0,v
+S2223-G0314,3,01:47,BOS,95.0,MIA,94.0,G. Vincent,MIA,Vincent 3PT Jump Shot (8 PTS) (Highsmith 1 AST),Made Shot,Jump Shot,234,16,0,1,3.0,3.0,v
+S2223-G0314,3,00:54.300000,BOS,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0314,3,00:14.700000,BOS,,MIA,,G. Vincent,MIA,MISS Vincent 29' 3PT Jump Shot,Missed Shot,Jump Shot,-136,256,29,1,3.0,0.0,v
+S2223-G0314,4,11:35,BOS,102.0,MIA,98.0,G. Vincent,MIA,Vincent 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,-2,13,1,1,2.0,2.0,v
+S2223-G0314,4,10:25,BOS,,MIA,,G. Vincent,MIA,Vincent Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0314,4,10:24,BOS,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P3.T2) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0314,4,09:43,BOS,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P4.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0314,4,09:16,BOS,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P5.T4) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0314,4,09:16,BOS,,MIA,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0045,1,02:52,MIA,,TOR,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0045,1,01:25,MIA,,TOR,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0045,1,00:32.800000,MIA,,TOR,,G. Vincent,MIA,Vincent S.FOUL (P1.T3) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0045,1,00:22.800000,MIA,,TOR,,G. Vincent,MIA,MISS Vincent Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0045,1,00:22.800000,MIA,23.0,TOR,27.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0045,2,06:07,MIA,,TOR,,G. Vincent,MIA,MISS Vincent 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,105,120,16,1,2.0,0.0,h
+S2223-G0045,2,05:01,MIA,,TOR,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0045,3,02:19,MIA,,TOR,,G. Vincent,MIA,Vincent Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0045,3,01:37,MIA,,TOR,,G. Vincent,MIA,Vincent BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0045,4,07:08,MIA,83.0,TOR,80.0,G. Vincent,MIA,Vincent 4' Driving Finger Roll Layup (3 PTS),Made Shot,Driving Finger Roll Layup Shot,29,29,4,1,2.0,2.0,h
+S2223-G0045,4,06:46,MIA,,TOR,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0045,4,02:52,MIA,,TOR,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,136,230,27,1,3.0,0.0,h
+S2223-G0045,4,00:50.400000,MIA,,TOR,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1204,1,11:12,WAS,2.0,MIA,2.0,G. Vincent,MIA,Vincent 23' Step Back Jump Shot (2 PTS) (Highsmith 1 AST),Made Shot,Step Back Jump shot,-55,220,23,1,2.0,2.0,v
+S2223-G1204,1,10:03,WAS,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-88,252,27,1,3.0,0.0,v
+S2223-G1204,1,09:52,WAS,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1204,1,07:03,WAS,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-227,142,27,1,3.0,0.0,v
+S2223-G1204,1,04:33,WAS,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-176,190,26,1,3.0,0.0,v
+S2223-G1204,1,03:10,WAS,,MIA,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G1204,2,04:15,WAS,,MIA,,G. Vincent,MIA,MISS Vincent 3' Driving Layup,Missed Shot,Driving Layup Shot,-26,19,3,1,2.0,0.0,v
+S2223-G1204,2,02:20,WAS,45.0,MIA,44.0,G. Vincent,MIA,Vincent 4' Driving Layup (4 PTS) (Zeller 1 AST),Made Shot,Driving Layup Shot,-34,22,4,1,2.0,2.0,v
+S2223-G1204,2,00:42,WAS,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-47,251,26,1,3.0,0.0,v
+S2223-G1204,3,11:15,WAS,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,3,08:33,WAS,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P1.T2) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2223-G1204,3,08:09,WAS,68.0,MIA,57.0,G. Vincent,MIA,Vincent 11' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,-44,106,11,1,2.0,2.0,v
+S2223-G1204,3,07:48,WAS,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,3,06:25,WAS,,MIA,,G. Vincent,MIA,MISS Vincent 29' 3PT Jump Shot,Missed Shot,Jump Shot,130,262,29,1,3.0,0.0,v
+S2223-G1204,3,04:33,WAS,,MIA,,G. Vincent,MIA,MISS Vincent 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,59,42,7,1,2.0,0.0,v
+S2223-G1204,3,04:13,WAS,,MIA,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0546,1,03:03,UTA,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,-47,246,25,1,3.0,0.0,v
+S2223-G0546,2,10:23,UTA,38.0,MIA,35.0,G. Vincent,MIA,Vincent 13' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,134,1,13,1,2.0,2.0,v
+S2223-G0546,2,08:04,UTA,,MIA,,G. Vincent,MIA,MISS Vincent 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,59,274,28,1,3.0,0.0,v
+S2223-G0546,2,07:58,UTA,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P1.T3) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2223-G0546,2,07:33,UTA,,MIA,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0546,2,00:49.300000,UTA,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P2.PN) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2223-G0546,2,00:39.900000,UTA,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0546,3,01:56,UTA,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P3.PN) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2223-G0546,3,00:48.600000,UTA,98.0,MIA,94.0,G. Vincent,MIA,Vincent 26' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,-175,193,26,1,3.0,3.0,v
+S2223-G0546,4,11:50,UTA,,MIA,,G. Vincent,MIA,MISS Vincent 19' Jump Shot,Missed Shot,Jump Shot,-158,110,19,1,2.0,0.0,v
+S2223-G0546,4,10:45,UTA,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0546,4,09:23,UTA,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0546,4,09:19,UTA,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,112,242,27,1,3.0,0.0,v
+S2223-G0546,4,00:27.300000,UTA,,MIA,,G. Vincent,MIA,SUB: Highsmith FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0546,4,00:14.200000,UTA,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P4.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0546,4,00:14.200000,UTA,,MIA,,G. Vincent,MIA,SUB: Highsmith FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0897,1,09:56,MIL,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,98,249,27,1,3.0,0.0,v
+S2223-G0897,1,09:42,MIL,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,219,123,25,1,3.0,0.0,v
+S2223-G0897,1,04:30,MIL,,MIA,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0897,2,06:10,MIL,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0897,2,00:27.900000,MIL,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,87,254,27,1,3.0,0.0,v
+S2223-G0897,3,07:52,MIL,80.0,MIA,65.0,G. Vincent,MIA,Vincent 3' Cutting Layup Shot (2 PTS) (Adebayo 1 AST),Made Shot,Cutting Layup Shot,-22,24,3,1,2.0,2.0,v
+S2223-G0897,3,06:46,MIL,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-172,203,27,1,3.0,0.0,v
+S2223-G0897,3,06:31,MIL,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-188,187,27,1,3.0,0.0,v
+S2223-G0897,3,04:19,MIL,,MIA,,G. Vincent,MIA,SUB: Martin FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0878,1,11:45,BKN,,MIA,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,196,143,24,1,3.0,0.0,v
+S2223-G0878,1,10:46,BKN,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P1.T1) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G0878,1,10:36,BKN,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,-181,169,25,1,3.0,0.0,v
+S2223-G0878,1,09:39,BKN,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0878,1,07:53,BKN,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0878,1,05:58,BKN,16.0,MIA,14.0,G. Vincent,MIA,Vincent 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,116,221,25,1,3.0,3.0,v
+S2223-G0878,1,04:54,BKN,,MIA,,G. Vincent,MIA,MISS Vincent 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-116,21,12,1,2.0,0.0,v
+S2223-G0878,1,03:51,BKN,18.0,MIA,19.0,G. Vincent,MIA,Vincent 24' 3PT Jump Shot (6 PTS) (Martin 1 AST),Made Shot,Jump Shot,192,152,24,1,3.0,3.0,v
+S2223-G0878,1,03:19,BKN,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,141,206,25,1,3.0,0.0,v
+S2223-G0878,1,03:12,BKN,,MIA,,G. Vincent,MIA,SUB: Bouyea FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0878,2,07:13,BKN,37.0,MIA,34.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0878,2,07:13,BKN,37.0,MIA,35.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0878,2,06:05,BKN,39.0,MIA,40.0,G. Vincent,MIA,Vincent 8' Finger Roll Layup (10 PTS),Made Shot,Finger Roll Layup Shot,59,59,8,1,2.0,2.0,v
+S2223-G0878,2,02:55,BKN,44.0,MIA,50.0,G. Vincent,MIA,Vincent 8' Turnaround Fadeaway (12 PTS),Made Shot,Turnaround Fadeaway shot,-12,83,8,1,2.0,2.0,v
+S2223-G0878,2,02:40,BKN,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0878,2,01:04,BKN,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0878,2,00:11.200000,BKN,,MIA,,G. Vincent,MIA,SUB: Bouyea FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0878,3,11:19,BKN,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,-18,257,26,1,3.0,0.0,v
+S2223-G0878,3,10:56,BKN,54.0,MIA,57.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0878,3,10:56,BKN,54.0,MIA,58.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0878,3,09:21,BKN,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P3.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0878,3,07:23,BKN,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0878,3,06:42,BKN,61.0,MIA,67.0,G. Vincent,MIA,Vincent 24' 3PT Jump Shot (17 PTS) (Butler 6 AST),Made Shot,Jump Shot,239,-11,24,1,3.0,3.0,v
+S2223-G0878,3,01:57,BKN,73.0,MIA,73.0,G. Vincent,MIA,Vincent Free Throw 1 of 3 (18 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0878,3,01:57,BKN,73.0,MIA,74.0,G. Vincent,MIA,Vincent Free Throw 2 of 3 (19 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0878,3,01:57,BKN,,MIA,,G. Vincent,MIA,MISS Vincent Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,0.0,v
+S2223-G0878,3,01:25,BKN,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-2,258,26,1,3.0,0.0,v
+S2223-G0878,3,01:24,BKN,,MIA,,G. Vincent,MIA,SUB: D. Robinson FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0878,4,06:37,BKN,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,173,186,25,1,3.0,0.0,v
+S2223-G0878,4,04:03,BKN,,MIA,,G. Vincent,MIA,MISS Vincent 2' Driving Layup,Missed Shot,Driving Layup Shot,-22,4,2,1,2.0,0.0,v
+S2223-G0878,4,00:08.600000,BKN,116.0,MIA,105.0,G. Vincent,MIA,Vincent 2' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,18,11,2,1,2.0,2.0,v
+S2223-G0589,1,04:25,PHX,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-225,-17,0,1,3.0,0.0,v
+S2223-G0589,1,02:50,PHX,19.0,MIA,22.0,G. Vincent,MIA,Vincent 3PT Jump Shot (3 PTS) (Butler 2 AST),Made Shot,Jump Shot,-230,-18,0,1,3.0,3.0,v
+S2223-G0589,1,01:38,PHX,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0589,2,10:00,PHX,27.0,MIA,36.0,G. Vincent,MIA,Vincent 25' 3PT Pullup Jump Shot (6 PTS) (Adebayo 2 AST),Made Shot,Pullup Jump shot,-188,171,25,1,3.0,3.0,v
+S2223-G0589,2,09:28,PHX,,MIA,,G. Vincent,MIA,MISS Vincent 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,33,242,24,1,3.0,0.0,v
+S2223-G0589,2,06:29,PHX,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-232,-18,0,1,3.0,0.0,v
+S2223-G0589,2,05:28,PHX,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-138,205,25,1,3.0,0.0,v
+S2223-G0589,2,04:24,PHX,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-228,-17,0,1,3.0,0.0,v
+S2223-G0589,2,01:37,PHX,,MIA,,G. Vincent,MIA,Vincent Violation:Kicked Ball (B.Nansel),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0589,2,01:37,PHX,,MIA,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0589,3,02:48,PHX,,MIA,,G. Vincent,MIA,MISS Vincent 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,15,15,2,1,2.0,0.0,v
+S2223-G0589,3,01:10,PHX,,MIA,,G. Vincent,MIA,MISS Vincent 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-40,101,11,1,2.0,0.0,v
+S2223-G0589,3,00:39.900000,PHX,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P1.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G0589,4,11:28,PHX,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0589,4,10:15,PHX,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0589,4,08:31,PHX,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0589,4,06:29,PHX,,MIA,,G. Vincent,MIA,MISS Vincent 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,162,233,28,1,3.0,0.0,v
+S2223-G0589,4,06:15,PHX,,MIA,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0065,1,01:00,POR,31.0,MIA,26.0,G. Vincent,MIA,Vincent 5' Driving Finger Roll Layup (2 PTS) (Robinson 1 AST),Made Shot,Driving Finger Roll Layup Shot,-17,43,5,1,2.0,2.0,v
+S2223-G0065,1,00:07,POR,31.0,MIA,27.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0065,1,00:07,POR,31.0,MIA,28.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0065,2,09:38,POR,35.0,MIA,32.0,G. Vincent,MIA,Vincent 15' Turnaround Fadeaway (6 PTS) (Adebayo 2 AST),Made Shot,Turnaround Fadeaway shot,145,41,15,1,2.0,2.0,v
+S2223-G0065,2,06:59,POR,,MIA,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0065,4,11:46,POR,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-132,226,26,1,3.0,0.0,v
+S2223-G0065,4,05:37,POR,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0065,4,05:00,POR,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,72,256,27,1,3.0,0.0,v
+S2223-G0065,4,03:59,POR,,MIA,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0065,4,03:41,POR,93.0,MIA,114.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0065,4,03:41,POR,93.0,MIA,115.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0065,4,02:43,POR,,MIA,,G. Vincent,MIA,MISS Vincent 5' Driving Layup,Missed Shot,Driving Layup Shot,45,25,5,1,2.0,0.0,v
+S2223-G0065,4,02:16,POR,,MIA,,G. Vincent,MIA,SUB: Haslem FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0121,1,05:48,IND,,MIA,,G. Vincent,MIA,MISS Vincent 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,146,131,20,1,2.0,0.0,v
+S2223-G0121,1,03:50,IND,,MIA,,G. Vincent,MIA,Vincent Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0121,1,02:49,IND,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P1.T4) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0121,1,02:32,IND,24.0,MIA,25.0,G. Vincent,MIA,Vincent 27' 3PT Jump Shot (3 PTS) (Herro 2 AST),Made Shot,Jump Shot,-22,269,27,1,3.0,3.0,v
+S2223-G0121,1,01:48,IND,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-234,0,0,1,3.0,0.0,v
+S2223-G0121,1,01:35,IND,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0121,1,01:10,IND,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P2.PN) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0121,1,00:32.300000,IND,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0121,1,00:00.700000,IND,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,169,199,26,1,3.0,0.0,v
+S2223-G0121,2,11:46,IND,28.0,MIA,31.0,G. Vincent,MIA,Vincent 1' Cutting Layup Shot (5 PTS) (Adebayo 1 AST),Made Shot,Cutting Layup Shot,7,13,1,1,2.0,2.0,v
+S2223-G0121,2,10:47,IND,31.0,MIA,35.0,G. Vincent,MIA,Vincent 2' Cutting Layup Shot (7 PTS) (Adebayo 2 AST),Made Shot,Cutting Layup Shot,10,16,2,1,2.0,2.0,v
+S2223-G0121,2,09:26,IND,,MIA,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,1,24,1,3.0,0.0,v
+S2223-G0121,2,08:24,IND,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P3.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0121,2,08:24,IND,,MIA,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0121,3,00:58.800000,IND,80.0,MIA,77.0,G. Vincent,MIA,Vincent 27' 3PT Step Back Jump Shot (10 PTS) (Strus 2 AST),Made Shot,Step Back Jump shot,-227,138,27,1,3.0,3.0,v
+S2223-G0121,4,10:28,IND,,MIA,,G. Vincent,MIA,Vincent STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0121,4,08:17,IND,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P4.T2) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2223-G0121,4,08:11,IND,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0121,4,07:23,IND,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0121,4,06:22,IND,94.0,MIA,91.0,G. Vincent,MIA,Vincent 2' Driving Finger Roll Layup (12 PTS) (Herro 4 AST),Made Shot,Driving Finger Roll Layup Shot,-12,17,2,1,2.0,2.0,v
+S2223-G0121,4,05:35,IND,94.0,MIA,94.0,G. Vincent,MIA,Vincent 24' 3PT Jump Shot (15 PTS) (Herro 5 AST),Made Shot,Jump Shot,235,5,24,1,3.0,3.0,v
+S2223-G0121,4,00:59.400000,IND,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P5.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0121,4,00:23.800000,IND,,MIA,,G. Vincent,MIA,Vincent STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0121,4,00:07.600000,IND,,MIA,,G. Vincent,MIA,SUB: Dedmon FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G1161,1,11:22,MIA,,DAL,,G. Vincent,MIA,MISS Vincent 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-17,106,11,1,2.0,0.0,h
+S2223-G1161,1,11:20,MIA,,DAL,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1161,1,11:19,MIA,,DAL,,G. Vincent,MIA,MISS Vincent 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,51,5,1,2.0,0.0,h
+S2223-G1161,1,10:41,MIA,,DAL,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,229,5,0,1,3.0,0.0,h
+S2223-G1161,1,09:50,MIA,,DAL,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1161,1,09:39,MIA,6.0,DAL,4.0,G. Vincent,MIA,Vincent 9' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,85,9,1,2.0,2.0,h
+S2223-G1161,1,09:39,MIA,7.0,DAL,4.0,G. Vincent,MIA,Vincent Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1161,1,05:23,MIA,25.0,DAL,24.0,G. Vincent,MIA,Vincent 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-131,225,26,1,3.0,3.0,h
+S2223-G1161,1,04:47,MIA,,DAL,,G. Vincent,MIA,Vincent REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1161,1,04:44,MIA,,DAL,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-233,15,0,1,3.0,0.0,h
+S2223-G1161,1,04:37,MIA,,DAL,,G. Vincent,MIA,SUB: Love FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1161,1,00:06,MIA,,DAL,,G. Vincent,MIA,Vincent REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1161,2,07:27,MIA,,DAL,,G. Vincent,MIA,SUB: Butler FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1161,3,06:28,MIA,,DAL,,G. Vincent,MIA,MISS Vincent 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-31,257,26,1,3.0,0.0,h
+S2223-G1161,3,05:42,MIA,,DAL,,G. Vincent,MIA,Vincent OFF.Foul (P1) (S.Corbin),Foul,Offensive,0,0,0,0,,,h
+S2223-G1161,3,05:42,MIA,,DAL,,G. Vincent,MIA,Vincent Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1161,3,04:44,MIA,,DAL,,G. Vincent,MIA,SUB: Martin FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1161,4,09:07,MIA,112.0,DAL,101.0,G. Vincent,MIA,Vincent 3PT Jump Shot (9 PTS) (Lowry 6 AST),Made Shot,Jump Shot,230,-11,0,1,3.0,3.0,h
+S2223-G1161,4,08:58,MIA,,DAL,,G. Vincent,MIA,Vincent Violation:Kicked Ball (S.Corbin),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G1161,4,06:37,MIA,,DAL,,G. Vincent,MIA,SUB: Martin FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0265,1,05:50,MIA,,WAS,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-232,-9,0,1,3.0,0.0,h
+S2223-G0265,1,03:12,MIA,,WAS,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,-169,189,25,1,3.0,0.0,h
+S2223-G0265,2,11:45,MIA,30.0,WAS,26.0,G. Vincent,MIA,Vincent 2' Driving Dunk (2 PTS) (Dedmon 1 AST),Made Shot,Driving Dunk Shot,17,11,2,1,2.0,2.0,h
+S2223-G0265,2,10:57,MIA,,WAS,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,-136,223,26,1,3.0,0.0,h
+S2223-G0265,2,08:41,MIA,,WAS,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0265,2,03:40,MIA,,WAS,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,218,125,25,1,3.0,0.0,h
+S2223-G0265,2,02:35,MIA,,WAS,,G. Vincent,MIA,MISS Vincent 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-55,68,9,1,2.0,0.0,h
+S2223-G0265,2,02:16,MIA,,WAS,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0265,2,02:08,MIA,,WAS,,G. Vincent,MIA,SUB: Martin FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0265,2,01:19,MIA,,WAS,,G. Vincent,MIA,MISS Vincent 28' 3PT Jump Shot,Missed Shot,Jump Shot,219,173,28,1,3.0,0.0,h
+S2223-G0265,2,00:21.300000,MIA,,WAS,,G. Vincent,MIA,SUB: Cain FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0265,3,00:29.800000,MIA,,WAS,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,-222,140,26,1,3.0,0.0,h
+S2223-G0265,3,00:02.100000,MIA,,WAS,,G. Vincent,MIA,MISS Vincent 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,103,10,1,2.0,0.0,h
+S2223-G1177,1,10:26,DET,6.0,MIA,8.0,G. Vincent,MIA,Vincent 24' 3PT Jump Shot (3 PTS) (Butler 2 AST),Made Shot,Jump Shot,238,0,24,1,3.0,3.0,v
+S2223-G1177,1,08:20,DET,,MIA,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,3,24,1,3.0,0.0,v
+S2223-G1177,1,06:56,DET,11.0,MIA,13.0,G. Vincent,MIA,Vincent 3PT Jump Shot (6 PTS) (Strus 1 AST),Made Shot,Jump Shot,-228,14,0,1,3.0,3.0,v
+S2223-G1177,1,06:27,DET,14.0,MIA,15.0,G. Vincent,MIA,Vincent 8' Pullup Jump Shot (8 PTS) (Strus 2 AST),Made Shot,Pullup Jump shot,45,72,8,1,2.0,2.0,v
+S2223-G1177,1,04:16,DET,17.0,MIA,20.0,G. Vincent,MIA,Vincent 3PT Jump Shot (11 PTS) (Butler 4 AST),Made Shot,Jump Shot,232,20,0,1,3.0,3.0,v
+S2223-G1177,1,03:09,DET,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2223-G1177,1,03:09,DET,,MIA,,G. Vincent,MIA,SUB: Martin FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G1177,1,00:01,DET,,MIA,,G. Vincent,MIA,MISS Vincent 35' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,31,347,35,1,3.0,0.0,v
+S2223-G1177,2,07:43,DET,31.0,MIA,47.0,G. Vincent,MIA,Vincent 3PT Step Back Jump Shot (14 PTS) (Lowry 3 AST),Made Shot,Step Back Jump shot,233,11,0,1,3.0,3.0,v
+S2223-G1177,2,06:19,DET,35.0,MIA,52.0,G. Vincent,MIA,Vincent 26' 3PT Running Jump Shot (17 PTS) (Martin 1 AST),Made Shot,Running Jump Shot,150,215,26,1,3.0,3.0,v
+S2223-G1177,2,06:02,DET,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,199,161,26,1,3.0,0.0,v
+S2223-G1177,2,05:48,DET,,MIA,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G1177,3,11:30,DET,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,142,222,26,1,3.0,0.0,v
+S2223-G1177,3,10:42,DET,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-225,37,0,1,3.0,0.0,v
+S2223-G1177,3,08:21,DET,60.0,MIA,63.0,G. Vincent,MIA,Vincent Running Finger Roll Layup (19 PTS) (Butler 5 AST),Made Shot,Running Finger Roll Layup Shot,-1,-3,0,1,2.0,2.0,v
+S2223-G1177,3,07:19,DET,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1177,3,06:13,DET,60.0,MIA,72.0,G. Vincent,MIA,Vincent 26' 3PT Pullup Jump Shot (22 PTS) (Adebayo 2 AST),Made Shot,Pullup Jump shot,-207,160,26,1,3.0,3.0,v
+S2223-G1177,3,06:02,DET,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P2.T2) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2223-G1177,3,04:31,DET,,MIA,,G. Vincent,MIA,MISS Vincent 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-120,0,12,1,2.0,0.0,v
+S2223-G1177,3,03:58,DET,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1177,3,03:58,DET,,MIA,,G. Vincent,MIA,SUB: Martin FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G1177,4,10:59,DET,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1177,4,07:05,DET,,MIA,,G. Vincent,MIA,SUB: Butler FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G1177,4,04:12,DET,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1198,1,08:18,PHI,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-159,196,25,1,3.0,0.0,v
+S2223-G1198,1,07:27,PHI,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P1.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2223-G1198,1,07:11,PHI,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1198,1,07:04,PHI,,MIA,,G. Vincent,MIA,Vincent Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1198,1,05:37,PHI,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P2.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G1198,1,05:37,PHI,,MIA,,G. Vincent,MIA,SUB: Martin FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G1198,2,04:55,PHI,,MIA,,G. Vincent,MIA,MISS Vincent 2' Driving Layup,Missed Shot,Driving Layup Shot,6,16,2,1,2.0,0.0,v
+S2223-G1198,2,04:26,PHI,,MIA,,G. Vincent,MIA,MISS Vincent 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,98,11,10,1,2.0,0.0,v
+S2223-G1198,2,02:02,PHI,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1198,2,01:41,PHI,42.0,MIA,62.0,G. Vincent,MIA,Vincent 26' 3PT Jump Shot (3 PTS) (Strus 3 AST),Made Shot,Jump Shot,-104,242,26,1,3.0,3.0,v
+S2223-G1198,2,00:25.400000,PHI,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-85,244,26,1,3.0,0.0,v
+S2223-G1198,3,07:46,PHI,,MIA,,G. Vincent,MIA,MISS Vincent 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,37,27,5,1,2.0,0.0,v
+S2223-G1198,3,06:09,PHI,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1198,3,03:49,PHI,67.0,MIA,85.0,G. Vincent,MIA,Vincent 16' Pullup Jump Shot (5 PTS) (Adebayo 1 AST),Made Shot,Pullup Jump shot,-69,141,16,1,2.0,2.0,v
+S2223-G1198,3,03:42,PHI,,MIA,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0068,1,00:48.700000,GSW,,MIA,,G. Vincent,MIA,MISS Vincent 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-147,42,15,1,2.0,0.0,v
+S2223-G0068,1,00:34,GSW,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P1.T3) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2223-G0068,1,00:01.700000,GSW,,MIA,,G. Vincent,MIA,MISS Vincent 33' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,146,294,33,1,3.0,0.0,v
+S2223-G0068,2,10:59,GSW,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P2.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0068,2,10:31,GSW,,MIA,,G. Vincent,MIA,MISS Vincent Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,v
+S2223-G0068,2,10:31,GSW,33.0,MIA,33.0,G. Vincent,MIA,Vincent Free Throw 2 of 3 (1 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0068,2,10:31,GSW,33.0,MIA,34.0,G. Vincent,MIA,Vincent Free Throw 3 of 3 (2 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0068,2,08:31,GSW,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0068,2,07:14,GSW,,MIA,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0068,3,03:14,GSW,,MIA,,G. Vincent,MIA,MISS Vincent 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,227,64,24,1,3.0,0.0,v
+S2223-G0068,3,01:48,GSW,85.0,MIA,82.0,G. Vincent,MIA,Vincent 8' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,64,48,8,1,2.0,2.0,v
+S2223-G0068,3,00:01.800000,GSW,,MIA,,G. Vincent,MIA,MISS Vincent 7' Driving Layup,Missed Shot,Driving Layup Shot,62,28,7,1,2.0,0.0,v
+S2223-G0068,4,10:30,GSW,95.0,MIA,92.0,G. Vincent,MIA,Vincent 27' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,-206,168,27,1,3.0,3.0,v
+S2223-G0068,4,10:02,GSW,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P3.T1) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2223-G0068,4,08:31,GSW,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0068,4,07:47,GSW,102.0,MIA,96.0,G. Vincent,MIA,Vincent 19' Turnaround Jump Shot (9 PTS),Made Shot,Turnaround Jump Shot,125,137,19,1,2.0,2.0,v
+S2223-G0068,4,05:48,GSW,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,-227,122,26,1,3.0,0.0,v
+S2223-G0068,4,05:40,GSW,,MIA,,G. Vincent,MIA,SUB: Adebayo FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0357,1,02:18,MEM,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0357,2,11:39,MEM,,MIA,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0357,2,10:48,MEM,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0357,2,09:24,MEM,,MIA,,G. Vincent,MIA,MISS Vincent 29' 3PT Jump Shot,Missed Shot,Jump Shot,-120,265,29,1,3.0,0.0,v
+S2223-G0357,2,07:37,MEM,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-228,38,0,1,3.0,0.0,v
+S2223-G0357,2,07:00,MEM,,MIA,,G. Vincent,MIA,SUB: Dedmon FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0357,3,02:10,MEM,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P2.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0357,3,00:51.900000,MEM,,MIA,,G. Vincent,MIA,Vincent Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0357,4,10:07,MEM,,MIA,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0673,1,03:18,NOP,8.0,MIA,27.0,G. Vincent,MIA,Vincent 3PT Jump Shot (3 PTS) (Strus 1 AST),Made Shot,Jump Shot,230,9,0,1,3.0,3.0,v
+S2223-G0673,1,02:46,NOP,10.0,MIA,30.0,G. Vincent,MIA,Vincent 27' 3PT Jump Shot (6 PTS) (Butler 1 AST),Made Shot,Jump Shot,117,241,27,1,3.0,3.0,v
+S2223-G0673,1,01:08,NOP,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-228,-13,0,1,3.0,0.0,v
+S2223-G0673,1,00:37.100000,NOP,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P1.PN) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0673,1,00:00,NOP,23.0,MIA,36.0,G. Vincent,MIA,Vincent 3PT Jump Shot (9 PTS) (Strus 3 AST),Made Shot,Jump Shot,234,4,0,1,3.0,3.0,v
+S2223-G0673,2,08:31,NOP,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0673,2,07:11,NOP,,MIA,,G. Vincent,MIA,MISS Vincent 31' 3PT Jump Shot,Missed Shot,Jump Shot,164,258,31,1,3.0,0.0,v
+S2223-G0673,2,06:47,NOP,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0673,2,06:15,NOP,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0673,2,05:43,NOP,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0673,2,05:25,NOP,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,64,252,26,1,3.0,0.0,v
+S2223-G0673,2,05:15,NOP,,MIA,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0673,3,01:33,NOP,71.0,MIA,91.0,G. Vincent,MIA,Vincent 3' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,6,28,3,1,2.0,2.0,v
+S2223-G0673,3,01:02,NOP,,MIA,,G. Vincent,MIA,MISS Vincent 1' Driving Layup,Missed Shot,Driving Layup Shot,-12,5,1,1,2.0,0.0,v
+S2223-G0673,3,00:00,NOP,76.0,MIA,98.0,G. Vincent,MIA,Vincent 3PT Turnaround Jump Shot (14 PTS) (Strus 6 AST),Made Shot,Turnaround Jump Shot,-232,8,0,1,3.0,3.0,v
+S2223-G0673,4,11:34,NOP,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0673,4,09:55,NOP,,MIA,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,-9,24,1,3.0,0.0,v
+S2223-G0673,4,07:08,NOP,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P2.T3) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0673,4,06:12,NOP,,MIA,,G. Vincent,MIA,MISS Vincent 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-22,10,2,1,2.0,0.0,v
+S2223-G0673,4,05:10,NOP,,MIA,,G. Vincent,MIA,MISS Vincent 10' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-104,11,10,1,2.0,0.0,v
+S2223-G0673,4,04:22,NOP,,MIA,,G. Vincent,MIA,MISS Vincent 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-38,89,10,1,2.0,0.0,v
+S2223-G0673,4,03:15,NOP,92.0,MIA,118.0,G. Vincent,MIA,Vincent 17' Jump Shot (16 PTS),Made Shot,Jump Shot,110,133,17,1,2.0,2.0,v
+S2223-G0848,1,11:04,ORL,,MIA,,G. Vincent,MIA,Vincent Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0848,1,07:59,ORL,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0848,1,05:54,ORL,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P1.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0848,1,05:08,ORL,19.0,MIA,13.0,G. Vincent,MIA,Vincent 3PT Jump Shot (3 PTS) (Strus 1 AST),Made Shot,Jump Shot,234,-11,0,1,3.0,3.0,v
+S2223-G0848,1,03:11,ORL,23.0,MIA,18.0,G. Vincent,MIA,Vincent 13' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-45,120,13,1,2.0,2.0,v
+S2223-G0848,1,02:01,ORL,,MIA,,G. Vincent,MIA,SUB: Bouyea FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0848,2,08:40,ORL,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,93,247,26,1,3.0,0.0,v
+S2223-G0848,2,04:18,ORL,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,102,244,26,1,3.0,0.0,v
+S2223-G0848,2,04:02,ORL,,MIA,,G. Vincent,MIA,Vincent FLAGRANT.FOUL.TYPE1 (P2.T4) (A.Smith),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2223-G0848,2,03:37,ORL,50.0,MIA,34.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0848,2,03:37,ORL,50.0,MIA,35.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0848,2,02:11,ORL,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,93,253,27,1,3.0,0.0,v
+S2223-G0848,2,00:46.400000,ORL,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P3.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0848,2,00:46.400000,ORL,,MIA,,G. Vincent,MIA,SUB: Martin FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0848,3,09:49,ORL,,MIA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0848,3,07:40,ORL,58.0,MIA,57.0,G. Vincent,MIA,Vincent 25' 3PT Jump Shot (10 PTS) (Martin 1 AST),Made Shot,Jump Shot,-170,187,25,1,3.0,3.0,v
+S2223-G0848,3,06:45,ORL,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P4.T3) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0848,3,06:45,ORL,,MIA,,G. Vincent,MIA,SUB: Bouyea FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0848,4,10:41,ORL,,MIA,,G. Vincent,MIA,Vincent Out of Bounds - Bad Pass Turnover Turnover (P2.T18),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0848,4,07:48,ORL,87.0,MIA,81.0,G. Vincent,MIA,Vincent 2' Driving Reverse Layup (12 PTS),Made Shot,Driving Reverse Layup Shot,21,-1,2,1,2.0,2.0,v
+S2223-G0848,4,07:18,ORL,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-233,1,0,1,3.0,0.0,v
+S2223-G0848,4,05:07,ORL,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0848,4,03:56,ORL,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,225,36,0,1,3.0,0.0,v
+S2223-G0848,4,01:45,ORL,95.0,MIA,91.0,G. Vincent,MIA,Vincent 3PT Jump Shot (15 PTS) (Strus 7 AST),Made Shot,Jump Shot,228,27,0,1,3.0,3.0,v
+S2223-G0848,4,00:12.100000,ORL,97.0,MIA,96.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0848,4,00:12.100000,ORL,97.0,MIA,97.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0848,5,04:24,ORL,97.0,MIA,100.0,G. Vincent,MIA,Vincent 26' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,70,251,26,1,3.0,3.0,v
+S2223-G0848,5,02:15,ORL,,MIA,,G. Vincent,MIA,MISS Vincent 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-153,240,28,1,3.0,0.0,v
+S2223-G0560,1,02:07,LAC,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P1.PN) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,v
+S2223-G0560,1,01:54,LAC,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-134,226,26,1,3.0,0.0,v
+S2223-G0560,1,00:23.300000,LAC,28.0,MIA,34.0,G. Vincent,MIA,Vincent 24' 3PT Jump Shot (3 PTS) (Oladipo 1 AST),Made Shot,Jump Shot,-235,12,24,1,3.0,3.0,v
+S2223-G0560,2,11:27,LAC,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P2.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0560,2,10:18,LAC,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0560,2,09:29,LAC,,MIA,,G. Vincent,MIA,MISS Vincent 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,85,9,1,2.0,0.0,v
+S2223-G0560,2,05:20,LAC,,MIA,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0560,3,00:50.500000,LAC,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,-164,215,27,1,3.0,0.0,v
+S2223-G0560,3,00:04.200000,LAC,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P3.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0560,4,09:46,LAC,83.0,MIA,88.0,G. Vincent,MIA,Vincent 2' Running Layup (5 PTS) (Oladipo 4 AST),Made Shot,Running Layup Shot,6,14,2,1,2.0,2.0,v
+S2223-G0560,4,09:41,LAC,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P4.T1) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,v
+S2223-G0560,4,07:15,LAC,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0560,4,07:05,LAC,,MIA,,G. Vincent,MIA,SUB: O. Robinson FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0022,1,02:36,MIA,18.0,BOS,18.0,G. Vincent,MIA,Vincent 24' 3PT Jump Shot (3 PTS) (Butler 2 AST),Made Shot,Jump Shot,235,25,24,1,3.0,3.0,h
+S2223-G0022,1,00:50.200000,MIA,,BOS,,G. Vincent,MIA,Vincent P.FOUL (P1.PN) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G0022,1,00:43.300000,MIA,,BOS,,G. Vincent,MIA,Vincent OFF.Foul (P2) (S.Foster),Foul,Offensive,0,0,0,0,,,h
+S2223-G0022,1,00:43.300000,MIA,,BOS,,G. Vincent,MIA,Vincent Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0022,2,11:19,MIA,,BOS,,G. Vincent,MIA,MISS Vincent 30' 3PT Jump Shot,Missed Shot,Jump Shot,216,210,30,1,3.0,0.0,h
+S2223-G0022,2,10:44,MIA,,BOS,,G. Vincent,MIA,MISS Vincent 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,5,150,15,1,2.0,0.0,h
+S2223-G0022,2,07:26,MIA,,BOS,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0022,2,06:34,MIA,,BOS,,G. Vincent,MIA,Vincent P.FOUL (P3.T1) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G0022,2,06:34,MIA,,BOS,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0022,3,02:29,MIA,75.0,BOS,79.0,G. Vincent,MIA,Vincent 17' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,15,165,17,1,2.0,2.0,h
+S2223-G0022,3,01:29,MIA,,BOS,,G. Vincent,MIA,MISS Vincent 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-12,15,2,1,2.0,0.0,h
+S2223-G0022,4,09:40,MIA,82.0,BOS,91.0,G. Vincent,MIA,Vincent 2' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,-16,6,2,1,2.0,2.0,h
+S2223-G0022,4,09:04,MIA,84.0,BOS,93.0,G. Vincent,MIA,Vincent 17' Pullup Jump Shot (9 PTS) (Adebayo 3 AST),Made Shot,Pullup Jump shot,-9,165,17,1,2.0,2.0,h
+S2223-G0022,4,08:43,MIA,,BOS,,G. Vincent,MIA,Vincent Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0022,4,08:15,MIA,,BOS,,G. Vincent,MIA,MISS Vincent 3' Driving Layup,Missed Shot,Driving Layup Shot,26,-1,3,1,2.0,0.0,h
+S2223-G0022,4,07:23,MIA,89.0,BOS,100.0,G. Vincent,MIA,Vincent 25' 3PT Jump Shot (12 PTS) (Lowry 5 AST),Made Shot,Jump Shot,200,157,25,1,3.0,3.0,h
+S2223-G0022,4,06:50,MIA,91.0,BOS,100.0,G. Vincent,MIA,Vincent 17' Pullup Jump Shot (14 PTS) (Butler 5 AST),Made Shot,Pullup Jump shot,81,151,17,1,2.0,2.0,h
+S2223-G0022,4,03:25,MIA,,BOS,,G. Vincent,MIA,MISS Vincent 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,181,173,25,1,3.0,0.0,h
+S2223-G0022,4,02:51,MIA,,BOS,,G. Vincent,MIA,MISS Vincent 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-11,17,2,1,2.0,0.0,h
+S2223-G0022,4,00:14.500000,MIA,104.0,BOS,111.0,G. Vincent,MIA,Vincent 3PT Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,225,52,0,1,3.0,3.0,h
+S2223-G0599,1,00:00,MIA,30.0,BKN,31.0,G. Vincent,MIA,Vincent 24' 3PT Jump Shot (3 PTS) (Oladipo 2 AST),Made Shot,Jump Shot,233,66,24,1,3.0,3.0,h
+S2223-G0599,2,09:10,MIA,,BKN,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0599,2,07:55,MIA,,BKN,,G. Vincent,MIA,Vincent P.FOUL (P1.T1) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2223-G0599,2,04:05,MIA,,BKN,,G. Vincent,MIA,SUB: Herro FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0599,3,01:05,MIA,,BKN,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0599,3,01:05,MIA,,BKN,,G. Vincent,MIA,Vincent Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0599,3,00:00.300000,MIA,,BKN,,G. Vincent,MIA,Vincent BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0599,4,11:16,MIA,,BKN,,G. Vincent,MIA,Vincent Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0599,4,07:20,MIA,,BKN,,G. Vincent,MIA,Vincent Out of Bounds - Bad Pass Turnover Turnover (P4.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0599,4,06:03,MIA,,BKN,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0825,1,10:54,MIA,5.0,IND,0.0,G. Vincent,MIA,Vincent 17' Pullup Jump Shot (2 PTS) (Butler 1 AST),Made Shot,Pullup Jump shot,-93,147,17,1,2.0,2.0,h
+S2223-G0825,1,09:34,MIA,,IND,,G. Vincent,MIA,Vincent L.B.FOUL (P1.T1) (J.Goldenberg),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0825,1,08:27,MIA,10.0,IND,9.0,G. Vincent,MIA,Vincent Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0825,1,08:27,MIA,11.0,IND,9.0,G. Vincent,MIA,Vincent Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0825,1,08:27,MIA,12.0,IND,9.0,G. Vincent,MIA,Vincent Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0825,1,08:11,MIA,,IND,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0825,1,07:59,MIA,15.0,IND,9.0,G. Vincent,MIA,Vincent 26' 3PT Jump Shot (8 PTS) (Herro 1 AST),Made Shot,Jump Shot,-217,145,26,1,3.0,3.0,h
+S2223-G0825,1,06:52,MIA,21.0,IND,9.0,G. Vincent,MIA,Vincent 24' 3PT Jump Shot (11 PTS) (Butler 3 AST),Made Shot,Jump Shot,-240,1,24,1,3.0,3.0,h
+S2223-G0825,1,05:53,MIA,,IND,,G. Vincent,MIA,Vincent OFF.Foul (P2) (C.Blair),Foul,Offensive,0,0,0,0,,,h
+S2223-G0825,1,05:53,MIA,,IND,,G. Vincent,MIA,Vincent Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0825,1,05:53,MIA,,IND,,G. Vincent,MIA,SUB: Highsmith FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0825,2,10:15,MIA,,IND,,G. Vincent,MIA,Vincent Step Out of Bounds Turnover (P2.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0825,2,08:54,MIA,,IND,,G. Vincent,MIA,MISS Vincent 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-1,78,8,1,2.0,0.0,h
+S2223-G0825,2,05:44,MIA,,IND,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0825,2,05:04,MIA,,IND,,G. Vincent,MIA,MISS Vincent 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,51,59,8,1,2.0,0.0,h
+S2223-G0825,2,01:23,MIA,,IND,,G. Vincent,MIA,SUB: Martin FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0825,3,11:23,MIA,,IND,,G. Vincent,MIA,Vincent Lost Ball Turnover (P3.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0825,3,11:23,MIA,,IND,,G. Vincent,MIA,Vincent L.B.FOUL (P3.T1) (J.Goldenberg),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0825,3,10:11,MIA,,IND,,G. Vincent,MIA,MISS Vincent 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-237,58,24,1,3.0,0.0,h
+S2223-G0825,3,06:18,MIA,,IND,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,190,168,25,1,3.0,0.0,h
+S2223-G0825,3,04:00,MIA,,IND,,G. Vincent,MIA,SUB: Highsmith FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0825,4,09:40,MIA,,IND,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,234,13,0,1,3.0,0.0,h
+S2223-G0825,4,08:37,MIA,,IND,,G. Vincent,MIA,Vincent S.FOUL (P4.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0825,4,08:22,MIA,,IND,,G. Vincent,MIA,MISS Vincent 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,16,17,2,1,2.0,0.0,h
+S2223-G0825,4,08:19,MIA,,IND,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0825,4,04:48,MIA,105.0,IND,98.0,G. Vincent,MIA,Vincent 24' 3PT Jump Shot (14 PTS) (Butler 7 AST),Made Shot,Jump Shot,-238,8,24,1,3.0,3.0,h
+S2223-G0825,4,04:19,MIA,,IND,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0825,4,04:05,MIA,,IND,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,-191,191,27,1,3.0,0.0,h
+S2223-G0825,4,03:15,MIA,,IND,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0825,4,00:50.100000,MIA,110.0,IND,104.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0825,4,00:50.100000,MIA,111.0,IND,104.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0825,4,00:38.600000,MIA,,IND,,G. Vincent,MIA,MISS Vincent Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0825,4,00:38.600000,MIA,112.0,IND,106.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0628,1,10:51,MIA,,MIL,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,60,24,1,3.0,0.0,h
+S2223-G0628,1,06:52,MIA,,MIL,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0628,1,05:32,MIA,,MIL,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0628,1,02:19,MIA,,MIL,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0628,1,00:29.900000,MIA,14.0,MIL,20.0,G. Vincent,MIA,Vincent 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-31,92,10,1,2.0,2.0,h
+S2223-G0628,2,11:05,MIA,17.0,MIL,26.0,G. Vincent,MIA,Vincent 26' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,-80,252,26,1,3.0,3.0,h
+S2223-G0628,2,09:51,MIA,,MIL,,G. Vincent,MIA,MISS Vincent 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,124,225,26,1,3.0,0.0,h
+S2223-G0628,2,09:16,MIA,,MIL,,G. Vincent,MIA,Vincent Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0628,2,05:19,MIA,29.0,MIL,38.0,G. Vincent,MIA,Vincent 27' 3PT Jump Shot (8 PTS) (Highsmith 1 AST),Made Shot,Jump Shot,-131,232,27,1,3.0,3.0,h
+S2223-G0628,2,04:55,MIA,31.0,MIL,38.0,G. Vincent,MIA,Vincent 12' Driving Floating Bank Jump Shot (10 PTS),Made Shot,Driving Floating Bank Jump Shot,-115,46,12,1,2.0,2.0,h
+S2223-G0628,2,04:13,MIA,33.0,MIL,41.0,G. Vincent,MIA,Vincent 23' Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,-186,140,23,1,2.0,2.0,h
+S2223-G0628,2,04:13,MIA,34.0,MIL,41.0,G. Vincent,MIA,Vincent Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0628,2,04:04,MIA,,MIL,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0628,2,02:52,MIA,,MIL,,G. Vincent,MIA,Vincent STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0628,2,02:47,MIA,,MIL,,G. Vincent,MIA,MISS Vincent 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,6,263,26,1,3.0,0.0,h
+S2223-G0628,2,02:27,MIA,,MIL,,G. Vincent,MIA,SUB: Adebayo FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0628,3,09:30,MIA,52.0,MIL,51.0,G. Vincent,MIA,Vincent 27' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,-152,219,27,1,3.0,3.0,h
+S2223-G0628,3,07:44,MIA,,MIL,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0628,3,07:41,MIA,,MIL,,G. Vincent,MIA,MISS Vincent 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-191,185,27,1,3.0,0.0,h
+S2223-G0628,3,07:35,MIA,,MIL,,G. Vincent,MIA,Vincent S.FOUL (P1.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0628,3,07:20,MIA,54.0,MIL,54.0,G. Vincent,MIA,Vincent 14' Step Back Jump Shot (18 PTS),Made Shot,Step Back Jump shot,-64,122,14,1,2.0,2.0,h
+S2223-G0628,3,06:46,MIA,,MIL,,G. Vincent,MIA,Vincent REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0628,3,06:04,MIA,,MIL,,G. Vincent,MIA,Vincent S.FOUL (P2.T3) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0628,3,05:44,MIA,61.0,MIL,58.0,G. Vincent,MIA,Vincent 26' 3PT Step Back Jump Shot (21 PTS),Made Shot,Step Back Jump shot,34,258,26,1,3.0,3.0,h
+S2223-G0628,3,05:12,MIA,,MIL,,G. Vincent,MIA,MISS Vincent 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,156,206,26,1,3.0,0.0,h
+S2223-G0628,3,04:28,MIA,,MIL,,G. Vincent,MIA,SUB: Cain FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0628,3,02:05,MIA,,MIL,,G. Vincent,MIA,MISS Vincent 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-4,271,27,1,3.0,0.0,h
+S2223-G0628,3,00:42.100000,MIA,76.0,MIL,71.0,G. Vincent,MIA,Vincent 3PT Jump Shot (24 PTS) (Oladipo 4 AST),Made Shot,Jump Shot,230,3,0,1,3.0,3.0,h
+S2223-G0628,4,06:14,MIA,94.0,MIL,82.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0628,4,06:14,MIA,95.0,MIL,82.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0628,4,03:14,MIA,105.0,MIL,91.0,G. Vincent,MIA,Vincent 12' Pullup Jump Shot (28 PTS) (Oladipo 8 AST),Made Shot,Pullup Jump shot,-20,114,12,1,2.0,2.0,h
+S2223-G0628,4,01:52,MIA,,MIL,,G. Vincent,MIA,MISS Vincent 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-157,13,16,1,2.0,0.0,h
+S2223-G0686,1,03:00,DAL,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P1.T2) (R.Acosta),Foul,Personal,0,0,0,0,,,v
+S2223-G0686,2,11:23,DAL,,MIA,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0686,2,10:14,DAL,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,-203,150,25,1,3.0,0.0,v
+S2223-G0686,2,10:07,DAL,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P2.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0686,2,08:18,DAL,43.0,MIA,30.0,G. Vincent,MIA,Vincent 28' 3PT Jump Shot (3 PTS) (Martin 1 AST),Made Shot,Jump Shot,124,246,28,1,3.0,3.0,v
+S2223-G0686,2,05:27,DAL,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,228,34,0,1,3.0,0.0,v
+S2223-G0686,2,04:12,DAL,,MIA,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0686,3,01:38,DAL,85.0,MIA,62.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0686,3,01:38,DAL,85.0,MIA,63.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0686,4,11:05,DAL,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P3.T1) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2223-G0686,4,08:52,DAL,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,233,-21,0,1,3.0,0.0,v
+S2223-G0686,4,07:04,DAL,,MIA,,G. Vincent,MIA,MISS Vincent 6' Jump Shot,Missed Shot,Jump Shot,43,48,6,1,2.0,0.0,v
+S2223-G0686,4,05:32,DAL,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,-105,247,27,1,3.0,0.0,v
+S2223-G0686,4,04:55,DAL,,MIA,,G. Vincent,MIA,Vincent Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0686,4,04:23,DAL,108.0,MIA,80.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0686,4,04:23,DAL,,MIA,,G. Vincent,MIA,MISS Vincent Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0686,4,03:56,DAL,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,-168,186,25,1,3.0,0.0,v
+S2223-G0686,4,02:54,DAL,110.0,MIA,84.0,G. Vincent,MIA,Vincent 5' Driving Floating Bank Jump Shot (8 PTS),Made Shot,Driving Floating Bank Jump Shot,-34,32,5,1,2.0,2.0,v
+S2223-G0686,4,01:20,DAL,115.0,MIA,88.0,G. Vincent,MIA,Vincent 17' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,-18,174,17,1,2.0,2.0,v
+S2223-G0215,1,05:01,TOR,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0215,1,03:02,TOR,18.0,MIA,27.0,G. Vincent,MIA,Vincent 27' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-190,187,27,1,3.0,3.0,v
+S2223-G0215,1,01:46,TOR,23.0,MIA,29.0,G. Vincent,MIA,Vincent 8' Driving Floating Jump Shot (5 PTS) (D. Robinson 1 AST),Made Shot,Driving Floating Jump Shot,2,84,8,1,2.0,2.0,v
+S2223-G0215,1,01:15,TOR,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-72,261,27,1,3.0,0.0,v
+S2223-G0215,1,00:40.700000,TOR,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0215,2,10:40,TOR,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,-138,236,27,1,3.0,0.0,v
+S2223-G0215,2,07:25,TOR,,MIA,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0215,2,06:19,TOR,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P1.T4) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0215,2,02:53,TOR,,MIA,,G. Vincent,MIA,SUB: Martin FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0215,3,01:34,TOR,80.0,MIA,72.0,G. Vincent,MIA,Vincent 7' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,-44,49,7,1,2.0,2.0,v
+S2223-G0215,3,01:34,TOR,80.0,MIA,73.0,G. Vincent,MIA,Vincent Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0215,3,00:36.400000,TOR,84.0,MIA,77.0,G. Vincent,MIA,Vincent 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,233,22,0,1,3.0,3.0,v
+S2223-G0215,4,10:49,TOR,86.0,MIA,84.0,G. Vincent,MIA,Vincent 30' 3PT Jump Shot (14 PTS) (Martin 3 AST),Made Shot,Jump Shot,50,291,30,1,3.0,3.0,v
+S2223-G0215,4,09:50,TOR,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-145,223,27,1,3.0,0.0,v
+S2223-G0215,4,08:10,TOR,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P2.T3) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0215,4,07:50,TOR,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,136,218,26,1,3.0,0.0,v
+S2223-G0215,4,02:40,TOR,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P3.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0215,4,01:48,TOR,,MIA,,G. Vincent,MIA,Vincent OFF.Foul (P4) (M.Smith),Foul,Offensive,0,0,0,0,,,v
+S2223-G0215,4,01:48,TOR,,MIA,,G. Vincent,MIA,Vincent Offensive Foul Turnover (P2.T23),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0215,4,01:06,TOR,110.0,MIA,104.0,G. Vincent,MIA,Vincent 6' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,-50,28,6,1,2.0,2.0,v
+S2223-G0215,4,00:37,TOR,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,190,170,25,1,3.0,0.0,v
+S2223-G0202,1,02:27,MIA,31.0,PHX,26.0,G. Vincent,MIA,Vincent 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-71,251,26,1,3.0,3.0,h
+S2223-G0202,1,02:07,MIA,,PHX,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0202,1,00:54,MIA,,PHX,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0202,2,10:48,MIA,,PHX,,G. Vincent,MIA,MISS Vincent 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-156,225,27,1,3.0,0.0,h
+S2223-G0202,2,10:36,MIA,,PHX,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0202,2,09:47,MIA,,PHX,,G. Vincent,MIA,MISS Vincent 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-66,13,7,1,2.0,0.0,h
+S2223-G0202,2,09:30,MIA,,PHX,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0202,2,06:10,MIA,47.0,PHX,47.0,G. Vincent,MIA,Vincent 26' 3PT Jump Shot (6 PTS) (Lowry 6 AST),Made Shot,Jump Shot,167,201,26,1,3.0,3.0,h
+S2223-G0202,2,05:20,MIA,,PHX,,G. Vincent,MIA,Vincent Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0202,2,04:26,MIA,49.0,PHX,49.0,G. Vincent,MIA,Vincent 3' Driving Reverse Layup (8 PTS) (Adebayo 1 AST),Made Shot,Driving Reverse Layup Shot,26,6,3,1,2.0,2.0,h
+S2223-G0202,2,02:18,MIA,,PHX,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0202,3,03:19,MIA,76.0,PHX,82.0,G. Vincent,MIA,Vincent 7' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,-71,14,7,1,2.0,2.0,h
+S2223-G0202,3,02:44,MIA,,PHX,,G. Vincent,MIA,MISS Vincent 14' Jump Shot,Missed Shot,Jump Shot,-124,74,14,1,2.0,0.0,h
+S2223-G0202,3,02:25,MIA,,PHX,,G. Vincent,MIA,Vincent L.B.FOUL (P1.T3) (J.Capers),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0202,4,11:39,MIA,,PHX,,G. Vincent,MIA,MISS Vincent 28' 3PT Jump Shot,Missed Shot,Jump Shot,173,218,28,1,3.0,0.0,h
+S2223-G0202,4,10:05,MIA,,PHX,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,-197,155,25,1,3.0,0.0,h
+S2223-G0202,4,09:58,MIA,,PHX,,G. Vincent,MIA,Vincent P.FOUL (P2.T1) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0202,4,08:13,MIA,,PHX,,G. Vincent,MIA,Vincent Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0202,4,07:44,MIA,,PHX,,G. Vincent,MIA,SUB: Butler FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0081,1,04:41,SAC,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0081,1,04:28,SAC,21.0,MIA,14.0,G. Vincent,MIA,Vincent 3PT Jump Shot (3 PTS) (Lowry 1 AST),Made Shot,Jump Shot,232,13,0,1,3.0,3.0,v
+S2223-G0081,1,01:52,SAC,,MIA,,G. Vincent,MIA,MISS Vincent 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-125,167,21,1,2.0,0.0,v
+S2223-G0081,2,11:02,SAC,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P2.T1) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0081,2,07:00,SAC,,MIA,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0081,3,03:16,SAC,,MIA,,G. Vincent,MIA,MISS Vincent 17' Jump Shot,Missed Shot,Jump Shot,-162,46,17,1,2.0,0.0,v
+S2223-G0081,3,01:18,SAC,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0081,3,01:07,SAC,,MIA,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,-32,255,26,1,3.0,0.0,v
+S2223-G0081,3,01:06,SAC,,MIA,,G. Vincent,MIA,Vincent L.B.FOUL (P3.PN) (T.Mirkovich),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0081,4,10:37,SAC,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P4.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0081,4,08:50,SAC,,MIA,,G. Vincent,MIA,SUB: Butler FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0500,2,11:32,MIA,,MIN,,G. Vincent,MIA,Vincent P.FOUL (P1.T1) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2223-G0500,2,10:48,MIA,,MIN,,G. Vincent,MIA,MISS Vincent 5' Driving Layup,Missed Shot,Driving Layup Shot,15,43,5,1,2.0,0.0,h
+S2223-G0500,2,09:46,MIA,,MIN,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-233,16,0,1,3.0,0.0,h
+S2223-G0500,2,09:06,MIA,,MIN,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0500,2,08:43,MIA,,MIN,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0500,2,08:37,MIA,,MIN,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,-186,173,25,1,3.0,0.0,h
+S2223-G0500,2,07:28,MIA,,MIN,,G. Vincent,MIA,MISS Vincent 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-44,42,6,1,2.0,0.0,h
+S2223-G0500,2,06:49,MIA,42.0,MIN,38.0,G. Vincent,MIA,Vincent 7' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,-69,29,7,1,2.0,2.0,h
+S2223-G0500,2,04:41,MIA,,MIN,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0500,4,11:17,MIA,,MIN,,G. Vincent,MIA,Vincent P.FOUL (P2.T1) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0500,4,10:43,MIA,,MIN,,G. Vincent,MIA,MISS Vincent 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,110,-10,11,1,2.0,0.0,h
+S2223-G0500,4,09:51,MIA,95.0,MIN,88.0,G. Vincent,MIA,Vincent 8' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,10,80,8,1,2.0,2.0,h
+S2223-G0500,4,08:36,MIA,98.0,MIN,93.0,G. Vincent,MIA,Vincent 26' 3PT Jump Shot (7 PTS) (O. Robinson 3 AST),Made Shot,Jump Shot,-121,233,26,1,3.0,3.0,h
+S2223-G0500,4,06:20,MIA,105.0,MIN,101.0,G. Vincent,MIA,Vincent 6' Driving Finger Roll Layup (9 PTS) (Oladipo 4 AST),Made Shot,Driving Finger Roll Layup Shot,-11,62,6,1,2.0,2.0,h
+S2223-G0500,4,05:31,MIA,,MIN,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0500,4,05:22,MIA,109.0,MIN,101.0,G. Vincent,MIA,Vincent 8' Driving Floating Jump Shot (11 PTS) (O. Robinson 4 AST),Made Shot,Driving Floating Jump Shot,-45,68,8,1,2.0,2.0,h
+S2223-G0500,4,04:57,MIA,,MIN,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-232,7,0,1,3.0,0.0,h
+S2223-G0500,4,03:37,MIA,,MIN,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0150,1,03:50,MIA,,POR,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0150,1,03:46,MIA,20.0,POR,21.0,G. Vincent,MIA,Vincent 27' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,-7,269,27,1,3.0,3.0,h
+S2223-G0150,1,01:59,MIA,25.0,POR,24.0,G. Vincent,MIA,Vincent 26' 3PT Jump Shot (6 PTS) (Dedmon 1 AST),Made Shot,Jump Shot,-239,109,26,1,3.0,3.0,h
+S2223-G0150,1,01:27,MIA,28.0,POR,24.0,G. Vincent,MIA,Vincent 26' 3PT Jump Shot (9 PTS) (Butler 2 AST),Made Shot,Jump Shot,150,214,26,1,3.0,3.0,h
+S2223-G0150,1,00:42.200000,MIA,,POR,,G. Vincent,MIA,Vincent BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0150,1,00:22.400000,MIA,,POR,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0150,2,07:52,MIA,43.0,POR,37.0,G. Vincent,MIA,Vincent 10' Driving Floating Jump Shot (11 PTS) (Robinson 1 AST),Made Shot,Driving Floating Jump Shot,-97,13,10,1,2.0,2.0,h
+S2223-G0150,2,07:52,MIA,,POR,,G. Vincent,MIA,MISS Vincent Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0150,2,07:18,MIA,,POR,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,-191,163,25,1,3.0,0.0,h
+S2223-G0150,2,07:03,MIA,,POR,,G. Vincent,MIA,Vincent STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0150,2,06:08,MIA,,POR,,G. Vincent,MIA,Vincent Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0150,2,04:23,MIA,,POR,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,163,211,27,1,3.0,0.0,h
+S2223-G0150,2,03:19,MIA,,POR,,G. Vincent,MIA,MISS Vincent 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,44,111,12,1,2.0,0.0,h
+S2223-G0150,2,02:55,MIA,,POR,,G. Vincent,MIA,Vincent Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0150,3,07:02,MIA,73.0,POR,60.0,G. Vincent,MIA,Vincent 11' Driving Floating Jump Shot (13 PTS) (Lowry 5 AST),Made Shot,Driving Floating Jump Shot,-104,20,11,1,2.0,2.0,h
+S2223-G0150,3,06:09,MIA,,POR,,G. Vincent,MIA,Vincent S.FOUL (P1.T3) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2223-G0150,3,03:00,MIA,,POR,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,225,15,0,1,3.0,0.0,h
+S2223-G0150,3,02:09,MIA,,POR,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,232,-9,0,1,3.0,0.0,h
+S2223-G0150,3,01:52,MIA,,POR,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0150,3,00:58.500000,MIA,,POR,,G. Vincent,MIA,MISS Vincent 28' 3PT Jump Shot,Missed Shot,Jump Shot,-116,254,28,1,3.0,0.0,h
+S2223-G0150,3,00:28.600000,MIA,,POR,,G. Vincent,MIA,MISS Vincent 2' Driving Layup,Missed Shot,Driving Layup Shot,-16,12,2,1,2.0,0.0,h
+S2223-G0150,3,00:28.600000,MIA,,POR,,G. Vincent,MIA,Vincent L.B.FOUL (P2.PN) (J.Williams),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0150,3,00:00.100000,MIA,,POR,,G. Vincent,MIA,Vincent S.FOUL (P3.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0150,4,06:54,MIA,,POR,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,191,158,25,1,3.0,0.0,h
+S2223-G0150,4,06:32,MIA,,POR,,G. Vincent,MIA,SUB: Butler FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0150,4,01:26,MIA,101.0,POR,101.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0150,4,01:26,MIA,102.0,POR,101.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0150,4,00:08.500000,MIA,,POR,,G. Vincent,MIA,SUB: Strus FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0936,1,08:29,MIA,,PHI,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0936,1,05:35,MIA,,PHI,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-232,-16,0,1,3.0,0.0,h
+S2223-G0936,1,03:09,MIA,,PHI,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0936,1,02:52,MIA,28.0,PHI,24.0,G. Vincent,MIA,Vincent 6' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,51,32,6,1,2.0,2.0,h
+S2223-G0936,1,02:46,MIA,,PHI,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0936,2,06:54,MIA,,PHI,,G. Vincent,MIA,MISS Vincent 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,66,256,26,1,3.0,0.0,h
+S2223-G0936,2,06:40,MIA,,PHI,,G. Vincent,MIA,Vincent S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0936,2,06:29,MIA,,PHI,,G. Vincent,MIA,MISS Vincent 10' Floating Jump Shot,Missed Shot,Floating Jump shot,99,25,10,1,2.0,0.0,h
+S2223-G0936,2,06:09,MIA,,PHI,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,-194,163,25,1,3.0,0.0,h
+S2223-G0936,2,05:31,MIA,,PHI,,G. Vincent,MIA,Vincent S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0936,2,03:48,MIA,,PHI,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,9,24,1,3.0,0.0,h
+S2223-G0936,3,10:42,MIA,,PHI,,G. Vincent,MIA,MISS Vincent 25' 3PT Jump Shot,Missed Shot,Jump Shot,173,175,25,1,3.0,0.0,h
+S2223-G0936,3,08:44,MIA,,PHI,,G. Vincent,MIA,MISS Vincent 5' Driving Layup,Missed Shot,Driving Layup Shot,0,52,5,1,2.0,0.0,h
+S2223-G0936,3,07:33,MIA,,PHI,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0936,3,04:01,MIA,73.0,PHI,84.0,G. Vincent,MIA,Vincent 15' Pullup Jump Shot (4 PTS) (Butler 3 AST),Made Shot,Pullup Jump shot,154,13,15,1,2.0,2.0,h
+S2223-G0936,3,02:03,MIA,,PHI,,G. Vincent,MIA,MISS Vincent 29' 3PT Jump Shot,Missed Shot,Jump Shot,-163,238,29,1,3.0,0.0,h
+S2223-G0936,3,01:39,MIA,,PHI,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,232,-5,0,1,3.0,0.0,h
+S2223-G0936,3,01:31,MIA,,PHI,,G. Vincent,MIA,SUB: Zeller FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0920,1,11:19,PHI,3.0,MIA,3.0,G. Vincent,MIA,Vincent 27' 3PT Jump Shot (3 PTS) (Butler 1 AST),Made Shot,Jump Shot,-188,188,27,1,3.0,3.0,v
+S2223-G0920,1,10:32,PHI,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0920,1,09:06,PHI,8.0,MIA,9.0,G. Vincent,MIA,Vincent 27' 3PT Jump Shot (6 PTS) (Butler 2 AST),Made Shot,Jump Shot,49,267,27,1,3.0,3.0,v
+S2223-G0920,1,08:20,PHI,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-227,-8,0,1,3.0,0.0,v
+S2223-G0920,1,07:43,PHI,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0920,1,06:36,PHI,,MIA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-232,-3,0,1,3.0,0.0,v
+S2223-G0920,1,04:26,PHI,,MIA,,G. Vincent,MIA,MISS Vincent 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-38,125,13,1,2.0,0.0,v
+S2223-G0920,1,04:24,PHI,,MIA,,G. Vincent,MIA,Vincent REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0920,1,04:24,PHI,,MIA,,G. Vincent,MIA,MISS Vincent 11' Floating Jump Shot,Missed Shot,Floating Jump shot,-81,81,11,1,2.0,0.0,v
+S2223-G0920,1,04:01,PHI,,MIA,,G. Vincent,MIA,SUB: Zeller FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0920,2,04:39,PHI,,MIA,,G. Vincent,MIA,MISS Vincent 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,107,11,1,2.0,0.0,v
+S2223-G0920,2,03:42,PHI,40.0,MIA,46.0,G. Vincent,MIA,Vincent 26' 3PT Jump Shot (9 PTS) (Butler 6 AST),Made Shot,Jump Shot,184,189,26,1,3.0,3.0,v
+S2223-G0920,2,02:58,PHI,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P1.T4) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2223-G0920,2,00:36.300000,PHI,50.0,MIA,56.0,G. Vincent,MIA,Vincent 8' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,22,78,8,1,2.0,2.0,v
+S2223-G0920,3,09:24,PHI,,MIA,,G. Vincent,MIA,Vincent P.FOUL (P2.T1) (L.Wood),Foul,Personal,0,0,0,0,,,v
+S2223-G0920,3,07:54,PHI,57.0,MIA,66.0,G. Vincent,MIA,Vincent 26' 3PT Running Pull-Up Jump Shot (14 PTS),Made Shot,Running Pull-Up Jump Shot,-162,205,26,1,3.0,3.0,v
+S2223-G0920,3,05:57,PHI,,MIA,,G. Vincent,MIA,MISS Vincent 27' 3PT Jump Shot,Missed Shot,Jump Shot,206,172,27,1,3.0,0.0,v
+S2223-G0920,3,05:00,PHI,,MIA,,G. Vincent,MIA,MISS Vincent 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-151,199,25,1,3.0,0.0,v
+S2223-G0920,3,02:51,PHI,,MIA,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,v
+S2223-G0920,4,01:41,PHI,,MIA,,G. Vincent,MIA,Vincent S.FOUL (P3.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0189,1,02:16,MIA,30.0,CHA,24.0,G. Vincent,MIA,Vincent 14' Pullup Jump Shot (2 PTS) (Robinson 1 AST),Made Shot,Pullup Jump shot,43,130,14,1,2.0,2.0,h
+S2223-G0189,1,00:45,MIA,33.0,CHA,28.0,G. Vincent,MIA,Vincent 26' 3PT Jump Shot (5 PTS) (Dedmon 1 AST),Made Shot,Jump Shot,-191,179,26,1,3.0,3.0,h
+S2223-G0189,2,11:44,MIA,,CHA,,G. Vincent,MIA,MISS Vincent 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-151,230,28,1,3.0,0.0,h
+S2223-G0189,2,11:06,MIA,37.0,CHA,33.0,G. Vincent,MIA,Vincent 25' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-15,254,25,1,3.0,3.0,h
+S2223-G0189,2,08:59,MIA,38.0,CHA,37.0,G. Vincent,MIA,Vincent Free Throw 1 of 3 (9 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0189,2,08:59,MIA,39.0,CHA,37.0,G. Vincent,MIA,Vincent Free Throw 2 of 3 (10 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0189,2,08:59,MIA,40.0,CHA,37.0,G. Vincent,MIA,Vincent Free Throw 3 of 3 (11 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0189,2,07:59,MIA,,CHA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0189,2,07:55,MIA,,CHA,,G. Vincent,MIA,MISS Vincent 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-9,256,26,1,3.0,0.0,h
+S2223-G0189,2,06:46,MIA,,CHA,,G. Vincent,MIA,SUB: Dedmon FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G0189,2,02:30,MIA,,CHA,,G. Vincent,MIA,MISS Vincent 1' Driving Layup,Missed Shot,Driving Layup Shot,-5,13,1,1,2.0,0.0,h
+S2223-G0189,3,00:41.700000,MIA,99.0,CHA,84.0,G. Vincent,MIA,Vincent 3' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,-23,11,3,1,2.0,2.0,h
+S2223-G0189,3,00:15.100000,MIA,102.0,CHA,84.0,G. Vincent,MIA,Vincent 25' 3PT Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,-146,206,25,1,3.0,3.0,h
+S2223-G0189,4,11:43,MIA,,CHA,,G. Vincent,MIA,Vincent Violation:Kicked Ball (B.Adair),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0189,4,10:41,MIA,,CHA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,225,11,0,1,3.0,0.0,h
+S2223-G0189,4,10:08,MIA,104.0,CHA,91.0,G. Vincent,MIA,Vincent 11' Turnaround Fadeaway (18 PTS),Made Shot,Turnaround Fadeaway shot,85,72,11,1,2.0,2.0,h
+S2223-G0189,4,09:38,MIA,106.0,CHA,91.0,G. Vincent,MIA,Vincent 10' Jump Shot (20 PTS) (Dedmon 2 AST),Made Shot,Jump Shot,-65,77,10,1,2.0,2.0,h
+S2223-G0189,4,08:30,MIA,,CHA,,G. Vincent,MIA,MISS Vincent 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-203,153,25,1,3.0,0.0,h
+S2223-G0189,4,06:36,MIA,,CHA,,G. Vincent,MIA,Vincent S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0189,4,02:39,MIA,,CHA,,G. Vincent,MIA,MISS Vincent 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,67,24,1,3.0,0.0,h
+S2223-G1022,1,11:33,MIA,3.0,UTA,0.0,G. Vincent,MIA,Vincent 3PT Jump Shot (3 PTS) (Adebayo 1 AST),Made Shot,Jump Shot,-230,-3,0,1,3.0,3.0,h
+S2223-G1022,1,10:31,MIA,,UTA,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-230,2,0,1,3.0,0.0,h
+S2223-G1022,1,10:06,MIA,6.0,UTA,2.0,G. Vincent,MIA,Vincent 26' 3PT Step Back Jump Shot (6 PTS) (Adebayo 2 AST),Made Shot,Step Back Jump shot,89,248,26,1,3.0,3.0,h
+S2223-G1022,1,09:08,MIA,,UTA,,G. Vincent,MIA,Vincent STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1022,1,06:50,MIA,,UTA,,G. Vincent,MIA,Vincent STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1022,1,05:41,MIA,18.0,UTA,9.0,G. Vincent,MIA,Vincent 26' 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,120,228,26,1,3.0,3.0,h
+S2223-G1022,1,05:10,MIA,,UTA,,G. Vincent,MIA,Vincent S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G1022,1,04:17,MIA,,UTA,,G. Vincent,MIA,Vincent STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G1022,1,03:45,MIA,,UTA,,G. Vincent,MIA,SUB: Oladipo FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1022,2,04:41,MIA,,UTA,,G. Vincent,MIA,Vincent REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1022,2,04:29,MIA,,UTA,,G. Vincent,MIA,Vincent REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1022,2,04:29,MIA,46.0,UTA,51.0,G. Vincent,MIA,Vincent Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1022,2,04:29,MIA,47.0,UTA,51.0,G. Vincent,MIA,Vincent Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1022,2,03:43,MIA,,UTA,,G. Vincent,MIA,MISS Vincent 26' 3PT Jump Shot,Missed Shot,Jump Shot,60,253,26,1,3.0,0.0,h
+S2223-G1022,3,11:05,MIA,61.0,UTA,57.0,G. Vincent,MIA,Vincent 19' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,-134,132,19,1,2.0,2.0,h
+S2223-G1022,3,09:32,MIA,,UTA,,G. Vincent,MIA,Vincent Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1022,3,05:06,MIA,76.0,UTA,77.0,G. Vincent,MIA,Vincent 26' 3PT Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,82,250,26,1,3.0,3.0,h
+S2223-G1022,3,04:00,MIA,80.0,UTA,81.0,G. Vincent,MIA,Vincent 4' Driving Finger Roll Layup (18 PTS),Made Shot,Driving Finger Roll Layup Shot,-31,32,4,1,2.0,2.0,h
+S2223-G1022,3,03:35,MIA,,UTA,,G. Vincent,MIA,Vincent S.FOUL (P2.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G1022,3,03:17,MIA,,UTA,,G. Vincent,MIA,MISS Vincent 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,118,109,16,1,2.0,0.0,h
+S2223-G1022,3,03:01,MIA,,UTA,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,h
+S2223-G1022,4,04:03,MIA,,UTA,,G. Vincent,MIA,Vincent REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1219,1,07:48,MIA,10.0,ORL,16.0,G. Vincent,MIA,Vincent 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,32,5,3,1,2.0,2.0,h
+S2223-G1219,1,07:48,MIA,,ORL,,G. Vincent,MIA,MISS Vincent Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1219,1,05:58,MIA,,ORL,,G. Vincent,MIA,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1219,1,05:15,MIA,,ORL,,G. Vincent,MIA,MISS Vincent 3PT Jump Shot,Missed Shot,Jump Shot,-228,-5,0,1,3.0,0.0,h
+S2223-G1219,1,04:41,MIA,,ORL,,G. Vincent,MIA,SUB: Lowry FOR Vincent,Substitution,,0,0,0,0,,,h

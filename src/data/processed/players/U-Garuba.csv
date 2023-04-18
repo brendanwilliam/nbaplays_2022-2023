@@ -1,0 +1,930 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0165,1,02:58,TOR,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0165,1,02:55,TOR,,HOU,,U. Garuba,HOU,MISS Garuba 4' Layup,Missed Shot,Layup Shot,26,25,4,1,2.0,0.0,v
+S2223-G0165,1,02:55,TOR,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0165,1,02:51,TOR,22.0,HOU,28.0,U. Garuba,HOU,Garuba Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0165,1,01:42,TOR,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0165,1,01:19,TOR,,HOU,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0165,1,00:22,TOR,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0165,2,11:50,TOR,29.0,HOU,39.0,U. Garuba,HOU,Garuba 1' Driving Dunk (4 PTS) (Gordon 2 AST),Made Shot,Driving Dunk Shot,1,13,1,1,2.0,2.0,v
+S2223-G0165,2,11:33,TOR,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0165,2,10:23,TOR,,HOU,,U. Garuba,HOU,Garuba BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0165,2,09:32,TOR,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0165,2,09:07,TOR,,HOU,,U. Garuba,HOU,SUB: Porter Jr. FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0165,4,11:26,TOR,,HOU,,U. Garuba,HOU,MISS Garuba 3' Layup,Missed Shot,Layup Shot,-17,26,3,1,2.0,0.0,v
+S2223-G0165,4,10:24,TOR,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0165,4,10:24,TOR,,HOU,,U. Garuba,HOU,MISS Garuba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0165,4,09:23,TOR,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0165,4,07:52,TOR,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0671,1,00:37.800000,HOU,,CHA,,U. Garuba,HOU,MISS Garuba 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-22,117,12,1,2.0,0.0,h
+S2223-G0671,2,10:12,HOU,,CHA,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0671,2,08:26,HOU,,CHA,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0671,2,08:03,HOU,,CHA,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0671,2,07:50,HOU,,CHA,,U. Garuba,HOU,MISS Garuba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0671,2,07:50,HOU,,CHA,,U. Garuba,HOU,MISS Garuba Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0671,2,07:30,HOU,,CHA,,U. Garuba,HOU,SUB: Smith Jr. FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0671,4,11:18,HOU,,CHA,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0671,4,10:36,HOU,,CHA,,U. Garuba,HOU,Garuba OFF.Foul (P1) (C.Flores),Foul,Offensive,0,0,0,0,,,h
+S2223-G0671,4,10:36,HOU,,CHA,,U. Garuba,HOU,Garuba Offensive Foul Turnover (P1.T18),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0671,4,10:23,HOU,,CHA,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0671,4,09:58,HOU,,CHA,,U. Garuba,HOU,Garuba S.FOUL (P2.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0671,4,09:05,HOU,,CHA,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0671,4,08:47,HOU,,CHA,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0578,1,01:48,HOU,,UTA,,U. Garuba,HOU,Garuba P.FOUL (P1.T3) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2223-G0578,1,01:12,HOU,,UTA,,U. Garuba,HOU,Garuba Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0578,1,00:34.500000,HOU,,UTA,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0578,1,00:33.600000,HOU,23.0,UTA,31.0,U. Garuba,HOU,Garuba 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,11,14,2,1,2.0,2.0,h
+S2223-G0578,2,10:41,HOU,,UTA,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0578,2,03:03,HOU,,UTA,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0578,2,02:31,HOU,,UTA,,U. Garuba,HOU,SUB: Gordon FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0578,3,03:08,HOU,,UTA,,U. Garuba,HOU,Garuba S.FOUL (P2.PN) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0578,3,02:37,HOU,,UTA,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0578,3,01:41,HOU,,UTA,,U. Garuba,HOU,Garuba S.FOUL (P3.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G0578,4,09:48,HOU,93.0,UTA,103.0,U. Garuba,HOU,Garuba 3' Reverse Layup (4 PTS) (Martin Jr. 2 AST),Made Shot,Reverse Layup Shot,25,18,3,1,2.0,2.0,h
+S2223-G0578,4,09:36,HOU,,UTA,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0578,4,08:55,HOU,,UTA,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0981,1,00:09.400000,HOU,,BKN,,U. Garuba,HOU,Garuba S.FOUL (P1.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0981,1,00:09.400000,HOU,,BKN,,U. Garuba,HOU,SUB: Martin Jr. FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0981,2,11:22,HOU,,BKN,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0981,2,08:01,HOU,,BKN,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0981,4,02:24,HOU,,BKN,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0981,4,02:07,HOU,,BKN,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0981,4,00:51.400000,HOU,,BKN,,U. Garuba,HOU,Garuba Bad Pass Turnover (P1.T19),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0743,1,00:33.400000,DET,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0743,1,00:33,DET,37.0,HOU,25.0,U. Garuba,HOU,Garuba Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0743,2,10:07,DET,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0743,2,09:59,DET,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P1.T1) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2223-G0743,2,07:59,DET,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0743,2,05:09,DET,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0743,2,05:06,DET,,HOU,,U. Garuba,HOU,SUB: Fernando FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0743,3,04:26,DET,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0743,3,02:40,DET,,HOU,,U. Garuba,HOU,SUB: Fernando FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0743,4,07:49,DET,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0743,4,06:41,DET,98.0,HOU,98.0,U. Garuba,HOU,Garuba 24' 3PT Jump Shot (5 PTS) (Tate 2 AST),Made Shot,Jump Shot,237,-4,24,1,3.0,3.0,v
+S2223-G0743,4,02:51,DET,108.0,HOU,107.0,U. Garuba,HOU,Garuba 3PT Jump Shot (8 PTS) (Gordon 6 AST),Made Shot,Jump Shot,233,-4,0,1,3.0,3.0,v
+S2223-G0743,4,02:36,DET,,HOU,,U. Garuba,HOU,SUB: Tate FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0305,1,01:30,DEN,,HOU,,U. Garuba,HOU,Rockets T.Foul (Def. 3 Sec Garuba ) (E.Malloy),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0305,1,01:25,DEN,,HOU,,U. Garuba,HOU,Garuba Violation:Kicked Ball (R.Mott),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0305,1,00:12.800000,DEN,39.0,HOU,39.0,U. Garuba,HOU,Garuba 3' Cutting Layup Shot (2 PTS) (Nix 3 AST),Made Shot,Cutting Layup Shot,21,15,3,1,2.0,2.0,v
+S2223-G0305,2,11:05,DEN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0305,2,10:09,DEN,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0305,4,10:20,DEN,,HOU,,U. Garuba,HOU,Garuba Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0305,4,10:16,DEN,,HOU,,U. Garuba,HOU,Garuba L.B.FOUL (P1.T1) (M.Dagher),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0305,4,09:27,DEN,112.0,HOU,96.0,U. Garuba,HOU,Garuba 3' Layup (4 PTS) (Gordon 1 AST),Made Shot,Layup Shot,22,12,3,1,2.0,2.0,v
+S2223-G0305,4,07:51,DEN,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P2.T2) (M.Dagher),Foul,Personal,0,0,0,0,,,v
+S2223-G0305,4,07:03,DEN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0305,4,06:42,DEN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0305,4,05:57,DEN,,HOU,,U. Garuba,HOU,SUB: Marjanovic FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0094,2,09:14,PHX,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0094,2,09:09,PHX,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0094,2,08:54,PHX,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0094,2,08:19,PHX,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0094,2,07:36,PHX,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0094,2,07:26,PHX,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0094,2,05:14,PHX,,HOU,,U. Garuba,HOU,Garuba L.B.FOUL (P1.PN) (B.Kennedy),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0094,2,03:59,PHX,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0094,3,00:56.300000,PHX,86.0,HOU,86.0,U. Garuba,HOU,Garuba 24' 3PT Jump Shot (3 PTS) (Eason 1 AST),Made Shot,Jump Shot,-232,39,24,1,3.0,3.0,v
+S2223-G0094,3,00:43.500000,PHX,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0094,4,07:53,PHX,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0094,4,07:13,PHX,,HOU,,U. Garuba,HOU,SUB: Martin Jr. FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0145,1,03:05,ORL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0145,1,02:01,ORL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0145,1,01:33,ORL,,HOU,,U. Garuba,HOU,MISS Garuba 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,28,6,3,1,2.0,0.0,v
+S2223-G0145,1,01:25,ORL,,HOU,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0145,1,00:05.200000,ORL,28.0,HOU,33.0,U. Garuba,HOU,Garuba 3PT Jump Shot (3 PTS) (Gordon 2 AST),Made Shot,Jump Shot,-227,7,0,1,3.0,3.0,v
+S2223-G0145,2,05:10,ORL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0145,2,04:28,ORL,,HOU,,U. Garuba,HOU,Garuba Traveling Turnover (P1.T10),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0145,2,03:06,ORL,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0145,2,00:05.200000,ORL,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0145,2,00:05.200000,ORL,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0145,3,01:16,ORL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0145,4,08:01,ORL,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P2.T3) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G0145,4,04:46,ORL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0145,4,02:51,ORL,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0145,4,00:05.200000,ORL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0112,1,01:29,HOU,15.0,LAC,29.0,U. Garuba,HOU,Garuba 4' Layup (2 PTS) (Porter Jr. 2 AST),Made Shot,Layup Shot,7,36,4,1,2.0,2.0,h
+S2223-G0112,1,01:29,HOU,,LAC,,U. Garuba,HOU,MISS Garuba Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0112,1,00:57.300000,HOU,,LAC,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0112,1,00:57.300000,HOU,19.0,LAC,31.0,U. Garuba,HOU,Garuba 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-7,17,2,1,2.0,2.0,h
+S2223-G0112,1,00:45.800000,HOU,,LAC,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0112,1,00:38.500000,HOU,,LAC,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0112,2,11:02,HOU,,LAC,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0112,2,10:57,HOU,26.0,LAC,36.0,U. Garuba,HOU,Garuba Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0112,2,09:15,HOU,,LAC,,U. Garuba,HOU,MISS Garuba 26' 3PT Jump Shot,Missed Shot,Jump Shot,118,231,26,1,3.0,0.0,h
+S2223-G0112,2,08:22,HOU,,LAC,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0112,2,08:09,HOU,,LAC,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0112,3,03:15,HOU,,LAC,,U. Garuba,HOU,Garuba OFF.Foul (P1) (E.Malloy),Foul,Offensive,0,0,0,0,,,h
+S2223-G0112,3,03:15,HOU,,LAC,,U. Garuba,HOU,Garuba Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0112,3,01:00,HOU,,LAC,,U. Garuba,HOU,Garuba S.FOUL (P2.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0112,4,11:42,HOU,,LAC,,U. Garuba,HOU,Garuba STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0112,4,11:14,HOU,,LAC,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0112,4,11:05,HOU,,LAC,,U. Garuba,HOU,Garuba OFF.Foul (P3) (E.Malloy),Foul,Offensive,0,0,0,0,,,h
+S2223-G0112,4,11:05,HOU,,LAC,,U. Garuba,HOU,Garuba Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0112,4,11:05,HOU,,LAC,,U. Garuba,HOU,SUB: Smith Jr. FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0112,4,00:20.200000,HOU,,LAC,,U. Garuba,HOU,Garuba Personal Take Foul (P4.PN) (J.DeRosa),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0112,4,00:00.200000,HOU,,LAC,,U. Garuba,HOU,Garuba REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0112,4,00:00.200000,HOU,,LAC,,U. Garuba,HOU,MISS Garuba Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0411,1,04:49,HOU,,PHX,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0411,1,03:24,HOU,,PHX,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0411,1,03:18,HOU,,PHX,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0411,1,01:48,HOU,,PHX,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0411,1,00:45.400000,HOU,,PHX,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0411,1,00:25.900000,HOU,,PHX,,U. Garuba,HOU,Garuba STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0411,1,00:00.200000,HOU,,PHX,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0411,3,05:47,HOU,,PHX,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0411,3,02:23,HOU,,PHX,,U. Garuba,HOU,Garuba S.FOUL (P1.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G0411,3,02:23,HOU,,PHX,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0191,1,05:22,NOP,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0191,1,05:21,NOP,,HOU,,U. Garuba,HOU,MISS Garuba 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,-20,-23,3,1,2.0,0.0,v
+S2223-G0191,1,04:31,NOP,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0191,1,01:19,NOP,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0191,1,00:11.100000,NOP,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0191,2,02:09,NOP,,HOU,,U. Garuba,HOU,Garuba OFF.Foul (P2) (J.Goldenberg),Foul,Offensive,0,0,0,0,,,v
+S2223-G0191,2,02:09,NOP,,HOU,,U. Garuba,HOU,Garuba Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0191,2,01:31,NOP,60.0,HOU,45.0,U. Garuba,HOU,Garuba Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0191,2,01:31,NOP,,HOU,,U. Garuba,HOU,MISS Garuba Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0191,2,00:36.500000,NOP,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0191,3,03:40,NOP,,HOU,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0191,4,10:38,NOP,87.0,HOU,92.0,U. Garuba,HOU,Garuba 27' 3PT Jump Shot (4 PTS) (Gordon 5 AST),Made Shot,Jump Shot,150,221,27,1,3.0,3.0,v
+S2223-G0191,4,09:14,NOP,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0191,4,06:54,NOP,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0191,4,03:57,NOP,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0191,4,03:02,NOP,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0191,4,02:00,NOP,,HOU,,U. Garuba,HOU,Garuba Traveling Turnover (P2.T24),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0191,4,01:00,NOP,,HOU,,U. Garuba,HOU,SUB: Martin Jr. FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0938,1,00:55.400000,HOU,,MEM,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0938,1,00:55.300000,HOU,18.0,MEM,22.0,U. Garuba,HOU,Garuba Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0938,1,00:55.300000,HOU,19.0,MEM,22.0,U. Garuba,HOU,Garuba Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0938,2,11:34,HOU,21.0,MEM,25.0,U. Garuba,HOU,Garuba 2' Running Layup (4 PTS) (Eason 1 AST),Made Shot,Running Layup Shot,-23,-6,2,1,2.0,2.0,h
+S2223-G0938,2,10:58,HOU,,MEM,,U. Garuba,HOU,MISS Garuba 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-29,16,3,1,2.0,0.0,h
+S2223-G0938,2,09:54,HOU,,MEM,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0938,2,09:53,HOU,,MEM,,U. Garuba,HOU,MISS Garuba 6' Layup,Missed Shot,Layup Shot,4,58,6,1,2.0,0.0,h
+S2223-G0938,2,09:46,HOU,,MEM,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0938,2,07:46,HOU,,MEM,,U. Garuba,HOU,Garuba P.FOUL (P1.T2) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2223-G0938,2,06:51,HOU,,MEM,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0938,2,06:24,HOU,,MEM,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0938,4,10:21,HOU,,MEM,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0938,4,08:57,HOU,75.0,MEM,98.0,U. Garuba,HOU,Garuba Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0938,4,08:57,HOU,76.0,MEM,98.0,U. Garuba,HOU,Garuba Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0938,4,07:50,HOU,,MEM,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0938,4,07:50,HOU,79.0,MEM,103.0,U. Garuba,HOU,Garuba 2' Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,-10,17,2,1,2.0,2.0,h
+S2223-G0938,4,07:31,HOU,,MEM,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1124,1,03:34,NYK,,HOU,,U. Garuba,HOU,MISS Garuba 2' Driving Layup,Missed Shot,Driving Layup Shot,-1,15,2,1,2.0,0.0,v
+S2223-G1124,1,02:13,NYK,,HOU,,U. Garuba,HOU,MISS Garuba 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,-13,24,1,3.0,0.0,v
+S2223-G1124,1,00:08.800000,NYK,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G1124,1,00:08.800000,NYK,,HOU,,U. Garuba,HOU,SUB: Smith Jr. FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G1124,3,01:19,NYK,,HOU,,U. Garuba,HOU,MISS Garuba 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-5,24,1,3.0,0.0,v
+S2223-G1124,3,01:10,NYK,,HOU,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1124,4,03:23,NYK,132.0,HOU,103.0,U. Garuba,HOU,Garuba 1' Cutting Layup Shot (2 PTS) (Marjanovic 1 AST),Made Shot,Cutting Layup Shot,9,1,1,1,2.0,2.0,v
+S2223-G1124,4,02:58,NYK,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0959,2,08:36,SAS,39.0,HOU,44.0,U. Garuba,HOU,Garuba 3PT Jump Shot (3 PTS) (Christopher 3 AST),Made Shot,Jump Shot,-232,17,0,1,3.0,3.0,v
+S2223-G0959,2,07:05,SAS,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0959,2,07:05,SAS,45.0,HOU,45.0,U. Garuba,HOU,Garuba Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0959,2,07:05,SAS,45.0,HOU,46.0,U. Garuba,HOU,Garuba Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0959,2,06:49,SAS,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.T1) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0959,2,05:39,SAS,54.0,HOU,52.0,U. Garuba,HOU,Garuba 26' 3PT Jump Shot (8 PTS) (Porter Jr. 3 AST),Made Shot,Jump Shot,-195,173,26,1,3.0,3.0,v
+S2223-G0959,2,04:59,SAS,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0959,4,09:28,SAS,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0959,4,07:29,SAS,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P2.T1) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2223-G0959,4,07:02,SAS,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P3.T2) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2223-G0959,4,06:19,SAS,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0959,4,06:03,SAS,98.0,HOU,115.0,U. Garuba,HOU,Garuba 24' 3PT Jump Shot (11 PTS) (Porter Jr. 5 AST),Made Shot,Jump Shot,-235,25,24,1,3.0,3.0,v
+S2223-G0959,4,05:44,SAS,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0342,1,00:29,GSW,,HOU,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0342,2,11:43,GSW,,HOU,,U. Garuba,HOU,MISS Garuba 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,47,88,10,1,2.0,0.0,v
+S2223-G0342,2,09:33,GSW,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0342,2,09:33,GSW,48.0,HOU,27.0,U. Garuba,HOU,Garuba Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0342,2,09:26,GSW,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0342,2,08:47,GSW,,HOU,,U. Garuba,HOU,Garuba L.B.FOUL (P1.T1) (B.Nansel),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0342,2,08:31,GSW,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0342,2,08:08,GSW,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0342,2,07:23,GSW,,HOU,,U. Garuba,HOU,SUB: Green FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0342,3,03:20,GSW,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0342,3,02:59,GSW,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0342,3,02:07,GSW,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0342,4,11:44,GSW,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0342,4,11:35,GSW,94.0,HOU,82.0,U. Garuba,HOU,Garuba 5' Cutting Dunk Shot (4 PTS) (Nix 2 AST),Made Shot,Cutting Dunk Shot,-10,49,5,1,2.0,2.0,v
+S2223-G0342,4,10:31,GSW,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0342,4,08:57,GSW,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0342,4,08:22,GSW,,HOU,,U. Garuba,HOU,SUB: Fernando FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0342,4,00:35.100000,GSW,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P2.T4) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2223-G0840,1,00:35.100000,MIA,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0840,2,10:12,MIA,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0840,2,08:54,MIA,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0840,2,07:57,MIA,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P2.T3) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G0840,2,07:25,MIA,41.0,HOU,41.0,U. Garuba,HOU,Garuba 4' Layup (2 PTS) (Washington Jr. 3 AST),Made Shot,Layup Shot,-32,18,4,1,2.0,2.0,v
+S2223-G0840,2,06:55,MIA,,HOU,,U. Garuba,HOU,SUB: Tate FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0840,3,04:09,MIA,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0840,3,02:48,MIA,,HOU,,U. Garuba,HOU,Garuba STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0840,3,02:00,MIA,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0840,3,01:31,MIA,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0840,3,00:53,MIA,,HOU,,U. Garuba,HOU,MISS Garuba 26' 3PT Jump Shot,Missed Shot,Jump Shot,11,260,26,1,3.0,0.0,v
+S2223-G0840,4,09:12,MIA,,HOU,,U. Garuba,HOU,SUB: Smith Jr. FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0401,1,05:00,HOU,,,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0401,1,02:08,HOU,,,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0401,1,01:00,HOU,,,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0401,1,00:49.600000,HOU,,,,U. Garuba,HOU,MISS Garuba 26' 3PT Jump Shot,Missed Shot,Jump Shot,-152,211,26,1,3.0,0.0,h
+S2223-G0401,3,06:33,HOU,,,,U. Garuba,HOU,MISS Garuba 3PT Jump Shot,Missed Shot,Jump Shot,-228,22,0,1,3.0,0.0,h
+S2223-G0401,3,05:28,HOU,65.0,,62.0,U. Garuba,HOU,Garuba 3' Layup (2 PTS) (Porter Jr. 6 AST),Made Shot,Layup Shot,22,15,3,1,2.0,2.0,h
+S2223-G0401,3,02:16,HOU,,,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0102,1,00:31.800000,LAC,,HOU,,U. Garuba,HOU,MISS Garuba 7' Hook Shot,Missed Shot,Hook Shot,-37,63,7,1,2.0,0.0,v
+S2223-G0102,1,00:08,LAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0102,2,10:33,LAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0102,2,10:05,LAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0102,2,10:02,LAC,32.0,HOU,27.0,U. Garuba,HOU,Garuba 1' Cutting Layup Shot (2 PTS) (Smith Jr. 1 AST),Made Shot,Cutting Layup Shot,2,10,1,1,2.0,2.0,v
+S2223-G0102,2,09:26,LAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0102,2,08:45,LAC,,HOU,,U. Garuba,HOU,SUB: Martin Jr. FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0102,3,02:24,LAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0102,3,01:39,LAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0102,3,01:27,LAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0102,3,00:45.600000,LAC,,HOU,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0102,4,11:27,LAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0102,4,11:15,LAC,,HOU,,U. Garuba,HOU,Garuba Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0102,4,10:45,LAC,,HOU,,U. Garuba,HOU,SUB: Green FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0572,1,03:41,NOP,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0572,1,02:45,NOP,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0572,1,01:14,NOP,,HOU,,U. Garuba,HOU,Garuba Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0572,1,00:06.300000,NOP,,HOU,,U. Garuba,HOU,Garuba OFF.Foul (P2) (J.Goldenberg),Foul,Offensive,0,0,0,0,,,v
+S2223-G0572,1,00:06.300000,NOP,,HOU,,U. Garuba,HOU,Garuba Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0572,2,11:50,NOP,,HOU,,U. Garuba,HOU,Garuba OFF.Foul (P3) (J.Goldenberg),Foul,Offensive,0,0,0,0,,,v
+S2223-G0572,2,11:50,NOP,,HOU,,U. Garuba,HOU,Garuba Offensive Foul Turnover (P3.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0572,2,11:31,NOP,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0572,2,11:30,NOP,45.0,HOU,24.0,U. Garuba,HOU,Garuba Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0572,2,10:02,NOP,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0572,2,09:42,NOP,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0572,2,09:39,NOP,,HOU,,U. Garuba,HOU,Garuba Bad Pass Turnover (P4.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0572,2,09:36,NOP,,HOU,,U. Garuba,HOU,SUB: Fernando FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0572,3,04:23,NOP,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P4.T3) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0572,3,03:20,NOP,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0572,3,02:51,NOP,,HOU,,U. Garuba,HOU,MISS Garuba 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,23,44,5,1,2.0,0.0,v
+S2223-G0572,3,02:28,NOP,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0572,3,01:24,NOP,,HOU,,U. Garuba,HOU,SUB: Eason FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0860,1,02:33,PHI,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.T2) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0860,1,01:26,PHI,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0860,1,01:02,PHI,28.0,HOU,27.0,U. Garuba,HOU,Garuba 1' Running Reverse Layup (2 PTS) (Green 3 AST),Made Shot,Running Reverse Layup Shot,-4,6,1,1,2.0,2.0,v
+S2223-G0860,2,04:41,PHI,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0860,2,04:28,PHI,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0860,2,03:24,PHI,,HOU,,U. Garuba,HOU,MISS Garuba 1' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,12,1,1,2.0,0.0,v
+S2223-G0860,2,02:52,PHI,,HOU,,U. Garuba,HOU,Garuba STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0860,2,02:47,PHI,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0860,4,10:25,PHI,95.0,HOU,81.0,U. Garuba,HOU,Garuba 3PT Jump Shot (5 PTS) (Eason 1 AST),Made Shot,Jump Shot,-228,51,0,1,3.0,3.0,v
+S2223-G0860,4,08:58,PHI,,HOU,,U. Garuba,HOU,SUB: Kaminsky FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0334,1,01:15,PHX,31.0,HOU,24.0,U. Garuba,HOU,Garuba Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0334,1,01:15,PHX,,HOU,,U. Garuba,HOU,MISS Garuba Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0334,2,11:22,PHX,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0334,2,10:52,PHX,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0334,2,09:34,PHX,,HOU,,U. Garuba,HOU,SUB: Smith Jr. FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0334,3,03:27,PHX,,HOU,,U. Garuba,HOU,Garuba STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0334,3,02:14,PHX,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P1.T4) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2223-G1067,2,11:17,HOU,,NOP,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1067,2,09:46,HOU,,NOP,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1067,2,09:10,HOU,,NOP,,U. Garuba,HOU,MISS Garuba 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,-25,24,1,3.0,0.0,h
+S2223-G1067,2,08:28,HOU,,NOP,,U. Garuba,HOU,Garuba Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1067,2,07:17,HOU,,NOP,,U. Garuba,HOU,SUB: Porter Jr. FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1067,3,00:34.600000,HOU,,NOP,,U. Garuba,HOU,MISS Garuba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1067,3,00:34.600000,HOU,78.0,NOP,90.0,U. Garuba,HOU,Garuba Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1067,4,11:15,HOU,,NOP,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1067,4,10:08,HOU,,NOP,,U. Garuba,HOU,Garuba S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G1067,4,09:39,HOU,,NOP,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1067,4,09:31,HOU,,NOP,,U. Garuba,HOU,Garuba Traveling Turnover (P2.T11),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1067,4,09:08,HOU,,NOP,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1067,4,09:02,HOU,,NOP,,U. Garuba,HOU,Garuba Lost Ball Turnover (P3.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1067,4,08:57,HOU,,NOP,,U. Garuba,HOU,SUB: Christopher FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1088,1,02:01,MEM,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1088,1,01:55,MEM,,HOU,,U. Garuba,HOU,MISS Garuba 3PT Jump Shot,Missed Shot,Jump Shot,224,15,0,1,3.0,0.0,v
+S2223-G1088,1,00:51.900000,MEM,,HOU,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1088,1,00:28.500000,MEM,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1088,2,10:49,MEM,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.T2) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G1088,2,09:47,MEM,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P2.T3) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2223-G1088,2,08:57,MEM,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1088,2,05:29,MEM,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1088,2,04:45,MEM,,HOU,,U. Garuba,HOU,SUB: Porter Jr. FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G1088,4,11:27,MEM,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P3.T1) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2223-G1088,4,11:15,MEM,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P4.T2) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1088,4,10:59,MEM,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1088,4,09:13,MEM,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P5.T3) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G1088,4,08:54,MEM,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1088,4,08:46,MEM,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1088,4,08:46,MEM,,HOU,,U. Garuba,HOU,MISS Garuba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1088,4,08:39,MEM,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P6.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G1088,4,08:39,MEM,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0375,1,02:06,SAS,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0375,1,01:16,SAS,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0375,1,00:52.800000,SAS,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0375,2,10:22,SAS,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0375,3,04:35,SAS,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0375,3,03:37,SAS,,HOU,,U. Garuba,HOU,MISS Garuba 8' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,2,75,8,1,2.0,0.0,v
+S2223-G0375,3,03:14,SAS,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0375,3,01:48,SAS,,HOU,,U. Garuba,HOU,Garuba L.B.FOUL (P1.T3) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0375,3,00:33.900000,SAS,,HOU,,U. Garuba,HOU,MISS Garuba 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,74,7,1,2.0,0.0,v
+S2223-G0709,1,00:37.800000,HOU,,MIN,,U. Garuba,HOU,Garuba S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G0441,1,05:34,HOU,,POR,,U. Garuba,HOU,Garuba P.FOUL (P1.T4) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2223-G0441,1,05:10,HOU,,POR,,U. Garuba,HOU,MISS Garuba 2' Layup,Missed Shot,Layup Shot,0,18,2,1,2.0,0.0,h
+S2223-G0441,1,04:56,HOU,,POR,,U. Garuba,HOU,Garuba S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0441,1,04:19,HOU,,POR,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0441,1,04:18,HOU,19.0,POR,25.0,U. Garuba,HOU,Garuba 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-11,22,2,1,2.0,2.0,h
+S2223-G0441,1,02:37,HOU,,POR,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0441,1,02:16,HOU,,POR,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0441,1,02:08,HOU,,POR,,U. Garuba,HOU,Garuba REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0441,1,01:37,HOU,,POR,,U. Garuba,HOU,Garuba REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0441,1,00:31.800000,HOU,,POR,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0441,3,03:19,HOU,,POR,,U. Garuba,HOU,MISS Garuba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0441,3,03:19,HOU,61.0,POR,79.0,U. Garuba,HOU,Garuba Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0640,1,02:32,SAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0640,1,02:31,SAC,25.0,HOU,26.0,U. Garuba,HOU,Garuba 3' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,-26,17,3,1,2.0,2.0,v
+S2223-G0640,2,06:06,SAC,,HOU,,U. Garuba,HOU,Garuba OFF.Foul (P1) (B.Taylor),Foul,Offensive,0,0,0,0,,,v
+S2223-G0640,2,06:06,SAC,,HOU,,U. Garuba,HOU,Garuba Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0640,2,02:12,SAC,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0640,3,04:41,SAC,,HOU,,U. Garuba,HOU,Garuba Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0640,3,00:37.400000,SAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0640,4,06:07,SAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0640,4,03:49,SAC,,HOU,,U. Garuba,HOU,Garuba Violation:Kicked Ball (J.Sterling),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0640,4,03:49,SAC,,HOU,,U. Garuba,HOU,SUB: Marjanovic FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G1051,2,11:50,HOU,,NOP,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1051,2,11:11,HOU,,NOP,,U. Garuba,HOU,Garuba OFF.Foul (P1) (M.Davis),Foul,Offensive,0,0,0,0,,,h
+S2223-G1051,2,11:11,HOU,,NOP,,U. Garuba,HOU,Garuba Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1051,2,10:00,HOU,,NOP,,U. Garuba,HOU,MISS Garuba 25' 3PT Jump Shot,Missed Shot,Jump Shot,29,253,25,1,3.0,0.0,h
+S2223-G1051,2,08:58,HOU,,NOP,,U. Garuba,HOU,MISS Garuba 2' Layup,Missed Shot,Layup Shot,-18,9,2,1,2.0,0.0,h
+S2223-G1051,2,08:43,HOU,,NOP,,U. Garuba,HOU,Garuba Offensive Goaltending Turnover (P2.T2),Turnover,Offensive Goaltending,0,0,0,0,,,h
+S2223-G1051,2,08:43,HOU,,NOP,,U. Garuba,HOU,SUB: Martin Jr. FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1051,3,01:45,HOU,,NOP,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1051,3,00:59.600000,HOU,,NOP,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1051,3,00:54.400000,HOU,,NOP,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1051,3,00:04,HOU,,NOP,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1051,4,11:48,HOU,,NOP,,U. Garuba,HOU,Garuba S.FOUL (P2.T1) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G1051,4,11:48,HOU,,NOP,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0528,1,01:14,DAL,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G0528,1,00:47,DAL,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P2.PN) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2223-G0528,1,00:45.600000,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0528,2,11:16,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0528,2,10:53,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0528,2,10:52,DAL,36.0,HOU,32.0,U. Garuba,HOU,Garuba 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,13,1,1,1,2.0,2.0,v
+S2223-G0528,2,10:35,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0528,2,09:43,DAL,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0528,2,09:17,DAL,,HOU,,U. Garuba,HOU,MISS Garuba 3PT Jump Shot,Missed Shot,Jump Shot,228,15,0,1,3.0,0.0,v
+S2223-G0528,2,09:11,DAL,,HOU,,U. Garuba,HOU,Garuba STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0528,2,09:03,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0528,2,09:03,DAL,40.0,HOU,35.0,U. Garuba,HOU,Garuba 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,12,8,1,1,2.0,2.0,v
+S2223-G0528,2,09:03,DAL,,HOU,,U. Garuba,HOU,MISS Garuba Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0528,2,08:07,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0528,2,07:56,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0528,2,07:51,DAL,,HOU,,U. Garuba,HOU,SUB: Fernando FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0528,3,04:33,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0528,3,01:16,DAL,93.0,HOU,78.0,U. Garuba,HOU,Garuba 25' 3PT Jump Shot (7 PTS) (Porter Jr. 7 AST),Made Shot,Jump Shot,-94,235,25,1,3.0,3.0,v
+S2223-G0528,4,01:19,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0528,4,00:30.300000,DAL,129.0,HOU,114.0,U. Garuba,HOU,Garuba 1' Running Dunk (9 PTS) (Nix 2 AST),Made Shot,Running Dunk Shot,5,12,1,1,2.0,2.0,v
+S2223-G1155,2,05:31,HOU,,DET,,U. Garuba,HOU,Garuba L.B.FOUL (P1.T2) (C.Washington),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1155,2,04:00,HOU,,DET,,U. Garuba,HOU,Garuba S.FOUL (P2.T3) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G1155,2,03:12,HOU,,DET,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0601,1,01:12,HOU,,MIN,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0601,1,00:26.600000,HOU,,MIN,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0601,3,00:51.800000,HOU,78.0,MIN,77.0,U. Garuba,HOU,Garuba 1' Running Layup (2 PTS) (Tate 3 AST),Made Shot,Running Layup Shot,12,1,1,1,2.0,2.0,h
+S2223-G0601,3,00:51.800000,HOU,79.0,MIN,77.0,U. Garuba,HOU,Garuba Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0601,4,10:27,HOU,,MIN,,U. Garuba,HOU,Garuba L.B.FOUL (P1.T1) (I.Hwang),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0601,4,10:27,HOU,,MIN,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0507,1,01:17,BOS,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0507,1,01:16,BOS,,HOU,,U. Garuba,HOU,MISS Garuba 3' Putback Layup,Missed Shot,Putback Layup Shot,21,14,3,1,2.0,0.0,v
+S2223-G0507,1,00:36.200000,BOS,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0507,2,09:23,BOS,,HOU,,U. Garuba,HOU,SUB: Fernando FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0507,3,03:50,BOS,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0507,3,02:13,BOS,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0507,3,02:13,BOS,84.0,HOU,76.0,U. Garuba,HOU,Garuba Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0507,3,00:05.400000,BOS,,HOU,,U. Garuba,HOU,SUB: Porter Jr. FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0696,1,01:58,MIN,,HOU,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0696,1,01:55,MIN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0696,1,00:30.300000,MIN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0696,1,00:01.700000,MIN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0696,3,02:32,MIN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0696,4,07:42,MIN,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P1.T1) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2223-G0696,4,06:20,MIN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0696,4,06:09,MIN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0696,4,06:09,MIN,,HOU,,U. Garuba,HOU,MISS Garuba 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,12,15,2,1,2.0,0.0,v
+S2223-G0696,4,06:08,MIN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0696,4,06:08,MIN,,HOU,,U. Garuba,HOU,MISS Garuba 2' Layup,Missed Shot,Layup Shot,-13,9,2,1,2.0,0.0,v
+S2223-G0696,4,05:36,MIN,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0287,1,01:19,HOU,,OKC,,U. Garuba,HOU,Garuba P.FOUL (P1.T3) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2223-G0287,1,00:45.800000,HOU,,OKC,,U. Garuba,HOU,Garuba Violation:Kicked Ball (C.Kirkland),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0287,2,02:07,HOU,,OKC,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0287,2,02:00,HOU,,OKC,,U. Garuba,HOU,Garuba OFF.Foul (P2) (S.Mehta),Foul,Offensive,0,0,0,0,,,h
+S2223-G0287,2,02:00,HOU,,OKC,,U. Garuba,HOU,Garuba Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0287,3,01:39,HOU,,OKC,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0287,3,00:57.700000,HOU,,OKC,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0287,4,09:44,HOU,,OKC,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1183,1,01:31,HOU,,DEN,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1183,1,00:01,HOU,,DEN,,U. Garuba,HOU,MISS Garuba 4' Layup,Missed Shot,Layup Shot,31,31,4,1,2.0,0.0,h
+S2223-G1183,1,00:00.200000,HOU,,DEN,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1183,2,11:31,HOU,,DEN,,U. Garuba,HOU,MISS Garuba 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,43,24,1,3.0,0.0,h
+S2223-G1183,2,10:51,HOU,,DEN,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1183,2,09:32,HOU,,DEN,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1183,3,02:30,HOU,80.0,DEN,81.0,U. Garuba,HOU,Garuba 2' Layup (2 PTS) (Porter Jr. 8 AST),Made Shot,Layup Shot,-18,9,2,1,2.0,2.0,h
+S2223-G1183,3,02:30,HOU,81.0,DEN,81.0,U. Garuba,HOU,Garuba Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1183,3,00:55.600000,HOU,,DEN,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1183,3,00:09.100000,HOU,,DEN,,U. Garuba,HOU,Garuba S.FOUL (P1.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G1183,3,00:09.100000,HOU,,DEN,,U. Garuba,HOU,SUB: Green FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1183,4,11:45,HOU,,DEN,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1183,4,10:35,HOU,,DEN,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1183,4,10:11,HOU,,DEN,,U. Garuba,HOU,Garuba S.FOUL (P2.T1) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2223-G1183,4,09:55,HOU,,DEN,,U. Garuba,HOU,MISS Garuba 3PT Jump Shot,Missed Shot,Jump Shot,234,3,0,1,3.0,0.0,h
+S2223-G1183,4,09:00,HOU,,DEN,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1183,4,08:37,HOU,,DEN,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1183,4,08:35,HOU,,DEN,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0993,1,04:16,IND,,HOU,,U. Garuba,HOU,Garuba Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0993,1,04:03,IND,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0993,1,03:26,IND,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0993,1,03:25,IND,,HOU,,U. Garuba,HOU,MISS Garuba 3' Putback Layup,Missed Shot,Putback Layup Shot,-25,11,3,1,2.0,0.0,v
+S2223-G0993,1,00:59.300000,IND,,HOU,,U. Garuba,HOU,SUB: Christopher FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0993,4,11:17,IND,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0993,4,10:06,IND,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0993,4,10:06,IND,,HOU,,U. Garuba,HOU,MISS Garuba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0993,4,10:05,IND,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0993,4,10:05,IND,,HOU,,U. Garuba,HOU,MISS Garuba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0993,4,09:26,IND,,HOU,,U. Garuba,HOU,SUB: Nix FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0356,1,00:27.900000,HOU,,PHI,,U. Garuba,HOU,MISS Garuba Jump Shot,Missed Shot,Jump Shot,-2,2,0,1,2.0,0.0,h
+S2223-G0356,2,10:47,HOU,,PHI,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0356,2,09:41,HOU,,PHI,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0356,4,09:43,HOU,,PHI,,U. Garuba,HOU,Lane,Violation,Lane,0,0,0,0,,,h
+S2223-G0356,4,08:38,HOU,,PHI,,U. Garuba,HOU,SUB: Fernando FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1117,1,01:08,CLE,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1117,2,11:05,CLE,,HOU,,U. Garuba,HOU,MISS Garuba 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,14,24,1,3.0,0.0,v
+S2223-G1117,2,10:00,CLE,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.T1) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2223-G1117,2,08:28,CLE,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1117,2,07:53,CLE,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1117,2,06:47,CLE,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1117,2,06:40,CLE,,HOU,,U. Garuba,HOU,Garuba OFF.Foul (P2) (P.Ransom),Foul,Offensive,0,0,0,0,,,v
+S2223-G1117,2,06:40,CLE,,HOU,,U. Garuba,HOU,Garuba Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1117,2,06:02,CLE,46.0,HOU,38.0,U. Garuba,HOU,Garuba Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1117,2,06:02,CLE,46.0,HOU,39.0,U. Garuba,HOU,Garuba Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1117,2,05:12,CLE,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G1117,4,10:49,CLE,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1117,4,09:48,CLE,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1117,4,08:58,CLE,,HOU,,U. Garuba,HOU,MISS Garuba 4' Floating Jump Shot,Missed Shot,Floating Jump shot,-18,39,4,1,2.0,0.0,v
+S2223-G1117,4,08:34,CLE,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P3.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G1117,4,08:06,CLE,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G1137,2,11:46,BKN,30.0,HOU,27.0,U. Garuba,HOU,Garuba 1' Driving Dunk (2 PTS) (Christopher 1 AST),Made Shot,Driving Dunk Shot,6,8,1,1,2.0,2.0,v
+S2223-G1137,2,09:29,BKN,,HOU,,U. Garuba,HOU,MISS Garuba 24' 3PT Jump Shot,Missed Shot,Jump Shot,49,237,24,1,3.0,0.0,v
+S2223-G1137,2,09:18,BKN,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P1.T1) (M.Kallio),Foul,Personal,0,0,0,0,,,v
+S2223-G1137,2,08:06,BKN,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1137,2,06:35,BKN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1137,2,06:20,BKN,38.0,HOU,39.0,U. Garuba,HOU,Garuba 2' Layup (4 PTS) (Eason 1 AST),Made Shot,Layup Shot,15,5,2,1,2.0,2.0,v
+S2223-G1137,2,06:15,BKN,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P2.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G1137,2,06:15,BKN,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G1137,3,00:39.600000,BKN,,HOU,,U. Garuba,HOU,SUB: Green FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G1137,4,10:07,BKN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1137,4,07:39,BKN,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G1009,1,00:43,HOU,,CHI,,U. Garuba,HOU,Garuba S.FOUL (P1.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2223-G1009,2,09:44,HOU,,CHI,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1009,2,07:21,HOU,,CHI,,U. Garuba,HOU,SUB: Smith Jr. FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1009,3,00:04.100000,HOU,,CHI,,U. Garuba,HOU,Garuba S.FOUL (P2.PN) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2223-G1009,3,00:01.400000,HOU,,CHI,,U. Garuba,HOU,SUB: Tate FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1009,4,09:01,HOU,,CHI,,U. Garuba,HOU,SUB: Green FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0967,1,01:26,HOU,,SAS,,U. Garuba,HOU,Garuba S.FOUL (P1.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2223-G0967,2,11:30,HOU,,SAS,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0967,2,09:20,HOU,,SAS,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0967,2,08:43,HOU,49.0,SAS,37.0,U. Garuba,HOU,Garuba 4' Cutting Dunk Shot (2 PTS) (Porter Jr. 5 AST),Made Shot,Cutting Dunk Shot,-25,31,4,1,2.0,2.0,h
+S2223-G0967,2,06:47,HOU,,SAS,,U. Garuba,HOU,SUB: Tate FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0967,4,11:03,HOU,111.0,SAS,87.0,U. Garuba,HOU,Garuba 27' 3PT Jump Shot (5 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,62,263,27,1,3.0,3.0,h
+S2223-G0967,4,08:19,HOU,,SAS,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0967,4,07:59,HOU,,SAS,,U. Garuba,HOU,Garuba P.FOUL (P2.T1) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2223-G0967,4,07:14,HOU,,SAS,,U. Garuba,HOU,SUB: Marjanovic FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0033,1,11:25,MIL,,HOU,,U. Garuba,HOU,Garuba Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0033,1,09:22,MIL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0033,1,06:53,MIL,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0033,1,05:52,MIL,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0033,2,09:02,MIL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0033,2,07:47,MIL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0033,2,06:48,MIL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0033,2,06:43,MIL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0033,2,06:39,MIL,,HOU,,U. Garuba,HOU,MISS Garuba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0033,2,05:37,MIL,,HOU,,U. Garuba,HOU,Garuba STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0033,2,03:55,MIL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0033,2,03:43,MIL,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0033,3,11:21,MIL,,HOU,,U. Garuba,HOU,MISS Garuba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0033,3,11:21,MIL,67.0,HOU,49.0,U. Garuba,HOU,Garuba Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0033,3,11:07,MIL,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P1.T1) (J.Schroeder),Foul,Personal,0,0,0,0,,,v
+S2223-G0033,3,10:50,MIL,67.0,HOU,52.0,U. Garuba,HOU,Garuba 27' 3PT Jump Shot (4 PTS) (Porter Jr. 4 AST),Made Shot,Jump Shot,6,274,27,1,3.0,3.0,v
+S2223-G0033,3,10:37,MIL,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0033,3,09:25,MIL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0033,3,09:20,MIL,,HOU,,U. Garuba,HOU,Garuba STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0033,3,07:49,MIL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0033,3,07:49,MIL,77.0,HOU,65.0,U. Garuba,HOU,Garuba Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0033,3,05:57,MIL,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0033,4,09:24,MIL,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0033,4,02:01,MIL,,HOU,,U. Garuba,HOU,Garuba Traveling Turnover (P2.T14),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0033,4,00:35.400000,MIL,,HOU,,U. Garuba,HOU,Garuba STEAL (4 STL),,,0,0,0,0,,,v
+S2223-G0926,1,02:41,HOU,,DEN,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0926,1,01:21,HOU,,DEN,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0926,1,01:08,HOU,,DEN,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0926,2,11:19,HOU,,DEN,,U. Garuba,HOU,MISS Garuba 1' Running Layup,Missed Shot,Running Layup Shot,-7,13,1,1,2.0,0.0,h
+S2223-G0926,2,11:03,HOU,,DEN,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0926,2,10:58,HOU,,DEN,,U. Garuba,HOU,Garuba OFF.Foul (P1) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,h
+S2223-G0926,2,10:58,HOU,,DEN,,U. Garuba,HOU,Garuba Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0926,2,10:25,HOU,,DEN,,U. Garuba,HOU,Garuba Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0926,2,09:58,HOU,,DEN,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0926,2,09:33,HOU,,DEN,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0926,2,08:21,HOU,,DEN,,U. Garuba,HOU,Garuba S.FOUL (P2.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0926,2,08:21,HOU,,DEN,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0926,3,01:34,HOU,,DEN,,U. Garuba,HOU,Garuba P.FOUL (P3.T2) (M.Kallio),Foul,Personal,0,0,0,0,,,h
+S2223-G0926,3,00:55.800000,HOU,,DEN,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0926,3,00:53.200000,HOU,,DEN,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0926,3,00:47.600000,HOU,,DEN,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0926,4,10:32,HOU,,DEN,,U. Garuba,HOU,MISS Garuba 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-26,32,4,1,2.0,0.0,h
+S2223-G0926,4,10:11,HOU,89.0,DEN,110.0,U. Garuba,HOU,Garuba 26' 3PT Jump Shot (3 PTS) (Christopher 2 AST),Made Shot,Jump Shot,-92,241,26,1,3.0,3.0,h
+S2223-G0926,4,09:31,HOU,,DEN,,U. Garuba,HOU,MISS Garuba 2' Layup,Missed Shot,Layup Shot,12,9,2,1,2.0,0.0,h
+S2223-G0926,4,08:12,HOU,,DEN,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0137,1,05:24,MIN,,HOU,,U. Garuba,HOU,Garuba Double Dribble Turnover (P1.T4),Turnover,Double Dribble,0,0,0,0,,,v
+S2223-G0137,1,02:58,MIN,29.0,HOU,27.0,U. Garuba,HOU,Garuba 2' Cutting Dunk Shot (2 PTS) (Eason 2 AST),Made Shot,Cutting Dunk Shot,0,21,2,1,2.0,2.0,v
+S2223-G0137,1,01:53,MIN,33.0,HOU,29.0,U. Garuba,HOU,Garuba 2' Cutting Layup Shot (4 PTS) (Gordon 2 AST),Made Shot,Cutting Layup Shot,1,17,2,1,2.0,2.0,v
+S2223-G0137,1,01:42,MIN,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.T4) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0137,1,01:42,MIN,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0137,2,05:05,MIN,,HOU,,U. Garuba,HOU,Garuba Offensive Goaltending Turnover (P2.T9),Turnover,Offensive Goaltending,0,0,0,0,,,v
+S2223-G0137,2,03:38,MIN,,HOU,,U. Garuba,HOU,MISS Garuba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0137,2,03:38,MIN,57.0,HOU,46.0,U. Garuba,HOU,Garuba Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0137,2,03:17,MIN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0137,2,02:39,MIN,,HOU,,U. Garuba,HOU,MISS Garuba 5' Layup,Missed Shot,Layup Shot,40,36,5,1,2.0,0.0,v
+S2223-G0137,2,02:17,MIN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0137,2,01:19,MIN,62.0,HOU,48.0,U. Garuba,HOU,Garuba Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0137,2,01:19,MIN,62.0,HOU,49.0,U. Garuba,HOU,Garuba Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0137,2,01:09,MIN,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0137,3,01:49,MIN,,HOU,,U. Garuba,HOU,MISS Garuba 7' Driving Layup,Missed Shot,Driving Layup Shot,-21,68,7,1,2.0,0.0,v
+S2223-G0137,4,11:02,MIN,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P2.T1) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2223-G0137,4,09:51,MIN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0137,4,08:24,MIN,,HOU,,U. Garuba,HOU,Garuba STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0137,4,04:31,MIN,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0320,1,04:17,DEN,,HOU,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0320,1,00:57.800000,DEN,,HOU,,U. Garuba,HOU,Garuba OFF.Foul (P1) (M.Smith),Foul,Offensive,0,0,0,0,,,v
+S2223-G0320,1,00:57.800000,DEN,,HOU,,U. Garuba,HOU,Garuba Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0320,3,00:49,DEN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0320,4,11:04,DEN,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0320,4,10:58,DEN,99.0,HOU,77.0,U. Garuba,HOU,Garuba 5' Layup (2 PTS) (Smith Jr. 2 AST),Made Shot,Layup Shot,40,21,5,1,2.0,2.0,v
+S2223-G0320,4,10:58,DEN,,HOU,,U. Garuba,HOU,MISS Garuba Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0320,4,10:28,DEN,,HOU,,U. Garuba,HOU,MISS Garuba 25' 3PT Jump Shot,Missed Shot,Jump Shot,206,147,25,1,3.0,0.0,v
+S2223-G0320,4,08:03,DEN,,HOU,,U. Garuba,HOU,Garuba BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0320,4,07:30,DEN,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0320,4,07:23,DEN,,HOU,,U. Garuba,HOU,SUB: Green FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0320,4,02:08,DEN,,HOU,,U. Garuba,HOU,MISS Garuba 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,33,24,1,3.0,0.0,v
+S2223-G0320,4,01:48,DEN,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P2.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G1024,2,10:52,HOU,,BOS,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1024,2,10:18,HOU,,BOS,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1024,2,07:08,HOU,,BOS,,U. Garuba,HOU,SUB: Smith Jr. FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1024,4,11:35,HOU,,BOS,,U. Garuba,HOU,Garuba P.FOUL (P1.T1) (R.Hussey),Foul,Personal,0,0,0,0,,,h
+S2223-G1024,4,10:48,HOU,,BOS,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1024,4,09:50,HOU,,BOS,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1024,4,08:37,HOU,92.0,BOS,87.0,U. Garuba,HOU,Garuba 3PT Jump Shot (3 PTS) (Porter Jr. 8 AST),Made Shot,Jump Shot,-233,0,0,1,3.0,3.0,h
+S2223-G1024,4,07:58,HOU,95.0,BOS,87.0,U. Garuba,HOU,Garuba 24' 3PT Jump Shot (6 PTS) (Porter Jr. 9 AST),Made Shot,Jump Shot,-186,158,24,1,3.0,3.0,h
+S2223-G1024,4,07:06,HOU,,BOS,,U. Garuba,HOU,Garuba S.FOUL (P2.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G1024,4,07:06,HOU,,BOS,,U. Garuba,HOU,SUB: Smith Jr. FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0048,2,11:47,HOU,,UTA,,U. Garuba,HOU,Garuba Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0048,2,10:37,HOU,,UTA,,U. Garuba,HOU,Garuba S.FOUL (P1.T1) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0048,2,10:24,HOU,,UTA,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0048,2,10:20,HOU,27.0,UTA,20.0,U. Garuba,HOU,Garuba 2' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,12,13,2,1,2.0,2.0,h
+S2223-G0048,2,09:50,HOU,,UTA,,U. Garuba,HOU,Garuba Jump Ball Violation Turnover (P2.T7),Turnover,Jump Ball Violation,0,0,0,0,,,h
+S2223-G0048,2,09:24,HOU,,UTA,,U. Garuba,HOU,MISS Garuba 4' Layup,Missed Shot,Layup Shot,12,40,4,1,2.0,0.0,h
+S2223-G0048,2,08:14,HOU,,UTA,,U. Garuba,HOU,SUB: Smith Jr. FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0048,3,03:49,HOU,,UTA,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0048,3,03:44,HOU,,UTA,,U. Garuba,HOU,MISS Garuba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0048,3,03:44,HOU,,UTA,,U. Garuba,HOU,MISS Garuba Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0048,3,02:45,HOU,,UTA,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0048,3,02:43,HOU,,UTA,,U. Garuba,HOU,MISS Garuba 7' Jump Shot,Missed Shot,Jump Shot,33,60,7,1,2.0,0.0,h
+S2223-G0048,3,02:03,HOU,,UTA,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0048,4,04:03,HOU,,UTA,,U. Garuba,HOU,Garuba S.FOUL (P2.T3) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0048,4,04:03,HOU,,UTA,,U. Garuba,HOU,SUB: Smith Jr. FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1100,1,02:23,MEM,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G1100,1,02:05,MEM,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1100,1,01:13,MEM,,HOU,,U. Garuba,HOU,Garuba Violation:Defensive Goaltending (M.Smith),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G1100,2,10:08,MEM,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1100,2,08:34,MEM,,HOU,,U. Garuba,HOU,SUB: Marjanovic FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G1100,3,00:48.600000,MEM,,HOU,,U. Garuba,HOU,Garuba OFF.Foul (P2) (M.Smith),Foul,Offensive,0,0,0,0,,,v
+S2223-G1100,3,00:48.600000,MEM,,HOU,,U. Garuba,HOU,Garuba Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1100,3,00:31.500000,MEM,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1100,3,00:31.500000,MEM,117.0,HOU,84.0,U. Garuba,HOU,Garuba Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1100,4,10:41,MEM,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P3.T1) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2223-G1100,4,03:15,MEM,,HOU,,U. Garuba,HOU,MISS Garuba 25' 3PT Jump Shot,Missed Shot,Jump Shot,-2,245,25,1,3.0,0.0,v
+S2223-G0245,1,03:05,HOU,,GSW,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0245,1,02:54,HOU,,GSW,,U. Garuba,HOU,Garuba P.FOUL (P1.T2) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2223-G0245,1,01:30,HOU,26.0,GSW,38.0,U. Garuba,HOU,Garuba 27' 3PT Jump Shot (3 PTS) (Nix 1 AST),Made Shot,Jump Shot,146,226,27,1,3.0,3.0,h
+S2223-G0245,1,00:05.200000,HOU,,GSW,,U. Garuba,HOU,MISS Garuba 6' Jump Shot,Missed Shot,Jump Shot,2,59,6,1,2.0,0.0,h
+S2223-G0245,2,01:31,HOU,,GSW,,U. Garuba,HOU,Garuba Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0245,2,01:22,HOU,,GSW,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0245,2,00:45.500000,HOU,,GSW,,U. Garuba,HOU,Garuba Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0245,2,00:39.600000,HOU,,GSW,,U. Garuba,HOU,SUB: Martin Jr. FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0245,3,04:19,HOU,,GSW,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0245,3,04:03,HOU,,GSW,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0245,3,01:54,HOU,,GSW,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0245,4,11:07,HOU,,GSW,,U. Garuba,HOU,Garuba T.FOUL (P1.T0) (A.Nagy),Foul,Technical,0,0,0,0,,,h
+S2223-G0245,4,10:19,HOU,,GSW,,U. Garuba,HOU,MISS Garuba 3' Layup,Missed Shot,Layup Shot,10,30,3,1,2.0,0.0,h
+S2223-G0245,4,10:15,HOU,,GSW,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0245,4,10:14,HOU,,GSW,,U. Garuba,HOU,MISS Garuba 3' Layup,Missed Shot,Layup Shot,15,20,3,1,2.0,0.0,h
+S2223-G0245,4,09:16,HOU,,GSW,,U. Garuba,HOU,SUB: Smith Jr. FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0245,4,02:19,HOU,,GSW,,U. Garuba,HOU,Garuba STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0245,4,01:24,HOU,,GSW,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0245,4,00:54.200000,HOU,,GSW,,U. Garuba,HOU,SUB: Martin Jr. FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0880,1,01:12,OKC,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0880,1,01:09,OKC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0880,1,00:43.600000,OKC,,HOU,,U. Garuba,HOU,Garuba T.FOUL (P1.PN) (J.Goble),Foul,Technical,0,0,0,0,,,v
+S2223-G0880,2,11:28,OKC,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P2.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0880,2,09:02,OKC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0880,2,08:15,OKC,,HOU,,U. Garuba,HOU,SUB: Kaminsky FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0880,4,06:54,OKC,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0880,4,05:58,OKC,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P3.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0880,4,05:45,OKC,,HOU,,U. Garuba,HOU,Garuba Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0880,4,02:58,OKC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0880,4,01:10,OKC,,HOU,,U. Garuba,HOU,Garuba FLAGRANT.FOUL.TYPE1 (P4.PN) (J.Goble),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2223-G0880,4,00:52,OKC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0455,1,01:57,HOU,,SAS,,U. Garuba,HOU,MISS Garuba 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,36,33,5,1,2.0,0.0,h
+S2223-G0455,1,01:56,HOU,,SAS,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0455,1,01:55,HOU,,SAS,,U. Garuba,HOU,MISS Garuba 3' Putback Layup,Missed Shot,Putback Layup Shot,-18,20,3,1,2.0,0.0,h
+S2223-G0455,1,01:30,HOU,,SAS,,U. Garuba,HOU,MISS Garuba 25' 3PT Jump Shot,Missed Shot,Jump Shot,196,163,25,1,3.0,0.0,h
+S2223-G0455,1,00:35.700000,HOU,,SAS,,U. Garuba,HOU,Garuba S.FOUL (P1.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0455,1,00:22.700000,HOU,,SAS,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0455,1,00:22.700000,HOU,,SAS,,U. Garuba,HOU,MISS Garuba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0455,1,00:21.800000,HOU,,SAS,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0455,1,00:21.800000,HOU,,SAS,,U. Garuba,HOU,MISS Garuba 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,-18,23,3,1,2.0,0.0,h
+S2223-G0455,1,00:02.500000,HOU,,SAS,,U. Garuba,HOU,Garuba Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0455,2,02:39,HOU,,SAS,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0455,2,02:22,HOU,,SAS,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0455,3,02:51,HOU,,SAS,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0455,4,01:10,HOU,,SAS,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0228,1,05:35,HOU,,IND,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0228,1,05:00,HOU,,IND,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0228,1,03:58,HOU,,IND,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0228,2,02:21,HOU,,IND,,U. Garuba,HOU,MISS Garuba 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,10,20,2,1,2.0,0.0,h
+S2223-G0228,2,01:17,HOU,50.0,IND,40.0,U. Garuba,HOU,Garuba 2' Layup (2 PTS),Made Shot,Layup Shot,-13,20,2,1,2.0,2.0,h
+S2223-G0228,3,04:44,HOU,,IND,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0228,3,04:09,HOU,,IND,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0228,3,02:41,HOU,66.0,IND,63.0,U. Garuba,HOU,Garuba 4' Dunk (4 PTS) (Gordon 2 AST),Made Shot,Dunk Shot,-20,29,4,1,2.0,2.0,h
+S2223-G0228,3,00:23.900000,HOU,,IND,,U. Garuba,HOU,Garuba S.FOUL (P1.PN) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2223-G0228,4,05:21,HOU,,IND,,U. Garuba,HOU,MISS Garuba 3' Layup,Missed Shot,Layup Shot,-4,26,3,1,2.0,0.0,h
+S2223-G0228,4,03:18,HOU,,IND,,U. Garuba,HOU,Garuba P.FOUL (P2.T3) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0228,4,00:37.700000,HOU,,IND,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0228,4,00:13.600000,HOU,,IND,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1074,1,00:58.700000,HOU,,GSW,,U. Garuba,HOU,Garuba P.FOUL (P1.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2223-G1074,2,09:47,HOU,,GSW,,U. Garuba,HOU,MISS Garuba 26' 3PT Jump Shot,Missed Shot,Jump Shot,175,189,26,1,3.0,0.0,h
+S2223-G1074,2,07:30,HOU,,GSW,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1074,2,07:16,HOU,,GSW,,U. Garuba,HOU,SUB: Eason FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1074,2,02:39,HOU,,GSW,,U. Garuba,HOU,SUB: Smith Jr. FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1074,3,02:26,HOU,78.0,GSW,77.0,U. Garuba,HOU,Garuba 24' 3PT Jump Shot (3 PTS) (Porter Jr. 4 AST),Made Shot,Jump Shot,-235,25,24,1,3.0,3.0,h
+S2223-G1074,3,01:46,HOU,80.0,GSW,80.0,U. Garuba,HOU,Garuba 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,6,12,1,1,2.0,2.0,h
+S2223-G1074,3,00:24.600000,HOU,,GSW,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1074,3,00:00,HOU,,GSW,,U. Garuba,HOU,MISS Garuba 10' Jump Shot,Missed Shot,Jump Shot,-50,83,10,1,2.0,0.0,h
+S2223-G1074,4,10:58,HOU,,GSW,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1074,4,10:58,HOU,84.0,GSW,88.0,U. Garuba,HOU,Garuba 3' Putback Dunk (7 PTS),Made Shot,Putback Dunk Shot,-2,26,3,1,2.0,2.0,h
+S2223-G1074,4,09:40,HOU,,GSW,,U. Garuba,HOU,SUB: Eason FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0649,2,10:41,LAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0649,2,10:00,LAC,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.T1) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0649,2,08:47,LAC,,HOU,,U. Garuba,HOU,MISS Garuba 7' Floating Jump Shot,Missed Shot,Floating Jump shot,-56,38,7,1,2.0,0.0,v
+S2223-G0649,2,08:21,LAC,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0649,3,03:49,LAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0649,3,01:52,LAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0649,4,11:46,LAC,,HOU,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0649,4,11:46,LAC,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P2.T1) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0649,4,11:00,LAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0649,4,08:02,LAC,,HOU,,U. Garuba,HOU,SUB: Smith Jr. FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0472,1,02:38,HOU,,ORL,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0472,1,01:24,HOU,,ORL,,U. Garuba,HOU,Garuba Violation:Defensive Goaltending (J.Orr),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0472,2,09:50,HOU,,ORL,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0472,2,08:24,HOU,,ORL,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0472,4,11:31,HOU,,ORL,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0472,4,11:28,HOU,,ORL,,U. Garuba,HOU,Garuba Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0472,4,10:21,HOU,,ORL,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0472,4,10:21,HOU,,ORL,,U. Garuba,HOU,MISS Garuba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0472,4,10:21,HOU,,ORL,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0472,4,06:52,HOU,,ORL,,U. Garuba,HOU,MISS Garuba 25' 3PT Jump Shot,Missed Shot,Jump Shot,74,242,25,1,3.0,0.0,h
+S2223-G0472,4,06:12,HOU,,ORL,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1222,1,00:47.300000,WAS,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1222,2,11:16,WAS,,HOU,,U. Garuba,HOU,Garuba OFF.Foul (P1) (E.Lewis),Foul,Offensive,0,0,0,0,,,v
+S2223-G1222,2,11:16,WAS,,HOU,,U. Garuba,HOU,Garuba Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1222,2,09:49,WAS,,HOU,,U. Garuba,HOU,Garuba Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1222,2,08:57,WAS,,HOU,,U. Garuba,HOU,MISS Garuba 29' 3PT Jump Shot,Missed Shot,Jump Shot,150,245,29,1,3.0,0.0,v
+S2223-G1222,2,08:13,WAS,,HOU,,U. Garuba,HOU,MISS Garuba 27' 3PT Jump Shot,Missed Shot,Jump Shot,-162,213,27,1,3.0,0.0,v
+S2223-G1222,2,07:53,WAS,,HOU,,U. Garuba,HOU,SUB: Marjanovic FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G1222,3,00:43.300000,WAS,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1222,4,11:00,WAS,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P2.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G1222,4,08:49,WAS,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1222,4,08:49,WAS,,HOU,,U. Garuba,HOU,MISS Garuba 2' Layup,Missed Shot,Layup Shot,11,16,2,1,2.0,0.0,v
+S2223-G1222,4,08:28,WAS,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1222,4,07:54,WAS,,HOU,,U. Garuba,HOU,SUB: Christopher FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0063,2,07:54,UTA,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2223-G0063,2,06:27,UTA,,HOU,,U. Garuba,HOU,Garuba Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0063,2,05:40,UTA,,HOU,,U. Garuba,HOU,SUB: Smith Jr. FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0063,3,05:25,UTA,,HOU,,U. Garuba,HOU,Garuba OFF.Foul (P2) (P.Ransom),Foul,Offensive,0,0,0,0,,,v
+S2223-G0063,3,05:25,UTA,,HOU,,U. Garuba,HOU,Garuba Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0063,3,05:04,UTA,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0063,3,03:23,UTA,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0063,3,02:48,UTA,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0063,3,02:00,UTA,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0063,3,01:37,UTA,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P3.PN) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0063,3,00:05.800000,UTA,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0063,3,00:02.800000,UTA,89.0,HOU,75.0,U. Garuba,HOU,Garuba 2' Dunk (2 PTS) (Gordon 2 AST),Made Shot,Dunk Shot,-17,12,2,1,2.0,2.0,v
+S2223-G0501,1,04:17,CHI,,HOU,,U. Garuba,HOU,Garuba Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0501,1,02:39,CHI,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0501,1,02:18,CHI,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0501,1,01:24,CHI,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0501,3,00:00.100000,CHI,,HOU,,U. Garuba,HOU,MISS Garuba 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,7,51,5,1,2.0,0.0,v
+S2223-G0501,4,10:04,CHI,93.0,HOU,107.0,U. Garuba,HOU,Garuba 25' 3PT Jump Shot (3 PTS) (Washington Jr. 2 AST),Made Shot,Jump Shot,-29,252,25,1,3.0,3.0,v
+S2223-G0501,4,09:51,CHI,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0501,4,08:43,CHI,,HOU,,U. Garuba,HOU,SUB: Porter Jr. FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0917,1,00:11.400000,POR,,HOU,,U. Garuba,HOU,Garuba L.B.FOUL (P1.PN) (C.Blair),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0917,1,00:11.400000,POR,,HOU,,U. Garuba,HOU,SUB: Smith Jr. FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0917,2,07:32,POR,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0917,3,03:32,POR,95.0,HOU,79.0,U. Garuba,HOU,Garuba 3PT Jump Shot (3 PTS) (Martin Jr. 3 AST),Made Shot,Jump Shot,-230,28,0,1,3.0,3.0,v
+S2223-G0917,3,02:39,POR,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0278,1,04:53,HOU,20.0,ATL,11.0,U. Garuba,HOU,Garuba Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0278,1,04:53,HOU,21.0,ATL,11.0,U. Garuba,HOU,Garuba Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0278,1,02:32,HOU,,ATL,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0278,1,02:07,HOU,,ATL,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0278,1,01:58,HOU,,ATL,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0278,1,01:18,HOU,,ATL,,U. Garuba,HOU,Garuba S.FOUL (P1.PN) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G0278,1,00:34.200000,HOU,,ATL,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0278,1,00:33.200000,HOU,36.0,ATL,31.0,U. Garuba,HOU,Garuba Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0278,1,00:33.200000,HOU,37.0,ATL,31.0,U. Garuba,HOU,Garuba Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0278,1,00:07.100000,HOU,,ATL,,U. Garuba,HOU,MISS Garuba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0278,1,00:07.100000,HOU,38.0,ATL,33.0,U. Garuba,HOU,Garuba Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0278,2,02:27,HOU,,ATL,,U. Garuba,HOU,Garuba S.FOUL (P2.PN) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2223-G0278,2,02:02,HOU,,ATL,,U. Garuba,HOU,Garuba REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0278,2,01:47,HOU,,ATL,,U. Garuba,HOU,Garuba S.FOUL (P3.PN) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G0278,2,00:44.500000,HOU,68.0,ATL,72.0,U. Garuba,HOU,Garuba Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0278,2,00:44.500000,HOU,69.0,ATL,72.0,U. Garuba,HOU,Garuba Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0278,3,03:45,HOU,,ATL,,U. Garuba,HOU,MISS Garuba 3PT Jump Shot,Missed Shot,Jump Shot,-224,31,0,1,3.0,0.0,h
+S2223-G0278,3,03:38,HOU,,ATL,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0278,3,03:27,HOU,,ATL,,U. Garuba,HOU,Garuba REBOUND (Off:5 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0278,3,02:59,HOU,,ATL,,U. Garuba,HOU,Garuba BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0278,3,02:36,HOU,,ATL,,U. Garuba,HOU,Garuba S.FOUL (P4.PN) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2223-G0278,3,01:58,HOU,89.0,ATL,98.0,U. Garuba,HOU,Garuba 4' Cutting Layup Shot (9 PTS) (Porter Jr. 7 AST),Made Shot,Cutting Layup Shot,33,19,4,1,2.0,2.0,h
+S2223-G0278,3,00:31.500000,HOU,,ATL,,U. Garuba,HOU,Garuba P.FOUL (P5.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2223-G0556,1,00:45.700000,HOU,,DAL,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0556,2,11:17,HOU,,DAL,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0556,2,09:42,HOU,,DAL,,U. Garuba,HOU,Garuba L.B.FOUL (P1.T2) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0556,2,09:12,HOU,,DAL,,U. Garuba,HOU,SUB: Fernando FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0556,3,06:42,HOU,74.0,DAL,61.0,U. Garuba,HOU,Garuba 2' Reverse Layup (2 PTS) (Porter Jr. 4 AST),Made Shot,Reverse Layup Shot,23,-7,2,1,2.0,2.0,h
+S2223-G0556,3,01:32,HOU,,DAL,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0556,3,01:32,HOU,85.0,DAL,76.0,U. Garuba,HOU,Garuba Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0556,3,01:14,HOU,,DAL,,U. Garuba,HOU,Garuba P.FOUL (P2.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2223-G0556,3,01:06,HOU,86.0,DAL,78.0,U. Garuba,HOU,Garuba Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0556,3,01:06,HOU,87.0,DAL,78.0,U. Garuba,HOU,Garuba Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0556,3,00:08.800000,HOU,,DAL,,U. Garuba,HOU,Garuba S.FOUL (P3.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G1202,1,01:30,CHA,,HOU,,U. Garuba,HOU,Garuba L.B.FOUL (P1.T3) (S.Wright),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1202,1,00:45.900000,CHA,,HOU,,U. Garuba,HOU,MISS Garuba 25' 3PT Jump Shot,Missed Shot,Jump Shot,-61,240,25,1,3.0,0.0,v
+S2223-G1202,2,11:51,CHA,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P2.T1) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2223-G1202,2,11:02,CHA,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1202,2,11:02,CHA,29.0,HOU,27.0,U. Garuba,HOU,Garuba Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1202,2,09:51,CHA,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P3.T3) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2223-G1202,2,09:51,CHA,,HOU,,U. Garuba,HOU,SUB: Marjanovic FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G1202,3,00:40.700000,CHA,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1202,4,10:40,CHA,,HOU,,U. Garuba,HOU,MISS Garuba 3PT Jump Shot,Missed Shot,Jump Shot,228,17,0,1,3.0,0.0,v
+S2223-G1202,4,09:05,CHA,,HOU,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1202,4,08:57,CHA,,HOU,,U. Garuba,HOU,SUB: Porter Jr. FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0901,1,02:46,GSW,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0901,1,02:29,GSW,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0901,1,01:19,GSW,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.T2) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0901,1,01:04,GSW,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P2.PN) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2223-G0901,1,00:42.800000,GSW,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0901,1,00:42.800000,GSW,,HOU,,U. Garuba,HOU,MISS Garuba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0901,1,00:27.400000,GSW,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P3.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0901,1,00:27.400000,GSW,,HOU,,U. Garuba,HOU,SUB: Kaminsky FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0901,3,02:32,GSW,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P4.T3) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2223-G0901,3,02:13,GSW,,HOU,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0901,4,08:38,GSW,,HOU,,U. Garuba,HOU,SUB: Tate FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0901,4,01:20,GSW,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0901,4,01:14,GSW,116.0,HOU,101.0,U. Garuba,HOU,Garuba 5' Driving Layup (2 PTS) (Washington Jr. 4 AST),Made Shot,Driving Layup Shot,34,31,5,1,2.0,2.0,v
+S2223-G0487,2,01:07,HOU,,DAL,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0487,2,01:05,HOU,,DAL,,U. Garuba,HOU,Garuba Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0487,2,00:30.800000,HOU,,DAL,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0487,3,03:45,HOU,,DAL,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0487,3,02:28,HOU,,DAL,,U. Garuba,HOU,Garuba S.FOUL (P1.T4) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0487,3,01:58,HOU,,DAL,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0487,3,01:50,HOU,,DAL,,U. Garuba,HOU,MISS Garuba 5' Layup,Missed Shot,Layup Shot,34,43,5,1,2.0,0.0,h
+S2223-G0487,3,00:29.300000,HOU,,DAL,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0487,3,00:22.400000,HOU,,DAL,,U. Garuba,HOU,Garuba REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0487,3,00:22.400000,HOU,,DAL,,U. Garuba,HOU,MISS Garuba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0487,3,00:22.400000,HOU,,DAL,,U. Garuba,HOU,Garuba REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0487,3,00:22.400000,HOU,84.0,DAL,81.0,U. Garuba,HOU,Garuba 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,16,11,2,1,2.0,2.0,h
+S2223-G0487,4,11:12,HOU,,DAL,,U. Garuba,HOU,Garuba REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0487,4,11:00,HOU,,DAL,,U. Garuba,HOU,Garuba REBOUND (Off:6 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0487,4,09:44,HOU,,DAL,,U. Garuba,HOU,SUB: Fernando FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0487,4,03:31,HOU,,DAL,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0487,4,00:30.500000,HOU,,DAL,,U. Garuba,HOU,Garuba L.B.FOUL (P2.T2) (N.Green),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0487,4,00:18.600000,HOU,,DAL,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0080,1,00:00,POR,32.0,HOU,23.0,U. Garuba,HOU,Garuba 2' Layup (2 PTS) (Gordon 2 AST),Made Shot,Layup Shot,15,4,2,1,2.0,2.0,v
+S2223-G0080,2,07:51,POR,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0203,2,10:32,HOU,,LAC,,U. Garuba,HOU,MISS Garuba 6' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,-62,14,6,1,2.0,0.0,h
+S2223-G0203,2,07:53,HOU,,LAC,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0203,2,07:53,HOU,30.0,LAC,40.0,U. Garuba,HOU,Garuba 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,10,-1,1,1,2.0,2.0,h
+S2223-G0203,2,07:34,HOU,,LAC,,U. Garuba,HOU,SUB: Green FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0203,2,00:01,HOU,,LAC,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0203,3,02:15,HOU,,LAC,,U. Garuba,HOU,Garuba S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0203,3,01:20,HOU,,LAC,,U. Garuba,HOU,Garuba T.FOUL (P1.T3) (R.Mott),Foul,Technical,0,0,0,0,,,h
+S2223-G0203,4,11:14,HOU,,LAC,,U. Garuba,HOU,Garuba P.FOUL (P2.T1) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2223-G0203,4,11:02,HOU,,LAC,,U. Garuba,HOU,Garuba BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0203,4,10:59,HOU,,LAC,,U. Garuba,HOU, ,Jump Ball,,0,0,0,0,,,h
+S2223-G0203,4,10:59,HOU,,LAC,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0203,4,10:42,HOU,,LAC,,U. Garuba,HOU,Garuba S.FOUL (P3.T3) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0203,4,09:37,HOU,,LAC,,U. Garuba,HOU,MISS Garuba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0203,4,09:37,HOU,86.0,LAC,97.0,U. Garuba,HOU,Garuba Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0203,4,08:39,HOU,,LAC,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0203,4,04:04,HOU,,LAC,,U. Garuba,HOU,Garuba BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0203,4,03:13,HOU,,LAC,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0203,4,03:07,HOU,,LAC,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0203,4,02:16,HOU,99.0,LAC,118.0,U. Garuba,HOU,Garuba 4' Floating Jump Shot (5 PTS) (Christopher 2 AST),Made Shot,Floating Jump shot,-39,16,4,1,2.0,2.0,h
+S2223-G0203,4,01:58,HOU,,LAC,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0203,4,01:10,HOU,,LAC,,U. Garuba,HOU,SUB: Eason FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0812,4,01:04,HOU,,SAC,,U. Garuba,HOU,MISS Garuba 27' 3PT Jump Shot,Missed Shot,Jump Shot,136,234,27,1,3.0,0.0,h
+S2223-G0812,4,00:29.300000,HOU,120.0,SAC,137.0,U. Garuba,HOU,Garuba 24' 3PT Jump Shot (3 PTS) (Days 1 AST),Made Shot,Jump Shot,234,41,24,1,3.0,3.0,h
+S2223-G0541,1,03:20,HOU,,NYK,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0541,1,02:18,HOU,,NYK,,U. Garuba,HOU,Jump Ball Garuba vs. Randle: Tip to Rose,Jump Ball,,0,0,0,0,,,h
+S2223-G0541,1,01:44,HOU,,NYK,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0541,1,00:00.700000,HOU,35.0,NYK,27.0,U. Garuba,HOU,Garuba 2' Cutting Dunk Shot (2 PTS) (Porter Jr. 6 AST),Made Shot,Cutting Dunk Shot,-1,16,2,1,2.0,2.0,h
+S2223-G0541,2,11:18,HOU,,NYK,,U. Garuba,HOU,Garuba Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0541,2,10:55,HOU,,NYK,,U. Garuba,HOU,MISS Garuba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0541,2,10:55,HOU,36.0,NYK,29.0,U. Garuba,HOU,Garuba Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0541,2,09:26,HOU,,NYK,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0541,2,08:51,HOU,,NYK,,U. Garuba,HOU,SUB: Marjanovic FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0541,2,00:53,HOU,,NYK,,U. Garuba,HOU,MISS Garuba 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,50,24,1,3.0,0.0,h
+S2223-G0541,2,00:36.200000,HOU,,NYK,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0541,2,00:25.900000,HOU,,NYK,,U. Garuba,HOU,MISS Garuba 26' 3PT Jump Shot,Missed Shot,Jump Shot,134,218,26,1,3.0,0.0,h
+S2223-G0541,3,04:55,HOU,,NYK,,U. Garuba,HOU,Garuba S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0541,3,03:53,HOU,,NYK,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0541,3,01:34,HOU,,NYK,,U. Garuba,HOU,Garuba S.FOUL (P2.T4) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0541,3,01:34,HOU,,NYK,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0541,4,10:40,HOU,,NYK,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0541,4,10:09,HOU,,NYK,,U. Garuba,HOU,Garuba BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0541,4,10:05,HOU,,NYK,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0541,4,09:50,HOU,,NYK,,U. Garuba,HOU,MISS Garuba 26' 3PT Jump Shot,Missed Shot,Jump Shot,-15,262,26,1,3.0,0.0,h
+S2223-G0541,4,09:44,HOU,,NYK,,U. Garuba,HOU,SUB: Marjanovic FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0541,4,01:21,HOU,,NYK,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0541,4,01:09,HOU,86.0,NYK,104.0,U. Garuba,HOU,Garuba 1' Layup (5 PTS) (Nix 1 AST),Made Shot,Layup Shot,11,-4,1,1,2.0,2.0,h
+S2223-G1038,1,01:06,HOU,,LAL,,U. Garuba,HOU,MISS Garuba 3PT Jump Shot,Missed Shot,Jump Shot,233,-10,0,1,3.0,0.0,h
+S2223-G1038,1,00:02.600000,HOU,,LAL,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1038,2,09:34,HOU,,LAL,,U. Garuba,HOU,MISS Garuba 3PT Jump Shot,Missed Shot,Jump Shot,-234,20,0,1,3.0,0.0,h
+S2223-G1038,2,09:16,HOU,,LAL,,U. Garuba,HOU,MISS Garuba 3PT Jump Shot,Missed Shot,Jump Shot,229,33,0,1,3.0,0.0,h
+S2223-G1038,2,09:07,HOU,,LAL,,U. Garuba,HOU,Garuba S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G1038,2,08:55,HOU,40.0,LAL,26.0,U. Garuba,HOU,Garuba 3' Dunk (2 PTS) (Tate 2 AST),Made Shot,Dunk Shot,18,26,3,1,2.0,2.0,h
+S2223-G1038,2,07:30,HOU,,LAL,,U. Garuba,HOU,SUB: Porter Jr. FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G1038,4,10:45,HOU,,LAL,,U. Garuba,HOU,SUB: Smith Jr. FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0424,1,04:18,HOU,,MIA,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0424,1,02:28,HOU,,MIA,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0424,1,02:06,HOU,,MIA,,U. Garuba,HOU,Garuba S.FOUL (P1.T3) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0424,1,00:27.500000,HOU,,MIA,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0424,2,11:34,HOU,,MIA,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0424,2,11:15,HOU,,MIA,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0424,3,01:38,HOU,,MIA,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0424,4,10:51,HOU,,MIA,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,h
+S2223-G0424,4,03:38,HOU,,MIA,,U. Garuba,HOU,Garuba REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0424,4,03:15,HOU,,MIA,,U. Garuba,HOU,Garuba REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0424,4,01:16,HOU,,MIA,,U. Garuba,HOU,Garuba REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0424,4,01:15,HOU,,MIA,,U. Garuba,HOU,MISS Garuba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0424,4,01:15,HOU,,MIA,,U. Garuba,HOU,MISS Garuba Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0424,4,00:47.600000,HOU,,MIA,,U. Garuba,HOU,Garuba REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0424,4,00:41.200000,HOU,108.0,MIA,111.0,U. Garuba,HOU,Garuba 1' Layup (2 PTS) (Gordon 3 AST),Made Shot,Layup Shot,11,9,1,1,2.0,2.0,h
+S2223-G0218,1,03:47,DAL,,HOU,,U. Garuba,HOU,Garuba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0218,1,03:45,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0218,1,00:27.300000,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0218,2,11:45,DAL,28.0,HOU,33.0,U. Garuba,HOU,Garuba 1' Cutting Layup Shot (2 PTS) (Porter Jr. 2 AST),Made Shot,Cutting Layup Shot,9,4,1,1,2.0,2.0,v
+S2223-G0218,2,10:47,DAL,,HOU,,U. Garuba,HOU,Garuba BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0218,2,10:46,DAL,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0218,2,03:17,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0218,2,02:50,DAL,51.0,HOU,47.0,U. Garuba,HOU,Garuba 25' 3PT Jump Shot (5 PTS) (Porter Jr. 4 AST),Made Shot,Jump Shot,-159,192,25,1,3.0,3.0,v
+S2223-G0218,2,01:54,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0218,2,01:53,DAL,51.0,HOU,49.0,U. Garuba,HOU,Garuba 2' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,17,9,2,1,2.0,2.0,v
+S2223-G0218,2,01:20,DAL,51.0,HOU,52.0,U. Garuba,HOU,Garuba 25' 3PT Jump Shot (10 PTS) (Porter Jr. 5 AST),Made Shot,Jump Shot,-89,230,25,1,3.0,3.0,v
+S2223-G0218,3,04:33,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0218,3,04:04,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0218,3,03:28,DAL,,HOU,,U. Garuba,HOU,Garuba L.B.FOUL (P1.T3) (Z.Zarba),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0218,3,01:48,DAL,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P2.T4) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0218,3,00:26.100000,DAL,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P3.PN) (D.Mosher),Foul,Personal,0,0,0,0,,,v
+S2223-G0218,4,10:20,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0218,4,08:48,DAL,,HOU,,U. Garuba,HOU,Garuba BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0218,4,08:02,DAL,83.0,HOU,83.0,U. Garuba,HOU,Garuba 1' Layup (12 PTS) (Porter Jr. 8 AST),Made Shot,Layup Shot,-4,12,1,1,2.0,2.0,v
+S2223-G0218,4,07:47,DAL,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0218,4,01:15,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0218,4,00:11.200000,DAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0799,3,06:56,OKC,,HOU,,U. Garuba,HOU,Garuba P.FOUL (P1.T2) (R.Hussey),Foul,Personal,0,0,0,0,,,v
+S2223-G0799,3,06:12,OKC,,HOU,,U. Garuba,HOU,Garuba Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0799,3,05:48,OKC,98.0,HOU,67.0,U. Garuba,HOU,Garuba 2' Cutting Layup Shot (2 PTS) (Green 3 AST),Made Shot,Cutting Layup Shot,17,9,2,1,2.0,2.0,v
+S2223-G0799,3,05:11,OKC,101.0,HOU,69.0,U. Garuba,HOU,Garuba 2' Layup (4 PTS) (Green 4 AST),Made Shot,Layup Shot,-4,20,2,1,2.0,2.0,v
+S2223-G0799,3,02:45,OKC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0799,3,01:41,OKC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0799,3,01:38,OKC,,HOU,,U. Garuba,HOU,MISS Garuba 1' Putback Layup,Missed Shot,Putback Layup Shot,-11,3,1,1,2.0,0.0,v
+S2223-G0799,3,01:22,OKC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0799,3,00:52.100000,OKC,,HOU,,U. Garuba,HOU,MISS Garuba 26' 3PT Jump Shot,Missed Shot,Jump Shot,27,260,26,1,3.0,0.0,v
+S2223-G0799,3,00:36.600000,OKC,,HOU,,U. Garuba,HOU,SUB: Fernando FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0799,4,07:19,OKC,137.0,HOU,99.0,U. Garuba,HOU,Garuba 3PT Jump Shot (7 PTS) (Christopher 5 AST),Made Shot,Jump Shot,233,22,0,1,3.0,3.0,v
+S2223-G0799,4,04:22,OKC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0799,4,04:00,OKC,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0799,4,02:03,OKC,148.0,HOU,115.0,U. Garuba,HOU,Garuba 27' 3PT Jump Shot (10 PTS) (Hudgins 2 AST),Made Shot,Jump Shot,-151,220,27,1,3.0,3.0,v
+S2223-G0799,4,00:36.600000,OKC,,HOU,,U. Garuba,HOU,MISS Garuba 3PT Jump Shot,Missed Shot,Jump Shot,-229,31,0,1,3.0,0.0,v
+S2223-G0664,1,03:03,LAL,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.T4) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2223-G0664,1,01:28,LAL,34.0,HOU,30.0,U. Garuba,HOU,Garuba 1' Cutting Layup Shot (2 PTS) (Gordon 2 AST),Made Shot,Cutting Layup Shot,-12,8,1,1,2.0,2.0,v
+S2223-G0664,2,11:33,LAL,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0664,3,00:40.900000,LAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0664,4,10:44,LAL,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0664,4,10:44,LAL,,HOU,,U. Garuba,HOU,MISS Garuba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0664,4,09:34,LAL,113.0,HOU,102.0,U. Garuba,HOU,Garuba 2' Cutting Layup Shot (4 PTS) (Tate 3 AST),Made Shot,Cutting Layup Shot,10,15,2,1,2.0,2.0,v
+S2223-G0664,4,07:40,LAL,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0625,2,11:53,SAC,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0625,2,09:41,SAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0625,2,09:26,SAC,,HOU,,U. Garuba,HOU,Garuba S.FOUL (P3.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0625,2,08:54,SAC,,HOU,,U. Garuba,HOU,Garuba STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0625,2,08:22,SAC,,HOU,,U. Garuba,HOU,MISS Garuba 26' 3PT Jump Shot,Missed Shot,Jump Shot,-141,216,26,1,3.0,0.0,v
+S2223-G0625,2,08:02,SAC,,HOU,,U. Garuba,HOU,SUB: Tate FOR Garuba,Substitution,,0,0,0,0,,,v
+S2223-G0625,4,11:17,SAC,,HOU,,U. Garuba,HOU,Garuba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0625,4,09:53,SAC,,HOU,,U. Garuba,HOU,SUB: Sengun FOR Garuba,Substitution,,0,0,0,0,,,v

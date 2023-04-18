@@ -1,0 +1,708 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0470,1,04:51,BKN,,GSW,,E. Sumner,BKN,MISS Sumner 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-12,199,20,1,2.0,0.0,h
+S2223-G0470,1,02:52,BKN,39.0,GSW,12.0,E. Sumner,BKN,Sumner 25' 3PT Jump Shot (3 PTS) (Curry 1 AST),Made Shot,Jump Shot,-172,185,25,1,3.0,3.0,h
+S2223-G0470,1,01:56,BKN,41.0,GSW,14.0,E. Sumner,BKN,Sumner 6' Driving Floating Bank Jump Shot (5 PTS) (Durant 4 AST),Made Shot,Driving Floating Bank Jump Shot,-44,41,6,1,2.0,2.0,h
+S2223-G0470,1,01:56,BKN,42.0,GSW,14.0,E. Sumner,BKN,Sumner Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0470,1,01:28,BKN,,GSW,,E. Sumner,BKN,MISS Sumner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-168,191,25,1,3.0,0.0,h
+S2223-G0470,1,01:09,BKN,44.0,GSW,17.0,E. Sumner,BKN,Sumner 2' Driving Reverse Layup (8 PTS) (Warren 1 AST),Made Shot,Driving Reverse Layup Shot,18,1,2,1,2.0,2.0,h
+S2223-G0470,1,00:37.400000,BKN,,GSW,,E. Sumner,BKN,Sumner P.FOUL (P1.T4) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0470,2,03:00,BKN,,GSW,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0470,2,01:24,BKN,,GSW,,E. Sumner,BKN,Sumner P.FOUL (P2.PN) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G0470,3,09:14,BKN,,GSW,,E. Sumner,BKN,Sumner Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0470,3,07:37,BKN,96.0,GSW,59.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0470,3,07:37,BKN,97.0,GSW,59.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0470,3,02:27,BKN,,GSW,,E. Sumner,BKN,Sumner Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0470,3,01:15,BKN,,GSW,,E. Sumner,BKN,MISS Sumner 26' 3PT Jump Shot,Missed Shot,Jump Shot,45,251,26,1,3.0,0.0,h
+S2223-G0470,3,00:52.800000,BKN,,GSW,,E. Sumner,BKN,SUB: Mills FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0470,4,03:59,BKN,139.0,GSW,101.0,E. Sumner,BKN,Sumner Cutting Dunk Shot (12 PTS) (Thomas 1 AST),Made Shot,Cutting Dunk Shot,4,1,0,1,2.0,2.0,h
+S2223-G0470,4,03:39,BKN,140.0,GSW,101.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0470,4,03:39,BKN,141.0,GSW,101.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0470,4,03:11,BKN,143.0,GSW,101.0,E. Sumner,BKN,Sumner 21' Pullup Jump Shot (16 PTS) (Thomas 2 AST),Made Shot,Pullup Jump shot,-67,198,21,1,2.0,2.0,h
+S2223-G0098,1,03:33,BKN,21.0,IND,14.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0098,1,03:33,BKN,22.0,IND,14.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0098,1,02:41,BKN,,IND,,E. Sumner,BKN,MISS Sumner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-13,263,26,1,3.0,0.0,h
+S2223-G0098,1,02:05,BKN,23.0,IND,16.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0098,1,02:05,BKN,24.0,IND,16.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0098,2,01:32,BKN,61.0,IND,46.0,E. Sumner,BKN,Sumner 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,17,11,2,1,2.0,2.0,h
+S2223-G0098,2,01:02,BKN,,IND,,E. Sumner,BKN,MISS Sumner 2' Running Layup,Missed Shot,Running Layup Shot,-18,10,2,1,2.0,0.0,h
+S2223-G0098,2,00:29.700000,BKN,,IND,,E. Sumner,BKN,SUB: O'Neale FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0098,3,04:38,BKN,,IND,,E. Sumner,BKN,MISS Sumner 4' Driving Layup,Missed Shot,Driving Layup Shot,38,11,4,1,2.0,0.0,h
+S2223-G0098,3,02:54,BKN,,IND,,E. Sumner,BKN,SUB: Irving FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0098,4,05:34,BKN,,IND,,E. Sumner,BKN,SUB: O'Neale FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0221,1,07:46,POR,,BKN,,E. Sumner,BKN,SUB: Curry FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0221,3,10:41,POR,,BKN,,E. Sumner,BKN,Sumner Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0221,3,10:17,POR,,BKN,,E. Sumner,BKN,SUB: Simmons FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0364,1,03:33,BKN,22.0,CHA,19.0,E. Sumner,BKN,Sumner 13' Driving Floating Jump Shot (2 PTS) (Durant 2 AST),Made Shot,Driving Floating Jump Shot,-31,131,13,1,2.0,2.0,h
+S2223-G0364,1,01:02,BKN,,CHA,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0364,2,11:14,BKN,41.0,CHA,28.0,E. Sumner,BKN,Sumner 3PT Jump Shot (5 PTS) (Irving 3 AST),Made Shot,Jump Shot,-225,11,0,1,3.0,3.0,h
+S2223-G0364,2,10:40,BKN,42.0,CHA,30.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0364,2,10:40,BKN,43.0,CHA,30.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0364,2,10:01,BKN,47.0,CHA,30.0,E. Sumner,BKN,Sumner 2' Running Layup (9 PTS) (Irving 5 AST),Made Shot,Running Layup Shot,15,13,2,1,2.0,2.0,h
+S2223-G0364,2,09:04,BKN,,CHA,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0364,2,06:45,BKN,,CHA,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0364,2,05:25,BKN,,CHA,,E. Sumner,BKN,SUB: O'Neale FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0364,3,01:20,BKN,,CHA,,E. Sumner,BKN,Sumner P.FOUL (P1.PN) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2223-G0364,3,01:05,BKN,,CHA,,E. Sumner,BKN,Sumner Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0651,1,11:20,,,OKC,,E. Sumner,BKN,Sumner BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0651,1,08:53,,,OKC,,E. Sumner,BKN,MISS Sumner 6' Driving Layup,Missed Shot,Driving Layup Shot,51,25,6,1,2.0,0.0,h
+S2223-G0651,1,08:15,,,OKC,,E. Sumner,BKN,MISS Sumner 3' Running Layup,Missed Shot,Running Layup Shot,-29,0,3,1,2.0,0.0,h
+S2223-G0651,1,05:52,,,OKC,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0651,1,05:42,,,OKC,,E. Sumner,BKN,SUB: Curry FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0651,1,03:14,,17.0,OKC,21.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0651,1,03:14,,18.0,OKC,21.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0651,1,02:54,,,OKC,,E. Sumner,BKN,MISS Sumner 6' Running Layup,Missed Shot,Running Layup Shot,22,51,6,1,2.0,0.0,h
+S2223-G0651,1,01:56,,,OKC,,E. Sumner,BKN,Sumner P.FOUL (P1.T2) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2223-G0651,1,01:39,,22.0,OKC,23.0,E. Sumner,BKN,Sumner 2' Driving Finger Roll Layup (4 PTS) (Watanabe 1 AST),Made Shot,Driving Finger Roll Layup Shot,17,8,2,1,2.0,2.0,h
+S2223-G0651,1,00:51.800000,,,OKC,,E. Sumner,BKN,Sumner S.FOUL (P2.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G0651,1,00:04.100000,,,OKC,,E. Sumner,BKN,Sumner Offensive Charge Foul (P3) (B.Schwab),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0651,1,00:04.100000,,,OKC,,E. Sumner,BKN,Sumner Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0651,1,00:04.100000,,,OKC,,E. Sumner,BKN,SUB: O'Neale FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0651,3,10:00,,,OKC,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0651,3,09:42,,,OKC,,E. Sumner,BKN,Sumner S.FOUL (P4.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0651,3,09:42,,,OKC,,E. Sumner,BKN,SUB: Watanabe FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0256,4,01:38,PHI,113.0,BKN,101.0,E. Sumner,BKN,Sumner 1' Running Reverse Layup (2 PTS) (Thomas 1 AST),Made Shot,Running Reverse Layup Shot,-7,-1,1,1,2.0,2.0,v
+S2223-G0256,4,01:02,PHI,115.0,BKN,103.0,E. Sumner,BKN,Sumner 4' Cutting Layup Shot (4 PTS) (Duke Jr. 1 AST),Made Shot,Cutting Layup Shot,-1,35,4,1,2.0,2.0,v
+S2223-G0256,4,01:02,PHI,115.0,BKN,104.0,E. Sumner,BKN,Sumner Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0256,4,00:39,PHI,115.0,BKN,106.0,E. Sumner,BKN,Sumner 1' Reverse Layup (7 PTS) (Duke Jr. 2 AST),Made Shot,Reverse Layup Shot,7,13,1,1,2.0,2.0,v
+S2223-G0539,1,01:00,CHA,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0539,1,00:30.900000,CHA,22.0,BKN,32.0,E. Sumner,BKN,Sumner 2' Driving Layup (2 PTS) (Watanabe 1 AST),Made Shot,Driving Layup Shot,-18,10,2,1,2.0,2.0,v
+S2223-G0539,2,05:52,CHA,,BKN,,E. Sumner,BKN,MISS Sumner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-45,242,25,1,3.0,0.0,v
+S2223-G0539,2,05:03,CHA,,BKN,,E. Sumner,BKN,Sumner S.FOUL (P1.PN) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0539,2,05:03,CHA,,BKN,,E. Sumner,BKN,SUB: Irving FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0539,4,09:20,CHA,,BKN,,E. Sumner,BKN,Sumner S.FOUL (P2.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0539,4,08:17,CHA,87.0,BKN,102.0,E. Sumner,BKN,Sumner 2' Driving Layup (4 PTS) (Irving 3 AST),Made Shot,Driving Layup Shot,16,16,2,1,2.0,2.0,v
+S2223-G0539,4,08:02,CHA,87.0,BKN,104.0,E. Sumner,BKN,Sumner 1' Alley Oop Layup (6 PTS) (O'Neale 6 AST),Made Shot,Alley Oop Layup shot,7,6,1,1,2.0,2.0,v
+S2223-G0539,4,06:48,CHA,91.0,BKN,109.0,E. Sumner,BKN,Sumner 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,12,15,2,1,2.0,2.0,v
+S2223-G0539,4,03:09,CHA,,BKN,,E. Sumner,BKN,Sumner Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0329,1,03:47,BKN,,TOR,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0329,1,01:28,BKN,34.0,TOR,17.0,E. Sumner,BKN,Sumner Running Layup (2 PTS),Made Shot,Running Layup Shot,4,1,0,1,2.0,2.0,h
+S2223-G0329,1,01:28,BKN,35.0,TOR,17.0,E. Sumner,BKN,Sumner Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0329,1,00:43.200000,BKN,,TOR,,E. Sumner,BKN,Sumner STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0329,1,00:41.100000,BKN,,TOR,,E. Sumner,BKN,MISS Sumner Free Throw Flagrant 1 of 2,Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0329,1,00:41.100000,BKN,39.0,TOR,17.0,E. Sumner,BKN,Sumner Free Throw Flagrant 2 of 2 (4 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0329,1,00:28.400000,BKN,41.0,TOR,17.0,E. Sumner,BKN,Sumner 3' Driving Hook Shot (6 PTS),Made Shot,Driving Hook Shot,1,32,3,1,2.0,2.0,h
+S2223-G0329,1,00:15.400000,BKN,,TOR,,E. Sumner,BKN,Sumner P.FOUL (P1.T4) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2223-G0329,2,05:35,BKN,,TOR,,E. Sumner,BKN,Sumner STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0329,2,05:21,BKN,,TOR,,E. Sumner,BKN,Sumner P.FOUL (P2.PN) (N.Green),Foul,Personal,0,0,0,0,,,h
+S2223-G0329,2,02:49,BKN,,TOR,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,230,-10,0,1,3.0,0.0,h
+S2223-G0329,2,02:09,BKN,,TOR,,E. Sumner,BKN,MISS Sumner 5' Driving Layup,Missed Shot,Driving Layup Shot,-37,31,5,1,2.0,0.0,h
+S2223-G0329,2,00:56.500000,BKN,,TOR,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,-225,43,0,1,3.0,0.0,h
+S2223-G0329,2,00:47.400000,BKN,,TOR,,E. Sumner,BKN,SUB: Irving FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0329,3,02:32,BKN,,TOR,,E. Sumner,BKN,Sumner Traveling Turnover (P1.T10),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0329,3,00:37,BKN,93.0,TOR,70.0,E. Sumner,BKN,Sumner 3' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,23,10,3,1,2.0,2.0,h
+S2223-G0329,3,00:01.600000,BKN,,TOR,,E. Sumner,BKN,MISS Sumner 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,71,247,26,1,3.0,0.0,h
+S2223-G0447,1,03:58,DET,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0447,1,02:45,DET,,BKN,,E. Sumner,BKN,MISS Sumner 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-67,40,8,1,2.0,0.0,v
+S2223-G0447,1,00:14.600000,DET,,BKN,,E. Sumner,BKN,MISS Sumner 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,2,84,8,1,2.0,0.0,v
+S2223-G0447,2,00:32.300000,DET,,BKN,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0447,3,01:24,DET,89.0,BKN,87.0,E. Sumner,BKN,Sumner 24' 3PT Running Jump Shot (3 PTS) (Watanabe 1 AST),Made Shot,Running Jump Shot,-233,37,24,1,3.0,3.0,v
+S2223-G0447,3,01:19,DET,,BKN,,E. Sumner,BKN,Sumner P.FOUL (P1.PN) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2223-G0447,3,00:08.100000,DET,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0447,4,10:41,DET,,BKN,,E. Sumner,BKN,MISS Sumner 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-55,58,8,1,2.0,0.0,v
+S2223-G0447,4,06:26,DET,106.0,BKN,112.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0447,4,06:26,DET,106.0,BKN,113.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0447,4,06:16,DET,,BKN,,E. Sumner,BKN,SUB: Watanabe FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0555,4,05:57,BKN,,SAS,,E. Sumner,BKN,Sumner S.FOUL (P1.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0555,4,04:48,BKN,125.0,SAS,95.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0555,4,04:48,BKN,126.0,SAS,95.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0555,4,04:29,BKN,,SAS,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0555,4,04:26,BKN,128.0,SAS,95.0,E. Sumner,BKN,Sumner 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,29,-1,3,1,2.0,2.0,h
+S2223-G0555,4,04:11,BKN,,SAS,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0555,4,03:14,BKN,,SAS,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0555,4,03:09,BKN,,SAS,,E. Sumner,BKN,MISS Sumner Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,0,4,0,1,2.0,0.0,h
+S2223-G0810,1,11:00,BKN,,LAC,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0810,1,10:52,BKN,2.0,LAC,0.0,E. Sumner,BKN,Sumner 4' Driving Floating Jump Shot (2 PTS) (Thomas 1 AST),Made Shot,Driving Floating Jump Shot,4,43,4,1,2.0,2.0,h
+S2223-G0810,1,06:05,BKN,,LAC,,E. Sumner,BKN,Sumner S.FOUL (P1.T2) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0810,1,05:12,BKN,,LAC,,E. Sumner,BKN,MISS Sumner 2' Driving Layup,Missed Shot,Driving Layup Shot,23,9,2,1,2.0,0.0,h
+S2223-G0810,1,03:13,BKN,,LAC,,E. Sumner,BKN,MISS Sumner 5' Driving Layup,Missed Shot,Driving Layup Shot,39,25,5,1,2.0,0.0,h
+S2223-G0810,1,03:03,BKN,,LAC,,E. Sumner,BKN,SUB: Sharpe FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0810,2,03:56,BKN,40.0,LAC,46.0,E. Sumner,BKN,Sumner 19' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,127,138,19,1,2.0,2.0,h
+S2223-G0810,2,03:24,BKN,,LAC,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0810,2,03:20,BKN,,LAC,,E. Sumner,BKN,MISS Sumner 3' Running Layup,Missed Shot,Running Layup Shot,-25,15,3,1,2.0,0.0,h
+S2223-G0810,2,02:55,BKN,,LAC,,E. Sumner,BKN,MISS Sumner 2' Driving Layup,Missed Shot,Driving Layup Shot,21,9,2,1,2.0,0.0,h
+S2223-G0810,2,01:45,BKN,,LAC,,E. Sumner,BKN,Sumner BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0810,2,00:02.600000,BKN,53.0,LAC,55.0,E. Sumner,BKN,Sumner 25' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,-125,216,25,1,3.0,3.0,h
+S2223-G0810,3,11:48,BKN,,LAC,,E. Sumner,BKN,Sumner S.FOUL (P2.T1) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0810,3,10:59,BKN,57.0,LAC,59.0,E. Sumner,BKN,Sumner 1' Cutting Dunk Shot (9 PTS) (O'Neale 3 AST),Made Shot,Cutting Dunk Shot,-5,7,1,1,2.0,2.0,h
+S2223-G0810,3,09:10,BKN,,LAC,,E. Sumner,BKN,Sumner S.FOUL (P3.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0810,3,08:25,BKN,,LAC,,E. Sumner,BKN,MISS Sumner 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,18,5,2,1,2.0,0.0,h
+S2223-G0810,3,07:53,BKN,66.0,LAC,72.0,E. Sumner,BKN,Sumner 6' Driving Floating Bank Jump Shot (11 PTS),Made Shot,Driving Floating Bank Jump Shot,-34,44,6,1,2.0,2.0,h
+S2223-G0810,3,07:41,BKN,,LAC,,E. Sumner,BKN,Sumner P.FOUL (P4.T3) (E.Lewis),Foul,Personal,0,0,0,0,,,h
+S2223-G0810,3,06:52,BKN,69.0,LAC,72.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0810,3,06:52,BKN,70.0,LAC,72.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0810,3,05:52,BKN,,LAC,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0810,3,05:46,BKN,73.0,LAC,74.0,E. Sumner,BKN,Sumner 2' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,-13,8,2,1,2.0,2.0,h
+S2223-G0810,3,05:27,BKN,75.0,LAC,74.0,E. Sumner,BKN,Sumner Running Alley Oop Dunk Shot (17 PTS) (Thomas 3 AST),Made Shot,Running Alley Oop Dunk Shot,-2,-1,0,1,2.0,2.0,h
+S2223-G0810,3,03:58,BKN,,LAC,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0810,3,03:57,BKN,,LAC,,E. Sumner,BKN,MISS Sumner 2' Driving Layup,Missed Shot,Driving Layup Shot,-21,-4,2,1,2.0,0.0,h
+S2223-G0810,3,03:27,BKN,,LAC,,E. Sumner,BKN,SUB: Smith FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0810,4,09:11,BKN,,LAC,,E. Sumner,BKN,MISS Sumner 29' 3PT Jump Shot,Missed Shot,Jump Shot,-12,291,29,1,3.0,0.0,h
+S2223-G0810,4,08:33,BKN,,LAC,,E. Sumner,BKN,MISS Sumner 4' Running Layup,Missed Shot,Running Layup Shot,-37,5,4,1,2.0,0.0,h
+S2223-G0810,4,06:54,BKN,,LAC,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0810,4,06:20,BKN,107.0,LAC,99.0,E. Sumner,BKN,Sumner 26' 3PT Jump Shot (20 PTS) (Watanabe 3 AST),Made Shot,Jump Shot,-92,242,26,1,3.0,3.0,h
+S2223-G0810,4,06:03,BKN,,LAC,,E. Sumner,BKN,Sumner P.FOUL (P5.T3) (E.Lewis),Foul,Personal,0,0,0,0,,,h
+S2223-G0810,4,01:12,BKN,115.0,LAC,118.0,E. Sumner,BKN,Sumner 5' Layup (22 PTS),Made Shot,Layup Shot,-50,16,5,1,2.0,2.0,h
+S2223-G0810,4,01:12,BKN,116.0,LAC,118.0,E. Sumner,BKN,Sumner Free Throw 1 of 1 (23 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0742,1,04:39,BKN,,NYK,,E. Sumner,BKN,Sumner P.FOUL (P1.T3) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2223-G0742,1,04:28,BKN,,NYK,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0742,1,04:23,BKN,,NYK,,E. Sumner,BKN,MISS Sumner 2' Running Layup,Missed Shot,Running Layup Shot,-18,4,2,1,2.0,0.0,h
+S2223-G0742,1,02:29,BKN,,NYK,,E. Sumner,BKN,MISS Sumner 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,39,12,4,1,2.0,0.0,h
+S2223-G0742,1,00:32.300000,BKN,28.0,NYK,19.0,E. Sumner,BKN,Sumner 26' 3PT Jump Shot (3 PTS) (Thomas 1 AST),Made Shot,Jump Shot,71,253,26,1,3.0,3.0,h
+S2223-G0742,3,02:54,BKN,88.0,NYK,74.0,E. Sumner,BKN,Sumner 26' 3PT Jump Shot (6 PTS) (Watanabe 1 AST),Made Shot,Jump Shot,132,221,26,1,3.0,3.0,h
+S2223-G0742,3,02:43,BKN,,NYK,,E. Sumner,BKN,Sumner S.FOUL (P2.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G0742,3,02:28,BKN,,NYK,,E. Sumner,BKN,Sumner Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0742,3,01:58,BKN,,NYK,,E. Sumner,BKN,Sumner OFF.Foul (P3) (A.Moyer-Gleich),Foul,Offensive,0,0,0,0,,,h
+S2223-G0742,3,01:58,BKN,,NYK,,E. Sumner,BKN,Sumner Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0742,3,00:34.100000,BKN,,NYK,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1153,4,02:13,BKN,,ATL,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1153,4,01:32,BKN,,ATL,,E. Sumner,BKN,MISS Sumner 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-26,58,6,1,2.0,0.0,h
+S2223-G0627,2,02:15,BKN,,BOS,,E. Sumner,BKN,SUB: Curry FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0666,1,02:19,SAS,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0666,2,10:03,SAS,,BKN,,E. Sumner,BKN,MISS Sumner 11' Floating Jump Shot,Missed Shot,Floating Jump shot,32,101,11,1,2.0,0.0,v
+S2223-G0666,2,09:34,SAS,31.0,BKN,19.0,E. Sumner,BKN,Sumner 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-27,22,3,1,2.0,2.0,v
+S2223-G0666,2,09:13,SAS,31.0,BKN,20.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0666,2,09:13,SAS,31.0,BKN,21.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0666,2,08:20,SAS,31.0,BKN,23.0,E. Sumner,BKN,Sumner 4' Running Finger Roll Layup (6 PTS) (Morris 2 AST),Made Shot,Running Finger Roll Layup Shot,31,21,4,1,2.0,2.0,v
+S2223-G0666,2,07:46,SAS,,BKN,,E. Sumner,BKN,Sumner P.FOUL (P1.T2) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0666,2,07:38,SAS,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0666,2,05:46,SAS,36.0,BKN,34.0,E. Sumner,BKN,Sumner 26' 3PT Jump Shot (9 PTS) (Thomas 1 AST),Made Shot,Jump Shot,-165,205,26,1,3.0,3.0,v
+S2223-G0666,2,04:35,SAS,,BKN,,E. Sumner,BKN,SUB: Curry FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0666,3,07:23,SAS,,BKN,,E. Sumner,BKN,Sumner Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0666,3,05:41,SAS,64.0,BKN,59.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0666,3,05:41,SAS,64.0,BKN,60.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0666,3,03:53,SAS,68.0,BKN,64.0,E. Sumner,BKN,Sumner 17' Pullup Jump Shot (13 PTS) (Claxton 1 AST),Made Shot,Pullup Jump shot,142,100,17,1,2.0,2.0,v
+S2223-G0666,3,03:36,SAS,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0666,3,03:35,SAS,,BKN,,E. Sumner,BKN,MISS Sumner 4' Running Layup,Missed Shot,Running Layup Shot,-13,38,4,1,2.0,0.0,v
+S2223-G0666,3,00:54.700000,SAS,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0689,1,03:07,UTA,,,,E. Sumner,BKN,Sumner S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0689,1,01:23,UTA,,,,E. Sumner,BKN,MISS Sumner 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,51,24,1,3.0,0.0,v
+S2223-G0689,1,01:09,UTA,,,,E. Sumner,BKN,MISS Sumner 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,2,47,5,1,2.0,0.0,v
+S2223-G0689,1,00:40.500000,UTA,,,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0689,1,00:15.900000,UTA,,,,E. Sumner,BKN,Sumner P.FOUL (P2.PN) (L.Holtkamp),Foul,Personal,0,0,0,0,,,v
+S2223-G0689,1,00:15.900000,UTA,,,,E. Sumner,BKN,SUB: Irving FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0689,3,00:29.300000,UTA,81.0,,81.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0689,3,00:29.300000,UTA,,,,E. Sumner,BKN,MISS Sumner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0689,3,00:09.400000,UTA,,,,E. Sumner,BKN,SUB: Harris FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0689,4,04:57,UTA,,,,E. Sumner,BKN,SUB: Irving FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0133,1,10:39,CHA,,BKN,,E. Sumner,BKN,MISS Sumner 3' Running Layup,Missed Shot,Running Layup Shot,23,19,3,1,2.0,0.0,v
+S2223-G0133,1,09:17,CHA,5.0,BKN,7.0,E. Sumner,BKN,Sumner 25' 3PT Jump Shot (3 PTS) (Claxton 2 AST),Made Shot,Jump Shot,-186,172,25,1,3.0,3.0,v
+S2223-G0133,1,08:34,CHA,,BKN,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0133,1,08:32,CHA,,BKN,,E. Sumner,BKN,MISS Sumner 3' Running Layup,Missed Shot,Running Layup Shot,-2,29,3,1,2.0,0.0,v
+S2223-G0133,1,08:10,CHA,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0133,1,07:01,CHA,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0133,1,06:57,CHA,,BKN,,E. Sumner,BKN,Sumner L.B.FOUL (P1.T3) (G.Petraitis),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0133,1,06:01,CHA,,BKN,,E. Sumner,BKN,SUB: Thomas FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0133,2,04:12,CHA,,BKN,,E. Sumner,BKN,MISS Sumner 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,11,24,1,3.0,0.0,v
+S2223-G0133,2,00:31.900000,CHA,44.0,BKN,50.0,E. Sumner,BKN,Sumner 24' 3PT Jump Shot (6 PTS) (O'Neale 2 AST),Made Shot,Jump Shot,235,0,24,1,3.0,3.0,v
+S2223-G0133,3,11:22,CHA,,BKN,,E. Sumner,BKN,Sumner Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0133,3,10:46,CHA,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0133,3,10:13,CHA,,BKN,,E. Sumner,BKN,MISS Sumner 5' Driving Layup,Missed Shot,Driving Layup Shot,44,15,5,1,2.0,0.0,v
+S2223-G0133,3,09:54,CHA,,BKN,,E. Sumner,BKN,Sumner L.B.FOUL (P2.T2) (C.Blair),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0133,3,09:41,CHA,,BKN,,E. Sumner,BKN,Sumner Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0133,3,08:54,CHA,,BKN,,E. Sumner,BKN,Sumner BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0133,3,08:51,CHA,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0133,3,06:59,CHA,,BKN,,E. Sumner,BKN,SUB: Curry FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0164,1,11:23,BKN,,NYK,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0164,1,11:19,BKN,,NYK,,E. Sumner,BKN,MISS Sumner 5' Running Layup,Missed Shot,Running Layup Shot,-51,15,5,1,2.0,0.0,h
+S2223-G0164,1,10:14,BKN,7.0,NYK,2.0,E. Sumner,BKN,Sumner 28' 3PT Jump Shot (3 PTS) (Claxton 1 AST),Made Shot,Jump Shot,-157,231,28,1,3.0,3.0,h
+S2223-G0164,1,10:10,BKN,,NYK,,E. Sumner,BKN,Sumner P.FOUL (P1.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2223-G0164,1,09:21,BKN,10.0,NYK,5.0,E. Sumner,BKN,Sumner 24' 3PT Jump Shot (6 PTS) (Durant 2 AST),Made Shot,Jump Shot,-237,7,24,1,3.0,3.0,h
+S2223-G0164,1,05:35,BKN,24.0,NYK,8.0,E. Sumner,BKN,Sumner 24' 3PT Running Jump Shot (9 PTS) (Durant 5 AST),Made Shot,Running Jump Shot,-237,20,24,1,3.0,3.0,h
+S2223-G0164,1,05:08,BKN,,NYK,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0164,1,04:16,BKN,,NYK,,E. Sumner,BKN,SUB: Thomas FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0164,2,05:52,BKN,54.0,NYK,39.0,E. Sumner,BKN,Sumner 4' Driving Floating Bank Jump Shot (11 PTS),Made Shot,Driving Floating Bank Jump Shot,37,5,4,1,2.0,2.0,h
+S2223-G0164,2,05:35,BKN,,NYK,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0164,2,05:26,BKN,56.0,NYK,39.0,E. Sumner,BKN,Sumner 3' Driving Layup (13 PTS) (Durant 8 AST),Made Shot,Driving Layup Shot,-27,21,3,1,2.0,2.0,h
+S2223-G0164,2,03:58,BKN,,NYK,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0164,2,03:31,BKN,,NYK,,E. Sumner,BKN,MISS Sumner 7' Driving Layup,Missed Shot,Driving Layup Shot,-44,48,7,1,2.0,0.0,h
+S2223-G0164,2,03:30,BKN,,NYK,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0164,2,00:58.700000,BKN,66.0,NYK,44.0,E. Sumner,BKN,Sumner 16' Step Back Jump Shot (15 PTS) (Harris 1 AST),Made Shot,Step Back Jump shot,-131,90,16,1,2.0,2.0,h
+S2223-G0164,3,10:39,BKN,,NYK,,E. Sumner,BKN,Sumner STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0164,3,09:21,BKN,,NYK,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0164,3,09:18,BKN,77.0,NYK,51.0,E. Sumner,BKN,Sumner 3' Running Layup (17 PTS) (O'Neale 5 AST),Made Shot,Running Layup Shot,-21,20,3,1,2.0,2.0,h
+S2223-G0164,3,08:44,BKN,,NYK,,E. Sumner,BKN,MISS Sumner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0164,3,08:44,BKN,78.0,NYK,53.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0164,3,07:46,BKN,,NYK,,E. Sumner,BKN,Sumner P.FOUL (P2.T2) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G0164,3,07:34,BKN,,NYK,,E. Sumner,BKN,MISS Sumner 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-222,23,0,1,3.0,0.0,h
+S2223-G0164,3,07:24,BKN,,NYK,,E. Sumner,BKN,SUB: Thomas FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G1108,1,00:27.800000,MIA,,BKN,,E. Sumner,BKN,MISS Sumner 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,15,37,4,1,2.0,0.0,v
+S2223-G1108,2,11:02,MIA,40.0,BKN,31.0,E. Sumner,BKN,Sumner 24' 3PT Jump Shot (3 PTS) (Dinwiddie 2 AST),Made Shot,Jump Shot,-233,42,24,1,3.0,3.0,v
+S2223-G1108,2,10:00,MIA,,BKN,,E. Sumner,BKN,Sumner S.FOUL (P1.T1) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G1108,2,09:33,MIA,44.0,BKN,37.0,E. Sumner,BKN,Sumner 2' Reverse Layup (5 PTS) (Harris 1 AST),Made Shot,Reverse Layup Shot,-12,18,2,1,2.0,2.0,v
+S2223-G1108,2,08:51,MIA,,BKN,,E. Sumner,BKN,Sumner Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1108,2,08:38,MIA,,BKN,,E. Sumner,BKN,MISS Sumner 28' 3PT Jump Shot,Missed Shot,Jump Shot,124,248,28,1,3.0,0.0,v
+S2223-G1108,2,07:40,MIA,51.0,BKN,39.0,E. Sumner,BKN,Sumner 6' Driving Layup (7 PTS) (Dinwiddie 3 AST),Made Shot,Driving Layup Shot,-63,12,6,1,2.0,2.0,v
+S2223-G1108,2,07:40,MIA,51.0,BKN,40.0,E. Sumner,BKN,Sumner Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1108,2,06:11,MIA,,BKN,,E. Sumner,BKN,SUB: Johnson FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G1108,3,00:25.900000,MIA,,BKN,,E. Sumner,BKN,MISS Sumner 6' Driving Layup,Missed Shot,Driving Layup Shot,-54,15,6,1,2.0,0.0,v
+S2223-G1108,3,00:00,MIA,87.0,BKN,104.0,E. Sumner,BKN,Sumner 10' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,85,59,10,1,2.0,2.0,v
+S2223-G1108,4,09:59,MIA,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1108,4,09:59,MIA,90.0,BKN,108.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1108,4,09:59,MIA,90.0,BKN,109.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1108,4,09:47,MIA,,BKN,,E. Sumner,BKN,Sumner P.FOUL (P2.T1) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2223-G1108,4,08:13,MIA,,BKN,,E. Sumner,BKN,SUB: Dinwiddie FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0060,1,03:21,MIL,,BKN,,E. Sumner,BKN,MISS Sumner 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,143,117,18,1,2.0,0.0,v
+S2223-G0060,1,02:30,MIL,18.0,BKN,13.0,E. Sumner,BKN,Sumner 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,10,15,2,1,2.0,2.0,v
+S2223-G0060,1,02:01,MIL,,BKN,,E. Sumner,BKN,MISS Sumner 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,100,241,26,1,3.0,0.0,v
+S2223-G0060,1,01:33,MIL,,BKN,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0060,1,01:07,MIL,23.0,BKN,17.0,E. Sumner,BKN,Sumner 3' Running Layup (4 PTS) (Mills 1 AST),Made Shot,Running Layup Shot,21,25,3,1,2.0,2.0,v
+S2223-G0060,1,00:37.100000,MIL,23.0,BKN,19.0,E. Sumner,BKN,Sumner 2' Running Layup (6 PTS) (Sharpe 1 AST),Made Shot,Running Layup Shot,10,13,2,1,2.0,2.0,v
+S2223-G0060,1,00:37.100000,MIL,23.0,BKN,20.0,E. Sumner,BKN,Sumner Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0060,2,10:54,MIL,,BKN,,E. Sumner,BKN,SUB: O'Neale FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0060,4,00:13.500000,MIL,110.0,BKN,99.0,E. Sumner,BKN,Sumner 19' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,9,189,19,1,2.0,2.0,v
+S2223-G0315,1,05:17,BKN,16.0,WAS,14.0,E. Sumner,BKN,Sumner 24' 3PT Jump Shot (3 PTS) (O'Neale 1 AST),Made Shot,Jump Shot,-235,-20,24,1,3.0,3.0,h
+S2223-G0315,1,03:59,BKN,,WAS,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0315,1,00:59.700000,BKN,27.0,WAS,25.0,E. Sumner,BKN,Sumner 18' Turnaround Jump Shot (5 PTS) (Durant 2 AST),Made Shot,Turnaround Jump Shot,-51,168,18,1,2.0,2.0,h
+S2223-G0315,1,00:24,BKN,,WAS,,E. Sumner,BKN,MISS Sumner 4' Driving Layup,Missed Shot,Driving Layup Shot,-31,25,4,1,2.0,0.0,h
+S2223-G0315,1,00:20.900000,BKN,,WAS,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0315,2,03:19,BKN,,WAS,,E. Sumner,BKN,SUB: Curry FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0315,2,02:41,BKN,,WAS,,E. Sumner,BKN,Sumner S.FOUL (P1.T3) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0315,2,01:55,BKN,,WAS,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,-230,-17,0,1,3.0,0.0,h
+S2223-G0315,2,00:33.600000,BKN,57.0,WAS,51.0,E. Sumner,BKN,Sumner 24' 3PT Jump Shot (8 PTS) (Irving 4 AST),Made Shot,Jump Shot,232,63,24,1,3.0,3.0,h
+S2223-G0315,3,02:30,BKN,,WAS,,E. Sumner,BKN,Sumner STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0315,3,00:17.800000,BKN,,WAS,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,-227,12,0,1,3.0,0.0,h
+S2223-G0483,1,03:43,BKN,,MIL,,E. Sumner,BKN,Sumner BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0483,1,03:43,BKN,,MIL,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0483,1,03:39,BKN,,MIL,,E. Sumner,BKN,MISS Sumner 2' Running Layup,Missed Shot,Running Layup Shot,17,4,2,1,2.0,0.0,h
+S2223-G0483,1,02:36,BKN,26.0,MIL,17.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0483,1,02:36,BKN,27.0,MIL,17.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0483,1,01:42,BKN,31.0,MIL,21.0,E. Sumner,BKN,Sumner 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-40,19,4,1,2.0,2.0,h
+S2223-G0483,1,00:47.900000,BKN,,MIL,,E. Sumner,BKN,Sumner P.FOUL (P1.PN) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2223-G0483,1,00:00,BKN,,MIL,,E. Sumner,BKN,MISS Sumner 41' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,158,383,41,1,3.0,0.0,h
+S2223-G0483,2,02:15,BKN,,MIL,,E. Sumner,BKN,MISS Sumner 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-58,192,20,1,2.0,0.0,h
+S2223-G0483,2,01:03,BKN,,MIL,,E. Sumner,BKN,MISS Sumner 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-5,6,1,1,2.0,0.0,h
+S2223-G0483,2,00:31.600000,BKN,,MIL,,E. Sumner,BKN,SUB: Irving FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0483,4,01:47,BKN,,MIL,,E. Sumner,BKN,Sumner S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G0483,4,01:28,BKN,,MIL,,E. Sumner,BKN,MISS Sumner 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,51,32,6,1,2.0,0.0,h
+S2223-G0704,1,00:28.700000,GSW,33.0,BKN,27.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0704,1,00:28.700000,GSW,33.0,BKN,28.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0704,1,00:01.200000,GSW,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0704,2,09:44,GSW,40.0,BKN,36.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0704,2,09:44,GSW,,BKN,,E. Sumner,BKN,MISS Sumner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0704,2,08:13,GSW,,BKN,,E. Sumner,BKN,Sumner Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0704,2,08:09,GSW,,BKN,,E. Sumner,BKN,SUB: Simmons FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0704,3,02:17,GSW,,BKN,,E. Sumner,BKN,MISS Sumner 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-27,33,4,1,2.0,0.0,v
+S2223-G0704,3,00:58,GSW,,BKN,,E. Sumner,BKN,SUB: Irving FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0006,1,04:29,BKN,,NOP,,E. Sumner,BKN,Sumner Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0006,1,04:22,BKN,,NOP,,E. Sumner,BKN,MISS Sumner 26' 3PT Jump Shot,Missed Shot,Jump Shot,173,190,26,1,3.0,0.0,h
+S2223-G0006,2,00:06.700000,BKN,,NOP,,E. Sumner,BKN,SUB: Thomas FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0006,3,01:21,BKN,,NOP,,E. Sumner,BKN,Sumner P.FOUL (P1.PN) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G0006,3,00:00.200000,BKN,,NOP,,E. Sumner,BKN,Sumner Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0006,4,06:00,BKN,,NOP,,E. Sumner,BKN,MISS Sumner 25' 3PT Jump Shot,Missed Shot,Jump Shot,158,200,25,1,3.0,0.0,h
+S2223-G0006,4,04:17,BKN,,NOP,,E. Sumner,BKN,Sumner Out of Bounds - Bad Pass Turnover Turnover (P3.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0006,4,02:25,BKN,99.0,NOP,123.0,E. Sumner,BKN,Sumner 5' Running Layup (2 PTS) (Edwards 1 AST),Made Shot,Running Layup Shot,-48,20,5,1,2.0,2.0,h
+S2223-G0006,4,02:25,BKN,100.0,NOP,123.0,E. Sumner,BKN,Sumner Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0006,4,02:05,BKN,102.0,NOP,123.0,E. Sumner,BKN,Sumner 4' Driving Floating Bank Jump Shot (5 PTS) (Edwards 2 AST),Made Shot,Driving Floating Bank Jump Shot,-28,28,4,1,2.0,2.0,h
+S2223-G0006,4,02:05,BKN,103.0,NOP,123.0,E. Sumner,BKN,Sumner Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0006,4,01:25,BKN,,NOP,,E. Sumner,BKN,MISS Sumner 25' 3PT Jump Shot,Missed Shot,Jump Shot,-179,180,25,1,3.0,0.0,h
+S2223-G0006,4,01:07,BKN,,NOP,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0817,1,04:54,BKN,14.0,PHX,17.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,1,04:54,BKN,15.0,PHX,17.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,1,03:07,BKN,,PHX,,E. Sumner,BKN,MISS Sumner 4' Driving Layup,Missed Shot,Driving Layup Shot,-39,19,4,1,2.0,0.0,h
+S2223-G0817,1,02:31,BKN,19.0,PHX,23.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,1,02:31,BKN,20.0,PHX,23.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,1,00:59.900000,BKN,25.0,PHX,24.0,E. Sumner,BKN,Sumner 27' 3PT Jump Shot (7 PTS) (Mills 2 AST),Made Shot,Jump Shot,7,266,27,1,3.0,3.0,h
+S2223-G0817,1,00:45.400000,BKN,,PHX,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0817,1,00:42,BKN,,PHX,,E. Sumner,BKN,MISS Sumner 3' Running Layup,Missed Shot,Running Layup Shot,-31,5,3,1,2.0,0.0,h
+S2223-G0817,1,00:01.400000,BKN,,PHX,,E. Sumner,BKN,Sumner Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0817,2,03:01,BKN,,PHX,,E. Sumner,BKN,Sumner Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0817,2,00:05.100000,BKN,,PHX,,E. Sumner,BKN,Sumner Traveling Turnover (P3.T8),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0817,3,01:20,BKN,,PHX,,E. Sumner,BKN,Sumner STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0817,3,00:01.200000,BKN,,PHX,,E. Sumner,BKN,MISS Sumner 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-169,235,29,1,3.0,0.0,h
+S2223-G0155,1,11:45,DAL,,BKN,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0155,1,11:24,DAL,0.0,BKN,2.0,E. Sumner,BKN,Sumner 20' Pullup Jump Shot (2 PTS) (O'Neale 1 AST),Made Shot,Pullup Jump shot,-80,184,20,1,2.0,2.0,v
+S2223-G0155,1,11:07,DAL,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0155,1,11:04,DAL,,BKN,,E. Sumner,BKN,MISS Sumner 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,43,120,13,1,2.0,0.0,v
+S2223-G0155,1,10:53,DAL,,BKN,,E. Sumner,BKN,Sumner S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0155,1,07:36,DAL,,BKN,,E. Sumner,BKN,Sumner Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0155,1,06:33,DAL,,BKN,,E. Sumner,BKN,Sumner S.FOUL (P2.T3) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0155,1,04:12,DAL,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0155,1,02:36,DAL,,BKN,,E. Sumner,BKN,SUB: Duke Jr. FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0155,3,10:35,DAL,,BKN,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,225,11,0,1,3.0,0.0,v
+S2223-G0155,3,10:01,DAL,53.0,BKN,54.0,E. Sumner,BKN,Sumner 1' Driving Layup (4 PTS) (O'Neale 5 AST),Made Shot,Driving Layup Shot,9,2,1,1,2.0,2.0,v
+S2223-G0155,3,09:38,DAL,,BKN,,E. Sumner,BKN,Sumner P.FOUL (P3.T2) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2223-G0155,3,07:17,DAL,,BKN,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,-228,18,0,1,3.0,0.0,v
+S2223-G0155,3,06:23,DAL,,BKN,,E. Sumner,BKN,SUB: Thomas FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0155,4,08:52,DAL,,BKN,,E. Sumner,BKN,Sumner P.FOUL (P4.T1) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G0155,4,08:03,DAL,,BKN,,E. Sumner,BKN,Sumner BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0155,4,07:04,DAL,,BKN,,E. Sumner,BKN,SUB: Claxton FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0155,4,00:06.700000,DAL,,BKN,,E. Sumner,BKN,SUB: Claxton FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0155,4,00:05.600000,DAL,,BKN,,E. Sumner,BKN,SUB: Sharpe FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0266,1,04:45,TOR,,BKN,,E. Sumner,BKN,Sumner Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0266,1,04:32,TOR,,BKN,,E. Sumner,BKN,Sumner BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0266,1,03:14,TOR,,BKN,,E. Sumner,BKN,Sumner S.FOUL (P1.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0266,1,00:47.300000,TOR,23.0,BKN,38.0,E. Sumner,BKN,Sumner 1' Running Reverse Layup (2 PTS) (Thomas 1 AST),Made Shot,Running Reverse Layup Shot,6,8,1,1,2.0,2.0,v
+S2223-G0266,1,00:03.100000,TOR,,BKN,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,-225,17,0,1,3.0,0.0,v
+S2223-G0266,2,04:31,TOR,,BKN,,E. Sumner,BKN,Sumner L.B.FOUL (P2.T3) (J.Capers),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0266,2,02:58,TOR,,BKN,,E. Sumner,BKN,Sumner Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0266,2,02:24,TOR,,BKN,,E. Sumner,BKN,Sumner S.FOUL (P3.T4) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0266,2,01:35,TOR,45.0,BKN,50.0,E. Sumner,BKN,Sumner 2' Driving Layup (4 PTS) (Thomas 2 AST),Made Shot,Driving Layup Shot,-4,22,2,1,2.0,2.0,v
+S2223-G0266,2,01:35,TOR,,BKN,,E. Sumner,BKN,MISS Sumner Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0266,2,01:23,TOR,,BKN,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0266,2,01:18,TOR,45.0,BKN,52.0,E. Sumner,BKN,Sumner 3' Running Layup (6 PTS),Made Shot,Running Layup Shot,9,25,3,1,2.0,2.0,v
+S2223-G0266,2,00:36.400000,TOR,,BKN,,E. Sumner,BKN,Sumner Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0266,2,00:00,TOR,,BKN,,E. Sumner,BKN,MISS Sumner 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,88,9,1,2.0,0.0,v
+S2223-G0266,4,10:43,TOR,,BKN,,E. Sumner,BKN,Sumner P.FOUL (P4.T1) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2223-G0266,4,07:44,TOR,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0266,4,07:17,TOR,,BKN,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,-232,-6,0,1,3.0,0.0,v
+S2223-G0266,4,07:06,TOR,,BKN,,E. Sumner,BKN,SUB: Irving FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0266,4,01:54,TOR,,BKN,,E. Sumner,BKN,MISS Sumner 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-13,17,2,1,2.0,0.0,v
+S2223-G0266,4,00:44.600000,TOR,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0266,4,00:44.600000,TOR,,BKN,,E. Sumner,BKN,MISS Sumner Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0266,4,00:30.800000,TOR,,BKN,,E. Sumner,BKN,Sumner P.FOUL (P5.PN) (S.Mehta),Foul,Personal,0,0,0,0,,,v
+S2223-G0772,2,10:46,BOS,,BKN,,E. Sumner,BKN,MISS Sumner 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,18,66,7,1,2.0,0.0,v
+S2223-G0772,2,10:18,BOS,,BKN,,E. Sumner,BKN,SUB: Claxton FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0772,4,08:29,BOS,,BKN,,E. Sumner,BKN,MISS Sumner 3' Driving Layup,Missed Shot,Driving Layup Shot,-6,29,3,1,2.0,0.0,v
+S2223-G0772,4,07:03,BOS,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0772,4,06:13,BOS,,BKN,,E. Sumner,BKN,MISS Sumner 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-172,199,26,1,3.0,0.0,v
+S2223-G0772,4,05:58,BOS,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0772,4,02:14,BOS,132.0,BKN,94.0,E. Sumner,BKN,Sumner 24' 3PT Running Jump Shot (3 PTS) (Watanabe 1 AST),Made Shot,Running Jump Shot,239,31,24,1,3.0,3.0,v
+S2223-G0498,1,00:25.100000,CLE,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0498,1,00:14.400000,CLE,,BKN,,E. Sumner,BKN,MISS Sumner 24' 3PT Jump Shot,Missed Shot,Jump Shot,-241,-1,24,1,3.0,0.0,v
+S2223-G0498,2,10:07,CLE,,BKN,,E. Sumner,BKN,MISS Sumner 3' Driving Layup,Missed Shot,Driving Layup Shot,-5,25,3,1,2.0,0.0,v
+S2223-G0498,2,09:56,CLE,27.0,BKN,38.0,E. Sumner,BKN,Sumner 2' Running Reverse Layup (2 PTS) (Warren 2 AST),Made Shot,Running Reverse Layup Shot,-2,15,2,1,2.0,2.0,v
+S2223-G0498,2,09:38,CLE,,BKN,,E. Sumner,BKN,Sumner S.FOUL (P1.T2) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0498,2,09:38,CLE,,BKN,,E. Sumner,BKN,SUB: Mills FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0498,2,06:44,CLE,,BKN,,E. Sumner,BKN,Sumner Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0498,2,03:53,CLE,,BKN,,E. Sumner,BKN,SUB: Warren FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0498,3,02:36,CLE,,BKN,,E. Sumner,BKN,Sumner S.FOUL (P2.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0498,3,01:29,CLE,,BKN,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0498,3,01:25,CLE,75.0,BKN,89.0,E. Sumner,BKN,Sumner 1' Running Dunk (4 PTS) (Watanabe 1 AST),Made Shot,Running Dunk Shot,6,13,1,1,2.0,2.0,v
+S2223-G0498,3,01:08,CLE,,BKN,,E. Sumner,BKN,Sumner P.FOUL (P3.PN) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G0498,3,00:17.200000,CLE,,BKN,,E. Sumner,BKN,MISS Sumner 10' Step Back Jump Shot,Missed Shot,Step Back Jump shot,49,88,10,1,2.0,0.0,v
+S2223-G0123,1,10:02,WAS,6.0,BKN,5.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0123,1,10:02,WAS,6.0,BKN,6.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0123,1,08:45,WAS,,BKN,,E. Sumner,BKN,MISS Sumner 5' Driving Layup,Missed Shot,Driving Layup Shot,-53,-5,5,1,2.0,0.0,v
+S2223-G0123,1,08:27,WAS,,BKN,,E. Sumner,BKN,MISS Sumner 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,184,179,26,1,3.0,0.0,v
+S2223-G0123,1,05:53,WAS,,BKN,,E. Sumner,BKN,SUB: Thomas FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0123,2,02:47,WAS,,BKN,,E. Sumner,BKN,Sumner Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0123,2,02:18,WAS,,BKN,,E. Sumner,BKN,Sumner S.FOUL (P1.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0123,2,01:58,WAS,54.0,BKN,58.0,E. Sumner,BKN,Sumner 4' Driving Layup (4 PTS) (O'Neale 3 AST),Made Shot,Driving Layup Shot,29,29,4,1,2.0,2.0,v
+S2223-G0123,2,01:20,WAS,57.0,BKN,61.0,E. Sumner,BKN,Sumner 24' 3PT Jump Shot (7 PTS) (O'Neale 4 AST),Made Shot,Jump Shot,-240,-12,24,1,3.0,3.0,v
+S2223-G0123,3,11:51,WAS,,BKN,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0123,3,11:08,WAS,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0123,3,10:01,WAS,59.0,BKN,76.0,E. Sumner,BKN,Sumner 3' Reverse Layup (9 PTS),Made Shot,Reverse Layup Shot,26,1,3,1,2.0,2.0,v
+S2223-G0123,3,08:53,WAS,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0123,3,08:48,WAS,,BKN,,E. Sumner,BKN,MISS Sumner 2' Running Layup,Missed Shot,Running Layup Shot,23,7,2,1,2.0,0.0,v
+S2223-G0123,3,05:42,WAS,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0123,3,04:59,WAS,,BKN,,E. Sumner,BKN,Sumner Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0123,3,04:49,WAS,,BKN,,E. Sumner,BKN,SUB: Watanabe FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0123,4,05:07,WAS,,BKN,,E. Sumner,BKN,Sumner STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0123,4,05:02,WAS,,BKN,,E. Sumner,BKN,MISS Sumner 7' Running Layup,Missed Shot,Running Layup Shot,71,20,7,1,2.0,0.0,v
+S2223-G0123,4,04:47,WAS,80.0,BKN,120.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0123,4,04:47,WAS,80.0,BKN,121.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0123,4,01:05,WAS,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0066,1,03:53,BKN,,DAL,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0066,1,03:51,BKN,18.0,DAL,20.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0066,1,03:51,BKN,19.0,DAL,20.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0066,1,03:04,BKN,,DAL,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0066,1,01:37,BKN,22.0,DAL,24.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0066,1,01:37,BKN,23.0,DAL,24.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0066,2,06:54,BKN,,DAL,,E. Sumner,BKN,Sumner Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0066,2,06:33,BKN,39.0,DAL,41.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0066,2,06:33,BKN,40.0,DAL,41.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0066,2,04:42,BKN,,DAL,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0066,2,03:49,BKN,,DAL,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,-234,2,0,1,3.0,0.0,h
+S2223-G0066,2,02:24,BKN,,DAL,,E. Sumner,BKN,SUB: Irving FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0066,3,04:53,BKN,,DAL,,E. Sumner,BKN,MISS Sumner 1' Driving Layup,Missed Shot,Driving Layup Shot,-5,-8,1,1,2.0,0.0,h
+S2223-G0066,3,03:22,BKN,,DAL,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,-228,-28,0,1,3.0,0.0,h
+S2223-G0066,3,02:06,BKN,,DAL,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0066,3,02:01,BKN,,DAL,,E. Sumner,BKN,MISS Sumner 2' Running Layup,Missed Shot,Running Layup Shot,20,5,2,1,2.0,0.0,h
+S2223-G0066,3,01:39,BKN,,DAL,,E. Sumner,BKN,Sumner S.FOUL (P1.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1207,1,01:43,BKN,,ORL,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1207,1,01:35,BKN,,ORL,,E. Sumner,BKN,MISS Sumner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1207,1,01:35,BKN,23.0,ORL,21.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1207,1,00:23.100000,BKN,,ORL,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1207,4,02:00,BKN,,ORL,,E. Sumner,BKN,Sumner S.FOUL (P1.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G0103,1,03:54,BKN,,CHI,,E. Sumner,BKN,MISS Sumner 26' 3PT Jump Shot,Missed Shot,Jump Shot,88,241,26,1,3.0,0.0,h
+S2223-G0103,1,00:54.200000,BKN,,CHI,,E. Sumner,BKN,Sumner P.FOUL (P1.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2223-G0103,2,04:06,BKN,,CHI,,E. Sumner,BKN,MISS Sumner 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,43,32,5,1,2.0,0.0,h
+S2223-G0103,2,02:04,BKN,,CHI,,E. Sumner,BKN,Sumner P.FOUL (P2.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2223-G0103,2,00:28.100000,BKN,56.0,CHI,52.0,E. Sumner,BKN,Sumner 4' Driving Layup (2 PTS) (Claxton 1 AST),Made Shot,Driving Layup Shot,37,-6,4,1,2.0,2.0,h
+S2223-G0103,3,04:04,BKN,,CHI,,E. Sumner,BKN,MISS Sumner 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,4,13,1,1,2.0,0.0,h
+S2223-G0103,3,03:43,BKN,,CHI,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0103,3,03:26,BKN,,CHI,,E. Sumner,BKN,Sumner Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0103,4,11:51,BKN,,CHI,,E. Sumner,BKN,Sumner BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0103,4,10:49,BKN,,CHI,,E. Sumner,BKN,MISS Sumner 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-11,49,5,1,2.0,0.0,h
+S2223-G0103,4,07:50,BKN,,CHI,,E. Sumner,BKN,SUB: Durant FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0103,4,00:37.600000,BKN,99.0,CHI,108.0,E. Sumner,BKN,Sumner 2' Cutting Layup Shot (4 PTS) (Duke Jr. 2 AST),Made Shot,Cutting Layup Shot,4,20,2,1,2.0,2.0,h
+S2223-G0380,1,03:34,BKN,,ATL,,E. Sumner,BKN,Sumner Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0380,1,02:39,BKN,,ATL,,E. Sumner,BKN,Sumner P.FOUL (P1.T4) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0380,1,02:25,BKN,27.0,ATL,23.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0380,1,02:25,BKN,28.0,ATL,23.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0380,1,02:00,BKN,,ATL,,E. Sumner,BKN,MISS Sumner 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-22,7,2,1,2.0,0.0,h
+S2223-G0380,1,01:27,BKN,,ATL,,E. Sumner,BKN,Sumner P.FOUL (P2.PN) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G0380,1,00:58.200000,BKN,,ATL,,E. Sumner,BKN,Sumner S.FOUL (P3.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G0380,2,01:03,BKN,66.0,ATL,64.0,E. Sumner,BKN,Sumner 2' Layup (4 PTS) (Warren 2 AST),Made Shot,Layup Shot,18,4,2,1,2.0,2.0,h
+S2223-G0380,2,00:39.700000,BKN,,ATL,,E. Sumner,BKN,Sumner Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0380,3,05:08,BKN,,ATL,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0380,3,03:48,BKN,,ATL,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,233,9,0,1,3.0,0.0,h
+S2223-G0380,3,02:02,BKN,91.0,ATL,84.0,E. Sumner,BKN,Sumner 1' Cutting Dunk Shot (6 PTS) (Durant 3 AST),Made Shot,Cutting Dunk Shot,0,6,1,1,2.0,2.0,h
+S2223-G0380,3,01:45,BKN,,ATL,,E. Sumner,BKN,Sumner P.FOUL (P4.T4) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G0380,3,01:45,BKN,,ATL,,E. Sumner,BKN,Sumner T.FOUL (P4.T4) (C.Washington),Foul,Technical,0,0,0,0,,,h
+S2223-G0380,3,00:27.400000,BKN,,ATL,,E. Sumner,BKN,SUB: Harris FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0210,1,11:10,SAC,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0210,1,10:12,SAC,,BKN,,E. Sumner,BKN,MISS Sumner 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,54,24,1,3.0,0.0,v
+S2223-G0210,1,08:17,SAC,,BKN,,E. Sumner,BKN,Sumner S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0210,1,07:26,SAC,,BKN,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0210,1,07:15,SAC,,BKN,,E. Sumner,BKN,Sumner S.FOUL (P2.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0210,1,07:01,SAC,,BKN,,E. Sumner,BKN,MISS Sumner 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,52,24,1,3.0,0.0,v
+S2223-G0210,1,06:30,SAC,21.0,BKN,10.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0210,1,06:30,SAC,21.0,BKN,11.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0210,1,04:51,SAC,,BKN,,E. Sumner,BKN,MISS Sumner 2' Driving Layup,Missed Shot,Driving Layup Shot,18,15,2,1,2.0,0.0,v
+S2223-G0210,1,04:51,SAC,,BKN,,E. Sumner,BKN,SUB: Simmons FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0210,2,04:46,SAC,56.0,BKN,42.0,E. Sumner,BKN,Sumner 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,5,31,3,1,2.0,2.0,v
+S2223-G0210,2,04:38,SAC,,BKN,,E. Sumner,BKN,Sumner S.FOUL (P3.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0210,2,03:47,SAC,,BKN,,E. Sumner,BKN,MISS Sumner 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-7,125,13,1,2.0,0.0,v
+S2223-G0210,2,03:27,SAC,,BKN,,E. Sumner,BKN,SUB: Simmons FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0210,3,10:45,SAC,,BKN,,E. Sumner,BKN,MISS Sumner 24' 3PT Jump Shot,Missed Shot,Jump Shot,-145,195,24,1,3.0,0.0,v
+S2223-G0210,3,10:24,SAC,,BKN,,E. Sumner,BKN,SUB: Watanabe FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0210,4,07:57,SAC,129.0,BKN,91.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0210,4,07:57,SAC,129.0,BKN,92.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0210,4,06:04,SAC,,BKN,,E. Sumner,BKN,Sumner Step Out of Bounds Turnover (P1.T16),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0210,4,05:40,SAC,135.0,BKN,99.0,E. Sumner,BKN,Sumner 3PT Jump Shot (9 PTS) (Duke Jr. 1 AST),Made Shot,Jump Shot,233,13,0,1,3.0,3.0,v
+S2223-G0210,4,05:29,SAC,,BKN,,E. Sumner,BKN,Sumner STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0210,4,05:26,SAC,135.0,BKN,101.0,E. Sumner,BKN,Sumner 1' Running Layup (11 PTS),Made Shot,Running Layup Shot,-6,9,1,1,2.0,2.0,v
+S2223-G0210,4,05:04,SAC,135.0,BKN,102.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0210,4,05:04,SAC,135.0,BKN,103.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0210,4,03:31,SAC,139.0,BKN,110.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0210,4,03:31,SAC,139.0,BKN,111.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0210,4,03:07,SAC,139.0,BKN,113.0,E. Sumner,BKN,Sumner 3' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,-12,31,3,1,2.0,2.0,v
+S2223-G0210,4,03:07,SAC,139.0,BKN,114.0,E. Sumner,BKN,Sumner Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0302,1,04:19,BKN,,ORL,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,-234,2,0,1,3.0,0.0,h
+S2223-G0302,1,03:19,BKN,,ORL,,E. Sumner,BKN,MISS Sumner 1' Driving Layup,Missed Shot,Driving Layup Shot,-6,8,1,1,2.0,0.0,h
+S2223-G0302,1,01:28,BKN,,ORL,,E. Sumner,BKN,SUB: Irving FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0302,2,00:17,BKN,,ORL,,E. Sumner,BKN,SUB: Irving FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0403,2,05:55,WAS,,BKN,,E. Sumner,BKN,Sumner P.FOUL (P1.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2223-G0403,2,05:06,WAS,44.0,BKN,49.0,E. Sumner,BKN,Sumner 2' Running Dunk (2 PTS) (Warren 3 AST),Made Shot,Running Dunk Shot,-6,16,2,1,2.0,2.0,v
+S2223-G0403,2,04:54,WAS,,BKN,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0403,2,04:09,WAS,,BKN,,E. Sumner,BKN,Sumner Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0403,2,03:41,WAS,,BKN,,E. Sumner,BKN,Sumner Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0403,2,03:04,WAS,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0403,2,02:31,WAS,,BKN,,E. Sumner,BKN,MISS Sumner 7' Running Layup,Missed Shot,Running Layup Shot,51,41,7,1,2.0,0.0,v
+S2223-G0403,2,00:49.500000,WAS,53.0,BKN,62.0,E. Sumner,BKN,Sumner 1' Running Layup (4 PTS) (Durant 3 AST),Made Shot,Running Layup Shot,2,8,1,1,2.0,2.0,v
+S2223-G0403,2,00:01.900000,WAS,,BKN,,E. Sumner,BKN,MISS Sumner 6' Driving Layup,Missed Shot,Driving Layup Shot,-54,22,6,1,2.0,0.0,v
+S2223-G0049,2,11:10,MEM,,BKN,,E. Sumner,BKN,Sumner Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0049,2,09:03,MEM,,BKN,,E. Sumner,BKN,SUB: Harris FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G1137,2,09:10,BKN,,HOU,,E. Sumner,BKN,Sumner Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1137,2,08:06,BKN,,HOU,,E. Sumner,BKN,Sumner Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1137,2,08:02,BKN,,HOU,,E. Sumner,BKN,Sumner BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1137,2,07:56,BKN,36.0,HOU,35.0,E. Sumner,BKN,Sumner 4' Running Layup (2 PTS) (Harris 2 AST),Made Shot,Running Layup Shot,-32,31,4,1,2.0,2.0,h
+S2223-G1137,2,07:33,BKN,,HOU,,E. Sumner,BKN,Sumner S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G1137,2,07:13,BKN,,HOU,,E. Sumner,BKN,MISS Sumner 2' Driving Layup,Missed Shot,Driving Layup Shot,21,13,2,1,2.0,0.0,h
+S2223-G1137,2,06:15,BKN,,HOU,,E. Sumner,BKN,MISS Sumner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1137,2,06:15,BKN,39.0,HOU,39.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1137,2,05:17,BKN,,HOU,,E. Sumner,BKN,MISS Sumner 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,-2,46,5,1,2.0,0.0,h
+S2223-G1137,2,05:02,BKN,,HOU,,E. Sumner,BKN,SUB: Dinwiddie FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0198,1,10:36,LAL,,BKN,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,-229,13,0,1,3.0,0.0,v
+S2223-G0198,1,09:47,LAL,,BKN,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0198,1,09:33,LAL,,BKN,,E. Sumner,BKN,MISS Sumner 2' Driving Layup,Missed Shot,Driving Layup Shot,-20,11,2,1,2.0,0.0,v
+S2223-G0198,1,09:14,LAL,,BKN,,E. Sumner,BKN,Sumner Offensive Charge Foul (P1) (D.Guthrie),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0198,1,09:14,LAL,,BKN,,E. Sumner,BKN,Sumner Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0198,1,08:33,LAL,,BKN,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,223,16,0,1,3.0,0.0,v
+S2223-G0198,1,06:45,LAL,,BKN,,E. Sumner,BKN,SUB: Thomas FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0198,2,09:15,LAL,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0198,2,05:42,LAL,,BKN,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,-227,28,0,1,3.0,0.0,v
+S2223-G0198,2,04:26,LAL,,BKN,,E. Sumner,BKN,Sumner Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0198,2,03:48,LAL,44.0,BKN,33.0,E. Sumner,BKN,Sumner 1' Driving Layup (2 PTS) (Morris 2 AST),Made Shot,Driving Layup Shot,-2,8,1,1,2.0,2.0,v
+S2223-G0198,2,01:44,LAL,53.0,BKN,40.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0198,2,01:44,LAL,53.0,BKN,41.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0198,2,01:29,LAL,53.0,BKN,43.0,E. Sumner,BKN,Sumner 1' Running Layup (6 PTS) (Durant 3 AST),Made Shot,Running Layup Shot,0,6,1,1,2.0,2.0,v
+S2223-G0198,2,01:08,LAL,55.0,BKN,46.0,E. Sumner,BKN,Sumner 25' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,-165,184,25,1,3.0,3.0,v
+S2223-G0198,3,11:42,LAL,,BKN,,E. Sumner,BKN,MISS Sumner 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-59,151,16,1,2.0,0.0,v
+S2223-G0198,3,10:33,LAL,,BKN,,E. Sumner,BKN,Sumner P.FOUL (P2.T3) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2223-G0198,3,09:34,LAL,,BKN,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,-222,0,0,1,3.0,0.0,v
+S2223-G0198,3,07:41,LAL,64.0,BKN,54.0,E. Sumner,BKN,Sumner 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,22,15,3,1,2.0,2.0,v
+S2223-G0198,3,07:24,LAL,,BKN,,E. Sumner,BKN,MISS Sumner 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,11,30,3,1,2.0,0.0,v
+S2223-G0198,3,04:30,LAL,,BKN,,E. Sumner,BKN,Sumner Traveling Turnover (P3.T8),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0198,3,04:30,LAL,,BKN,,E. Sumner,BKN,SUB: Watanabe FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0198,4,02:41,LAL,111.0,BKN,95.0,E. Sumner,BKN,Sumner 11' Driving Floating Bank Jump Shot (13 PTS),Made Shot,Driving Floating Bank Jump Shot,-94,52,11,1,2.0,2.0,v
+S2223-G0570,2,01:27,CHI,,BKN,,E. Sumner,BKN,MISS Sumner 5' Driving Layup,Missed Shot,Driving Layup Shot,44,27,5,1,2.0,0.0,v
+S2223-G0570,2,00:25.900000,CHI,,BKN,,E. Sumner,BKN,SUB: Curry FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0731,1,01:05,BKN,23.0,DET,27.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0731,1,01:05,BKN,24.0,DET,27.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0731,1,00:34.200000,BKN,,DET,,E. Sumner,BKN,Sumner Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0731,2,10:32,BKN,,DET,,E. Sumner,BKN,Sumner S.FOUL (P1.T1) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0731,2,10:10,BKN,30.0,DET,33.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0731,2,10:10,BKN,31.0,DET,33.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0731,2,09:29,BKN,,DET,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0731,2,09:25,BKN,33.0,DET,33.0,E. Sumner,BKN,Sumner 6' Running Layup (6 PTS),Made Shot,Running Layup Shot,48,30,6,1,2.0,2.0,h
+S2223-G0731,2,08:56,BKN,36.0,DET,36.0,E. Sumner,BKN,Sumner 26' 3PT Pullup Jump Shot (9 PTS) (Simmons 4 AST),Made Shot,Pullup Jump shot,183,182,26,1,3.0,3.0,h
+S2223-G0731,2,08:56,BKN,37.0,DET,36.0,E. Sumner,BKN,Sumner Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0731,2,07:20,BKN,,DET,,E. Sumner,BKN,MISS Sumner 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-36,8,4,1,2.0,0.0,h
+S2223-G0731,2,06:13,BKN,,DET,,E. Sumner,BKN,MISS Sumner 3' Driving Layup,Missed Shot,Driving Layup Shot,31,4,3,1,2.0,0.0,h
+S2223-G0731,2,06:09,BKN,,DET,,E. Sumner,BKN,SUB: O'Neale FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0731,3,02:09,BKN,,DET,,E. Sumner,BKN,Sumner S.FOUL (P2.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0731,3,01:01,BKN,87.0,DET,99.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0731,3,01:01,BKN,88.0,DET,99.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0731,3,00:24.200000,BKN,,DET,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0731,3,00:20.800000,BKN,,DET,,E. Sumner,BKN,SUB: Irving FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0731,4,11:36,BKN,93.0,DET,101.0,E. Sumner,BKN,Sumner 25' 3PT Jump Shot (15 PTS) (Morris 1 AST),Made Shot,Jump Shot,-228,95,25,1,3.0,3.0,h
+S2223-G0731,4,11:17,BKN,,DET,,E. Sumner,BKN,Sumner S.FOUL (P3.T1) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0731,4,11:07,BKN,95.0,DET,103.0,E. Sumner,BKN,Sumner 3' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,-26,21,3,1,2.0,2.0,h
+S2223-G0731,4,10:44,BKN,,DET,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0731,4,10:11,BKN,,DET,,E. Sumner,BKN,Sumner Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0731,4,10:08,BKN,,DET,,E. Sumner,BKN,SUB: Claxton FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0731,4,02:19,BKN,,DET,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0731,4,01:59,BKN,114.0,DET,122.0,E. Sumner,BKN,Sumner 2' Driving Layup (19 PTS) (Claxton 1 AST),Made Shot,Driving Layup Shot,-17,16,2,1,2.0,2.0,h
+S2223-G0731,4,01:02,BKN,,DET,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0731,4,01:01,BKN,119.0,DET,125.0,E. Sumner,BKN,Sumner 7' Running Layup (21 PTS),Made Shot,Running Layup Shot,-56,42,7,1,2.0,2.0,h
+S2223-G0731,4,01:01,BKN,120.0,DET,125.0,E. Sumner,BKN,Sumner Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0731,4,00:37.300000,BKN,122.0,DET,127.0,E. Sumner,BKN,Sumner 1' Driving Layup (24 PTS) (Irving 6 AST),Made Shot,Driving Layup Shot,0,7,1,1,2.0,2.0,h
+S2223-G0731,4,00:27.400000,BKN,,DET,,E. Sumner,BKN,Sumner Personal Take Foul (P4.PN) (N.Buchert),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0731,4,00:23.700000,BKN,,DET,,E. Sumner,BKN,MISS Sumner 1' Driving Layup,Missed Shot,Driving Layup Shot,7,12,1,1,2.0,0.0,h
+S2223-G0731,4,00:19.700000,BKN,,DET,,E. Sumner,BKN,Sumner P.FOUL (P5.PN) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2223-G0793,1,11:46,BKN,,,,E. Sumner,BKN,MISS Sumner 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,-21,24,1,3.0,0.0,h
+S2223-G0793,1,10:19,BKN,,,,E. Sumner,BKN,MISS Sumner 25' 3PT Jump Shot,Missed Shot,Jump Shot,224,108,25,1,3.0,0.0,h
+S2223-G0793,1,10:09,BKN,,,,E. Sumner,BKN,Sumner S.FOUL (P1.T2) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0793,1,09:30,BKN,7.0,,11.0,E. Sumner,BKN,Sumner 1' Running Dunk (2 PTS) (O'Neale 1 AST),Made Shot,Running Dunk Shot,9,0,1,1,2.0,2.0,h
+S2223-G0793,1,08:47,BKN,,,,E. Sumner,BKN,MISS Sumner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0793,1,08:47,BKN,8.0,,13.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0793,1,08:18,BKN,,,,E. Sumner,BKN,MISS Sumner 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,31,24,1,3.0,0.0,h
+S2223-G0793,1,08:01,BKN,,,,E. Sumner,BKN,Sumner S.FOUL (P2.T3) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0793,1,08:01,BKN,,,,E. Sumner,BKN,SUB: Mills FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0793,2,09:56,BKN,30.0,,48.0,E. Sumner,BKN,Sumner 2' Driving Finger Roll Layup (5 PTS) (Harris 1 AST),Made Shot,Driving Finger Roll Layup Shot,13,8,2,1,2.0,2.0,h
+S2223-G0793,2,09:41,BKN,31.0,,48.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0793,2,09:41,BKN,32.0,,48.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0793,2,08:48,BKN,33.0,,52.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0793,2,08:48,BKN,34.0,,52.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0793,2,06:48,BKN,,,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0793,2,06:46,BKN,,,,E. Sumner,BKN,Sumner Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0793,2,05:14,BKN,,,,E. Sumner,BKN,MISS Sumner 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-11,4,1,1,2.0,0.0,h
+S2223-G0793,2,03:08,BKN,45.0,,66.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0793,2,03:08,BKN,46.0,,66.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0793,2,01:52,BKN,,,,E. Sumner,BKN,MISS Sumner 2' Driving Layup,Missed Shot,Driving Layup Shot,-16,6,2,1,2.0,0.0,h
+S2223-G0793,3,11:28,BKN,58.0,,76.0,E. Sumner,BKN,Sumner 3PT Jump Shot (14 PTS) (O'Neale 2 AST),Made Shot,Jump Shot,-232,22,0,1,3.0,3.0,h
+S2223-G0793,3,10:46,BKN,60.0,,78.0,E. Sumner,BKN,Sumner 2' Driving Layup (16 PTS) (Claxton 3 AST),Made Shot,Driving Layup Shot,20,0,2,1,2.0,2.0,h
+S2223-G0793,3,10:20,BKN,62.0,,81.0,E. Sumner,BKN,Sumner 20' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,131,157,20,1,2.0,2.0,h
+S2223-G0793,3,08:18,BKN,67.0,,84.0,E. Sumner,BKN,Sumner 3PT Jump Shot (21 PTS) (Harris 2 AST),Made Shot,Jump Shot,229,-4,0,1,3.0,3.0,h
+S2223-G0793,3,06:31,BKN,,,,E. Sumner,BKN,Sumner BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0793,3,05:57,BKN,,,,E. Sumner,BKN,MISS Sumner 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,23,265,27,1,3.0,0.0,h
+S2223-G0793,3,05:14,BKN,79.0,,88.0,E. Sumner,BKN,Sumner 1' Running Dunk (23 PTS) (O'Neale 4 AST),Made Shot,Running Dunk Shot,7,4,1,1,2.0,2.0,h
+S2223-G0793,3,04:40,BKN,,,,E. Sumner,BKN,MISS Sumner 26' 3PT Jump Shot,Missed Shot,Jump Shot,181,186,26,1,3.0,0.0,h
+S2223-G0793,3,04:30,BKN,,,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0793,3,04:27,BKN,81.0,,91.0,E. Sumner,BKN,Sumner 1' Running Layup (25 PTS) (Claxton 4 AST),Made Shot,Running Layup Shot,6,1,1,1,2.0,2.0,h
+S2223-G0793,3,03:32,BKN,,,,E. Sumner,BKN,SUB: Watanabe FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0793,3,02:24,BKN,,,,E. Sumner,BKN,Sumner Step Out of Bounds Turnover (P2.T14),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0793,3,02:02,BKN,,,,E. Sumner,BKN,Sumner L.B.FOUL (P3.PN) (D.Mosher),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0793,3,00:00.100000,BKN,,,,E. Sumner,BKN,Jump Ball Sumner vs. Wright: Tip to Avdija,Jump Ball,,0,0,0,0,,,h
+S2223-G0793,4,11:20,BKN,,,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,-233,-13,0,1,3.0,0.0,h
+S2223-G0793,4,07:09,BKN,105.0,,106.0,E. Sumner,BKN,Sumner 1' Driving Layup (27 PTS) (Thomas 5 AST),Made Shot,Driving Layup Shot,-12,6,1,1,2.0,2.0,h
+S2223-G0793,4,06:53,BKN,,,,E. Sumner,BKN,Sumner S.FOUL (P4.T4) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0793,4,05:28,BKN,,,,E. Sumner,BKN,Sumner P.FOUL (P5.PN) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2223-G0793,4,05:15,BKN,,,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,-234,16,0,1,3.0,0.0,h
+S2223-G0793,4,03:54,BKN,,,,E. Sumner,BKN,MISS Sumner 3' Driving Layup,Missed Shot,Driving Layup Shot,28,8,3,1,2.0,0.0,h
+S2223-G0793,4,02:51,BKN,115.0,,115.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0793,4,02:51,BKN,116.0,,115.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0793,4,01:37,BKN,,,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0290,1,01:32,BKN,26.0,POR,22.0,E. Sumner,BKN,Sumner 13' Jump Shot (2 PTS) (Irving 1 AST),Made Shot,Jump Shot,43,120,13,1,2.0,2.0,h
+S2223-G0290,1,00:24.900000,BKN,,POR,,E. Sumner,BKN,SUB: Harris FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0290,2,00:34.600000,BKN,,POR,,E. Sumner,BKN,Sumner P.FOUL (P1.PN) (E.Lewis),Foul,Personal,0,0,0,0,,,h
+S2223-G0290,3,00:53.900000,BKN,,POR,,E. Sumner,BKN,MISS Sumner 2' Running Layup,Missed Shot,Running Layup Shot,4,17,2,1,2.0,0.0,h
+S2223-G0290,3,00:04.500000,BKN,,POR,,E. Sumner,BKN,SUB: Irving FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G1189,2,10:43,DET,38.0,BKN,49.0,E. Sumner,BKN,Sumner 2' Driving Finger Roll Layup (2 PTS) (Claxton 2 AST),Made Shot,Driving Finger Roll Layup Shot,-15,13,2,1,2.0,2.0,v
+S2223-G1189,2,09:40,DET,44.0,BKN,54.0,E. Sumner,BKN,Sumner 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-34,0,3,1,2.0,2.0,v
+S2223-G1189,2,08:19,DET,,BKN,,E. Sumner,BKN,SUB: Bridges FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G1189,3,02:42,DET,76.0,BKN,91.0,E. Sumner,BKN,Sumner 2' Driving Finger Roll Layup (6 PTS) (Dinwiddie 13 AST),Made Shot,Driving Finger Roll Layup Shot,4,23,2,1,2.0,2.0,v
+S2223-G1189,3,01:20,DET,,BKN,,E. Sumner,BKN,Sumner Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1189,3,00:59.800000,DET,,BKN,,E. Sumner,BKN,SUB: Bridges FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G1189,4,11:20,DET,,BKN,,E. Sumner,BKN,MISS Sumner 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,15,24,1,3.0,0.0,v
+S2223-G1189,4,07:54,DET,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1189,4,06:09,DET,101.0,BKN,108.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1189,4,06:09,DET,101.0,BKN,109.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1189,4,05:33,DET,,BKN,,E. Sumner,BKN,SUB: Bridges FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G1189,4,00:23.600000,DET,,BKN,,E. Sumner,BKN,Sumner Out of Bounds Lost Ball Turnover (P2.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0433,1,01:18,TOR,,BKN,,E. Sumner,BKN,MISS Sumner 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,41,24,1,3.0,0.0,v
+S2223-G0433,1,01:11,TOR,,BKN,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0433,1,00:50.700000,TOR,,BKN,,E. Sumner,BKN,Sumner P.FOUL (P1.T4) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2223-G0433,2,05:24,TOR,,BKN,,E. Sumner,BKN,SUB: Watanabe FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0517,3,01:31,ATL,,BKN,,E. Sumner,BKN,MISS Sumner 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-13,112,11,1,2.0,0.0,v
+S2223-G0517,3,00:01,ATL,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0995,2,09:29,MIL,,BKN,,E. Sumner,BKN,MISS Sumner 4' Running Layup,Missed Shot,Running Layup Shot,-13,34,4,1,2.0,0.0,v
+S2223-G0995,2,09:08,MIL,46.0,BKN,25.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0995,2,09:08,MIL,46.0,BKN,26.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0995,2,08:46,MIL,,BKN,,E. Sumner,BKN,MISS Sumner 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-224,175,28,1,3.0,0.0,v
+S2223-G0995,2,07:50,MIL,48.0,BKN,27.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0995,2,07:50,MIL,48.0,BKN,28.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0995,2,07:33,MIL,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0995,2,07:27,MIL,48.0,BKN,30.0,E. Sumner,BKN,Sumner 8' Driving Floating Bank Jump Shot (6 PTS),Made Shot,Driving Floating Bank Jump Shot,-75,36,8,1,2.0,2.0,v
+S2223-G0995,2,05:37,MIL,,BKN,,E. Sumner,BKN,MISS Sumner 4' Running Layup,Missed Shot,Running Layup Shot,15,42,4,1,2.0,0.0,v
+S2223-G0995,2,03:27,MIL,,BKN,,E. Sumner,BKN,SUB: Sharpe FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0995,3,03:38,MIL,,BKN,,E. Sumner,BKN,Sumner S.FOUL (P1.T3) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0995,3,03:14,MIL,,BKN,,E. Sumner,BKN,MISS Sumner 3' Reverse Layup,Missed Shot,Reverse Layup Shot,2,31,3,1,2.0,0.0,v
+S2223-G0995,3,02:56,MIL,,BKN,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0995,3,02:51,MIL,82.0,BKN,76.0,E. Sumner,BKN,Sumner 24' 3PT Running Jump Shot (9 PTS) (Smith 5 AST),Made Shot,Running Jump Shot,232,63,24,1,3.0,3.0,v
+S2223-G0995,3,01:39,MIL,,BKN,,E. Sumner,BKN,MISS Sumner 7' Driving Layup,Missed Shot,Driving Layup Shot,-17,63,7,1,2.0,0.0,v
+S2223-G0184,1,11:10,LAC,,BKN,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0184,1,09:09,LAC,,BKN,,E. Sumner,BKN,MISS Sumner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-147,210,26,1,3.0,0.0,v
+S2223-G0184,1,08:58,LAC,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0184,1,08:41,LAC,2.0,BKN,4.0,E. Sumner,BKN,Sumner 4' Reverse Layup (2 PTS) (Harris 2 AST),Made Shot,Reverse Layup Shot,6,37,4,1,2.0,2.0,v
+S2223-G0184,1,08:41,LAC,2.0,BKN,5.0,E. Sumner,BKN,Sumner Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0184,1,08:05,LAC,5.0,BKN,8.0,E. Sumner,BKN,Sumner 3PT Jump Shot (6 PTS) (Harris 3 AST),Made Shot,Jump Shot,-232,29,0,1,3.0,3.0,v
+S2223-G0184,1,06:47,LAC,,BKN,,E. Sumner,BKN,MISS Sumner 26' 3PT Jump Shot,Missed Shot,Jump Shot,225,139,26,1,3.0,0.0,v
+S2223-G0184,1,06:07,LAC,,BKN,,E. Sumner,BKN,Sumner Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0184,1,05:49,LAC,7.0,BKN,15.0,E. Sumner,BKN,Sumner 24' 3PT Jump Shot (9 PTS) (Claxton 1 AST),Made Shot,Jump Shot,-237,59,24,1,3.0,3.0,v
+S2223-G0184,1,05:18,LAC,,BKN,,E. Sumner,BKN,Sumner BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0184,1,04:56,LAC,,BKN,,E. Sumner,BKN,MISS Sumner 13' Jump Shot,Missed Shot,Jump Shot,-64,118,13,1,2.0,0.0,v
+S2223-G0184,1,04:39,LAC,,BKN,,E. Sumner,BKN,SUB: Thomas FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0184,2,04:48,LAC,,BKN,,E. Sumner,BKN,Sumner S.FOUL (P1.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0184,2,01:40,LAC,,BKN,,E. Sumner,BKN,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,230,29,0,1,3.0,0.0,v
+S2223-G0184,2,00:02,LAC,,BKN,,E. Sumner,BKN,Sumner STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0184,3,09:54,LAC,,BKN,,E. Sumner,BKN,Sumner Traveling Turnover (P2.T6),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0184,3,08:17,LAC,,BKN,,E. Sumner,BKN,MISS Sumner 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,64,24,1,3.0,0.0,v
+S2223-G0184,3,07:15,LAC,,BKN,,E. Sumner,BKN,MISS Sumner 3' Driving Layup,Missed Shot,Driving Layup Shot,-31,4,3,1,2.0,0.0,v
+S2223-G0184,3,06:04,LAC,67.0,BKN,66.0,E. Sumner,BKN,Sumner 1' Reverse Layup (11 PTS) (Durant 1 AST),Made Shot,Reverse Layup Shot,7,3,1,1,2.0,2.0,v
+S2223-G0184,3,04:59,LAC,,BKN,,E. Sumner,BKN,Sumner STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0184,3,02:18,LAC,,BKN,,E. Sumner,BKN,SUB: Harris FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0757,1,01:49,BKN,,LAL,,E. Sumner,BKN,MISS Sumner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-20,255,26,1,3.0,0.0,h
+S2223-G0757,2,10:29,BKN,,LAL,,E. Sumner,BKN,MISS Sumner 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,103,74,13,1,2.0,0.0,h
+S2223-G0757,2,10:19,BKN,33.0,LAL,20.0,E. Sumner,BKN,Sumner 2' Cutting Layup Shot (2 PTS) (Claxton 1 AST),Made Shot,Cutting Layup Shot,18,9,2,1,2.0,2.0,h
+S2223-G0757,2,09:27,BKN,,LAL,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0757,2,07:32,BKN,,LAL,,E. Sumner,BKN,MISS Sumner 4' Driving Layup,Missed Shot,Driving Layup Shot,-1,35,4,1,2.0,0.0,h
+S2223-G0757,2,06:34,BKN,,LAL,,E. Sumner,BKN,MISS Sumner 3' Driving Layup,Missed Shot,Driving Layup Shot,29,14,3,1,2.0,0.0,h
+S2223-G0757,2,06:31,BKN,,LAL,,E. Sumner,BKN,SUB: Irving FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G1043,3,02:05,BKN,,SAC,,E. Sumner,BKN,Sumner Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1043,3,01:43,BKN,,SAC,,E. Sumner,BKN,Sumner REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1043,3,01:10,BKN,,SAC,,E. Sumner,BKN,Sumner S.FOUL (P1.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1043,4,11:40,BKN,74.0,SAC,82.0,E. Sumner,BKN,Sumner 25' 3PT Jump Shot (3 PTS) (Dinwiddie 5 AST),Made Shot,Jump Shot,199,143,25,1,3.0,3.0,h
+S2223-G1043,4,07:09,BKN,,SAC,,E. Sumner,BKN,Sumner S.FOUL (P2.T1) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G1043,4,05:59,BKN,,SAC,,E. Sumner,BKN,SUB: Johnson FOR Sumner,Substitution,,0,0,0,0,,,h
+S2223-G0721,1,02:29,PHI,32.0,BKN,36.0,E. Sumner,BKN,Sumner 26' 3PT Jump Shot (3 PTS) (Curry 1 AST),Made Shot,Jump Shot,124,232,26,1,3.0,3.0,v
+S2223-G0721,1,00:45.300000,PHI,,BKN,,E. Sumner,BKN,Sumner Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0388,1,11:07,IND,,BKN,,E. Sumner,BKN,Sumner STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0388,1,11:04,IND,3.0,BKN,4.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0388,1,11:04,IND,3.0,BKN,5.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0388,1,10:32,IND,,BKN,,E. Sumner,BKN,Sumner P.FOUL (P1.T1) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G0388,1,09:22,IND,9.0,BKN,13.0,E. Sumner,BKN,Sumner 2' Running Finger Roll Layup (4 PTS) (Mills 2 AST),Made Shot,Running Finger Roll Layup Shot,15,6,2,1,2.0,2.0,v
+S2223-G0388,1,07:55,IND,,BKN,,E. Sumner,BKN,Sumner P.FOUL (P2.T3) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2223-G0388,1,07:32,IND,,BKN,,E. Sumner,BKN,MISS Sumner 10' Driving Layup,Missed Shot,Driving Layup Shot,87,52,10,1,2.0,0.0,v
+S2223-G0388,1,07:31,IND,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,1,07:31,IND,15.0,BKN,19.0,E. Sumner,BKN,Sumner 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,11,10,1,1,2.0,2.0,v
+S2223-G0388,1,07:31,IND,15.0,BKN,20.0,E. Sumner,BKN,Sumner Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0388,1,07:06,IND,15.0,BKN,22.0,E. Sumner,BKN,Sumner 1' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,-4,9,1,1,2.0,2.0,v
+S2223-G0388,1,06:53,IND,,BKN,,E. Sumner,BKN,Sumner STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0388,1,06:50,IND,15.0,BKN,24.0,E. Sumner,BKN,Sumner 2' Running Finger Roll Layup (11 PTS),Made Shot,Running Finger Roll Layup Shot,23,-2,2,1,2.0,2.0,v
+S2223-G0388,1,05:28,IND,22.0,BKN,31.0,E. Sumner,BKN,Sumner 26' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,-208,153,26,1,3.0,3.0,v
+S2223-G0388,1,05:09,IND,,BKN,,E. Sumner,BKN,SUB: Watanabe FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0388,2,06:07,IND,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,2,06:01,IND,53.0,BKN,55.0,E. Sumner,BKN,Sumner 4' Running Finger Roll Layup (16 PTS),Made Shot,Running Finger Roll Layup Shot,25,31,4,1,2.0,2.0,v
+S2223-G0388,2,02:29,IND,,BKN,,E. Sumner,BKN,MISS Sumner 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-33,239,24,1,3.0,0.0,v
+S2223-G0388,2,01:26,IND,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,2,01:22,IND,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,2,01:01,IND,68.0,BKN,65.0,E. Sumner,BKN,Sumner 3' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,23,21,3,1,2.0,2.0,v
+S2223-G0388,3,10:36,IND,,BKN,,E. Sumner,BKN,MISS Sumner 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-105,48,12,1,2.0,0.0,v
+S2223-G0388,3,10:33,IND,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,3,09:04,IND,,BKN,,E. Sumner,BKN,MISS Sumner 2' Layup,Missed Shot,Layup Shot,-16,11,2,1,2.0,0.0,v
+S2223-G0388,3,07:38,IND,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,3,07:37,IND,,BKN,,E. Sumner,BKN,MISS Sumner 2' Layup,Missed Shot,Layup Shot,-16,15,2,1,2.0,0.0,v
+S2223-G0388,3,06:24,IND,,BKN,,E. Sumner,BKN,SUB: Duke Jr. FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0388,4,10:49,IND,,BKN,,E. Sumner,BKN,Sumner REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0388,4,06:36,IND,,BKN,,E. Sumner,BKN,MISS Sumner 26' 3PT Jump Shot,Missed Shot,Jump Shot,-23,262,26,1,3.0,0.0,v
+S2223-G0388,4,05:33,IND,,BKN,,E. Sumner,BKN,Sumner P.FOUL (P3.T3) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2223-G0388,4,05:18,IND,,BKN,,E. Sumner,BKN,Sumner FLAGRANT.FOUL.TYPE1 (P4.T4) (D.Guthrie),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2223-G0388,4,05:18,IND,,BKN,,E. Sumner,BKN,SUB: Mills FOR Sumner,Substitution,,0,0,0,0,,,v
+S2223-G0388,4,00:33.800000,IND,127.0,BKN,133.0,E. Sumner,BKN,Sumner Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0388,4,00:33.800000,IND,127.0,BKN,134.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0388,4,00:27.300000,IND,,BKN,,E. Sumner,BKN,Sumner S.FOUL (P5.PN) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0388,4,00:06.400000,IND,,BKN,,E. Sumner,BKN,MISS Sumner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0388,4,00:06.400000,IND,133.0,BKN,136.0,E. Sumner,BKN,Sumner Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v

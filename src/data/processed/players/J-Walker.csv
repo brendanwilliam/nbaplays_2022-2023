@@ -1,0 +1,561 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0597,1,04:51,TOR,,POR,,J. Walker,POR,Walker Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0597,1,03:56,TOR,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0597,1,02:04,TOR,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0597,1,01:09,TOR,,POR,,J. Walker,POR,Walker P.FOUL (P1.T3) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0597,3,02:50,TOR,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0597,3,02:00,TOR,,POR,,J. Walker,POR,Walker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1017,4,10:50,NOP,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1017,4,10:50,NOP,,POR,,J. Walker,POR,MISS Walker Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1017,4,10:49,NOP,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1017,4,10:48,NOP,,POR,,J. Walker,POR,MISS Walker 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,16,58,6,1,2.0,0.0,v
+S2223-G1017,4,08:49,NOP,,POR,,J. Walker,POR,Walker Lost Ball Turnover (P1.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1017,4,08:42,NOP,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1017,4,07:59,NOP,,POR,,J. Walker,POR,MISS Walker 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,6,27,3,1,2.0,0.0,v
+S2223-G1017,4,07:29,NOP,,POR,,J. Walker,POR,Walker STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1017,4,06:46,NOP,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1017,4,05:21,NOP,122.0,POR,92.0,J. Walker,POR,Walker 26' 3PT Jump Shot (3 PTS) (Knox II 1 AST),Made Shot,Jump Shot,207,162,26,1,3.0,3.0,v
+S2223-G1017,4,03:17,NOP,124.0,POR,95.0,J. Walker,POR,Walker Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1017,4,03:17,NOP,124.0,POR,96.0,J. Walker,POR,Walker Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1017,4,03:07,NOP,,POR,,J. Walker,POR,Walker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0190,2,10:17,DAL,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0190,2,09:52,DAL,,POR,,J. Walker,POR,MISS Walker 1' Driving Layup,Missed Shot,Driving Layup Shot,-6,3,1,1,2.0,0.0,v
+S2223-G0190,2,09:51,DAL,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0190,2,09:49,DAL,38.0,POR,31.0,J. Walker,POR,Walker Putback Layup (2 PTS),Made Shot,Putback Layup Shot,4,-1,0,1,2.0,2.0,v
+S2223-G0190,2,06:48,DAL,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0190,2,06:35,DAL,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0190,2,06:35,DAL,49.0,POR,37.0,J. Walker,POR,Walker Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0190,2,06:35,DAL,49.0,POR,38.0,J. Walker,POR,Walker Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0190,2,06:09,DAL,49.0,POR,39.0,J. Walker,POR,Walker Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0190,2,06:09,DAL,,POR,,J. Walker,POR,MISS Walker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0190,2,06:02,DAL,,POR,,J. Walker,POR,SUB: Hart FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0190,4,09:57,DAL,,POR,,J. Walker,POR,SUB: Eubanks FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0647,1,04:40,POR,,DAL,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0647,1,03:46,POR,,DAL,,J. Walker,POR,SUB: Simons FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0647,4,10:57,POR,,DAL,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0647,4,10:56,POR,,DAL,,J. Walker,POR,MISS Walker 2' Layup,Missed Shot,Layup Shot,11,22,2,1,2.0,0.0,h
+S2223-G0647,4,07:00,POR,,DAL,,J. Walker,POR,SUB: Grant FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0647,4,04:45,POR,,DAL,,J. Walker,POR,Walker L.B.FOUL (P1.PN) (J.Orr),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0407,4,05:58,POR,,MIN,,J. Walker,POR,Walker S.FOUL (P1.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0407,4,02:52,POR,126.0,MIN,104.0,J. Walker,POR,Walker 26' 3PT Jump Bank Shot (3 PTS) (Sharpe 1 AST),Made Shot,Jump Bank Shot,142,220,26,1,3.0,3.0,h
+S2223-G0580,1,05:44,IND,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0580,1,05:32,IND,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0580,1,05:31,IND,,POR,,J. Walker,POR,MISS Walker 1' Putback Layup,Missed Shot,Putback Layup Shot,1,10,1,1,2.0,0.0,v
+S2223-G0580,1,05:31,IND,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0580,1,05:26,IND,13.0,POR,19.0,J. Walker,POR,Walker Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0580,1,05:01,IND,,POR,,J. Walker,POR,Walker REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0580,1,05:00,IND,,POR,,J. Walker,POR,Walker Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0580,1,04:08,IND,,POR,,J. Walker,POR,Walker REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0580,1,04:00,IND,15.0,POR,21.0,J. Walker,POR,Walker 2' Dunk (4 PTS) (Lillard 2 AST),Made Shot,Dunk Shot,13,15,2,1,2.0,2.0,v
+S2223-G0580,1,02:11,IND,22.0,POR,25.0,J. Walker,POR,Walker 1' Running Dunk (6 PTS) (Sharpe 1 AST),Made Shot,Running Dunk Shot,11,-3,1,1,2.0,2.0,v
+S2223-G0580,1,00:15.500000,IND,26.0,POR,29.0,J. Walker,POR,Walker Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0580,1,00:15.500000,IND,,POR,,J. Walker,POR,MISS Walker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0580,1,00:05.400000,IND,,POR,,J. Walker,POR,Walker P.FOUL (P1.T2) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2223-G0580,2,05:51,IND,,POR,,J. Walker,POR,SUB: Grant FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0580,3,03:11,IND,78.0,POR,72.0,J. Walker,POR,Walker 1' Cutting Dunk Shot (9 PTS) (Eubanks 1 AST),Made Shot,Cutting Dunk Shot,-2,5,1,1,2.0,2.0,v
+S2223-G0580,3,01:49,IND,,POR,,J. Walker,POR,Walker OFF.Foul (P2) (S.Foster),Foul,Offensive,0,0,0,0,,,v
+S2223-G0580,3,01:49,IND,,POR,,J. Walker,POR,Walker Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0580,4,11:35,IND,,POR,,J. Walker,POR,Walker STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0580,4,11:04,IND,83.0,POR,86.0,J. Walker,POR,Walker 1' Cutting Dunk Shot (11 PTS) (Grant 1 AST),Made Shot,Cutting Dunk Shot,-4,14,1,1,2.0,2.0,v
+S2223-G0580,4,09:03,IND,,POR,,J. Walker,POR,Walker REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0580,4,09:03,IND,,POR,,J. Walker,POR,MISS Walker Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0580,4,09:02,IND,,POR,,J. Walker,POR,Walker L.B.FOUL (P3.T2) (S.Foster),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0580,4,07:42,IND,,POR,,J. Walker,POR,SUB: Hart FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G1145,1,05:29,POR,15.0,SAC,12.0,J. Walker,POR,Walker 1' Running Alley Oop Dunk Shot (2 PTS) (Sharpe 1 AST),Made Shot,Running Alley Oop Dunk Shot,-5,6,1,1,2.0,2.0,h
+S2223-G1145,1,05:04,POR,,SAC,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,1,03:29,POR,,SAC,,J. Walker,POR,Walker L.B.FOUL (P1.T1) (Z.Zarba),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1145,1,00:47.400000,POR,,SAC,,J. Walker,POR,MISS Walker 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,88,143,17,1,2.0,0.0,h
+S2223-G1145,2,07:45,POR,,SAC,,J. Walker,POR,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,2,07:07,POR,,SAC,,J. Walker,POR,Walker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,2,06:03,POR,,SAC,,J. Walker,POR,SUB: Eubanks FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G1145,2,03:31,POR,34.0,SAC,44.0,J. Walker,POR,Walker 1' Alley Oop Layup (4 PTS) (Sharpe 3 AST),Made Shot,Alley Oop Layup shot,-6,1,1,1,2.0,2.0,h
+S2223-G1145,2,00:50.900000,POR,43.0,SAC,48.0,J. Walker,POR,Walker 1' Driving Layup (6 PTS) (Sharpe 5 AST),Made Shot,Driving Layup Shot,-10,5,1,1,2.0,2.0,h
+S2223-G1145,2,00:50.900000,POR,44.0,SAC,48.0,J. Walker,POR,Walker Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1145,3,06:01,POR,60.0,SAC,69.0,J. Walker,POR,Walker 26' 3PT Jump Shot (10 PTS) (Thybulle 2 AST),Made Shot,Jump Shot,-47,252,26,1,3.0,3.0,h
+S2223-G1145,3,05:52,POR,,SAC,,J. Walker,POR,SUB: Eubanks FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G1145,3,03:44,POR,,SAC,,J. Walker,POR,Walker REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,3,03:23,POR,,SAC,,J. Walker,POR,Walker S.FOUL (P2.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G1145,3,03:08,POR,64.0,SAC,78.0,J. Walker,POR,Walker 14' Pullup Jump Shot (12 PTS) (Sharpe 6 AST),Made Shot,Pullup Jump shot,60,131,14,1,2.0,2.0,h
+S2223-G1145,3,02:41,POR,,SAC,,J. Walker,POR,MISS Walker 8' Hook Shot,Missed Shot,Hook Shot,48,59,8,1,2.0,0.0,h
+S2223-G1145,3,01:48,POR,,SAC,,J. Walker,POR,MISS Walker 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-99,245,26,1,3.0,0.0,h
+S2223-G1145,3,01:21,POR,,SAC,,J. Walker,POR,Walker REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,3,00:51.800000,POR,,SAC,,J. Walker,POR,SUB: Eubanks FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G1145,4,08:05,POR,,SAC,,J. Walker,POR,SUB: Butler Jr. FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G1145,4,04:22,POR,,SAC,,J. Walker,POR,MISS Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-183,188,26,1,3.0,0.0,h
+S2223-G1104,1,02:36,POR,,CHI,,J. Walker,POR,Walker S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1104,1,02:22,POR,20.0,CHI,20.0,J. Walker,POR,Walker 3' Cutting Dunk Shot (2 PTS) (Johnson 1 AST),Made Shot,Cutting Dunk Shot,-5,34,3,1,2.0,2.0,h
+S2223-G1104,1,01:40,POR,,CHI,,J. Walker,POR,Walker STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1104,1,01:36,POR,22.0,CHI,22.0,J. Walker,POR,Walker 2' Layup (4 PTS),Made Shot,Layup Shot,16,17,2,1,2.0,2.0,h
+S2223-G1104,1,00:01.500000,POR,,CHI,,J. Walker,POR,MISS Walker 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-15,111,11,1,2.0,0.0,h
+S2223-G1104,2,11:42,POR,,CHI,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1104,2,10:22,POR,,CHI,,J. Walker,POR,MISS Walker 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,16,82,8,1,2.0,0.0,h
+S2223-G1104,2,09:38,POR,,CHI,,J. Walker,POR,SUB: Sharpe FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G1104,3,03:45,POR,,CHI,,J. Walker,POR,MISS Walker 8' Floating Jump Shot,Missed Shot,Floating Jump shot,10,83,8,1,2.0,0.0,h
+S2223-G1104,3,01:45,POR,,CHI,,J. Walker,POR,MISS Walker 12' Floating Jump Shot,Missed Shot,Floating Jump shot,33,112,12,1,2.0,0.0,h
+S2223-G1104,3,01:09,POR,69.0,CHI,94.0,J. Walker,POR,Walker Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1104,3,01:09,POR,70.0,CHI,94.0,J. Walker,POR,Walker Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1104,3,00:43.100000,POR,,CHI,,J. Walker,POR,MISS Walker 7' Running Layup,Missed Shot,Running Layup Shot,-10,70,7,1,2.0,0.0,h
+S2223-G1104,3,00:04.800000,POR,72.0,CHI,94.0,J. Walker,POR,Walker 4' Cutting Layup Shot (8 PTS) (Johnson 5 AST),Made Shot,Cutting Layup Shot,2,37,4,1,2.0,2.0,h
+S2223-G1104,4,11:13,POR,,CHI,,J. Walker,POR,Walker OFF.Foul (P2) (M.Kogut),Foul,Offensive,0,0,0,0,,,h
+S2223-G1104,4,11:13,POR,,CHI,,J. Walker,POR,Walker Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1104,4,10:43,POR,76.0,CHI,99.0,J. Walker,POR,Walker 8' Fadeaway Jumper (10 PTS) (Reddish 2 AST),Made Shot,Fadeaway Jump Shot,-18,73,8,1,2.0,2.0,h
+S2223-G1104,4,09:34,POR,,CHI,,J. Walker,POR,Walker S.FOUL (P3.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1104,4,09:29,POR,,CHI,,J. Walker,POR,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1104,4,08:40,POR,,CHI,,J. Walker,POR,MISS Walker 12' Jump Shot,Missed Shot,Jump Shot,29,115,12,1,2.0,0.0,h
+S2223-G1104,4,07:36,POR,,CHI,,J. Walker,POR,Walker L.B.FOUL (P4.T3) (M.Kogut),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1104,4,07:00,POR,,CHI,,J. Walker,POR,MISS Walker 27' 3PT Jump Shot,Missed Shot,Jump Shot,59,267,27,1,3.0,0.0,h
+S2223-G1104,4,06:08,POR,88.0,CHI,107.0,J. Walker,POR,Walker 3' Cutting Dunk Shot (12 PTS) (Knox II 1 AST),Made Shot,Cutting Dunk Shot,11,26,3,1,2.0,2.0,h
+S2223-G1104,4,01:09,POR,,CHI,,J. Walker,POR,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1104,4,00:52.300000,POR,96.0,CHI,122.0,J. Walker,POR,Walker 2' Running Dunk (14 PTS) (Johnson 6 AST),Made Shot,Running Dunk Shot,-1,15,2,1,2.0,2.0,h
+S2223-G0559,1,03:43,POR,,DET,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0559,1,03:17,POR,15.0,DET,14.0,J. Walker,POR,Walker 1' Cutting Dunk Shot (2 PTS) (Hart 2 AST),Made Shot,Cutting Dunk Shot,1,8,1,1,2.0,2.0,h
+S2223-G0559,1,03:17,POR,,DET,,J. Walker,POR,SUB: Watford FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0559,2,07:47,POR,,DET,,J. Walker,POR,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0559,2,03:06,POR,,DET,,J. Walker,POR,SUB: Grant FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0559,3,00:04.800000,POR,,DET,,J. Walker,POR,Walker BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0559,4,08:46,POR,,DET,,J. Walker,POR,Walker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0559,4,08:18,POR,,DET,,J. Walker,POR,SUB: Watford FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0559,4,04:30,POR,,DET,,J. Walker,POR,Walker P.FOUL (P1.PN) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2223-G0559,4,03:13,POR,,DET,,J. Walker,POR,MISS Walker 27' 3PT Jump Shot,Missed Shot,Jump Shot,-162,212,27,1,3.0,0.0,h
+S2223-G0559,4,01:49,POR,,DET,,J. Walker,POR,Walker REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0559,4,01:08,POR,,DET,,J. Walker,POR,Walker REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0559,4,01:08,POR,133.0,DET,101.0,J. Walker,POR,Walker 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-12,1,1,1,2.0,2.0,h
+S2223-G0559,4,00:49.300000,POR,,DET,,J. Walker,POR,Walker REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0559,4,00:17.400000,POR,,DET,,J. Walker,POR,Walker P.FOUL (P2.PN) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2223-G0261,4,01:14,CLE,,POR,,J. Walker,POR,MISS Walker 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,51,188,19,1,2.0,0.0,v
+S2223-G0631,1,02:02,POR,,CLE,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0631,1,01:00,POR,,CLE,,J. Walker,POR,Walker Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0631,1,00:51,POR,,CLE,,J. Walker,POR,Walker P.FOUL (P1.T3) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G0631,1,00:43.200000,POR,,CLE,,J. Walker,POR,Walker S.FOUL (P2.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2223-G0631,1,00:30.700000,POR,,CLE,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0631,1,00:30.700000,POR,30.0,CLE,25.0,J. Walker,POR,Walker 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,4,6,1,1,2.0,2.0,h
+S2223-G0631,3,02:03,POR,,CLE,,J. Walker,POR,MISS Walker 3' Floating Jump Shot,Missed Shot,Floating Jump shot,20,25,3,1,2.0,0.0,h
+S2223-G0631,3,02:02,POR,,CLE,,J. Walker,POR,Walker REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0631,3,02:01,POR,86.0,CLE,79.0,J. Walker,POR,Walker Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0631,3,02:01,POR,87.0,CLE,79.0,J. Walker,POR,Walker Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0631,4,06:35,POR,,CLE,,J. Walker,POR,MISS Walker 3PT Jump Shot,Missed Shot,Jump Shot,-232,6,0,1,3.0,0.0,h
+S2223-G0631,4,05:43,POR,,CLE,,J. Walker,POR,SUB: Grant FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0324,1,03:16,LAL,,POR,,J. Walker,POR,Walker S.FOUL (P1.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G0324,1,00:15.600000,LAL,,POR,,J. Walker,POR,MISS Walker 3' Running Layup,Missed Shot,Running Layup Shot,25,13,3,1,2.0,0.0,v
+S2223-G0324,1,00:00.900000,LAL,,POR,,J. Walker,POR,Walker P.FOUL (P2.PN) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2223-G0324,3,03:58,LAL,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0324,3,02:58,LAL,,POR,,J. Walker,POR,Walker P.FOUL (P3.T4) (N.Sago),Foul,Personal,0,0,0,0,,,v
+S2223-G0324,3,02:02,LAL,,POR,,J. Walker,POR,Walker Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0324,3,01:08,LAL,94.0,POR,81.0,J. Walker,POR,Walker 1' Cutting Dunk Shot (2 PTS) (Simons 5 AST),Made Shot,Cutting Dunk Shot,-1,10,1,1,2.0,2.0,v
+S2223-G0324,3,00:33,LAL,,POR,,J. Walker,POR,MISS Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-165,203,26,1,3.0,0.0,v
+S2223-G0324,4,11:45,LAL,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0324,4,11:21,LAL,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0324,4,11:20,LAL,,POR,,J. Walker,POR,MISS Walker 4' Putback Layup,Missed Shot,Putback Layup Shot,4,36,4,1,2.0,0.0,v
+S2223-G0324,4,11:10,LAL,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0324,4,09:32,LAL,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0324,4,09:12,LAL,,POR,,J. Walker,POR,Walker P.FOUL (P4.T1) (N.Sago),Foul,Personal,0,0,0,0,,,v
+S2223-G0324,4,08:24,LAL,,POR,,J. Walker,POR,SUB: Simons FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0830,2,10:34,POR,41.0,GSW,32.0,J. Walker,POR,Walker 2' Layup (2 PTS) (Watford 2 AST),Made Shot,Layup Shot,-17,8,2,1,2.0,2.0,h
+S2223-G0830,2,10:09,POR,42.0,GSW,32.0,J. Walker,POR,Walker Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0830,2,10:09,POR,43.0,GSW,32.0,J. Walker,POR,Walker Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0830,2,09:46,POR,,GSW,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0830,2,08:47,POR,,GSW,,J. Walker,POR,SUB: Grant FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0830,4,10:55,POR,97.0,GSW,97.0,J. Walker,POR,Walker 2' Driving Layup (6 PTS) (Simons 3 AST),Made Shot,Driving Layup Shot,-16,15,2,1,2.0,2.0,h
+S2223-G0830,4,10:55,POR,98.0,GSW,97.0,J. Walker,POR,Walker Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0830,4,10:31,POR,,GSW,,J. Walker,POR,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0830,4,08:35,POR,106.0,GSW,100.0,J. Walker,POR,Walker 24' 3PT Jump Shot (10 PTS) (Simons 5 AST),Made Shot,Jump Shot,237,21,24,1,3.0,3.0,h
+S2223-G0830,4,08:28,POR,,GSW,,J. Walker,POR,SUB: Grant FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0867,1,01:00,POR,,LAL,,J. Walker,POR,MISS Walker 27' 3PT Jump Shot,Missed Shot,Jump Shot,-157,219,27,1,3.0,0.0,h
+S2223-G0867,2,08:12,POR,46.0,LAL,28.0,J. Walker,POR,Walker 2' Cutting Dunk Shot (2 PTS) (Sharpe 4 AST),Made Shot,Cutting Dunk Shot,11,22,2,1,2.0,2.0,h
+S2223-G0867,2,07:50,POR,,LAL,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0867,2,07:21,POR,,LAL,,J. Walker,POR,SUB: Simons FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0867,4,06:12,POR,,LAL,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0867,4,06:11,POR,117.0,LAL,91.0,J. Walker,POR,Walker Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0867,4,05:37,POR,,LAL,,J. Walker,POR,MISS Walker 27' 3PT Jump Shot,Missed Shot,Jump Shot,-100,253,27,1,3.0,0.0,h
+S2223-G0867,4,05:18,POR,,LAL,,J. Walker,POR,MISS Walker 15' Floating Jump Shot,Missed Shot,Floating Jump shot,-50,141,15,1,2.0,0.0,h
+S2223-G0867,4,03:26,POR,,LAL,,J. Walker,POR,Walker S.FOUL (P1.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0867,4,03:17,POR,121.0,LAL,103.0,J. Walker,POR,Walker 2' Running Layup (6 PTS) (Johnson 1 AST),Made Shot,Running Layup Shot,18,6,2,1,2.0,2.0,h
+S2223-G0867,4,02:17,POR,,LAL,,J. Walker,POR,Walker STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0867,4,02:14,POR,124.0,LAL,106.0,J. Walker,POR,Walker Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0867,4,02:14,POR,125.0,LAL,106.0,J. Walker,POR,Walker Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0867,4,01:28,POR,,LAL,,J. Walker,POR,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0867,4,00:34.100000,POR,,LAL,,J. Walker,POR,MISS Walker 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,97,12,10,1,2.0,0.0,h
+S2223-G0616,2,08:47,POR,,ORL,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0616,2,08:07,POR,,ORL,,J. Walker,POR,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0616,2,07:45,POR,,ORL,,J. Walker,POR,SUB: Grant FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0616,4,11:35,POR,,ORL,,J. Walker,POR,Walker S.FOUL (P1.T1) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0616,4,08:50,POR,,ORL,,J. Walker,POR,SUB: Grant FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0682,2,09:08,POR,,PHI,,J. Walker,POR,Walker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0682,2,09:07,POR,,PHI,,J. Walker,POR,MISS Walker 1' Putback Layup,Missed Shot,Putback Layup Shot,-6,7,1,1,2.0,0.0,h
+S2223-G0682,2,08:23,POR,,PHI,,J. Walker,POR,SUB: Grant FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0051,4,03:17,POR,,DEN,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0051,4,02:44,POR,,DEN,,J. Walker,POR,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0051,4,02:40,POR,130.0,DEN,104.0,J. Walker,POR,Walker 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,11,10,1,1,2.0,2.0,h
+S2223-G0175,2,10:49,NOP,29.0,POR,31.0,J. Walker,POR,Walker 4' Layup (2 PTS) (Hart 1 AST),Made Shot,Layup Shot,-9,43,4,1,2.0,2.0,v
+S2223-G0175,2,10:07,NOP,,POR,,J. Walker,POR,Walker Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0175,2,08:12,NOP,,POR,,J. Walker,POR,MISS Walker 27' 3PT Jump Shot,Missed Shot,Jump Shot,196,188,27,1,3.0,0.0,v
+S2223-G0175,2,08:02,NOP,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0175,2,07:16,NOP,41.0,POR,33.0,J. Walker,POR,Walker 7' Layup (4 PTS),Made Shot,Layup Shot,-12,68,7,1,2.0,2.0,v
+S2223-G0175,2,05:30,NOP,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0175,2,05:30,NOP,,POR,,J. Walker,POR,SUB: Hart FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0175,3,00:25.200000,NOP,,POR,,J. Walker,POR,MISS Walker 3PT Jump Shot,Missed Shot,Jump Shot,-230,7,0,1,3.0,0.0,v
+S2223-G1230,1,04:18,POR,,GSW,,J. Walker,POR,Walker Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1230,1,03:48,POR,,GSW,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1230,1,03:03,POR,,GSW,,J. Walker,POR,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1230,1,02:58,POR,,GSW,,J. Walker,POR,MISS Walker 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,153,204,26,1,3.0,0.0,h
+S2223-G1230,2,05:56,POR,40.0,GSW,68.0,J. Walker,POR,Walker 21' Jump Shot (2 PTS) (Knox II 1 AST),Made Shot,Jump Shot,-99,189,21,1,2.0,2.0,h
+S2223-G1230,2,05:19,POR,42.0,GSW,70.0,J. Walker,POR,Walker Cutting Dunk Shot (4 PTS) (Sharpe 2 AST),Made Shot,Cutting Dunk Shot,-2,1,0,1,2.0,2.0,h
+S2223-G1230,2,02:40,POR,,GSW,,J. Walker,POR,Walker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1230,3,06:44,POR,,GSW,,J. Walker,POR,MISS Walker 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,34,24,1,3.0,0.0,h
+S2223-G1230,3,03:54,POR,69.0,GSW,105.0,J. Walker,POR,Walker Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1230,3,03:54,POR,,GSW,,J. Walker,POR,MISS Walker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1230,3,02:35,POR,,GSW,,J. Walker,POR,Walker Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1230,3,00:20.500000,POR,73.0,GSW,116.0,J. Walker,POR,Walker Driving Dunk (7 PTS) (Mays 8 AST),Made Shot,Driving Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G1230,4,11:04,POR,75.0,GSW,118.0,J. Walker,POR,Walker 2' Driving Layup (9 PTS) (Sharpe 4 AST),Made Shot,Driving Layup Shot,18,7,2,1,2.0,2.0,h
+S2223-G1230,4,10:41,POR,,GSW,,J. Walker,POR,SUB: Knox II FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0159,1,01:41,CHA,,POR,,J. Walker,POR,Walker Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0159,1,00:01.400000,CHA,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0159,2,10:29,CHA,,POR,,J. Walker,POR,Walker S.FOUL (P1.T1) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2223-G0159,2,09:55,CHA,,POR,,J. Walker,POR,Walker S.FOUL (P2.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0159,2,08:40,CHA,,POR,,J. Walker,POR,SUB: Hart FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0159,3,05:31,CHA,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0159,3,04:10,CHA,72.0,POR,72.0,J. Walker,POR,Walker 26' 3PT Jump Shot (3 PTS) (Lillard 5 AST),Made Shot,Jump Shot,-207,157,26,1,3.0,3.0,v
+S2223-G0159,3,02:49,CHA,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0159,3,01:47,CHA,78.0,POR,80.0,J. Walker,POR,Walker 1' Reverse Layup (5 PTS) (Watford 4 AST),Made Shot,Reverse Layup Shot,7,6,1,1,2.0,2.0,v
+S2223-G0159,3,01:42,CHA,,POR,,J. Walker,POR,Walker S.FOUL (P3.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0159,3,00:00,CHA,,POR,,J. Walker,POR,MISS Walker 3PT Jump Shot,Missed Shot,Jump Shot,-225,28,0,1,3.0,0.0,v
+S2223-G0159,4,07:58,CHA,,POR,,J. Walker,POR,SUB: Lillard FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0420,4,02:06,SAS,,POR,,J. Walker,POR,Walker P.FOUL (P1.T3) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G0420,4,00:52.300000,SAS,110.0,POR,125.0,J. Walker,POR,Walker 28' 3PT Pullup Jump Shot (3 PTS) (Watford 2 AST),Made Shot,Pullup Jump shot,7,277,28,1,3.0,3.0,v
+S2223-G1159,1,04:12,POR,,SAC,,J. Walker,POR,MISS Walker 1' Hook Shot,Missed Shot,Hook Shot,4,7,1,1,2.0,0.0,h
+S2223-G1159,1,03:58,POR,,SAC,,J. Walker,POR,Walker Offensive Charge Foul (P1) (L.Holtkamp),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1159,1,03:58,POR,,SAC,,J. Walker,POR,Walker Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1159,1,03:41,POR,21.0,SAC,25.0,J. Walker,POR,Walker Driving Layup (2 PTS) (Sharpe 3 AST),Made Shot,Driving Layup Shot,0,-1,0,1,2.0,2.0,h
+S2223-G1159,1,02:08,POR,,SAC,,J. Walker,POR,MISS Walker 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,33,-4,3,1,2.0,0.0,h
+S2223-G1159,1,01:08,POR,,SAC,,J. Walker,POR,MISS Walker 2' Running Layup,Missed Shot,Running Layup Shot,17,7,2,1,2.0,0.0,h
+S2223-G1159,2,10:36,POR,32.0,SAC,38.0,J. Walker,POR,Walker 27' 3PT Jump Shot (5 PTS) (Butler Jr. 1 AST),Made Shot,Jump Shot,-165,215,27,1,3.0,3.0,h
+S2223-G1159,2,09:50,POR,,SAC,,J. Walker,POR,MISS Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-148,218,26,1,3.0,0.0,h
+S2223-G1159,2,09:40,POR,,SAC,,J. Walker,POR,Walker BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1159,2,09:11,POR,,SAC,,J. Walker,POR,SUB: Eubanks FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G1159,2,00:35.800000,POR,,SAC,,J. Walker,POR,MISS Walker 25' 3PT Jump Shot,Missed Shot,Jump Shot,-43,249,25,1,3.0,0.0,h
+S2223-G1159,3,06:18,POR,,SAC,,J. Walker,POR,Walker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1159,3,06:17,POR,,SAC,,J. Walker,POR,MISS Walker 1' Putback Layup,Missed Shot,Putback Layup Shot,9,6,1,1,2.0,0.0,h
+S2223-G1159,3,04:38,POR,,SAC,,J. Walker,POR,MISS Walker 5' Floating Jump Shot,Missed Shot,Floating Jump shot,48,16,5,1,2.0,0.0,h
+S2223-G1159,3,00:59,POR,,SAC,,J. Walker,POR,Walker P.FOUL (P2.T1) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2223-G1159,4,03:31,POR,,SAC,,J. Walker,POR,Walker Bad Pass Turnover (P2.T17),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1159,4,02:13,POR,108.0,SAC,132.0,J. Walker,POR,Walker 26' 3PT Jump Shot (8 PTS) (Butler Jr. 2 AST),Made Shot,Jump Shot,210,155,26,1,3.0,3.0,h
+S2223-G1159,4,01:16,POR,111.0,SAC,135.0,J. Walker,POR,Walker 26' 3PT Jump Shot (11 PTS) (Harrison 3 AST),Made Shot,Jump Shot,-54,253,26,1,3.0,3.0,h
+S2223-G1159,4,00:26.800000,POR,,SAC,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1159,4,00:17.100000,POR,114.0,SAC,138.0,J. Walker,POR,Walker 26' 3PT Jump Shot (14 PTS) (Harrison 4 AST),Made Shot,Jump Shot,-54,250,26,1,3.0,3.0,h
+S2223-G0436,4,11:37,DAL,,POR,,J. Walker,POR,Trail Blazers T.Foul (Def. 3 Sec Walker ) (E.Malloy),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0436,4,07:55,DAL,,POR,,J. Walker,POR,Walker S.FOUL (P1.T3) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0436,4,06:16,DAL,,POR,,J. Walker,POR,MISS Walker 25' 3PT Jump Shot,Missed Shot,Jump Shot,200,158,25,1,3.0,0.0,v
+S2223-G0436,4,02:14,DAL,,POR,,J. Walker,POR,MISS Walker 5' Driving Layup,Missed Shot,Driving Layup Shot,47,16,5,1,2.0,0.0,v
+S2223-G0436,4,02:12,DAL,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0436,4,01:55,DAL,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0436,4,01:54,DAL,,POR,,J. Walker,POR,MISS Walker Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0436,4,01:32,DAL,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0441,4,04:50,HOU,,POR,,J. Walker,POR,Walker Traveling Turnover (P1.T12),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0441,4,04:39,HOU,,POR,,J. Walker,POR,Walker S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0441,4,02:57,HOU,,POR,,J. Walker,POR,MISS Walker 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,74,34,8,1,2.0,0.0,v
+S2223-G0441,4,02:09,HOU,,POR,,J. Walker,POR,SUB: Nurkic FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0441,4,00:30,HOU,,POR,,J. Walker,POR,Walker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0787,2,11:44,WAS,,POR,,J. Walker,POR,MISS Walker 27' 3PT Jump Shot,Missed Shot,Jump Shot,157,225,27,1,3.0,0.0,v
+S2223-G0787,2,11:06,WAS,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0787,2,11:06,WAS,,POR,,J. Walker,POR,MISS Walker 3' Putback Layup,Missed Shot,Putback Layup Shot,-17,27,3,1,2.0,0.0,v
+S2223-G0787,2,08:49,WAS,,POR,,J. Walker,POR,SUB: Lillard FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0139,1,00:40.100000,PHX,,POR,,J. Walker,POR,Walker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0139,2,10:59,PHX,38.0,POR,28.0,J. Walker,POR,Walker 4' Cutting Layup Shot (2 PTS) (Winslow 1 AST),Made Shot,Cutting Layup Shot,-31,29,4,1,2.0,2.0,v
+S2223-G0139,2,10:28,PHX,,POR,,J. Walker,POR,Walker S.FOUL (P1.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G0139,2,09:41,PHX,,POR,,J. Walker,POR,SUB: Hart FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0139,4,11:22,PHX,,POR,,J. Walker,POR,Walker P.FOUL (P2.T1) (N.Sago),Foul,Personal,0,0,0,0,,,v
+S2223-G0139,4,06:55,PHX,,POR,,J. Walker,POR,MISS Walker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0139,4,06:55,PHX,94.0,POR,66.0,J. Walker,POR,Walker Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0139,4,06:31,PHX,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0139,4,05:53,PHX,,POR,,J. Walker,POR,MISS Walker 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-68,13,7,1,2.0,0.0,v
+S2223-G0139,4,04:43,PHX,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0139,4,01:53,PHX,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0894,1,02:18,SAC,19.0,POR,31.0,J. Walker,POR,Walker 17' Jump Shot (2 PTS) (Sharpe 1 AST),Made Shot,Jump Shot,78,147,17,1,2.0,2.0,v
+S2223-G0894,1,00:25.700000,SAC,,POR,,J. Walker,POR,Walker S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0894,2,09:15,SAC,,POR,,J. Walker,POR,SUB: Little FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0894,3,02:43,SAC,,POR,,J. Walker,POR,Walker S.FOUL (P2.T4) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0894,4,03:05,SAC,,POR,,J. Walker,POR,Walker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0894,4,03:00,SAC,,POR,,J. Walker,POR,MISS Walker 28' 3PT Jump Shot,Missed Shot,Jump Shot,113,252,28,1,3.0,0.0,v
+S2223-G0894,4,02:30,SAC,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0894,4,01:35,SAC,133.0,POR,113.0,J. Walker,POR,Walker 17' Jump Shot (4 PTS) (Johnson 3 AST),Made Shot,Jump Shot,-7,171,17,1,2.0,2.0,v
+S2223-G0986,4,04:28,BOS,103.0,POR,83.0,J. Walker,POR,Walker 25' 3PT Jump Shot (3 PTS) (Johnson 1 AST),Made Shot,Jump Shot,214,132,25,1,3.0,3.0,v
+S2223-G0986,4,04:01,BOS,,POR,,J. Walker,POR,Walker Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0986,4,03:30,BOS,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0986,4,02:46,BOS,,POR,,J. Walker,POR,Walker Violation:Defensive Goaltending (D.Mosher),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0986,4,02:09,BOS,,POR,,J. Walker,POR,MISS Walker 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,222,99,24,1,3.0,0.0,v
+S2223-G0343,1,04:11,UTA,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0343,1,03:34,UTA,,POR,,J. Walker,POR,MISS Walker 2' Dunk,Missed Shot,Dunk Shot,1,24,2,1,2.0,0.0,v
+S2223-G0343,1,02:52,UTA,,POR,,J. Walker,POR,Walker S.FOUL (P1.T3) (I.Hwang),Foul,Shooting,0,0,0,0,,,v
+S2223-G0343,1,02:36,UTA,,POR,,J. Walker,POR,MISS Walker 24' 3PT Jump Shot,Missed Shot,Jump Shot,-222,94,24,1,3.0,0.0,v
+S2223-G0343,1,01:28,UTA,,POR,,J. Walker,POR,MISS Walker 24' 3PT Jump Shot,Missed Shot,Jump Shot,-213,110,24,1,3.0,0.0,v
+S2223-G0343,3,03:54,UTA,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0343,3,03:41,UTA,,POR,,J. Walker,POR,Walker Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0343,3,03:28,UTA,,POR,,J. Walker,POR,Walker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0343,3,03:23,UTA,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0343,3,03:23,UTA,,POR,,J. Walker,POR,MISS Walker 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,-5,26,3,1,2.0,0.0,v
+S2223-G0343,3,01:14,UTA,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0815,4,04:27,POR,,MIL,,J. Walker,POR,MISS Walker 27' 3PT Jump Shot,Missed Shot,Jump Shot,-158,215,27,1,3.0,0.0,h
+S2223-G0815,4,03:47,POR,99.0,MIL,121.0,J. Walker,POR,Walker 25' 3PT Jump Shot (3 PTS) (Little 1 AST),Made Shot,Jump Shot,-234,74,25,1,3.0,3.0,h
+S2223-G0815,4,02:01,POR,,MIL,,J. Walker,POR,MISS Walker 19' Jump Shot,Missed Shot,Jump Shot,48,184,19,1,2.0,0.0,h
+S2223-G0815,4,01:42,POR,105.0,MIL,123.0,J. Walker,POR,Walker 2' Driving Layup (5 PTS) (Brown III 2 AST),Made Shot,Driving Layup Shot,20,12,2,1,2.0,2.0,h
+S2223-G0815,4,01:42,POR,106.0,MIL,123.0,J. Walker,POR,Walker Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0751,2,11:12,POR,16.0,TOR,37.0,J. Walker,POR,Walker 2' Driving Layup (2 PTS) (Watford 1 AST),Made Shot,Driving Layup Shot,17,4,2,1,2.0,2.0,h
+S2223-G0751,2,08:16,POR,,TOR,,J. Walker,POR,SUB: Grant FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0751,4,00:46,POR,,TOR,,J. Walker,POR,MISS Walker 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,13,9,2,1,2.0,0.0,h
+S2223-G1199,1,02:44,SAS,,POR,,J. Walker,POR,MISS Walker 19' Jump Shot,Missed Shot,Jump Shot,-130,135,19,1,2.0,0.0,v
+S2223-G1199,1,02:32,SAS,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1199,1,02:16,SAS,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1199,1,02:16,SAS,32.0,POR,31.0,J. Walker,POR,Walker Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1199,1,00:29.600000,SAS,,POR,,J. Walker,POR,MISS Walker 27' 3PT Jump Shot,Missed Shot,Jump Shot,99,247,27,1,3.0,0.0,v
+S2223-G1199,2,11:41,SAS,,POR,,J. Walker,POR,Trail Blazers T.Foul (Def. 3 Sec Walker ) (P.Ransom),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G1199,2,09:45,SAS,,POR,,J. Walker,POR,Walker P.FOUL (P1.T2) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G1199,2,09:05,SAS,,POR,,J. Walker,POR,Walker S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1199,2,09:05,SAS,,POR,,J. Walker,POR,SUB: Eubanks FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G1199,2,02:56,SAS,,POR,,J. Walker,POR,Walker OFF.Foul (P3) (P.Ransom),Foul,Offensive,0,0,0,0,,,v
+S2223-G1199,2,02:56,SAS,,POR,,J. Walker,POR,Walker Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1199,2,01:56,SAS,62.0,POR,58.0,J. Walker,POR,Walker 2' Cutting Layup Shot (4 PTS) (Harrison 4 AST),Made Shot,Cutting Layup Shot,-2,22,2,1,2.0,2.0,v
+S2223-G1199,2,01:36,SAS,,POR,,J. Walker,POR,Walker S.FOUL (P4.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G1199,2,01:36,SAS,,POR,,J. Walker,POR,SUB: Eubanks FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G1199,3,03:03,SAS,,POR,,J. Walker,POR,MISS Walker 24' 3PT Jump Shot,Missed Shot,Jump Shot,-227,85,24,1,3.0,0.0,v
+S2223-G1199,3,02:01,SAS,,POR,,J. Walker,POR,Trail Blazers T.Foul (Def. 3 Sec Walker ) (P.Fraher),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G1199,3,01:49,SAS,,POR,,J. Walker,POR,Walker STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1199,3,00:51.200000,SAS,96.0,POR,96.0,J. Walker,POR,Walker 13' Floating Jump Shot (6 PTS) (Harrison 7 AST),Made Shot,Floating Jump shot,65,109,13,1,2.0,2.0,v
+S2223-G1199,4,10:58,SAS,100.0,POR,104.0,J. Walker,POR,Walker 1' Cutting Layup Shot (8 PTS) (Knox II 1 AST),Made Shot,Cutting Layup Shot,-5,10,1,1,2.0,2.0,v
+S2223-G1199,4,10:24,SAS,,POR,,J. Walker,POR,MISS Walker 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,2,50,5,1,2.0,0.0,v
+S2223-G1199,4,10:23,SAS,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1199,4,09:27,SAS,,POR,,J. Walker,POR,Walker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1199,4,08:24,SAS,,POR,,J. Walker,POR,MISS Walker 16' Jump Shot,Missed Shot,Jump Shot,124,95,16,1,2.0,0.0,v
+S2223-G1199,4,06:21,SAS,,POR,,J. Walker,POR,MISS Walker 4' Running Layup,Missed Shot,Running Layup Shot,-6,37,4,1,2.0,0.0,v
+S2223-G1199,4,04:51,SAS,,POR,,J. Walker,POR,MISS Walker 9' Floating Jump Shot,Missed Shot,Floating Jump shot,-40,75,9,1,2.0,0.0,v
+S2223-G1199,4,03:38,SAS,,POR,,J. Walker,POR,MISS Walker 5' Driving Layup,Missed Shot,Driving Layup Shot,-10,46,5,1,2.0,0.0,v
+S2223-G1199,4,00:53.500000,SAS,,POR,,J. Walker,POR,Walker OFF.Foul (P5) (S.Corbin),Foul,Offensive,0,0,0,0,,,v
+S2223-G1199,4,00:53.500000,SAS,,POR,,J. Walker,POR,Walker Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0771,3,09:37,MEM,67.0,POR,60.0,J. Walker,POR,Walker 1' Running Layup (2 PTS) (Lillard 5 AST),Made Shot,Running Layup Shot,4,5,1,1,2.0,2.0,v
+S2223-G0771,3,07:56,MEM,,POR,,J. Walker,POR,MISS Walker 11' Floating Jump Shot,Missed Shot,Floating Jump shot,96,48,11,1,2.0,0.0,v
+S2223-G0771,3,06:16,MEM,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0771,3,06:12,MEM,,POR,,J. Walker,POR,MISS Walker 1' Layup,Missed Shot,Layup Shot,1,8,1,1,2.0,0.0,v
+S2223-G0771,3,05:59,MEM,,POR,,J. Walker,POR,SUB: Little FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0931,4,01:03,GSW,,POR,,J. Walker,POR,Walker P.FOUL (P1.T2) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2223-G0065,4,07:13,POR,,MIA,,J. Walker,POR,Walker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0065,4,07:13,POR,87.0,MIA,108.0,J. Walker,POR,Walker Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0065,4,03:15,POR,,MIA,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0065,4,01:15,POR,,MIA,,J. Walker,POR,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0571,1,05:09,MIN,,POR,,J. Walker,POR,Walker Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0571,1,02:46,MIN,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0571,1,02:28,MIN,,POR,,J. Walker,POR,SUB: Grant FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0571,2,02:01,MIN,,POR,,J. Walker,POR,SUB: Grant FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0571,3,05:11,MIN,,POR,,J. Walker,POR,Walker S.FOUL (P1.T4) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0571,3,02:52,MIN,80.0,POR,80.0,J. Walker,POR,Walker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0571,3,02:52,MIN,80.0,POR,81.0,J. Walker,POR,Walker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0571,3,02:36,MIN,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0571,3,02:19,MIN,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0571,3,02:19,MIN,,POR,,J. Walker,POR,MISS Walker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0571,3,02:19,MIN,,POR,,J. Walker,POR,MISS Walker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0571,3,01:38,MIN,,POR,,J. Walker,POR,Walker P.FOUL (P2.PN) (E.Lewis),Foul,Personal,0,0,0,0,,,v
+S2223-G0571,3,00:30,MIN,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0571,3,00:30,MIN,,POR,,J. Walker,POR,MISS Walker Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,v
+S2223-G0571,3,00:02,MIN,89.0,POR,84.0,J. Walker,POR,Walker Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0571,3,00:02,MIN,89.0,POR,85.0,J. Walker,POR,Walker Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0571,4,10:11,MIN,91.0,POR,90.0,J. Walker,POR,Walker 1' Dunk (6 PTS),Made Shot,Dunk Shot,-5,4,1,1,2.0,2.0,v
+S2223-G0571,4,09:59,MIN,,POR,,J. Walker,POR,Walker P.FOUL (P3.T3) (M.Dagher),Foul,Personal,0,0,0,0,,,v
+S2223-G0571,4,09:20,MIN,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0571,4,07:48,MIN,,POR,,J. Walker,POR,Walker REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0571,4,07:48,MIN,,POR,,J. Walker,POR,MISS Walker 1' Putback Layup,Missed Shot,Putback Layup Shot,1,12,1,1,2.0,0.0,v
+S2223-G0571,4,07:21,MIN,,POR,,J. Walker,POR,SUB: Hart FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G1120,1,01:28,POR,30.0,OKC,20.0,J. Walker,POR,Walker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1120,1,01:28,POR,31.0,OKC,20.0,J. Walker,POR,Walker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1120,2,11:06,POR,,OKC,,J. Walker,POR,Walker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1120,2,10:03,POR,,OKC,,J. Walker,POR,Walker REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1120,2,09:30,POR,,OKC,,J. Walker,POR,MISS Walker 3PT Jump Shot,Missed Shot,Jump Shot,223,6,0,1,3.0,0.0,h
+S2223-G1120,2,08:35,POR,,OKC,,J. Walker,POR,Walker S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1120,2,07:11,POR,,OKC,,J. Walker,POR,Walker BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1120,2,07:11,POR,,OKC,,J. Walker,POR,SUB: Eubanks FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G1120,3,03:17,POR,,OKC,,J. Walker,POR,Walker S.FOUL (P2.PN) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G1120,3,01:45,POR,,OKC,,J. Walker,POR,Walker STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1120,4,09:37,POR,,OKC,,J. Walker,POR,MISS Walker 1' Floating Jump Shot,Missed Shot,Floating Jump shot,12,8,1,1,2.0,0.0,h
+S2223-G1120,4,08:46,POR,,OKC,,J. Walker,POR,SUB: Eubanks FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0654,1,02:02,POR,,DAL,,J. Walker,POR,MISS Walker 3PT Jump Shot,Missed Shot,Jump Shot,-229,-6,0,1,3.0,0.0,h
+S2223-G0654,1,01:46,POR,,DAL,,J. Walker,POR,MISS Walker 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,3,41,4,1,2.0,0.0,h
+S2223-G0654,1,00:31.400000,POR,,DAL,,J. Walker,POR,MISS Walker 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,41,24,1,3.0,0.0,h
+S2223-G0654,1,00:00,POR,,DAL,,J. Walker,POR,MISS Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,176,194,26,1,3.0,0.0,h
+S2223-G0654,3,05:28,POR,,DAL,,J. Walker,POR,Walker P.FOUL (P1.T4) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2223-G0654,3,04:46,POR,,DAL,,J. Walker,POR,Walker P.FOUL (P2.PN) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2223-G0654,3,02:12,POR,,DAL,,J. Walker,POR,Walker L.B.FOUL (P3.PN) (B.Taylor),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0654,3,02:01,POR,93.0,DAL,85.0,J. Walker,POR,Walker 5' Cutting Layup Shot (2 PTS) (Payton II 2 AST),Made Shot,Cutting Layup Shot,21,48,5,1,2.0,2.0,h
+S2223-G0654,3,02:01,POR,94.0,DAL,85.0,J. Walker,POR,Walker Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0654,4,03:33,POR,133.0,DAL,111.0,J. Walker,POR,Walker Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0654,4,03:33,POR,134.0,DAL,111.0,J. Walker,POR,Walker Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0654,4,03:16,POR,,DAL,,J. Walker,POR,MISS Walker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0654,4,03:16,POR,,DAL,,J. Walker,POR,MISS Walker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0654,4,02:48,POR,136.0,DAL,111.0,J. Walker,POR,Walker 3' Driving Floating Jump Shot (7 PTS) (Brown III 1 AST),Made Shot,Driving Floating Jump Shot,22,22,3,1,2.0,2.0,h
+S2223-G0654,4,02:40,POR,,DAL,,J. Walker,POR,Walker P.FOUL (P4.PN) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0711,4,04:14,POR,,SAS,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1053,1,01:16,POR,,BOS,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1053,1,00:40.600000,POR,,BOS,,J. Walker,POR,Walker Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1053,2,11:41,POR,,BOS,,J. Walker,POR,Walker Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1053,2,08:49,POR,,BOS,,J. Walker,POR,Walker Offensive Charge Foul (P1) (C.Blair),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1053,2,08:49,POR,,BOS,,J. Walker,POR,Walker Offensive Foul Turnover (P3.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1053,2,08:32,POR,,BOS,,J. Walker,POR,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1053,2,07:52,POR,,BOS,,J. Walker,POR,MISS Walker 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-2,10,1,1,2.0,0.0,h
+S2223-G1053,2,07:50,POR,,BOS,,J. Walker,POR,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1053,2,07:50,POR,,BOS,,J. Walker,POR,MISS Walker 2' Putback Layup,Missed Shot,Putback Layup Shot,-5,16,2,1,2.0,0.0,h
+S2223-G1053,2,07:38,POR,,BOS,,J. Walker,POR,Walker REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1053,2,07:34,POR,,BOS,,J. Walker,POR,SUB: Watford FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0843,1,04:56,POR,,OKC,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0843,1,04:46,POR,22.0,OKC,17.0,J. Walker,POR,Walker 1' Driving Layup (2 PTS) (Lillard 2 AST),Made Shot,Driving Layup Shot,7,2,1,1,2.0,2.0,h
+S2223-G0843,1,03:43,POR,,OKC,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0843,1,03:42,POR,26.0,OKC,21.0,J. Walker,POR,Walker 1' Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,2,-8,1,1,2.0,2.0,h
+S2223-G0843,1,03:01,POR,,OKC,,J. Walker,POR,MISS Walker 1' Running Dunk,Missed Shot,Running Dunk Shot,-7,2,1,1,2.0,0.0,h
+S2223-G0843,1,02:16,POR,,OKC,,J. Walker,POR,MISS Walker 3PT Jump Shot,Missed Shot,Jump Shot,-233,-8,0,1,3.0,0.0,h
+S2223-G0843,1,01:46,POR,30.0,OKC,28.0,J. Walker,POR,Walker Cutting Dunk Shot (6 PTS) (Lillard 3 AST),Made Shot,Cutting Dunk Shot,2,-3,0,1,2.0,2.0,h
+S2223-G0843,2,10:04,POR,37.0,OKC,38.0,J. Walker,POR,Walker 10' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,-99,-10,10,1,2.0,2.0,h
+S2223-G0843,2,09:55,POR,,OKC,,J. Walker,POR,SUB: Grant FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0843,3,04:53,POR,,OKC,,J. Walker,POR,Walker OFF.Foul (P1) (G.Petraitis),Foul,Offensive,0,0,0,0,,,h
+S2223-G0843,3,04:53,POR,,OKC,,J. Walker,POR,Walker Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0843,3,03:45,POR,,OKC,,J. Walker,POR,Walker S.FOUL (P2.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0843,3,03:45,POR,,OKC,,J. Walker,POR,SUB: Eubanks FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0843,4,05:22,POR,,OKC,,J. Walker,POR,SUB: Grant FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0843,4,01:14,POR,125.0,OKC,138.0,J. Walker,POR,Walker 16' Jump Shot (10 PTS) (Little 1 AST),Made Shot,Jump Shot,-88,135,16,1,2.0,2.0,h
+S2223-G0843,4,00:26.100000,POR,,OKC,,J. Walker,POR,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0947,2,11:07,ATL,,POR,,J. Walker,POR,MISS Walker 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-22,43,5,1,2.0,0.0,v
+S2223-G0947,2,09:17,ATL,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0947,2,08:26,ATL,,POR,,J. Walker,POR,SUB: Thybulle FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G1127,1,02:50,POR,,NOP,,J. Walker,POR,MISS Walker 27' 3PT Jump Shot,Missed Shot,Jump Shot,134,234,27,1,3.0,0.0,h
+S2223-G1127,2,05:43,POR,,NOP,,J. Walker,POR,MISS Walker 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,7,64,6,1,2.0,0.0,h
+S2223-G1127,2,03:07,POR,,NOP,,J. Walker,POR,MISS Walker 14' Jump Shot,Missed Shot,Jump Shot,-86,106,14,1,2.0,0.0,h
+S2223-G1127,2,02:36,POR,,NOP,,J. Walker,POR,Walker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1127,2,01:59,POR,,NOP,,J. Walker,POR,MISS Walker 4' Pullup Jump Shot,Missed Shot,Pullup Jump shot,6,38,4,1,2.0,0.0,h
+S2223-G1127,2,01:46,POR,,NOP,,J. Walker,POR,SUB: Knox II FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G1127,3,03:41,POR,,NOP,,J. Walker,POR,MISS Walker 15' Jump Shot,Missed Shot,Jump Shot,-70,138,15,1,2.0,0.0,h
+S2223-G1127,4,11:27,POR,,NOP,,J. Walker,POR,Walker P.FOUL (P1.T1) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2223-G1127,4,07:53,POR,,NOP,,J. Walker,POR,Walker STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1127,4,07:21,POR,67.0,NOP,100.0,J. Walker,POR,Walker 1' Cutting Layup Shot (2 PTS),Made Shot,Cutting Layup Shot,6,11,1,1,2.0,2.0,h
+S2223-G1127,4,07:11,POR,,NOP,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1127,4,03:36,POR,82.0,NOP,109.0,J. Walker,POR,Walker 1' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,9,2,1,1,2.0,2.0,h
+S2223-G1127,4,03:36,POR,83.0,NOP,109.0,J. Walker,POR,Walker Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1127,4,03:22,POR,,NOP,,J. Walker,POR,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1127,4,02:41,POR,85.0,NOP,109.0,J. Walker,POR,Walker 1' Running Dunk (7 PTS) (Knox II 3 AST),Made Shot,Running Dunk Shot,-5,6,1,1,2.0,2.0,h
+S2223-G1127,4,01:46,POR,,NOP,,J. Walker,POR,MISS Walker 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-44,64,8,1,2.0,0.0,h
+S2223-G1166,1,02:31,MIN,,POR,,J. Walker,POR,Walker P.FOUL (P1.PN) (J.Schroeder),Foul,Personal,0,0,0,0,,,v
+S2223-G1166,1,02:08,MIN,,POR,,J. Walker,POR,MISS Walker 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,125,211,25,1,3.0,0.0,v
+S2223-G1166,1,01:16,MIN,,POR,,J. Walker,POR,MISS Walker 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-11,11,2,1,2.0,0.0,v
+S2223-G1166,1,01:15,MIN,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1166,1,01:15,MIN,26.0,POR,28.0,J. Walker,POR,Walker Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1166,1,00:02.500000,MIN,,POR,,J. Walker,POR,Walker S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G1166,2,10:59,MIN,,POR,,J. Walker,POR,MISS Walker 5' Hook Shot,Missed Shot,Hook Shot,-48,4,5,1,2.0,0.0,v
+S2223-G1166,2,10:05,MIN,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1166,2,09:32,MIN,,POR,,J. Walker,POR,Walker L.B.FOUL (P3.T4) (M.Davis),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1166,2,09:32,MIN,,POR,,J. Walker,POR,SUB: Eubanks FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G1166,3,02:51,MIN,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1166,3,02:46,MIN,84.0,POR,78.0,J. Walker,POR,Walker 25' 3PT Jump Shot (5 PTS) (Harrison 3 AST),Made Shot,Jump Shot,40,250,25,1,3.0,3.0,v
+S2223-G1166,3,01:33,MIN,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1166,3,00:13.200000,MIN,,POR,,J. Walker,POR,MISS Walker 25' 3PT Jump Shot,Missed Shot,Jump Shot,15,248,25,1,3.0,0.0,v
+S2223-G1166,4,11:15,MIN,,POR,,J. Walker,POR,MISS Walker 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-66,64,9,1,2.0,0.0,v
+S2223-G1166,4,11:11,MIN,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1166,4,11:07,MIN,,POR,,J. Walker,POR,MISS Walker 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-9,19,2,1,2.0,0.0,v
+S2223-G1166,4,09:27,MIN,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1166,4,07:25,MIN,,POR,,J. Walker,POR,MISS Walker 25' 3PT Jump Shot,Missed Shot,Jump Shot,-180,176,25,1,3.0,0.0,v
+S2223-G1166,4,06:24,MIN,,POR,,J. Walker,POR,MISS Walker 7' Hook Shot,Missed Shot,Hook Shot,62,35,7,1,2.0,0.0,v
+S2223-G1166,4,06:09,MIN,,POR,,J. Walker,POR,Walker STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1166,4,04:31,MIN,,POR,,J. Walker,POR,MISS Walker 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-4,55,6,1,2.0,0.0,v
+S2223-G1166,4,04:15,MIN,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1166,4,03:53,MIN,,POR,,J. Walker,POR,Walker P.FOUL (P4.T4) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2223-G1166,4,03:47,MIN,,POR,,J. Walker,POR,SUB: Eubanks FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0130,2,11:19,PHX,,POR,,J. Walker,POR,Walker STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0130,2,10:50,PHX,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0130,2,09:17,PHX,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0130,2,09:16,PHX,32.0,POR,33.0,J. Walker,POR,Walker 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,12,5,1,1,2.0,2.0,v
+S2223-G0130,2,08:24,PHX,,POR,,J. Walker,POR,Walker L.B.FOUL (P1.T2) (K.Scott),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0130,2,08:24,PHX,,POR,,J. Walker,POR,SUB: Grant FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0130,4,10:51,PHX,,POR,,J. Walker,POR,MISS Walker 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,75,79,11,1,2.0,0.0,v
+S2223-G0130,4,10:32,PHX,,POR,,J. Walker,POR,Walker Violation:Kicked Ball (T.Ford),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0130,4,09:36,PHX,,POR,,J. Walker,POR,MISS Walker 1' Running Layup,Missed Shot,Running Layup Shot,-1,6,1,1,2.0,0.0,v
+S2223-G0130,4,08:45,PHX,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0130,4,07:46,PHX,,POR,,J. Walker,POR,SUB: Johnson FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0872,1,02:44,POR,,WAS,,J. Walker,POR,Walker S.FOUL (P1.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0872,1,01:27,POR,,WAS,,J. Walker,POR,Walker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0872,1,01:27,POR,21.0,WAS,25.0,J. Walker,POR,Walker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0872,1,01:27,POR,,WAS,,J. Walker,POR,MISS Walker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0872,2,11:51,POR,,WAS,,J. Walker,POR,Walker Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0872,2,11:16,POR,,WAS,,J. Walker,POR,SUB: Reddish FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0872,3,04:14,POR,66.0,WAS,80.0,J. Walker,POR,Walker 1' Cutting Dunk Shot (3 PTS) (Lillard 5 AST),Made Shot,Cutting Dunk Shot,1,7,1,1,2.0,2.0,h
+S2223-G0872,3,03:52,POR,,WAS,,J. Walker,POR,Walker BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0872,3,02:31,POR,,WAS,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0872,3,02:28,POR,,WAS,,J. Walker,POR,Walker Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0917,1,01:46,POR,,HOU,,J. Walker,POR,SUB: Grant FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0917,2,05:22,POR,,HOU,,J. Walker,POR,MISS Walker 3PT Jump Shot,Missed Shot,Jump Shot,-233,13,0,1,3.0,0.0,h
+S2223-G0917,2,03:38,POR,,HOU,,J. Walker,POR,Walker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0917,2,03:38,POR,,HOU,,J. Walker,POR,MISS Walker Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0917,2,03:03,POR,,HOU,,J. Walker,POR,Walker BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0917,2,00:31.200000,POR,,HOU,,J. Walker,POR,Walker Violation:Defensive Goaltending (A.Moyer-Gleich),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0917,3,02:42,POR,,HOU,,J. Walker,POR,MISS Walker 3PT Jump Shot,Missed Shot,Jump Shot,233,10,0,1,3.0,0.0,h
+S2223-G0917,3,01:55,POR,,HOU,,J. Walker,POR,Walker BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0917,3,00:32.500000,POR,102.0,HOU,88.0,J. Walker,POR,Walker 2' Cutting Layup Shot (2 PTS) (Johnson 3 AST),Made Shot,Cutting Layup Shot,0,17,2,1,2.0,2.0,h
+S2223-G0917,4,10:50,POR,,HOU,,J. Walker,POR,MISS Walker 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,20,-7,2,1,2.0,0.0,h
+S2223-G0917,4,10:40,POR,,HOU,,J. Walker,POR,SUB: Lillard FOR Walker,Substitution,,0,0,0,0,,,h
+S2223-G0080,4,00:26.300000,POR,,HOU,,J. Walker,POR,MISS Walker 27' 3PT Jump Shot,Missed Shot,Jump Shot,143,224,27,1,3.0,0.0,h
+S2223-G1184,1,04:35,MEM,,POR,,J. Walker,POR,Walker OFF.Foul (P1) (M.Lindsay),Foul,Offensive,0,0,0,0,,,v
+S2223-G1184,1,04:35,MEM,,POR,,J. Walker,POR,Walker Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1184,1,02:53,MEM,,POR,,J. Walker,POR,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1184,1,02:44,MEM,,POR,,J. Walker,POR,Walker Lost Ball Turnover (P2.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1184,1,02:19,MEM,,POR,,J. Walker,POR,MISS Walker 3PT Jump Shot,Missed Shot,Jump Shot,228,32,0,1,3.0,0.0,v
+S2223-G1184,1,01:58,MEM,,POR,,J. Walker,POR,MISS Walker 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,10,13,2,1,2.0,0.0,v
+S2223-G1184,2,11:44,MEM,41.0,POR,27.0,J. Walker,POR,Walker 10' Turnaround Hook Shot (2 PTS) (Minaya 1 AST),Made Shot,Turnaround Hook Shot,-58,76,10,1,2.0,2.0,v
+S2223-G1184,2,11:18,MEM,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1184,2,11:17,MEM,41.0,POR,29.0,J. Walker,POR,Walker 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,2,5,1,1,2.0,2.0,v
+S2223-G1184,2,10:17,MEM,46.0,POR,33.0,J. Walker,POR,Walker 1' Cutting Dunk Shot (6 PTS) (Sharpe 4 AST),Made Shot,Cutting Dunk Shot,-4,12,1,1,2.0,2.0,v
+S2223-G1184,2,09:24,MEM,48.0,POR,34.0,J. Walker,POR,Walker Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1184,2,09:24,MEM,,POR,,J. Walker,POR,MISS Walker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1184,2,07:43,MEM,,POR,,J. Walker,POR,SUB: Eubanks FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G1184,3,06:41,MEM,,POR,,J. Walker,POR,MISS Walker 18' Jump Shot,Missed Shot,Jump Shot,94,148,18,1,2.0,0.0,v
+S2223-G1184,3,06:32,MEM,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1184,3,06:19,MEM,80.0,POR,78.0,J. Walker,POR,Walker 25' 3PT Jump Shot (10 PTS) (Sharpe 5 AST),Made Shot,Jump Shot,154,193,25,1,3.0,3.0,v
+S2223-G1184,3,04:47,MEM,,POR,,J. Walker,POR,MISS Walker 25' 3PT Jump Shot,Missed Shot,Jump Shot,-38,245,25,1,3.0,0.0,v
+S2223-G1184,3,04:36,MEM,,POR,,J. Walker,POR,Walker P.FOUL (P2.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2223-G1184,3,04:12,MEM,,POR,,J. Walker,POR,Walker L.B.FOUL (P3.T3) (B.Barnaky),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1184,3,02:51,MEM,90.0,POR,86.0,J. Walker,POR,Walker 25' 3PT Jump Shot (13 PTS),Made Shot,Jump Shot,-105,222,25,1,3.0,3.0,v
+S2223-G1184,3,01:44,MEM,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1184,3,01:29,MEM,,POR,,J. Walker,POR,MISS Walker 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,28,68,7,1,2.0,0.0,v
+S2223-G1184,3,01:17,MEM,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1184,3,00:53.600000,MEM,,POR,,J. Walker,POR,Walker S.FOUL (P4.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2223-G1184,4,01:24,MEM,118.0,POR,106.0,J. Walker,POR,Walker 25' 3PT Jump Shot (16 PTS) (Mays 7 AST),Made Shot,Jump Shot,124,218,25,1,3.0,3.0,v
+S2223-G1184,4,01:00,MEM,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1215,1,03:54,LAC,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1215,1,02:05,LAC,,POR,,J. Walker,POR,Walker S.FOUL (P1.T4) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1215,1,02:02,LAC,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1215,1,01:32,LAC,22.0,POR,30.0,J. Walker,POR,Walker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1215,1,01:32,LAC,22.0,POR,31.0,J. Walker,POR,Walker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1215,1,00:41.600000,LAC,26.0,POR,33.0,J. Walker,POR,Walker 11' Jump Shot (4 PTS) (Harrison 2 AST),Made Shot,Jump Shot,-5,107,11,1,2.0,2.0,v
+S2223-G1215,2,11:42,LAC,26.0,POR,35.0,J. Walker,POR,Walker 11' Jump Shot (6 PTS) (Mays 2 AST),Made Shot,Jump Shot,-37,102,11,1,2.0,2.0,v
+S2223-G1215,2,11:12,LAC,,POR,,J. Walker,POR,MISS Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-120,228,26,1,3.0,0.0,v
+S2223-G1215,2,11:03,LAC,,POR,,J. Walker,POR,Walker P.FOUL (P2.T1) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G1215,2,08:54,LAC,,POR,,J. Walker,POR,Walker Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1215,2,08:39,LAC,,POR,,J. Walker,POR,SUB: Knox II FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G1215,2,02:16,LAC,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1215,2,02:10,LAC,,POR,,J. Walker,POR,MISS Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-104,238,26,1,3.0,0.0,v
+S2223-G1215,2,01:53,LAC,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1215,2,01:53,LAC,,POR,,J. Walker,POR,MISS Walker Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1215,2,01:05,LAC,62.0,POR,70.0,J. Walker,POR,Walker Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1215,2,01:05,LAC,,POR,,J. Walker,POR,MISS Walker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1215,3,01:37,LAC,,POR,,J. Walker,POR,MISS Walker 3' Layup,Missed Shot,Layup Shot,22,19,3,1,2.0,0.0,v
+S2223-G1215,4,11:49,LAC,,POR,,J. Walker,POR,Walker S.FOUL (P3.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1215,4,09:29,LAC,,POR,,J. Walker,POR,SUB: Watford FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G1215,4,00:48.600000,LAC,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0536,2,10:16,GSW,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0536,2,10:14,GSW,41.0,POR,31.0,J. Walker,POR,Walker Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0536,2,09:57,GSW,,POR,,J. Walker,POR,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0536,2,08:37,GSW,,POR,,J. Walker,POR,MISS Walker 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-13,38,4,1,2.0,0.0,v
+S2223-G0536,2,08:35,GSW,,POR,,J. Walker,POR,Walker REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0536,2,08:34,GSW,,POR,,J. Walker,POR,MISS Walker Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0536,2,07:31,GSW,,POR,,J. Walker,POR,MISS Walker 2' Layup,Missed Shot,Layup Shot,-12,10,2,1,2.0,0.0,v
+S2223-G0536,2,07:23,GSW,,POR,,J. Walker,POR,SUB: Hart FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0536,2,03:23,GSW,,POR,,J. Walker,POR,Walker STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0536,2,02:53,GSW,,POR,,J. Walker,POR,SUB: Lillard FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G0536,2,00:15.700000,GSW,,POR,,J. Walker,POR,Walker REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0536,3,02:16,GSW,,POR,,J. Walker,POR,Walker L.B.FOUL (P1.PN) (K.Cutler),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0536,4,10:59,GSW,,POR,,J. Walker,POR,Walker REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0536,4,10:55,GSW,,POR,,J. Walker,POR,Walker Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0536,4,10:07,GSW,,POR,,J. Walker,POR,Walker REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0536,4,07:19,GSW,,POR,,J. Walker,POR,Walker S.FOUL (P2.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0536,4,07:19,GSW,,POR,,J. Walker,POR,SUB: Hart FOR Walker,Substitution,,0,0,0,0,,,v
+S2223-G1034,4,01:13,POR,102.0,NYK,117.0,J. Walker,POR,Walker 16' Jump Shot (2 PTS) (Johnson 1 AST),Made Shot,Jump Shot,16,155,16,1,2.0,2.0,h

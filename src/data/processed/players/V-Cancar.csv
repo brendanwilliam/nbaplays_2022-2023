@@ -1,0 +1,635 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G1109,4,02:10,DEN,,MIL,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0535,1,00:41.600000,DEN,,MIA,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0535,2,06:25,DEN,42.0,MIA,40.0,V. Cancar,DEN,Cancar 4' Turnaround Hook Shot (2 PTS) (Hyland 2 AST),Made Shot,Turnaround Hook Shot,25,34,4,1,2.0,2.0,h
+S2223-G0535,2,05:50,DEN,45.0,MIA,42.0,V. Cancar,DEN,Cancar 3PT Jump Shot (5 PTS) (Porter Jr. 2 AST),Made Shot,Jump Shot,233,7,0,1,3.0,3.0,h
+S2223-G0535,2,05:01,DEN,49.0,MIA,44.0,V. Cancar,DEN,Cancar 1' Running Dunk (7 PTS) (Porter Jr. 3 AST),Made Shot,Running Dunk Shot,0,5,1,1,2.0,2.0,h
+S2223-G0535,2,04:39,DEN,,MIA,,V. Cancar,DEN,Cancar S.FOUL (P1.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0535,2,03:44,DEN,,MIA,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0535,3,04:20,DEN,,MIA,,V. Cancar,DEN,Cancar S.FOUL (P2.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0535,3,04:07,DEN,77.0,MIA,83.0,V. Cancar,DEN,Cancar 3PT Jump Shot (10 PTS) (Jokic 9 AST),Made Shot,Jump Shot,-232,-13,0,1,3.0,3.0,h
+S2223-G0535,3,01:54,DEN,81.0,MIA,86.0,V. Cancar,DEN,Cancar Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0535,3,01:54,DEN,83.0,MIA,86.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0535,4,11:14,DEN,88.0,MIA,93.0,V. Cancar,DEN,Cancar 3PT Jump Shot (15 PTS) (Hyland 3 AST),Made Shot,Jump Shot,-228,8,0,1,3.0,3.0,h
+S2223-G0535,4,10:50,DEN,,MIA,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0535,4,06:10,DEN,,MIA,,V. Cancar,DEN,SUB: Caldwell-Pope FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0535,4,00:14.200000,DEN,,MIA,,V. Cancar,DEN,SUB: Hyland FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0831,1,00:49.500000,ORL,,DEN,,V. Cancar,DEN,Cancar Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0831,2,10:16,ORL,36.0,DEN,30.0,V. Cancar,DEN,Cancar 27' 3PT Jump Shot (3 PTS) (Smith 2 AST),Made Shot,Jump Shot,-150,226,27,1,3.0,3.0,v
+S2223-G0831,2,09:52,ORL,,DEN,,V. Cancar,DEN,MISS Cancar 8' Driving Layup,Missed Shot,Driving Layup Shot,15,81,8,1,2.0,0.0,v
+S2223-G0831,2,08:42,ORL,,DEN,,V. Cancar,DEN,MISS Cancar 27' 3PT Jump Shot,Missed Shot,Jump Shot,145,223,27,1,3.0,0.0,v
+S2223-G0831,2,08:26,ORL,,DEN,,V. Cancar,DEN,SUB: Jokic FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0831,2,00:20.400000,ORL,,DEN,,V. Cancar,DEN,SUB: Porter Jr. FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0831,4,10:23,ORL,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0831,4,07:26,ORL,,DEN,,V. Cancar,DEN,Cancar BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0831,4,07:26,ORL,,DEN,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0667,2,08:00,DEN,,POR,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0667,3,03:02,DEN,,POR,,V. Cancar,DEN,Cancar Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0667,3,00:30,DEN,,POR,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0667,4,09:40,DEN,,POR,,V. Cancar,DEN,MISS Cancar 2' Driving Dunk,Missed Shot,Driving Dunk Shot,-1,24,2,1,2.0,0.0,h
+S2223-G0667,4,09:38,DEN,,POR,,V. Cancar,DEN,Cancar Transition Take Foul (P1.T1) (M.Smith),Foul                                    ,Transition Take,0,0,0,0,,,h
+S2223-G0667,4,09:38,DEN,,POR,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0667,4,01:47,DEN,,POR,,V. Cancar,DEN,Cancar S.FOUL (P2.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G0344,1,05:19,NOP,,DEN,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0344,1,03:15,NOP,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0344,1,01:11,NOP,,DEN,,V. Cancar,DEN,Cancar P.FOUL (P1.T2) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2223-G0344,1,00:34.100000,NOP,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P2.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0344,1,00:18.400000,NOP,,DEN,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,15,264,26,1,3.0,0.0,v
+S2223-G0344,2,08:05,NOP,,DEN,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,233,0,0,1,3.0,0.0,v
+S2223-G0344,2,06:56,NOP,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0344,2,05:26,NOP,,DEN,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0344,3,06:06,NOP,,DEN,,V. Cancar,DEN,MISS Cancar 4' Layup,Missed Shot,Layup Shot,11,38,4,1,2.0,0.0,v
+S2223-G0344,3,04:44,NOP,,DEN,,V. Cancar,DEN,SUB: Brown FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0344,3,03:47,NOP,,DEN,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,173,193,26,1,3.0,0.0,v
+S2223-G0344,3,03:42,NOP,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P3.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0344,3,02:07,NOP,,DEN,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0305,1,04:03,DEN,,HOU,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,-225,11,0,1,3.0,0.0,h
+S2223-G0305,1,02:32,DEN,,HOU,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0305,1,02:09,DEN,,HOU,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0305,2,11:07,DEN,,HOU,,V. Cancar,DEN,MISS Cancar 2' Layup,Missed Shot,Layup Shot,16,13,2,1,2.0,0.0,h
+S2223-G0305,2,10:13,DEN,,HOU,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0305,2,09:23,DEN,,HOU,,V. Cancar,DEN,Cancar OFF.Foul (P1) (R.Mott),Foul,Offensive,0,0,0,0,,,h
+S2223-G0305,2,09:23,DEN,,HOU,,V. Cancar,DEN,Cancar Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0305,2,08:14,DEN,,HOU,,V. Cancar,DEN,SUB: Murray FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0305,2,02:52,DEN,,HOU,,V. Cancar,DEN,SUB: Nnaji FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0305,3,06:20,DEN,,HOU,,V. Cancar,DEN,Cancar P.FOUL (P2.PN) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G0305,3,05:27,DEN,,HOU,,V. Cancar,DEN,MISS Cancar 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,28,51,6,1,2.0,0.0,h
+S2223-G0305,3,05:21,DEN,,HOU,,V. Cancar,DEN,Cancar STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0305,3,04:46,DEN,,HOU,,V. Cancar,DEN,Cancar P.FOUL (P3.PN) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2223-G0305,3,02:52,DEN,,HOU,,V. Cancar,DEN,SUB: Brown FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0702,2,09:02,DEN,,OKC,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0450,1,01:25,DEN,,CHA,,V. Cancar,DEN,Cancar Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1083,4,01:27,WAS,,DEN,,V. Cancar,DEN,Cancar Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1201,1,04:03,PHX,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1201,1,03:52,PHX,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P1.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1201,1,02:32,PHX,,DEN,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,7,262,26,1,3.0,0.0,v
+S2223-G1201,1,00:07.100000,PHX,,DEN,,V. Cancar,DEN,Cancar BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1201,2,10:03,PHX,,DEN,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1201,2,09:04,PHX,,DEN,,V. Cancar,DEN,Cancar STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1201,2,05:58,PHX,,DEN,,V. Cancar,DEN,SUB: Jordan FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G1201,3,01:35,PHX,81.0,DEN,83.0,V. Cancar,DEN,Cancar 1' Driving Layup (2 PTS) (Smith 3 AST),Made Shot,Driving Layup Shot,-2,12,1,1,2.0,2.0,v
+S2223-G1201,3,00:34.500000,PHX,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P2.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G1201,4,09:25,PHX,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1201,4,09:08,PHX,,DEN,,V. Cancar,DEN,Cancar BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1201,4,09:03,PHX,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1201,4,07:09,PHX,,DEN,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,-143,223,26,1,3.0,0.0,v
+S2223-G1201,4,06:12,PHX,,DEN,,V. Cancar,DEN,SUB: Braun FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0806,1,07:54,MIN,10.0,DEN,9.0,V. Cancar,DEN,Cancar 14' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,22,139,14,1,2.0,2.0,v
+S2223-G0806,1,07:33,MIN,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0806,1,07:21,MIN,,DEN,,V. Cancar,DEN,MISS Cancar 13' Hook Shot,Missed Shot,Hook Shot,-123,42,13,1,2.0,0.0,v
+S2223-G0806,1,05:07,MIN,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0806,1,04:19,MIN,,DEN,,V. Cancar,DEN,SUB: Smith FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0806,2,02:12,MIN,57.0,DEN,40.0,V. Cancar,DEN,Cancar Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0806,2,02:12,MIN,57.0,DEN,41.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0806,2,00:29.200000,MIN,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0806,3,09:52,MIN,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0806,3,06:18,MIN,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P1.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0806,3,05:15,MIN,,DEN,,V. Cancar,DEN,MISS Cancar 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-112,9,11,1,2.0,0.0,v
+S2223-G0806,3,04:25,MIN,,DEN,,V. Cancar,DEN,SUB: Nnaji FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0806,4,04:29,MIN,,DEN,,V. Cancar,DEN,MISS Cancar 25' 3PT Jump Shot,Missed Shot,Jump Shot,-107,224,25,1,3.0,0.0,v
+S2223-G0806,4,03:01,MIN,121.0,DEN,89.0,V. Cancar,DEN,Cancar 2' Finger Roll Layup (6 PTS) (Smith 5 AST),Made Shot,Finger Roll Layup Shot,-9,14,2,1,2.0,2.0,v
+S2223-G0806,4,00:53.600000,MIN,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0847,1,08:28,CHA,,DEN,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,-114,232,26,1,3.0,0.0,v
+S2223-G0847,1,08:19,CHA,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0847,1,08:01,CHA,,DEN,,V. Cancar,DEN,MISS Cancar 2' Driving Layup,Missed Shot,Driving Layup Shot,7,16,2,1,2.0,0.0,v
+S2223-G0847,1,07:58,CHA,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0847,1,06:45,CHA,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0847,1,06:37,CHA,15.0,DEN,6.0,V. Cancar,DEN,Cancar 1' Layup (2 PTS) (Jokic 1 AST),Made Shot,Layup Shot,7,13,1,1,2.0,2.0,v
+S2223-G0847,1,04:34,CHA,22.0,DEN,12.0,V. Cancar,DEN,Cancar 2' Driving Finger Roll Layup (4 PTS) (Smith 1 AST),Made Shot,Driving Finger Roll Layup Shot,-7,20,2,1,2.0,2.0,v
+S2223-G0847,1,04:12,CHA,,DEN,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,183,180,26,1,3.0,0.0,v
+S2223-G0847,1,03:11,CHA,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P2.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0847,1,03:11,CHA,,DEN,,V. Cancar,DEN,SUB: Green FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0847,2,02:14,CHA,54.0,DEN,51.0,V. Cancar,DEN,Cancar Cutting Layup Shot (6 PTS) (Jokic 5 AST),Made Shot,Cutting Layup Shot,-2,1,0,1,2.0,2.0,v
+S2223-G0847,2,02:14,CHA,54.0,DEN,52.0,V. Cancar,DEN,Cancar Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0847,2,00:27.300000,CHA,60.0,DEN,57.0,V. Cancar,DEN,Cancar 25' 3PT Jump Shot (10 PTS) (Brown 3 AST),Made Shot,Jump Shot,-169,185,25,1,3.0,3.0,v
+S2223-G0847,3,09:55,CHA,62.0,DEN,67.0,V. Cancar,DEN,Cancar 1' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,-5,2,1,1,2.0,2.0,v
+S2223-G0847,3,09:37,CHA,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0847,3,09:11,CHA,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0847,3,05:58,CHA,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0847,3,05:49,CHA,,DEN,,V. Cancar,DEN,MISS Cancar 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-150,10,15,1,2.0,0.0,v
+S2223-G0847,3,02:11,CHA,,DEN,,V. Cancar,DEN,SUB: Green FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0514,1,03:14,SAC,,DEN,,V. Cancar,DEN,Cancar Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0514,2,09:40,SAC,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0514,2,07:24,SAC,,DEN,,V. Cancar,DEN,SUB: Smith FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0514,3,05:33,SAC,70.0,DEN,69.0,V. Cancar,DEN,Cancar 2' Reverse Layup (2 PTS) (Jokic 9 AST),Made Shot,Reverse Layup Shot,-18,11,2,1,2.0,2.0,v
+S2223-G0514,3,03:51,SAC,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0514,3,02:53,SAC,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0514,4,10:57,SAC,,DEN,,V. Cancar,DEN,MISS Cancar 5' Layup,Missed Shot,Layup Shot,-50,-4,5,1,2.0,0.0,v
+S2223-G0514,4,10:00,SAC,86.0,DEN,85.0,V. Cancar,DEN,Cancar 25' 3PT Running Jump Shot (5 PTS) (Hyland 6 AST),Made Shot,Running Jump Shot,9,248,25,1,3.0,3.0,v
+S2223-G0514,4,06:42,SAC,,DEN,,V. Cancar,DEN,MISS Cancar 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-229,-12,0,1,3.0,0.0,v
+S2223-G0514,4,05:01,SAC,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0514,4,04:46,SAC,92.0,DEN,95.0,V. Cancar,DEN,Cancar 26' 3PT Jump Shot (8 PTS) (Jokic 11 AST),Made Shot,Jump Shot,87,246,26,1,3.0,3.0,v
+S2223-G0514,4,03:56,SAC,,DEN,,V. Cancar,DEN,Cancar P.FOUL (P1.T3) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2223-G0514,4,00:23.900000,SAC,,DEN,,V. Cancar,DEN,SUB: Hyland FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0579,1,01:14,DEN,32.0,LAC,13.0,V. Cancar,DEN,Cancar 26' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,-186,177,26,1,3.0,3.0,h
+S2223-G0579,1,00:28.400000,DEN,,LAC,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0579,2,11:39,DEN,,LAC,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0579,2,07:36,DEN,,LAC,,V. Cancar,DEN,Cancar P.FOUL (P1.T2) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G0579,2,07:28,DEN,,LAC,,V. Cancar,DEN,Cancar Violation:Kicked Ball (D.Taylor),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0579,2,07:14,DEN,50.0,LAC,23.0,V. Cancar,DEN,Cancar 1' Running Dunk (5 PTS) (Brown 3 AST),Made Shot,Running Dunk Shot,-6,6,1,1,2.0,2.0,h
+S2223-G0579,2,06:17,DEN,,LAC,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0579,2,05:41,DEN,,LAC,,V. Cancar,DEN,SUB: Jokic FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0579,3,05:04,DEN,,LAC,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0579,3,03:36,DEN,,LAC,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0579,3,03:29,DEN,,LAC,,V. Cancar,DEN,MISS Cancar 3' Running Layup,Missed Shot,Running Layup Shot,5,31,3,1,2.0,0.0,h
+S2223-G0579,3,02:52,DEN,,LAC,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0579,3,02:52,DEN,92.0,LAC,55.0,V. Cancar,DEN,Cancar Putback Layup (7 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0579,3,02:41,DEN,,LAC,,V. Cancar,DEN,Cancar BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0579,3,01:25,DEN,,LAC,,V. Cancar,DEN,MISS Cancar 5' Layup,Missed Shot,Layup Shot,-29,37,5,1,2.0,0.0,h
+S2223-G0579,3,01:25,DEN,,LAC,,V. Cancar,DEN,Cancar REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0579,3,01:21,DEN,,LAC,,V. Cancar,DEN,MISS Cancar Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0579,3,01:20,DEN,,LAC,,V. Cancar,DEN,Cancar REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0579,3,01:20,DEN,96.0,LAC,59.0,V. Cancar,DEN,Cancar Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0579,3,00:45.600000,DEN,100.0,LAC,59.0,V. Cancar,DEN,Cancar 2' Running Layup (11 PTS) (Hyland 1 AST),Made Shot,Running Layup Shot,21,10,2,1,2.0,2.0,h
+S2223-G0579,3,00:07,DEN,,LAC,,V. Cancar,DEN,Cancar REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0579,4,10:34,DEN,,LAC,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,-225,11,0,1,3.0,0.0,h
+S2223-G0579,4,10:17,DEN,,LAC,,V. Cancar,DEN,Cancar REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0579,4,09:51,DEN,,LAC,,V. Cancar,DEN,Cancar OFF.Foul (P2) (K.Scott),Foul,Offensive,0,0,0,0,,,h
+S2223-G0579,4,09:51,DEN,,LAC,,V. Cancar,DEN,Cancar Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0579,4,07:51,DEN,,LAC,,V. Cancar,DEN,Cancar REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0579,4,07:51,DEN,108.0,LAC,70.0,V. Cancar,DEN,Cancar Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0579,4,05:56,DEN,,LAC,,V. Cancar,DEN,Cancar P.FOUL (P3.PN) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G0579,4,04:02,DEN,,LAC,,V. Cancar,DEN,Cancar REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0579,4,03:59,DEN,,LAC,,V. Cancar,DEN,Cancar Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0579,4,03:25,DEN,,LAC,,V. Cancar,DEN,Cancar REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0579,4,02:33,DEN,,LAC,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,132,221,26,1,3.0,0.0,h
+S2223-G0579,4,01:59,DEN,119.0,LAC,84.0,V. Cancar,DEN,Cancar Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0579,4,01:59,DEN,120.0,LAC,84.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0579,4,01:08,DEN,,LAC,,V. Cancar,DEN,Cancar S.FOUL (P4.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0579,4,00:57.800000,DEN,,LAC,,V. Cancar,DEN,MISS Cancar 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,31,10,3,1,2.0,0.0,h
+S2223-G0918,1,03:26,DEN,27.0,LAC,9.0,V. Cancar,DEN,Cancar 2' Reverse Layup (2 PTS) (Jokic 4 AST),Made Shot,Reverse Layup Shot,-13,15,2,1,2.0,2.0,h
+S2223-G0918,1,00:58.400000,DEN,,LAC,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,132,220,26,1,3.0,0.0,h
+S2223-G0918,2,10:58,DEN,,LAC,,V. Cancar,DEN,MISS Cancar Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0918,2,10:58,DEN,36.0,LAC,22.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0918,2,08:38,DEN,44.0,LAC,32.0,V. Cancar,DEN,Cancar 24' 3PT Jump Shot (6 PTS) (Murray 4 AST),Made Shot,Jump Shot,-237,22,24,1,3.0,3.0,h
+S2223-G0918,2,07:34,DEN,,LAC,,V. Cancar,DEN,Cancar Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0918,2,07:20,DEN,,LAC,,V. Cancar,DEN,SUB: Caldwell-Pope FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0918,4,08:28,DEN,,LAC,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0723,1,10:24,MIL,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0723,1,09:24,MIL,,DEN,,V. Cancar,DEN,Cancar BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0723,1,08:18,MIL,,DEN,,V. Cancar,DEN,Cancar Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0723,1,07:22,MIL,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0723,1,06:41,MIL,,DEN,,V. Cancar,DEN,Cancar Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0723,1,05:27,MIL,14.0,DEN,9.0,V. Cancar,DEN,Cancar 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,7,4,1,1,2.0,2.0,v
+S2223-G0723,1,05:05,MIL,,DEN,,V. Cancar,DEN,SUB: Smith FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0723,2,03:33,MIL,45.0,DEN,49.0,V. Cancar,DEN,Cancar Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0723,2,03:33,MIL,45.0,DEN,50.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0723,2,00:56.400000,MIL,,DEN,,V. Cancar,DEN,Cancar Out of Bounds - Bad Pass Turnover Turnover (P3.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0723,3,10:10,MIL,,DEN,,V. Cancar,DEN,MISS Cancar 29' 3PT Jump Shot,Missed Shot,Jump Shot,-72,276,29,1,3.0,0.0,v
+S2223-G0723,3,08:39,MIL,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0723,3,08:16,MIL,,DEN,,V. Cancar,DEN,MISS Cancar 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,91,74,12,1,2.0,0.0,v
+S2223-G0723,3,08:10,MIL,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0723,3,06:53,MIL,63.0,DEN,62.0,V. Cancar,DEN,Cancar 27' 3PT Jump Shot (7 PTS) (Smith 3 AST),Made Shot,Jump Shot,168,209,27,1,3.0,3.0,v
+S2223-G0723,3,05:37,MIL,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0723,3,04:45,MIL,69.0,DEN,66.0,V. Cancar,DEN,Cancar Running Layup (9 PTS) (Brown 3 AST),Made Shot,Running Layup Shot,-2,4,0,1,2.0,2.0,v
+S2223-G0723,3,04:31,MIL,,DEN,,V. Cancar,DEN,SUB: Hyland FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0522,1,02:53,SAC,19.0,DEN,29.0,V. Cancar,DEN,Cancar 26' 3PT Jump Shot (3 PTS) (Hyland 2 AST),Made Shot,Jump Shot,-154,205,26,1,3.0,3.0,v
+S2223-G0522,1,02:21,SAC,,DEN,,V. Cancar,DEN,Cancar BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0522,1,01:06,SAC,24.0,DEN,35.0,V. Cancar,DEN,Cancar 26' 3PT Jump Bank Shot (6 PTS) (Smith 1 AST),Made Shot,Jump Bank Shot,159,206,26,1,3.0,3.0,v
+S2223-G0522,2,07:51,SAC,,DEN,,V. Cancar,DEN,Cancar Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0522,2,07:50,SAC,,DEN,,V. Cancar,DEN,SUB: Nnaji FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0522,3,01:59,SAC,,DEN,,V. Cancar,DEN,Cancar L.B.FOUL (P1.T4) (T.Ford),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0522,3,00:56.700000,SAC,89.0,DEN,103.0,V. Cancar,DEN,Cancar 26' 3PT Jump Shot (9 PTS) (Reed 2 AST),Made Shot,Jump Shot,178,195,26,1,3.0,3.0,v
+S2223-G0522,3,00:00,SAC,,DEN,,V. Cancar,DEN,MISS Cancar 48' 3PT Jump Shot,Missed Shot,Jump Shot,-38,481,48,1,3.0,0.0,v
+S2223-G0522,4,06:25,SAC,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P2.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0522,4,06:25,SAC,,DEN,,V. Cancar,DEN,SUB: Caldwell-Pope FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0196,4,00:31,CHI,101.0,DEN,126.0,V. Cancar,DEN,Cancar 25' 3PT Jump Shot (3 PTS) (Brown 6 AST),Made Shot,Jump Shot,-175,174,25,1,3.0,3.0,v
+S2223-G0196,4,00:20,CHI,,DEN,,V. Cancar,DEN,Cancar P.FOUL (P1.PN) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2223-G0246,1,01:00,DAL,20.0,DEN,25.0,V. Cancar,DEN,Cancar 2' Driving Layup (2 PTS) (Caldwell-Pope 1 AST),Made Shot,Driving Layup Shot,18,-1,2,1,2.0,2.0,v
+S2223-G0246,2,11:53,DAL,,DEN,,V. Cancar,DEN,Cancar P.FOUL (P1.T1) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2223-G0246,2,11:51,DAL,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P2.T2) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2223-G0246,2,11:18,DAL,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0246,2,09:42,DAL,,DEN,,V. Cancar,DEN,Cancar OFF.Foul (P3) (L.Wood),Foul,Offensive,0,0,0,0,,,v
+S2223-G0246,2,09:42,DAL,,DEN,,V. Cancar,DEN,Cancar Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0246,2,08:52,DAL,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0246,2,08:32,DAL,32.0,DEN,35.0,V. Cancar,DEN,Cancar 2' Layup (4 PTS) (Hyland 1 AST),Made Shot,Layup Shot,23,5,2,1,2.0,2.0,v
+S2223-G0246,2,08:13,DAL,,DEN,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0246,2,08:07,DAL,,DEN,,V. Cancar,DEN,SUB: Jordan FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0246,2,00:01.500000,DAL,56.0,DEN,55.0,V. Cancar,DEN,Cancar 53' 3PT Jump Shot (7 PTS) (Brown 6 AST),Made Shot,Jump Shot,174,500,53,1,3.0,3.0,v
+S2223-G0246,3,03:37,DAL,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0246,3,02:43,DAL,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0246,3,02:24,DAL,,DEN,,V. Cancar,DEN,Cancar STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0246,3,01:40,DAL,,DEN,,V. Cancar,DEN,Cancar Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0246,3,01:18,DAL,,DEN,,V. Cancar,DEN,Cancar OFF.Foul (P4) (S.Wright),Foul,Offensive,0,0,0,0,,,v
+S2223-G0246,3,01:18,DAL,,DEN,,V. Cancar,DEN,Cancar Offensive Foul Turnover (P3.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0246,3,01:09,DAL,,DEN,,V. Cancar,DEN,SUB: Nnaji FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0138,4,04:13,DEN,,SAS,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0138,4,02:13,DEN,,SAS,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0138,4,02:00,DEN,126.0,SAS,99.0,V. Cancar,DEN,Cancar 24' 3PT Jump Shot (3 PTS) (Hyland 7 AST),Made Shot,Jump Shot,-228,78,24,1,3.0,3.0,h
+S2223-G0285,1,00:58.800000,LAC,25.0,DEN,31.0,V. Cancar,DEN,Cancar 8' Hook Shot (2 PTS) (Brown 1 AST),Made Shot,Hook Shot,6,75,8,1,2.0,2.0,v
+S2223-G0285,1,00:47.700000,LAC,,DEN,,V. Cancar,DEN,MISS Cancar 2' Running Layup,Missed Shot,Running Layup Shot,-15,12,2,1,2.0,0.0,v
+S2223-G0285,2,10:11,LAC,,DEN,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0285,2,09:57,LAC,29.0,DEN,37.0,V. Cancar,DEN,Cancar 25' 3PT Jump Shot (5 PTS) (Brown 2 AST),Made Shot,Jump Shot,165,184,25,1,3.0,3.0,v
+S2223-G0285,2,06:26,LAC,,DEN,,V. Cancar,DEN,Cancar OFF.Foul (P1) (D.Guthrie),Foul,Offensive,0,0,0,0,,,v
+S2223-G0285,2,06:26,LAC,,DEN,,V. Cancar,DEN,Cancar Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0285,2,06:26,LAC,,DEN,,V. Cancar,DEN,SUB: Murray FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0285,3,05:51,LAC,,DEN,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,-225,-10,0,1,3.0,0.0,v
+S2223-G0285,3,02:05,LAC,68.0,DEN,84.0,V. Cancar,DEN,Cancar Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0285,3,02:05,LAC,68.0,DEN,85.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0285,3,01:35,LAC,,DEN,,V. Cancar,DEN,MISS Cancar 2' Layup,Missed Shot,Layup Shot,-21,9,2,1,2.0,0.0,v
+S2223-G0285,3,00:53.500000,LAC,,DEN,,V. Cancar,DEN,Cancar P.FOUL (P2.PN) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2223-G0285,3,00:30.600000,LAC,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P3.PN) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0285,3,00:18.200000,LAC,,DEN,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,-23,258,26,1,3.0,0.0,v
+S2223-G0285,4,10:04,LAC,,DEN,,V. Cancar,DEN,MISS Cancar 2' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,21,5,2,1,2.0,0.0,v
+S2223-G0285,4,09:41,LAC,,DEN,,V. Cancar,DEN,Cancar BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0285,4,08:50,LAC,82.0,DEN,91.0,V. Cancar,DEN,Cancar 4' Layup (9 PTS) (Murray 8 AST),Made Shot,Layup Shot,37,8,4,1,2.0,2.0,v
+S2223-G0285,4,08:22,LAC,82.0,DEN,94.0,V. Cancar,DEN,Cancar 26' 3PT Jump Shot (12 PTS) (Murray 9 AST),Made Shot,Jump Shot,-4,257,26,1,3.0,3.0,v
+S2223-G0285,4,07:46,LAC,,DEN,,V. Cancar,DEN,MISS Cancar Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0285,4,07:46,LAC,82.0,DEN,95.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0285,4,05:16,LAC,,DEN,,V. Cancar,DEN,SUB: Brown FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0801,1,01:44,DEN,,ATL,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0801,1,00:32,DEN,,ATL,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,-232,25,0,1,3.0,0.0,h
+S2223-G0801,1,00:01.600000,DEN,,ATL,,V. Cancar,DEN,MISS Cancar 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-1,31,3,1,2.0,0.0,h
+S2223-G0801,2,09:02,DEN,,ATL,,V. Cancar,DEN,Cancar Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0801,2,07:09,DEN,,ATL,,V. Cancar,DEN,SUB: Porter Jr. FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0801,3,01:18,DEN,,ATL,,V. Cancar,DEN,Cancar S.FOUL (P1.T4) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G0801,4,11:48,DEN,100.0,ATL,86.0,V. Cancar,DEN,Cancar 3PT Jump Shot (3 PTS) (Brown 5 AST),Made Shot,Jump Shot,227,37,0,1,3.0,3.0,h
+S2223-G0801,4,11:03,DEN,,ATL,,V. Cancar,DEN,Cancar P.FOUL (P2.T1) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2223-G0801,4,08:52,DEN,103.0,ATL,94.0,V. Cancar,DEN,Cancar Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0801,4,08:52,DEN,104.0,ATL,94.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0801,4,08:16,DEN,,ATL,,V. Cancar,DEN,MISS Cancar 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-20,27,3,1,2.0,0.0,h
+S2223-G0801,4,05:06,DEN,,ATL,,V. Cancar,DEN,SUB: Porter Jr. FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0801,4,00:54,DEN,,ATL,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,174,195,26,1,3.0,0.0,h
+S2223-G0801,4,00:40.500000,DEN,,ATL,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0437,4,01:00,LAL,126.0,DEN,107.0,V. Cancar,DEN,Cancar 25' 3PT Jump Shot (3 PTS) (Reed 2 AST),Made Shot,Jump Shot,158,199,25,1,3.0,3.0,v
+S2223-G0362,1,06:13,DEN,,DAL,,V. Cancar,DEN,Cancar Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0362,1,04:58,DEN,,DAL,,V. Cancar,DEN,Cancar S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G0362,1,03:10,DEN,,DAL,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0362,1,02:14,DEN,,DAL,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0362,1,02:00,DEN,,DAL,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0362,1,00:59,DEN,,DAL,,V. Cancar,DEN,Cancar Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0362,1,00:07.700000,DEN,,DAL,,V. Cancar,DEN,MISS Cancar 10' Driving Layup,Missed Shot,Driving Layup Shot,-27,94,10,1,2.0,0.0,h
+S2223-G1175,1,00:00.100000,DEN,,GSW,,V. Cancar,DEN,MISS Cancar 62' 3PT Jump Shot,Missed Shot,Jump Shot,170,599,62,1,3.0,0.0,h
+S2223-G1175,2,09:36,DEN,,GSW,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0676,1,03:29,DEN,,MIN,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0676,1,02:06,DEN,,MIN,,V. Cancar,DEN,Cancar S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0676,1,00:49.500000,DEN,,MIN,,V. Cancar,DEN,MISS Cancar 8' Driving Layup,Missed Shot,Driving Layup Shot,-47,65,8,1,2.0,0.0,h
+S2223-G0676,1,00:28.100000,DEN,,MIN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0676,2,11:31,DEN,,MIN,,V. Cancar,DEN,Cancar Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0676,2,09:00,DEN,,MIN,,V. Cancar,DEN,MISS Cancar 29' 3PT Jump Shot,Missed Shot,Jump Shot,-163,235,29,1,3.0,0.0,h
+S2223-G0676,2,08:51,DEN,,MIN,,V. Cancar,DEN,SUB: Brown FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0676,3,04:55,DEN,76.0,MIN,78.0,V. Cancar,DEN,Cancar 3' Layup (2 PTS) (Murray 4 AST),Made Shot,Layup Shot,-28,1,3,1,2.0,2.0,h
+S2223-G0676,3,04:02,DEN,,MIN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0676,3,03:40,DEN,,MIN,,V. Cancar,DEN,Cancar P.FOUL (P2.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2223-G0676,3,03:29,DEN,79.0,MIN,82.0,V. Cancar,DEN,Cancar Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0676,3,03:29,DEN,80.0,MIN,82.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0676,3,00:00.800000,DEN,,MIN,,V. Cancar,DEN,MISS Cancar 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-34,27,4,1,2.0,0.0,h
+S2223-G0230,1,00:00,DAL,29.0,DEN,27.0,V. Cancar,DEN,Cancar 24' 3PT Jump Shot (3 PTS) (Hyland 3 AST),Made Shot,Jump Shot,-191,152,24,1,3.0,3.0,v
+S2223-G0230,2,11:25,DAL,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P1.T1) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0230,2,08:27,DAL,,DEN,,V. Cancar,DEN,MISS Cancar 2' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-16,8,2,1,2.0,0.0,v
+S2223-G0230,2,06:29,DAL,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P2.T3) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0230,2,06:29,DAL,,DEN,,V. Cancar,DEN,SUB: Green FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0230,3,02:33,DAL,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0230,3,00:51.900000,DAL,102.0,DEN,82.0,V. Cancar,DEN,Cancar 9' Turnaround Fadeaway (5 PTS),Made Shot,Turnaround Fadeaway shot,-92,-16,9,1,2.0,2.0,v
+S2223-G0230,3,00:51.900000,DAL,102.0,DEN,83.0,V. Cancar,DEN,Cancar Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0230,4,10:55,DAL,,DEN,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,-93,243,26,1,3.0,0.0,v
+S2223-G0230,4,09:11,DAL,,DEN,,V. Cancar,DEN,MISS Cancar 3' Layup,Missed Shot,Layup Shot,-31,6,3,1,2.0,0.0,v
+S2223-G0230,4,08:13,DAL,,DEN,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0230,4,04:24,DAL,,DEN,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,208,148,26,1,3.0,0.0,v
+S2223-G0230,4,02:29,DAL,125.0,DEN,96.0,V. Cancar,DEN,Cancar 6' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,54,29,6,1,2.0,2.0,v
+S2223-G0230,4,01:44,DAL,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P3.T4) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2223-G0549,1,01:28,DEN,35.0,BOS,25.0,V. Cancar,DEN,Cancar 9' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,-72,55,9,1,2.0,2.0,h
+S2223-G0549,1,00:41.700000,DEN,,BOS,,V. Cancar,DEN,Cancar S.FOUL (P1.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0549,2,10:32,DEN,40.0,BOS,32.0,V. Cancar,DEN,Cancar 26' 3PT Jump Shot (5 PTS) (Hyland 1 AST),Made Shot,Jump Shot,-197,165,26,1,3.0,3.0,h
+S2223-G0549,2,08:49,DEN,,BOS,,V. Cancar,DEN,Cancar P.FOUL (P2.T2) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2223-G0549,2,06:06,DEN,,BOS,,V. Cancar,DEN,Cancar S.FOUL (P3.T4) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0549,2,06:06,DEN,,BOS,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0549,3,00:53.600000,DEN,96.0,BOS,82.0,V. Cancar,DEN,Cancar 25' 3PT Jump Shot (8 PTS) (Hyland 3 AST),Made Shot,Jump Shot,-148,206,25,1,3.0,3.0,h
+S2223-G0549,4,11:36,DEN,,BOS,,V. Cancar,DEN,MISS Cancar 26' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,137,225,26,1,3.0,0.0,h
+S2223-G0549,4,10:49,DEN,,BOS,,V. Cancar,DEN,Cancar S.FOUL (P4.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0549,4,09:20,DEN,,BOS,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0549,4,07:44,DEN,,BOS,,V. Cancar,DEN,SUB: Jokic FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0861,1,10:17,MIA,6.0,DEN,7.0,V. Cancar,DEN,Cancar 4' Driving Finger Roll Layup (2 PTS) (Caldwell-Pope 1 AST),Made Shot,Driving Finger Roll Layup Shot,23,37,4,1,2.0,2.0,v
+S2223-G0861,1,09:36,MIA,,DEN,,V. Cancar,DEN,Cancar Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0861,1,08:29,MIA,10.0,DEN,11.0,V. Cancar,DEN,Cancar 4' Layup (4 PTS) (Jokic 2 AST),Made Shot,Layup Shot,-20,33,4,1,2.0,2.0,v
+S2223-G0861,1,08:15,MIA,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0861,1,05:32,MIA,,DEN,,V. Cancar,DEN,Cancar Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0861,1,05:28,MIA,,DEN,,V. Cancar,DEN,SUB: Green FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0861,2,02:39,MIA,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0861,2,02:39,MIA,54.0,DEN,55.0,V. Cancar,DEN,Cancar Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0861,2,02:39,MIA,54.0,DEN,56.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0861,2,02:04,MIA,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P1.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0861,3,11:37,MIA,,DEN,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,-230,11,0,1,3.0,0.0,v
+S2223-G0861,3,08:49,MIA,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0861,3,07:56,MIA,,DEN,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0861,3,05:50,MIA,73.0,DEN,78.0,V. Cancar,DEN,Cancar 6' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,44,43,6,1,2.0,2.0,v
+S2223-G0861,3,03:29,MIA,,DEN,,V. Cancar,DEN,SUB: Smith FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0861,4,05:55,MIA,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0861,4,05:45,MIA,,DEN,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,260,26,1,3.0,0.0,v
+S2223-G0861,4,04:57,MIA,98.0,DEN,105.0,V. Cancar,DEN,Cancar 3' Cutting Layup Shot (10 PTS) (Jokic 8 AST),Made Shot,Cutting Layup Shot,-28,1,3,1,2.0,2.0,v
+S2223-G0861,4,04:32,MIA,,DEN,,V. Cancar,DEN,Cancar BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0861,4,02:30,MIA,,DEN,,V. Cancar,DEN,Cancar Out of Bounds - Bad Pass Turnover Turnover (P3.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0861,4,00:03.300000,MIA,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0820,1,03:22,DEN,,,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0820,1,02:45,DEN,,,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0820,1,02:10,DEN,,,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0820,2,11:43,DEN,,,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0820,2,11:26,DEN,51.0,,21.0,V. Cancar,DEN,Cancar 9' Jump Shot (2 PTS) (Green 1 AST),Made Shot,Jump Shot,-92,23,9,1,2.0,2.0,h
+S2223-G0820,2,11:14,DEN,,,,V. Cancar,DEN,Cancar S.FOUL (P1.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0820,2,09:39,DEN,,,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0820,3,03:47,DEN,,,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,64,253,26,1,3.0,0.0,h
+S2223-G0820,3,01:19,DEN,108.0,,72.0,V. Cancar,DEN,Cancar 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-29,14,3,1,2.0,2.0,h
+S2223-G0820,3,00:32,DEN,,,,V. Cancar,DEN,MISS Cancar 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,147,225,27,1,3.0,0.0,h
+S2223-G0820,4,09:06,DEN,120.0,,80.0,V. Cancar,DEN,Cancar 3' Running Layup (6 PTS) (Reed 1 AST),Made Shot,Running Layup Shot,-22,14,3,1,2.0,2.0,h
+S2223-G0820,4,07:20,DEN,,,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,-43,258,26,1,3.0,0.0,h
+S2223-G0820,4,07:04,DEN,,,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0820,4,05:56,DEN,,,,V. Cancar,DEN,Cancar S.FOUL (P2.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0820,4,04:46,DEN,131.0,,96.0,V. Cancar,DEN,Cancar 26' 3PT Jump Shot (9 PTS) (Smith 5 AST),Made Shot,Jump Shot,-154,209,26,1,3.0,3.0,h
+S2223-G0820,4,04:06,DEN,134.0,,98.0,V. Cancar,DEN,Cancar 26' 3PT Jump Shot (12 PTS) (Reed 2 AST),Made Shot,Jump Shot,93,246,26,1,3.0,3.0,h
+S2223-G0820,4,02:20,DEN,,,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0820,4,02:09,DEN,,,,V. Cancar,DEN,Cancar BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1227,1,07:54,DEN,9.0,SAC,16.0,V. Cancar,DEN,Cancar Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1227,1,07:54,DEN,10.0,SAC,16.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1227,1,05:17,DEN,,SAC,,V. Cancar,DEN,MISS Cancar 3' Reverse Layup,Missed Shot,Reverse Layup Shot,26,2,3,1,2.0,0.0,h
+S2223-G1227,1,05:14,DEN,,SAC,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1227,1,05:01,DEN,,SAC,,V. Cancar,DEN,Cancar L.B.FOUL (P1.T2) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1227,1,04:54,DEN,,SAC,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1227,1,04:40,DEN,15.0,SAC,27.0,V. Cancar,DEN,Cancar Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1227,1,04:40,DEN,16.0,SAC,27.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1227,1,03:56,DEN,,SAC,,V. Cancar,DEN,SUB: Nnaji FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G1227,2,04:37,DEN,,SAC,,V. Cancar,DEN,MISS Cancar 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,5,18,2,1,2.0,0.0,h
+S2223-G1227,2,02:20,DEN,54.0,SAC,63.0,V. Cancar,DEN,Cancar 26' 3PT Jump Shot (7 PTS) (Brown 2 AST),Made Shot,Jump Shot,-141,220,26,1,3.0,3.0,h
+S2223-G1227,2,02:06,DEN,,SAC,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1227,2,01:40,DEN,56.0,SAC,63.0,V. Cancar,DEN,Cancar 2' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,-2,21,2,1,2.0,2.0,h
+S2223-G1227,2,01:40,DEN,57.0,SAC,63.0,V. Cancar,DEN,Cancar Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1227,3,11:17,DEN,,SAC,,V. Cancar,DEN,MISS Cancar Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1227,3,11:17,DEN,60.0,SAC,67.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1227,3,10:14,DEN,,SAC,,V. Cancar,DEN,Cancar Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1227,3,09:44,DEN,,SAC,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1227,3,07:20,DEN,,SAC,,V. Cancar,DEN,Cancar STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1227,3,03:17,DEN,,SAC,,V. Cancar,DEN,SUB: Jackson FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0011,4,00:34.300000,UTA,,DEN,,V. Cancar,DEN,MISS Cancar 7' Driving Layup,Missed Shot,Driving Layup Shot,-5,74,7,1,2.0,0.0,v
+S2223-G0907,1,11:41,MEM,,DEN,,V. Cancar,DEN,Cancar BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0907,1,11:38,MEM,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0907,1,10:38,MEM,,DEN,,V. Cancar,DEN,Cancar P.FOUL (P1.T1) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2223-G0907,1,05:48,MEM,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0907,1,05:42,MEM,,DEN,,V. Cancar,DEN,Cancar Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0907,1,04:59,MEM,16.0,DEN,17.0,V. Cancar,DEN,Cancar Driving Finger Roll Layup (2 PTS) (Jokic 1 AST),Made Shot,Driving Finger Roll Layup Shot,4,2,0,1,2.0,2.0,v
+S2223-G0907,1,04:33,MEM,,DEN,,V. Cancar,DEN,MISS Cancar 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-13,74,8,1,2.0,0.0,v
+S2223-G0907,1,03:52,MEM,,DEN,,V. Cancar,DEN,SUB: Green FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0907,2,02:04,MEM,,DEN,,V. Cancar,DEN,MISS Cancar 28' 3PT Jump Shot,Missed Shot,Jump Shot,108,256,28,1,3.0,0.0,v
+S2223-G0907,3,11:36,MEM,,DEN,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,-230,27,0,1,3.0,0.0,v
+S2223-G0907,3,08:12,MEM,,DEN,,V. Cancar,DEN,MISS Cancar 25' 3PT Jump Shot,Missed Shot,Jump Shot,-103,224,25,1,3.0,0.0,v
+S2223-G0907,3,04:17,MEM,,DEN,,V. Cancar,DEN,SUB: Green FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G1183,4,04:44,HOU,,DEN,,V. Cancar,DEN,Cancar Lost Ball Turnover (P1.T19),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1183,4,02:40,HOU,,DEN,,V. Cancar,DEN,MISS Cancar 27' 3PT Jump Shot,Missed Shot,Jump Shot,-164,210,27,1,3.0,0.0,v
+S2223-G0268,1,01:57,OKC,,DEN,,V. Cancar,DEN,MISS Cancar 9' Layup,Missed Shot,Layup Shot,-2,85,9,1,2.0,0.0,v
+S2223-G0268,1,00:36.800000,OKC,21.0,DEN,38.0,V. Cancar,DEN,Cancar 3PT Jump Shot (3 PTS) (Brown 3 AST),Made Shot,Jump Shot,-233,-24,0,1,3.0,3.0,v
+S2223-G0268,1,00:01.600000,OKC,,DEN,,V. Cancar,DEN,MISS Cancar 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-2,54,5,1,2.0,0.0,v
+S2223-G0268,2,11:39,OKC,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0268,2,11:20,OKC,21.0,DEN,40.0,V. Cancar,DEN,Cancar 5' Reverse Layup (5 PTS),Made Shot,Reverse Layup Shot,-27,43,5,1,2.0,2.0,v
+S2223-G0268,2,10:49,OKC,,DEN,,V. Cancar,DEN,Cancar BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0268,2,10:14,OKC,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0268,2,10:02,OKC,,DEN,,V. Cancar,DEN,MISS Cancar 27' 3PT Jump Shot,Missed Shot,Jump Shot,-140,228,27,1,3.0,0.0,v
+S2223-G0268,2,09:49,OKC,25.0,DEN,44.0,V. Cancar,DEN,Cancar 10' Floating Jump Shot (7 PTS) (Brown 5 AST),Made Shot,Floating Jump shot,-27,92,10,1,2.0,2.0,v
+S2223-G0268,2,09:22,OKC,,DEN,,V. Cancar,DEN,MISS Cancar 1' Reverse Layup,Missed Shot,Reverse Layup Shot,-4,12,1,1,2.0,0.0,v
+S2223-G0268,2,08:14,OKC,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0268,2,06:49,OKC,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0268,2,06:49,OKC,33.0,DEN,49.0,V. Cancar,DEN,Cancar Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0268,2,06:49,OKC,33.0,DEN,50.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0268,2,05:55,OKC,37.0,DEN,56.0,V. Cancar,DEN,Cancar 3PT Jump Shot (12 PTS) (Jokic 2 AST),Made Shot,Jump Shot,222,-17,0,1,3.0,3.0,v
+S2223-G0268,2,04:54,OKC,,DEN,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,-223,126,26,1,3.0,0.0,v
+S2223-G0268,2,04:52,OKC,,DEN,,V. Cancar,DEN,SUB: Brown FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0268,3,03:18,OKC,,DEN,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,-224,-32,0,1,3.0,0.0,v
+S2223-G0268,3,02:32,OKC,,DEN,,V. Cancar,DEN,MISS Cancar 6' Floating Jump Shot,Missed Shot,Floating Jump shot,25,57,6,1,2.0,0.0,v
+S2223-G0268,3,01:47,OKC,93.0,DEN,84.0,V. Cancar,DEN,Cancar 3' Layup (14 PTS),Made Shot,Layup Shot,11,32,3,1,2.0,2.0,v
+S2223-G0268,3,00:39.100000,OKC,,DEN,,V. Cancar,DEN,MISS Cancar 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-146,219,26,1,3.0,0.0,v
+S2223-G0268,4,10:47,OKC,99.0,DEN,89.0,V. Cancar,DEN,Cancar 3PT Jump Shot (17 PTS) (Jokic 4 AST),Made Shot,Jump Shot,-224,-18,0,1,3.0,3.0,v
+S2223-G0268,4,07:29,OKC,,DEN,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,-227,-41,0,1,3.0,0.0,v
+S2223-G0268,4,04:27,OKC,,DEN,,V. Cancar,DEN,Cancar Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0268,4,04:22,OKC,,DEN,,V. Cancar,DEN,Cancar BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0268,4,02:08,OKC,,DEN,,V. Cancar,DEN,Cancar BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0268,4,00:03.300000,OKC,,DEN,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,-188,174,26,1,3.0,0.0,v
+S2223-G0268,5,03:29,OKC,,DEN,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,186,188,26,1,3.0,0.0,v
+S2223-G0268,5,01:29,OKC,122.0,DEN,127.0,V. Cancar,DEN,Cancar 2' Cutting Layup Shot (19 PTS) (Jokic 9 AST),Made Shot,Cutting Layup Shot,1,16,2,1,2.0,2.0,v
+S2223-G0268,5,00:53,OKC,,DEN,,V. Cancar,DEN,Cancar P.FOUL (P1.T1) (B.Schwab),Foul,Personal,0,0,0,0,,,v
+S2223-G0881,1,11:40,DEN,2.0,DAL,0.0,V. Cancar,DEN,Cancar 17' Turnaround Jump Shot (2 PTS) (Porter Jr. 1 AST),Made Shot,Turnaround Jump Shot,-50,162,17,1,2.0,2.0,h
+S2223-G0881,1,10:05,DEN,,DAL,,V. Cancar,DEN,MISS Cancar 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-49,21,5,1,2.0,0.0,h
+S2223-G0881,1,08:05,DEN,10.0,DAL,7.0,V. Cancar,DEN,Cancar 2' Cutting Layup Shot (4 PTS) (Caldwell-Pope 1 AST),Made Shot,Cutting Layup Shot,22,10,2,1,2.0,2.0,h
+S2223-G0881,1,06:58,DEN,,DAL,,V. Cancar,DEN,MISS Cancar 4' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,31,31,4,1,2.0,0.0,h
+S2223-G0881,1,06:16,DEN,,DAL,,V. Cancar,DEN,Cancar S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0881,1,05:34,DEN,,DAL,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,229,8,0,1,3.0,0.0,h
+S2223-G0881,1,04:34,DEN,18.0,DAL,12.0,V. Cancar,DEN,Cancar Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0881,1,04:34,DEN,19.0,DAL,12.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0881,1,04:16,DEN,,DAL,,V. Cancar,DEN,SUB: Green FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0881,2,02:30,DEN,,DAL,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0881,2,02:30,DEN,52.0,DAL,37.0,V. Cancar,DEN,Cancar Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0881,2,00:36.900000,DEN,,DAL,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0881,3,09:54,DEN,,DAL,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,-233,-7,0,1,3.0,0.0,h
+S2223-G0881,3,04:45,DEN,77.0,DAL,61.0,V. Cancar,DEN,Cancar 3' Cutting Finger Roll Layup Shot (10 PTS) (Jokic 5 AST),Made Shot,Cutting Finger Roll Layup Shot,20,26,3,1,2.0,2.0,h
+S2223-G0881,3,04:14,DEN,,DAL,,V. Cancar,DEN,SUB: Green FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0881,4,03:05,DEN,,DAL,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0881,4,02:45,DEN,116.0,DAL,98.0,V. Cancar,DEN,Cancar 1' Driving Dunk (12 PTS) (Brown 6 AST),Made Shot,Driving Dunk Shot,10,11,1,1,2.0,2.0,h
+S2223-G0881,4,02:07,DEN,,DAL,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,-224,-8,0,1,3.0,0.0,h
+S2223-G0881,4,01:43,DEN,,DAL,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,-138,218,26,1,3.0,0.0,h
+S2223-G0881,4,00:57,DEN,,DAL,,V. Cancar,DEN,SUB: Braun FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0376,1,02:40,POR,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1160,1,02:28,PHX,,DEN,,V. Cancar,DEN,MISS Cancar 27' 3PT Jump Shot,Missed Shot,Jump Shot,69,256,27,1,3.0,0.0,v
+S2223-G1160,1,01:52,PHX,,DEN,,V. Cancar,DEN,MISS Cancar 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,175,206,27,1,3.0,0.0,v
+S2223-G1160,1,00:04.400000,PHX,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1160,1,00:04.400000,PHX,32.0,DEN,19.0,V. Cancar,DEN,Cancar 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,4,17,2,1,2.0,2.0,v
+S2223-G1160,1,00:04.400000,PHX,32.0,DEN,20.0,V. Cancar,DEN,Cancar Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1160,2,11:20,PHX,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1160,2,10:56,PHX,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P1.T1) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G1160,2,08:58,PHX,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P2.T3) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G1160,2,07:40,PHX,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1160,2,07:27,PHX,38.0,DEN,26.0,V. Cancar,DEN,Cancar 5' Driving Finger Roll Layup (5 PTS) (Gordon 3 AST),Made Shot,Driving Finger Roll Layup Shot,11,52,5,1,2.0,2.0,v
+S2223-G1160,2,07:27,PHX,38.0,DEN,27.0,V. Cancar,DEN,Cancar Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1160,2,05:53,PHX,,DEN,,V. Cancar,DEN,Nuggets T.Foul (Def. 3 Sec Cancar ) (N.Buchert),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G1160,2,05:47,PHX,,DEN,,V. Cancar,DEN,Cancar P.FOUL (P3.PN) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G1160,2,05:33,PHX,,DEN,,V. Cancar,DEN,SUB: Jordan FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G1160,4,09:30,PHX,,DEN,,V. Cancar,DEN,Cancar Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1160,4,06:59,PHX,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1160,4,06:51,PHX,,DEN,,V. Cancar,DEN,MISS Cancar 7' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,-45,53,7,1,2.0,0.0,v
+S2223-G1160,4,06:48,PHX,,DEN,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0064,4,02:10,DEN,,LAL,,V. Cancar,DEN,Cancar Traveling Turnover (P1.T11),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0176,4,01:00,BOS,,DEN,,V. Cancar,DEN,MISS Cancar 29' 3PT Jump Shot,Missed Shot,Jump Shot,-60,286,29,1,3.0,0.0,v
+S2223-G0926,1,03:39,HOU,,DEN,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0926,2,10:45,HOU,35.0,DEN,44.0,V. Cancar,DEN,Cancar 24' 3PT Jump Shot (3 PTS) (Jackson 3 AST),Made Shot,Jump Shot,-234,64,24,1,3.0,3.0,v
+S2223-G0926,2,07:56,HOU,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0926,2,07:43,HOU,40.0,DEN,48.0,V. Cancar,DEN,Cancar 5' Running Layup (5 PTS) (Caldwell-Pope 4 AST),Made Shot,Running Layup Shot,-16,52,5,1,2.0,2.0,v
+S2223-G0926,2,07:43,HOU,40.0,DEN,49.0,V. Cancar,DEN,Cancar Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0926,2,06:10,HOU,,DEN,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0926,4,09:24,HOU,,DEN,,V. Cancar,DEN,MISS Cancar 25' 3PT Jump Shot,Missed Shot,Jump Shot,245,16,25,1,3.0,0.0,v
+S2223-G0926,4,08:22,HOU,,DEN,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,-227,-14,0,1,3.0,0.0,v
+S2223-G0926,4,06:20,HOU,,DEN,,V. Cancar,DEN,MISS Cancar 27' 3PT Jump Shot,Missed Shot,Jump Shot,-207,174,27,1,3.0,0.0,v
+S2223-G0926,4,05:26,HOU,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0926,4,02:48,HOU,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0926,4,02:06,HOU,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0926,4,01:46,HOU,108.0,DEN,131.0,V. Cancar,DEN,Cancar 26' 3PT Jump Shot (9 PTS) (Jackson 8 AST),Made Shot,Jump Shot,162,202,26,1,3.0,3.0,v
+S2223-G0422,4,01:42,DEN,,WAS,,V. Cancar,DEN,Cancar Personal Take Foul (P1.PN) (E.Scott),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0422,4,01:26,DEN,,WAS,,V. Cancar,DEN,Cancar Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0588,1,02:26,DEN,,CLE,,V. Cancar,DEN,Cancar P.FOUL (P1.T2) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2223-G0588,1,02:10,DEN,26.0,CLE,21.0,V. Cancar,DEN,Cancar 3' Reverse Layup (2 PTS) (Brown 2 AST),Made Shot,Reverse Layup Shot,-27,15,3,1,2.0,2.0,h
+S2223-G0588,1,01:08,DEN,,CLE,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0588,1,00:11.700000,DEN,,CLE,,V. Cancar,DEN,Cancar S.FOUL (P2.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0588,2,11:20,DEN,,CLE,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,227,18,0,1,3.0,0.0,h
+S2223-G0588,2,09:48,DEN,32.0,CLE,34.0,V. Cancar,DEN,Cancar 24' 3PT Jump Shot (5 PTS) (Brown 3 AST),Made Shot,Jump Shot,-235,4,24,1,3.0,3.0,h
+S2223-G0588,2,07:06,DEN,,CLE,,V. Cancar,DEN,SUB: Caldwell-Pope FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0588,4,11:22,DEN,,CLE,,V. Cancar,DEN,Cancar S.FOUL (P3.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0588,4,09:16,DEN,,CLE,,V. Cancar,DEN,Cancar P.FOUL (P4.T4) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,h
+S2223-G0588,4,08:48,DEN,,CLE,,V. Cancar,DEN,Cancar S.FOUL (P5.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G0588,4,08:17,DEN,,CLE,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0588,4,07:50,DEN,,CLE,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0320,1,05:53,DEN,,HOU,,V. Cancar,DEN,Cancar OFF.Foul (P1) (K.Scott),Foul,Offensive,0,0,0,0,,,h
+S2223-G0320,1,05:53,DEN,,HOU,,V. Cancar,DEN,Cancar Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0320,1,03:21,DEN,,HOU,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0320,1,02:50,DEN,34.0,HOU,20.0,V. Cancar,DEN,Cancar 3PT Jump Shot (3 PTS) (Smith 1 AST),Made Shot,Jump Shot,-234,2,0,1,3.0,3.0,h
+S2223-G0320,1,02:14,DEN,37.0,HOU,23.0,V. Cancar,DEN,Cancar 26' 3PT Jump Shot (6 PTS) (Smith 2 AST),Made Shot,Jump Shot,70,252,26,1,3.0,3.0,h
+S2223-G0320,1,01:57,DEN,,HOU,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0320,1,01:53,DEN,39.0,HOU,23.0,V. Cancar,DEN,Cancar 2' Running Dunk (8 PTS),Made Shot,Running Dunk Shot,-7,20,2,1,2.0,2.0,h
+S2223-G0320,1,01:17,DEN,,HOU,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0320,1,00:00.400000,DEN,,HOU,,V. Cancar,DEN,MISS Cancar 46' 3PT Jump Shot,Missed Shot,Jump Shot,-22,456,46,1,3.0,0.0,h
+S2223-G0320,2,08:30,DEN,53.0,HOU,28.0,V. Cancar,DEN,Cancar 2' Reverse Layup (10 PTS) (Jordan 1 AST),Made Shot,Reverse Layup Shot,-17,12,2,1,2.0,2.0,h
+S2223-G0320,2,07:48,DEN,,HOU,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0320,3,02:03,DEN,,HOU,,V. Cancar,DEN,Cancar P.FOUL (P2.T4) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G0320,3,01:02,DEN,,HOU,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0320,4,09:10,DEN,106.0,HOU,79.0,V. Cancar,DEN,Cancar 3PT Jump Shot (13 PTS) (Smith 7 AST),Made Shot,Jump Shot,-230,6,0,1,3.0,3.0,h
+S2223-G0320,4,08:28,DEN,,HOU,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0320,4,07:23,DEN,,HOU,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0639,2,10:54,LAC,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0639,2,08:17,LAC,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0639,2,06:50,LAC,,DEN,,V. Cancar,DEN,Cancar P.FOUL (P1.T1) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0639,2,06:50,LAC,,DEN,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0639,3,02:23,LAC,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0639,3,01:53,LAC,,DEN,,V. Cancar,DEN,MISS Cancar 8' Hook Shot,Missed Shot,Hook Shot,23,72,8,1,2.0,0.0,v
+S2223-G0639,3,01:37,LAC,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0639,3,01:26,LAC,76.0,DEN,84.0,V. Cancar,DEN,Cancar 27' 3PT Jump Shot (3 PTS) (Murray 4 AST),Made Shot,Jump Shot,184,194,27,1,3.0,3.0,v
+S2223-G0639,4,10:31,LAC,86.0,DEN,90.0,V. Cancar,DEN,Cancar Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0639,4,10:31,LAC,86.0,DEN,91.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0639,4,09:44,LAC,,DEN,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0639,4,08:29,LAC,,DEN,,V. Cancar,DEN,MISS Cancar 7' Hook Shot,Missed Shot,Hook Shot,-17,64,7,1,2.0,0.0,v
+S2223-G0639,4,06:29,LAC,,DEN,,V. Cancar,DEN,Cancar P.FOUL (P2.T1) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0639,4,06:29,LAC,,DEN,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G1213,4,08:15,UTA,,DEN,,V. Cancar,DEN,MISS Cancar 5' Driving Layup,Missed Shot,Driving Layup Shot,40,37,5,1,2.0,0.0,v
+S2223-G1213,4,07:29,UTA,98.0,DEN,104.0,V. Cancar,DEN,Cancar 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,33,18,4,1,2.0,2.0,v
+S2223-G1213,4,02:29,UTA,,DEN,,V. Cancar,DEN,MISS Cancar 27' 3PT Jump Shot,Missed Shot,Jump Shot,-181,207,27,1,3.0,0.0,v
+S2223-G1213,4,01:44,UTA,,DEN,,V. Cancar,DEN,MISS Cancar 29' 3PT Jump Shot,Missed Shot,Jump Shot,-147,254,29,1,3.0,0.0,v
+S2223-G1213,4,01:28,UTA,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1213,4,01:22,UTA,,DEN,,V. Cancar,DEN,Cancar Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1213,4,00:20.200000,UTA,,DEN,,V. Cancar,DEN,Cancar P.FOUL (P1.T4) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2223-G1213,4,00:04.100000,UTA,,DEN,,V. Cancar,DEN,MISS Cancar 25' 3PT Jump Shot,Missed Shot,Jump Shot,-219,127,25,1,3.0,0.0,v
+S2223-G0624,1,01:50,DEN,,PHX,,V. Cancar,DEN,MISS Cancar 25' 3PT Jump Shot,Missed Shot,Jump Shot,234,74,25,1,3.0,0.0,h
+S2223-G0624,2,09:36,DEN,,PHX,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0624,2,08:52,DEN,,PHX,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,-77,247,26,1,3.0,0.0,h
+S2223-G0624,2,08:05,DEN,,PHX,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0624,2,07:19,DEN,,PHX,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0624,3,01:24,DEN,,PHX,,V. Cancar,DEN,Cancar BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0624,3,01:15,DEN,100.0,PHX,69.0,V. Cancar,DEN,Cancar 3' Layup (2 PTS) (Hyland 2 AST),Made Shot,Layup Shot,23,10,3,1,2.0,2.0,h
+S2223-G0624,4,09:27,DEN,,PHX,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0624,4,05:05,DEN,,PHX,,V. Cancar,DEN,SUB: White FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0327,1,02:24,ATL,,DEN,,V. Cancar,DEN,MISS Cancar 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,43,113,12,1,2.0,0.0,v
+S2223-G0327,1,00:36.800000,ATL,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P1.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0327,2,10:18,ATL,33.0,DEN,29.0,V. Cancar,DEN,Cancar 4' Hook Shot (2 PTS) (Reed 1 AST),Made Shot,Hook Shot,20,34,4,1,2.0,2.0,v
+S2223-G0327,2,08:48,ATL,,DEN,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,-228,14,0,1,3.0,0.0,v
+S2223-G0327,2,08:13,ATL,38.0,DEN,35.0,V. Cancar,DEN,Cancar 3PT Jump Shot (5 PTS) (Smith 1 AST),Made Shot,Jump Shot,225,16,0,1,3.0,3.0,v
+S2223-G0327,2,07:09,ATL,,DEN,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0327,3,01:34,ATL,,DEN,,V. Cancar,DEN,MISS Cancar 25' 3PT Jump Shot,Missed Shot,Jump Shot,-165,194,25,1,3.0,0.0,v
+S2223-G0327,3,01:31,ATL,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0327,3,00:59.100000,ATL,85.0,DEN,81.0,V. Cancar,DEN,Cancar 4' Cutting Layup Shot (7 PTS) (Smith 2 AST),Made Shot,Cutting Layup Shot,-1,37,4,1,2.0,2.0,v
+S2223-G0327,4,11:41,ATL,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0327,4,11:21,ATL,90.0,DEN,83.0,V. Cancar,DEN,Cancar 2' Reverse Layup (9 PTS) (Smith 3 AST),Made Shot,Reverse Layup Shot,0,17,2,1,2.0,2.0,v
+S2223-G0327,4,10:13,ATL,95.0,DEN,86.0,V. Cancar,DEN,Cancar 3PT Jump Shot (12 PTS) (Hyland 2 AST),Made Shot,Jump Shot,-230,-13,0,1,3.0,3.0,v
+S2223-G0327,4,09:35,ATL,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0327,4,07:23,ATL,,DEN,,V. Cancar,DEN,SUB: Jokic FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0219,3,02:43,DEN,79.0,NYK,76.0,V. Cancar,DEN,Cancar 3' Cutting Finger Roll Layup Shot (2 PTS) (Brown 2 AST),Made Shot,Cutting Finger Roll Layup Shot,22,19,3,1,2.0,2.0,h
+S2223-G0219,3,02:27,DEN,,NYK,,V. Cancar,DEN,Cancar S.FOUL (P1.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0219,3,01:11,DEN,,NYK,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0219,4,10:00,DEN,,NYK,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0219,4,09:54,DEN,,NYK,,V. Cancar,DEN,MISS Cancar 24' 3PT Jump Shot,Missed Shot,Jump Shot,-130,201,24,1,3.0,0.0,h
+S2223-G0219,4,06:39,DEN,,NYK,,V. Cancar,DEN,SUB: Caldwell-Pope FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G1042,4,00:44.800000,DET,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0716,1,02:31,NOP,,DEN,,V. Cancar,DEN,MISS Cancar 3' Driving Layup,Missed Shot,Driving Layup Shot,27,6,3,1,2.0,0.0,v
+S2223-G0716,1,00:26.900000,NOP,24.0,DEN,28.0,V. Cancar,DEN,Cancar 10' Floating Jump Shot (2 PTS) (Murray 3 AST),Made Shot,Floating Jump shot,-99,-15,10,1,2.0,2.0,v
+S2223-G0716,2,11:17,NOP,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P1.T1) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,v
+S2223-G0716,2,10:59,NOP,,DEN,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,-232,-20,0,1,3.0,0.0,v
+S2223-G0716,2,06:27,NOP,,DEN,,V. Cancar,DEN,SUB: Brown FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0716,3,01:18,NOP,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P2.T4) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0716,3,01:15,NOP,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0716,3,00:03.900000,NOP,,DEN,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,-232,-4,0,1,3.0,0.0,v
+S2223-G0716,4,11:39,NOP,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0716,4,10:14,NOP,,DEN,,V. Cancar,DEN,Cancar L.B.FOUL (P3.T1) (S.Corbin),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0716,4,09:54,NOP,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0716,4,09:49,NOP,,DEN,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,31,254,26,1,3.0,0.0,v
+S2223-G0716,4,08:51,NOP,,DEN,,V. Cancar,DEN,SUB: Jokic FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G1014,1,01:06,DEN,,BKN,,V. Cancar,DEN,MISS Cancar 26' 3PT Jump Shot,Missed Shot,Jump Shot,-172,199,26,1,3.0,0.0,h
+S2223-G1014,1,00:43.700000,DEN,,BKN,,V. Cancar,DEN,MISS Cancar 27' 3PT Jump Shot,Missed Shot,Jump Shot,-124,238,27,1,3.0,0.0,h
+S2223-G1014,1,00:00.300000,DEN,,BKN,,V. Cancar,DEN,MISS Cancar 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,125,235,27,1,3.0,0.0,h
+S2223-G1014,2,11:01,DEN,,BKN,,V. Cancar,DEN,Cancar FLAGRANT.FOUL.TYPE1 (P1.T1) (B.Forte),Foul,Flagrant Type 1,0,0,0,0,,,h
+S2223-G1014,2,10:46,DEN,,BKN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1014,2,10:09,DEN,,BKN,,V. Cancar,DEN,Cancar S.FOUL (P2.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2223-G1014,2,08:02,DEN,,BKN,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0886,1,09:56,CLE,4.0,DEN,5.0,V. Cancar,DEN,Cancar 25' 3PT Jump Shot (3 PTS) (Caldwell-Pope 1 AST),Made Shot,Jump Shot,134,210,25,1,3.0,3.0,v
+S2223-G0886,1,08:03,CLE,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0886,1,04:07,CLE,,DEN,,V. Cancar,DEN,SUB: Green FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0886,2,05:16,CLE,38.0,DEN,40.0,V. Cancar,DEN,Cancar Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0886,2,05:16,CLE,38.0,DEN,41.0,V. Cancar,DEN,Cancar Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0886,2,03:30,CLE,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0886,2,03:29,CLE,43.0,DEN,45.0,V. Cancar,DEN,Cancar 1' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,-9,11,1,1,2.0,2.0,v
+S2223-G0886,2,00:37.900000,CLE,,DEN,,V. Cancar,DEN,MISS Cancar 2' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,-9,20,2,1,2.0,0.0,v
+S2223-G0886,2,00:04.800000,CLE,,DEN,,V. Cancar,DEN,Cancar P.FOUL (P1.PN) (T.Washington),Foul,Personal,0,0,0,0,,,v
+S2223-G0886,3,09:12,CLE,64.0,DEN,65.0,V. Cancar,DEN,Cancar 2' Cutting Layup Shot (9 PTS) (Jokic 8 AST),Made Shot,Cutting Layup Shot,10,16,2,1,2.0,2.0,v
+S2223-G0886,3,09:12,CLE,64.0,DEN,66.0,V. Cancar,DEN,Cancar Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0886,3,08:09,CLE,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P2.T2) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0886,3,07:17,CLE,,DEN,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,-233,15,0,1,3.0,0.0,v
+S2223-G0886,3,06:08,CLE,,DEN,,V. Cancar,DEN,SUB: Green FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0886,4,04:44,CLE,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0886,4,00:25.800000,CLE,,DEN,,V. Cancar,DEN,MISS Cancar 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,27,10,3,1,2.0,0.0,v
+S2223-G0557,1,00:47,MIN,,DEN,,V. Cancar,DEN,MISS Cancar 3PT Jump Shot,Missed Shot,Jump Shot,-232,-1,0,1,3.0,0.0,v
+S2223-G0557,1,00:30.700000,MIN,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P1.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0557,1,00:00.700000,MIN,,DEN,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0557,2,10:37,MIN,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P2.T1) (D.Mosher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0557,2,08:23,MIN,33.0,DEN,33.0,V. Cancar,DEN,Cancar Layup (2 PTS) (Brown 2 AST),Made Shot,Layup Shot,2,4,0,1,2.0,2.0,v
+S2223-G0557,2,07:37,MIN,,DEN,,V. Cancar,DEN,SUB: Gordon FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0557,3,02:00,MIN,,DEN,,V. Cancar,DEN,MISS Cancar 25' 3PT Jump Shot,Missed Shot,Jump Shot,-161,195,25,1,3.0,0.0,v
+S2223-G0557,4,08:41,MIN,,DEN,,V. Cancar,DEN,Cancar S.FOUL (P3.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0557,4,07:58,MIN,,DEN,,V. Cancar,DEN,SUB: Porter Jr. FOR Cancar,Substitution,,0,0,0,0,,,v
+S2223-G0783,1,08:53,DEN,,GSW,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0783,1,08:37,DEN,9.0,GSW,13.0,V. Cancar,DEN,Cancar 25' 3PT Jump Shot (3 PTS) (Jokic 1 AST),Made Shot,Jump Shot,-17,248,25,1,3.0,3.0,h
+S2223-G0783,1,08:24,DEN,,GSW,,V. Cancar,DEN,Cancar S.FOUL (P1.T2) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0783,1,07:37,DEN,11.0,GSW,16.0,V. Cancar,DEN,Cancar 4' Finger Roll Layup (5 PTS),Made Shot,Finger Roll Layup Shot,2,38,4,1,2.0,2.0,h
+S2223-G0783,1,06:53,DEN,,GSW,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0783,1,06:46,DEN,,GSW,,V. Cancar,DEN,MISS Cancar 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,31,32,4,1,2.0,0.0,h
+S2223-G0783,1,06:27,DEN,14.0,GSW,18.0,V. Cancar,DEN,Cancar 2' Cutting Layup Shot (7 PTS) (Jokic 2 AST),Made Shot,Cutting Layup Shot,6,14,2,1,2.0,2.0,h
+S2223-G0783,1,02:35,DEN,,GSW,,V. Cancar,DEN,SUB: Braun FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0783,2,06:15,DEN,,GSW,,V. Cancar,DEN,MISS Cancar 27' 3PT Jump Shot,Missed Shot,Jump Shot,29,267,27,1,3.0,0.0,h
+S2223-G0783,2,01:55,DEN,63.0,GSW,67.0,V. Cancar,DEN,Cancar 3PT Jump Shot (10 PTS) (Caldwell-Pope 1 AST),Made Shot,Jump Shot,-225,3,0,1,3.0,3.0,h
+S2223-G0783,2,00:49.900000,DEN,67.0,GSW,69.0,V. Cancar,DEN,Cancar 5' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,34,37,5,1,2.0,2.0,h
+S2223-G0783,2,00:01.200000,DEN,,GSW,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0783,2,00:01,DEN,,GSW,,V. Cancar,DEN,MISS Cancar 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,4,82,8,1,2.0,0.0,h
+S2223-G0783,3,11:17,DEN,,GSW,,V. Cancar,DEN,Cancar P.FOUL (P2.T1) (E.Lewis),Foul,Personal,0,0,0,0,,,h
+S2223-G0783,3,11:10,DEN,,GSW,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0783,3,08:27,DEN,,GSW,,V. Cancar,DEN,Cancar S.FOUL (P3.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0783,3,06:03,DEN,83.0,GSW,81.0,V. Cancar,DEN,Cancar 3PT Jump Shot (15 PTS) (Jokic 10 AST),Made Shot,Jump Shot,-234,16,0,1,3.0,3.0,h
+S2223-G0783,3,04:41,DEN,,GSW,,V. Cancar,DEN,Cancar STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0783,3,03:35,DEN,,GSW,,V. Cancar,DEN,SUB: Nnaji FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0783,4,05:16,DEN,122.0,GSW,106.0,V. Cancar,DEN,Cancar 2' Layup (17 PTS) (Jokic 14 AST),Made Shot,Layup Shot,-22,10,2,1,2.0,2.0,h
+S2223-G0465,2,11:43,DEN,,MEM,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0465,2,08:18,DEN,,MEM,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0465,2,07:59,DEN,,MEM,,V. Cancar,DEN,Cancar Traveling Turnover (P1.T7),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0465,2,07:45,DEN,,MEM,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0465,2,05:16,DEN,,MEM,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0465,2,05:12,DEN,,MEM,,V. Cancar,DEN,SUB: Caldwell-Pope FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0465,3,04:49,DEN,76.0,MEM,59.0,V. Cancar,DEN,Cancar 26' 3PT Jump Shot (3 PTS) (Brown 4 AST),Made Shot,Jump Shot,168,200,26,1,3.0,3.0,h
+S2223-G0465,3,04:03,DEN,,MEM,,V. Cancar,DEN,Cancar Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0465,3,03:49,DEN,,MEM,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0465,3,03:22,DEN,,MEM,,V. Cancar,DEN,Cancar S.FOUL (P1.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0465,3,03:07,DEN,,MEM,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0465,3,03:06,DEN,,MEM,,V. Cancar,DEN,Cancar Lost Ball Turnover (P3.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0465,3,02:27,DEN,,MEM,,V. Cancar,DEN,Cancar P.FOUL (P2.PN) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2223-G0465,3,00:42.600000,DEN,,MEM,,V. Cancar,DEN,Cancar REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0465,4,11:33,DEN,,MEM,,V. Cancar,DEN,Cancar S.FOUL (P3.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0465,4,11:04,DEN,,MEM,,V. Cancar,DEN,SUB: Brown FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0609,1,01:34,DEN,,,,V. Cancar,DEN,Cancar Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0609,1,01:28,DEN,,,,V. Cancar,DEN,Cancar STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0609,1,01:24,DEN,24.0,,20.0,V. Cancar,DEN,Cancar 4' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,0,42,4,1,2.0,2.0,h
+S2223-G0609,1,00:14.700000,DEN,,,,V. Cancar,DEN,Cancar P.FOUL (P1.T3) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2223-G0609,2,11:29,DEN,,,,V. Cancar,DEN,Cancar S.FOUL (P2.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0609,2,11:16,DEN,,,,V. Cancar,DEN,MISS Cancar 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-17,121,12,1,2.0,0.0,h
+S2223-G0609,2,08:33,DEN,,,,V. Cancar,DEN,SUB: Caldwell-Pope FOR Cancar,Substitution,,0,0,0,0,,,h
+S2223-G0609,4,11:36,DEN,,,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0609,4,10:08,DEN,,,,V. Cancar,DEN,Cancar REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0609,4,09:04,DEN,,,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0609,4,09:04,DEN,,,,V. Cancar,DEN,MISS Cancar Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0609,4,01:33,DEN,,,,V. Cancar,DEN,MISS Cancar 27' 3PT Jump Shot,Missed Shot,Jump Shot,-142,233,27,1,3.0,0.0,h
+S2223-G0609,4,00:31.100000,DEN,,,,V. Cancar,DEN,Cancar REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h

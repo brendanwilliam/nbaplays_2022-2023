@@ -1,0 +1,865 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0718,1,00:30.700000,PHX,,CHA,,D. Saric,PHX,Saric BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0718,2,11:04,PHX,,CHA,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0718,2,10:38,PHX,,CHA,,D. Saric,PHX,Saric S.FOUL (P1.T1) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0718,2,10:02,PHX,,CHA,,D. Saric,PHX,MISS Saric 6' Driving Layup,Missed Shot,Driving Layup Shot,44,34,6,1,2.0,0.0,h
+S2223-G0718,2,09:44,PHX,,CHA,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0718,2,09:14,PHX,44.0,CHA,18.0,D. Saric,PHX,Saric 7' Floating Jump Shot (2 PTS) (S. Lee 4 AST),Made Shot,Floating Jump shot,-11,73,7,1,2.0,2.0,h
+S2223-G0718,2,08:28,PHX,,CHA,,D. Saric,PHX,Saric REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0718,2,05:47,PHX,53.0,CHA,24.0,D. Saric,PHX,Saric 3PT Jump Shot (5 PTS) (Okogie 2 AST),Made Shot,Jump Shot,230,-12,0,1,3.0,3.0,h
+S2223-G0718,2,05:15,PHX,,CHA,,D. Saric,PHX,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,180,172,25,1,3.0,0.0,h
+S2223-G0718,2,04:51,PHX,,CHA,,D. Saric,PHX,SUB: Johnson FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0718,3,04:40,PHX,80.0,CHA,60.0,D. Saric,PHX,Saric 26' 3PT Jump Shot (8 PTS) (Paul 9 AST),Made Shot,Jump Shot,-181,180,26,1,3.0,3.0,h
+S2223-G0718,3,02:49,PHX,86.0,CHA,67.0,D. Saric,PHX,Saric Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0718,3,02:49,PHX,87.0,CHA,67.0,D. Saric,PHX,Saric Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0718,3,01:03,PHX,93.0,CHA,72.0,D. Saric,PHX,Saric Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0718,3,01:03,PHX,94.0,CHA,72.0,D. Saric,PHX,Saric Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0718,3,00:49.300000,PHX,,CHA,,D. Saric,PHX,Saric S.FOUL (P2.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0718,3,00:32.100000,PHX,96.0,CHA,75.0,D. Saric,PHX,Saric 1' Reverse Layup (14 PTS) (Biyombo 3 AST),Made Shot,Reverse Layup Shot,-9,8,1,1,2.0,2.0,h
+S2223-G0718,3,00:01.800000,PHX,,CHA,,D. Saric,PHX,Saric REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0718,4,11:10,PHX,,CHA,,D. Saric,PHX,Saric L.B.FOUL (P3.T1) (R.Acosta),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0718,4,10:45,PHX,,CHA,,D. Saric,PHX,Saric Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0718,4,09:24,PHX,104.0,CHA,79.0,D. Saric,PHX,Saric 3PT Jump Shot (17 PTS) (S. Lee 6 AST),Made Shot,Jump Shot,227,31,0,1,3.0,3.0,h
+S2223-G0718,4,07:26,PHX,,CHA,,D. Saric,PHX,Saric REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0718,4,07:06,PHX,,CHA,,D. Saric,PHX,Saric REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0718,4,07:00,PHX,,CHA,,D. Saric,PHX,Saric Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0718,4,06:50,PHX,,CHA,,D. Saric,PHX,Saric REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0718,4,06:01,PHX,,CHA,,D. Saric,PHX,MISS Saric 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-16,12,2,1,2.0,0.0,h
+S2223-G0718,4,05:35,PHX,,CHA,,D. Saric,PHX,Saric REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0718,4,05:35,PHX,111.0,CHA,85.0,D. Saric,PHX,Saric Tip Layup Shot (19 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0718,4,05:16,PHX,,CHA,,D. Saric,PHX,Saric OFF.Foul (P4) (R.Acosta),Foul,Offensive,0,0,0,0,,,h
+S2223-G0718,4,05:16,PHX,,CHA,,D. Saric,PHX,Saric Offensive Foul Turnover (P3.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0718,4,04:45,PHX,,CHA,,D. Saric,PHX,SUB: Landale FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0734,2,11:42,PHX,,DAL,,D. Saric,PHX,Saric P.FOUL (P1.T1) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2223-G0734,2,10:37,PHX,,DAL,,D. Saric,PHX,MISS Saric 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-1,105,11,1,2.0,0.0,h
+S2223-G0734,2,10:04,PHX,,DAL,,D. Saric,PHX,Saric S.FOUL (P2.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0734,2,10:04,PHX,,DAL,,D. Saric,PHX,SUB: Ayton FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G1172,1,03:21,OKC,19.0,PHX,17.0,D. Saric,OKC,Saric Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1172,1,03:21,OKC,20.0,PHX,17.0,D. Saric,OKC,Saric Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1172,1,01:08,OKC,25.0,PHX,20.0,D. Saric,OKC,Saric 25' 3PT Jump Shot (5 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Jump Shot,-229,101,25,1,3.0,3.0,h
+S2223-G1172,2,10:09,OKC,32.0,PHX,31.0,D. Saric,OKC,Saric 26' 3PT Jump Shot (8 PTS) (Joe 1 AST),Made Shot,Jump Shot,-78,251,26,1,3.0,3.0,h
+S2223-G1172,2,08:15,OKC,,PHX,,D. Saric,OKC,Saric S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1172,2,07:36,OKC,,PHX,,D. Saric,OKC,Saric REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1172,2,06:56,OKC,,PHX,,D. Saric,OKC,Saric P.FOUL (P2.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2223-G1172,2,06:56,OKC,,PHX,,D. Saric,OKC,SUB: Waters III FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G1172,3,03:45,OKC,,PHX,,D. Saric,OKC,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,-119,221,25,1,3.0,0.0,h
+S2223-G1172,3,01:18,OKC,,PHX,,D. Saric,OKC,Saric REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1172,3,01:16,OKC,,PHX,,D. Saric,OKC,Saric Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1187,1,02:43,GSW,26.0,OKC,31.0,D. Saric,OKC,Saric Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1187,1,02:43,GSW,,OKC,,D. Saric,OKC,MISS Saric Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1187,2,10:26,GSW,,OKC,,D. Saric,OKC,MISS Saric Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1187,2,10:26,GSW,38.0,OKC,44.0,D. Saric,OKC,Saric Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1187,2,08:56,GSW,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1187,2,08:02,GSW,,OKC,,D. Saric,OKC,Saric STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1187,2,06:49,GSW,,OKC,,D. Saric,OKC,SUB: Gilgeous-Alexander FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G1187,2,03:49,GSW,,OKC,,D. Saric,OKC,SUB: Wiggins FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G1187,3,02:33,GSW,96.0,OKC,102.0,D. Saric,OKC,Saric 28' 3PT Jump Shot (5 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Jump Shot,140,238,28,1,3.0,3.0,v
+S2223-G1187,3,01:01,GSW,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1187,3,00:45.600000,GSW,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1187,3,00:06.400000,GSW,,OKC,,D. Saric,OKC,MISS Saric 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,80,8,1,2.0,0.0,v
+S2223-G1187,4,11:59,GSW,,OKC,,D. Saric,OKC,Saric T.FOUL (P0.T0) (N.Green),Foul,Technical,0,0,0,0,,,v
+S2223-G1187,4,10:43,GSW,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1187,4,09:51,GSW,,OKC,,D. Saric,OKC,Saric L.B.FOUL (P1.T1) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1187,4,07:50,GSW,,OKC,,D. Saric,OKC,MISS Saric 28' 3PT Jump Shot,Missed Shot,Jump Shot,-31,278,28,1,3.0,0.0,v
+S2223-G1187,4,07:24,GSW,,OKC,,D. Saric,OKC,SUB: Gilgeous-Alexander FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G1200,1,02:51,UTA,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1200,1,01:46,UTA,,OKC,,D. Saric,OKC,Saric P.FOUL (P1.T2) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2223-G1200,1,01:18,UTA,,OKC,,D. Saric,OKC,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,148,199,25,1,3.0,0.0,v
+S2223-G1200,2,10:01,UTA,29.0,OKC,38.0,D. Saric,OKC,Saric 25' 3PT Jump Shot (3 PTS) (Jal. Williams 2 AST),Made Shot,Jump Shot,-50,247,25,1,3.0,3.0,v
+S2223-G1200,2,09:46,UTA,,OKC,,D. Saric,OKC,Saric BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1200,2,09:44,UTA,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1200,2,06:27,UTA,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1200,2,06:08,UTA,,OKC,,D. Saric,OKC,SUB: Jay. Williams FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G1200,3,05:01,UTA,70.0,OKC,74.0,D. Saric,OKC,Saric 9' Floating Jump Shot (5 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Floating Jump shot,-6,85,9,1,2.0,2.0,v
+S2223-G1200,3,03:18,UTA,,OKC,,D. Saric,OKC,Saric REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1200,3,02:35,UTA,,OKC,,D. Saric,OKC,Saric REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1200,3,02:14,UTA,,OKC,,D. Saric,OKC,Saric STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1200,3,02:04,UTA,,OKC,,D. Saric,OKC,MISS Saric 27' 3PT Jump Shot,Missed Shot,Jump Shot,-164,216,27,1,3.0,0.0,v
+S2223-G1200,4,11:34,UTA,,OKC,,D. Saric,OKC,Saric REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1200,4,11:18,UTA,76.0,OKC,87.0,D. Saric,OKC,Saric Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1200,4,11:18,UTA,76.0,OKC,88.0,D. Saric,OKC,Saric Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1200,4,10:39,UTA,,OKC,,D. Saric,OKC,Saric BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1200,4,10:37,UTA,,OKC,,D. Saric,OKC,Saric REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1200,4,10:31,UTA,76.0,OKC,94.0,D. Saric,OKC,Saric 27' 3PT Jump Shot (10 PTS) (Jal. Williams 5 AST),Made Shot,Jump Shot,-94,252,27,1,3.0,3.0,v
+S2223-G1200,4,09:11,UTA,,OKC,,D. Saric,OKC,SUB: Jay. Williams FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G1200,4,05:18,UTA,,OKC,,D. Saric,OKC,MISS Saric 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-55,134,14,1,2.0,0.0,v
+S2223-G1200,4,02:34,UTA,,OKC,,D. Saric,OKC,Saric REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1200,4,02:21,UTA,,OKC,,D. Saric,OKC,MISS Saric 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-51,118,13,1,2.0,0.0,v
+S2223-G1200,4,02:16,UTA,,OKC,,D. Saric,OKC,Saric REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1200,4,02:16,UTA,,OKC,,D. Saric,OKC,MISS Saric Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1200,4,02:15,UTA,,OKC,,D. Saric,OKC,Saric REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1200,4,02:15,UTA,94.0,OKC,112.0,D. Saric,OKC,Saric Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1200,4,01:47,UTA,94.0,OKC,114.0,D. Saric,OKC,Saric 2' Layup (14 PTS) (Joe 3 AST),Made Shot,Layup Shot,22,6,2,1,2.0,2.0,v
+S2223-G1200,4,01:36,UTA,,OKC,,D. Saric,OKC,SUB: Robinson-Earl FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0915,2,08:55,OKC,32.0,SAC,41.0,D. Saric,OKC,Saric Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0915,2,08:55,OKC,33.0,SAC,41.0,D. Saric,OKC,Saric Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0915,2,08:14,OKC,,SAC,,D. Saric,OKC,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,207,152,26,1,3.0,0.0,h
+S2223-G0915,2,07:59,OKC,,SAC,,D. Saric,OKC,Saric S.FOUL (P1.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0915,2,07:43,OKC,,SAC,,D. Saric,OKC,Saric 3 Second Violation Turnover (P1.T6),Turnover,3 Second Violation,0,0,0,0,,,h
+S2223-G0915,2,05:34,OKC,,SAC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0915,2,05:33,OKC,,SAC,,D. Saric,OKC,Saric Palming Turnover (P2.T7),Turnover,Palming Turnover,0,0,0,0,,,h
+S2223-G0915,2,04:28,OKC,,SAC,,D. Saric,OKC,SUB: Jay. Williams FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0915,4,09:16,OKC,,SAC,,D. Saric,OKC,SUB: K. Williams FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0703,1,05:22,PHX,,MEM,,D. Saric,PHX,Saric STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0703,1,05:16,PHX,15.0,MEM,9.0,D. Saric,PHX,Saric 2' Cutting Layup Shot (2 PTS) (Bridges 1 AST),Made Shot,Cutting Layup Shot,-21,-4,2,1,2.0,2.0,h
+S2223-G0703,1,05:16,PHX,16.0,MEM,9.0,D. Saric,PHX,Saric Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0703,1,02:33,PHX,,MEM,,D. Saric,PHX,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,137,211,25,1,3.0,0.0,h
+S2223-G0703,1,02:18,PHX,,MEM,,D. Saric,PHX,Saric Offensive Charge Foul (P1) (T.Brothers),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0703,1,02:18,PHX,,MEM,,D. Saric,PHX,Saric Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0703,1,01:43,PHX,,MEM,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0703,1,01:40,PHX,,MEM,,D. Saric,PHX,Saric Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0703,1,01:34,PHX,,MEM,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0703,2,11:18,PHX,34.0,MEM,18.0,D. Saric,PHX,Saric 19' Jump Shot (5 PTS) (S. Lee 1 AST),Made Shot,Jump Shot,174,69,19,1,2.0,2.0,h
+S2223-G0703,2,11:03,PHX,,MEM,,D. Saric,PHX,Saric REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0703,2,10:13,PHX,,MEM,,D. Saric,PHX,Saric REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0703,2,09:55,PHX,,MEM,,D. Saric,PHX,Saric S.FOUL (P2.T1) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0703,2,08:52,PHX,,MEM,,D. Saric,PHX,Saric STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0703,2,08:31,PHX,,MEM,,D. Saric,PHX,Saric REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0703,2,08:07,PHX,42.0,MEM,22.0,D. Saric,PHX,Saric 2' Running Layup (7 PTS),Made Shot,Running Layup Shot,6,16,2,1,2.0,2.0,h
+S2223-G0703,2,08:07,PHX,,MEM,,D. Saric,PHX,MISS Saric Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0703,2,07:19,PHX,,MEM,,D. Saric,PHX,Saric REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0703,2,06:38,PHX,,MEM,,D. Saric,PHX,Saric REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0703,2,05:58,PHX,,MEM,,D. Saric,PHX,SUB: Johnson FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0703,3,05:10,PHX,,MEM,,D. Saric,PHX,Saric S.FOUL (P3.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0703,3,04:59,PHX,77.0,MEM,52.0,D. Saric,PHX,Saric 2' Hook Bank Shot (9 PTS) (Paul 8 AST),Made Shot,Hook Bank Shot,6,16,2,1,2.0,2.0,h
+S2223-G0703,3,04:59,PHX,78.0,MEM,52.0,D. Saric,PHX,Saric Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0703,3,02:44,PHX,,MEM,,D. Saric,PHX,Saric OFF.Foul (P4) (T.Brothers),Foul,Offensive,0,0,0,0,,,h
+S2223-G0703,3,02:44,PHX,,MEM,,D. Saric,PHX,Saric Offensive Foul Turnover (P3.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0703,3,02:14,PHX,86.0,MEM,63.0,D. Saric,PHX,Saric Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0703,3,02:14,PHX,87.0,MEM,63.0,D. Saric,PHX,Saric Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0703,3,01:05,PHX,,MEM,,D. Saric,PHX,Saric REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0703,3,00:27.500000,PHX,,MEM,,D. Saric,PHX,Saric S.FOUL (P5.PN) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0703,4,00:12.800000,PHX,111.0,MEM,108.0,D. Saric,PHX,Saric Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0703,4,00:12.800000,PHX,112.0,MEM,108.0,D. Saric,PHX,Saric Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0703,4,00:12.800000,PHX,,MEM,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0703,4,00:01.600000,PHX,,MEM,,D. Saric,PHX,Saric STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0892,2,11:43,UTA,,OKC,,D. Saric,OKC,Saric Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0892,2,09:55,UTA,,OKC,,D. Saric,OKC,Saric S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0892,2,08:16,UTA,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0892,2,07:25,UTA,,OKC,,D. Saric,OKC,MISS Saric 24' 3PT Jump Shot,Missed Shot,Jump Shot,-148,193,24,1,3.0,0.0,v
+S2223-G0892,2,07:00,UTA,36.0,OKC,35.0,D. Saric,OKC,Saric 20' Jump Shot (2 PTS),Made Shot,Jump Shot,-78,187,20,1,2.0,2.0,v
+S2223-G0892,2,06:25,UTA,,OKC,,D. Saric,OKC,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,123,225,26,1,3.0,0.0,v
+S2223-G0892,2,05:43,UTA,,OKC,,D. Saric,OKC,SUB: Mann FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0892,4,07:39,UTA,,OKC,,D. Saric,OKC,Saric S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0892,4,06:33,UTA,,OKC,,D. Saric,OKC,SUB: Gilgeous-Alexander FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0345,1,10:18,SAS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0345,1,08:08,SAS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0345,1,08:08,SAS,11.0,PHX,6.0,D. Saric,PHX,Saric 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-22,15,3,1,2.0,2.0,v
+S2223-G0345,1,08:08,SAS,11.0,PHX,7.0,D. Saric,PHX,Saric Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0345,1,05:36,SAS,,PHX,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0345,3,10:50,SAS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0345,3,10:14,SAS,44.0,PHX,79.0,D. Saric,PHX,Saric 25' 3PT Jump Shot (6 PTS) (Booker 6 AST),Made Shot,Jump Shot,-116,218,25,1,3.0,3.0,v
+S2223-G0345,3,10:05,SAS,,PHX,,D. Saric,PHX,Saric S.FOUL (P1.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2223-G0345,3,08:47,SAS,45.0,PHX,87.0,D. Saric,PHX,Saric 3PT Jump Shot (9 PTS) (Booker 7 AST),Made Shot,Jump Shot,-232,-13,0,1,3.0,3.0,v
+S2223-G0345,3,07:51,SAS,,PHX,,D. Saric,PHX,MISS Saric 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,26,24,1,3.0,0.0,v
+S2223-G0345,3,06:45,SAS,,PHX,,D. Saric,PHX,Saric S.FOUL (P2.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0345,3,05:30,SAS,,PHX,,D. Saric,PHX,Saric S.FOUL (P3.T4) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0345,3,05:30,SAS,,PHX,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0345,4,07:58,SAS,84.0,PHX,116.0,D. Saric,PHX,Saric 2' Alley Oop Layup (11 PTS) (Washington Jr. 1 AST),Made Shot,Alley Oop Layup shot,16,11,2,1,2.0,2.0,v
+S2223-G0345,4,07:30,SAS,,PHX,,D. Saric,PHX,Saric Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0345,4,04:53,SAS,86.0,PHX,124.0,D. Saric,PHX,Saric 25' 3PT Jump Shot (14 PTS) (Okogie 5 AST),Made Shot,Jump Shot,-125,219,25,1,3.0,3.0,v
+S2223-G0345,4,04:05,SAS,,PHX,,D. Saric,PHX,Saric L.B.FOUL (P4.T3) (C.Flores),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0345,4,02:25,SAS,,PHX,,D. Saric,PHX,MISS Saric 17' Running Jump Shot,Missed Shot,Running Jump Shot,168,26,17,1,2.0,0.0,v
+S2223-G0345,4,01:12,SAS,95.0,PHX,129.0,D. Saric,PHX,Saric 25' 3PT Pullup Jump Shot (17 PTS) (Okogie 6 AST),Made Shot,Pullup Jump shot,-20,253,25,1,3.0,3.0,v
+S2223-G0762,1,03:19,PHX,22.0,TOR,18.0,D. Saric,PHX,Saric 2' Cutting Layup Shot (2 PTS) (Paul 3 AST),Made Shot,Cutting Layup Shot,7,18,2,1,2.0,2.0,h
+S2223-G0762,1,01:09,PHX,,TOR,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0762,1,00:15.200000,PHX,,TOR,,D. Saric,PHX,Saric S.FOUL (P1.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0762,1,00:15.200000,PHX,,TOR,,D. Saric,PHX,SUB: Johnson FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0762,2,05:58,PHX,49.0,TOR,43.0,D. Saric,PHX,Saric Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0762,2,05:58,PHX,50.0,TOR,43.0,D. Saric,PHX,Saric Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0762,2,05:15,PHX,,TOR,,D. Saric,PHX,MISS Saric 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,29,109,11,1,2.0,0.0,h
+S2223-G0762,2,05:12,PHX,,TOR,,D. Saric,PHX,Saric REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0762,2,05:12,PHX,51.0,TOR,43.0,D. Saric,PHX,Saric Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0762,2,05:12,PHX,,TOR,,D. Saric,PHX,MISS Saric Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0762,2,03:51,PHX,,TOR,,D. Saric,PHX,SUB: Paul FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0762,4,11:06,PHX,,TOR,,D. Saric,PHX,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,-55,243,25,1,3.0,0.0,h
+S2223-G0762,4,10:27,PHX,86.0,TOR,84.0,D. Saric,PHX,Saric 8' Jump Shot (7 PTS),Made Shot,Jump Shot,38,74,8,1,2.0,2.0,h
+S2223-G0762,4,08:42,PHX,90.0,TOR,89.0,D. Saric,PHX,Saric 3' Hook Shot (9 PTS) (Wainright 3 AST),Made Shot,Hook Shot,0,27,3,1,2.0,2.0,h
+S2223-G0762,4,08:20,PHX,,TOR,,D. Saric,PHX,Saric REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0762,4,08:09,PHX,92.0,TOR,89.0,D. Saric,PHX,Saric 2' Layup (11 PTS) (S. Lee 2 AST),Made Shot,Layup Shot,-15,3,2,1,2.0,2.0,h
+S2223-G0762,4,06:46,PHX,,TOR,,D. Saric,PHX,Saric P.FOUL (P2.T1) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2223-G0762,4,06:46,PHX,,TOR,,D. Saric,PHX,SUB: Paul FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0762,4,00:31,PHX,,TOR,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0373,4,11:49,PHX,67.0,BOS,104.0,D. Saric,PHX,Saric 13' Driving Floating Jump Shot (2 PTS) (Payne 3 AST),Made Shot,Driving Floating Jump Shot,55,113,13,1,2.0,2.0,h
+S2223-G0373,4,10:26,PHX,,BOS,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0373,4,10:21,PHX,,BOS,,D. Saric,PHX,Saric Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0373,4,07:50,PHX,,BOS,,D. Saric,PHX,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,55,240,25,1,3.0,0.0,h
+S2223-G0373,4,07:12,PHX,,BOS,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0373,4,06:34,PHX,,BOS,,D. Saric,PHX,Saric REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0373,4,05:00,PHX,,BOS,,D. Saric,PHX,MISS Saric 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,47,69,8,1,2.0,0.0,h
+S2223-G0373,4,03:43,PHX,,BOS,,D. Saric,PHX,Saric REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0373,4,03:28,PHX,,BOS,,D. Saric,PHX,Saric REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0373,4,02:08,PHX,,BOS,,D. Saric,PHX,Saric REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0373,4,00:51.800000,PHX,95.0,BOS,125.0,D. Saric,PHX,Saric Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0373,4,00:51.800000,PHX,96.0,BOS,125.0,D. Saric,PHX,Saric Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0148,1,01:58,PHI,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0968,2,09:57,OKC,,UTA,,D. Saric,OKC,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0968,2,09:24,OKC,42.0,UTA,24.0,D. Saric,OKC,Saric 3PT Jump Shot (3 PTS) (Jal. Williams 3 AST),Made Shot,Jump Shot,-234,-20,0,1,3.0,3.0,h
+S2223-G0968,2,07:16,OKC,50.0,UTA,27.0,D. Saric,OKC,Saric 2' Driving Layup (5 PTS) (Giddey 2 AST),Made Shot,Driving Layup Shot,17,11,2,1,2.0,2.0,h
+S2223-G0968,2,06:30,OKC,,UTA,,D. Saric,OKC,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0968,2,06:10,OKC,,UTA,,D. Saric,OKC,Saric S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0968,2,05:12,OKC,57.0,UTA,34.0,D. Saric,OKC,Saric 3' Running Layup (7 PTS) (Giddey 3 AST),Made Shot,Running Layup Shot,-9,25,3,1,2.0,2.0,h
+S2223-G0968,2,04:30,OKC,,UTA,,D. Saric,OKC,MISS Saric Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0968,2,04:30,OKC,58.0,UTA,37.0,D. Saric,OKC,Saric Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0968,2,04:19,OKC,,UTA,,D. Saric,OKC,SUB: Sarr FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0968,3,00:03.200000,OKC,,UTA,,D. Saric,OKC,SUB: Wiggins FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0968,4,11:43,OKC,,UTA,,D. Saric,OKC,MISS Saric 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,82,82,12,1,2.0,0.0,h
+S2223-G0968,4,07:45,OKC,,UTA,,D. Saric,OKC,Saric REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0968,4,07:25,OKC,,UTA,,D. Saric,OKC,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,115,231,26,1,3.0,0.0,h
+S2223-G0968,4,06:48,OKC,,UTA,,D. Saric,OKC,SUB: Jay. Williams FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G1011,1,01:40,NOP,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1011,1,01:18,NOP,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1011,2,09:10,NOP,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1011,2,07:59,NOP,,OKC,,D. Saric,OKC,MISS Saric 27' 3PT Jump Shot,Missed Shot,Jump Shot,71,257,27,1,3.0,0.0,v
+S2223-G1011,2,05:59,NOP,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1011,2,05:34,NOP,,OKC,,D. Saric,OKC,Saric P.FOUL (P1.T3) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2223-G1011,2,05:11,NOP,,OKC,,D. Saric,OKC,MISS Saric 9' Driving Layup,Missed Shot,Driving Layup Shot,4,87,9,1,2.0,0.0,v
+S2223-G1011,2,05:10,NOP,,OKC,,D. Saric,OKC,Saric Traveling Turnover (P1.T7),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1011,2,04:43,NOP,34.0,OKC,51.0,D. Saric,OKC,Saric Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1011,2,04:43,NOP,34.0,OKC,52.0,D. Saric,OKC,Saric Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1011,2,03:39,NOP,,OKC,,D. Saric,OKC,SUB: Dort FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G1011,3,01:11,NOP,,OKC,,D. Saric,OKC,Saric STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1011,3,01:08,NOP,69.0,OKC,87.0,D. Saric,OKC,Saric 3' Running Layup (4 PTS) (Waters III 1 AST),Made Shot,Running Layup Shot,-4,28,3,1,2.0,2.0,v
+S2223-G1011,3,00:49.500000,NOP,,OKC,,D. Saric,OKC,Saric S.FOUL (P2.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2223-G1011,4,11:29,NOP,,OKC,,D. Saric,OKC,MISS Saric 24' 3PT Jump Shot,Missed Shot,Jump Shot,228,63,24,1,3.0,0.0,v
+S2223-G1011,4,10:26,NOP,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1011,4,08:54,NOP,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1011,4,07:51,NOP,,OKC,,D. Saric,OKC,MISS Saric 5' Driving Layup,Missed Shot,Driving Layup Shot,26,39,5,1,2.0,0.0,v
+S2223-G1011,4,07:24,NOP,,OKC,,D. Saric,OKC,MISS Saric 27' 3PT Jump Shot,Missed Shot,Jump Shot,62,258,27,1,3.0,0.0,v
+S2223-G1011,4,07:17,NOP,,OKC,,D. Saric,OKC,SUB: Jal. Williams FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0817,2,04:53,BKN,,PHX,,D. Saric,PHX,MISS Saric 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-27,69,7,1,2.0,0.0,v
+S2223-G0817,2,04:48,BKN,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0817,2,04:47,BKN,,PHX,,D. Saric,PHX,MISS Saric 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-18,28,3,1,2.0,0.0,v
+S2223-G0817,2,03:33,BKN,,PHX,,D. Saric,PHX,Saric S.FOUL (P1.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0817,2,03:01,BKN,,PHX,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0899,2,09:42,PHX,,OKC,,D. Saric,OKC,Saric S.FOUL (P1.T2) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G0899,2,09:05,PHX,41.0,OKC,39.0,D. Saric,OKC,Saric 27' 3PT Jump Shot (3 PTS) (Mann 3 AST),Made Shot,Jump Shot,-10,268,27,1,3.0,3.0,v
+S2223-G0899,2,08:45,PHX,,OKC,,D. Saric,OKC,MISS Saric 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,9,6,1,1,2.0,0.0,v
+S2223-G0899,2,08:08,PHX,,OKC,,D. Saric,OKC,MISS Saric 20' Jump Shot,Missed Shot,Jump Shot,-4,197,20,1,2.0,0.0,v
+S2223-G0899,2,07:35,PHX,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0899,2,06:19,PHX,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0899,2,05:34,PHX,,OKC,,D. Saric,OKC,SUB: Jay. Williams FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0899,4,09:13,PHX,,OKC,,D. Saric,OKC,Saric REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0899,4,09:12,PHX,,OKC,,D. Saric,OKC,Saric Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0899,4,06:55,PHX,113.0,OKC,104.0,D. Saric,OKC,Saric 26' 3PT Jump Shot (6 PTS) (Dort 1 AST),Made Shot,Jump Shot,134,221,26,1,3.0,3.0,v
+S2223-G0899,4,05:31,PHX,,OKC,,D. Saric,OKC,Saric REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0899,4,05:31,PHX,116.0,OKC,105.0,D. Saric,OKC,Saric Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0899,4,05:31,PHX,116.0,OKC,106.0,D. Saric,OKC,Saric Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0899,4,05:05,PHX,,OKC,,D. Saric,OKC,SUB: Jal. Williams FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0358,1,01:16,DAL,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0358,1,00:26.800000,DAL,,PHX,,D. Saric,PHX,MISS Saric 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-91,18,9,1,2.0,0.0,v
+S2223-G0358,2,10:28,DAL,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0358,2,10:17,DAL,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0358,2,10:16,DAL,,PHX,,D. Saric,PHX,MISS Saric 1' Putback Layup,Missed Shot,Putback Layup Shot,5,11,1,1,2.0,0.0,v
+S2223-G0358,2,09:08,DAL,,PHX,,D. Saric,PHX,SUB: Bridges FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0358,4,09:58,DAL,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0358,4,09:33,DAL,,PHX,,D. Saric,PHX,Saric S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2223-G0358,4,08:33,DAL,,PHX,,D. Saric,PHX,MISS Saric Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0358,4,08:33,DAL,104.0,PHX,84.0,D. Saric,PHX,Saric Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0358,4,06:25,DAL,,PHX,,D. Saric,PHX,MISS Saric 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,9,24,1,3.0,0.0,v
+S2223-G0358,4,05:46,DAL,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0358,4,05:28,DAL,,PHX,,D. Saric,PHX,Saric S.FOUL (P2.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0358,4,04:35,DAL,110.0,PHX,93.0,D. Saric,PHX,Saric 1' Driving Layup (3 PTS),Made Shot,Driving Layup Shot,7,-2,1,1,2.0,2.0,v
+S2223-G0358,4,03:00,DAL,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0358,4,01:31,DAL,,PHX,,D. Saric,PHX,Saric S.FOUL (P3.T4) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G0358,4,01:16,DAL,,PHX,,D. Saric,PHX,MISS Saric 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,26,67,7,1,2.0,0.0,v
+S2223-G1031,1,01:11,OKC,,BKN,,D. Saric,OKC,Saric OFF.Foul (P1) (J.Orr),Foul,Offensive,0,0,0,0,,,h
+S2223-G1031,1,01:11,OKC,,BKN,,D. Saric,OKC,Saric Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1031,2,11:46,OKC,,BKN,,D. Saric,OKC,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,-129,209,25,1,3.0,0.0,h
+S2223-G1031,2,09:19,OKC,,BKN,,D. Saric,OKC,Saric S.FOUL (P2.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G1031,2,09:05,OKC,,BKN,,D. Saric,OKC,MISS Saric 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-136,-7,14,1,2.0,0.0,h
+S2223-G1031,2,08:33,OKC,,BKN,,D. Saric,OKC,SUB: Dieng FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G1031,4,10:17,OKC,96.0,BKN,89.0,D. Saric,OKC,Saric 3' Cutting Layup Shot (2 PTS) (Giddey 9 AST),Made Shot,Cutting Layup Shot,27,12,3,1,2.0,2.0,h
+S2223-G1031,4,09:43,OKC,98.0,BKN,89.0,D. Saric,OKC,Saric 2' Cutting Layup Shot (4 PTS) (Giddey 10 AST),Made Shot,Cutting Layup Shot,2,18,2,1,2.0,2.0,h
+S2223-G1031,4,09:25,OKC,,BKN,,D. Saric,OKC,Saric OFF.Foul (P3) (J.Orr),Foul,Offensive,0,0,0,0,,,h
+S2223-G1031,4,09:25,OKC,,BKN,,D. Saric,OKC,Saric Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1031,4,09:04,OKC,,BKN,,D. Saric,OKC,Saric S.FOUL (P4.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G1031,4,08:11,OKC,,BKN,,D. Saric,OKC,SUB: Gilgeous-Alexander FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0334,1,10:28,PHX,,HOU,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0334,1,09:02,PHX,,HOU,,D. Saric,PHX,Saric BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0334,1,08:40,PHX,,HOU,,D. Saric,PHX,MISS Saric 27' 3PT Jump Shot,Missed Shot,Jump Shot,-185,194,27,1,3.0,0.0,h
+S2223-G0334,1,06:32,PHX,,HOU,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0334,1,06:22,PHX,,HOU,,D. Saric,PHX,Saric Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0334,1,03:31,PHX,,HOU,,D. Saric,PHX,Saric S.FOUL (P1.T4) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0334,1,03:31,PHX,,HOU,,D. Saric,PHX,SUB: Shamet FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0334,2,08:25,PHX,,HOU,,D. Saric,PHX,MISS Saric 27' 3PT Jump Shot,Missed Shot,Jump Shot,-212,167,27,1,3.0,0.0,h
+S2223-G0334,2,07:58,PHX,,HOU,,D. Saric,PHX,MISS Saric 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,-1,54,5,1,2.0,0.0,h
+S2223-G0334,2,05:56,PHX,,HOU,,D. Saric,PHX,MISS Saric 28' 3PT Jump Shot,Missed Shot,Jump Shot,143,235,28,1,3.0,0.0,h
+S2223-G0334,2,05:36,PHX,,HOU,,D. Saric,PHX,Saric REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0334,2,03:57,PHX,,HOU,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0334,3,09:41,PHX,,HOU,,D. Saric,PHX,Saric S.FOUL (P2.T1) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0334,3,09:27,PHX,74.0,HOU,64.0,D. Saric,PHX,Saric 24' 3PT Jump Shot (3 PTS) (Payne 8 AST),Made Shot,Jump Shot,235,24,24,1,3.0,3.0,h
+S2223-G0334,3,08:43,PHX,,HOU,,D. Saric,PHX,Saric P.FOUL (P3.T2) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2223-G0334,3,08:02,PHX,,HOU,,D. Saric,PHX,Saric REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0334,3,06:59,PHX,,HOU,,D. Saric,PHX,Saric BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0334,3,04:38,PHX,,HOU,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G1134,4,08:04,OKC,,CHA,,D. Saric,OKC,MISS Saric 10' Jump Shot,Missed Shot,Jump Shot,43,90,10,1,2.0,0.0,h
+S2223-G1134,4,05:59,OKC,,CHA,,D. Saric,OKC,SUB: Jal. Williams FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0637,1,08:26,MIN,9.0,PHX,9.0,D. Saric,PHX,Saric 1' Reverse Layup (2 PTS) (Ayton 3 AST),Made Shot,Reverse Layup Shot,-6,5,1,1,2.0,2.0,v
+S2223-G0637,1,05:41,MIN,,PHX,,D. Saric,PHX,MISS Saric 1' Layup,Missed Shot,Layup Shot,6,13,1,1,2.0,0.0,v
+S2223-G0637,1,03:57,MIN,,PHX,,D. Saric,PHX,SUB: D. Lee FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0637,2,02:39,MIN,,PHX,,D. Saric,PHX,Saric STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0637,2,00:06.100000,MIN,,PHX,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0637,3,10:40,MIN,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0637,3,10:15,MIN,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0637,3,10:14,MIN,,PHX,,D. Saric,PHX,Saric Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0637,3,10:06,MIN,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0637,3,07:07,MIN,,PHX,,D. Saric,PHX,MISS Saric 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-202,4,20,1,2.0,0.0,v
+S2223-G0637,3,06:38,MIN,79.0,PHX,57.0,D. Saric,PHX,Saric 2' Cutting Layup Shot (4 PTS) (D. Lee 1 AST),Made Shot,Cutting Layup Shot,-17,15,2,1,2.0,2.0,v
+S2223-G0637,3,06:38,MIN,79.0,PHX,58.0,D. Saric,PHX,Saric Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0637,3,06:34,MIN,,PHX,,D. Saric,PHX,SUB: Okogie FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0565,1,11:42,CLE,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0565,1,08:07,CLE,2.0,PHX,8.0,D. Saric,PHX,Saric 26' 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,-205,164,26,1,3.0,3.0,v
+S2223-G0565,1,07:47,CLE,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0565,1,06:45,CLE,,PHX,,D. Saric,PHX,Saric P.FOUL (P1.T2) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G0565,1,04:38,CLE,,PHX,,D. Saric,PHX,Saric S.FOUL (P2.T4) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0565,1,04:38,CLE,,PHX,,D. Saric,PHX,SUB: Payne FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0565,3,11:38,CLE,,PHX,,D. Saric,PHX,MISS Saric 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,30,24,1,3.0,0.0,v
+S2223-G0565,3,11:23,CLE,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0565,3,09:15,CLE,,PHX,,D. Saric,PHX,Saric Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0565,3,08:47,CLE,41.0,PHX,47.0,D. Saric,PHX,Saric 28' 3PT Jump Shot (6 PTS) (Paul 4 AST),Made Shot,Jump Shot,126,250,28,1,3.0,3.0,v
+S2223-G0565,3,07:03,CLE,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0565,3,06:18,CLE,43.0,PHX,53.0,D. Saric,PHX,Saric 1' Layup (8 PTS) (Paul 6 AST),Made Shot,Layup Shot,1,11,1,1,2.0,2.0,v
+S2223-G0565,3,04:17,CLE,,PHX,,D. Saric,PHX,MISS Saric 2' Driving Layup,Missed Shot,Driving Layup Shot,0,17,2,1,2.0,0.0,v
+S2223-G0565,3,03:28,CLE,,PHX,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0565,4,10:58,CLE,64.0,PHX,68.0,D. Saric,PHX,Saric 2' Layup (10 PTS) (Craig 2 AST),Made Shot,Layup Shot,4,15,2,1,2.0,2.0,v
+S2223-G0565,4,10:38,CLE,,PHX,,D. Saric,PHX,MISS Saric 16' Jump Shot,Missed Shot,Jump Shot,-70,143,16,1,2.0,0.0,v
+S2223-G0565,4,09:20,CLE,,PHX,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0748,1,03:12,SAS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0748,1,03:07,SAS,,PHX,,D. Saric,PHX,MISS Saric 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-61,-1,6,1,2.0,0.0,v
+S2223-G0748,1,01:12,SAS,,PHX,,D. Saric,PHX,MISS Saric 20' Jump Shot,Missed Shot,Jump Shot,37,193,20,1,2.0,0.0,v
+S2223-G0748,1,00:31.800000,SAS,,PHX,,D. Saric,PHX,Saric S.FOUL (P1.PN) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0748,2,11:08,SAS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0748,2,11:08,SAS,,PHX,,D. Saric,PHX,MISS Saric Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0748,2,10:59,SAS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0748,2,10:18,SAS,,PHX,,D. Saric,PHX,MISS Saric 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-28,8,3,1,2.0,0.0,v
+S2223-G0748,2,09:00,SAS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0748,2,08:26,SAS,,PHX,,D. Saric,PHX,Saric BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0748,2,08:03,SAS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0748,2,08:03,SAS,,PHX,,D. Saric,PHX,MISS Saric Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0748,2,07:45,SAS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0748,2,07:36,SAS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0748,2,05:22,SAS,,PHX,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0748,3,04:06,SAS,,PHX,,D. Saric,PHX,Saric S.FOUL (P2.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2223-G0748,3,03:05,SAS,,PHX,,D. Saric,PHX,Saric S.FOUL (P3.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0748,3,02:31,SAS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0748,3,02:07,SAS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0748,3,00:55.900000,SAS,,PHX,,D. Saric,PHX,Saric P.FOUL (P4.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2223-G0748,4,10:52,SAS,,PHX,,D. Saric,PHX,Saric Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0748,4,10:30,SAS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0748,4,09:14,SAS,,PHX,,D. Saric,PHX,MISS Saric 8' Floating Jump Shot,Missed Shot,Floating Jump shot,-81,11,8,1,2.0,0.0,v
+S2223-G0748,4,09:13,SAS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0748,4,09:07,SAS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0748,4,08:59,SAS,80.0,PHX,91.0,D. Saric,PHX,Saric 2' Layup (2 PTS) (S. Lee 3 AST),Made Shot,Layup Shot,5,24,2,1,2.0,2.0,v
+S2223-G0748,4,07:43,SAS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:6 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0748,4,07:25,SAS,,PHX,,D. Saric,PHX,MISS Saric 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,126,25,13,1,2.0,0.0,v
+S2223-G0748,4,05:30,SAS,,PHX,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0139,1,01:01,PHX,,POR,,D. Saric,PHX,Saric REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0139,2,10:45,PHX,,POR,,D. Saric,PHX, ,Jump Ball,,0,0,0,0,,,h
+S2223-G0139,2,10:28,PHX,,POR,,D. Saric,PHX,MISS Saric 5' Driving Layup,Missed Shot,Driving Layup Shot,28,47,5,1,2.0,0.0,h
+S2223-G0139,2,09:48,PHX,,POR,,D. Saric,PHX,Saric STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0139,2,08:17,PHX,,POR,,D. Saric,PHX,Saric REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0139,2,08:16,PHX,,POR,,D. Saric,PHX,MISS Saric 4' Putback Layup,Missed Shot,Putback Layup Shot,26,36,4,1,2.0,0.0,h
+S2223-G0139,2,07:48,PHX,,POR,,D. Saric,PHX,MISS Saric 27' 3PT Jump Shot,Missed Shot,Jump Shot,97,251,27,1,3.0,0.0,h
+S2223-G0139,2,07:42,PHX,,POR,,D. Saric,PHX,Saric P.FOUL (P1.T3) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2223-G0139,2,07:42,PHX,,POR,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0139,3,01:48,PHX,79.0,POR,58.0,D. Saric,PHX,Saric 24' 3PT Jump Shot (3 PTS) (Lee 1 AST),Made Shot,Jump Shot,230,67,24,1,3.0,3.0,h
+S2223-G0139,3,00:23.200000,PHX,,POR,,D. Saric,PHX,Saric REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0139,4,10:20,PHX,,POR,,D. Saric,PHX,Saric REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0139,4,09:35,PHX,88.0,POR,61.0,D. Saric,PHX,Saric 1' Reverse Layup (5 PTS) (Landale 4 AST),Made Shot,Reverse Layup Shot,-9,4,1,1,2.0,2.0,h
+S2223-G0139,4,07:16,PHX,,POR,,D. Saric,PHX,Saric REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0139,4,07:15,PHX,94.0,POR,65.0,D. Saric,PHX,Saric 4' Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,21,29,4,1,2.0,2.0,h
+S2223-G0139,4,06:55,PHX,,POR,,D. Saric,PHX,Saric S.FOUL (P2.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0139,4,06:23,PHX,,POR,,D. Saric,PHX,Saric REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0139,4,05:52,PHX,,POR,,D. Saric,PHX,Saric REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0139,4,04:30,PHX,,POR,,D. Saric,PHX,Saric Lane Violation Turnover (P1.T12),Turnover,Lane Violation,0,0,0,0,,,h
+S2223-G0139,4,04:19,PHX,,POR,,D. Saric,PHX,Saric P.FOUL (P3.T3) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2223-G0139,4,03:54,PHX,,POR,,D. Saric,PHX,MISS Saric 3' Layup,Missed Shot,Layup Shot,26,0,3,1,2.0,0.0,h
+S2223-G0139,4,03:52,PHX,,POR,,D. Saric,PHX,Saric REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0139,4,03:52,PHX,98.0,POR,70.0,D. Saric,PHX,Saric 1' Reverse Layup (9 PTS),Made Shot,Reverse Layup Shot,9,6,1,1,2.0,2.0,h
+S2223-G0139,4,03:52,PHX,,POR,,D. Saric,PHX,MISS Saric Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0139,4,01:56,PHX,,POR,,D. Saric,PHX,MISS Saric 16' Jump Shot,Missed Shot,Jump Shot,162,-16,16,1,2.0,0.0,h
+S2223-G0139,4,01:12,PHX,,POR,,D. Saric,PHX,Saric Traveling Turnover (P2.T14),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0139,4,00:40.800000,PHX,,POR,,D. Saric,PHX,Saric REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0990,1,05:15,PHX,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0990,1,02:30,PHX,,OKC,,D. Saric,OKC,MISS Saric 6' Driving Layup,Missed Shot,Driving Layup Shot,50,26,6,1,2.0,0.0,v
+S2223-G0990,1,00:57.600000,PHX,30.0,OKC,21.0,D. Saric,OKC,Saric 25' 3PT Jump Shot (3 PTS) (Waters III 1 AST),Made Shot,Jump Shot,62,245,25,1,3.0,3.0,v
+S2223-G0990,1,00:57.600000,PHX,,OKC,,D. Saric,OKC,Saric T.FOUL (P0.T1) (J.Williams),Foul,Technical,0,0,0,0,,,v
+S2223-G0928,1,05:46,OKC,,SAC,,D. Saric,OKC,Saric REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0928,1,05:14,OKC,,SAC,,D. Saric,OKC,Saric REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0928,1,03:46,OKC,23.0,SAC,32.0,D. Saric,OKC,Saric 4' Floating Jump Shot (2 PTS) (Mann 2 AST),Made Shot,Floating Jump shot,1,37,4,1,2.0,2.0,h
+S2223-G0928,1,03:46,OKC,24.0,SAC,32.0,D. Saric,OKC,Saric Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0928,1,03:12,OKC,,SAC,,D. Saric,OKC,Saric Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0928,1,02:47,OKC,,SAC,,D. Saric,OKC,Saric REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0928,1,02:26,OKC,,SAC,,D. Saric,OKC,Saric REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0928,1,02:23,OKC,26.0,SAC,35.0,D. Saric,OKC,Saric 1' Running Finger Roll Layup (5 PTS),Made Shot,Running Finger Roll Layup Shot,4,9,1,1,2.0,2.0,h
+S2223-G0928,1,02:23,OKC,27.0,SAC,35.0,D. Saric,OKC,Saric Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0928,1,01:29,OKC,30.0,SAC,37.0,D. Saric,OKC,Saric Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0928,1,01:29,OKC,31.0,SAC,37.0,D. Saric,OKC,Saric Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0928,2,11:20,OKC,41.0,SAC,47.0,D. Saric,OKC,Saric 25' 3PT Jump Shot (11 PTS) (Mann 3 AST),Made Shot,Jump Shot,116,226,25,1,3.0,3.0,h
+S2223-G0928,2,10:53,OKC,,SAC,,D. Saric,OKC,MISS Saric 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-105,234,26,1,3.0,0.0,h
+S2223-G0928,2,09:44,OKC,,SAC,,D. Saric,OKC,MISS Saric 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,71,24,1,3.0,0.0,h
+S2223-G0928,2,08:06,OKC,,SAC,,D. Saric,OKC,Saric REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0928,2,07:37,OKC,,SAC,,D. Saric,OKC,SUB: K. Williams FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0928,3,06:06,OKC,74.0,SAC,89.0,D. Saric,OKC,Saric 1' Layup (13 PTS) (Mann 4 AST),Made Shot,Layup Shot,0,12,1,1,2.0,2.0,h
+S2223-G0928,3,06:06,OKC,75.0,SAC,89.0,D. Saric,OKC,Saric Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0928,3,04:40,OKC,80.0,SAC,91.0,D. Saric,OKC,Saric 1' Driving Finger Roll Layup (16 PTS) (Mann 6 AST),Made Shot,Driving Finger Roll Layup Shot,-6,12,1,1,2.0,2.0,h
+S2223-G0928,3,04:18,OKC,,SAC,,D. Saric,OKC,Saric REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0928,3,03:09,OKC,,SAC,,D. Saric,OKC,MISS Saric 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,12,262,26,1,3.0,0.0,h
+S2223-G0928,4,11:23,OKC,,SAC,,D. Saric,OKC,Saric REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0928,4,11:14,OKC,92.0,SAC,93.0,D. Saric,OKC,Saric 26' 3PT Jump Shot (19 PTS) (Wiggins 2 AST),Made Shot,Jump Shot,-5,258,26,1,3.0,3.0,h
+S2223-G0928,4,08:50,OKC,,SAC,,D. Saric,OKC,SUB: Robinson-Earl FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0928,4,05:58,OKC,,SAC,,D. Saric,OKC,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,-64,242,25,1,3.0,0.0,h
+S2223-G0928,4,03:32,OKC,,SAC,,D. Saric,OKC,Saric REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0928,4,03:25,OKC,,SAC,,D. Saric,OKC,Saric OFF.Foul (P1) (S.Jelks),Foul,Offensive,0,0,0,0,,,h
+S2223-G0928,4,03:25,OKC,,SAC,,D. Saric,OKC,Saric Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0928,4,02:06,OKC,110.0,SAC,117.0,D. Saric,OKC,Saric 1' Cutting Layup Shot (21 PTS) (Robinson-Earl 1 AST),Made Shot,Cutting Layup Shot,7,6,1,1,2.0,2.0,h
+S2223-G0928,4,01:45,OKC,,SAC,,D. Saric,OKC,SUB: Joe FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0012,2,07:49,PHX,,DAL,,D. Saric,PHX,MISS Saric 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,7,23,2,1,2.0,0.0,h
+S2223-G0012,2,07:27,PHX,,DAL,,D. Saric,PHX,SUB: Bridges FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0550,1,02:00,NYK,,PHX,,D. Saric,PHX,MISS Saric 3PT Jump Shot,Missed Shot,Jump Shot,228,6,0,1,3.0,0.0,v
+S2223-G0550,1,01:41,NYK,,PHX,,D. Saric,PHX,Saric S.FOUL (P1.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0550,2,07:09,NYK,,PHX,,D. Saric,PHX,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,-192,170,26,1,3.0,0.0,v
+S2223-G0550,2,06:31,NYK,,PHX,,D. Saric,PHX,SUB: Shamet FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0395,1,10:17,NOP,,PHX,,D. Saric,PHX,MISS Saric 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,27,24,1,3.0,0.0,v
+S2223-G0395,1,08:34,NOP,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0395,1,07:08,NOP,,PHX,,D. Saric,PHX,Saric Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0395,1,06:23,NOP,12.0,PHX,15.0,D. Saric,PHX,Saric 2' Layup (2 PTS) (Ayton 2 AST),Made Shot,Layup Shot,-13,8,2,1,2.0,2.0,v
+S2223-G0395,1,05:41,NOP,14.0,PHX,18.0,D. Saric,PHX,Saric 3PT Jump Shot (5 PTS) (Ayton 3 AST),Made Shot,Jump Shot,225,50,0,1,3.0,3.0,v
+S2223-G0395,1,04:56,NOP,,PHX,,D. Saric,PHX,SUB: Landale FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0395,2,08:06,NOP,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0395,2,08:06,NOP,,PHX,,D. Saric,PHX,MISS Saric Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0395,2,06:35,NOP,,PHX,,D. Saric,PHX,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,-176,191,26,1,3.0,0.0,v
+S2223-G0395,2,05:54,NOP,,PHX,,D. Saric,PHX,SUB: Landale FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0395,3,10:26,NOP,,PHX,,D. Saric,PHX,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,190,177,26,1,3.0,0.0,v
+S2223-G0395,3,08:21,NOP,,PHX,,D. Saric,PHX,Saric Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0395,3,06:46,NOP,,PHX,,D. Saric,PHX,SUB: Lee FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0395,3,00:35.900000,NOP,,PHX,,D. Saric,PHX,Saric S.FOUL (P1.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0395,3,00:23.200000,NOP,,PHX,,D. Saric,PHX,SUB: Okogie FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0395,4,11:46,NOP,,PHX,,D. Saric,PHX,MISS Saric 23' Jump Shot,Missed Shot,Jump Shot,-85,213,23,1,2.0,0.0,v
+S2223-G0395,4,11:26,NOP,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0395,4,11:07,NOP,,PHX,,D. Saric,PHX,Saric P.FOUL (P2.T1) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2223-G0395,4,08:31,NOP,,PHX,,D. Saric,PHX,MISS Saric 2' Driving Layup,Missed Shot,Driving Layup Shot,18,10,2,1,2.0,0.0,v
+S2223-G0395,4,08:13,NOP,,PHX,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G1044,1,04:35,TOR,14.0,OKC,18.0,D. Saric,OKC,Saric 4' Jump Bank Shot (2 PTS),Made Shot,Jump Bank Shot,23,36,4,1,2.0,2.0,v
+S2223-G1044,1,04:08,TOR,,OKC,,D. Saric,OKC,MISS Saric 27' 3PT Jump Shot,Missed Shot,Jump Shot,-183,195,27,1,3.0,0.0,v
+S2223-G1044,1,03:24,TOR,,OKC,,D. Saric,OKC,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1044,1,00:23,TOR,,OKC,,D. Saric,OKC,Saric Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1044,1,00:23,TOR,,OKC,,D. Saric,OKC,SUB: Jal. Williams FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G1044,2,11:05,TOR,,OKC,,D. Saric,OKC,MISS Saric 18' Jump Shot,Missed Shot,Jump Shot,-53,173,18,1,2.0,0.0,v
+S2223-G1044,2,10:49,TOR,,OKC,,D. Saric,OKC,MISS Saric 4' Driving Layup,Missed Shot,Driving Layup Shot,16,34,4,1,2.0,0.0,v
+S2223-G1044,2,10:30,TOR,,OKC,,D. Saric,OKC,MISS Saric 5' Hook Shot,Missed Shot,Hook Shot,11,50,5,1,2.0,0.0,v
+S2223-G1044,2,10:16,TOR,,OKC,,D. Saric,OKC,SUB: Robinson-Earl FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G1044,4,10:29,TOR,98.0,OKC,89.0,D. Saric,OKC,Saric 3' Cutting Layup Shot (4 PTS) (Joe 1 AST),Made Shot,Cutting Layup Shot,21,16,3,1,2.0,2.0,v
+S2223-G1044,4,08:14,TOR,,OKC,,D. Saric,OKC,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,92,228,25,1,3.0,0.0,v
+S2223-G1044,4,07:28,TOR,,OKC,,D. Saric,OKC,MISS Saric 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,9,62,6,1,2.0,0.0,v
+S2223-G1044,4,07:12,TOR,,OKC,,D. Saric,OKC,SUB: Sarr FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0788,1,10:50,BOS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0788,1,10:40,BOS,,PHX,,D. Saric,PHX,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,-17,257,26,1,3.0,0.0,v
+S2223-G0788,1,10:37,BOS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0788,1,08:39,BOS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0788,1,08:10,BOS,,PHX,,D. Saric,PHX,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,-143,222,26,1,3.0,0.0,v
+S2223-G0788,1,07:56,BOS,,PHX,,D. Saric,PHX,SUB: D. Lee FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0788,1,03:29,BOS,12.0,PHX,17.0,D. Saric,PHX,Saric 26' 3PT Jump Shot (3 PTS) (Paul 4 AST),Made Shot,Jump Shot,105,238,26,1,3.0,3.0,v
+S2223-G0788,1,03:02,BOS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0788,1,01:36,BOS,,PHX,,D. Saric,PHX,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,137,222,26,1,3.0,0.0,v
+S2223-G0788,2,10:11,BOS,23.0,PHX,35.0,D. Saric,PHX,Saric 26' 3PT Jump Shot (6 PTS) (D. Lee 2 AST),Made Shot,Jump Shot,-134,220,26,1,3.0,3.0,v
+S2223-G0788,2,08:53,BOS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0788,2,08:30,BOS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0788,2,08:12,BOS,,PHX,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0788,2,00:56.300000,BOS,,PHX,,D. Saric,PHX,MISS Saric 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-23,58,6,1,2.0,0.0,v
+S2223-G0788,3,10:23,BOS,,PHX,,D. Saric,PHX,MISS Saric 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,13,57,6,1,2.0,0.0,v
+S2223-G0788,3,09:53,BOS,,PHX,,D. Saric,PHX,MISS Saric 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,66,47,8,1,2.0,0.0,v
+S2223-G0788,3,07:18,BOS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0788,3,07:16,BOS,,PHX,,D. Saric,PHX,MISS Saric 8' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,47,69,8,1,2.0,0.0,v
+S2223-G0788,3,07:00,BOS,,PHX,,D. Saric,PHX,Saric S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0788,3,06:05,BOS,,PHX,,D. Saric,PHX,MISS Saric 6' Driving Layup,Missed Shot,Driving Layup Shot,27,50,6,1,2.0,0.0,v
+S2223-G0788,3,06:04,BOS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0788,3,06:04,BOS,61.0,PHX,66.0,D. Saric,PHX,Saric Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0788,3,05:42,BOS,,PHX,,D. Saric,PHX,Saric S.FOUL (P2.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0788,3,05:42,BOS,,PHX,,D. Saric,PHX,SUB: D. Lee FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0788,4,11:42,BOS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0788,4,10:40,BOS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0788,4,10:32,BOS,,PHX,,D. Saric,PHX,Saric Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0788,4,09:22,BOS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0788,4,09:15,BOS,75.0,PHX,88.0,D. Saric,PHX,Saric 26' 3PT Jump Shot (11 PTS) (D. Lee 3 AST),Made Shot,Jump Shot,92,247,26,1,3.0,3.0,v
+S2223-G0788,4,08:19,BOS,,PHX,,D. Saric,PHX,SUB: Bridges FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0788,4,03:15,BOS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0788,4,01:50,BOS,,PHX,,D. Saric,PHX,Saric REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0788,4,01:38,BOS,90.0,PHX,99.0,D. Saric,PHX,Saric 27' 3PT Jump Shot (14 PTS) (Ayton 5 AST),Made Shot,Jump Shot,150,220,27,1,3.0,3.0,v
+S2223-G0788,4,01:03,BOS,,PHX,,D. Saric,PHX,Saric S.FOUL (P3.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0788,4,00:52.700000,BOS,,PHX,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G1064,1,03:35,OKC,,PHX,,D. Saric,OKC,Saric S.FOUL (P1.T4) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2223-G1064,1,01:04,OKC,,PHX,,D. Saric,OKC,Saric STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1064,1,01:01,OKC,19.0,PHX,29.0,D. Saric,OKC,Saric Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1064,1,01:01,OKC,20.0,PHX,29.0,D. Saric,OKC,Saric Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1064,2,11:45,OKC,,PHX,,D. Saric,OKC,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,-146,210,26,1,3.0,0.0,h
+S2223-G1064,2,10:41,OKC,27.0,PHX,37.0,D. Saric,OKC,Saric 14' Floating Jump Shot (4 PTS) (Jal. Williams 2 AST),Made Shot,Floating Jump shot,-53,130,14,1,2.0,2.0,h
+S2223-G1064,2,09:21,OKC,,PHX,,D. Saric,OKC,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1064,2,09:06,OKC,,PHX,,D. Saric,OKC,SUB: Giddey FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G1064,2,06:14,OKC,,PHX,,D. Saric,OKC,SUB: Jay. Williams FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G1064,4,10:57,OKC,,PHX,,D. Saric,OKC,Saric Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1064,4,10:35,OKC,,PHX,,D. Saric,OKC,SUB: Giddey FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0663,1,10:47,MEM,4.0,PHX,4.0,D. Saric,PHX,Saric 6' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,7,61,6,1,2.0,2.0,v
+S2223-G0663,1,10:34,MEM,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0663,1,09:56,MEM,4.0,PHX,9.0,D. Saric,PHX,Saric 25' 3PT Jump Shot (5 PTS) (Bridges 1 AST),Made Shot,Jump Shot,-39,251,25,1,3.0,3.0,v
+S2223-G0663,1,09:36,MEM,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0663,1,06:38,MEM,,PHX,,D. Saric,PHX,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,-77,239,25,1,3.0,0.0,v
+S2223-G0663,1,04:59,MEM,,PHX,,D. Saric,PHX,SUB: Landale FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0663,2,10:28,MEM,,PHX,,D. Saric,PHX,MISS Saric 3PT Jump Shot,Missed Shot,Jump Shot,-223,-1,0,1,3.0,0.0,v
+S2223-G0663,2,10:04,MEM,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0663,2,10:04,MEM,,PHX,,D. Saric,PHX,Saric Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0663,2,08:14,MEM,,PHX,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0663,3,11:36,MEM,68.0,PHX,68.0,D. Saric,PHX,Saric 26' 3PT Jump Shot (8 PTS) (Bridges 6 AST),Made Shot,Jump Shot,-151,217,26,1,3.0,3.0,v
+S2223-G0663,3,10:54,MEM,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0663,3,10:43,MEM,68.0,PHX,70.0,D. Saric,PHX,Saric 5' Floating Jump Shot (10 PTS) (Ayton 1 AST),Made Shot,Floating Jump shot,-4,54,5,1,2.0,2.0,v
+S2223-G0663,3,07:22,MEM,,PHX,,D. Saric,PHX,Saric Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0663,3,07:19,MEM,,PHX,,D. Saric,PHX,Saric S.FOUL (P1.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0663,3,07:04,MEM,,PHX,,D. Saric,PHX,MISS Saric 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,26,59,6,1,2.0,0.0,v
+S2223-G0663,3,07:02,MEM,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0663,3,07:02,MEM,,PHX,,D. Saric,PHX,Saric Out of Bounds Lost Ball Turnover (P3.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0663,3,06:52,MEM,,PHX,,D. Saric,PHX,Saric S.FOUL (P2.T3) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0663,3,06:25,MEM,,PHX,,D. Saric,PHX,SUB: S. Lee FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0663,4,07:47,MEM,,PHX,,D. Saric,PHX,Saric S.FOUL (P3.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0663,4,07:31,MEM,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0663,4,06:55,MEM,,PHX,,D. Saric,PHX,MISS Saric 9' Hook Shot,Missed Shot,Hook Shot,-34,85,9,1,2.0,0.0,v
+S2223-G0663,4,04:54,MEM,,PHX,,D. Saric,PHX,MISS Saric 27' 3PT Jump Shot,Missed Shot,Jump Shot,-83,256,27,1,3.0,0.0,v
+S2223-G0663,4,03:25,MEM,134.0,PHX,99.0,D. Saric,PHX,Saric Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0663,4,03:25,MEM,134.0,PHX,100.0,D. Saric,PHX,Saric Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0663,4,03:04,MEM,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0531,2,10:48,TOR,,PHX,,D. Saric,PHX,Saric Backcourt Turnover (P1.T11),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2223-G0531,2,09:28,TOR,33.0,PHX,32.0,D. Saric,PHX,Saric 24' 3PT Jump Shot (3 PTS) (Paul 4 AST),Made Shot,Jump Shot,238,6,24,1,3.0,3.0,v
+S2223-G0531,2,08:23,TOR,,PHX,,D. Saric,PHX,Saric Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0531,2,07:03,TOR,,PHX,,D. Saric,PHX,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,-165,204,26,1,3.0,0.0,v
+S2223-G0531,2,06:28,TOR,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0531,2,05:44,TOR,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0531,2,04:59,TOR,,PHX,,D. Saric,PHX,MISS Saric 1' Layup,Missed Shot,Layup Shot,2,12,1,1,2.0,0.0,v
+S2223-G0531,2,04:22,TOR,,PHX,,D. Saric,PHX,SUB: Okogie FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0531,3,08:24,TOR,66.0,PHX,56.0,D. Saric,PHX,Saric Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0531,3,08:24,TOR,66.0,PHX,57.0,D. Saric,PHX,Saric Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0531,3,07:15,TOR,70.0,PHX,62.0,D. Saric,PHX,Saric 11' Jump Shot (7 PTS) (Paul 8 AST),Made Shot,Jump Shot,-27,105,11,1,2.0,2.0,v
+S2223-G0531,3,05:38,TOR,,PHX,,D. Saric,PHX,MISS Saric 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,61,6,1,2.0,0.0,v
+S2223-G0531,3,04:51,TOR,,PHX,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0531,4,09:04,TOR,92.0,PHX,88.0,D. Saric,PHX,Saric Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0531,4,09:04,TOR,92.0,PHX,89.0,D. Saric,PHX,Saric Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0531,4,08:38,TOR,,PHX,,D. Saric,PHX,MISS Saric 3PT Jump Shot,Missed Shot,Jump Shot,-225,6,0,1,3.0,0.0,v
+S2223-G0531,4,07:25,TOR,,PHX,,D. Saric,PHX,MISS Saric 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,22,22,3,1,2.0,0.0,v
+S2223-G0531,4,04:41,TOR,,PHX,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0177,1,01:03,ORL,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0177,1,00:28.100000,ORL,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0177,1,00:21.900000,ORL,,PHX,,D. Saric,PHX,MISS Saric 2' Layup,Missed Shot,Layup Shot,15,16,2,1,2.0,0.0,v
+S2223-G0177,2,10:59,ORL,,PHX,,D. Saric,PHX,MISS Saric 3PT Jump Shot,Missed Shot,Jump Shot,225,36,0,1,3.0,0.0,v
+S2223-G0177,2,10:52,ORL,,PHX,,D. Saric,PHX,MISS Saric 3' Layup,Missed Shot,Layup Shot,16,21,3,1,2.0,0.0,v
+S2223-G0177,2,08:43,ORL,,PHX,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0177,4,03:17,ORL,,PHX,,D. Saric,PHX,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,230,92,25,1,3.0,0.0,v
+S2223-G0177,4,02:22,ORL,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0459,4,02:55,PHX,,LAL,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0459,4,02:45,PHX,,LAL,,D. Saric,PHX,MISS Saric 16' Jump Shot,Missed Shot,Jump Shot,163,21,16,1,2.0,0.0,h
+S2223-G0459,4,02:00,PHX,,LAL,,D. Saric,PHX,Saric P.FOUL (P1.T4) (B.Schwab),Foul,Personal,0,0,0,0,,,h
+S2223-G0459,4,01:36,PHX,127.0,LAL,103.0,D. Saric,PHX,Saric 4' Hook Shot (2 PTS),Made Shot,Hook Shot,-22,39,4,1,2.0,2.0,h
+S2223-G0459,4,01:36,PHX,128.0,LAL,103.0,D. Saric,PHX,Saric Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0459,4,01:24,PHX,,LAL,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0459,4,01:11,PHX,,LAL,,D. Saric,PHX,MISS Saric 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-11,204,20,1,2.0,0.0,h
+S2223-G0459,4,00:45.200000,PHX,130.0,LAL,104.0,D. Saric,PHX,Saric 11' Floating Jump Shot (5 PTS) (Wainright 2 AST),Made Shot,Floating Jump shot,1,109,11,1,2.0,2.0,h
+S2223-G0232,1,01:51,UTA,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0232,1,01:36,UTA,35.0,PHX,28.0,D. Saric,PHX,Saric 1' Cutting Layup Shot (2 PTS) (Booker 4 AST),Made Shot,Cutting Layup Shot,-2,13,1,1,2.0,2.0,v
+S2223-G0232,1,01:18,UTA,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0232,2,10:21,UTA,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0232,2,10:21,UTA,,PHX,,D. Saric,PHX,MISS Saric 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,20,2,1,2.0,0.0,v
+S2223-G0232,2,09:08,UTA,,PHX,,D. Saric,PHX,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,-127,217,25,1,3.0,0.0,v
+S2223-G0232,2,09:00,UTA,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0232,2,09:00,UTA,47.0,PHX,41.0,D. Saric,PHX,Saric Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0232,2,09:00,UTA,47.0,PHX,42.0,D. Saric,PHX,Saric Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0232,2,06:31,UTA,,PHX,,D. Saric,PHX,Saric Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0232,2,06:31,UTA,,PHX,,D. Saric,PHX,SUB: Booker FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0232,3,00:08.300000,UTA,,PHX,,D. Saric,PHX,Saric S.FOUL (P1.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0232,4,10:53,UTA,,PHX,,D. Saric,PHX,Saric S.FOUL (P2.T1) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0232,4,10:33,UTA,,PHX,,D. Saric,PHX,Saric S.FOUL (P3.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0232,4,10:32,UTA,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0232,4,09:29,UTA,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0232,4,09:12,UTA,,PHX,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0603,1,10:08,PHX,9.0,CLE,2.0,D. Saric,PHX,Saric 24' 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,-235,29,24,1,3.0,3.0,h
+S2223-G0603,1,08:50,PHX,,CLE,,D. Saric,PHX,Saric STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0603,1,05:35,PHX,,CLE,,D. Saric,PHX,MISS Saric 3PT Jump Shot,Missed Shot,Jump Shot,-228,34,0,1,3.0,0.0,h
+S2223-G0603,1,05:30,PHX,,CLE,,D. Saric,PHX,Saric S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0603,1,04:32,PHX,,CLE,,D. Saric,PHX,Saric L.B.FOUL (P2.T2) (J.Tiven),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0603,1,04:32,PHX,,CLE,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0603,2,06:38,PHX,,CLE,,D. Saric,PHX,Saric Inbound Turnover (P1.T5),Turnover,Inbound Turnover,0,0,0,0,,,h
+S2223-G0603,2,06:24,PHX,,CLE,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0603,2,05:20,PHX,,CLE,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0603,3,11:34,PHX,,CLE,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0603,3,09:56,PHX,,CLE,,D. Saric,PHX,Saric REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0603,3,09:34,PHX,,CLE,,D. Saric,PHX,MISS Saric 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,23,59,6,1,2.0,0.0,h
+S2223-G0603,3,06:48,PHX,,CLE,,D. Saric,PHX,Saric REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0603,3,06:14,PHX,,CLE,,D. Saric,PHX,Saric STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0603,3,05:13,PHX,,CLE,,D. Saric,PHX,Saric Traveling Turnover (P2.T8),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0603,3,04:48,PHX,,CLE,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0615,1,10:35,GSW,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0615,1,07:38,GSW,,PHX,,D. Saric,PHX,Saric OFF.Foul (P1) (S.Foster),Foul,Offensive,0,0,0,0,,,v
+S2223-G0615,1,07:38,GSW,,PHX,,D. Saric,PHX,Saric Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0615,1,06:59,GSW,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0615,1,06:52,GSW,10.0,PHX,11.0,D. Saric,PHX,Saric 12' Step Back Jump Shot (2 PTS) (Bridges 1 AST),Made Shot,Step Back Jump shot,56,110,12,1,2.0,2.0,v
+S2223-G0615,1,06:16,GSW,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0615,1,06:16,GSW,12.0,PHX,13.0,D. Saric,PHX,Saric 6' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-23,54,6,1,2.0,2.0,v
+S2223-G0615,1,06:16,GSW,12.0,PHX,14.0,D. Saric,PHX,Saric Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0615,1,05:15,GSW,,PHX,,D. Saric,PHX,MISS Saric 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-131,148,20,1,2.0,0.0,v
+S2223-G0615,1,04:29,GSW,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0615,1,04:28,GSW,,PHX,,D. Saric,PHX,Saric Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0615,1,02:44,GSW,,PHX,,D. Saric,PHX,SUB: Okogie FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0615,2,06:26,GSW,36.0,PHX,48.0,D. Saric,PHX,Saric 26' 3PT Jump Shot (8 PTS) (Bridges 2 AST),Made Shot,Jump Shot,-196,174,26,1,3.0,3.0,v
+S2223-G0615,2,05:45,GSW,,PHX,,D. Saric,PHX,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,153,214,26,1,3.0,0.0,v
+S2223-G0615,2,05:10,GSW,,PHX,,D. Saric,PHX,Saric STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0615,2,03:27,GSW,,PHX,,D. Saric,PHX,SUB: Washington Jr. FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0615,3,11:05,GSW,45.0,PHX,64.0,D. Saric,PHX,Saric 26' 3PT Jump Shot (11 PTS) (Craig 1 AST),Made Shot,Jump Shot,-158,206,26,1,3.0,3.0,v
+S2223-G0615,3,10:29,GSW,,PHX,,D. Saric,PHX,MISS Saric 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,8,24,1,3.0,0.0,v
+S2223-G0615,3,09:19,GSW,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0615,3,08:16,GSW,,PHX,,D. Saric,PHX,Saric Lost Ball Turnover (P3.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0615,3,07:04,GSW,,PHX,,D. Saric,PHX,Saric S.FOUL (P2.T3) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0615,3,06:44,GSW,54.0,PHX,76.0,D. Saric,PHX,Saric 25' 3PT Jump Shot (14 PTS) (Bridges 4 AST),Made Shot,Jump Shot,224,119,25,1,3.0,3.0,v
+S2223-G0615,3,05:36,GSW,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0615,3,04:30,GSW,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0615,3,03:58,GSW,,PHX,,D. Saric,PHX,Saric S.FOUL (P3.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0615,3,03:58,GSW,,PHX,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0615,4,11:18,GSW,,PHX,,D. Saric,PHX,MISS Saric 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,126,53,14,1,2.0,0.0,v
+S2223-G0615,4,10:26,GSW,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0615,4,10:23,GSW,,PHX,,D. Saric,PHX,Saric Lost Ball Turnover (P4.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0615,4,09:08,GSW,,PHX,,D. Saric,PHX,Saric Bad Pass Turnover (P5.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0615,4,08:43,GSW,,PHX,,D. Saric,PHX,Saric OFF.Foul (P4) (M.Myers),Foul,Offensive,0,0,0,0,,,v
+S2223-G0615,4,08:43,GSW,,PHX,,D. Saric,PHX,Saric Offensive Foul Turnover (P6.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0615,4,07:09,GSW,88.0,PHX,104.0,D. Saric,PHX,Saric 5' Cutting Layup Shot (16 PTS) (Bridges 5 AST),Made Shot,Cutting Layup Shot,-42,25,5,1,2.0,2.0,v
+S2223-G0615,4,07:09,GSW,88.0,PHX,105.0,D. Saric,PHX,Saric Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0615,4,07:05,GSW,,PHX,,D. Saric,PHX,Saric S.FOUL (P5.T1) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2223-G0615,4,07:05,GSW,,PHX,,D. Saric,PHX,SUB: Landale FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0615,4,02:18,GSW,,PHX,,D. Saric,PHX,Saric REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0615,4,02:16,GSW,105.0,PHX,117.0,D. Saric,PHX,Saric Putback Layup (19 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0615,4,01:13,GSW,,PHX,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0880,1,03:20,OKC,,HOU,,D. Saric,OKC,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0880,1,03:03,OKC,,HOU,,D. Saric,OKC,Saric REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0880,1,03:02,OKC,26.0,HOU,16.0,D. Saric,OKC,Saric Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,-4,0,1,2.0,2.0,h
+S2223-G0880,1,01:58,OKC,,HOU,,D. Saric,OKC,Saric REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0880,1,01:27,OKC,,HOU,,D. Saric,OKC,Saric S.FOUL (P1.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G0880,1,00:47.500000,OKC,,HOU,,D. Saric,OKC,Saric STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0880,1,00:43.600000,OKC,33.0,HOU,17.0,D. Saric,OKC,Saric 2' Running Layup (4 PTS) (K. Williams 1 AST),Made Shot,Running Layup Shot,17,-6,2,1,2.0,2.0,h
+S2223-G0880,1,00:43.600000,OKC,35.0,HOU,17.0,D. Saric,OKC,Saric Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0880,1,00:14.500000,OKC,,HOU,,D. Saric,OKC,Saric S.FOUL (P2.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0880,2,11:47,OKC,,HOU,,D. Saric,OKC,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,-15,256,26,1,3.0,0.0,h
+S2223-G0880,2,11:33,OKC,,HOU,,D. Saric,OKC,Saric REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0880,2,10:56,OKC,43.0,HOU,21.0,D. Saric,OKC,Saric 25' 3PT Jump Shot (8 PTS) (Giddey 2 AST),Made Shot,Jump Shot,-116,219,25,1,3.0,3.0,h
+S2223-G0880,2,08:38,OKC,,HOU,,D. Saric,OKC,SUB: Waters III FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0880,4,11:21,OKC,118.0,HOU,81.0,D. Saric,OKC,Saric 6' Turnaround Hook Shot (10 PTS),Made Shot,Turnaround Hook Shot,-13,57,6,1,2.0,2.0,h
+S2223-G0880,4,10:13,OKC,,HOU,,D. Saric,OKC,Saric S.FOUL (P3.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0880,4,09:58,OKC,121.0,HOU,83.0,D. Saric,OKC,Saric Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0880,4,09:58,OKC,122.0,HOU,83.0,D. Saric,OKC,Saric Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0880,4,09:38,OKC,,HOU,,D. Saric,OKC,Saric REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0880,4,08:17,OKC,,HOU,,D. Saric,OKC,Saric Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0880,4,07:46,OKC,,HOU,,D. Saric,OKC,MISS Saric 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-28,260,26,1,3.0,0.0,h
+S2223-G0880,4,06:54,OKC,,HOU,,D. Saric,OKC,Saric Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0880,4,05:58,OKC,,HOU,,D. Saric,OKC,SUB: Jay. Williams FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0510,4,02:21,MEM,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0510,4,01:25,MEM,102.0,PHX,125.0,D. Saric,PHX,Saric 3PT Jump Shot (3 PTS) (Washington Jr. 8 AST),Made Shot,Jump Shot,-230,46,0,1,3.0,3.0,v
+S2223-G0681,1,10:58,PHX,,BKN,,D. Saric,PHX,Saric S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0681,1,09:54,PHX,,BKN,,D. Saric,PHX,Saric S.FOUL (P2.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2223-G0681,1,08:53,PHX,,BKN,,D. Saric,PHX,Saric REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0681,1,08:52,PHX,8.0,BKN,12.0,D. Saric,PHX,Saric Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0681,1,08:37,PHX,,BKN,,D. Saric,PHX,Saric REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0681,1,08:24,PHX,11.0,BKN,12.0,D. Saric,PHX,Saric 26' 3PT Jump Shot (5 PTS) (Ayton 2 AST),Made Shot,Jump Shot,-43,259,26,1,3.0,3.0,h
+S2223-G0681,1,07:36,PHX,,BKN,,D. Saric,PHX,Saric S.FOUL (P3.T3) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0681,1,07:36,PHX,,BKN,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0681,3,11:43,PHX,,BKN,,D. Saric,PHX,Saric REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0681,3,10:34,PHX,,BKN,,D. Saric,PHX,MISS Saric Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0681,3,10:34,PHX,71.0,BKN,53.0,D. Saric,PHX,Saric Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0681,3,09:54,PHX,,BKN,,D. Saric,PHX,MISS Saric 5' Driving Layup,Missed Shot,Driving Layup Shot,9,45,5,1,2.0,0.0,h
+S2223-G0681,3,09:17,PHX,,BKN,,D. Saric,PHX,Saric REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0681,3,08:37,PHX,,BKN,,D. Saric,PHX,MISS Saric Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0681,3,08:37,PHX,74.0,BKN,55.0,D. Saric,PHX,Saric Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0681,3,08:10,PHX,,BKN,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0681,4,00:09,PHX,,BKN,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0681,4,00:03.500000,PHX,,BKN,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0951,1,03:52,OKC,24.0,UTA,19.0,D. Saric,OKC,Saric 24' 3PT Jump Shot (3 PTS) (Giddey 5 AST),Made Shot,Jump Shot,-235,11,24,1,3.0,3.0,h
+S2223-G0951,1,03:11,OKC,,UTA,,D. Saric,OKC,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,-29,256,26,1,3.0,0.0,h
+S2223-G0951,1,01:05,OKC,,UTA,,D. Saric,OKC,Saric L.B.FOUL (P1.T3) (D.Guthrie),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0951,2,09:17,OKC,,UTA,,D. Saric,OKC,MISS Saric 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,7,48,5,1,2.0,0.0,h
+S2223-G0951,2,09:15,OKC,,UTA,,D. Saric,OKC,Saric REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0951,2,09:15,OKC,,UTA,,D. Saric,OKC,Jump Ball Saric vs. Gay: Tip to Fontecchio,Jump Ball,,0,0,0,0,,,h
+S2223-G0951,2,09:13,OKC,,UTA,,D. Saric,OKC,Saric Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0951,2,08:30,OKC,,UTA,,D. Saric,OKC,Saric REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0951,2,08:20,OKC,,UTA,,D. Saric,OKC,Saric Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0951,2,07:02,OKC,,UTA,,D. Saric,OKC,Saric REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0951,2,05:48,OKC,,UTA,,D. Saric,OKC,MISS Saric 28' 3PT Jump Shot,Missed Shot,Jump Shot,-127,252,28,1,3.0,0.0,h
+S2223-G0951,2,05:08,OKC,,UTA,,D. Saric,OKC,SUB: Jay. Williams FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0951,2,01:10,OKC,,UTA,,D. Saric,OKC,Saric REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0951,2,01:05,OKC,61.0,UTA,48.0,D. Saric,OKC,Saric 26' 3PT Running Jump Shot (6 PTS) (Giddey 9 AST),Made Shot,Running Jump Shot,208,151,26,1,3.0,3.0,h
+S2223-G0951,3,06:47,OKC,,UTA,,D. Saric,OKC,Saric S.FOUL (P2.T4) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0951,3,06:34,OKC,78.0,UTA,63.0,D. Saric,OKC,Saric 2' Cutting Layup Shot (8 PTS) (Giddey 11 AST),Made Shot,Cutting Layup Shot,-17,13,2,1,2.0,2.0,h
+S2223-G0951,3,05:58,OKC,81.0,UTA,65.0,D. Saric,OKC,Saric 3PT Jump Shot (11 PTS) (Joe 2 AST),Made Shot,Jump Shot,-229,6,0,1,3.0,3.0,h
+S2223-G0951,3,05:40,OKC,,UTA,,D. Saric,OKC,Saric S.FOUL (P3.PN) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0951,3,05:14,OKC,,UTA,,D. Saric,OKC,Saric S.FOUL (P4.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0951,3,04:15,OKC,,UTA,,D. Saric,OKC,SUB: Jay. Williams FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0697,1,11:39,PHX,,IND,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0697,1,09:58,PHX,,IND,,D. Saric,PHX,MISS Saric 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,31,24,1,3.0,0.0,h
+S2223-G0697,1,09:09,PHX,,IND,,D. Saric,PHX,SUB: Okogie FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0697,2,08:52,PHX,,IND,,D. Saric,PHX,MISS Saric Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0697,2,08:52,PHX,38.0,IND,32.0,D. Saric,PHX,Saric Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0697,2,04:29,PHX,,IND,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0697,2,04:24,PHX,,IND,,D. Saric,PHX,SUB: Okogie FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0013,2,07:49,PHX,,DAL,,D. Saric,PHX,MISS Saric 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,7,23,2,1,2.0,0.0,h
+S2223-G0013,2,07:27,PHX,,DAL,,D. Saric,PHX,SUB: Bridges FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0624,1,11:26,DEN,,PHX,,D. Saric,PHX,Double Lane,Violation,Double Lane,0,0,0,0,,,v
+S2223-G0624,1,11:04,DEN,,PHX,,D. Saric,PHX,MISS Saric 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-70,109,13,1,2.0,0.0,v
+S2223-G0624,1,08:34,DEN,11.0,PHX,8.0,D. Saric,PHX,Saric 4' Turnaround Hook Shot (2 PTS) (Bridges 1 AST),Made Shot,Turnaround Hook Shot,42,15,4,1,2.0,2.0,v
+S2223-G0624,1,04:55,DEN,,PHX,,D. Saric,PHX,SUB: Landale FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0624,2,08:06,DEN,,PHX,,D. Saric,PHX,MISS Saric 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,80,18,8,1,2.0,0.0,v
+S2223-G0624,2,07:12,DEN,,PHX,,D. Saric,PHX,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,-13,259,26,1,3.0,0.0,v
+S2223-G0624,2,04:29,DEN,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0624,2,04:19,DEN,63.0,PHX,43.0,D. Saric,PHX,Saric 25' 3PT Jump Shot (5 PTS) (Okogie 2 AST),Made Shot,Jump Shot,175,184,25,1,3.0,3.0,v
+S2223-G0624,2,03:39,DEN,65.0,PHX,45.0,D. Saric,PHX,Saric 10' Driving Floating Jump Shot (7 PTS) (Bridges 3 AST),Made Shot,Driving Floating Jump Shot,-6,97,10,1,2.0,2.0,v
+S2223-G0624,2,03:19,DEN,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0624,3,11:30,DEN,,PHX,,D. Saric,PHX,Saric STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0624,3,11:25,DEN,70.0,PHX,56.0,D. Saric,PHX,Saric 4' Running Layup (9 PTS),Made Shot,Running Layup Shot,31,27,4,1,2.0,2.0,v
+S2223-G0624,3,10:32,DEN,,PHX,,D. Saric,PHX,MISS Saric 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-123,227,26,1,3.0,0.0,v
+S2223-G0624,3,08:30,DEN,80.0,PHX,58.0,D. Saric,PHX,Saric 3' Driving Layup (11 PTS) (Washington Jr. 4 AST),Made Shot,Driving Layup Shot,23,16,3,1,2.0,2.0,v
+S2223-G0624,3,07:41,DEN,,PHX,,D. Saric,PHX,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,21,248,25,1,3.0,0.0,v
+S2223-G0624,3,07:35,DEN,,PHX,,D. Saric,PHX,Saric AWAY.FROM.PLAY.FOUL (P1.T1) (D.Mosher),Foul,Away From Play,0,0,0,0,,,v
+S2223-G0624,3,06:42,DEN,,PHX,,D. Saric,PHX,Saric S.FOUL (P2.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0624,3,05:52,DEN,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0624,3,05:42,DEN,,PHX,,D. Saric,PHX,Saric STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0624,3,05:20,DEN,,PHX,,D. Saric,PHX,SUB: Landale FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0777,1,05:22,PHX,,ATL,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0777,1,04:26,PHX,,ATL,,D. Saric,PHX,MISS Saric 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,167,200,26,1,3.0,0.0,h
+S2223-G0777,1,02:28,PHX,19.0,ATL,23.0,D. Saric,PHX,Saric 1' Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,7,13,1,1,2.0,2.0,h
+S2223-G0777,1,00:53.800000,PHX,,ATL,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0777,1,00:50.500000,PHX,,ATL,,D. Saric,PHX,Saric Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0777,1,00:09.400000,PHX,,ATL,,D. Saric,PHX,Saric REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0777,1,00:01.300000,PHX,,ATL,,D. Saric,PHX,Saric BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0777,2,04:57,PHX,,ATL,,D. Saric,PHX,MISS Saric 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-47,92,10,1,2.0,0.0,h
+S2223-G0777,2,03:41,PHX,,ATL,,D. Saric,PHX,SUB: Wainright FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0777,4,10:09,PHX,,ATL,,D. Saric,PHX,MISS Saric 24' 3PT Jump Shot,Missed Shot,Jump Shot,-228,73,24,1,3.0,0.0,h
+S2223-G0777,4,09:56,PHX,74.0,ATL,110.0,D. Saric,PHX,Saric 4' Cutting Layup Shot (4 PTS) (S. Lee 1 AST),Made Shot,Cutting Layup Shot,16,38,4,1,2.0,2.0,h
+S2223-G0777,4,09:56,PHX,,ATL,,D. Saric,PHX,MISS Saric Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0777,4,09:22,PHX,,ATL,,D. Saric,PHX,Saric STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0777,4,09:21,PHX,,ATL,,D. Saric,PHX,Saric Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0777,4,07:46,PHX,,ATL,,D. Saric,PHX,Saric REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0777,4,03:52,PHX,,ATL,,D. Saric,PHX,Saric REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0777,4,03:40,PHX,87.0,ATL,125.0,D. Saric,PHX,Saric Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0777,4,03:40,PHX,88.0,ATL,125.0,D. Saric,PHX,Saric Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0777,4,02:20,PHX,90.0,ATL,128.0,D. Saric,PHX,Saric 7' Driving Floating Jump Shot (8 PTS) (S. Lee 3 AST),Made Shot,Driving Floating Jump Shot,-23,64,7,1,2.0,2.0,h
+S2223-G0777,4,02:20,PHX,91.0,ATL,128.0,D. Saric,PHX,Saric Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0777,4,01:41,PHX,93.0,ATL,128.0,D. Saric,PHX,Saric 5' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,45,19,5,1,2.0,2.0,h
+S2223-G0130,2,09:54,PHX,,POR,,D. Saric,PHX,Saric OFF.Foul (P1) (K.Scott),Foul,Offensive,0,0,0,0,,,h
+S2223-G0130,2,09:54,PHX,,POR,,D. Saric,PHX,Saric Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0130,2,09:37,PHX,,POR,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0130,2,08:24,PHX,,POR,,D. Saric,PHX,MISS Saric 3PT Jump Shot,Missed Shot,Jump Shot,229,5,0,1,3.0,0.0,h
+S2223-G0130,2,06:54,PHX,,POR,,D. Saric,PHX,MISS Saric 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-31,50,6,1,2.0,0.0,h
+S2223-G0130,2,06:31,PHX,,POR,,D. Saric,PHX,Saric STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0130,2,06:18,PHX,,POR,,D. Saric,PHX,MISS Saric 28' 3PT Jump Shot,Missed Shot,Jump Shot,-69,269,28,1,3.0,0.0,h
+S2223-G0130,2,06:16,PHX,,POR,,D. Saric,PHX,SUB: Booker FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0130,4,11:16,PHX,,POR,,D. Saric,PHX,Saric REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0130,4,09:46,PHX,,POR,,D. Saric,PHX,MISS Saric 27' 3PT Jump Shot,Missed Shot,Jump Shot,-11,267,27,1,3.0,0.0,h
+S2223-G0130,4,08:35,PHX,,POR,,D. Saric,PHX,SUB: Paul FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0167,1,05:43,MIN,,PHX,,D. Saric,PHX,Saric P.FOUL (P1.T3) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2223-G0167,1,04:33,MIN,18.0,PHX,19.0,D. Saric,PHX,Saric 4' Driving Floating Bank Jump Shot (2 PTS) (Booker 3 AST),Made Shot,Driving Floating Bank Jump Shot,21,30,4,1,2.0,2.0,v
+S2223-G0167,1,04:33,MIN,18.0,PHX,20.0,D. Saric,PHX,Saric Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0167,1,01:38,MIN,,PHX,,D. Saric,PHX,Saric REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0167,1,01:36,MIN,20.0,PHX,31.0,D. Saric,PHX,Saric 2' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,0,15,2,1,2.0,2.0,v
+S2223-G0167,2,10:29,MIN,,PHX,,D. Saric,PHX,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,-54,247,25,1,3.0,0.0,v
+S2223-G0167,2,09:58,MIN,,PHX,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0167,3,01:22,MIN,,PHX,,D. Saric,PHX,Saric P.FOUL (P2.PN) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2223-G0167,3,01:03,MIN,,PHX,,D. Saric,PHX,Saric REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0167,3,00:29.400000,MIN,,PHX,,D. Saric,PHX,MISS Saric 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,97,50,11,1,2.0,0.0,v
+S2223-G0167,4,11:35,MIN,,PHX,,D. Saric,PHX,Saric S.FOUL (P3.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0167,4,11:15,MIN,,PHX,,D. Saric,PHX,SUB: Payne FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0106,2,10:17,PHX,,MIN,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0106,2,09:44,PHX,,MIN,,D. Saric,PHX,Saric REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0106,2,09:30,PHX,,MIN,,D. Saric,PHX,Saric STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0106,2,07:22,PHX,36.0,MIN,29.0,D. Saric,PHX,Saric 26' 3PT Jump Shot (3 PTS) (Landale 1 AST),Made Shot,Jump Shot,176,191,26,1,3.0,3.0,h
+S2223-G0106,2,06:45,PHX,,MIN,,D. Saric,PHX,Saric S.FOUL (P1.T4) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0106,2,06:09,PHX,,MIN,,D. Saric,PHX,Saric REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0106,2,06:01,PHX,,MIN,,D. Saric,PHX,SUB: Booker FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0106,4,08:35,PHX,,MIN,,D. Saric,PHX,SUB: Biyombo FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0940,1,03:16,OKC,,LAL,,D. Saric,OKC,Saric Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0940,2,11:32,OKC,,LAL,,D. Saric,OKC,Saric S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G0940,2,11:20,OKC,33.0,LAL,34.0,D. Saric,OKC,Saric 3PT Jump Shot (3 PTS) (Jal. Williams 4 AST),Made Shot,Jump Shot,-228,-14,0,1,3.0,3.0,h
+S2223-G0940,2,10:56,OKC,,LAL,,D. Saric,OKC,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0940,2,10:22,OKC,35.0,LAL,34.0,D. Saric,OKC,Saric 2' Driving Layup (5 PTS) (Joe 1 AST),Made Shot,Driving Layup Shot,-17,7,2,1,2.0,2.0,h
+S2223-G0940,2,09:35,OKC,,LAL,,D. Saric,OKC,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0940,2,06:44,OKC,,LAL,,D. Saric,OKC,MISS Saric Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0940,2,06:44,OKC,42.0,LAL,39.0,D. Saric,OKC,Saric Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0940,2,06:02,OKC,44.0,LAL,42.0,D. Saric,OKC,Saric 1' Cutting Finger Roll Layup Shot (8 PTS) (Giddey 3 AST),Made Shot,Cutting Finger Roll Layup Shot,6,8,1,1,2.0,2.0,h
+S2223-G0940,2,05:21,OKC,,LAL,,D. Saric,OKC,SUB: Waters III FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0940,3,01:27,OKC,,LAL,,D. Saric,OKC,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,2,251,25,1,3.0,0.0,h
+S2223-G0940,3,00:54.100000,OKC,83.0,LAL,86.0,D. Saric,OKC,Saric 2' Reverse Layup (10 PTS) (Jal. Williams 6 AST),Made Shot,Reverse Layup Shot,17,8,2,1,2.0,2.0,h
+S2223-G0940,3,00:54.100000,OKC,84.0,LAL,86.0,D. Saric,OKC,Saric Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0940,3,00:40.800000,OKC,,LAL,,D. Saric,OKC,Saric S.FOUL (P2.PN) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G0940,3,00:07.200000,OKC,,LAL,,D. Saric,OKC,SUB: Dort FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0940,4,11:24,OKC,86.0,LAL,92.0,D. Saric,OKC,Saric 8' Turnaround Hook Shot (13 PTS) (Joe 2 AST),Made Shot,Turnaround Hook Shot,-20,75,8,1,2.0,2.0,h
+S2223-G0940,4,10:40,OKC,,LAL,,D. Saric,OKC,Saric P.FOUL (P3.T1) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2223-G0940,4,09:31,OKC,,LAL,,D. Saric,OKC,SUB: Dort FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0794,1,02:03,DET,,PHX,,D. Saric,PHX,MISS Saric 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,62,146,16,1,2.0,0.0,v
+S2223-G0794,1,00:14.500000,DET,,PHX,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0794,2,09:56,DET,,PHX,,D. Saric,PHX,MISS Saric 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,-9,53,5,1,2.0,0.0,v
+S2223-G0794,2,09:46,DET,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0794,2,08:50,DET,,PHX,,D. Saric,PHX,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0794,2,07:34,DET,35.0,PHX,37.0,D. Saric,PHX,Saric 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,2,22,2,1,2.0,2.0,v
+S2223-G0794,2,07:03,DET,37.0,PHX,39.0,D. Saric,PHX,Saric 4' Layup (4 PTS) (Paul 4 AST),Made Shot,Layup Shot,0,38,4,1,2.0,2.0,v
+S2223-G0794,2,06:40,DET,,PHX,,D. Saric,PHX,SUB: Bridges FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0794,3,04:58,DET,,PHX,,D. Saric,PHX,Saric P.FOUL (P1.T1) (T.Washington),Foul,Personal,0,0,0,0,,,v
+S2223-G0794,3,01:30,DET,,PHX,,D. Saric,PHX,Saric OFF.Foul (P2) (J.Schroeder),Foul,Offensive,0,0,0,0,,,v
+S2223-G0794,3,01:30,DET,,PHX,,D. Saric,PHX,Saric Offensive Foul Turnover (P1.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0794,3,00:52.900000,DET,,PHX,,D. Saric,PHX,MISS Saric 10' Hook Shot,Missed Shot,Hook Shot,97,26,10,1,2.0,0.0,v
+S2223-G0794,3,00:37.500000,DET,,PHX,,D. Saric,PHX,Saric S.FOUL (P3.T2) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0794,3,00:20.100000,DET,,PHX,,D. Saric,PHX,MISS Saric 8' Floating Jump Shot,Missed Shot,Floating Jump shot,10,75,8,1,2.0,0.0,v
+S2223-G0794,3,00:16.500000,DET,,PHX,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0794,4,11:46,DET,,PHX,,D. Saric,PHX,MISS Saric 24' 3PT Jump Shot,Missed Shot,Jump Shot,-185,150,24,1,3.0,0.0,v
+S2223-G0794,4,10:59,DET,,PHX,,D. Saric,PHX,Saric S.FOUL (P4.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G0794,4,09:51,DET,81.0,PHX,93.0,D. Saric,PHX,Saric 6' Driving Hook Shot (6 PTS) (S. Lee 3 AST),Made Shot,Driving Hook Shot,-31,51,6,1,2.0,2.0,v
+S2223-G0794,4,06:28,DET,,PHX,,D. Saric,PHX,Saric S.FOUL (P5.PN) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0794,4,06:28,DET,,PHX,,D. Saric,PHX,SUB: Ayton FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0982,1,04:03,OKC,26.0,GSW,24.0,D. Saric,OKC,Saric 11' Floating Jump Shot (2 PTS) (Joe 1 AST),Made Shot,Floating Jump shot,7,111,11,1,2.0,2.0,h
+S2223-G0982,1,03:43,OKC,,GSW,,D. Saric,OKC,Saric S.FOUL (P1.T1) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G0982,1,02:55,OKC,,GSW,,D. Saric,OKC,Saric STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0982,1,02:25,OKC,29.0,GSW,28.0,D. Saric,OKC,Saric 25' 3PT Jump Shot (5 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,-163,194,25,1,3.0,3.0,h
+S2223-G0982,1,01:21,OKC,,GSW,,D. Saric,OKC,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0982,1,00:31.400000,OKC,,GSW,,D. Saric,OKC,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0982,2,11:07,OKC,42.0,GSW,36.0,D. Saric,OKC,Saric 1' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,12,-1,1,1,2.0,2.0,h
+S2223-G0982,2,09:55,OKC,,GSW,,D. Saric,OKC,Saric REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0982,2,09:01,OKC,,GSW,,D. Saric,OKC,MISS Saric 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,158,19,16,1,2.0,0.0,h
+S2223-G0982,2,07:30,OKC,,GSW,,D. Saric,OKC,SUB: Wiggins FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0982,3,03:23,OKC,94.0,GSW,87.0,D. Saric,OKC,Saric 6' Pullup Jump Shot (9 PTS) (Giddey 11 AST),Made Shot,Pullup Jump shot,-47,39,6,1,2.0,2.0,h
+S2223-G0982,3,03:23,OKC,95.0,GSW,87.0,D. Saric,OKC,Saric Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0982,3,02:14,OKC,99.0,GSW,90.0,D. Saric,OKC,Saric 1' Reverse Layup (12 PTS) (Giddey 12 AST),Made Shot,Reverse Layup Shot,-9,5,1,1,2.0,2.0,h
+S2223-G0982,3,01:47,OKC,,GSW,,D. Saric,OKC,Saric REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0982,3,01:38,OKC,,GSW,,D. Saric,OKC,MISS Saric 1' Layup,Missed Shot,Layup Shot,6,10,1,1,2.0,0.0,h
+S2223-G0982,3,01:37,OKC,,GSW,,D. Saric,OKC,Saric REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0982,3,01:37,OKC,101.0,GSW,90.0,D. Saric,OKC,Saric 2' Putback Layup (14 PTS),Made Shot,Putback Layup Shot,6,15,2,1,2.0,2.0,h
+S2223-G0490,1,05:32,PHX,,MEM,,D. Saric,PHX,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,129,215,25,1,3.0,0.0,h
+S2223-G0490,1,03:47,PHX,,MEM,,D. Saric,PHX,Saric Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0490,1,03:24,PHX,,MEM,,D. Saric,PHX,Saric S.FOUL (P1.T3) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0490,1,03:24,PHX,,MEM,,D. Saric,PHX,SUB: Craig FOR Saric,Substitution,,0,0,0,0,,,h
+S2223-G0516,4,01:42,WAS,,PHX,,D. Saric,PHX,MISS Saric 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,10,46,5,1,2.0,0.0,v
+S2223-G1096,2,09:28,LAC,,OKC,,D. Saric,OKC,SUB: Giddey FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G0384,2,07:23,NOP,,PHX,,D. Saric,PHX,SUB: Booker FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G1018,1,02:44,SAS,,OKC,,D. Saric,OKC,MISS Saric Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1018,1,02:44,SAS,16.0,OKC,17.0,D. Saric,OKC,Saric Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1018,1,02:16,SAS,16.0,OKC,19.0,D. Saric,OKC,Saric 2' Driving Hook Shot (3 PTS) (Giddey 2 AST),Made Shot,Driving Hook Shot,12,15,2,1,2.0,2.0,v
+S2223-G1018,1,01:21,SAS,19.0,OKC,25.0,D. Saric,OKC,Saric 26' 3PT Jump Shot (6 PTS) (Giddey 3 AST),Made Shot,Jump Shot,115,230,26,1,3.0,3.0,v
+S2223-G1018,2,10:45,SAS,,OKC,,D. Saric,OKC,Saric REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1018,2,10:37,SAS,,OKC,,D. Saric,OKC,Saric Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1018,2,10:24,SAS,,OKC,,D. Saric,OKC,Saric STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1018,2,10:13,SAS,,OKC,,D. Saric,OKC,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,152,216,26,1,3.0,0.0,v
+S2223-G1018,2,09:22,SAS,,OKC,,D. Saric,OKC,Saric REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1018,2,07:34,SAS,,OKC,,D. Saric,OKC,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,-61,253,26,1,3.0,0.0,v
+S2223-G1018,2,07:28,SAS,,OKC,,D. Saric,OKC,Saric P.FOUL (P1.T2) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2223-G1018,2,07:28,SAS,,OKC,,D. Saric,OKC,SUB: Jay. Williams FOR Saric,Substitution,,0,0,0,0,,,v
+S2223-G1018,3,02:50,SAS,,OKC,,D. Saric,OKC,MISS Saric 4' Hook Shot,Missed Shot,Hook Shot,4,39,4,1,2.0,0.0,v
+S2223-G1018,3,02:50,SAS,,OKC,,D. Saric,OKC,Saric REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1018,3,02:50,SAS,,OKC,,D. Saric,OKC,Saric Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1018,3,01:46,SAS,,OKC,,D. Saric,OKC,MISS Saric 27' 3PT Jump Shot,Missed Shot,Jump Shot,-165,209,27,1,3.0,0.0,v
+S2223-G1018,3,01:32,SAS,,OKC,,D. Saric,OKC,Saric REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1018,3,00:45.100000,SAS,,OKC,,D. Saric,OKC,Saric REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1018,3,00:05.800000,SAS,,OKC,,D. Saric,OKC,Saric S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G1018,4,10:26,SAS,,OKC,,D. Saric,OKC,Saric REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1018,4,09:39,SAS,,OKC,,D. Saric,OKC,MISS Saric 25' 3PT Jump Shot,Missed Shot,Jump Shot,-239,74,25,1,3.0,0.0,v
+S2223-G1018,4,07:59,SAS,,OKC,,D. Saric,OKC,Saric REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1018,4,07:56,SAS,75.0,OKC,86.0,D. Saric,OKC,Saric 9' Floating Jump Shot (8 PTS),Made Shot,Floating Jump shot,-12,88,9,1,2.0,2.0,v
+S2223-G1018,4,07:27,SAS,75.0,OKC,88.0,D. Saric,OKC,Saric 4' Cutting Finger Roll Layup Shot (10 PTS) (Jal. Williams 9 AST),Made Shot,Cutting Finger Roll Layup Shot,-10,34,4,1,2.0,2.0,v
+S2223-G1018,4,06:27,SAS,,OKC,,D. Saric,OKC,SUB: Jay. Williams FOR Saric,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,280 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0173,4,04:27,ATL,98.0,PHI,82.0,F. Korkmaz,PHI,Korkmaz Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0173,4,04:27,ATL,98.0,PHI,83.0,F. Korkmaz,PHI,Korkmaz Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0173,4,03:33,ATL,98.0,PHI,88.0,F. Korkmaz,PHI,Korkmaz Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0173,4,03:33,ATL,98.0,PHI,89.0,F. Korkmaz,PHI,Korkmaz Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0173,4,03:02,ATL,,PHI,,F. Korkmaz,PHI,Korkmaz P.FOUL (P1.T2) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G0260,1,00:04.900000,CHA,21.0,PHI,33.0,F. Korkmaz,PHI,Korkmaz 27' 3PT Fadeaway Jumper (3 PTS),Made Shot,Fadeaway Jump Shot,89,256,27,1,3.0,3.0,v
+S2223-G0260,2,11:19,CHA,23.0,PHI,35.0,F. Korkmaz,PHI,Korkmaz 2' Layup (5 PTS) (Niang 1 AST),Made Shot,Layup Shot,-22,3,2,1,2.0,2.0,v
+S2223-G0260,2,11:01,CHA,,PHI,,F. Korkmaz,PHI,Korkmaz S.FOUL (P1.T3) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2223-G0260,2,08:43,CHA,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,238,17,24,1,3.0,0.0,v
+S2223-G0260,2,08:05,CHA,,PHI,,F. Korkmaz,PHI,Korkmaz S.FOUL (P2.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2223-G0260,2,08:05,CHA,,PHI,,F. Korkmaz,PHI,SUB: Melton FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G0260,3,05:14,CHA,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 27' 3PT Jump Shot,Missed Shot,Jump Shot,-141,231,27,1,3.0,0.0,v
+S2223-G0260,3,04:27,CHA,,PHI,,F. Korkmaz,PHI,Korkmaz Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0260,4,08:23,CHA,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 4' Driving Layup,Missed Shot,Driving Layup Shot,31,21,4,1,2.0,0.0,v
+S2223-G0260,4,08:20,CHA,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 3PT Jump Shot,Missed Shot,Jump Shot,-225,39,0,1,3.0,0.0,v
+S2223-G0260,4,07:20,CHA,,PHI,,F. Korkmaz,PHI,SUB: Melton FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G0626,4,00:54.800000,PHI,,OKC,,F. Korkmaz,PHI,MISS Korkmaz 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,51,31,6,1,2.0,0.0,h
+S2223-G0626,4,00:17.100000,PHI,114.0,OKC,133.0,F. Korkmaz,PHI,Korkmaz 1' Driving Dunk (2 PTS) (Milton 3 AST),Made Shot,Driving Dunk Shot,1,-6,1,1,2.0,2.0,h
+S2223-G0299,1,04:11,PHI,,ATL,,F. Korkmaz,PHI,Korkmaz STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0299,1,02:52,PHI,,ATL,,F. Korkmaz,PHI,MISS Korkmaz 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,20,-16,3,1,2.0,0.0,h
+S2223-G0299,1,00:09.200000,PHI,,ATL,,F. Korkmaz,PHI,MISS Korkmaz 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,103,237,26,1,3.0,0.0,h
+S2223-G0299,2,10:59,PHI,,ATL,,F. Korkmaz,PHI,MISS Korkmaz 26' 3PT Jump Shot,Missed Shot,Jump Shot,201,163,26,1,3.0,0.0,h
+S2223-G0299,2,10:57,PHI,,ATL,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0299,2,10:53,PHI,25.0,ATL,34.0,F. Korkmaz,PHI,Korkmaz 10' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,104,10,10,1,2.0,2.0,h
+S2223-G0299,2,10:01,PHI,,ATL,,F. Korkmaz,PHI,Korkmaz STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0299,2,09:44,PHI,,ATL,,F. Korkmaz,PHI,SUB: Harris FOR Korkmaz,Substitution,,0,0,0,0,,,h
+S2223-G0299,3,03:49,PHI,,ATL,,F. Korkmaz,PHI,Korkmaz BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0299,3,02:02,PHI,,ATL,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0299,3,00:32.400000,PHI,,ATL,,F. Korkmaz,PHI,MISS Korkmaz 28' 3PT Jump Shot,Missed Shot,Jump Shot,-159,226,28,1,3.0,0.0,h
+S2223-G0299,3,00:30,PHI,,ATL,,F. Korkmaz,PHI,SUB: Thybulle FOR Korkmaz,Substitution,,0,0,0,0,,,h
+S2223-G0299,3,00:01.500000,PHI,,ATL,,F. Korkmaz,PHI,SUB: Reed FOR Korkmaz,Substitution,,0,0,0,0,,,h
+S2223-G0299,4,08:16,PHI,,ATL,,F. Korkmaz,PHI,Korkmaz STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0299,4,06:45,PHI,,ATL,,F. Korkmaz,PHI,SUB: Embiid FOR Korkmaz,Substitution,,0,0,0,0,,,h
+S2223-G0256,1,04:50,PHI,21.0,BKN,20.0,F. Korkmaz,PHI,Korkmaz 3PT Jump Shot (3 PTS) (Tucker 1 AST),Made Shot,Jump Shot,-233,-2,0,1,3.0,3.0,h
+S2223-G0256,1,03:20,PHI,,BKN,,F. Korkmaz,PHI,MISS Korkmaz 4' Driving Layup,Missed Shot,Driving Layup Shot,37,16,4,1,2.0,0.0,h
+S2223-G0256,1,00:34.600000,PHI,,BKN,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,1,00:31.900000,PHI,,BKN,,F. Korkmaz,PHI,MISS Korkmaz 5' Running Layup,Missed Shot,Running Layup Shot,7,51,5,1,2.0,0.0,h
+S2223-G0256,2,10:58,PHI,37.0,BKN,26.0,F. Korkmaz,PHI,Korkmaz Cutting Dunk Shot (5 PTS) (Niang 1 AST),Made Shot,Cutting Dunk Shot,-1,-4,0,1,2.0,2.0,h
+S2223-G0256,2,09:38,PHI,,BKN,,F. Korkmaz,PHI,MISS Korkmaz Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0256,2,09:38,PHI,40.0,BKN,30.0,F. Korkmaz,PHI,Korkmaz Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0256,2,09:17,PHI,,BKN,,F. Korkmaz,PHI,MISS Korkmaz 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,186,187,26,1,3.0,0.0,h
+S2223-G0256,2,09:14,PHI,,BKN,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,2,09:05,PHI,,BKN,,F. Korkmaz,PHI,SUB: Melton FOR Korkmaz,Substitution,,0,0,0,0,,,h
+S2223-G0256,3,02:21,PHI,,BKN,,F. Korkmaz,PHI,MISS Korkmaz 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-32,26,4,1,2.0,0.0,h
+S2223-G0256,3,01:57,PHI,,BKN,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,3,01:50,PHI,,BKN,,F. Korkmaz,PHI,MISS Korkmaz 25' 3PT Jump Shot,Missed Shot,Jump Shot,80,239,25,1,3.0,0.0,h
+S2223-G0256,4,11:18,PHI,88.0,BKN,82.0,F. Korkmaz,PHI,Korkmaz 25' 3PT Jump Shot (9 PTS) (Harris 3 AST),Made Shot,Jump Shot,145,207,25,1,3.0,3.0,h
+S2223-G0256,4,08:28,PHI,,BKN,,F. Korkmaz,PHI,MISS Korkmaz 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,20,27,3,1,2.0,0.0,h
+S2223-G0256,4,06:48,PHI,,BKN,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,4,06:28,PHI,,BKN,,F. Korkmaz,PHI,SUB: Milton FOR Korkmaz,Substitution,,0,0,0,0,,,h
+S2223-G1217,1,02:23,BKN,17.0,PHI,31.0,F. Korkmaz,PHI,Korkmaz 25' 3PT Jump Shot (3 PTS) (Dedmon 1 AST),Made Shot,Jump Shot,154,193,25,1,3.0,3.0,v
+S2223-G1217,1,01:19,BKN,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,51,53,7,1,2.0,0.0,v
+S2223-G1217,2,11:48,BKN,,PHI,,F. Korkmaz,PHI,Korkmaz S.FOUL (P1.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G1217,2,10:54,BKN,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,145,208,25,1,3.0,0.0,v
+S2223-G1217,2,09:58,BKN,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,2,08:45,BKN,26.0,PHI,46.0,F. Korkmaz,PHI,Korkmaz 3PT Jump Shot (6 PTS) (Dedmon 2 AST),Made Shot,Jump Shot,229,16,0,1,3.0,3.0,v
+S2223-G1217,2,07:49,BKN,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,2,07:16,BKN,,PHI,,F. Korkmaz,PHI,Korkmaz Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1217,2,06:52,BKN,,PHI,,F. Korkmaz,PHI,Korkmaz Offensive Charge Foul (P2) (D.Guthrie),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G1217,2,06:52,BKN,,PHI,,F. Korkmaz,PHI,Korkmaz Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1217,2,06:52,BKN,,PHI,,F. Korkmaz,PHI,SUB: McDaniels FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G1217,3,04:27,BKN,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,3,04:05,BKN,,PHI,,F. Korkmaz,PHI,Korkmaz STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1217,3,04:03,BKN,74.0,PHI,85.0,F. Korkmaz,PHI,Korkmaz Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1217,3,04:03,BKN,74.0,PHI,86.0,F. Korkmaz,PHI,Korkmaz Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1217,3,02:34,BKN,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 4' Driving Layup,Missed Shot,Driving Layup Shot,20,31,4,1,2.0,0.0,v
+S2223-G1217,3,00:39.200000,BKN,89.0,PHI,97.0,F. Korkmaz,PHI,Korkmaz 24' 3PT Jump Shot (11 PTS) (McClung 7 AST),Made Shot,Jump Shot,-235,-14,24,1,3.0,3.0,v
+S2223-G1217,4,09:20,BKN,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,4,07:13,BKN,,PHI,,F. Korkmaz,PHI,Korkmaz STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1217,4,06:00,BKN,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-194,90,21,1,2.0,0.0,v
+S2223-G1217,4,04:04,BKN,,PHI,,F. Korkmaz,PHI,Korkmaz S.FOUL (P3.T4) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G1217,4,01:26,BKN,,PHI,,F. Korkmaz,PHI,Korkmaz Step Out of Bounds Turnover (P3.T13),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0312,1,05:34,CLE,,PHI,,F. Korkmaz,PHI,Korkmaz Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0312,1,03:29,CLE,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 24' 3PT Jump Shot,Missed Shot,Jump Shot,-244,14,24,1,3.0,0.0,v
+S2223-G0312,1,02:40,CLE,18.0,PHI,15.0,F. Korkmaz,PHI,Korkmaz 1' Cutting Layup Shot (2 PTS) (Embiid 4 AST),Made Shot,Cutting Layup Shot,-10,-2,1,1,2.0,2.0,v
+S2223-G0312,1,00:12.200000,CLE,,PHI,,F. Korkmaz,PHI,SUB: Thybulle FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G0312,2,10:49,CLE,,PHI,,F. Korkmaz,PHI,SUB: Thybulle FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G0312,4,06:09,CLE,103.0,PHI,75.0,F. Korkmaz,PHI,Korkmaz Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0312,4,06:09,CLE,103.0,PHI,76.0,F. Korkmaz,PHI,Korkmaz Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0312,4,02:30,CLE,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0312,4,00:59.400000,CLE,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-214,159,27,1,3.0,0.0,v
+S2223-G0312,4,00:47.400000,CLE,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 26' 3PT Jump Shot,Missed Shot,Jump Shot,165,204,26,1,3.0,0.0,v
+S2223-G1016,4,04:26,PHI,,WAS,,F. Korkmaz,PHI,MISS Korkmaz 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-40,47,6,1,2.0,0.0,h
+S2223-G1016,4,02:52,PHI,,WAS,,F. Korkmaz,PHI,MISS Korkmaz 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,11,24,1,3.0,0.0,h
+S2223-G1016,4,02:34,PHI,,WAS,,F. Korkmaz,PHI,Korkmaz Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1016,4,01:26,PHI,,WAS,,F. Korkmaz,PHI,Korkmaz Step Out of Bounds Turnover (P2.T9),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G1016,4,00:36.400000,PHI,112.0,WAS,93.0,F. Korkmaz,PHI,Korkmaz 1' Cutting Layup Shot (2 PTS) (Dedmon 1 AST),Made Shot,Cutting Layup Shot,11,1,1,1,2.0,2.0,h
+S2223-G0980,4,03:29,MIN,85.0,PHI,110.0,F. Korkmaz,PHI,Korkmaz 24' 3PT Step Back Jump Shot (3 PTS) (Milton 4 AST),Made Shot,Step Back Jump shot,-223,80,24,1,3.0,3.0,v
+S2223-G0980,4,02:47,MIN,85.0,PHI,112.0,F. Korkmaz,PHI,Korkmaz 14' Step Back Jump Shot (5 PTS) (Milton 5 AST),Made Shot,Step Back Jump shot,-140,22,14,1,2.0,2.0,v
+S2223-G0980,4,02:47,MIN,85.0,PHI,113.0,F. Korkmaz,PHI,Korkmaz Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0980,4,02:08,MIN,,PHI,,F. Korkmaz,PHI,Korkmaz Out of Bounds Lost Ball Turnover (P1.T14),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0980,4,01:57,MIN,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0980,4,01:43,MIN,,PHI,,F. Korkmaz,PHI,Korkmaz Lost Ball Turnover (P2.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0596,4,01:31,DET,,PHI,,F. Korkmaz,PHI,Korkmaz Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0596,4,00:41.800000,DET,108.0,PHI,123.0,F. Korkmaz,PHI,Korkmaz 2' Driving Dunk (2 PTS) (House Jr. 1 AST),Made Shot,Driving Dunk Shot,18,1,2,1,2.0,2.0,v
+S2223-G0332,1,02:05,MEM,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0332,1,01:30,MEM,21.0,PHI,26.0,F. Korkmaz,PHI,Korkmaz Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0332,1,01:30,MEM,,PHI,,F. Korkmaz,PHI,MISS Korkmaz Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0332,2,11:03,MEM,,PHI,,F. Korkmaz,PHI,Korkmaz Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0332,2,10:27,MEM,,PHI,,F. Korkmaz,PHI,SUB: Tucker FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G0332,4,11:08,MEM,95.0,PHI,80.0,F. Korkmaz,PHI,Korkmaz 2' Driving Finger Roll Layup (3 PTS),Made Shot,Driving Finger Roll Layup Shot,20,9,2,1,2.0,2.0,v
+S2223-G0332,4,10:59,MEM,,PHI,,F. Korkmaz,PHI,Korkmaz Violation:Kicked Ball (M.Ervin),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0332,4,09:53,MEM,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,38,4,4,1,2.0,0.0,v
+S2223-G0332,4,08:43,MEM,102.0,PHI,87.0,F. Korkmaz,PHI,Korkmaz 24' 3PT Jump Shot (6 PTS) (Embiid 5 AST),Made Shot,Jump Shot,-167,177,24,1,3.0,3.0,v
+S2223-G0332,4,06:10,MEM,,PHI,,F. Korkmaz,PHI,SUB: Milton FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G0534,4,00:48.100000,NOP,,PHI,,F. Korkmaz,PHI,Korkmaz Bad Pass Turnover (P1.T19),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1103,3,01:56,GSW,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1103,3,01:45,GSW,78.0,PHI,81.0,F. Korkmaz,PHI,Korkmaz 3' Cutting Layup Shot (2 PTS) (Harris 3 AST),Made Shot,Cutting Layup Shot,-26,11,3,1,2.0,2.0,v
+S2223-G1103,3,00:56.100000,GSW,,PHI,,F. Korkmaz,PHI,Korkmaz S.FOUL (P1.T4) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G1103,4,11:02,GSW,,PHI,,F. Korkmaz,PHI,SUB: Melton FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G0122,2,11:48,PHI,,NYK,,F. Korkmaz,PHI,Korkmaz Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0122,2,09:10,PHI,,NYK,,F. Korkmaz,PHI,SUB: Harrell FOR Korkmaz,Substitution,,0,0,0,0,,,h
+S2223-G0122,4,11:02,PHI,,NYK,,F. Korkmaz,PHI,MISS Korkmaz 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-140,241,28,1,3.0,0.0,h
+S2223-G0122,4,10:38,PHI,86.0,NYK,74.0,F. Korkmaz,PHI,Korkmaz 27' 3PT Jump Shot (3 PTS) (Niang 1 AST),Made Shot,Jump Shot,-192,190,27,1,3.0,3.0,h
+S2223-G0122,4,08:02,PHI,,NYK,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0122,4,07:25,PHI,,NYK,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0122,4,07:24,PHI,,NYK,,F. Korkmaz,PHI,Korkmaz Traveling Turnover (P2.T12),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0122,4,05:35,PHI,,NYK,,F. Korkmaz,PHI,MISS Korkmaz 7' Driving Layup,Missed Shot,Driving Layup Shot,60,43,7,1,2.0,0.0,h
+S2223-G0122,4,05:30,PHI,,NYK,,F. Korkmaz,PHI,SUB: Niang FOR Korkmaz,Substitution,,0,0,0,0,,,h
+S2223-G1174,4,01:16,MIL,117.0,PHI,100.0,F. Korkmaz,PHI,Korkmaz 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,4,16,2,1,2.0,2.0,v
+S2223-G0545,1,00:00.600000,OKC,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0545,1,00:00.200000,OKC,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 48' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,7,484,48,1,3.0,0.0,v
+S2223-G0545,2,11:40,OKC,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0545,2,11:20,OKC,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0545,2,10:37,OKC,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,44,73,9,1,2.0,0.0,v
+S2223-G0545,2,09:56,OKC,,PHI,,F. Korkmaz,PHI,Korkmaz STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0545,2,09:25,OKC,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 3PT Jump Shot,Missed Shot,Jump Shot,-222,6,0,1,3.0,0.0,v
+S2223-G0545,2,09:15,OKC,22.0,PHI,46.0,F. Korkmaz,PHI,Korkmaz 25' 3PT Jump Shot (3 PTS) (Milton 4 AST),Made Shot,Jump Shot,216,125,25,1,3.0,3.0,v
+S2223-G0545,2,07:46,OKC,,PHI,,F. Korkmaz,PHI,Korkmaz BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0545,2,07:15,OKC,27.0,PHI,50.0,F. Korkmaz,PHI,Korkmaz 4' Driving Floating Bank Jump Shot (5 PTS),Made Shot,Driving Floating Bank Jump Shot,23,31,4,1,2.0,2.0,v
+S2223-G0545,2,06:48,OKC,,PHI,,F. Korkmaz,PHI,SUB: Thybulle FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G0545,3,02:12,OKC,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 3PT Jump Shot,Missed Shot,Jump Shot,-232,-20,0,1,3.0,0.0,v
+S2223-G0545,3,01:34,OKC,,PHI,,F. Korkmaz,PHI,Korkmaz Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0545,3,00:47.800000,OKC,,PHI,,F. Korkmaz,PHI,Korkmaz STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0545,3,00:02,OKC,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0545,3,00:02,OKC,,PHI,,F. Korkmaz,PHI,MISS Korkmaz Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0545,3,00:02,OKC,,PHI,,F. Korkmaz,PHI,MISS Korkmaz Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0545,4,10:28,OKC,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0545,4,07:22,OKC,,PHI,,F. Korkmaz,PHI,SUB: Embiid FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G0545,4,01:16,OKC,91.0,PHI,115.0,F. Korkmaz,PHI,Korkmaz 7' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,-51,51,7,1,2.0,2.0,v
+S2223-G1047,4,05:49,CHA,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,61,117,13,1,2.0,0.0,v
+S2223-G1047,4,03:30,CHA,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-124,137,18,1,2.0,0.0,v
+S2223-G1087,4,02:38,CHI,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,37,66,8,1,2.0,0.0,v
+S2223-G1087,4,01:47,CHI,,PHI,,F. Korkmaz,PHI,Korkmaz Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1087,4,00:44.900000,CHI,91.0,PHI,116.0,F. Korkmaz,PHI,Korkmaz 2' Driving Layup (2 PTS) (Milton 3 AST),Made Shot,Driving Layup Shot,15,6,2,1,2.0,2.0,v
+S2223-G0356,1,04:01,HOU,,PHI,,F. Korkmaz,PHI,Korkmaz Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0356,1,02:33,HOU,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 3PT Jump Shot,Missed Shot,Jump Shot,233,15,0,1,3.0,0.0,v
+S2223-G0356,2,07:41,HOU,37.0,PHI,42.0,F. Korkmaz,PHI,Korkmaz 24' 3PT Pullup Jump Shot (3 PTS) (Harris 1 AST),Made Shot,Pullup Jump shot,-229,62,24,1,3.0,3.0,v
+S2223-G0356,2,07:41,HOU,,PHI,,F. Korkmaz,PHI,MISS Korkmaz Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0356,2,06:12,HOU,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,239,120,27,1,3.0,0.0,v
+S2223-G0356,2,05:27,HOU,,PHI,,F. Korkmaz,PHI,SUB: Tucker FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G0356,4,11:48,HOU,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,23,128,13,1,2.0,0.0,v
+S2223-G0356,4,10:11,HOU,,PHI,,F. Korkmaz,PHI,SUB: Tucker FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G0399,1,02:39,PHI,,CHA,,F. Korkmaz,PHI,Korkmaz Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0399,1,00:59.600000,PHI,,CHA,,F. Korkmaz,PHI,Korkmaz STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0399,2,11:51,PHI,21.0,CHA,21.0,F. Korkmaz,PHI,Korkmaz Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0399,2,11:51,PHI,,CHA,,F. Korkmaz,PHI,MISS Korkmaz Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0399,2,10:29,PHI,,CHA,,F. Korkmaz,PHI,MISS Korkmaz 4' Driving Layup,Missed Shot,Driving Layup Shot,43,9,4,1,2.0,0.0,h
+S2223-G0399,2,09:51,PHI,,CHA,,F. Korkmaz,PHI,SUB: Harris FOR Korkmaz,Substitution,,0,0,0,0,,,h
+S2223-G0399,3,01:22,PHI,,CHA,,F. Korkmaz,PHI,MISS Korkmaz Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0399,3,01:22,PHI,92.0,CHA,82.0,F. Korkmaz,PHI,Korkmaz Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0399,3,00:48.900000,PHI,93.0,CHA,83.0,F. Korkmaz,PHI,Korkmaz Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0399,3,00:48.900000,PHI,94.0,CHA,83.0,F. Korkmaz,PHI,Korkmaz Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0399,3,00:01,PHI,,CHA,,F. Korkmaz,PHI,MISS Korkmaz 23' Running Jump Shot,Missed Shot,Running Jump Shot,-159,162,23,1,2.0,0.0,h
+S2223-G0399,4,00:28.800000,PHI,,CHA,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0073,4,01:13,TOR,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1198,4,08:51,PHI,,MIA,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1198,4,08:16,PHI,83.0,MIA,104.0,F. Korkmaz,PHI,Korkmaz 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-113,236,26,1,3.0,3.0,h
+S2223-G1198,4,07:48,PHI,,MIA,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1198,4,06:37,PHI,,MIA,,F. Korkmaz,PHI,MISS Korkmaz 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-227,59,0,1,3.0,0.0,h
+S2223-G1198,4,05:48,PHI,,MIA,,F. Korkmaz,PHI,Korkmaz Offensive Charge Foul (P1) (E.Malloy),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1198,4,05:48,PHI,,MIA,,F. Korkmaz,PHI,Korkmaz Offensive Foul Turnover (P1.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1198,4,04:58,PHI,87.0,MIA,116.0,F. Korkmaz,PHI,Korkmaz 2' Alley Oop Layup (5 PTS) (Milton 8 AST),Made Shot,Alley Oop Layup shot,-17,12,2,1,2.0,2.0,h
+S2223-G1198,4,04:45,PHI,,MIA,,F. Korkmaz,PHI,Korkmaz P.FOUL (P2.T2) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G1198,4,03:01,PHI,,MIA,,F. Korkmaz,PHI,MISS Korkmaz 24' 3PT Jump Shot,Missed Shot,Jump Shot,241,13,24,1,3.0,0.0,h
+S2223-G1198,4,01:16,PHI,,MIA,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1198,4,00:46.600000,PHI,,MIA,,F. Korkmaz,PHI,MISS Korkmaz 3' Driving Layup,Missed Shot,Driving Layup Shot,-18,20,3,1,2.0,0.0,h
+S2223-G1198,4,00:31.900000,PHI,99.0,MIA,129.0,F. Korkmaz,PHI,Korkmaz 25' 3PT Jump Shot (8 PTS) (House Jr. 1 AST),Made Shot,Jump Shot,-206,149,25,1,3.0,3.0,h
+S2223-G0273,1,03:23,ORL,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 22' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,157,149,22,1,2.0,0.0,v
+S2223-G0273,1,02:29,ORL,,PHI,,F. Korkmaz,PHI,Korkmaz Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0273,2,08:05,ORL,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-21,268,27,1,3.0,0.0,v
+S2223-G0273,2,07:43,ORL,35.0,PHI,34.0,F. Korkmaz,PHI,Korkmaz 28' 3PT Jump Shot (3 PTS) (Milton 4 AST),Made Shot,Jump Shot,170,220,28,1,3.0,3.0,v
+S2223-G0273,2,07:30,ORL,,PHI,,F. Korkmaz,PHI,SUB: Melton FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G0273,3,03:39,ORL,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,3,03:23,ORL,,PHI,,F. Korkmaz,PHI,Korkmaz S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0273,3,01:59,ORL,,PHI,,F. Korkmaz,PHI,Korkmaz Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0273,4,10:55,ORL,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,72,159,17,1,2.0,0.0,v
+S2223-G0273,4,10:38,ORL,78.0,PHI,87.0,F. Korkmaz,PHI,Korkmaz 21' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,-207,50,21,1,2.0,2.0,v
+S2223-G0273,4,08:46,ORL,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,165,208,27,1,3.0,0.0,v
+S2223-G0273,4,08:45,ORL,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,4,08:45,ORL,84.0,PHI,92.0,F. Korkmaz,PHI,Korkmaz Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0273,4,08:45,ORL,84.0,PHI,93.0,F. Korkmaz,PHI,Korkmaz Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0273,4,07:55,ORL,,PHI,,F. Korkmaz,PHI,SUB: Melton FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G0480,1,00:03.100000,PHI,,LAC,,F. Korkmaz,PHI,Korkmaz Personal Take Foul (P1.T3) (E.Malloy),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0480,1,00:03.100000,PHI,,LAC,,F. Korkmaz,PHI,SUB: Thybulle FOR Korkmaz,Substitution,,0,0,0,0,,,h
+S2223-G0382,1,02:11,PHI,,,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0382,2,11:38,PHI,,,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0382,2,11:24,PHI,,,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0382,2,11:16,PHI,33.0,,20.0,F. Korkmaz,PHI,Korkmaz 1' Finger Roll Layup (2 PTS),Made Shot,Finger Roll Layup Shot,9,6,1,1,2.0,2.0,h
+S2223-G0382,2,10:57,PHI,,,,F. Korkmaz,PHI,MISS Korkmaz 27' 3PT Jump Shot,Missed Shot,Jump Shot,146,230,27,1,3.0,0.0,h
+S2223-G0382,2,10:26,PHI,,,,F. Korkmaz,PHI,MISS Korkmaz 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-74,10,7,1,2.0,0.0,h
+S2223-G0382,2,09:34,PHI,,,,F. Korkmaz,PHI,MISS Korkmaz 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,33,4,1,2.0,0.0,h
+S2223-G0382,2,09:14,PHI,,,,F. Korkmaz,PHI,SUB: Harris FOR Korkmaz,Substitution,,0,0,0,0,,,h
+S2223-G0382,3,01:13,PHI,,,,F. Korkmaz,PHI,MISS Korkmaz 3' Driving Layup,Missed Shot,Driving Layup Shot,-29,0,3,1,2.0,0.0,h
+S2223-G0382,3,00:09.100000,PHI,,,,F. Korkmaz,PHI,SUB: Tucker FOR Korkmaz,Substitution,,0,0,0,0,,,h
+S2223-G0044,4,01:46,PHI,,IND,,F. Korkmaz,PHI,MISS Korkmaz 29' 3PT Jump Shot,Missed Shot,Jump Shot,39,286,29,1,3.0,0.0,h
+S2223-G1205,1,05:20,ATL,17.0,PHI,21.0,F. Korkmaz,PHI,Korkmaz 6' Driving Layup (2 PTS) (House Jr. 1 AST),Made Shot,Driving Layup Shot,-43,35,6,1,2.0,2.0,v
+S2223-G1205,1,03:30,ATL,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,1,03:20,ATL,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 3' Driving Layup,Missed Shot,Driving Layup Shot,-23,25,3,1,2.0,0.0,v
+S2223-G1205,1,02:15,ATL,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 6' Driving Layup,Missed Shot,Driving Layup Shot,22,56,6,1,2.0,0.0,v
+S2223-G1205,1,00:25.700000,ATL,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,2,11:09,ATL,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-93,87,13,1,2.0,0.0,v
+S2223-G1205,2,11:00,ATL,,PHI,,F. Korkmaz,PHI,Korkmaz STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1205,2,10:13,ATL,,PHI,,F. Korkmaz,PHI,SUB: Springer FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G1205,3,02:04,ATL,,PHI,,F. Korkmaz,PHI,Korkmaz P.FOUL (P1.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2223-G1205,3,01:21,ATL,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-104,39,11,1,2.0,0.0,v
+S2223-G1205,3,01:16,ATL,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 3PT Jump Shot,Missed Shot,Jump Shot,-227,53,0,1,3.0,0.0,v
+S2223-G1205,4,07:47,ATL,,PHI,,F. Korkmaz,PHI,SUB: Springer FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G0409,1,02:41,PHI,,SAC,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0409,1,02:34,PHI,,SAC,,F. Korkmaz,PHI,MISS Korkmaz 25' 3PT Jump Shot,Missed Shot,Jump Shot,-112,224,25,1,3.0,0.0,h
+S2223-G0409,1,01:14,PHI,33.0,SAC,26.0,F. Korkmaz,PHI,Korkmaz 3' Running Layup (2 PTS) (Harris 3 AST),Made Shot,Running Layup Shot,-5,34,3,1,2.0,2.0,h
+S2223-G0409,1,01:14,PHI,34.0,SAC,26.0,F. Korkmaz,PHI,Korkmaz Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0409,2,11:24,PHI,,SAC,,F. Korkmaz,PHI,SUB: Harden FOR Korkmaz,Substitution,,0,0,0,0,,,h
+S2223-G0409,3,02:15,PHI,,SAC,,F. Korkmaz,PHI,MISS Korkmaz 27' 3PT Jump Shot,Missed Shot,Jump Shot,94,252,27,1,3.0,0.0,h
+S2223-G0409,3,00:47.600000,PHI,,SAC,,F. Korkmaz,PHI,SUB: Thybulle FOR Korkmaz,Substitution,,0,0,0,0,,,h
+S2223-G0409,4,05:21,PHI,,SAC,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0409,4,02:14,PHI,,SAC,,F. Korkmaz,PHI,Korkmaz OFF.Foul (P1) (A.Smith),Foul,Offensive,0,0,0,0,,,h
+S2223-G0409,4,02:14,PHI,,SAC,,F. Korkmaz,PHI,Korkmaz Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0409,4,01:48,PHI,,SAC,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0188,1,02:02,PHI,28.0,ATL,17.0,F. Korkmaz,PHI,Korkmaz 1' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,-1,-7,1,1,2.0,2.0,h
+S2223-G0188,1,01:47,PHI,,ATL,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0188,1,01:15,PHI,32.0,ATL,19.0,F. Korkmaz,PHI,Korkmaz 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,-15,11,2,1,2.0,2.0,h
+S2223-G0188,1,01:09,PHI,,ATL,,F. Korkmaz,PHI,Korkmaz P.FOUL (P1.PN) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2223-G0188,1,00:57.400000,PHI,34.0,ATL,21.0,F. Korkmaz,PHI,Korkmaz 2' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,-9,17,2,1,2.0,2.0,h
+S2223-G0188,2,11:47,PHI,,ATL,,F. Korkmaz,PHI,MISS Korkmaz 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,37,55,7,1,2.0,0.0,h
+S2223-G0188,2,11:47,PHI,,ATL,,F. Korkmaz,PHI,Jump Ball Korkmaz vs. J. Holiday: Tip to Niang,Jump Ball,,0,0,0,0,,,h
+S2223-G0188,2,11:29,PHI,,ATL,,F. Korkmaz,PHI,MISS Korkmaz Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0188,2,11:29,PHI,38.0,ATL,26.0,F. Korkmaz,PHI,Korkmaz Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0188,2,11:06,PHI,,ATL,,F. Korkmaz,PHI,SUB: Maxey FOR Korkmaz,Substitution,,0,0,0,0,,,h
+S2223-G0297,1,02:20,ORL,30.0,PHI,25.0,F. Korkmaz,PHI,Korkmaz 15' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,-25,148,15,1,2.0,2.0,v
+S2223-G0297,1,01:05,ORL,,PHI,,F. Korkmaz,PHI,MISS Korkmaz Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0297,1,01:05,ORL,30.0,PHI,31.0,F. Korkmaz,PHI,Korkmaz Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0297,1,00:32.200000,ORL,,PHI,,F. Korkmaz,PHI,Korkmaz Backcourt Turnover (P1.T5),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2223-G0297,1,00:00.500000,ORL,32.0,PHI,36.0,F. Korkmaz,PHI,Korkmaz 27' 3PT Jump Shot (6 PTS) (Niang 1 AST),Made Shot,Jump Shot,94,249,27,1,3.0,3.0,v
+S2223-G0297,2,10:17,ORL,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,2,07:23,ORL,,PHI,,F. Korkmaz,PHI,SUB: Melton FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G0297,3,05:35,ORL,,PHI,,F. Korkmaz,PHI,Korkmaz S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0297,3,03:57,ORL,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,3,03:41,ORL,,PHI,,F. Korkmaz,PHI,Korkmaz S.FOUL (P2.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0297,3,01:24,ORL,71.0,PHI,95.0,F. Korkmaz,PHI,Korkmaz 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,23,16,3,1,2.0,2.0,v
+S2223-G0297,4,10:29,ORL,75.0,PHI,104.0,F. Korkmaz,PHI,Korkmaz 27' 3PT Jump Shot (11 PTS) (Niang 3 AST),Made Shot,Jump Shot,-123,236,27,1,3.0,3.0,v
+S2223-G0297,4,09:10,ORL,,PHI,,F. Korkmaz,PHI,Korkmaz Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0297,4,09:04,ORL,,PHI,,F. Korkmaz,PHI,Korkmaz BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0297,4,07:13,ORL,,PHI,,F. Korkmaz,PHI,SUB: Melton FOR Korkmaz,Substitution,,0,0,0,0,,,v
+S2223-G0297,4,01:58,ORL,95.0,PHI,126.0,F. Korkmaz,PHI,Korkmaz 3PT Step Back Jump Shot (14 PTS) (Reed 3 AST),Made Shot,Step Back Jump shot,229,-16,0,1,3.0,3.0,v
+S2223-G0297,4,01:35,ORL,,PHI,,F. Korkmaz,PHI,MISS Korkmaz 6' Driving Layup,Missed Shot,Driving Layup Shot,53,24,6,1,2.0,0.0,v
+S2223-G0297,4,00:38.200000,ORL,100.0,PHI,132.0,F. Korkmaz,PHI,Korkmaz 1' Cutting Layup Shot (16 PTS) (Lee 2 AST),Made Shot,Cutting Layup Shot,13,3,1,1,2.0,2.0,v
+S2223-G0297,4,00:38.200000,ORL,100.0,PHI,133.0,F. Korkmaz,PHI,Korkmaz Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0612,4,08:55,PHI,,DET,,F. Korkmaz,PHI,MISS Korkmaz 18' Jump Shot,Missed Shot,Jump Shot,-9,179,18,1,2.0,0.0,h
+S2223-G0612,4,08:27,PHI,,DET,,F. Korkmaz,PHI,MISS Korkmaz Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0612,4,08:27,PHI,119.0,DET,93.0,F. Korkmaz,PHI,Korkmaz Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0612,4,07:44,PHI,,DET,,F. Korkmaz,PHI,Korkmaz S.FOUL (P1.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0612,4,07:27,PHI,,DET,,F. Korkmaz,PHI,MISS Korkmaz 2' Driving Layup,Missed Shot,Driving Layup Shot,10,16,2,1,2.0,0.0,h
+S2223-G0612,4,06:23,PHI,130.0,DET,101.0,F. Korkmaz,PHI,Korkmaz 27' 3PT Jump Shot (4 PTS) (Springer 1 AST),Made Shot,Jump Shot,-196,180,27,1,3.0,3.0,h
+S2223-G0612,4,03:55,PHI,,DET,,F. Korkmaz,PHI,MISS Korkmaz 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-96,26,10,1,2.0,0.0,h
+S2223-G1110,4,03:29,PHX,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1110,4,01:11,PHX,122.0,PHI,102.0,F. Korkmaz,PHI,Korkmaz Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1110,4,01:11,PHX,122.0,PHI,103.0,F. Korkmaz,PHI,Korkmaz Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1110,4,00:32.900000,PHX,122.0,PHI,105.0,F. Korkmaz,PHI,Korkmaz 19' Pullup Jump Shot (4 PTS) (Milton 6 AST),Made Shot,Pullup Jump shot,-50,180,19,1,2.0,2.0,v
+S2223-G0668,4,02:51,LAC,98.0,PHI,117.0,F. Korkmaz,PHI,Korkmaz 1' Cutting Layup Shot (2 PTS) (Harris 6 AST),Made Shot,Cutting Layup Shot,0,13,1,1,2.0,2.0,v
+S2223-G0668,4,02:11,LAC,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0668,4,01:20,LAC,102.0,PHI,120.0,F. Korkmaz,PHI,Korkmaz 11' Driving Floating Jump Shot (4 PTS) (Thybulle 1 AST),Made Shot,Driving Floating Jump Shot,-34,106,11,1,2.0,2.0,v
+S2223-G1126,4,03:45,DEN,,PHI,,F. Korkmaz,PHI,Korkmaz STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1126,4,03:40,DEN,110.0,PHI,97.0,F. Korkmaz,PHI,Korkmaz Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1126,4,03:40,DEN,110.0,PHI,98.0,F. Korkmaz,PHI,Korkmaz Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1126,4,02:57,DEN,,PHI,,F. Korkmaz,PHI,Korkmaz REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1126,4,02:41,DEN,112.0,PHI,102.0,F. Korkmaz,PHI,Korkmaz 3' Driving Reverse Layup (4 PTS) (Milton 3 AST),Made Shot,Driving Reverse Layup Shot,-28,13,3,1,2.0,2.0,v
+S2223-G1126,4,00:59.100000,DEN,114.0,PHI,109.0,F. Korkmaz,PHI,Korkmaz 5' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,-29,43,5,1,2.0,2.0,v
+S2223-G1126,4,00:51.900000,DEN,,PHI,,F. Korkmaz,PHI,Korkmaz P.FOUL (P1.T4) (M.Smith),Foul,Personal,0,0,0,0,,,v

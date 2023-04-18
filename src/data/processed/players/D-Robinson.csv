@@ -1,0 +1,527 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0535,2,11:39,DEN,23.0,MIA,22.0,D. Robinson,MIA,D. Robinson 3PT Jump Shot (3 PTS) (Butler 1 AST),Made Shot,Jump Shot,225,21,0,1,3.0,3.0,v
+S2223-G0535,2,11:13,DEN,23.0,MIA,25.0,D. Robinson,MIA,D. Robinson 25' 3PT Pullup Jump Shot (6 PTS) (Butler 2 AST),Made Shot,Pullup Jump shot,-188,169,25,1,3.0,3.0,v
+S2223-G0535,2,08:43,DEN,,MIA,,D. Robinson,MIA,D. Robinson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0535,2,04:13,DEN,,MIA,,D. Robinson,MIA,MISS D. Robinson 28' 3PT Jump Shot,Missed Shot,Jump Shot,185,208,28,1,3.0,0.0,v
+S2223-G0535,2,03:44,DEN,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P1.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0535,2,03:25,DEN,,MIA,,D. Robinson,MIA,MISS D. Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-60,246,25,1,3.0,0.0,v
+S2223-G0535,2,03:11,DEN,,MIA,,D. Robinson,MIA,MISS D. Robinson 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-181,171,25,1,3.0,0.0,v
+S2223-G0535,2,02:46,DEN,,MIA,,D. Robinson,MIA,SUB: Strus FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0535,3,01:54,DEN,,MIA,,D. Robinson,MIA,D. Robinson P.FOUL (P2.PN) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2223-G0535,4,11:32,DEN,85.0,MIA,93.0,D. Robinson,MIA,D. Robinson 27' 3PT Jump Shot (9 PTS) (Vincent 2 AST),Made Shot,Jump Shot,-162,212,27,1,3.0,3.0,v
+S2223-G0535,4,08:41,DEN,,MIA,,D. Robinson,MIA,MISS D. Robinson 30' 3PT Jump Shot,Missed Shot,Jump Shot,-178,238,30,1,3.0,0.0,v
+S2223-G0535,4,07:15,DEN,,MIA,,D. Robinson,MIA,SUB: Lowry FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0974,1,01:13,MIA,27.0,ATL,37.0,D. Robinson,MIA,Robinson 25' 3PT Jump Shot (3 PTS) (Herro 1 AST),Made Shot,Jump Shot,-199,151,25,1,3.0,3.0,h
+S2223-G0974,2,10:59,MIA,,ATL,,D. Robinson,MIA,Robinson S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0974,2,10:40,MIA,33.0,ATL,47.0,D. Robinson,MIA,Robinson Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0974,2,10:40,MIA,34.0,ATL,47.0,D. Robinson,MIA,Robinson Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0974,2,10:40,MIA,35.0,ATL,47.0,D. Robinson,MIA,Robinson Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0974,2,07:58,MIA,,ATL,,D. Robinson,MIA,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,172,198,26,1,3.0,0.0,h
+S2223-G0974,2,07:17,MIA,44.0,ATL,54.0,D. Robinson,MIA,Robinson 1' Cutting Layup Shot (8 PTS) (Oladipo 2 AST),Made Shot,Cutting Layup Shot,6,6,1,1,2.0,2.0,h
+S2223-G0974,2,06:21,MIA,48.0,ATL,56.0,D. Robinson,MIA,Robinson 26' 3PT Jump Shot (11 PTS) (Martin 2 AST),Made Shot,Jump Shot,213,142,26,1,3.0,3.0,h
+S2223-G0974,2,04:12,MIA,,ATL,,D. Robinson,MIA,SUB: Vincent FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0974,4,06:40,MIA,110.0,ATL,108.0,D. Robinson,MIA,Robinson 26' 3PT Pullup Jump Shot (14 PTS) (Adebayo 3 AST),Made Shot,Pullup Jump shot,-1,256,26,1,3.0,3.0,h
+S2223-G0974,4,05:45,MIA,,ATL,,D. Robinson,MIA,SUB: Butler FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G1060,4,01:15,CHI,,MIA,,D. Robinson,MIA,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,27,263,26,1,3.0,0.0,v
+S2223-G1060,4,00:43.900000,CHI,,MIA,,D. Robinson,MIA,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-174,184,25,1,3.0,0.0,v
+S2223-G0387,3,03:11,MIA,79.0,SAS,77.0,D. Robinson,MIA,Robinson Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0387,3,03:11,MIA,80.0,SAS,77.0,D. Robinson,MIA,Robinson Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0387,3,03:11,MIA,81.0,SAS,77.0,D. Robinson,MIA,Robinson Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0387,3,03:03,MIA,,SAS,,D. Robinson,MIA,Robinson S.FOUL (P1.T3) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G0387,3,02:40,MIA,,SAS,,D. Robinson,MIA,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-229,113,26,1,3.0,0.0,h
+S2223-G0387,3,00:59.200000,MIA,,SAS,,D. Robinson,MIA,MISS Robinson 3PT Jump Shot,Missed Shot,Jump Shot,-225,54,0,1,3.0,0.0,h
+S2223-G0387,4,08:46,MIA,,SAS,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0387,4,08:34,MIA,,SAS,,D. Robinson,MIA,SUB: Herro FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0104,1,02:27,MIA,,GSW,,D. Robinson,MIA,MISS Robinson 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,70,59,9,1,2.0,0.0,h
+S2223-G0104,1,02:23,MIA,23.0,GSW,21.0,D. Robinson,MIA,Robinson 3PT Jump Shot (3 PTS) (Butler 2 AST),Made Shot,Jump Shot,224,64,0,1,3.0,3.0,h
+S2223-G0104,1,01:30,MIA,,GSW,,D. Robinson,MIA,Robinson S.FOUL (P1.T2) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0104,1,01:12,MIA,28.0,GSW,24.0,D. Robinson,MIA,Robinson 26' 3PT Jump Shot (6 PTS) (Butler 3 AST),Made Shot,Jump Shot,-230,129,26,1,3.0,3.0,h
+S2223-G0104,2,11:24,MIA,35.0,GSW,26.0,D. Robinson,MIA,Robinson 3' Driving Layup (8 PTS) (Adebayo 1 AST),Made Shot,Driving Layup Shot,-28,9,3,1,2.0,2.0,h
+S2223-G0104,2,04:45,MIA,,GSW,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0104,2,04:36,MIA,,GSW,,D. Robinson,MIA,SUB: Adebayo FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0104,2,00:13,MIA,,GSW,,D. Robinson,MIA,SUB: Martin FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0104,3,00:41,MIA,,GSW,,D. Robinson,MIA,Robinson AWAY.FROM.PLAY.FOUL (P2.T4) (B.Kennedy),Foul,Away From Play,0,0,0,0,,,h
+S2223-G0104,4,10:06,MIA,,GSW,,D. Robinson,MIA,MISS Robinson 29' 3PT Jump Shot,Missed Shot,Jump Shot,-161,236,29,1,3.0,0.0,h
+S2223-G0104,4,09:00,MIA,95.0,GSW,100.0,D. Robinson,MIA,Robinson 26' 3PT Jump Shot (11 PTS) (Vincent 3 AST),Made Shot,Jump Shot,-203,170,26,1,3.0,3.0,h
+S2223-G0104,4,08:37,MIA,,GSW,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0104,4,07:18,MIA,,GSW,,D. Robinson,MIA,Robinson Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0104,4,07:07,MIA,100.0,GSW,100.0,D. Robinson,MIA,Robinson 27' 3PT Running Pull-Up Jump Shot (14 PTS) (Lowry 8 AST),Made Shot,Running Pull-Up Jump Shot,-201,186,27,1,3.0,3.0,h
+S2223-G0104,4,05:55,MIA,,GSW,,D. Robinson,MIA,MISS Robinson 28' 3PT Jump Shot,Missed Shot,Jump Shot,29,280,28,1,3.0,0.0,h
+S2223-G0104,4,04:42,MIA,107.0,GSW,107.0,D. Robinson,MIA,Robinson 26' 3PT Jump Shot (17 PTS) (Adebayo 6 AST),Made Shot,Jump Shot,77,247,26,1,3.0,3.0,h
+S2223-G0104,4,04:02,MIA,,GSW,,D. Robinson,MIA,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-150,216,26,1,3.0,0.0,h
+S2223-G0104,4,02:57,MIA,,GSW,,D. Robinson,MIA,Robinson OFF.Foul (P3) (B.Kennedy),Foul,Offensive,0,0,0,0,,,h
+S2223-G0104,4,02:57,MIA,,GSW,,D. Robinson,MIA,Robinson Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0104,4,00:38.700000,MIA,,GSW,,D. Robinson,MIA,SUB: Strus FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G1036,4,02:23,MIA,133.0,MEM,110.0,D. Robinson,MIA,Robinson 2' Cutting Finger Roll Layup Shot (2 PTS) (Highsmith 3 AST),Made Shot,Cutting Finger Roll Layup Shot,-2,16,2,1,2.0,2.0,h
+S2223-G1036,4,02:02,MIA,,MEM,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1036,4,01:43,MIA,,MEM,,D. Robinson,MIA,MISS Robinson 9' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,76,41,9,1,2.0,0.0,h
+S2223-G1036,4,00:36.300000,MIA,,MEM,,D. Robinson,MIA,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-21,262,26,1,3.0,0.0,h
+S2223-G0109,1,04:23,MIA,,SAC,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0109,1,02:33,MIA,26.0,SAC,24.0,D. Robinson,MIA,Robinson 25' 3PT Jump Shot (3 PTS) (Vincent 1 AST),Made Shot,Jump Shot,-197,158,25,1,3.0,3.0,h
+S2223-G0109,1,00:21.300000,MIA,,SAC,,D. Robinson,MIA,SUB: Martin FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0109,2,10:30,MIA,,SAC,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0109,2,10:11,MIA,,SAC,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0109,2,07:54,MIA,,SAC,,D. Robinson,MIA,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,195,172,26,1,3.0,0.0,h
+S2223-G0109,2,06:31,MIA,,SAC,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0109,2,00:57.300000,MIA,,SAC,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0109,3,02:49,MIA,,SAC,,D. Robinson,MIA,MISS Robinson 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,29,159,16,1,2.0,0.0,h
+S2223-G0109,3,02:04,MIA,73.0,SAC,74.0,D. Robinson,MIA,Robinson Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0109,3,01:54,MIA,,SAC,,D. Robinson,MIA,MISS Robinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,68,24,1,3.0,0.0,h
+S2223-G0109,3,01:50,MIA,,SAC,,D. Robinson,MIA,MISS Robinson 3PT Jump Shot,Missed Shot,Jump Shot,-234,21,0,1,3.0,0.0,h
+S2223-G0109,3,00:02.200000,MIA,,SAC,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0109,4,10:59,MIA,,SAC,,D. Robinson,MIA,MISS Robinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,68,24,1,3.0,0.0,h
+S2223-G0109,4,09:15,MIA,,SAC,,D. Robinson,MIA,Robinson S.FOUL (P1.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0109,4,08:34,MIA,,SAC,,D. Robinson,MIA,SUB: Herro FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G1132,4,10:36,TOR,87.0,MIA,71.0,D. Robinson,MIA,Robinson Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2223-G1132,4,10:00,TOR,,MIA,,D. Robinson,MIA,MISS Robinson 27' 3PT Jump Shot,Missed Shot,Jump Shot,-195,190,27,1,3.0,0.0,v
+S2223-G1132,4,09:33,TOR,89.0,MIA,76.0,D. Robinson,MIA,Robinson 3PT Jump Shot (4 PTS) (Lowry 1 AST),Made Shot,Jump Shot,233,15,0,1,3.0,3.0,v
+S2223-G1132,4,06:52,TOR,,MIA,,D. Robinson,MIA,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-168,202,26,1,3.0,0.0,v
+S2223-G1132,4,06:47,TOR,,MIA,,D. Robinson,MIA,MISS Robinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,-10,24,1,3.0,0.0,v
+S2223-G0518,1,01:30,MIA,,LAL,,D. Robinson,MIA,D. Robinson S.FOUL (P1.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0518,2,10:51,MIA,35.0,LAL,28.0,D. Robinson,MIA,D. Robinson 1' Cutting Layup Shot (2 PTS) (Butler 1 AST),Made Shot,Cutting Layup Shot,10,7,1,1,2.0,2.0,h
+S2223-G0518,2,10:03,MIA,,LAL,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-181,191,26,1,3.0,0.0,h
+S2223-G0518,2,08:39,MIA,,LAL,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0518,2,07:53,MIA,,LAL,,D. Robinson,MIA,D. Robinson S.FOUL (P2.T2) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0518,2,07:17,MIA,,LAL,,D. Robinson,MIA,SUB: Martin FOR D. Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0518,2,02:47,MIA,,LAL,,D. Robinson,MIA,SUB: Butler FOR D. Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0518,4,10:51,MIA,,LAL,,D. Robinson,MIA,MISS D. Robinson 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-217,126,25,1,3.0,0.0,h
+S2223-G0518,4,09:37,MIA,98.0,LAL,83.0,D. Robinson,MIA,D. Robinson 26' 3PT Jump Shot (5 PTS) (Butler 3 AST),Made Shot,Jump Shot,22,257,26,1,3.0,3.0,h
+S2223-G0518,4,08:30,MIA,101.0,LAL,88.0,D. Robinson,MIA,D. Robinson 26' 3PT Jump Shot (8 PTS) (Oladipo 1 AST),Made Shot,Jump Shot,7,256,26,1,3.0,3.0,h
+S2223-G0518,4,06:48,MIA,,LAL,,D. Robinson,MIA,SUB: Herro FOR D. Robinson,Substitution,,0,0,0,0,,,h
+S2223-G1108,4,01:49,MIA,,BKN,,D. Robinson,MIA,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,151,211,26,1,3.0,0.0,h
+S2223-G0174,1,05:42,MIA,19.0,CHA,12.0,D. Robinson,MIA,Robinson 26' 3PT Pullup Jump Shot (3 PTS) (Butler 2 AST),Made Shot,Pullup Jump shot,147,211,26,1,3.0,3.0,h
+S2223-G0174,1,04:36,MIA,,CHA,,D. Robinson,MIA,Robinson L.B.FOUL (P1.T2) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0174,1,00:42.700000,MIA,,CHA,,D. Robinson,MIA,MISS Robinson Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,h
+S2223-G0174,1,00:42.700000,MIA,31.0,CHA,23.0,D. Robinson,MIA,Robinson Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0174,1,00:42.700000,MIA,32.0,CHA,23.0,D. Robinson,MIA,Robinson Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0174,1,00:03,MIA,,CHA,,D. Robinson,MIA,MISS Robinson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,107,241,26,1,3.0,0.0,h
+S2223-G0174,2,11:39,MIA,,CHA,,D. Robinson,MIA,Robinson P.FOUL (P2.T1) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0174,2,10:58,MIA,34.0,CHA,30.0,D. Robinson,MIA,Robinson 10' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,-2,96,10,1,2.0,2.0,h
+S2223-G0174,2,09:05,MIA,36.0,CHA,32.0,D. Robinson,MIA,Robinson 2' Cutting Layup Shot (9 PTS) (Adebayo 2 AST),Made Shot,Cutting Layup Shot,-20,8,2,1,2.0,2.0,h
+S2223-G0174,2,07:21,MIA,43.0,CHA,32.0,D. Robinson,MIA,Robinson 5' Driving Floating Jump Shot (11 PTS) (Adebayo 4 AST),Made Shot,Driving Floating Jump Shot,1,52,5,1,2.0,2.0,h
+S2223-G0174,2,05:27,MIA,,CHA,,D. Robinson,MIA,MISS Robinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,4,24,1,3.0,0.0,h
+S2223-G0174,2,03:52,MIA,,CHA,,D. Robinson,MIA,SUB: Martin FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0174,3,02:48,MIA,,CHA,,D. Robinson,MIA,MISS Robinson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,232,92,25,1,3.0,0.0,h
+S2223-G0174,3,02:27,MIA,79.0,CHA,71.0,D. Robinson,MIA,Robinson 24' 3PT Jump Shot (14 PTS) (Martin 2 AST),Made Shot,Jump Shot,237,22,24,1,3.0,3.0,h
+S2223-G0174,3,01:19,MIA,,CHA,,D. Robinson,MIA,MISS Robinson 10' Floating Jump Shot,Missed Shot,Floating Jump shot,44,88,10,1,2.0,0.0,h
+S2223-G0174,4,09:45,MIA,,CHA,,D. Robinson,MIA,Robinson S.FOUL (P3.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0174,4,09:36,MIA,,CHA,,D. Robinson,MIA,MISS Robinson 28' 3PT Jump Shot,Missed Shot,Jump Shot,197,193,28,1,3.0,0.0,h
+S2223-G0174,4,09:22,MIA,,CHA,,D. Robinson,MIA,SUB: Lowry FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0031,1,00:50.600000,MIA,38.0,TOR,30.0,D. Robinson,MIA,Robinson 28' 3PT Running Pull-Up Jump Shot (3 PTS) (Adebayo 1 AST),Made Shot,Running Pull-Up Jump Shot,28,277,28,1,3.0,3.0,h
+S2223-G0031,2,11:34,MIA,,TOR,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0031,2,10:59,MIA,41.0,TOR,33.0,D. Robinson,MIA,Robinson 28' 3PT Jump Shot (6 PTS) (Strus 1 AST),Made Shot,Jump Shot,-118,253,28,1,3.0,3.0,h
+S2223-G0031,2,09:45,MIA,,TOR,,D. Robinson,MIA,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-183,178,26,1,3.0,0.0,h
+S2223-G0031,2,08:42,MIA,,TOR,,D. Robinson,MIA,Robinson P.FOUL (P1.T1) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0031,2,07:18,MIA,,TOR,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0031,2,06:32,MIA,,TOR,,D. Robinson,MIA,SUB: Herro FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0031,4,11:39,MIA,,TOR,,D. Robinson,MIA,Robinson P.FOUL (P2.T1) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2223-G0031,4,09:05,MIA,,TOR,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0031,4,08:03,MIA,,TOR,,D. Robinson,MIA,Robinson P.FOUL (P3.T2) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2223-G0031,4,07:03,MIA,101.0,TOR,92.0,D. Robinson,MIA,Robinson 11' Floating Jump Shot (8 PTS) (Lowry 5 AST),Made Shot,Floating Jump shot,-22,109,11,1,2.0,2.0,h
+S2223-G0031,4,06:34,MIA,,TOR,,D. Robinson,MIA,MISS Robinson 5' Driving Layup,Missed Shot,Driving Layup Shot,36,41,5,1,2.0,0.0,h
+S2223-G0031,4,06:34,MIA,,TOR,,D. Robinson,MIA,SUB: Butler FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G1138,1,02:15,NYK,17.0,MIA,23.0,D. Robinson,MIA,Robinson 3PT Jump Shot (3 PTS) (Oladipo 1 AST),Made Shot,Jump Shot,-232,1,0,1,3.0,3.0,v
+S2223-G1138,2,10:42,NYK,19.0,MIA,28.0,D. Robinson,MIA,Robinson 24' 3PT Jump Shot (6 PTS) (Oladipo 2 AST),Made Shot,Jump Shot,-237,-1,24,1,3.0,3.0,v
+S2223-G1138,2,09:38,NYK,,MIA,,D. Robinson,MIA,Robinson OFF.Foul (P1) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,v
+S2223-G1138,2,09:38,NYK,,MIA,,D. Robinson,MIA,Robinson Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1138,2,08:16,NYK,,MIA,,D. Robinson,MIA,Robinson S.FOUL (P2.T3) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2223-G1138,2,06:25,NYK,31.0,MIA,35.0,D. Robinson,MIA,Robinson 25' 3PT Running Jump Shot (9 PTS) (Oladipo 3 AST),Made Shot,Running Jump Shot,-188,169,25,1,3.0,3.0,v
+S2223-G1138,2,04:57,NYK,,MIA,,D. Robinson,MIA,Robinson Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1138,3,03:39,NYK,,MIA,,D. Robinson,MIA,MISS Robinson 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-205,148,25,1,3.0,0.0,v
+S2223-G1138,3,03:05,NYK,66.0,MIA,67.0,D. Robinson,MIA,Robinson 26' 3PT Pullup Jump Shot (12 PTS) (Zeller 1 AST),Made Shot,Pullup Jump shot,-12,263,26,1,3.0,3.0,v
+S2223-G1138,4,11:45,NYK,,MIA,,D. Robinson,MIA,MISS Robinson 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-29,67,7,1,2.0,0.0,v
+S2223-G1138,4,11:31,NYK,,MIA,,D. Robinson,MIA,MISS Robinson 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,93,233,25,1,3.0,0.0,v
+S2223-G1138,4,05:40,NYK,,MIA,,D. Robinson,MIA,Robinson S.FOUL (P3.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G1138,4,05:05,NYK,,MIA,,D. Robinson,MIA,Robinson Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1138,4,05:02,NYK,,MIA,,D. Robinson,MIA,SUB: Herro FOR Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0904,1,00:44.200000,CHA,,MIA,,D. Robinson,MIA,MISS Robinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,228,69,24,1,3.0,0.0,v
+S2223-G0904,2,09:20,CHA,,MIA,,D. Robinson,MIA,Robinson S.FOUL (P1.T2) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0904,2,09:20,CHA,,MIA,,D. Robinson,MIA,SUB: Herro FOR Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0007,1,01:09,,,CHI,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0007,2,11:37,,36.0,CHI,28.0,D. Robinson,MIA,Robinson 26' 3PT Jump Shot (3 PTS) (Butler 2 AST),Made Shot,Jump Shot,-6,262,26,1,3.0,3.0,h
+S2223-G0007,2,10:52,,,CHI,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0007,2,10:11,,,CHI,,D. Robinson,MIA,MISS Robinson 27' 3PT Jump Shot,Missed Shot,Jump Shot,-192,186,27,1,3.0,0.0,h
+S2223-G0007,2,08:40,,,CHI,,D. Robinson,MIA,Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0007,2,08:07,,,CHI,,D. Robinson,MIA,MISS Robinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,6,24,1,3.0,0.0,h
+S2223-G0007,2,07:11,,,CHI,,D. Robinson,MIA,SUB: Martin FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0007,4,11:23,,,CHI,,D. Robinson,MIA,Robinson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0007,4,10:00,,,CHI,,D. Robinson,MIA,Robinson S.FOUL (P1.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0007,4,09:36,,92.0,CHI,100.0,D. Robinson,MIA,Robinson 11' Driving Floating Bank Jump Shot (5 PTS) (Dedmon 1 AST),Made Shot,Driving Floating Bank Jump Shot,74,77,11,1,2.0,2.0,h
+S2223-G0007,4,08:31,,,CHI,,D. Robinson,MIA,SUB: Lowry FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0314,2,10:58,BOS,,MIA,,D. Robinson,MIA,Robinson S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0314,2,10:13,BOS,42.0,MIA,43.0,D. Robinson,MIA,Robinson 27' 3PT Pullup Jump Shot (3 PTS) (Adebayo 3 AST),Made Shot,Pullup Jump shot,13,266,27,1,3.0,3.0,v
+S2223-G0314,2,06:55,BOS,,MIA,,D. Robinson,MIA,Robinson S.FOUL (P2.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0314,2,06:14,BOS,,MIA,,D. Robinson,MIA,Robinson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0314,2,05:09,BOS,,MIA,,D. Robinson,MIA,Robinson S.FOUL (P3.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0314,2,05:09,BOS,,MIA,,D. Robinson,MIA,SUB: Strus FOR Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0314,4,11:46,BOS,,MIA,,D. Robinson,MIA,Robinson STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0314,4,11:13,BOS,,MIA,,D. Robinson,MIA,Robinson STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0314,4,07:09,BOS,,MIA,,D. Robinson,MIA,SUB: Strus FOR Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0045,1,04:46,MIA,,TOR,,D. Robinson,MIA,Robinson S.FOUL (P1.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0045,1,04:26,MIA,,TOR,,D. Robinson,MIA,MISS Robinson 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,233,74,24,1,3.0,0.0,h
+S2223-G0045,1,04:03,MIA,,TOR,,D. Robinson,MIA,MISS Robinson 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-9,157,16,1,2.0,0.0,h
+S2223-G0045,1,03:46,MIA,,TOR,,D. Robinson,MIA,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-169,193,26,1,3.0,0.0,h
+S2223-G0045,2,11:41,MIA,24.0,TOR,27.0,D. Robinson,MIA,Robinson Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0045,2,10:18,MIA,,TOR,,D. Robinson,MIA,MISS Robinson 28' 3PT Jump Shot,Missed Shot,Jump Shot,-89,267,28,1,3.0,0.0,h
+S2223-G0045,2,09:55,MIA,30.0,TOR,34.0,D. Robinson,MIA,Robinson 24' 3PT Jump Shot (4 PTS) (Vincent 3 AST),Made Shot,Jump Shot,-243,19,24,1,3.0,3.0,h
+S2223-G0045,2,08:24,MIA,,TOR,,D. Robinson,MIA,Robinson S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0045,2,08:24,MIA,,TOR,,D. Robinson,MIA,SUB: Lowry FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0045,3,01:32,MIA,,TOR,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0045,3,00:57.300000,MIA,74.0,TOR,68.0,D. Robinson,MIA,Robinson 26' 3PT Pullup Jump Shot (7 PTS) (Butler 4 AST),Made Shot,Pullup Jump shot,229,116,26,1,3.0,3.0,h
+S2223-G0045,4,11:39,MIA,78.0,TOR,71.0,D. Robinson,MIA,Robinson 3' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,-31,-1,3,1,2.0,2.0,h
+S2223-G0045,4,10:05,MIA,,TOR,,D. Robinson,MIA,Robinson P.FOUL (P3.T1) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2223-G0045,4,09:30,MIA,81.0,TOR,73.0,D. Robinson,MIA,Robinson 29' 3PT Jump Shot (12 PTS) (Herro 4 AST),Made Shot,Jump Shot,126,258,29,1,3.0,3.0,h
+S2223-G0045,4,08:21,MIA,,TOR,,D. Robinson,MIA,Robinson S.FOUL (P4.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0045,4,08:00,MIA,,TOR,,D. Robinson,MIA,SUB: Strus FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G1204,1,11:21,WAS,,MIA,,D. Robinson,MIA,MISS D. Robinson 27' 3PT Jump Shot,Missed Shot,Jump Shot,185,200,27,1,3.0,0.0,v
+S2223-G1204,1,10:32,WAS,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,1,09:30,WAS,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,1,08:04,WAS,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P1.T1) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2223-G1204,1,06:50,WAS,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,1,06:34,WAS,,MIA,,D. Robinson,MIA,MISS D. Robinson 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-241,43,24,1,3.0,0.0,v
+S2223-G1204,1,03:39,WAS,,MIA,,D. Robinson,MIA,SUB: Martin FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G1204,1,01:44,WAS,,MIA,,D. Robinson,MIA,MISS D. Robinson 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-10,61,6,1,2.0,0.0,v
+S2223-G1204,1,00:08.500000,WAS,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P2.T4) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G1204,2,11:00,WAS,28.0,MIA,25.0,D. Robinson,MIA,D. Robinson 8' Driving Floating Bank Jump Shot (2 PTS) (Yurtseven 1 AST),Made Shot,Driving Floating Bank Jump Shot,55,63,8,1,2.0,2.0,v
+S2223-G1204,2,10:36,WAS,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,2,10:08,WAS,,MIA,,D. Robinson,MIA,D. Robinson P.FOUL (P3.T1) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2223-G1204,2,08:00,WAS,,MIA,,D. Robinson,MIA,SUB: Highsmith FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G1204,3,11:08,WAS,,MIA,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,178,183,26,1,3.0,0.0,v
+S2223-G1204,3,08:32,WAS,,MIA,,D. Robinson,MIA,D. Robinson AWAY.FROM.PLAY.FOUL (P4.T3) (R.Mott),Foul,Away From Play,0,0,0,0,,,v
+S2223-G1204,3,07:42,WAS,,MIA,,D. Robinson,MIA,MISS D. Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,154,201,25,1,3.0,0.0,v
+S2223-G1204,3,07:23,WAS,,MIA,,D. Robinson,MIA,D. Robinson Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1204,3,05:01,WAS,,MIA,,D. Robinson,MIA,SUB: Martin FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G1204,4,11:45,WAS,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P5.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G1204,4,11:34,WAS,92.0,MIA,74.0,D. Robinson,MIA,D. Robinson 29' 3PT Pullup Jump Shot (5 PTS) (O. Robinson 1 AST),Made Shot,Pullup Jump shot,-161,237,29,1,3.0,3.0,v
+S2223-G1204,4,10:48,WAS,,MIA,,D. Robinson,MIA,D. Robinson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1204,4,10:17,WAS,,MIA,,D. Robinson,MIA,D. Robinson Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1204,4,07:42,WAS,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,4,07:21,WAS,,MIA,,D. Robinson,MIA,MISS D. Robinson 29' 3PT Jump Shot,Missed Shot,Jump Shot,-48,285,29,1,3.0,0.0,v
+S2223-G1204,4,07:16,WAS,,MIA,,D. Robinson,MIA,D. Robinson OFF.Foul (P6) (C.Kirkland),Foul,Offensive,0,0,0,0,,,v
+S2223-G1204,4,07:16,WAS,,MIA,,D. Robinson,MIA,D. Robinson Offensive Foul Turnover (P3.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1204,4,07:16,WAS,,MIA,,D. Robinson,MIA,SUB: Yurtseven FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0546,1,02:45,UTA,23.0,MIA,24.0,D. Robinson,MIA,D. Robinson 24' 3PT Jump Shot (3 PTS) (Adebayo 3 AST),Made Shot,Jump Shot,-32,241,24,1,3.0,3.0,v
+S2223-G0546,1,01:44,UTA,,MIA,,D. Robinson,MIA,MISS D. Robinson 3PT Jump Shot,Missed Shot,Jump Shot,-219,36,0,1,3.0,0.0,v
+S2223-G0546,1,01:33,UTA,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0546,2,09:08,UTA,,MIA,,D. Robinson,MIA,MISS D. Robinson 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-76,51,9,1,2.0,0.0,v
+S2223-G0546,2,09:06,UTA,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0546,2,08:30,UTA,40.0,MIA,42.0,D. Robinson,MIA,D. Robinson 3' Layup (5 PTS) (Adebayo 4 AST),Made Shot,Layup Shot,-26,-2,3,1,2.0,2.0,v
+S2223-G0546,2,08:30,UTA,40.0,MIA,43.0,D. Robinson,MIA,D. Robinson Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0546,2,07:43,UTA,43.0,MIA,45.0,D. Robinson,MIA,D. Robinson 8' Driving Floating Jump Shot (8 PTS) (Vincent 2 AST),Made Shot,Driving Floating Jump Shot,1,80,8,1,2.0,2.0,v
+S2223-G0546,2,07:33,UTA,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P1.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0546,2,02:07,UTA,,MIA,,D. Robinson,MIA,MISS D. Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,164,190,25,1,3.0,0.0,v
+S2223-G0546,2,01:45,UTA,,MIA,,D. Robinson,MIA,SUB: Vincent FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0546,3,00:58.200000,UTA,,MIA,,D. Robinson,MIA,MISS D. Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,184,169,25,1,3.0,0.0,v
+S2223-G0546,3,00:02.800000,UTA,,MIA,,D. Robinson,MIA,SUB: Highsmith FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0546,4,11:49,UTA,98.0,MIA,97.0,D. Robinson,MIA,D. Robinson Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0546,4,07:06,UTA,,MIA,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-29,262,26,1,3.0,0.0,v
+S2223-G0546,4,06:44,UTA,,MIA,,D. Robinson,MIA,D. Robinson P.FOUL (P2.T1) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2223-G0546,4,06:15,UTA,,MIA,,D. Robinson,MIA,SUB: Strus FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0244,1,00:53,CLE,,MIA,,D. Robinson,MIA,D. Robinson Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0244,2,11:35,CLE,28.0,MIA,30.0,D. Robinson,MIA,D. Robinson 26' 3PT Jump Shot (3 PTS) (Adebayo 2 AST),Made Shot,Jump Shot,-151,216,26,1,3.0,3.0,v
+S2223-G0244,2,08:43,CLE,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P1.T4) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0244,2,07:49,CLE,,MIA,,D. Robinson,MIA,SUB: Jovic FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0244,2,01:51,CLE,,MIA,,D. Robinson,MIA,D. Robinson Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0244,2,01:15,CLE,,MIA,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,114,231,26,1,3.0,0.0,v
+S2223-G0244,2,01:10,CLE,56.0,MIA,42.0,D. Robinson,MIA,D. Robinson 2' Cutting Layup Shot (5 PTS) (Adebayo 3 AST),Made Shot,Cutting Layup Shot,1,15,2,1,2.0,2.0,v
+S2223-G0244,2,00:07.800000,CLE,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0244,3,03:14,CLE,,MIA,,D. Robinson,MIA,MISS D. Robinson 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,9,125,13,1,2.0,0.0,v
+S2223-G0244,3,01:44,CLE,,MIA,,D. Robinson,MIA,D. Robinson L.B.FOUL (P2.T2) (S.Foster),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0244,4,11:01,CLE,,MIA,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,20,262,26,1,3.0,0.0,v
+S2223-G0244,4,10:13,CLE,,MIA,,D. Robinson,MIA,D. Robinson P.FOUL (P3.T1) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2223-G0244,4,09:53,CLE,98.0,MIA,68.0,D. Robinson,MIA,D. Robinson 2' Driving Reverse Layup (7 PTS) (Jovic 4 AST),Made Shot,Driving Reverse Layup Shot,1,15,2,1,2.0,2.0,v
+S2223-G0244,4,09:33,CLE,,MIA,,D. Robinson,MIA,SUB: Cain FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0897,1,00:09.200000,MIL,,MIA,,D. Robinson,MIA,Robinson S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0897,1,00:02.200000,MIL,,MIA,,D. Robinson,MIA,MISS Robinson 27' 3PT Jump Shot,Missed Shot,Jump Shot,97,252,27,1,3.0,0.0,v
+S2223-G0897,2,11:30,MIL,,MIA,,D. Robinson,MIA,MISS Robinson 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,228,59,24,1,3.0,0.0,v
+S2223-G0897,2,09:08,MIL,,MIA,,D. Robinson,MIA,Robinson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0897,2,08:41,MIL,,MIA,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0897,2,07:51,MIL,,MIA,,D. Robinson,MIA,SUB: Vincent FOR Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0897,4,09:45,MIL,,MIA,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0897,4,09:14,MIL,,MIA,,D. Robinson,MIA,MISS Robinson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-138,229,27,1,3.0,0.0,v
+S2223-G0897,4,08:53,MIL,101.0,MIA,83.0,D. Robinson,MIA,Robinson 29' 3PT Pullup Jump Shot (3 PTS) (Zeller 3 AST),Made Shot,Pullup Jump shot,75,276,29,1,3.0,3.0,v
+S2223-G0897,4,04:43,MIL,,MIA,,D. Robinson,MIA,MISS Robinson 29' 3PT Jump Shot,Missed Shot,Jump Shot,-9,285,29,1,3.0,0.0,v
+S2223-G0897,4,04:11,MIL,,MIA,,D. Robinson,MIA,Robinson Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0897,4,02:29,MIL,,MIA,,D. Robinson,MIA,MISS Robinson 28' 3PT Jump Shot,Missed Shot,Jump Shot,15,282,28,1,3.0,0.0,v
+S2223-G0897,4,01:49,MIL,,MIA,,D. Robinson,MIA,Robinson STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0897,4,01:46,MIL,,MIA,,D. Robinson,MIA,Robinson Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0897,4,01:42,MIL,,MIA,,D. Robinson,MIA,Robinson STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0878,1,03:31,BKN,,MIA,,D. Robinson,MIA,D. Robinson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0878,1,03:12,BKN,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P1.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0878,1,02:59,BKN,,MIA,,D. Robinson,MIA,MISS D. Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,172,177,25,1,3.0,0.0,v
+S2223-G0878,1,02:55,BKN,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0878,2,11:24,BKN,,MIA,,D. Robinson,MIA,MISS D. Robinson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-72,241,25,1,3.0,0.0,v
+S2223-G0878,2,07:32,BKN,,MIA,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,2,256,26,1,3.0,0.0,v
+S2223-G0878,2,06:34,BKN,,MIA,,D. Robinson,MIA,D. Robinson P.FOUL (P2.T3) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2223-G0878,2,06:21,BKN,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0878,2,04:57,BKN,42.0,MIA,46.0,D. Robinson,MIA,D. Robinson 25' 3PT Pullup Jump Shot (3 PTS) (Butler 2 AST),Made Shot,Pullup Jump shot,92,235,25,1,3.0,3.0,v
+S2223-G0878,2,04:34,BKN,,MIA,,D. Robinson,MIA,D. Robinson P.FOUL (P3.T4) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2223-G0878,2,04:34,BKN,,MIA,,D. Robinson,MIA,SUB: Strus FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0878,3,03:02,BKN,,MIA,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-121,231,26,1,3.0,0.0,v
+S2223-G0878,3,01:57,BKN,,MIA,,D. Robinson,MIA,SUB: Bouyea FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0878,3,00:02.700000,BKN,,MIA,,D. Robinson,MIA,SUB: Martin FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0878,4,11:21,BKN,,MIA,,D. Robinson,MIA,D. Robinson P.FOUL (P4.T1) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2223-G0878,4,11:10,BKN,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0878,4,08:05,BKN,90.0,MIA,89.0,D. Robinson,MIA,D. Robinson 26' 3PT Jump Shot (6 PTS) (Adebayo 5 AST),Made Shot,Jump Shot,4,258,26,1,3.0,3.0,v
+S2223-G0878,4,07:04,BKN,,MIA,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-118,233,26,1,3.0,0.0,v
+S2223-G0878,4,05:31,BKN,,MIA,,D. Robinson,MIA,SUB: Strus FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0439,1,03:43,SAS,,MIA,,D. Robinson,MIA,D. Robinson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0439,1,03:08,SAS,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P1.PN) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2223-G0439,2,11:26,SAS,,MIA,,D. Robinson,MIA,MISS D. Robinson 3PT Jump Shot,Missed Shot,Jump Shot,224,-17,0,1,3.0,0.0,v
+S2223-G0439,2,10:52,SAS,,MIA,,D. Robinson,MIA,D. Robinson P.FOUL (P2.T1) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2223-G0439,2,10:41,SAS,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0439,2,10:19,SAS,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0439,2,09:43,SAS,,MIA,,D. Robinson,MIA,MISS D. Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,175,178,25,1,3.0,0.0,v
+S2223-G0439,2,08:07,SAS,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P3.T4) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0439,2,08:07,SAS,,MIA,,D. Robinson,MIA,SUB: Strus FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0439,3,03:42,SAS,74.0,MIA,71.0,D. Robinson,MIA,D. Robinson 26' 3PT Jump Shot (3 PTS) (Butler 4 AST),Made Shot,Jump Shot,154,214,26,1,3.0,3.0,v
+S2223-G0439,3,00:39.100000,SAS,82.0,MIA,80.0,D. Robinson,MIA,D. Robinson 20' Jump Shot (5 PTS) (Herro 6 AST),Made Shot,Jump Shot,-197,-7,20,1,2.0,2.0,v
+S2223-G0439,4,10:31,SAS,86.0,MIA,87.0,D. Robinson,MIA,D. Robinson 26' 3PT Pullup Jump Shot (8 PTS) (Adebayo 3 AST),Made Shot,Pullup Jump shot,50,257,26,1,3.0,3.0,v
+S2223-G0439,4,10:31,SAS,86.0,MIA,88.0,D. Robinson,MIA,D. Robinson Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0439,4,10:00,SAS,,MIA,,D. Robinson,MIA,MISS D. Robinson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-138,232,27,1,3.0,0.0,v
+S2223-G0439,4,07:42,SAS,88.0,MIA,95.0,D. Robinson,MIA,D. Robinson 27' 3PT Jump Shot (12 PTS) (Herro 7 AST),Made Shot,Jump Shot,-99,251,27,1,3.0,3.0,v
+S2223-G0439,4,07:27,SAS,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P4.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0439,4,05:34,SAS,,MIA,,D. Robinson,MIA,MISS D. Robinson 2' Floating Jump Shot,Missed Shot,Floating Jump shot,-7,19,2,1,2.0,0.0,v
+S2223-G0439,4,04:52,SAS,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P5.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0439,4,04:25,SAS,,MIA,,D. Robinson,MIA,D. Robinson STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0419,1,00:28.600000,OKC,31.0,MIA,31.0,D. Robinson,MIA,D. Robinson 3PT Jump Shot (3 PTS) (Herro 1 AST),Made Shot,Jump Shot,229,-29,0,1,3.0,3.0,v
+S2223-G0419,2,11:45,OKC,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0419,2,11:35,OKC,,MIA,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-174,194,26,1,3.0,0.0,v
+S2223-G0419,2,08:40,OKC,33.0,MIA,45.0,D. Robinson,MIA,D. Robinson 25' 3PT Jump Shot (6 PTS) (Herro 2 AST),Made Shot,Jump Shot,58,239,25,1,3.0,3.0,v
+S2223-G0419,2,07:37,OKC,,MIA,,D. Robinson,MIA,D. Robinson Violation:Kicked Ball (B.Barnaky),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0419,2,04:10,OKC,,MIA,,D. Robinson,MIA,MISS D. Robinson 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,227,76,24,1,3.0,0.0,v
+S2223-G0419,2,03:35,OKC,40.0,MIA,61.0,D. Robinson,MIA,D. Robinson 25' 3PT Jump Shot (9 PTS) (Lowry 3 AST),Made Shot,Jump Shot,-197,152,25,1,3.0,3.0,v
+S2223-G0419,2,01:15,OKC,,MIA,,D. Robinson,MIA,SUB: Herro FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0419,3,03:13,OKC,78.0,MIA,80.0,D. Robinson,MIA,D. Robinson 26' 3PT Jump Shot (12 PTS) (Highsmith 2 AST),Made Shot,Jump Shot,135,226,26,1,3.0,3.0,v
+S2223-G0419,3,02:05,OKC,,MIA,,D. Robinson,MIA,D. Robinson Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0419,3,00:28.200000,OKC,,MIA,,D. Robinson,MIA,MISS D. Robinson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,148,227,27,1,3.0,0.0,v
+S2223-G0419,4,11:30,OKC,,MIA,,D. Robinson,MIA,MISS D. Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-168,187,25,1,3.0,0.0,v
+S2223-G0419,4,08:47,OKC,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P1.T2) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2223-G0419,4,07:52,OKC,93.0,MIA,89.0,D. Robinson,MIA,D. Robinson Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0419,4,07:52,OKC,93.0,MIA,90.0,D. Robinson,MIA,D. Robinson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0419,4,07:12,OKC,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P2.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G0419,4,06:47,OKC,,MIA,,D. Robinson,MIA,SUB: Lowry FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0419,4,00:04.900000,OKC,,MIA,,D. Robinson,MIA,SUB: Highsmith FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0462,1,03:48,MIA,17.0,CHI,20.0,D. Robinson,MIA,D. Robinson 24' 3PT Jump Shot (3 PTS) (Herro 3 AST),Made Shot,Jump Shot,-238,54,24,1,3.0,3.0,h
+S2223-G0462,1,02:55,MIA,,CHI,,D. Robinson,MIA,D. Robinson Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0462,1,02:28,MIA,,CHI,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-240,90,26,1,3.0,0.0,h
+S2223-G0462,1,00:45,MIA,,CHI,,D. Robinson,MIA,MISS D. Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-21,252,25,1,3.0,0.0,h
+S2223-G0462,2,11:26,MIA,,CHI,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0462,2,11:20,MIA,,CHI,,D. Robinson,MIA,MISS D. Robinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,185,155,24,1,3.0,0.0,h
+S2223-G0462,2,10:56,MIA,,CHI,,D. Robinson,MIA,MISS D. Robinson 29' 3PT Jump Shot,Missed Shot,Jump Shot,-129,256,29,1,3.0,0.0,h
+S2223-G0462,2,08:36,MIA,,CHI,,D. Robinson,MIA,D. Robinson Violation:Kicked Ball (M.Ervin),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0462,2,07:38,MIA,,CHI,,D. Robinson,MIA,D. Robinson Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0462,2,06:32,MIA,34.0,CHI,35.0,D. Robinson,MIA,D. Robinson 3PT Step Back Jump Shot (6 PTS) (Strus 3 AST),Made Shot,Step Back Jump shot,228,36,0,1,3.0,3.0,h
+S2223-G0462,2,05:08,MIA,41.0,CHI,35.0,D. Robinson,MIA,D. Robinson 25' 3PT Jump Shot (9 PTS) (Adebayo 3 AST),Made Shot,Jump Shot,49,250,25,1,3.0,3.0,h
+S2223-G0462,2,03:02,MIA,,CHI,,D. Robinson,MIA,D. Robinson S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0462,2,00:06.900000,MIA,57.0,CHI,51.0,D. Robinson,MIA,D. Robinson 26' 3PT Jump Shot (12 PTS) (Herro 4 AST),Made Shot,Jump Shot,-208,160,26,1,3.0,3.0,h
+S2223-G0462,2,00:01.200000,MIA,,CHI,,D. Robinson,MIA,D. Robinson S.FOUL (P2.T4) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0462,3,05:08,MIA,,CHI,,D. Robinson,MIA,D. Robinson Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0462,3,01:35,MIA,,CHI,,D. Robinson,MIA,MISS D. Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-190,158,25,1,3.0,0.0,h
+S2223-G0462,3,00:59.800000,MIA,,CHI,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0462,4,11:24,MIA,,CHI,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,17,260,26,1,3.0,0.0,h
+S2223-G0462,4,10:46,MIA,,CHI,,D. Robinson,MIA,MISS D. Robinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,11,24,1,3.0,0.0,h
+S2223-G0462,4,07:33,MIA,,CHI,,D. Robinson,MIA,D. Robinson S.FOUL (P3.T3) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0462,4,05:25,MIA,,CHI,,D. Robinson,MIA,MISS D. Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0462,4,05:25,MIA,89.0,CHI,100.0,D. Robinson,MIA,D. Robinson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0462,4,04:12,MIA,,CHI,,D. Robinson,MIA,MISS D. Robinson 3PT Jump Shot,Missed Shot,Jump Shot,-233,-8,0,1,3.0,0.0,h
+S2223-G0462,4,01:21,MIA,,CHI,,D. Robinson,MIA,D. Robinson Personal Take Foul (P4.T4) (M.Ervin),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0462,4,00:32.600000,MIA,,CHI,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0065,1,01:48,POR,,MIA,,D. Robinson,MIA,Robinson S.FOUL (P1.PN) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0065,2,11:40,POR,,MIA,,D. Robinson,MIA,Robinson S.FOUL (P2.T1) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0065,2,10:35,POR,,MIA,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0065,2,10:29,POR,33.0,MIA,30.0,D. Robinson,MIA,Robinson 16' Pullup Jump Shot (2 PTS) (Vincent 3 AST),Made Shot,Pullup Jump shot,44,150,16,1,2.0,2.0,v
+S2223-G0065,2,08:05,POR,,MIA,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0065,2,07:50,POR,,MIA,,D. Robinson,MIA,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-191,174,26,1,3.0,0.0,v
+S2223-G0065,2,07:30,POR,,MIA,,D. Robinson,MIA,SUB: Lowry FOR Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0065,4,11:27,POR,81.0,MIA,97.0,D. Robinson,MIA,Robinson 25' 3PT Jump Shot (5 PTS) (Martin 3 AST),Made Shot,Jump Shot,75,235,25,1,3.0,3.0,v
+S2223-G0065,4,10:48,POR,,MIA,,D. Robinson,MIA,MISS Robinson 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-151,232,28,1,3.0,0.0,v
+S2223-G0065,4,10:33,POR,,MIA,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0065,4,10:18,POR,,MIA,,D. Robinson,MIA,MISS Robinson 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,33,86,9,1,2.0,0.0,v
+S2223-G0065,4,07:05,POR,,MIA,,D. Robinson,MIA,Robinson Traveling Turnover (P1.T16),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0065,4,05:41,POR,,MIA,,D. Robinson,MIA,MISS Robinson 28' 3PT Jump Shot,Missed Shot,Jump Shot,-4,275,28,1,3.0,0.0,v
+S2223-G0065,4,05:31,POR,,MIA,,D. Robinson,MIA,MISS Robinson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-162,214,27,1,3.0,0.0,v
+S2223-G0121,1,04:55,IND,,MIA,,D. Robinson,MIA,MISS Robinson 29' 3PT Jump Shot,Missed Shot,Jump Shot,98,276,29,1,3.0,0.0,v
+S2223-G0121,1,03:28,IND,,MIA,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0121,1,00:49.400000,IND,,MIA,,D. Robinson,MIA,MISS Robinson 28' 3PT Jump Shot,Missed Shot,Jump Shot,-162,224,28,1,3.0,0.0,v
+S2223-G0121,1,00:41.700000,IND,,MIA,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0121,1,00:28.600000,IND,,MIA,,D. Robinson,MIA,MISS Robinson 28' 3PT Jump Shot,Missed Shot,Jump Shot,-59,271,28,1,3.0,0.0,v
+S2223-G0121,1,00:08.300000,IND,,MIA,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0121,2,09:15,IND,,MIA,,D. Robinson,MIA,Robinson S.FOUL (P1.T3) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0121,2,07:38,IND,,MIA,,D. Robinson,MIA,MISS Robinson 3PT Jump Shot,Missed Shot,Jump Shot,-233,-27,0,1,3.0,0.0,v
+S2223-G0121,2,06:56,IND,,MIA,,D. Robinson,MIA,SUB: Dedmon FOR Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0121,3,02:23,IND,,MIA,,D. Robinson,MIA,MISS Robinson 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-22,280,28,1,3.0,0.0,v
+S2223-G0121,3,00:13.900000,IND,,MIA,,D. Robinson,MIA,SUB: Martin FOR Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0121,3,00:00.100000,IND,,MIA,,D. Robinson,MIA,MISS Robinson 27' 3PT Jump Shot,Missed Shot,Jump Shot,115,242,27,1,3.0,0.0,v
+S2223-G0121,4,08:51,IND,,MIA,,D. Robinson,MIA,MISS Robinson 2' Driving Layup,Missed Shot,Driving Layup Shot,5,15,2,1,2.0,0.0,v
+S2223-G0121,4,08:45,IND,,MIA,,D. Robinson,MIA,SUB: Martin FOR Robinson,Substitution,,0,0,0,0,,,v
+S2223-G1161,1,02:03,MIA,,DAL,,D. Robinson,MIA,Robinson P.FOUL (P1.T3) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2223-G1161,1,01:48,MIA,,DAL,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1161,1,00:00.800000,MIA,,DAL,,D. Robinson,MIA,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-175,188,26,1,3.0,0.0,h
+S2223-G0361,1,02:25,MIA,,DET,,D. Robinson,MIA,Robinson S.FOUL (P1.T3) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0361,2,11:40,MIA,,DET,,D. Robinson,MIA,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,180,176,25,1,3.0,0.0,h
+S2223-G0361,2,11:09,MIA,,DET,,D. Robinson,MIA,MISS Robinson 9' Hook Bank Shot,Missed Shot,Hook Bank Shot,93,14,9,1,2.0,0.0,h
+S2223-G0361,2,10:28,MIA,,DET,,D. Robinson,MIA,Robinson Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0361,2,08:37,MIA,,DET,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0361,2,07:28,MIA,,DET,,D. Robinson,MIA,Robinson S.FOUL (P2.T3) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G0361,2,07:20,MIA,,DET,,D. Robinson,MIA,MISS Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-140,209,25,1,3.0,0.0,h
+S2223-G0361,2,07:04,MIA,,DET,,D. Robinson,MIA,SUB: Strus FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0361,3,00:16.100000,MIA,,DET,,D. Robinson,MIA,SUB: Martin FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0361,4,09:43,MIA,,DET,,D. Robinson,MIA,Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0361,4,09:43,MIA,77.0,DET,82.0,D. Robinson,MIA,Robinson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0361,4,09:43,MIA,78.0,DET,82.0,D. Robinson,MIA,Robinson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0361,4,08:26,MIA,,DET,,D. Robinson,MIA,SUB: Adebayo FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0361,4,01:21,MIA,93.0,DET,112.0,D. Robinson,MIA,Robinson 27' 3PT Jump Shot (5 PTS) (Highsmith 1 AST),Made Shot,Jump Shot,-154,217,27,1,3.0,3.0,h
+S2223-G1198,4,03:25,PHI,92.0,MIA,124.0,D. Robinson,MIA,Robinson 7' Fadeaway Jumper (2 PTS) (Martin 4 AST),Made Shot,Fadeaway Jump Shot,-58,47,7,1,2.0,2.0,v
+S2223-G1198,4,01:39,PHI,,MIA,,D. Robinson,MIA,MISS Robinson 27' 3PT Jump Shot,Missed Shot,Jump Shot,-71,261,27,1,3.0,0.0,v
+S2223-G1198,4,00:58.600000,PHI,96.0,MIA,127.0,D. Robinson,MIA,Robinson 26' 3PT Jump Shot (5 PTS) (Martin 5 AST),Made Shot,Jump Shot,7,262,26,1,3.0,3.0,v
+S2223-G0068,1,02:31,GSW,25.0,MIA,23.0,D. Robinson,MIA,Robinson 28' 3PT Jump Shot (3 PTS) (Butler 3 AST),Made Shot,Jump Shot,20,283,28,1,3.0,3.0,v
+S2223-G0068,2,11:22,GSW,,MIA,,D. Robinson,MIA,MISS Robinson 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,181,208,28,1,3.0,0.0,v
+S2223-G0068,2,09:24,GSW,,MIA,,D. Robinson,MIA,MISS Robinson 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,100,56,11,1,2.0,0.0,v
+S2223-G0068,2,09:15,GSW,,MIA,,D. Robinson,MIA,Robinson S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0068,2,09:02,GSW,,MIA,,D. Robinson,MIA,MISS Robinson 27' 3PT Jump Shot,Missed Shot,Jump Shot,183,200,27,1,3.0,0.0,v
+S2223-G0068,2,07:15,GSW,,MIA,,D. Robinson,MIA,MISS Robinson 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,21,74,8,1,2.0,0.0,v
+S2223-G0068,2,06:59,GSW,,MIA,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0068,2,06:39,GSW,,MIA,,D. Robinson,MIA,MISS Robinson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,196,174,26,1,3.0,0.0,v
+S2223-G0068,2,05:57,GSW,,MIA,,D. Robinson,MIA,SUB: Jovic FOR Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0068,4,11:50,GSW,,MIA,,D. Robinson,MIA,MISS Robinson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,48,262,27,1,3.0,0.0,v
+S2223-G0068,4,08:45,GSW,,MIA,,D. Robinson,MIA,SUB: Lowry FOR Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0560,1,01:30,LAC,,MIA,,D. Robinson,MIA,MISS D. Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,216,130,25,1,3.0,0.0,v
+S2223-G0560,1,00:51.800000,LAC,,MIA,,D. Robinson,MIA,D. Robinson Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0560,2,11:47,LAC,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0560,2,11:17,LAC,,MIA,,D. Robinson,MIA,MISS D. Robinson 27' 3PT Jump Shot,Missed Shot,Jump Shot,-132,238,27,1,3.0,0.0,v
+S2223-G0560,2,09:44,LAC,,MIA,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-65,251,26,1,3.0,0.0,v
+S2223-G0560,2,09:38,LAC,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P2.T3) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0560,2,09:38,LAC,,MIA,,D. Robinson,MIA,SUB: Herro FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0022,1,00:06.400000,MIA,,BOS,,D. Robinson,MIA,Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0022,2,08:52,MIA,,BOS,,D. Robinson,MIA,SUB: Herro FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0215,1,01:06,TOR,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0215,1,00:54.300000,TOR,,MIA,,D. Robinson,MIA,MISS D. Robinson 28' 3PT Jump Shot,Missed Shot,Jump Shot,-99,264,28,1,3.0,0.0,v
+S2223-G0215,1,00:02.300000,TOR,,MIA,,D. Robinson,MIA,MISS D. Robinson 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,156,13,16,1,2.0,0.0,v
+S2223-G0215,1,00:02.300000,TOR,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0215,1,00:00.300000,TOR,,MIA,,D. Robinson,MIA,D. Robinson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0215,2,11:33,TOR,,MIA,,D. Robinson,MIA,D. Robinson L.B.FOUL (P1.T1) (M.Myers),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0215,2,08:12,TOR,,MIA,,D. Robinson,MIA,D. Robinson Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0215,2,07:36,TOR,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0215,2,07:10,TOR,,MIA,,D. Robinson,MIA,SUB: Lowry FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0215,4,11:38,TOR,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P2.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0215,4,07:11,TOR,,MIA,,D. Robinson,MIA,SUB: Strus FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0202,1,05:09,MIA,20.0,PHX,17.0,D. Robinson,MIA,Robinson 24' 3PT Jump Shot (3 PTS) (Lowry 3 AST),Made Shot,Jump Shot,-235,32,24,1,3.0,3.0,h
+S2223-G0202,1,04:45,MIA,,PHX,,D. Robinson,MIA,Robinson Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0202,1,03:01,MIA,28.0,PHX,23.0,D. Robinson,MIA,Robinson 25' 3PT Pullup Jump Shot (6 PTS) (Lowry 5 AST),Made Shot,Pullup Jump shot,223,113,25,1,3.0,3.0,h
+S2223-G0202,1,02:02,MIA,,PHX,,D. Robinson,MIA,MISS Robinson 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-227,8,0,1,3.0,0.0,h
+S2223-G0202,1,00:22.300000,MIA,34.0,PHX,29.0,D. Robinson,MIA,Robinson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0202,1,00:22.300000,MIA,35.0,PHX,29.0,D. Robinson,MIA,Robinson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0202,2,09:19,MIA,39.0,PHX,36.0,D. Robinson,MIA,Robinson 7' Driving Floating Jump Shot (10 PTS) (Butler 2 AST),Made Shot,Driving Floating Jump Shot,0,69,7,1,2.0,2.0,h
+S2223-G0202,2,07:53,MIA,,PHX,,D. Robinson,MIA,Robinson Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0202,2,07:40,MIA,,PHX,,D. Robinson,MIA,MISS Robinson 27' 3PT Jump Shot,Missed Shot,Jump Shot,-104,249,27,1,3.0,0.0,h
+S2223-G0202,2,03:09,MIA,,PHX,,D. Robinson,MIA,MISS Robinson 3PT Running Jump Shot,Missed Shot,Running Jump Shot,229,10,0,1,3.0,0.0,h
+S2223-G0202,2,02:18,MIA,,PHX,,D. Robinson,MIA,SUB: Butler FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0202,3,04:41,MIA,,PHX,,D. Robinson,MIA,MISS Robinson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,219,125,25,1,3.0,0.0,h
+S2223-G0081,1,02:57,SAC,23.0,MIA,17.0,D. Robinson,MIA,Robinson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0081,1,02:57,SAC,23.0,MIA,18.0,D. Robinson,MIA,Robinson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0081,1,02:35,SAC,,MIA,,D. Robinson,MIA,Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0081,1,02:35,SAC,,MIA,,D. Robinson,MIA,MISS Robinson Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0081,1,02:12,SAC,,MIA,,D. Robinson,MIA,Robinson S.FOUL (P1.T4) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0081,1,00:02.500000,SAC,,MIA,,D. Robinson,MIA,Robinson S.FOUL (P2.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0081,2,11:20,SAC,,MIA,,D. Robinson,MIA,Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0081,2,11:07,SAC,,MIA,,D. Robinson,MIA,MISS Robinson 23' Jump Shot,Missed Shot,Jump Shot,186,132,23,1,2.0,0.0,v
+S2223-G0081,2,10:26,SAC,,MIA,,D. Robinson,MIA,SUB: Herro FOR Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0500,1,02:05,MIA,,MIN,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0500,1,01:37,MIA,31.0,MIN,24.0,D. Robinson,MIA,D. Robinson 28' 3PT Jump Shot (3 PTS) (Highsmith 1 AST),Made Shot,Jump Shot,164,224,28,1,3.0,3.0,h
+S2223-G0500,2,11:45,MIA,36.0,MIN,31.0,D. Robinson,MIA,D. Robinson 25' 3PT Jump Shot (6 PTS) (O. Robinson 2 AST),Made Shot,Jump Shot,-167,190,25,1,3.0,3.0,h
+S2223-G0500,2,11:26,MIA,,MIN,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0500,2,10:07,MIA,,MIN,,D. Robinson,MIA,MISS D. Robinson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,175,199,27,1,3.0,0.0,h
+S2223-G0500,2,06:15,MIA,,MIN,,D. Robinson,MIA,SUB: Martin FOR D. Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0500,3,01:11,MIA,,MIN,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0500,3,01:05,MIA,89.0,MIN,84.0,D. Robinson,MIA,D. Robinson 26' 3PT Pullup Jump Shot (9 PTS) (Lowry 9 AST),Made Shot,Pullup Jump shot,-218,136,26,1,3.0,3.0,h
+S2223-G0500,3,00:02.600000,MIA,,MIN,,D. Robinson,MIA,MISS D. Robinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,26,24,1,3.0,0.0,h
+S2223-G0500,4,11:45,MIA,,MIN,,D. Robinson,MIA,D. Robinson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0500,4,10:28,MIA,,MIN,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0500,4,08:22,MIA,,MIN,,D. Robinson,MIA,SUB: Herro FOR D. Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0150,1,04:01,MIA,,POR,,D. Robinson,MIA,MISS Robinson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-121,218,25,1,3.0,0.0,h
+S2223-G0150,1,00:39.700000,MIA,,POR,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0150,1,00:27.200000,MIA,,POR,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0150,2,10:39,MIA,33.0,POR,32.0,D. Robinson,MIA,Robinson 31' 3PT Jump Shot (3 PTS) (Lowry 3 AST),Made Shot,Jump Shot,205,231,31,1,3.0,3.0,h
+S2223-G0150,2,09:57,MIA,36.0,POR,32.0,D. Robinson,MIA,Robinson 25' 3PT Step Back Jump Shot (6 PTS) (Strus 1 AST),Made Shot,Step Back Jump shot,196,158,25,1,3.0,3.0,h
+S2223-G0150,2,06:55,MIA,,POR,,D. Robinson,MIA,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,21,262,26,1,3.0,0.0,h
+S2223-G0150,2,06:14,MIA,,POR,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0150,2,04:05,MIA,52.0,POR,45.0,D. Robinson,MIA,Robinson 24' 3PT Jump Shot (9 PTS) (Butler 3 AST),Made Shot,Jump Shot,-232,78,24,1,3.0,3.0,h
+S2223-G0150,2,00:10.800000,MIA,,POR,,D. Robinson,MIA,MISS Robinson 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-210,142,25,1,3.0,0.0,h
+S2223-G0150,2,00:04.400000,MIA,,POR,,D. Robinson,MIA,Robinson P.FOUL (P1.T2) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2223-G0150,2,00:04.400000,MIA,,POR,,D. Robinson,MIA,SUB: Lowry FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0150,3,03:53,MIA,,POR,,D. Robinson,MIA,MISS Robinson 3PT Jump Shot,Missed Shot,Jump Shot,223,55,0,1,3.0,0.0,h
+S2223-G0150,3,02:45,MIA,,POR,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0150,3,02:36,MIA,,POR,,D. Robinson,MIA,Robinson Traveling Turnover (P1.T10),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0150,3,01:36,MIA,,POR,,D. Robinson,MIA,MISS Robinson 29' 3PT Jump Shot,Missed Shot,Jump Shot,-200,210,29,1,3.0,0.0,h
+S2223-G0150,4,10:24,MIA,,POR,,D. Robinson,MIA,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,10,260,26,1,3.0,0.0,h
+S2223-G0150,4,06:09,MIA,,POR,,D. Robinson,MIA,Robinson S.FOUL (P2.T1) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0150,4,06:09,MIA,,POR,,D. Robinson,MIA,SUB: Martin FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0936,4,03:51,MIA,,PHI,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0936,4,01:40,MIA,96.0,PHI,115.0,D. Robinson,MIA,Robinson 27' 3PT Jump Shot (3 PTS) (Martin 1 AST),Made Shot,Jump Shot,-202,184,27,1,3.0,3.0,h
+S2223-G0189,1,02:27,MIA,,CHA,,D. Robinson,MIA,MISS Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-9,258,26,1,3.0,0.0,h
+S2223-G0189,1,01:29,MIA,,CHA,,D. Robinson,MIA,Robinson OFF.Foul (P1) (J.Tiven),Foul,Offensive,0,0,0,0,,,h
+S2223-G0189,1,01:29,MIA,,CHA,,D. Robinson,MIA,Robinson Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0189,1,00:25.300000,MIA,,CHA,,D. Robinson,MIA,MISS Robinson 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,44,22,5,1,2.0,0.0,h
+S2223-G0189,1,00:21.400000,MIA,,CHA,,D. Robinson,MIA,MISS Robinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,33,24,1,3.0,0.0,h
+S2223-G0189,2,09:28,MIA,,CHA,,D. Robinson,MIA,MISS Robinson 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-124,232,26,1,3.0,0.0,h
+S2223-G0189,2,06:51,MIA,,CHA,,D. Robinson,MIA,MISS Robinson 3PT Jump Shot,Missed Shot,Jump Shot,233,10,0,1,3.0,0.0,h
+S2223-G0189,2,04:20,MIA,,CHA,,D. Robinson,MIA,SUB: Adebayo FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0189,3,03:46,MIA,,CHA,,D. Robinson,MIA,MISS Robinson 29' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,200,209,29,1,3.0,0.0,h
+S2223-G0189,3,02:52,MIA,94.0,CHA,76.0,D. Robinson,MIA,Robinson 1' Cutting Layup Shot (2 PTS) (Lowry 8 AST),Made Shot,Cutting Layup Shot,1,6,1,1,2.0,2.0,h
+S2223-G0189,3,02:52,MIA,95.0,CHA,76.0,D. Robinson,MIA,Robinson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0189,3,02:12,MIA,,CHA,,D. Robinson,MIA,MISS Robinson 27' 3PT Jump Shot,Missed Shot,Jump Shot,21,273,27,1,3.0,0.0,h
+S2223-G0189,3,00:31.900000,MIA,,CHA,,D. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0189,4,09:55,MIA,,CHA,,D. Robinson,MIA,Robinson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0189,4,09:04,MIA,108.0,CHA,93.0,D. Robinson,MIA,Robinson 4' Driving Floating Jump Shot (5 PTS) (Butler 7 AST),Made Shot,Driving Floating Jump Shot,5,43,4,1,2.0,2.0,h
+S2223-G0189,4,06:59,MIA,,CHA,,D. Robinson,MIA,SUB: Adebayo FOR Robinson,Substitution,,0,0,0,0,,,h
+S2223-G0424,1,04:59,HOU,,MIA,,D. Robinson,MIA,MISS D. Robinson 27' 3PT Jump Shot,Missed Shot,Jump Shot,213,159,27,1,3.0,0.0,v
+S2223-G0424,1,04:19,HOU,,MIA,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,190,172,26,1,3.0,0.0,v
+S2223-G0424,1,01:33,HOU,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0424,2,10:53,HOU,,MIA,,D. Robinson,MIA,MISS D. Robinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,72,24,1,3.0,0.0,v
+S2223-G0424,2,10:13,HOU,,MIA,,D. Robinson,MIA,D. Robinson S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0424,2,09:12,HOU,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0424,2,06:40,HOU,,MIA,,D. Robinson,MIA,MISS D. Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,164,192,25,1,3.0,0.0,v
+S2223-G0424,2,05:14,HOU,,MIA,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-11,260,26,1,3.0,0.0,v
+S2223-G0424,2,04:06,HOU,43.0,MIA,49.0,D. Robinson,MIA,D. Robinson 26' 3PT Pullup Jump Shot (3 PTS) (Strus 2 AST),Made Shot,Pullup Jump shot,197,172,26,1,3.0,3.0,v
+S2223-G0424,2,03:45,HOU,43.0,MIA,51.0,D. Robinson,MIA,D. Robinson 3' Driving Floating Bank Jump Shot (5 PTS) (O. Robinson 2 AST),Made Shot,Driving Floating Bank Jump Shot,-31,11,3,1,2.0,2.0,v
+S2223-G0424,2,02:48,HOU,,MIA,,D. Robinson,MIA,MISS D. Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-116,227,25,1,3.0,0.0,v
+S2223-G0424,2,02:20,HOU,,MIA,,D. Robinson,MIA,SUB: Herro FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G0424,3,05:37,HOU,,MIA,,D. Robinson,MIA,D. Robinson Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0424,3,04:52,HOU,,MIA,,D. Robinson,MIA,MISS D. Robinson 3PT Running Jump Shot,Missed Shot,Running Jump Shot,232,2,0,1,3.0,0.0,v
+S2223-G0424,3,03:24,HOU,,MIA,,D. Robinson,MIA,D. Robinson Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0424,3,02:51,HOU,,MIA,,D. Robinson,MIA,MISS D. Robinson 28' 3PT Jump Shot,Missed Shot,Jump Shot,110,259,28,1,3.0,0.0,v
+S2223-G0424,4,11:21,HOU,,MIA,,D. Robinson,MIA,MISS D. Robinson 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-230,-5,0,1,3.0,0.0,v
+S2223-G0424,4,11:03,HOU,,MIA,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0424,4,10:26,HOU,,MIA,,D. Robinson,MIA,D. Robinson P.FOUL (P2.T1) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2223-G0424,4,09:27,HOU,91.0,MIA,97.0,D. Robinson,MIA,D. Robinson 26' 3PT Pullup Jump Shot (8 PTS) (Herro 2 AST),Made Shot,Pullup Jump shot,45,260,26,1,3.0,3.0,v
+S2223-G0424,4,09:15,HOU,,MIA,,D. Robinson,MIA,SUB: Strus FOR D. Robinson,Substitution,,0,0,0,0,,,v
+S2223-G1219,1,02:00,MIA,,ORL,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,70,248,26,1,3.0,0.0,h
+S2223-G1219,1,00:57.900000,MIA,,ORL,,D. Robinson,MIA,D. Robinson P.FOUL (P1.PN) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G1219,1,00:00,MIA,,ORL,,D. Robinson,MIA,MISS D. Robinson 32' 3PT Jump Shot,Missed Shot,Jump Shot,142,285,32,1,3.0,0.0,h
+S2223-G1219,2,10:42,MIA,,ORL,,D. Robinson,MIA,MISS D. Robinson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-147,226,27,1,3.0,0.0,h
+S2223-G1219,2,09:14,MIA,,ORL,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,206,151,26,1,3.0,0.0,h
+S2223-G1219,2,08:23,MIA,,ORL,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1219,2,07:11,MIA,36.0,ORL,34.0,D. Robinson,MIA,D. Robinson 26' 3PT Running Pull-Up Jump Shot (3 PTS) (Lowry 3 AST),Made Shot,Running Pull-Up Jump Shot,-195,169,26,1,3.0,3.0,h
+S2223-G1219,2,05:39,MIA,38.0,ORL,36.0,D. Robinson,MIA,D. Robinson 11' Floating Jump Shot (5 PTS) (Oladipo 1 AST),Made Shot,Floating Jump shot,-15,110,11,1,2.0,2.0,h
+S2223-G1219,2,04:37,MIA,,ORL,,D. Robinson,MIA,MISS D. Robinson 28' 3PT Jump Shot,Missed Shot,Jump Shot,108,261,28,1,3.0,0.0,h
+S2223-G1219,2,03:24,MIA,45.0,ORL,42.0,D. Robinson,MIA,D. Robinson 2' Running Layup (7 PTS) (Highsmith 1 AST),Made Shot,Running Layup Shot,21,13,2,1,2.0,2.0,h
+S2223-G1219,2,03:24,MIA,46.0,ORL,42.0,D. Robinson,MIA,D. Robinson Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1219,2,02:19,MIA,,ORL,,D. Robinson,MIA,MISS D. Robinson 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-225,50,0,1,3.0,0.0,h
+S2223-G1219,3,11:44,MIA,,ORL,,D. Robinson,MIA,D. Robinson S.FOUL (P2.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G1219,3,08:51,MIA,61.0,ORL,61.0,D. Robinson,MIA,D. Robinson 7' Driving Floating Jump Shot (10 PTS) (Oladipo 3 AST),Made Shot,Driving Floating Jump Shot,28,63,7,1,2.0,2.0,h
+S2223-G1219,3,08:29,MIA,,ORL,,D. Robinson,MIA,D. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1219,3,07:41,MIA,62.0,ORL,63.0,D. Robinson,MIA,D. Robinson Free Throw 1 of 3 (11 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G1219,3,07:41,MIA,,ORL,,D. Robinson,MIA,MISS D. Robinson Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,h
+S2223-G1219,3,07:41,MIA,63.0,ORL,63.0,D. Robinson,MIA,D. Robinson Free Throw 3 of 3 (12 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G1219,3,07:17,MIA,66.0,ORL,63.0,D. Robinson,MIA,D. Robinson 27' 3PT Jump Shot (15 PTS) (Oladipo 4 AST),Made Shot,Jump Shot,145,225,27,1,3.0,3.0,h
+S2223-G1219,3,06:31,MIA,,ORL,,D. Robinson,MIA,D. Robinson S.FOUL (P3.T2) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G1219,3,06:31,MIA,,ORL,,D. Robinson,MIA,SUB: Cain FOR D. Robinson,Substitution,,0,0,0,0,,,h
+S2223-G1219,4,11:23,MIA,85.0,ORL,86.0,D. Robinson,MIA,D. Robinson Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1219,4,11:23,MIA,86.0,ORL,86.0,D. Robinson,MIA,D. Robinson Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1219,4,09:29,MIA,94.0,ORL,89.0,D. Robinson,MIA,D. Robinson 27' 3PT Running Pull-Up Jump Shot (20 PTS) (Oladipo 8 AST),Made Shot,Running Pull-Up Jump Shot,143,226,27,1,3.0,3.0,h
+S2223-G1219,4,08:03,MIA,,ORL,,D. Robinson,MIA,D. Robinson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1219,4,07:46,MIA,,ORL,,D. Robinson,MIA,MISS D. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-190,184,26,1,3.0,0.0,h
+S2223-G1219,4,05:13,MIA,,ORL,,D. Robinson,MIA,MISS D. Robinson 3PT Jump Shot,Missed Shot,Jump Shot,234,2,0,1,3.0,0.0,h
+S2223-G1219,4,02:47,MIA,,ORL,,D. Robinson,MIA,D. Robinson L.B.FOUL (P4.T4) (B.Taylor),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1219,4,01:38,MIA,,ORL,,D. Robinson,MIA,D. Robinson Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,0,0,,,h

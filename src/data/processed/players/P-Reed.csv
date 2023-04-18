@@ -1,0 +1,910 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0173,1,02:47,ATL,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.T4) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0173,1,02:19,ATL,,PHI,,P. Reed,PHI,Reed P.FOUL (P2.PN) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G0173,1,00:59.900000,ATL,,PHI,,P. Reed,PHI,MISS Reed 13' Jump Shot,Missed Shot,Jump Shot,126,-17,13,1,2.0,0.0,v
+S2223-G0173,1,00:45.200000,ATL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0173,3,00:46.700000,ATL,,PHI,,P. Reed,PHI,Reed S.FOUL (P3.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0173,4,03:54,ATL,,PHI,,P. Reed,PHI,MISS Reed 3PT Jump Shot,Missed Shot,Jump Shot,234,15,0,1,3.0,0.0,v
+S2223-G0173,4,03:36,ATL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0173,4,02:31,ATL,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0173,4,01:28,ATL,,PHI,,P. Reed,PHI,SUB: Maxey FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0173,4,00:47.200000,ATL,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0173,4,00:32.100000,ATL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0173,4,00:28.600000,ATL,,PHI,,P. Reed,PHI,MISS Reed 26' 3PT Jump Shot,Missed Shot,Jump Shot,76,246,26,1,3.0,0.0,v
+S2223-G0889,2,11:18,PHI,,MEM,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0889,2,09:20,PHI,,MEM,,P. Reed,PHI,Reed S.FOUL (P1.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0889,2,09:04,PHI,,MEM,,P. Reed,PHI,MISS Reed 5' Layup,Missed Shot,Layup Shot,43,32,5,1,2.0,0.0,h
+S2223-G0889,2,08:03,PHI,34.0,MEM,48.0,P. Reed,PHI,Reed 1' Dunk (2 PTS) (Niang 1 AST),Made Shot,Dunk Shot,5,12,1,1,2.0,2.0,h
+S2223-G0889,2,07:38,PHI,,MEM,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0889,4,11:06,PHI,,MEM,,P. Reed,PHI,Reed S.FOUL (P2.T1) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0889,4,10:19,PHI,,MEM,,P. Reed,PHI,SUB: Tucker FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0260,1,04:29,CHA,,PHI,,P. Reed,PHI,Reed P.FOUL (P1.T3) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0260,1,04:23,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0260,1,03:57,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0260,1,02:44,CHA,,PHI,,P. Reed,PHI,Reed S.FOUL (P2.PN) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2223-G0260,1,02:41,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0260,1,01:58,CHA,,PHI,,P. Reed,PHI,Reed Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0260,1,01:25,CHA,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0260,2,10:14,CHA,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0260,2,10:01,CHA,,PHI,,P. Reed,PHI,Reed BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0260,2,09:18,CHA,28.0,PHI,39.0,P. Reed,PHI,Reed 1' Layup (2 PTS) (Tucker 1 AST),Made Shot,Layup Shot,5,-2,1,1,2.0,2.0,v
+S2223-G0260,2,08:32,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0260,2,08:05,CHA,,PHI,,P. Reed,PHI,SUB: Harrell FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0260,2,01:24,CHA,47.0,PHI,54.0,P. Reed,PHI,Reed Reverse Layup (4 PTS) (Milton 5 AST),Made Shot,Reverse Layup Shot,-4,-1,0,1,2.0,2.0,v
+S2223-G0260,2,00:07,CHA,,PHI,,P. Reed,PHI,Reed STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0260,2,00:07,CHA,,PHI,,P. Reed,PHI,Reed Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0260,3,04:23,CHA,,PHI,,P. Reed,PHI,Reed S.FOUL (P3.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0260,3,03:45,CHA,,PHI,,P. Reed,PHI,Reed BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0260,3,03:42,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0260,3,03:19,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0260,3,01:44,CHA,73.0,PHI,73.0,P. Reed,PHI,Reed 2' Layup (6 PTS) (Melton 3 AST),Made Shot,Layup Shot,6,16,2,1,2.0,2.0,v
+S2223-G0260,3,00:31.500000,CHA,,PHI,,P. Reed,PHI,Reed S.FOUL (P4.PN) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2223-G0260,3,00:08.300000,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0260,3,00:07.100000,CHA,,PHI,,P. Reed,PHI,MISS Reed 3' Floating Jump Shot,Missed Shot,Floating Jump shot,0,29,3,1,2.0,0.0,v
+S2223-G0260,4,10:56,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0260,4,08:23,CHA,,PHI,,P. Reed,PHI,SUB: Harrell FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0260,4,00:08.800000,CHA,,PHI,,P. Reed,PHI,SUB: Milton FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0237,1,03:28,PHI,,MIN,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0237,1,03:12,PHI,,MIN,,P. Reed,PHI,Reed S.FOUL (P1.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0237,1,02:26,PHI,,MIN,,P. Reed,PHI,Reed REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0237,1,00:37.700000,PHI,,MIN,,P. Reed,PHI,Reed S.FOUL (P2.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G0237,1,00:35.200000,PHI,,MIN,,P. Reed,PHI,Reed REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0237,3,01:50,PHI,,MIN,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0237,3,00:29.100000,PHI,,MIN,,P. Reed,PHI,Reed REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0237,3,00:00,PHI,84.0,MIN,97.0,P. Reed,PHI,Reed 2' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,15,8,2,1,2.0,2.0,h
+S2223-G0237,4,09:44,PHI,,MIN,,P. Reed,PHI,Reed REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0237,4,07:29,PHI,,MIN,,P. Reed,PHI,Reed P.FOUL (P3.T2) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2223-G0237,4,07:29,PHI,,MIN,,P. Reed,PHI,SUB: Tucker FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0237,4,00:04.100000,PHI,,MIN,,P. Reed,PHI,SUB: Melton FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0108,2,05:05,PHI,,WAS,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0108,2,04:41,PHI,44.0,WAS,47.0,P. Reed,PHI,Reed Running Dunk (2 PTS) (Thybulle 2 AST),Made Shot,Running Dunk Shot,-1,-2,0,1,2.0,2.0,h
+S2223-G0108,2,03:54,PHI,,WAS,,P. Reed,PHI,MISS Reed 2' Layup,Missed Shot,Layup Shot,-22,6,2,1,2.0,0.0,h
+S2223-G0108,2,03:47,PHI,,WAS,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0108,2,02:24,PHI,,WAS,,P. Reed,PHI,Reed P.FOUL (P1.PN) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2223-G0108,2,01:39,PHI,,WAS,,P. Reed,PHI,MISS Reed 3' Driving Layup,Missed Shot,Driving Layup Shot,17,20,3,1,2.0,0.0,h
+S2223-G0626,2,04:34,PHI,,OKC,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0626,2,04:34,PHI,,OKC,,P. Reed,PHI,MISS Reed Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0626,2,04:33,PHI,,OKC,,P. Reed,PHI,Reed REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0626,2,03:08,PHI,45.0,OKC,56.0,P. Reed,PHI,Reed Layup (2 PTS) (Harden 7 AST),Made Shot,Layup Shot,-2,-4,0,1,2.0,2.0,h
+S2223-G0626,2,02:32,PHI,,OKC,,P. Reed,PHI,MISS Reed 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,13,10,2,1,2.0,0.0,h
+S2223-G0626,2,02:30,PHI,,OKC,,P. Reed,PHI,Reed REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0626,2,02:26,PHI,47.0,OKC,58.0,P. Reed,PHI,Reed Cutting Dunk Shot (4 PTS) (Maxey 3 AST),Made Shot,Cutting Dunk Shot,0,1,0,1,2.0,2.0,h
+S2223-G0626,2,00:46.800000,PHI,,OKC,,P. Reed,PHI,Reed REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0626,2,00:00.300000,PHI,,OKC,,P. Reed,PHI,MISS Reed 42' 3PT Jump Shot,Missed Shot,Jump Shot,222,356,42,1,3.0,0.0,h
+S2223-G0626,3,01:08,PHI,,OKC,,P. Reed,PHI,Reed S.FOUL (P1.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0626,3,00:16.500000,PHI,,OKC,,P. Reed,PHI,SUB: Harden FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0626,4,11:39,PHI,,OKC,,P. Reed,PHI,Reed REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0626,4,10:15,PHI,,OKC,,P. Reed,PHI,Reed S.FOUL (P2.T1) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0626,4,08:29,PHI,,OKC,,P. Reed,PHI,Reed S.FOUL (P3.T3) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0626,4,08:29,PHI,,OKC,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0626,4,00:51.500000,PHI,,OKC,,P. Reed,PHI,Reed REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0626,4,00:50.200000,PHI,,OKC,,P. Reed,PHI,MISS Reed Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0299,1,02:18,PHI,20.0,ATL,27.0,P. Reed,PHI,Reed 12' Turnaround Fadeaway (2 PTS) (Niang 1 AST),Made Shot,Turnaround Fadeaway shot,45,111,12,1,2.0,2.0,h
+S2223-G0299,1,00:58.900000,PHI,,ATL,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0299,1,00:41.400000,PHI,,ATL,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0299,1,00:39.100000,PHI,,ATL,,P. Reed,PHI,Reed Offensive Charge Foul (P1) (B.Adair),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0299,1,00:39.100000,PHI,,ATL,,P. Reed,PHI,Reed Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0299,2,11:34,PHI,,ATL,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0299,2,11:06,PHI,,ATL,,P. Reed,PHI,Reed REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0299,2,09:30,PHI,,ATL,,P. Reed,PHI,Reed REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0299,2,09:30,PHI,,ATL,,P. Reed,PHI,MISS Reed 4' Putback Layup,Missed Shot,Putback Layup Shot,33,24,4,1,2.0,0.0,h
+S2223-G0299,2,09:30,PHI,,ATL,,P. Reed,PHI,Reed P.FOUL (P2.T1) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2223-G0299,2,09:30,PHI,,ATL,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0299,3,00:42.400000,PHI,,ATL,,P. Reed,PHI,Reed REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0299,3,00:07.500000,PHI,,ATL,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0299,4,09:24,PHI,,ATL,,P. Reed,PHI,Reed REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0299,4,08:11,PHI,,ATL,,P. Reed,PHI,Reed Traveling Turnover (P2.T9),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0299,4,06:45,PHI,,ATL,,P. Reed,PHI,Reed REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0299,4,06:45,PHI,,ATL,,P. Reed,PHI,SUB: Milton FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0256,1,02:58,PHI,,BKN,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,1,02:58,PHI,26.0,BKN,22.0,P. Reed,PHI,Reed Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0256,1,01:39,PHI,,BKN,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0256,1,00:37.200000,PHI,,BKN,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0256,2,11:47,PHI,34.0,BKN,26.0,P. Reed,PHI,Reed Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0256,2,11:47,PHI,35.0,BKN,26.0,P. Reed,PHI,Reed Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0256,2,10:01,PHI,39.0,BKN,30.0,P. Reed,PHI,Reed 1' Cutting Layup Shot (6 PTS) (Milton 3 AST),Made Shot,Cutting Layup Shot,0,6,1,1,2.0,2.0,h
+S2223-G0256,2,08:45,PHI,42.0,BKN,30.0,P. Reed,PHI,Reed 1' Driving Dunk (8 PTS) (House Jr. 1 AST),Made Shot,Driving Dunk Shot,6,-8,1,1,2.0,2.0,h
+S2223-G0256,2,07:50,PHI,,BKN,,P. Reed,PHI,Reed STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0256,2,07:20,PHI,,BKN,,P. Reed,PHI,Reed Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0256,2,06:50,PHI,,BKN,,P. Reed,PHI,Reed REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,2,06:48,PHI,,BKN,,P. Reed,PHI,SUB: Harrell FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0256,2,01:41,PHI,,BKN,,P. Reed,PHI,Reed REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,2,01:37,PHI,57.0,BKN,52.0,P. Reed,PHI,Reed 3' Cutting Layup Shot (10 PTS) (Tucker 2 AST),Made Shot,Cutting Layup Shot,25,4,3,1,2.0,2.0,h
+S2223-G0256,2,01:37,PHI,,BKN,,P. Reed,PHI,MISS Reed Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0256,3,04:26,PHI,,BKN,,P. Reed,PHI,Jump Ball (CC) Reed vs. Durant: Tip to O'Neale,Jump Ball,Coach Challenge,0,0,0,0,,,h
+S2223-G0256,3,02:34,PHI,,BKN,,P. Reed,PHI,Reed REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,3,02:15,PHI,82.0,BKN,79.0,P. Reed,PHI,Reed 2' Reverse Layup (12 PTS) (Tucker 3 AST),Made Shot,Reverse Layup Shot,15,4,2,1,2.0,2.0,h
+S2223-G0256,3,02:15,PHI,83.0,BKN,79.0,P. Reed,PHI,Reed Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0256,3,01:16,PHI,,BKN,,P. Reed,PHI,MISS Reed 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,23,3,1,2.0,0.0,h
+S2223-G0256,3,01:12,PHI,,BKN,,P. Reed,PHI,Reed REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,3,00:55.800000,PHI,,BKN,,P. Reed,PHI,Reed REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,4,11:40,PHI,,BKN,,P. Reed,PHI,Reed REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,4,09:42,PHI,92.0,BKN,87.0,P. Reed,PHI,Reed 3' Alley Oop Layup (15 PTS) (Melton 4 AST),Made Shot,Alley Oop Layup shot,2,31,3,1,2.0,2.0,h
+S2223-G0256,4,08:41,PHI,,BKN,,P. Reed,PHI,Reed BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0256,4,08:39,PHI,,BKN,,P. Reed,PHI,Reed STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0256,4,08:23,PHI,,BKN,,P. Reed,PHI,Reed REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,4,08:21,PHI,94.0,BKN,87.0,P. Reed,PHI,Reed 2' Tip Layup Shot (17 PTS),Made Shot,Tip Layup Shot,-21,8,2,1,2.0,2.0,h
+S2223-G0256,4,07:24,PHI,,BKN,,P. Reed,PHI,MISS Reed 11' Driving Layup,Missed Shot,Driving Layup Shot,-17,112,11,1,2.0,0.0,h
+S2223-G0256,4,04:37,PHI,,BKN,,P. Reed,PHI,Reed Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0256,4,02:01,PHI,,BKN,,P. Reed,PHI,Reed REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,4,01:23,PHI,,BKN,,P. Reed,PHI,Reed REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,4,01:23,PHI,114.0,BKN,101.0,P. Reed,PHI,Reed Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0256,4,01:23,PHI,115.0,BKN,101.0,P. Reed,PHI,Reed Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0256,4,01:02,PHI,,BKN,,P. Reed,PHI,Reed S.FOUL (P1.T4) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G0256,4,01:02,PHI,,BKN,,P. Reed,PHI,SUB: Foster Jr. FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0581,4,06:02,PHI,,CHI,,P. Reed,PHI,Jump Ball (CC) Reed vs. Vucevic: Tip to Harris,Jump Ball,Coach Challenge,0,0,0,0,,,h
+S2223-G0581,4,03:51,PHI,,CHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0581,4,03:17,PHI,,CHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0581,4,01:44,PHI,,CHI,,P. Reed,PHI,Jump Ball Reed vs. DeRozan: Tip to Williams,Jump Ball,,0,0,0,0,,,h
+S2223-G0846,2,09:12,BKN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0846,2,09:03,BKN,39.0,PHI,36.0,P. Reed,PHI,Reed 1' Alley Oop Dunk (2 PTS) (Harden 1 AST),Made Shot,Alley Oop Dunk Shot,-1,5,1,1,2.0,2.0,v
+S2223-G0846,2,07:01,BKN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0846,2,06:27,BKN,,PHI,,P. Reed,PHI,SUB: Tucker FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0846,4,11:22,BKN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0846,4,07:43,BKN,,PHI,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0943,2,11:08,DAL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0943,2,10:20,DAL,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0943,2,09:50,DAL,,PHI,,P. Reed,PHI,Reed P.FOUL (P2.T2) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2223-G0943,2,09:15,DAL,,PHI,,P. Reed,PHI,Reed S.FOUL (P3.T3) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0943,2,09:15,DAL,,PHI,,P. Reed,PHI,SUB: Harrell FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0943,4,11:26,DAL,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0943,4,09:38,DAL,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0943,4,08:01,DAL,113.0,PHI,108.0,P. Reed,PHI,Reed 18' Jump Shot (2 PTS) (Milton 1 AST),Made Shot,Jump Shot,60,167,18,1,2.0,2.0,v
+S2223-G0943,4,07:14,DAL,,PHI,,P. Reed,PHI,SUB: Melton FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1217,1,11:33,BKN,,PHI,,P. Reed,PHI,MISS Reed 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,13,62,6,1,2.0,0.0,v
+S2223-G1217,1,10:28,BKN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,1,10:15,BKN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,1,10:15,BKN,,PHI,,P. Reed,PHI,MISS Reed Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1217,1,10:13,BKN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,1,10:13,BKN,3.0,PHI,4.0,P. Reed,PHI,Reed Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1217,1,10:04,BKN,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1217,1,09:05,BKN,6.0,PHI,6.0,P. Reed,PHI,Reed 3' Hook Shot (4 PTS),Made Shot,Hook Shot,5,29,3,1,2.0,2.0,v
+S2223-G1217,1,08:35,BKN,6.0,PHI,8.0,P. Reed,PHI,Reed 2' Dunk (6 PTS) (McClung 1 AST),Made Shot,Dunk Shot,16,-1,2,1,2.0,2.0,v
+S2223-G1217,1,08:17,BKN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,1,07:24,BKN,6.0,PHI,12.0,P. Reed,PHI,Reed 3' Layup (8 PTS) (Milton 1 AST),Made Shot,Layup Shot,6,25,3,1,2.0,2.0,v
+S2223-G1217,1,06:33,BKN,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1217,1,06:22,BKN,6.0,PHI,16.0,P. Reed,PHI,Reed 2' Layup (10 PTS) (House Jr. 2 AST),Made Shot,Layup Shot,-18,6,2,1,2.0,2.0,v
+S2223-G1217,1,04:43,BKN,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2223-G1217,1,04:20,BKN,,PHI,,P. Reed,PHI,SUB: Dedmon FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1217,2,03:19,BKN,,PHI,,P. Reed,PHI,Reed BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1217,2,02:54,BKN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,2,00:08.900000,BKN,,PHI,,P. Reed,PHI,Reed BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G1217,2,00:05.400000,BKN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,3,10:57,BKN,,PHI,,P. Reed,PHI,Reed STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1217,3,10:51,BKN,,PHI,,P. Reed,PHI,MISS Reed 1' Driving Layup,Missed Shot,Driving Layup Shot,-13,-6,1,1,2.0,0.0,v
+S2223-G1217,3,10:46,BKN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,3,10:46,BKN,55.0,PHI,65.0,P. Reed,PHI,Reed Putback Layup (12 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1217,3,10:15,BKN,57.0,PHI,68.0,P. Reed,PHI,Reed 26' 3PT Jump Shot (15 PTS) (King 1 AST),Made Shot,Jump Shot,-21,263,26,1,3.0,3.0,v
+S2223-G1217,3,08:58,BKN,,PHI,,P. Reed,PHI,Reed S.FOUL (P2.T2) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G1217,3,08:27,BKN,,PHI,,P. Reed,PHI,MISS Reed 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,9,54,5,1,2.0,0.0,v
+S2223-G1217,3,07:07,BKN,,PHI,,P. Reed,PHI,Reed BLOCK (4 BLK),,,0,0,0,0,,,v
+S2223-G1217,3,06:28,BKN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,3,06:28,BKN,,PHI,,P. Reed,PHI,MISS Reed Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1217,3,06:06,BKN,,PHI,,P. Reed,PHI,Reed Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1217,3,05:44,BKN,,PHI,,P. Reed,PHI,MISS Reed 25' 3PT Jump Shot,Missed Shot,Jump Shot,146,207,25,1,3.0,0.0,v
+S2223-G1217,3,04:48,BKN,,PHI,,P. Reed,PHI,SUB: Dedmon FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1217,4,06:09,BKN,,PHI,,P. Reed,PHI,MISS Reed 2' Layup,Missed Shot,Layup Shot,-9,18,2,1,2.0,0.0,v
+S2223-G1217,4,03:29,BKN,,PHI,,P. Reed,PHI,Reed BLOCK (5 BLK),,,0,0,0,0,,,v
+S2223-G1217,4,01:46,BKN,103.0,PHI,130.0,P. Reed,PHI,Reed 1' Cutting Dunk Shot (17 PTS) (McClung 8 AST),Made Shot,Cutting Dunk Shot,-6,7,1,1,2.0,2.0,v
+S2223-G1217,4,01:38,BKN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,4,01:15,BKN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1057,2,11:50,IND,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1057,2,08:33,IND,,PHI,,P. Reed,PHI,Reed S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1057,2,08:33,IND,,PHI,,P. Reed,PHI,SUB: Dedmon FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1057,4,11:31,IND,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1057,4,11:20,IND,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1057,4,10:04,IND,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1057,4,09:07,IND,97.0,PHI,117.0,P. Reed,PHI,Reed 7' Alley Oop Dunk (2 PTS) (Maxey 4 AST),Made Shot,Alley Oop Dunk Shot,-32,62,7,1,2.0,2.0,v
+S2223-G1057,4,04:46,IND,113.0,PHI,131.0,P. Reed,PHI,Reed Driving Layup (4 PTS) (Milton 4 AST),Made Shot,Driving Layup Shot,-2,2,0,1,2.0,2.0,v
+S2223-G1057,4,03:45,IND,113.0,PHI,135.0,P. Reed,PHI,Reed 1' Running Alley Oop Dunk Shot (6 PTS) (Milton 5 AST),Made Shot,Running Alley Oop Dunk Shot,-2,7,1,1,2.0,2.0,v
+S2223-G1057,4,03:02,IND,115.0,PHI,137.0,P. Reed,PHI,Reed 1' Cutting Dunk Shot (8 PTS) (Springer 1 AST),Made Shot,Cutting Dunk Shot,7,4,1,1,2.0,2.0,v
+S2223-G1057,4,02:30,IND,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1057,4,02:28,IND,115.0,PHI,139.0,P. Reed,PHI,Reed 2' Reverse Dunk (10 PTS),Made Shot,Reverse Dunk Shot,-6,17,2,1,2.0,2.0,v
+S2223-G1057,4,00:28.100000,IND,,PHI,,P. Reed,PHI,MISS Reed 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,136,42,14,1,2.0,0.0,v
+S2223-G0312,1,01:35,CLE,18.0,PHI,19.0,P. Reed,PHI,Reed 1' Layup (2 PTS) (Melton 1 AST),Made Shot,Layup Shot,1,14,1,1,2.0,2.0,v
+S2223-G0312,1,01:01,CLE,21.0,PHI,21.0,P. Reed,PHI,Reed 1' Alley Oop Layup (4 PTS) (Melton 2 AST),Made Shot,Alley Oop Layup shot,5,8,1,1,2.0,2.0,v
+S2223-G0312,1,00:43.800000,CLE,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0312,1,00:12.200000,CLE,,PHI,,P. Reed,PHI,Reed OFF.Foul (P1) (M.Davis),Foul,Offensive,0,0,0,0,,,v
+S2223-G0312,1,00:12.200000,CLE,,PHI,,P. Reed,PHI,Reed Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0312,2,10:49,CLE,,PHI,,P. Reed,PHI,Reed S.FOUL (P2.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0312,2,09:34,CLE,,PHI,,P. Reed,PHI,Reed Violation:Defensive Goaltending (M.Davis),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0312,2,09:15,CLE,35.0,PHI,26.0,P. Reed,PHI,Reed 2' Layup (6 PTS) (Harris 2 AST),Made Shot,Layup Shot,-1,15,2,1,2.0,2.0,v
+S2223-G0312,2,08:33,CLE,38.0,PHI,28.0,P. Reed,PHI,Reed 2' Layup (8 PTS) (Harris 3 AST),Made Shot,Layup Shot,-4,24,2,1,2.0,2.0,v
+S2223-G0312,2,06:59,CLE,,PHI,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0312,4,11:34,CLE,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0312,4,10:36,CLE,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0312,4,10:34,CLE,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0312,4,09:53,CLE,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0312,4,09:46,CLE,92.0,PHI,70.0,P. Reed,PHI,Reed Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0312,4,09:46,CLE,,PHI,,P. Reed,PHI,MISS Reed Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0312,4,08:45,CLE,,PHI,,P. Reed,PHI,SUB: House Jr. FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0312,4,01:19,CLE,,PHI,,P. Reed,PHI,Reed Traveling Turnover (P2.T16),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0312,4,00:45.400000,CLE,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1016,2,11:18,PHI,,WAS,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1016,2,09:59,PHI,,WAS,,P. Reed,PHI,Reed P.FOUL (P1.T1) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2223-G1016,2,08:16,PHI,,WAS,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1016,2,08:15,PHI,,WAS,,P. Reed,PHI,Reed Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1016,2,07:29,PHI,,WAS,,P. Reed,PHI,Reed REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1016,2,07:11,PHI,,WAS,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G1016,4,11:37,PHI,,WAS,,P. Reed,PHI,Reed REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1016,4,10:03,PHI,86.0,WAS,71.0,P. Reed,PHI,Reed 1' Cutting Layup Shot (2 PTS) (Harden 12 AST),Made Shot,Cutting Layup Shot,-4,-5,1,1,2.0,2.0,h
+S2223-G1016,4,09:26,PHI,88.0,WAS,71.0,P. Reed,PHI,Reed 1' Cutting Dunk Shot (4 PTS) (Melton 3 AST),Made Shot,Cutting Dunk Shot,9,-1,1,1,2.0,2.0,h
+S2223-G1016,4,08:58,PHI,90.0,WAS,73.0,P. Reed,PHI,Reed 1' Reverse Layup (6 PTS) (Harden 13 AST),Made Shot,Reverse Layup Shot,-12,3,1,1,2.0,2.0,h
+S2223-G1016,4,06:40,PHI,,WAS,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1016,4,06:25,PHI,,WAS,,P. Reed,PHI,Reed REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1016,4,06:24,PHI,,WAS,,P. Reed,PHI,MISS Reed 1' Putback Layup,Missed Shot,Putback Layup Shot,-11,-1,1,1,2.0,0.0,h
+S2223-G1016,4,06:24,PHI,,WAS,,P. Reed,PHI,Reed REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1016,4,04:48,PHI,,WAS,,P. Reed,PHI,SUB: Dedmon FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0980,1,00:03.200000,MIN,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0980,2,11:18,MIN,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0980,2,08:04,MIN,,PHI,,P. Reed,PHI,MISS Reed 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,-23,5,2,1,2.0,0.0,v
+S2223-G0980,2,08:00,MIN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0980,2,08:00,MIN,,PHI,,P. Reed,PHI,MISS Reed Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0980,2,07:11,MIN,38.0,PHI,38.0,P. Reed,PHI,Reed 1' Reverse Layup (2 PTS) (Niang 1 AST),Made Shot,Reverse Layup Shot,1,10,1,1,2.0,2.0,v
+S2223-G0980,2,06:36,MIN,,PHI,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0980,4,11:32,MIN,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0980,4,07:37,MIN,,PHI,,P. Reed,PHI,MISS Reed 13' Jump Shot,Missed Shot,Jump Shot,-60,120,13,1,2.0,0.0,v
+S2223-G0980,4,07:20,MIN,,PHI,,P. Reed,PHI,Reed S.FOUL (P2.T3) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0980,4,05:11,MIN,,PHI,,P. Reed,PHI,Reed S.FOUL (P3.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0980,4,04:19,MIN,,PHI,,P. Reed,PHI,MISS Reed 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,53,5,1,2.0,0.0,v
+S2223-G0980,4,03:04,MIN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0980,4,01:25,MIN,,PHI,,P. Reed,PHI,MISS Reed 7' Hook Shot,Missed Shot,Hook Shot,29,69,7,1,2.0,0.0,v
+S2223-G0980,4,01:23,MIN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0980,4,01:23,MIN,,PHI,,P. Reed,PHI,Reed Out of Bounds - Bad Pass Turnover Turnover (P1.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0980,4,00:19.900000,MIN,,PHI,,P. Reed,PHI,MISS Reed 5' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,4,48,5,1,2.0,0.0,v
+S2223-G0596,1,03:24,DET,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,1,01:06,DET,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,1,01:06,DET,25.0,PHI,33.0,P. Reed,PHI,Reed Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0596,1,00:36.100000,DET,25.0,PHI,35.0,P. Reed,PHI,Reed 2' Alley Oop Layup (4 PTS) (Maxey 1 AST),Made Shot,Alley Oop Layup shot,-22,10,2,1,2.0,2.0,v
+S2223-G0596,2,11:25,DET,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,2,10:29,DET,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,2,08:11,DET,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0596,2,07:09,DET,,PHI,,P. Reed,PHI,Reed REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,2,07:09,DET,,PHI,,P. Reed,PHI,MISS Reed Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0596,2,07:08,DET,,PHI,,P. Reed,PHI,Reed REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,2,07:03,DET,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.T1) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,v
+S2223-G0596,2,07:03,DET,,PHI,,P. Reed,PHI,SUB: Melton FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0596,2,00:28.900000,DET,54.0,PHI,71.0,P. Reed,PHI,Reed 7' Cutting Layup Shot (6 PTS) (Harden 9 AST),Made Shot,Cutting Layup Shot,65,-1,7,1,2.0,2.0,v
+S2223-G0596,2,00:01.400000,DET,,PHI,,P. Reed,PHI,Reed REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,3,01:15,DET,,PHI,,P. Reed,PHI,Reed Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0596,4,11:34,DET,,PHI,,P. Reed,PHI,Reed STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0596,4,11:05,DET,84.0,PHI,102.0,P. Reed,PHI,Reed 1' Dunk (8 PTS) (Thybulle 2 AST),Made Shot,Dunk Shot,0,7,1,1,2.0,2.0,v
+S2223-G0596,4,10:45,DET,84.0,PHI,103.0,P. Reed,PHI,Reed Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0596,4,10:45,DET,84.0,PHI,104.0,P. Reed,PHI,Reed Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0596,4,10:08,DET,,PHI,,P. Reed,PHI,Reed REBOUND (Off:6 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,4,08:43,DET,,PHI,,P. Reed,PHI,Reed REBOUND (Off:7 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,4,08:43,DET,86.0,PHI,108.0,P. Reed,PHI,Reed 3' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,-20,17,3,1,2.0,2.0,v
+S2223-G0596,4,07:44,DET,,PHI,,P. Reed,PHI,Reed REBOUND (Off:7 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,4,06:33,DET,,PHI,,P. Reed,PHI,Reed STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0596,4,06:06,DET,,PHI,,P. Reed,PHI,Reed REBOUND (Off:7 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,4,04:57,DET,95.0,PHI,115.0,P. Reed,PHI,Reed Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0596,4,04:57,DET,95.0,PHI,116.0,P. Reed,PHI,Reed Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0596,4,04:25,DET,,PHI,,P. Reed,PHI,Reed Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0596,4,02:46,DET,103.0,PHI,121.0,P. Reed,PHI,Reed 1' Alley Oop Layup (16 PTS) (Milton 6 AST),Made Shot,Alley Oop Layup shot,-1,8,1,1,2.0,2.0,v
+S2223-G0596,4,02:33,DET,,PHI,,P. Reed,PHI,Reed S.FOUL (P2.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0596,4,00:46.900000,DET,,PHI,,P. Reed,PHI,Reed REBOUND (Off:8 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0332,1,00:26.100000,MEM,,PHI,,P. Reed,PHI,MISS Reed 1' Dunk,Missed Shot,Dunk Shot,13,7,1,1,2.0,0.0,v
+S2223-G0332,1,00:25.300000,MEM,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0332,1,00:25.300000,MEM,26.0,PHI,30.0,P. Reed,PHI,Reed Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0332,2,11:38,MEM,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0332,2,11:19,MEM,,PHI,,P. Reed,PHI,Reed S.FOUL (P2.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0332,2,10:27,MEM,,PHI,,P. Reed,PHI,SUB: Thybulle FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0332,3,02:29,MEM,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0332,3,00:35.700000,MEM,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0332,3,00:34.200000,MEM,,PHI,,P. Reed,PHI,MISS Reed 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,78,8,1,2.0,0.0,v
+S2223-G0148,1,06:01,PHI,,PHX,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0148,1,05:55,PHI,14.0,PHX,9.0,P. Reed,PHI,Reed 2' Running Reverse Layup (2 PTS) (Harris 1 AST),Made Shot,Running Reverse Layup Shot,13,13,2,1,2.0,2.0,h
+S2223-G0148,1,04:05,PHI,,PHX,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0148,1,04:05,PHI,,PHX,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0148,2,06:55,PHI,,PHX,,P. Reed,PHI,Reed P.FOUL (P1.T2) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2223-G0148,2,05:09,PHI,,PHX,,P. Reed,PHI,Reed S.FOUL (P2.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0148,2,04:20,PHI,,PHX,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0148,3,05:35,PHI,,PHX,,P. Reed,PHI,Reed S.FOUL (P3.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0148,3,05:11,PHI,,PHX,,P. Reed,PHI,Reed REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0148,3,04:12,PHI,,PHX,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0148,4,07:47,PHI,,PHX,,P. Reed,PHI,Reed Palming Turnover (P1.T13),Turnover,Palming Turnover,0,0,0,0,,,h
+S2223-G0148,4,07:33,PHI,,PHX,,P. Reed,PHI,Reed REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0148,4,06:31,PHI,,PHX,,P. Reed,PHI,Reed P.FOUL (P4.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2223-G0148,4,06:20,PHI,,PHX,,P. Reed,PHI,Reed REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0148,4,05:50,PHI,,PHX,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0534,4,00:24,NOP,127.0,PHI,116.0,P. Reed,PHI,Reed 2' Driving Layup (2 PTS) (Milton 2 AST),Made Shot,Driving Layup Shot,16,-1,2,1,2.0,2.0,v
+S2223-G0467,4,04:02,PHI,,DET,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0467,4,03:33,PHI,,DET,,P. Reed,PHI,Reed OFF.Foul (P1) (M.Myers),Foul,Offensive,0,0,0,0,,,h
+S2223-G0467,4,03:33,PHI,,DET,,P. Reed,PHI,Reed Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0467,4,02:46,PHI,,DET,,P. Reed,PHI,Reed S.FOUL (P2.T3) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0467,4,02:07,PHI,108.0,DET,90.0,P. Reed,PHI,Reed 2' Reverse Layup (2 PTS) (Korkmaz 1 AST),Made Shot,Reverse Layup Shot,-17,16,2,1,2.0,2.0,h
+S2223-G0467,4,01:16,PHI,,DET,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1103,2,11:44,GSW,,PHI,,P. Reed,PHI,MISS Reed 3' Layup,Missed Shot,Layup Shot,-10,32,3,1,2.0,0.0,v
+S2223-G1103,2,11:27,GSW,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1103,2,11:23,GSW,,PHI,,P. Reed,PHI,Reed Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1103,2,11:11,GSW,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1103,2,10:09,GSW,,PHI,,P. Reed,PHI,SUB: Melton FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1103,4,11:32,GSW,79.0,PHI,90.0,P. Reed,PHI,Reed 12' Alley Oop Layup (2 PTS) (Milton 4 AST),Made Shot,Alley Oop Layup shot,-9,122,12,1,2.0,2.0,v
+S2223-G1103,4,11:02,GSW,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G1103,4,09:53,GSW,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1103,4,08:37,GSW,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1103,4,08:37,GSW,,PHI,,P. Reed,PHI,MISS Reed Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1103,4,08:37,GSW,,PHI,,P. Reed,PHI,MISS Reed Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1103,4,08:26,GSW,,PHI,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1181,2,09:42,PHI,,BOS,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1181,2,09:23,PHI,,BOS,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1181,2,08:35,PHI,,BOS,,P. Reed,PHI,Reed REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1181,2,08:33,PHI,,BOS,,P. Reed,PHI,MISS Reed 4' Driving Layup,Missed Shot,Driving Layup Shot,-15,42,4,1,2.0,0.0,h
+S2223-G1181,2,08:05,PHI,,BOS,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1181,2,08:00,PHI,,BOS,,P. Reed,PHI,MISS Reed 5' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,-5,47,5,1,2.0,0.0,h
+S2223-G1181,2,07:06,PHI,,BOS,,P. Reed,PHI,Reed REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1181,2,06:42,PHI,,BOS,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G1181,4,10:35,PHI,74.0,BOS,71.0,P. Reed,PHI,Reed 3' Cutting Layup Shot (2 PTS) (Harden 6 AST),Made Shot,Cutting Layup Shot,26,7,3,1,2.0,2.0,h
+S2223-G1181,4,10:35,PHI,,BOS,,P. Reed,PHI,MISS Reed Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1181,4,08:03,PHI,,BOS,,P. Reed,PHI,Reed S.FOUL (P1.T2) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1181,4,08:03,PHI,,BOS,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G1139,1,02:18,PHI,,DAL,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1139,1,01:02,PHI,,DAL,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1139,2,11:43,PHI,,DAL,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1139,2,09:13,PHI,,DAL,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1139,2,08:54,PHI,,DAL,,P. Reed,PHI,MISS Reed 18' Jump Shot,Missed Shot,Jump Shot,108,142,18,1,2.0,0.0,h
+S2223-G1139,2,08:41,PHI,,DAL,,P. Reed,PHI,Reed S.FOUL (P1.T3) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G1139,2,07:07,PHI,,DAL,,P. Reed,PHI,SUB: Harden FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G1139,3,02:25,PHI,,DAL,,P. Reed,PHI,Reed REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1139,3,01:07,PHI,86.0,DAL,89.0,P. Reed,PHI,Reed 2' Layup (2 PTS) (Maxey 3 AST),Made Shot,Layup Shot,-10,18,2,1,2.0,2.0,h
+S2223-G1139,3,00:06.700000,PHI,,DAL,,P. Reed,PHI,Reed REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1139,4,11:09,PHI,,DAL,,P. Reed,PHI,MISS Reed 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,2,31,3,1,2.0,0.0,h
+S2223-G1139,4,11:09,PHI,,DAL,,P. Reed,PHI,Reed REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1139,4,11:09,PHI,94.0,DAL,94.0,P. Reed,PHI,Reed Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1139,4,11:09,PHI,95.0,DAL,94.0,P. Reed,PHI,Reed Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1139,4,10:02,PHI,,DAL,,P. Reed,PHI,Reed Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1139,4,08:09,PHI,,DAL,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0122,1,02:09,PHI,,NYK,,P. Reed,PHI,Reed Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0122,1,00:07.200000,PHI,,NYK,,P. Reed,PHI,SUB: Maxey FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0122,2,11:35,PHI,,NYK,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0122,2,11:10,PHI,,NYK,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0122,2,11:06,PHI,,NYK,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0122,2,10:40,PHI,,NYK,,P. Reed,PHI,Reed STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0122,2,10:15,PHI,,NYK,,P. Reed,PHI,Reed STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0122,2,10:01,PHI,,NYK,,P. Reed,PHI,Reed REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0122,2,09:50,PHI,,NYK,,P. Reed,PHI,MISS Reed 11' Floating Jump Shot,Missed Shot,Floating Jump shot,43,101,11,1,2.0,0.0,h
+S2223-G0122,2,09:10,PHI,,NYK,,P. Reed,PHI,SUB: Maxey FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0122,3,02:52,PHI,,NYK,,P. Reed,PHI,Reed P.FOUL (P1.T3) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0122,3,02:43,PHI,,NYK,,P. Reed,PHI,Reed STEAL (4 STL),,,0,0,0,0,,,h
+S2223-G0122,3,00:39.100000,PHI,,NYK,,P. Reed,PHI,Reed STEAL (5 STL),,,0,0,0,0,,,h
+S2223-G0122,4,11:05,PHI,,NYK,,P. Reed,PHI,Reed REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0122,4,10:48,PHI,,NYK,,P. Reed,PHI,Reed STEAL (6 STL),,,0,0,0,0,,,h
+S2223-G0122,4,08:51,PHI,88.0,NYK,79.0,P. Reed,PHI,Reed 3' Driving Layup (2 PTS) (Milton 2 AST),Made Shot,Driving Layup Shot,11,25,3,1,2.0,2.0,h
+S2223-G0122,4,07:05,PHI,,NYK,,P. Reed,PHI,Reed BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0122,4,06:23,PHI,,NYK,,P. Reed,PHI,Reed L.B.FOUL (P2.T3) (J.Van Duyne),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0122,4,06:05,PHI,,NYK,,P. Reed,PHI,Reed REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0122,4,05:30,PHI,,NYK,,P. Reed,PHI,Reed S.FOUL (P3.T4) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0122,4,05:30,PHI,,NYK,,P. Reed,PHI,SUB: Tucker FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0122,4,01:05,PHI,,NYK,,P. Reed,PHI,Reed S.FOUL (P4.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0122,4,00:32.600000,PHI,,NYK,,P. Reed,PHI,SUB: Tucker FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0860,2,10:23,PHI,,HOU,,P. Reed,PHI,Reed P.FOUL (P1.T1) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2223-G0860,2,10:20,PHI,,HOU,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0860,2,09:30,PHI,,HOU,,P. Reed,PHI,MISS Reed 2' Driving Layup,Missed Shot,Driving Layup Shot,18,6,2,1,2.0,0.0,h
+S2223-G0860,2,09:26,PHI,,HOU,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0860,2,09:26,PHI,,HOU,,P. Reed,PHI,MISS Reed Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0860,2,09:13,PHI,,HOU,,P. Reed,PHI,Reed P.FOUL (P2.T2) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2223-G0860,2,07:09,PHI,,HOU,,P. Reed,PHI,Reed Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0860,2,06:47,PHI,,HOU,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0860,2,06:41,PHI,,HOU,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0860,4,09:58,PHI,97.0,HOU,81.0,P. Reed,PHI,Reed 2' Layup (2 PTS) (Maxey 6 AST),Made Shot,Layup Shot,18,4,2,1,2.0,2.0,h
+S2223-G0860,4,09:30,PHI,,HOU,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0860,4,08:09,PHI,99.0,HOU,85.0,P. Reed,PHI,Reed 2' Reverse Layup (4 PTS) (Harden 9 AST),Made Shot,Reverse Layup Shot,15,6,2,1,2.0,2.0,h
+S2223-G0860,4,06:54,PHI,,HOU,,P. Reed,PHI,Reed BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0860,4,06:52,PHI,,HOU,,P. Reed,PHI,Reed REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0860,4,06:24,PHI,,HOU,,P. Reed,PHI,Reed Offensive Goaltending Turnover (P2.T15),Turnover,Offensive Goaltending,0,0,0,0,,,h
+S2223-G0860,4,06:04,PHI,,HOU,,P. Reed,PHI,Reed S.FOUL (P3.T2) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0860,4,04:03,PHI,,HOU,,P. Reed,PHI,Reed BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0860,4,02:31,PHI,,HOU,,P. Reed,PHI,Reed P.FOUL (P4.PN) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2223-G0860,4,02:01,PHI,,HOU,,P. Reed,PHI,Reed STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0860,4,00:58.700000,PHI,123.0,HOU,98.0,P. Reed,PHI,Reed 18' Jump Shot (6 PTS) (McDaniels 3 AST),Made Shot,Jump Shot,-94,157,18,1,2.0,2.0,h
+S2223-G0837,2,11:29,PHI,,NYK,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0837,2,10:57,PHI,,NYK,,P. Reed,PHI,Reed REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0837,2,09:42,PHI,,NYK,,P. Reed,PHI,Reed REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0837,2,08:45,PHI,,NYK,,P. Reed,PHI,Reed S.FOUL (P1.T2) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0837,2,07:56,PHI,,NYK,,P. Reed,PHI,Reed S.FOUL (P2.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0837,2,07:21,PHI,,NYK,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0837,2,06:47,PHI,,NYK,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0837,4,10:59,PHI,,NYK,,P. Reed,PHI,Reed REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0837,4,07:06,PHI,,NYK,,P. Reed,PHI,Reed STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0837,4,06:58,PHI,,NYK,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0972,2,11:13,IND,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0972,2,10:46,IND,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0972,2,10:45,IND,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0972,2,10:26,IND,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0972,2,10:12,IND,,PHI,,P. Reed,PHI,Reed BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0972,2,09:49,IND,43.0,PHI,44.0,P. Reed,PHI,Reed 1' Reverse Layup (2 PTS) (Harden 5 AST),Made Shot,Reverse Layup Shot,9,6,1,1,2.0,2.0,v
+S2223-G0972,2,09:19,IND,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0972,2,09:14,IND,,PHI,,P. Reed,PHI,Reed Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0972,2,07:51,IND,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0972,2,06:56,IND,55.0,PHI,55.0,P. Reed,PHI,Reed Reverse Dunk (4 PTS) (Harden 8 AST),Made Shot,Reverse Dunk Shot,-2,3,0,1,2.0,2.0,v
+S2223-G0972,2,06:36,IND,,PHI,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0972,4,11:40,IND,114.0,PHI,116.0,P. Reed,PHI,Reed 5' Driving Layup (6 PTS) (Harden 17 AST),Made Shot,Driving Layup Shot,0,48,5,1,2.0,2.0,v
+S2223-G0972,4,09:00,IND,,PHI,,P. Reed,PHI,Reed BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0972,4,07:24,IND,,PHI,,P. Reed,PHI,Reed L.B.FOUL (P1.T4) (J.Goble),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0972,4,06:43,IND,120.0,PHI,130.0,P. Reed,PHI,Reed 1' Cutting Dunk Shot (8 PTS) (House Jr. 4 AST),Made Shot,Cutting Dunk Shot,-1,12,1,1,2.0,2.0,v
+S2223-G0972,4,06:31,IND,,PHI,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0698,1,01:31,SAC,33.0,PHI,25.0,P. Reed,PHI,Reed 3' Reverse Layup (2 PTS) (Maxey 2 AST),Made Shot,Reverse Layup Shot,-20,16,3,1,2.0,2.0,v
+S2223-G0698,1,01:21,SAC,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0698,1,00:22.300000,SAC,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0698,2,09:57,SAC,,PHI,,P. Reed,PHI,MISS Reed Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0698,2,09:57,SAC,46.0,PHI,32.0,P. Reed,PHI,Reed Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0698,2,08:03,SAC,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0698,2,07:23,SAC,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0698,2,07:23,SAC,51.0,PHI,43.0,P. Reed,PHI,Reed Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0698,2,07:01,SAC,,PHI,,P. Reed,PHI,Reed OFF.Foul (P1) (P.Fraher),Foul,Offensive,0,0,0,0,,,v
+S2223-G0698,2,07:01,SAC,,PHI,,P. Reed,PHI,Reed Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0698,2,06:25,SAC,,PHI,,P. Reed,PHI,SUB: Melton FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0698,3,01:51,SAC,,PHI,,P. Reed,PHI,Reed S.FOUL (P2.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0698,3,00:30.600000,SAC,96.0,PHI,102.0,P. Reed,PHI,Reed 5' Hook Bank Shot (7 PTS) (Milton 5 AST),Made Shot,Hook Bank Shot,-49,21,5,1,2.0,2.0,v
+S2223-G0698,4,11:08,SAC,,PHI,,P. Reed,PHI,Reed P.FOUL (P3.T2) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2223-G0698,4,10:33,SAC,,PHI,,P. Reed,PHI,MISS Reed 3' Driving Layup,Missed Shot,Driving Layup Shot,-28,17,3,1,2.0,0.0,v
+S2223-G0698,4,10:29,SAC,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0698,4,10:29,SAC,96.0,PHI,107.0,P. Reed,PHI,Reed Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0698,4,09:24,SAC,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0698,4,09:24,SAC,,PHI,,P. Reed,PHI,MISS Reed 2' Putback Layup,Missed Shot,Putback Layup Shot,-17,11,2,1,2.0,0.0,v
+S2223-G0698,4,08:35,SAC,,PHI,,P. Reed,PHI,Reed REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0698,4,08:18,SAC,,PHI,,P. Reed,PHI,Reed P.FOUL (P4.PN) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2223-G0698,4,08:18,SAC,,PHI,,P. Reed,PHI,SUB: Harrell FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0698,4,00:01,SAC,,PHI,,P. Reed,PHI,Reed REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1174,1,00:47.400000,MIL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1174,2,11:40,MIL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1174,2,09:05,MIL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1174,2,08:58,MIL,49.0,PHI,35.0,P. Reed,PHI,Reed Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G1174,2,08:28,MIL,49.0,PHI,37.0,P. Reed,PHI,Reed 2' Driving Layup (4 PTS) (McDaniels 1 AST),Made Shot,Driving Layup Shot,-5,15,2,1,2.0,2.0,v
+S2223-G1174,2,07:15,MIL,,PHI,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1174,3,01:18,MIL,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2223-G1174,3,00:11.200000,MIL,,PHI,,P. Reed,PHI,MISS Reed 16' Jump Shot,Missed Shot,Jump Shot,-60,151,16,1,2.0,0.0,v
+S2223-G1174,4,11:29,MIL,98.0,PHI,84.0,P. Reed,PHI,Reed 7' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,60,25,7,1,2.0,2.0,v
+S2223-G1174,4,10:55,MIL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1174,4,10:49,MIL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1174,4,10:44,MIL,,PHI,,P. Reed,PHI,SUB: Tucker FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1174,4,03:21,MIL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1174,4,02:46,MIL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1174,4,02:45,MIL,114.0,PHI,98.0,P. Reed,PHI,Reed 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,-13,21,2,1,2.0,2.0,v
+S2223-G1174,4,01:52,MIL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1174,4,00:55.400000,MIL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1174,4,00:33.200000,MIL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0226,1,01:11,PHI,,MIL,,P. Reed,PHI, ,Jump Ball,,0,0,0,0,,,h
+S2223-G0226,1,01:11,PHI,,MIL,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0226,1,00:19.100000,PHI,22.0,MIL,33.0,P. Reed,PHI,Reed 6' Turnaround Hook Shot (2 PTS) (Milton 1 AST),Made Shot,Turnaround Hook Shot,32,53,6,1,2.0,2.0,h
+S2223-G0226,1,00:03.500000,PHI,,MIL,,P. Reed,PHI,Reed S.FOUL (P1.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0226,2,11:22,PHI,,MIL,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0226,2,11:20,PHI,,MIL,,P. Reed,PHI,MISS Reed 5' Hook Shot,Missed Shot,Hook Shot,51,8,5,1,2.0,0.0,h
+S2223-G0226,2,11:10,PHI,,MIL,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0226,2,09:31,PHI,,MIL,,P. Reed,PHI,Reed REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0226,2,08:56,PHI,,MIL,,P. Reed,PHI,Reed REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0226,2,07:30,PHI,,MIL,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0226,2,02:33,PHI,,MIL,,P. Reed,PHI,SUB: Milton FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0226,3,03:09,PHI,,MIL,,P. Reed,PHI,Reed REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0226,3,02:17,PHI,,MIL,,P. Reed,PHI,Reed REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0226,3,01:56,PHI,,MIL,,P. Reed,PHI,Reed S.FOUL (P2.T4) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0226,3,01:06,PHI,,MIL,,P. Reed,PHI,Reed P.FOUL (P3.PN) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2223-G0908,2,11:37,PHI,,BOS,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0908,2,11:30,PHI,,BOS,,P. Reed,PHI,Reed Offensive Goaltending Turnover (P1.T5),Turnover,Offensive Goaltending,0,0,0,0,,,h
+S2223-G0908,2,09:18,PHI,,BOS,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0908,2,08:44,PHI,,BOS,,P. Reed,PHI,Reed Step Out of Bounds Turnover (P2.T6),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0908,2,08:28,PHI,,BOS,,P. Reed,PHI,SUB: Tucker FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0908,4,11:22,PHI,,BOS,,P. Reed,PHI,MISS Reed 6' Dunk,Missed Shot,Dunk Shot,-40,44,6,1,2.0,0.0,h
+S2223-G0908,4,10:50,PHI,,BOS,,P. Reed,PHI,SUB: Tucker FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0545,4,03:45,OKC,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0545,4,03:36,OKC,,PHI,,P. Reed,PHI,MISS Reed 1' Dunk,Missed Shot,Dunk Shot,4,11,1,1,2.0,0.0,v
+S2223-G0545,4,03:21,OKC,,PHI,,P. Reed,PHI,MISS Reed 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,88,79,12,1,2.0,0.0,v
+S2223-G0545,4,02:45,OKC,,PHI,,P. Reed,PHI,MISS Reed 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-70,26,7,1,2.0,0.0,v
+S2223-G0545,4,02:10,OKC,,PHI,,P. Reed,PHI,MISS Reed 8' Hook Shot,Missed Shot,Hook Shot,72,37,8,1,2.0,0.0,v
+S2223-G0545,4,02:01,OKC,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0545,4,01:57,OKC,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0545,4,01:54,OKC,88.0,PHI,113.0,P. Reed,PHI,Reed 1' Running Layup (2 PTS) (House Jr. 3 AST),Made Shot,Running Layup Shot,10,-1,1,1,2.0,2.0,v
+S2223-G0545,4,00:27.700000,OKC,,PHI,,P. Reed,PHI,Reed Offensive Charge Foul (P1) (M.Boland),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0545,4,00:27.700000,OKC,,PHI,,P. Reed,PHI,Reed Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0545,4,00:11.200000,OKC,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0791,4,05:02,SAS,,PHI,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0791,4,01:57,SAS,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0791,4,01:57,SAS,119.0,PHI,134.0,P. Reed,PHI,Reed Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0791,4,01:12,SAS,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0791,4,01:12,SAS,121.0,PHI,136.0,P. Reed,PHI,Reed Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0791,4,00:22.800000,SAS,,PHI,,P. Reed,PHI,MISS Reed 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,17,15,2,1,2.0,0.0,v
+S2223-G1047,2,11:41,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1047,2,10:31,CHA,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G1047,2,10:18,CHA,,PHI,,P. Reed,PHI,MISS Reed 4' Hook Shot,Missed Shot,Hook Shot,-29,21,4,1,2.0,0.0,v
+S2223-G1047,2,09:38,CHA,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1047,2,09:10,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1047,2,08:27,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1047,2,08:26,CHA,37.0,PHI,39.0,P. Reed,PHI,Reed Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1047,2,07:05,CHA,,PHI,,P. Reed,PHI,Reed BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1047,2,06:46,CHA,,PHI,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1047,3,00:28.400000,CHA,,PHI,,P. Reed,PHI,MISS Reed 4' Running Layup,Missed Shot,Running Layup Shot,31,23,4,1,2.0,0.0,v
+S2223-G1047,3,00:28,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1047,3,00:28,CHA,,PHI,,P. Reed,PHI,MISS Reed 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-1,17,2,1,2.0,0.0,v
+S2223-G1047,3,00:28,CHA,,PHI,,P. Reed,PHI,Reed Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1047,4,11:23,CHA,67.0,PHI,94.0,P. Reed,PHI,Reed 2' Layup (4 PTS),Made Shot,Layup Shot,-11,17,2,1,2.0,2.0,v
+S2223-G1047,4,10:41,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1047,4,10:40,CHA,67.0,PHI,96.0,P. Reed,PHI,Reed 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,11,21,2,1,2.0,2.0,v
+S2223-G1047,4,09:30,CHA,,PHI,,P. Reed,PHI,Reed P.FOUL (P2.T1) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2223-G1047,4,09:13,CHA,,PHI,,P. Reed,PHI,Reed BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G1047,4,09:09,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1047,4,09:00,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1047,4,09:00,CHA,,PHI,,P. Reed,PHI,Reed Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1047,4,08:19,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1047,4,07:41,CHA,,PHI,,P. Reed,PHI,MISS Reed 3' Layup,Missed Shot,Layup Shot,15,20,3,1,2.0,0.0,v
+S2223-G1047,4,07:37,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:6 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1047,4,07:37,CHA,67.0,PHI,105.0,P. Reed,PHI,Reed Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1047,4,07:16,CHA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1047,4,06:23,CHA,,PHI,,P. Reed,PHI,SUB: Dedmon FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1087,1,00:13.800000,CHI,,PHI,,P. Reed,PHI,Reed Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1087,2,11:03,CHI,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1087,2,10:36,CHI,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1087,2,09:12,CHI,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1087,2,09:12,CHI,,PHI,,P. Reed,PHI,MISS Reed Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1087,2,09:12,CHI,28.0,PHI,43.0,P. Reed,PHI,Reed Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1087,2,08:56,CHI,,PHI,,P. Reed,PHI,Reed Violation:Defensive Goaltending (E.Scott),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G1087,2,07:55,CHI,32.0,PHI,47.0,P. Reed,PHI,Reed Free Throw Flagrant 1 of 2 (2 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1087,2,07:55,CHI,,PHI,,P. Reed,PHI,MISS Reed Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1087,2,06:29,CHI,,PHI,,P. Reed,PHI,SUB: Melton FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1087,3,07:55,CHI,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1087,3,06:49,CHI,,PHI,,P. Reed,PHI,SUB: Dedmon FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1087,4,06:47,CHI,82.0,PHI,105.0,P. Reed,PHI,Reed Running Dunk (4 PTS) (Melton 4 AST),Made Shot,Running Dunk Shot,2,3,0,1,2.0,2.0,v
+S2223-G1087,4,05:14,CHI,84.0,PHI,106.0,P. Reed,PHI,Reed Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1087,4,05:14,CHI,84.0,PHI,107.0,P. Reed,PHI,Reed Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1087,4,04:08,CHI,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1087,4,03:32,CHI,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1087,4,03:15,CHI,,PHI,,P. Reed,PHI,SUB: Springer FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0356,1,03:24,HOU,,PHI,,P. Reed,PHI,MISS Reed Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,0,0,1,2.0,0.0,v
+S2223-G0356,1,02:05,HOU,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0356,2,11:10,HOU,,PHI,,P. Reed,PHI,Reed S.FOUL (P2.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0356,2,10:31,HOU,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0356,2,10:01,HOU,,PHI,,P. Reed,PHI,MISS Reed 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-17,73,7,1,2.0,0.0,v
+S2223-G0356,2,09:59,HOU,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0356,2,09:58,HOU,32.0,PHI,37.0,P. Reed,PHI,Reed Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0356,2,09:28,HOU,,PHI,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0356,4,11:36,HOU,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0356,4,11:36,HOU,90.0,PHI,86.0,P. Reed,PHI,Reed Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0356,4,11:28,HOU,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0356,4,10:51,HOU,,PHI,,P. Reed,PHI,MISS Reed Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0356,4,10:51,HOU,,PHI,,P. Reed,PHI,MISS Reed Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0356,4,09:56,HOU,,PHI,,P. Reed,PHI,Reed BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0356,4,09:43,HOU,95.0,PHI,87.0,P. Reed,PHI,Reed Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0356,4,09:43,HOU,95.0,PHI,88.0,P. Reed,PHI,Reed Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0356,4,09:20,HOU,,PHI,,P. Reed,PHI,Reed BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0356,4,08:38,HOU,,PHI,,P. Reed,PHI,Reed S.FOUL (P3.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0356,4,08:38,HOU,,PHI,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0356,5,00:01.200000,HOU,,PHI,,P. Reed,PHI,SUB: Korkmaz FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0356,6,04:05,HOU,,PHI,,P. Reed,PHI,Reed P.FOUL (P4.T1) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0356,6,03:04,HOU,,PHI,,P. Reed,PHI,Reed S.FOUL (P5.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0356,6,01:13,HOU,,PHI,,P. Reed,PHI,SUB: House Jr. FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1072,2,10:24,PHI,,CHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1072,2,08:00,PHI,,CHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1072,2,07:09,PHI,,CHI,,P. Reed,PHI,Reed S.FOUL (P1.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G1072,2,06:41,PHI,,CHI,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G1072,4,11:04,PHI,,CHI,,P. Reed,PHI,Reed S.FOUL (P2.T1) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G1072,4,10:22,PHI,72.0,CHI,74.0,P. Reed,PHI,Reed 1' Alley Oop Dunk (2 PTS) (Milton 1 AST),Made Shot,Alley Oop Dunk Shot,-6,3,1,1,2.0,2.0,h
+S2223-G1072,4,09:58,PHI,,CHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1072,4,08:51,PHI,,CHI,,P. Reed,PHI,MISS Reed 1' Driving Layup,Missed Shot,Driving Layup Shot,-4,6,1,1,2.0,0.0,h
+S2223-G1072,4,07:15,PHI,,CHI,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G1072,6,03:45,PHI,,CHI,,P. Reed,PHI,Reed S.FOUL (P3.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G1072,6,01:38,PHI,,CHI,,P. Reed,PHI,Reed S.FOUL (P4.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G1072,6,00:26.700000,PHI,,CHI,,P. Reed,PHI,SUB: Niang FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0073,4,01:50,TOR,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0073,4,00:21.200000,TOR,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0875,2,10:51,PHI,,CLE,,P. Reed,PHI,Jump Ball Reed vs. Mobley: Tip to Wade,Jump Ball,,0,0,0,0,,,h
+S2223-G0875,2,10:01,PHI,,CLE,,P. Reed,PHI,Reed S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G0875,2,09:28,PHI,,CLE,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0875,2,09:25,PHI,,CLE,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0875,2,08:02,PHI,,CLE,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0875,2,08:02,PHI,46.0,CLE,28.0,P. Reed,PHI,Reed Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0875,2,07:39,PHI,,CLE,,P. Reed,PHI,Reed BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0875,2,06:27,PHI,,CLE,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0875,4,11:11,PHI,,CLE,,P. Reed,PHI,Reed REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0875,4,10:43,PHI,,CLE,,P. Reed,PHI,Reed Violation:Kicked Ball (N.Buchert),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0875,4,10:37,PHI,,CLE,,P. Reed,PHI,Reed S.FOUL (P2.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G0875,4,10:23,PHI,,CLE,,P. Reed,PHI,Reed Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0875,4,09:24,PHI,,CLE,,P. Reed,PHI,MISS Reed Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0875,4,09:24,PHI,93.0,CLE,78.0,P. Reed,PHI,Reed Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0875,4,08:53,PHI,95.0,CLE,81.0,P. Reed,PHI,Reed Driving Layup (5 PTS) (Maxey 2 AST),Made Shot,Driving Layup Shot,2,1,0,1,2.0,2.0,h
+S2223-G0875,4,08:39,PHI,,CLE,,P. Reed,PHI,Reed REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0875,4,08:06,PHI,,CLE,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0770,2,07:42,PHI,,ORL,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0770,2,06:50,PHI,,ORL,,P. Reed,PHI,Reed OFF.Foul (P1) (K.Lane),Foul,Offensive,0,0,0,0,,,h
+S2223-G0770,2,06:50,PHI,,ORL,,P. Reed,PHI,Reed Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0770,2,06:50,PHI,,ORL,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G1198,2,09:25,PHI,,MIA,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1198,2,08:36,PHI,,MIA,,P. Reed,PHI,Reed Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1198,2,07:59,PHI,,MIA,,P. Reed,PHI,Jump Ball Reed vs. Martin: Tip to Milton,Jump Ball,,0,0,0,0,,,h
+S2223-G1198,2,07:50,PHI,35.0,MIA,50.0,P. Reed,PHI,Reed 3' Reverse Layup (2 PTS) (Milton 4 AST),Made Shot,Reverse Layup Shot,-15,21,3,1,2.0,2.0,h
+S2223-G1198,2,06:26,PHI,,MIA,,P. Reed,PHI,76ERS T.Foul (Def. 3 Sec Reed ) (C.Washington),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G1198,2,06:26,PHI,,MIA,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G1198,4,08:41,PHI,,MIA,,P. Reed,PHI,Reed Offensive Charge Foul (P1) (J.Goble),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1198,4,08:41,PHI,,MIA,,P. Reed,PHI,Reed Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1198,4,07:36,PHI,,MIA,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1198,4,07:15,PHI,,MIA,,P. Reed,PHI,SUB: Harrell FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0273,1,02:15,ORL,,PHI,,P. Reed,PHI,Reed L.B.FOUL (P1.T3) (J.Sterling),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0273,1,00:49.700000,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,1,00:46.100000,ORL,27.0,PHI,23.0,P. Reed,PHI,Reed 3' Layup (2 PTS),Made Shot,Layup Shot,13,31,3,1,2.0,2.0,v
+S2223-G0273,1,00:35.100000,ORL,,PHI,,P. Reed,PHI,Reed S.FOUL (P2.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0273,2,10:44,ORL,,PHI,,P. Reed,PHI,SUB: Harrell FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0273,2,01:29,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,2,00:28.200000,ORL,,PHI,,P. Reed,PHI,Reed S.FOUL (P3.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0273,2,00:28.200000,ORL,,PHI,,P. Reed,PHI,SUB: Niang FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0273,3,00:18.800000,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,4,11:41,ORL,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0273,4,10:02,ORL,81.0,PHI,89.0,P. Reed,PHI,Reed 2' Dunk (4 PTS) (Niang 2 AST),Made Shot,Dunk Shot,-16,11,2,1,2.0,2.0,v
+S2223-G0273,4,09:14,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,4,09:14,ORL,,PHI,,P. Reed,PHI,MISS Reed 1' Tip Dunk Shot,Missed Shot,Tip Dunk Shot,-1,12,1,1,2.0,0.0,v
+S2223-G0273,4,09:13,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,4,09:11,ORL,84.0,PHI,91.0,P. Reed,PHI,Reed 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,7,10,1,1,2.0,2.0,v
+S2223-G0273,4,08:01,ORL,,PHI,,P. Reed,PHI,MISS Reed 6' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,33,48,6,1,2.0,0.0,v
+S2223-G0273,4,07:47,ORL,,PHI,,P. Reed,PHI,Reed S.FOUL (P4.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0273,4,07:22,ORL,,PHI,,P. Reed,PHI,MISS Reed 26' 3PT Jump Shot,Missed Shot,Jump Shot,168,204,26,1,3.0,0.0,v
+S2223-G0273,4,06:19,ORL,,PHI,,P. Reed,PHI,Reed Violation:Defensive Goaltending (J.Sterling),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0273,4,04:29,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,4,03:38,ORL,,PHI,,P. Reed,PHI,MISS Reed 1' Reverse Layup,Missed Shot,Reverse Layup Shot,-2,10,1,1,2.0,0.0,v
+S2223-G0273,4,03:26,ORL,,PHI,,P. Reed,PHI,Reed P.FOUL (P5.PN) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2223-G0273,4,03:00,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,4,02:16,ORL,,PHI,,P. Reed,PHI,Reed S.FOUL (P6.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0273,4,02:16,ORL,,PHI,,P. Reed,PHI,SUB: Harrell FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0195,2,11:32,PHI,,UTA,,P. Reed,PHI,MISS Reed 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-2,20,2,1,2.0,0.0,h
+S2223-G0195,2,10:59,PHI,,UTA,,P. Reed,PHI,76ERS T.Foul (Def. 3 Sec Reed ) (P.Fraher),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G0195,2,10:51,PHI,,UTA,,P. Reed,PHI,Reed S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0195,2,08:35,PHI,,UTA,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0195,2,08:09,PHI,,UTA,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0195,2,07:23,PHI,,UTA,,P. Reed,PHI,MISS Reed 10' Jump Shot,Missed Shot,Jump Shot,94,-22,10,1,2.0,0.0,h
+S2223-G0195,2,07:15,PHI,,UTA,,P. Reed,PHI,SUB: Harrell FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0480,4,11:45,PHI,87.0,LAC,85.0,P. Reed,PHI,Reed 1' Alley Oop Layup (2 PTS) (Harden 17 AST),Made Shot,Alley Oop Layup shot,1,11,1,1,2.0,2.0,h
+S2223-G0480,4,09:49,PHI,,LAC,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0480,4,09:06,PHI,,LAC,,P. Reed,PHI,Reed S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G0480,4,06:48,PHI,,LAC,,P. Reed,PHI,Reed S.FOUL (P2.T4) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G0480,4,06:48,PHI,,LAC,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0382,2,10:50,PHI,,,,P. Reed,PHI,Reed S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0382,2,10:04,PHI,,,,P. Reed,PHI,MISS Reed 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,23,7,2,1,2.0,0.0,h
+S2223-G0382,2,09:54,PHI,,,,P. Reed,PHI,Reed S.FOUL (P2.T2) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0382,2,08:23,PHI,,,,P. Reed,PHI,Reed S.FOUL (P3.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0382,2,08:23,PHI,,,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0044,2,02:13,PHI,,IND,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0044,2,01:27,PHI,,IND,,P. Reed,PHI,Reed Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0044,2,00:11.300000,PHI,,IND,,P. Reed,PHI,SUB: Niang FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0044,4,08:28,PHI,,IND,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0044,4,08:26,PHI,,IND,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0044,4,07:33,PHI,,IND,,P. Reed,PHI,Reed S.FOUL (P1.T3) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0044,4,07:10,PHI,,IND,,P. Reed,PHI,MISS Reed 13' Jump Shot,Missed Shot,Jump Shot,56,120,13,1,2.0,0.0,h
+S2223-G0044,4,06:08,PHI,,IND,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0044,4,00:22.100000,PHI,,IND,,P. Reed,PHI,MISS Reed 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,-9,26,3,1,2.0,0.0,h
+S2223-G1205,1,11:39,ATL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,1,11:38,ATL,0.0,PHI,2.0,P. Reed,PHI,Reed 2' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,4,15,2,1,2.0,2.0,v
+S2223-G1205,1,09:06,ATL,7.0,PHI,9.0,P. Reed,PHI,Reed Layup (4 PTS) (Milton 2 AST),Made Shot,Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1205,1,08:54,ATL,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G1205,1,07:58,ATL,,PHI,,P. Reed,PHI,MISS Reed 1' Layup,Missed Shot,Layup Shot,-7,9,1,1,2.0,0.0,v
+S2223-G1205,1,06:40,ATL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,1,05:45,ATL,,PHI,,P. Reed,PHI,Reed P.FOUL (P2.T3) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,v
+S2223-G1205,1,05:45,ATL,,PHI,,P. Reed,PHI,SUB: Dedmon FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1205,2,09:08,ATL,,PHI,,P. Reed,PHI,Reed P.FOUL (P3.T1) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2223-G1205,2,09:08,ATL,,PHI,,P. Reed,PHI,SUB: Harrell FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1205,3,09:49,ATL,70.0,PHI,59.0,P. Reed,PHI,Reed 5' Driving Hook Shot (6 PTS) (Milton 7 AST),Made Shot,Driving Hook Shot,43,33,5,1,2.0,2.0,v
+S2223-G1205,3,09:36,ATL,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1205,3,09:33,ATL,,PHI,,P. Reed,PHI,Reed Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1205,3,08:15,ATL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,3,08:15,ATL,,PHI,,P. Reed,PHI,MISS Reed Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1205,3,08:03,ATL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,3,07:03,ATL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,3,05:45,ATL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,3,05:25,ATL,,PHI,,P. Reed,PHI,Reed Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1205,3,02:25,ATL,85.0,PHI,80.0,P. Reed,PHI,Reed Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1205,3,02:25,ATL,85.0,PHI,81.0,P. Reed,PHI,Reed Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1205,3,02:15,ATL,,PHI,,P. Reed,PHI,Reed STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1205,3,02:14,ATL,,PHI,,P. Reed,PHI,SUB: Dedmon FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1205,4,02:09,ATL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,4,00:36.700000,ATL,,PHI,,P. Reed,PHI,SUB: Niang FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1205,5,04:29,ATL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,5,04:14,ATL,119.0,PHI,123.0,P. Reed,PHI,Reed 1' Layup (10 PTS) (Milton 13 AST),Made Shot,Layup Shot,5,2,1,1,2.0,2.0,v
+S2223-G0506,2,10:01,WAS,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0506,2,08:19,WAS,,PHI,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1035,2,11:34,CLE,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1035,2,09:44,CLE,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1035,2,09:44,CLE,,PHI,,P. Reed,PHI,MISS Reed Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1035,2,09:03,CLE,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1035,2,08:10,CLE,,PHI,,P. Reed,PHI,Reed Offensive Charge Foul (P1) (D.Richardson),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G1035,2,08:10,CLE,,PHI,,P. Reed,PHI,Reed Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1035,2,07:58,CLE,,PHI,,P. Reed,PHI,SUB: Tucker FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0059,3,01:58,TOR,,PHI,,P. Reed,PHI,Reed P.FOUL (P1.T3) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G0409,4,03:49,PHI,,SAC,,P. Reed,PHI,MISS Reed 3' Hook Shot,Missed Shot,Hook Shot,11,28,3,1,2.0,0.0,h
+S2223-G0409,4,03:14,PHI,,SAC,,P. Reed,PHI,MISS Reed 18' Jump Shot,Missed Shot,Jump Shot,78,157,18,1,2.0,0.0,h
+S2223-G0409,4,00:46.100000,PHI,,SAC,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0409,4,00:23.200000,PHI,,SAC,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0409,4,00:21.900000,PHI,,SAC,,P. Reed,PHI,MISS Reed 4' Layup,Missed Shot,Layup Shot,15,39,4,1,2.0,0.0,h
+S2223-G0188,1,00:25.900000,PHI,,ATL,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0188,2,09:08,PHI,,ATL,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0188,2,08:50,PHI,,ATL,,P. Reed,PHI,Reed P.FOUL (P1.T1) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2223-G0188,2,08:41,PHI,,ATL,,P. Reed,PHI,Reed L.B.FOUL (P2.T2) (J.Orr),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0188,2,07:09,PHI,,ATL,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0188,3,05:05,PHI,,ATL,,P. Reed,PHI,Reed P.FOUL (P3.PN) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2223-G0188,3,04:32,PHI,,ATL,,P. Reed,PHI,Reed S.FOUL (P4.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0188,3,03:08,PHI,,ATL,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0960,1,01:00,MIL,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0960,2,10:07,MIL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0960,2,09:45,MIL,,PHI,,P. Reed,PHI,MISS Reed Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0960,2,09:45,MIL,35.0,PHI,33.0,P. Reed,PHI,Reed Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0960,2,08:27,MIL,,PHI,,P. Reed,PHI,SUB: Tucker FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0960,4,11:40,MIL,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0960,4,10:11,MIL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0960,4,10:11,MIL,99.0,PHI,93.0,P. Reed,PHI,Reed 2' Putback Layup (3 PTS),Made Shot,Putback Layup Shot,-9,13,2,1,2.0,2.0,v
+S2223-G0960,4,10:11,MIL,99.0,PHI,94.0,P. Reed,PHI,Reed Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0960,4,09:15,MIL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0960,4,08:56,MIL,,PHI,,P. Reed,PHI,Reed S.FOUL (P2.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0960,4,08:11,MIL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0960,4,07:37,MIL,,PHI,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0297,1,03:33,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,1,03:28,ORL,,PHI,,P. Reed,PHI,Reed Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0297,1,02:58,ORL,,PHI,,P. Reed,PHI,Reed Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0297,1,01:58,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,1,01:51,ORL,30.0,PHI,27.0,P. Reed,PHI,Reed 1' Cutting Dunk Shot (2 PTS) (Korkmaz 2 AST),Made Shot,Cutting Dunk Shot,6,6,1,1,2.0,2.0,v
+S2223-G0297,2,08:48,ORL,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0297,2,08:45,ORL,34.0,PHI,45.0,P. Reed,PHI,Reed 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,2,11,1,1,2.0,2.0,v
+S2223-G0297,2,07:33,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,2,07:01,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,2,05:28,ORL,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0297,2,05:26,ORL,,PHI,,P. Reed,PHI,Reed L.B.FOUL (P1.T1) (K.Scott),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0297,2,04:47,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,2,04:29,ORL,39.0,PHI,56.0,P. Reed,PHI,Reed 4' Driving Dunk (6 PTS) (Milton 4 AST),Made Shot,Driving Dunk Shot,25,25,4,1,2.0,2.0,v
+S2223-G0297,2,03:08,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,2,02:14,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,2,01:49,ORL,,PHI,,P. Reed,PHI,Reed S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0297,2,01:49,ORL,,PHI,,P. Reed,PHI,SUB: Harrell FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0297,3,01:35,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,3,01:02,ORL,,PHI,,P. Reed,PHI,Reed Offensive Charge Foul (P3) (J.DeRosa),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0297,3,01:02,ORL,,PHI,,P. Reed,PHI,Reed Offensive Foul Turnover (P3.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0297,3,00:30.500000,ORL,71.0,PHI,97.0,P. Reed,PHI,Reed 3' Layup (8 PTS) (House Jr. 2 AST),Made Shot,Layup Shot,20,16,3,1,2.0,2.0,v
+S2223-G0297,4,11:17,ORL,,PHI,,P. Reed,PHI,Reed OFF.Foul (P4) (K.Scott),Foul,Offensive,0,0,0,0,,,v
+S2223-G0297,4,11:17,ORL,,PHI,,P. Reed,PHI,Reed Offensive Foul Turnover (P4.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0297,4,11:03,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,4,08:01,ORL,,PHI,,P. Reed,PHI,Reed Lost Ball Turnover (P5.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0297,4,07:36,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,4,06:44,ORL,88.0,PHI,113.0,P. Reed,PHI,Reed 1' Alley Oop Layup (10 PTS) (Milton 7 AST),Made Shot,Alley Oop Layup shot,9,0,1,1,2.0,2.0,v
+S2223-G0297,4,05:40,ORL,,PHI,,P. Reed,PHI,Reed BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0297,4,05:07,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,4,02:17,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,4,01:35,ORL,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,4,01:34,ORL,95.0,PHI,128.0,P. Reed,PHI,Reed 1' Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,7,1,1,1,2.0,2.0,v
+S2223-G0297,4,00:54.900000,ORL,,PHI,,P. Reed,PHI,Reed Violation:Kicked Ball (J.DeRosa),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0612,4,10:03,PHI,,DET,,P. Reed,PHI,Reed S.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0612,4,09:10,PHI,,DET,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0612,4,05:54,PHI,131.0,DET,102.0,P. Reed,PHI,Reed Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0612,4,05:54,PHI,132.0,DET,102.0,P. Reed,PHI,Reed Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0612,4,05:35,PHI,134.0,DET,104.0,P. Reed,PHI,Reed 1' Dunk (4 PTS) (Milton 4 AST),Made Shot,Dunk Shot,-7,-5,1,1,2.0,2.0,h
+S2223-G0612,4,05:21,PHI,,DET,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0612,4,04:24,PHI,,DET,,P. Reed,PHI,Reed BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0612,4,04:17,PHI,,DET,,P. Reed,PHI,Reed L.B.FOUL (P2.PN) (J.Capers),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0612,4,03:03,PHI,143.0,DET,113.0,P. Reed,PHI,Reed 2' Layup (6 PTS) (Milton 6 AST),Made Shot,Layup Shot,-17,6,2,1,2.0,2.0,h
+S2223-G0612,4,02:42,PHI,,DET,,P. Reed,PHI,Reed BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0612,4,02:39,PHI,,DET,,P. Reed,PHI,Reed REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0612,4,01:05,PHI,,DET,,P. Reed,PHI,Reed Out of Bounds Lost Ball Turnover (P1.T18),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0612,4,00:53.800000,PHI,,DET,,P. Reed,PHI,Reed REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1150,1,02:19,PHI,,TOR,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1150,2,11:42,PHI,32.0,TOR,30.0,P. Reed,PHI,Reed Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1150,2,11:42,PHI,33.0,TOR,30.0,P. Reed,PHI,Reed Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1150,2,11:18,PHI,,TOR,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1150,2,11:15,PHI,,TOR,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1150,2,10:30,PHI,37.0,TOR,32.0,P. Reed,PHI,Reed 2' Layup (4 PTS) (Harden 3 AST),Made Shot,Layup Shot,16,8,2,1,2.0,2.0,h
+S2223-G1150,2,08:51,PHI,41.0,TOR,36.0,P. Reed,PHI,Reed 3' Layup (6 PTS) (House Jr. 1 AST),Made Shot,Layup Shot,27,10,3,1,2.0,2.0,h
+S2223-G1150,2,08:51,PHI,42.0,TOR,36.0,P. Reed,PHI,Reed Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1150,2,07:27,PHI,,TOR,,P. Reed,PHI,Reed REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1150,2,06:52,PHI,,TOR,,P. Reed,PHI,Reed REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1150,2,06:43,PHI,52.0,TOR,40.0,P. Reed,PHI,Reed 1' Cutting Layup Shot (9 PTS) (Harden 4 AST),Made Shot,Cutting Layup Shot,13,0,1,1,2.0,2.0,h
+S2223-G1150,2,05:45,PHI,,TOR,,P. Reed,PHI,SUB: Maxey FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G1150,4,10:12,PHI,,TOR,,P. Reed,PHI,MISS Reed 3' Layup,Missed Shot,Layup Shot,2,29,3,1,2.0,0.0,h
+S2223-G1150,4,10:10,PHI,,TOR,,P. Reed,PHI,Reed REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1150,4,09:25,PHI,,TOR,,P. Reed,PHI,Reed REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1150,4,08:16,PHI,102.0,TOR,96.0,P. Reed,PHI,Reed Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1150,4,08:16,PHI,103.0,TOR,96.0,P. Reed,PHI,Reed Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1150,4,07:37,PHI,,TOR,,P. Reed,PHI,MISS Reed 2' Driving Dunk,Missed Shot,Driving Dunk Shot,-11,17,2,1,2.0,0.0,h
+S2223-G1150,4,07:35,PHI,,TOR,,P. Reed,PHI,Reed Offensive Goaltending Turnover (P1.T14),Turnover,Offensive Goaltending,0,0,0,0,,,h
+S2223-G1150,4,07:35,PHI,,TOR,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G1110,1,00:27.500000,PHX,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1110,1,00:27.500000,PHX,24.0,PHI,23.0,P. Reed,PHI,Reed Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1110,1,00:27.500000,PHX,24.0,PHI,24.0,P. Reed,PHI,Reed Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1110,2,11:02,PHX,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1110,2,09:35,PHX,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.T1) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G1110,2,07:26,PHX,,PHI,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0097,2,08:42,WAS,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0097,2,07:03,WAS,,PHI,,P. Reed,PHI,SUB: Harden FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0668,4,01:27,LAC,,PHI,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0804,2,09:16,NYK,32.0,PHI,39.0,P. Reed,PHI,Reed 1' Cutting Layup Shot (2 PTS) (Harden 8 AST),Made Shot,Cutting Layup Shot,-9,5,1,1,2.0,2.0,v
+S2223-G0804,2,07:53,NYK,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0804,2,07:53,NYK,,PHI,,P. Reed,PHI,SUB: Thybulle FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0804,4,11:38,NYK,,PHI,,P. Reed,PHI,MISS Reed 7' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,-56,42,7,1,2.0,0.0,v
+S2223-G0804,4,07:28,NYK,,PHI,,P. Reed,PHI,SUB: Harris FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0015,2,11:17,PHI,,MIL,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0015,2,07:59,PHI,,MIL,,P. Reed,PHI,Reed S.FOUL (P1.T2) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2223-G0015,2,07:05,PHI,,MIL,,P. Reed,PHI,SUB: Harris FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0432,4,00:37.600000,PHI,,GSW,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0432,4,00:36.900000,PHI,,GSW,,P. Reed,PHI,MISS Reed 3' Putback Layup,Missed Shot,Putback Layup Shot,21,15,3,1,2.0,0.0,h
+S2223-G0432,4,00:35.900000,PHI,,GSW,,P. Reed,PHI,Reed P.FOUL (P1.PN) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2223-G0432,4,00:16,PHI,118.0,GSW,106.0,P. Reed,PHI,Reed 3' Driving Hook Shot (2 PTS) (Milton 3 AST),Made Shot,Driving Hook Shot,-1,33,3,1,2.0,2.0,h
+S2223-G0432,4,00:02.600000,PHI,,GSW,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0936,1,02:25,MIA,28.0,PHI,26.0,P. Reed,PHI,Reed 13' Jump Shot (2 PTS) (Harris 3 AST),Made Shot,Jump Shot,131,6,13,1,2.0,2.0,v
+S2223-G0936,1,00:08.300000,MIA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0936,1,00:08.300000,MIA,35.0,PHI,34.0,P. Reed,PHI,Reed 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,23,1,2,1,2.0,2.0,v
+S2223-G0936,2,09:17,MIA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0936,2,08:43,MIA,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0936,2,08:41,MIA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0936,2,08:16,MIA,43.0,PHI,51.0,P. Reed,PHI,Reed 1' Running Dunk (6 PTS) (Melton 2 AST),Made Shot,Running Dunk Shot,5,4,1,1,2.0,2.0,v
+S2223-G0936,2,07:57,MIA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0936,2,07:06,MIA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0936,2,07:06,MIA,,PHI,,P. Reed,PHI,MISS Reed Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0936,2,07:04,MIA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0936,2,07:03,MIA,45.0,PHI,53.0,P. Reed,PHI,Reed 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,17,4,2,1,2.0,2.0,v
+S2223-G0936,2,06:40,MIA,45.0,PHI,54.0,P. Reed,PHI,Reed Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0936,2,06:40,MIA,45.0,PHI,55.0,P. Reed,PHI,Reed Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0936,2,05:42,MIA,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.T2) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2223-G0936,2,05:14,MIA,,PHI,,P. Reed,PHI,Reed Violation:Kicked Ball (J.DeRosa),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0936,2,04:09,MIA,,PHI,,P. Reed,PHI,SUB: Tucker FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G0936,3,03:07,MIA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0936,3,02:29,MIA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0936,4,11:24,MIA,77.0,PHI,98.0,P. Reed,PHI,Reed 2' Reverse Layup (12 PTS) (McDaniels 2 AST),Made Shot,Reverse Layup Shot,21,5,2,1,2.0,2.0,v
+S2223-G0936,4,10:27,MIA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0936,4,09:23,MIA,,PHI,,P. Reed,PHI,Reed S.FOUL (P2.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0936,4,08:06,MIA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0936,4,07:27,MIA,83.0,PHI,106.0,P. Reed,PHI,Reed 6' Driving Layup (14 PTS) (Maxey 6 AST),Made Shot,Driving Layup Shot,58,13,6,1,2.0,2.0,v
+S2223-G0936,4,06:48,MIA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0936,4,06:48,MIA,,PHI,,P. Reed,PHI,MISS Reed 3' Putback Layup,Missed Shot,Putback Layup Shot,27,20,3,1,2.0,0.0,v
+S2223-G0936,4,04:24,MIA,,PHI,,P. Reed,PHI,MISS Reed 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-25,59,6,1,2.0,0.0,v
+S2223-G0936,4,03:35,MIA,,PHI,,P. Reed,PHI,Reed BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0936,4,02:58,MIA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:5 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0936,4,02:18,MIA,,PHI,,P. Reed,PHI,Reed S.FOUL (P3.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0936,4,00:59.900000,MIA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:5 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0936,4,00:41.400000,MIA,96.0,PHI,119.0,P. Reed,PHI,Reed 17' Jump Shot (16 PTS) (House Jr. 1 AST),Made Shot,Jump Shot,169,3,17,1,2.0,2.0,v
+S2223-G0936,4,00:22.600000,MIA,,PHI,,P. Reed,PHI,Reed REBOUND (Off:5 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0920,2,11:20,PHI,23.0,MIA,31.0,P. Reed,PHI,Reed Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0920,2,11:20,PHI,24.0,MIA,31.0,P. Reed,PHI,Reed Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0920,2,10:51,PHI,,MIA,,P. Reed,PHI,Reed REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0920,2,08:46,PHI,,MIA,,P. Reed,PHI,MISS Reed 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,62,47,8,1,2.0,0.0,h
+S2223-G0920,2,08:44,PHI,,MIA,,P. Reed,PHI,MISS Reed 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,134,66,15,1,2.0,0.0,h
+S2223-G0920,2,08:11,PHI,,MIA,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0920,2,08:09,PHI,31.0,MIA,37.0,P. Reed,PHI,Reed 3' Hook Shot (4 PTS),Made Shot,Hook Shot,-9,24,3,1,2.0,2.0,h
+S2223-G0920,2,07:49,PHI,,MIA,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0920,3,02:18,PHI,73.0,MIA,77.0,P. Reed,PHI,Reed 4' Turnaround Bank Hook Shot (6 PTS) (Maxey 1 AST),Made Shot,Turnaround Bank Hook Shot,-36,10,4,1,2.0,2.0,h
+S2223-G0920,4,11:29,PHI,,MIA,,P. Reed,PHI,Reed REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0920,4,09:46,PHI,,MIA,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0998,2,10:43,PHI,,POR,,P. Reed,PHI,Reed S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0998,2,09:38,PHI,,POR,,P. Reed,PHI,MISS Reed 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-6,21,2,1,2.0,0.0,h
+S2223-G0998,2,09:35,PHI,,POR,,P. Reed,PHI,Reed REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0998,2,09:35,PHI,,POR,,P. Reed,PHI,MISS Reed Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0998,2,09:35,PHI,,POR,,P. Reed,PHI,Reed REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0998,2,09:33,PHI,34.0,POR,46.0,P. Reed,PHI,Reed Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0998,2,09:24,PHI,,POR,,P. Reed,PHI,Reed S.FOUL (P2.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0998,2,09:02,PHI,,POR,,P. Reed,PHI,Reed REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0998,2,08:59,PHI,,POR,,P. Reed,PHI,MISS Reed 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,18,4,2,1,2.0,0.0,h
+S2223-G0998,2,08:58,PHI,,POR,,P. Reed,PHI,Reed REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0998,2,08:55,PHI,,POR,,P. Reed,PHI,MISS Reed 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,-11,38,4,1,2.0,0.0,h
+S2223-G0998,2,07:17,PHI,40.0,POR,49.0,P. Reed,PHI,Reed 2' Cutting Layup Shot (4 PTS) (Harden 4 AST),Made Shot,Cutting Layup Shot,20,14,2,1,2.0,2.0,h
+S2223-G0998,2,07:01,PHI,,POR,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G0998,4,10:04,PHI,,POR,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0998,4,09:38,PHI,,POR,,P. Reed,PHI,Reed S.FOUL (P3.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0998,4,09:02,PHI,,POR,,P. Reed,PHI,Reed REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0998,4,07:14,PHI,,POR,,P. Reed,PHI,Reed Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0998,4,06:33,PHI,,POR,,P. Reed,PHI,Reed S.FOUL (P4.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0998,4,06:33,PHI,,POR,,P. Reed,PHI,SUB: Embiid FOR Reed,Substitution,,0,0,0,0,,,h
+S2223-G1126,1,01:15,DEN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1126,1,01:15,DEN,24.0,PHI,16.0,P. Reed,PHI,Reed Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1126,1,00:02.500000,DEN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1126,2,11:08,DEN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1126,2,10:11,DEN,,PHI,,P. Reed,PHI,Reed STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1126,2,09:00,DEN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1126,2,08:58,DEN,32.0,PHI,30.0,P. Reed,PHI,Reed 3' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,29,13,3,1,2.0,2.0,v
+S2223-G1126,2,06:50,DEN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1126,2,06:39,DEN,,PHI,,P. Reed,PHI,SUB: Tucker FOR Reed,Substitution,,0,0,0,0,,,v
+S2223-G1126,3,05:31,DEN,,PHI,,P. Reed,PHI,Reed S.FOUL (P1.T4) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2223-G1126,3,05:12,DEN,,PHI,,P. Reed,PHI,Reed BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1126,3,05:03,DEN,,PHI,,P. Reed,PHI,Reed L.B.FOUL (P2.PN) (J.Conley),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1126,3,04:18,DEN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1126,3,04:06,DEN,83.0,PHI,65.0,P. Reed,PHI,Reed 12' Jump Shot (6 PTS) (McDaniels 1 AST),Made Shot,Jump Shot,124,13,12,1,2.0,2.0,v
+S2223-G1126,3,03:10,DEN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1126,3,03:02,DEN,86.0,PHI,68.0,P. Reed,PHI,Reed Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1126,3,03:02,DEN,86.0,PHI,69.0,P. Reed,PHI,Reed Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1126,3,02:48,DEN,,PHI,,P. Reed,PHI,Reed STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1126,3,02:46,DEN,86.0,PHI,71.0,P. Reed,PHI,Reed 3' Running Layup (10 PTS),Made Shot,Running Layup Shot,-31,13,3,1,2.0,2.0,v
+S2223-G1126,3,02:46,DEN,,PHI,,P. Reed,PHI,MISS Reed Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G1126,3,02:09,DEN,89.0,PHI,73.0,P. Reed,PHI,Reed 2' Driving Reverse Layup (12 PTS) (Milton 1 AST),Made Shot,Driving Reverse Layup Shot,21,11,2,1,2.0,2.0,v
+S2223-G1126,3,01:47,DEN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1126,3,01:46,DEN,,PHI,,P. Reed,PHI,Reed Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1126,3,00:33.800000,DEN,,PHI,,P. Reed,PHI,Reed REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1126,4,09:43,DEN,97.0,PHI,82.0,P. Reed,PHI,Reed 3' Reverse Layup (14 PTS) (Maxey 3 AST),Made Shot,Reverse Layup Shot,27,22,3,1,2.0,2.0,v
+S2223-G1126,4,08:52,DEN,99.0,PHI,84.0,P. Reed,PHI,Reed 6' Hook Shot (16 PTS) (Maxey 4 AST),Made Shot,Hook Shot,-5,62,6,1,2.0,2.0,v
+S2223-G1126,4,08:35,DEN,,PHI,,P. Reed,PHI,SUB: Melton FOR Reed,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,250 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0647,2,10:58,POR,35.0,DAL,32.0,T. Pinson,DAL,Pinson Cutting Layup Shot (2 PTS) (Bertans 1 AST),Made Shot,Cutting Layup Shot,1,4,0,1,2.0,2.0,v
+S2223-G0647,2,10:27,POR,,DAL,,T. Pinson,DAL,MISS Pinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,152,215,26,1,3.0,0.0,v
+S2223-G0647,2,08:00,POR,,DAL,,T. Pinson,DAL,MISS Pinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,135,225,26,1,3.0,0.0,v
+S2223-G0647,2,07:51,POR,,DAL,,T. Pinson,DAL,SUB: Powell FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0647,4,06:26,POR,125.0,DAL,104.0,T. Pinson,DAL,Pinson 26' 3PT Jump Shot (5 PTS) (Wright IV 1 AST),Made Shot,Jump Shot,-66,254,26,1,3.0,3.0,v
+S2223-G0647,4,05:27,POR,,DAL,,T. Pinson,DAL,MISS Pinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,116,238,26,1,3.0,0.0,v
+S2223-G0647,4,05:06,POR,130.0,DAL,107.0,T. Pinson,DAL,Pinson 26' 3PT Jump Shot (8 PTS) (Wright IV 2 AST),Made Shot,Jump Shot,-50,259,26,1,3.0,3.0,v
+S2223-G0647,4,00:57.500000,POR,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0647,4,00:30.900000,POR,136.0,DAL,119.0,T. Pinson,DAL,Pinson 3PT Jump Shot (11 PTS) (Lawson 1 AST),Made Shot,Jump Shot,-227,4,0,1,3.0,3.0,v
+S2223-G0391,4,00:33.200000,CHI,,DAL,,T. Pinson,DAL,MISS Pinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,190,179,26,1,3.0,0.0,v
+S2223-G0542,4,00:03.600000,SAS,,DAL,,T. Pinson,DAL,SUB: Bertans FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0298,4,01:38,MIL,,DAL,,T. Pinson,DAL,MISS Pinson 3PT Jump Shot,Missed Shot,Jump Shot,-229,31,0,1,3.0,0.0,v
+S2223-G0298,4,01:16,MIL,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0298,4,00:26.700000,MIL,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0298,4,00:26.700000,MIL,,DAL,,T. Pinson,DAL,Pinson Traveling Turnover (P1.T13),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0456,4,02:25,MIN,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0456,4,02:19,MIN,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0456,4,00:40,MIN,,DAL,,T. Pinson,DAL,Pinson P.FOUL (P1.T4) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2223-G0456,4,00:23,MIN,,DAL,,T. Pinson,DAL,MISS Pinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0456,4,00:23,MIN,116.0,DAL,106.0,T. Pinson,DAL,Pinson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1210,1,00:11,DAL,29.0,CHI,26.0,T. Pinson,DAL,Pinson 3PT Jump Shot (3 PTS) (Doncic 3 AST),Made Shot,Jump Shot,-222,17,0,1,3.0,3.0,h
+S2223-G1210,2,11:01,DAL,,CHI,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1210,2,10:59,DAL,,CHI,,T. Pinson,DAL,Pinson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1210,2,10:14,DAL,,CHI,,T. Pinson,DAL,MISS Pinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-127,221,25,1,3.0,0.0,h
+S2223-G1210,2,08:48,DAL,,CHI,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1210,2,08:30,DAL,,CHI,,T. Pinson,DAL,Pinson S.FOUL (P1.T3) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2223-G1210,2,07:05,DAL,,CHI,,T. Pinson,DAL,MISS Pinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-170,184,25,1,3.0,0.0,h
+S2223-G1210,2,06:26,DAL,,CHI,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1210,2,05:08,DAL,,CHI,,T. Pinson,DAL,Pinson Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1210,2,04:54,DAL,,CHI,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1210,2,02:16,DAL,61.0,CHI,47.0,T. Pinson,DAL,Pinson 3' Cutting Layup Shot (5 PTS) (Bullock 3 AST),Made Shot,Cutting Layup Shot,22,21,3,1,2.0,2.0,h
+S2223-G1210,2,02:16,DAL,,CHI,,T. Pinson,DAL,SUB: Powell FOR Pinson,Substitution,,0,0,0,0,,,h
+S2223-G1210,3,04:00,DAL,,CHI,,T. Pinson,DAL,MISS Pinson 27' 3PT Jump Shot,Missed Shot,Jump Shot,89,252,27,1,3.0,0.0,h
+S2223-G1210,3,03:46,DAL,,CHI,,T. Pinson,DAL,Pinson S.FOUL (P2.T3) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2223-G1210,3,02:33,DAL,,CHI,,T. Pinson,DAL,Pinson L.B.FOUL (P3.T4) (S.Foster),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1210,4,11:38,DAL,,CHI,,T. Pinson,DAL,MISS Pinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,170,172,24,1,3.0,0.0,h
+S2223-G1210,4,11:16,DAL,,CHI,,T. Pinson,DAL,Pinson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1210,4,07:05,DAL,,CHI,,T. Pinson,DAL,MISS Pinson 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-21,44,5,1,2.0,0.0,h
+S2223-G1210,4,06:52,DAL,,CHI,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1210,4,05:12,DAL,,CHI,,T. Pinson,DAL,MISS Pinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,178,174,25,1,3.0,0.0,h
+S2223-G1210,4,04:23,DAL,,CHI,,T. Pinson,DAL,Pinson S.FOUL (P4.T2) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2223-G1210,4,03:15,DAL,,CHI,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1210,4,02:44,DAL,105.0,CHI,110.0,T. Pinson,DAL,Pinson 26' 3PT Jump Shot (8 PTS) (Wright IV 3 AST),Made Shot,Jump Shot,-135,223,26,1,3.0,3.0,h
+S2223-G1210,4,00:20.400000,DAL,,CHI,,T. Pinson,DAL,MISS Pinson 28' 3PT Jump Shot,Missed Shot,Jump Shot,-93,268,28,1,3.0,0.0,h
+S2223-G1210,4,00:15.200000,DAL,,CHI,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0440,1,02:54,CLE,,DAL,,T. Pinson,DAL,Pinson Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0440,1,02:34,CLE,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0440,1,00:49.800000,CLE,,DAL,,T. Pinson,DAL,MISS Pinson 11' Floating Jump Shot,Missed Shot,Floating Jump shot,-61,96,11,1,2.0,0.0,v
+S2223-G0440,2,10:29,CLE,,DAL,,T. Pinson,DAL,MISS Pinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-201,171,26,1,3.0,0.0,v
+S2223-G0440,2,09:54,CLE,,DAL,,T. Pinson,DAL,MISS Pinson 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,38,48,6,1,2.0,0.0,v
+S2223-G0440,2,09:07,CLE,,DAL,,T. Pinson,DAL,MISS Pinson 2' Running Layup,Missed Shot,Running Layup Shot,-12,11,2,1,2.0,0.0,v
+S2223-G0440,2,08:14,CLE,,DAL,,T. Pinson,DAL,Pinson Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0440,2,07:42,CLE,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0440,2,07:18,CLE,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0440,2,06:50,CLE,,DAL,,T. Pinson,DAL,SUB: Wood FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0421,4,01:17,DAL,,CLE,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0421,4,01:16,DAL,89.0,CLE,105.0,T. Pinson,DAL,Pinson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0421,4,01:16,DAL,90.0,CLE,105.0,T. Pinson,DAL,Pinson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1123,4,05:01,IND,,DAL,,T. Pinson,DAL,Pinson P.FOUL (P1.T4) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2223-G1123,4,02:41,IND,,DAL,,T. Pinson,DAL,Pinson S.FOUL (P2.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G1123,4,02:11,IND,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1123,4,01:06,IND,,DAL,,T. Pinson,DAL,Pinson S.FOUL (P3.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G1123,4,00:21.400000,IND,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1123,4,00:01.200000,IND,,DAL,,T. Pinson,DAL,Pinson Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0230,4,01:59,DAL,,DEN,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0436,4,06:13,DAL,,POR,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0436,4,02:39,DAL,,POR,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0436,4,00:51.600000,DAL,,POR,,T. Pinson,DAL,MISS Pinson 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,147,205,25,1,3.0,0.0,h
+S2223-G0800,1,01:07,GSW,,DAL,,T. Pinson,DAL,Pinson Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0800,3,01:24,GSW,,DAL,,T. Pinson,DAL,Pinson Violation:Kicked Ball (J.Capers),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0494,1,05:06,DAL,,LAL,,T. Pinson,DAL,MISS Pinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,145,201,25,1,3.0,0.0,h
+S2223-G0494,1,04:07,DAL,,LAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0494,1,03:12,DAL,,LAL,,T. Pinson,DAL,MISS Pinson 3PT Jump Shot,Missed Shot,Jump Shot,230,19,0,1,3.0,0.0,h
+S2223-G0494,1,01:57,DAL,,LAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0494,3,00:10.600000,DAL,,LAL,,T. Pinson,DAL,SUB: Doncic FOR Pinson,Substitution,,0,0,0,0,,,h
+S2223-G0494,4,01:22,DAL,,LAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0528,4,02:47,DAL,,HOU,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0528,4,02:40,DAL,122.0,HOU,99.0,T. Pinson,DAL,Pinson 25' 3PT Jump Shot (3 PTS) (McGee 1 AST),Made Shot,Jump Shot,-6,248,25,1,3.0,3.0,h
+S2223-G0528,4,01:45,DAL,,HOU,,T. Pinson,DAL,MISS Pinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-113,220,25,1,3.0,0.0,h
+S2223-G0528,4,00:56.800000,DAL,,HOU,,T. Pinson,DAL,Pinson Personal Take Foul (P1.PN) (M.Boland),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0854,2,05:47,SAC,,DAL,,T. Pinson,DAL,Pinson Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0854,2,05:42,SAC,,DAL,,T. Pinson,DAL,SUB: Powell FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0854,3,02:51,SAC,,DAL,,T. Pinson,DAL,Pinson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0854,3,02:45,SAC,,DAL,,T. Pinson,DAL,MISS Pinson 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,196,162,25,1,3.0,0.0,v
+S2223-G0854,3,01:32,SAC,84.0,DAL,85.0,T. Pinson,DAL,Pinson 3PT Jump Shot (3 PTS) (Hardy 2 AST),Made Shot,Jump Shot,-224,3,0,1,3.0,3.0,v
+S2223-G0854,3,00:10.900000,SAC,,DAL,,T. Pinson,DAL,MISS Pinson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,147,224,27,1,3.0,0.0,v
+S2223-G0854,5,00:18.400000,SAC,,DAL,,T. Pinson,DAL,SUB: Irving FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0854,5,00:08.300000,SAC,,DAL,,T. Pinson,DAL,SUB: Powell FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0854,5,00:04.300000,SAC,,DAL,,T. Pinson,DAL,Pinson P.FOUL (P1.PN) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2223-G0854,5,00:00,SAC,,DAL,,T. Pinson,DAL,MISS Pinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-159,198,25,1,3.0,0.0,v
+S2223-G0881,1,04:34,DEN,,DAL,,T. Pinson,DAL,Pinson S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0881,1,00:57.800000,DEN,,DAL,,T. Pinson,DAL,MISS Pinson 8' Running Layup,Missed Shot,Running Layup Shot,50,58,8,1,2.0,0.0,v
+S2223-G0881,2,11:13,DEN,,DAL,,T. Pinson,DAL,MISS Pinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,49,255,26,1,3.0,0.0,v
+S2223-G0881,2,09:05,DEN,,DAL,,T. Pinson,DAL,SUB: Powell FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0881,2,02:13,DEN,,DAL,,T. Pinson,DAL,Pinson P.FOUL (P2.T2) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2223-G0881,2,00:12.500000,DEN,,DAL,,T. Pinson,DAL,MISS Pinson 3' Driving Layup,Missed Shot,Driving Layup Shot,-2,25,3,1,2.0,0.0,v
+S2223-G0881,4,11:49,DEN,,DAL,,T. Pinson,DAL,Pinson P.FOUL (P3.T1) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2223-G0881,4,07:41,DEN,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0881,4,07:41,DEN,,DAL,,T. Pinson,DAL,MISS Pinson Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0881,4,07:08,DEN,,DAL,,T. Pinson,DAL,SUB: Doncic FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0881,4,01:00,DEN,,DAL,,T. Pinson,DAL,MISS Pinson 29' 3PT Jump Shot,Missed Shot,Jump Shot,81,275,29,1,3.0,0.0,v
+S2223-G0602,2,00:10.500000,OKC,,DAL,,T. Pinson,DAL,SUB: Bertans FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0602,4,02:09,OKC,116.0,DAL,106.0,T. Pinson,DAL,Pinson 25' 3PT Jump Shot (3 PTS) (Wood 2 AST),Made Shot,Jump Shot,-108,220,25,1,3.0,3.0,v
+S2223-G0602,4,00:51.500000,OKC,,DAL,,T. Pinson,DAL,MISS Pinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-168,188,25,1,3.0,0.0,v
+S2223-G0593,4,00:30.900000,DAL,,NOP,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0593,4,00:30.900000,DAL,124.0,NOP,117.0,T. Pinson,DAL,Pinson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0593,4,00:30.900000,DAL,125.0,NOP,117.0,T. Pinson,DAL,Pinson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0337,4,02:20,NYK,,DAL,,T. Pinson,DAL,MISS Pinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-175,185,25,1,3.0,0.0,v
+S2223-G0337,4,02:14,NYK,,DAL,,T. Pinson,DAL,Pinson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0337,4,01:27,NYK,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0337,4,01:09,NYK,,DAL,,T. Pinson,DAL,MISS Pinson 3PT Jump Shot,Missed Shot,Jump Shot,-228,20,0,1,3.0,0.0,v
+S2223-G0264,4,01:38,BOS,,DAL,,T. Pinson,DAL,Pinson P.FOUL (P1.PN) (M.Myers),Foul,Personal,0,0,0,0,,,v
+S2223-G0264,4,01:04,BOS,125.0,DAL,112.0,T. Pinson,DAL,Pinson 9' Driving Layup (2 PTS) (Bertans 1 AST),Made Shot,Driving Layup Shot,-50,71,9,1,2.0,2.0,v
+S2223-G1224,1,09:39,DAL,,SAS,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,1,09:23,DAL,,SAS,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,1,09:15,DAL,,SAS,,T. Pinson,DAL,MISS Pinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,92,237,25,1,3.0,0.0,h
+S2223-G1224,1,07:29,DAL,,SAS,,T. Pinson,DAL,MISS Pinson 4' Driving Layup,Missed Shot,Driving Layup Shot,32,17,4,1,2.0,0.0,h
+S2223-G1224,1,07:26,DAL,,SAS,,T. Pinson,DAL,Pinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,1,07:25,DAL,,SAS,,T. Pinson,DAL,MISS Pinson 2' Putback Layup,Missed Shot,Putback Layup Shot,1,22,2,1,2.0,0.0,h
+S2223-G1224,1,07:05,DAL,,SAS,,T. Pinson,DAL,Pinson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,1,04:38,DAL,,SAS,,T. Pinson,DAL,SUB: Morris FOR Pinson,Substitution,,0,0,0,0,,,h
+S2223-G1224,2,09:44,DAL,,SAS,,T. Pinson,DAL,Pinson S.FOUL (P1.T2) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G1224,2,09:18,DAL,,SAS,,T. Pinson,DAL,Pinson S.FOUL (P2.T3) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1224,2,09:08,DAL,,SAS,,T. Pinson,DAL,Pinson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,2,09:04,DAL,26.0,SAS,52.0,T. Pinson,DAL,Pinson 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,10,15,2,1,2.0,2.0,h
+S2223-G1224,2,08:19,DAL,,SAS,,T. Pinson,DAL,Pinson REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,2,06:44,DAL,,SAS,,T. Pinson,DAL,Pinson REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,2,05:37,DAL,,SAS,,T. Pinson,DAL,Pinson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1224,2,01:53,DAL,53.0,SAS,69.0,T. Pinson,DAL,Pinson 26' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-208,151,26,1,3.0,3.0,h
+S2223-G1224,2,00:02.200000,DAL,,SAS,,T. Pinson,DAL,Pinson REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,3,10:03,DAL,67.0,SAS,74.0,T. Pinson,DAL,Pinson 26' 3PT Running Jump Shot (8 PTS) (Ntilikina 2 AST),Made Shot,Running Jump Shot,192,177,26,1,3.0,3.0,h
+S2223-G1224,3,08:26,DAL,71.0,SAS,80.0,T. Pinson,DAL,Pinson 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,13,1,1,2.0,2.0,h
+S2223-G1224,3,07:13,DAL,76.0,SAS,86.0,T. Pinson,DAL,Pinson 3PT Jump Shot (13 PTS) (Ntilikina 3 AST),Made Shot,Jump Shot,-222,0,0,1,3.0,3.0,h
+S2223-G1224,3,06:55,DAL,77.0,SAS,88.0,T. Pinson,DAL,Pinson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1224,3,06:55,DAL,78.0,SAS,88.0,T. Pinson,DAL,Pinson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1224,3,05:31,DAL,,SAS,,T. Pinson,DAL,Pinson REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,3,04:30,DAL,,SAS,,T. Pinson,DAL,MISS Pinson 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,91,214,23,1,2.0,0.0,h
+S2223-G1224,3,03:25,DAL,,SAS,,T. Pinson,DAL,Pinson REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,3,02:57,DAL,,SAS,,T. Pinson,DAL,SUB: Morris FOR Pinson,Substitution,,0,0,0,0,,,h
+S2223-G1224,4,07:38,DAL,,SAS,,T. Pinson,DAL,MISS Pinson 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,191,161,25,1,3.0,0.0,h
+S2223-G1224,4,06:42,DAL,,SAS,,T. Pinson,DAL,Pinson REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,4,05:21,DAL,,SAS,,T. Pinson,DAL,MISS Pinson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,93,236,25,1,3.0,0.0,h
+S2223-G1224,4,04:31,DAL,105.0,SAS,128.0,T. Pinson,DAL,Pinson 1' Running Dunk (17 PTS) (Lawson 1 AST),Made Shot,Running Dunk Shot,1,11,1,1,2.0,2.0,h
+S2223-G1224,4,03:49,DAL,,SAS,,T. Pinson,DAL,MISS Pinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,261,26,1,3.0,0.0,h
+S2223-G1224,4,03:17,DAL,,SAS,,T. Pinson,DAL,MISS Pinson 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-163,190,25,1,3.0,0.0,h
+S2223-G1224,4,03:08,DAL,,SAS,,T. Pinson,DAL,Pinson P.FOUL (P3.PN) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G1224,4,02:39,DAL,,SAS,,T. Pinson,DAL,Pinson REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,4,01:46,DAL,112.0,SAS,138.0,T. Pinson,DAL,Pinson 29' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,112,268,29,1,3.0,3.0,h
+S2223-G1224,4,01:06,DAL,,SAS,,T. Pinson,DAL,Pinson REBOUND (Off:2 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,4,00:22.400000,DAL,117.0,SAS,138.0,T. Pinson,DAL,Pinson 26' 3PT Jump Shot (23 PTS) (Wright IV 4 AST),Made Shot,Jump Shot,-210,156,26,1,3.0,3.0,h
+S2223-G0988,3,00:53.800000,NOP,,DAL,,T. Pinson,DAL,MISS Pinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,172,196,26,1,3.0,0.0,v
+S2223-G1161,2,09:07,MIA,,DAL,,T. Pinson,DAL,Pinson T.FOUL (P0.T2) (S.Corbin),Foul,Technical,0,0,0,0,,,v
+S2223-G0654,1,02:02,POR,,DAL,,T. Pinson,DAL,Pinson L.B.FOUL (P1.T4) (B.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0654,1,00:50.500000,POR,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0654,1,00:36.500000,POR,,DAL,,T. Pinson,DAL,Mavericks T.Foul (Def. 3 Sec Pinson ) (M.Ervin),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0654,2,10:26,POR,39.0,DAL,34.0,T. Pinson,DAL,Pinson 25' 3PT Jump Shot (3 PTS) (Ntilikina 4 AST),Made Shot,Jump Shot,-135,216,25,1,3.0,3.0,v
+S2223-G0654,2,10:09,POR,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0654,2,08:06,POR,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0654,2,07:56,POR,,DAL,,T. Pinson,DAL,MISS Pinson 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,17,37,4,1,2.0,0.0,v
+S2223-G0654,2,07:30,POR,,DAL,,T. Pinson,DAL,Pinson S.FOUL (P2.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0654,2,07:30,POR,,DAL,,T. Pinson,DAL,SUB: Bullock FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0654,3,04:13,POR,,DAL,,T. Pinson,DAL,Pinson Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0654,4,10:48,POR,,DAL,,T. Pinson,DAL,Pinson S.FOUL (P3.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0654,4,09:29,POR,,DAL,,T. Pinson,DAL,Pinson L.B.FOUL (P4.PN) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0654,4,09:29,POR,,DAL,,T. Pinson,DAL,Pinson T.FOUL (P4.PN) (B.Taylor),Foul,Technical,0,0,0,0,,,v
+S2223-G0654,4,09:29,POR,,DAL,,T. Pinson,DAL,SUB: Wood FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0654,4,00:49.300000,POR,,DAL,,T. Pinson,DAL,MISS Pinson 31' 3PT Jump Shot,Missed Shot,Jump Shot,-142,273,31,1,3.0,0.0,v
+S2223-G0761,1,03:34,DAL,,DET,,T. Pinson,DAL,Pinson T.FOUL (P0.T3) (E.Scott),Foul,Technical,0,0,0,0,,,h
+S2223-G1023,4,03:26,DAL,,MEM,,T. Pinson,DAL,MISS Pinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-167,204,26,1,3.0,0.0,h
+S2223-G1023,4,02:40,DAL,,MEM,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1023,4,01:12,DAL,,MEM,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0034,4,06:16,DAL,118.0,MEM,81.0,T. Pinson,DAL,Pinson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0034,4,06:16,DAL,119.0,MEM,81.0,T. Pinson,DAL,Pinson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0034,4,03:26,DAL,,MEM,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0034,4,00:07.800000,DAL,,MEM,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0556,4,10:58,HOU,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0556,4,09:43,HOU,89.0,DAL,88.0,T. Pinson,DAL,Pinson 27' 3PT Jump Shot (3 PTS) (Dinwiddie 4 AST),Made Shot,Jump Shot,-228,136,27,1,3.0,3.0,v
+S2223-G0556,4,08:44,HOU,,DAL,,T. Pinson,DAL,MISS Pinson 8' Driving Layup,Missed Shot,Driving Layup Shot,64,46,8,1,2.0,0.0,v
+S2223-G0556,4,08:34,HOU,,DAL,,T. Pinson,DAL,Pinson S.FOUL (P1.T3) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2223-G0556,4,07:45,HOU,,DAL,,T. Pinson,DAL,MISS Pinson 6' Driving Dunk,Missed Shot,Driving Dunk Shot,-5,59,6,1,2.0,0.0,v
+S2223-G0556,4,07:31,HOU,,DAL,,T. Pinson,DAL,SUB: Wood FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0813,1,03:41,UTA,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0813,1,03:33,UTA,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0813,1,02:21,UTA,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0813,1,02:21,UTA,,DAL,,T. Pinson,DAL,Pinson Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0813,2,09:22,UTA,37.0,DAL,36.0,T. Pinson,DAL,Pinson 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,27,245,25,1,3.0,3.0,v
+S2223-G0813,2,08:30,UTA,,DAL,,T. Pinson,DAL,SUB: Bullock FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0813,3,03:26,UTA,,DAL,,T. Pinson,DAL,MISS Pinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-158,210,26,1,3.0,0.0,v
+S2223-G0813,3,02:23,UTA,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0813,3,01:01,UTA,,DAL,,T. Pinson,DAL,Pinson L.B.FOUL (P1.T4) (N.Sago),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0686,4,02:18,DAL,,MIA,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0844,1,04:06,SAC,17.0,DAL,26.0,T. Pinson,DAL,Pinson 4' Cutting Layup Shot (2 PTS) (Wood 2 AST),Made Shot,Cutting Layup Shot,-28,31,4,1,2.0,2.0,v
+S2223-G0844,1,03:48,SAC,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0844,1,03:17,SAC,,DAL,,T. Pinson,DAL,MISS Pinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,195,159,25,1,3.0,0.0,v
+S2223-G0844,2,10:02,SAC,,DAL,,T. Pinson,DAL,Pinson S.FOUL (P1.T1) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0844,2,09:08,SAC,,DAL,,T. Pinson,DAL,SUB: Hardaway Jr. FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0844,4,10:17,SAC,,DAL,,T. Pinson,DAL,MISS Pinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,256,26,1,3.0,0.0,v
+S2223-G0844,4,09:23,SAC,,DAL,,T. Pinson,DAL,Pinson S.FOUL (P2.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0844,4,08:28,SAC,,DAL,,T. Pinson,DAL,Pinson Out of Bounds Lost Ball Turnover (P1.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0844,4,08:12,SAC,,DAL,,T. Pinson,DAL,Pinson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0844,4,05:56,SAC,,DAL,,T. Pinson,DAL,SUB: Green FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0844,4,00:43.200000,SAC,,DAL,,T. Pinson,DAL,MISS Pinson 29' 3PT Jump Shot,Missed Shot,Jump Shot,-131,262,29,1,3.0,0.0,v
+S2223-G0844,4,00:34,SAC,,DAL,,T. Pinson,DAL,SUB: Powell FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0891,4,05:41,DAL,,SAS,,T. Pinson,DAL,Pinson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0891,4,01:47,DAL,,SAS,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0891,4,01:21,DAL,,SAS,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0487,2,08:16,HOU,29.0,DAL,41.0,T. Pinson,DAL,Pinson 25' 3PT Jump Shot (3 PTS) (Wright IV 1 AST),Made Shot,Jump Shot,207,143,25,1,3.0,3.0,v
+S2223-G0487,2,07:14,HOU,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0487,2,04:12,HOU,35.0,DAL,49.0,T. Pinson,DAL,Pinson 26' 3PT Jump Shot (6 PTS) (Doncic 5 AST),Made Shot,Jump Shot,-136,224,26,1,3.0,3.0,v
+S2223-G0487,2,01:05,HOU,,DAL,,T. Pinson,DAL,Pinson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0487,2,00:00,HOU,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0487,2,00:00,HOU,,DAL,,T. Pinson,DAL,MISS Pinson Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0487,4,06:53,HOU,,DAL,,T. Pinson,DAL,Pinson P.FOUL (P1.T4) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2223-G0487,4,03:57,HOU,,DAL,,T. Pinson,DAL,SUB: Hardaway Jr. FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0487,4,03:13,HOU,,DAL,,T. Pinson,DAL,SUB: Bertans FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0487,4,00:03.500000,HOU,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0829,2,11:04,LAC,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0829,2,10:48,LAC,,DAL,,T. Pinson,DAL,Pinson P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2223-G0829,2,10:31,LAC,,DAL,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0829,2,10:21,LAC,,DAL,,T. Pinson,DAL,Pinson OFF.Foul (P2) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,v
+S2223-G0829,2,10:21,LAC,,DAL,,T. Pinson,DAL,Pinson Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0829,2,08:18,LAC,,DAL,,T. Pinson,DAL,SUB: Bullock FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0829,3,00:42.600000,LAC,,DAL,,T. Pinson,DAL,Pinson P.FOUL (P3.T4) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0829,4,11:05,LAC,78.0,DAL,85.0,T. Pinson,DAL,Pinson 4' Driving Finger Roll Layup (2 PTS) (Bullock 3 AST),Made Shot,Driving Finger Roll Layup Shot,2,37,4,1,2.0,2.0,v
+S2223-G0829,4,10:04,LAC,79.0,DAL,88.0,T. Pinson,DAL,Pinson 28' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,183,210,28,1,3.0,3.0,v
+S2223-G0829,4,09:00,LAC,,DAL,,T. Pinson,DAL,MISS Pinson 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-15,16,2,1,2.0,0.0,v
+S2223-G0829,4,07:10,LAC,84.0,DAL,91.0,T. Pinson,DAL,Pinson Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0829,4,07:10,LAC,,DAL,,T. Pinson,DAL,MISS Pinson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0829,4,06:41,LAC,84.0,DAL,94.0,T. Pinson,DAL,Pinson 27' 3PT Jump Shot (9 PTS) (Irving 5 AST),Made Shot,Jump Shot,-93,252,27,1,3.0,3.0,v
+S2223-G0829,4,04:06,LAC,,DAL,,T. Pinson,DAL,SUB: Powell FOR Pinson,Substitution,,0,0,0,0,,,v
+S2223-G0577,4,01:25,DAL,,BOS,,T. Pinson,DAL,MISS Pinson 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,52,24,1,3.0,0.0,h
+S2223-G0577,4,00:46.600000,DAL,92.0,BOS,120.0,T. Pinson,DAL,Pinson 10' Driving Floating Jump Shot (2 PTS) (Hardy 2 AST),Made Shot,Driving Floating Jump Shot,87,52,10,1,2.0,2.0,h
+S2223-G0577,4,00:46.600000,DAL,93.0,BOS,120.0,T. Pinson,DAL,Pinson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0865,1,03:02,DAL,,MIN,,T. Pinson,DAL,Pinson P.FOUL (P1.PN) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2223-G0865,1,00:26.200000,DAL,,MIN,,T. Pinson,DAL,MISS Pinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,40,253,26,1,3.0,0.0,h
+S2223-G0865,2,11:28,DAL,26.0,MIN,35.0,T. Pinson,DAL,Pinson 25' 3PT Jump Shot (3 PTS) (Green 1 AST),Made Shot,Jump Shot,-228,112,25,1,3.0,3.0,h
+S2223-G0865,2,10:50,DAL,29.0,MIN,35.0,T. Pinson,DAL,Pinson 24' 3PT Jump Shot (6 PTS) (Green 2 AST),Made Shot,Jump Shot,-237,22,24,1,3.0,3.0,h
+S2223-G0865,2,07:53,DAL,,MIN,,T. Pinson,DAL,Pinson S.FOUL (P2.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G0865,2,07:53,DAL,,MIN,,T. Pinson,DAL,SUB: Bullock FOR Pinson,Substitution,,0,0,0,0,,,h
+S2223-G0865,2,04:49,DAL,,MIN,,T. Pinson,DAL,Pinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0865,2,03:44,DAL,,MIN,,T. Pinson,DAL,MISS Pinson 28' 3PT Jump Shot,Missed Shot,Jump Shot,-148,235,28,1,3.0,0.0,h
+S2223-G0865,2,03:34,DAL,,MIN,,T. Pinson,DAL,SUB: Green FOR Pinson,Substitution,,0,0,0,0,,,h
+S2223-G0865,4,10:39,DAL,,MIN,,T. Pinson,DAL,Pinson S.FOUL (P3.T1) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G0865,4,09:20,DAL,,MIN,,T. Pinson,DAL,Pinson S.FOUL (P4.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0865,4,07:52,DAL,,MIN,,T. Pinson,DAL,Pinson S.FOUL (P5.T4) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0865,4,07:06,DAL,,MIN,,T. Pinson,DAL,MISS Pinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-50,245,25,1,3.0,0.0,h
+S2223-G0865,4,05:49,DAL,,MIN,,T. Pinson,DAL,SUB: Doncic FOR Pinson,Substitution,,0,0,0,0,,,h
+S2223-G0865,4,03:37,DAL,,MIN,,T. Pinson,DAL,MISS Pinson 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,15,5,2,1,2.0,0.0,h
+S2223-G0865,4,01:47,DAL,,MIN,,T. Pinson,DAL,SUB: Green FOR Pinson,Substitution,,0,0,0,0,,,h

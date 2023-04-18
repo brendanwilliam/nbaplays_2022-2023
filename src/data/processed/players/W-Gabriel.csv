@@ -1,0 +1,1042 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0574,1,04:42,LAL,15.0,MIA,14.0,W. Gabriel,LAL,Gabriel 5' Driving Layup (2 PTS) (Westbrook 1 AST),Made Shot,Driving Layup Shot,21,47,5,1,2.0,2.0,h
+S2223-G0574,1,02:16,LAL,23.0,MIA,22.0,W. Gabriel,LAL,Gabriel 2' Layup (4 PTS) (Westbrook 4 AST),Made Shot,Layup Shot,1,22,2,1,2.0,2.0,h
+S2223-G0574,1,00:00,LAL,32.0,MIA,23.0,W. Gabriel,LAL,Gabriel 3PT Jump Shot (7 PTS) (Westbrook 5 AST),Made Shot,Jump Shot,-225,-1,0,1,3.0,3.0,h
+S2223-G0574,2,10:29,LAL,,MIA,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0574,2,10:06,LAL,,MIA,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0574,2,09:55,LAL,,MIA,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0574,2,07:46,LAL,,MIA,,W. Gabriel,LAL,SUB: Toscano-Anderson FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0574,3,05:04,LAL,,MIA,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0574,3,04:54,LAL,,MIA,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0574,3,04:54,LAL,68.0,MIA,68.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0574,3,02:19,LAL,75.0,MIA,74.0,W. Gabriel,LAL,Gabriel 5' Turnaround Hook Shot (10 PTS) (Christie 1 AST),Made Shot,Turnaround Hook Shot,-7,49,5,1,2.0,2.0,h
+S2223-G0574,3,01:54,LAL,,MIA,,W. Gabriel,LAL,Gabriel L.B.FOUL (P2.T4) (L.Wood),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0574,3,00:35.200000,LAL,,MIA,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0574,4,11:36,LAL,,MIA,,W. Gabriel,LAL,MISS Gabriel 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-15,106,11,1,2.0,0.0,h
+S2223-G0574,4,11:16,LAL,,MIA,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0574,4,11:14,LAL,,MIA,,W. Gabriel,LAL,Gabriel OFF.Foul (P3) (L.Wood),Foul,Offensive,0,0,0,0,,,h
+S2223-G0574,4,11:14,LAL,,MIA,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P1.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0574,4,10:33,LAL,,MIA,,W. Gabriel,LAL,MISS Gabriel 9' Hook Shot,Missed Shot,Hook Shot,9,91,9,1,2.0,0.0,h
+S2223-G0574,4,09:17,LAL,,MIA,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0574,4,00:15.400000,LAL,,MIA,,W. Gabriel,LAL,SUB: Reaves FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0630,1,03:42,LAL,,DAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T3) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0630,1,02:02,LAL,,DAL,,W. Gabriel,LAL,MISS Gabriel 3' Hook Shot,Missed Shot,Hook Shot,7,34,3,1,2.0,0.0,h
+S2223-G0630,1,01:40,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0630,1,00:58.300000,LAL,,DAL,,W. Gabriel,LAL,MISS Gabriel 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,62,24,1,3.0,0.0,h
+S2223-G0630,2,09:52,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0630,2,08:29,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0630,2,06:52,LAL,,DAL,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0630,3,03:01,LAL,70.0,DAL,77.0,W. Gabriel,LAL,Gabriel 2' Layup (2 PTS) (Westbrook 3 AST),Made Shot,Layup Shot,-9,23,2,1,2.0,2.0,h
+S2223-G0630,3,02:29,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0630,3,02:28,LAL,72.0,DAL,79.0,W. Gabriel,LAL,Gabriel Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0630,3,00:28.700000,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0630,3,00:02.800000,LAL,,DAL,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0630,4,10:06,LAL,,DAL,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0630,4,09:04,LAL,,DAL,,W. Gabriel,LAL,Gabriel L.B.FOUL (P2.T2) (S.Mehta),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0630,4,08:03,LAL,,DAL,,W. Gabriel,LAL,Gabriel BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0630,4,06:48,LAL,,DAL,,W. Gabriel,LAL,Gabriel STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0630,4,06:27,LAL,,DAL,,W. Gabriel,LAL,SUB: Westbrook FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0630,4,03:37,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0630,4,01:58,LAL,97.0,DAL,97.0,W. Gabriel,LAL,Gabriel 3PT Jump Shot (7 PTS) (James 6 AST),Made Shot,Jump Shot,-233,23,0,1,3.0,3.0,h
+S2223-G0630,4,01:14,LAL,,DAL,,W. Gabriel,LAL,Gabriel S.FOUL (P3.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0630,4,00:20.100000,LAL,,DAL,,W. Gabriel,LAL,SUB: Nunn FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0630,5,05:00,LAL,,DAL,,W. Gabriel,LAL,Jump Ball Gabriel vs. Wood: Tip to Doncic,Jump Ball,,0,0,0,0,,,h
+S2223-G0630,5,02:56,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0630,5,02:56,LAL,103.0,DAL,103.0,W. Gabriel,LAL,Gabriel Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0630,5,02:56,LAL,,DAL,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0630,5,01:46,LAL,105.0,DAL,105.0,W. Gabriel,LAL,Gabriel 3' Cutting Layup Shot (11 PTS) (James 7 AST),Made Shot,Cutting Layup Shot,-7,31,3,1,2.0,2.0,h
+S2223-G0630,5,01:46,LAL,106.0,DAL,105.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0630,6,05:00,LAL,,DAL,,W. Gabriel,LAL,Jump Ball Gabriel vs. Wood: Tip to Dinwiddie,Jump Ball,,0,0,0,0,,,h
+S2223-G0630,6,00:50.700000,LAL,115.0,DAL,118.0,W. Gabriel,LAL,Gabriel 3' Cutting Dunk Shot (14 PTS) (James 9 AST),Made Shot,Cutting Dunk Shot,-4,25,3,1,2.0,2.0,h
+S2223-G0630,6,00:11.700000,LAL,,DAL,,W. Gabriel,LAL,SUB: Nunn FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0893,4,01:14,LAL,,GSW,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0955,2,11:18,LAL,,MIN,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T1) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2223-G0955,2,07:55,LAL,,MIN,,W. Gabriel,LAL,SUB: Schroder FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1186,2,10:29,UTA,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1186,2,08:57,UTA,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1186,2,08:45,UTA,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1186,2,08:45,UTA,39.0,LAL,43.0,W. Gabriel,LAL,Gabriel Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1186,2,08:24,UTA,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G1186,2,07:03,UTA,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G1186,2,07:03,UTA,,LAL,,W. Gabriel,LAL,SUB: Hachimura FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G1186,3,01:14,UTA,,LAL,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1186,3,01:14,UTA,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P2.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G1186,4,11:49,UTA,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1186,4,10:56,UTA,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1186,4,09:52,UTA,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G1186,4,00:11.400000,UTA,,LAL,,W. Gabriel,LAL,SUB: Brown Jr. FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0282,1,03:12,SAS,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0282,1,02:26,SAS,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0282,1,02:19,SAS,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0282,1,01:54,SAS,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0282,1,00:32,SAS,,LAL,,W. Gabriel,LAL,Gabriel OFF.Foul (P1) (A.Nagy),Foul,Offensive,0,0,0,0,,,v
+S2223-G0282,1,00:32,SAS,,LAL,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0282,2,07:48,SAS,30.0,LAL,42.0,W. Gabriel,LAL,Gabriel 1' Alley Oop Layup (2 PTS) (Nunn 1 AST),Made Shot,Alley Oop Layup shot,7,4,1,1,2.0,2.0,v
+S2223-G0282,2,06:57,SAS,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0282,3,02:13,SAS,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0282,4,00:52.500000,SAS,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0095,1,00:22.200000,LAL,,DEN,,W. Gabriel,LAL,SUB: James FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0095,2,06:49,LAL,40.0,DEN,41.0,W. Gabriel,LAL,Gabriel 2' Running Layup (2 PTS) (Westbrook 3 AST),Made Shot,Running Layup Shot,-4,15,2,1,2.0,2.0,h
+S2223-G0095,2,06:49,LAL,,DEN,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0095,2,00:53.900000,LAL,,DEN,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0095,3,05:20,LAL,,DEN,,W. Gabriel,LAL,MISS Gabriel 13' Jump Shot,Missed Shot,Jump Shot,127,10,13,1,2.0,0.0,h
+S2223-G0095,3,05:16,LAL,,DEN,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0095,3,05:13,LAL,72.0,DEN,77.0,W. Gabriel,LAL,Gabriel 2' Layup (4 PTS),Made Shot,Layup Shot,20,4,2,1,2.0,2.0,h
+S2223-G0095,3,04:34,LAL,,DEN,,W. Gabriel,LAL,MISS Gabriel 25' 3PT Jump Shot,Missed Shot,Jump Shot,-186,170,25,1,3.0,0.0,h
+S2223-G0095,3,03:52,LAL,,DEN,,W. Gabriel,LAL,Gabriel P.FOUL (P1.T3) (J.Butler),Foul,Personal,0,0,0,0,,,h
+S2223-G0095,3,03:24,LAL,,DEN,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0492,1,04:07,LAL,20.0,CHA,11.0,W. Gabriel,LAL,Gabriel 3' Layup (2 PTS) (Westbrook 1 AST),Made Shot,Layup Shot,23,26,3,1,2.0,2.0,h
+S2223-G0492,1,02:51,LAL,,CHA,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0492,1,02:44,LAL,,CHA,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0492,1,02:42,LAL,,CHA,,W. Gabriel,LAL,Gabriel Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0492,1,01:17,LAL,26.0,CHA,20.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0492,1,01:17,LAL,27.0,CHA,20.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0492,1,00:50.500000,LAL,,CHA,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0492,1,00:50.500000,LAL,29.0,CHA,22.0,W. Gabriel,LAL,Gabriel Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0492,1,00:02.600000,LAL,,CHA,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0492,1,00:02.600000,LAL,31.0,CHA,27.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0492,2,11:22,LAL,,CHA,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T1) (I.Hwang),Foul,Shooting,0,0,0,0,,,h
+S2223-G0492,2,10:54,LAL,,CHA,,W. Gabriel,LAL,Gabriel P.FOUL (P2.T2) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G0492,2,10:48,LAL,,CHA,,W. Gabriel,LAL,Gabriel S.FOUL (P3.T3) (I.Hwang),Foul,Shooting,0,0,0,0,,,h
+S2223-G0492,2,10:48,LAL,,CHA,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0492,3,05:39,LAL,,CHA,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0492,3,05:39,LAL,76.0,CHA,88.0,W. Gabriel,LAL,Gabriel Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0492,3,05:04,LAL,,CHA,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0492,3,01:47,LAL,,CHA,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0492,4,11:18,LAL,89.0,CHA,99.0,W. Gabriel,LAL,Gabriel 4' Layup (11 PTS) (James 5 AST),Made Shot,Layup Shot,-27,31,4,1,2.0,2.0,h
+S2223-G0492,4,09:24,LAL,,CHA,,W. Gabriel,LAL,Gabriel REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0492,4,09:24,LAL,96.0,CHA,106.0,W. Gabriel,LAL,Gabriel Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0492,4,09:06,LAL,,CHA,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0492,4,07:27,LAL,,CHA,,W. Gabriel,LAL,SUB: Schroder FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0324,1,01:51,LAL,19.0,POR,20.0,W. Gabriel,LAL,Gabriel 4' Reverse Layup (2 PTS) (Bryant 1 AST),Made Shot,Reverse Layup Shot,-4,38,4,1,2.0,2.0,h
+S2223-G0324,1,00:58.100000,LAL,,POR,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0324,1,00:13.900000,LAL,,POR,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0324,1,00:00.900000,LAL,,POR,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0324,1,00:00.900000,LAL,23.0,POR,22.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0324,1,00:00.900000,LAL,24.0,POR,22.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0324,2,02:33,LAL,,POR,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0324,3,02:02,LAL,,POR,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0324,3,01:21,LAL,94.0,POR,79.0,W. Gabriel,LAL,Gabriel 2' Layup (6 PTS) (Christie 1 AST),Made Shot,Layup Shot,-11,13,2,1,2.0,2.0,h
+S2223-G0324,3,00:04.400000,LAL,,POR,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0518,1,01:42,MIA,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0518,1,00:05.500000,MIA,33.0,LAL,24.0,W. Gabriel,LAL,Gabriel 2' Cutting Layup Shot (2 PTS) (Westbrook 1 AST),Made Shot,Cutting Layup Shot,-17,6,2,1,2.0,2.0,v
+S2223-G0518,1,00:05.500000,MIA,33.0,LAL,25.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0518,2,10:38,MIA,35.0,LAL,31.0,W. Gabriel,LAL,Gabriel 3PT Jump Shot (6 PTS) (Westbrook 2 AST),Made Shot,Jump Shot,223,27,0,1,3.0,3.0,v
+S2223-G0518,2,10:22,MIA,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0518,2,08:12,MIA,37.0,LAL,35.0,W. Gabriel,LAL,Gabriel 1' Cutting Dunk Shot (8 PTS) (James 5 AST),Made Shot,Cutting Dunk Shot,5,13,1,1,2.0,2.0,v
+S2223-G0518,2,07:56,MIA,,LAL,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0518,2,07:17,MIA,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T1) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0518,2,07:17,MIA,,LAL,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0518,3,04:09,MIA,82.0,LAL,67.0,W. Gabriel,LAL,Gabriel 8' Pullup Jump Shot (10 PTS) (Westbrook 6 AST),Made Shot,Pullup Jump shot,-2,80,8,1,2.0,2.0,v
+S2223-G0076,1,04:20,MIN,21.0,LAL,14.0,W. Gabriel,LAL,Gabriel 2' Cutting Layup Shot (2 PTS) (James 2 AST),Made Shot,Cutting Layup Shot,6,15,2,1,2.0,2.0,v
+S2223-G0076,1,04:04,MIN,,LAL,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0076,1,03:34,MIN,,LAL,,W. Gabriel,LAL,Gabriel OFF.Foul (P1) (J.Tiven),Foul,Offensive,0,0,0,0,,,v
+S2223-G0076,1,03:34,MIN,,LAL,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0076,1,02:56,MIN,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0076,1,02:47,MIN,24.0,LAL,18.0,W. Gabriel,LAL,Gabriel 1' Layup (4 PTS) (Reaves 1 AST),Made Shot,Layup Shot,2,13,1,1,2.0,2.0,v
+S2223-G0076,1,00:21.200000,MIN,,LAL,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0076,1,00:00,MIN,,LAL,,W. Gabriel,LAL,MISS Gabriel 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-12,10,2,1,2.0,0.0,v
+S2223-G0076,2,04:40,MIN,,LAL,,W. Gabriel,LAL,MISS Gabriel 3PT Jump Shot,Missed Shot,Jump Shot,227,48,0,1,3.0,0.0,v
+S2223-G0076,2,02:39,MIN,,LAL,,W. Gabriel,LAL,Gabriel STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0076,3,04:44,MIN,,LAL,,W. Gabriel,LAL,MISS Gabriel 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-43,73,8,1,2.0,0.0,v
+S2223-G0076,3,02:33,MIN,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0076,3,01:09,MIN,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0076,3,00:31.800000,MIN,78.0,LAL,74.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0076,3,00:31.800000,MIN,78.0,LAL,75.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0076,4,10:39,MIN,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0076,4,10:21,MIN,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0076,4,09:49,MIN,,LAL,,W. Gabriel,LAL,Gabriel STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0076,4,09:32,MIN,,LAL,,W. Gabriel,LAL,Gabriel BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0076,4,09:19,MIN,,LAL,,W. Gabriel,LAL,SUB: Jones FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0076,4,04:38,MIN,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P2.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0076,4,04:19,MIN,97.0,LAL,92.0,W. Gabriel,LAL,Gabriel 1' Reverse Layup (8 PTS) (James 4 AST),Made Shot,Reverse Layup Shot,1,11,1,1,2.0,2.0,v
+S2223-G0076,4,03:05,MIN,,LAL,,W. Gabriel,LAL,SUB: Reaves FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0076,4,00:05.400000,MIN,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0308,1,04:01,LAL,,IND,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0308,1,02:16,LAL,,IND,,W. Gabriel,LAL,MISS Gabriel 24' 3PT Jump Shot,Missed Shot,Jump Shot,228,79,24,1,3.0,0.0,h
+S2223-G0308,1,02:12,LAL,,IND,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0308,1,02:12,LAL,26.0,IND,27.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0308,1,00:49.900000,LAL,,IND,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0308,1,00:18.400000,LAL,,IND,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0308,1,00:15.400000,LAL,,IND,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0308,1,00:13.400000,LAL,32.0,IND,29.0,W. Gabriel,LAL,Gabriel 3' Tip Layup Shot (3 PTS),Made Shot,Tip Layup Shot,12,31,3,1,2.0,2.0,h
+S2223-G0308,2,11:46,LAL,,IND,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0308,2,11:44,LAL,,IND,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0308,2,11:36,LAL,,IND,,W. Gabriel,LAL,MISS Gabriel 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,25,27,4,1,2.0,0.0,h
+S2223-G0308,2,11:32,LAL,,IND,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0308,2,11:32,LAL,,IND,,W. Gabriel,LAL,MISS Gabriel 3' Putback Layup,Missed Shot,Putback Layup Shot,11,25,3,1,2.0,0.0,h
+S2223-G0308,2,10:35,LAL,,IND,,W. Gabriel,LAL,Gabriel Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0308,2,08:58,LAL,,IND,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0308,2,08:03,LAL,,IND,,W. Gabriel,LAL,SUB: Walker IV FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0308,4,11:14,LAL,,IND,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0308,4,09:59,LAL,101.0,IND,84.0,W. Gabriel,LAL,Gabriel 1' Dunk (5 PTS) (Westbrook 6 AST),Made Shot,Dunk Shot,4,12,1,1,2.0,2.0,h
+S2223-G0308,4,09:35,LAL,,IND,,W. Gabriel,LAL,Gabriel P.FOUL (P1.T1) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2223-G0308,4,09:08,LAL,,IND,,W. Gabriel,LAL,MISS Gabriel 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,12,17,2,1,2.0,0.0,h
+S2223-G0308,4,09:03,LAL,,IND,,W. Gabriel,LAL,Gabriel REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0308,4,09:03,LAL,,IND,,W. Gabriel,LAL,MISS Gabriel Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0308,4,07:36,LAL,,IND,,W. Gabriel,LAL,SUB: Walker IV FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0867,1,03:11,POR,,LAL,,W. Gabriel,LAL,MISS Gabriel 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-36,12,4,1,2.0,0.0,v
+S2223-G0867,1,01:18,POR,,LAL,,W. Gabriel,LAL,Gabriel OFF.Foul (P1) (T.Ford),Foul,Offensive,0,0,0,0,,,v
+S2223-G0867,1,01:18,POR,,LAL,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0867,1,00:08,POR,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0867,2,11:22,POR,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0867,2,11:22,POR,34.0,LAL,21.0,W. Gabriel,LAL,Gabriel 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-12,0,1,1,2.0,2.0,v
+S2223-G0867,2,11:08,POR,,LAL,,W. Gabriel,LAL,Gabriel P.FOUL (P2.T1) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2223-G0867,2,10:02,POR,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P3.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G0867,2,09:43,POR,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0867,2,09:41,POR,,LAL,,W. Gabriel,LAL,MISS Gabriel 3' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,31,6,3,1,2.0,0.0,v
+S2223-G0867,2,09:31,POR,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0867,4,03:49,POR,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0867,4,03:26,POR,119.0,LAL,103.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0867,4,03:26,POR,,LAL,,W. Gabriel,LAL,MISS Gabriel Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0867,4,02:00,POR,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0867,4,02:00,POR,125.0,LAL,107.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0867,4,02:00,POR,125.0,LAL,108.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0867,4,01:12,POR,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0867,4,01:12,POR,127.0,LAL,110.0,W. Gabriel,LAL,Gabriel 2' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,17,5,2,1,2.0,2.0,v
+S2223-G0867,4,00:32,POR,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0719,1,04:11,LAL,,LAC,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0719,1,04:11,LAL,,LAC,,W. Gabriel,LAL,MISS Gabriel Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0719,1,03:59,LAL,,LAC,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T2) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0719,1,03:36,LAL,19.0,LAC,22.0,W. Gabriel,LAL,Gabriel 5' Hook Bank Shot (2 PTS) (Westbrook 1 AST),Made Shot,Hook Bank Shot,-38,30,5,1,2.0,2.0,h
+S2223-G0719,1,01:49,LAL,,LAC,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0719,1,01:04,LAL,,LAC,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0719,1,01:02,LAL,26.0,LAC,31.0,W. Gabriel,LAL,Gabriel 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-1,22,2,1,2.0,2.0,h
+S2223-G0719,1,00:03.600000,LAL,,LAC,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0719,1,00:03.600000,LAL,30.0,LAC,34.0,W. Gabriel,LAL,Gabriel 1' Reverse Layup (6 PTS),Made Shot,Reverse Layup Shot,-6,7,1,1,2.0,2.0,h
+S2223-G0719,1,00:03.600000,LAL,,LAC,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0719,2,10:53,LAL,,LAC,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0719,2,10:47,LAL,,LAC,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0719,2,10:46,LAL,,LAC,,W. Gabriel,LAL,MISS Gabriel 3' Putback Layup,Missed Shot,Putback Layup Shot,-6,29,3,1,2.0,0.0,h
+S2223-G0719,2,09:11,LAL,,LAC,,W. Gabriel,LAL,SUB: Schroder FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0719,3,05:30,LAL,74.0,LAC,88.0,W. Gabriel,LAL,Gabriel 4' Cutting Layup Shot (8 PTS) (James 5 AST),Made Shot,Cutting Layup Shot,13,34,4,1,2.0,2.0,h
+S2223-G0719,3,01:54,LAL,,LAC,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0719,4,11:17,LAL,,LAC,,W. Gabriel,LAL,MISS Gabriel 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-17,17,2,1,2.0,0.0,h
+S2223-G0719,4,11:10,LAL,,LAC,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0719,4,11:10,LAL,,LAC,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0349,1,02:33,WAS,,LAL,,W. Gabriel,LAL,Gabriel P.FOUL (P1.T3) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2223-G0349,1,01:40,WAS,,LAL,,W. Gabriel,LAL,Gabriel P.FOUL (P2.T4) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2223-G0349,1,00:34.200000,WAS,,LAL,,W. Gabriel,LAL,MISS Gabriel 26' 3PT Jump Shot,Missed Shot,Jump Shot,199,162,26,1,3.0,0.0,v
+S2223-G0349,3,02:52,WAS,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0349,4,11:32,WAS,,LAL,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0349,4,10:46,WAS,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0349,4,09:41,WAS,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0349,4,00:33.100000,WAS,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0505,1,02:52,ORL,23.0,LAL,27.0,W. Gabriel,LAL,Gabriel 3PT Jump Shot (3 PTS) (Reaves 3 AST),Made Shot,Jump Shot,-227,24,0,1,3.0,3.0,v
+S2223-G0505,1,02:04,ORL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0505,1,01:55,ORL,,LAL,,W. Gabriel,LAL,MISS Gabriel 5' Hook Shot,Missed Shot,Hook Shot,-2,46,5,1,2.0,0.0,v
+S2223-G0505,1,00:12.100000,ORL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0505,2,11:08,ORL,,LAL,,W. Gabriel,LAL,Gabriel L.B.FOUL (P1.T1) (J.Goldenberg),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0505,2,10:37,ORL,,LAL,,W. Gabriel,LAL,MISS Gabriel 3PT Jump Shot,Missed Shot,Jump Shot,-230,8,0,1,3.0,0.0,v
+S2223-G0505,2,09:17,ORL,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G0505,2,06:46,ORL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0505,2,06:44,ORL,,LAL,,W. Gabriel,LAL,SUB: Walker IV FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0505,3,02:49,ORL,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P3.T4) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0505,3,02:45,ORL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0505,3,02:07,ORL,80.0,LAL,92.0,W. Gabriel,LAL,Gabriel 3' Cutting Layup Shot (5 PTS) (Westbrook 9 AST),Made Shot,Cutting Layup Shot,-23,25,3,1,2.0,2.0,v
+S2223-G0505,3,01:43,ORL,,LAL,,W. Gabriel,LAL,MISS Gabriel 3' Layup,Missed Shot,Layup Shot,26,15,3,1,2.0,0.0,v
+S2223-G0505,3,01:43,ORL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0505,3,00:53.800000,ORL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0964,2,11:43,LAL,,GSW,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0964,2,11:28,LAL,,GSW,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T1) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0964,2,11:26,LAL,,GSW,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0964,2,11:11,LAL,,GSW,,W. Gabriel,LAL,MISS Gabriel 5' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,-38,30,5,1,2.0,0.0,h
+S2223-G0964,2,10:23,LAL,35.0,GSW,23.0,W. Gabriel,LAL,Gabriel 3' Driving Layup (2 PTS) (Walker IV 1 AST),Made Shot,Driving Layup Shot,27,13,3,1,2.0,2.0,h
+S2223-G0964,2,09:46,LAL,,GSW,,W. Gabriel,LAL,Gabriel Offensive Charge Foul (P2) (M.Boland),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0964,2,09:46,LAL,,GSW,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0964,2,09:32,LAL,,GSW,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0964,3,00:38.900000,LAL,,GSW,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0964,3,00:10.900000,LAL,,GSW,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0964,4,11:02,LAL,,GSW,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0964,4,10:29,LAL,,GSW,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0964,4,08:05,LAL,,GSW,,W. Gabriel,LAL,Gabriel OFF.Foul (P3) (M.Boland),Foul,Offensive,0,0,0,0,,,h
+S2223-G0964,4,08:05,LAL,,GSW,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0964,4,08:05,LAL,,GSW,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1070,1,03:43,LAL,,ORL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1070,1,02:03,LAL,,ORL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1070,2,11:13,LAL,,ORL,,W. Gabriel,LAL,MISS Gabriel 4' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-23,37,4,1,2.0,0.0,h
+S2223-G1070,2,11:09,LAL,,ORL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1070,2,11:06,LAL,30.0,ORL,25.0,W. Gabriel,LAL,Gabriel 8' Hook Shot (2 PTS),Made Shot,Hook Shot,2,75,8,1,2.0,2.0,h
+S2223-G1070,2,10:31,LAL,,ORL,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1070,2,10:06,LAL,,ORL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1070,2,09:58,LAL,,ORL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1070,2,07:49,LAL,,ORL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T1) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G1070,2,07:25,LAL,,ORL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1070,2,06:52,LAL,,ORL,,W. Gabriel,LAL,SUB: Beasley FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1070,3,04:18,LAL,,ORL,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1070,3,02:42,LAL,,ORL,,W. Gabriel,LAL,LAKERS T.Foul (Def. 3 Sec Gabriel ) (C.Blair),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G1070,3,02:34,LAL,,ORL,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T4) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G1070,3,01:46,LAL,79.0,ORL,71.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1070,3,01:46,LAL,80.0,ORL,71.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1070,3,00:40.200000,LAL,,ORL,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1070,4,11:21,LAL,86.0,ORL,81.0,W. Gabriel,LAL,Gabriel 8' Hook Shot (6 PTS) (Hachimura 1 AST),Made Shot,Hook Shot,-22,73,8,1,2.0,2.0,h
+S2223-G1070,4,09:38,LAL,,ORL,,W. Gabriel,LAL,Gabriel L.B.FOUL (P3.T1) (C.Blair),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1070,4,09:04,LAL,,ORL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0677,1,05:03,LAL,21.0,SAC,18.0,W. Gabriel,LAL,Gabriel 2' Hook Bank Shot (2 PTS) (Westbrook 1 AST),Made Shot,Hook Bank Shot,-12,17,2,1,2.0,2.0,h
+S2223-G0677,1,04:27,LAL,,SAC,,W. Gabriel,LAL,MISS Gabriel 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-40,20,4,1,2.0,0.0,h
+S2223-G0677,1,04:18,LAL,23.0,SAC,18.0,W. Gabriel,LAL,Gabriel 4' Turnaround Hook Shot (4 PTS) (Westbrook 2 AST),Made Shot,Turnaround Hook Shot,25,34,4,1,2.0,2.0,h
+S2223-G0677,1,03:20,LAL,,SAC,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0677,1,02:51,LAL,,SAC,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0677,1,01:39,LAL,,SAC,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0677,1,00:25.600000,LAL,,SAC,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0677,1,00:25.600000,LAL,39.0,SAC,26.0,W. Gabriel,LAL,Gabriel Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0677,1,00:00.400000,LAL,,SAC,,W. Gabriel,LAL,MISS Gabriel 11' Jump Shot,Missed Shot,Jump Shot,-105,11,11,1,2.0,0.0,h
+S2223-G0677,2,06:17,LAL,,SAC,,W. Gabriel,LAL,MISS Gabriel 3PT Jump Shot,Missed Shot,Jump Shot,227,43,0,1,3.0,0.0,h
+S2223-G0677,2,04:12,LAL,,SAC,,W. Gabriel,LAL,Gabriel L.B.FOUL (P1.T2) (E.Lewis),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0677,2,03:37,LAL,54.0,SAC,50.0,W. Gabriel,LAL,Gabriel 6' Turnaround Hook Shot (8 PTS) (Westbrook 4 AST),Made Shot,Turnaround Hook Shot,22,56,6,1,2.0,2.0,h
+S2223-G0677,2,03:03,LAL,,SAC,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T4) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G0677,2,02:33,LAL,,SAC,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0677,2,02:30,LAL,,SAC,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0677,3,02:53,LAL,,SAC,,W. Gabriel,LAL,Gabriel Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0677,4,06:06,LAL,,SAC,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0677,4,01:48,LAL,,SAC,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0677,4,01:46,LAL,105.0,SAC,108.0,W. Gabriel,LAL,Gabriel Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0677,4,01:10,LAL,,SAC,,W. Gabriel,LAL,SUB: Christie FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0677,4,00:04.100000,LAL,,SAC,,W. Gabriel,LAL,Gabriel Personal Take Foul (P3.PN) (B.Schwab),Foul,Personal Take,0,0,0,0,,,h
+S2223-G1030,2,11:42,NOP,24.0,LAL,41.0,W. Gabriel,LAL,Gabriel 1' Cutting Layup Shot (2 PTS) (Reaves 4 AST),Made Shot,Cutting Layup Shot,6,4,1,1,2.0,2.0,v
+S2223-G1030,2,11:11,NOP,,LAL,,W. Gabriel,LAL,MISS Gabriel 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-29,22,4,1,2.0,0.0,v
+S2223-G1030,2,10:33,NOP,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1030,2,10:32,NOP,,LAL,,W. Gabriel,LAL,MISS Gabriel Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1030,2,10:32,NOP,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1030,2,10:32,NOP,,LAL,,W. Gabriel,LAL,Gabriel Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G1030,2,10:16,NOP,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1030,2,09:21,NOP,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1030,2,07:48,NOP,,LAL,,W. Gabriel,LAL,MISS Gabriel 3PT Jump Shot,Missed Shot,Jump Shot,-229,25,0,1,3.0,0.0,v
+S2223-G1030,2,07:18,NOP,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G1030,2,07:18,NOP,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G1030,3,01:30,NOP,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1030,3,01:28,NOP,69.0,LAL,97.0,W. Gabriel,LAL,Gabriel 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,20,6,2,1,2.0,2.0,v
+S2223-G1030,3,01:22,NOP,,LAL,,W. Gabriel,LAL,Gabriel P.FOUL (P2.T3) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G1030,3,00:59.300000,NOP,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1030,4,11:11,NOP,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1030,4,11:10,NOP,78.0,LAL,100.0,W. Gabriel,LAL,Gabriel 2' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,22,8,2,1,2.0,2.0,v
+S2223-G1030,4,09:46,NOP,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1030,4,09:41,NOP,,LAL,,W. Gabriel,LAL,Gabriel OFF.Foul (P3) (M.Smith),Foul,Offensive,0,0,0,0,,,v
+S2223-G1030,4,09:41,NOP,,LAL,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1030,4,09:41,NOP,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0288,1,04:45,SAS,24.0,LAL,19.0,W. Gabriel,LAL,Gabriel 26' 3PT Jump Shot (3 PTS) (Nunn 1 AST),Made Shot,Jump Shot,-188,186,26,1,3.0,3.0,v
+S2223-G0288,1,04:06,SAS,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0288,1,00:47.300000,SAS,,LAL,,W. Gabriel,LAL,MISS Gabriel 27' 3PT Jump Shot,Missed Shot,Jump Shot,-208,168,27,1,3.0,0.0,v
+S2223-G0288,1,00:01.100000,SAS,,LAL,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0288,1,00:00,SAS,34.0,LAL,33.0,W. Gabriel,LAL,Gabriel 36' 3PT Running Pull-Up Jump Shot (6 PTS),Made Shot,Running Pull-Up Jump Shot,-34,358,36,1,3.0,3.0,v
+S2223-G0288,2,10:40,SAS,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0288,2,10:26,SAS,,LAL,,W. Gabriel,LAL,MISS Gabriel 4' Layup,Missed Shot,Layup Shot,-1,44,4,1,2.0,0.0,v
+S2223-G0288,2,08:40,SAS,,LAL,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0288,3,06:01,SAS,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0288,3,05:55,SAS,,LAL,,W. Gabriel,LAL,MISS Gabriel 26' 3PT Jump Shot,Missed Shot,Jump Shot,104,237,26,1,3.0,0.0,v
+S2223-G0288,3,04:08,SAS,86.0,LAL,90.0,W. Gabriel,LAL,Gabriel 3' Driving Layup (8 PTS) (Westbrook 3 AST),Made Shot,Driving Layup Shot,-28,10,3,1,2.0,2.0,v
+S2223-G0288,3,04:08,SAS,86.0,LAL,91.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0288,3,03:24,SAS,,LAL,,W. Gabriel,LAL,SUB: Brown Jr. FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0288,4,10:24,SAS,,LAL,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0288,4,08:38,SAS,,LAL,,W. Gabriel,LAL,Gabriel BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0288,4,08:33,SAS,,LAL,,W. Gabriel,LAL,SUB: Westbrook FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0288,4,05:10,SAS,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T3) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0288,4,04:17,SAS,,LAL,,W. Gabriel,LAL,Gabriel Offensive Charge Foul (P2) (M.Myers),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0288,4,04:17,SAS,,LAL,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P1.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0288,4,04:05,SAS,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P3.T4) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0288,4,03:28,SAS,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0288,4,02:41,SAS,125.0,LAL,136.0,W. Gabriel,LAL,Gabriel 3' Cutting Layup Shot (11 PTS) (James 3 AST),Made Shot,Cutting Layup Shot,27,16,3,1,2.0,2.0,v
+S2223-G0288,4,02:41,SAS,125.0,LAL,137.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0288,4,02:13,SAS,128.0,LAL,139.0,W. Gabriel,LAL,Gabriel 3' Cutting Finger Roll Layup Shot (14 PTS) (Westbrook 6 AST),Made Shot,Cutting Finger Roll Layup Shot,22,14,3,1,2.0,2.0,v
+S2223-G0288,4,02:13,SAS,128.0,LAL,140.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0288,4,00:57,SAS,,LAL,,W. Gabriel,LAL,Gabriel 3 Second Violation Turnover (P2.T17),Turnover,3 Second Violation,0,0,0,0,,,v
+S2223-G1196,2,11:46,LAC,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T1) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G1196,2,08:03,LAC,,LAL,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1196,2,07:15,LAC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1196,2,07:01,LAC,,LAL,,W. Gabriel,LAL,Gabriel Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1196,2,06:30,LAC,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G1196,2,06:19,LAC,56.0,LAL,44.0,W. Gabriel,LAL,Gabriel 7' Floating Jump Shot (2 PTS) (Russell 4 AST),Made Shot,Floating Jump shot,-7,71,7,1,2.0,2.0,v
+S2223-G1196,2,05:55,LAC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1196,2,04:47,LAC,,LAL,,W. Gabriel,LAL,MISS Gabriel 25' 3PT Jump Shot,Missed Shot,Jump Shot,146,209,25,1,3.0,0.0,v
+S2223-G1196,2,04:38,LAC,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G1196,3,00:41.900000,LAC,,LAL,,W. Gabriel,LAL,SUB: Reaves FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G1196,4,10:50,LAC,99.0,LAL,84.0,W. Gabriel,LAL,Gabriel 11' Floating Jump Shot (4 PTS) (James 5 AST),Made Shot,Floating Jump shot,42,101,11,1,2.0,2.0,v
+S2223-G1196,4,10:15,LAC,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P3.T1) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G1196,4,08:41,LAC,103.0,LAL,90.0,W. Gabriel,LAL,Gabriel 4' Cutting Layup Shot (6 PTS) (James 6 AST),Made Shot,Cutting Layup Shot,-13,34,4,1,2.0,2.0,v
+S2223-G1196,4,08:09,LAC,,LAL,,W. Gabriel,LAL,MISS Gabriel 3PT Jump Shot,Missed Shot,Jump Shot,-230,11,0,1,3.0,0.0,v
+S2223-G1196,4,07:49,LAC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1196,4,07:14,LAC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1196,4,07:14,LAC,,LAL,,W. Gabriel,LAL,MISS Gabriel Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1196,4,07:14,LAC,,LAL,,W. Gabriel,LAL,SUB: Vanderbilt FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0729,4,00:29.400000,LAL,,SAS,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1092,1,05:09,LAL,,PHX,,W. Gabriel,LAL,Gabriel Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1092,1,04:36,LAL,,PHX,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1092,1,04:01,LAL,,PHX,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1092,1,03:58,LAL,19.0,PHX,19.0,W. Gabriel,LAL,Gabriel 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,-5,17,2,1,2.0,2.0,h
+S2223-G1092,1,01:56,LAL,,PHX,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1092,1,01:56,LAL,20.0,PHX,21.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1092,1,01:24,LAL,,PHX,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1092,1,01:24,LAL,21.0,PHX,21.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1092,1,01:24,LAL,,PHX,,W. Gabriel,LAL,MISS Gabriel Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1092,2,11:37,LAL,25.0,PHX,26.0,W. Gabriel,LAL,Gabriel 2' Layup (6 PTS) (Schroder 1 AST),Made Shot,Layup Shot,9,12,2,1,2.0,2.0,h
+S2223-G1092,2,11:37,LAL,,PHX,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1092,2,08:15,LAL,,PHX,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1092,3,04:28,LAL,,PHX,,W. Gabriel,LAL,Gabriel STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1092,3,01:15,LAL,,PHX,,W. Gabriel,LAL,Gabriel Violation:Defensive Goaltending (S.Foster),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G1092,3,00:26.400000,LAL,,PHX,,W. Gabriel,LAL,Gabriel Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1092,3,00:25.800000,LAL,,PHX,,W. Gabriel,LAL,Gabriel S.FOUL (P1.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G1092,3,00:25.800000,LAL,,PHX,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1092,4,11:26,LAL,,PHX,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G1092,4,09:55,LAL,,PHX,,W. Gabriel,LAL,Gabriel OFF.Foul (P3) (S.Foster),Foul,Offensive,0,0,0,0,,,h
+S2223-G1092,4,09:55,LAL,,PHX,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P3.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1092,4,09:38,LAL,,PHX,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1114,1,02:12,LAL,,CHI,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G1114,1,01:45,LAL,,CHI,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1114,1,01:45,LAL,22.0,CHI,21.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1114,1,01:08,LAL,,CHI,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1114,1,01:07,LAL,,CHI,,W. Gabriel,LAL,MISS Gabriel 3' Layup,Missed Shot,Layup Shot,-7,26,3,1,2.0,0.0,h
+S2223-G1114,2,11:29,LAL,,CHI,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1114,2,08:59,LAL,,CHI,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1114,4,11:26,LAL,,CHI,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1114,4,11:23,LAL,79.0,CHI,91.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1114,4,11:23,LAL,,CHI,,W. Gabriel,LAL,MISS Gabriel Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1114,4,10:11,LAL,,CHI,,W. Gabriel,LAL,SUB: Schroder FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1114,4,00:23.100000,LAL,,CHI,,W. Gabriel,LAL,Gabriel P.FOUL (P2.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2223-G0705,1,04:35,POR,,LAL,,W. Gabriel,LAL,Gabriel OFF.Foul (P1) (C.Kirkland),Foul,Offensive,0,0,0,0,,,v
+S2223-G0705,1,04:35,POR,,LAL,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0705,1,04:03,POR,19.0,LAL,26.0,W. Gabriel,LAL,Gabriel 17' Jump Shot (2 PTS) (Westbrook 2 AST),Made Shot,Jump Shot,-86,143,17,1,2.0,2.0,v
+S2223-G0705,1,03:42,POR,,LAL,,W. Gabriel,LAL,Gabriel Offensive Charge Foul (P2) (J.Conley),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0705,1,03:42,POR,,LAL,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P2.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0705,1,01:43,POR,24.0,LAL,28.0,W. Gabriel,LAL,Gabriel 1' Running Reverse Layup (4 PTS) (Nunn 1 AST),Made Shot,Running Reverse Layup Shot,6,2,1,1,2.0,2.0,v
+S2223-G0705,2,09:40,POR,,LAL,,W. Gabriel,LAL,Gabriel Traveling Turnover (P3.T7),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0705,2,09:33,POR,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P3.T2) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2223-G0705,2,09:33,POR,,LAL,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0705,3,00:29.800000,POR,,LAL,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0705,3,00:29.800000,POR,,LAL,,W. Gabriel,LAL,MISS Gabriel Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0494,1,01:47,DAL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0494,2,08:44,DAL,,LAL,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0494,2,04:55,DAL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0494,2,02:12,DAL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0494,2,01:04,DAL,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0494,2,00:05.200000,DAL,,LAL,,W. Gabriel,LAL,Gabriel P.FOUL (P2.PN) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2223-G0494,2,00:05.200000,DAL,,LAL,,W. Gabriel,LAL,SUB: Reaves FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0494,3,03:42,DAL,,LAL,,W. Gabriel,LAL,Gabriel Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0494,3,03:04,DAL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0494,3,03:04,DAL,,LAL,,W. Gabriel,LAL,MISS Gabriel Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0494,3,02:35,DAL,,LAL,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0494,3,02:35,DAL,,LAL,,W. Gabriel,LAL,MISS Gabriel Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0494,3,01:44,DAL,,LAL,,W. Gabriel,LAL,MISS Gabriel 2' Layup,Missed Shot,Layup Shot,-7,19,2,1,2.0,0.0,v
+S2223-G0494,3,01:43,DAL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0494,3,01:42,DAL,,LAL,,W. Gabriel,LAL,MISS Gabriel Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0494,3,01:41,DAL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0494,3,01:41,DAL,86.0,LAL,68.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0494,3,01:41,DAL,86.0,LAL,69.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0494,4,02:38,DAL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0494,4,02:10,DAL,,LAL,,W. Gabriel,LAL,SUB: Brown Jr. FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0882,4,01:23,LAL,,NOP,,W. Gabriel,LAL,MISS Gabriel 26' 3PT Jump Shot,Missed Shot,Jump Shot,-158,206,26,1,3.0,0.0,h
+S2223-G0882,4,00:28,LAL,,NOP,,W. Gabriel,LAL,Gabriel P.FOUL (P1.PN) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2223-G0247,2,09:42,LAL,,SAS,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0247,2,09:39,LAL,40.0,SAS,23.0,W. Gabriel,LAL,Gabriel 2' Running Alley Oop Layup Shot (2 PTS) (Nunn 1 AST),Made Shot,Running Alley Oop Layup Shot,-7,14,2,1,2.0,2.0,h
+S2223-G0247,2,03:32,LAL,,SAS,,W. Gabriel,LAL,SUB: Beverley FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0247,4,11:02,LAL,,SAS,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0247,4,09:47,LAL,,SAS,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G0247,4,09:43,LAL,,SAS,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0247,4,08:57,LAL,,SAS,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0247,4,08:54,LAL,,SAS,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0247,4,04:26,LAL,,SAS,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0247,4,04:23,LAL,,SAS,,W. Gabriel,LAL,SUB: Jones FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0590,1,02:45,LAL,,ATL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0590,1,02:35,LAL,,ATL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0590,1,02:33,LAL,31.0,ATL,21.0,W. Gabriel,LAL,Gabriel 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,11,1,1,2.0,2.0,h
+S2223-G0590,1,01:53,LAL,,ATL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0590,1,01:53,LAL,35.0,ATL,21.0,W. Gabriel,LAL,Gabriel Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0590,1,01:53,LAL,,ATL,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0590,2,10:53,LAL,,ATL,,W. Gabriel,LAL,Gabriel Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0590,2,08:45,LAL,,ATL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0590,2,06:59,LAL,,ATL,,W. Gabriel,LAL,Gabriel Step Out of Bounds Turnover (P2.T5),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0590,2,05:25,LAL,,ATL,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0590,4,09:10,LAL,,ATL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0590,4,06:17,LAL,,ATL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T1) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0590,4,06:17,LAL,,ATL,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0157,1,10:58,UTA,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2223-G0157,1,10:15,UTA,5.0,LAL,9.0,W. Gabriel,LAL,Gabriel 3' Layup (2 PTS),Made Shot,Layup Shot,26,17,3,1,2.0,2.0,v
+S2223-G0157,1,09:52,UTA,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0157,1,08:26,UTA,,LAL,,W. Gabriel,LAL,SUB: Westbrook FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0157,1,01:48,UTA,,LAL,,W. Gabriel,LAL,Gabriel OFF.Foul (P2) (B.Taylor),Foul,Offensive,0,0,0,0,,,v
+S2223-G0157,1,01:48,UTA,,LAL,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0157,1,01:38,UTA,,LAL,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0157,1,01:12,UTA,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0157,1,00:37.500000,UTA,,LAL,,W. Gabriel,LAL,MISS Gabriel 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-6,47,5,1,2.0,0.0,v
+S2223-G0157,2,03:31,UTA,,LAL,,W. Gabriel,LAL,Gabriel STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0157,2,02:13,UTA,,LAL,,W. Gabriel,LAL,SUB: Christie FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0157,3,09:47,UTA,,LAL,,W. Gabriel,LAL,Gabriel STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0157,3,09:43,UTA,86.0,LAL,75.0,W. Gabriel,LAL,Gabriel Dunk (4 PTS),Made Shot,Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0157,3,08:31,UTA,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0157,3,08:28,UTA,,LAL,,W. Gabriel,LAL,SUB: Westbrook FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0157,3,03:07,UTA,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0157,4,07:29,UTA,,LAL,,W. Gabriel,LAL,Gabriel OFF.Foul (P3) (S.Corbin),Foul,Offensive,0,0,0,0,,,v
+S2223-G0157,4,07:29,UTA,,LAL,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0157,4,06:29,UTA,,LAL,,W. Gabriel,LAL,SUB: Toscano-Anderson FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G1212,1,00:05.900000,LAL,,PHX,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1212,1,00:04.400000,LAL,,PHX,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1212,1,00:03.200000,LAL,,PHX,,W. Gabriel,LAL,Gabriel Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1212,3,01:23,LAL,,PHX,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1212,4,09:44,LAL,,PHX,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1212,4,09:07,LAL,,PHX,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1212,4,09:03,LAL,,PHX,,W. Gabriel,LAL,SUB: Russell FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1140,2,10:05,CHI,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1140,2,09:02,CHI,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G1140,4,09:43,CHI,,LAL,,W. Gabriel,LAL,MISS Gabriel 3' Reverse Layup,Missed Shot,Reverse Layup Shot,17,25,3,1,2.0,0.0,v
+S2223-G1140,4,08:27,CHI,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1140,4,08:01,CHI,,LAL,,W. Gabriel,LAL,SUB: James FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G1140,4,00:47.200000,CHI,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1228,1,00:05.200000,LAL,,UTA,,W. Gabriel,LAL,Gabriel Personal Take Foul (P1.T1) (B.Kennedy),Foul,Personal Take,0,0,0,0,,,h
+S2223-G1228,2,11:48,LAL,,UTA,,W. Gabriel,LAL,Gabriel Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1228,2,11:31,LAL,,UTA,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1228,2,10:54,LAL,,UTA,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1228,2,09:27,LAL,,UTA,,W. Gabriel,LAL,MISS Gabriel 4' Layup,Missed Shot,Layup Shot,-21,31,4,1,2.0,0.0,h
+S2223-G1228,2,06:45,LAL,46.0,UTA,42.0,W. Gabriel,LAL,Gabriel 1' Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,-5,10,1,1,2.0,2.0,h
+S2223-G1228,2,06:05,LAL,,UTA,,W. Gabriel,LAL,SUB: Brown Jr. FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1228,4,11:04,LAL,,UTA,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1228,4,10:45,LAL,103.0,UTA,97.0,W. Gabriel,LAL,Gabriel Cutting Dunk Shot (4 PTS) (James 5 AST),Made Shot,Cutting Dunk Shot,-1,4,0,1,2.0,2.0,h
+S2223-G1228,4,07:49,LAL,,UTA,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1228,4,07:37,LAL,,UTA,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0655,1,04:43,LAL,22.0,PHI,20.0,W. Gabriel,LAL,Gabriel 3' Cutting Layup Shot (2 PTS) (Westbrook 2 AST),Made Shot,Cutting Layup Shot,23,17,3,1,2.0,2.0,h
+S2223-G0655,1,03:20,LAL,,PHI,,W. Gabriel,LAL,Gabriel S.FOUL (P1.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0655,1,00:34.600000,LAL,,PHI,,W. Gabriel,LAL,MISS Gabriel 3PT Jump Shot,Missed Shot,Jump Shot,-233,-16,0,1,3.0,0.0,h
+S2223-G0655,1,00:00,LAL,32.0,PHI,33.0,W. Gabriel,LAL,Gabriel 5' Driving Layup (4 PTS) (Nunn 2 AST),Made Shot,Driving Layup Shot,20,42,5,1,2.0,2.0,h
+S2223-G0655,2,10:52,LAL,34.0,PHI,36.0,W. Gabriel,LAL,Gabriel 2' Cutting Dunk Shot (6 PTS) (Nunn 3 AST),Made Shot,Cutting Dunk Shot,1,15,2,1,2.0,2.0,h
+S2223-G0655,2,08:02,LAL,,PHI,,W. Gabriel,LAL,MISS Gabriel 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-5,19,2,1,2.0,0.0,h
+S2223-G0655,2,07:11,LAL,,PHI,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T2) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0655,2,07:11,LAL,,PHI,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0655,2,02:10,LAL,49.0,PHI,54.0,W. Gabriel,LAL,Gabriel 9' Driving Floating Jump Shot (8 PTS) (Schroder 2 AST),Made Shot,Driving Floating Jump Shot,-26,88,9,1,2.0,2.0,h
+S2223-G0655,2,00:02.900000,LAL,,PHI,,W. Gabriel,LAL,SUB: Toscano-Anderson FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0655,3,04:28,LAL,73.0,PHI,72.0,W. Gabriel,LAL,Gabriel 4' Hook Shot (10 PTS),Made Shot,Hook Shot,1,38,4,1,2.0,2.0,h
+S2223-G0655,3,03:33,LAL,,PHI,,W. Gabriel,LAL,MISS Gabriel 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,16,10,2,1,2.0,0.0,h
+S2223-G0655,3,03:23,LAL,,PHI,,W. Gabriel,LAL,Gabriel S.FOUL (P3.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0655,3,02:41,LAL,,PHI,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0655,3,02:03,LAL,81.0,PHI,79.0,W. Gabriel,LAL,Gabriel 1' Cutting Layup Shot (12 PTS) (Westbrook 7 AST),Made Shot,Cutting Layup Shot,9,8,1,1,2.0,2.0,h
+S2223-G0655,3,01:36,LAL,,PHI,,W. Gabriel,LAL,MISS Gabriel 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-38,7,4,1,2.0,0.0,h
+S2223-G0655,3,01:01,LAL,,PHI,,W. Gabriel,LAL,Gabriel S.FOUL (P4.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0655,3,01:01,LAL,,PHI,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0655,4,06:23,LAL,,PHI,,W. Gabriel,LAL,Gabriel BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0655,4,05:55,LAL,,PHI,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0655,4,04:41,LAL,101.0,PHI,101.0,W. Gabriel,LAL,Gabriel 6' Turnaround Hook Shot (14 PTS) (James 9 AST),Made Shot,Turnaround Hook Shot,1,55,6,1,2.0,2.0,h
+S2223-G0927,1,02:40,MEM,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0927,1,02:31,MEM,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0927,1,02:31,MEM,18.0,LAL,20.0,W. Gabriel,LAL,Gabriel Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0927,1,01:09,MEM,,LAL,,W. Gabriel,LAL,Gabriel P.FOUL (P1.T2) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G0927,1,00:26.300000,MEM,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0927,2,11:16,MEM,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0927,2,10:22,MEM,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0927,2,09:52,MEM,,LAL,,W. Gabriel,LAL,Gabriel P.FOUL (P2.T1) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G0927,2,09:03,MEM,32.0,LAL,30.0,W. Gabriel,LAL,Gabriel 1' Cutting Dunk Shot (4 PTS) (Reaves 1 AST),Made Shot,Cutting Dunk Shot,-11,3,1,1,2.0,2.0,v
+S2223-G0927,2,08:46,MEM,,LAL,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0927,2,07:34,MEM,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0927,2,07:30,MEM,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0927,3,00:28.700000,MEM,,LAL,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0927,4,11:44,MEM,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0927,4,10:02,MEM,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0927,4,09:55,MEM,98.0,LAL,92.0,W. Gabriel,LAL,Gabriel 2' Cutting Layup Shot (6 PTS) (Reaves 7 AST),Made Shot,Cutting Layup Shot,-16,7,2,1,2.0,2.0,v
+S2223-G0927,4,09:24,MEM,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0198,2,11:29,LAL,28.0,BKN,23.0,W. Gabriel,LAL,Gabriel 4' Turnaround Bank Hook Shot (2 PTS) (Westbrook 2 AST),Made Shot,Turnaround Bank Hook Shot,37,21,4,1,2.0,2.0,h
+S2223-G0198,2,09:50,LAL,,BKN,,W. Gabriel,LAL,MISS Gabriel 4' Driving Layup,Missed Shot,Driving Layup Shot,31,26,4,1,2.0,0.0,h
+S2223-G0198,2,09:29,LAL,35.0,BKN,27.0,W. Gabriel,LAL,Gabriel 1' Cutting Dunk Shot (4 PTS) (Westbrook 4 AST),Made Shot,Cutting Dunk Shot,1,11,1,1,2.0,2.0,h
+S2223-G0198,2,08:48,LAL,,BKN,,W. Gabriel,LAL,MISS Gabriel 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,28,51,6,1,2.0,0.0,h
+S2223-G0198,2,07:51,LAL,38.0,BKN,29.0,W. Gabriel,LAL,Gabriel 3PT Jump Shot (7 PTS) (Westbrook 5 AST),Made Shot,Jump Shot,-225,15,0,1,3.0,3.0,h
+S2223-G0198,2,07:38,LAL,,BKN,,W. Gabriel,LAL,SUB: Brown Jr. FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0198,3,02:15,LAL,,BKN,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0198,4,11:43,LAL,82.0,BKN,77.0,W. Gabriel,LAL,Gabriel 1' Layup (9 PTS) (Westbrook 11 AST),Made Shot,Layup Shot,6,10,1,1,2.0,2.0,h
+S2223-G0198,4,08:30,LAL,,BKN,,W. Gabriel,LAL,Gabriel Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0198,4,08:28,LAL,,BKN,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0198,4,03:39,LAL,,BKN,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0198,4,00:43.700000,LAL,,BKN,,W. Gabriel,LAL,MISS Gabriel 1' Driving Layup,Missed Shot,Driving Layup Shot,12,2,1,1,2.0,0.0,h
+S2223-G0198,4,00:20.500000,LAL,,BKN,,W. Gabriel,LAL,Gabriel S.FOUL (P1.PN) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0475,1,03:49,SAC,,LAL,,W. Gabriel,LAL,Gabriel P.FOUL (P1.PN) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2223-G0475,1,03:25,SAC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0475,1,03:25,SAC,,LAL,,W. Gabriel,LAL,MISS Gabriel Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0475,1,01:30,SAC,,LAL,,W. Gabriel,LAL,Gabriel OFF.Foul (P2) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,v
+S2223-G0475,1,01:30,SAC,,LAL,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0475,1,00:53.100000,SAC,,LAL,,W. Gabriel,LAL,Gabriel OFF.Foul (P3) (N.Buchert),Foul,Offensive,0,0,0,0,,,v
+S2223-G0475,1,00:53.100000,SAC,,LAL,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0475,1,00:53.100000,SAC,,LAL,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0475,3,05:15,SAC,86.0,LAL,79.0,W. Gabriel,LAL,Gabriel 3' Cutting Layup Shot (2 PTS) (Schroder 3 AST),Made Shot,Cutting Layup Shot,-10,25,3,1,2.0,2.0,v
+S2223-G0475,3,05:15,SAC,,LAL,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0475,3,04:21,SAC,90.0,LAL,81.0,W. Gabriel,LAL,Gabriel 5' Driving Floating Bank Jump Shot (4 PTS) (Christie 3 AST),Made Shot,Driving Floating Bank Jump Shot,-27,38,5,1,2.0,2.0,v
+S2223-G0475,3,02:56,SAC,,LAL,,W. Gabriel,LAL,SUB: Schroder FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0475,4,10:53,SAC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0475,4,10:07,SAC,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P4.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0475,4,10:03,SAC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0475,4,09:52,SAC,110.0,LAL,93.0,W. Gabriel,LAL,Gabriel 1' Cutting Layup Shot (6 PTS) (James 8 AST),Made Shot,Cutting Layup Shot,10,11,1,1,2.0,2.0,v
+S2223-G0475,4,09:52,SAC,110.0,LAL,94.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0475,4,07:38,SAC,,LAL,,W. Gabriel,LAL,Gabriel FLAGRANT.FOUL.TYPE1 (P5.T2) (N.Buchert),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2223-G0475,4,07:38,SAC,,LAL,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0475,4,01:20,SAC,,LAL,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0530,1,03:39,ATL,,LAL,,W. Gabriel,LAL,MISS Gabriel 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-9,55,6,1,2.0,0.0,v
+S2223-G0530,1,03:28,ATL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0530,1,03:09,ATL,23.0,LAL,16.0,W. Gabriel,LAL,Gabriel 1' Dunk (2 PTS) (Schroder 2 AST),Made Shot,Dunk Shot,0,12,1,1,2.0,2.0,v
+S2223-G0530,1,01:04,ATL,,LAL,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0530,2,11:35,ATL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0530,2,11:35,ATL,,LAL,,W. Gabriel,LAL,MISS Gabriel Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0530,2,11:06,ATL,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0530,2,09:37,ATL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0530,2,09:37,ATL,,LAL,,W. Gabriel,LAL,MISS Gabriel Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0530,2,08:08,ATL,,LAL,,W. Gabriel,LAL,SUB: Schroder FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0530,3,04:45,ATL,81.0,LAL,79.0,W. Gabriel,LAL,Gabriel 1' Layup (4 PTS) (Westbrook 4 AST),Made Shot,Layup Shot,-12,-1,1,1,2.0,2.0,v
+S2223-G0530,3,04:45,ATL,81.0,LAL,80.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0530,3,02:48,ATL,85.0,LAL,89.0,W. Gabriel,LAL,Gabriel 1' Cutting Layup Shot (7 PTS) (Westbrook 6 AST),Made Shot,Cutting Layup Shot,-5,1,1,1,2.0,2.0,v
+S2223-G0530,3,01:23,ATL,89.0,LAL,93.0,W. Gabriel,LAL,Gabriel 1' Layup (9 PTS) (Westbrook 8 AST),Made Shot,Layup Shot,-5,-2,1,1,2.0,2.0,v
+S2223-G0530,4,11:42,ATL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0530,4,11:42,ATL,95.0,LAL,100.0,W. Gabriel,LAL,Gabriel Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0530,4,11:03,ATL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0530,4,10:50,ATL,,LAL,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0834,1,04:52,LAL,,MIL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0834,1,04:52,LAL,,MIL,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0834,1,04:52,LAL,,MIL,,W. Gabriel,LAL,MISS Gabriel Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0834,1,02:22,LAL,,MIL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0834,1,02:22,LAL,26.0,MIL,22.0,W. Gabriel,LAL,Gabriel Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0834,1,01:00,LAL,31.0,MIL,25.0,W. Gabriel,LAL,Gabriel 2' Cutting Layup Shot (4 PTS) (Reaves 1 AST),Made Shot,Cutting Layup Shot,16,6,2,1,2.0,2.0,h
+S2223-G0834,1,00:49.200000,LAL,,MIL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G0834,2,06:43,LAL,,MIL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0834,2,06:39,LAL,,MIL,,W. Gabriel,LAL,SUB: Hachimura FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0834,2,00:09.800000,LAL,,MIL,,W. Gabriel,LAL,SUB: Reaves FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0834,3,03:38,LAL,,MIL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0834,3,02:35,LAL,,MIL,,W. Gabriel,LAL,Gabriel OFF.Foul (P2) (M.Myers),Foul,Offensive,0,0,0,0,,,h
+S2223-G0834,3,02:35,LAL,,MIL,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0834,3,01:41,LAL,77.0,MIL,84.0,W. Gabriel,LAL,Gabriel 8' Floating Jump Shot (6 PTS) (Reaves 2 AST),Made Shot,Floating Jump shot,17,80,8,1,2.0,2.0,h
+S2223-G0834,3,00:45.800000,LAL,,MIL,,W. Gabriel,LAL,MISS Gabriel 28' 3PT Jump Shot,Missed Shot,Jump Shot,157,226,28,1,3.0,0.0,h
+S2223-G0834,3,00:32.400000,LAL,,MIL,,W. Gabriel,LAL,SUB: Brown Jr. FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0834,4,09:29,LAL,,MIL,,W. Gabriel,LAL,Gabriel S.FOUL (P3.T1) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0834,4,06:42,LAL,,MIL,,W. Gabriel,LAL,MISS Gabriel 11' Floating Jump Shot,Missed Shot,Floating Jump shot,18,105,11,1,2.0,0.0,h
+S2223-G0459,1,00:49.800000,PHX,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0459,1,00:49.800000,PHX,35.0,LAL,22.0,W. Gabriel,LAL,Gabriel Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0459,2,11:38,PHX,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0459,2,07:08,PHX,,LAL,,W. Gabriel,LAL,MISS Gabriel 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-9,22,2,1,2.0,0.0,v
+S2223-G0459,2,07:06,PHX,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0459,2,07:06,PHX,,LAL,,W. Gabriel,LAL,MISS Gabriel 1' Putback Layup,Missed Shot,Putback Layup Shot,7,13,1,1,2.0,0.0,v
+S2223-G0459,2,06:26,PHX,,LAL,,W. Gabriel,LAL,SUB: Brown Jr. FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0459,2,01:04,PHX,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0459,3,06:45,PHX,,LAL,,W. Gabriel,LAL,Gabriel OFF.Foul (P1) (K.Scott),Foul,Offensive,0,0,0,0,,,v
+S2223-G0459,3,06:45,PHX,,LAL,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0459,3,06:00,PHX,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T3) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2223-G0459,3,02:17,PHX,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0459,4,07:20,PHX,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0459,4,07:20,PHX,111.0,LAL,90.0,W. Gabriel,LAL,Gabriel Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0459,4,00:30.300000,PHX,,LAL,,W. Gabriel,LAL,MISS Gabriel 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,-4,48,5,1,2.0,0.0,v
+S2223-G0984,2,11:09,LAL,25.0,MEM,21.0,W. Gabriel,LAL,Gabriel 2' Layup (2 PTS) (Reaves 2 AST),Made Shot,Layup Shot,-17,7,2,1,2.0,2.0,h
+S2223-G0984,2,07:17,LAL,,MEM,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0984,2,07:17,LAL,,MEM,,W. Gabriel,LAL,SUB: Schroder FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0984,2,04:13,LAL,,MEM,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T4) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0984,2,03:51,LAL,,MEM,,W. Gabriel,LAL,Gabriel P.FOUL (P3.PN) (E.Lewis),Foul,Personal,0,0,0,0,,,h
+S2223-G0984,2,03:51,LAL,,MEM,,W. Gabriel,LAL,SUB: Vanderbilt FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0984,4,08:08,LAL,,MEM,,W. Gabriel,LAL,SUB: Hachimura FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1157,2,11:02,MIN,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1157,2,10:24,MIN,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G1157,2,09:17,MIN,37.0,LAL,37.0,W. Gabriel,LAL,Gabriel 3' Cutting Layup Shot (2 PTS) (Schroder 1 AST),Made Shot,Cutting Layup Shot,-29,19,3,1,2.0,2.0,v
+S2223-G1157,2,08:53,MIN,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G1157,2,08:22,MIN,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G1157,3,06:13,MIN,,LAL,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1157,3,06:09,MIN,,LAL,,W. Gabriel,LAL,SUB: Vanderbilt FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G1157,4,11:09,MIN,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1157,4,10:17,MIN,83.0,LAL,95.0,W. Gabriel,LAL,Gabriel 7' Driving Hook Shot (4 PTS) (James 6 AST),Made Shot,Driving Hook Shot,-17,67,7,1,2.0,2.0,v
+S2223-G1157,4,07:41,MIN,,LAL,,W. Gabriel,LAL,SUB: Vanderbilt FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0183,1,10:32,LAL,,SAC,,W. Gabriel,LAL,Gabriel Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0183,1,10:03,LAL,,SAC,,W. Gabriel,LAL,Gabriel P.FOUL (P1.T1) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G0183,1,08:30,LAL,,SAC,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0183,1,07:30,LAL,,SAC,,W. Gabriel,LAL,SUB: Westbrook FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0183,2,02:42,LAL,53.0,SAC,42.0,W. Gabriel,LAL,Gabriel 3' Cutting Layup Shot (2 PTS) (Westbrook 5 AST),Made Shot,Cutting Layup Shot,-9,32,3,1,2.0,2.0,h
+S2223-G0183,2,01:25,LAL,,SAC,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T3) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0183,2,01:25,LAL,,SAC,,W. Gabriel,LAL,SUB: Brown Jr. FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0183,3,11:13,LAL,,SAC,,W. Gabriel,LAL,Gabriel S.FOUL (P3.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0183,3,10:32,LAL,,SAC,,W. Gabriel,LAL,Gabriel P.FOUL (P4.T2) (M.Dagher),Foul,Personal,0,0,0,0,,,h
+S2223-G0183,3,10:21,LAL,,SAC,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0183,3,10:16,LAL,,SAC,,W. Gabriel,LAL,Gabriel BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0183,3,10:05,LAL,,SAC,,W. Gabriel,LAL,SUB: Toscano-Anderson FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0183,4,10:21,LAL,92.0,SAC,93.0,W. Gabriel,LAL,Gabriel 4' Layup (4 PTS) (Westbrook 7 AST),Made Shot,Layup Shot,-15,32,4,1,2.0,2.0,h
+S2223-G0183,4,08:49,LAL,97.0,SAC,100.0,W. Gabriel,LAL,Gabriel 7' Turnaround Hook Shot (6 PTS) (Westbrook 9 AST),Made Shot,Turnaround Hook Shot,-1,70,7,1,2.0,2.0,h
+S2223-G0183,4,08:24,LAL,,SAC,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0183,4,08:13,LAL,99.0,SAC,100.0,W. Gabriel,LAL,Gabriel 7' Floating Jump Shot (8 PTS) (Westbrook 10 AST),Made Shot,Floating Jump shot,-12,67,7,1,2.0,2.0,h
+S2223-G0183,4,07:35,LAL,,SAC,,W. Gabriel,LAL,SUB: Beverley FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0140,1,02:25,LAL,34.0,CLE,24.0,W. Gabriel,LAL,Gabriel 3' Cutting Layup Shot (2 PTS) (Westbrook 4 AST),Made Shot,Cutting Layup Shot,-13,22,3,1,2.0,2.0,h
+S2223-G0140,1,01:03,LAL,,CLE,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0140,2,11:22,LAL,,CLE,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0140,2,11:22,LAL,38.0,CLE,32.0,W. Gabriel,LAL,Gabriel Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0140,2,10:55,LAL,,CLE,,W. Gabriel,LAL,MISS Gabriel 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,56,24,1,3.0,0.0,h
+S2223-G0140,2,10:39,LAL,,CLE,,W. Gabriel,LAL,Gabriel Offensive Charge Foul (P1) (S.Twardoski),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0140,2,10:39,LAL,,CLE,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0140,2,09:50,LAL,,CLE,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0140,2,09:12,LAL,,CLE,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T3) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0140,2,09:12,LAL,,CLE,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0140,3,02:13,LAL,,CLE,,W. Gabriel,LAL,MISS Gabriel 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-16,15,2,1,2.0,0.0,h
+S2223-G0140,4,04:06,LAL,,CLE,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0140,4,02:36,LAL,,CLE,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0140,4,01:38,LAL,,CLE,,W. Gabriel,LAL,Gabriel S.FOUL (P3.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0117,1,02:48,LAL,,NOP,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T2) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2223-G0117,1,01:47,LAL,,NOP,,W. Gabriel,LAL,MISS Gabriel 24' 3PT Jump Shot,Missed Shot,Jump Shot,148,194,24,1,3.0,0.0,h
+S2223-G0117,1,00:42.200000,LAL,,NOP,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0117,2,11:07,LAL,27.0,NOP,29.0,W. Gabriel,LAL,Gabriel 1' Cutting Dunk Shot (2 PTS) (Beverley 2 AST),Made Shot,Cutting Dunk Shot,1,13,1,1,2.0,2.0,h
+S2223-G0117,2,10:54,LAL,,NOP,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0117,2,09:28,LAL,,NOP,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0117,2,08:38,LAL,,NOP,,W. Gabriel,LAL,Gabriel Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0117,2,08:11,LAL,,NOP,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0117,3,01:29,LAL,,NOP,,W. Gabriel,LAL,Gabriel S.FOUL (P2.PN) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2223-G0117,3,01:07,LAL,,NOP,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0117,3,01:06,LAL,78.0,NOP,77.0,W. Gabriel,LAL,Gabriel 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,20,2,1,2.0,2.0,h
+S2223-G0117,4,09:30,LAL,,NOP,,W. Gabriel,LAL,Gabriel S.FOUL (P3.T1) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2223-G0117,4,09:12,LAL,,NOP,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0117,4,09:12,LAL,93.0,NOP,91.0,W. Gabriel,LAL,Gabriel Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0117,4,09:06,LAL,,NOP,,W. Gabriel,LAL,Gabriel P.FOUL (P4.T2) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G0117,4,08:52,LAL,,NOP,,W. Gabriel,LAL,Gabriel Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0117,4,06:37,LAL,,NOP,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0551,1,01:01,CHA,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0551,1,00:04,CHA,,LAL,,W. Gabriel,LAL,MISS Gabriel 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,20,12,2,1,2.0,0.0,v
+S2223-G0551,2,11:42,CHA,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0551,2,08:54,CHA,,LAL,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0551,2,08:54,CHA,,LAL,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0551,2,03:10,CHA,35.0,LAL,50.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0551,2,03:10,CHA,,LAL,,W. Gabriel,LAL,MISS Gabriel Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0551,2,02:47,CHA,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P2.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0551,2,02:47,CHA,,LAL,,W. Gabriel,LAL,SUB: James FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0551,3,03:18,CHA,70.0,LAL,87.0,W. Gabriel,LAL,Gabriel 1' Cutting Layup Shot (3 PTS) (Schroder 4 AST),Made Shot,Cutting Layup Shot,10,-10,1,1,2.0,2.0,v
+S2223-G0551,3,03:18,CHA,,LAL,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0551,3,01:59,CHA,,LAL,,W. Gabriel,LAL,Gabriel 3 Second Violation Turnover (P1.T13),Turnover,3 Second Violation,0,0,0,0,,,v
+S2223-G0551,3,01:39,CHA,73.0,LAL,89.0,W. Gabriel,LAL,Gabriel 1' Running Reverse Layup (5 PTS) (Reaves 6 AST),Made Shot,Running Reverse Layup Shot,-12,6,1,1,2.0,2.0,v
+S2223-G0551,3,00:25.700000,CHA,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P3.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0331,1,04:35,MIL,,LAL,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0331,1,04:02,MIL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0331,1,00:03.900000,MIL,,LAL,,W. Gabriel,LAL,SUB: James FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0331,2,11:39,MIL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0331,2,09:21,MIL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0331,2,08:16,MIL,39.0,LAL,44.0,W. Gabriel,LAL,Gabriel 26' 3PT Jump Shot (3 PTS) (Westbrook 8 AST),Made Shot,Jump Shot,-151,213,26,1,3.0,3.0,v
+S2223-G0331,2,06:21,MIL,,LAL,,W. Gabriel,LAL,SUB: Brown Jr. FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0331,2,02:36,MIL,,LAL,,W. Gabriel,LAL,MISS Gabriel 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,13,27,3,1,2.0,0.0,v
+S2223-G0331,2,02:35,MIL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0331,2,02:34,MIL,,LAL,,W. Gabriel,LAL,MISS Gabriel 4' Putback Layup,Missed Shot,Putback Layup Shot,-2,43,4,1,2.0,0.0,v
+S2223-G0331,2,02:33,MIL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0331,2,02:32,MIL,,LAL,,W. Gabriel,LAL,Gabriel Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0331,2,01:26,MIL,,LAL,,W. Gabriel,LAL,SUB: Beverley FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0331,3,01:02,MIL,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0331,3,00:51.800000,MIL,93.0,LAL,99.0,W. Gabriel,LAL,Gabriel 1' Cutting Dunk Shot (5 PTS) (Westbrook 10 AST),Made Shot,Cutting Dunk Shot,1,6,1,1,2.0,2.0,v
+S2223-G0331,3,00:24.700000,MIL,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0331,3,00:03.900000,MIL,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0798,2,11:13,NOP,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T1) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0798,2,08:34,NOP,,LAL,,W. Gabriel,LAL,Gabriel Violation:Defensive Goaltending (S.Wright),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0798,2,08:15,NOP,,LAL,,W. Gabriel,LAL,SUB: Brown Jr. FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0798,3,00:38.900000,NOP,96.0,LAL,104.0,W. Gabriel,LAL,Gabriel 1' Cutting Dunk Shot (2 PTS) (Westbrook 4 AST),Made Shot,Cutting Dunk Shot,-2,-12,1,1,2.0,2.0,v
+S2223-G0798,3,00:02.400000,NOP,,LAL,,W. Gabriel,LAL,Gabriel Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1019,2,11:38,LAL,,NYK,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1019,2,11:03,LAL,,NYK,,W. Gabriel,LAL,MISS Gabriel 4' Reverse Layup,Missed Shot,Reverse Layup Shot,0,35,4,1,2.0,0.0,h
+S2223-G1019,2,10:18,LAL,29.0,NYK,35.0,W. Gabriel,LAL,Gabriel 2' Cutting Layup Shot (2 PTS) (Reaves 2 AST),Made Shot,Cutting Layup Shot,-12,20,2,1,2.0,2.0,h
+S2223-G1019,2,09:09,LAL,,NYK,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1019,3,00:10.600000,LAL,,NYK,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1019,4,09:57,LAL,,NYK,,W. Gabriel,LAL,Gabriel OFF.Foul (P1) (D.Richardson),Foul,Offensive,0,0,0,0,,,h
+S2223-G1019,4,09:57,LAL,,NYK,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1019,4,09:37,LAL,93.0,NYK,93.0,W. Gabriel,LAL,Gabriel 1' Cutting Dunk Shot (4 PTS) (Brown Jr. 4 AST),Made Shot,Cutting Dunk Shot,-2,8,1,1,2.0,2.0,h
+S2223-G1019,4,08:59,LAL,,NYK,,W. Gabriel,LAL,SUB: Russell FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1019,4,00:05,LAL,,NYK,,W. Gabriel,LAL,SUB: Beasley FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0940,1,03:25,OKC,,LAL,,W. Gabriel,LAL,Lakers T.Foul (Def. 3 Sec Gabriel ) (T.Ford),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0940,1,02:47,OKC,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0940,1,02:05,OKC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0940,1,02:05,OKC,,LAL,,W. Gabriel,LAL,MISS Gabriel Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0940,1,02:05,OKC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0940,1,02:03,OKC,,LAL,,W. Gabriel,LAL,MISS Gabriel Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0940,1,01:29,OKC,22.0,LAL,30.0,W. Gabriel,LAL,Gabriel 5' Cutting Layup Shot (2 PTS) (Reaves 1 AST),Made Shot,Cutting Layup Shot,45,9,5,1,2.0,2.0,v
+S2223-G0940,1,00:59,OKC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0940,2,11:45,OKC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0940,2,10:47,OKC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0940,2,08:17,OKC,,LAL,,W. Gabriel,LAL,MISS Gabriel 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-4,59,6,1,2.0,0.0,v
+S2223-G0940,2,08:08,OKC,,LAL,,W. Gabriel,LAL,SUB: Bamba FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0940,3,03:27,OKC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0940,3,00:54.100000,OKC,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2223-G0940,3,00:29.900000,OKC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0940,3,00:07.200000,OKC,,LAL,,W. Gabriel,LAL,SUB: Beasley FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0940,4,10:20,OKC,,LAL,,W. Gabriel,LAL,MISS Gabriel 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-19,2,2,1,2.0,0.0,v
+S2223-G0940,4,10:19,OKC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0940,4,10:17,OKC,88.0,LAL,94.0,W. Gabriel,LAL,Gabriel 3' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-12,28,3,1,2.0,2.0,v
+S2223-G0940,4,06:31,OKC,,LAL,,W. Gabriel,LAL,SUB: Vanderbilt FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0940,4,02:45,OKC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0940,4,02:20,OKC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0940,4,02:13,OKC,106.0,LAL,114.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0940,4,02:13,OKC,,LAL,,W. Gabriel,LAL,MISS Gabriel Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0940,4,02:08,OKC,,LAL,,W. Gabriel,LAL,SUB: Walker IV FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0940,4,00:10.600000,OKC,,LAL,,W. Gabriel,LAL,MISS Gabriel 17' Jump Shot,Missed Shot,Jump Shot,174,-4,17,1,2.0,0.0,v
+S2223-G0690,1,05:01,LAL,,MEM,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0690,1,00:04.300000,LAL,,MEM,,W. Gabriel,LAL,SUB: James FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0690,2,11:43,LAL,,MEM,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0690,2,10:25,LAL,,MEM,,W. Gabriel,LAL,MISS Gabriel 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-15,60,6,1,2.0,0.0,h
+S2223-G0690,2,10:06,LAL,,MEM,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0690,2,09:39,LAL,,MEM,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0690,2,02:13,LAL,,MEM,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0690,2,02:13,LAL,45.0,MEM,49.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0690,3,05:48,LAL,,MEM,,W. Gabriel,LAL,MISS Gabriel 25' 3PT Jump Shot,Missed Shot,Jump Shot,-113,220,25,1,3.0,0.0,h
+S2223-G0690,3,04:37,LAL,,MEM,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0690,3,03:25,LAL,,MEM,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0690,3,02:25,LAL,,MEM,,W. Gabriel,LAL,MISS Gabriel 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-22,29,4,1,2.0,0.0,h
+S2223-G0690,3,02:06,LAL,,MEM,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0690,3,01:53,LAL,,MEM,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0690,3,01:53,LAL,74.0,MEM,83.0,W. Gabriel,LAL,Gabriel Tip Layup Shot (3 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0690,3,01:25,LAL,,MEM,,W. Gabriel,LAL,SUB: James FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0690,4,09:14,LAL,90.0,MEM,96.0,W. Gabriel,LAL,Gabriel 8' Hook Shot (5 PTS) (Westbrook 5 AST),Made Shot,Hook Shot,17,75,8,1,2.0,2.0,h
+S2223-G0690,4,08:35,LAL,,MEM,,W. Gabriel,LAL,Gabriel S.FOUL (P3.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0690,4,06:52,LAL,,MEM,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0690,4,00:17.800000,LAL,,MEM,,W. Gabriel,LAL,SUB: Schroder FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0690,4,00:01.900000,LAL,,MEM,,W. Gabriel,LAL,Gabriel L.B.FOUL (P4.PN) (M.Myers),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0690,4,00:00.400000,LAL,,MEM,,W. Gabriel,LAL,SUB: Schroder FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0002,1,01:21,GSW,,LAL,,W. Gabriel,LAL,Gabriel L.B.FOUL (P1.PN) (R.Mott),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0002,1,01:07,GSW,,LAL,,W. Gabriel,LAL,MISS Gabriel 3' Layup,Missed Shot,Layup Shot,-5,34,3,1,2.0,0.0,v
+S2223-G0002,1,01:04,GSW,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0002,1,01:00,GSW,,LAL,,W. Gabriel,LAL,Gabriel L.B.FOUL (P2.PN) (R.Mott),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0002,1,01:00,GSW,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0002,2,08:18,GSW,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0002,3,02:38,GSW,,LAL,,W. Gabriel,LAL,SUB: Westbrook FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0002,4,01:42,GSW,,LAL,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0002,4,01:42,GSW,,LAL,,W. Gabriel,LAL,MISS Gabriel Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1054,1,01:05,LAL,,DAL,,W. Gabriel,LAL,Gabriel Violation:Defensive Goaltending (T.Ford),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G1054,1,00:17.900000,LAL,32.0,DAL,29.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1054,1,00:17.900000,LAL,33.0,DAL,29.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1054,1,00:02.600000,LAL,,DAL,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1054,1,00:01.500000,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1054,2,11:04,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1054,2,11:03,LAL,,DAL,,W. Gabriel,LAL,MISS Gabriel 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,9,1,1,2.0,0.0,h
+S2223-G1054,2,11:03,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1054,2,11:03,LAL,35.0,DAL,29.0,W. Gabriel,LAL,Gabriel 3' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-10,29,3,1,2.0,2.0,h
+S2223-G1054,2,10:10,LAL,,DAL,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1054,2,09:13,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1054,2,08:43,LAL,41.0,DAL,36.0,W. Gabriel,LAL,Gabriel 2' Cutting Layup Shot (6 PTS) (Reaves 2 AST),Made Shot,Cutting Layup Shot,-18,9,2,1,2.0,2.0,h
+S2223-G1054,2,08:08,LAL,,DAL,,W. Gabriel,LAL,MISS Gabriel 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,4,17,2,1,2.0,0.0,h
+S2223-G1054,2,08:06,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1054,2,08:04,LAL,,DAL,,W. Gabriel,LAL,MISS Gabriel 3' Putback Layup,Missed Shot,Putback Layup Shot,19,18,3,1,2.0,0.0,h
+S2223-G1054,2,07:35,LAL,,DAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1054,3,03:04,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1054,3,02:55,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1054,4,11:48,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1054,4,10:35,LAL,,DAL,,W. Gabriel,LAL,MISS Gabriel 4' Driving Layup,Missed Shot,Driving Layup Shot,-32,18,4,1,2.0,0.0,h
+S2223-G1054,4,10:31,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:6 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1054,4,10:30,LAL,87.0,DAL,91.0,W. Gabriel,LAL,Gabriel 1' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,-5,2,1,1,2.0,2.0,h
+S2223-G1054,4,09:14,LAL,,DAL,,W. Gabriel,LAL,Gabriel STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1054,4,09:08,LAL,,DAL,,W. Gabriel,LAL,MISS Gabriel 2' Running Layup,Missed Shot,Running Layup Shot,-15,18,2,1,2.0,0.0,h
+S2223-G1054,4,07:53,LAL,95.0,DAL,96.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1054,4,07:53,LAL,,DAL,,W. Gabriel,LAL,MISS Gabriel Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1054,4,05:43,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:7 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1054,4,05:43,LAL,,DAL,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1054,4,05:43,LAL,,DAL,,W. Gabriel,LAL,MISS Gabriel Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1054,4,03:02,LAL,,DAL,,W. Gabriel,LAL,Gabriel P.FOUL (P1.T3) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2223-G1054,4,02:28,LAL,,DAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:8 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1054,4,02:26,LAL,,DAL,,W. Gabriel,LAL,Gabriel Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1054,4,01:55,LAL,,DAL,,W. Gabriel,LAL,Gabriel S.FOUL (P2.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G1054,4,00:07.200000,LAL,,DAL,,W. Gabriel,LAL,SUB: Russell FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1003,1,02:21,LAL,,TOR,,W. Gabriel,LAL,Gabriel P.FOUL (P1.T2) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2223-G1003,1,00:20,LAL,,TOR,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1003,1,00:00.400000,LAL,,TOR,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1003,2,09:46,LAL,,TOR,,W. Gabriel,LAL,Gabriel BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1003,2,07:54,LAL,,TOR,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1003,3,01:57,LAL,,TOR,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1003,3,01:49,LAL,81.0,TOR,87.0,W. Gabriel,LAL,Gabriel 2' Driving Layup (2 PTS) (Reaves 3 AST),Made Shot,Driving Layup Shot,11,12,2,1,2.0,2.0,h
+S2223-G1003,3,00:13.700000,LAL,,TOR,,W. Gabriel,LAL,SUB: Brown Jr. FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1003,4,11:22,LAL,,TOR,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1003,4,10:13,LAL,,TOR,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1003,4,10:08,LAL,,TOR,,W. Gabriel,LAL,MISS Gabriel 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,9,12,2,1,2.0,0.0,h
+S2223-G1003,4,07:27,LAL,102.0,TOR,98.0,W. Gabriel,LAL,Gabriel 1' Driving Layup (4 PTS) (Russell 9 AST),Made Shot,Driving Layup Shot,-5,-1,1,1,2.0,2.0,h
+S2223-G1003,4,06:40,LAL,,TOR,,W. Gabriel,LAL,Gabriel BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G1003,4,06:37,LAL,,TOR,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1003,4,05:53,LAL,,TOR,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0757,1,04:52,BKN,,LAL,,W. Gabriel,LAL,MISS Gabriel 1' Driving Layup,Missed Shot,Driving Layup Shot,-6,13,1,1,2.0,0.0,v
+S2223-G0757,1,04:33,BKN,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0757,1,03:26,BKN,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0757,2,11:03,BKN,31.0,LAL,20.0,W. Gabriel,LAL,Gabriel 2' Dunk (2 PTS) (Westbrook 1 AST),Made Shot,Dunk Shot,-11,16,2,1,2.0,2.0,v
+S2223-G0757,2,09:30,BKN,,LAL,,W. Gabriel,LAL,MISS Gabriel 4' Layup,Missed Shot,Layup Shot,-40,15,4,1,2.0,0.0,v
+S2223-G0757,2,09:20,BKN,,LAL,,W. Gabriel,LAL,SUB: Beverley FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0757,3,05:04,BKN,70.0,LAL,72.0,W. Gabriel,LAL,Gabriel 5' Hook Shot (4 PTS) (Westbrook 7 AST),Made Shot,Hook Shot,6,48,5,1,2.0,2.0,v
+S2223-G0757,3,04:48,BKN,,LAL,,W. Gabriel,LAL,MISS Gabriel Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0757,3,04:48,BKN,70.0,LAL,73.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0757,3,04:15,BKN,70.0,LAL,75.0,W. Gabriel,LAL,Gabriel 3' Hook Shot (7 PTS),Made Shot,Hook Shot,4,29,3,1,2.0,2.0,v
+S2223-G0757,3,03:45,BKN,73.0,LAL,77.0,W. Gabriel,LAL,Gabriel 3' Turnaround Hook Shot (9 PTS) (Westbrook 8 AST),Made Shot,Turnaround Hook Shot,-1,25,3,1,2.0,2.0,v
+S2223-G0757,3,03:32,BKN,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0757,3,03:20,BKN,73.0,LAL,79.0,W. Gabriel,LAL,Gabriel 2' Driving Reverse Layup (11 PTS) (Westbrook 9 AST),Made Shot,Driving Reverse Layup Shot,-18,4,2,1,2.0,2.0,v
+S2223-G0757,3,02:52,BKN,,LAL,,W. Gabriel,LAL,MISS Gabriel 3PT Jump Shot,Missed Shot,Jump Shot,227,4,0,1,3.0,0.0,v
+S2223-G0757,3,01:55,BKN,,LAL,,W. Gabriel,LAL,MISS Gabriel 2' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,9,22,2,1,2.0,0.0,v
+S2223-G0757,3,00:07.800000,BKN,,LAL,,W. Gabriel,LAL,MISS Gabriel 3PT Jump Shot,Missed Shot,Jump Shot,-230,-38,0,1,3.0,0.0,v
+S2223-G0757,3,00:00,BKN,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0595,1,01:04,SAC,,LAL,,W. Gabriel,LAL,MISS Gabriel 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,45,66,8,1,2.0,0.0,v
+S2223-G0595,1,00:01.700000,SAC,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0595,1,00:00.100000,SAC,,LAL,,W. Gabriel,LAL,MISS Gabriel 53' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-89,518,53,1,3.0,0.0,v
+S2223-G0595,2,11:03,SAC,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0595,2,08:52,SAC,46.0,LAL,46.0,W. Gabriel,LAL,Gabriel 8' Floating Jump Shot (2 PTS) (Westbrook 3 AST),Made Shot,Floating Jump shot,18,74,8,1,2.0,2.0,v
+S2223-G0595,2,08:34,SAC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0595,2,07:53,SAC,48.0,LAL,50.0,W. Gabriel,LAL,Gabriel 3' Layup (4 PTS) (Westbrook 5 AST),Made Shot,Layup Shot,22,15,3,1,2.0,2.0,v
+S2223-G0595,2,07:46,SAC,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P3.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0595,2,07:46,SAC,,LAL,,W. Gabriel,LAL,SUB: Beverley FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0595,2,00:02.600000,SAC,73.0,LAL,73.0,W. Gabriel,LAL,Gabriel 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-28,1,3,1,2.0,2.0,v
+S2223-G0595,3,03:28,SAC,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P4.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0595,3,02:15,SAC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0595,3,02:06,SAC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0595,3,02:03,SAC,,LAL,,W. Gabriel,LAL,Gabriel OFF.Foul (P5) (D.Taylor),Foul,Offensive,0,0,0,0,,,v
+S2223-G0595,3,02:03,SAC,,LAL,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0595,3,00:39.700000,SAC,,LAL,,W. Gabriel,LAL,Gabriel P.FOUL (P6.PN) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2223-G0595,3,00:39.700000,SAC,,LAL,,W. Gabriel,LAL,SUB: James FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G1106,1,04:07,LAL,,OKC,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1106,1,02:30,LAL,29.0,OKC,18.0,W. Gabriel,LAL,Gabriel 24' 3PT Jump Shot (3 PTS) (Schroder 3 AST),Made Shot,Jump Shot,229,78,24,1,3.0,3.0,h
+S2223-G1106,1,01:14,LAL,32.0,OKC,20.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1106,1,01:14,LAL,33.0,OKC,20.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1106,1,01:10,LAL,,OKC,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G1106,1,00:26.200000,LAL,,OKC,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1106,2,09:19,LAL,,OKC,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1106,2,08:20,LAL,,OKC,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1106,3,03:46,LAL,,OKC,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1106,3,01:28,LAL,,OKC,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1106,3,00:50.400000,LAL,,OKC,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1106,3,00:50.400000,LAL,93.0,OKC,85.0,W. Gabriel,LAL,Gabriel Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1106,4,11:20,LAL,,OKC,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1106,4,10:07,LAL,,OKC,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1106,4,07:41,LAL,,OKC,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1106,4,07:41,LAL,,OKC,,W. Gabriel,LAL,MISS Gabriel Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G1106,4,07:32,LAL,,OKC,,W. Gabriel,LAL,MISS Gabriel 3PT Jump Shot,Missed Shot,Jump Shot,225,12,0,1,3.0,0.0,h
+S2223-G1106,4,06:42,LAL,,OKC,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T1) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G1106,4,06:42,LAL,,OKC,,W. Gabriel,LAL,SUB: Reaves FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1038,1,02:56,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1038,2,10:04,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1038,2,07:43,HOU,,LAL,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1038,2,07:30,HOU,,LAL,,W. Gabriel,LAL,SUB: Vanderbilt FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G1038,2,05:23,HOU,,LAL,,W. Gabriel,LAL,MISS Gabriel 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,72,56,9,1,2.0,0.0,v
+S2223-G1038,2,04:26,HOU,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G1038,2,04:01,HOU,,LAL,,W. Gabriel,LAL,Gabriel P.FOUL (P2.T3) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G1038,2,02:51,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1038,2,01:08,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1038,2,00:29.800000,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1038,2,00:29.800000,HOU,,LAL,,W. Gabriel,LAL,MISS Gabriel Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,v
+S2223-G1038,3,10:01,HOU,,LAL,,W. Gabriel,LAL,Gabriel STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1038,3,06:02,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1038,3,05:28,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:6 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1038,3,03:57,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:6 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1038,3,03:16,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:6 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1038,3,03:01,HOU,79.0,LAL,74.0,W. Gabriel,LAL,Gabriel 4' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,23,33,4,1,2.0,2.0,v
+S2223-G1038,3,01:27,HOU,,LAL,,W. Gabriel,LAL,SUB: Walker IV FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G1038,4,07:21,HOU,98.0,LAL,89.0,W. Gabriel,LAL,Gabriel 6' Cutting Finger Roll Layup Shot (4 PTS) (Russell 6 AST),Made Shot,Cutting Finger Roll Layup Shot,23,52,6,1,2.0,2.0,v
+S2223-G1038,4,06:22,HOU,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P3.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G1038,4,06:08,HOU,,LAL,,W. Gabriel,LAL,Gabriel L.B.FOUL (P4.T4) (J.Goldenberg),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1038,4,03:58,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1038,4,03:24,HOU,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P5.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G1038,4,03:22,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:6 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1038,4,03:08,HOU,,LAL,,W. Gabriel,LAL,MISS Gabriel 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,25,33,4,1,2.0,0.0,v
+S2223-G1038,4,02:44,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:7 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1038,4,02:42,HOU,107.0,LAL,97.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1038,4,02:42,HOU,107.0,LAL,98.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1038,4,02:28,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:7 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1038,4,00:06.300000,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:7 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0853,1,02:52,GSW,16.0,LAL,12.0,W. Gabriel,LAL,Gabriel 2' Cutting Dunk Shot (2 PTS) (Vanderbilt 1 AST),Made Shot,Cutting Dunk Shot,-15,16,2,1,2.0,2.0,v
+S2223-G0853,1,01:57,GSW,,LAL,,W. Gabriel,LAL,Gabriel Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0853,1,01:45,GSW,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0853,1,00:58,GSW,,LAL,,W. Gabriel,LAL,MISS Gabriel 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,16,24,1,3.0,0.0,v
+S2223-G0853,2,11:15,GSW,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0853,2,09:37,GSW,,LAL,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0853,2,08:53,GSW,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0853,2,08:51,GSW,31.0,LAL,29.0,W. Gabriel,LAL,Gabriel 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,16,6,2,1,2.0,2.0,v
+S2223-G0853,2,08:08,GSW,,LAL,,W. Gabriel,LAL,SUB: Hachimura FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0853,3,03:05,GSW,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0853,3,00:31.300000,GSW,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0853,3,00:31.300000,GSW,79.0,LAL,83.0,W. Gabriel,LAL,Gabriel Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0853,3,00:07.300000,GSW,,LAL,,W. Gabriel,LAL,SUB: Russell FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0853,4,10:36,GSW,,LAL,,W. Gabriel,LAL,SUB: Schroder FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0170,1,01:25,LAC,,LAL,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G0170,1,01:10,LAC,34.0,LAL,20.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0170,1,01:10,LAC,34.0,LAL,21.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0170,2,11:42,LAC,,LAL,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0170,2,10:30,LAC,,LAL,,W. Gabriel,LAL,Gabriel L.B.FOUL (P2.T3) (B.Kennedy),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0170,2,10:20,LAC,,LAL,,W. Gabriel,LAL,SUB: Toscano-Anderson FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0170,4,11:42,LAC,87.0,LAL,77.0,W. Gabriel,LAL,Gabriel 2' Cutting Layup Shot (4 PTS) (James 5 AST),Made Shot,Cutting Layup Shot,9,12,2,1,2.0,2.0,v
+S2223-G0170,4,10:50,LAC,,LAL,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0170,4,09:27,LAC,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0170,4,06:59,LAC,,LAL,,W. Gabriel,LAL,SUB: Beverley FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0259,2,08:17,PHX,,,,W. Gabriel,LAL,MISS Gabriel 1' Driving Layup,Missed Shot,Driving Layup Shot,-2,6,1,1,2.0,0.0,v
+S2223-G0259,2,08:17,PHX,,,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0259,2,08:17,PHX,,,,W. Gabriel,LAL,MISS Gabriel Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0259,2,07:32,PHX,,,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0259,2,07:25,PHX,,,,W. Gabriel,LAL,MISS Gabriel 3PT Jump Shot,Missed Shot,Jump Shot,-228,42,0,1,3.0,0.0,v
+S2223-G0259,2,06:31,PHX,,,,W. Gabriel,LAL,Gabriel L.B.FOUL (P1.T1) (R.Mott),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0259,2,05:11,PHX,,,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0609,1,02:42,DEN,,,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0609,1,02:42,DEN,22.0,,15.0,W. Gabriel,LAL,Gabriel Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0609,1,02:10,DEN,22.0,,18.0,W. Gabriel,LAL,Gabriel 26' 3PT Jump Shot (5 PTS) (Nunn 1 AST),Made Shot,Jump Shot,-183,184,26,1,3.0,3.0,v
+S2223-G0609,2,11:11,DEN,,,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0609,2,10:32,DEN,,,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0609,2,10:32,DEN,,,,W. Gabriel,LAL,MISS Gabriel 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,25,15,3,1,2.0,0.0,v
+S2223-G0609,2,10:01,DEN,31.0,,27.0,W. Gabriel,LAL,Gabriel 3' Layup (7 PTS) (Westbrook 4 AST),Made Shot,Layup Shot,-21,23,3,1,2.0,2.0,v
+S2223-G0609,2,08:33,DEN,34.0,,31.0,W. Gabriel,LAL,Gabriel 2' Cutting Dunk Shot (9 PTS) (Swider 1 AST),Made Shot,Cutting Dunk Shot,-9,12,2,1,2.0,2.0,v
+S2223-G0609,2,07:35,DEN,,,,W. Gabriel,LAL,Gabriel Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0609,2,07:32,DEN,,,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0609,3,06:27,DEN,,,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0609,3,05:10,DEN,,,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0609,3,00:14.200000,DEN,,,,W. Gabriel,LAL,Gabriel BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0609,4,04:57,DEN,,,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0609,4,04:12,DEN,,,,W. Gabriel,LAL,MISS Gabriel 2' Layup,Missed Shot,Layup Shot,-5,16,2,1,2.0,0.0,v
+S2223-G0609,4,02:16,DEN,,,,W. Gabriel,LAL,SUB: Brown FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G0131,2,11:06,LAL,35.0,UTA,42.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0131,2,11:06,LAL,36.0,UTA,42.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0131,2,10:31,LAL,,UTA,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0131,2,09:33,LAL,,UTA,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0131,2,08:57,LAL,43.0,UTA,44.0,W. Gabriel,LAL,Gabriel 2' Running Layup (4 PTS) (James 4 AST),Made Shot,Running Layup Shot,9,17,2,1,2.0,2.0,h
+S2223-G0131,2,06:30,LAL,,UTA,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0131,3,00:45.700000,LAL,,UTA,,W. Gabriel,LAL,SUB: James FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0131,4,09:17,LAL,101.0,UTA,108.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0131,4,09:17,LAL,,UTA,,W. Gabriel,LAL,MISS Gabriel Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0131,4,08:58,LAL,,UTA,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0131,4,08:42,LAL,,UTA,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0131,4,07:48,LAL,,UTA,,W. Gabriel,LAL,Gabriel P.FOUL (P1.T1) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2223-G0131,4,07:48,LAL,,UTA,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0664,1,07:24,LAL,,HOU,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0664,1,07:07,LAL,,HOU,,W. Gabriel,LAL,Gabriel S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0664,1,06:27,LAL,20.0,HOU,20.0,W. Gabriel,LAL,Gabriel 2' Cutting Layup Shot (2 PTS) (James 2 AST),Made Shot,Cutting Layup Shot,-16,15,2,1,2.0,2.0,h
+S2223-G0664,1,04:56,LAL,26.0,HOU,23.0,W. Gabriel,LAL,Gabriel 5' Turnaround Hook Shot (4 PTS) (Westbrook 1 AST),Made Shot,Turnaround Hook Shot,-4,53,5,1,2.0,2.0,h
+S2223-G0664,1,03:46,LAL,,HOU,,W. Gabriel,LAL,MISS Gabriel 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,19,24,1,3.0,0.0,h
+S2223-G0664,1,03:25,LAL,,HOU,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0664,1,03:03,LAL,,HOU,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0664,1,03:03,LAL,29.0,HOU,24.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0664,1,03:03,LAL,30.0,HOU,24.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0664,1,02:20,LAL,,HOU,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0664,2,10:45,LAL,,HOU,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0664,2,10:43,LAL,40.0,HOU,35.0,W. Gabriel,LAL,Gabriel 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,4,21,2,1,2.0,2.0,h
+S2223-G0664,2,09:41,LAL,,HOU,,W. Gabriel,LAL,Gabriel BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0664,2,09:26,LAL,,HOU,,W. Gabriel,LAL,Gabriel REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0664,2,09:26,LAL,46.0,HOU,35.0,W. Gabriel,LAL,Gabriel 4' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,2,37,4,1,2.0,2.0,h
+S2223-G0664,2,09:26,LAL,47.0,HOU,35.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0664,2,09:17,LAL,,HOU,,W. Gabriel,LAL,Gabriel S.FOUL (P2.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2223-G0664,2,09:17,LAL,,HOU,,W. Gabriel,LAL,SUB: Bryant FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0664,2,00:24.600000,LAL,,HOU,,W. Gabriel,LAL,Gabriel S.FOUL (P3.T2) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0664,2,00:24.600000,LAL,,HOU,,W. Gabriel,LAL,SUB: Brown Jr. FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0664,3,06:04,LAL,,HOU,,W. Gabriel,LAL,Gabriel STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0664,3,05:58,LAL,90.0,HOU,75.0,W. Gabriel,LAL,Gabriel 1' Layup (13 PTS) (Schroder 3 AST),Made Shot,Layup Shot,5,11,1,1,2.0,2.0,h
+S2223-G0664,3,05:58,LAL,91.0,HOU,75.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0664,3,05:25,LAL,,HOU,,W. Gabriel,LAL,MISS Gabriel 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,17,22,3,1,2.0,0.0,h
+S2223-G0664,3,01:33,LAL,,HOU,,W. Gabriel,LAL,MISS Gabriel 4' Floating Jump Shot,Missed Shot,Floating Jump shot,38,0,4,1,2.0,0.0,h
+S2223-G0664,3,01:03,LAL,,HOU,,W. Gabriel,LAL,Gabriel S.FOUL (P4.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0664,3,00:47.900000,LAL,,HOU,,W. Gabriel,LAL,Gabriel REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0664,4,11:11,LAL,,HOU,,W. Gabriel,LAL,Gabriel REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0664,4,10:43,LAL,,HOU,,W. Gabriel,LAL,Gabriel REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0664,4,10:21,LAL,,HOU,,W. Gabriel,LAL,Gabriel REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0664,4,10:03,LAL,,HOU,,W. Gabriel,LAL,Gabriel S.FOUL (P5.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0664,4,10:03,LAL,,HOU,,W. Gabriel,LAL,SUB: Toscano-Anderson FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0664,4,02:41,LAL,,HOU,,W. Gabriel,LAL,Gabriel S.FOUL (P6.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0664,4,02:41,LAL,,HOU,,W. Gabriel,LAL,SUB: Toscano-Anderson FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0234,2,08:09,LAL,39.0,DET,51.0,W. Gabriel,LAL,Gabriel 3' Reverse Layup (2 PTS) (Westbrook 4 AST),Made Shot,Reverse Layup Shot,16,26,3,1,2.0,2.0,h
+S2223-G0234,2,08:09,LAL,40.0,DET,51.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0234,2,07:11,LAL,,DET,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0234,2,07:09,LAL,44.0,DET,51.0,W. Gabriel,LAL,Gabriel 3' Running Dunk (5 PTS) (Westbrook 6 AST),Made Shot,Running Dunk Shot,-6,32,3,1,2.0,2.0,h
+S2223-G0234,2,04:50,LAL,,DET,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0234,2,04:32,LAL,53.0,DET,56.0,W. Gabriel,LAL,Gabriel 4' Driving Finger Roll Layup (7 PTS) (Reaves 4 AST),Made Shot,Driving Finger Roll Layup Shot,-4,37,4,1,2.0,2.0,h
+S2223-G0234,2,04:15,LAL,,DET,,W. Gabriel,LAL,SUB: Walker IV FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0234,3,05:51,LAL,,DET,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0234,3,03:47,LAL,,DET,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0234,3,03:46,LAL,,DET,,W. Gabriel,LAL,Gabriel OFF.Foul (P1) (M.Kogut),Foul,Offensive,0,0,0,0,,,h
+S2223-G0234,3,03:46,LAL,,DET,,W. Gabriel,LAL,Gabriel Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0234,3,03:22,LAL,,DET,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0234,3,03:21,LAL,90.0,DET,84.0,W. Gabriel,LAL,Gabriel Tip Dunk Shot (9 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0234,3,02:58,LAL,91.0,DET,86.0,W. Gabriel,LAL,Gabriel Free Throw Flagrant 1 of 2 (10 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0234,3,02:58,LAL,92.0,DET,86.0,W. Gabriel,LAL,Gabriel Free Throw Flagrant 2 of 2 (11 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0234,3,01:51,LAL,,DET,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0234,3,01:51,LAL,96.0,DET,89.0,W. Gabriel,LAL,Gabriel 1' Putback Dunk (13 PTS),Made Shot,Putback Dunk Shot,6,10,1,1,2.0,2.0,h
+S2223-G0234,3,00:41.900000,LAL,,DET,,W. Gabriel,LAL,SUB: Reaves FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G0234,4,11:37,LAL,,DET,,W. Gabriel,LAL,Gabriel REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0234,4,11:37,LAL,97.0,DET,95.0,W. Gabriel,LAL,Gabriel Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0234,4,11:37,LAL,98.0,DET,95.0,W. Gabriel,LAL,Gabriel Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0234,4,08:01,LAL,,DET,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,h
+S2223-G1171,2,08:30,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1171,2,05:52,HOU,,LAL,,W. Gabriel,LAL,MISS Gabriel 9' Floating Jump Shot,Missed Shot,Floating Jump shot,7,87,9,1,2.0,0.0,v
+S2223-G1171,2,05:11,HOU,,LAL,,W. Gabriel,LAL,SUB: Russell FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G1171,4,11:27,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1171,4,10:31,HOU,83.0,LAL,107.0,W. Gabriel,LAL,Gabriel 2' Cutting Layup Shot (2 PTS) (James 11 AST),Made Shot,Cutting Layup Shot,-4,16,2,1,2.0,2.0,v
+S2223-G1171,4,09:35,HOU,,LAL,,W. Gabriel,LAL,SUB: Davis FOR Gabriel,Substitution,,0,0,0,0,,,v
+S2223-G1171,4,05:00,HOU,,LAL,,W. Gabriel,LAL,MISS Gabriel 27' 3PT Jump Shot,Missed Shot,Jump Shot,-80,260,27,1,3.0,0.0,v
+S2223-G1171,4,04:49,HOU,,LAL,,W. Gabriel,LAL,Gabriel BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1171,4,04:31,HOU,,LAL,,W. Gabriel,LAL,Gabriel REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1171,4,04:29,HOU,,LAL,,W. Gabriel,LAL,Gabriel Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1171,4,01:39,HOU,,LAL,,W. Gabriel,LAL,Gabriel P.FOUL (P1.T3) (B.Adair),Foul,Personal,0,0,0,0,,,v

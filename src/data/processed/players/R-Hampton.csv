@@ -1,0 +1,588 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0020,1,00:05,ATL,,ORL,,R. Hampton,ORL,Hampton P.FOUL (P1.T4) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0020,2,10:39,ATL,21.0,ORL,31.0,R. Hampton,ORL,Hampton 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,4,5,1,1,2.0,2.0,v
+S2223-G0020,2,10:19,ATL,,ORL,,R. Hampton,ORL,Hampton OFF.Foul (P2) (B.Schwab),Foul,Offensive,0,0,0,0,,,v
+S2223-G0020,2,10:19,ATL,,ORL,,R. Hampton,ORL,Hampton Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0020,2,05:38,ATL,,ORL,,R. Hampton,ORL,SUB: Ross FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G0020,4,09:58,ATL,,ORL,,R. Hampton,ORL,MISS Hampton 7' Driving Layup,Missed Shot,Driving Layup Shot,-5,69,7,1,2.0,0.0,v
+S2223-G0020,4,08:39,ATL,,ORL,,R. Hampton,ORL,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,115,237,26,1,3.0,0.0,v
+S2223-G0020,4,06:34,ATL,,ORL,,R. Hampton,ORL,Hampton Out of Bounds - Bad Pass Turnover Turnover (P2.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0020,4,04:42,ATL,,ORL,,R. Hampton,ORL,SUB: Anthony FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G0132,2,02:58,ORL,,SAC,,R. Hampton,ORL,Hampton S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0132,2,02:36,ORL,,SAC,,R. Hampton,ORL,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,-33,255,26,1,3.0,0.0,h
+S2223-G0132,2,02:28,ORL,,SAC,,R. Hampton,ORL,MISS Hampton 2' Layup,Missed Shot,Layup Shot,13,21,2,1,2.0,0.0,h
+S2223-G0132,2,00:49.100000,ORL,,SAC,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0132,2,00:39.100000,ORL,,SAC,,R. Hampton,ORL,MISS Hampton 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,38,68,8,1,2.0,0.0,h
+S2223-G0132,3,06:33,ORL,,SAC,,R. Hampton,ORL,MISS Hampton 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-38,69,8,1,2.0,0.0,h
+S2223-G0132,3,06:31,ORL,,SAC,,R. Hampton,ORL,Hampton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0132,3,06:28,ORL,73.0,SAC,63.0,R. Hampton,ORL,Hampton 4' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,27,25,4,1,2.0,2.0,h
+S2223-G0132,3,02:03,ORL,,SAC,,R. Hampton,ORL,Hampton Traveling Turnover (P1.T14),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0132,4,11:04,ORL,79.0,SAC,86.0,R. Hampton,ORL,Hampton 4' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,26,34,4,1,2.0,2.0,h
+S2223-G0132,4,11:04,ORL,80.0,SAC,86.0,R. Hampton,ORL,Hampton Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0132,4,09:20,ORL,,SAC,,R. Hampton,ORL,SUB: Suggs FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G1099,1,02:17,TOR,,DET,,R. Hampton,DET,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,-168,192,26,1,3.0,0.0,v
+S2223-G1099,1,01:39,TOR,,DET,,R. Hampton,DET,Hampton S.FOUL (P1.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2223-G1099,1,00:29.800000,TOR,,DET,,R. Hampton,DET,Hampton S.FOUL (P2.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2223-G1099,1,00:10.100000,TOR,,DET,,R. Hampton,DET,MISS Hampton 25' 3PT Jump Shot,Missed Shot,Jump Shot,206,150,25,1,3.0,0.0,v
+S2223-G1099,1,00:05.100000,TOR,,DET,,R. Hampton,DET,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,228,115,26,1,3.0,0.0,v
+S2223-G1099,2,10:35,TOR,40.0,DET,31.0,R. Hampton,DET,Hampton 7' Driving Floating Bank Jump Shot (2 PTS) (Hayes 3 AST),Made Shot,Driving Floating Bank Jump Shot,50,55,7,1,2.0,2.0,v
+S2223-G1099,2,10:35,TOR,40.0,DET,32.0,R. Hampton,DET,Hampton Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1099,2,10:00,TOR,,DET,,R. Hampton,DET,Hampton Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1099,2,09:02,TOR,,DET,,R. Hampton,DET,SUB: Ivey FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G1099,3,01:21,TOR,90.0,DET,71.0,R. Hampton,DET,Hampton 25' 3PT Pullup Jump Shot (6 PTS) (Ivey 5 AST),Made Shot,Pullup Jump shot,-195,157,25,1,3.0,3.0,v
+S2223-G1099,3,00:21.200000,TOR,,DET,,R. Hampton,DET,MISS Hampton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1099,3,00:21.200000,TOR,,DET,,R. Hampton,DET,MISS Hampton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1099,4,07:57,TOR,,DET,,R. Hampton,DET,Hampton BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1099,4,07:02,TOR,,DET,,R. Hampton,DET,Hampton L.B.FOUL (P3.T4) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1099,4,05:01,TOR,114.0,DET,91.0,R. Hampton,DET,Hampton 27' 3PT Jump Shot (9 PTS) (Ivey 7 AST),Made Shot,Jump Shot,53,262,27,1,3.0,3.0,v
+S2223-G1099,4,02:16,TOR,,DET,,R. Hampton,DET,MISS Hampton 28' 3PT Jump Shot,Missed Shot,Jump Shot,-176,216,28,1,3.0,0.0,v
+S2223-G1099,4,01:38,TOR,118.0,DET,95.0,R. Hampton,DET,Hampton 8' Driving Finger Roll Layup (11 PTS) (Omoruyi 1 AST),Made Shot,Driving Finger Roll Layup Shot,-20,81,8,1,2.0,2.0,v
+S2223-G1099,4,00:47,TOR,118.0,DET,96.0,R. Hampton,DET,Hampton Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1099,4,00:47,TOR,118.0,DET,97.0,R. Hampton,DET,Hampton Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0919,1,02:29,CHA,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0919,1,02:18,CHA,,DET,,R. Hampton,DET,MISS Hampton 4' Driving Layup,Missed Shot,Driving Layup Shot,34,20,4,1,2.0,0.0,v
+S2223-G0919,2,10:25,CHA,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0919,2,10:08,CHA,,DET,,R. Hampton,DET,MISS Hampton 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,29,262,26,1,3.0,0.0,v
+S2223-G0919,2,08:41,CHA,,DET,,R. Hampton,DET,MISS Hampton 25' 3PT Jump Shot,Missed Shot,Jump Shot,-210,137,25,1,3.0,0.0,v
+S2223-G0919,2,08:27,CHA,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0919,2,07:53,CHA,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0919,2,07:03,CHA,,DET,,R. Hampton,DET,Hampton Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0919,2,04:05,CHA,,DET,,R. Hampton,DET,SUB: McGruder FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G0919,3,05:22,CHA,,DET,,R. Hampton,DET,MISS Hampton 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-237,0,24,1,3.0,0.0,v
+S2223-G0919,3,01:51,CHA,90.0,DET,72.0,R. Hampton,DET,Hampton 1' Running Dunk (2 PTS) (Burks 2 AST),Made Shot,Running Dunk Shot,9,8,1,1,2.0,2.0,v
+S2223-G0919,3,00:39.600000,CHA,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0919,3,00:33.600000,CHA,,DET,,R. Hampton,DET,MISS Hampton 3' Running Layup,Missed Shot,Running Layup Shot,-13,27,3,1,2.0,0.0,v
+S2223-G0919,4,09:05,CHA,,DET,,R. Hampton,DET,Hampton STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0919,4,08:27,CHA,,DET,,R. Hampton,DET,Hampton S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0919,4,07:22,CHA,,DET,,R. Hampton,DET,Hampton BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0919,4,06:16,CHA,,DET,,R. Hampton,DET,SUB: Wiseman FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G0313,4,00:45,ORL,108.0,ATL,125.0,R. Hampton,ORL,Hampton 24' 3PT Jump Shot (3 PTS) (M. Wagner 8 AST),Made Shot,Jump Shot,227,63,24,1,3.0,3.0,h
+S2223-G0903,2,03:50,DET,,TOR,,R. Hampton,DET,Hampton STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0903,2,03:34,DET,,TOR,,R. Hampton,DET,SUB: Ivey FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0105,1,01:38,OKC,,ORL,,R. Hampton,ORL,Hampton Traveling Turnover (P1.T7),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0105,1,01:07,OKC,31.0,ORL,29.0,R. Hampton,ORL,Hampton 25' 3PT Jump Shot (3 PTS) (Suggs 3 AST),Made Shot,Jump Shot,192,154,25,1,3.0,3.0,v
+S2223-G0105,1,00:27.800000,OKC,,ORL,,R. Hampton,ORL,Hampton S.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0105,1,00:00.400000,OKC,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0105,2,10:12,OKC,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0105,2,09:37,OKC,,ORL,,R. Hampton,ORL,Hampton BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0105,2,07:56,OKC,45.0,ORL,42.0,R. Hampton,ORL,Hampton 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,223,2,0,1,3.0,3.0,v
+S2223-G0105,2,06:27,OKC,,ORL,,R. Hampton,ORL,MISS Hampton 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-136,218,26,1,3.0,0.0,v
+S2223-G0105,2,03:41,OKC,59.0,ORL,54.0,R. Hampton,ORL,Hampton 5' Layup (8 PTS) (Carter Jr. 1 AST),Made Shot,Layup Shot,26,42,5,1,2.0,2.0,v
+S2223-G0105,2,03:15,OKC,,ORL,,R. Hampton,ORL,SUB: Suggs FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G0105,3,03:20,OKC,,ORL,,R. Hampton,ORL,MISS Hampton 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,46,24,1,3.0,0.0,v
+S2223-G0105,3,00:52.200000,OKC,81.0,ORL,88.0,R. Hampton,ORL,Hampton 6' Running Layup (10 PTS),Made Shot,Running Layup Shot,62,6,6,1,2.0,2.0,v
+S2223-G0105,3,00:02.700000,OKC,,ORL,,R. Hampton,ORL,MISS Hampton 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-18,150,15,1,2.0,0.0,v
+S2223-G0105,4,06:13,OKC,,ORL,,R. Hampton,ORL,Hampton S.FOUL (P2.T3) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0105,4,05:22,OKC,,ORL,,R. Hampton,ORL,Hampton S.FOUL (P3.T4) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0105,4,05:22,OKC,,ORL,,R. Hampton,ORL,SUB: Suggs FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G1169,1,00:54.100000,ORL,,DET,,R. Hampton,DET,MISS Hampton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1169,1,00:54.100000,ORL,,DET,,R. Hampton,DET,MISS Hampton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1169,1,00:03.700000,ORL,,DET,,R. Hampton,DET,Hampton S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G1169,2,10:20,ORL,,DET,,R. Hampton,DET,Hampton Offensive Charge Foul (P2) (S.Wright),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G1169,2,10:20,ORL,,DET,,R. Hampton,DET,Hampton Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1169,2,07:56,ORL,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1169,2,07:13,ORL,,DET,,R. Hampton,DET,SUB: Ivey FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G1169,3,03:45,ORL,,DET,,R. Hampton,DET,Hampton S.FOUL (P3.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G1169,3,00:44.600000,ORL,88.0,DET,68.0,R. Hampton,DET,Hampton 7' Driving Floating Jump Shot (2 PTS) (Joseph 1 AST),Made Shot,Driving Floating Jump Shot,-7,69,7,1,2.0,2.0,v
+S2223-G1169,3,00:00,ORL,,DET,,R. Hampton,DET,MISS Hampton 40' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-211,345,40,1,3.0,0.0,v
+S2223-G1169,4,09:39,ORL,98.0,DET,72.0,R. Hampton,DET,Hampton 15' Pullup Jump Shot (4 PTS) (Joseph 2 AST),Made Shot,Pullup Jump shot,25,150,15,1,2.0,2.0,v
+S2223-G1169,4,09:04,ORL,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1169,4,08:48,ORL,,DET,,R. Hampton,DET,MISS Hampton 27' 3PT Jump Shot,Missed Shot,Jump Shot,47,262,27,1,3.0,0.0,v
+S2223-G1169,4,07:20,ORL,,DET,,R. Hampton,DET,SUB: Ivey FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G0353,2,01:29,ORL,,MIL,,R. Hampton,ORL,Hampton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,2,00:57.100000,ORL,,MIL,,R. Hampton,ORL,Hampton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,2,00:02.500000,ORL,,MIL,,R. Hampton,ORL,MISS Hampton 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-140,214,26,1,3.0,0.0,h
+S2223-G0200,3,05:14,ORL,,CHA,,R. Hampton,ORL,Hampton Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0200,3,04:14,ORL,61.0,CHA,77.0,R. Hampton,ORL,Hampton 1' Driving Layup (2 PTS) (Houstan 1 AST),Made Shot,Driving Layup Shot,6,10,1,1,2.0,2.0,h
+S2223-G0200,3,04:14,ORL,62.0,CHA,77.0,R. Hampton,ORL,Hampton Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0200,3,03:31,ORL,,CHA,,R. Hampton,ORL,Hampton STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0200,3,02:36,ORL,63.0,CHA,79.0,R. Hampton,ORL,Hampton Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0200,3,02:36,ORL,64.0,CHA,79.0,R. Hampton,ORL,Hampton Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0200,3,01:56,ORL,66.0,CHA,79.0,R. Hampton,ORL,Hampton 14' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,-81,109,14,1,2.0,2.0,h
+S2223-G0200,3,01:21,ORL,,CHA,,R. Hampton,ORL,MISS Hampton 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,130,13,1,2.0,0.0,h
+S2223-G0200,3,01:07,ORL,,CHA,,R. Hampton,ORL,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,85,244,26,1,3.0,0.0,h
+S2223-G0200,3,00:35.600000,ORL,69.0,CHA,84.0,R. Hampton,ORL,Hampton 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,-223,9,0,1,3.0,3.0,h
+S2223-G0200,3,00:00,ORL,,CHA,,R. Hampton,ORL,MISS Hampton 30' 3PT Jump Shot,Missed Shot,Jump Shot,-1,304,30,1,3.0,0.0,h
+S2223-G0200,4,00:38.400000,ORL,,CHA,,R. Hampton,ORL,MISS Hampton 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-168,207,27,1,3.0,0.0,h
+S2223-G0236,1,00:05.700000,IND,,ORL,,R. Hampton,ORL,MISS Hampton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0236,1,00:05.700000,IND,19.0,ORL,28.0,R. Hampton,ORL,Hampton Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0236,2,11:39,IND,,ORL,,R. Hampton,ORL,Hampton STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0236,2,11:38,IND,,ORL,,R. Hampton,ORL,Hampton Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0236,2,07:53,IND,,ORL,,R. Hampton,ORL,MISS Hampton 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,200,180,27,1,3.0,0.0,v
+S2223-G0236,2,07:45,IND,,ORL,,R. Hampton,ORL,Hampton STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0236,2,05:56,IND,34.0,ORL,40.0,R. Hampton,ORL,Hampton 24' 3PT Running Jump Shot (4 PTS) (Suggs 5 AST),Made Shot,Running Jump Shot,-239,-36,24,1,3.0,3.0,v
+S2223-G0236,2,03:53,IND,,ORL,,R. Hampton,ORL,MISS Hampton 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-148,104,18,1,2.0,0.0,v
+S2223-G0236,2,03:15,IND,,ORL,,R. Hampton,ORL,MISS Hampton 1' Driving Layup,Missed Shot,Driving Layup Shot,1,5,1,1,2.0,0.0,v
+S2223-G0236,2,00:34.200000,IND,47.0,ORL,53.0,R. Hampton,ORL,Hampton 6' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,58,6,1,2.0,2.0,v
+S2223-G0236,2,00:34.200000,IND,,ORL,,R. Hampton,ORL,MISS Hampton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0236,2,00:16.600000,IND,,ORL,,R. Hampton,ORL,Hampton S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0236,4,10:47,IND,91.0,ORL,86.0,R. Hampton,ORL,Hampton 2' Driving Floating Bank Jump Shot (8 PTS),Made Shot,Driving Floating Bank Jump Shot,-5,22,2,1,2.0,2.0,v
+S2223-G0236,4,10:47,IND,91.0,ORL,87.0,R. Hampton,ORL,Hampton Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0236,4,06:31,IND,98.0,ORL,99.0,R. Hampton,ORL,Hampton 25' 3PT Jump Shot (12 PTS) (Suggs 8 AST),Made Shot,Jump Shot,210,144,25,1,3.0,3.0,v
+S2223-G0236,4,03:54,IND,105.0,ORL,103.0,R. Hampton,ORL,Hampton 2' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,4,15,2,1,2.0,2.0,v
+S2223-G0236,4,01:58,IND,,ORL,,R. Hampton,ORL,Hampton L.B.FOUL (P2.PN) (J.Schroeder),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0236,4,00:42.600000,IND,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1020,1,01:31,DET,,IND,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1020,1,01:24,DET,34.0,IND,19.0,R. Hampton,DET,Hampton 2' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,-11,12,2,1,2.0,2.0,h
+S2223-G1020,1,00:32.500000,DET,37.0,IND,20.0,R. Hampton,DET,Hampton Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1020,1,00:32.500000,DET,38.0,IND,20.0,R. Hampton,DET,Hampton Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1020,2,10:53,DET,41.0,IND,22.0,R. Hampton,DET,Hampton 26' 3PT Jump Shot (7 PTS) (Joseph 3 AST),Made Shot,Jump Shot,-131,227,26,1,3.0,3.0,h
+S2223-G1020,2,09:09,DET,,IND,,R. Hampton,DET,MISS Hampton 4' Floating Jump Shot,Missed Shot,Floating Jump shot,27,27,4,1,2.0,0.0,h
+S2223-G1020,2,07:51,DET,,IND,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1020,2,07:36,DET,,IND,,R. Hampton,DET,Hampton S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G1020,2,07:36,DET,,IND,,R. Hampton,DET,SUB: Wiseman FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G1020,2,02:53,DET,65.0,IND,36.0,R. Hampton,DET,Hampton 3PT Jump Shot (10 PTS) (Hayes 9 AST),Made Shot,Jump Shot,-233,23,0,1,3.0,3.0,h
+S2223-G1020,2,01:48,DET,,IND,,R. Hampton,DET,MISS Hampton 18' Jump Shot,Missed Shot,Jump Shot,28,174,18,1,2.0,0.0,h
+S2223-G1020,2,00:16,DET,,IND,,R. Hampton,DET,Hampton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1020,2,00:13.200000,DET,,IND,,R. Hampton,DET,Hampton Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1020,3,04:32,DET,,IND,,R. Hampton,DET,MISS Hampton 3' Driving Layup,Missed Shot,Driving Layup Shot,26,11,3,1,2.0,0.0,h
+S2223-G1020,3,02:30,DET,,IND,,R. Hampton,DET,Hampton REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1020,3,02:04,DET,,IND,,R. Hampton,DET,Hampton REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1020,3,02:01,DET,,IND,,R. Hampton,DET,Hampton Offensive Charge Foul (P2) (B.Barnaky),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1020,3,02:01,DET,,IND,,R. Hampton,DET,Hampton Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1020,3,00:42.100000,DET,89.0,IND,65.0,R. Hampton,DET,Hampton 15' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,92,117,15,1,2.0,2.0,h
+S2223-G1020,4,11:08,DET,94.0,IND,68.0,R. Hampton,DET,Hampton 26' 3PT Jump Shot (15 PTS) (Duren 3 AST),Made Shot,Jump Shot,131,219,26,1,3.0,3.0,h
+S2223-G1020,4,09:01,DET,,IND,,R. Hampton,DET,Hampton REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1020,4,05:44,DET,,IND,,R. Hampton,DET,SUB: Wiseman FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0934,2,07:55,DET,,CHI,,R. Hampton,DET,MISS Hampton 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-2,156,16,1,2.0,0.0,h
+S2223-G0934,2,04:53,DET,,CHI,,R. Hampton,DET,SUB: Bagley III FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G1142,1,03:52,OKC,,DET,,R. Hampton,DET,MISS Hampton 3PT Jump Shot,Missed Shot,Jump Shot,228,43,0,1,3.0,0.0,v
+S2223-G1142,1,03:21,OKC,20.0,DET,22.0,R. Hampton,DET,Hampton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1142,1,03:21,OKC,20.0,DET,23.0,R. Hampton,DET,Hampton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1142,1,02:53,OKC,,DET,,R. Hampton,DET,MISS Hampton 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,46,24,1,3.0,0.0,v
+S2223-G1142,1,00:02.200000,OKC,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1142,2,09:27,OKC,,DET,,R. Hampton,DET,MISS Hampton 3' Driving Layup,Missed Shot,Driving Layup Shot,25,16,3,1,2.0,0.0,v
+S2223-G1142,2,08:55,OKC,31.0,DET,37.0,R. Hampton,DET,Hampton 24' 3PT Jump Shot (5 PTS) (Ivey 3 AST),Made Shot,Jump Shot,-235,46,24,1,3.0,3.0,v
+S2223-G1142,2,08:12,OKC,,DET,,R. Hampton,DET,Hampton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1142,2,08:11,OKC,,DET,,R. Hampton,DET,MISS Hampton 6' Floating Jump Shot,Missed Shot,Floating Jump shot,4,58,6,1,2.0,0.0,v
+S2223-G1142,2,06:47,OKC,,DET,,R. Hampton,DET,Hampton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1142,2,06:26,OKC,,DET,,R. Hampton,DET,SUB: Livers FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G1142,3,03:28,OKC,,DET,,R. Hampton,DET,Hampton P.FOUL (P1.T4) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2223-G1142,3,01:01,OKC,81.0,DET,79.0,R. Hampton,DET,Hampton 29' 3PT Jump Shot (8 PTS) (Omoruyi 2 AST),Made Shot,Jump Shot,107,266,29,1,3.0,3.0,v
+S2223-G1142,3,00:27.700000,OKC,,DET,,R. Hampton,DET,Hampton S.FOUL (P2.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G1142,3,00:01.600000,OKC,,DET,,R. Hampton,DET,MISS Hampton 4' Driving Layup,Missed Shot,Driving Layup Shot,25,29,4,1,2.0,0.0,v
+S2223-G1142,4,11:04,OKC,,DET,,R. Hampton,DET,Hampton Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1142,4,09:24,OKC,89.0,DET,89.0,R. Hampton,DET,Hampton 3PT Jump Shot (11 PTS) (Ivey 8 AST),Made Shot,Jump Shot,233,27,0,1,3.0,3.0,v
+S2223-G1142,4,08:06,OKC,,DET,,R. Hampton,DET,Hampton Offensive Charge Foul (P3) (C.Kirkland),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G1142,4,08:06,OKC,,DET,,R. Hampton,DET,Hampton Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1142,4,07:46,OKC,,DET,,R. Hampton,DET,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,-167,197,26,1,3.0,0.0,v
+S2223-G1142,4,07:19,OKC,,DET,,R. Hampton,DET,MISS Hampton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1142,4,07:19,OKC,93.0,DET,90.0,R. Hampton,DET,Hampton Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1142,4,06:02,OKC,,DET,,R. Hampton,DET,SUB: Ivey FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G0769,2,11:14,DET,,WAS,,R. Hampton,DET,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,-191,182,26,1,3.0,0.0,h
+S2223-G0769,2,06:46,DET,44.0,WAS,38.0,R. Hampton,DET,Hampton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0769,2,06:46,DET,45.0,WAS,38.0,R. Hampton,DET,Hampton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0769,2,03:52,DET,,WAS,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0769,2,03:17,DET,,WAS,,R. Hampton,DET,SUB: Ivey FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0769,3,03:50,DET,74.0,WAS,75.0,R. Hampton,DET,Hampton 27' 3PT Jump Shot (5 PTS) (Joseph 5 AST),Made Shot,Jump Shot,91,258,27,1,3.0,3.0,h
+S2223-G0769,3,02:30,DET,78.0,WAS,81.0,R. Hampton,DET,Hampton 5' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,-23,47,5,1,2.0,2.0,h
+S2223-G0769,3,01:14,DET,,WAS,,R. Hampton,DET,MISS Hampton 27' 3PT Jump Shot,Missed Shot,Jump Shot,-207,178,27,1,3.0,0.0,h
+S2223-G0769,3,00:00.100000,DET,88.0,WAS,89.0,R. Hampton,DET,Hampton 26' 3PT Jump Shot (10 PTS) (Bagley III 4 AST),Made Shot,Jump Shot,225,126,26,1,3.0,3.0,h
+S2223-G0769,4,11:45,DET,89.0,WAS,89.0,R. Hampton,DET,Hampton Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0769,4,11:45,DET,,WAS,,R. Hampton,DET,MISS Hampton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0769,4,10:37,DET,,WAS,,R. Hampton,DET,MISS Hampton 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,32,33,5,1,2.0,0.0,h
+S2223-G0769,4,10:07,DET,,WAS,,R. Hampton,DET,MISS Hampton 30' 3PT Jump Shot,Missed Shot,Jump Shot,-145,264,30,1,3.0,0.0,h
+S2223-G0769,4,07:46,DET,,WAS,,R. Hampton,DET,SUB: McGruder FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0505,4,01:38,ORL,,LAL,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0505,4,00:58.700000,ORL,,LAL,,R. Hampton,ORL,MISS Hampton 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,98,93,14,1,2.0,0.0,h
+S2223-G0030,2,08:05,ORL,,BOS,,R. Hampton,ORL,Hampton STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0030,2,05:56,ORL,,BOS,,R. Hampton,ORL,Hampton P.FOUL (P1.T3) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2223-G0030,2,03:47,ORL,,BOS,,R. Hampton,ORL,SUB: Wagner FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0030,2,01:05,ORL,65.0,BOS,63.0,R. Hampton,ORL,Hampton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0030,2,01:05,ORL,,BOS,,R. Hampton,ORL,MISS Hampton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0071,1,03:23,ORL,,CHA,,R. Hampton,ORL,Hampton Backcourt Turnover (P1.T3),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2223-G0071,1,02:08,ORL,,CHA,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0071,1,01:58,ORL,,CHA,,R. Hampton,ORL,MISS Hampton 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,59,59,8,1,2.0,0.0,h
+S2223-G0071,2,11:05,ORL,,CHA,,R. Hampton,ORL,Hampton STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0071,2,11:03,ORL,26.0,CHA,20.0,R. Hampton,ORL,Hampton 2' Layup (2 PTS),Made Shot,Layup Shot,11,20,2,1,2.0,2.0,h
+S2223-G0071,2,08:49,ORL,,CHA,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0071,2,07:38,ORL,,CHA,,R. Hampton,ORL,SUB: Schofield FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0071,3,02:06,ORL,,CHA,,R. Hampton,ORL,MISS Hampton 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-47,73,9,1,2.0,0.0,h
+S2223-G0071,3,00:31.600000,ORL,77.0,CHA,53.0,R. Hampton,ORL,Hampton Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0071,3,00:31.600000,ORL,78.0,CHA,53.0,R. Hampton,ORL,Hampton Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0071,3,00:31.600000,ORL,79.0,CHA,53.0,R. Hampton,ORL,Hampton Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0071,4,10:13,ORL,86.0,CHA,61.0,R. Hampton,ORL,Hampton Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0071,4,10:13,ORL,87.0,CHA,61.0,R. Hampton,ORL,Hampton Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0071,4,08:16,ORL,,CHA,,R. Hampton,ORL,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,82,250,26,1,3.0,0.0,h
+S2223-G0071,4,08:12,ORL,,CHA,,R. Hampton,ORL,Hampton S.FOUL (P1.T2) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0071,4,07:35,ORL,,CHA,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0071,4,04:57,ORL,,CHA,,R. Hampton,ORL,Hampton STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0071,4,03:43,ORL,,CHA,,R. Hampton,ORL,MISS Hampton 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-33,14,4,1,2.0,0.0,h
+S2223-G0071,4,01:45,ORL,111.0,CHA,82.0,R. Hampton,ORL,Hampton 2' Driving Dunk (9 PTS),Made Shot,Driving Dunk Shot,-4,15,2,1,2.0,2.0,h
+S2223-G0071,4,00:52.800000,ORL,,CHA,,R. Hampton,ORL,Hampton REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0071,4,00:30.300000,ORL,,CHA,,R. Hampton,ORL,MISS Hampton 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,76,135,15,1,2.0,0.0,h
+S2223-G0118,1,02:06,ORL,,GSW,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0118,1,02:05,ORL,,GSW,,R. Hampton,ORL,Hampton Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0118,1,00:58.400000,ORL,30.0,GSW,28.0,R. Hampton,ORL,Hampton 25' 3PT Jump Shot (3 PTS) (Banchero 2 AST),Made Shot,Jump Shot,152,195,25,1,3.0,3.0,h
+S2223-G0118,2,11:31,ORL,32.0,GSW,30.0,R. Hampton,ORL,Hampton 2' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,-22,-2,2,1,2.0,2.0,h
+S2223-G0118,2,10:40,ORL,,GSW,,R. Hampton,ORL,Hampton AWAY.FROM.PLAY.FOUL (P1.T1) (S.Foster),Foul,Away From Play,0,0,0,0,,,h
+S2223-G0118,2,10:08,ORL,,GSW,,R. Hampton,ORL,Hampton Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0118,2,07:12,ORL,,GSW,,R. Hampton,ORL,SUB: Wagner FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0118,3,02:05,ORL,,GSW,,R. Hampton,ORL,Hampton Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0118,3,02:01,ORL,,GSW,,R. Hampton,ORL,Hampton STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0118,3,01:54,ORL,,GSW,,R. Hampton,ORL,Hampton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0118,3,01:53,ORL,84.0,GSW,93.0,R. Hampton,ORL,Hampton Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0118,3,01:53,ORL,85.0,GSW,93.0,R. Hampton,ORL,Hampton Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0118,3,00:39.700000,ORL,94.0,GSW,96.0,R. Hampton,ORL,Hampton 26' 3PT Pullup Jump Shot (10 PTS) (Suggs 6 AST),Made Shot,Pullup Jump shot,94,241,26,1,3.0,3.0,h
+S2223-G0118,3,00:08.100000,ORL,,GSW,,R. Hampton,ORL,Hampton P.FOUL (P2.T3) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2223-G0118,4,11:33,ORL,,GSW,,R. Hampton,ORL,MISS Hampton 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-156,205,26,1,3.0,0.0,h
+S2223-G0118,4,09:02,ORL,,GSW,,R. Hampton,ORL,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,70,252,26,1,3.0,0.0,h
+S2223-G0118,4,08:21,ORL,107.0,GSW,104.0,R. Hampton,ORL,Hampton Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0118,4,08:21,ORL,108.0,GSW,104.0,R. Hampton,ORL,Hampton Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0118,4,08:05,ORL,,GSW,,R. Hampton,ORL,Hampton P.FOUL (P3.T2) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2223-G0118,4,07:20,ORL,113.0,GSW,104.0,R. Hampton,ORL,Hampton 26' 3PT Jump Shot (15 PTS) (Wagner 2 AST),Made Shot,Jump Shot,-137,221,26,1,3.0,3.0,h
+S2223-G0118,4,06:35,ORL,,GSW,,R. Hampton,ORL,Hampton BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0118,4,03:27,ORL,,GSW,,R. Hampton,ORL,SUB: Okeke FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G1122,2,11:18,DET,,MIL,,R. Hampton,DET,MISS Hampton 4' Driving Layup,Missed Shot,Driving Layup Shot,17,37,4,1,2.0,0.0,h
+S2223-G1122,2,10:32,DET,,MIL,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1122,2,10:24,DET,,MIL,,R. Hampton,DET,MISS Hampton 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-126,240,27,1,3.0,0.0,h
+S2223-G1122,2,07:20,DET,,MIL,,R. Hampton,DET,MISS Hampton 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,170,197,26,1,3.0,0.0,h
+S2223-G1122,2,03:25,DET,40.0,MIL,53.0,R. Hampton,DET,Hampton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1122,2,03:25,DET,,MIL,,R. Hampton,DET,MISS Hampton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1122,2,03:09,DET,,MIL,,R. Hampton,DET,Hampton Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1122,2,02:49,DET,,MIL,,R. Hampton,DET,MISS Hampton 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,76,264,27,1,3.0,0.0,h
+S2223-G1122,2,02:35,DET,,MIL,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1122,2,02:31,DET,42.0,MIL,55.0,R. Hampton,DET,Hampton 3' Running Dunk (3 PTS),Made Shot,Running Dunk Shot,2,25,3,1,2.0,2.0,h
+S2223-G1122,2,02:26,DET,,MIL,,R. Hampton,DET,SUB: Joseph FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G1122,4,09:50,DET,,MIL,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1122,4,08:59,DET,,MIL,,R. Hampton,DET,Hampton Out of Bounds Lost Ball Turnover (P2.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1122,4,07:13,DET,,MIL,,R. Hampton,DET,MISS Hampton 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-180,190,26,1,3.0,0.0,h
+S2223-G1122,4,07:06,DET,,MIL,,R. Hampton,DET,MISS Hampton 25' 3PT Jump Shot,Missed Shot,Jump Shot,-141,212,25,1,3.0,0.0,h
+S2223-G1122,4,06:48,DET,,MIL,,R. Hampton,DET,SUB: Duren FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0046,2,05:09,NYK,,ORL,,R. Hampton,ORL,Hampton Violation:Kicked Ball (B.Nansel),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0046,2,04:07,NYK,,ORL,,R. Hampton,ORL,Hampton P.FOUL (P1.T3) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G0046,2,02:48,NYK,,ORL,,R. Hampton,ORL,MISS Hampton 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-72,-1,7,1,2.0,0.0,v
+S2223-G0046,2,02:46,NYK,,ORL,,R. Hampton,ORL,SUB: Banchero FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G0093,2,11:28,DAL,,ORL,,R. Hampton,ORL,Hampton STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0093,2,11:23,DAL,32.0,ORL,36.0,R. Hampton,ORL,Hampton 13' Jump Shot (2 PTS),Made Shot,Jump Shot,-1,131,13,1,2.0,2.0,v
+S2223-G0093,2,08:49,DAL,37.0,ORL,44.0,R. Hampton,ORL,Hampton 26' 3PT Jump Shot (5 PTS) (Harris 1 AST),Made Shot,Jump Shot,147,215,26,1,3.0,3.0,v
+S2223-G0093,2,08:11,DAL,,ORL,,R. Hampton,ORL,MISS Hampton 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-100,-1,10,1,2.0,0.0,v
+S2223-G0093,2,07:13,DAL,40.0,ORL,48.0,R. Hampton,ORL,Hampton 26' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,107,237,26,1,3.0,3.0,v
+S2223-G0093,2,06:53,DAL,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0093,2,06:35,DAL,,ORL,,R. Hampton,ORL,MISS Hampton 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-5,179,18,1,2.0,0.0,v
+S2223-G0093,2,06:34,DAL,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0093,2,05:25,DAL,,ORL,,R. Hampton,ORL,Hampton S.FOUL (P1.T4) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0093,2,05:25,DAL,,ORL,,R. Hampton,ORL,SUB: Carter Jr. FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G0093,4,09:12,DAL,95.0,ORL,87.0,R. Hampton,ORL,Hampton 6' Driving Bank Hook Shot (10 PTS) (Bamba 1 AST),Made Shot,Driving Bank Hook Shot,60,15,6,1,2.0,2.0,v
+S2223-G0093,4,08:52,DAL,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0093,4,06:34,DAL,,ORL,,R. Hampton,ORL,MISS Hampton 25' 3PT Jump Shot,Missed Shot,Jump Shot,16,253,25,1,3.0,0.0,v
+S2223-G0093,4,06:32,DAL,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0093,4,06:30,DAL,100.0,ORL,93.0,R. Hampton,ORL,Hampton 25' 3PT Jump Shot (13 PTS),Made Shot,Jump Shot,16,251,25,1,3.0,3.0,v
+S2223-G0093,4,04:57,DAL,102.0,ORL,95.0,R. Hampton,ORL,Hampton 4' Layup (15 PTS),Made Shot,Layup Shot,34,11,4,1,2.0,2.0,v
+S2223-G0093,4,04:33,DAL,,ORL,,R. Hampton,ORL,Hampton STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0093,4,02:49,DAL,,ORL,,R. Hampton,ORL,SUB: Okeke FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G0302,1,05:41,BKN,,ORL,,R. Hampton,ORL,Hampton Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0302,1,03:35,BKN,,ORL,,R. Hampton,ORL,Hampton STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0302,1,02:46,BKN,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0302,1,02:37,BKN,,ORL,,R. Hampton,ORL,MISS Hampton 25' 3PT Jump Shot,Missed Shot,Jump Shot,6,245,25,1,3.0,0.0,v
+S2223-G0302,2,10:46,BKN,,ORL,,R. Hampton,ORL,Hampton Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0302,2,10:14,BKN,,ORL,,R. Hampton,ORL,MISS Hampton 25' 3PT Jump Shot,Missed Shot,Jump Shot,-120,219,25,1,3.0,0.0,v
+S2223-G0302,2,09:35,BKN,,ORL,,R. Hampton,ORL,MISS Hampton 3PT Jump Shot,Missed Shot,Jump Shot,-227,-16,0,1,3.0,0.0,v
+S2223-G0302,2,08:32,BKN,,ORL,,R. Hampton,ORL,MISS Hampton 2' Driving Layup,Missed Shot,Driving Layup Shot,17,13,2,1,2.0,0.0,v
+S2223-G0302,2,08:24,BKN,,ORL,,R. Hampton,ORL,SUB: G. Harris FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G0302,3,01:17,BKN,,ORL,,R. Hampton,ORL,MISS Hampton 2' Driving Layup,Missed Shot,Driving Layup Shot,-21,4,2,1,2.0,0.0,v
+S2223-G0302,3,00:14.800000,BKN,,ORL,,R. Hampton,ORL,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,-140,216,26,1,3.0,0.0,v
+S2223-G0302,4,10:50,BKN,89.0,ORL,80.0,R. Hampton,ORL,Hampton 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-112,122,17,1,2.0,2.0,v
+S2223-G0302,4,09:51,BKN,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0302,4,09:09,BKN,,ORL,,R. Hampton,ORL,SUB: G. Harris FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G1006,1,01:33,DET,,IND,,R. Hampton,DET,Hampton Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1006,1,01:05,DET,,IND,,R. Hampton,DET,MISS Hampton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1006,1,01:05,DET,,IND,,R. Hampton,DET,MISS Hampton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1006,1,00:28.900000,DET,27.0,IND,35.0,R. Hampton,DET,Hampton 26' 3PT Jump Shot (3 PTS) (Joseph 2 AST),Made Shot,Jump Shot,200,172,26,1,3.0,3.0,h
+S2223-G1006,2,11:47,DET,,IND,,R. Hampton,DET,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,127,231,26,1,3.0,0.0,h
+S2223-G1006,2,08:08,DET,,IND,,R. Hampton,DET,Hampton S.FOUL (P1.T4) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G1006,2,07:59,DET,,IND,,R. Hampton,DET,MISS Hampton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1006,2,07:59,DET,41.0,IND,48.0,R. Hampton,DET,Hampton Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1006,2,04:02,DET,51.0,IND,59.0,R. Hampton,DET,Hampton 1' Running Layup (6 PTS) (Livers 1 AST),Made Shot,Running Layup Shot,12,6,1,1,2.0,2.0,h
+S2223-G1006,2,00:01.400000,DET,,IND,,R. Hampton,DET,MISS Hampton 3PT Jump Shot,Missed Shot,Jump Shot,-233,29,0,1,3.0,0.0,h
+S2223-G1006,3,00:11.400000,DET,,IND,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1006,4,10:05,DET,,IND,,R. Hampton,DET,Hampton S.FOUL (P2.T2) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1006,4,09:26,DET,,IND,,R. Hampton,DET,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,-189,176,26,1,3.0,0.0,h
+S2223-G1006,4,08:55,DET,99.0,IND,100.0,R. Hampton,DET,Hampton 7' Driving Hook Shot (8 PTS) (Duren 1 AST),Made Shot,Driving Hook Shot,-5,72,7,1,2.0,2.0,h
+S2223-G1006,4,07:06,DET,,IND,,R. Hampton,DET,SUB: Wiseman FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G1155,2,11:22,HOU,,DET,,R. Hampton,DET,Hampton STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1155,2,11:17,HOU,,DET,,R. Hampton,DET,MISS Hampton 25' 3PT Jump Shot,Missed Shot,Jump Shot,174,178,25,1,3.0,0.0,v
+S2223-G1155,2,08:05,HOU,,DET,,R. Hampton,DET,Hampton STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1155,2,08:00,HOU,,DET,,R. Hampton,DET,MISS Hampton 5' Running Layup,Missed Shot,Running Layup Shot,-12,48,5,1,2.0,0.0,v
+S2223-G1155,2,05:00,HOU,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1155,2,04:17,HOU,,DET,,R. Hampton,DET,SUB: Ivey FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G0340,4,06:24,TOR,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0340,4,06:21,TOR,,ORL,,R. Hampton,ORL,MISS Hampton 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-141,246,28,1,3.0,0.0,v
+S2223-G0340,4,03:55,TOR,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0340,4,02:42,TOR,114.0,ORL,99.0,R. Hampton,ORL,Hampton 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-37,65,7,1,2.0,2.0,v
+S2223-G0340,4,00:08,TOR,121.0,ORL,107.0,R. Hampton,ORL,Hampton Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0340,4,00:08,TOR,121.0,ORL,108.0,R. Hampton,ORL,Hampton Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0566,1,03:06,ORL,,OKC,,R. Hampton,ORL,Hampton Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0566,1,02:26,ORL,,OKC,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0566,1,01:06,ORL,29.0,OKC,23.0,R. Hampton,ORL,Hampton 3PT Jump Shot (3 PTS) (Anthony 1 AST),Made Shot,Jump Shot,-228,5,0,1,3.0,3.0,h
+S2223-G0566,2,11:15,ORL,35.0,OKC,28.0,R. Hampton,ORL,Hampton 2' Driving Layup (5 PTS) (Banchero 2 AST),Made Shot,Driving Layup Shot,-10,13,2,1,2.0,2.0,h
+S2223-G0566,2,09:58,ORL,,OKC,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0566,2,09:52,ORL,40.0,OKC,30.0,R. Hampton,ORL,Hampton 10' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,-6,99,10,1,2.0,2.0,h
+S2223-G0566,2,09:15,ORL,41.0,OKC,33.0,R. Hampton,ORL,Hampton Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0566,2,09:15,ORL,42.0,OKC,33.0,R. Hampton,ORL,Hampton Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0566,2,06:27,ORL,,OKC,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0566,2,05:32,ORL,,OKC,,R. Hampton,ORL,SUB: Fultz FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0566,2,00:02.400000,ORL,,OKC,,R. Hampton,ORL,MISS Hampton 3PT Jump Shot,Missed Shot,Jump Shot,229,10,0,1,3.0,0.0,h
+S2223-G0566,3,02:09,ORL,,OKC,,R. Hampton,ORL,Hampton S.FOUL (P1.T4) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0566,3,01:01,ORL,,OKC,,R. Hampton,ORL,Hampton Traveling Turnover (P2.T12),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0566,4,11:01,ORL,97.0,OKC,88.0,R. Hampton,ORL,Hampton 7' Driving Floating Bank Jump Shot (11 PTS),Made Shot,Driving Floating Bank Jump Shot,50,55,7,1,2.0,2.0,h
+S2223-G0566,4,06:28,ORL,,OKC,,R. Hampton,ORL,MISS Hampton 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,34,24,1,3.0,0.0,h
+S2223-G0566,4,05:39,ORL,,OKC,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0566,4,05:31,ORL,,OKC,,R. Hampton,ORL,MISS Hampton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0566,4,05:31,ORL,111.0,OKC,98.0,R. Hampton,ORL,Hampton Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0566,4,04:03,ORL,,OKC,,R. Hampton,ORL,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,178,185,26,1,3.0,0.0,h
+S2223-G0566,4,03:24,ORL,,OKC,,R. Hampton,ORL,Hampton L.B.FOUL (P2.T4) (T.Ford),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0566,4,03:24,ORL,,OKC,,R. Hampton,ORL,SUB: Banchero FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0161,1,02:59,ORL,,DAL,,R. Hampton,ORL,Hampton Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0161,1,02:37,ORL,22.0,DAL,20.0,R. Hampton,ORL,Hampton 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-18,15,2,1,2.0,2.0,h
+S2223-G0161,1,01:17,ORL,,DAL,,R. Hampton,ORL,Hampton Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0161,1,01:14,ORL,,DAL,,R. Hampton,ORL,Hampton BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0161,1,00:20.200000,ORL,,DAL,,R. Hampton,ORL,MISS Hampton 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-232,47,24,1,3.0,0.0,h
+S2223-G0161,2,08:49,ORL,,DAL,,R. Hampton,ORL,SUB: Suggs FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0177,2,05:38,ORL,,PHX,,R. Hampton,ORL,Hampton BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0177,2,04:23,ORL,44.0,PHX,39.0,R. Hampton,ORL,Hampton 24' 3PT Jump Shot (3 PTS) (Suggs 3 AST),Made Shot,Jump Shot,234,46,24,1,3.0,3.0,h
+S2223-G0177,2,02:54,ORL,48.0,PHX,39.0,R. Hampton,ORL,Hampton 11' Turnaround Jump Shot (5 PTS),Made Shot,Turnaround Jump Shot,-25,105,11,1,2.0,2.0,h
+S2223-G0177,2,00:04.900000,ORL,58.0,PHX,49.0,R. Hampton,ORL,Hampton 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-11,264,26,1,3.0,3.0,h
+S2223-G0177,4,05:36,ORL,,PHX,,R. Hampton,ORL,Hampton STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0177,4,05:12,ORL,,PHX,,R. Hampton,ORL,Hampton P.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,h
+S2223-G0177,4,04:37,ORL,,PHX,,R. Hampton,ORL,Hampton Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0177,4,04:27,ORL,,PHX,,R. Hampton,ORL,SUB: Okeke FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0249,2,06:20,IND,,ORL,,R. Hampton,ORL,MISS Hampton 3PT Jump Shot,Missed Shot,Jump Shot,232,8,0,1,3.0,0.0,v
+S2223-G0249,2,02:01,IND,,ORL,,R. Hampton,ORL,MISS Hampton 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,181,96,20,1,2.0,0.0,v
+S2223-G0249,3,03:00,IND,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0249,3,03:00,IND,,ORL,,R. Hampton,ORL,MISS Hampton 5' Putback Layup,Missed Shot,Putback Layup Shot,-49,7,5,1,2.0,0.0,v
+S2223-G0249,3,01:14,IND,,ORL,,R. Hampton,ORL,MISS Hampton 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-21,273,27,1,3.0,0.0,v
+S2223-G0249,3,00:22.600000,IND,,ORL,,R. Hampton,ORL,Hampton S.FOUL (P1.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0249,4,08:49,IND,96.0,ORL,76.0,R. Hampton,ORL,Hampton 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,0,7,1,1,2.0,2.0,v
+S2223-G0249,4,07:34,IND,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0249,4,06:19,IND,104.0,ORL,85.0,R. Hampton,ORL,Hampton 1' Cutting Layup Shot (4 PTS) (Bamba 1 AST),Made Shot,Cutting Layup Shot,-6,2,1,1,2.0,2.0,v
+S2223-G0249,4,03:50,IND,,ORL,,R. Hampton,ORL,Hampton STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0249,4,01:34,IND,,ORL,,R. Hampton,ORL,Hampton Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0249,4,00:42.300000,IND,,ORL,,R. Hampton,ORL,MISS Hampton Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,v
+S2223-G0249,4,00:42.300000,IND,121.0,ORL,101.0,R. Hampton,ORL,Hampton Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0249,4,00:42.300000,IND,121.0,ORL,102.0,R. Hampton,ORL,Hampton Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0249,4,00:06.400000,IND,,ORL,,R. Hampton,ORL,MISS Hampton 30' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,179,239,30,1,3.0,0.0,v
+S2223-G1177,1,03:08,DET,,MIA,,R. Hampton,DET,Hampton Personal Take Foul (P1.T1) (N.Sago),Foul,Personal Take,0,0,0,0,,,h
+S2223-G1177,1,02:57,DET,,MIA,,R. Hampton,DET,PISTONS T.Foul (Def. 3 Sec Hampton ) (P.Fraher),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G1177,1,00:59.400000,DET,,MIA,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1177,1,00:04.700000,DET,,MIA,,R. Hampton,DET,MISS Hampton 3PT Jump Shot,Missed Shot,Jump Shot,233,20,0,1,3.0,0.0,h
+S2223-G1177,2,11:05,DET,,MIA,,R. Hampton,DET,Hampton BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1177,2,08:40,DET,,MIA,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1177,2,08:27,DET,,MIA,,R. Hampton,DET,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,-181,193,26,1,3.0,0.0,h
+S2223-G1177,2,07:27,DET,33.0,MIA,47.0,R. Hampton,DET,Hampton 10' Driving Floating Jump Shot (2 PTS) (Wiseman 1 AST),Made Shot,Driving Floating Jump Shot,-49,84,10,1,2.0,2.0,h
+S2223-G1177,2,05:58,DET,,MIA,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1177,2,05:48,DET,,MIA,,R. Hampton,DET,SUB: Livers FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G1177,3,00:47.900000,DET,,MIA,,R. Hampton,DET,MISS Hampton 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,108,24,11,1,2.0,0.0,h
+S2223-G1177,4,11:01,DET,,MIA,,R. Hampton,DET,MISS Hampton 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,21,24,1,3.0,0.0,h
+S2223-G1177,4,07:05,DET,,MIA,,R. Hampton,DET,SUB: Ivey FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0273,1,02:37,ORL,22.0,PHI,18.0,R. Hampton,ORL,Hampton 7' Driving Floating Jump Shot (2 PTS) (Bol 1 AST),Made Shot,Driving Floating Jump Shot,-15,71,7,1,2.0,2.0,h
+S2223-G0273,1,01:41,ORL,,PHI,,R. Hampton,ORL,MISS Hampton 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,112,141,18,1,2.0,0.0,h
+S2223-G0273,1,01:18,ORL,,PHI,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0273,2,11:44,ORL,,PHI,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0273,2,11:23,ORL,31.0,PHI,24.0,R. Hampton,ORL,Hampton 2' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,-18,9,2,1,2.0,2.0,h
+S2223-G0273,2,10:15,ORL,,PHI,,R. Hampton,ORL,Hampton S.FOUL (P1.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0273,2,09:54,ORL,,PHI,,R. Hampton,ORL,Hampton Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0273,2,05:55,ORL,45.0,PHI,39.0,R. Hampton,ORL,Hampton 3PT Jump Shot (7 PTS) (Suggs 2 AST),Made Shot,Jump Shot,232,25,0,1,3.0,3.0,h
+S2223-G0273,2,03:44,ORL,,PHI,,R. Hampton,ORL,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,159,205,26,1,3.0,0.0,h
+S2223-G0273,2,03:36,ORL,,PHI,,R. Hampton,ORL,Hampton STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0273,2,03:08,ORL,,PHI,,R. Hampton,ORL,SUB: G. Harris FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0273,3,02:12,ORL,,PHI,,R. Hampton,ORL,MISS Hampton 3PT Jump Shot,Missed Shot,Jump Shot,-228,33,0,1,3.0,0.0,h
+S2223-G0273,3,01:08,ORL,,PHI,,R. Hampton,ORL,MISS Hampton 2' Driving Layup,Missed Shot,Driving Layup Shot,7,23,2,1,2.0,0.0,h
+S2223-G0273,4,09:36,ORL,84.0,PHI,89.0,R. Hampton,ORL,Hampton 28' 3PT Jump Shot (10 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,-132,244,28,1,3.0,3.0,h
+S2223-G0273,4,07:18,ORL,,PHI,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0273,4,05:08,ORL,,PHI,,R. Hampton,ORL,MISS Hampton 1' Driving Layup,Missed Shot,Driving Layup Shot,4,10,1,1,2.0,0.0,h
+S2223-G0273,4,04:34,ORL,,PHI,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0273,4,04:01,ORL,,PHI,,R. Hampton,ORL,MISS Hampton 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,148,225,27,1,3.0,0.0,h
+S2223-G0273,4,00:38.600000,ORL,,PHI,,R. Hampton,ORL,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,199,172,26,1,3.0,0.0,h
+S2223-G0479,4,02:25,ORL,,SAS,,R. Hampton,ORL,MISS Hampton 6' Driving Layup,Missed Shot,Driving Layup Shot,31,54,6,1,2.0,0.0,h
+S2223-G0479,4,01:10,ORL,133.0,SAS,111.0,R. Hampton,ORL,Hampton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0479,4,01:10,ORL,,SAS,,R. Hampton,ORL,MISS Hampton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0212,1,00:00,ORL,,MIN,,R. Hampton,ORL,MISS Hampton 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-1,192,19,1,2.0,0.0,h
+S2223-G0212,2,11:43,ORL,,MIN,,R. Hampton,ORL,MISS Hampton 25' 3PT Jump Shot,Missed Shot,Jump Shot,179,168,25,1,3.0,0.0,h
+S2223-G0212,2,11:00,ORL,,MIN,,R. Hampton,ORL,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,158,210,26,1,3.0,0.0,h
+S2223-G0212,2,09:32,ORL,26.0,MIN,49.0,R. Hampton,ORL,Hampton 15' Step Back Jump Shot (2 PTS) (Ross 1 AST),Made Shot,Step Back Jump shot,69,132,15,1,2.0,2.0,h
+S2223-G0212,2,08:49,ORL,,MIN,,R. Hampton,ORL,Hampton Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0212,2,08:14,ORL,28.0,MIN,49.0,R. Hampton,ORL,Hampton 9' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,21,92,9,1,2.0,2.0,h
+S2223-G0212,2,04:25,ORL,,MIN,,R. Hampton,ORL,Hampton S.FOUL (P1.PN) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0212,2,03:17,ORL,,MIN,,R. Hampton,ORL,MISS Hampton 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-4,53,5,1,2.0,0.0,h
+S2223-G0212,2,03:11,ORL,,MIN,,R. Hampton,ORL,SUB: Houstan FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0992,2,11:15,DET,,CHA,,R. Hampton,DET,MISS Hampton 7' Hook Shot,Missed Shot,Hook Shot,-47,48,7,1,2.0,0.0,h
+S2223-G0992,2,09:22,DET,28.0,CHA,39.0,R. Hampton,DET,Hampton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0992,2,09:22,DET,29.0,CHA,39.0,R. Hampton,DET,Hampton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0992,2,08:33,DET,,CHA,,R. Hampton,DET,Hampton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0992,2,08:29,DET,32.0,CHA,41.0,R. Hampton,DET,Hampton 14' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,-127,52,14,1,2.0,2.0,h
+S2223-G0992,2,06:38,DET,37.0,CHA,44.0,R. Hampton,DET,Hampton 27' 3PT Jump Shot (7 PTS) (Hayes 3 AST),Made Shot,Jump Shot,135,238,27,1,3.0,3.0,h
+S2223-G0992,2,06:06,DET,,CHA,,R. Hampton,DET,Hampton REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0992,2,06:06,DET,,CHA,,R. Hampton,DET,MISS Hampton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0992,2,06:06,DET,38.0,CHA,44.0,R. Hampton,DET,Hampton Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0992,2,05:34,DET,,CHA,,R. Hampton,DET,SUB: McGruder FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0992,3,01:55,DET,,CHA,,R. Hampton,DET,Hampton S.FOUL (P1.T2) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2223-G0992,3,00:54.600000,DET,,CHA,,R. Hampton,DET,Hampton REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0992,3,00:47,DET,,CHA,,R. Hampton,DET,MISS Hampton 7' Driving Layup,Missed Shot,Driving Layup Shot,23,63,7,1,2.0,0.0,h
+S2223-G0992,4,06:10,DET,,CHA,,R. Hampton,DET,SUB: Wiseman FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G1028,1,10:30,WAS,,DET,,R. Hampton,DET,MISS Hampton 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-147,0,15,1,2.0,0.0,v
+S2223-G1028,1,10:18,WAS,6.0,DET,5.0,R. Hampton,DET,Hampton 26' 3PT Jump Shot (3 PTS) (Hayes 1 AST),Made Shot,Jump Shot,-239,111,26,1,3.0,3.0,v
+S2223-G1028,1,09:58,WAS,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1028,1,05:23,WAS,,DET,,R. Hampton,DET,Hampton S.FOUL (P1.T2) (S.Jelks),Foul,Shooting,0,0,0,0,,,v
+S2223-G1028,1,04:28,WAS,,DET,,R. Hampton,DET,MISS Hampton 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,31,57,6,1,2.0,0.0,v
+S2223-G1028,1,03:38,WAS,,DET,,R. Hampton,DET,Hampton Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1028,1,03:12,WAS,,DET,,R. Hampton,DET,SUB: Wiseman FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G1028,3,05:38,WAS,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1028,3,04:56,WAS,,DET,,R. Hampton,DET,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,223,128,26,1,3.0,0.0,v
+S2223-G1028,3,04:09,WAS,,DET,,R. Hampton,DET,MISS Hampton 27' 3PT Jump Shot,Missed Shot,Jump Shot,195,184,27,1,3.0,0.0,v
+S2223-G1028,3,03:28,WAS,,DET,,R. Hampton,DET,SUB: Joseph FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G1028,4,05:20,WAS,102.0,DET,87.0,R. Hampton,DET,Hampton 11' Driving Floating Jump Shot (5 PTS) (Hayes 7 AST),Made Shot,Driving Floating Jump Shot,-71,84,11,1,2.0,2.0,v
+S2223-G1028,4,03:22,WAS,,DET,,R. Hampton,DET,MISS Hampton 10' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,-53,85,10,1,2.0,0.0,v
+S2223-G1028,4,02:02,WAS,,DET,,R. Hampton,DET,Hampton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1189,1,03:40,DET,,BKN,,R. Hampton,DET,Hampton S.FOUL (P1.T3) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2223-G1189,1,03:22,DET,,BKN,,R. Hampton,DET,MISS Hampton 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,5,148,15,1,2.0,0.0,h
+S2223-G1189,1,01:46,DET,,BKN,,R. Hampton,DET,Hampton S.FOUL (P2.T4) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G1189,2,11:38,DET,,BKN,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1189,2,11:02,DET,38.0,BKN,47.0,R. Hampton,DET,Hampton 2' Running Layup (2 PTS) (Joseph 1 AST),Made Shot,Running Layup Shot,-5,23,2,1,2.0,2.0,h
+S2223-G1189,2,10:13,DET,,BKN,,R. Hampton,DET,Hampton P.FOUL (P3.T1) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,h
+S2223-G1189,2,08:55,DET,47.0,BKN,54.0,R. Hampton,DET,Hampton 26' 3PT Jump Shot (5 PTS) (Ivey 6 AST),Made Shot,Jump Shot,211,159,26,1,3.0,3.0,h
+S2223-G1189,2,06:10,DET,,BKN,,R. Hampton,DET,MISS Hampton 4' Driving Layup,Missed Shot,Driving Layup Shot,43,7,4,1,2.0,0.0,h
+S2223-G1189,2,06:09,DET,,BKN,,R. Hampton,DET,SUB: Omoruyi FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G1189,3,09:59,DET,61.0,BKN,78.0,R. Hampton,DET,Hampton 4' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,-1,38,4,1,2.0,2.0,h
+S2223-G1189,3,06:37,DET,,BKN,,R. Hampton,DET,MISS Hampton 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,81,241,25,1,3.0,0.0,h
+S2223-G1189,3,06:36,DET,,BKN,,R. Hampton,DET,Hampton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1189,3,06:34,DET,67.0,BKN,81.0,R. Hampton,DET,Hampton 14' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,103,100,14,1,2.0,2.0,h
+S2223-G1189,3,06:17,DET,,BKN,,R. Hampton,DET,Hampton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1189,3,02:57,DET,76.0,BKN,89.0,R. Hampton,DET,Hampton 25' 3PT Jump Shot (12 PTS) (Hayes 4 AST),Made Shot,Jump Shot,238,71,25,1,3.0,3.0,h
+S2223-G1189,3,02:28,DET,79.0,BKN,91.0,R. Hampton,DET,Hampton 26' 3PT Jump Shot (15 PTS) (Hayes 5 AST),Made Shot,Jump Shot,-138,226,26,1,3.0,3.0,h
+S2223-G1189,3,02:12,DET,,BKN,,R. Hampton,DET,Hampton REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1189,3,02:05,DET,80.0,BKN,91.0,R. Hampton,DET,Hampton Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1189,3,02:05,DET,81.0,BKN,91.0,R. Hampton,DET,Hampton Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1189,3,01:49,DET,,BKN,,R. Hampton,DET,Hampton REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1189,3,01:43,DET,84.0,BKN,91.0,R. Hampton,DET,Hampton 26' 3PT Running Pull-Up Jump Shot (20 PTS),Made Shot,Running Pull-Up Jump Shot,-87,248,26,1,3.0,3.0,h
+S2223-G1189,3,00:59.800000,DET,87.0,BKN,91.0,R. Hampton,DET,Hampton 30' 3PT Pullup Jump Shot (23 PTS) (Joseph 2 AST),Made Shot,Pullup Jump shot,-99,288,30,1,3.0,3.0,h
+S2223-G1189,4,11:38,DET,,BKN,,R. Hampton,DET,Hampton Traveling Turnover (P1.T13),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1189,4,10:53,DET,92.0,BKN,98.0,R. Hampton,DET,Hampton 3' Driving Layup (25 PTS) (Joseph 3 AST),Made Shot,Driving Layup Shot,-28,-10,3,1,2.0,2.0,h
+S2223-G1189,4,05:24,DET,,BKN,,R. Hampton,DET,MISS Hampton 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,185,220,29,1,3.0,0.0,h
+S2223-G1189,4,05:08,DET,,BKN,,R. Hampton,DET,MISS Hampton 27' 3PT Jump Shot,Missed Shot,Jump Shot,-157,214,27,1,3.0,0.0,h
+S2223-G1189,4,02:32,DET,,BKN,,R. Hampton,DET,Hampton BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1189,4,02:15,DET,102.0,BKN,116.0,R. Hampton,DET,Hampton Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1189,4,02:15,DET,103.0,BKN,116.0,R. Hampton,DET,Hampton Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1189,4,01:57,DET,,BKN,,R. Hampton,DET,Hampton S.FOUL (P4.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1189,4,01:11,DET,,BKN,,R. Hampton,DET,MISS Hampton 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,39,38,5,1,2.0,0.0,h
+S2223-G0297,1,02:34,ORL,29.0,PHI,23.0,R. Hampton,ORL,Hampton 2' Cutting Layup Shot (2 PTS) (Banchero 1 AST),Made Shot,Cutting Layup Shot,-18,9,2,1,2.0,2.0,h
+S2223-G0297,1,02:34,ORL,30.0,PHI,23.0,R. Hampton,ORL,Hampton Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0297,2,11:48,ORL,,PHI,,R. Hampton,ORL,Hampton STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0297,2,09:46,ORL,,PHI,,R. Hampton,ORL,MISS Hampton 25' 3PT Jump Shot,Missed Shot,Jump Shot,185,161,25,1,3.0,0.0,h
+S2223-G0297,2,09:24,ORL,,PHI,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0297,2,09:19,ORL,,PHI,,R. Hampton,ORL,Hampton Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0297,2,07:46,ORL,,PHI,,R. Hampton,ORL,SUB: F. Wagner FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0297,3,01:07,ORL,,PHI,,R. Hampton,ORL,MISS Hampton 3PT Jump Shot,Missed Shot,Jump Shot,227,12,0,1,3.0,0.0,h
+S2223-G0297,3,00:08,ORL,,PHI,,R. Hampton,ORL,MISS Hampton 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,78,148,17,1,2.0,0.0,h
+S2223-G0297,3,00:02.200000,ORL,,PHI,,R. Hampton,ORL,Hampton P.FOUL (P1.PN) (D.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G0297,4,10:51,ORL,,PHI,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0297,4,10:46,ORL,75.0,PHI,101.0,R. Hampton,ORL,Hampton 5' Driving Floating Bank Jump Shot (5 PTS),Made Shot,Driving Floating Bank Jump Shot,43,23,5,1,2.0,2.0,h
+S2223-G0297,4,09:30,ORL,,PHI,,R. Hampton,ORL,MISS Hampton 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,217,155,27,1,3.0,0.0,h
+S2223-G0297,4,09:10,ORL,,PHI,,R. Hampton,ORL,Hampton STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0297,4,09:06,ORL,,PHI,,R. Hampton,ORL,MISS Hampton 6' Running Layup,Missed Shot,Running Layup Shot,-18,55,6,1,2.0,0.0,h
+S2223-G0297,4,09:02,ORL,,PHI,,R. Hampton,ORL,Hampton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0297,4,09:02,ORL,79.0,PHI,106.0,R. Hampton,ORL,Hampton Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0297,4,09:02,ORL,80.0,PHI,106.0,R. Hampton,ORL,Hampton Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0297,4,06:25,ORL,,PHI,,R. Hampton,ORL,MISS Hampton 27' 3PT Jump Shot,Missed Shot,Jump Shot,-116,239,27,1,3.0,0.0,h
+S2223-G0297,4,03:21,ORL,95.0,PHI,121.0,R. Hampton,ORL,Hampton 19' Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,-175,86,19,1,2.0,2.0,h
+S2223-G0297,4,01:22,ORL,96.0,PHI,128.0,R. Hampton,ORL,Hampton Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0297,4,01:22,ORL,97.0,PHI,128.0,R. Hampton,ORL,Hampton Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1078,1,03:21,ATL,,DET,,R. Hampton,DET,MISS Hampton 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-20,3,2,1,2.0,0.0,v
+S2223-G1078,2,10:00,ATL,,DET,,R. Hampton,DET,Hampton Offensive Charge Foul (P1) (K.Lane),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G1078,2,10:00,ATL,,DET,,R. Hampton,DET,Hampton Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1078,2,08:23,ATL,,DET,,R. Hampton,DET,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,159,200,26,1,3.0,0.0,v
+S2223-G1078,2,08:11,ATL,43.0,DET,39.0,R. Hampton,DET,Hampton 1' Running Layup (2 PTS) (Rhoden 1 AST),Made Shot,Running Layup Shot,4,8,1,1,2.0,2.0,v
+S2223-G1078,2,08:11,ATL,,DET,,R. Hampton,DET,MISS Hampton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G1078,2,06:54,ATL,46.0,DET,45.0,R. Hampton,DET,Hampton 25' 3PT Running Jump Shot (5 PTS) (Omoruyi 1 AST),Made Shot,Running Jump Shot,87,235,25,1,3.0,3.0,v
+S2223-G1078,2,05:22,ATL,,DET,,R. Hampton,DET,Hampton STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1078,2,05:20,ATL,,DET,,R. Hampton,DET,SUB: Hayes FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G1078,3,01:01,ATL,,DET,,R. Hampton,DET,MISS Hampton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1078,3,01:01,ATL,95.0,DET,76.0,R. Hampton,DET,Hampton Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1078,3,00:19.900000,ATL,,DET,,R. Hampton,DET,Hampton S.FOUL (P2.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G1078,4,10:27,ATL,,DET,,R. Hampton,DET,Hampton Traveling Turnover (P2.T9),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1078,4,09:57,ATL,,DET,,R. Hampton,DET,MISS Hampton 2' Driving Layup,Missed Shot,Driving Layup Shot,9,21,2,1,2.0,0.0,v
+S2223-G1078,4,08:14,ATL,105.0,DET,85.0,R. Hampton,DET,Hampton 24' 3PT Jump Shot (9 PTS) (Joseph 3 AST),Made Shot,Jump Shot,-232,44,24,1,3.0,3.0,v
+S2223-G1078,4,05:40,ATL,,DET,,R. Hampton,DET,SUB: Ivey FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G1042,1,00:47.500000,DET,,DEN,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1042,2,10:23,DET,,DEN,,R. Hampton,DET,MISS Hampton 3PT Jump Shot,Missed Shot,Jump Shot,233,23,0,1,3.0,0.0,h
+S2223-G1042,2,08:41,DET,36.0,DEN,40.0,R. Hampton,DET,Hampton 2' Cutting Layup Shot (2 PTS) (Duren 1 AST),Made Shot,Cutting Layup Shot,22,10,2,1,2.0,2.0,h
+S2223-G1042,2,08:41,DET,37.0,DEN,40.0,R. Hampton,DET,Hampton Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1042,2,07:30,DET,,DEN,,R. Hampton,DET,MISS Hampton 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,47,18,5,1,2.0,0.0,h
+S2223-G1042,2,04:09,DET,,DEN,,R. Hampton,DET,SUB: Wiseman FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G1042,4,08:33,DET,,DEN,,R. Hampton,DET,SUB: McGruder FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0003,3,01:08,DET,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0003,3,00:39.300000,DET,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0003,3,00:31.100000,DET,89.0,ORL,82.0,R. Hampton,ORL,Hampton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0003,3,00:31.100000,DET,89.0,ORL,83.0,R. Hampton,ORL,Hampton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0003,4,11:35,DET,91.0,ORL,86.0,R. Hampton,ORL,Hampton 28' 3PT Running Jump Shot (5 PTS) (Banchero 5 AST),Made Shot,Running Jump Shot,-202,188,28,1,3.0,3.0,v
+S2223-G0003,4,05:35,DET,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0003,4,05:29,DET,,ORL,,R. Hampton,ORL,SUB: Banchero FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G0003,4,01:23,DET,,ORL,,R. Hampton,ORL,Hampton STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0003,4,00:01.500000,DET,,ORL,,R. Hampton,ORL,Hampton REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0003,4,00:01,DET,,ORL,,R. Hampton,ORL,MISS Hampton 7' Tip Layup Shot,Missed Shot,Tip Layup Shot,-36,58,7,1,2.0,0.0,v
+S2223-G0957,2,10:15,CLE,,DET,,R. Hampton,DET,Hampton Offensive Charge Foul (P1) (A.Smith),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0957,2,10:15,CLE,,DET,,R. Hampton,DET,Hampton Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0957,2,07:02,CLE,,DET,,R. Hampton,DET,MISS Hampton 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,116,5,12,1,2.0,0.0,v
+S2223-G0957,2,06:12,CLE,,DET,,R. Hampton,DET,MISS Hampton 27' 3PT Jump Shot,Missed Shot,Jump Shot,145,230,27,1,3.0,0.0,v
+S2223-G0957,2,05:32,CLE,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0957,2,05:29,CLE,37.0,DET,36.0,R. Hampton,DET,Hampton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0957,2,05:29,CLE,37.0,DET,37.0,R. Hampton,DET,Hampton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0957,2,04:23,CLE,,DET,,R. Hampton,DET,Hampton Step Out of Bounds Turnover (P2.T12),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0957,2,04:15,CLE,44.0,DET,40.0,R. Hampton,DET,Hampton 3PT Jump Shot (5 PTS) (Livers 1 AST),Made Shot,Jump Shot,229,21,0,1,3.0,3.0,v
+S2223-G0957,2,03:14,CLE,,DET,,R. Hampton,DET,Hampton Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0957,2,03:07,CLE,,DET,,R. Hampton,DET,SUB: Diallo FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G0957,3,07:16,CLE,72.0,DET,55.0,R. Hampton,DET,Hampton Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0957,3,07:16,CLE,72.0,DET,56.0,R. Hampton,DET,Hampton Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0957,3,06:49,CLE,72.0,DET,58.0,R. Hampton,DET,Hampton 1' Running Layup (9 PTS),Made Shot,Running Layup Shot,9,8,1,1,2.0,2.0,v
+S2223-G0957,3,04:15,CLE,,DET,,R. Hampton,DET,MISS Hampton 3' Driving Layup,Missed Shot,Driving Layup Shot,21,26,3,1,2.0,0.0,v
+S2223-G0957,3,03:06,CLE,87.0,DET,63.0,R. Hampton,DET,Hampton 14' Pullup Jump Shot (11 PTS) (Ivey 1 AST),Made Shot,Pullup Jump shot,0,136,14,1,2.0,2.0,v
+S2223-G0957,3,02:16,CLE,,DET,,R. Hampton,DET,Hampton Bad Pass Turnover (P4.T22),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0957,3,02:14,CLE,,DET,,R. Hampton,DET,Hampton S.FOUL (P2.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2223-G0957,3,01:19,CLE,,DET,,R. Hampton,DET,MISS Hampton 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-119,238,27,1,3.0,0.0,v
+S2223-G0957,3,00:59.200000,CLE,,DET,,R. Hampton,DET,MISS Hampton 27' 3PT Jump Shot,Missed Shot,Jump Shot,-188,190,27,1,3.0,0.0,v
+S2223-G1203,1,09:21,IND,,DET,,R. Hampton,DET,MISS Hampton 25' 3PT Jump Shot,Missed Shot,Jump Shot,-216,119,25,1,3.0,0.0,v
+S2223-G1203,1,08:35,IND,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1203,1,08:31,IND,,DET,,R. Hampton,DET,Hampton OFF.Foul (P1) (J.Goble),Foul,Offensive,0,0,0,0,,,v
+S2223-G1203,1,08:31,IND,,DET,,R. Hampton,DET,Hampton Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1203,1,07:59,IND,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1203,1,07:58,IND,14.0,DET,6.0,R. Hampton,DET,Hampton 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,17,8,2,1,2.0,2.0,v
+S2223-G1203,1,06:47,IND,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1203,1,04:41,IND,,DET,,R. Hampton,DET,Hampton S.FOUL (P2.T3) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G1203,1,03:13,IND,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1203,1,03:08,IND,,DET,,R. Hampton,DET,MISS Hampton 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,12,5,1,1,2.0,0.0,v
+S2223-G1203,1,02:08,IND,27.0,DET,31.0,R. Hampton,DET,Hampton 2' Running Dunk (4 PTS) (Hayes 2 AST),Made Shot,Running Dunk Shot,20,-1,2,1,2.0,2.0,v
+S2223-G1203,1,00:40.300000,IND,27.0,DET,33.0,R. Hampton,DET,Hampton 4' Driving Layup (6 PTS) (Hayes 3 AST),Made Shot,Driving Layup Shot,28,21,4,1,2.0,2.0,v
+S2223-G1203,2,01:43,IND,50.0,DET,70.0,R. Hampton,DET,Hampton 3' Driving Finger Roll Layup (8 PTS) (Rhoden 1 AST),Made Shot,Driving Finger Roll Layup Shot,-28,3,3,1,2.0,2.0,v
+S2223-G1203,2,00:43.100000,IND,,DET,,R. Hampton,DET,MISS Hampton 26' 3PT Jump Shot,Missed Shot,Jump Shot,-189,172,26,1,3.0,0.0,v
+S2223-G1203,3,10:47,IND,,DET,,R. Hampton,DET,MISS Hampton 3PT Jump Shot,Missed Shot,Jump Shot,-228,22,0,1,3.0,0.0,v
+S2223-G1203,3,10:36,IND,,DET,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1203,3,07:02,IND,,DET,,R. Hampton,DET,SUB: Rhoden FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G1203,3,00:31.400000,IND,,DET,,R. Hampton,DET,Hampton STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1203,4,09:42,IND,95.0,DET,101.0,R. Hampton,DET,Hampton 4' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,39,20,4,1,2.0,2.0,v
+S2223-G1203,4,09:01,IND,,DET,,R. Hampton,DET,Hampton BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1203,4,05:54,IND,,DET,,R. Hampton,DET,MISS Hampton 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-29,57,6,1,2.0,0.0,v
+S2223-G1203,4,05:51,IND,,DET,,R. Hampton,DET,Hampton REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1203,4,05:51,IND,,DET,,R. Hampton,DET,MISS Hampton Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1203,4,05:02,IND,,DET,,R. Hampton,DET,SUB: Joseph FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G1223,1,08:40,CHI,,DET,,R. Hampton,DET,SUB: Joseph FOR Hampton,Substitution,,0,0,0,0,,,v
+S2223-G0977,1,00:51.700000,DET,,POR,,R. Hampton,DET,MISS Hampton 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,48,91,10,1,2.0,0.0,h
+S2223-G0977,1,00:46.700000,DET,,POR,,R. Hampton,DET,Hampton S.FOUL (P1.T4) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0977,1,00:27.600000,DET,,POR,,R. Hampton,DET,Hampton Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0977,2,11:44,DET,,POR,,R. Hampton,DET,Hampton Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0977,2,10:27,DET,,POR,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0977,2,09:56,DET,,POR,,R. Hampton,DET,Hampton STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0977,2,09:52,DET,22.0,POR,33.0,R. Hampton,DET,Hampton 3' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,21,23,3,1,2.0,2.0,h
+S2223-G0977,2,07:43,DET,,POR,,R. Hampton,DET,SUB: Burks FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0977,4,11:57,DET,,POR,,R. Hampton,DET,Hampton STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0977,4,11:16,DET,79.0,POR,91.0,R. Hampton,DET,Hampton 26' 3PT Jump Shot (5 PTS) (Joseph 4 AST),Made Shot,Jump Shot,230,126,26,1,3.0,3.0,h
+S2223-G0977,4,10:19,DET,,POR,,R. Hampton,DET,Hampton STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0977,4,09:31,DET,,POR,,R. Hampton,DET,MISS Hampton 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,16,37,4,1,2.0,0.0,h
+S2223-G0977,4,09:13,DET,,POR,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0977,4,08:46,DET,,POR,,R. Hampton,DET,Hampton STEAL (4 STL),,,0,0,0,0,,,h
+S2223-G0977,4,08:41,DET,83.0,POR,94.0,R. Hampton,DET,Hampton 4' Running Dunk (7 PTS),Made Shot,Running Dunk Shot,-2,37,4,1,2.0,2.0,h
+S2223-G0977,4,05:04,DET,,POR,,R. Hampton,DET,Hampton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0977,4,04:01,DET,,POR,,R. Hampton,DET,SUB: Joseph FOR Hampton,Substitution,,0,0,0,0,,,h
+S2223-G0977,4,01:43,DET,,POR,,R. Hampton,DET,Hampton STEAL (5 STL),,,0,0,0,0,,,h
+S2223-G0977,4,00:35.700000,DET,,POR,,R. Hampton,DET,Hampton REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0977,4,00:20.300000,DET,,POR,,R. Hampton,DET,Hampton Personal Take Foul (P2.PN) (M.Kogut),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0977,4,00:14.500000,DET,104.0,POR,110.0,R. Hampton,DET,Hampton 24' 3PT Jump Shot (10 PTS) (Ivey 13 AST),Made Shot,Jump Shot,237,22,24,1,3.0,3.0,h

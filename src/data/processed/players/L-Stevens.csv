@@ -1,0 +1,843 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0431,1,09:05,CLE,,IND,,L. Stevens,CLE,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,23,24,1,3.0,0.0,h
+S2223-G0431,1,06:48,CLE,,IND,,L. Stevens,CLE,Stevens P.FOUL (P1.T2) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2223-G0431,1,06:03,CLE,,IND,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0431,1,04:30,CLE,,IND,,L. Stevens,CLE,SUB: LeVert FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0431,2,06:29,CLE,,IND,,L. Stevens,CLE,MISS Stevens 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,58,97,11,1,2.0,0.0,h
+S2223-G0431,2,04:34,CLE,,IND,,L. Stevens,CLE,Stevens Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0431,2,02:17,CLE,,IND,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0431,2,01:02,CLE,,IND,,L. Stevens,CLE,MISS Stevens 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,27,95,10,1,2.0,0.0,h
+S2223-G0431,3,10:12,CLE,,IND,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0431,3,09:53,CLE,,IND,,L. Stevens,CLE,Stevens S.FOUL (P2.T1) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0431,3,09:08,CLE,,IND,,L. Stevens,CLE,MISS Stevens 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-123,30,13,1,2.0,0.0,h
+S2223-G0431,3,04:57,CLE,,IND,,L. Stevens,CLE,SUB: LeVert FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0348,1,09:09,NYK,,CLE,,L. Stevens,CLE,MISS Stevens 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-5,-7,1,1,2.0,0.0,v
+S2223-G0348,1,08:51,NYK,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0348,1,08:18,NYK,5.0,CLE,4.0,L. Stevens,CLE,Stevens 2' Driving Floating Jump Shot (2 PTS) (Mobley 1 AST),Made Shot,Driving Floating Jump Shot,-2,15,2,1,2.0,2.0,v
+S2223-G0348,1,07:47,NYK,,CLE,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,230,8,0,1,3.0,0.0,v
+S2223-G0348,1,05:30,NYK,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0348,1,04:21,NYK,,CLE,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0348,2,05:11,NYK,39.0,CLE,27.0,L. Stevens,CLE,Stevens 1' Driving Reverse Layup (4 PTS) (Osman 1 AST),Made Shot,Driving Reverse Layup Shot,1,11,1,1,2.0,2.0,v
+S2223-G0348,2,02:21,NYK,43.0,CLE,38.0,L. Stevens,CLE,Stevens 2' Layup (6 PTS) (Garland 1 AST),Made Shot,Layup Shot,2,16,2,1,2.0,2.0,v
+S2223-G0348,2,01:35,NYK,46.0,CLE,40.0,L. Stevens,CLE,Stevens Dunk (8 PTS),Made Shot,Dunk Shot,2,3,0,1,2.0,2.0,v
+S2223-G0348,2,00:29.900000,NYK,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0348,3,11:27,NYK,,CLE,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0348,3,09:57,NYK,,CLE,,L. Stevens,CLE,Stevens STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0348,3,09:21,NYK,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0348,3,07:20,NYK,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0348,3,05:12,NYK,,CLE,,L. Stevens,CLE,SUB: Love FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0348,4,09:50,NYK,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0348,4,08:37,NYK,,CLE,,L. Stevens,CLE,MISS Stevens 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,133,13,1,2.0,0.0,v
+S2223-G0348,4,07:27,NYK,,CLE,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0779,2,06:18,CLE,,MEM,,L. Stevens,CLE,MISS Stevens 26' 3PT Jump Shot,Missed Shot,Jump Shot,-163,204,26,1,3.0,0.0,h
+S2223-G0779,2,04:42,CLE,51.0,MEM,47.0,L. Stevens,CLE,Stevens 2' Running Layup (2 PTS) (Osman 2 AST),Made Shot,Running Layup Shot,2,17,2,1,2.0,2.0,h
+S2223-G0779,2,02:54,CLE,58.0,MEM,47.0,L. Stevens,CLE,Stevens 1' Cutting Dunk Shot (4 PTS) (Garland 7 AST),Made Shot,Cutting Dunk Shot,-2,14,1,1,2.0,2.0,h
+S2223-G0779,2,00:52.100000,CLE,,MEM,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0779,2,00:01.900000,CLE,,MEM,,L. Stevens,CLE,SUB: Mitchell FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0779,4,11:12,CLE,,MEM,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0779,4,10:27,CLE,,MEM,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0779,4,09:41,CLE,,MEM,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0779,4,01:16,CLE,,MEM,,L. Stevens,CLE,MISS Stevens 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,180,89,20,1,2.0,0.0,h
+S2223-G0914,4,03:35,CLE,,TOR,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0914,4,03:19,CLE,,TOR,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0914,4,01:31,CLE,,TOR,,L. Stevens,CLE,MISS Stevens 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,26,19,3,1,2.0,0.0,h
+S2223-G0739,2,10:22,OKC,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0739,2,09:18,OKC,,CLE,,L. Stevens,CLE,MISS Stevens 11' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,-112,11,11,1,2.0,0.0,v
+S2223-G0739,2,09:04,OKC,32.0,CLE,29.0,L. Stevens,CLE,Stevens 2' Cutting Layup Shot (2 PTS) (Garland 5 AST),Made Shot,Cutting Layup Shot,-5,15,2,1,2.0,2.0,v
+S2223-G0739,2,08:48,OKC,,CLE,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0739,2,08:01,OKC,32.0,CLE,33.0,L. Stevens,CLE,Stevens 13' Pullup Jump Shot (4 PTS) (Garland 6 AST),Made Shot,Pullup Jump shot,-18,133,13,1,2.0,2.0,v
+S2223-G0739,2,07:17,OKC,32.0,CLE,35.0,L. Stevens,CLE,Stevens 1' Cutting Layup Shot (6 PTS) (Mobley 1 AST),Made Shot,Cutting Layup Shot,9,10,1,1,2.0,2.0,v
+S2223-G0739,2,05:44,OKC,,CLE,,L. Stevens,CLE,MISS Stevens 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,81,75,11,1,2.0,0.0,v
+S2223-G0739,2,04:14,OKC,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0739,2,04:14,OKC,,CLE,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0739,3,02:42,OKC,71.0,CLE,76.0,L. Stevens,CLE,Stevens 11' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,-4,114,11,1,2.0,2.0,v
+S2223-G0739,3,00:08.700000,OKC,,CLE,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,228,45,0,1,3.0,0.0,v
+S2223-G0739,4,00:34.800000,OKC,,CLE,,L. Stevens,CLE,Stevens P.FOUL (P2.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2223-G0739,4,00:28.800000,OKC,,CLE,,L. Stevens,CLE,Stevens Personal Take Foul (P3.PN) (K.Lane),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0406,1,05:17,SAS,,CLE,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0406,2,03:20,SAS,,CLE,,L. Stevens,CLE,SUB: LeVert FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0406,3,11:36,SAS,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0406,3,11:27,SAS,,CLE,,L. Stevens,CLE,Stevens Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0406,3,10:56,SAS,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0406,3,05:02,SAS,,CLE,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0406,4,06:26,SAS,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0406,4,03:20,SAS,,CLE,,L. Stevens,CLE,SUB: LeVert FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0390,1,10:57,CLE,,OKC,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0390,1,10:51,CLE,5.0,OKC,0.0,L. Stevens,CLE,Stevens 26' 3PT Jump Shot (3 PTS) (Garland 1 AST),Made Shot,Jump Shot,-195,174,26,1,3.0,3.0,h
+S2223-G0390,1,10:25,CLE,,OKC,,L. Stevens,CLE,MISS Stevens 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,7,4,1,1,2.0,0.0,h
+S2223-G0390,1,06:58,CLE,,OKC,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0390,1,06:31,CLE,,OKC,,L. Stevens,CLE,Stevens BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0390,1,06:05,CLE,,OKC,,L. Stevens,CLE,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,31,24,1,3.0,0.0,h
+S2223-G0390,1,05:52,CLE,,OKC,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0390,1,04:32,CLE,,OKC,,L. Stevens,CLE,SUB: Neto FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0390,2,02:11,CLE,,OKC,,L. Stevens,CLE,Stevens S.FOUL (P1.T3) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0390,2,00:28.200000,CLE,,OKC,,L. Stevens,CLE,Jump Ball Stevens vs. Gilgeous-Alexander: Tip to Robinson-Earl,Jump Ball,,0,0,0,0,,,h
+S2223-G0390,3,10:33,CLE,,OKC,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0390,3,09:22,CLE,63.0,OKC,51.0,L. Stevens,CLE,Stevens 8' Turnaround Fadeaway (5 PTS),Made Shot,Turnaround Fadeaway shot,-11,80,8,1,2.0,2.0,h
+S2223-G0390,3,06:20,CLE,,OKC,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0390,3,04:52,CLE,,OKC,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0390,3,04:27,CLE,,OKC,,L. Stevens,CLE,Stevens STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0390,3,03:54,CLE,76.0,OKC,60.0,L. Stevens,CLE,Stevens 10' Turnaround Fadeaway Bank Jump Shot (7 PTS),Made Shot,Turnaround Fadeaway Bank Jump Shot,-99,10,10,1,2.0,2.0,h
+S2223-G0390,3,03:21,CLE,,OKC,,L. Stevens,CLE,SUB: LeVert FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0390,4,07:35,CLE,,OKC,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0390,4,07:23,CLE,,OKC,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,229,-4,0,1,3.0,0.0,h
+S2223-G0390,4,07:17,CLE,,OKC,,L. Stevens,CLE,MISS Stevens 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,4,6,1,1,2.0,0.0,h
+S2223-G0390,4,06:18,CLE,,OKC,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0390,4,03:41,CLE,101.0,OKC,93.0,L. Stevens,CLE,Stevens 26' 3PT Jump Shot (10 PTS) (LeVert 4 AST),Made Shot,Jump Shot,145,219,26,1,3.0,3.0,h
+S2223-G0390,4,02:23,CLE,,OKC,,L. Stevens,CLE,MISS Stevens 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,234,21,0,1,3.0,0.0,h
+S2223-G0390,4,01:11,CLE,,OKC,,L. Stevens,CLE,Stevens STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G1094,1,03:20,BKN,,CLE,,L. Stevens,CLE,MISS Stevens 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,65,74,10,1,2.0,0.0,v
+S2223-G1094,1,02:49,BKN,20.0,CLE,27.0,L. Stevens,CLE,Stevens 3PT Jump Shot (3 PTS) (LeVert 1 AST),Made Shot,Jump Shot,-230,-21,0,1,3.0,3.0,v
+S2223-G1094,1,00:01.800000,BKN,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0685,2,10:17,CLE,36.0,GSW,41.0,L. Stevens,CLE,Stevens 1' Cutting Dunk Shot (2 PTS) (LeVert 1 AST),Made Shot,Cutting Dunk Shot,7,13,1,1,2.0,2.0,h
+S2223-G0685,2,08:10,CLE,,GSW,,L. Stevens,CLE,Stevens S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0685,2,07:23,CLE,,GSW,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0685,2,07:18,CLE,40.0,GSW,46.0,L. Stevens,CLE,Stevens 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,4,10,1,1,2.0,2.0,h
+S2223-G0685,2,05:59,CLE,,GSW,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0685,2,03:57,CLE,,GSW,,L. Stevens,CLE,SUB: E. Mobley FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0685,2,00:06.900000,CLE,,GSW,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0685,3,05:54,CLE,,GSW,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0685,3,05:46,CLE,,GSW,,L. Stevens,CLE,Stevens Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0685,3,03:52,CLE,,GSW,,L. Stevens,CLE,SUB: E. Mobley FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0685,4,02:00,CLE,,GSW,,L. Stevens,CLE,MISS Stevens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0685,4,02:00,CLE,110.0,GSW,114.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0685,4,01:11,CLE,,GSW,,L. Stevens,CLE,Stevens L.B.FOUL (P2.T2) (N.Green),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0685,4,00:58.800000,CLE,,GSW,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0216,1,11:17,MIL,,CLE,,L. Stevens,CLE,Stevens P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2223-G0216,1,04:48,MIL,18.0,CLE,25.0,L. Stevens,CLE,Stevens 11' Turnaround Jump Shot (2 PTS) (Garland 4 AST),Made Shot,Turnaround Jump Shot,113,-9,11,1,2.0,2.0,v
+S2223-G0216,1,03:57,MIL,,CLE,,L. Stevens,CLE,SUB: Love FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0216,2,07:28,MIL,,CLE,,L. Stevens,CLE,Stevens BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0216,2,07:21,MIL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0216,2,04:28,MIL,49.0,CLE,52.0,L. Stevens,CLE,Stevens 27' 3PT Jump Shot (5 PTS) (Okoro 1 AST),Made Shot,Jump Shot,-154,216,27,1,3.0,3.0,v
+S2223-G0216,2,02:57,MIL,,CLE,,L. Stevens,CLE,Stevens BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0216,2,02:45,MIL,,CLE,,L. Stevens,CLE,Stevens P.FOUL (P2.PN) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2223-G0216,2,00:55.100000,MIL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0216,2,00:00,MIL,,CLE,,L. Stevens,CLE,MISS Stevens 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,159,-1,16,1,2.0,0.0,v
+S2223-G0216,3,11:37,MIL,,CLE,,L. Stevens,CLE,Stevens BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0216,3,11:18,MIL,,CLE,,L. Stevens,CLE,Stevens L.B.FOUL (P3.T1) (S.Wall),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0216,3,09:46,MIL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0216,3,09:00,MIL,,CLE,,L. Stevens,CLE,MISS Stevens 18' Jump Shot,Missed Shot,Jump Shot,72,161,18,1,2.0,0.0,v
+S2223-G0216,3,08:09,MIL,,CLE,,L. Stevens,CLE,MISS Stevens 3' Reverse Dunk,Missed Shot,Reverse Dunk Shot,13,30,3,1,2.0,0.0,v
+S2223-G0216,3,07:53,MIL,,CLE,,L. Stevens,CLE,MISS Stevens 5' Dunk,Missed Shot,Dunk Shot,15,45,5,1,2.0,0.0,v
+S2223-G0216,3,07:52,MIL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0216,3,07:50,MIL,,CLE,,L. Stevens,CLE,MISS Stevens 4' Putback Layup,Missed Shot,Putback Layup Shot,-1,36,4,1,2.0,0.0,v
+S2223-G0216,3,06:52,MIL,77.0,CLE,66.0,L. Stevens,CLE,Stevens 24' 3PT Jump Shot (8 PTS) (Garland 6 AST),Made Shot,Jump Shot,238,47,24,1,3.0,3.0,v
+S2223-G0216,3,04:43,MIL,81.0,CLE,70.0,L. Stevens,CLE,Stevens Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0216,3,04:43,MIL,81.0,CLE,71.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0216,3,03:51,MIL,,CLE,,L. Stevens,CLE,SUB: E. Mobley FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0216,4,11:19,MIL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0216,4,06:20,MIL,,CLE,,L. Stevens,CLE,Stevens BLOCK (4 BLK),,,0,0,0,0,,,v
+S2223-G0216,4,05:31,MIL,,CLE,,L. Stevens,CLE,MISS Stevens 25' 3PT Jump Shot,Missed Shot,Jump Shot,240,56,25,1,3.0,0.0,v
+S2223-G0216,4,05:09,MIL,,CLE,,L. Stevens,CLE,MISS Stevens 4' Running Layup,Missed Shot,Running Layup Shot,10,40,4,1,2.0,0.0,v
+S2223-G0216,4,04:57,MIL,,CLE,,L. Stevens,CLE,SUB: I. Mobley FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0754,4,11:15,CLE,,LAC,,L. Stevens,CLE,Stevens S.FOUL (P1.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0754,4,06:31,CLE,100.0,LAC,76.0,L. Stevens,CLE,Stevens 15' Pullup Jump Shot (2 PTS) (LeVert 2 AST),Made Shot,Pullup Jump shot,-38,141,15,1,2.0,2.0,h
+S2223-G0754,4,05:47,CLE,,LAC,,L. Stevens,CLE,Stevens S.FOUL (P2.T4) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0754,4,02:17,CLE,,LAC,,L. Stevens,CLE,MISS Stevens 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,86,173,19,1,2.0,0.0,h
+S2223-G0754,4,01:23,CLE,122.0,LAC,92.0,L. Stevens,CLE,Stevens 25' 3PT Jump Shot (5 PTS) (Neto 3 AST),Made Shot,Jump Shot,217,118,25,1,3.0,3.0,h
+S2223-G1000,1,03:52,MIA,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P1.T3) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G1000,1,03:34,MIA,21.0,CLE,22.0,L. Stevens,CLE,Stevens 28' 3PT Jump Shot (3 PTS) (Mitchell 1 AST),Made Shot,Jump Shot,-183,207,28,1,3.0,3.0,v
+S2223-G1000,1,01:28,MIA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1000,1,00:06.200000,MIA,27.0,CLE,25.0,L. Stevens,CLE,Stevens Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1000,1,00:06.200000,MIA,27.0,CLE,26.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1000,2,11:40,MIA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1000,2,10:56,MIA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1000,2,10:21,MIA,,CLE,,L. Stevens,CLE,MISS Stevens 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-26,103,11,1,2.0,0.0,v
+S2223-G1000,2,07:50,MIA,,CLE,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G1000,3,07:15,MIA,,CLE,,L. Stevens,CLE,MISS Stevens 26' 3PT Jump Shot,Missed Shot,Jump Shot,-180,185,26,1,3.0,0.0,v
+S2223-G1000,3,06:57,MIA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1000,4,11:08,MIA,,CLE,,L. Stevens,CLE,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-2,24,1,3.0,0.0,v
+S2223-G1000,4,10:38,MIA,85.0,CLE,90.0,L. Stevens,CLE,Stevens Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1000,4,10:38,MIA,,CLE,,L. Stevens,CLE,MISS Stevens Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1000,4,09:50,MIA,,CLE,,L. Stevens,CLE,SUB: Mitchell FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G1000,4,03:24,MIA,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P2.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G1000,4,01:54,MIA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1000,4,01:54,MIA,110.0,CLE,106.0,L. Stevens,CLE,Stevens Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1000,4,00:08.900000,MIA,,CLE,,L. Stevens,CLE,Stevens Personal Take Foul (P3.PN) (M.Kogut),Foul,Personal Take,0,0,0,0,,,v
+S2223-G1000,4,00:05.600000,MIA,,CLE,,L. Stevens,CLE,SUB: Lopez FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0484,1,06:11,CLE,,TOR,,L. Stevens,CLE,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,8,24,1,3.0,0.0,h
+S2223-G0484,1,03:31,CLE,,TOR,,L. Stevens,CLE,Stevens S.FOUL (P1.T4) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0484,1,02:16,CLE,,TOR,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0484,2,05:20,CLE,49.0,TOR,58.0,L. Stevens,CLE,Stevens 1' Cutting Layup Shot (2 PTS) (Okoro 2 AST),Made Shot,Cutting Layup Shot,7,11,1,1,2.0,2.0,h
+S2223-G0484,2,05:20,CLE,,TOR,,L. Stevens,CLE,MISS Stevens Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0484,2,04:16,CLE,,TOR,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,229,7,0,1,3.0,0.0,h
+S2223-G0484,2,03:06,CLE,,TOR,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0484,2,02:32,CLE,,TOR,,L. Stevens,CLE,Stevens S.FOUL (P2.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0484,2,01:47,CLE,,TOR,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0484,2,01:47,CLE,53.0,TOR,62.0,L. Stevens,CLE,Stevens Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0484,2,01:16,CLE,,TOR,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0484,2,01:14,CLE,,TOR,,L. Stevens,CLE,MISS Stevens 9' Jump Bank Shot,Missed Shot,Jump Bank Shot,-59,67,9,1,2.0,0.0,h
+S2223-G0484,2,01:12,CLE,,TOR,,L. Stevens,CLE,SUB: Mobley FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0484,3,00:00,CLE,,TOR,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0484,4,11:45,CLE,80.0,TOR,98.0,L. Stevens,CLE,Stevens 6' Driving Floating Jump Shot (6 PTS) (Garland 5 AST),Made Shot,Driving Floating Jump Shot,13,61,6,1,2.0,2.0,h
+S2223-G0484,4,11:04,CLE,,TOR,,L. Stevens,CLE,Stevens Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0484,4,10:34,CLE,,TOR,,L. Stevens,CLE,MISS Stevens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0484,4,10:34,CLE,,TOR,,L. Stevens,CLE,MISS Stevens Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0484,4,07:26,CLE,,TOR,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0715,1,02:08,NYK,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P1.T4) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0715,1,01:31,NYK,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0715,1,01:31,NYK,,CLE,,L. Stevens,CLE,MISS Stevens Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0715,1,00:06.100000,NYK,,CLE,,L. Stevens,CLE,SUB: Garland FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0715,2,10:47,NYK,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0715,2,09:11,NYK,,CLE,,L. Stevens,CLE,SUB: Wade FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G1173,2,06:01,CLE,,IND,,L. Stevens,CLE,Lane,Violation,Lane,0,0,0,0,,,h
+S2223-G1173,2,05:17,CLE,,IND,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1173,2,04:42,CLE,,IND,,L. Stevens,CLE,Stevens Violation:Defensive Goaltending (B.Taylor),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G1173,2,04:26,CLE,47.0,IND,56.0,L. Stevens,CLE,Stevens Cutting Layup Shot (2 PTS) (LeVert 1 AST),Made Shot,Cutting Layup Shot,0,1,0,1,2.0,2.0,h
+S2223-G1173,2,03:38,CLE,,IND,,L. Stevens,CLE,SUB: Allen FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G1173,3,01:26,CLE,,IND,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,228,27,0,1,3.0,0.0,h
+S2223-G1173,3,00:22.300000,CLE,,IND,,L. Stevens,CLE,SUB: Garland FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G1173,4,09:54,CLE,,IND,,L. Stevens,CLE,Stevens OFF.Foul (P1) (J.Orr),Foul,Offensive,0,0,0,0,,,h
+S2223-G1173,4,09:54,CLE,,IND,,L. Stevens,CLE,Stevens Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1173,4,09:33,CLE,,IND,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1173,4,07:52,CLE,,IND,,L. Stevens,CLE,SUB: Wade FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0261,1,09:25,CLE,6.0,POR,5.0,L. Stevens,CLE,Stevens 11' Pullup Jump Shot (2 PTS) (Garland 3 AST),Made Shot,Pullup Jump shot,-28,102,11,1,2.0,2.0,h
+S2223-G0261,1,04:19,CLE,,POR,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0261,2,06:16,CLE,,POR,,L. Stevens,CLE,MISS Stevens 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-122,-32,13,1,2.0,0.0,h
+S2223-G0261,2,04:53,CLE,46.0,POR,34.0,L. Stevens,CLE,Stevens 24' 3PT Jump Shot (5 PTS) (Mitchell 1 AST),Made Shot,Jump Shot,238,16,24,1,3.0,3.0,h
+S2223-G0261,2,04:18,CLE,,POR,,L. Stevens,CLE,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,26,24,1,3.0,0.0,h
+S2223-G0261,2,04:00,CLE,,POR,,L. Stevens,CLE,Stevens S.FOUL (P1.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0261,2,02:50,CLE,48.0,POR,38.0,L. Stevens,CLE,Stevens 1' Running Layup (7 PTS),Made Shot,Running Layup Shot,-4,5,1,1,2.0,2.0,h
+S2223-G0261,2,02:50,CLE,49.0,POR,38.0,L. Stevens,CLE,Stevens Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0261,2,00:53.800000,CLE,,POR,,L. Stevens,CLE,Stevens Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0261,2,00:52,CLE,,POR,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0261,3,05:12,CLE,74.0,POR,67.0,L. Stevens,CLE,Stevens Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0261,3,05:12,CLE,75.0,POR,67.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0261,3,04:32,CLE,,POR,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0261,4,04:14,CLE,101.0,POR,91.0,L. Stevens,CLE,Stevens Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0261,4,04:14,CLE,102.0,POR,91.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0261,4,02:14,CLE,,POR,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0631,1,03:22,POR,25.0,CLE,22.0,L. Stevens,CLE,Stevens 1' Dunk (2 PTS) (LeVert 1 AST),Made Shot,Dunk Shot,1,13,1,1,2.0,2.0,v
+S2223-G0631,1,03:02,POR,25.0,CLE,23.0,L. Stevens,CLE,Stevens Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0631,1,03:02,POR,25.0,CLE,24.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0631,1,02:13,POR,,CLE,,L. Stevens,CLE,MISS Stevens 1' Driving Dunk,Missed Shot,Driving Dunk Shot,-9,4,1,1,2.0,0.0,v
+S2223-G0631,1,01:51,POR,,CLE,,L. Stevens,CLE,MISS Stevens 1' Running Dunk,Missed Shot,Running Dunk Shot,0,10,1,1,2.0,0.0,v
+S2223-G0631,1,01:19,POR,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P1.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0631,2,09:03,POR,,CLE,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0631,3,05:10,POR,,CLE,,L. Stevens,CLE,Stevens P.FOUL (P2.PN) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2223-G0631,3,04:27,POR,80.0,CLE,73.0,L. Stevens,CLE,Stevens Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0631,3,04:27,POR,80.0,CLE,74.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0631,3,00:59.300000,POR,,CLE,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0987,1,07:36,MIA,,CLE,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0987,1,07:23,MIA,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P1.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0987,1,07:08,MIA,,CLE,,L. Stevens,CLE,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,-19,24,1,3.0,0.0,v
+S2223-G0987,1,05:28,MIA,,CLE,,L. Stevens,CLE,Stevens STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0987,2,10:11,MIA,32.0,CLE,31.0,L. Stevens,CLE,Stevens 4' Cutting Dunk Shot (2 PTS) (Mobley 3 AST),Made Shot,Cutting Dunk Shot,0,36,4,1,2.0,2.0,v
+S2223-G0987,2,09:55,MIA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0987,2,09:44,MIA,32.0,CLE,33.0,L. Stevens,CLE,Stevens 5' Floating Jump Shot (4 PTS) (Garland 2 AST),Made Shot,Floating Jump shot,49,17,5,1,2.0,2.0,v
+S2223-G0987,2,06:28,MIA,,CLE,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0987,3,07:20,MIA,64.0,CLE,73.0,L. Stevens,CLE,Stevens Free Throw Flagrant 1 of 2 (5 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0987,3,07:20,MIA,64.0,CLE,74.0,L. Stevens,CLE,Stevens Free Throw Flagrant 2 of 2 (6 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0987,3,07:08,MIA,,CLE,,L. Stevens,CLE,Stevens Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0987,3,06:21,MIA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0987,3,05:33,MIA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0987,3,03:34,MIA,,CLE,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,233,22,0,1,3.0,0.0,v
+S2223-G0987,3,02:12,MIA,,CLE,,L. Stevens,CLE,MISS Stevens 15' Jump Shot,Missed Shot,Jump Shot,-154,9,15,1,2.0,0.0,v
+S2223-G0987,3,00:45.600000,MIA,,CLE,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,-232,-12,0,1,3.0,0.0,v
+S2223-G0987,4,08:04,MIA,,CLE,,L. Stevens,CLE,MISS Stevens 7' Driving Layup,Missed Shot,Driving Layup Shot,-55,41,7,1,2.0,0.0,v
+S2223-G0987,4,08:03,MIA,,CLE,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0987,4,00:20.100000,MIA,,CLE,,L. Stevens,CLE,SUB: Mitchell FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G1154,1,10:45,CLE,,NYK,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1154,1,10:04,CLE,,NYK,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1154,1,09:24,CLE,,NYK,,L. Stevens,CLE,Stevens P.FOUL (P1.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2223-G1154,1,08:53,CLE,,NYK,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,-230,20,0,1,3.0,0.0,h
+S2223-G1154,1,08:44,CLE,,NYK,,L. Stevens,CLE,Stevens S.FOUL (P2.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G1154,1,08:44,CLE,,NYK,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G1154,2,02:25,CLE,,NYK,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1154,2,01:48,CLE,,NYK,,L. Stevens,CLE,MISS Stevens 26' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,-212,142,26,1,3.0,0.0,h
+S2223-G1154,3,08:57,CLE,,NYK,,L. Stevens,CLE,Stevens BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1154,3,08:22,CLE,,NYK,,L. Stevens,CLE,Stevens S.FOUL (P3.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1154,3,08:19,CLE,,NYK,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1154,3,07:48,CLE,83.0,NYK,86.0,L. Stevens,CLE,Stevens 2' Driving Floating Bank Jump Shot (2 PTS) (LeVert 5 AST),Made Shot,Driving Floating Bank Jump Shot,-7,15,2,1,2.0,2.0,h
+S2223-G1154,3,07:18,CLE,,NYK,,L. Stevens,CLE,Stevens BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1154,3,07:14,CLE,,NYK,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1154,3,04:39,CLE,,NYK,,L. Stevens,CLE,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,45,24,1,3.0,0.0,h
+S2223-G1154,3,04:17,CLE,,NYK,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G1154,4,06:51,CLE,,NYK,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1154,4,06:10,CLE,,NYK,,L. Stevens,CLE,MISS Stevens 3' Reverse Layup,Missed Shot,Reverse Layup Shot,-25,15,3,1,2.0,0.0,h
+S2223-G1154,4,05:52,CLE,,NYK,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1154,4,05:14,CLE,,NYK,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1154,4,03:59,CLE,,NYK,,L. Stevens,CLE,Stevens P.FOUL (P4.PN) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2223-G1154,4,02:31,CLE,,NYK,,L. Stevens,CLE,Stevens Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1154,4,01:53,CLE,,NYK,,L. Stevens,CLE,MISS Stevens 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,0,16,2,1,2.0,0.0,h
+S2223-G0381,1,04:33,CLE,,SAC,,L. Stevens,CLE,Stevens S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0381,1,04:19,CLE,,SAC,,L. Stevens,CLE,SUB: Neto FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0381,2,09:38,CLE,,SAC,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0381,2,09:17,CLE,,SAC,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0381,2,09:16,CLE,,SAC,,L. Stevens,CLE,MISS Stevens Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0381,2,09:15,CLE,,SAC,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0381,2,09:15,CLE,22.0,SAC,35.0,L. Stevens,CLE,Stevens Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0381,2,07:33,CLE,,SAC,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0381,2,06:18,CLE,,SAC,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0381,2,05:41,CLE,,SAC,,L. Stevens,CLE,Stevens S.FOUL (P2.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0381,2,04:55,CLE,,SAC,,L. Stevens,CLE,MISS Stevens 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-69,92,12,1,2.0,0.0,h
+S2223-G0381,2,04:43,CLE,,SAC,,L. Stevens,CLE,MISS Stevens 3' Running Layup,Missed Shot,Running Layup Shot,17,23,3,1,2.0,0.0,h
+S2223-G0381,2,04:43,CLE,,SAC,,L. Stevens,CLE,SUB: Neto FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0381,2,00:03.700000,CLE,,SAC,,L. Stevens,CLE,SUB: Mobley FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0381,3,10:22,CLE,,SAC,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0381,3,07:20,CLE,,SAC,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0381,3,06:55,CLE,,SAC,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0381,3,06:47,CLE,64.0,SAC,63.0,L. Stevens,CLE,Stevens 25' 3PT Jump Shot (5 PTS) (LeVert 4 AST),Made Shot,Jump Shot,-203,153,25,1,3.0,3.0,h
+S2223-G0381,3,05:41,CLE,68.0,SAC,65.0,L. Stevens,CLE,Stevens 1' Cutting Layup Shot (7 PTS) (Garland 4 AST),Made Shot,Cutting Layup Shot,-9,11,1,1,2.0,2.0,h
+S2223-G0381,3,02:53,CLE,,SAC,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0381,4,04:27,CLE,,SAC,,L. Stevens,CLE,SUB: Allen FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0552,1,08:59,CLE,,CHI,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,229,35,0,1,3.0,0.0,h
+S2223-G0552,1,07:05,CLE,,CHI,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0552,2,08:26,CLE,,CHI,,L. Stevens,CLE,MISS Stevens 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-10,104,10,1,2.0,0.0,h
+S2223-G0552,2,08:15,CLE,,CHI,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0552,2,04:37,CLE,37.0,CHI,50.0,L. Stevens,CLE,Stevens 1' Driving Dunk (2 PTS) (Osman 3 AST),Made Shot,Driving Dunk Shot,0,9,1,1,2.0,2.0,h
+S2223-G0552,2,03:15,CLE,,CHI,,L. Stevens,CLE,MISS Stevens 25' 3PT Jump Shot,Missed Shot,Jump Shot,238,64,25,1,3.0,0.0,h
+S2223-G0552,2,02:09,CLE,,CHI,,L. Stevens,CLE,SUB: Lopez FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0552,3,10:10,CLE,51.0,CHI,65.0,L. Stevens,CLE,Stevens 12' Fadeaway Jumper (4 PTS) (Allen 1 AST),Made Shot,Fadeaway Jump Shot,0,118,12,1,2.0,2.0,h
+S2223-G0552,3,04:25,CLE,,CHI,,L. Stevens,CLE,SUB: Neto FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G1197,1,11:24,ORL,,CLE,,L. Stevens,CLE,MISS Stevens 26' 3PT Jump Shot,Missed Shot,Jump Shot,245,88,26,1,3.0,0.0,v
+S2223-G1197,1,10:45,ORL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1197,1,10:02,ORL,,CLE,,L. Stevens,CLE,MISS Stevens 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,120,21,12,1,2.0,0.0,v
+S2223-G1197,1,09:51,ORL,,CLE,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1197,1,09:44,ORL,,CLE,,L. Stevens,CLE,MISS Stevens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1197,1,09:44,ORL,4.0,CLE,1.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1197,1,08:02,ORL,13.0,CLE,5.0,L. Stevens,CLE,Stevens 2' Driving Layup (3 PTS) (Lopez 1 AST),Made Shot,Driving Layup Shot,-12,16,2,1,2.0,2.0,v
+S2223-G1197,1,07:02,ORL,,CLE,,L. Stevens,CLE,SUB: Green FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G1197,2,03:57,ORL,,CLE,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,-233,-11,0,1,3.0,0.0,v
+S2223-G1197,2,02:16,ORL,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P1.T2) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2223-G1197,2,00:51.700000,ORL,57.0,CLE,64.0,L. Stevens,CLE,Stevens 24' 3PT Jump Shot (6 PTS) (Rubio 3 AST),Made Shot,Jump Shot,-233,33,24,1,3.0,3.0,v
+S2223-G1197,2,00:28.700000,ORL,,CLE,,L. Stevens,CLE,Stevens STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1197,3,11:02,ORL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1197,3,09:40,ORL,,CLE,,L. Stevens,CLE,MISS Stevens 1' Running Layup,Missed Shot,Running Layup Shot,-9,6,1,1,2.0,0.0,v
+S2223-G1197,3,08:02,ORL,,CLE,,L. Stevens,CLE,MISS Stevens 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-81,132,15,1,2.0,0.0,v
+S2223-G1197,3,07:19,ORL,,CLE,,L. Stevens,CLE,MISS Stevens 2' Driving Layup,Missed Shot,Driving Layup Shot,-10,22,2,1,2.0,0.0,v
+S2223-G1197,3,06:57,ORL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1197,3,06:49,ORL,,CLE,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,233,13,0,1,3.0,0.0,v
+S2223-G1197,3,06:34,ORL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1197,3,06:09,ORL,,CLE,,L. Stevens,CLE,SUB: Green FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G1197,4,09:33,ORL,,CLE,,L. Stevens,CLE,MISS Stevens 6' Driving Layup,Missed Shot,Driving Layup Shot,-50,24,6,1,2.0,0.0,v
+S2223-G1197,4,09:28,ORL,76.0,CLE,103.0,L. Stevens,CLE,Stevens 24' 3PT Jump Shot (9 PTS) (Merrill 2 AST),Made Shot,Jump Shot,-235,-31,24,1,3.0,3.0,v
+S2223-G1197,4,08:31,ORL,,CLE,,L. Stevens,CLE,Stevens BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1197,4,08:26,ORL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1197,4,07:33,ORL,78.0,CLE,105.0,L. Stevens,CLE,Stevens 12' Pullup Jump Shot (11 PTS) (Merrill 3 AST),Made Shot,Pullup Jump shot,-118,25,12,1,2.0,2.0,v
+S2223-G1197,4,04:06,ORL,81.0,CLE,114.0,L. Stevens,CLE,Stevens 11' Turnaround Fadeaway (13 PTS),Made Shot,Turnaround Fadeaway shot,-110,-25,11,1,2.0,2.0,v
+S2223-G1197,4,03:29,ORL,,CLE,,L. Stevens,CLE,Stevens Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1197,4,02:32,ORL,,CLE,,L. Stevens,CLE,MISS Stevens 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,13,103,10,1,2.0,0.0,v
+S2223-G1197,4,02:18,ORL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1178,1,04:50,ORL,,CLE,,L. Stevens,CLE,MISS Stevens 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,142,18,14,1,2.0,0.0,v
+S2223-G1178,2,11:31,ORL,29.0,CLE,24.0,L. Stevens,CLE,Stevens Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1178,2,11:31,ORL,29.0,CLE,25.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1178,2,07:41,ORL,37.0,CLE,32.0,L. Stevens,CLE,Stevens 24' 3PT Jump Shot (5 PTS) (Garland 3 AST),Made Shot,Jump Shot,233,31,24,1,3.0,3.0,v
+S2223-G1178,2,07:26,ORL,,CLE,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1178,2,07:18,ORL,,CLE,,L. Stevens,CLE,MISS Stevens 27' 3PT Jump Shot,Missed Shot,Jump Shot,-175,200,27,1,3.0,0.0,v
+S2223-G1178,2,06:57,ORL,,CLE,,L. Stevens,CLE,SUB: Wade FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0421,1,09:35,DAL,,CLE,,L. Stevens,CLE,Stevens P.FOUL (P1.T1) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0421,1,08:22,DAL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0421,1,08:06,DAL,,CLE,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,-234,-4,0,1,3.0,0.0,v
+S2223-G0421,1,07:19,DAL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0421,1,06:10,DAL,,CLE,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,-230,3,0,1,3.0,0.0,v
+S2223-G0421,1,03:26,DAL,,CLE,,L. Stevens,CLE,MISS Stevens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0421,1,03:26,DAL,13.0,CLE,24.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0421,1,02:45,DAL,,CLE,,L. Stevens,CLE,SUB: E. Mobley FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0421,2,04:58,DAL,30.0,CLE,42.0,L. Stevens,CLE,Stevens 14' Step Back Jump Shot (3 PTS) (LeVert 1 AST),Made Shot,Step Back Jump shot,121,66,14,1,2.0,2.0,v
+S2223-G0421,2,04:42,DAL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0421,2,04:07,DAL,30.0,CLE,46.0,L. Stevens,CLE,Stevens 1' Cutting Layup Shot (5 PTS) (Love 1 AST),Made Shot,Cutting Layup Shot,12,5,1,1,2.0,2.0,v
+S2223-G0421,2,03:12,DAL,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P2.T3) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2223-G0421,2,03:05,DAL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0421,3,11:11,DAL,,CLE,,L. Stevens,CLE,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,2,24,1,3.0,0.0,v
+S2223-G0421,3,09:18,DAL,,CLE,,L. Stevens,CLE,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,23,24,1,3.0,0.0,v
+S2223-G0421,3,08:20,DAL,,CLE,,L. Stevens,CLE,MISS Stevens 3' Driving Layup,Missed Shot,Driving Layup Shot,25,7,3,1,2.0,0.0,v
+S2223-G0421,3,07:55,DAL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0421,3,05:47,DAL,53.0,CLE,70.0,L. Stevens,CLE,Stevens 12' Turnaround Bank Shot (7 PTS) (E. Mobley 3 AST),Made Shot,Turnaround Bank shot,-120,27,12,1,2.0,2.0,v
+S2223-G0421,3,05:19,DAL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0421,3,04:38,DAL,,CLE,,L. Stevens,CLE,Stevens Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0421,3,04:01,DAL,,CLE,,L. Stevens,CLE,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,41,24,1,3.0,0.0,v
+S2223-G0421,3,02:51,DAL,,CLE,,L. Stevens,CLE,SUB: E. Mobley FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0421,3,01:45,DAL,66.0,CLE,78.0,L. Stevens,CLE,Stevens Cutting Dunk Shot (9 PTS) (E. Mobley 4 AST),Made Shot,Cutting Dunk Shot,1,0,0,1,2.0,2.0,v
+S2223-G0421,3,00:49.200000,DAL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0421,3,00:24.600000,DAL,,CLE,,L. Stevens,CLE,SUB: Love FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0421,4,11:23,DAL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0421,4,11:10,DAL,70.0,CLE,85.0,L. Stevens,CLE,Stevens 1' Cutting Layup Shot (11 PTS) (E. Mobley 5 AST),Made Shot,Cutting Layup Shot,-13,0,1,1,2.0,2.0,v
+S2223-G0421,4,08:19,DAL,77.0,CLE,91.0,L. Stevens,CLE,Stevens 3' Running Layup (13 PTS) (LeVert 3 AST),Made Shot,Running Layup Shot,16,20,3,1,2.0,2.0,v
+S2223-G0421,4,05:39,DAL,84.0,CLE,97.0,L. Stevens,CLE,Stevens 3PT Jump Shot (16 PTS) (E. Mobley 6 AST),Made Shot,Jump Shot,-232,13,0,1,3.0,3.0,v
+S2223-G0421,4,05:17,DAL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0421,4,03:09,DAL,86.0,CLE,103.0,L. Stevens,CLE,Stevens Cutting Layup Shot (18 PTS) (Mitchell 4 AST),Made Shot,Cutting Layup Shot,-2,-3,0,1,2.0,2.0,v
+S2223-G0421,4,01:44,DAL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0421,4,00:51.100000,DAL,,CLE,,L. Stevens,CLE,MISS Stevens 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,43,195,20,1,2.0,0.0,v
+S2223-G0421,4,00:17.400000,DAL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1027,1,08:41,CHA,,CLE,,L. Stevens,CLE,MISS Stevens 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,13,99,10,1,2.0,0.0,v
+S2223-G1027,1,07:23,CHA,9.0,CLE,12.0,L. Stevens,CLE,Stevens 2' Layup (2 PTS) (Garland 1 AST),Made Shot,Layup Shot,-17,6,2,1,2.0,2.0,v
+S2223-G1027,1,06:02,CHA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1027,1,05:52,CHA,12.0,CLE,15.0,L. Stevens,CLE,Stevens 26' 3PT Jump Shot (5 PTS) (LeVert 2 AST),Made Shot,Jump Shot,162,205,26,1,3.0,3.0,v
+S2223-G1027,1,05:29,CHA,,CLE,,L. Stevens,CLE,MISS Stevens 2' Running Layup,Missed Shot,Running Layup Shot,18,8,2,1,2.0,0.0,v
+S2223-G1027,1,03:36,CHA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1027,1,03:00,CHA,,CLE,,L. Stevens,CLE,MISS Stevens 2' Driving Layup,Missed Shot,Driving Layup Shot,-21,6,2,1,2.0,0.0,v
+S2223-G1027,1,02:56,CHA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1027,1,02:56,CHA,18.0,CLE,22.0,L. Stevens,CLE,Stevens Putback Layup (7 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1027,1,01:59,CHA,,CLE,,L. Stevens,CLE,SUB: LeVert FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G1027,3,07:33,CHA,,CLE,,L. Stevens,CLE,MISS Stevens 3' Driving Layup,Missed Shot,Driving Layup Shot,23,21,3,1,2.0,0.0,v
+S2223-G1027,3,07:33,CHA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1027,3,07:33,CHA,57.0,CLE,76.0,L. Stevens,CLE,Stevens Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1027,3,07:33,CHA,57.0,CLE,77.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1027,3,03:15,CHA,67.0,CLE,89.0,L. Stevens,CLE,Stevens 8' Turnaround Fadeaway Bank Jump Shot (11 PTS),Made Shot,Turnaround Fadeaway Bank Jump Shot,-64,53,8,1,2.0,2.0,v
+S2223-G1027,3,01:52,CHA,,CLE,,L. Stevens,CLE,SUB: E. Mobley FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0733,3,02:15,HOU,63.0,CLE,92.0,L. Stevens,CLE,Stevens 25' 3PT Jump Shot (3 PTS) (Mobley 3 AST),Made Shot,Jump Shot,232,83,25,1,3.0,3.0,v
+S2223-G0733,3,01:56,HOU,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0733,4,09:57,HOU,,CLE,,L. Stevens,CLE,MISS Stevens 7' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-16,64,7,1,2.0,0.0,v
+S2223-G0733,4,09:16,HOU,,CLE,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0733,4,02:20,HOU,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0733,4,01:36,HOU,91.0,CLE,113.0,L. Stevens,CLE,Stevens 4' Driving Layup (5 PTS) (Osman 1 AST),Made Shot,Driving Layup Shot,-29,21,4,1,2.0,2.0,v
+S2223-G0565,2,07:45,CLE,,PHX,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0565,2,07:45,CLE,20.0,PHX,26.0,L. Stevens,CLE,Stevens Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0565,2,07:30,CLE,,PHX,,L. Stevens,CLE,Stevens S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0565,2,06:12,CLE,,PHX,,L. Stevens,CLE,Stevens S.FOUL (P2.T4) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0565,2,06:12,CLE,,PHX,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0498,1,09:59,CLE,,BKN,,L. Stevens,CLE,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,2,24,1,3.0,0.0,h
+S2223-G0498,1,06:24,CLE,,BKN,,L. Stevens,CLE,Stevens Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0498,1,05:01,CLE,,BKN,,L. Stevens,CLE,MISS Stevens 1' Driving Layup,Missed Shot,Driving Layup Shot,6,8,1,1,2.0,0.0,h
+S2223-G0498,1,03:26,CLE,,BKN,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0498,2,08:58,CLE,,BKN,,L. Stevens,CLE,MISS Stevens 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,64,6,1,2.0,0.0,h
+S2223-G0498,2,08:56,CLE,,BKN,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0498,2,08:15,CLE,,BKN,,L. Stevens,CLE,Stevens Out of Bounds Lost Ball Turnover (P2.T8),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0498,2,04:51,CLE,38.0,BKN,42.0,L. Stevens,CLE,Stevens 3PT Jump Shot (3 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,-234,21,0,1,3.0,3.0,h
+S2223-G0498,2,03:57,CLE,,BKN,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0498,2,02:43,CLE,,BKN,,L. Stevens,CLE,Stevens Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0498,3,09:56,CLE,,BKN,,L. Stevens,CLE,MISS Stevens 1' Running Layup,Missed Shot,Running Layup Shot,-6,0,1,1,2.0,0.0,h
+S2223-G0498,3,09:04,CLE,,BKN,,L. Stevens,CLE,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,48,24,1,3.0,0.0,h
+S2223-G0498,3,08:16,CLE,63.0,BKN,76.0,L. Stevens,CLE,Stevens 24' 3PT Jump Shot (6 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,238,30,24,1,3.0,3.0,h
+S2223-G0498,3,07:52,CLE,,BKN,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0498,3,00:14.200000,CLE,,BKN,,L. Stevens,CLE,SUB: Love FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0524,1,09:27,IND,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0524,1,09:22,IND,,CLE,,L. Stevens,CLE,Stevens Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0524,1,08:53,IND,,CLE,,L. Stevens,CLE,MISS Stevens 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,69,10,7,1,2.0,0.0,v
+S2223-G0524,1,06:05,IND,,CLE,,L. Stevens,CLE,Stevens BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0524,1,05:01,IND,,CLE,,L. Stevens,CLE,SUB: Love FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0524,1,02:48,IND,,CLE,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,-224,10,0,1,3.0,0.0,v
+S2223-G0524,1,02:16,IND,,CLE,,L. Stevens,CLE,SUB: Mobley FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0524,2,03:44,IND,,CLE,,L. Stevens,CLE,MISS Stevens 3' Driving Layup,Missed Shot,Driving Layup Shot,15,25,3,1,2.0,0.0,v
+S2223-G0524,2,03:42,IND,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0524,2,03:41,IND,56.0,CLE,56.0,L. Stevens,CLE,Stevens 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-15,9,2,1,2.0,2.0,v
+S2223-G0524,2,02:05,IND,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0524,3,11:37,IND,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0524,3,11:36,IND,,CLE,,L. Stevens,CLE,MISS Stevens 2' Putback Layup,Missed Shot,Putback Layup Shot,11,15,2,1,2.0,0.0,v
+S2223-G0524,3,09:19,IND,73.0,CLE,73.0,L. Stevens,CLE,Stevens 3PT Jump Shot (5 PTS) (Mobley 5 AST),Made Shot,Jump Shot,-227,22,0,1,3.0,3.0,v
+S2223-G0524,3,08:37,IND,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0524,3,08:29,IND,76.0,CLE,75.0,L. Stevens,CLE,Stevens 2' Cutting Dunk Shot (7 PTS) (Mobley 6 AST),Made Shot,Cutting Dunk Shot,-11,15,2,1,2.0,2.0,v
+S2223-G0524,3,07:19,IND,,CLE,,L. Stevens,CLE,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,37,24,1,3.0,0.0,v
+S2223-G0524,3,07:11,IND,,CLE,,L. Stevens,CLE,MISS Stevens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0524,3,07:11,IND,,CLE,,L. Stevens,CLE,MISS Stevens Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0524,3,07:09,IND,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0524,3,07:09,IND,,CLE,,L. Stevens,CLE,SUB: LeVert FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0524,3,00:06.200000,IND,,CLE,,L. Stevens,CLE,SUB: Garland FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0695,2,09:32,CLE,,MIL,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0695,2,03:23,CLE,,MIL,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0695,2,00:03,CLE,,MIL,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0695,3,01:58,CLE,,MIL,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0695,3,00:30.900000,CLE,,MIL,,L. Stevens,CLE,MISS Stevens 26' 3PT Jump Shot,Missed Shot,Jump Shot,173,191,26,1,3.0,0.0,h
+S2223-G0695,4,07:42,CLE,,MIL,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,-232,16,0,1,3.0,0.0,h
+S2223-G0695,4,07:05,CLE,,MIL,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0842,4,02:10,NOP,,CLE,,L. Stevens,CLE,MISS Stevens 26' 3PT Jump Shot,Missed Shot,Jump Shot,-145,221,26,1,3.0,0.0,v
+S2223-G0842,4,00:26.300000,NOP,,CLE,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1117,1,04:08,CLE,,HOU,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1117,1,03:23,CLE,,HOU,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1117,1,02:29,CLE,,HOU,,L. Stevens,CLE,MISS Stevens 25' 3PT Jump Shot,Missed Shot,Jump Shot,-237,86,25,1,3.0,0.0,h
+S2223-G1117,1,00:30.200000,CLE,,HOU,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1117,3,04:05,CLE,,HOU,,L. Stevens,CLE,MISS Stevens 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,60,137,15,1,2.0,0.0,h
+S2223-G1117,3,03:00,CLE,,HOU,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1117,3,00:38.200000,CLE,85.0,HOU,78.0,L. Stevens,CLE,Stevens 7' Driving Floating Jump Shot (2 PTS) (E. Mobley 5 AST),Made Shot,Driving Floating Jump Shot,-43,51,7,1,2.0,2.0,h
+S2223-G1117,3,00:04.800000,CLE,,HOU,,L. Stevens,CLE,Stevens L.B.FOUL (P1.PN) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0244,1,09:24,CLE,6.0,MIA,4.0,L. Stevens,CLE,Stevens 14' Pullup Jump Shot (2 PTS) (Garland 2 AST),Made Shot,Pullup Jump shot,-92,104,14,1,2.0,2.0,h
+S2223-G0244,1,08:55,CLE,,MIA,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0244,1,08:55,CLE,,MIA,,L. Stevens,CLE,Stevens Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0244,1,08:14,CLE,,MIA,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0244,1,06:46,CLE,,MIA,,L. Stevens,CLE,SUB: LeVert FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0244,3,11:41,CLE,61.0,MIA,42.0,L. Stevens,CLE,Stevens 10' Driving Floating Jump Shot (4 PTS) (Mitchell 2 AST),Made Shot,Driving Floating Jump Shot,-2,101,10,1,2.0,2.0,h
+S2223-G0244,3,11:03,CLE,63.0,MIA,45.0,L. Stevens,CLE,Stevens 9' Step Back Jump Shot (6 PTS) (Allen 1 AST),Made Shot,Step Back Jump shot,17,88,9,1,2.0,2.0,h
+S2223-G0244,3,07:55,CLE,,MIA,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0244,3,02:31,CLE,,MIA,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0244,3,01:18,CLE,,MIA,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0244,3,00:49.100000,CLE,92.0,MIA,62.0,L. Stevens,CLE,Stevens 3' Running Layup (8 PTS) (Mitchell 4 AST),Made Shot,Running Layup Shot,-21,14,3,1,2.0,2.0,h
+S2223-G0244,3,00:02.200000,CLE,,MIA,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0244,3,00:00,CLE,,MIA,,L. Stevens,CLE,MISS Stevens 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-151,207,26,1,3.0,0.0,h
+S2223-G0244,4,11:07,CLE,,MIA,,L. Stevens,CLE,Stevens P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2223-G0244,4,10:02,CLE,98.0,MIA,66.0,L. Stevens,CLE,Stevens 3PT Jump Shot (11 PTS) (E. Mobley 4 AST),Made Shot,Jump Shot,-233,4,0,1,3.0,3.0,h
+S2223-G0244,4,05:31,CLE,,MIA,,L. Stevens,CLE,Stevens Palming Turnover (P2.T17),Turnover,Palming Turnover,0,0,0,0,,,h
+S2223-G0244,4,04:28,CLE,,MIA,,L. Stevens,CLE,SUB: I. Mobley FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0614,1,02:13,UTA,,,,L. Stevens,CLE,Stevens BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0614,1,01:56,UTA,,,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0614,1,00:50.100000,UTA,,,,L. Stevens,CLE,SUB: Mobley FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0614,2,08:58,UTA,,,,L. Stevens,CLE,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,35,24,1,3.0,0.0,v
+S2223-G0614,2,07:01,UTA,,,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0614,2,06:52,UTA,40.0,,38.0,L. Stevens,CLE,Stevens 2' Layup (2 PTS) (Garland 2 AST),Made Shot,Layup Shot,-1,15,2,1,2.0,2.0,v
+S2223-G0614,2,06:19,UTA,,,,L. Stevens,CLE,Stevens BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0614,2,04:58,UTA,,,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0614,2,04:44,UTA,,,,L. Stevens,CLE,Stevens P.FOUL (P1.T2) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2223-G0614,2,04:21,UTA,44.0,,47.0,L. Stevens,CLE,Stevens 25' 3PT Jump Shot (5 PTS) (Mitchell 4 AST),Made Shot,Jump Shot,178,171,25,1,3.0,3.0,v
+S2223-G0614,2,03:02,UTA,,,,L. Stevens,CLE,Stevens STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0614,2,02:41,UTA,,,,L. Stevens,CLE,Stevens P.FOUL (P2.T3) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2223-G0614,2,01:59,UTA,,,,L. Stevens,CLE,Stevens P.FOUL (P3.T4) (T.Ricks),Foul,Personal,0,0,0,0,,,v
+S2223-G0614,2,01:59,UTA,,,,L. Stevens,CLE,SUB: LeVert FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0614,3,10:13,UTA,,,,L. Stevens,CLE,Stevens S.FOUL (P4.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0614,3,10:03,UTA,,,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0614,3,00:11,UTA,88.0,,84.0,L. Stevens,CLE,Stevens 6' Cutting Layup Shot (7 PTS) (Garland 6 AST),Made Shot,Cutting Layup Shot,49,25,6,1,2.0,2.0,v
+S2223-G0614,4,11:22,UTA,,,,L. Stevens,CLE,Stevens STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0614,4,11:18,UTA,90.0,,86.0,L. Stevens,CLE,Stevens 3' Running Layup (9 PTS),Made Shot,Running Layup Shot,23,18,3,1,2.0,2.0,v
+S2223-G0614,4,09:13,UTA,,,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0614,4,06:59,UTA,,,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0614,4,04:00,UTA,100.0,,105.0,L. Stevens,CLE,Stevens 19' Pullup Jump Shot (11 PTS) (LeVert 2 AST),Made Shot,Pullup Jump shot,-180,65,19,1,2.0,2.0,v
+S2223-G0614,4,00:30.700000,UTA,,,,L. Stevens,CLE,Stevens Personal Take Foul (P5.PN) (S.Wright),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0360,1,10:45,CLE,6.0,LAL,2.0,L. Stevens,CLE,Stevens 2' Running Layup (2 PTS) (Garland 2 AST),Made Shot,Running Layup Shot,-13,15,2,1,2.0,2.0,h
+S2223-G0360,1,10:31,CLE,,LAL,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0360,1,10:04,CLE,,LAL,,L. Stevens,CLE,CAVALIERS T.Foul (Def. 3 Sec Stevens ) (C.Kirkland),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G0360,1,09:58,CLE,,LAL,,L. Stevens,CLE,Stevens S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0360,1,09:27,CLE,,LAL,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0360,1,07:16,CLE,,LAL,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,224,-4,0,1,3.0,0.0,h
+S2223-G0360,1,06:56,CLE,,LAL,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0360,1,05:51,CLE,,LAL,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0360,1,05:15,CLE,,LAL,,L. Stevens,CLE,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,3,24,1,3.0,0.0,h
+S2223-G0360,1,03:45,CLE,,LAL,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0360,2,02:20,CLE,,LAL,,L. Stevens,CLE,Stevens P.FOUL (P2.T3) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2223-G0360,2,00:38.500000,CLE,,LAL,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0360,2,00:01.500000,CLE,,LAL,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0360,3,04:07,CLE,,LAL,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0360,4,09:42,CLE,,LAL,,L. Stevens,CLE,MISS Stevens 25' 3PT Jump Shot,Missed Shot,Jump Shot,-246,17,25,1,3.0,0.0,h
+S2223-G0360,4,07:43,CLE,,LAL,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0360,4,06:23,CLE,,LAL,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0360,4,06:14,CLE,,LAL,,L. Stevens,CLE,MISS Stevens 1' Driving Layup,Missed Shot,Driving Layup Shot,6,11,1,1,2.0,0.0,h
+S2223-G0360,4,04:44,CLE,,LAL,,L. Stevens,CLE,SUB: LeVert FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0225,1,07:17,CLE,,CHA,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0225,1,05:00,CLE,,CHA,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0225,2,09:08,CLE,,CHA,,L. Stevens,CLE,Stevens P.FOUL (P1.T2) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2223-G0225,2,07:08,CLE,,CHA,,L. Stevens,CLE,MISS Stevens 26' 3PT Jump Shot,Missed Shot,Jump Shot,-161,206,26,1,3.0,0.0,h
+S2223-G0225,2,07:00,CLE,,CHA,,L. Stevens,CLE,Stevens S.FOUL (P2.T4) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0225,2,05:29,CLE,,CHA,,L. Stevens,CLE,Stevens P.FOUL (P3.PN) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2223-G0225,2,05:29,CLE,,CHA,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0225,3,10:00,CLE,,CHA,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0225,3,05:46,CLE,,CHA,,L. Stevens,CLE,SUB: Love FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0225,4,02:44,CLE,,CHA,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0225,4,02:22,CLE,98.0,CHA,91.0,L. Stevens,CLE,Stevens 7' Pullup Jump Shot (2 PTS) (Garland 5 AST),Made Shot,Pullup Jump shot,1,71,7,1,2.0,2.0,h
+S2223-G0225,4,01:50,CLE,,CHA,,L. Stevens,CLE,MISS Stevens 4' Layup,Missed Shot,Layup Shot,-32,21,4,1,2.0,0.0,h
+S2223-G0225,4,01:38,CLE,,CHA,,L. Stevens,CLE,Stevens BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0225,4,01:18,CLE,,CHA,,L. Stevens,CLE,MISS Stevens 28' 3PT Jump Shot,Missed Shot,Jump Shot,186,203,28,1,3.0,0.0,h
+S2223-G0225,4,00:29.700000,CLE,,CHA,,L. Stevens,CLE,SUB: Love FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0225,4,00:18.800000,CLE,,CHA,,L. Stevens,CLE,SUB: Love FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0225,5,04:14,CLE,,CHA,,L. Stevens,CLE,MISS Stevens 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,0,35,4,1,2.0,0.0,h
+S2223-G0225,5,04:12,CLE,,CHA,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0225,5,04:12,CLE,,CHA,,L. Stevens,CLE,MISS Stevens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0225,5,04:12,CLE,108.0,CHA,108.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0225,5,00:22.500000,CLE,,CHA,,L. Stevens,CLE,SUB: Love FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0248,1,09:57,CLE,6.0,ATL,6.0,L. Stevens,CLE,Stevens 1' Cutting Layup Shot (2 PTS) (Mobley 1 AST),Made Shot,Cutting Layup Shot,9,5,1,1,2.0,2.0,h
+S2223-G0248,1,04:07,CLE,,ATL,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0248,2,09:45,CLE,,ATL,,L. Stevens,CLE,Stevens S.FOUL (P1.T3) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0248,2,09:45,CLE,,ATL,,L. Stevens,CLE,SUB: Garland FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0248,2,06:25,CLE,,ATL,,L. Stevens,CLE,MISS Stevens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0248,2,06:25,CLE,45.0,ATL,41.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0248,2,03:24,CLE,,ATL,,L. Stevens,CLE,MISS Stevens 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-82,99,13,1,2.0,0.0,h
+S2223-G0248,2,02:38,CLE,,ATL,,L. Stevens,CLE,SUB: Allen FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0248,3,06:59,CLE,,ATL,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0248,3,05:19,CLE,,ATL,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0248,3,05:12,CLE,,ATL,,L. Stevens,CLE,Stevens Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0248,3,04:47,CLE,,ATL,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0248,4,09:43,CLE,92.0,ATL,85.0,L. Stevens,CLE,Stevens 3PT Jump Shot (6 PTS) (Mitchell 6 AST),Made Shot,Jump Shot,227,14,0,1,3.0,3.0,h
+S2223-G0248,4,09:25,CLE,,ATL,,L. Stevens,CLE,Stevens P.FOUL (P2.T2) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2223-G0248,4,09:08,CLE,94.0,ATL,85.0,L. Stevens,CLE,Stevens 2' Running Layup (8 PTS) (Mitchell 7 AST),Made Shot,Running Layup Shot,-9,13,2,1,2.0,2.0,h
+S2223-G0248,4,07:49,CLE,,ATL,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0248,4,07:28,CLE,,ATL,,L. Stevens,CLE,MISS Stevens 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,50,66,8,1,2.0,0.0,h
+S2223-G0248,4,06:41,CLE,,ATL,,L. Stevens,CLE,SUB: Allen FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0248,4,03:46,CLE,,ATL,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0032,4,03:01,CHI,,CLE,,L. Stevens,CLE,MISS Stevens 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,18,90,9,1,2.0,0.0,v
+S2223-G0032,4,00:54.900000,CHI,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0120,2,06:05,DET,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P1.T2) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G0120,2,05:11,DET,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P2.T3) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2223-G0120,2,04:58,DET,32.0,CLE,50.0,L. Stevens,CLE,Stevens Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0120,2,04:58,DET,32.0,CLE,51.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0120,2,04:33,DET,,CLE,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0120,4,09:52,DET,72.0,CLE,96.0,L. Stevens,CLE,Stevens 4' Cutting Layup Shot (4 PTS) (Love 10 AST),Made Shot,Cutting Layup Shot,34,11,4,1,2.0,2.0,v
+S2223-G0120,4,08:45,DET,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P3.T1) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G0120,4,07:48,DET,74.0,CLE,101.0,L. Stevens,CLE,Stevens 3' Driving Layup (6 PTS) (Osman 6 AST),Made Shot,Driving Layup Shot,27,21,3,1,2.0,2.0,v
+S2223-G0120,4,07:14,DET,,CLE,,L. Stevens,CLE,Stevens BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0120,4,07:08,DET,,CLE,,L. Stevens,CLE,Stevens OFF.Foul (P4) (D.Richardson),Foul,Offensive,0,0,0,0,,,v
+S2223-G0120,4,07:08,DET,,CLE,,L. Stevens,CLE,Stevens Offensive Foul Turnover (P1.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0120,4,06:05,DET,,CLE,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0120,4,04:10,DET,,CLE,,L. Stevens,CLE,MISS Stevens 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,167,83,19,1,2.0,0.0,v
+S2223-G0120,4,00:34.800000,DET,,CLE,,L. Stevens,CLE,MISS Stevens 25' 3PT Jump Shot,Missed Shot,Jump Shot,69,236,25,1,3.0,0.0,v
+S2223-G0822,1,02:46,CLE,,DET,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0822,1,01:34,CLE,30.0,DET,14.0,L. Stevens,CLE,Stevens 1' Driving Dunk (2 PTS) (Osman 1 AST),Made Shot,Driving Dunk Shot,-11,4,1,1,2.0,2.0,h
+S2223-G0822,2,11:42,CLE,,DET,,L. Stevens,CLE,Stevens S.FOUL (P1.T1) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0822,2,08:56,CLE,38.0,DET,20.0,L. Stevens,CLE,Stevens 1' Cutting Layup Shot (4 PTS) (Rubio 2 AST),Made Shot,Cutting Layup Shot,-6,9,1,1,2.0,2.0,h
+S2223-G0822,2,07:31,CLE,41.0,DET,24.0,L. Stevens,CLE,Stevens 26' 3PT Jump Shot (7 PTS) (Neto 4 AST),Made Shot,Jump Shot,-129,226,26,1,3.0,3.0,h
+S2223-G0822,2,06:37,CLE,,DET,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0822,2,06:36,CLE,,DET,,L. Stevens,CLE,SUB: LeVert FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0822,4,02:56,CLE,106.0,DET,77.0,L. Stevens,CLE,Stevens 1' Cutting Finger Roll Layup Shot (9 PTS) (Lopez 1 AST),Made Shot,Cutting Finger Roll Layup Shot,-7,-1,1,1,2.0,2.0,h
+S2223-G1049,1,11:41,CLE,2.0,WAS,0.0,L. Stevens,CLE,Stevens 13' Jump Shot (2 PTS) (Mobley 1 AST),Made Shot,Jump Shot,134,-5,13,1,2.0,2.0,h
+S2223-G1049,1,08:34,CLE,,WAS,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1049,1,08:14,CLE,13.0,WAS,7.0,L. Stevens,CLE,Stevens 12' Fadeaway Jumper (4 PTS) (Garland 3 AST),Made Shot,Fadeaway Jump Shot,-123,13,12,1,2.0,2.0,h
+S2223-G1049,1,07:19,CLE,17.0,WAS,11.0,L. Stevens,CLE,Stevens 1' Cutting Dunk Shot (6 PTS) (Mobley 2 AST),Made Shot,Cutting Dunk Shot,-2,8,1,1,2.0,2.0,h
+S2223-G1049,1,07:19,CLE,18.0,WAS,11.0,L. Stevens,CLE,Stevens Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1049,1,04:28,CLE,,WAS,,L. Stevens,CLE,SUB: Rubio FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G1049,2,02:13,CLE,,WAS,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1049,2,02:13,CLE,,WAS,,L. Stevens,CLE,MISS Stevens Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G1049,2,01:49,CLE,,WAS,,L. Stevens,CLE,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,-17,24,1,3.0,0.0,h
+S2223-G1049,2,00:07.800000,CLE,,WAS,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1049,3,11:32,CLE,,WAS,,L. Stevens,CLE,Stevens S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G1049,3,07:32,CLE,,WAS,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1049,3,06:42,CLE,69.0,WAS,55.0,L. Stevens,CLE,Stevens 3' Running Layup (9 PTS) (Garland 7 AST),Made Shot,Running Layup Shot,23,18,3,1,2.0,2.0,h
+S2223-G1049,3,06:42,CLE,,WAS,,L. Stevens,CLE,MISS Stevens Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1049,3,06:26,CLE,,WAS,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1049,3,02:28,CLE,,WAS,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0658,2,06:34,CLE,,NOP,,L. Stevens,CLE,Stevens Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0658,2,04:33,CLE,,NOP,,L. Stevens,CLE,Stevens BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0658,2,04:05,CLE,37.0,NOP,43.0,L. Stevens,CLE,Stevens 1' Running Dunk (2 PTS) (Okoro 1 AST),Made Shot,Running Dunk Shot,-6,10,1,1,2.0,2.0,h
+S2223-G0658,2,03:04,CLE,,NOP,,L. Stevens,CLE,SUB: Mobley FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0658,4,11:09,CLE,,NOP,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0658,4,09:35,CLE,,NOP,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0658,4,07:28,CLE,,NOP,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0658,4,02:56,CLE,,NOP,,L. Stevens,CLE,Stevens S.FOUL (P1.T4) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G0658,4,02:21,CLE,,NOP,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0658,4,01:27,CLE,,NOP,,L. Stevens,CLE,Stevens S.FOUL (P2.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0658,4,01:02,CLE,,NOP,,L. Stevens,CLE,MISS Stevens 26' 3PT Jump Shot,Missed Shot,Jump Shot,-192,175,26,1,3.0,0.0,h
+S2223-G0658,4,00:40.400000,CLE,,NOP,,L. Stevens,CLE,MISS Stevens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0658,4,00:40.400000,CLE,111.0,NOP,101.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0658,4,00:30.800000,CLE,,NOP,,L. Stevens,CLE,SUB: Love FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0875,2,07:39,PHI,,CLE,,L. Stevens,CLE,MISS Stevens 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-2,75,8,1,2.0,0.0,v
+S2223-G0875,2,07:11,PHI,46.0,CLE,30.0,L. Stevens,CLE,Stevens 1' Running Alley Oop Dunk Shot (2 PTS) (LeVert 2 AST),Made Shot,Running Alley Oop Dunk Shot,6,6,1,1,2.0,2.0,v
+S2223-G0875,2,05:07,PHI,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0875,2,04:58,PHI,,CLE,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,-232,-6,0,1,3.0,0.0,v
+S2223-G0875,2,03:58,PHI,,CLE,,L. Stevens,CLE,Cavaliers T.Foul (Def. 3 Sec Stevens ) (M.Lindsay),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0875,2,03:15,PHI,,CLE,,L. Stevens,CLE,MISS Stevens 27' 3PT Jump Shot,Missed Shot,Jump Shot,-197,191,27,1,3.0,0.0,v
+S2223-G0875,2,03:15,PHI,,CLE,,L. Stevens,CLE,SUB: Mobley FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0971,4,11:07,CLE,,BOS,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0971,4,11:06,CLE,80.0,BOS,92.0,L. Stevens,CLE,Stevens Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0971,4,08:39,CLE,,BOS,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0971,4,06:55,CLE,,BOS,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,-230,-10,0,1,3.0,0.0,h
+S2223-G0971,4,06:26,CLE,,BOS,,L. Stevens,CLE,MISS Stevens 1' Layup,Missed Shot,Layup Shot,-4,14,1,1,2.0,0.0,h
+S2223-G0971,4,05:06,CLE,,BOS,,L. Stevens,CLE,Stevens Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0971,4,04:22,CLE,,BOS,,L. Stevens,CLE,Stevens REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0971,4,03:47,CLE,,BOS,,L. Stevens,CLE,Stevens REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0971,4,02:53,CLE,,BOS,,L. Stevens,CLE,MISS Stevens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0971,4,02:53,CLE,100.0,BOS,102.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0971,4,01:34,CLE,,BOS,,L. Stevens,CLE,Stevens REBOUND (Off:5 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0971,4,00:33.700000,CLE,,BOS,,L. Stevens,CLE,Stevens REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0971,4,00:00.800000,CLE,,BOS,,L. Stevens,CLE,Stevens S.FOUL (P1.T4) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2223-G0971,4,00:00.800000,CLE,,BOS,,L. Stevens,CLE,SUB: Allen FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0971,5,03:39,CLE,,BOS,,L. Stevens,CLE,Stevens REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0971,5,02:14,CLE,114.0,BOS,112.0,L. Stevens,CLE,Stevens 24' 3PT Jump Shot (6 PTS) (LeVert 4 AST),Made Shot,Jump Shot,-238,5,24,1,3.0,3.0,h
+S2223-G0971,5,01:47,CLE,116.0,BOS,112.0,L. Stevens,CLE,Stevens 2' Driving Layup (8 PTS) (Mitchell 4 AST),Made Shot,Driving Layup Shot,-16,14,2,1,2.0,2.0,h
+S2223-G0971,5,01:07,CLE,,BOS,,L. Stevens,CLE,Stevens REBOUND (Off:6 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0971,5,01:06,CLE,,BOS,,L. Stevens,CLE,Stevens Out of Bounds Lost Ball Turnover (P2.T15),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0588,1,02:58,DEN,,CLE,,L. Stevens,CLE,MISS Stevens 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,42,99,11,1,2.0,0.0,v
+S2223-G0588,1,01:26,DEN,26.0,CLE,23.0,L. Stevens,CLE,Stevens 7' Driving Floating Jump Shot (2 PTS) (Neto 1 AST),Made Shot,Driving Floating Jump Shot,9,73,7,1,2.0,2.0,v
+S2223-G0588,1,01:04,DEN,,CLE,,L. Stevens,CLE,Stevens BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0588,1,00:29.300000,DEN,,CLE,,L. Stevens,CLE,SUB: Garland FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0588,2,07:49,DEN,38.0,CLE,40.0,L. Stevens,CLE,Stevens 1' Running Dunk (4 PTS) (Osman 1 AST),Made Shot,Running Dunk Shot,-4,8,1,1,2.0,2.0,v
+S2223-G0588,2,07:38,DEN,,CLE,,L. Stevens,CLE,SUB: Allen FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0588,4,11:41,DEN,,CLE,,L. Stevens,CLE,MISS Stevens 25' 3PT Jump Shot,Missed Shot,Jump Shot,59,244,25,1,3.0,0.0,v
+S2223-G0588,4,10:41,DEN,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0588,4,10:41,DEN,96.0,CLE,83.0,L. Stevens,CLE,Stevens Free Throw Flagrant 1 of 2 (5 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0588,4,10:41,DEN,96.0,CLE,84.0,L. Stevens,CLE,Stevens Free Throw Flagrant 2 of 2 (6 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0588,4,09:01,DEN,,CLE,,L. Stevens,CLE,MISS Stevens 3' Driving Layup,Missed Shot,Driving Layup Shot,-25,20,3,1,2.0,0.0,v
+S2223-G0588,4,07:50,DEN,,CLE,,L. Stevens,CLE,SUB: Allen FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0588,4,00:39,DEN,,CLE,,L. Stevens,CLE,MISS Stevens 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,26,168,17,1,2.0,0.0,v
+S2223-G0603,3,01:47,PHX,,CLE,,L. Stevens,CLE,SUB: Mobley FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0603,4,10:53,PHX,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0603,4,09:43,PHX,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0603,4,08:19,PHX,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0603,4,07:39,PHX,81.0,CLE,93.0,L. Stevens,CLE,Stevens 1' Alley Oop Dunk (2 PTS) (Garland 5 AST),Made Shot,Alley Oop Dunk Shot,1,10,1,1,2.0,2.0,v
+S2223-G0603,4,07:30,PHX,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0603,4,04:55,PHX,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0603,4,04:20,PHX,,CLE,,L. Stevens,CLE,Stevens BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0603,4,04:16,PHX,,CLE,,L. Stevens,CLE,Stevens Out of Bounds Lost Ball Turnover (P1.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0603,4,03:37,PHX,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0603,4,03:16,PHX,,CLE,,L. Stevens,CLE,MISS Stevens 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,146,33,15,1,2.0,0.0,v
+S2223-G0896,2,05:04,ATL,61.0,CLE,39.0,L. Stevens,CLE,Stevens 25' 3PT Jump Shot (3 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,-120,221,25,1,3.0,3.0,v
+S2223-G0896,2,00:02.100000,ATL,,CLE,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0896,3,06:21,ATL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0896,3,06:21,ATL,,CLE,,L. Stevens,CLE,MISS Stevens Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0896,3,04:56,ATL,,CLE,,L. Stevens,CLE,MISS Stevens 25' 3PT Jump Shot,Missed Shot,Jump Shot,125,220,25,1,3.0,0.0,v
+S2223-G0896,3,04:45,ATL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0896,3,04:45,ATL,,CLE,,L. Stevens,CLE,MISS Stevens Layup,Missed Shot,Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0896,3,03:16,ATL,,CLE,,L. Stevens,CLE,Stevens STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0896,3,00:26.600000,ATL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0896,4,10:28,ATL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0896,4,08:50,ATL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0896,4,08:50,ATL,108.0,CLE,94.0,L. Stevens,CLE,Stevens Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0896,4,08:50,ATL,108.0,CLE,95.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0896,4,06:03,ATL,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P1.T2) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2223-G0896,4,00:09.300000,ATL,136.0,CLE,119.0,L. Stevens,CLE,Stevens 8' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,-16,79,8,1,2.0,2.0,v
+S2223-G1035,1,09:45,CLE,,PHI,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,-232,13,0,1,3.0,0.0,h
+S2223-G1035,1,08:00,CLE,7.0,PHI,8.0,L. Stevens,CLE,Stevens 3PT Jump Shot (3 PTS) (Okoro 1 AST),Made Shot,Jump Shot,232,26,0,1,3.0,3.0,h
+S2223-G1035,1,05:50,CLE,,PHI,,L. Stevens,CLE,SUB: LeVert FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G1035,3,11:28,CLE,,PHI,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1035,3,10:56,CLE,,PHI,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1035,3,10:12,CLE,68.0,PHI,55.0,L. Stevens,CLE,Stevens 25' 3PT Jump Shot (6 PTS) (Garland 4 AST),Made Shot,Jump Shot,-34,248,25,1,3.0,3.0,h
+S2223-G1035,3,07:39,CLE,,PHI,,L. Stevens,CLE,MISS Stevens 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,91,1,9,1,2.0,0.0,h
+S2223-G1035,3,06:40,CLE,,PHI,,L. Stevens,CLE,CAVALIERS T.Foul (Def. 3 Sec Stevens ) (D.Richardson),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G1035,3,06:16,CLE,,PHI,,L. Stevens,CLE,SUB: LeVert FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0809,4,06:59,WAS,85.0,CLE,110.0,L. Stevens,CLE,Stevens 9' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,54,74,9,1,2.0,2.0,v
+S2223-G0809,4,03:43,WAS,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0809,4,03:11,WAS,,CLE,,L. Stevens,CLE,Stevens Step Out of Bounds Turnover (P1.T16),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0809,4,01:05,WAS,,CLE,,L. Stevens,CLE,MISS Stevens 28' 3PT Jump Shot,Missed Shot,Jump Shot,-170,218,28,1,3.0,0.0,v
+S2223-G0809,4,00:50.600000,WAS,,CLE,,L. Stevens,CLE,Stevens P.FOUL (P1.PN) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G1131,1,11:43,ATL,0.0,CLE,2.0,L. Stevens,CLE,Stevens 2' Driving Layup (2 PTS) (Garland 1 AST),Made Shot,Driving Layup Shot,6,14,2,1,2.0,2.0,v
+S2223-G1131,1,09:10,ATL,,CLE,,L. Stevens,CLE,MISS Stevens 4' Running Layup,Missed Shot,Running Layup Shot,-28,30,4,1,2.0,0.0,v
+S2223-G1131,1,09:05,ATL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1131,1,04:48,ATL,,CLE,,L. Stevens,CLE,MISS Stevens 3' Layup,Missed Shot,Layup Shot,-27,17,3,1,2.0,0.0,v
+S2223-G1131,1,02:40,ATL,,CLE,,L. Stevens,CLE,SUB: Mobley FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G1131,2,04:33,ATL,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P1.T3) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G1131,2,03:53,ATL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1131,2,03:47,ATL,,CLE,,L. Stevens,CLE,Stevens P.FOUL (P2.T4) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2223-G1131,2,03:37,ATL,,CLE,,L. Stevens,CLE,Stevens P.FOUL (P3.PN) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G1131,2,02:31,ATL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1131,2,00:50.500000,ATL,,CLE,,L. Stevens,CLE,SUB: Diakite FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G1131,3,11:12,ATL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1131,3,08:04,ATL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1131,3,02:53,ATL,,CLE,,L. Stevens,CLE,SUB: Mobley FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G1131,4,07:19,ATL,,CLE,,L. Stevens,CLE,Stevens BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1131,4,06:17,ATL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1131,4,06:02,ATL,,CLE,,L. Stevens,CLE,MISS Stevens 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,75,8,1,2.0,0.0,v
+S2223-G1131,4,05:56,ATL,,CLE,,L. Stevens,CLE,MISS Stevens 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,5,13,1,1,2.0,0.0,v
+S2223-G1131,4,05:55,ATL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1131,4,05:55,ATL,,CLE,,L. Stevens,CLE,MISS Stevens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1131,4,05:55,ATL,,CLE,,L. Stevens,CLE,MISS Stevens Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1131,4,03:36,ATL,112.0,CLE,111.0,L. Stevens,CLE,Stevens Cutting Dunk Shot (4 PTS) (Mobley 5 AST),Made Shot,Cutting Dunk Shot,2,0,0,1,2.0,2.0,v
+S2223-G1131,4,03:16,ATL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1131,4,01:27,ATL,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1131,4,00:03.100000,ATL,,CLE,,L. Stevens,CLE,SUB: Rubio FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G1218,2,10:53,CLE,27.0,CHA,19.0,L. Stevens,CLE,Stevens 1' Running Dunk (2 PTS) (Wade 1 AST),Made Shot,Running Dunk Shot,5,6,1,1,2.0,2.0,h
+S2223-G1218,2,10:37,CLE,,CHA,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1218,2,09:01,CLE,,CHA,,L. Stevens,CLE,Stevens S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G1218,2,06:31,CLE,,CHA,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G1218,2,02:02,CLE,,CHA,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1218,3,04:12,CLE,,CHA,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1218,3,00:02.300000,CLE,,CHA,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1218,4,08:58,CLE,,CHA,,L. Stevens,CLE,MISS Stevens 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,51,100,11,1,2.0,0.0,h
+S2223-G1218,4,08:53,CLE,,CHA,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1218,4,06:23,CLE,,CHA,,L. Stevens,CLE,MISS Stevens 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-82,9,8,1,2.0,0.0,h
+S2223-G1218,4,06:16,CLE,,CHA,,L. Stevens,CLE,SUB: I. Mobley FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0540,1,10:02,CHI,6.0,CLE,10.0,L. Stevens,CLE,Stevens 1' Running Layup (2 PTS) (Allen 2 AST),Made Shot,Running Layup Shot,-5,11,1,1,2.0,2.0,v
+S2223-G0540,1,08:28,CHI,,CLE,,L. Stevens,CLE,MISS Stevens 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-82,97,13,1,2.0,0.0,v
+S2223-G0540,1,06:11,CHI,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0540,1,05:36,CHI,,CLE,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0540,2,10:29,CHI,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0540,2,09:37,CHI,,CLE,,L. Stevens,CLE,Stevens BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0540,2,06:44,CHI,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0540,2,05:08,CHI,,CLE,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,225,-16,0,1,3.0,0.0,v
+S2223-G0540,2,04:50,CHI,,CLE,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0540,2,00:12.100000,CHI,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0540,3,08:25,CHI,,CLE,,L. Stevens,CLE,MISS Stevens 2' Driving Layup,Missed Shot,Driving Layup Shot,20,12,2,1,2.0,0.0,v
+S2223-G0540,3,07:56,CHI,,CLE,,L. Stevens,CLE,Stevens L.B.FOUL (P1.T1) (M.Lindsay),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0540,3,07:26,CHI,,CLE,,L. Stevens,CLE,Stevens Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0540,3,07:09,CHI,,CLE,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0540,3,00:58.900000,CHI,,CLE,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,228,-2,0,1,3.0,0.0,v
+S2223-G0540,3,00:35.800000,CHI,,CLE,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,-228,-10,0,1,3.0,0.0,v
+S2223-G0645,2,10:49,MIN,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0645,2,10:49,MIN,,CLE,,L. Stevens,CLE,MISS Stevens Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0645,2,07:23,MIN,,CLE,,L. Stevens,CLE,SUB: Allen FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0645,4,06:04,MIN,,CLE,,L. Stevens,CLE,SUB: Mobley FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G1015,1,11:16,CHA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1015,1,10:48,CHA,,CLE,,L. Stevens,CLE,Stevens P.FOUL (P1.T1) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2223-G1015,1,08:08,CHA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1015,1,07:15,CHA,,CLE,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1015,1,05:57,CHA,17.0,CLE,15.0,L. Stevens,CLE,Stevens 2' Cutting Dunk Shot (2 PTS) (Mitchell 2 AST),Made Shot,Cutting Dunk Shot,6,15,2,1,2.0,2.0,v
+S2223-G1015,1,05:29,CHA,,CLE,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G1015,2,10:07,CHA,,CLE,,L. Stevens,CLE,MISS Stevens 4' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,27,35,4,1,2.0,0.0,v
+S2223-G1015,2,08:33,CHA,40.0,CLE,35.0,L. Stevens,CLE,Stevens 2' Cutting Dunk Shot (4 PTS) (LeVert 2 AST),Made Shot,Cutting Dunk Shot,-17,1,2,1,2.0,2.0,v
+S2223-G1015,2,06:35,CHA,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P2.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G1015,2,06:35,CHA,,CLE,,L. Stevens,CLE,SUB: Garland FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G1015,2,02:13,CHA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1015,2,00:58.400000,CHA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1015,2,00:31.700000,CHA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1015,2,00:29.700000,CHA,,CLE,,L. Stevens,CLE,MISS Stevens 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,-6,4,1,1,2.0,0.0,v
+S2223-G1015,2,00:25.700000,CHA,,CLE,,L. Stevens,CLE,SUB: Rubio FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G1015,3,11:12,CHA,59.0,CLE,55.0,L. Stevens,CLE,Stevens 3PT Jump Shot (7 PTS) (E. Mobley 1 AST),Made Shot,Jump Shot,232,16,0,1,3.0,3.0,v
+S2223-G1015,3,10:43,CHA,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P3.T1) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2223-G1015,3,09:52,CHA,,CLE,,L. Stevens,CLE,Stevens BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1015,3,05:10,CHA,79.0,CLE,70.0,L. Stevens,CLE,Stevens 2' Alley Oop Dunk (9 PTS) (Garland 4 AST),Made Shot,Alley Oop Dunk Shot,-10,13,2,1,2.0,2.0,v
+S2223-G1015,3,03:01,CHA,,CLE,,L. Stevens,CLE,SUB: Rubio FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G1015,4,08:08,CHA,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P4.T1) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G1015,4,07:01,CHA,,CLE,,L. Stevens,CLE,Stevens P.FOUL (P5.T2) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2223-G1015,4,06:10,CHA,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1015,4,05:54,CHA,,CLE,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0193,1,11:20,CLE,,MIN,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0193,1,07:52,CLE,11.0,MIN,9.0,L. Stevens,CLE,Stevens Cutting Dunk Shot (2 PTS) (LeVert 2 AST),Made Shot,Cutting Dunk Shot,2,1,0,1,2.0,2.0,h
+S2223-G0193,1,04:24,CLE,,MIN,,L. Stevens,CLE,SUB: E. Mobley FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0193,2,05:47,CLE,39.0,MIN,53.0,L. Stevens,CLE,Stevens 1' Driving Layup (4 PTS) (Osman 2 AST),Made Shot,Driving Layup Shot,-1,8,1,1,2.0,2.0,h
+S2223-G0193,2,05:02,CLE,41.0,MIN,55.0,L. Stevens,CLE,Stevens 1' Running Layup (6 PTS),Made Shot,Running Layup Shot,6,12,1,1,2.0,2.0,h
+S2223-G0193,2,04:31,CLE,,MIN,,L. Stevens,CLE,MISS Stevens 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,50,64,8,1,2.0,0.0,h
+S2223-G0193,2,02:02,CLE,43.0,MIN,62.0,L. Stevens,CLE,Stevens 11' Turnaround Jump Shot (8 PTS) (E. Mobley 1 AST),Made Shot,Turnaround Jump Shot,-45,100,11,1,2.0,2.0,h
+S2223-G0193,2,01:14,CLE,,MIN,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0193,2,01:04,CLE,,MIN,,L. Stevens,CLE,MISS Stevens 1' Reverse Layup,Missed Shot,Reverse Layup Shot,-9,-1,1,1,2.0,0.0,h
+S2223-G0193,3,09:32,CLE,,MIN,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,230,15,0,1,3.0,0.0,h
+S2223-G0193,3,09:05,CLE,60.0,MIN,78.0,L. Stevens,CLE,Stevens Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0193,3,09:05,CLE,61.0,MIN,78.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0193,3,07:14,CLE,,MIN,,L. Stevens,CLE,Stevens S.FOUL (P1.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G0193,3,04:53,CLE,,MIN,,L. Stevens,CLE,MISS Stevens 6' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,-54,25,6,1,2.0,0.0,h
+S2223-G0193,3,04:01,CLE,70.0,MIN,92.0,L. Stevens,CLE,Stevens Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0193,3,04:01,CLE,71.0,MIN,92.0,L. Stevens,CLE,Stevens Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0193,3,02:04,CLE,,MIN,,L. Stevens,CLE,SUB: Garland FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0193,4,05:47,CLE,100.0,MIN,115.0,L. Stevens,CLE,Stevens Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0193,4,05:47,CLE,,MIN,,L. Stevens,CLE,MISS Stevens Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0193,4,03:57,CLE,108.0,MIN,117.0,L. Stevens,CLE,Stevens 2' Cutting Layup Shot (15 PTS) (Garland 6 AST),Made Shot,Cutting Layup Shot,2,17,2,1,2.0,2.0,h
+S2223-G0193,4,03:36,CLE,,MIN,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0193,4,02:59,CLE,,MIN,,L. Stevens,CLE,Stevens P.FOUL (P2.PN) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2223-G0193,4,02:29,CLE,,MIN,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0193,4,02:29,CLE,,MIN,,L. Stevens,CLE,MISS Stevens Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0193,4,01:42,CLE,,MIN,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0193,4,00:59.400000,CLE,,MIN,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0886,1,00:34.100000,CLE,,DEN,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0886,2,11:19,CLE,,DEN,,L. Stevens,CLE,Stevens STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0886,2,10:55,CLE,,DEN,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0886,2,08:48,CLE,,DEN,,L. Stevens,CLE,MISS Stevens 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-229,22,0,1,3.0,0.0,h
+S2223-G0886,2,08:40,CLE,,DEN,,L. Stevens,CLE,Stevens S.FOUL (P1.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0886,2,07:37,CLE,,DEN,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0886,3,01:12,CLE,,DEN,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0886,3,00:13.700000,CLE,,DEN,,L. Stevens,CLE,SUB: Garland FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0886,4,11:38,CLE,,DEN,,L. Stevens,CLE,Stevens Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0886,4,10:48,CLE,,DEN,,L. Stevens,CLE,Stevens REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0886,4,06:32,CLE,,DEN,,L. Stevens,CLE,Stevens STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0886,4,06:27,CLE,102.0,DEN,99.0,L. Stevens,CLE,Stevens 2' Running Layup (2 PTS) (LeVert 8 AST),Made Shot,Running Layup Shot,0,19,2,1,2.0,2.0,h
+S2223-G0886,4,06:27,CLE,103.0,DEN,99.0,L. Stevens,CLE,Stevens Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0886,4,05:48,CLE,105.0,DEN,101.0,L. Stevens,CLE,Stevens 1' Driving Dunk (5 PTS) (LeVert 9 AST),Made Shot,Driving Dunk Shot,-9,10,1,1,2.0,2.0,h
+S2223-G0886,4,05:25,CLE,,DEN,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G1079,1,02:21,BKN,,CLE,,L. Stevens,CLE,Stevens P.FOUL (P1.T3) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,v
+S2223-G1079,1,02:05,BKN,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1079,1,01:22,BKN,,CLE,,L. Stevens,CLE,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,-228,-23,0,1,3.0,0.0,v
+S2223-G0957,2,04:45,CLE,41.0,DET,37.0,L. Stevens,CLE,Stevens 1' Running Dunk (2 PTS) (Mobley 3 AST),Made Shot,Running Dunk Shot,5,5,1,1,2.0,2.0,h
+S2223-G0957,2,03:24,CLE,,DET,,L. Stevens,CLE,MISS Stevens 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-40,64,8,1,2.0,0.0,h
+S2223-G0957,2,01:03,CLE,52.0,DET,43.0,L. Stevens,CLE,Stevens 2' Running Dunk (4 PTS) (Mobley 5 AST),Made Shot,Running Dunk Shot,1,16,2,1,2.0,2.0,h
+S2223-G0957,3,00:10.400000,CLE,,DET,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0957,3,00:05.800000,CLE,,DET,,L. Stevens,CLE,MISS Stevens 2' Running Dunk,Missed Shot,Running Dunk Shot,-9,22,2,1,2.0,0.0,h
+S2223-G0957,4,11:06,CLE,,DET,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0957,4,08:28,CLE,,DET,,L. Stevens,CLE,Stevens S.FOUL (P1.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0957,4,07:03,CLE,107.0,DET,72.0,L. Stevens,CLE,Stevens 14' Turnaround Fadeaway (6 PTS),Made Shot,Turnaround Fadeaway shot,136,17,14,1,2.0,2.0,h
+S2223-G0957,4,06:01,CLE,,DET,,L. Stevens,CLE,MISS Stevens 26' 3PT Jump Shot,Missed Shot,Jump Shot,-234,106,26,1,3.0,0.0,h
+S2223-G0957,4,04:38,CLE,,DET,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0957,4,04:27,CLE,,DET,,L. Stevens,CLE,MISS Stevens 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-5,47,5,1,2.0,0.0,h
+S2223-G0957,4,02:15,CLE,,DET,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0957,4,01:47,CLE,,DET,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0957,4,01:09,CLE,114.0,DET,85.0,L. Stevens,CLE,Stevens 11' Turnaround Fadeaway Bank Jump Shot (8 PTS),Made Shot,Turnaround Fadeaway Bank Jump Shot,-97,42,11,1,2.0,2.0,h
+S2223-G0672,2,11:48,MEM,,CLE,,L. Stevens,CLE,Stevens Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0672,2,10:22,MEM,,CLE,,L. Stevens,CLE,Stevens P.FOUL (P1.T1) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2223-G0672,2,09:02,MEM,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0672,2,07:55,MEM,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0672,2,05:49,MEM,,CLE,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0672,3,02:13,MEM,88.0,CLE,85.0,L. Stevens,CLE,Stevens 25' 3PT Jump Shot (3 PTS) (Garland 9 AST),Made Shot,Jump Shot,165,184,25,1,3.0,3.0,v
+S2223-G0672,3,02:01,MEM,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P2.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0672,3,00:24.200000,MEM,89.0,CLE,91.0,L. Stevens,CLE,Stevens 23' Jump Shot (5 PTS) (Neto 1 AST),Made Shot,Jump Shot,123,195,23,1,2.0,2.0,v
+S2223-G0672,4,10:50,MEM,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P3.T1) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0672,4,10:11,MEM,,CLE,,L. Stevens,CLE,Stevens S.FOUL (P4.T2) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0672,4,09:25,MEM,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0672,4,07:38,MEM,,CLE,,L. Stevens,CLE,Stevens REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0672,4,07:17,MEM,,CLE,,L. Stevens,CLE,SUB: Okoro FOR Stevens,Substitution,,0,0,0,0,,,v
+S2223-G0330,1,11:43,CLE,,ORL,,L. Stevens,CLE,MISS Stevens 26' 3PT Jump Shot,Missed Shot,Jump Shot,170,196,26,1,3.0,0.0,h
+S2223-G0330,1,10:34,CLE,5.0,ORL,2.0,L. Stevens,CLE,Stevens 25' 3PT Jump Shot (3 PTS) (Mobley 1 AST),Made Shot,Jump Shot,151,205,25,1,3.0,3.0,h
+S2223-G0330,1,07:59,CLE,,ORL,,L. Stevens,CLE,MISS Stevens 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-109,55,12,1,2.0,0.0,h
+S2223-G0330,1,07:20,CLE,,ORL,,L. Stevens,CLE,MISS Stevens 2' Running Dunk,Missed Shot,Running Dunk Shot,16,10,2,1,2.0,0.0,h
+S2223-G0330,1,07:20,CLE,,ORL,,L. Stevens,CLE,SUB: Love FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0330,2,06:25,CLE,,ORL,,L. Stevens,CLE,MISS Stevens 25' 3PT Jump Shot,Missed Shot,Jump Shot,110,227,25,1,3.0,0.0,h
+S2223-G0330,2,04:42,CLE,44.0,ORL,39.0,L. Stevens,CLE,Stevens 2' Cutting Layup Shot (5 PTS) (Love 2 AST),Made Shot,Cutting Layup Shot,4,16,2,1,2.0,2.0,h
+S2223-G0330,2,03:58,CLE,,ORL,,L. Stevens,CLE,MISS Stevens 1' Driving Layup,Missed Shot,Driving Layup Shot,2,-5,1,1,2.0,0.0,h
+S2223-G0330,2,03:35,CLE,,ORL,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0330,2,02:22,CLE,49.0,ORL,42.0,L. Stevens,CLE,Stevens 24' 3PT Jump Shot (8 PTS) (Mitchell 1 AST),Made Shot,Jump Shot,240,15,24,1,3.0,3.0,h
+S2223-G0330,2,01:48,CLE,,ORL,,L. Stevens,CLE,MISS Stevens 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-33,21,4,1,2.0,0.0,h
+S2223-G0330,2,01:39,CLE,,ORL,,L. Stevens,CLE,SUB: Osman FOR Stevens,Substitution,,0,0,0,0,,,h
+S2223-G0330,3,10:55,CLE,,ORL,,L. Stevens,CLE,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0330,3,09:23,CLE,,ORL,,L. Stevens,CLE,MISS Stevens 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,2,10,1,1,2.0,0.0,h
+S2223-G0330,3,09:20,CLE,,ORL,,L. Stevens,CLE,Jump Ball Stevens vs. Bol: Tip to M. Wagner,Jump Ball,,0,0,0,0,,,h
+S2223-G0330,3,09:20,CLE,,ORL,,L. Stevens,CLE,Stevens Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0330,3,07:01,CLE,,ORL,,L. Stevens,CLE,SUB: Love FOR Stevens,Substitution,,0,0,0,0,,,h

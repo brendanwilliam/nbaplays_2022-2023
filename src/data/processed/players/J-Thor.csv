@@ -1,0 +1,719 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0718,2,02:51,PHX,55.0,CHA,36.0,J. Thor,CHA,Thor 22' Jump Shot (2 PTS) (Plumlee 2 AST),Made Shot,Jump Shot,208,70,22,1,2.0,2.0,v
+S2223-G0718,2,02:02,PHX,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0718,2,01:20,PHX,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0718,3,02:49,PHX,,CHA,,J. Thor,CHA,Thor S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0718,3,01:42,PHX,,CHA,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0718,3,01:03,PHX,,CHA,,J. Thor,CHA,Thor L.B.FOUL (P2.PN) (D.Guthrie),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0718,3,00:49.300000,PHX,94.0,CHA,74.0,J. Thor,CHA,Thor 7' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,54,43,7,1,2.0,2.0,v
+S2223-G0718,3,00:49.300000,PHX,94.0,CHA,75.0,J. Thor,CHA,Thor Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0523,3,01:51,CHA,,OKC,,J. Thor,CHA,MISS Thor 26' 3PT Jump Shot,Missed Shot,Jump Shot,-32,256,26,1,3.0,0.0,h
+S2223-G0523,3,00:11.500000,CHA,,OKC,,J. Thor,CHA,MISS Thor 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,142,101,17,1,2.0,0.0,h
+S2223-G0523,4,10:33,CHA,,OKC,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0523,4,10:27,CHA,,OKC,,J. Thor,CHA,Thor BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0523,4,08:44,CHA,,OKC,,J. Thor,CHA,Thor Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0523,4,08:22,CHA,,OKC,,J. Thor,CHA,MISS Thor 4' Layup,Missed Shot,Layup Shot,6,42,4,1,2.0,0.0,h
+S2223-G0523,4,08:14,CHA,,OKC,,J. Thor,CHA,Thor S.FOUL (P1.T2) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G0523,4,08:14,CHA,,OKC,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1148,1,06:50,CHA,,CHI,,J. Thor,CHA,Thor Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1148,1,06:06,CHA,,CHI,,J. Thor,CHA,Thor Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1148,1,05:01,CHA,,CHI,,J. Thor,CHA,MISS Thor 24' 3PT Jump Shot,Missed Shot,Jump Shot,-230,63,24,1,3.0,0.0,h
+S2223-G1148,1,04:39,CHA,,CHI,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,2,10:08,CHA,,CHI,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,136,213,25,1,3.0,0.0,h
+S2223-G1148,2,09:14,CHA,29.0,CHI,40.0,J. Thor,CHA,Thor 3PT Jump Shot (3 PTS) (Maledon 3 AST),Made Shot,Jump Shot,-230,5,0,1,3.0,3.0,h
+S2223-G1148,2,08:41,CHA,,CHI,,J. Thor,CHA,MISS Thor 2' Driving Layup,Missed Shot,Driving Layup Shot,-7,20,2,1,2.0,0.0,h
+S2223-G1148,2,08:34,CHA,,CHI,,J. Thor,CHA,Thor REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,2,08:34,CHA,,CHI,,J. Thor,CHA,MISS Thor Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G1148,2,08:25,CHA,31.0,CHI,40.0,J. Thor,CHA,Thor 1' Driving Layup (5 PTS) (Maledon 4 AST),Made Shot,Driving Layup Shot,11,8,1,1,2.0,2.0,h
+S2223-G1148,2,06:25,CHA,,CHI,,J. Thor,CHA,SUB: Bouknight FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1148,3,10:33,CHA,,CHI,,J. Thor,CHA,Thor Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1148,3,08:38,CHA,59.0,CHI,73.0,J. Thor,CHA,Thor 3PT Jump Shot (8 PTS) (Mykhailiuk 5 AST),Made Shot,Jump Shot,227,29,0,1,3.0,3.0,h
+S2223-G1148,3,06:41,CHA,,CHI,,J. Thor,CHA,MISS Thor 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,2,75,8,1,2.0,0.0,h
+S2223-G1148,3,06:20,CHA,62.0,CHI,77.0,J. Thor,CHA,Thor Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1148,3,06:20,CHA,63.0,CHI,77.0,J. Thor,CHA,Thor Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1148,3,06:07,CHA,,CHI,,J. Thor,CHA,SUB: Jones FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1148,3,01:28,CHA,,CHI,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-229,5,0,1,3.0,0.0,h
+S2223-G1148,3,00:30,CHA,,CHI,,J. Thor,CHA,MISS Thor 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,41,24,1,3.0,0.0,h
+S2223-G1148,3,00:07.900000,CHA,,CHI,,J. Thor,CHA,Thor REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,4,10:44,CHA,,CHI,,J. Thor,CHA,Thor Lost Ball Turnover (P4.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1148,4,10:44,CHA,,CHI,,J. Thor,CHA,Thor P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2223-G1148,4,07:34,CHA,,CHI,,J. Thor,CHA,SUB: Mykhailiuk FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0671,2,04:37,HOU,,CHA,,J. Thor,CHA,MISS Thor 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,54,119,13,1,2.0,0.0,v
+S2223-G0671,2,04:11,HOU,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0671,2,04:08,HOU,49.0,CHA,47.0,J. Thor,CHA,Thor 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,12,5,1,1,2.0,2.0,v
+S2223-G0671,2,03:35,HOU,,CHA,,J. Thor,CHA,Thor L.B.FOUL (P1.T4) (C.Flores),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0671,2,03:35,HOU,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0671,3,03:35,HOU,,CHA,,J. Thor,CHA,MISS Thor 26' 3PT Jump Shot,Missed Shot,Jump Shot,-6,259,26,1,3.0,0.0,v
+S2223-G0671,3,02:35,HOU,,CHA,,J. Thor,CHA,MISS Thor 20' Jump Shot,Missed Shot,Jump Shot,201,6,20,1,2.0,0.0,v
+S2223-G0364,3,02:25,BKN,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0364,4,09:46,BKN,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0364,4,06:02,BKN,,CHA,,J. Thor,CHA,Thor S.FOUL (P1.T4) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2223-G0364,4,05:33,BKN,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0364,4,04:50,BKN,,CHA,,J. Thor,CHA,Thor OFF.Foul (P2) (M.Myers),Foul,Offensive,0,0,0,0,,,v
+S2223-G0364,4,04:50,BKN,,CHA,,J. Thor,CHA,Thor Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0364,4,03:46,BKN,,CHA,,J. Thor,CHA,SUB: McDaniels FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0919,1,05:10,CHA,,DET,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0919,1,04:32,CHA,,DET,,J. Thor,CHA,SUB: Jones FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0919,2,11:44,CHA,,DET,,J. Thor,CHA,MISS Thor 21' Jump Shot,Missed Shot,Jump Shot,207,6,21,1,2.0,0.0,h
+S2223-G0919,2,07:45,CHA,,DET,,J. Thor,CHA,SUB: Hayward FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0919,2,04:39,CHA,52.0,DET,34.0,J. Thor,CHA,Thor 8' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,27,78,8,1,2.0,2.0,h
+S2223-G0919,2,03:00,CHA,,DET,,J. Thor,CHA,SUB: Oubre Jr. FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0919,3,08:26,CHA,76.0,DET,56.0,J. Thor,CHA,Thor 2' Driving Layup (4 PTS) (Hayward 5 AST),Made Shot,Driving Layup Shot,-16,13,2,1,2.0,2.0,h
+S2223-G0919,3,07:46,CHA,,DET,,J. Thor,CHA,Thor P.FOUL (P1.T2) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2223-G0919,3,06:47,CHA,82.0,DET,58.0,J. Thor,CHA,Thor 3PT Jump Shot (7 PTS) (Smith Jr. 3 AST),Made Shot,Jump Shot,-234,17,0,1,3.0,3.0,h
+S2223-G0919,3,06:06,CHA,,DET,,J. Thor,CHA,SUB: Jones FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0919,4,04:36,CHA,,DET,,J. Thor,CHA,SUB: Oubre Jr. FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0082,2,09:04,CHA,,GSW,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0082,2,07:22,CHA,,GSW,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0082,2,05:05,CHA,46.0,GSW,40.0,J. Thor,CHA,Thor Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0082,2,05:05,CHA,47.0,GSW,40.0,J. Thor,CHA,Thor Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0082,2,05:05,CHA,48.0,GSW,40.0,J. Thor,CHA,Thor Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0082,2,04:33,CHA,,GSW,,J. Thor,CHA,Thor REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0082,2,04:00,CHA,,GSW,,J. Thor,CHA,SUB: Bouknight FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0082,4,06:06,CHA,,GSW,,J. Thor,CHA,SUB: Hayward FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0539,1,01:03,CHA,,BKN,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-233,26,0,1,3.0,0.0,h
+S2223-G0539,1,00:30.900000,CHA,,BKN,,J. Thor,CHA,Thor Violation:Defensive Goaltending (S.Mehta),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0539,2,02:54,CHA,,BKN,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0539,3,00:15,CHA,,BKN,,J. Thor,CHA,MISS Thor 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,10,24,1,3.0,0.0,h
+S2223-G0539,4,02:54,CHA,101.0,BKN,118.0,J. Thor,CHA,Thor 3PT Jump Shot (3 PTS) (Maledon 3 AST),Made Shot,Jump Shot,233,25,0,1,3.0,3.0,h
+S2223-G0539,4,01:54,CHA,,BKN,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0539,4,00:00,CHA,,BKN,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-227,6,0,1,3.0,0.0,h
+S2223-G1113,1,05:03,CHA,,DAL,,J. Thor,CHA,Thor S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G1113,1,04:19,CHA,,DAL,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1113,1,03:51,CHA,,DAL,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1113,1,03:13,CHA,,DAL,,J. Thor,CHA,Thor REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1113,1,01:59,CHA,,DAL,,J. Thor,CHA,Thor Violation:Kicked Ball (N.Buchert),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G1113,1,01:37,CHA,30.0,DAL,12.0,J. Thor,CHA,Thor 3PT Jump Shot (3 PTS) (McGowens 2 AST),Made Shot,Jump Shot,-225,7,0,1,3.0,3.0,h
+S2223-G1113,2,02:59,CHA,,DAL,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1113,3,03:46,CHA,,DAL,,J. Thor,CHA,Thor S.FOUL (P2.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G1113,3,03:23,CHA,71.0,DAL,66.0,J. Thor,CHA,Thor 24' 3PT Jump Shot (6 PTS) (Williams 1 AST),Made Shot,Jump Shot,237,6,24,1,3.0,3.0,h
+S2223-G1113,3,02:54,CHA,74.0,DAL,68.0,J. Thor,CHA,Thor 3PT Jump Shot (9 PTS) (Maledon 4 AST),Made Shot,Jump Shot,-224,21,0,1,3.0,3.0,h
+S2223-G1113,3,01:09,CHA,,DAL,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1113,4,06:48,CHA,,DAL,,J. Thor,CHA,MISS Thor 1' Driving Layup,Missed Shot,Driving Layup Shot,4,9,1,1,2.0,0.0,h
+S2223-G1113,4,06:24,CHA,,DAL,,J. Thor,CHA,SUB: Williams FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0450,2,00:52,DEN,,CHA,,J. Thor,CHA,Thor Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0450,3,03:08,DEN,,CHA,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-234,19,0,1,3.0,0.0,v
+S2223-G0450,3,01:11,DEN,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0450,4,08:45,DEN,,CHA,,J. Thor,CHA,Thor S.FOUL (P1.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G0450,4,07:57,DEN,,CHA,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,230,34,0,1,3.0,0.0,v
+S2223-G0450,4,07:38,DEN,,CHA,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0450,4,07:37,DEN,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G1095,1,05:50,NOP,,CHA,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1095,1,04:07,NOP,,CHA,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1095,1,02:26,NOP,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G1095,2,04:25,NOP,52.0,CHA,46.0,J. Thor,CHA,Thor 26' 3PT Jump Shot (3 PTS) (Hayward 5 AST),Made Shot,Jump Shot,-154,206,26,1,3.0,3.0,v
+S2223-G1095,2,03:29,NOP,,CHA,,J. Thor,CHA,Thor S.FOUL (P1.T1) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G1095,2,02:24,NOP,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,3,03:38,NOP,,CHA,,J. Thor,CHA,Thor Offensive Charge Foul (P2) (B.Kennedy),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G1095,3,03:38,NOP,,CHA,,J. Thor,CHA,Thor Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1095,3,02:59,NOP,83.0,CHA,79.0,J. Thor,CHA,Thor Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1095,3,02:59,NOP,,CHA,,J. Thor,CHA,MISS Thor Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1095,3,02:17,NOP,,CHA,,J. Thor,CHA,MISS Thor 26' 3PT Jump Shot,Missed Shot,Jump Shot,173,190,26,1,3.0,0.0,v
+S2223-G1095,3,01:03,NOP,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,3,00:36.500000,NOP,,CHA,,J. Thor,CHA,Thor S.FOUL (P3.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G1095,4,10:03,NOP,,CHA,,J. Thor,CHA,Thor Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1095,4,05:50,NOP,,CHA,,J. Thor,CHA,Thor Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1095,4,02:45,NOP,,CHA,,J. Thor,CHA,Thor Bad Pass Turnover (P4.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1095,4,02:28,NOP,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,4,01:43,NOP,,CHA,,J. Thor,CHA,Thor BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1095,4,01:31,NOP,112.0,CHA,90.0,J. Thor,CHA,Thor 1' Driving Dunk (6 PTS),Made Shot,Driving Dunk Shot,-5,5,1,1,2.0,2.0,v
+S2223-G1095,4,01:06,NOP,112.0,CHA,93.0,J. Thor,CHA,Thor 3PT Jump Shot (9 PTS) (Mykhailiuk 1 AST),Made Shot,Jump Shot,230,-9,0,1,3.0,3.0,v
+S2223-G1095,4,00:02.600000,NOP,,CHA,,J. Thor,CHA,MISS Thor 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,116,8,12,1,2.0,0.0,v
+S2223-G0781,1,02:52,CHI,,CHA,,J. Thor,CHA,Thor Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0781,1,02:47,CHI,,CHA,,J. Thor,CHA,Thor S.FOUL (P1.T4) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0781,1,02:14,CHI,,CHA,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0781,1,00:01.900000,CHI,31.0,CHA,29.0,J. Thor,CHA,Thor 3PT Jump Shot (3 PTS) (Ball 5 AST),Made Shot,Jump Shot,-230,13,0,1,3.0,3.0,v
+S2223-G0781,2,03:02,CHI,,CHA,,J. Thor,CHA,MISS Thor 26' 3PT Jump Shot,Missed Shot,Jump Shot,110,238,26,1,3.0,0.0,v
+S2223-G0781,2,03:00,CHI,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0781,2,02:16,CHI,,CHA,,J. Thor,CHA,MISS Thor 26' 3PT Jump Shot,Missed Shot,Jump Shot,173,189,26,1,3.0,0.0,v
+S2223-G0781,2,01:55,CHI,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0781,3,03:28,CHI,,CHA,,J. Thor,CHA,Thor S.FOUL (P2.T3) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0781,3,01:25,CHI,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0781,3,00:10,CHI,,CHA,,J. Thor,CHA,Thor REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0781,3,00:10,CHI,85.0,CHA,70.0,J. Thor,CHA,Thor Putback Dunk (5 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0847,1,01:00,CHA,,DEN,,J. Thor,CHA,SUB: Ball FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0847,2,07:33,CHA,,DEN,,J. Thor,CHA,MISS Thor Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0847,2,07:33,CHA,,DEN,,J. Thor,CHA,MISS Thor Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0847,2,07:12,CHA,,DEN,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0847,2,04:12,CHA,,DEN,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0847,3,00:34.600000,CHA,,DEN,,J. Thor,CHA,SUB: Richards FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0847,4,01:19,CHA,,DEN,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0847,4,01:09,CHA,,DEN,,J. Thor,CHA,MISS Thor 5' Jump Shot,Missed Shot,Jump Shot,5,52,5,1,2.0,0.0,h
+S2223-G0847,4,00:44.300000,CHA,,DEN,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,2,10:51,CHA,,WAS,,J. Thor,CHA,Thor Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0144,2,10:41,CHA,,WAS,,J. Thor,CHA,Thor S.FOUL (P1.T2) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0144,2,07:55,CHA,,WAS,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,-124,216,25,1,3.0,0.0,h
+S2223-G0144,2,04:37,CHA,31.0,WAS,34.0,J. Thor,CHA,Thor 3' Driving Layup (2 PTS) (Maledon 1 AST),Made Shot,Driving Layup Shot,1,29,3,1,2.0,2.0,h
+S2223-G0144,2,04:37,CHA,32.0,WAS,34.0,J. Thor,CHA,Thor Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0144,2,04:03,CHA,,WAS,,J. Thor,CHA,SUB: McDaniels FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0144,4,07:33,CHA,,WAS,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,4,06:55,CHA,,WAS,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,4,06:41,CHA,,WAS,,J. Thor,CHA,SUB: Oubre Jr. FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0979,1,04:55,NYK,,CHA,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-229,6,0,1,3.0,0.0,v
+S2223-G0979,1,03:37,NYK,18.0,CHA,16.0,J. Thor,CHA,Thor 7' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,2,74,7,1,2.0,2.0,v
+S2223-G0979,1,02:32,NYK,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0979,1,01:58,NYK,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0979,2,00:52.900000,NYK,61.0,CHA,50.0,J. Thor,CHA,Thor 3PT Jump Shot (5 PTS) (Hayward 2 AST),Made Shot,Jump Shot,-229,-21,0,1,3.0,3.0,v
+S2223-G0979,3,00:56.800000,NYK,,CHA,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,115,223,25,1,3.0,0.0,v
+S2223-G0133,2,06:31,CHA,,BKN,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,2,04:57,CHA,,BKN,,J. Thor,CHA,MISS Thor 2' Layup,Missed Shot,Layup Shot,4,17,2,1,2.0,0.0,h
+S2223-G0133,2,04:12,CHA,,BKN,,J. Thor,CHA,SUB: McDaniels FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0133,3,04:48,CHA,,BKN,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-228,9,0,1,3.0,0.0,h
+S2223-G0133,3,01:52,CHA,70.0,BKN,65.0,J. Thor,CHA,Thor 25' 3PT Jump Shot (3 PTS) (Rozier 2 AST),Made Shot,Jump Shot,249,-7,25,1,3.0,3.0,h
+S2223-G0133,3,01:05,CHA,,BKN,,J. Thor,CHA,Thor REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,3,01:04,CHA,,BKN,,J. Thor,CHA,MISS Thor 29' 3PT Jump Shot,Missed Shot,Jump Shot,-195,208,29,1,3.0,0.0,h
+S2223-G0133,4,11:43,CHA,,BKN,,J. Thor,CHA,Thor REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,4,09:53,CHA,,BKN,,J. Thor,CHA,Thor REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,4,06:30,CHA,,BKN,,J. Thor,CHA,SUB: Plumlee FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0125,1,05:54,MEM,,CHA,,J. Thor,CHA,Thor Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0125,1,03:14,MEM,,CHA,,J. Thor,CHA,Hornets T.Foul (Def. 3 Sec Thor ) (J.Williams),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0125,1,00:20.700000,MEM,,CHA,,J. Thor,CHA,MISS Thor 4' Driving Layup,Missed Shot,Driving Layup Shot,29,23,4,1,2.0,0.0,v
+S2223-G0125,2,08:11,MEM,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,2,06:13,MEM,,CHA,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0125,2,05:44,MEM,,CHA,,J. Thor,CHA,MISS Thor 26' 3PT Jump Shot,Missed Shot,Jump Shot,-169,191,26,1,3.0,0.0,v
+S2223-G0125,2,04:50,MEM,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0125,3,04:53,MEM,89.0,CHA,61.0,J. Thor,CHA,Thor 3PT Jump Shot (3 PTS) (Smith Jr. 4 AST),Made Shot,Jump Shot,233,9,0,1,3.0,3.0,v
+S2223-G0125,3,04:28,MEM,,CHA,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,-156,194,25,1,3.0,0.0,v
+S2223-G0125,3,03:43,MEM,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,3,02:55,MEM,,CHA,,J. Thor,CHA,Thor Traveling Turnover (P2.T15),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0125,3,02:25,MEM,,CHA,,J. Thor,CHA,MISS Thor 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-20,34,4,1,2.0,0.0,v
+S2223-G0125,4,07:56,MEM,118.0,CHA,78.0,J. Thor,CHA,Thor 4' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,-31,21,4,1,2.0,2.0,v
+S2223-G0125,4,07:45,MEM,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,4,07:00,MEM,,CHA,,J. Thor,CHA,MISS Thor 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-92,72,12,1,2.0,0.0,v
+S2223-G0125,4,06:54,MEM,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,4,06:44,MEM,119.0,CHA,80.0,J. Thor,CHA,Thor 9' Driving Floating Bank Jump Shot (7 PTS) (Bouknight 3 AST),Made Shot,Driving Floating Bank Jump Shot,-77,45,9,1,2.0,2.0,v
+S2223-G0125,4,06:05,MEM,,CHA,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,195,163,25,1,3.0,0.0,v
+S2223-G0125,4,04:00,MEM,128.0,CHA,88.0,J. Thor,CHA,Thor Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0125,4,04:00,MEM,,CHA,,J. Thor,CHA,MISS Thor Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0125,4,03:34,MEM,,CHA,,J. Thor,CHA,MISS Thor 4' Layup,Missed Shot,Layup Shot,40,16,4,1,2.0,0.0,v
+S2223-G0125,4,03:28,MEM,,CHA,,J. Thor,CHA,Thor REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,4,03:28,MEM,,CHA,,J. Thor,CHA,MISS Thor Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0125,4,02:32,MEM,130.0,CHA,93.0,J. Thor,CHA,Thor 3PT Running Jump Shot (11 PTS) (Bouknight 4 AST),Made Shot,Running Jump Shot,229,5,0,1,3.0,3.0,v
+S2223-G0125,4,02:15,MEM,,CHA,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0211,2,06:33,CHA,,IND,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0211,2,04:47,CHA,,IND,,J. Thor,CHA,Thor S.FOUL (P1.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0211,2,04:47,CHA,,IND,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0513,1,02:59,GSW,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0513,1,01:31,GSW,,CHA,,J. Thor,CHA,MISS Thor 24' 3PT Jump Shot,Missed Shot,Jump Shot,241,19,24,1,3.0,0.0,v
+S2223-G0513,2,11:03,GSW,,CHA,,J. Thor,CHA,MISS Thor Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0513,2,11:03,GSW,37.0,CHA,29.0,J. Thor,CHA,Thor Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0513,2,10:32,GSW,39.0,CHA,31.0,J. Thor,CHA,Thor 6' Layup (3 PTS),Made Shot,Layup Shot,55,15,6,1,2.0,2.0,v
+S2223-G0513,2,08:35,GSW,,CHA,,J. Thor,CHA,Thor S.FOUL (P1.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0513,2,08:35,GSW,,CHA,,J. Thor,CHA,SUB: McDaniels FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0513,4,08:57,GSW,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0513,4,08:57,GSW,94.0,CHA,90.0,J. Thor,CHA,Thor Putback Layup (5 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0513,4,08:22,GSW,96.0,CHA,92.0,J. Thor,CHA,Thor 9' Layup (7 PTS) (Hayward 3 AST),Made Shot,Layup Shot,29,84,9,1,2.0,2.0,v
+S2223-G0513,4,08:00,GSW,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0694,1,03:59,ATL,,CHA,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,228,21,0,1,3.0,0.0,v
+S2223-G0694,1,03:43,ATL,,CHA,,J. Thor,CHA,Thor Violation:Defensive Goaltending (T.Ford),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0694,1,03:30,ATL,,CHA,,J. Thor,CHA,Thor Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0694,1,01:38,ATL,,CHA,,J. Thor,CHA,Thor OFF.Foul (P1) (C.Washington),Foul,Offensive,0,0,0,0,,,v
+S2223-G0694,1,01:38,ATL,,CHA,,J. Thor,CHA,Thor Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0694,2,09:06,ATL,,CHA,,J. Thor,CHA,SUB: Hayward FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0694,2,04:46,ATL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0694,2,03:17,ATL,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0694,3,03:12,ATL,,CHA,,J. Thor,CHA,MISS Thor Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0694,3,03:12,ATL,85.0,CHA,82.0,J. Thor,CHA,Thor Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0694,3,02:58,ATL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0694,3,00:13.700000,ATL,,CHA,,J. Thor,CHA,Thor Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0460,1,00:03.400000,SAC,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,2,09:00,SAC,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,2,09:00,SAC,36.0,CHA,44.0,J. Thor,CHA,Thor Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0460,2,07:34,SAC,,CHA,,J. Thor,CHA,SUB: McDaniels FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0460,3,04:18,SAC,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,3,02:29,SAC,,CHA,,J. Thor,CHA,SUB: Hayward FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0933,1,10:55,CHA,,PHX,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0933,1,09:12,CHA,,PHX,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-234,-6,0,1,3.0,0.0,h
+S2223-G0933,1,08:40,CHA,,PHX,,J. Thor,CHA,Thor REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0933,1,08:40,CHA,,PHX,,J. Thor,CHA,MISS Thor Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,0,0,1,2.0,0.0,h
+S2223-G0933,1,03:39,CHA,,PHX,,J. Thor,CHA,Thor REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0933,1,03:28,CHA,,PHX,,J. Thor,CHA,SUB: Jones FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0933,2,05:28,CHA,,PHX,,J. Thor,CHA,Thor REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0933,2,05:28,CHA,30.0,PHX,44.0,J. Thor,CHA,Thor Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0933,2,05:07,CHA,,PHX,,J. Thor,CHA,Thor P.FOUL (P1.T2) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2223-G0933,2,04:41,CHA,,PHX,,J. Thor,CHA,MISS Thor 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,9,100,10,1,2.0,0.0,h
+S2223-G0933,2,02:40,CHA,,PHX,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,232,27,0,1,3.0,0.0,h
+S2223-G0933,2,02:27,CHA,,PHX,,J. Thor,CHA,Thor Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0933,2,02:27,CHA,,PHX,,J. Thor,CHA,SUB: Oubre Jr. FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0933,3,08:59,CHA,,PHX,,J. Thor,CHA,MISS Thor 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-45,37,6,1,2.0,0.0,h
+S2223-G0933,3,05:52,CHA,,PHX,,J. Thor,CHA,Thor REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0933,3,04:03,CHA,,PHX,,J. Thor,CHA,MISS Thor 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-17,12,2,1,2.0,0.0,h
+S2223-G0933,3,03:56,CHA,,PHX,,J. Thor,CHA,SUB: Jones FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0933,4,08:11,CHA,,PHX,,J. Thor,CHA,Thor REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0933,4,08:05,CHA,,PHX,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0933,4,07:21,CHA,,PHX,,J. Thor,CHA,MISS Thor 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-23,120,12,1,2.0,0.0,h
+S2223-G0933,4,06:43,CHA,,PHX,,J. Thor,CHA,Thor REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0933,4,06:23,CHA,,PHX,,J. Thor,CHA,Thor REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0933,4,04:05,CHA,,PHX,,J. Thor,CHA,SUB: Oubre Jr. FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0476,2,06:10,LAC,,CHA,,J. Thor,CHA,SUB: Maledon FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0476,4,08:55,LAC,,CHA,,J. Thor,CHA,Thor P.FOUL (P1.T3) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0476,4,06:33,LAC,,CHA,,J. Thor,CHA,SUB: Hayward FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0476,4,03:06,LAC,,CHA,,J. Thor,CHA,MISS Thor Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0476,4,03:06,LAC,118.0,CHA,95.0,J. Thor,CHA,Thor Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0476,4,02:05,LAC,,CHA,,J. Thor,CHA,Thor S.FOUL (P2.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G0564,1,05:32,CHA,22.0,MEM,21.0,J. Thor,CHA,Thor 26' 3PT Jump Shot (3 PTS) (Rozier 1 AST),Made Shot,Jump Shot,146,214,26,1,3.0,3.0,h
+S2223-G0564,1,00:22.300000,CHA,,MEM,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0564,2,00:29.400000,CHA,,MEM,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0564,2,00:08.600000,CHA,,MEM,,J. Thor,CHA,Thor S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0071,2,07:52,ORL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0071,2,04:33,ORL,,CHA,,J. Thor,CHA,Thor Traveling Turnover (P1.T10),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0071,2,03:28,ORL,,CHA,,J. Thor,CHA,SUB: Bouknight FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0071,2,02:10,ORL,,CHA,,J. Thor,CHA,MISS Thor 26' 3PT Jump Shot,Missed Shot,Jump Shot,-162,197,26,1,3.0,0.0,v
+S2223-G0071,2,00:37.800000,ORL,,CHA,,J. Thor,CHA,Thor S.FOUL (P1.PN) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0071,2,00:29.300000,ORL,,CHA,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,-161,197,25,1,3.0,0.0,v
+S2223-G0071,4,08:13,ORL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0071,4,07:38,ORL,,CHA,,J. Thor,CHA,MISS Thor 27' 3PT Jump Shot,Missed Shot,Jump Shot,170,207,27,1,3.0,0.0,v
+S2223-G0071,4,05:31,ORL,,CHA,,J. Thor,CHA,SUB: Jones FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G1027,1,05:36,CHA,,CLE,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-228,39,0,1,3.0,0.0,h
+S2223-G1027,1,05:29,CHA,,CLE,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1027,1,04:40,CHA,,CLE,,J. Thor,CHA,Thor S.FOUL (P1.T1) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G1027,1,03:53,CHA,,CLE,,J. Thor,CHA,Thor S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G1027,1,03:19,CHA,,CLE,,J. Thor,CHA,MISS Thor 4' Driving Layup,Missed Shot,Driving Layup Shot,16,37,4,1,2.0,0.0,h
+S2223-G1027,1,03:18,CHA,,CLE,,J. Thor,CHA,Thor REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,1,03:17,CHA,18.0,CLE,20.0,J. Thor,CHA,Thor 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,12,16,2,1,2.0,2.0,h
+S2223-G1027,1,02:36,CHA,,CLE,,J. Thor,CHA,Thor REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,1,01:04,CHA,,CLE,,J. Thor,CHA,Thor REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,3,05:03,CHA,,CLE,,J. Thor,CHA,Thor REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,3,04:20,CHA,,CLE,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-229,-4,0,1,3.0,0.0,h
+S2223-G1027,3,04:17,CHA,66.0,CLE,84.0,J. Thor,CHA,Thor 1' Cutting Dunk Shot (4 PTS) (Richards 1 AST),Made Shot,Cutting Dunk Shot,-6,0,1,1,2.0,2.0,h
+S2223-G1027,3,01:52,CHA,,CLE,,J. Thor,CHA,SUB: Mykhailiuk FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1027,4,02:38,CHA,,CLE,,J. Thor,CHA,Thor REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,4,02:32,CHA,98.0,CLE,116.0,J. Thor,CHA,Thor 26' 3PT Jump Shot (7 PTS) (Smith Jr. 7 AST),Made Shot,Jump Shot,148,211,26,1,3.0,3.0,h
+S2223-G1027,4,01:59,CHA,,CLE,,J. Thor,CHA,Thor REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,4,01:53,CHA,99.0,CLE,116.0,J. Thor,CHA,Thor Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1027,4,01:53,CHA,100.0,CLE,116.0,J. Thor,CHA,Thor Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1027,4,00:32.500000,CHA,104.0,CLE,120.0,J. Thor,CHA,Thor 1' Cutting Dunk Shot (11 PTS) (Smith Jr. 8 AST),Made Shot,Cutting Dunk Shot,-13,4,1,1,2.0,2.0,h
+S2223-G0732,1,02:29,CHA,,CHI,,J. Thor,CHA,Thor Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0732,1,01:42,CHA,,CHI,,J. Thor,CHA,MISS Thor 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,-25,24,1,3.0,0.0,h
+S2223-G0732,2,11:44,CHA,,CHI,,J. Thor,CHA,MISS Thor 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,10,1,1,2.0,0.0,h
+S2223-G0732,2,10:33,CHA,36.0,CHI,36.0,J. Thor,CHA,Thor 1' Running Dunk (2 PTS) (McDaniels 1 AST),Made Shot,Running Dunk Shot,4,14,1,1,2.0,2.0,h
+S2223-G0732,2,10:18,CHA,,CHI,,J. Thor,CHA,Thor S.FOUL (P1.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0732,2,08:26,CHA,,CHI,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0732,3,03:34,CHA,,CHI,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0732,3,03:11,CHA,,CHI,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0732,3,00:58.900000,CHA,,CHI,,J. Thor,CHA,MISS Thor 3' Running Layup,Missed Shot,Running Layup Shot,-16,28,3,1,2.0,0.0,h
+S2223-G0732,3,00:53.900000,CHA,,CHI,,J. Thor,CHA,Thor S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0732,4,05:25,CHA,,CHI,,J. Thor,CHA,Thor REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0732,4,05:13,CHA,,CHI,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,186,174,25,1,3.0,0.0,h
+S2223-G0732,4,04:47,CHA,,CHI,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0732,4,04:27,CHA,,CHI,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0159,2,07:51,CHA,,POR,,J. Thor,CHA,MISS Thor 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-233,10,0,1,3.0,0.0,h
+S2223-G0159,2,05:19,CHA,,POR,,J. Thor,CHA,Thor REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0159,2,05:19,CHA,48.0,POR,42.0,J. Thor,CHA,Thor Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0159,2,05:19,CHA,49.0,POR,42.0,J. Thor,CHA,Thor Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0159,2,03:43,CHA,,POR,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0159,4,08:48,CHA,,POR,,J. Thor,CHA,Thor Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0159,4,06:23,CHA,,POR,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1071,1,05:56,CHA,,IND,,J. Thor,CHA,Thor S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G1071,1,03:53,CHA,,IND,,J. Thor,CHA,Thor P.FOUL (P2.PN) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G1071,1,01:04,CHA,,IND,,J. Thor,CHA,SUB: McGowens FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1071,2,01:58,CHA,,IND,,J. Thor,CHA,MISS Thor 26' 3PT Jump Shot,Missed Shot,Jump Shot,-156,206,26,1,3.0,0.0,h
+S2223-G1071,2,00:22.300000,CHA,58.0,IND,66.0,J. Thor,CHA,Thor 2' Driving Layup (2 PTS) (Smith Jr. 5 AST),Made Shot,Driving Layup Shot,-11,12,2,1,2.0,2.0,h
+S2223-G1071,2,00:04.900000,CHA,,IND,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1071,3,04:41,CHA,80.0,IND,79.0,J. Thor,CHA,Thor 24' 3PT Jump Shot (5 PTS) (Hayward 4 AST),Made Shot,Jump Shot,234,29,24,1,3.0,3.0,h
+S2223-G1071,3,03:10,CHA,,IND,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,3,01:44,CHA,,IND,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1134,1,06:11,OKC,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,1,05:03,OKC,14.0,CHA,16.0,J. Thor,CHA,Thor 24' 3PT Running Jump Shot (3 PTS) (Maledon 1 AST),Made Shot,Running Jump Shot,-237,48,24,1,3.0,3.0,v
+S2223-G1134,1,04:11,OKC,,CHA,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1134,1,04:04,OKC,,CHA,,J. Thor,CHA,MISS Thor 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,60,260,27,1,3.0,0.0,v
+S2223-G1134,1,02:32,OKC,,CHA,,J. Thor,CHA,MISS Thor 3PT Running Jump Shot,Missed Shot,Running Jump Shot,227,-15,0,1,3.0,0.0,v
+S2223-G1134,1,00:06.600000,OKC,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,2,09:40,OKC,,CHA,,J. Thor,CHA,Thor Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1134,2,07:30,OKC,,CHA,,J. Thor,CHA,Thor Violation:Defensive Goaltending (M.Lindsay),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G1134,2,04:05,OKC,,CHA,,J. Thor,CHA,SUB: Jones FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G1134,2,02:28,OKC,59.0,CHA,50.0,J. Thor,CHA,Thor 3' Cutting Dunk Shot (5 PTS) (Mykhailiuk 3 AST),Made Shot,Cutting Dunk Shot,25,15,3,1,2.0,2.0,v
+S2223-G1134,2,01:12,OKC,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,2,01:12,OKC,,CHA,,J. Thor,CHA,MISS Thor Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1134,3,06:32,OKC,,CHA,,J. Thor,CHA,Thor S.FOUL (P1.T2) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1134,3,05:58,OKC,,CHA,,J. Thor,CHA,Thor Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1134,3,04:28,OKC,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,3,03:52,OKC,90.0,CHA,84.0,J. Thor,CHA,Thor 4' Layup (7 PTS) (Mykhailiuk 4 AST),Made Shot,Layup Shot,27,31,4,1,2.0,2.0,v
+S2223-G1134,3,03:20,OKC,93.0,CHA,86.0,J. Thor,CHA,Thor 4' Driving Layup (9 PTS) (Mykhailiuk 5 AST),Made Shot,Driving Layup Shot,28,25,4,1,2.0,2.0,v
+S2223-G1134,3,02:53,OKC,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,4,11:46,OKC,,CHA,,J. Thor,CHA,Thor Traveling Turnover (P3.T16),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1134,4,09:04,OKC,,CHA,,J. Thor,CHA,Thor REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,4,09:04,OKC,103.0,CHA,106.0,J. Thor,CHA,Thor 4' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,-7,37,4,1,2.0,2.0,v
+S2223-G1134,4,07:53,OKC,,CHA,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,232,26,0,1,3.0,0.0,v
+S2223-G1134,4,07:00,OKC,107.0,CHA,117.0,J. Thor,CHA,Thor 5' Floating Jump Shot (13 PTS) (Mykhailiuk 7 AST),Made Shot,Floating Jump shot,-13,48,5,1,2.0,2.0,v
+S2223-G1134,4,05:01,OKC,,CHA,,J. Thor,CHA,Thor S.FOUL (P2.T2) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2223-G1134,4,02:51,OKC,,CHA,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,123,221,25,1,3.0,0.0,v
+S2223-G1134,4,00:13.900000,OKC,133.0,CHA,135.0,J. Thor,CHA,Thor Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1134,4,00:13.900000,OKC,,CHA,,J. Thor,CHA,MISS Thor Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1163,1,05:27,CHA,,TOR,,J. Thor,CHA,MISS Thor 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-26,7,3,1,2.0,0.0,h
+S2223-G1163,1,04:27,CHA,,TOR,,J. Thor,CHA,SUB: Jones FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1163,1,02:44,CHA,,TOR,,J. Thor,CHA,Thor Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1163,1,01:26,CHA,,TOR,,J. Thor,CHA,MISS Thor 26' 3PT Jump Shot,Missed Shot,Jump Shot,-23,263,26,1,3.0,0.0,h
+S2223-G1163,1,01:04,CHA,25.0,TOR,28.0,J. Thor,CHA,Thor 17' Jump Shot (2 PTS) (Sneed 2 AST),Made Shot,Jump Shot,169,20,17,1,2.0,2.0,h
+S2223-G1163,2,08:35,CHA,,TOR,,J. Thor,CHA,Thor P.FOUL (P1.T1) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2223-G1163,2,08:05,CHA,,TOR,,J. Thor,CHA,SUB: Sneed FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1163,2,00:43.100000,CHA,,TOR,,J. Thor,CHA,MISS Thor 3' Driving Layup,Missed Shot,Driving Layup Shot,-17,27,3,1,2.0,0.0,h
+S2223-G1163,3,07:47,CHA,,TOR,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,3,06:16,CHA,,TOR,,J. Thor,CHA,SUB: Jones FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1163,3,02:59,CHA,,TOR,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,3,02:26,CHA,,TOR,,J. Thor,CHA,Thor Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1163,4,11:43,CHA,91.0,TOR,101.0,J. Thor,CHA,Thor 14' Pullup Jump Shot (4 PTS) (Mykhailiuk 4 AST),Made Shot,Pullup Jump shot,-137,17,14,1,2.0,2.0,h
+S2223-G1163,4,10:57,CHA,,TOR,,J. Thor,CHA,Thor S.FOUL (P2.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G1163,4,10:18,CHA,,TOR,,J. Thor,CHA,MISS Thor Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1163,4,10:18,CHA,92.0,TOR,106.0,J. Thor,CHA,Thor Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1163,4,06:50,CHA,102.0,TOR,112.0,J. Thor,CHA,Thor 3PT Jump Shot (8 PTS) (McGowens 2 AST),Made Shot,Jump Shot,-232,-15,0,1,3.0,3.0,h
+S2223-G1163,4,06:39,CHA,,TOR,,J. Thor,CHA,SUB: Bouknight FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1163,4,01:42,CHA,,TOR,,J. Thor,CHA,MISS Thor 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,42,116,12,1,2.0,0.0,h
+S2223-G1163,4,01:38,CHA,,TOR,,J. Thor,CHA,SUB: Sneed FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0174,2,08:32,MIA,,CHA,,J. Thor,CHA,Thor Violation:Defensive Goaltending (M.Ervin),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0174,2,07:28,MIA,,CHA,,J. Thor,CHA,MISS Thor 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-16,121,12,1,2.0,0.0,v
+S2223-G0174,2,07:00,MIA,,CHA,,J. Thor,CHA,Thor Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0174,2,06:38,MIA,,CHA,,J. Thor,CHA,SUB: Smith Jr. FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0898,1,05:38,MIN,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0898,1,01:54,MIN,,CHA,,J. Thor,CHA,SUB: Ball FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0898,3,01:28,MIN,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0898,3,01:10,MIN,,CHA,,J. Thor,CHA,SUB: Oubre Jr. FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0965,1,05:15,BKN,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0965,1,04:32,BKN,,CHA,,J. Thor,CHA,Thor Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0965,1,04:07,BKN,,CHA,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-225,8,0,1,3.0,0.0,v
+S2223-G0965,1,01:52,BKN,,CHA,,J. Thor,CHA,SUB: Oubre Jr. FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0965,3,05:27,BKN,,CHA,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,159,190,25,1,3.0,0.0,v
+S2223-G0965,3,05:04,BKN,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0857,1,03:45,CHA,,ATL,,J. Thor,CHA,Thor REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0857,1,03:12,CHA,,ATL,,J. Thor,CHA,Thor P.FOUL (P1.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2223-G0857,1,03:05,CHA,,ATL,,J. Thor,CHA,Thor Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0857,1,01:46,CHA,,ATL,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0857,3,01:54,CHA,,ATL,,J. Thor,CHA,SUB: Ball FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0904,1,11:25,CHA,,MIA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0904,1,11:25,CHA,,MIA,,J. Thor,CHA,MISS Thor Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0904,1,08:26,CHA,,MIA,,J. Thor,CHA,MISS Thor 1' Layup,Missed Shot,Layup Shot,-6,8,1,1,2.0,0.0,h
+S2223-G0904,1,07:36,CHA,,MIA,,J. Thor,CHA,MISS Thor 27' 3PT Jump Shot,Missed Shot,Jump Shot,-82,259,27,1,3.0,0.0,h
+S2223-G0904,1,05:16,CHA,,MIA,,J. Thor,CHA,SUB: Richards FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0904,2,10:27,CHA,,MIA,,J. Thor,CHA,Thor P.FOUL (P1.T1) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2223-G0904,2,08:12,CHA,,MIA,,J. Thor,CHA,SUB: Hayward FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0904,2,02:58,CHA,,MIA,,J. Thor,CHA,SUB: Oubre Jr. FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0904,2,00:52.700000,CHA,,MIA,,J. Thor,CHA,MISS Thor 9' Jump Bank Shot,Missed Shot,Jump Bank Shot,89,31,9,1,2.0,0.0,h
+S2223-G0904,3,11:30,CHA,,MIA,,J. Thor,CHA,Thor S.FOUL (P2.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G0904,3,05:43,CHA,,MIA,,J. Thor,CHA,SUB: Jones FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0904,4,11:01,CHA,,MIA,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0904,4,08:25,CHA,,MIA,,J. Thor,CHA,SUB: Hayward FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0752,1,01:46,CHA,25.0,MIA,23.0,J. Thor,CHA,Thor 9' Jump Shot (2 PTS) (Smith Jr. 1 AST),Made Shot,Jump Shot,-93,13,9,1,2.0,2.0,h
+S2223-G0752,1,01:26,CHA,,MIA,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0752,2,02:52,CHA,,MIA,,J. Thor,CHA,Thor S.FOUL (P1.PN) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G0752,2,02:50,CHA,,MIA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0752,2,01:22,CHA,,MIA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0752,2,00:39.600000,CHA,,MIA,,J. Thor,CHA,Thor S.FOUL (P2.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2223-G0752,4,09:07,CHA,,MIA,,J. Thor,CHA,MISS Thor 13' Jump Shot,Missed Shot,Jump Shot,-130,6,13,1,2.0,0.0,h
+S2223-G0752,4,07:57,CHA,,MIA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1047,1,04:59,CHA,17.0,PHI,21.0,J. Thor,CHA,Thor 27' 3PT Jump Shot (3 PTS) (Smith Jr. 1 AST),Made Shot,Jump Shot,145,225,27,1,3.0,3.0,h
+S2223-G1047,1,04:38,CHA,,PHI,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1047,1,04:02,CHA,,PHI,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,195,158,25,1,3.0,0.0,h
+S2223-G1047,1,03:58,CHA,21.0,PHI,21.0,J. Thor,CHA,Thor 1' Cutting Dunk Shot (5 PTS) (Jones 1 AST),Made Shot,Cutting Dunk Shot,-1,7,1,1,2.0,2.0,h
+S2223-G1047,3,05:25,CHA,,PHI,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1047,3,03:46,CHA,64.0,PHI,85.0,J. Thor,CHA,Thor 8' Pullup Jump Shot (7 PTS) (Hayward 2 AST),Made Shot,Pullup Jump shot,67,36,8,1,2.0,2.0,h
+S2223-G1047,3,03:22,CHA,,PHI,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-229,22,0,1,3.0,0.0,h
+S2223-G1047,4,10:51,CHA,,PHI,,J. Thor,CHA,Jump Ball Thor vs. Reed: Tip to Harden,Jump Ball,,0,0,0,0,,,h
+S2223-G1047,4,09:38,CHA,,PHI,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-227,19,0,1,3.0,0.0,h
+S2223-G1047,4,07:18,CHA,,PHI,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-234,11,0,1,3.0,0.0,h
+S2223-G1047,4,04:39,CHA,,PHI,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1047,4,04:36,CHA,,PHI,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1047,4,03:16,CHA,,PHI,,J. Thor,CHA,Thor S.FOUL (P1.T2) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2223-G1047,4,02:50,CHA,,PHI,,J. Thor,CHA,Thor S.FOUL (P2.T3) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G1047,4,02:38,CHA,,PHI,,J. Thor,CHA,Thor Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1047,4,01:35,CHA,79.0,PHI,117.0,J. Thor,CHA,Thor 2' Running Layup (9 PTS) (Smith Jr. 8 AST),Made Shot,Running Layup Shot,16,-1,2,1,2.0,2.0,h
+S2223-G0656,1,02:52,CHA,,BOS,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0656,1,02:12,CHA,,BOS,,J. Thor,CHA,MISS Thor 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,4,95,10,1,2.0,0.0,h
+S2223-G0656,2,08:30,CHA,,BOS,,J. Thor,CHA,MISS Thor 26' 3PT Jump Shot,Missed Shot,Jump Shot,-154,211,26,1,3.0,0.0,h
+S2223-G0656,2,07:13,CHA,,BOS,,J. Thor,CHA,SUB: Rozier FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0656,3,01:40,CHA,,BOS,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0946,1,10:25,CHA,4.0,ORL,3.0,J. Thor,CHA,Thor 15' Step Back Jump Shot (2 PTS) (Oubre Jr. 1 AST),Made Shot,Step Back Jump shot,2,149,15,1,2.0,2.0,h
+S2223-G0946,1,07:08,CHA,,ORL,,J. Thor,CHA,MISS Thor 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-232,8,0,1,3.0,0.0,h
+S2223-G0946,1,05:16,CHA,,ORL,,J. Thor,CHA,MISS Thor 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,59,4,6,1,2.0,0.0,h
+S2223-G0946,1,05:03,CHA,,ORL,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0946,1,04:33,CHA,,ORL,,J. Thor,CHA,Thor STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0946,1,04:13,CHA,,ORL,,J. Thor,CHA,HORNETS T.Foul (Def. 3 Sec Thor ) (D.Richardson),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G0946,1,04:02,CHA,,ORL,,J. Thor,CHA,Thor STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0946,1,03:56,CHA,,ORL,,J. Thor,CHA," Foul : Double Personal - Thor (1 PF), Schofield (1 PF) (G.Petraitis)",Foul,Double Personal,0,0,0,0,,,
+S2223-G0946,1,03:56,CHA,,ORL,,J. Thor,CHA,SUB: Jones FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0946,2,07:49,CHA,,ORL,,J. Thor,CHA,Thor S.FOUL (P2.T2) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0946,2,07:26,CHA,,ORL,,J. Thor,CHA,Thor P.FOUL (P3.T3) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2223-G0946,2,07:26,CHA,,ORL,,J. Thor,CHA,SUB: Mykhailiuk FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0946,3,09:05,CHA,,ORL,,J. Thor,CHA,Thor REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0946,3,07:15,CHA,,ORL,,J. Thor,CHA,Thor S.FOUL (P4.T1) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2223-G0946,3,07:15,CHA,,ORL,,J. Thor,CHA,SUB: Jones FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1005,1,05:17,CHA,,UTA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1005,1,04:59,CHA,16.0,UTA,19.0,J. Thor,CHA,Thor 3PT Jump Shot (3 PTS) (Rozier 3 AST),Made Shot,Jump Shot,-232,1,0,1,3.0,3.0,h
+S2223-G1005,1,02:54,CHA,,UTA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1005,1,02:13,CHA,,UTA,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,232,-1,0,1,3.0,0.0,h
+S2223-G1005,1,01:42,CHA,,UTA,,J. Thor,CHA,SUB: Jones FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1005,3,05:06,CHA,,UTA,,J. Thor,CHA,Thor REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1005,3,04:51,CHA,,UTA,,J. Thor,CHA,Thor REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1101,1,04:39,DAL,,CHA,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1101,1,03:01,DAL,22.0,CHA,29.0,J. Thor,CHA,Thor 3PT Jump Shot (3 PTS) (Maledon 1 AST),Made Shot,Jump Shot,230,38,0,1,3.0,3.0,v
+S2223-G1101,1,00:57.100000,DAL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1101,1,00:50.500000,DAL,24.0,CHA,37.0,J. Thor,CHA,Thor 26' 3PT Jump Shot (6 PTS) (Mykhailiuk 2 AST),Made Shot,Jump Shot,168,201,26,1,3.0,3.0,v
+S2223-G1101,1,00:14.900000,DAL,,CHA,,J. Thor,CHA,MISS Thor 27' 3PT Jump Shot,Missed Shot,Jump Shot,78,260,27,1,3.0,0.0,v
+S2223-G1101,2,07:12,DAL,,CHA,,J. Thor,CHA,Thor P.FOUL (P1.T3) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G1101,2,06:29,DAL,38.0,CHA,53.0,J. Thor,CHA,Thor 14' Jump Shot (8 PTS),Made Shot,Jump Shot,136,32,14,1,2.0,2.0,v
+S2223-G1101,2,05:51,DAL,,CHA,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,-108,227,25,1,3.0,0.0,v
+S2223-G1101,2,05:41,DAL,,CHA,,J. Thor,CHA,Thor S.FOUL (P2.PN) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2223-G1101,2,03:59,DAL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1101,2,03:21,DAL,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G1101,3,06:21,DAL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1101,3,06:01,DAL,,CHA,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1101,3,05:16,DAL,,CHA,,J. Thor,CHA,Thor STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1101,3,05:13,DAL,67.0,CHA,86.0,J. Thor,CHA,Thor Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1101,3,05:13,DAL,67.0,CHA,87.0,J. Thor,CHA,Thor Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1101,3,03:25,DAL,,CHA,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,-141,209,25,1,3.0,0.0,v
+S2223-G1101,3,02:13,DAL,,CHA,,J. Thor,CHA,Thor BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1101,3,01:59,DAL,,CHA,,J. Thor,CHA,MISS Thor 2' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,-16,18,2,1,2.0,0.0,v
+S2223-G1101,3,01:41,DAL,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G1101,4,06:35,DAL,96.0,CHA,104.0,J. Thor,CHA,Thor 13' Pullup Jump Shot (12 PTS) (Smith Jr. 8 AST),Made Shot,Pullup Jump shot,-54,117,13,1,2.0,2.0,v
+S2223-G1101,4,05:32,DAL,,CHA,,J. Thor,CHA,Thor STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G1101,4,05:27,DAL,,CHA,,J. Thor,CHA,Thor Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1101,4,04:14,DAL,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0710,1,04:24,UTA,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0710,1,04:24,UTA,,CHA,,J. Thor,CHA,MISS Thor Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0710,1,01:45,UTA,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0710,1,01:23,UTA,,CHA,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0710,1,00:51.100000,UTA,,CHA,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,227,44,0,1,3.0,0.0,v
+S2223-G0710,1,00:02.900000,UTA,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0710,2,03:19,UTA,,CHA,,J. Thor,CHA,SUB: McDaniels FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0710,2,00:43.400000,UTA,56.0,CHA,44.0,J. Thor,CHA,Thor Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0710,2,00:43.400000,UTA,56.0,CHA,45.0,J. Thor,CHA,Thor Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0710,2,00:00.600000,UTA,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0710,3,01:59,UTA,,CHA,,J. Thor,CHA,SUB: McDaniels FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0710,4,03:49,UTA,,CHA,,J. Thor,CHA,Thor S.FOUL (P1.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0710,4,03:39,UTA,,CHA,,J. Thor,CHA,MISS Thor 3' Running Layup,Missed Shot,Running Layup Shot,27,17,3,1,2.0,0.0,v
+S2223-G0767,1,01:46,MIL,,,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0767,1,00:34.800000,MIL,28.0,,25.0,J. Thor,CHA,Thor Driving Dunk (2 PTS) (Ball 6 AST),Made Shot,Driving Dunk Shot,1,4,0,1,2.0,2.0,v
+S2223-G0767,2,03:29,MIL,,,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0767,2,00:48.300000,MIL,,,,J. Thor,CHA,MISS Thor 26' 3PT Jump Shot,Missed Shot,Jump Shot,110,237,26,1,3.0,0.0,v
+S2223-G1176,1,11:42,CHA,,TOR,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,1,09:15,CHA,,TOR,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1176,1,08:52,CHA,,TOR,,J. Thor,CHA,HORNETS T.Foul (Def. 3 Sec Thor ) (M.Kogut),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G1176,1,04:39,CHA,,TOR,,J. Thor,CHA,SUB: Jones FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1176,1,03:10,CHA,,TOR,,J. Thor,CHA,Thor BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1176,1,02:17,CHA,25.0,TOR,18.0,J. Thor,CHA,Thor 13' Turnaround Jump Shot (2 PTS) (Sneed 1 AST),Made Shot,Turnaround Jump Shot,121,37,13,1,2.0,2.0,h
+S2223-G1176,1,01:54,CHA,,TOR,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,1,01:48,CHA,,TOR,,J. Thor,CHA,MISS Thor 2' Running Layup,Missed Shot,Running Layup Shot,-4,18,2,1,2.0,0.0,h
+S2223-G1176,1,00:55.300000,CHA,,TOR,,J. Thor,CHA,Thor Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1176,1,00:00,CHA,,TOR,,J. Thor,CHA,Thor REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,2,10:59,CHA,,TOR,,J. Thor,CHA,MISS Thor 27' 3PT Jump Shot,Missed Shot,Jump Shot,-127,235,27,1,3.0,0.0,h
+S2223-G1176,2,09:23,CHA,,TOR,,J. Thor,CHA,Thor S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G1176,2,07:11,CHA,,TOR,,J. Thor,CHA,SUB: McGowens FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1176,2,04:21,CHA,,TOR,,J. Thor,CHA,Thor REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,2,02:56,CHA,,TOR,,J. Thor,CHA,Thor REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,2,00:05.600000,CHA,,TOR,,J. Thor,CHA,Thor P.FOUL (P2.T3) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2223-G1176,2,00:05.600000,CHA,,TOR,,J. Thor,CHA,SUB: Sneed FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1176,3,11:49,CHA,,TOR,,J. Thor,CHA,Thor Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1176,3,11:00,CHA,,TOR,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,232,0,0,1,3.0,0.0,h
+S2223-G1176,3,09:14,CHA,,TOR,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-228,-5,0,1,3.0,0.0,h
+S2223-G1176,3,08:58,CHA,55.0,TOR,73.0,J. Thor,CHA,Thor Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1176,3,08:58,CHA,56.0,TOR,73.0,J. Thor,CHA,Thor Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1176,3,07:50,CHA,61.0,TOR,75.0,J. Thor,CHA,Thor 26' 3PT Jump Shot (7 PTS) (Mykhailiuk 5 AST),Made Shot,Jump Shot,175,195,26,1,3.0,3.0,h
+S2223-G1176,3,07:26,CHA,,TOR,,J. Thor,CHA,Thor REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,3,06:13,CHA,66.0,TOR,78.0,J. Thor,CHA,Thor 26' 3PT Jump Shot (10 PTS) (Mykhailiuk 6 AST),Made Shot,Jump Shot,-69,248,26,1,3.0,3.0,h
+S2223-G1176,3,05:12,CHA,69.0,TOR,80.0,J. Thor,CHA,Thor 25' 3PT Jump Shot (13 PTS) (Mykhailiuk 7 AST),Made Shot,Jump Shot,-174,182,25,1,3.0,3.0,h
+S2223-G1176,3,04:08,CHA,,TOR,,J. Thor,CHA,SUB: Jones FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1176,3,01:34,CHA,,TOR,,J. Thor,CHA,Thor REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,4,10:31,CHA,,TOR,,J. Thor,CHA,MISS Thor 1' Driving Layup,Missed Shot,Driving Layup Shot,5,9,1,1,2.0,0.0,h
+S2223-G1176,4,09:38,CHA,,TOR,,J. Thor,CHA,SUB: Sneed FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0399,4,01:20,PHI,,CHA,,J. Thor,CHA,MISS Thor 27' 3PT Jump Shot,Missed Shot,Jump Shot,221,150,27,1,3.0,0.0,v
+S2223-G0823,1,01:35,WAS,,CHA,,J. Thor,CHA,Thor S.FOUL (P1.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0823,1,01:21,WAS,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0823,3,05:05,WAS,,CHA,,J. Thor,CHA,MISS Thor 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-80,79,11,1,2.0,0.0,v
+S2223-G0823,3,04:27,WAS,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0823,3,04:26,WAS,,CHA,,J. Thor,CHA,MISS Thor Putback Layup,Missed Shot,Putback Layup Shot,0,2,0,1,2.0,0.0,v
+S2223-G0823,3,03:41,WAS,,CHA,,J. Thor,CHA,MISS Thor 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,-62,52,8,1,2.0,0.0,v
+S2223-G0823,3,01:24,WAS,,CHA,,J. Thor,CHA,SUB: Ball FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0377,4,02:20,CHA,,NYK,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0642,1,02:00,CHA,,BOS,,J. Thor,CHA,MISS Thor 26' 3PT Jump Shot,Missed Shot,Jump Shot,146,217,26,1,3.0,0.0,h
+S2223-G0642,1,01:33,CHA,,BOS,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0642,2,03:52,CHA,61.0,BOS,47.0,J. Thor,CHA,Thor Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0642,2,03:52,CHA,,BOS,,J. Thor,CHA,MISS Thor Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,h
+S2223-G0642,2,03:52,CHA,62.0,BOS,47.0,J. Thor,CHA,Thor Free Throw 3 of 3 (2 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0642,2,03:21,CHA,,BOS,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0642,3,02:11,CHA,,BOS,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,-120,221,25,1,3.0,0.0,h
+S2223-G0838,1,04:14,BOS,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0838,1,03:47,BOS,20.0,CHA,19.0,J. Thor,CHA,Thor 10' Cutting Layup Shot (2 PTS) (Hayward 2 AST),Made Shot,Cutting Layup Shot,-91,35,10,1,2.0,2.0,v
+S2223-G0838,1,02:44,BOS,,CHA,,J. Thor,CHA,Thor Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0838,1,02:38,BOS,,CHA,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0838,1,02:27,BOS,,CHA,,J. Thor,CHA,Thor Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0838,3,05:10,BOS,,CHA,,J. Thor,CHA,MISS Thor 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,26,24,1,3.0,0.0,v
+S2223-G0838,3,03:57,BOS,94.0,CHA,70.0,J. Thor,CHA,Thor 6' Driving Layup (4 PTS) (Hayward 6 AST),Made Shot,Driving Layup Shot,-38,42,6,1,2.0,2.0,v
+S2223-G0838,3,01:40,BOS,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0992,1,06:25,DET,,CHA,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0992,1,04:49,DET,,CHA,,J. Thor,CHA,Thor S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0992,1,02:45,DET,21.0,CHA,24.0,J. Thor,CHA,Thor 21' Jump Shot (2 PTS) (Rozier 4 AST),Made Shot,Jump Shot,205,34,21,1,2.0,2.0,v
+S2223-G0992,1,01:17,DET,,CHA,,J. Thor,CHA,MISS Thor 21' Jump Shot,Missed Shot,Jump Shot,203,45,21,1,2.0,0.0,v
+S2223-G0992,1,01:07,DET,,CHA,,J. Thor,CHA,Thor P.FOUL (P2.T3) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G0992,1,01:07,DET,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0992,3,02:46,DET,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0992,3,01:57,DET,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0992,3,01:57,DET,,CHA,,J. Thor,CHA,SUB: Oubre Jr. FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0802,2,03:48,CHA,,ORL,,J. Thor,CHA,SUB: McDaniels FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0802,4,06:18,CHA,,ORL,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-230,14,0,1,3.0,0.0,h
+S2223-G0802,4,05:09,CHA,,ORL,,J. Thor,CHA,MISS Thor Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0802,4,05:09,CHA,103.0,ORL,108.0,J. Thor,CHA,Thor Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0802,4,04:48,CHA,,ORL,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0802,4,04:41,CHA,,ORL,,J. Thor,CHA,MISS Thor Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0802,4,04:41,CHA,,ORL,,J. Thor,CHA,MISS Thor Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0802,4,04:24,CHA,,ORL,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0551,1,03:24,CHA,,LAL,,J. Thor,CHA,MISS Thor 7' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-16,64,7,1,2.0,0.0,h
+S2223-G0551,1,03:03,CHA,17.0,LAL,22.0,J. Thor,CHA,Thor 3PT Jump Shot (3 PTS) (Smith Jr. 1 AST),Made Shot,Jump Shot,-227,-5,0,1,3.0,3.0,h
+S2223-G0551,3,03:18,CHA,,LAL,,J. Thor,CHA,Thor S.FOUL (P1.T4) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0551,3,00:02.300000,CHA,,LAL,,J. Thor,CHA,MISS Thor 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-121,233,26,1,3.0,0.0,h
+S2223-G0785,1,03:04,DET,21.0,CHA,21.0,J. Thor,CHA,Thor 6' Jump Bank Shot (2 PTS) (Rozier 1 AST),Made Shot,Jump Bank Shot,-55,9,6,1,2.0,2.0,v
+S2223-G0785,1,00:44.400000,DET,25.0,CHA,30.0,J. Thor,CHA,Thor 4' Running Dunk (4 PTS) (Ball 2 AST),Made Shot,Running Dunk Shot,-42,9,4,1,2.0,2.0,v
+S2223-G0785,2,02:03,DET,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0785,3,01:52,DET,,CHA,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0785,3,00:02.400000,DET,,CHA,,J. Thor,CHA,MISS Thor 29' 3PT Jump Shot,Missed Shot,Jump Shot,-197,217,29,1,3.0,0.0,v
+S2223-G1218,1,10:12,CLE,,CHA,,J. Thor,CHA,Thor Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1218,1,09:47,CLE,,CHA,,J. Thor,CHA,MISS Thor 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,10,24,1,3.0,0.0,v
+S2223-G1218,1,08:11,CLE,,CHA,,J. Thor,CHA,MISS Thor 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-1,105,11,1,2.0,0.0,v
+S2223-G1218,1,06:56,CLE,,CHA,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,-131,218,25,1,3.0,0.0,v
+S2223-G1218,1,06:46,CLE,,CHA,,J. Thor,CHA,MISS Thor 10' Floating Jump Shot,Missed Shot,Floating Jump shot,51,82,10,1,2.0,0.0,v
+S2223-G1218,1,02:09,CLE,,CHA,,J. Thor,CHA,MISS Thor 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,17,24,1,3.0,0.0,v
+S2223-G1218,1,01:26,CLE,,CHA,,J. Thor,CHA,SUB: Jones FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G1218,2,02:06,CLE,,CHA,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,-61,246,25,1,3.0,0.0,v
+S2223-G1218,3,11:30,CLE,54.0,CHA,51.0,J. Thor,CHA,Thor 10' Driving Floating Bank Jump Shot (2 PTS) (Maledon 3 AST),Made Shot,Driving Floating Bank Jump Shot,-31,92,10,1,2.0,2.0,v
+S2223-G1218,3,10:54,CLE,,CHA,,J. Thor,CHA,Thor Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1218,3,10:27,CLE,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,3,09:10,CLE,,CHA,,J. Thor,CHA,MISS Thor 2' Running Layup,Missed Shot,Running Layup Shot,12,11,2,1,2.0,0.0,v
+S2223-G1218,3,08:13,CLE,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,3,05:20,CLE,,CHA,,J. Thor,CHA,MISS Thor 27' 3PT Jump Shot,Missed Shot,Jump Shot,129,232,27,1,3.0,0.0,v
+S2223-G1218,3,03:57,CLE,,CHA,,J. Thor,CHA,SUB: Richards FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G1218,4,06:19,CLE,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,4,05:41,CLE,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,4,05:11,CLE,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,4,03:36,CLE,,CHA,,J. Thor,CHA,MISS Thor 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,61,55,8,1,2.0,0.0,v
+S2223-G1218,4,03:21,CLE,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,4,00:39.500000,CLE,95.0,CHA,106.0,J. Thor,CHA,Thor 25' 3PT Jump Shot (5 PTS) (Maledon 6 AST),Made Shot,Jump Shot,240,59,25,1,3.0,3.0,v
+S2223-G1202,1,08:54,CHA,,HOU,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1202,1,04:54,CHA,,HOU,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1202,1,04:16,CHA,,HOU,,J. Thor,CHA,Thor Traveling Turnover (P1.T7),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1202,1,03:50,CHA,,HOU,,J. Thor,CHA,SUB: Sneed FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1202,2,04:37,CHA,,HOU,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1202,2,02:54,CHA,46.0,HOU,49.0,J. Thor,CHA,Thor 26' 3PT Jump Shot (3 PTS) (McGowens 2 AST),Made Shot,Jump Shot,119,232,26,1,3.0,3.0,h
+S2223-G1202,2,01:47,CHA,,HOU,,J. Thor,CHA,Thor REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1202,2,01:29,CHA,,HOU,,J. Thor,CHA,MISS Thor 22' Jump Shot,Missed Shot,Jump Shot,188,111,22,1,2.0,0.0,h
+S2223-G1202,2,00:32.100000,CHA,,HOU,,J. Thor,CHA,Thor REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1202,2,00:23.900000,CHA,48.0,HOU,53.0,J. Thor,CHA,Thor Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1202,2,00:23.900000,CHA,49.0,HOU,53.0,J. Thor,CHA,Thor Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1202,3,10:47,CHA,,HOU,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-232,26,0,1,3.0,0.0,h
+S2223-G1202,3,10:19,CHA,52.0,HOU,59.0,J. Thor,CHA,Thor Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1202,3,10:19,CHA,53.0,HOU,59.0,J. Thor,CHA,Thor Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1202,3,04:08,CHA,,HOU,,J. Thor,CHA,SUB: Sneed FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1202,4,03:58,CHA,,HOU,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,229,17,0,1,3.0,0.0,h
+S2223-G1202,4,02:50,CHA,,HOU,,J. Thor,CHA,Thor REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1202,4,02:49,CHA,,HOU,,J. Thor,CHA,MISS Thor 3' Running Layup,Missed Shot,Running Layup Shot,-23,17,3,1,2.0,0.0,h
+S2223-G1202,4,01:01,CHA,107.0,HOU,112.0,J. Thor,CHA,Thor 3PT Jump Shot (10 PTS) (Mykhailiuk 5 AST),Made Shot,Jump Shot,-227,14,0,1,3.0,3.0,h
+S2223-G0583,2,06:27,MIL,,CHA,,J. Thor,CHA,Thor S.FOUL (P1.T4) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0583,2,03:07,MIL,,CHA,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-232,36,0,1,3.0,0.0,v
+S2223-G0583,2,03:02,MIL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0583,2,02:59,MIL,,CHA,,J. Thor,CHA,MISS Thor 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-65,106,12,1,2.0,0.0,v
+S2223-G0583,2,02:57,MIL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0583,2,02:54,MIL,52.0,CHA,79.0,J. Thor,CHA,Thor 11' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,-78,74,11,1,2.0,2.0,v
+S2223-G0583,2,02:22,MIL,,CHA,,J. Thor,CHA,Thor S.FOUL (P2.PN) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2223-G0583,2,01:32,MIL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0583,2,01:32,MIL,57.0,CHA,84.0,J. Thor,CHA,Thor Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0583,2,00:01.400000,MIL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0583,4,02:24,MIL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0583,4,01:54,MIL,,CHA,,J. Thor,CHA,Thor S.FOUL (P3.T3) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0583,4,01:25,MIL,106.0,CHA,133.0,J. Thor,CHA,Thor 3PT Jump Shot (7 PTS) (Martin 3 AST),Made Shot,Jump Shot,227,58,0,1,3.0,3.0,v
+S2223-G0583,4,01:01,MIL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0583,4,00:57.400000,MIL,106.0,CHA,136.0,J. Thor,CHA,Thor 30' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,-206,221,30,1,3.0,3.0,v
+S2223-G0096,2,08:54,CHA,,SAC,,J. Thor,CHA,Thor S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0096,2,06:13,CHA,,SAC,,J. Thor,CHA,Thor Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0096,2,05:31,CHA,,SAC,,J. Thor,CHA,Thor Violation:Defensive Goaltending (S.Corbin),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0096,2,04:46,CHA,,SAC,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0038,2,10:41,ATL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,2,10:18,ATL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,2,10:00,ATL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,2,09:08,ATL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,2,08:05,ATL,32.0,CHA,38.0,J. Thor,CHA,Thor 2' Alley Oop Dunk (2 PTS) (Smith Jr. 3 AST),Made Shot,Alley Oop Dunk Shot,2,16,2,1,2.0,2.0,v
+S2223-G0038,2,05:39,ATL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,2,04:42,ATL,,CHA,,J. Thor,CHA,Thor S.FOUL (P1.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0038,2,03:45,ATL,43.0,CHA,51.0,J. Thor,CHA,Thor 3PT Jump Shot (5 PTS) (Hayward 3 AST),Made Shot,Jump Shot,-229,1,0,1,3.0,3.0,v
+S2223-G0038,2,02:02,ATL,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,2,00:59.800000,ATL,,CHA,,J. Thor,CHA,Thor S.FOUL (P2.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0038,2,00:00.600000,ATL,,CHA,,J. Thor,CHA,MISS Thor 36' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,168,320,36,1,3.0,0.0,v
+S2223-G0038,3,02:40,ATL,,CHA,,J. Thor,CHA,Thor Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0038,3,02:36,ATL,,CHA,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0038,4,01:05,ATL,,CHA,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-229,-5,0,1,3.0,0.0,v
+S2223-G1015,1,01:53,CHA,31.0,CLE,20.0,J. Thor,CHA,Thor 11' Turnaround Fadeaway (2 PTS) (Rozier 2 AST),Made Shot,Turnaround Fadeaway shot,-88,71,11,1,2.0,2.0,h
+S2223-G1015,1,01:45,CHA,,CLE,,J. Thor,CHA,SUB: Smith Jr. FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1015,2,07:14,CHA,,CLE,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,2,06:23,CHA,,CLE,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,2,04:16,CHA,,CLE,,J. Thor,CHA,SUB: Smith Jr. FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1015,2,00:05.500000,CHA,,CLE,,J. Thor,CHA,Thor REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,3,03:46,CHA,84.0,CLE,72.0,J. Thor,CHA,Thor 3PT Jump Shot (5 PTS) (Richards 3 AST),Made Shot,Jump Shot,-233,-4,0,1,3.0,3.0,h
+S2223-G1015,3,01:05,CHA,,CLE,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G1015,4,05:54,CHA,,CLE,,J. Thor,CHA,SUB: Smith Jr. FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0613,1,03:56,TOR,,CHA,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-225,5,0,1,3.0,0.0,v
+S2223-G0613,2,01:55,TOR,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0613,3,03:00,TOR,90.0,CHA,88.0,J. Thor,CHA,Thor 24' 3PT Jump Shot (3 PTS) (Plumlee 2 AST),Made Shot,Jump Shot,-235,-16,24,1,3.0,3.0,v
+S2223-G0613,3,02:41,TOR,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0613,3,02:23,TOR,90.0,CHA,90.0,J. Thor,CHA,Thor 10' Floating Jump Shot (5 PTS) (Martin 2 AST),Made Shot,Floating Jump shot,-27,96,10,1,2.0,2.0,v
+S2223-G0613,3,01:40,TOR,,CHA,,J. Thor,CHA,MISS Thor 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-100,52,11,1,2.0,0.0,v
+S2223-G0428,2,03:06,,,ATL,,J. Thor,CHA,MISS Thor 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,26,24,1,3.0,0.0,h
+S2223-G0428,2,01:34,,49.0,ATL,72.0,J. Thor,CHA,Thor Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0428,2,01:34,,50.0,ATL,72.0,J. Thor,CHA,Thor Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0428,2,01:22,,,ATL,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0428,3,01:52,,,ATL,,J. Thor,CHA,MISS Thor 3' Driving Layup,Missed Shot,Driving Layup Shot,-22,16,3,1,2.0,0.0,h
+S2223-G0428,3,00:40.800000,,90.0,ATL,96.0,J. Thor,CHA,Thor 25' 3PT Jump Shot (5 PTS) (Hayward 5 AST),Made Shot,Jump Shot,-211,134,25,1,3.0,3.0,h
+S2223-G0428,4,11:44,,,ATL,,J. Thor,CHA,MISS Thor 4' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-33,15,4,1,2.0,0.0,h
+S2223-G0428,4,10:49,,,ATL,,J. Thor,CHA,Thor OFF.Foul (P1) (T.Ford),Foul,Offensive,0,0,0,0,,,h
+S2223-G0428,4,10:49,,,ATL,,J. Thor,CHA,Thor Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0428,4,10:14,,,ATL,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-229,21,0,1,3.0,0.0,h
+S2223-G0428,4,09:18,,,ATL,,J. Thor,CHA,SUB: McDaniels FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0428,4,06:25,,,ATL,,J. Thor,CHA,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,-230,15,0,1,3.0,0.0,h
+S2223-G0428,4,06:10,,,ATL,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,4,06:04,,,ATL,,J. Thor,CHA,SUB: Hayward FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0428,4,02:49,,102.0,ATL,123.0,J. Thor,CHA,Thor 2' Driving Layup (7 PTS) (Bouknight 1 AST),Made Shot,Driving Layup Shot,16,5,2,1,2.0,2.0,h
+S2223-G0428,4,01:45,,104.0,ATL,123.0,J. Thor,CHA,Thor 1' Running Dunk (9 PTS) (Maledon 1 AST),Made Shot,Running Dunk Shot,-7,-4,1,1,2.0,2.0,h
+S2223-G0111,2,07:53,CHI,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0111,2,05:45,CHI,,CHA,,J. Thor,CHA,Thor S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0111,2,05:18,CHI,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0111,3,04:11,CHI,,CHA,,J. Thor,CHA,MISS Thor 28' 3PT Jump Shot,Missed Shot,Jump Shot,-162,226,28,1,3.0,0.0,v
+S2223-G0111,3,02:49,CHI,,CHA,,J. Thor,CHA,SUB: Oubre Jr. FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0111,4,05:19,CHI,,CHA,,J. Thor,CHA,MISS Thor 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-94,140,17,1,2.0,0.0,v
+S2223-G0111,4,04:17,CHI,100.0,CHA,82.0,J. Thor,CHA,Thor 11' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,87,71,11,1,2.0,2.0,v
+S2223-G0111,4,03:34,CHI,,CHA,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0111,4,03:34,CHI,,CHA,,J. Thor,CHA,MISS Thor Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0111,4,03:24,CHI,100.0,CHA,86.0,J. Thor,CHA,Thor 1' Driving Layup (4 PTS) (Maledon 3 AST),Made Shot,Driving Layup Shot,2,11,1,1,2.0,2.0,v
+S2223-G0111,4,02:37,CHI,,CHA,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0111,4,01:15,CHI,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0629,1,02:07,TOR,33.0,CHA,24.0,J. Thor,CHA,Thor 26' 3PT Jump Shot (3 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,219,131,26,1,3.0,3.0,v
+S2223-G0629,1,01:56,TOR,,CHA,,J. Thor,CHA,Thor P.FOUL (P1.T2) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0629,1,00:08,TOR,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0629,2,03:59,TOR,,CHA,,J. Thor,CHA,Thor Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0629,2,03:41,TOR,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0629,2,03:18,TOR,,CHA,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0629,2,03:17,TOR,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0629,2,03:15,TOR,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0598,1,03:42,IND,15.0,CHA,20.0,J. Thor,CHA,Thor 2' Alley Oop Layup (2 PTS) (Rozier 1 AST),Made Shot,Alley Oop Layup shot,22,11,2,1,2.0,2.0,v
+S2223-G0598,2,02:55,IND,,CHA,,J. Thor,CHA,Thor S.FOUL (P1.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2223-G0598,2,02:55,IND,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0598,3,03:51,IND,,CHA,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,-116,227,25,1,3.0,0.0,v
+S2223-G0598,3,03:41,IND,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0598,3,03:28,IND,69.0,CHA,68.0,J. Thor,CHA,Thor 3PT Jump Shot (5 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,-233,5,0,1,3.0,3.0,v
+S2223-G0598,3,01:02,IND,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0873,1,02:15,CHA,24.0,SAS,23.0,J. Thor,CHA,Thor 3PT Jump Shot (3 PTS) (Ball 3 AST),Made Shot,Jump Shot,228,31,0,1,3.0,3.0,h
+S2223-G0873,1,01:33,CHA,,SAS,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,h
+S2223-G0873,3,03:14,CHA,,SAS,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0873,3,02:30,CHA,,SAS,,J. Thor,CHA,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0873,3,01:53,CHA,,SAS,,J. Thor,CHA,Thor REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0873,3,01:22,CHA,,SAS,,J. Thor,CHA,Thor Violation:Defensive Goaltending (S.Mehta),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0873,3,01:01,CHA,,SAS,,J. Thor,CHA,Thor REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0189,2,08:41,MIA,,CHA,,J. Thor,CHA,MISS Thor 12' Floating Jump Shot,Missed Shot,Floating Jump shot,0,124,12,1,2.0,0.0,v
+S2223-G0189,2,08:26,MIA,,CHA,,J. Thor,CHA,MISS Thor 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-12,43,4,1,2.0,0.0,v
+S2223-G0189,2,07:41,MIA,42.0,CHA,39.0,J. Thor,CHA,Thor 2' Layup (2 PTS) (Maledon 1 AST),Made Shot,Layup Shot,-20,4,2,1,2.0,2.0,v
+S2223-G0189,2,07:11,MIA,,CHA,,J. Thor,CHA,MISS Thor 26' 3PT Jump Shot,Missed Shot,Jump Shot,-146,218,26,1,3.0,0.0,v
+S2223-G0189,2,06:00,MIA,,CHA,,J. Thor,CHA,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0189,2,05:15,MIA,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0189,4,00:55.400000,MIA,,CHA,,J. Thor,CHA,Thor Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0189,4,00:51.900000,MIA,,CHA,,J. Thor,CHA,Thor STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0058,2,06:57,NYK,,CHA,,J. Thor,CHA,Thor S.FOUL (P1.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0058,2,06:00,NYK,,CHA,,J. Thor,CHA,MISS Thor 25' 3PT Jump Shot,Missed Shot,Jump Shot,158,194,25,1,3.0,0.0,v
+S2223-G0058,2,04:30,NYK,,CHA,,J. Thor,CHA,SUB: Washington FOR Thor,Substitution,,0,0,0,0,,,v
+S2223-G0058,2,01:21,NYK,,CHA,,J. Thor,CHA,Thor BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0058,4,08:09,NYK,,CHA,,J. Thor,CHA,Thor REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0058,4,08:08,NYK,107.0,CHA,103.0,J. Thor,CHA,Thor 1' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,-2,14,1,1,2.0,2.0,v
+S2223-G0058,4,07:49,NYK,,CHA,,J. Thor,CHA,SUB: Hayward FOR Thor,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,534 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0574,1,09:49,LAL,,MIA,,J. Toscano-Anderson,LAL,Toscano-Anderson OFF.Foul (P1) (L.Wood),Foul,Offensive,0,0,0,0,,,h
+S2223-G0574,1,09:49,LAL,,MIA,,J. Toscano-Anderson,LAL,Toscano-Anderson Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0574,1,06:54,LAL,,MIA,,J. Toscano-Anderson,LAL,SUB: Westbrook FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0574,2,06:15,LAL,,MIA,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,232,37,0,1,3.0,0.0,h
+S2223-G0574,2,03:45,LAL,,MIA,,J. Toscano-Anderson,LAL,Toscano-Anderson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0574,2,03:44,LAL,,MIA,,J. Toscano-Anderson,LAL,SUB: Brown Jr. FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0574,3,10:34,LAL,,MIA,,J. Toscano-Anderson,LAL,Toscano-Anderson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0574,3,09:33,LAL,,MIA,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0574,3,05:30,LAL,,MIA,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0574,3,04:54,LAL,,MIA,,J. Toscano-Anderson,LAL,SUB: Christie FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0574,4,09:33,LAL,81.0,MIA,83.0,J. Toscano-Anderson,LAL,Toscano-Anderson 3' Reverse Layup (2 PTS) (Schroder 2 AST),Made Shot,Reverse Layup Shot,-20,20,3,1,2.0,2.0,h
+S2223-G0574,4,09:17,LAL,,MIA,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P2.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0574,4,09:04,LAL,,MIA,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0574,4,06:16,LAL,,MIA,,J. Toscano-Anderson,LAL,Toscano-Anderson Traveling Turnover (P2.T17),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0574,4,05:57,LAL,,MIA,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P3.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G0574,4,05:57,LAL,,MIA,,J. Toscano-Anderson,LAL,SUB: Westbrook FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0574,4,00:15.400000,LAL,,MIA,,J. Toscano-Anderson,LAL,SUB: Bryant FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0630,1,09:21,LAL,,DAL,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0630,1,09:02,LAL,,DAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0630,1,06:49,LAL,,DAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 25' 3PT Jump Shot,Missed Shot,Jump Shot,233,88,25,1,3.0,0.0,h
+S2223-G0630,1,06:39,LAL,,DAL,,J. Toscano-Anderson,LAL,SUB: Westbrook FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0630,2,05:01,LAL,,DAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,41,4,1,2.0,0.0,h
+S2223-G0630,2,03:47,LAL,44.0,DAL,48.0,J. Toscano-Anderson,LAL,Toscano-Anderson 4' Reverse Layup (2 PTS) (Westbrook 2 AST),Made Shot,Reverse Layup Shot,-16,35,4,1,2.0,2.0,h
+S2223-G0630,2,03:36,LAL,,DAL,,J. Toscano-Anderson,LAL,Toscano-Anderson P.FOUL (P2.T2) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2223-G0630,2,02:45,LAL,,DAL,,J. Toscano-Anderson,LAL,SUB: James FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0630,2,00:40.100000,LAL,,DAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0630,3,09:20,LAL,,DAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-10,34,4,1,2.0,0.0,h
+S2223-G0630,3,07:41,LAL,56.0,DAL,68.0,J. Toscano-Anderson,LAL,Toscano-Anderson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0630,3,07:41,LAL,57.0,DAL,68.0,J. Toscano-Anderson,LAL,Toscano-Anderson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0630,3,07:02,LAL,,DAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-11,37,4,1,2.0,0.0,h
+S2223-G0630,3,04:57,LAL,,DAL,,J. Toscano-Anderson,LAL,Toscano-Anderson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0630,3,04:54,LAL,,DAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0630,3,04:27,LAL,,DAL,,J. Toscano-Anderson,LAL,SUB: Westbrook FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G1164,1,04:38,BKN,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-9,109,11,1,2.0,0.0,v
+S2223-G1164,1,01:56,BKN,26.0,UTA,17.0,J. Toscano-Anderson,UTA,Toscano-Anderson 4' Driving Floating Jump Shot (2 PTS) (Dunn 1 AST),Made Shot,Driving Floating Jump Shot,22,39,4,1,2.0,2.0,v
+S2223-G1164,1,00:45.200000,BKN,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1164,1,00:37,BKN,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1164,2,11:38,BKN,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson P.FOUL (P1.T1) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2223-G1164,2,11:14,BKN,32.0,UTA,19.0,J. Toscano-Anderson,UTA,Toscano-Anderson 5' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,-7,47,5,1,2.0,2.0,v
+S2223-G1164,2,09:47,BKN,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1164,2,08:56,BKN,,UTA,,J. Toscano-Anderson,UTA,SUB: Olynyk FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G1164,3,04:39,BKN,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1164,3,03:49,BKN,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1164,3,03:37,BKN,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1164,3,02:16,BKN,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 5' Driving Layup,Missed Shot,Driving Layup Shot,16,51,5,1,2.0,0.0,v
+S2223-G1164,3,01:25,BKN,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson S.FOUL (P2.PN) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2223-G1164,3,00:02.700000,BKN,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,-225,-16,0,1,3.0,0.0,v
+S2223-G1164,4,07:25,BKN,,UTA,,J. Toscano-Anderson,UTA,SUB: Markkanen FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G1164,4,04:51,BKN,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1164,4,02:12,BKN,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1164,4,00:55.900000,BKN,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson S.FOUL (P3.T3) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G1164,4,00:14.100000,BKN,,UTA,,J. Toscano-Anderson,UTA,SUB: Agbaji FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G1076,2,09:26,UTA,,SAC,,J. Toscano-Anderson,UTA,Toscano-Anderson Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1076,2,05:58,UTA,,SAC,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 2' Reverse Dunk,Missed Shot,Reverse Dunk Shot,21,2,2,1,2.0,0.0,h
+S2223-G1076,2,03:45,UTA,,SAC,,J. Toscano-Anderson,UTA,SUB: Fontecchio FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G1076,4,11:38,UTA,,SAC,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1076,4,09:59,UTA,,SAC,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1076,4,08:51,UTA,,SAC,,J. Toscano-Anderson,UTA,Toscano-Anderson P.FOUL (P1.T2) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G1076,4,07:38,UTA,104.0,SAC,105.0,J. Toscano-Anderson,UTA,Toscano-Anderson 2' Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,-21,0,2,1,2.0,2.0,h
+S2223-G1076,4,07:07,UTA,106.0,SAC,105.0,J. Toscano-Anderson,UTA,Toscano-Anderson 4' Finger Roll Layup (4 PTS) (Olynyk 8 AST),Made Shot,Finger Roll Layup Shot,0,41,4,1,2.0,2.0,h
+S2223-G1076,4,05:44,UTA,,SAC,,J. Toscano-Anderson,UTA,SUB: Fontecchio FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G1125,1,03:36,UTA,,PHX,,J. Toscano-Anderson,UTA,Toscano-Anderson P.FOUL (P1.T4) (J.Butler),Foul,Personal,0,0,0,0,,,h
+S2223-G1125,1,02:53,UTA,18.0,PHX,26.0,J. Toscano-Anderson,UTA,Toscano-Anderson 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,37,20,4,1,2.0,2.0,h
+S2223-G1125,1,00:00,UTA,,PHX,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,132,4,13,1,2.0,0.0,h
+S2223-G1125,2,04:06,UTA,,PHX,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1125,2,02:54,UTA,48.0,PHX,48.0,J. Toscano-Anderson,UTA,Toscano-Anderson 3' Running Alley Oop Dunk Shot (4 PTS) (Horton-Tucker 5 AST),Made Shot,Running Alley Oop Dunk Shot,27,8,3,1,2.0,2.0,h
+S2223-G1125,2,02:35,UTA,,PHX,,J. Toscano-Anderson,UTA,Toscano-Anderson S.FOUL (P2.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G1125,3,02:56,UTA,,PHX,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,223,17,0,1,3.0,0.0,h
+S2223-G1125,4,10:59,UTA,,PHX,,J. Toscano-Anderson,UTA,Toscano-Anderson S.FOUL (P3.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G1125,4,06:36,UTA,,PHX,,J. Toscano-Anderson,UTA,SUB: Horton-Tucker FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G1125,4,00:14.800000,UTA,103.0,PHX,117.0,J. Toscano-Anderson,UTA,Toscano-Anderson 7' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-20,69,7,1,2.0,2.0,h
+S2223-G1152,1,02:38,BOS,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1152,2,11:43,BOS,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1152,2,06:17,BOS,,UTA,,J. Toscano-Anderson,UTA,SUB: Olynyk FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G1152,4,11:23,BOS,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 7' Driving Layup,Missed Shot,Driving Layup Shot,42,53,7,1,2.0,0.0,v
+S2223-G1152,4,11:21,BOS,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1152,4,11:19,BOS,95.0,UTA,80.0,J. Toscano-Anderson,UTA,Toscano-Anderson 6' Layup (2 PTS),Made Shot,Layup Shot,37,50,6,1,2.0,2.0,v
+S2223-G1152,4,10:58,BOS,95.0,UTA,83.0,J. Toscano-Anderson,UTA,Toscano-Anderson 25' 3PT Jump Shot (5 PTS) (Jones 1 AST),Made Shot,Jump Shot,-26,253,25,1,3.0,3.0,v
+S2223-G1152,4,10:12,BOS,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson P.FOUL (P1.T1) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2223-G1152,4,07:51,BOS,,UTA,,J. Toscano-Anderson,UTA,SUB: Olynyk FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G1200,1,03:54,UTA,,OKC,,J. Toscano-Anderson,UTA,Toscano-Anderson S.FOUL (P1.T4) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G1200,1,02:55,UTA,,OKC,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-2,101,10,1,2.0,0.0,h
+S2223-G1200,1,02:27,UTA,,OKC,,J. Toscano-Anderson,UTA,Toscano-Anderson S.FOUL (P2.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G1200,1,02:06,UTA,,OKC,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 26' 3PT Jump Shot,Missed Shot,Jump Shot,138,222,26,1,3.0,0.0,h
+S2223-G1200,1,00:53.400000,UTA,,OKC,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1200,1,00:48.300000,UTA,24.0,OKC,27.0,J. Toscano-Anderson,UTA,Toscano-Anderson 4' Running Layup (2 PTS),Made Shot,Running Layup Shot,34,29,4,1,2.0,2.0,h
+S2223-G1200,2,09:28,UTA,,OKC,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,41,24,1,3.0,0.0,h
+S2223-G1200,2,08:03,UTA,,OKC,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1200,2,07:58,UTA,,OKC,,J. Toscano-Anderson,UTA,SUB: Dunn FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G1200,3,03:33,UTA,74.0,OKC,75.0,J. Toscano-Anderson,UTA,Toscano-Anderson 22' Jump Shot (4 PTS) (Samanic 4 AST),Made Shot,Jump Shot,-200,83,22,1,2.0,2.0,h
+S2223-G1200,3,00:14.400000,UTA,,OKC,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,237,26,24,1,3.0,0.0,h
+S2223-G1200,4,11:36,UTA,,OKC,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-25,22,3,1,2.0,0.0,h
+S2223-G1200,4,09:11,UTA,,OKC,,J. Toscano-Anderson,UTA,SUB: Samanic FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G1200,4,03:49,UTA,,OKC,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 25' 3PT Jump Shot,Missed Shot,Jump Shot,18,253,25,1,3.0,0.0,h
+S2223-G1200,4,03:10,UTA,,OKC,,J. Toscano-Anderson,UTA,Toscano-Anderson Bad Pass Turnover (P1.T19),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1200,4,02:36,UTA,94.0,OKC,110.0,J. Toscano-Anderson,UTA,Toscano-Anderson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1200,4,02:36,UTA,,OKC,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1200,4,02:05,UTA,,OKC,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,-225,-1,0,1,3.0,0.0,h
+S2223-G0016,1,04:56,LAL,,LAC,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P1.PN) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2223-G0016,1,02:44,LAL,,LAC,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 35' 3PT Jump Shot,Missed Shot,Jump Shot,-203,286,35,1,3.0,0.0,h
+S2223-G0016,1,01:27,LAL,,LAC,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0016,1,01:04,LAL,,LAC,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0016,2,04:26,LAL,41.0,LAC,52.0,J. Toscano-Anderson,LAL,Toscano-Anderson Running Layup (2 PTS) (Westbrook 4 AST),Made Shot,Running Layup Shot,4,2,0,1,2.0,2.0,h
+S2223-G0016,2,04:26,LAL,42.0,LAC,52.0,J. Toscano-Anderson,LAL,Toscano-Anderson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0016,2,02:54,LAL,,LAC,,J. Toscano-Anderson,LAL,SUB: James FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0016,3,04:01,LAL,,LAC,,J. Toscano-Anderson,LAL,Toscano-Anderson Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0016,3,03:40,LAL,68.0,LAC,80.0,J. Toscano-Anderson,LAL,Toscano-Anderson 26' 3PT Jump Shot (6 PTS) (Beverley 1 AST),Made Shot,Jump Shot,96,239,26,1,3.0,3.0,h
+S2223-G0016,3,01:24,LAL,,LAC,,J. Toscano-Anderson,LAL,Toscano-Anderson P.FOUL (P2.PN) (E.Lewis),Foul,Personal,0,0,0,0,,,h
+S2223-G0016,3,00:00.400000,LAL,,LAC,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 45' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-190,405,45,1,3.0,0.0,h
+S2223-G0016,4,11:42,LAL,,LAC,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0016,4,10:38,LAL,,LAC,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0016,4,10:25,LAL,,LAC,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 4' Layup,Missed Shot,Layup Shot,21,31,4,1,2.0,0.0,h
+S2223-G0016,4,10:02,LAL,,LAC,,J. Toscano-Anderson,LAL,Toscano-Anderson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0016,4,09:06,LAL,85.0,LAC,87.0,J. Toscano-Anderson,LAL,Toscano-Anderson 4' Cutting Dunk Shot (8 PTS) (James 6 AST),Made Shot,Cutting Dunk Shot,11,42,4,1,2.0,2.0,h
+S2223-G0016,4,07:12,LAL,,LAC,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 25' 3PT Jump Shot,Missed Shot,Jump Shot,229,106,25,1,3.0,0.0,h
+S2223-G0016,4,05:39,LAL,,LAC,,J. Toscano-Anderson,LAL,SUB: Westbrook FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G1186,1,01:01,UTA,28.0,LAL,31.0,J. Toscano-Anderson,UTA,Toscano-Anderson 4' Driving Layup (2 PTS) (Sexton 2 AST),Made Shot,Driving Layup Shot,29,25,4,1,2.0,2.0,h
+S2223-G1186,1,00:27.300000,UTA,,LAL,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1186,2,10:31,UTA,,LAL,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 3' Layup,Missed Shot,Layup Shot,-23,17,3,1,2.0,0.0,h
+S2223-G1186,2,09:39,UTA,,LAL,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1186,2,08:24,UTA,,LAL,,J. Toscano-Anderson,UTA,Toscano-Anderson S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G1186,2,07:17,UTA,,LAL,,J. Toscano-Anderson,UTA,SUB: Agbaji FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G1186,3,02:56,UTA,,LAL,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1186,3,02:05,UTA,,LAL,,J. Toscano-Anderson,UTA,Toscano-Anderson P.FOUL (P2.PN) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G1186,3,01:14,UTA,,LAL,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 2' Layup,Missed Shot,Layup Shot,-17,1,2,1,2.0,0.0,h
+S2223-G1186,4,09:19,UTA,,LAL,,J. Toscano-Anderson,UTA,Toscano-Anderson Offensive Charge Foul (P3) (C.Flores),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1186,4,09:19,UTA,,LAL,,J. Toscano-Anderson,UTA,Toscano-Anderson Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1186,4,08:49,UTA,101.0,LAL,102.0,J. Toscano-Anderson,UTA,Toscano-Anderson 3' Reverse Layup (4 PTS) (Dunn 4 AST),Made Shot,Reverse Layup Shot,29,-1,3,1,2.0,2.0,h
+S2223-G1186,4,08:04,UTA,,LAL,,J. Toscano-Anderson,UTA,Toscano-Anderson P.FOUL (P4.T2) (C.Flores),Foul,Personal,0,0,0,0,,,h
+S2223-G1186,4,07:50,UTA,,LAL,,J. Toscano-Anderson,UTA,Toscano-Anderson Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1186,4,07:26,UTA,,LAL,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,-228,-20,0,1,3.0,0.0,h
+S2223-G1186,4,07:08,UTA,,LAL,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1186,4,06:32,UTA,,LAL,,J. Toscano-Anderson,UTA,SUB: Fontecchio FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0892,2,09:16,UTA,,OKC,,J. Toscano-Anderson,UTA,Toscano-Anderson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0892,2,08:18,UTA,,OKC,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 7' Layup,Missed Shot,Layup Shot,37,58,7,1,2.0,0.0,h
+S2223-G0892,2,08:10,UTA,,OKC,,J. Toscano-Anderson,UTA,Toscano-Anderson S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0892,2,08:10,UTA,,OKC,,J. Toscano-Anderson,UTA,SUB: Horton-Tucker FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0892,3,03:36,UTA,,OKC,,J. Toscano-Anderson,UTA,Toscano-Anderson P.FOUL (P2.PN) (L.Wood),Foul,Personal,0,0,0,0,,,h
+S2223-G0892,3,02:52,UTA,,OKC,,J. Toscano-Anderson,UTA,Toscano-Anderson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0892,3,02:39,UTA,,OKC,,J. Toscano-Anderson,UTA,Toscano-Anderson Traveling Turnover (P1.T17),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0892,4,10:26,UTA,,OKC,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,-222,-2,0,1,3.0,0.0,h
+S2223-G0892,4,08:28,UTA,,OKC,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0892,4,06:33,UTA,,OKC,,J. Toscano-Anderson,UTA,SUB: Olynyk FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0324,4,01:32,LAL,,POR,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0518,4,11:33,MIA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0518,4,10:57,MIA,,LAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 2' Running Layup,Missed Shot,Running Layup Shot,15,16,2,1,2.0,0.0,v
+S2223-G0518,4,10:01,MIA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0518,4,07:31,MIA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0518,4,05:01,MIA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0518,4,04:34,MIA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0518,4,04:10,MIA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0518,4,02:47,MIA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson P.FOUL (P1.T3) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2223-G0518,4,01:33,MIA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0518,4,01:15,MIA,,LAL,,J. Toscano-Anderson,LAL,SUB: Brown Jr. FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0037,1,02:07,LAL,,POR,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0037,1,00:54.900000,LAL,,POR,,J. Toscano-Anderson,LAL,Toscano-Anderson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0037,1,00:32.700000,LAL,,POR,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0037,2,02:21,LAL,,POR,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,-223,31,0,1,3.0,0.0,h
+S2223-G0037,2,02:16,LAL,45.0,POR,48.0,J. Toscano-Anderson,LAL,Toscano-Anderson 3' Cutting Layup Shot (2 PTS) (Westbrook 2 AST),Made Shot,Cutting Layup Shot,18,19,3,1,2.0,2.0,h
+S2223-G0037,3,03:24,LAL,,POR,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0037,4,09:52,LAL,85.0,POR,84.0,J. Toscano-Anderson,LAL,Toscano-Anderson 2' Cutting Layup Shot (4 PTS) (James 7 AST),Made Shot,Cutting Layup Shot,18,10,2,1,2.0,2.0,h
+S2223-G0037,4,07:42,LAL,,POR,,J. Toscano-Anderson,LAL,SUB: Davis FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0037,4,00:03,LAL,,POR,,J. Toscano-Anderson,LAL,SUB: Reaves FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0719,1,03:42,LAL,,LAC,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-1,55,6,1,2.0,0.0,h
+S2223-G0719,1,02:15,LAL,,LAC,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0719,1,01:06,LAL,,LAC,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 28' 3PT Jump Shot,Missed Shot,Jump Shot,-165,232,28,1,3.0,0.0,h
+S2223-G0719,1,00:28.400000,LAL,,LAC,,J. Toscano-Anderson,LAL,SUB: Christie FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0719,3,02:36,LAL,,LAC,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P1.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0719,3,00:41.800000,LAL,,LAC,,J. Toscano-Anderson,LAL,Toscano-Anderson P.FOUL (P2.T3) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G0719,4,03:30,LAL,108.0,LAC,125.0,J. Toscano-Anderson,LAL,Toscano-Anderson 4' Driving Layup (2 PTS) (Pippen Jr. 1 AST),Made Shot,Driving Layup Shot,7,36,4,1,2.0,2.0,h
+S2223-G0719,4,01:06,LAL,115.0,LAC,130.0,J. Toscano-Anderson,LAL,Toscano-Anderson 4' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,0,41,4,1,2.0,2.0,h
+S2223-G0719,4,00:31.100000,LAL,,LAC,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-208,122,24,1,3.0,0.0,h
+S2223-G0968,2,09:36,OKC,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson OFF.Foul (P1) (P.Fraher),Foul,Offensive,0,0,0,0,,,v
+S2223-G0968,2,09:36,OKC,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0968,2,06:51,OKC,,UTA,,J. Toscano-Anderson,UTA,SUB: Clarkson FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0909,3,02:56,UTA,,SAS,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-20,9,2,1,2.0,0.0,h
+S2223-G0909,3,02:09,UTA,,SAS,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0909,3,00:34.800000,UTA,,SAS,,J. Toscano-Anderson,UTA,Toscano-Anderson Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0909,4,11:35,UTA,,SAS,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0909,4,10:31,UTA,,SAS,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0909,4,10:21,UTA,,SAS,,J. Toscano-Anderson,UTA,Toscano-Anderson S.FOUL (P1.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0909,4,09:01,UTA,,SAS,,J. Toscano-Anderson,UTA,Toscano-Anderson S.FOUL (P2.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0909,4,08:26,UTA,,SAS,,J. Toscano-Anderson,UTA,Toscano-Anderson S.FOUL (P3.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0909,4,08:24,UTA,,SAS,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0909,4,07:13,UTA,,SAS,,J. Toscano-Anderson,UTA,SUB: Kessler FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0677,4,10:17,LAL,88.0,SAC,92.0,J. Toscano-Anderson,LAL,Toscano-Anderson 2' Running Layup (2 PTS) (James 4 AST),Made Shot,Running Layup Shot,20,6,2,1,2.0,2.0,h
+S2223-G0677,4,08:51,LAL,,SAC,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P1.T4) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0677,4,07:00,LAL,101.0,SAC,100.0,J. Toscano-Anderson,LAL,Toscano-Anderson 2' Driving Layup (4 PTS) (James 8 AST),Made Shot,Driving Layup Shot,20,5,2,1,2.0,2.0,h
+S2223-G0677,4,06:27,LAL,,SAC,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0677,4,06:20,LAL,,SAC,,J. Toscano-Anderson,LAL,SUB: James FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0677,4,00:12.300000,LAL,,SAC,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P2.PN) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0677,4,00:12,LAL,,SAC,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0677,4,00:12,LAL,,SAC,,J. Toscano-Anderson,LAL,SUB: Christie FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0729,4,00:39.500000,LAL,,SAS,,J. Toscano-Anderson,LAL,Toscano-Anderson Out of Bounds Lost Ball Turnover (P1.T19),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0705,1,00:51.800000,POR,,LAL,,J. Toscano-Anderson,LAL,SUB: James FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0705,3,00:00.400000,POR,,LAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 5' Reverse Layup,Missed Shot,Reverse Layup Shot,-50,1,5,1,2.0,0.0,v
+S2223-G1143,1,11:46,SAS,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1143,1,05:38,SAS,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,1,05:37,SAS,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 2' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,-16,2,2,1,2.0,0.0,v
+S2223-G1143,1,04:48,SAS,,UTA,,J. Toscano-Anderson,UTA,SUB: Samanic FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G1143,2,06:57,SAS,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,2,05:30,SAS,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-132,223,26,1,3.0,0.0,v
+S2223-G1143,2,03:28,SAS,49.0,UTA,55.0,J. Toscano-Anderson,UTA,Toscano-Anderson 2' Driving Floating Bank Jump Shot (2 PTS) (Horton-Tucker 2 AST),Made Shot,Driving Floating Bank Jump Shot,6,20,2,1,2.0,2.0,v
+S2223-G1143,3,10:57,SAS,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson Violation:Defensive Goaltending (M.Smith),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G1143,3,10:38,SAS,64.0,UTA,66.0,J. Toscano-Anderson,UTA,Toscano-Anderson 10' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,33,99,10,1,2.0,2.0,v
+S2223-G1143,3,09:25,SAS,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,3,08:40,SAS,68.0,UTA,73.0,J. Toscano-Anderson,UTA,Toscano-Anderson 9' Floating Jump Shot (6 PTS) (Horton-Tucker 3 AST),Made Shot,Floating Jump shot,25,82,9,1,2.0,2.0,v
+S2223-G1143,3,06:57,SAS,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1143,3,06:13,SAS,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1143,3,03:30,SAS,,UTA,,J. Toscano-Anderson,UTA,SUB: Jones FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0590,1,10:43,LAL,9.0,ATL,2.0,J. Toscano-Anderson,LAL,Toscano-Anderson 1' Running Reverse Layup (2 PTS) (James 1 AST),Made Shot,Running Reverse Layup Shot,1,9,1,1,2.0,2.0,h
+S2223-G0590,1,08:51,LAL,,ATL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0590,1,06:55,LAL,,ATL,,J. Toscano-Anderson,LAL,SUB: Westbrook FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0590,2,08:04,LAL,51.0,ATL,30.0,J. Toscano-Anderson,LAL,Toscano-Anderson 3' Cutting Layup Shot (4 PTS) (Nunn 1 AST),Made Shot,Cutting Layup Shot,0,32,3,1,2.0,2.0,h
+S2223-G0590,2,07:45,LAL,,ATL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0590,2,06:33,LAL,,ATL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0590,2,04:39,LAL,,ATL,,J. Toscano-Anderson,LAL,SUB: James FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0590,2,00:30.200000,LAL,,ATL,,J. Toscano-Anderson,LAL,Toscano-Anderson P.FOUL (P1.PN) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2223-G0590,3,09:28,LAL,,ATL,,J. Toscano-Anderson,LAL,Toscano-Anderson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0590,3,08:18,LAL,,ATL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0590,3,07:39,LAL,,ATL,,J. Toscano-Anderson,LAL,SUB: Westbrook FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0590,3,02:36,LAL,,ATL,,J. Toscano-Anderson,LAL,Toscano-Anderson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0590,3,02:06,LAL,,ATL,,J. Toscano-Anderson,LAL,Toscano-Anderson OFF.Foul (P2) (E.Malloy),Foul,Offensive,0,0,0,0,,,h
+S2223-G0590,3,02:06,LAL,,ATL,,J. Toscano-Anderson,LAL,Toscano-Anderson Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0590,3,00:02,LAL,,ATL,,J. Toscano-Anderson,LAL,Toscano-Anderson STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0590,3,00:00.200000,LAL,,ATL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 36' 3PT Jump Shot,Missed Shot,Jump Shot,-151,331,36,1,3.0,0.0,h
+S2223-G0590,4,01:17,LAL,,ATL,,J. Toscano-Anderson,LAL,SUB: Swider FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G1102,2,11:50,UTA,26.0,MIL,40.0,J. Toscano-Anderson,UTA,Toscano-Anderson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1102,2,11:50,UTA,27.0,MIL,40.0,J. Toscano-Anderson,UTA,Toscano-Anderson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1102,2,06:38,UTA,41.0,MIL,51.0,J. Toscano-Anderson,UTA,Toscano-Anderson 3' Running Dunk (4 PTS) (Agbaji 1 AST),Made Shot,Running Dunk Shot,9,31,3,1,2.0,2.0,h
+S2223-G1102,2,06:12,UTA,,MIL,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,-222,-31,0,1,3.0,0.0,h
+S2223-G1102,2,05:30,UTA,,MIL,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1102,2,03:52,UTA,,MIL,,J. Toscano-Anderson,UTA,SUB: Fontecchio FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G1102,3,05:56,UTA,,MIL,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1102,3,04:23,UTA,73.0,MIL,100.0,J. Toscano-Anderson,UTA,Toscano-Anderson 9' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,-83,23,9,1,2.0,2.0,h
+S2223-G1102,3,03:28,UTA,76.0,MIL,103.0,J. Toscano-Anderson,UTA,Toscano-Anderson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1102,3,03:28,UTA,77.0,MIL,103.0,J. Toscano-Anderson,UTA,Toscano-Anderson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1102,3,01:05,UTA,,MIL,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-80,85,12,1,2.0,0.0,h
+S2223-G0157,1,02:14,UTA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson FLAGRANT.FOUL.TYPE1 (P1.T4) (S.Corbin),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2223-G0157,1,01:56,UTA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0157,1,00:26.100000,UTA,,LAL,,J. Toscano-Anderson,LAL,SUB: Nunn FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0157,2,09:37,UTA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0157,2,09:26,UTA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0157,2,09:23,UTA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson Violation:Defensive Goaltending (S.Corbin),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0157,2,08:37,UTA,,LAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 7' Driving Layup,Missed Shot,Driving Layup Shot,-37,60,7,1,2.0,0.0,v
+S2223-G0157,2,08:13,UTA,,LAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,-234,16,0,1,3.0,0.0,v
+S2223-G0157,2,07:53,UTA,,LAL,,J. Toscano-Anderson,LAL,SUB: Reaves FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0157,4,05:47,UTA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0157,4,05:17,UTA,,LAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 5' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,-33,41,5,1,2.0,0.0,v
+S2223-G0157,4,05:04,UTA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0157,4,02:27,UTA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson P.FOUL (P2.T3) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0157,4,02:13,UTA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0157,4,00:45.500000,UTA,,LAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,110,42,12,1,2.0,0.0,v
+S2223-G0157,4,00:34.200000,UTA,139.0,LAL,116.0,J. Toscano-Anderson,LAL,Toscano-Anderson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0157,4,00:34.200000,UTA,,LAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1091,2,09:14,UTA,,POR,,J. Toscano-Anderson,UTA,Toscano-Anderson Offensive Charge Foul (P1) (D.Richardson),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1091,2,09:14,UTA,,POR,,J. Toscano-Anderson,UTA,Toscano-Anderson Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1091,2,08:00,UTA,42.0,POR,39.0,J. Toscano-Anderson,UTA,Toscano-Anderson 11' Driving Floating Jump Shot (2 PTS) (Kessler 1 AST),Made Shot,Driving Floating Jump Shot,0,111,11,1,2.0,2.0,h
+S2223-G1091,2,06:12,UTA,,POR,,J. Toscano-Anderson,UTA,SUB: Olynyk FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G1091,4,10:04,UTA,,POR,,J. Toscano-Anderson,UTA,Toscano-Anderson Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1091,4,08:43,UTA,,POR,,J. Toscano-Anderson,UTA,Toscano-Anderson L.B.FOUL (P2.T4) (J.DeRosa),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1091,4,07:25,UTA,,POR,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1091,4,07:22,UTA,,POR,,J. Toscano-Anderson,UTA,SUB: Markkanen FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G1091,4,00:34.900000,UTA,,POR,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1005,2,10:14,CHA,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 1' Driving Layup,Missed Shot,Driving Layup Shot,11,4,1,1,2.0,0.0,v
+S2223-G1005,2,08:27,CHA,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1005,2,08:24,CHA,35.0,UTA,43.0,J. Toscano-Anderson,UTA,Toscano-Anderson 2' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,-1,18,2,1,2.0,2.0,v
+S2223-G1005,2,08:07,CHA,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1005,2,07:39,CHA,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1005,2,06:00,CHA,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson S.FOUL (P1.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G1005,2,05:24,CHA,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1005,2,04:31,CHA,,UTA,,J. Toscano-Anderson,UTA,SUB: Markkanen FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G1228,1,01:33,LAL,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,-223,2,0,1,3.0,0.0,v
+S2223-G1228,1,01:17,LAL,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1228,1,00:56.500000,LAL,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1228,1,00:31.800000,LAL,31.0,UTA,23.0,J. Toscano-Anderson,UTA,Toscano-Anderson 24' 3PT Jump Shot (3 PTS) (Fontecchio 1 AST),Made Shot,Jump Shot,224,89,24,1,3.0,3.0,v
+S2223-G1228,2,10:49,LAL,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1228,2,09:52,LAL,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1228,2,09:49,LAL,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 2' Running Layup,Missed Shot,Running Layup Shot,11,14,2,1,2.0,0.0,v
+S2223-G1228,2,06:05,LAL,,UTA,,J. Toscano-Anderson,UTA,SUB: Olynyk FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G1228,3,03:18,LAL,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson P.FOUL (P1.T3) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2223-G1228,4,10:11,LAL,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1228,4,10:03,LAL,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 8' Floating Jump Shot,Missed Shot,Floating Jump shot,0,80,8,1,2.0,0.0,v
+S2223-G1228,4,07:51,LAL,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,225,33,0,1,3.0,0.0,v
+S2223-G1228,4,05:39,LAL,,UTA,,J. Toscano-Anderson,UTA,SUB: Azubuike FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0655,1,10:26,LAL,,PHI,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0655,1,10:02,LAL,,PHI,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0655,1,09:10,LAL,4.0,PHI,5.0,J. Toscano-Anderson,LAL,Toscano-Anderson 1' Cutting Layup Shot (2 PTS) (James 1 AST),Made Shot,Cutting Layup Shot,4,11,1,1,2.0,2.0,h
+S2223-G0655,1,07:49,LAL,,PHI,,J. Toscano-Anderson,LAL,Toscano-Anderson P.FOUL (P1.T1) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0655,1,05:00,LAL,,PHI,,J. Toscano-Anderson,LAL,SUB: Gabriel FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0655,2,03:01,LAL,,PHI,,J. Toscano-Anderson,LAL,Toscano-Anderson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0655,2,02:27,LAL,,PHI,,J. Toscano-Anderson,LAL,SUB: Brown Jr. FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0655,3,09:47,LAL,,PHI,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0655,3,07:27,LAL,,PHI,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0655,3,07:25,LAL,66.0,PHI,67.0,J. Toscano-Anderson,LAL,Toscano-Anderson 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,4,17,2,1,2.0,2.0,h
+S2223-G0655,3,06:04,LAL,,PHI,,J. Toscano-Anderson,LAL,SUB: Gabriel FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0655,4,05:15,LAL,99.0,PHI,99.0,J. Toscano-Anderson,LAL,Toscano-Anderson 1' Layup (6 PTS) (James 8 AST),Made Shot,Layup Shot,1,7,1,1,2.0,2.0,h
+S2223-G0655,4,04:00,LAL,,PHI,,J. Toscano-Anderson,LAL,SUB: Westbrook FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0360,4,03:01,CLE,113.0,LAL,100.0,J. Toscano-Anderson,LAL,Toscano-Anderson 2' Driving Layup (2 PTS) (Bryant 1 AST),Made Shot,Driving Layup Shot,-16,15,2,1,2.0,2.0,v
+S2223-G0360,4,02:01,CLE,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0198,4,01:48,LAL,,BKN,,J. Toscano-Anderson,LAL,Toscano-Anderson Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0198,4,01:28,LAL,,BKN,,J. Toscano-Anderson,LAL,Toscano-Anderson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0198,4,01:26,LAL,116.0,BKN,99.0,J. Toscano-Anderson,LAL,Toscano-Anderson Running Layup (2 PTS),Made Shot,Running Layup Shot,1,-4,0,1,2.0,2.0,h
+S2223-G0198,4,00:38.300000,LAL,,BKN,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2223-G0064,1,02:46,DEN,22.0,LAL,20.0,J. Toscano-Anderson,LAL,Toscano-Anderson 3' Cutting Layup Shot (2 PTS) (Davis 2 AST),Made Shot,Cutting Layup Shot,25,17,3,1,2.0,2.0,v
+S2223-G0064,1,02:05,DEN,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0064,1,00:04.200000,DEN,,LAL,,J. Toscano-Anderson,LAL,SUB: James FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0064,2,05:36,DEN,,LAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-65,102,12,1,2.0,0.0,v
+S2223-G0064,2,04:39,DEN,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson L.B.FOUL (P1.T3) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0064,2,02:53,DEN,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0064,2,02:32,DEN,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson P.FOUL (P2.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G0064,2,02:32,DEN,,LAL,,J. Toscano-Anderson,LAL,SUB: James FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0064,3,03:27,DEN,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P3.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0064,3,01:06,DEN,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0064,3,00:52.600000,DEN,,LAL,,J. Toscano-Anderson,LAL,SUB: James FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0930,3,02:23,UTA,,SAS,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 2' Running Layup,Missed Shot,Running Layup Shot,16,16,2,1,2.0,0.0,h
+S2223-G0930,4,11:55,UTA,,SAS,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,37,24,1,3.0,0.0,h
+S2223-G0930,4,11:43,UTA,,SAS,,J. Toscano-Anderson,UTA,Toscano-Anderson S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G0930,4,11:41,UTA,,SAS,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0930,4,09:12,UTA,,SAS,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 4' Driving Layup,Missed Shot,Driving Layup Shot,6,35,4,1,2.0,0.0,h
+S2223-G0930,4,07:53,UTA,,SAS,,J. Toscano-Anderson,UTA,SUB: Olynyk FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0530,1,02:54,ATL,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P1.T4) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0530,1,02:10,ATL,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0530,1,00:28.400000,ATL,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0530,2,01:16,ATL,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P2.PN) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0530,3,06:16,ATL,79.0,LAL,72.0,J. Toscano-Anderson,LAL,Toscano-Anderson 1' Running Layup (2 PTS) (Schroder 5 AST),Made Shot,Running Layup Shot,0,5,1,1,2.0,2.0,v
+S2223-G0530,3,05:55,ATL,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0530,3,05:15,ATL,79.0,LAL,77.0,J. Toscano-Anderson,LAL,Toscano-Anderson 3PT Jump Shot (5 PTS) (Schroder 7 AST),Made Shot,Jump Shot,-233,21,0,1,3.0,3.0,v
+S2223-G0530,3,04:45,ATL,,LAL,,J. Toscano-Anderson,LAL,SUB: Reaves FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0530,4,10:50,ATL,,LAL,,J. Toscano-Anderson,LAL,SUB: James FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0530,4,05:25,ATL,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson P.FOUL (P3.T3) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0530,4,04:07,ATL,111.0,LAL,114.0,J. Toscano-Anderson,LAL,Toscano-Anderson 18' Jump Shot (7 PTS) (Schroder 9 AST),Made Shot,Jump Shot,179,41,18,1,2.0,2.0,v
+S2223-G0530,4,00:10,ATL,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0879,1,00:10.800000,MEM,35.0,UTA,24.0,J. Toscano-Anderson,UTA,Toscano-Anderson 3PT Jump Shot (3 PTS) (Clarkson 1 AST),Made Shot,Jump Shot,229,26,0,1,3.0,3.0,v
+S2223-G0879,1,00:00,MEM,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 44' 3PT Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,81,431,44,1,3.0,0.0,v
+S2223-G0879,2,09:12,MEM,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0879,2,09:05,MEM,48.0,UTA,28.0,J. Toscano-Anderson,UTA,Toscano-Anderson 5' Layup (5 PTS) (Fontecchio 2 AST),Made Shot,Layup Shot,38,30,5,1,2.0,2.0,v
+S2223-G0879,2,07:52,MEM,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0879,2,06:47,MEM,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0879,2,05:15,MEM,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0879,2,05:01,MEM,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson P.FOUL (P1.T2) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2223-G0879,2,04:08,MEM,,UTA,,J. Toscano-Anderson,UTA,SUB: Clarkson FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0879,3,02:56,MEM,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0879,3,02:41,MEM,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson Bad Pass Turnover (P1.T20),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0879,3,01:17,MEM,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0879,3,00:04.200000,MEM,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0879,3,00:00,MEM,88.0,UTA,80.0,J. Toscano-Anderson,UTA,Toscano-Anderson 1' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,5,12,1,1,2.0,2.0,v
+S2223-G0879,4,11:43,MEM,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0879,4,10:55,MEM,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0879,4,08:07,MEM,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0879,4,07:38,MEM,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0879,4,05:02,MEM,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 21' Jump Shot,Missed Shot,Jump Shot,210,44,21,1,2.0,0.0,v
+S2223-G0879,4,04:40,MEM,,UTA,,J. Toscano-Anderson,UTA,SUB: Olynyk FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0183,1,05:47,LAL,11.0,SAC,13.0,J. Toscano-Anderson,LAL,Toscano-Anderson 3PT Jump Shot (3 PTS) (Westbrook 1 AST),Made Shot,Jump Shot,227,58,0,1,3.0,3.0,h
+S2223-G0183,1,02:05,LAL,,SAC,,J. Toscano-Anderson,LAL,SUB: Brown Jr. FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0183,1,01:09,LAL,,SAC,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0183,3,09:33,LAL,,SAC,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0183,3,08:45,LAL,,SAC,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 5' Reverse Layup,Missed Shot,Reverse Layup Shot,-45,18,5,1,2.0,0.0,h
+S2223-G0183,3,08:28,LAL,,SAC,,J. Toscano-Anderson,LAL,SUB: Westbrook FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0183,3,04:31,LAL,,SAC,,J. Toscano-Anderson,LAL,Toscano-Anderson L.B.FOUL (P1.T4) (R.Mott),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0183,3,04:04,LAL,,SAC,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0183,3,04:04,LAL,77.0,SAC,75.0,J. Toscano-Anderson,LAL,Toscano-Anderson Putback Layup (5 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0183,3,03:43,LAL,,SAC,,J. Toscano-Anderson,LAL,Toscano-Anderson OFF.Foul (P2) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,h
+S2223-G0183,3,03:43,LAL,,SAC,,J. Toscano-Anderson,LAL,Toscano-Anderson Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0183,3,03:28,LAL,,SAC,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P3.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0140,1,04:22,LAL,28.0,CLE,17.0,J. Toscano-Anderson,LAL,Toscano-Anderson 3' Driving Floating Jump Shot (2 PTS) (Westbrook 2 AST),Made Shot,Driving Floating Jump Shot,0,25,3,1,2.0,2.0,h
+S2223-G0140,1,03:46,LAL,,CLE,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0140,1,01:14,LAL,,CLE,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 26' 3PT Jump Shot,Missed Shot,Jump Shot,191,178,26,1,3.0,0.0,h
+S2223-G0140,1,00:17.900000,LAL,,CLE,,J. Toscano-Anderson,LAL,LAKERS T.Foul (Def. 3 Sec Toscano-Anderson ) (S.Twardoski),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G0140,1,00:03.400000,LAL,,CLE,,J. Toscano-Anderson,LAL,SUB: Ryan FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0140,4,02:57,LAL,,CLE,,J. Toscano-Anderson,LAL,Toscano-Anderson OFF.Foul (P1) (S.Twardoski),Foul,Offensive,0,0,0,0,,,h
+S2223-G0140,4,02:57,LAL,,CLE,,J. Toscano-Anderson,LAL,Toscano-Anderson Offensive Foul Turnover (P1.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0140,4,00:41.200000,LAL,,CLE,,J. Toscano-Anderson,LAL,Toscano-Anderson P.FOUL (P2.PN) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G1213,1,09:35,UTA,,DEN,,J. Toscano-Anderson,UTA,Toscano-Anderson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1213,1,08:47,UTA,,DEN,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 26' 3PT Jump Shot,Missed Shot,Jump Shot,186,175,26,1,3.0,0.0,h
+S2223-G1213,1,03:50,UTA,,DEN,,J. Toscano-Anderson,UTA,Toscano-Anderson S.FOUL (P1.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G1213,1,03:50,UTA,,DEN,,J. Toscano-Anderson,UTA,SUB: Juzang FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G1213,2,07:21,UTA,,DEN,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,42,55,7,1,2.0,0.0,h
+S2223-G1213,2,06:46,UTA,,DEN,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 4' Layup,Missed Shot,Layup Shot,25,26,4,1,2.0,0.0,h
+S2223-G1213,2,06:43,UTA,,DEN,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,2,06:43,UTA,,DEN,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G1213,2,04:45,UTA,48.0,DEN,36.0,J. Toscano-Anderson,UTA,Toscano-Anderson 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-23,13,3,1,2.0,2.0,h
+S2223-G1213,2,01:12,UTA,,DEN,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-229,89,25,1,3.0,0.0,h
+S2223-G1213,2,00:52,UTA,,DEN,,J. Toscano-Anderson,UTA,Toscano-Anderson Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1213,3,08:29,UTA,,DEN,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,3,08:25,UTA,69.0,DEN,66.0,J. Toscano-Anderson,UTA,Toscano-Anderson 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,26,0,3,1,2.0,2.0,h
+S2223-G1213,3,08:25,UTA,70.0,DEN,66.0,J. Toscano-Anderson,UTA,Toscano-Anderson Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1213,3,05:41,UTA,,DEN,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 2' Reverse Layup,Missed Shot,Reverse Layup Shot,13,11,2,1,2.0,0.0,h
+S2223-G1213,3,03:50,UTA,,DEN,,J. Toscano-Anderson,UTA,SUB: Potter FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G1213,4,05:55,UTA,,DEN,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,4,05:55,UTA,,DEN,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G1213,4,05:54,UTA,,DEN,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,4,03:51,UTA,,DEN,,J. Toscano-Anderson,UTA,Toscano-Anderson S.FOUL (P2.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G1213,4,03:28,UTA,,DEN,,J. Toscano-Anderson,UTA,Toscano-Anderson P.FOUL (P3.PN) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2223-G1213,4,02:42,UTA,,DEN,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:5 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1213,4,02:42,UTA,109.0,DEN,109.0,J. Toscano-Anderson,UTA,Toscano-Anderson Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1213,4,02:42,UTA,110.0,DEN,109.0,J. Toscano-Anderson,UTA,Toscano-Anderson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1213,4,02:23,UTA,,DEN,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0951,3,02:46,OKC,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-37,22,4,1,2.0,0.0,v
+S2223-G0951,4,11:21,OKC,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,5,75,8,1,2.0,0.0,v
+S2223-G0951,4,09:14,OKC,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson P.FOUL (P1.T1) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2223-G0951,4,07:52,OKC,,UTA,,J. Toscano-Anderson,UTA,SUB: Agbaji FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0551,1,03:19,CHA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0551,1,01:54,CHA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0551,3,05:34,CHA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0551,3,03:48,CHA,,LAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,230,25,0,1,3.0,0.0,v
+S2223-G0551,3,03:34,CHA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson P.FOUL (P1.PN) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0551,3,02:44,CHA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P2.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0551,3,02:14,CHA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson P.FOUL (P3.PN) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G0551,3,01:33,CHA,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson Violation:Kicked Ball (C.Kirkland),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0551,3,00:25.700000,CHA,,LAL,,J. Toscano-Anderson,LAL,SUB: James FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0551,4,00:11.400000,CHA,,LAL,,J. Toscano-Anderson,LAL,SUB: Reaves FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0366,1,10:36,TOR,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0366,1,08:04,TOR,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0366,1,07:49,TOR,,LAL,,J. Toscano-Anderson,LAL,SUB: Walker IV FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0366,2,08:02,TOR,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0366,2,06:30,TOR,,LAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-153,54,16,1,2.0,0.0,v
+S2223-G0366,2,05:42,TOR,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P1.T3) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0366,2,04:39,TOR,,LAL,,J. Toscano-Anderson,LAL,SUB: Reaves FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0366,3,10:53,TOR,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0366,3,10:18,TOR,,LAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0366,3,10:18,TOR,72.0,LAL,50.0,J. Toscano-Anderson,LAL,Toscano-Anderson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0366,3,07:16,TOR,76.0,LAL,56.0,J. Toscano-Anderson,LAL,Toscano-Anderson 21' Jump Shot (3 PTS) (Reaves 3 AST),Made Shot,Jump Shot,-212,20,21,1,2.0,2.0,v
+S2223-G0366,3,05:55,TOR,,LAL,,J. Toscano-Anderson,LAL,SUB: Walker IV FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0366,4,08:59,TOR,,LAL,,J. Toscano-Anderson,LAL,SUB: Jones FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G1062,2,09:16,UTA,,BOS,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1062,2,06:32,UTA,,BOS,,J. Toscano-Anderson,UTA,SUB: Fontecchio FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G1062,4,10:53,UTA,,BOS,,J. Toscano-Anderson,UTA,Toscano-Anderson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1062,4,08:30,UTA,,BOS,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1062,4,08:27,UTA,,BOS,,J. Toscano-Anderson,UTA,Toscano-Anderson L.B.FOUL (P1.T1) (K.Cutler),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1062,4,08:27,UTA,,BOS,,J. Toscano-Anderson,UTA,SUB: Kessler FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0690,1,01:29,LAL,,MEM,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0690,1,00:04.300000,LAL,,MEM,,J. Toscano-Anderson,LAL,SUB: Brown Jr. FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0690,3,03:28,LAL,,MEM,,J. Toscano-Anderson,LAL,Toscano-Anderson P.FOUL (P1.PN) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2223-G0690,3,01:58,LAL,,MEM,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-11,29,3,1,2.0,0.0,h
+S2223-G0690,3,01:25,LAL,75.0,MEM,85.0,J. Toscano-Anderson,LAL,Toscano-Anderson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0690,3,01:25,LAL,,MEM,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0690,3,00:30.800000,LAL,78.0,MEM,88.0,J. Toscano-Anderson,LAL,Toscano-Anderson Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0690,3,00:30.800000,LAL,79.0,MEM,88.0,J. Toscano-Anderson,LAL,Toscano-Anderson Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0690,3,00:10.700000,LAL,,MEM,,J. Toscano-Anderson,LAL,SUB: Nunn FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0690,4,00:07.600000,LAL,,MEM,,J. Toscano-Anderson,LAL,SUB: Gabriel FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0002,1,03:47,GSW,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0002,1,02:42,GSW,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson L.B.FOUL (P1.T4) (R.Mott),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0002,1,02:24,GSW,,LAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,223,22,0,1,3.0,0.0,v
+S2223-G0002,1,01:23,GSW,,LAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-181,184,26,1,3.0,0.0,v
+S2223-G0002,1,00:02.600000,GSW,,LAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-194,169,26,1,3.0,0.0,v
+S2223-G0002,2,04:08,GSW,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0002,2,04:03,GSW,,LAL,,J. Toscano-Anderson,LAL,SUB: Davis FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0002,3,03:45,GSW,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0002,3,03:45,GSW,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson Lost Ball Turnover (P2.T18),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0002,4,11:05,GSW,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0002,4,10:30,GSW,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0002,4,10:02,GSW,,LAL,,J. Toscano-Anderson,LAL,SUB: Davis FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0002,4,01:52,GSW,,LAL,,J. Toscano-Anderson,LAL,SUB: Ryan FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G1111,1,03:47,SAC,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1111,1,01:38,SAC,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1111,1,01:09,SAC,30.0,UTA,21.0,J. Toscano-Anderson,UTA,Toscano-Anderson 2' Cutting Layup Shot (2 PTS) (Dunn 2 AST),Made Shot,Cutting Layup Shot,-23,4,2,1,2.0,2.0,v
+S2223-G1111,3,05:24,SAC,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1111,3,00:00,SAC,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 30' 3PT Jump Shot,Missed Shot,Jump Shot,-153,260,30,1,3.0,0.0,v
+S2223-G0757,1,01:13,BKN,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0757,1,01:07,BKN,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0757,1,00:07.200000,BKN,,LAL,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-16,-3,2,1,2.0,0.0,v
+S2223-G0757,3,01:46,BKN,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P1.T4) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0757,3,01:23,BKN,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson Violation:Kicked Ball (B.Taylor),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0757,4,01:04,BKN,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0595,1,10:02,SAC,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P1.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0595,1,09:32,SAC,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson OFF.Foul (P2) (J.Goble),Foul,Offensive,0,0,0,0,,,v
+S2223-G0595,1,09:32,SAC,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0595,1,08:40,SAC,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0595,1,06:14,SAC,,LAL,,J. Toscano-Anderson,LAL,SUB: Westbrook FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0595,2,06:26,SAC,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P3.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0595,2,06:26,SAC,,LAL,,J. Toscano-Anderson,LAL,SUB: Christie FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0595,3,11:28,SAC,76.0,LAL,75.0,J. Toscano-Anderson,LAL,Toscano-Anderson 3' Reverse Layup (2 PTS) (James 6 AST),Made Shot,Reverse Layup Shot,-26,15,3,1,2.0,2.0,v
+S2223-G0595,3,09:57,SAC,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0595,3,08:41,SAC,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0595,3,08:41,SAC,,LAL,,J. Toscano-Anderson,LAL,SUB: Christie FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0595,3,00:27,SAC,109.0,LAL,107.0,J. Toscano-Anderson,LAL,Toscano-Anderson 3' Layup (4 PTS) (Westbrook 13 AST),Made Shot,Layup Shot,-31,13,3,1,2.0,2.0,v
+S2223-G0595,3,00:10.900000,SAC,,LAL,,J. Toscano-Anderson,LAL,SUB: Schroder FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0595,4,04:14,SAC,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P4.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0595,4,04:14,SAC,,LAL,,J. Toscano-Anderson,LAL,SUB: Christie FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0595,4,00:22.300000,SAC,,LAL,,J. Toscano-Anderson,LAL,SUB: Bryant FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0595,4,00:06.800000,SAC,,LAL,,J. Toscano-Anderson,LAL,SUB: Bryant FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0983,2,10:13,DAL,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0983,2,09:07,DAL,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0983,2,08:20,DAL,51.0,UTA,40.0,J. Toscano-Anderson,UTA,Toscano-Anderson 24' 3PT Jump Shot (3 PTS) (Horton-Tucker 3 AST),Made Shot,Jump Shot,229,74,24,1,3.0,3.0,v
+S2223-G0983,2,07:22,DAL,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0983,2,06:04,DAL,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 10' Jump Shot,Missed Shot,Jump Shot,-98,8,10,1,2.0,0.0,v
+S2223-G0983,2,05:47,DAL,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0983,2,05:18,DAL,,UTA,,J. Toscano-Anderson,UTA,MISS Toscano-Anderson 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,50,24,1,3.0,0.0,v
+S2223-G0983,2,05:02,DAL,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0983,2,04:59,DAL,53.0,UTA,46.0,J. Toscano-Anderson,UTA,Toscano-Anderson 3' Running Finger Roll Layup (5 PTS),Made Shot,Running Finger Roll Layup Shot,-7,31,3,1,2.0,2.0,v
+S2223-G0983,2,04:59,DAL,,UTA,,J. Toscano-Anderson,UTA,SUB: Dunn FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0170,2,09:01,LAC,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P1.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G0170,2,09:00,LAC,,LAL,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0170,2,07:18,LAC,,LAL,,J. Toscano-Anderson,LAL,SUB: Davis FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0609,1,06:49,DEN,9.0,,11.0,J. Toscano-Anderson,LAL,Toscano-Anderson 2' Reverse Layup (2 PTS) (Westbrook 1 AST),Made Shot,Reverse Layup Shot,21,6,2,1,2.0,2.0,v
+S2223-G0609,1,04:25,DEN,,,,J. Toscano-Anderson,LAL,SUB: Brown FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0609,2,04:22,DEN,,,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 4' Layup,Missed Shot,Layup Shot,-36,21,4,1,2.0,0.0,v
+S2223-G0609,2,03:31,DEN,,,,J. Toscano-Anderson,LAL,SUB: Swider FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0609,3,08:18,DEN,,,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0609,3,07:18,DEN,69.0,,60.0,J. Toscano-Anderson,LAL,Toscano-Anderson 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,20,14,2,1,2.0,2.0,v
+S2223-G0609,3,06:38,DEN,,,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 3' Reverse Layup,Missed Shot,Reverse Layup Shot,27,5,3,1,2.0,0.0,v
+S2223-G0609,3,06:17,DEN,,,,J. Toscano-Anderson,LAL,SUB: Brown FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0609,4,08:15,DEN,,,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0609,4,08:15,DEN,101.0,,86.0,J. Toscano-Anderson,LAL,Toscano-Anderson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0609,4,07:28,DEN,,,,J. Toscano-Anderson,LAL,SUB: Bryant FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0131,2,00:44.700000,LAL,,UTA,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P1.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0131,3,04:39,LAL,,UTA,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0131,3,02:29,LAL,,UTA,,J. Toscano-Anderson,LAL,Toscano-Anderson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0131,4,10:40,LAL,96.0,UTA,102.0,J. Toscano-Anderson,LAL,Toscano-Anderson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0131,4,10:40,LAL,97.0,UTA,102.0,J. Toscano-Anderson,LAL,Toscano-Anderson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0131,4,08:42,LAL,,UTA,,J. Toscano-Anderson,LAL,SUB: Reaves FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G1022,2,11:51,MIA,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1022,2,07:29,MIA,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1022,2,06:04,MIA,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G1022,2,06:04,MIA,,UTA,,J. Toscano-Anderson,UTA,SUB: Horton-Tucker FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G1022,4,10:27,MIA,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson P.FOUL (P2.T2) (E.Lewis),Foul,Personal,0,0,0,0,,,v
+S2223-G1022,4,10:08,MIA,94.0,UTA,95.0,J. Toscano-Anderson,UTA,Toscano-Anderson 3' Cutting Layup Shot (2 PTS) (Gay 2 AST),Made Shot,Cutting Layup Shot,-18,26,3,1,2.0,2.0,v
+S2223-G1022,4,09:28,MIA,,UTA,,J. Toscano-Anderson,UTA,Toscano-Anderson P.FOUL (P3.T3) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2223-G1022,4,07:11,MIA,107.0,UTA,104.0,J. Toscano-Anderson,UTA,Toscano-Anderson 11' Floating Jump Shot (4 PTS) (Dunn 8 AST),Made Shot,Floating Jump shot,29,107,11,1,2.0,2.0,v
+S2223-G1022,4,06:57,MIA,,UTA,,J. Toscano-Anderson,UTA,SUB: Olynyk FOR Toscano-Anderson,Substitution,,0,0,0,0,,,v
+S2223-G0664,1,03:38,LAL,,HOU,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P1.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0664,1,03:06,LAL,,HOU,,J. Toscano-Anderson,LAL,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,-221,17,0,1,3.0,0.0,h
+S2223-G0664,1,02:17,LAL,,HOU,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0664,1,01:38,LAL,,HOU,,J. Toscano-Anderson,LAL,Toscano-Anderson Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0664,1,00:00.500000,LAL,,HOU,,J. Toscano-Anderson,LAL,Toscano-Anderson S.FOUL (P2.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0664,2,05:25,LAL,,HOU,,J. Toscano-Anderson,LAL,Toscano-Anderson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0664,2,05:22,LAL,56.0,HOU,51.0,J. Toscano-Anderson,LAL,Toscano-Anderson 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,26,3,1,2.0,2.0,h
+S2223-G0664,2,02:53,LAL,63.0,HOU,58.0,J. Toscano-Anderson,LAL,Toscano-Anderson 26' 3PT Jump Shot (5 PTS) (Beverley 1 AST),Made Shot,Jump Shot,-224,125,26,1,3.0,3.0,h
+S2223-G0664,2,02:40,LAL,,HOU,,J. Toscano-Anderson,LAL,SUB: James FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0664,4,09:46,LAL,,HOU,,J. Toscano-Anderson,LAL,Toscano-Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0664,4,07:40,LAL,,HOU,,J. Toscano-Anderson,LAL,SUB: Bryant FOR Toscano-Anderson,Substitution,,0,0,0,0,,,h
+S2223-G0664,4,02:34,LAL,131.0,HOU,125.0,J. Toscano-Anderson,LAL,Toscano-Anderson 4' Cutting Layup Shot (7 PTS) (Westbrook 4 AST),Made Shot,Cutting Layup Shot,15,36,4,1,2.0,2.0,h

@@ -1,0 +1,585 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0866,2,06:01,GSW,,WAS,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0866,2,04:37,GSW,,WAS,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0866,2,04:01,GSW,,WAS,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0866,2,02:15,GSW,64.0,WAS,64.0,M. Moody,GSW,Moody Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0866,2,02:15,GSW,,WAS,,M. Moody,GSW,MISS Moody Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0866,4,11:21,GSW,,WAS,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,228,-14,0,1,3.0,0.0,h
+S2223-G0866,4,10:21,GSW,,WAS,,M. Moody,GSW,SUB: Wiggins FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0470,1,08:59,BKN,17.0,GSW,8.0,M. Moody,GSW,Moody 8' Driving Floating Jump Shot (2 PTS) (Green 3 AST),Made Shot,Driving Floating Jump Shot,13,75,8,1,2.0,2.0,v
+S2223-G0470,1,08:08,BKN,,GSW,,M. Moody,GSW,Moody S.FOUL (P1.T1) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2223-G0470,1,07:07,BKN,,GSW,,M. Moody,GSW,Moody L.B.FOUL (P2.T2) (A.Smith),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0470,1,06:22,BKN,,GSW,,M. Moody,GSW,SUB: Jerome FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0470,1,02:37,BKN,,GSW,,M. Moody,GSW,MISS Moody 25' 3PT Jump Shot,Missed Shot,Jump Shot,-205,138,25,1,3.0,0.0,v
+S2223-G0470,1,02:17,BKN,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0470,1,00:46,BKN,,GSW,,M. Moody,GSW,Moody S.FOUL (P3.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0470,1,00:46,BKN,,GSW,,M. Moody,GSW,SUB: Poole FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0470,2,05:31,BKN,68.0,GSW,36.0,M. Moody,GSW,Moody 24' 3PT Jump Shot (5 PTS) (Kuminga 2 AST),Made Shot,Jump Shot,230,59,24,1,3.0,3.0,v
+S2223-G0470,2,05:06,BKN,68.0,GSW,38.0,M. Moody,GSW,Moody 12' Driving Floating Bank Jump Shot (7 PTS) (Jerome 2 AST),Made Shot,Driving Floating Bank Jump Shot,94,74,12,1,2.0,2.0,v
+S2223-G0470,2,03:03,BKN,,GSW,,M. Moody,GSW,MISS Moody 1' Driving Layup,Missed Shot,Driving Layup Shot,10,11,1,1,2.0,0.0,v
+S2223-G0470,2,02:59,BKN,,GSW,,M. Moody,GSW,SUB: Green FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0470,3,11:08,BKN,,GSW,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0470,3,10:56,BKN,,GSW,,M. Moody,GSW,MISS Moody 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-12,15,2,1,2.0,0.0,v
+S2223-G0470,3,07:19,BKN,97.0,GSW,62.0,M. Moody,GSW,Moody 26' 3PT Jump Shot (10 PTS) (Kuminga 4 AST),Made Shot,Jump Shot,-163,206,26,1,3.0,3.0,v
+S2223-G0470,3,04:57,BKN,,GSW,,M. Moody,GSW,SUB: Jerome FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0470,4,09:46,BKN,114.0,GSW,96.0,M. Moody,GSW,Moody 3PT Jump Shot (13 PTS) (Jerome 6 AST),Made Shot,Jump Shot,-228,-1,0,1,3.0,3.0,v
+S2223-G0470,4,04:21,BKN,137.0,GSW,101.0,M. Moody,GSW,Moody 1' Driving Dunk (15 PTS) (Wiseman 2 AST),Made Shot,Driving Dunk Shot,4,7,1,1,2.0,2.0,v
+S2223-G0470,4,03:27,BKN,,GSW,,M. Moody,GSW,MISS Moody 25' 3PT Jump Shot,Missed Shot,Jump Shot,211,131,25,1,3.0,0.0,v
+S2223-G0470,4,02:52,BKN,143.0,GSW,103.0,M. Moody,GSW,Moody 4' Driving Layup (17 PTS) (Rollins 1 AST),Made Shot,Driving Layup Shot,-31,28,4,1,2.0,2.0,v
+S2223-G0372,2,06:44,UTA,,GSW,,M. Moody,GSW,MISS Moody 2' Layup,Missed Shot,Layup Shot,-6,20,2,1,2.0,0.0,v
+S2223-G0372,2,01:49,UTA,,GSW,,M. Moody,GSW,Moody S.FOUL (P1.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2223-G0372,2,01:49,UTA,,GSW,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0372,3,00:00,UTA,,GSW,,M. Moody,GSW,MISS Moody 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,32,24,1,3.0,0.0,v
+S2223-G0372,4,07:01,UTA,,GSW,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0372,4,04:40,UTA,113.0,GSW,112.0,M. Moody,GSW,Moody 27' 3PT Jump Shot (3 PTS) (Kuminga 2 AST),Made Shot,Jump Shot,-77,256,27,1,3.0,3.0,v
+S2223-G0372,4,03:31,UTA,117.0,GSW,115.0,M. Moody,GSW,Moody 26' 3PT Jump Shot (6 PTS) (Kuminga 3 AST),Made Shot,Jump Shot,-16,258,26,1,3.0,3.0,v
+S2223-G0372,4,00:33.600000,UTA,,GSW,,M. Moody,GSW,Moody Personal Take Foul (P2.T4) (M.Davis),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0372,4,00:24.900000,UTA,,GSW,,M. Moody,GSW,SUB: Jerome FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0558,1,01:02,GSW,,ATL,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,230,33,0,1,3.0,0.0,h
+S2223-G0558,1,00:03.600000,GSW,,ATL,,M. Moody,GSW,Moody REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0558,1,00:02.100000,GSW,38.0,ATL,26.0,M. Moody,GSW,Moody 4' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,40,12,4,1,2.0,2.0,h
+S2223-G0558,1,00:02.100000,GSW,,ATL,,M. Moody,GSW,MISS Moody Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0558,2,09:11,GSW,46.0,ATL,30.0,M. Moody,GSW,Moody Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0558,2,09:11,GSW,,ATL,,M. Moody,GSW,MISS Moody Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0558,2,06:48,GSW,,ATL,,M. Moody,GSW,SUB: Lamb FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0558,3,03:22,GSW,,ATL,,M. Moody,GSW,Moody Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0558,3,02:46,GSW,,ATL,,M. Moody,GSW,Moody REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0558,3,02:43,GSW,88.0,ATL,84.0,M. Moody,GSW,Moody Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0558,3,01:58,GSW,,ATL,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,-222,-12,0,1,3.0,0.0,h
+S2223-G0558,3,00:34.600000,GSW,,ATL,,M. Moody,GSW,Moody Transition Take Foul (P1.T2) (J.Butler),Foul                                    ,Transition Take,0,0,0,0,,,h
+S2223-G0558,3,00:01.300000,GSW,,ATL,,M. Moody,GSW,MISS Moody Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0558,3,00:01.300000,GSW,95.0,ATL,95.0,M. Moody,GSW,Moody Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0082,1,01:30,CHA,,GSW,,M. Moody,GSW,MISS Moody 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,118,108,16,1,2.0,0.0,v
+S2223-G0082,1,00:00,CHA,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0082,1,00:00,CHA,,GSW,,M. Moody,GSW,MISS Moody 34' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-4,337,34,1,3.0,0.0,v
+S2223-G0082,3,04:05,CHA,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0082,3,03:48,CHA,,GSW,,M. Moody,GSW,Moody P.FOUL (P1.T3) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2223-G0082,3,01:38,CHA,,GSW,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,-230,25,0,1,3.0,0.0,v
+S2223-G0082,3,01:16,CHA,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0082,3,00:27.200000,CHA,80.0,GSW,83.0,M. Moody,GSW,Moody 25' 3PT Step Back Jump Shot (3 PTS) (Jerome 2 AST),Made Shot,Step Back Jump shot,176,174,25,1,3.0,3.0,v
+S2223-G0082,4,10:51,CHA,,GSW,,M. Moody,GSW,Moody L.B.FOUL (P2.T1) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0082,4,10:45,CHA,,GSW,,M. Moody,GSW,Moody P.FOUL (P3.T2) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0082,4,09:59,CHA,86.0,GSW,85.0,M. Moody,GSW,Moody 5' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,52,5,1,2.0,2.0,v
+S2223-G0082,4,08:02,CHA,88.0,GSW,88.0,M. Moody,GSW,Moody 26' 3PT Jump Shot (8 PTS) (J. Green 1 AST),Made Shot,Jump Shot,-181,193,26,1,3.0,3.0,v
+S2223-G0082,4,07:28,CHA,,GSW,,M. Moody,GSW,SUB: D. Green FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0082,5,00:21.800000,CHA,,GSW,,M. Moody,GSW,Moody P.FOUL (P4.PN) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0128,1,10:13,NOP,,,,M. Moody,GSW,Moody S.FOUL (P1.T1) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0128,1,08:57,NOP,,,,M. Moody,GSW,MISS Moody 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-157,-12,16,1,2.0,0.0,v
+S2223-G0128,1,07:52,NOP,5.0,,11.0,M. Moody,GSW,Moody Cutting Dunk Shot (2 PTS) (Poole 1 AST),Made Shot,Cutting Dunk Shot,1,-1,0,1,2.0,2.0,v
+S2223-G0128,1,04:36,NOP,,,,M. Moody,GSW,MISS Moody 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,97,53,11,1,2.0,0.0,v
+S2223-G0128,1,04:07,NOP,,,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0128,1,04:03,NOP,15.0,,19.0,M. Moody,GSW,Moody Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0128,1,04:03,NOP,15.0,,20.0,M. Moody,GSW,Moody Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0128,1,03:56,NOP,,,,M. Moody,GSW,SUB: Rollins FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0128,2,09:47,NOP,,,,M. Moody,GSW,MISS Moody 24' 3PT Jump Shot,Missed Shot,Jump Shot,197,145,24,1,3.0,0.0,v
+S2223-G0128,2,08:05,NOP,38.0,,31.0,M. Moody,GSW,Moody 2' Running Layup (6 PTS) (Lamb 1 AST),Made Shot,Running Layup Shot,17,3,2,1,2.0,2.0,v
+S2223-G0128,2,08:05,NOP,38.0,,32.0,M. Moody,GSW,Moody Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0128,2,03:21,NOP,,,,M. Moody,GSW,MISS Moody 9' Floating Jump Shot,Missed Shot,Floating Jump shot,94,6,9,1,2.0,0.0,v
+S2223-G0128,2,02:00,NOP,,,,M. Moody,GSW,Moody Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0128,2,01:26,NOP,,,,M. Moody,GSW,SUB: Poole FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0128,3,11:43,NOP,,,,M. Moody,GSW,MISS Moody 25' 3PT Jump Shot,Missed Shot,Jump Shot,-241,71,25,1,3.0,0.0,v
+S2223-G0128,3,11:30,NOP,,,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0128,3,10:45,NOP,,,,M. Moody,GSW,Moody Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0128,3,10:13,NOP,61.0,,57.0,M. Moody,GSW,Moody 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,23,7,2,1,2.0,2.0,v
+S2223-G0128,3,09:10,NOP,,,,M. Moody,GSW,Moody REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0128,3,06:44,NOP,,,,M. Moody,GSW,SUB: Wiseman FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0128,4,11:20,NOP,,,,M. Moody,GSW,Moody P.FOUL (P2.T1) (S.Mehta),Foul,Personal,0,0,0,0,,,v
+S2223-G0128,4,10:01,NOP,93.0,,83.0,M. Moody,GSW,Moody Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0128,4,10:01,NOP,93.0,,84.0,M. Moody,GSW,Moody Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0128,4,09:00,NOP,,,,M. Moody,GSW,Moody Traveling Turnover (P3.T18),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0128,4,08:30,NOP,93.0,,89.0,M. Moody,GSW,Moody 28' 3PT Pullup Jump Shot (14 PTS) (Poole 8 AST),Made Shot,Pullup Jump shot,-76,267,28,1,3.0,3.0,v
+S2223-G0128,4,05:24,NOP,,,,M. Moody,GSW,Moody Bad Pass Turnover (P4.T19),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0128,4,03:37,NOP,,,,M. Moody,GSW,SUB: Lamb FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0128,4,00:19.100000,NOP,,,,M. Moody,GSW,Moody REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0893,4,09:06,LAL,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0893,4,08:12,LAL,,GSW,,M. Moody,GSW,MISS Moody 27' 3PT Jump Shot,Missed Shot,Jump Shot,173,201,27,1,3.0,0.0,v
+S2223-G0893,4,07:14,LAL,,GSW,,M. Moody,GSW,MISS Moody 27' 3PT Jump Shot,Missed Shot,Jump Shot,-146,225,27,1,3.0,0.0,v
+S2223-G0893,4,06:48,LAL,110.0,GSW,83.0,M. Moody,GSW,Moody Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0893,4,06:48,LAL,110.0,GSW,84.0,M. Moody,GSW,Moody Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0893,4,06:32,LAL,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0893,4,05:51,LAL,,GSW,,M. Moody,GSW,MISS Moody 2' Driving Layup,Missed Shot,Driving Layup Shot,1,17,2,1,2.0,0.0,v
+S2223-G0893,4,04:56,LAL,112.0,GSW,91.0,M. Moody,GSW,Moody 4' Driving Dunk (4 PTS) (Kuminga 2 AST),Made Shot,Driving Dunk Shot,-1,36,4,1,2.0,2.0,v
+S2223-G0893,4,04:56,LAL,112.0,GSW,92.0,M. Moody,GSW,Moody Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0893,4,02:53,LAL,,GSW,,M. Moody,GSW,Moody S.FOUL (P1.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0893,4,01:14,LAL,122.0,GSW,103.0,M. Moody,GSW,Moody 2' Driving Reverse Layup (7 PTS) (Kuminga 4 AST),Made Shot,Driving Reverse Layup Shot,9,21,2,1,2.0,2.0,v
+S2223-G0893,4,01:14,LAL,122.0,GSW,104.0,M. Moody,GSW,Moody Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1187,1,03:52,GSW,21.0,OKC,25.0,M. Moody,GSW,Moody 26' 3PT Jump Shot (3 PTS) (Curry 2 AST),Made Shot,Jump Shot,195,173,26,1,3.0,3.0,h
+S2223-G1187,1,02:53,GSW,26.0,OKC,30.0,M. Moody,GSW,Moody 4' Cutting Dunk Shot (5 PTS) (Looney 1 AST),Made Shot,Cutting Dunk Shot,38,15,4,1,2.0,2.0,h
+S2223-G1187,1,02:41,GSW,,OKC,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1187,2,10:26,GSW,,OKC,,M. Moody,GSW,Moody S.FOUL (P1.T2) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2223-G1187,2,10:03,GSW,41.0,OKC,44.0,M. Moody,GSW,Moody 26' 3PT Step Back Jump Shot (8 PTS) (DiVincenzo 2 AST),Made Shot,Step Back Jump shot,165,204,26,1,3.0,3.0,h
+S2223-G1187,2,09:34,GSW,,OKC,,M. Moody,GSW,Moody Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G1187,2,07:52,GSW,,OKC,,M. Moody,GSW,SUB: Lamb FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G1187,2,01:08,GSW,,OKC,,M. Moody,GSW,Moody S.FOUL (P2.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2223-G1187,3,05:44,GSW,,OKC,,M. Moody,GSW,Moody S.FOUL (P3.T2) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G1187,3,05:16,GSW,,OKC,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1187,3,05:08,GSW,,OKC,,M. Moody,GSW,MISS Moody 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,55,24,1,3.0,0.0,h
+S2223-G1187,3,04:59,GSW,,OKC,,M. Moody,GSW,Moody REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1187,3,04:57,GSW,91.0,OKC,92.0,M. Moody,GSW,Moody Putback Dunk (10 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G1187,3,04:44,GSW,,OKC,,M. Moody,GSW,Moody S.FOUL (P4.T3) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G1187,3,03:45,GSW,,OKC,,M. Moody,GSW,Jump Ball Moody vs. Dort: Tip to Saric,Jump Ball,,0,0,0,0,,,h
+S2223-G1187,3,03:17,GSW,96.0,OKC,97.0,M. Moody,GSW,Moody 27' 3PT Jump Shot (13 PTS) (Kuminga 1 AST),Made Shot,Jump Shot,132,230,27,1,3.0,3.0,h
+S2223-G1187,4,10:38,GSW,,OKC,,M. Moody,GSW,Moody BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1187,4,09:19,GSW,,OKC,,M. Moody,GSW,Moody REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1187,4,08:58,GSW,,OKC,,M. Moody,GSW,MISS Moody 28' 3PT Jump Shot,Missed Shot,Jump Shot,197,205,28,1,3.0,0.0,h
+S2223-G1187,4,08:03,GSW,,OKC,,M. Moody,GSW,Moody Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1187,4,07:48,GSW,,OKC,,M. Moody,GSW,Moody REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1187,4,07:24,GSW,,OKC,,M. Moody,GSW,SUB: D. Green FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0104,1,01:03,MIA,,GSW,,M. Moody,GSW,Moody Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0104,2,04:05,MIA,,GSW,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0104,2,03:07,MIA,,GSW,,M. Moody,GSW,SUB: Wiggins FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0104,3,02:29,MIA,,GSW,,M. Moody,GSW,MISS Moody 28' 3PT Jump Shot,Missed Shot,Jump Shot,216,171,28,1,3.0,0.0,v
+S2223-G0104,3,02:19,MIA,,GSW,,M. Moody,GSW,MISS Moody 29' 3PT Jump Shot,Missed Shot,Jump Shot,-22,287,29,1,3.0,0.0,v
+S2223-G0104,3,02:04,MIA,82.0,GSW,89.0,M. Moody,GSW,Moody 24' 3PT Jump Shot (3 PTS) (Jerome 1 AST),Made Shot,Jump Shot,-238,20,24,1,3.0,3.0,v
+S2223-G0104,3,01:24,MIA,,GSW,,M. Moody,GSW,Moody Step Out of Bounds Turnover (P2.T14),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0104,3,00:41,MIA,86.0,GSW,94.0,M. Moody,GSW,Moody 26' 3PT Jump Shot (6 PTS) (Looney 1 AST),Made Shot,Jump Shot,50,258,26,1,3.0,3.0,v
+S2223-G0104,4,04:18,MIA,,GSW,,M. Moody,GSW,MISS Moody 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,25,24,1,3.0,0.0,v
+S2223-G0104,4,03:29,MIA,,GSW,,M. Moody,GSW,SUB: Wiggins FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0410,1,01:53,MIL,,GSW,,M. Moody,GSW,Moody S.FOUL (P1.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0410,1,00:17.400000,MIL,,GSW,,M. Moody,GSW,SUB: Poole FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0410,4,06:33,MIL,,GSW,,M. Moody,GSW,Moody P.FOUL (P2.T4) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0410,4,04:50,MIL,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0410,4,00:57.900000,MIL,,GSW,,M. Moody,GSW,MISS Moody 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-4,17,2,1,2.0,0.0,v
+S2223-G0685,1,05:07,CLE,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0685,1,04:56,CLE,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0685,1,03:00,CLE,22.0,GSW,25.0,M. Moody,GSW,Moody 3PT Jump Shot (3 PTS) (Poole 1 AST),Made Shot,Jump Shot,229,19,0,1,3.0,3.0,v
+S2223-G0685,1,00:33.200000,CLE,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0685,2,10:01,CLE,,GSW,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,-202,158,26,1,3.0,0.0,v
+S2223-G0685,2,07:30,CLE,,GSW,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0685,3,04:48,CLE,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0685,3,02:25,CLE,,GSW,,M. Moody,GSW,Moody Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0685,3,02:10,CLE,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0685,3,01:09,CLE,,GSW,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0650,1,04:09,,,,,M. Moody,GSW,Moody Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0650,1,03:35,,,,,M. Moody,GSW,SUB: Looney FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0650,4,01:40,,124.0,,112.0,M. Moody,GSW,Moody 26' 3PT Jump Shot (3 PTS) (Jerome 3 AST),Made Shot,Jump Shot,154,214,26,1,3.0,3.0,v
+S2223-G0650,4,00:00,,,,,M. Moody,GSW,MISS Moody 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-126,219,25,1,3.0,0.0,v
+S2223-G1041,2,05:57,LAC,,GSW,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G1041,4,09:23,LAC,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1041,4,09:23,LAC,106.0,GSW,97.0,M. Moody,GSW,Moody Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1041,4,09:23,LAC,,GSW,,M. Moody,GSW,MISS Moody Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1041,4,09:14,LAC,,GSW,,M. Moody,GSW,Moody P.FOUL (P1.T2) (E.Dalen),Foul,Personal,0,0,0,0,,,v
+S2223-G1041,4,09:07,LAC,,GSW,,M. Moody,GSW,SUB: Kuminga FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G1041,4,01:00,LAC,,GSW,,M. Moody,GSW,Moody P.FOUL (P2.PN) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G1041,4,00:09.800000,LAC,134.0,GSW,126.0,M. Moody,GSW,Moody 20' Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-92,179,20,1,2.0,2.0,v
+S2223-G0220,4,09:18,PHX,,GSW,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,-232,-3,0,1,3.0,0.0,v
+S2223-G0220,4,08:15,PHX,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0220,4,07:40,PHX,,GSW,,M. Moody,GSW,SUB: Curry FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G1061,2,08:19,MEM,41.0,GSW,35.0,M. Moody,GSW,Moody 25' 3PT Jump Shot (3 PTS) (D. Green 3 AST),Made Shot,Jump Shot,83,235,25,1,3.0,3.0,v
+S2223-G1061,2,07:53,MEM,,GSW,,M. Moody,GSW,Moody P.FOUL (P1.T3) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2223-G1061,2,04:56,MEM,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1061,2,04:56,MEM,56.0,GSW,44.0,M. Moody,GSW,Moody Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1061,2,04:46,MEM,,GSW,,M. Moody,GSW,SUB: Kuminga FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G1061,3,02:50,MEM,,GSW,,M. Moody,GSW,Moody REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1061,3,02:26,MEM,,GSW,,M. Moody,GSW,SUB: Thompson FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G1061,4,02:40,MEM,129.0,GSW,111.0,M. Moody,GSW,Moody 1' Driving Dunk (7 PTS),Made Shot,Driving Dunk Shot,-6,4,1,1,2.0,2.0,v
+S2223-G1061,4,01:54,MEM,,GSW,,M. Moody,GSW,Moody BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1061,4,00:17.300000,MEM,133.0,GSW,117.0,M. Moody,GSW,Moody 1' Cutting Layup Shot (9 PTS) (Poole 3 AST),Made Shot,Cutting Layup Shot,6,2,1,1,2.0,2.0,v
+S2223-G1061,4,00:17.300000,MEM,,GSW,,M. Moody,GSW,MISS Moody Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0871,1,00:25.200000,LAC,,GSW,,M. Moody,GSW,SUB: J. Green FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0871,2,09:44,LAC,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0871,2,07:33,LAC,,GSW,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0871,3,02:24,LAC,,GSW,,M. Moody,GSW,MISS Moody 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-225,16,0,1,3.0,0.0,v
+S2223-G0871,3,01:27,LAC,,GSW,,M. Moody,GSW,MISS Moody 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,29,3,3,1,2.0,0.0,v
+S2223-G0871,3,00:59.500000,LAC,,GSW,,M. Moody,GSW,MISS Moody 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-15,19,2,1,2.0,0.0,v
+S2223-G0871,3,00:23.100000,LAC,,GSW,,M. Moody,GSW,MISS Moody 25' 3PT Jump Shot,Missed Shot,Jump Shot,-115,219,25,1,3.0,0.0,v
+S2223-G0871,4,01:56,LAC,130.0,GSW,117.0,M. Moody,GSW,Moody 2' Driving Reverse Layup (2 PTS) (Jerome 1 AST),Made Shot,Driving Reverse Layup Shot,23,5,2,1,2.0,2.0,v
+S2223-G0871,4,01:19,LAC,132.0,GSW,119.0,M. Moody,GSW,Moody 2' Driving Reverse Layup (4 PTS) (Lamb 3 AST),Made Shot,Driving Reverse Layup Shot,-20,4,2,1,2.0,2.0,v
+S2223-G0871,4,00:52.900000,LAC,132.0,GSW,122.0,M. Moody,GSW,Moody 25' 3PT Jump Shot (7 PTS) (Jerome 2 AST),Made Shot,Jump Shot,189,171,25,1,3.0,3.0,v
+S2223-G0871,4,00:35.500000,LAC,,GSW,,M. Moody,GSW,MISS Moody 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-230,93,25,1,3.0,0.0,v
+S2223-G0342,1,01:44,GSW,37.0,HOU,19.0,M. Moody,GSW,Moody 30' 3PT Jump Shot (3 PTS) (Curry 5 AST),Made Shot,Jump Shot,-126,272,30,1,3.0,3.0,h
+S2223-G0342,2,06:13,GSW,,HOU,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0342,2,03:32,GSW,,HOU,,M. Moody,GSW,SUB: Poole FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0342,4,11:46,GSW,,HOU,,M. Moody,GSW,MISS Moody 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-28,22,4,1,2.0,0.0,h
+S2223-G0342,4,08:25,GSW,100.0,HOU,91.0,M. Moody,GSW,Moody 3PT Jump Shot (6 PTS) (Kuminga 1 AST),Made Shot,Jump Shot,-228,1,0,1,3.0,3.0,h
+S2223-G0342,4,05:05,GSW,106.0,HOU,96.0,M. Moody,GSW,Moody 28' 3PT Jump Shot (9 PTS) (Looney 2 AST),Made Shot,Jump Shot,180,210,28,1,3.0,3.0,h
+S2223-G0342,4,04:11,GSW,,HOU,,M. Moody,GSW,SUB: Poole FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0342,4,01:27,GSW,116.0,HOU,98.0,M. Moody,GSW,Moody 18' Pullup Jump Shot (11 PTS) (Lamb 1 AST),Made Shot,Pullup Jump shot,-5,177,18,1,2.0,2.0,h
+S2223-G1103,1,01:08,GSW,,PHI,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,-131,228,26,1,3.0,0.0,h
+S2223-G1103,1,00:49.600000,GSW,,PHI,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1103,4,10:30,GSW,84.0,PHI,90.0,M. Moody,GSW,Moody 3PT Jump Shot (3 PTS) (D. Green 9 AST),Made Shot,Jump Shot,-228,34,0,1,3.0,3.0,h
+S2223-G1103,4,10:12,GSW,,PHI,,M. Moody,GSW,Moody S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G1103,4,09:35,GSW,,PHI,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1103,4,08:35,GSW,,PHI,,M. Moody,GSW,Moody REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1103,4,08:12,GSW,,PHI,,M. Moody,GSW,Moody S.FOUL (P2.T4) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G1103,4,05:16,GSW,,PHI,,M. Moody,GSW,SUB: D. Green FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0513,2,09:04,GSW,,CHA,,M. Moody,GSW,Moody REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0513,2,09:04,GSW,46.0,CHA,31.0,M. Moody,GSW,Moody Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0513,2,08:05,GSW,,CHA,,M. Moody,GSW,Moody S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0513,2,07:32,GSW,,CHA,,M. Moody,GSW,Moody REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0513,2,07:23,GSW,,CHA,,M. Moody,GSW,Moody REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0513,2,07:22,GSW,,CHA,,M. Moody,GSW,MISS Moody 4' Layup,Missed Shot,Layup Shot,31,18,4,1,2.0,0.0,h
+S2223-G0513,2,06:03,GSW,55.0,CHA,40.0,M. Moody,GSW,Moody 4' Running Layup (4 PTS) (Thompson 2 AST),Made Shot,Running Layup Shot,-29,28,4,1,2.0,2.0,h
+S2223-G0513,2,05:45,GSW,,CHA,,M. Moody,GSW,SUB: Poole FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0513,3,03:10,GSW,,CHA,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,229,50,0,1,3.0,0.0,h
+S2223-G0513,3,00:03.200000,GSW,,CHA,,M. Moody,GSW,MISS Moody 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,77,56,10,1,2.0,0.0,h
+S2223-G0513,4,08:57,GSW,,CHA,,M. Moody,GSW,SUB: Lamb FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G1158,4,01:12,GSW,130.0,SAS,112.0,M. Moody,GSW,Moody 5' Driving Layup (2 PTS) (Baldwin Jr. 1 AST),Made Shot,Driving Layup Shot,29,45,5,1,2.0,2.0,h
+S2223-G0026,3,00:47.300000,GSW,,DEN,,M. Moody,GSW,Moody Out of Bounds Lost Ball Turnover (P1.T16),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0026,3,00:14.100000,GSW,88.0,DEN,96.0,M. Moody,GSW,Moody 28' 3PT Jump Shot (3 PTS) (Poole 6 AST),Made Shot,Jump Shot,208,185,28,1,3.0,3.0,h
+S2223-G0026,3,00:00.100000,GSW,,DEN,,M. Moody,GSW,MISS Moody 66' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,183,633,66,1,3.0,0.0,h
+S2223-G0026,4,10:54,GSW,,DEN,,M. Moody,GSW,MISS Moody 6' Layup,Missed Shot,Layup Shot,55,34,6,1,2.0,0.0,h
+S2223-G0026,4,10:23,GSW,,DEN,,M. Moody,GSW,MISS Moody 28' 3PT Jump Shot,Missed Shot,Jump Shot,172,220,28,1,3.0,0.0,h
+S2223-G0026,4,10:11,GSW,,DEN,,M. Moody,GSW,MISS Moody 27' 3PT Jump Shot,Missed Shot,Jump Shot,39,267,27,1,3.0,0.0,h
+S2223-G0026,4,06:51,GSW,,DEN,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0026,4,02:15,GSW,,DEN,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0026,4,02:01,GSW,,DEN,,M. Moody,GSW,SUB: Poole FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G1230,1,03:11,POR,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1230,1,02:47,POR,23.0,GSW,43.0,M. Moody,GSW,Moody 1' Cutting Layup Shot (2 PTS) (Curry 6 AST),Made Shot,Cutting Layup Shot,6,2,1,1,2.0,2.0,v
+S2223-G1230,1,02:47,POR,23.0,GSW,44.0,M. Moody,GSW,Moody Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1230,1,00:59.800000,POR,25.0,GSW,52.0,M. Moody,GSW,Moody 29' 3PT Jump Shot (6 PTS) (Poole 1 AST),Made Shot,Jump Shot,-156,243,29,1,3.0,3.0,v
+S2223-G1230,2,02:44,POR,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1230,2,02:41,POR,,GSW,,M. Moody,GSW,MISS Moody 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-175,209,27,1,3.0,0.0,v
+S2223-G1230,3,04:07,POR,68.0,GSW,105.0,M. Moody,GSW,Moody 25' 3PT Jump Shot (9 PTS) (Kuminga 3 AST),Made Shot,Jump Shot,-222,104,25,1,3.0,3.0,v
+S2223-G1230,3,03:52,POR,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1230,3,02:30,POR,69.0,GSW,110.0,M. Moody,GSW,Moody 1' Running Dunk (11 PTS) (Poole 2 AST),Made Shot,Running Dunk Shot,2,10,1,1,2.0,2.0,v
+S2223-G1230,3,00:35.200000,POR,71.0,GSW,116.0,M. Moody,GSW,Moody 27' 3PT Jump Shot (14 PTS) (Kuminga 4 AST),Made Shot,Jump Shot,207,169,27,1,3.0,3.0,v
+S2223-G1230,4,11:19,POR,,GSW,,M. Moody,GSW,Moody P.FOUL (P1.T1) (J.Butler),Foul,Personal,0,0,0,0,,,v
+S2223-G1230,4,10:15,POR,75.0,GSW,123.0,M. Moody,GSW,Moody 3PT Jump Shot (17 PTS) (Payton II 2 AST),Made Shot,Jump Shot,-228,5,0,1,3.0,3.0,v
+S2223-G1230,4,09:19,POR,,GSW,,M. Moody,GSW,MISS Moody 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,67,68,10,1,2.0,0.0,v
+S2223-G1230,4,07:48,POR,,GSW,,M. Moody,GSW,Moody S.FOUL (P2.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2223-G1230,4,06:33,POR,,GSW,,M. Moody,GSW,Moody L.B.FOUL (P3.PN) (J.Van Duyne),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1230,4,06:10,POR,86.0,GSW,135.0,M. Moody,GSW,Moody 6' Driving Floating Bank Jump Shot (19 PTS) (Baldwin Jr. 1 AST),Made Shot,Driving Floating Bank Jump Shot,50,31,6,1,2.0,2.0,v
+S2223-G1230,4,04:43,POR,91.0,GSW,142.0,M. Moody,GSW,Moody 1' Cutting Dunk Shot (21 PTS) (Baldwin Jr. 2 AST),Made Shot,Cutting Dunk Shot,4,9,1,1,2.0,2.0,v
+S2223-G1230,4,04:11,POR,,GSW,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,216,136,26,1,3.0,0.0,v
+S2223-G1230,4,04:06,POR,,GSW,,M. Moody,GSW,Moody P.FOUL (P4.PN) (J.Butler),Foul,Personal,0,0,0,0,,,v
+S2223-G1230,4,01:43,POR,,GSW,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,-192,178,26,1,3.0,0.0,v
+S2223-G1230,4,01:30,POR,96.0,GSW,155.0,M. Moody,GSW,Moody 2' Cutting Dunk Shot (23 PTS) (Lamb 3 AST),Made Shot,Cutting Dunk Shot,12,11,2,1,2.0,2.0,v
+S2223-G1230,4,01:11,POR,98.0,GSW,157.0,M. Moody,GSW,Moody 1' Cutting Dunk Shot (25 PTS) (Kuminga 6 AST),Made Shot,Cutting Dunk Shot,11,3,1,1,2.0,2.0,v
+S2223-G1230,4,00:22.600000,POR,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0118,1,02:26,ORL,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0118,1,01:53,ORL,,GSW,,M. Moody,GSW,Moody P.FOUL (P1.PN) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2223-G0118,1,01:11,ORL,,GSW,,M. Moody,GSW,MISS Moody Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0118,1,01:11,ORL,27.0,GSW,28.0,M. Moody,GSW,Moody Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0118,1,00:01.900000,ORL,,GSW,,M. Moody,GSW,SUB: Thompson FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0118,2,04:57,ORL,,GSW,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0118,2,03:19,ORL,,GSW,,M. Moody,GSW,SUB: Poole FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0118,3,03:29,ORL,,GSW,,M. Moody,GSW,MISS Moody 25' 3PT Jump Shot,Missed Shot,Jump Shot,179,171,25,1,3.0,0.0,v
+S2223-G0118,3,01:53,ORL,,GSW,,M. Moody,GSW,Moody S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0118,3,01:29,ORL,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0118,3,00:08.100000,ORL,,GSW,,M. Moody,GSW,SUB: Thompson FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G1135,4,00:39.600000,GSW,120.0,NOP,105.0,M. Moody,GSW,Moody 5' Driving Layup (2 PTS) (Baldwin Jr. 1 AST),Made Shot,Driving Layup Shot,48,22,5,1,2.0,2.0,h
+S2223-G0271,4,00:20.300000,GSW,,LAC,,M. Moody,GSW,MISS Moody 25' 3PT Jump Shot,Missed Shot,Jump Shot,110,230,25,1,3.0,0.0,h
+S2223-G0660,2,11:46,WAS,,GSW,,M. Moody,GSW,MISS Moody 25' 3PT Jump Shot,Missed Shot,Jump Shot,174,177,25,1,3.0,0.0,v
+S2223-G0660,2,06:37,WAS,,GSW,,M. Moody,GSW,Moody L.B.FOUL (P1.PN) (J.Schroeder),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0660,2,06:37,WAS,,GSW,,M. Moody,GSW,SUB: Curry FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0359,1,04:30,GSW,,IND,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0359,1,04:25,GSW,,IND,,M. Moody,GSW,Moody Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0359,1,00:55.800000,GSW,,IND,,M. Moody,GSW,Moody S.FOUL (P1.T3) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0359,1,00:54.600000,GSW,,IND,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0359,2,09:07,GSW,,IND,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,-228,2,0,1,3.0,0.0,h
+S2223-G0359,2,08:30,GSW,,IND,,M. Moody,GSW,SUB: Kuminga FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0573,1,01:41,GSW,,DET,,M. Moody,GSW,Moody S.FOUL (P1.T4) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0573,2,11:31,GSW,28.0,DET,34.0,M. Moody,GSW,Moody 4' Cutting Dunk Shot (2 PTS) (Poole 1 AST),Made Shot,Cutting Dunk Shot,9,34,4,1,2.0,2.0,h
+S2223-G0573,2,10:55,GSW,,DET,,M. Moody,GSW,Moody OFF.Foul (P2) (E.Malloy),Foul,Offensive,0,0,0,0,,,h
+S2223-G0573,2,10:55,GSW,,DET,,M. Moody,GSW,Moody Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0573,2,09:17,GSW,39.0,DET,38.0,M. Moody,GSW,Moody 3PT Jump Shot (5 PTS) (Poole 2 AST),Made Shot,Jump Shot,-230,14,0,1,3.0,3.0,h
+S2223-G0573,2,06:47,GSW,,DET,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0573,2,06:25,GSW,,DET,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0573,2,06:17,GSW,,DET,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,72,246,26,1,3.0,0.0,h
+S2223-G0573,2,04:45,GSW,,DET,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0573,3,04:16,GSW,76.0,DET,81.0,M. Moody,GSW,Moody 3' Layup (7 PTS) (Green 6 AST),Made Shot,Layup Shot,-22,20,3,1,2.0,2.0,h
+S2223-G0573,3,02:25,GSW,,DET,,M. Moody,GSW,MISS Moody 27' 3PT Jump Shot,Missed Shot,Jump Shot,-174,207,27,1,3.0,0.0,h
+S2223-G0573,3,02:00,GSW,,DET,,M. Moody,GSW,MISS Moody Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0573,3,02:00,GSW,82.0,DET,85.0,M. Moody,GSW,Moody Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0573,3,01:15,GSW,,DET,,M. Moody,GSW,SUB: Poole FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0945,4,02:50,GSW,108.0,LAC,88.0,M. Moody,GSW,Moody 27' 3PT Jump Shot (3 PTS) (Lamb 1 AST),Made Shot,Jump Shot,-123,242,27,1,3.0,3.0,h
+S2223-G0945,4,01:46,GSW,,LAC,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,-229,-24,0,1,3.0,0.0,h
+S2223-G0945,4,01:23,GSW,,LAC,,M. Moody,GSW,Moody REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,2,07:04,SAC,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1211,2,07:02,SAC,,GSW,,M. Moody,GSW,MISS Moody 5' Putback Dunk,Missed Shot,Putback Dunk Shot,-36,36,5,1,2.0,0.0,v
+S2223-G1211,2,06:25,SAC,,GSW,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G1211,4,02:24,SAC,95.0,GSW,117.0,M. Moody,GSW,Moody 2' Cutting Layup Shot (2 PTS) (Quinones 1 AST),Made Shot,Cutting Layup Shot,21,8,2,1,2.0,2.0,v
+S2223-G1211,4,00:27.200000,SAC,,GSW,,M. Moody,GSW,MISS Moody 3' Driving Layup,Missed Shot,Driving Layup Shot,22,18,3,1,2.0,0.0,v
+S2223-G0953,2,11:40,GSW,,NOP,,M. Moody,GSW,Moody REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0953,2,11:40,GSW,,NOP,,M. Moody,GSW,Moody Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0953,2,06:42,GSW,,NOP,,M. Moody,GSW,Moody Traveling Turnover (P2.T7),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0953,2,06:07,GSW,,NOP,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0291,4,01:08,MIN,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0291,4,00:44.500000,MIN,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0415,2,07:07,,41.0,GSW,36.0,M. Moody,GSW,Moody 3PT Running Jump Shot (3 PTS) (Curry 2 AST),Made Shot,Running Jump Shot,-232,-2,0,1,3.0,3.0,v
+S2223-G0415,2,05:31,,47.0,GSW,40.0,M. Moody,GSW,Moody 3' Running Finger Roll Layup (5 PTS) (DiVincenzo 2 AST),Made Shot,Running Finger Roll Layup Shot,-25,8,3,1,2.0,2.0,v
+S2223-G0415,2,05:17,,,GSW,,M. Moody,GSW,Warriors T.Foul (Def. 3 Sec Moody ) (N.Buchert),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0415,3,06:25,,,GSW,,M. Moody,GSW,Moody Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0415,3,05:25,,80.0,GSW,75.0,M. Moody,GSW,Moody 1' Cutting Layup Shot (7 PTS) (Curry 7 AST),Made Shot,Cutting Layup Shot,5,12,1,1,2.0,2.0,v
+S2223-G0415,3,00:20.600000,,93.0,GSW,86.0,M. Moody,GSW,Moody 3PT Jump Shot (10 PTS) (D. Green 3 AST),Made Shot,Jump Shot,222,8,0,1,3.0,3.0,v
+S2223-G0415,3,00:20.600000,,93.0,GSW,87.0,M. Moody,GSW,Moody Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0415,4,06:09,,110.0,GSW,103.0,M. Moody,GSW,Moody 14' Pullup Jump Shot (13 PTS) (Poole 5 AST),Made Shot,Pullup Jump shot,-141,20,14,1,2.0,2.0,v
+S2223-G0415,4,04:15,,,GSW,,M. Moody,GSW,MISS Moody 27' 3PT Jump Shot,Missed Shot,Jump Shot,194,188,27,1,3.0,0.0,v
+S2223-G0415,4,03:28,,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0415,4,01:33,,,GSW,,M. Moody,GSW,Moody S.FOUL (P1.T3) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0415,4,01:06,,,GSW,,M. Moody,GSW,Moody S.FOUL (P2.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0205,1,01:56,GSW,27.0,SAS,20.0,M. Moody,GSW,Moody 26' 3PT Jump Shot (3 PTS) (Lamb 1 AST),Made Shot,Jump Shot,-59,253,26,1,3.0,3.0,h
+S2223-G0205,1,01:19,GSW,,SAS,,M. Moody,GSW,MISS Moody 3' Driving Layup,Missed Shot,Driving Layup Shot,20,23,3,1,2.0,0.0,h
+S2223-G0205,1,00:15.900000,GSW,,SAS,,M. Moody,GSW,SUB: D. Green FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0205,2,06:16,GSW,48.0,SAS,35.0,M. Moody,GSW,Moody 26' 3PT Jump Shot (6 PTS) (Looney 3 AST),Made Shot,Jump Shot,58,254,26,1,3.0,3.0,h
+S2223-G0205,2,01:38,GSW,,SAS,,M. Moody,GSW,MISS Moody 25' 3PT Jump Shot,Missed Shot,Jump Shot,-232,81,25,1,3.0,0.0,h
+S2223-G0205,2,00:58,GSW,,SAS,,M. Moody,GSW,MISS Moody 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,12,5,1,1,2.0,0.0,h
+S2223-G0205,2,00:01,GSW,,SAS,,M. Moody,GSW,MISS Moody 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,114,236,26,1,3.0,0.0,h
+S2223-G0205,3,04:36,GSW,,SAS,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0205,3,01:36,GSW,,SAS,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0205,3,00:32.100000,GSW,,SAS,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0205,4,06:43,GSW,,SAS,,M. Moody,GSW,MISS Moody 25' 3PT Jump Shot,Missed Shot,Jump Shot,23,247,25,1,3.0,0.0,h
+S2223-G0205,4,03:51,GSW,116.0,SAS,87.0,M. Moody,GSW,Moody 1' Cutting Dunk Shot (8 PTS) (Wiseman 1 AST),Made Shot,Cutting Dunk Shot,-4,3,1,1,2.0,2.0,h
+S2223-G0205,4,03:51,GSW,117.0,SAS,87.0,M. Moody,GSW,Moody Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0205,4,00:15.100000,GSW,132.0,SAS,95.0,M. Moody,GSW,Moody 1' Driving Layup (11 PTS) (Lamb 4 AST),Made Shot,Driving Layup Shot,12,5,1,1,2.0,2.0,h
+S2223-G1025,1,00:59.200000,GSW,,PHX,,M. Moody,GSW,MISS Moody 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-22,19,3,1,2.0,0.0,h
+S2223-G1025,1,00:32.500000,GSW,41.0,PHX,18.0,M. Moody,GSW,Moody 4' Cutting Dunk Shot (2 PTS) (Iguodala 1 AST),Made Shot,Cutting Dunk Shot,-13,41,4,1,2.0,2.0,h
+S2223-G1025,1,00:32.500000,GSW,42.0,PHX,18.0,M. Moody,GSW,Moody Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1025,1,00:01.500000,GSW,43.0,PHX,21.0,M. Moody,GSW,Moody Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1025,1,00:01.500000,GSW,,PHX,,M. Moody,GSW,MISS Moody Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1025,2,07:39,GSW,,PHX,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G1025,3,01:00,GSW,,PHX,,M. Moody,GSW,MISS Moody 6' Driving Layup,Missed Shot,Driving Layup Shot,55,21,6,1,2.0,0.0,h
+S2223-G1025,3,00:15.800000,GSW,,PHX,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1025,4,09:00,GSW,,PHX,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1025,4,08:57,GSW,,PHX,,M. Moody,GSW,Moody Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1025,4,08:51,GSW,,PHX,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G1025,4,00:59,GSW,,PHX,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1025,4,00:45.400000,GSW,,PHX,,M. Moody,GSW,MISS Moody 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,44,44,6,1,2.0,0.0,h
+S2223-G1025,4,00:25,GSW,,PHX,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,-195,173,26,1,3.0,0.0,h
+S2223-G1048,2,10:52,ATL,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1048,2,08:54,ATL,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1048,2,06:44,ATL,,GSW,,M. Moody,GSW,SUB: Kuminga FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G1048,4,09:43,ATL,,GSW,,M. Moody,GSW,MISS Moody Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1048,4,09:43,ATL,106.0,GSW,101.0,M. Moody,GSW,Moody Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1048,4,08:44,ATL,,GSW,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0463,1,10:43,NYK,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0463,1,08:37,NYK,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0463,1,08:25,NYK,8.0,GSW,5.0,M. Moody,GSW,Moody 3PT Jump Shot (3 PTS) (Green 2 AST),Made Shot,Jump Shot,-229,-26,0,1,3.0,3.0,v
+S2223-G0463,1,06:52,NYK,,GSW,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0463,1,05:17,NYK,,GSW,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,-232,-17,0,1,3.0,0.0,v
+S2223-G0463,1,03:39,NYK,,GSW,,M. Moody,GSW,SUB: Kuminga FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0463,2,08:26,NYK,45.0,GSW,38.0,M. Moody,GSW,Moody 3PT Jump Shot (6 PTS) (Kuminga 1 AST),Made Shot,Jump Shot,222,20,0,1,3.0,3.0,v
+S2223-G0463,2,07:00,NYK,,GSW,,M. Moody,GSW,SUB: Looney FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0463,3,11:08,NYK,,GSW,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,44,253,26,1,3.0,0.0,v
+S2223-G0463,3,09:59,NYK,,GSW,,M. Moody,GSW,MISS Moody 25' 3PT Jump Shot,Missed Shot,Jump Shot,167,183,25,1,3.0,0.0,v
+S2223-G0463,3,07:45,NYK,,GSW,,M. Moody,GSW,SUB: Jerome FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0463,4,08:46,NYK,111.0,GSW,85.0,M. Moody,GSW,Moody 17' Jump Shot (8 PTS) (Jerome 3 AST),Made Shot,Jump Shot,10,174,17,1,2.0,2.0,v
+S2223-G0463,4,07:55,NYK,113.0,GSW,88.0,M. Moody,GSW,Moody 25' 3PT Jump Shot (11 PTS) (Lamb 1 AST),Made Shot,Jump Shot,152,204,25,1,3.0,3.0,v
+S2223-G0463,4,07:27,NYK,,GSW,,M. Moody,GSW,MISS Moody 6' Driving Layup,Missed Shot,Driving Layup Shot,60,3,6,1,2.0,0.0,v
+S2223-G0463,4,02:42,NYK,,GSW,,M. Moody,GSW,MISS Moody 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-119,43,13,1,2.0,0.0,v
+S2223-G0463,4,01:57,NYK,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0635,1,02:10,SAS,20.0,GSW,28.0,M. Moody,GSW,Moody 27' 3PT Jump Shot (3 PTS) (Poole 2 AST),Made Shot,Jump Shot,190,197,27,1,3.0,3.0,v
+S2223-G0635,1,00:01.800000,SAS,,GSW,,M. Moody,GSW,MISS Moody 27' 3PT Jump Shot,Missed Shot,Jump Shot,207,171,27,1,3.0,0.0,v
+S2223-G0635,2,00:41.100000,SAS,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0635,3,01:43,SAS,84.0,GSW,107.0,M. Moody,GSW,Moody 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,213,155,26,1,3.0,3.0,v
+S2223-G0635,3,00:36,SAS,,GSW,,M. Moody,GSW,MISS Moody Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0635,3,00:36,SAS,87.0,GSW,111.0,M. Moody,GSW,Moody Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0635,4,11:04,SAS,,GSW,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,229,118,26,1,3.0,0.0,v
+S2223-G0635,4,10:28,SAS,,GSW,,M. Moody,GSW,MISS Moody Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0635,4,10:28,SAS,91.0,GSW,119.0,M. Moody,GSW,Moody Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0635,4,08:40,SAS,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0635,4,08:40,SAS,91.0,GSW,123.0,M. Moody,GSW,Moody Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0635,4,08:40,SAS,,GSW,,M. Moody,GSW,SUB: Looney FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0635,4,04:40,SAS,,GSW,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0635,4,04:34,SAS,98.0,GSW,135.0,M. Moody,GSW,Moody 2' Running Reverse Layup (12 PTS),Made Shot,Running Reverse Layup Shot,7,15,2,1,2.0,2.0,v
+S2223-G0635,4,03:40,SAS,,GSW,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,228,121,26,1,3.0,0.0,v
+S2223-G0068,1,02:42,GSW,,MIA,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,-227,-6,0,1,3.0,0.0,h
+S2223-G0068,1,01:53,GSW,,MIA,,M. Moody,GSW,SUB: Wiggins FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0068,2,09:52,GSW,,MIA,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0068,2,09:49,GSW,,MIA,,M. Moody,GSW,MISS Moody 3' Running Layup,Missed Shot,Running Layup Shot,21,27,3,1,2.0,0.0,h
+S2223-G0068,2,08:35,GSW,,MIA,,M. Moody,GSW,MISS Moody 27' 3PT Jump Shot,Missed Shot,Jump Shot,-156,226,27,1,3.0,0.0,h
+S2223-G0068,2,08:12,GSW,41.0,MIA,39.0,M. Moody,GSW,Moody 29' 3PT Jump Shot (3 PTS) (Looney 3 AST),Made Shot,Jump Shot,-167,233,29,1,3.0,3.0,h
+S2223-G0068,2,06:09,GSW,48.0,MIA,43.0,M. Moody,GSW,Moody 3PT Jump Shot (6 PTS) (Wiggins 2 AST),Made Shot,Jump Shot,-228,11,0,1,3.0,3.0,h
+S2223-G0068,2,04:56,GSW,,MIA,,M. Moody,GSW,SUB: Poole FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0068,3,06:13,GSW,,MIA,,M. Moody,GSW,Moody Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0068,3,04:23,GSW,,MIA,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0068,3,04:17,GSW,,MIA,,M. Moody,GSW,Moody REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0068,3,04:14,GSW,,MIA,,M. Moody,GSW,Moody Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0068,3,03:20,GSW,,MIA,,M. Moody,GSW,MISS Moody 31' 3PT Jump Shot,Missed Shot,Jump Shot,217,227,31,1,3.0,0.0,h
+S2223-G0068,3,03:10,GSW,,MIA,,M. Moody,GSW,Moody REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1012,2,09:15,GSW,,MIL,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1012,2,08:52,GSW,,MIL,,M. Moody,GSW,MISS Moody 27' 3PT Jump Shot,Missed Shot,Jump Shot,179,200,27,1,3.0,0.0,h
+S2223-G1012,2,08:35,GSW,,MIL,,M. Moody,GSW,Moody P.FOUL (P1.T2) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G1012,2,08:25,GSW,,MIL,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1012,2,07:41,GSW,,MIL,,M. Moody,GSW,Moody REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1012,2,07:39,GSW,37.0,MIL,33.0,M. Moody,GSW,Moody Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1012,2,06:11,GSW,,MIL,,M. Moody,GSW,Moody REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1012,2,03:50,GSW,,MIL,,M. Moody,GSW,SUB: Poole FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0253,1,01:26,NOP,,GSW,,M. Moody,GSW,Moody Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0253,2,11:14,NOP,,GSW,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,173,198,26,1,3.0,0.0,v
+S2223-G0253,2,10:35,NOP,37.0,GSW,19.0,M. Moody,GSW,Moody Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0253,2,10:35,NOP,37.0,GSW,20.0,M. Moody,GSW,Moody Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0253,2,10:10,NOP,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0253,2,06:22,NOP,,GSW,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0253,2,06:19,NOP,46.0,GSW,30.0,M. Moody,GSW,Moody 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,16,-2,2,1,2.0,2.0,v
+S2223-G0253,2,06:19,NOP,46.0,GSW,31.0,M. Moody,GSW,Moody Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0253,2,03:41,NOP,,GSW,,M. Moody,GSW,MISS Moody 36' 3PT Jump Shot,Missed Shot,Jump Shot,-173,311,36,1,3.0,0.0,v
+S2223-G0253,3,06:31,NOP,81.0,GSW,56.0,M. Moody,GSW,Moody 24' 3PT Pullup Jump Shot (8 PTS) (DiVincenzo 5 AST),Made Shot,Pullup Jump shot,-239,17,24,1,3.0,3.0,v
+S2223-G0253,3,05:59,NOP,,GSW,,M. Moody,GSW,Moody Out of Bounds - Bad Pass Turnover Turnover (P2.T18),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0253,3,05:43,NOP,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0253,3,03:14,NOP,,GSW,,M. Moody,GSW,Moody Bad Pass Turnover (P3.T19),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0253,3,02:46,NOP,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0253,3,02:39,NOP,95.0,GSW,62.0,M. Moody,GSW,Moody Free Throw 1 of 3 (9 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0253,3,02:39,NOP,95.0,GSW,63.0,M. Moody,GSW,Moody Free Throw 2 of 3 (10 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0253,3,02:39,NOP,,GSW,,M. Moody,GSW,MISS Moody Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,0.0,v
+S2223-G0253,3,01:58,NOP,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0253,4,07:28,NOP,,GSW,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,230,16,0,1,3.0,0.0,v
+S2223-G0253,4,04:37,NOP,,GSW,,M. Moody,GSW,MISS Moody 27' 3PT Jump Shot,Missed Shot,Jump Shot,212,162,27,1,3.0,0.0,v
+S2223-G0253,4,03:33,NOP,,GSW,,M. Moody,GSW,SUB: Jerome FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0245,4,09:03,HOU,,GSW,,M. Moody,GSW,Moody Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0245,4,08:30,HOU,,GSW,,M. Moody,GSW,SUB: Thompson FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0496,1,04:38,GSW,23.0,MEM,19.0,M. Moody,GSW,Moody 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-85,55,10,1,2.0,2.0,h
+S2223-G0496,1,04:24,GSW,,MEM,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0496,2,04:27,GSW,,MEM,,M. Moody,GSW,SUB: Thompson FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0496,3,01:16,GSW,97.0,MEM,79.0,M. Moody,GSW,Moody 4' Driving Reverse Layup (4 PTS) (Kuminga 3 AST),Made Shot,Driving Reverse Layup Shot,33,26,4,1,2.0,2.0,h
+S2223-G0496,4,10:06,GSW,105.0,MEM,86.0,M. Moody,GSW,Moody 3' Running Dunk (6 PTS),Made Shot,Running Dunk Shot,11,28,3,1,2.0,2.0,h
+S2223-G0496,4,10:06,GSW,106.0,MEM,86.0,M. Moody,GSW,Moody Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0496,4,09:05,GSW,109.0,MEM,90.0,M. Moody,GSW,Moody 26' 3PT Jump Shot (10 PTS) (Green 10 AST),Made Shot,Jump Shot,146,221,26,1,3.0,3.0,h
+S2223-G0496,4,08:33,GSW,,MEM,,M. Moody,GSW,MISS Moody 25' 3PT Jump Shot,Missed Shot,Jump Shot,-232,79,25,1,3.0,0.0,h
+S2223-G0496,4,07:44,GSW,,MEM,,M. Moody,GSW,MISS Moody 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,7,57,6,1,2.0,0.0,h
+S2223-G0496,4,07:18,GSW,,MEM,,M. Moody,GSW,MISS Moody 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-14,24,1,3.0,0.0,h
+S2223-G0496,4,06:33,GSW,,MEM,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0496,4,06:30,GSW,,MEM,,M. Moody,GSW,Moody L.B.FOUL (P1.T2) (R.Mott),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0496,4,04:21,GSW,,MEM,,M. Moody,GSW,SUB: Jerome FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0091,2,11:39,DET,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0091,2,10:38,DET,,GSW,,M. Moody,GSW,MISS Moody 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,235,77,25,1,3.0,0.0,v
+S2223-G0091,2,09:50,DET,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0091,2,09:36,DET,,GSW,,M. Moody,GSW,Moody Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0091,2,09:14,DET,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0091,2,08:07,DET,,GSW,,M. Moody,GSW,Moody REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0091,2,07:35,DET,,GSW,,M. Moody,GSW,SUB: D. Green FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0091,3,03:19,DET,89.0,GSW,83.0,M. Moody,GSW,Moody 2' Driving Layup (2 PTS) (Jerome 1 AST),Made Shot,Driving Layup Shot,21,13,2,1,2.0,2.0,v
+S2223-G0091,3,01:33,DET,98.0,GSW,88.0,M. Moody,GSW,Moody 27' 3PT Jump Shot (5 PTS) (Wiseman 1 AST),Made Shot,Jump Shot,-185,201,27,1,3.0,3.0,v
+S2223-G0091,3,01:01,DET,,GSW,,M. Moody,GSW,MISS Moody 28' 3PT Jump Shot,Missed Shot,Jump Shot,-119,258,28,1,3.0,0.0,v
+S2223-G0091,3,00:02.100000,DET,,GSW,,M. Moody,GSW,Moody BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0091,3,00:00,DET,,GSW,,M. Moody,GSW,Moody Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0091,4,11:11,DET,100.0,GSW,93.0,M. Moody,GSW,Moody 2' Driving Layup (7 PTS) (Poole 3 AST),Made Shot,Driving Layup Shot,21,10,2,1,2.0,2.0,v
+S2223-G0091,4,09:22,DET,,GSW,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0091,4,04:06,DET,,GSW,,M. Moody,GSW,MISS Moody 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,194,176,26,1,3.0,0.0,v
+S2223-G0091,4,02:27,DET,,GSW,,M. Moody,GSW,Moody S.FOUL (P1.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0091,4,01:24,DET,,GSW,,M. Moody,GSW,MISS Moody 3' Driving Layup,Missed Shot,Driving Layup Shot,25,6,3,1,2.0,0.0,v
+S2223-G0091,4,00:46.200000,DET,,GSW,,M. Moody,GSW,SUB: Kuminga FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0814,2,09:59,GSW,,OKC,,M. Moody,GSW,Moody L.B.FOUL (P1.T1) (C.Flores),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0814,2,08:36,GSW,,OKC,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,17,264,26,1,3.0,0.0,h
+S2223-G0814,2,06:06,GSW,,OKC,,M. Moody,GSW,Moody L.B.FOUL (P2.T2) (J.Goble),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0814,2,06:06,GSW,,OKC,,M. Moody,GSW,SUB: Thompson FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0814,4,04:13,GSW,127.0,OKC,104.0,M. Moody,GSW,Moody 4' Driving Layup (2 PTS) (Wiggins 4 AST),Made Shot,Driving Layup Shot,33,18,4,1,2.0,2.0,h
+S2223-G0814,4,02:47,GSW,,OKC,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,232,36,0,1,3.0,0.0,h
+S2223-G0814,4,01:51,GSW,137.0,OKC,109.0,M. Moody,GSW,Moody 3' Driving Dunk (4 PTS) (DiVincenzo 7 AST),Made Shot,Driving Dunk Shot,-26,22,3,1,2.0,2.0,h
+S2223-G0814,4,01:38,GSW,,OKC,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1086,2,11:26,DAL,,GSW,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,-234,-1,0,1,3.0,0.0,v
+S2223-G1086,2,10:40,DAL,35.0,GSW,32.0,M. Moody,GSW,Moody 1' Driving Layup (2 PTS) (Curry 3 AST),Made Shot,Driving Layup Shot,9,2,1,1,2.0,2.0,v
+S2223-G1086,2,09:47,DAL,,GSW,,M. Moody,GSW,Moody S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2223-G1086,2,08:49,DAL,,GSW,,M. Moody,GSW,SUB: Kuminga FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G1086,3,00:43.100000,DAL,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1086,3,00:43,DAL,,GSW,,M. Moody,GSW,Moody Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1086,3,00:29.400000,DAL,,GSW,,M. Moody,GSW,SUB: J. Green FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0156,2,04:46,GSW,,SAC,,M. Moody,GSW,Moody S.FOUL (P1.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0156,2,04:36,GSW,47.0,SAC,53.0,M. Moody,GSW,Moody 2' Cutting Dunk Shot (2 PTS) (D. Green 4 AST),Made Shot,Cutting Dunk Shot,-17,2,2,1,2.0,2.0,h
+S2223-G0156,2,02:26,GSW,,SAC,,M. Moody,GSW,SUB: Poole FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0156,2,01:27,GSW,,SAC,,M. Moody,GSW,Moody S.FOUL (P2.PN) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2223-G0156,3,04:15,GSW,,SAC,,M. Moody,GSW,Moody REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0156,3,03:18,GSW,,SAC,,M. Moody,GSW,SUB: Lamb FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0448,1,00:02.200000,TOR,,GSW,,M. Moody,GSW,SUB: Looney FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0448,3,00:24.300000,TOR,,GSW,,M. Moody,GSW,SUB: Poole FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0448,4,02:14,TOR,,GSW,,M. Moody,GSW,Moody S.FOUL (P1.PN) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0448,4,01:49,TOR,,GSW,,M. Moody,GSW,Moody Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0448,4,01:43,TOR,,GSW,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0448,4,00:21.200000,TOR,,GSW,,M. Moody,GSW,Moody S.FOUL (P2.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G1074,1,00:00.700000,HOU,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1074,2,06:39,HOU,,GSW,,M. Moody,GSW,Moody S.FOUL (P1.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G1074,2,05:02,HOU,37.0,GSW,41.0,M. Moody,GSW,Moody 27' 3PT Jump Shot (3 PTS) (D. Green 3 AST),Made Shot,Jump Shot,-208,169,27,1,3.0,3.0,v
+S2223-G1074,2,04:03,HOU,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1074,2,03:25,HOU,,GSW,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1074,2,02:19,HOU,,GSW,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0521,1,03:09,GSW,,UTA,,M. Moody,GSW,MISS Moody 25' 3PT Jump Shot,Missed Shot,Jump Shot,-184,176,25,1,3.0,0.0,h
+S2223-G0521,1,02:21,GSW,23.0,UTA,28.0,M. Moody,GSW,Moody 28' 3PT Running Jump Shot (3 PTS) (Kuminga 2 AST),Made Shot,Running Jump Shot,194,200,28,1,3.0,3.0,h
+S2223-G0521,2,09:17,GSW,34.0,UTA,44.0,M. Moody,GSW,Moody Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0521,2,09:17,GSW,,UTA,,M. Moody,GSW,MISS Moody Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0521,2,08:41,GSW,,UTA,,M. Moody,GSW,SUB: Lamb FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0521,3,02:41,GSW,,UTA,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0521,3,02:28,GSW,,UTA,,M. Moody,GSW,Moody S.FOUL (P1.T3) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0521,3,01:54,GSW,,UTA,,M. Moody,GSW,Moody S.FOUL (P2.T4) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0055,1,03:36,PHX,25.0,GSW,21.0,M. Moody,GSW,Moody 24' 3PT Jump Shot (3 PTS) (Curry 1 AST),Made Shot,Jump Shot,189,151,24,1,3.0,3.0,v
+S2223-G0055,1,03:21,PHX,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0055,1,03:09,PHX,25.0,GSW,22.0,M. Moody,GSW,Moody Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0055,1,03:09,PHX,,GSW,,M. Moody,GSW,MISS Moody Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0055,1,02:28,PHX,,GSW,,M. Moody,GSW,MISS Moody 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,5,24,1,3.0,0.0,v
+S2223-G0055,1,02:04,PHX,,GSW,,M. Moody,GSW,Moody BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0055,2,11:45,PHX,,GSW,,M. Moody,GSW,MISS Moody 3' Driving Layup,Missed Shot,Driving Layup Shot,17,24,3,1,2.0,0.0,v
+S2223-G0055,2,09:35,PHX,39.0,GSW,39.0,M. Moody,GSW,Moody 24' 3PT Jump Shot (7 PTS) (Looney 3 AST),Made Shot,Jump Shot,-235,27,24,1,3.0,3.0,v
+S2223-G0055,2,08:55,PHX,,GSW,,M. Moody,GSW,Moody S.FOUL (P1.T2) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0055,2,07:51,PHX,,GSW,,M. Moody,GSW,Moody BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0055,2,07:47,PHX,,GSW,,M. Moody,GSW,Moody BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0055,2,07:45,PHX,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0055,2,07:32,PHX,,GSW,,M. Moody,GSW,SUB: Curry FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0055,2,05:36,PHX,,GSW,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0055,2,05:35,PHX,,GSW,,M. Moody,GSW,Moody Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0055,2,04:35,PHX,,GSW,,M. Moody,GSW,MISS Moody 2' Layup,Missed Shot,Layup Shot,-18,8,2,1,2.0,0.0,v
+S2223-G0055,2,04:05,PHX,,GSW,,M. Moody,GSW,SUB: Wiggins FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0055,3,01:17,PHX,103.0,GSW,84.0,M. Moody,GSW,Moody 2' Driving Layup (9 PTS) (Wiggins 3 AST),Made Shot,Driving Layup Shot,-2,23,2,1,2.0,2.0,v
+S2223-G0055,4,11:17,PHX,105.0,GSW,88.0,M. Moody,GSW,Moody 21' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,-99,183,21,1,2.0,2.0,v
+S2223-G0055,4,08:07,PHX,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0055,4,08:07,PHX,109.0,GSW,93.0,M. Moody,GSW,Moody Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0055,4,08:07,PHX,109.0,GSW,94.0,M. Moody,GSW,Moody Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0055,4,05:51,PHX,,GSW,,M. Moody,GSW,SUB: Poole FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0055,4,03:04,PHX,,GSW,,M. Moody,GSW,MISS Moody 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,10,27,3,1,2.0,0.0,v
+S2223-G0055,4,02:27,PHX,,GSW,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,120,236,26,1,3.0,0.0,v
+S2223-G0055,4,00:22.700000,PHX,,GSW,,M. Moody,GSW,Moody Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0901,2,10:21,GSW,,HOU,,M. Moody,GSW,Moody Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0901,2,08:19,GSW,40.0,HOU,31.0,M. Moody,GSW,Moody 27' 3PT Jump Shot (3 PTS) (Jerome 3 AST),Made Shot,Jump Shot,-124,241,27,1,3.0,3.0,h
+S2223-G0901,2,08:19,GSW,41.0,HOU,31.0,M. Moody,GSW,Moody Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0901,2,06:36,GSW,,HOU,,M. Moody,GSW,MISS Moody 24' 3PT Jump Shot,Missed Shot,Jump Shot,-228,73,24,1,3.0,0.0,h
+S2223-G0901,2,06:21,GSW,,HOU,,M. Moody,GSW,SUB: Kuminga FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0901,3,00:40.800000,GSW,,HOU,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,-223,52,0,1,3.0,0.0,h
+S2223-G0901,4,01:23,GSW,,HOU,,M. Moody,GSW,MISS Moody 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,42,24,1,3.0,0.0,h
+S2223-G0002,2,09:12,GSW,32.0,LAL,26.0,M. Moody,GSW,Moody 24' 3PT Jump Shot (3 PTS) (Poole 1 AST),Made Shot,Jump Shot,238,19,24,1,3.0,3.0,h
+S2223-G0002,2,06:53,GSW,,LAL,,M. Moody,GSW,MISS Moody 25' 3PT Jump Shot,Missed Shot,Jump Shot,205,146,25,1,3.0,0.0,h
+S2223-G0002,2,06:22,GSW,,LAL,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0002,2,06:09,GSW,41.0,LAL,33.0,M. Moody,GSW,Moody 2' Cutting Dunk Shot (5 PTS) (Curry 4 AST),Made Shot,Cutting Dunk Shot,10,16,2,1,2.0,2.0,h
+S2223-G0002,2,05:36,GSW,,LAL,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,-227,6,0,1,3.0,0.0,h
+S2223-G0002,2,04:39,GSW,,LAL,,M. Moody,GSW,SUB: Poole FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0594,2,08:22,GSW,,ORL,,M. Moody,GSW,MISS Moody 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,53,24,1,3.0,0.0,h
+S2223-G0594,2,07:32,GSW,,ORL,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0594,4,02:37,GSW,,ORL,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0594,4,00:44.300000,GSW,,ORL,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,123,227,26,1,3.0,0.0,h
+S2223-G0594,4,00:06.400000,GSW,,ORL,,M. Moody,GSW,Moody REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0594,4,00:05.300000,GSW,,ORL,,M. Moody,GSW,MISS Moody 6' Tip Layup Shot,Missed Shot,Tip Layup Shot,45,34,6,1,2.0,0.0,h
+S2223-G0392,1,01:20,GSW,,BOS,,M. Moody,GSW,Moody REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0392,2,11:22,GSW,,BOS,,M. Moody,GSW,MISS Moody 28' 3PT Jump Shot,Missed Shot,Jump Shot,-6,278,28,1,3.0,0.0,h
+S2223-G0392,2,10:10,GSW,,BOS,,M. Moody,GSW,Moody P.FOUL (P1.T1) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G0392,2,07:31,GSW,,BOS,,M. Moody,GSW,Moody REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0392,2,07:09,GSW,,BOS,,M. Moody,GSW,SUB: Curry FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0392,3,01:40,GSW,,BOS,,M. Moody,GSW,Moody P.FOUL (P2.T3) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G0392,3,01:13,GSW,,BOS,,M. Moody,GSW,Moody Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0392,3,00:54.700000,GSW,,BOS,,M. Moody,GSW,Moody REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0392,3,00:07.300000,GSW,,BOS,,M. Moody,GSW,SUB: Thompson FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0392,4,00:53.100000,GSW,,BOS,,M. Moody,GSW,Moody REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0392,4,00:41.600000,GSW,,BOS,,M. Moody,GSW,Moody REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0392,4,00:41.600000,GSW,123.0,BOS,104.0,M. Moody,GSW,Moody Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0042,1,00:50.300000,GSW,,SAC,,M. Moody,GSW,Moody BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0042,1,00:46.200000,GSW,,SAC,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0042,2,08:22,GSW,,SAC,,M. Moody,GSW,Moody S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0042,2,07:49,GSW,55.0,SAC,52.0,M. Moody,GSW,Moody Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0042,2,07:49,GSW,56.0,SAC,52.0,M. Moody,GSW,Moody Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0042,2,06:32,GSW,,SAC,,M. Moody,GSW,SUB: Wiggins FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0042,3,00:05.100000,GSW,,SAC,,M. Moody,GSW,Moody Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0042,4,11:00,GSW,,SAC,,M. Moody,GSW,Moody Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0042,4,10:33,GSW,116.0,SAC,96.0,M. Moody,GSW,Moody Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0042,4,10:33,GSW,,SAC,,M. Moody,GSW,MISS Moody Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0042,4,03:55,GSW,,SAC,,M. Moody,GSW,MISS Moody 30' 3PT Jump Shot,Missed Shot,Jump Shot,147,262,30,1,3.0,0.0,h
+S2223-G0042,4,03:39,GSW,,SAC,,M. Moody,GSW,SUB: Poole FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0783,4,06:13,DEN,,GSW,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,-229,25,0,1,3.0,0.0,v
+S2223-G0783,4,04:56,DEN,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0783,4,01:41,DEN,,GSW,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,-158,201,26,1,3.0,0.0,v
+S2223-G0783,4,01:04,DEN,,GSW,,M. Moody,GSW,Moody REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0783,4,01:04,DEN,,GSW,,M. Moody,GSW,MISS Moody Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0853,1,01:46,GSW,,LAL,,M. Moody,GSW,Moody REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0853,1,01:12,GSW,20.0,LAL,16.0,M. Moody,GSW,Moody 2' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,-4,22,2,1,2.0,2.0,h
+S2223-G0916,1,03:10,GSW,,MIN,,M. Moody,GSW,Moody STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0916,1,02:27,GSW,,MIN,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,-234,-8,0,1,3.0,0.0,h
+S2223-G0916,1,01:36,GSW,,MIN,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0432,2,11:09,PHI,33.0,GSW,41.0,M. Moody,GSW,Moody 25' 3PT Jump Shot (3 PTS) (Jerome 2 AST),Made Shot,Jump Shot,-143,210,25,1,3.0,3.0,v
+S2223-G0432,2,08:24,PHI,,GSW,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,-150,215,26,1,3.0,0.0,v
+S2223-G0432,2,07:17,PHI,,GSW,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0432,3,01:38,PHI,,GSW,,M. Moody,GSW,Moody REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0432,4,10:18,PHI,,GSW,,M. Moody,GSW,MISS Moody 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,10,24,1,3.0,0.0,v
+S2223-G0432,4,10:12,PHI,,GSW,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,-229,-15,0,1,3.0,0.0,v
+S2223-G0432,4,09:41,PHI,,GSW,,M. Moody,GSW,Moody REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0432,4,08:46,PHI,,GSW,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,v
+S2223-G0536,1,00:21,GSW,,POR,,M. Moody,GSW,MISS Moody 26' 3PT Jump Shot,Missed Shot,Jump Shot,-180,191,26,1,3.0,0.0,h
+S2223-G0536,2,09:11,GSW,,POR,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,h
+S2223-G0536,3,01:41,GSW,,POR,,M. Moody,GSW,MISS Moody 3PT Jump Shot,Missed Shot,Jump Shot,-223,-25,0,1,3.0,0.0,h
+S2223-G0536,3,01:23,GSW,,POR,,M. Moody,GSW,MISS Moody 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,35,24,1,3.0,0.0,h
+S2223-G0536,4,09:39,GSW,,POR,,M. Moody,GSW,SUB: DiVincenzo FOR Moody,Substitution,,0,0,0,0,,,h

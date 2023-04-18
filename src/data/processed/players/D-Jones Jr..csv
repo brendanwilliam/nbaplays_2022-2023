@@ -1,0 +1,776 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0124,1,02:58,BOS,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0124,1,01:08,BOS,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0124,2,08:23,BOS,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0124,2,05:52,BOS,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0124,4,11:05,BOS,,CHI,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0124,4,11:01,BOS,,CHI,,D. Jones Jr.,CHI,Jones Jr. Out of Bounds Lost Ball Turnover (P1.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0124,4,06:37,BOS,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0061,2,08:37,CHI,,IND,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0061,2,07:55,CHI,,IND,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.T2) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2223-G0061,2,07:20,CHI,,IND,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0061,4,10:57,CHI,,IND,,D. Jones Jr.,CHI,MISS Jones Jr. 1' Layup,Missed Shot,Layup Shot,-9,8,1,1,2.0,0.0,h
+S2223-G0061,4,10:56,CHI,,IND,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0061,4,10:55,CHI,,IND,,D. Jones Jr.,CHI,MISS Jones Jr. Putback Dunk,Missed Shot,Putback Dunk Shot,0,0,0,1,2.0,0.0,h
+S2223-G0061,4,06:48,CHI,,IND,,D. Jones Jr.,CHI,MISS Jones Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,-5,24,1,3.0,0.0,h
+S2223-G0061,4,06:42,CHI,,IND,,D. Jones Jr.,CHI,SUB: Green FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0077,2,10:30,SAS,,CHI,,D. Jones Jr.,CHI,Jones Jr. Violation:Kicked Ball (P.Fraher),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0077,2,10:20,SAS,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0077,2,09:14,SAS,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0077,2,07:46,SAS,45.0,CHI,46.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0077,2,07:46,SAS,45.0,CHI,47.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0077,2,05:55,SAS,47.0,CHI,53.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0077,2,05:55,SAS,47.0,CHI,54.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0077,2,05:37,SAS,,CHI,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0077,2,03:25,SAS,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,-16,22,3,1,2.0,0.0,v
+S2223-G0077,2,02:43,SAS,,CHI,,D. Jones Jr.,CHI,SUB: Green FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0077,3,05:50,SAS,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0077,3,05:50,SAS,76.0,CHI,80.0,D. Jones Jr.,CHI,Jones Jr. Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0077,3,05:39,SAS,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-17,-2,2,1,2.0,0.0,v
+S2223-G0077,3,02:41,SAS,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0077,4,11:04,SAS,,CHI,,D. Jones Jr.,CHI,SUB: Drummond FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0077,4,00:14.500000,SAS,,CHI,,D. Jones Jr.,CHI,SUB: DeRozan FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G1060,3,01:41,CHI,,MIA,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.PN) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G0606,1,02:52,BOS,20.0,CHI,15.0,D. Jones Jr.,CHI,Jones Jr. 15' Driving Floating Jump Shot (2 PTS) (LaVine 1 AST),Made Shot,Driving Floating Jump Shot,-123,81,15,1,2.0,2.0,v
+S2223-G0606,2,09:46,BOS,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0606,3,01:22,BOS,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-233,80,25,1,3.0,0.0,v
+S2223-G0606,4,10:12,BOS,89.0,CHI,77.0,D. Jones Jr.,CHI,Jones Jr. 3' Cutting Dunk Shot (4 PTS) (LaVine 5 AST),Made Shot,Cutting Dunk Shot,-1,29,3,1,2.0,2.0,v
+S2223-G0606,4,07:11,BOS,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0606,4,06:54,BOS,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-44,31,5,1,2.0,0.0,v
+S2223-G0606,4,06:17,BOS,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0217,2,09:16,NOP,,CHI,,D. Jones Jr.,CHI,Jones Jr. Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0217,2,08:28,NOP,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 6' Driving Layup,Missed Shot,Driving Layup Shot,55,25,6,1,2.0,0.0,v
+S2223-G0217,2,07:25,NOP,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,110,238,26,1,3.0,0.0,v
+S2223-G0217,2,05:10,NOP,,CHI,,D. Jones Jr.,CHI,SUB: Caruso FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0217,4,10:29,NOP,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0217,4,09:33,NOP,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0217,4,02:29,NOP,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P2.PN) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2223-G0581,1,04:07,PHI,18.0,CHI,11.0,D. Jones Jr.,CHI,Jones Jr. 1' Cutting Layup Shot (2 PTS) (LaVine 2 AST),Made Shot,Cutting Layup Shot,-6,4,1,1,2.0,2.0,v
+S2223-G0581,1,04:07,PHI,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0581,1,02:12,PHI,25.0,CHI,19.0,D. Jones Jr.,CHI,Jones Jr. 24' 3PT Jump Shot (5 PTS) (White 1 AST),Made Shot,Jump Shot,229,56,24,1,3.0,3.0,v
+S2223-G0581,2,10:59,PHI,32.0,CHI,27.0,D. Jones Jr.,CHI,Jones Jr. 1' Running Layup (7 PTS),Made Shot,Running Layup Shot,6,6,1,1,2.0,2.0,v
+S2223-G0581,2,07:33,PHI,,CHI,,D. Jones Jr.,CHI,Jones Jr. Offensive Charge Foul (P1) (A.Nagy),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0581,2,07:33,PHI,,CHI,,D. Jones Jr.,CHI,Jones Jr. Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0581,2,07:33,PHI,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0581,4,10:56,PHI,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0581,4,08:50,PHI,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0581,4,08:40,PHI,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0581,4,08:40,PHI,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0581,4,07:45,PHI,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0581,4,07:13,PHI,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0581,4,07:13,PHI,94.0,CHI,110.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0581,4,06:18,PHI,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0796,2,08:39,CHI,,,,D. Jones Jr.,CHI,SUB: White FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0796,3,03:36,CHI,,,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0796,3,00:02.300000,CHI,,,,D. Jones Jr.,CHI,MISS Jones Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,225,136,26,1,3.0,0.0,h
+S2223-G0796,4,10:07,CHI,,,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0796,4,06:51,CHI,109.0,,104.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0796,4,06:51,CHI,110.0,,104.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0796,4,05:47,CHI,,,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0391,1,02:33,CHI,33.0,DAL,21.0,D. Jones Jr.,CHI,Jones Jr. 3PT Jump Shot (3 PTS) (Vucevic 2 AST),Made Shot,Jump Shot,-234,3,0,1,3.0,3.0,h
+S2223-G0391,1,01:42,CHI,,DAL,,D. Jones Jr.,CHI,MISS Jones Jr. 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,10,3,1,1,2.0,0.0,h
+S2223-G0391,1,01:02,CHI,,DAL,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0391,1,00:30.600000,CHI,38.0,DAL,30.0,D. Jones Jr.,CHI,Jones Jr. 3PT Jump Shot (6 PTS) (Dragic 1 AST),Made Shot,Jump Shot,-224,47,0,1,3.0,3.0,h
+S2223-G0391,2,11:44,CHI,,DAL,,D. Jones Jr.,CHI,MISS Jones Jr. 6' Driving Layup,Missed Shot,Driving Layup Shot,-2,59,6,1,2.0,0.0,h
+S2223-G0391,2,10:19,CHI,,DAL,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0391,3,04:28,CHI,,DAL,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0391,3,02:00,CHI,,DAL,,D. Jones Jr.,CHI,MISS Jones Jr. 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-2,15,2,1,2.0,0.0,h
+S2223-G0391,3,01:56,CHI,,DAL,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0391,3,01:56,CHI,107.0,DAL,77.0,D. Jones Jr.,CHI,Jones Jr. Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0391,3,00:56.500000,CHI,111.0,DAL,81.0,D. Jones Jr.,CHI,Jones Jr. 1' Cutting Dunk Shot (10 PTS) (Dragic 3 AST),Made Shot,Cutting Dunk Shot,5,8,1,1,2.0,2.0,h
+S2223-G0391,4,09:39,CHI,,DAL,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0391,4,03:44,CHI,,DAL,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0391,4,03:31,CHI,,DAL,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P2.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G0391,4,03:17,CHI,134.0,DAL,109.0,D. Jones Jr.,CHI,Jones Jr. 25' 3PT Jump Shot (13 PTS) (White 7 AST),Made Shot,Jump Shot,147,206,25,1,3.0,3.0,h
+S2223-G0391,4,02:59,CHI,,DAL,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0391,4,02:21,CHI,,DAL,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P3.PN) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2223-G0391,4,01:25,CHI,,DAL,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0391,4,01:20,CHI,144.0,DAL,113.0,D. Jones Jr.,CHI,Jones Jr. 26' 3PT Jump Shot (16 PTS) (Terry 2 AST),Made Shot,Jump Shot,-1,263,26,1,3.0,3.0,h
+S2223-G0391,4,00:59,CHI,,DAL,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,232,-5,0,1,3.0,0.0,h
+S2223-G0391,4,00:29.200000,CHI,,DAL,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0811,1,02:21,CHI,,SAS,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0811,2,09:43,CHI,,SAS,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0811,2,06:46,CHI,,SAS,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0811,3,05:44,CHI,,SAS,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0811,3,04:59,CHI,,SAS,,D. Jones Jr.,CHI,Jones Jr. BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0811,3,04:43,CHI,,SAS,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0811,3,04:31,CHI,,SAS,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0811,3,00:01,CHI,,SAS,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0811,4,10:20,CHI,95.0,SAS,88.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0811,4,10:20,CHI,96.0,SAS,88.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0811,4,08:43,CHI,,SAS,,D. Jones Jr.,CHI,MISS Jones Jr. 9' Jump Shot,Missed Shot,Jump Shot,-70,52,9,1,2.0,0.0,h
+S2223-G0811,4,07:24,CHI,,SAS,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P2.T1) (M.Kallio),Foul,Personal,0,0,0,0,,,h
+S2223-G0811,4,05:47,CHI,111.0,SAS,91.0,D. Jones Jr.,CHI,Jones Jr. 26' 3PT Jump Shot (5 PTS) (White 3 AST),Made Shot,Jump Shot,-158,207,26,1,3.0,3.0,h
+S2223-G0811,4,03:01,CHI,,SAS,,D. Jones Jr.,CHI,Jones Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0811,4,01:59,CHI,,SAS,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P3.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G1129,1,03:44,LAC,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,59,24,1,3.0,0.0,v
+S2223-G1129,1,03:32,LAC,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1129,1,03:28,LAC,,CHI,,D. Jones Jr.,CHI,Jones Jr. Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1129,1,00:05.800000,LAC,,CHI,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G1129,2,07:24,LAC,,CHI,,D. Jones Jr.,CHI,SUB: White FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G1129,3,02:45,LAC,91.0,CHI,75.0,D. Jones Jr.,CHI,Jones Jr. 6' Floating Jump Shot (2 PTS) (White 3 AST),Made Shot,Floating Jump shot,-59,6,6,1,2.0,2.0,v
+S2223-G1129,3,02:09,LAC,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1129,4,11:41,LAC,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-222,127,26,1,3.0,0.0,v
+S2223-G1129,4,10:25,LAC,,CHI,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1129,4,08:42,LAC,,CHI,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G1129,4,02:51,LAC,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1129,4,02:48,LAC,119.0,CHI,105.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1129,4,02:48,LAC,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1129,4,01:28,LAC,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,3,19,2,1,2.0,0.0,v
+S2223-G0781,3,04:07,CHI,,CHA,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0781,3,04:07,CHI,76.0,CHA,64.0,D. Jones Jr.,CHI,Jones Jr. Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0781,3,03:54,CHI,,CHA,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0781,3,03:50,CHI,,CHA,,D. Jones Jr.,CHI,Jones Jr. Offensive Charge Foul (P1) (T.Maddox),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0781,3,03:50,CHI,,CHA,,D. Jones Jr.,CHI,Jones Jr. Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0781,4,08:58,CHI,,CHA,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0781,4,08:21,CHI,,CHA,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G1104,2,10:13,POR,26.0,CHI,33.0,D. Jones Jr.,CHI,Jones Jr. 2' Cutting Layup Shot (2 PTS) (White 2 AST),Made Shot,Cutting Layup Shot,0,16,2,1,2.0,2.0,v
+S2223-G1104,2,09:38,POR,26.0,CHI,35.0,D. Jones Jr.,CHI,Jones Jr. 2' Cutting Layup Shot (4 PTS) (Terry 3 AST),Made Shot,Cutting Layup Shot,6,15,2,1,2.0,2.0,v
+S2223-G1104,2,08:43,POR,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1104,2,08:43,POR,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G1104,2,01:39,POR,39.0,CHI,52.0,D. Jones Jr.,CHI,Jones Jr. 2' Cutting Layup Shot (6 PTS) (Vucevic 4 AST),Made Shot,Cutting Layup Shot,13,17,2,1,2.0,2.0,v
+S2223-G1104,3,04:00,POR,62.0,CHI,82.0,D. Jones Jr.,CHI,Jones Jr. 2' Driving Layup (8 PTS) (LaVine 6 AST),Made Shot,Driving Layup Shot,-6,16,2,1,2.0,2.0,v
+S2223-G1104,3,03:16,POR,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G1104,3,00:50.500000,POR,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,-223,79,24,1,3.0,0.0,v
+S2223-G1104,3,00:43.100000,POR,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1104,4,02:03,POR,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1104,4,02:01,POR,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1104,4,02:00,POR,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1104,4,01:59,POR,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3' Putback Layup,Missed Shot,Putback Layup Shot,17,21,3,1,2.0,0.0,v
+S2223-G1104,4,01:03,POR,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P2.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2223-G0650,1,07:30,,12.0,,5.0,D. Jones Jr.,CHI,Jones Jr. 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,6,1,1,2.0,2.0,h
+S2223-G0650,1,03:14,,27.0,,10.0,D. Jones Jr.,CHI,Jones Jr. 1' Cutting Dunk Shot (4 PTS) (LaVine 2 AST),Made Shot,Cutting Dunk Shot,-6,1,1,1,2.0,2.0,h
+S2223-G0650,1,02:47,,,,,D. Jones Jr.,CHI,Jones Jr. OFF.Foul (P1) (B.Forte),Foul,Offensive,0,0,0,0,,,h
+S2223-G0650,1,02:47,,,,,D. Jones Jr.,CHI,Jones Jr. Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0650,1,02:01,,,,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,232,-2,0,1,3.0,0.0,h
+S2223-G0650,1,01:03,,,,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P2.T4) (E.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G0650,2,07:42,,,,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0650,2,07:42,,,,,D. Jones Jr.,CHI,MISS Jones Jr. Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0650,2,07:25,,,,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P3.T4) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2223-G0650,2,06:38,,,,,D. Jones Jr.,CHI,MISS Jones Jr. 1' Reverse Layup,Missed Shot,Reverse Layup Shot,4,5,1,1,2.0,0.0,h
+S2223-G0650,2,06:15,,,,,D. Jones Jr.,CHI,MISS Jones Jr. 1' Layup,Missed Shot,Layup Shot,-2,13,1,1,2.0,0.0,h
+S2223-G0650,2,06:13,,,,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0650,4,11:38,,93.0,,86.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 3 (5 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0650,4,11:38,,94.0,,86.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 3 (6 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0650,4,11:38,,95.0,,86.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 3 of 3 (7 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0650,4,08:44,,,,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0650,4,04:59,,,,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0650,4,04:02,,,,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G1165,3,01:20,CHI,,MEM,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1165,4,10:54,CHI,97.0,MEM,86.0,D. Jones Jr.,CHI,Jones Jr. 1' Cutting Layup Shot (2 PTS) (DeRozan 6 AST),Made Shot,Cutting Layup Shot,13,0,1,1,2.0,2.0,h
+S2223-G1165,4,10:54,CHI,98.0,MEM,86.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1165,4,10:19,CHI,99.0,MEM,88.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1165,4,10:19,CHI,,MEM,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1165,4,07:42,CHI,,MEM,,D. Jones Jr.,CHI,Jump Ball (CC) Jones Jr. vs. Jackson Jr.: Tip to Kennard,Jump Ball,Coach Challenge,0,0,0,0,,,h
+S2223-G1165,4,07:25,CHI,,MEM,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0963,3,01:12,CHI,87.0,IND,91.0,D. Jones Jr.,CHI,Jones Jr. 2' Cutting Layup Shot (2 PTS) (LaVine 4 AST),Made Shot,Cutting Layup Shot,-22,10,2,1,2.0,2.0,h
+S2223-G0963,4,09:01,CHI,,IND,,D. Jones Jr.,CHI,Jones Jr. OFF.Foul (P1) (N.Sago),Foul,Offensive,0,0,0,0,,,h
+S2223-G0963,4,09:01,CHI,,IND,,D. Jones Jr.,CHI,Jones Jr. Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0963,4,07:37,CHI,,IND,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0963,4,07:03,CHI,,IND,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0084,2,11:35,CHI,,PHI,,D. Jones Jr.,CHI,Jones Jr. Violation:Defensive Goaltending (J.Tiven),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0084,2,11:23,CHI,24.0,PHI,39.0,D. Jones Jr.,CHI,Jones Jr. 1' Driving Layup (2 PTS) (Caruso 1 AST),Made Shot,Driving Layup Shot,7,1,1,1,2.0,2.0,h
+S2223-G0084,2,10:40,CHI,,PHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0084,2,10:03,CHI,,PHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,227,3,0,1,3.0,0.0,h
+S2223-G0084,2,09:52,CHI,,PHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0084,2,09:48,CHI,27.0,PHI,42.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0084,2,09:48,CHI,,PHI,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0084,2,09:01,CHI,,PHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0084,2,08:53,CHI,,PHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0084,2,08:29,CHI,,PHI,,D. Jones Jr.,CHI,MISS Jones Jr. 1' Driving Layup,Missed Shot,Driving Layup Shot,10,8,1,1,2.0,0.0,h
+S2223-G0084,2,07:49,CHI,,PHI,,D. Jones Jr.,CHI,SUB: Green FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0084,3,01:58,CHI,,PHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.PN) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2223-G0084,3,01:58,CHI,,PHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0084,4,10:12,CHI,94.0,PHI,94.0,D. Jones Jr.,CHI,Jones Jr. 1' Cutting Dunk Shot (5 PTS) (Dragic 1 AST),Made Shot,Cutting Dunk Shot,0,12,1,1,2.0,2.0,h
+S2223-G0084,4,10:12,CHI,95.0,PHI,94.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0084,4,07:07,CHI,,PHI,,D. Jones Jr.,CHI,SUB: DeRozan FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0196,1,02:08,CHI,,DEN,,D. Jones Jr.,CHI,MISS Jones Jr. 2' Running Layup,Missed Shot,Running Layup Shot,0,21,2,1,2.0,0.0,h
+S2223-G0196,1,01:03,CHI,,DEN,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0196,2,09:07,CHI,,DEN,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.T1) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2223-G0196,2,07:58,CHI,,DEN,,D. Jones Jr.,CHI,SUB: DeRozan FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0196,3,04:00,CHI,,DEN,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0196,3,03:01,CHI,68.0,DEN,86.0,D. Jones Jr.,CHI,Jones Jr. 1' Dunk (2 PTS) (Drummond 1 AST),Made Shot,Dunk Shot,0,6,1,1,2.0,2.0,h
+S2223-G0196,3,01:54,CHI,72.0,DEN,91.0,D. Jones Jr.,CHI,Jones Jr. Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,-1,2,0,1,2.0,2.0,h
+S2223-G0196,3,01:17,CHI,,DEN,,D. Jones Jr.,CHI,MISS Jones Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-81,251,26,1,3.0,0.0,h
+S2223-G0196,3,00:30.400000,CHI,,DEN,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P2.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G0196,4,10:57,CHI,,DEN,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0196,4,10:06,CHI,,DEN,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G1050,4,10:27,CHI,,MIN,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1050,4,10:27,CHI,85.0,MIN,92.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1050,4,10:27,CHI,,MIN,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1050,4,09:29,CHI,,MIN,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G1210,1,01:59,DAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.T4) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2223-G1210,1,01:56,DAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1210,1,00:45.100000,DAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P2.PN) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2223-G1210,2,10:54,DAL,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 6' Running Layup,Missed Shot,Running Layup Shot,-43,39,6,1,2.0,0.0,v
+S2223-G1210,2,10:52,DAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1210,2,09:29,DAL,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G1210,3,11:17,DAL,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Running Jump Shot,Missed Shot,Running Jump Shot,232,20,0,1,3.0,0.0,v
+S2223-G1210,3,05:45,DAL,80.0,CHI,71.0,D. Jones Jr.,CHI,Jones Jr. 24' 3PT Jump Shot (3 PTS) (White 8 AST),Made Shot,Jump Shot,229,57,24,1,3.0,3.0,v
+S2223-G1210,3,05:13,DAL,,CHI,,D. Jones Jr.,CHI,SUB: Terry FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G1210,3,03:05,DAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P3.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G1210,3,03:02,DAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1210,4,10:38,DAL,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,213,113,24,1,3.0,0.0,v
+S2223-G1210,4,10:21,DAL,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,-31,25,4,1,2.0,0.0,v
+S2223-G1210,4,09:52,DAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1210,4,08:29,DAL,98.0,CHI,92.0,D. Jones Jr.,CHI,Jones Jr. 3PT Jump Shot (6 PTS) (Dosunmu 4 AST),Made Shot,Jump Shot,-230,42,0,1,3.0,3.0,v
+S2223-G1210,4,08:15,DAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P4.T2) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2223-G1210,4,08:15,DAL,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G1210,4,00:17.800000,DAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1210,4,00:17.800000,DAL,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1210,4,00:17.800000,DAL,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1210,4,00:10.300000,DAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0047,2,11:42,CHI,,BOS,,D. Jones Jr.,CHI,MISS Jones Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,-18,-1,2,1,2.0,0.0,h
+S2223-G0047,2,11:42,CHI,,BOS,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0047,2,11:42,CHI,31.0,BOS,39.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0047,2,11:42,CHI,32.0,BOS,39.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0047,2,10:47,CHI,37.0,BOS,39.0,D. Jones Jr.,CHI,Jones Jr. 2' Cutting Layup Shot (4 PTS) (Dragic 2 AST),Made Shot,Cutting Layup Shot,-17,0,2,1,2.0,2.0,h
+S2223-G0047,2,09:43,CHI,40.0,BOS,44.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0047,2,09:43,CHI,41.0,BOS,44.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0047,2,09:21,CHI,43.0,BOS,44.0,D. Jones Jr.,CHI,Jones Jr. Cutting Dunk Shot (8 PTS) (Dragic 3 AST),Made Shot,Cutting Dunk Shot,-1,-2,0,1,2.0,2.0,h
+S2223-G0047,2,08:01,CHI,,BOS,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-222,3,0,1,3.0,0.0,h
+S2223-G0047,2,06:00,CHI,49.0,BOS,46.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0047,2,06:00,CHI,50.0,BOS,46.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0047,2,04:43,CHI,,BOS,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0047,2,03:45,CHI,,BOS,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0047,4,10:13,CHI,,BOS,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0047,4,06:46,CHI,,BOS,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P2.T2) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2223-G0047,4,05:30,CHI,,BOS,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0552,1,03:43,CLE,19.0,CHI,28.0,D. Jones Jr.,CHI,Jones Jr. Alley Oop Layup (2 PTS) (LaVine 4 AST),Made Shot,Alley Oop Layup shot,0,2,0,1,2.0,2.0,v
+S2223-G0552,1,01:55,CLE,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0552,1,01:28,CLE,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0552,2,08:18,CLE,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,26,24,1,3.0,0.0,v
+S2223-G0552,2,07:41,CLE,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0552,3,02:44,CLE,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0552,3,02:28,CLE,78.0,CHI,89.0,D. Jones Jr.,CHI,Jones Jr. 1' Alley Oop Layup (4 PTS) (White 1 AST),Made Shot,Alley Oop Layup shot,-11,5,1,1,2.0,2.0,v
+S2223-G0552,3,01:20,CLE,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P2.PN) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2223-G0552,4,11:36,CLE,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0552,4,11:36,CLE,91.0,CHI,98.0,D. Jones Jr.,CHI,Jones Jr. Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0552,4,11:19,CLE,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P3.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0552,4,11:19,CLE,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0552,4,07:59,CLE,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0552,5,03:03,CLE,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0552,5,01:37,CLE,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0552,5,01:33,CLE,,CHI,,D. Jones Jr.,CHI,Jones Jr. Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0552,5,01:11,CLE,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0552,5,00:31,CLE,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P4.PN) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2223-G0708,1,04:02,CHI,,ATL,,D. Jones Jr.,CHI,Jones Jr. Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0708,1,04:00,CHI,,ATL,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.T1) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G0708,1,03:02,CHI,,ATL,,D. Jones Jr.,CHI,MISS Jones Jr. 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-27,3,3,1,2.0,0.0,h
+S2223-G0708,1,02:58,CHI,,ATL,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0708,1,02:58,CHI,13.0,ATL,15.0,D. Jones Jr.,CHI,Jones Jr. Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0708,1,02:31,CHI,16.0,ATL,15.0,D. Jones Jr.,CHI,Jones Jr. 3PT Jump Shot (5 PTS) (White 1 AST),Made Shot,Jump Shot,227,57,0,1,3.0,3.0,h
+S2223-G0708,2,09:59,CHI,,ATL,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0708,2,07:56,CHI,,ATL,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0708,3,04:47,CHI,,ATL,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P2.T4) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G0708,3,03:42,CHI,,ATL,,D. Jones Jr.,CHI,MISS Jones Jr. 1' Running Layup,Missed Shot,Running Layup Shot,-9,8,1,1,2.0,0.0,h
+S2223-G0708,3,03:35,CHI,,ATL,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0708,3,03:25,CHI,,ATL,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P3.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G0708,3,02:54,CHI,,ATL,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0708,3,01:50,CHI,,ATL,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0708,3,00:00,CHI,,ATL,,D. Jones Jr.,CHI,MISS Jones Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,-218,158,27,1,3.0,0.0,h
+S2223-G0708,4,06:43,CHI,,ATL,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0636,1,05:14,CHI,,OKC,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0636,1,03:04,CHI,21.0,OKC,30.0,D. Jones Jr.,CHI,Jones Jr. 3PT Jump Shot (3 PTS) (LaVine 1 AST),Made Shot,Jump Shot,229,20,0,1,3.0,3.0,h
+S2223-G0636,1,02:00,CHI,23.0,OKC,30.0,D. Jones Jr.,CHI,Jones Jr. Cutting Dunk Shot (5 PTS) (White 1 AST),Made Shot,Cutting Dunk Shot,1,0,0,1,2.0,2.0,h
+S2223-G0636,1,01:05,CHI,,OKC,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0636,2,10:09,CHI,,OKC,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0636,2,05:59,CHI,,OKC,,D. Jones Jr.,CHI,MISS Jones Jr. 1' Driving Layup,Missed Shot,Driving Layup Shot,12,5,1,1,2.0,0.0,h
+S2223-G0636,2,05:39,CHI,,OKC,,D. Jones Jr.,CHI,Jones Jr. BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0636,2,05:25,CHI,,OKC,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0636,3,03:04,CHI,,OKC,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0636,3,03:04,CHI,83.0,OKC,91.0,D. Jones Jr.,CHI,Jones Jr. Tip Dunk Shot (7 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0636,3,01:57,CHI,,OKC,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0636,3,01:35,CHI,,OKC,,D. Jones Jr.,CHI,Jones Jr. BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0636,3,00:50.900000,CHI,,OKC,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.T4) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0636,4,10:40,CHI,,OKC,,D. Jones Jr.,CHI,MISS Jones Jr. 2' Layup,Missed Shot,Layup Shot,-17,17,2,1,2.0,0.0,h
+S2223-G0636,4,10:38,CHI,,OKC,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0636,4,05:13,CHI,,OKC,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,233,-1,0,1,3.0,0.0,h
+S2223-G0636,4,03:58,CHI,,OKC,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P2.T2) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0636,4,02:52,CHI,,OKC,,D. Jones Jr.,CHI,MISS Jones Jr. 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,17,6,2,1,2.0,0.0,h
+S2223-G0227,1,03:23,CHI,,ORL,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-225,3,0,1,3.0,0.0,h
+S2223-G0227,1,02:36,CHI,,ORL,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0227,1,01:00,CHI,,ORL,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.PN) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0227,1,00:50.300000,CHI,,ORL,,D. Jones Jr.,CHI,MISS Jones Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,251,25,1,3.0,0.0,h
+S2223-G0227,2,11:34,CHI,,ORL,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0227,2,11:24,CHI,,ORL,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0732,2,11:40,CHA,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0732,2,10:52,CHA,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0732,2,09:05,CHA,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0732,2,07:23,CHA,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0732,2,06:56,CHA,,CHI,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0732,3,02:52,CHA,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0732,3,02:52,CHA,73.0,CHI,72.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0732,3,01:44,CHA,77.0,CHI,74.0,D. Jones Jr.,CHI,Jones Jr. 2' Alley Oop Dunk (3 PTS) (White 2 AST),Made Shot,Alley Oop Dunk Shot,18,10,2,1,2.0,2.0,v
+S2223-G0732,4,11:14,CHA,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0732,4,10:10,CHA,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0732,4,08:55,CHA,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0732,4,07:46,CHA,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0732,4,05:43,CHA,,CHI,,D. Jones Jr.,CHI,SUB: DeRozan FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0103,1,02:01,BKN,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0103,1,01:13,BKN,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0103,1,01:13,BKN,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0103,1,01:12,BKN,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0103,1,01:12,BKN,22.0,CHI,25.0,D. Jones Jr.,CHI,Jones Jr. Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0103,1,00:38.600000,BKN,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,46,24,1,3.0,0.0,v
+S2223-G0103,2,11:24,BKN,30.0,CHI,26.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0103,2,11:24,BKN,30.0,CHI,27.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0103,2,08:33,BKN,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0103,2,06:58,BKN,,CHI,,D. Jones Jr.,CHI,SUB: DeRozan FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0103,3,04:38,BKN,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0103,4,11:51,BKN,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,40,10,4,1,2.0,0.0,v
+S2223-G0103,4,09:22,BKN,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0400,1,02:54,ATL,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0400,1,02:09,ATL,,CHI,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0400,1,01:41,ATL,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,76,24,1,3.0,0.0,v
+S2223-G0400,1,00:25.700000,ATL,20.0,CHI,24.0,D. Jones Jr.,CHI,Jones Jr. 2' Layup (2 PTS) (White 1 AST),Made Shot,Layup Shot,10,20,2,1,2.0,2.0,v
+S2223-G0400,2,11:01,ATL,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0400,2,10:08,ATL,,CHI,,D. Jones Jr.,CHI,SUB: Green FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0400,3,03:57,ATL,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0400,3,03:24,ATL,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.T4) (J.Ralls),Foul,Personal,0,0,0,0,,,v
+S2223-G0400,3,01:33,ATL,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P2.PN) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2223-G0400,3,00:56.500000,ATL,81.0,CHI,76.0,D. Jones Jr.,CHI,Jones Jr. 24' 3PT Jump Shot (5 PTS) (Dragic 3 AST),Made Shot,Jump Shot,178,168,24,1,3.0,3.0,v
+S2223-G0400,3,00:43.900000,ATL,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P3.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0400,4,11:40,ATL,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0400,4,11:37,ATL,85.0,CHI,80.0,D. Jones Jr.,CHI,Jones Jr. Tip Dunk Shot (7 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0400,4,07:37,ATL,95.0,CHI,92.0,D. Jones Jr.,CHI,Jones Jr. 1' Cutting Layup Shot (9 PTS) (Dragic 5 AST),Made Shot,Cutting Layup Shot,-6,3,1,1,2.0,2.0,v
+S2223-G0400,4,07:22,ATL,97.0,CHI,94.0,D. Jones Jr.,CHI,Jones Jr. Driving Reverse Layup (11 PTS) (Dragic 6 AST),Made Shot,Driving Reverse Layup Shot,-4,-2,0,1,2.0,2.0,v
+S2223-G0400,4,06:20,ATL,,CHI,,D. Jones Jr.,CHI,SUB: Green FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0400,4,01:02,ATL,107.0,CHI,107.0,D. Jones Jr.,CHI,Jones Jr. 2' Alley Oop Dunk (13 PTS) (White 4 AST),Made Shot,Alley Oop Dunk Shot,12,9,2,1,2.0,2.0,v
+S2223-G0400,4,00:00.400000,ATL,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0400,4,00:00.400000,ATL,110.0,CHI,110.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0400,4,00:00.400000,ATL,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0400,5,03:08,ATL,,CHI,,D. Jones Jr.,CHI,Jones Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0400,5,00:01,ATL,,CHI,,D. Jones Jr.,CHI,SUB: Dragic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G1114,3,06:56,LAL,60.0,CHI,79.0,D. Jones Jr.,CHI,Jones Jr. 26' 3PT Jump Shot (3 PTS) (DeRozan 8 AST),Made Shot,Jump Shot,-164,199,26,1,3.0,3.0,v
+S2223-G1114,3,05:24,LAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2223-G1114,3,04:31,LAL,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,-227,91,24,1,3.0,0.0,v
+S2223-G1114,3,04:23,LAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1114,3,04:07,LAL,,CHI,,D. Jones Jr.,CHI,SUB: Drummond FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G1114,4,11:23,LAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P2.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1114,4,10:22,LAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1114,4,06:26,LAL,86.0,CHI,107.0,D. Jones Jr.,CHI,Jones Jr. 25' 3PT Jump Shot (6 PTS) (LaVine 4 AST),Made Shot,Jump Shot,-200,158,25,1,3.0,3.0,v
+S2223-G1114,4,06:10,LAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1114,4,04:00,LAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1114,4,03:26,LAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P3.T4) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1114,4,02:44,LAL,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P4.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1114,4,00:45.400000,LAL,105.0,CHI,117.0,D. Jones Jr.,CHI,Jones Jr. 4' Driving Dunk (8 PTS) (DeRozan 10 AST),Made Shot,Driving Dunk Shot,-11,36,4,1,2.0,2.0,v
+S2223-G0744,1,03:07,ORL,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0744,1,02:54,ORL,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-233,-17,0,1,3.0,0.0,v
+S2223-G0744,2,10:24,ORL,23.0,CHI,32.0,D. Jones Jr.,CHI,Jones Jr. 2' Cutting Layup Shot (2 PTS) (Dragic 1 AST),Made Shot,Cutting Layup Shot,15,8,2,1,2.0,2.0,v
+S2223-G0744,2,10:10,ORL,,CHI,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0744,2,09:05,ORL,25.0,CHI,37.0,D. Jones Jr.,CHI,Jones Jr. 3PT Jump Shot (5 PTS) (Dragic 2 AST),Made Shot,Jump Shot,-233,-29,0,1,3.0,3.0,v
+S2223-G0744,2,08:42,ORL,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0744,2,05:47,ORL,,CHI,,D. Jones Jr.,CHI,SUB: Caruso FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0744,3,05:46,ORL,,CHI,,D. Jones Jr.,CHI,Jones Jr. L.B.FOUL (P1.T2) (B.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0744,3,05:38,ORL,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P2.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0744,3,05:38,ORL,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0744,4,08:01,ORL,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0713,1,01:14,IND,17.0,CHI,31.0,D. Jones Jr.,CHI,Jones Jr. 8' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,-77,23,8,1,2.0,2.0,v
+S2223-G0713,2,11:15,IND,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0713,2,11:15,IND,21.0,CHI,37.0,D. Jones Jr.,CHI,Jones Jr. Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0713,2,10:55,IND,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.T2) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0713,2,09:33,IND,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0713,2,09:33,IND,26.0,CHI,41.0,D. Jones Jr.,CHI,Jones Jr. Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0713,2,08:40,IND,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0713,2,08:39,IND,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0713,2,08:18,IND,,CHI,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0713,2,05:43,IND,32.0,CHI,48.0,D. Jones Jr.,CHI,Jones Jr. 1' Reverse Layup (8 PTS) (Vucevic 3 AST),Made Shot,Reverse Layup Shot,6,11,1,1,2.0,2.0,v
+S2223-G0713,2,04:50,IND,37.0,CHI,50.0,D. Jones Jr.,CHI,Jones Jr. 2' Alley Oop Dunk (10 PTS) (Dosunmu 2 AST),Made Shot,Alley Oop Dunk Shot,21,8,2,1,2.0,2.0,v
+S2223-G0713,2,03:08,IND,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0713,2,01:51,IND,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P2.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2223-G0713,2,01:51,IND,,CHI,,D. Jones Jr.,CHI,SUB: Dosunmu FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0713,3,04:07,IND,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0713,3,04:06,IND,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 1' Putback Layup,Missed Shot,Putback Layup Shot,-6,6,1,1,2.0,0.0,v
+S2223-G0713,3,03:40,IND,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3' Dunk,Missed Shot,Dunk Shot,-25,11,3,1,2.0,0.0,v
+S2223-G0713,3,00:10.700000,IND,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-234,8,0,1,3.0,0.0,v
+S2223-G0713,4,08:16,IND,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 5' Layup,Missed Shot,Layup Shot,38,26,5,1,2.0,0.0,v
+S2223-G0713,4,08:00,IND,,CHI,,D. Jones Jr.,CHI,SUB: Caruso FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G1087,1,02:37,CHI,17.0,PHI,29.0,D. Jones Jr.,CHI,Jones Jr. 3PT Jump Shot (3 PTS) (White 1 AST),Made Shot,Jump Shot,-232,-5,0,1,3.0,3.0,h
+S2223-G1087,1,01:43,CHI,,PHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1087,1,01:15,CHI,,PHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1087,2,11:14,CHI,,PHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1087,2,11:14,CHI,,PHI,,D. Jones Jr.,CHI,MISS Jones Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G1087,2,09:35,CHI,,PHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.T2) (E.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G1087,2,09:12,CHI,,PHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G1087,3,04:57,CHI,,PHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-225,10,0,1,3.0,0.0,h
+S2223-G1087,3,03:26,CHI,,PHI,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1087,3,03:24,CHI,66.0,PHI,91.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1087,3,03:24,CHI,67.0,PHI,91.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1087,3,02:57,CHI,69.0,PHI,91.0,D. Jones Jr.,CHI,Jones Jr. 1' Alley Oop Layup (7 PTS) (Drummond 1 AST),Made Shot,Alley Oop Layup shot,2,10,1,1,2.0,2.0,h
+S2223-G1087,3,02:12,CHI,,PHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,222,-6,0,1,3.0,0.0,h
+S2223-G1087,3,01:20,CHI,,PHI,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G1087,4,02:35,CHI,,PHI,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1087,4,02:35,CHI,87.0,PHI,112.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1087,4,01:46,CHI,91.0,PHI,114.0,D. Jones Jr.,CHI,Jones Jr. 1' Alley Oop Dunk (10 PTS) (Dosunmu 4 AST),Made Shot,Alley Oop Dunk Shot,10,6,1,1,2.0,2.0,h
+S2223-G1087,4,00:31.600000,CHI,,PHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0141,2,09:23,TOR,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0141,2,09:23,TOR,28.0,CHI,39.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0141,2,08:02,TOR,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,230,20,0,1,3.0,0.0,v
+S2223-G0141,2,07:48,TOR,34.0,CHI,40.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0141,2,07:48,TOR,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0141,2,06:21,TOR,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,142,210,25,1,3.0,0.0,v
+S2223-G0141,2,05:44,TOR,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 10' Driving Layup,Missed Shot,Driving Layup Shot,-5,99,10,1,2.0,0.0,v
+S2223-G0141,2,05:21,TOR,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-11,6,1,1,2.0,0.0,v
+S2223-G0141,2,05:06,TOR,,CHI,,D. Jones Jr.,CHI,SUB: Caruso FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0141,3,02:21,TOR,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0141,3,00:01.400000,TOR,,CHI,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0141,4,10:27,TOR,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0141,4,09:12,TOR,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0141,4,07:28,TOR,93.0,CHI,93.0,D. Jones Jr.,CHI,Jones Jr. 2' Cutting Dunk Shot (4 PTS) (Dosunmu 2 AST),Made Shot,Cutting Dunk Shot,-1,16,2,1,2.0,2.0,v
+S2223-G0141,4,07:10,TOR,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0141,4,07:07,TOR,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0141,4,06:46,TOR,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0141,4,05:19,TOR,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G1140,1,01:04,CHI,,LAL,,D. Jones Jr.,CHI,MISS Jones Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,-23,6,2,1,2.0,0.0,h
+S2223-G1140,1,00:43.400000,CHI,20.0,LAL,29.0,D. Jones Jr.,CHI,Jones Jr. 24' 3PT Jump Shot (3 PTS) (White 2 AST),Made Shot,Jump Shot,186,159,24,1,3.0,3.0,h
+S2223-G1140,2,11:27,CHI,22.0,LAL,31.0,D. Jones Jr.,CHI,Jones Jr. 1' Driving Layup (5 PTS) (DeRozan 3 AST),Made Shot,Driving Layup Shot,4,10,1,1,2.0,2.0,h
+S2223-G1140,2,10:44,CHI,,LAL,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1140,2,08:18,CHI,,LAL,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1140,2,06:57,CHI,,LAL,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G1140,4,11:03,CHI,,LAL,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1140,4,11:03,CHI,,LAL,,D. Jones Jr.,CHI,MISS Jones Jr. 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-20,-6,2,1,2.0,0.0,h
+S2223-G1140,4,09:24,CHI,,LAL,,D. Jones Jr.,CHI,Jones Jr. Offensive Charge Foul (P1) (B.Taylor),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1140,4,09:24,CHI,,LAL,,D. Jones Jr.,CHI,Jones Jr. Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1140,4,08:29,CHI,,LAL,,D. Jones Jr.,CHI,MISS Jones Jr. 1' Running Layup,Missed Shot,Running Layup Shot,4,11,1,1,2.0,0.0,h
+S2223-G1140,4,08:22,CHI,,LAL,,D. Jones Jr.,CHI,SUB: Caruso FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G1072,2,08:58,PHI,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1072,2,06:24,PHI,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,-38,26,5,1,2.0,0.0,v
+S2223-G1072,2,06:19,PHI,29.0,CHI,34.0,D. Jones Jr.,CHI,Jones Jr. 3' Layup (2 PTS) (Beverley 1 AST),Made Shot,Layup Shot,-6,31,3,1,2.0,2.0,v
+S2223-G1072,2,03:40,PHI,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,72,24,1,3.0,0.0,v
+S2223-G1072,2,03:28,PHI,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G1072,3,00:14.800000,PHI,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 2' Layup,Missed Shot,Layup Shot,10,13,2,1,2.0,0.0,v
+S2223-G1072,3,00:07.700000,PHI,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1072,4,10:03,PHI,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,-45,265,27,1,3.0,0.0,v
+S2223-G1072,4,09:42,PHI,72.0,CHI,76.0,D. Jones Jr.,CHI,Jones Jr. 2' Running Layup (4 PTS) (LaVine 5 AST),Made Shot,Running Layup Shot,-16,15,2,1,2.0,2.0,v
+S2223-G1072,4,09:42,PHI,72.0,CHI,77.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1072,4,08:47,PHI,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.T1) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2223-G1072,4,07:49,PHI,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,-225,144,27,1,3.0,0.0,v
+S2223-G1072,4,07:21,PHI,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-21,23,3,1,2.0,0.0,v
+S2223-G1072,4,06:50,PHI,78.0,CHI,80.0,D. Jones Jr.,CHI,Jones Jr. 27' 3PT Pullup Jump Shot (8 PTS) (Dosunmu 2 AST),Made Shot,Pullup Jump shot,102,249,27,1,3.0,3.0,v
+S2223-G1072,4,06:16,PHI,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1072,4,06:16,PHI,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1072,4,05:39,PHI,80.0,CHI,82.0,D. Jones Jr.,CHI,Jones Jr. 2' Cutting Layup Shot (10 PTS) (LaVine 6 AST),Made Shot,Cutting Layup Shot,-1,15,2,1,2.0,2.0,v
+S2223-G1072,4,04:24,PHI,,CHI,,D. Jones Jr.,CHI,Jones Jr. Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1072,4,03:57,PHI,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G1072,6,00:14,PHI,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1072,6,00:06.800000,PHI,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0819,1,01:37,MEM,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0819,1,01:37,MEM,24.0,CHI,12.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0819,1,01:37,MEM,24.0,CHI,13.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0819,2,11:41,MEM,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-225,46,0,1,3.0,0.0,v
+S2223-G0819,2,08:42,MEM,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0819,3,00:27.100000,MEM,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0819,3,00:00.700000,MEM,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0819,4,10:25,MEM,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-56,44,7,1,2.0,0.0,v
+S2223-G0819,4,10:10,MEM,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,27,257,26,1,3.0,0.0,v
+S2223-G0819,4,09:38,MEM,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0819,4,08:15,MEM,79.0,CHI,80.0,D. Jones Jr.,CHI,Jones Jr. 3PT Jump Shot (5 PTS) (Vucevic 5 AST),Made Shot,Jump Shot,-229,47,0,1,3.0,3.0,v
+S2223-G0819,4,06:01,MEM,,CHI,,D. Jones Jr.,CHI,SUB: Caruso FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0321,3,05:09,PHX,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,-1,24,1,3.0,0.0,v
+S2223-G0321,3,04:02,PHX,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0321,3,03:50,PHX,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.T3) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G0321,3,03:44,PHX,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0321,3,03:38,PHX,90.0,CHI,72.0,D. Jones Jr.,CHI,Jones Jr. 1' Running Alley Oop Dunk Shot (2 PTS) (Caruso 2 AST),Made Shot,Running Alley Oop Dunk Shot,-5,4,1,1,2.0,2.0,v
+S2223-G0321,3,02:48,PHX,,CHI,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0321,3,02:13,PHX,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0462,1,05:00,MIA,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-228,21,0,1,3.0,0.0,v
+S2223-G0462,1,02:09,MIA,,CHI,,D. Jones Jr.,CHI,Jones Jr. Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0462,1,01:46,MIA,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0462,2,09:37,MIA,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0462,2,02:05,MIA,48.0,CHI,48.0,D. Jones Jr.,CHI,Jones Jr. Cutting Dunk Shot (2 PTS) (LaVine 4 AST),Made Shot,Cutting Dunk Shot,-1,3,0,1,2.0,2.0,v
+S2223-G0462,3,01:31,MIA,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0462,3,01:29,MIA,,CHI,,D. Jones Jr.,CHI,Jones Jr. Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0462,3,00:41.400000,MIA,,CHI,,D. Jones Jr.,CHI,SUB: Drummond FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0032,2,11:46,CHI,28.0,CLE,34.0,D. Jones Jr.,CHI,Jones Jr. 3PT Jump Shot (3 PTS) (Dragic 1 AST),Made Shot,Jump Shot,-230,-10,0,1,3.0,3.0,h
+S2223-G0032,2,07:49,CHI,35.0,CLE,53.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0032,2,07:49,CHI,36.0,CLE,53.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0032,2,07:08,CHI,,CLE,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0032,2,06:13,CHI,39.0,CLE,55.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0032,2,06:13,CHI,,CLE,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0032,2,05:49,CHI,,CLE,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0032,3,00:32.900000,CHI,79.0,CLE,93.0,D. Jones Jr.,CHI,Jones Jr. 2' Layup (8 PTS) (Dragic 3 AST),Made Shot,Layup Shot,1,21,2,1,2.0,2.0,h
+S2223-G0032,3,00:01.800000,CHI,,CLE,,D. Jones Jr.,CHI,Jones Jr. Offensive Charge Foul (P1) (J.Williams),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0032,3,00:01.800000,CHI,,CLE,,D. Jones Jr.,CHI,Jones Jr. Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0032,4,08:05,CHI,,CLE,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0032,4,08:04,CHI,,CLE,,D. Jones Jr.,CHI,MISS Jones Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0032,4,07:14,CHI,,CLE,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0032,4,04:47,CHI,,CLE,,D. Jones Jr.,CHI,SUB: Caruso FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0032,4,03:30,CHI,,CLE,,D. Jones Jr.,CHI,Jones Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0032,4,01:44,CHI,,CLE,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0032,4,01:44,CHI,,CLE,,D. Jones Jr.,CHI,SUB: Simonovic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0989,4,01:50,DEN,,CHI,,D. Jones Jr.,CHI,Jones Jr. Violation:Kicked Ball (S.Jelks),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0989,4,01:23,DEN,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0989,4,01:23,DEN,93.0,CHI,115.0,D. Jones Jr.,CHI,Jones Jr. Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0570,2,11:21,CHI,,BKN,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0570,2,10:16,CHI,44.0,BKN,36.0,D. Jones Jr.,CHI,Jones Jr. 2' Alley Oop Layup (2 PTS) (Dragic 1 AST),Made Shot,Alley Oop Layup shot,16,-1,2,1,2.0,2.0,h
+S2223-G0570,2,10:09,CHI,,BKN,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0570,2,08:44,CHI,49.0,BKN,39.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0570,2,08:44,CHI,,BKN,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0570,2,08:04,CHI,,BKN,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P2.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0570,2,07:32,CHI,,BKN,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0570,2,07:32,CHI,,BKN,,D. Jones Jr.,CHI,Jones Jr. Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0570,2,07:23,CHI,,BKN,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0570,3,02:25,CHI,,BKN,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0570,3,01:53,CHI,,BKN,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P3.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0570,3,01:26,CHI,,BKN,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0570,3,01:15,CHI,86.0,BKN,79.0,D. Jones Jr.,CHI,Jones Jr. Cutting Dunk Shot (5 PTS) (DeRozan 3 AST),Made Shot,Cutting Dunk Shot,-2,1,0,1,2.0,2.0,h
+S2223-G0570,4,11:10,CHI,92.0,BKN,87.0,D. Jones Jr.,CHI,Jones Jr. 1' Alley Oop Layup (7 PTS) (Dragic 4 AST),Made Shot,Alley Oop Layup shot,-4,10,1,1,2.0,2.0,h
+S2223-G0570,4,11:10,CHI,93.0,BKN,87.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0570,4,07:59,CHI,,BKN,,D. Jones Jr.,CHI,Jones Jr. OFF.Foul (P4) (J.Conley),Foul,Offensive,0,0,0,0,,,h
+S2223-G0570,4,07:59,CHI,,BKN,,D. Jones Jr.,CHI,Jones Jr. Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0570,4,07:59,CHI,,BKN,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0434,1,00:19.200000,CHI,,NYK,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0434,1,00:16,CHI,,NYK,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0434,2,11:44,CHI,34.0,NYK,29.0,D. Jones Jr.,CHI,Jones Jr. Cutting Layup Shot (2 PTS) (Dragic 1 AST),Made Shot,Cutting Layup Shot,0,1,0,1,2.0,2.0,h
+S2223-G0434,2,11:11,CHI,,NYK,,D. Jones Jr.,CHI,Jones Jr. OFF.Foul (P1) (S.Corbin),Foul,Offensive,0,0,0,0,,,h
+S2223-G0434,2,11:11,CHI,,NYK,,D. Jones Jr.,CHI,Jones Jr. Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0434,2,08:51,CHI,,NYK,,D. Jones Jr.,CHI,MISS Jones Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,-224,90,24,1,3.0,0.0,h
+S2223-G0434,2,08:15,CHI,,NYK,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0434,4,02:12,CHI,,NYK,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0434,4,01:52,CHI,,NYK,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0434,4,01:45,CHI,,NYK,,D. Jones Jr.,CHI,MISS Jones Jr. 3' Running Layup,Missed Shot,Running Layup Shot,-26,6,3,1,2.0,0.0,h
+S2223-G0863,1,03:23,CHI,,ORL,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0863,1,03:23,CHI,15.0,ORL,20.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0863,1,01:54,CHI,,ORL,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0863,2,08:20,CHI,,ORL,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0863,2,07:25,CHI,,ORL,,D. Jones Jr.,CHI,Jones Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0863,2,07:23,CHI,,ORL,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0619,1,03:17,WAS,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0619,1,01:46,WAS,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0619,1,01:43,WAS,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0619,2,11:02,WAS,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0619,2,10:48,WAS,26.0,CHI,31.0,D. Jones Jr.,CHI,Jones Jr. 5' Layup (2 PTS) (Dragic 2 AST),Made Shot,Layup Shot,-45,2,5,1,2.0,2.0,v
+S2223-G0619,2,10:22,WAS,28.0,CHI,32.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0619,2,10:22,WAS,28.0,CHI,33.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0619,2,09:58,WAS,28.0,CHI,36.0,D. Jones Jr.,CHI,Jones Jr. 27' 3PT Jump Shot (7 PTS) (White 1 AST),Made Shot,Jump Shot,-214,164,27,1,3.0,3.0,v
+S2223-G0619,2,09:39,WAS,,CHI,,D. Jones Jr.,CHI,SUB: Caruso FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0619,2,08:05,WAS,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.PN) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2223-G0619,2,06:43,WAS,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P2.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0619,2,05:20,WAS,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0619,2,05:11,WAS,,CHI,,D. Jones Jr.,CHI,SUB: White FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0619,3,02:39,WAS,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P3.T4) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2223-G0619,3,00:21.900000,WAS,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0619,4,11:35,WAS,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-233,11,0,1,3.0,0.0,v
+S2223-G0619,4,08:03,WAS,,CHI,,D. Jones Jr.,CHI,SUB: Caruso FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0418,2,10:53,CHI,,NYK,,D. Jones Jr.,CHI,MISS Jones Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-176,178,25,1,3.0,0.0,h
+S2223-G0418,2,10:47,CHI,,NYK,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0418,2,07:58,CHI,,NYK,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0418,4,11:16,CHI,,NYK,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0418,4,08:21,CHI,,NYK,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0418,4,08:21,CHI,99.0,NYK,98.0,D. Jones Jr.,CHI,Jones Jr. Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0418,4,06:03,CHI,,NYK,,D. Jones Jr.,CHI,SUB: DeRozan FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0766,1,04:56,CHI,,LAC,,D. Jones Jr.,CHI,Jones Jr. Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0766,1,03:17,CHI,,LAC,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0766,1,00:06.400000,CHI,,LAC,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0766,2,07:11,CHI,,LAC,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.T3) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0766,2,06:56,CHI,,LAC,,D. Jones Jr.,CHI,MISS Jones Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,-12,18,2,1,2.0,0.0,h
+S2223-G0766,2,06:10,CHI,,LAC,,D. Jones Jr.,CHI,SUB: DeRozan FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0766,4,07:40,CHI,,LAC,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-229,-16,0,1,3.0,0.0,h
+S2223-G0766,4,07:15,CHI,,LAC,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0336,2,07:24,GSW,42.0,CHI,37.0,D. Jones Jr.,CHI,Jones Jr. 6' Cutting Layup Shot (2 PTS) (Dragic 1 AST),Made Shot,Cutting Layup Shot,2,62,6,1,2.0,2.0,v
+S2223-G0336,2,06:14,GSW,,CHI,,D. Jones Jr.,CHI,SUB: White FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0336,3,03:06,GSW,,CHI,,D. Jones Jr.,CHI,Jones Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0336,3,02:50,GSW,89.0,CHI,73.0,D. Jones Jr.,CHI,Jones Jr. 4' Cutting Layup Shot (4 PTS) (Dragic 3 AST),Made Shot,Cutting Layup Shot,-38,5,4,1,2.0,2.0,v
+S2223-G0336,3,02:30,GSW,,CHI,,D. Jones Jr.,CHI,Jones Jr. Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0336,3,02:02,GSW,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.T4) (E.Lewis),Foul,Personal,0,0,0,0,,,v
+S2223-G0336,4,11:33,GSW,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 4' Layup,Missed Shot,Layup Shot,-38,20,4,1,2.0,0.0,v
+S2223-G0336,4,11:11,GSW,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,201,184,27,1,3.0,0.0,v
+S2223-G0336,4,07:42,GSW,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0336,4,07:42,GSW,104.0,CHI,95.0,D. Jones Jr.,CHI,Jones Jr. Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0336,4,07:29,GSW,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0592,1,02:25,CHI,21.0,UTA,20.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0592,1,02:25,CHI,,UTA,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0592,1,01:47,CHI,,UTA,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0592,2,10:54,CHI,31.0,UTA,24.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0592,2,10:54,CHI,32.0,UTA,24.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0592,2,09:20,CHI,,UTA,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0592,2,07:55,CHI,,UTA,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0592,3,08:23,CHI,,UTA,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.T1) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G0592,3,06:42,CHI,,UTA,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0592,3,06:27,CHI,,UTA,,D. Jones Jr.,CHI,MISS Jones Jr. 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,49,57,8,1,2.0,0.0,h
+S2223-G0592,3,06:18,CHI,69.0,UTA,65.0,D. Jones Jr.,CHI,Jones Jr. 1' Running Dunk (5 PTS) (Dosunmu 2 AST),Made Shot,Running Dunk Shot,1,5,1,1,2.0,2.0,h
+S2223-G0592,3,04:12,CHI,,UTA,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0592,4,07:32,CHI,,UTA,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G1182,4,07:40,CHI,,ATL,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0678,1,04:45,DET,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0678,1,03:45,DET,,CHI,,D. Jones Jr.,CHI,Jones Jr. Violation:Kicked Ball (K.Lane),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0678,1,02:04,DET,18.0,CHI,27.0,D. Jones Jr.,CHI,Jones Jr. 2' Cutting Layup Shot (2 PTS) (Vucevic 3 AST),Made Shot,Cutting Layup Shot,-20,6,2,1,2.0,2.0,v
+S2223-G0678,1,01:45,DET,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0678,2,09:27,DET,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0678,2,08:23,DET,35.0,CHI,43.0,D. Jones Jr.,CHI,Jones Jr. 3' Alley Oop Dunk (4 PTS) (Dragic 1 AST),Made Shot,Alley Oop Dunk Shot,25,8,3,1,2.0,2.0,v
+S2223-G0678,2,08:23,DET,35.0,CHI,44.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0678,2,08:15,DET,,CHI,,D. Jones Jr.,CHI,Kicked Ball,Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0678,2,06:53,DET,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.T3) (N.Sago),Foul,Personal,0,0,0,0,,,v
+S2223-G0678,2,06:29,DET,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0678,2,06:29,DET,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P2.T4) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0678,2,06:09,DET,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,4,24,1,3.0,0.0,v
+S2223-G0678,2,06:03,DET,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P3.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G0678,2,06:03,DET,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0678,3,04:43,DET,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0678,3,04:41,DET,,CHI,,D. Jones Jr.,CHI,Jones Jr. Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0678,3,03:21,DET,75.0,CHI,88.0,D. Jones Jr.,CHI,Jones Jr. 3' Running Alley Oop Dunk Shot (7 PTS) (LaVine 4 AST),Made Shot,Running Alley Oop Dunk Shot,28,6,3,1,2.0,2.0,v
+S2223-G0678,3,02:24,DET,79.0,CHI,91.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0678,3,02:24,DET,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0678,3,02:02,DET,79.0,CHI,93.0,D. Jones Jr.,CHI,Jones Jr. 2' Alley Oop Dunk (10 PTS) (Caruso 3 AST),Made Shot,Alley Oop Dunk Shot,-4,21,2,1,2.0,2.0,v
+S2223-G0678,3,01:03,DET,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0678,4,06:55,DET,97.0,CHI,107.0,D. Jones Jr.,CHI,Jones Jr. 3' Cutting Dunk Shot (12 PTS) (DeRozan 5 AST),Made Shot,Cutting Dunk Shot,-12,27,3,1,2.0,2.0,v
+S2223-G0678,4,06:09,DET,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P4.PN) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G0678,4,06:09,DET,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0833,3,04:20,BKN,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0833,3,03:24,BKN,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0833,3,02:42,BKN,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-228,-18,0,1,3.0,0.0,v
+S2223-G0833,3,02:18,BKN,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,-16,8,2,1,2.0,0.0,v
+S2223-G0833,3,02:15,BKN,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0833,3,02:15,BKN,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0833,3,02:13,BKN,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0833,3,02:13,BKN,77.0,CHI,77.0,D. Jones Jr.,CHI,Jones Jr. Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0833,3,01:35,BKN,,CHI,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0833,3,01:31,BKN,77.0,CHI,81.0,D. Jones Jr.,CHI,Jones Jr. 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,26,8,3,1,2.0,2.0,v
+S2223-G0833,4,11:17,BKN,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,53,24,1,3.0,0.0,v
+S2223-G0833,4,10:58,BKN,,CHI,,D. Jones Jr.,CHI,SUB: Dosunmu FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0852,1,02:06,CLE,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0852,1,02:06,CLE,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,4,11,1,1,2.0,0.0,v
+S2223-G0852,1,02:05,CLE,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0852,1,02:04,CLE,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0852,1,02:03,CLE,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0852,1,02:03,CLE,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0852,1,00:28.800000,CLE,26.0,CHI,28.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0852,1,00:28.800000,CLE,26.0,CHI,29.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0852,2,09:41,CLE,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0852,3,03:45,CLE,61.0,CHI,71.0,D. Jones Jr.,CHI,Jones Jr. 2' Cutting Dunk Shot (4 PTS) (White 3 AST),Made Shot,Cutting Dunk Shot,-1,15,2,1,2.0,2.0,v
+S2223-G0852,3,01:32,CLE,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0852,3,01:32,CLE,65.0,CHI,72.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0852,3,00:52.500000,CLE,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0852,4,10:39,CLE,,CHI,,D. Jones Jr.,CHI,SUB: Dosunmu FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0151,1,01:28,CHI,25.0,TOR,25.0,D. Jones Jr.,CHI,Jones Jr. 1' Reverse Layup (2 PTS) (Dragic 1 AST),Made Shot,Reverse Layup Shot,10,-1,1,1,2.0,2.0,h
+S2223-G0151,2,11:44,CHI,32.0,TOR,27.0,D. Jones Jr.,CHI,Jones Jr. 1' Cutting Layup Shot (4 PTS) (Dragic 2 AST),Made Shot,Cutting Layup Shot,-10,6,1,1,2.0,2.0,h
+S2223-G0151,2,11:44,CHI,33.0,TOR,27.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0151,2,09:37,CHI,35.0,TOR,32.0,D. Jones Jr.,CHI,Jones Jr. 1' Running Dunk (7 PTS) (LaVine 3 AST),Made Shot,Running Dunk Shot,0,-7,1,1,2.0,2.0,h
+S2223-G0151,2,08:17,CHI,,TOR,,D. Jones Jr.,CHI,SUB: DeRozan FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0151,3,02:22,CHI,,TOR,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0151,3,02:02,CHI,,TOR,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0151,3,02:02,CHI,81.0,TOR,66.0,D. Jones Jr.,CHI,Jones Jr. Putback Layup (9 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0151,3,01:23,CHI,,TOR,,D. Jones Jr.,CHI,MISS Jones Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0151,3,01:23,CHI,82.0,TOR,68.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0151,3,00:15.700000,CHI,86.0,TOR,70.0,D. Jones Jr.,CHI,Jones Jr. 1' Driving Dunk (12 PTS),Made Shot,Driving Dunk Shot,5,5,1,1,2.0,2.0,h
+S2223-G0151,4,08:12,CHI,,TOR,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G1193,1,04:30,MIL,,CHI,,D. Jones Jr.,CHI,Jones Jr. Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G1193,1,03:23,MIL,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1193,1,02:49,MIL,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,69,24,1,3.0,0.0,v
+S2223-G1193,1,01:53,MIL,23.0,CHI,16.0,D. Jones Jr.,CHI,Jones Jr. 24' 3PT Jump Shot (3 PTS) (Beverley 3 AST),Made Shot,Jump Shot,-239,34,24,1,3.0,3.0,v
+S2223-G1193,1,01:10,MIL,25.0,CHI,18.0,D. Jones Jr.,CHI,Jones Jr. Cutting Layup Shot (5 PTS) (Vucevic 1 AST),Made Shot,Cutting Layup Shot,-2,-1,0,1,2.0,2.0,v
+S2223-G1193,1,00:56,MIL,,CHI,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1193,2,09:24,MIL,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.T1) (T.Maddox),Foul,Personal,0,0,0,0,,,v
+S2223-G1193,2,09:09,MIL,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G1193,3,03:55,MIL,69.0,CHI,67.0,D. Jones Jr.,CHI,Jones Jr. 3PT Jump Shot (8 PTS) (LaVine 6 AST),Made Shot,Jump Shot,224,34,0,1,3.0,3.0,v
+S2223-G1193,3,01:28,MIL,,CHI,,D. Jones Jr.,CHI,Jones Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1193,4,09:40,MIL,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P2.T1) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G1193,4,08:44,MIL,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,-206,191,28,1,3.0,0.0,v
+S2223-G1193,4,07:14,MIL,,CHI,,D. Jones Jr.,CHI,SUB: Beverley FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0281,4,11:22,OKC,89.0,CHI,82.0,D. Jones Jr.,CHI,Jones Jr. 3' Cutting Layup Shot (2 PTS) (LaVine 4 AST),Made Shot,Cutting Layup Shot,-26,8,3,1,2.0,2.0,v
+S2223-G0281,4,11:22,OKC,89.0,CHI,83.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0281,4,10:49,OKC,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-25,12,3,1,2.0,0.0,v
+S2223-G0281,4,08:35,OKC,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0281,4,07:49,OKC,97.0,CHI,89.0,D. Jones Jr.,CHI,Jones Jr. 2' Layup (5 PTS) (LaVine 5 AST),Made Shot,Layup Shot,-20,7,2,1,2.0,2.0,v
+S2223-G0281,4,07:49,OKC,97.0,CHI,90.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0281,4,07:35,OKC,,CHI,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0281,4,06:34,OKC,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0281,4,06:25,OKC,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-135,221,26,1,3.0,0.0,v
+S2223-G0281,4,05:32,OKC,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0350,2,11:27,SAC,,CHI,,D. Jones Jr.,CHI,Jones Jr. Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0350,2,10:11,SAC,,CHI,,D. Jones Jr.,CHI,Jones Jr. Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0350,2,08:30,SAC,,CHI,,D. Jones Jr.,CHI,Jones Jr. Offensive Charge Foul (P1) (K.Scott),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0350,2,08:30,SAC,,CHI,,D. Jones Jr.,CHI,Jones Jr. Offensive Foul Turnover (P3.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0350,2,08:30,SAC,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0350,3,04:45,SAC,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0350,3,00:05.100000,SAC,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P2.T4) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2223-G0350,4,11:28,SAC,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0350,4,10:47,SAC,86.0,CHI,83.0,D. Jones Jr.,CHI,Jones Jr. 3PT Running Jump Shot (3 PTS) (Dragic 1 AST),Made Shot,Running Jump Shot,-233,13,0,1,3.0,3.0,v
+S2223-G0350,4,09:51,SAC,,CHI,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0350,4,09:31,SAC,,CHI,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0350,4,07:14,SAC,,CHI,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P3.T3) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0350,4,07:01,SAC,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0350,4,05:45,SAC,,CHI,,D. Jones Jr.,CHI,SUB: Williams FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0900,4,01:13,CHI,,BKN,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,228,-21,0,1,3.0,0.0,h
+S2223-G0111,1,02:08,CHI,,CHA,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0111,1,01:15,CHI,,CHA,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0111,1,01:14,CHI,,CHA,,D. Jones Jr.,CHI,MISS Jones Jr. 11' Running Layup,Missed Shot,Running Layup Shot,-9,108,11,1,2.0,0.0,h
+S2223-G0111,1,00:02.400000,CHI,,CHA,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0111,2,11:45,CHI,,CHA,,D. Jones Jr.,CHI,MISS Jones Jr. Dunk,Missed Shot,Dunk Shot,-2,1,0,1,2.0,0.0,h
+S2223-G0111,2,06:41,CHI,47.0,CHA,39.0,D. Jones Jr.,CHI,Jones Jr. 3PT Jump Shot (3 PTS) (DeRozan 3 AST),Made Shot,Jump Shot,-233,-23,0,1,3.0,3.0,h
+S2223-G0111,2,06:34,CHI,,CHA,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0111,3,03:35,CHI,76.0,CHA,66.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0111,3,03:35,CHI,77.0,CHA,66.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0111,3,02:57,CHI,80.0,CHA,66.0,D. Jones Jr.,CHI,Jones Jr. 3PT Jump Shot (8 PTS) (Caruso 2 AST),Made Shot,Jump Shot,-230,36,0,1,3.0,3.0,h
+S2223-G0111,3,02:18,CHI,,CHA,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0111,3,02:00,CHI,,CHA,,D. Jones Jr.,CHI,Jones Jr. Violation:Defensive Goaltending (T.Brothers),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0111,3,01:24,CHI,83.0,CHA,68.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0111,3,01:24,CHI,84.0,CHA,68.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0111,3,01:05,CHI,,CHA,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0111,3,00:28.600000,CHI,,CHA,,D. Jones Jr.,CHI,MISS Jones Jr. 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-4,13,1,1,2.0,0.0,h
+S2223-G0111,3,00:22.900000,CHI,,CHA,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0111,3,00:22.900000,CHI,,CHA,,D. Jones Jr.,CHI,MISS Jones Jr. Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0111,3,00:22.900000,CHI,,CHA,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0111,3,00:22.900000,CHI,,CHA,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0111,4,08:48,CHI,,CHA,,D. Jones Jr.,CHI,Jones Jr. L.B.FOUL (P2.T2) (B.Forte),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0111,4,07:48,CHI,,CHA,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P3.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0111,4,07:48,CHI,,CHA,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G1223,3,05:38,CHI,,DET,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1223,3,05:38,CHI,62.0,DET,60.0,D. Jones Jr.,CHI,Jones Jr. Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1223,3,04:36,CHI,,DET,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1223,3,04:34,CHI,,DET,,D. Jones Jr.,CHI,MISS Jones Jr. 2' Layup,Missed Shot,Layup Shot,1,16,2,1,2.0,0.0,h
+S2223-G1223,3,03:52,CHI,,DET,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1223,3,03:18,CHI,,DET,,D. Jones Jr.,CHI,MISS Jones Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,229,89,25,1,3.0,0.0,h
+S2223-G1223,3,02:28,CHI,,DET,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1223,3,02:28,CHI,64.0,DET,60.0,D. Jones Jr.,CHI,Jones Jr. Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1223,3,02:01,CHI,,DET,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1223,3,00:32.100000,CHI,,DET,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1223,3,00:28.300000,CHI,,DET,,D. Jones Jr.,CHI,MISS Jones Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-161,204,26,1,3.0,0.0,h
+S2223-G1223,4,10:43,CHI,,DET,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1223,4,10:05,CHI,,DET,,D. Jones Jr.,CHI,MISS Jones Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,115,228,26,1,3.0,0.0,h
+S2223-G1223,4,09:46,CHI,,DET,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1223,4,08:19,CHI,,DET,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1223,4,08:14,CHI,,DET,,D. Jones Jr.,CHI,SUB: Simonovic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0166,1,05:24,CHI,,NOP,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-230,-20,0,1,3.0,0.0,h
+S2223-G0166,1,04:53,CHI,,NOP,,D. Jones Jr.,CHI,Jones Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0166,1,03:01,CHI,,NOP,,D. Jones Jr.,CHI,SUB: Caruso FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0166,2,09:10,CHI,,NOP,,D. Jones Jr.,CHI,Jones Jr. BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0166,2,08:30,CHI,,NOP,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P1.T2) (B.Adair),Foul,Personal,0,0,0,0,,,h
+S2223-G0166,2,08:20,CHI,,NOP,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0166,2,08:06,CHI,39.0,NOP,28.0,D. Jones Jr.,CHI,Jones Jr. 1' Cutting Layup Shot (2 PTS) (Dragic 2 AST),Made Shot,Cutting Layup Shot,-6,8,1,1,2.0,2.0,h
+S2223-G0166,2,06:34,CHI,,NOP,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0166,4,11:18,CHI,84.0,NOP,81.0,D. Jones Jr.,CHI,Jones Jr. 4' Alley Oop Layup (4 PTS) (Dragic 5 AST),Made Shot,Alley Oop Layup shot,36,6,4,1,2.0,2.0,h
+S2223-G0166,4,11:18,CHI,85.0,NOP,81.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0166,4,10:41,CHI,,NOP,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0166,4,10:41,CHI,,NOP,,D. Jones Jr.,CHI,MISS Jones Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0166,4,09:47,CHI,,NOP,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P2.T4) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2223-G0166,4,06:47,CHI,,NOP,,D. Jones Jr.,CHI,SUB: Green FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0166,4,00:13.400000,CHI,,NOP,,D. Jones Jr.,CHI,Jones Jr. P.FOUL (P3.PN) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2223-G0166,4,00:13.400000,CHI,,NOP,,D. Jones Jr.,CHI,SUB: Dragic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0367,1,03:02,CHI,,WAS,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,234,5,0,1,3.0,0.0,h
+S2223-G0367,1,02:17,CHI,,WAS,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0367,1,02:17,CHI,,WAS,,D. Jones Jr.,CHI,MISS Jones Jr. Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0367,1,00:07.500000,CHI,,WAS,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0367,3,00:05.300000,CHI,,WAS,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0367,4,10:54,CHI,,WAS,,D. Jones Jr.,CHI,MISS Jones Jr. 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,11,1,1,2.0,0.0,h
+S2223-G0367,4,10:08,CHI,,WAS,,D. Jones Jr.,CHI,Jones Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0367,4,07:50,CHI,86.0,WAS,90.0,D. Jones Jr.,CHI,Jones Jr. 1' Cutting Dunk Shot (2 PTS) (Caruso 7 AST),Made Shot,Cutting Dunk Shot,-6,3,1,1,2.0,2.0,h
+S2223-G0367,4,07:23,CHI,,WAS,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0367,4,07:02,CHI,,WAS,,D. Jones Jr.,CHI,SUB: White FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0367,4,00:04.500000,CHI,,WAS,,D. Jones Jr.,CHI,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,0,0,,,h
+S2223-G0449,1,03:30,MIN,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-225,21,0,1,3.0,0.0,v
+S2223-G0449,1,03:19,MIN,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P1.T4) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0449,1,03:05,MIN,28.0,CHI,22.0,D. Jones Jr.,CHI,Jones Jr. 2' Layup (2 PTS) (DeRozan 2 AST),Made Shot,Layup Shot,5,17,2,1,2.0,2.0,v
+S2223-G0449,1,03:05,MIN,28.0,CHI,23.0,D. Jones Jr.,CHI,Jones Jr. Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0449,1,01:33,MIN,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0449,1,01:33,MIN,,CHI,,D. Jones Jr.,CHI,MISS Jones Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0449,1,00:36.800000,MIN,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0449,2,09:53,MIN,,CHI,,D. Jones Jr.,CHI,Jones Jr. S.FOUL (P2.T1) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0449,2,07:21,MIN,,CHI,,D. Jones Jr.,CHI,SUB: LaVine FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0449,3,01:28,MIN,106.0,CHI,92.0,D. Jones Jr.,CHI,Jones Jr. 24' 3PT Jump Shot (6 PTS) (Dragic 3 AST),Made Shot,Jump Shot,-234,39,24,1,3.0,3.0,v
+S2223-G0449,4,11:16,MIN,,CHI,,D. Jones Jr.,CHI,Jones Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0449,4,10:38,MIN,115.0,CHI,103.0,D. Jones Jr.,CHI,Jones Jr. 1' Cutting Layup Shot (8 PTS) (DeRozan 5 AST),Made Shot,Cutting Layup Shot,-13,7,1,1,2.0,2.0,v
+S2223-G0449,4,10:11,MIN,115.0,CHI,105.0,D. Jones Jr.,CHI,Jones Jr. 1' Alley Oop Dunk (10 PTS) (Dragic 5 AST),Made Shot,Alley Oop Dunk Shot,-5,7,1,1,2.0,2.0,v
+S2223-G0449,4,06:48,MIN,,CHI,,D. Jones Jr.,CHI,SUB: DeRozan FOR Jones Jr.,Substitution,,0,0,0,0,,,v
+S2223-G0449,4,00:38.500000,MIN,148.0,CHI,126.0,D. Jones Jr.,CHI,Jones Jr. 24' 3PT Jump Shot (13 PTS) (Williams 4 AST),Made Shot,Jump Shot,-237,48,24,1,3.0,3.0,v

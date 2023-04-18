@@ -1,0 +1,91 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G1060,1,04:45,CHI,,MIA,,O. Yurtseven,MIA,Yurtseven Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1060,1,02:36,CHI,,MIA,,O. Yurtseven,MIA,MISS Yurtseven 3PT Jump Shot,Missed Shot,Jump Shot,-229,0,0,1,3.0,0.0,v
+S2223-G1060,1,02:35,CHI,,MIA,,O. Yurtseven,MIA,SUB: Adebayo FOR Yurtseven,Substitution,,0,0,0,0,,,v
+S2223-G1060,4,01:22,CHI,,MIA,,O. Yurtseven,MIA,Yurtseven STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1060,4,00:49.200000,CHI,,MIA,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1060,4,00:39.100000,CHI,,MIA,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1036,1,05:46,MIA,,MEM,,O. Yurtseven,MIA,Yurtseven P.FOUL (P1.T2) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2223-G1036,1,04:43,MIA,,MEM,,O. Yurtseven,MIA,Yurtseven P.FOUL (P2.T3) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G1036,1,03:41,MIA,,MEM,,O. Yurtseven,MIA,Yurtseven P.FOUL (P3.T4) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2223-G1036,1,03:41,MIA,,MEM,,O. Yurtseven,MIA,SUB: Martin FOR Yurtseven,Substitution,,0,0,0,0,,,h
+S2223-G1036,4,04:12,MIA,129.0,MEM,104.0,O. Yurtseven,MIA,Yurtseven 4' Floating Jump Shot (2 PTS) (Lowry 4 AST),Made Shot,Floating Jump shot,-7,43,4,1,2.0,2.0,h
+S2223-G1036,4,03:29,MIA,,MEM,,O. Yurtseven,MIA,MISS Yurtseven 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-6,10,1,1,2.0,0.0,h
+S2223-G1036,4,01:07,MIA,,MEM,,O. Yurtseven,MIA,MISS Yurtseven Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1036,4,01:07,MIA,136.0,MEM,115.0,O. Yurtseven,MIA,Yurtseven Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1036,4,00:52.700000,MIA,,MEM,,O. Yurtseven,MIA,Yurtseven BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1036,4,00:22.400000,MIA,138.0,MEM,117.0,O. Yurtseven,MIA,Yurtseven 2' Layup (5 PTS) (Martin 1 AST),Made Shot,Layup Shot,-17,0,2,1,2.0,2.0,h
+S2223-G1108,4,00:31,MIA,,BKN,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1108,4,00:25.300000,MIA,99.0,BKN,129.0,O. Yurtseven,MIA,Yurtseven 3' Cutting Layup Shot (2 PTS) (Strus 2 AST),Made Shot,Cutting Layup Shot,17,20,3,1,2.0,2.0,h
+S2223-G1108,4,00:25.300000,MIA,100.0,BKN,129.0,O. Yurtseven,MIA,Yurtseven Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1007,2,08:33,ORL,,MIA,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1007,2,08:33,ORL,,MIA,,O. Yurtseven,MIA,MISS Yurtseven Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1007,2,08:33,ORL,,MIA,,O. Yurtseven,MIA,SUB: Adebayo FOR Yurtseven,Substitution,,0,0,0,0,,,v
+S2223-G1007,3,02:03,ORL,,MIA,,O. Yurtseven,MIA,Yurtseven S.FOUL (P1.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2223-G1007,3,02:03,ORL,,MIA,,O. Yurtseven,MIA,SUB: Herro FOR Yurtseven,Substitution,,0,0,0,0,,,v
+S2223-G1066,1,03:55,DET,22.0,MIA,21.0,O. Yurtseven,MIA,Yurtseven 3' Hook Shot (2 PTS) (Strus 1 AST),Made Shot,Hook Shot,25,24,3,1,2.0,2.0,v
+S2223-G1066,1,02:44,DET,,MIA,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1066,1,00:53.700000,DET,,MIA,,O. Yurtseven,MIA,SUB: Adebayo FOR Yurtseven,Substitution,,0,0,0,0,,,v
+S2223-G1204,1,02:34,WAS,,MIA,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,1,02:01,WAS,,MIA,,O. Yurtseven,MIA,Yurtseven S.FOUL (P1.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G1204,1,01:29,WAS,,MIA,,O. Yurtseven,MIA,MISS Yurtseven 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,31,78,8,1,2.0,0.0,v
+S2223-G1204,2,09:42,WAS,31.0,MIA,30.0,O. Yurtseven,MIA,Yurtseven 27' 3PT Jump Shot (3 PTS) (Oladipo 2 AST),Made Shot,Jump Shot,-64,260,27,1,3.0,3.0,v
+S2223-G1204,2,08:41,WAS,,MIA,,O. Yurtseven,MIA,MISS Yurtseven 26' 3PT Jump Shot,Missed Shot,Jump Shot,-50,258,26,1,3.0,0.0,v
+S2223-G1204,2,08:17,WAS,,MIA,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,2,08:00,WAS,,MIA,,O. Yurtseven,MIA,Yurtseven S.FOUL (P2.T2) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G1204,2,06:43,WAS,,MIA,,O. Yurtseven,MIA,MISS Yurtseven 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,-29,62,7,1,2.0,0.0,v
+S2223-G1204,2,06:42,WAS,,MIA,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,2,06:40,WAS,36.0,MIA,37.0,O. Yurtseven,MIA,Yurtseven 8' Turnaround Hook Shot (5 PTS),Made Shot,Turnaround Hook Shot,-67,42,8,1,2.0,2.0,v
+S2223-G1204,2,06:23,WAS,,MIA,,O. Yurtseven,MIA,Yurtseven S.FOUL (P3.T4) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G1204,2,05:14,WAS,,MIA,,O. Yurtseven,MIA,Yurtseven OFF.Foul (P4) (E.Scott),Foul,Offensive,0,0,0,0,,,v
+S2223-G1204,2,05:14,WAS,,MIA,,O. Yurtseven,MIA,Yurtseven Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1204,2,05:14,WAS,,MIA,,O. Yurtseven,MIA,SUB: Zeller FOR Yurtseven,Substitution,,0,0,0,0,,,v
+S2223-G1204,4,05:20,WAS,,MIA,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,4,05:20,WAS,103.0,MIA,89.0,O. Yurtseven,MIA,Yurtseven Tip Dunk Shot (7 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G1204,4,03:02,WAS,,MIA,,O. Yurtseven,MIA,Yurtseven P.FOUL (P5.PN) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G1204,4,02:59,WAS,,MIA,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,4,00:25.200000,WAS,,MIA,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1204,4,00:02.500000,WAS,114.0,MIA,108.0,O. Yurtseven,MIA,Yurtseven 24' 3PT Jump Shot (10 PTS) (Highsmith 3 AST),Made Shot,Jump Shot,240,-1,24,1,3.0,3.0,v
+S2223-G1198,4,04:09,PHI,89.0,MIA,120.0,O. Yurtseven,MIA,Yurtseven 7' Floating Jump Shot (2 PTS) (Highsmith 2 AST),Made Shot,Floating Jump shot,31,64,7,1,2.0,2.0,v
+S2223-G1198,4,03:52,PHI,89.0,MIA,122.0,O. Yurtseven,MIA,Yurtseven 8' Floating Jump Shot (4 PTS) (Cain 1 AST),Made Shot,Floating Jump shot,40,64,8,1,2.0,2.0,v
+S2223-G1198,4,02:49,PHI,,MIA,,O. Yurtseven,MIA,Yurtseven Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1198,4,01:50,PHI,,MIA,,O. Yurtseven,MIA,Yurtseven S.FOUL (P1.T4) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G1198,4,00:44.700000,PHI,,MIA,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1022,1,04:32,MIA,,UTA,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1022,1,03:57,MIA,,UTA,,O. Yurtseven,MIA,Yurtseven S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G1022,1,03:52,MIA,,UTA,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1022,1,02:02,MIA,28.0,UTA,19.0,O. Yurtseven,MIA,Yurtseven 6' Turnaround Hook Shot (2 PTS) (Martin 1 AST),Made Shot,Turnaround Hook Shot,5,62,6,1,2.0,2.0,h
+S2223-G1022,1,01:43,MIA,,UTA,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1022,1,01:21,MIA,,UTA,,O. Yurtseven,MIA,Yurtseven S.FOUL (P2.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G1022,1,01:05,MIA,,UTA,,O. Yurtseven,MIA,SUB: Adebayo FOR Yurtseven,Substitution,,0,0,0,0,,,h
+S2223-G1022,2,03:43,MIA,,UTA,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1022,2,03:13,MIA,,UTA,,O. Yurtseven,MIA,MISS Yurtseven 6' Hook Shot,Missed Shot,Hook Shot,42,41,6,1,2.0,0.0,h
+S2223-G1022,2,02:47,MIA,,UTA,,O. Yurtseven,MIA,SUB: Adebayo FOR Yurtseven,Substitution,,0,0,0,0,,,h
+S2223-G1022,3,02:41,MIA,,UTA,,O. Yurtseven,MIA,SUB: Adebayo FOR Yurtseven,Substitution,,0,0,0,0,,,h
+S2223-G1022,4,04:33,MIA,,UTA,,O. Yurtseven,MIA,SUB: Adebayo FOR Yurtseven,Substitution,,0,0,0,0,,,h
+S2223-G1219,3,11:27,MIA,,ORL,,O. Yurtseven,MIA,MISS Yurtseven 26' 3PT Jump Shot,Missed Shot,Jump Shot,134,223,26,1,3.0,0.0,h
+S2223-G1219,3,08:08,MIA,,ORL,,O. Yurtseven,MIA,MISS Yurtseven 3PT Jump Shot,Missed Shot,Jump Shot,-229,8,0,1,3.0,0.0,h
+S2223-G1219,3,07:27,MIA,,ORL,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1219,3,05:22,MIA,,ORL,,O. Yurtseven,MIA,MISS Yurtseven 6' Floating Jump Shot,Missed Shot,Floating Jump shot,33,54,6,1,2.0,0.0,h
+S2223-G1219,3,05:08,MIA,,ORL,,O. Yurtseven,MIA,Yurtseven S.FOUL (P1.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G1219,3,04:33,MIA,,ORL,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1219,3,02:53,MIA,,ORL,,O. Yurtseven,MIA,Yurtseven BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1219,3,01:49,MIA,,ORL,,O. Yurtseven,MIA,MISS Yurtseven 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-141,47,15,1,2.0,0.0,h
+S2223-G1219,3,01:49,MIA,,ORL,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1219,3,01:44,MIA,80.0,ORL,77.0,O. Yurtseven,MIA,Yurtseven 3' Layup (2 PTS),Made Shot,Layup Shot,-27,16,3,1,2.0,2.0,h
+S2223-G1219,3,01:02,MIA,82.0,ORL,79.0,O. Yurtseven,MIA,Yurtseven 12' Jump Shot (4 PTS) (D. Robinson 2 AST),Made Shot,Jump Shot,-44,107,12,1,2.0,2.0,h
+S2223-G1219,3,00:35.200000,MIA,83.0,ORL,82.0,O. Yurtseven,MIA,Yurtseven Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1219,3,00:35.200000,MIA,84.0,ORL,82.0,O. Yurtseven,MIA,Yurtseven Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1219,4,10:25,MIA,,ORL,,O. Yurtseven,MIA,Yurtseven STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1219,4,07:01,MIA,,ORL,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1219,4,07:01,MIA,102.0,ORL,89.0,O. Yurtseven,MIA,Yurtseven 5' Turnaround Hook Shot (8 PTS),Made Shot,Turnaround Hook Shot,-47,15,5,1,2.0,2.0,h
+S2223-G1219,4,06:49,MIA,,ORL,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1219,4,06:00,MIA,,ORL,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1219,4,05:58,MIA,,ORL,,O. Yurtseven,MIA,Yurtseven Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1219,4,04:59,MIA,,ORL,,O. Yurtseven,MIA,Yurtseven S.FOUL (P2.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1219,4,04:41,MIA,105.0,ORL,95.0,O. Yurtseven,MIA,Yurtseven 3PT Jump Shot (11 PTS) (Highsmith 2 AST),Made Shot,Jump Shot,234,12,0,1,3.0,3.0,h
+S2223-G1219,4,03:49,MIA,110.0,ORL,98.0,O. Yurtseven,MIA,Yurtseven 2' Reverse Layup (13 PTS) (O. Robinson 2 AST),Made Shot,Reverse Layup Shot,9,13,2,1,2.0,2.0,h
+S2223-G1219,4,03:49,MIA,111.0,ORL,98.0,O. Yurtseven,MIA,Yurtseven Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1219,4,01:32,MIA,,ORL,,O. Yurtseven,MIA,Yurtseven S.FOUL (P3.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G1219,4,01:28,MIA,,ORL,,O. Yurtseven,MIA,Yurtseven S.FOUL (P4.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1219,4,00:04.700000,MIA,,ORL,,O. Yurtseven,MIA,Yurtseven REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h

@@ -1,0 +1,1567 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0128,1,05:29,NOP,,,,H. Jones,NOP,Jones S.FOUL (P1.T2) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0128,1,05:29,NOP,,,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0128,2,06:50,NOP,,,,H. Jones,NOP,Jones Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0128,2,05:32,NOP,,,,H. Jones,NOP,Jones P.FOUL (P2.T3) (E.Lewis),Foul,Personal,0,0,0,0,,,h
+S2223-G0128,2,02:59,NOP,,,,H. Jones,NOP,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,15,11,2,1,2.0,0.0,h
+S2223-G0128,2,02:00,NOP,,,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0128,2,01:13,NOP,56.0,,51.0,H. Jones,NOP,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0128,2,01:13,NOP,57.0,,51.0,H. Jones,NOP,Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0128,2,01:04,NOP,,,,H. Jones,NOP,Jones P.FOUL (P3.T4) (E.Lewis),Foul,Personal,0,0,0,0,,,h
+S2223-G0128,2,01:04,NOP,,,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0128,3,11:33,NOP,,,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-224,-22,0,1,3.0,0.0,h
+S2223-G0128,3,10:45,NOP,,,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0128,3,09:13,NOP,,,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,180,169,25,1,3.0,0.0,h
+S2223-G0128,3,06:44,NOP,,,,H. Jones,NOP,MISS Jones 7' Floating Jump Shot,Missed Shot,Floating Jump shot,0,71,7,1,2.0,0.0,h
+S2223-G0128,3,06:10,NOP,,,,H. Jones,NOP,Jones S.FOUL (P4.T4) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0128,3,06:10,NOP,,,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0128,4,08:50,NOP,,,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P2.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0128,4,07:47,NOP,,,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0128,4,04:26,NOP,104.0,,98.0,H. Jones,NOP,Jones 1' Cutting Dunk Shot (4 PTS) (Ingram 4 AST),Made Shot,Cutting Dunk Shot,14,-4,1,1,2.0,2.0,h
+S2223-G0128,4,00:58.300000,NOP,,,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G1017,1,07:54,NOP,11.0,POR,10.0,H. Jones,NOP,Jones 3PT Jump Shot (3 PTS) (McCollum 3 AST),Made Shot,Jump Shot,228,-1,0,1,3.0,3.0,h
+S2223-G1017,1,04:43,NOP,,POR,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1017,1,04:26,NOP,,POR,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1017,1,03:42,NOP,,POR,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1017,1,03:39,NOP,33.0,POR,16.0,H. Jones,NOP,Jones 3' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,33,3,1,2.0,2.0,h
+S2223-G1017,1,03:23,NOP,,POR,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1017,1,02:32,NOP,,POR,,H. Jones,NOP,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1017,1,01:24,NOP,,POR,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1017,2,05:50,NOP,53.0,POR,43.0,H. Jones,NOP,Jones 1' Cutting Layup Shot (7 PTS) (Valanciunas 2 AST),Made Shot,Cutting Layup Shot,12,0,1,1,2.0,2.0,h
+S2223-G1017,2,05:17,NOP,,POR,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-191,179,26,1,3.0,0.0,h
+S2223-G1017,2,01:50,NOP,66.0,POR,54.0,H. Jones,NOP,Jones 2' Driving Layup (9 PTS) (Marshall 4 AST),Made Shot,Driving Layup Shot,16,10,2,1,2.0,2.0,h
+S2223-G1017,3,11:23,NOP,77.0,POR,54.0,H. Jones,NOP,Jones 3PT Jump Shot (12 PTS) (McCollum 8 AST),Made Shot,Jump Shot,-227,-27,0,1,3.0,3.0,h
+S2223-G1017,3,10:40,NOP,,POR,,H. Jones,NOP,Jones S.FOUL (P1.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G1017,3,10:31,NOP,,POR,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-228,19,0,1,3.0,0.0,h
+S2223-G1017,3,09:38,NOP,,POR,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1017,3,09:34,NOP,81.0,POR,57.0,H. Jones,NOP,Jones 2' Running Layup (14 PTS),Made Shot,Running Layup Shot,-18,-4,2,1,2.0,2.0,h
+S2223-G1017,3,06:15,NOP,89.0,POR,64.0,H. Jones,NOP,Jones 1' Driving Dunk (16 PTS) (Murphy III 1 AST),Made Shot,Driving Dunk Shot,4,-5,1,1,2.0,2.0,h
+S2223-G1017,3,04:29,NOP,,POR,,H. Jones,NOP,Jones P.FOUL (P2.T4) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2223-G1017,3,03:50,NOP,,POR,,H. Jones,NOP,Jones Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1017,3,02:10,NOP,,POR,,H. Jones,NOP,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0755,1,11:22,MIL,,NOP,,H. Jones,NOP,MISS Jones 7' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,53,48,7,1,2.0,0.0,v
+S2223-G0755,1,10:24,MIL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0755,1,09:40,MIL,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0755,1,07:43,MIL,,NOP,,H. Jones,NOP,Jones P.FOUL (P1.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2223-G0755,1,05:09,MIL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0755,1,05:02,MIL,,NOP,,H. Jones,NOP,Jones Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0755,1,04:44,MIL,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0755,2,05:45,MIL,,NOP,,H. Jones,NOP,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,-17,-1,2,1,2.0,0.0,v
+S2223-G0755,2,05:44,MIL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0755,2,04:12,MIL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0755,2,02:28,MIL,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0755,3,11:03,MIL,64.0,NOP,48.0,H. Jones,NOP,Jones 1' Cutting Layup Shot (2 PTS) (Marshall 3 AST),Made Shot,Cutting Layup Shot,7,8,1,1,2.0,2.0,v
+S2223-G0755,3,10:46,MIL,,NOP,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0755,3,10:44,MIL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0755,3,09:11,MIL,,NOP,,H. Jones,NOP,MISS Jones 27' 3PT Jump Shot,Missed Shot,Jump Shot,-51,262,27,1,3.0,0.0,v
+S2223-G0755,3,08:33,MIL,73.0,NOP,56.0,H. Jones,NOP,Jones 3PT Running Jump Shot (5 PTS) (Alvarado 5 AST),Made Shot,Running Jump Shot,-234,-8,0,1,3.0,3.0,v
+S2223-G0755,3,06:09,MIL,,NOP,,H. Jones,NOP,MISS Jones Driving Layup,Missed Shot,Driving Layup Shot,1,4,0,1,2.0,0.0,v
+S2223-G0755,3,05:55,MIL,82.0,NOP,68.0,H. Jones,NOP,Jones 25' 3PT Jump Shot (8 PTS) (Marshall 6 AST),Made Shot,Jump Shot,-227,97,25,1,3.0,3.0,v
+S2223-G0755,3,04:15,MIL,,NOP,,H. Jones,NOP,SUB: Lewis Jr. FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0755,4,06:39,MIL,,NOP,,H. Jones,NOP,MISS Jones 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-113,95,15,1,2.0,0.0,v
+S2223-G0755,4,06:14,MIL,,NOP,,H. Jones,NOP,MISS Jones 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,25,-1,3,1,2.0,0.0,v
+S2223-G0755,4,04:37,MIL,,NOP,,H. Jones,NOP,MISS Jones 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,17,28,3,1,2.0,0.0,v
+S2223-G0755,4,03:51,MIL,,NOP,,H. Jones,NOP,Jones S.FOUL (P2.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0755,4,03:42,MIL,,NOP,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0755,4,03:42,MIL,123.0,NOP,106.0,H. Jones,NOP,Jones Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0755,4,03:09,MIL,,NOP,,H. Jones,NOP,Jones S.FOUL (P3.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2223-G0755,4,01:03,MIL,135.0,NOP,110.0,H. Jones,NOP,Jones 3' Cutting Dunk Shot (11 PTS) (Lewis Jr. 3 AST),Made Shot,Cutting Dunk Shot,11,25,3,1,2.0,2.0,v
+S2223-G0217,1,11:31,NOP,,CHI,,H. Jones,NOP,MISS Jones 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,31,3,1,2.0,0.0,h
+S2223-G0217,1,09:49,NOP,,CHI,,H. Jones,NOP,MISS Jones 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-32,48,6,1,2.0,0.0,h
+S2223-G0217,1,09:46,NOP,,CHI,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0217,1,05:49,NOP,,CHI,,H. Jones,NOP,Jones REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0217,1,03:38,NOP,,CHI,,H. Jones,NOP,SUB: Graham FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0217,2,09:16,NOP,,CHI,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0217,2,09:11,NOP,,CHI,,H. Jones,NOP,MISS Jones 3' Running Layup,Missed Shot,Running Layup Shot,-25,15,3,1,2.0,0.0,h
+S2223-G0217,2,08:00,NOP,,CHI,,H. Jones,NOP,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0217,2,07:07,NOP,41.0,CHI,39.0,H. Jones,NOP,Jones 3PT Jump Shot (3 PTS) (Daniels 1 AST),Made Shot,Jump Shot,234,20,0,1,3.0,3.0,h
+S2223-G0217,2,05:31,NOP,44.0,CHI,42.0,H. Jones,NOP,Jones 25' 3PT Jump Shot (6 PTS) (Ingram 3 AST),Made Shot,Jump Shot,-93,229,25,1,3.0,3.0,h
+S2223-G0217,2,02:38,NOP,52.0,CHI,47.0,H. Jones,NOP,Jones 7' Cutting Layup Shot (8 PTS) (Ingram 5 AST),Made Shot,Cutting Layup Shot,5,68,7,1,2.0,2.0,h
+S2223-G0217,2,02:38,NOP,53.0,CHI,47.0,H. Jones,NOP,Jones Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0217,3,11:26,NOP,,CHI,,H. Jones,NOP,MISS Jones 6' Driving Layup,Missed Shot,Driving Layup Shot,20,55,6,1,2.0,0.0,h
+S2223-G0217,3,11:24,NOP,,CHI,,H. Jones,NOP,Jones REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0217,3,08:22,NOP,,CHI,,H. Jones,NOP,Jones P.FOUL (P1.T1) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G0217,3,06:23,NOP,,CHI,,H. Jones,NOP,Jones Traveling Turnover (P1.T11),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0217,3,04:43,NOP,,CHI,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0217,3,04:43,NOP,81.0,CHI,66.0,H. Jones,NOP,Jones Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0217,3,03:47,NOP,,CHI,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0217,4,05:52,NOP,,CHI,,H. Jones,NOP,Jones S.FOUL (P2.T4) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2223-G0217,4,04:39,NOP,,CHI,,H. Jones,NOP,Jones S.FOUL (P3.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0217,4,03:32,NOP,,CHI,,H. Jones,NOP,Jones P.FOUL (P4.PN) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G0217,4,01:54,NOP,,CHI,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1095,1,09:07,NOP,,CHA,,H. Jones,NOP,MISS Jones 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,-25,0,3,1,2.0,0.0,h
+S2223-G1095,1,07:06,NOP,,CHA,,H. Jones,NOP,MISS Jones 3' Driving Layup,Missed Shot,Driving Layup Shot,-25,8,3,1,2.0,0.0,h
+S2223-G1095,1,07:00,NOP,,CHA,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1095,1,02:26,NOP,,CHA,,H. Jones,NOP,SUB: McCollum FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1095,2,00:27.800000,NOP,,CHA,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1095,3,11:35,NOP,,CHA,,H. Jones,NOP,MISS Jones 5' Running Layup,Missed Shot,Running Layup Shot,-10,48,5,1,2.0,0.0,h
+S2223-G1095,3,11:31,NOP,,CHA,,H. Jones,NOP,Jones REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1095,3,11:31,NOP,64.0,CHA,57.0,H. Jones,NOP,Jones Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1095,3,07:08,NOP,,CHA,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,232,9,0,1,3.0,0.0,h
+S2223-G1095,3,03:11,NOP,,CHA,,H. Jones,NOP,Jones P.FOUL (P1.T3) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2223-G1095,3,02:59,NOP,,CHA,,H. Jones,NOP,SUB: McCollum FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1095,4,05:19,NOP,,CHA,,H. Jones,NOP,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1095,4,02:12,NOP,,CHA,,H. Jones,NOP,SUB: Hayes FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0807,1,11:01,NOP,,SAC,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0807,1,09:32,NOP,,SAC,,H. Jones,NOP,Jones Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0807,1,06:31,NOP,18.0,SAC,5.0,H. Jones,NOP,Jones 4' Running Layup (2 PTS),Made Shot,Running Layup Shot,-22,31,4,1,2.0,2.0,h
+S2223-G0807,1,05:45,NOP,,SAC,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0807,1,04:00,NOP,,SAC,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0807,1,02:35,NOP,,SAC,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0807,2,02:57,NOP,63.0,SAC,43.0,H. Jones,NOP,Jones 3' Cutting Layup Shot (4 PTS) (Nance Jr. 1 AST),Made Shot,Cutting Layup Shot,-25,13,3,1,2.0,2.0,h
+S2223-G0807,2,02:23,NOP,,SAC,,H. Jones,NOP,MISS Jones 5' Driving Layup,Missed Shot,Driving Layup Shot,39,34,5,1,2.0,0.0,h
+S2223-G0807,2,02:20,NOP,,SAC,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0807,3,07:09,NOP,,SAC,,H. Jones,NOP,Jones P.FOUL (P1.T2) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2223-G0807,3,05:08,NOP,,SAC,,H. Jones,NOP,MISS Jones 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-131,40,14,1,2.0,0.0,h
+S2223-G0807,3,03:39,NOP,,SAC,,H. Jones,NOP,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,-20,6,2,1,2.0,0.0,h
+S2223-G0807,3,02:51,NOP,,SAC,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0807,4,11:37,NOP,,SAC,,H. Jones,NOP,MISS Jones 3' Driving Layup,Missed Shot,Driving Layup Shot,5,31,3,1,2.0,0.0,h
+S2223-G0807,4,08:51,NOP,,SAC,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0807,4,08:51,NOP,113.0,SAC,85.0,H. Jones,NOP,Jones Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0807,4,06:32,NOP,,SAC,,H. Jones,NOP,Jones S.FOUL (P2.T4) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2223-G0807,4,04:41,NOP,,SAC,,H. Jones,NOP,SUB: Temple FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0554,1,10:33,PHI,5.0,NOP,4.0,H. Jones,NOP,Jones 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-4,3,1,1,2.0,2.0,v
+S2223-G0554,1,09:00,PHI,10.0,NOP,6.0,H. Jones,NOP,Jones 5' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-27,41,5,1,2.0,2.0,v
+S2223-G0554,1,07:44,PHI,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0554,1,07:24,PHI,,NOP,,H. Jones,NOP,MISS Jones 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,27,56,6,1,2.0,0.0,v
+S2223-G0554,1,06:14,PHI,,NOP,,H. Jones,NOP,Jones Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0554,1,04:11,PHI,,NOP,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0554,2,06:29,PHI,,NOP,,H. Jones,NOP,MISS Jones 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-42,22,5,1,2.0,0.0,v
+S2223-G0554,2,05:45,PHI,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0554,2,04:45,PHI,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0554,2,03:54,PHI,,NOP,,H. Jones,NOP,Jones S.FOUL (P1.T4) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2223-G0554,2,00:11.900000,PHI,,NOP,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0554,2,00:08.100000,PHI,,NOP,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0554,3,09:15,PHI,,NOP,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-232,109,26,1,3.0,0.0,v
+S2223-G0554,3,08:03,PHI,66.0,NOP,58.0,H. Jones,NOP,Jones 1' Reverse Layup (6 PTS) (Williamson 3 AST),Made Shot,Reverse Layup Shot,-12,8,1,1,2.0,2.0,v
+S2223-G0554,3,04:41,PHI,,NOP,,H. Jones,NOP,SUB: Hernangomez FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0554,4,06:54,PHI,,NOP,,H. Jones,NOP,Jones S.FOUL (P2.T2) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2223-G0554,4,04:59,PHI,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0554,4,01:24,PHI,113.0,NOP,109.0,H. Jones,NOP,Jones 2' Cutting Dunk Shot (8 PTS) (McCollum 6 AST),Made Shot,Cutting Dunk Shot,0,21,2,1,2.0,2.0,v
+S2223-G0017,1,06:16,CHA,,NOP,,H. Jones,NOP,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,-17,18,2,1,2.0,0.0,v
+S2223-G0017,1,05:36,CHA,,NOP,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0017,1,05:04,CHA,,NOP,,H. Jones,NOP,Jones L.B.FOUL (P1.T2) (B.Barnaky),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0017,1,00:56,CHA,,NOP,,H. Jones,NOP,Jones P.FOUL (P2.T3) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2223-G0017,1,00:56,CHA,,NOP,,H. Jones,NOP,SUB: Valanciunas FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0017,2,04:33,CHA,,NOP,,H. Jones,NOP,Jones P.FOUL (P3.T2) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2223-G0017,2,04:33,CHA,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0017,3,08:14,CHA,,NOP,,H. Jones,NOP,Jones BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0017,3,07:53,CHA,,NOP,,H. Jones,NOP,Jones T.FOUL (P3.T1) (M.Davis),Foul,Technical,0,0,0,0,,,v
+S2223-G0017,3,06:39,CHA,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0017,3,06:26,CHA,,NOP,,H. Jones,NOP,Jones Violation:Kicked Ball (M.Davis),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0017,3,02:14,CHA,,NOP,,H. Jones,NOP,SUB: Williamson FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0017,4,07:27,CHA,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0017,4,06:29,CHA,97.0,NOP,101.0,H. Jones,NOP,Jones 3' Layup (2 PTS) (Ingram 6 AST),Made Shot,Layup Shot,-11,30,3,1,2.0,2.0,v
+S2223-G0017,4,06:29,CHA,97.0,NOP,102.0,H. Jones,NOP,Jones Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0017,4,03:53,CHA,,NOP,,H. Jones,NOP,Jones P.FOUL (P4.T4) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2223-G0017,4,01:22,CHA,110.0,NOP,120.0,H. Jones,NOP,Jones 2' Running Layup (5 PTS),Made Shot,Running Layup Shot,15,6,2,1,2.0,2.0,v
+S2223-G0017,4,00:55.200000,CHA,110.0,NOP,121.0,H. Jones,NOP,Jones Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0017,4,00:55.200000,CHA,110.0,NOP,122.0,H. Jones,NOP,Jones Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0040,1,09:05,NOP,,UTA,,H. Jones,NOP,Jones Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0040,1,06:24,NOP,,UTA,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0040,1,04:44,NOP,,UTA,,H. Jones,NOP,SUB: Alvarado FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0040,2,06:22,NOP,42.0,UTA,39.0,H. Jones,NOP,Jones 2' Driving Layup (2 PTS) (Graham 2 AST),Made Shot,Driving Layup Shot,-18,0,2,1,2.0,2.0,h
+S2223-G0040,2,06:13,NOP,,UTA,,H. Jones,NOP,Jones P.FOUL (P1.T4) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2223-G0040,2,05:36,NOP,,UTA,,H. Jones,NOP,MISS Jones 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-40,40,6,1,2.0,0.0,h
+S2223-G0040,2,05:01,NOP,,UTA,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0040,2,04:19,NOP,44.0,UTA,45.0,H. Jones,NOP,Jones 4' Driving Layup (4 PTS) (Valanciunas 2 AST),Made Shot,Driving Layup Shot,32,16,4,1,2.0,2.0,h
+S2223-G0040,2,03:56,NOP,,UTA,,H. Jones,NOP,Jones S.FOUL (P2.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0040,2,03:21,NOP,,UTA,,H. Jones,NOP,MISS Jones 21' Jump Shot,Missed Shot,Jump Shot,206,6,21,1,2.0,0.0,h
+S2223-G0040,2,00:05.800000,NOP,53.0,UTA,63.0,H. Jones,NOP,Jones Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0040,2,00:05.800000,NOP,,UTA,,H. Jones,NOP,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0040,3,09:11,NOP,,UTA,,H. Jones,NOP,MISS Jones 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-20,11,2,1,2.0,0.0,h
+S2223-G0040,3,08:14,NOP,,UTA,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,229,4,0,1,3.0,0.0,h
+S2223-G0040,3,08:00,NOP,,UTA,,H. Jones,NOP,Jones Offensive Charge Foul (P3) (C.Blair),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0040,3,08:00,NOP,,UTA,,H. Jones,NOP,Jones Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0040,3,06:43,NOP,,UTA,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,53,24,1,3.0,0.0,h
+S2223-G0040,3,06:37,NOP,,UTA,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-159,207,26,1,3.0,0.0,h
+S2223-G0040,3,05:42,NOP,,UTA,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0040,3,05:37,NOP,70.0,UTA,76.0,H. Jones,NOP,Jones 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-18,2,2,1,2.0,2.0,h
+S2223-G0040,3,05:37,NOP,71.0,UTA,76.0,H. Jones,NOP,Jones Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0040,3,03:16,NOP,,UTA,,H. Jones,NOP,Jones S.FOUL (P4.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0040,3,03:16,NOP,,UTA,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0040,4,04:17,NOP,,UTA,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0040,4,03:43,NOP,,UTA,,H. Jones,NOP,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0040,4,02:32,NOP,,UTA,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0040,4,02:32,NOP,105.0,UTA,105.0,H. Jones,NOP,Jones Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0040,4,01:56,NOP,,UTA,,H. Jones,NOP,Jones Out of Bounds Lost Ball Turnover (P3.T16),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0040,5,04:21,NOP,,UTA,,H. Jones,NOP,Jones S.FOUL (P5.T1) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0040,5,00:11.500000,NOP,,UTA,,H. Jones,NOP,Jones P.FOUL (P6.PN) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2223-G0040,5,00:11.500000,NOP,,UTA,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0543,1,11:23,MEM,,NOP,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,194,146,24,1,3.0,0.0,v
+S2223-G0543,1,09:51,MEM,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0543,1,06:28,MEM,,NOP,,H. Jones,NOP,MISS Jones 3' Driving Layup,Missed Shot,Driving Layup Shot,-17,19,3,1,2.0,0.0,v
+S2223-G0543,1,06:25,MEM,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0543,1,06:13,MEM,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0543,1,06:09,MEM,,NOP,,H. Jones,NOP,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,16,15,2,1,2.0,0.0,v
+S2223-G0543,1,05:24,MEM,,NOP,,H. Jones,NOP,SUB: Hernangomez FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0543,1,00:01,MEM,,NOP,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0543,2,05:12,MEM,,NOP,,H. Jones,NOP,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,16,8,2,1,2.0,0.0,v
+S2223-G0543,2,05:11,MEM,,NOP,,H. Jones,NOP,Jones Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0543,2,03:02,MEM,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0543,2,02:51,MEM,,NOP,,H. Jones,NOP,Jones REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0543,2,02:07,MEM,,NOP,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,175,172,25,1,3.0,0.0,v
+S2223-G0543,2,00:56.400000,MEM,,NOP,,H. Jones,NOP,Jones REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0543,2,00:51.700000,MEM,49.0,NOP,50.0,H. Jones,NOP,Jones 3' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,-15,20,3,1,2.0,2.0,v
+S2223-G0543,2,00:51.700000,MEM,,NOP,,H. Jones,NOP,MISS Jones Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0543,2,00:00,MEM,,NOP,,H. Jones,NOP,Jones REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0543,2,00:00,MEM,,NOP,,H. Jones,NOP,MISS Jones 44' 3PT Jump Shot,Missed Shot,Jump Shot,4,440,44,1,3.0,0.0,v
+S2223-G0543,3,09:10,MEM,,NOP,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0543,3,08:15,MEM,,NOP,,H. Jones,NOP,Jones REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0543,3,07:24,MEM,,NOP,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0543,3,07:23,MEM,67.0,NOP,64.0,H. Jones,NOP,Jones 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,12,18,2,1,2.0,2.0,v
+S2223-G0543,3,05:45,MEM,,NOP,,H. Jones,NOP,Jones REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0543,3,05:33,MEM,,NOP,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-85,243,26,1,3.0,0.0,v
+S2223-G0543,3,04:42,MEM,,NOP,,H. Jones,NOP,Jones REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0543,3,03:40,MEM,,NOP,,H. Jones,NOP,Jones REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0543,3,03:38,MEM,,NOP,,H. Jones,NOP,MISS Jones 3' Layup,Missed Shot,Layup Shot,9,29,3,1,2.0,0.0,v
+S2223-G0543,3,03:33,MEM,,NOP,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0543,4,05:49,MEM,,NOP,,H. Jones,NOP,Jones OFF.Foul (P1) (B.Taylor),Foul,Offensive,0,0,0,0,,,v
+S2223-G0543,4,05:49,MEM,,NOP,,H. Jones,NOP,Jones Offensive Foul Turnover (P2.T20),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0543,4,00:55.700000,MEM,,NOP,,H. Jones,NOP,MISS Jones 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,48,5,1,2.0,0.0,v
+S2223-G0543,4,00:52.900000,MEM,,NOP,,H. Jones,NOP,Jones REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0543,4,00:52.900000,MEM,,NOP,,H. Jones,NOP,MISS Jones Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1112,1,10:44,LAC,0.0,NOP,4.0,H. Jones,NOP,Jones 1' Running Layup (2 PTS) (Ingram 1 AST),Made Shot,Running Layup Shot,1,6,1,1,2.0,2.0,v
+S2223-G1112,1,03:20,LAC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1112,1,02:34,LAC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1112,1,02:08,LAC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1112,1,02:04,LAC,,NOP,,H. Jones,NOP,Jones Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1112,2,05:25,LAC,,NOP,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1112,3,08:45,LAC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1112,3,08:25,LAC,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1112,3,08:02,LAC,,NOP,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1112,3,06:59,LAC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1112,3,06:07,LAC,,NOP,,H. Jones,NOP,Jones OFF.Foul (P1) (M.Boland),Foul,Offensive,0,0,0,0,,,v
+S2223-G1112,3,06:07,LAC,,NOP,,H. Jones,NOP,Jones Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1112,3,04:18,LAC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1112,3,03:18,LAC,,NOP,,H. Jones,NOP,Jones S.FOUL (P2.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2223-G1112,3,03:06,LAC,72.0,NOP,93.0,H. Jones,NOP,Jones 1' Driving Reverse Layup (4 PTS) (Ingram 11 AST),Made Shot,Driving Reverse Layup Shot,5,4,1,1,2.0,2.0,v
+S2223-G1112,3,01:13,LAC,,NOP,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0304,1,11:24,NOP,,OKC,,H. Jones,NOP,MISS Jones 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,5,53,5,1,2.0,0.0,h
+S2223-G0304,1,11:20,NOP,,OKC,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0304,1,11:20,NOP,2.0,OKC,0.0,H. Jones,NOP,Jones Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0304,1,07:41,NOP,,OKC,,H. Jones,NOP,MISS Jones 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,11,1,1,2.0,0.0,h
+S2223-G0304,1,06:35,NOP,15.0,OKC,16.0,H. Jones,NOP,Jones 25' 3PT Jump Shot (5 PTS) (Alvarado 2 AST),Made Shot,Jump Shot,-141,211,25,1,3.0,3.0,h
+S2223-G0304,1,04:47,NOP,,OKC,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0304,1,03:57,NOP,,OKC,,H. Jones,NOP,MISS Jones 3' Driving Layup,Missed Shot,Driving Layup Shot,-29,-1,3,1,2.0,0.0,h
+S2223-G0304,1,03:39,NOP,,OKC,,H. Jones,NOP,Jones OFF.Foul (P1) (M.Myers),Foul,Offensive,0,0,0,0,,,h
+S2223-G0304,1,03:39,NOP,,OKC,,H. Jones,NOP,Jones Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0304,1,02:53,NOP,24.0,OKC,21.0,H. Jones,NOP,Jones 5' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,9,53,5,1,2.0,2.0,h
+S2223-G0304,1,02:53,NOP,,OKC,,H. Jones,NOP,MISS Jones Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0304,1,02:26,NOP,,OKC,,H. Jones,NOP,SUB: Williamson FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0304,2,07:06,NOP,,OKC,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-20,24,1,3.0,0.0,h
+S2223-G0304,2,04:52,NOP,,OKC,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0304,2,04:23,NOP,,OKC,,H. Jones,NOP,Jones Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0304,2,04:17,NOP,,OKC,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0304,2,00:03.100000,NOP,,OKC,,H. Jones,NOP,Jones S.FOUL (P2.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G0304,3,11:07,NOP,,OKC,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0304,3,06:42,NOP,,OKC,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0304,3,06:19,NOP,,OKC,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0304,3,03:12,NOP,,OKC,,H. Jones,NOP,MISS Jones 3' Driving Layup,Missed Shot,Driving Layup Shot,-23,17,3,1,2.0,0.0,h
+S2223-G0304,3,02:29,NOP,,OKC,,H. Jones,NOP,Jump Ball Jones vs. Gilgeous-Alexander: Tip to Hernangomez,Jump Ball,,0,0,0,0,,,h
+S2223-G0304,3,02:15,NOP,,OKC,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,-97,235,25,1,3.0,0.0,h
+S2223-G0304,3,01:14,NOP,,OKC,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-143,215,26,1,3.0,0.0,h
+S2223-G0304,3,00:52.600000,NOP,,OKC,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0304,3,00:29.900000,NOP,,OKC,,H. Jones,NOP,Jones BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0304,4,08:56,NOP,,OKC,,H. Jones,NOP,Jones Traveling Turnover (P4.T19),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0304,4,08:19,NOP,87.0,OKC,83.0,H. Jones,NOP,Jones 3' Cutting Dunk Shot (9 PTS) (Alvarado 3 AST),Made Shot,Cutting Dunk Shot,2,25,3,1,2.0,2.0,h
+S2223-G0304,4,07:36,NOP,,OKC,,H. Jones,NOP,Jones S.FOUL (P3.T2) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0304,4,07:15,NOP,,OKC,,H. Jones,NOP,Jones BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0304,4,07:13,NOP,,OKC,,H. Jones,NOP,Jones STEAL (4 STL),,,0,0,0,0,,,h
+S2223-G0304,4,07:03,NOP,,OKC,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0304,4,07:03,NOP,91.0,OKC,84.0,H. Jones,NOP,Jones Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0304,4,02:41,NOP,,OKC,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,227,-8,0,1,3.0,0.0,h
+S2223-G0304,4,00:01.500000,NOP,104.0,OKC,101.0,H. Jones,NOP,Jones Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0304,4,00:01.500000,NOP,105.0,OKC,101.0,H. Jones,NOP,Jones Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0191,1,11:20,NOP,,HOU,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,229,27,0,1,3.0,0.0,h
+S2223-G0191,1,07:54,NOP,,HOU,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0191,1,07:10,NOP,,HOU,,H. Jones,NOP,MISS Jones 6' Driving Layup,Missed Shot,Driving Layup Shot,-26,58,6,1,2.0,0.0,h
+S2223-G0191,1,07:03,NOP,,HOU,,H. Jones,NOP,Jones P.FOUL (P1.T3) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2223-G0191,1,03:58,NOP,,HOU,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0191,2,04:37,NOP,,HOU,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0191,2,04:26,NOP,,HOU,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-102,237,26,1,3.0,0.0,h
+S2223-G0191,2,02:58,NOP,,HOU,,H. Jones,NOP,Jones P.FOUL (P2.PN) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G0191,2,01:55,NOP,,HOU,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0191,2,01:31,NOP,,HOU,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0191,3,10:45,NOP,,HOU,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,227,14,0,1,3.0,0.0,h
+S2223-G0191,3,10:36,NOP,65.0,HOU,55.0,H. Jones,NOP,Jones 2' Driving Dunk (2 PTS) (Ingram 3 AST),Made Shot,Driving Dunk Shot,22,9,2,1,2.0,2.0,h
+S2223-G0191,3,08:35,NOP,73.0,HOU,57.0,H. Jones,NOP,Jones 4' Running Layup (4 PTS) (Ingram 4 AST),Made Shot,Running Layup Shot,17,35,4,1,2.0,2.0,h
+S2223-G0191,3,07:24,NOP,78.0,HOU,60.0,H. Jones,NOP,Jones 3' Running Layup (6 PTS) (McCollum 6 AST),Made Shot,Running Layup Shot,25,14,3,1,2.0,2.0,h
+S2223-G0191,3,06:54,NOP,,HOU,,H. Jones,NOP,Jones P.FOUL (P3.T2) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2223-G0191,3,06:54,NOP,,HOU,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0191,3,03:54,NOP,,HOU,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0426,1,11:12,UTA,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0426,1,11:09,UTA,,NOP,,H. Jones,NOP,MISS Jones 3' Running Dunk,Missed Shot,Running Dunk Shot,11,23,3,1,2.0,0.0,v
+S2223-G0426,1,09:37,UTA,,NOP,,H. Jones,NOP,Jones S.FOUL (P1.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0426,1,09:16,UTA,6.0,NOP,3.0,H. Jones,NOP,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0426,1,09:16,UTA,6.0,NOP,4.0,H. Jones,NOP,Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0426,1,09:05,UTA,,NOP,,H. Jones,NOP,Jones L.B.FOUL (P2.T4) (S.Mitchell),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0426,1,09:05,UTA,,NOP,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0426,2,06:00,UTA,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0426,2,06:00,UTA,,NOP,,H. Jones,NOP,MISS Jones Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0426,2,05:39,UTA,46.0,NOP,48.0,H. Jones,NOP,Jones 24' 3PT Jump Shot (5 PTS) (Graham 3 AST),Made Shot,Jump Shot,-235,21,24,1,3.0,3.0,v
+S2223-G0426,2,05:18,UTA,,NOP,,H. Jones,NOP,Jones P.FOUL (P3.T2) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G0426,2,02:44,UTA,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0426,3,11:14,UTA,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0426,3,09:30,UTA,63.0,NOP,76.0,H. Jones,NOP,Jones 3' Running Layup (7 PTS) (McCollum 1 AST),Made Shot,Running Layup Shot,21,22,3,1,2.0,2.0,v
+S2223-G0426,3,07:43,UTA,,NOP,,H. Jones,NOP,Jones S.FOUL (P4.T2) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2223-G0426,3,07:43,UTA,,NOP,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0426,3,00:11.500000,UTA,,NOP,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0426,4,09:38,UTA,,NOP,,H. Jones,NOP,SUB: Williamson FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0426,4,05:26,UTA,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0426,4,04:32,UTA,109.0,NOP,112.0,H. Jones,NOP,Jones 3' Driving Layup (9 PTS) (McCollum 3 AST),Made Shot,Driving Layup Shot,25,9,3,1,2.0,2.0,v
+S2223-G0426,4,03:59,UTA,,NOP,,H. Jones,NOP,MISS Jones 2' Layup,Missed Shot,Layup Shot,-20,14,2,1,2.0,0.0,v
+S2223-G0426,4,03:59,UTA,,NOP,,H. Jones,NOP,Jones REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0426,4,03:57,UTA,,NOP,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0426,4,03:57,UTA,111.0,NOP,113.0,H. Jones,NOP,Jones Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0426,4,02:24,UTA,,NOP,,H. Jones,NOP,Jones S.FOUL (P5.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0426,4,01:53,UTA,115.0,NOP,117.0,H. Jones,NOP,Jones Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0426,4,01:53,UTA,115.0,NOP,118.0,H. Jones,NOP,Jones Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0426,4,00:12.600000,UTA,,NOP,,H. Jones,NOP,Jones Personal Take Foul (P6.PN) (S.Mitchell),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0426,4,00:12.600000,UTA,,NOP,,H. Jones,NOP,SUB: Nance Jr. FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0922,1,07:46,NOP,,ORL,,H. Jones,NOP,Jones OFF.Foul (P1) (P.Fraher),Foul,Offensive,0,0,0,0,,,h
+S2223-G0922,1,07:46,NOP,,ORL,,H. Jones,NOP,Jones Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0922,1,05:59,NOP,,ORL,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0922,1,04:53,NOP,,ORL,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0922,2,11:17,NOP,,ORL,,H. Jones,NOP,Jones P.FOUL (P2.T1) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0922,2,11:02,NOP,,ORL,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0922,2,09:00,NOP,,ORL,,H. Jones,NOP,MISS Jones 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-17,57,6,1,2.0,0.0,h
+S2223-G0922,2,08:55,NOP,,ORL,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0922,2,08:55,NOP,34.0,ORL,40.0,H. Jones,NOP,Jones Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0922,2,07:02,NOP,,ORL,,H. Jones,NOP,SUB: Alvarado FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0922,2,00:50.300000,NOP,,ORL,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0922,3,07:36,NOP,,ORL,,H. Jones,NOP,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0922,3,06:34,NOP,,ORL,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0922,3,05:08,NOP,,ORL,,H. Jones,NOP,Jones REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0922,3,05:05,NOP,,ORL,,H. Jones,NOP,Jones P.FOUL (P3.PN) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0922,3,04:05,NOP,,ORL,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0922,4,09:32,NOP,77.0,ORL,84.0,H. Jones,NOP,Jones Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0922,4,09:32,NOP,78.0,ORL,84.0,H. Jones,NOP,Jones Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0922,4,08:53,NOP,81.0,ORL,86.0,H. Jones,NOP,Jones 3PT Jump Shot (7 PTS) (McCollum 5 AST),Made Shot,Jump Shot,233,27,0,1,3.0,3.0,h
+S2223-G0922,4,07:35,NOP,,ORL,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,62,24,1,3.0,0.0,h
+S2223-G0922,4,05:31,NOP,,ORL,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-228,-18,0,1,3.0,0.0,h
+S2223-G0922,4,04:54,NOP,,ORL,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0922,4,04:51,NOP,89.0,ORL,89.0,H. Jones,NOP,Jones Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0922,4,04:51,NOP,,ORL,,H. Jones,NOP,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0922,4,04:00,NOP,91.0,ORL,91.0,H. Jones,NOP,Jones 2' Driving Layup (10 PTS) (Richardson 2 AST),Made Shot,Driving Layup Shot,-20,-5,2,1,2.0,2.0,h
+S2223-G0922,4,02:58,NOP,,ORL,,H. Jones,NOP,Jones REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0922,4,02:41,NOP,,ORL,,H. Jones,NOP,MISS Jones 2' Layup,Missed Shot,Layup Shot,18,13,2,1,2.0,0.0,h
+S2223-G0922,4,02:06,NOP,,ORL,,H. Jones,NOP,MISS Jones 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,5,48,5,1,2.0,0.0,h
+S2223-G0922,4,00:48.900000,NOP,,ORL,,H. Jones,NOP,MISS Jones 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,43,4,1,2.0,0.0,h
+S2223-G0922,4,00:23.600000,NOP,,ORL,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0488,1,11:46,OKC,,NOP,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,24,24,1,3.0,0.0,v
+S2223-G0488,1,11:19,OKC,,NOP,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-224,26,0,1,3.0,0.0,v
+S2223-G0488,1,11:10,OKC,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0488,1,07:17,OKC,,NOP,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0488,1,06:09,OKC,,NOP,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0488,1,04:01,OKC,,NOP,,H. Jones,NOP,Jones S.FOUL (P1.T3) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0488,1,04:01,OKC,,NOP,,H. Jones,NOP,SUB: Alvarado FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0488,2,05:15,OKC,,NOP,,H. Jones,NOP,Jones Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0488,2,04:04,OKC,,NOP,,H. Jones,NOP,MISS Jones 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-42,32,5,1,2.0,0.0,v
+S2223-G0488,2,04:03,OKC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0488,2,04:02,OKC,,NOP,,H. Jones,NOP,MISS Jones 4' Putback Layup,Missed Shot,Putback Layup Shot,-28,31,4,1,2.0,0.0,v
+S2223-G0488,2,02:43,OKC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0488,2,01:13,OKC,,NOP,,H. Jones,NOP,Jones S.FOUL (P2.T4) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0488,2,01:13,OKC,,NOP,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0488,3,11:22,OKC,48.0,NOP,66.0,H. Jones,NOP,Jones 3' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,-23,26,3,1,2.0,2.0,v
+S2223-G0488,3,10:57,OKC,,NOP,,H. Jones,NOP,MISS Jones 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-1,94,9,1,2.0,0.0,v
+S2223-G0488,3,09:24,OKC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0488,3,08:03,OKC,,NOP,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,230,11,0,1,3.0,0.0,v
+S2223-G0488,3,07:46,OKC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0488,3,06:54,OKC,,NOP,,H. Jones,NOP,MISS Jones 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-27,63,7,1,2.0,0.0,v
+S2223-G0488,3,04:34,OKC,,NOP,,H. Jones,NOP,Jones Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0488,3,03:45,OKC,,NOP,,H. Jones,NOP,SUB: Graham FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0488,4,08:49,OKC,92.0,NOP,85.0,H. Jones,NOP,Jones 3' Cutting Dunk Shot (4 PTS) (McCollum 6 AST),Made Shot,Cutting Dunk Shot,25,11,3,1,2.0,2.0,v
+S2223-G0488,4,08:21,OKC,94.0,NOP,86.0,H. Jones,NOP,Jones Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0488,4,08:21,OKC,94.0,NOP,87.0,H. Jones,NOP,Jones Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0488,4,08:13,OKC,,NOP,,H. Jones,NOP,Jones S.FOUL (P3.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0488,4,07:08,OKC,,NOP,,H. Jones,NOP,Jones OFF.Foul (P4) (B.Taylor),Foul,Offensive,0,0,0,0,,,v
+S2223-G0488,4,07:08,OKC,,NOP,,H. Jones,NOP,Jones Offensive Foul Turnover (P3.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0488,4,05:16,OKC,,NOP,,H. Jones,NOP,Jones S.FOUL (P5.T3) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0488,4,04:41,OKC,105.0,NOP,98.0,H. Jones,NOP,Jones 3' Cutting Dunk Shot (8 PTS) (McCollum 8 AST),Made Shot,Cutting Dunk Shot,25,16,3,1,2.0,2.0,v
+S2223-G0488,4,03:56,OKC,105.0,NOP,99.0,H. Jones,NOP,Jones Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0488,4,03:56,OKC,105.0,NOP,100.0,H. Jones,NOP,Jones Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0488,4,02:23,OKC,110.0,NOP,103.0,H. Jones,NOP,Jones Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0488,4,02:23,OKC,110.0,NOP,104.0,H. Jones,NOP,Jones Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0488,4,00:59.900000,OKC,,NOP,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0488,4,00:58.100000,OKC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0488,4,00:57.500000,OKC,112.0,NOP,110.0,H. Jones,NOP,Jones Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0488,4,00:57.500000,OKC,,NOP,,H. Jones,NOP,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0488,4,00:25.400000,OKC,112.0,NOP,112.0,H. Jones,NOP,Jones 3' Cutting Layup Shot (15 PTS) (McCollum 9 AST),Made Shot,Cutting Layup Shot,18,22,3,1,2.0,2.0,v
+S2223-G0488,4,00:00.600000,OKC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0488,5,00:43.900000,OKC,,NOP,,H. Jones,NOP,MISS Jones 5' Reverse Layup,Missed Shot,Reverse Layup Shot,-44,15,5,1,2.0,0.0,v
+S2223-G1011,1,10:12,NOP,,OKC,,H. Jones,NOP,Jones S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G1011,1,07:02,NOP,,OKC,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1011,1,06:46,NOP,,OKC,,H. Jones,NOP,Jones Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1011,1,05:56,NOP,,OKC,,H. Jones,NOP,Jones S.FOUL (P2.T4) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G1011,1,05:56,NOP,,OKC,,H. Jones,NOP,SUB: Richardson FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1011,2,06:30,NOP,,OKC,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1011,2,05:00,NOP,,OKC,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-228,37,0,1,3.0,0.0,h
+S2223-G1011,2,04:43,NOP,,OKC,,H. Jones,NOP,Jones S.FOUL (P3.T4) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2223-G1011,2,04:43,NOP,,OKC,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1011,3,10:52,NOP,,OKC,,H. Jones,NOP,Jones P.FOUL (P4.T1) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2223-G1011,3,10:52,NOP,,OKC,,H. Jones,NOP,SUB: Richardson FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1011,4,07:17,NOP,82.0,OKC,94.0,H. Jones,NOP,Jones 5' Driving Layup (2 PTS) (McCollum 7 AST),Made Shot,Driving Layup Shot,16,43,5,1,2.0,2.0,h
+S2223-G1011,4,04:53,NOP,89.0,OKC,98.0,H. Jones,NOP,Jones 3' Driving Layup (4 PTS) (McCollum 8 AST),Made Shot,Driving Layup Shot,-20,25,3,1,2.0,2.0,h
+S2223-G1011,4,03:32,NOP,,OKC,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1011,4,01:06,NOP,,OKC,,H. Jones,NOP,Jones P.FOUL (P5.PN) (N.Green),Foul,Personal,0,0,0,0,,,h
+S2223-G0006,1,10:14,BKN,,NOP,,H. Jones,NOP,Jones Violation:Kicked Ball (J.Butler),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0006,1,09:49,BKN,0.0,NOP,7.0,H. Jones,NOP,Jones 26' 3PT Jump Shot (3 PTS) (Ingram 1 AST),Made Shot,Jump Shot,-159,205,26,1,3.0,3.0,v
+S2223-G0006,1,07:20,BKN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0006,1,05:31,BKN,,NOP,,H. Jones,NOP,Jones S.FOUL (P1.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0006,1,03:29,BKN,,NOP,,H. Jones,NOP,MISS Jones 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-29,-1,3,1,2.0,0.0,v
+S2223-G0006,1,03:06,BKN,,NOP,,H. Jones,NOP,SUB: Williamson FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0006,2,08:07,BKN,,NOP,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0006,2,06:41,BKN,,NOP,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,178,174,25,1,3.0,0.0,v
+S2223-G0006,2,03:50,BKN,,NOP,,H. Jones,NOP,Jones P.FOUL (P2.PN) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0006,2,03:40,BKN,,NOP,,H. Jones,NOP,MISS Jones 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-32,121,13,1,2.0,0.0,v
+S2223-G0006,2,03:10,BKN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0006,2,03:00,BKN,,NOP,,H. Jones,NOP,Jones S.FOUL (P3.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0006,2,03:00,BKN,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0006,3,10:42,BKN,,NOP,,H. Jones,NOP,MISS Jones 4' Layup,Missed Shot,Layup Shot,-39,20,4,1,2.0,0.0,v
+S2223-G0006,3,10:39,BKN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0006,3,08:17,BKN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0006,3,06:03,BKN,59.0,NOP,75.0,H. Jones,NOP,Jones 1' Cutting Layup Shot (5 PTS) (Valanciunas 2 AST),Made Shot,Cutting Layup Shot,11,10,1,1,2.0,2.0,v
+S2223-G0006,3,06:03,BKN,59.0,NOP,76.0,H. Jones,NOP,Jones Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0006,3,03:34,BKN,,NOP,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-232,-13,0,1,3.0,0.0,v
+S2223-G0006,3,03:04,BKN,,NOP,,H. Jones,NOP,SUB: Williamson FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0006,4,03:12,BKN,,NOP,,H. Jones,NOP,SUB: Alvarado FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0572,1,10:50,NOP,,HOU,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0572,1,10:46,NOP,,HOU,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0572,1,10:33,NOP,,HOU,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0572,1,10:01,NOP,,HOU,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0572,1,07:02,NOP,,HOU,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0572,1,04:27,NOP,,HOU,,H. Jones,NOP,Jones S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0572,1,04:27,NOP,,HOU,,H. Jones,NOP,Jones T.FOUL (P1.T3) (P.Fraher),Foul,Technical,0,0,0,0,,,h
+S2223-G0572,1,04:27,NOP,,HOU,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0572,2,06:05,NOP,66.0,HOU,37.0,H. Jones,NOP,Jones 24' 3PT Jump Shot (3 PTS) (Graham 1 AST),Made Shot,Jump Shot,223,85,24,1,3.0,3.0,h
+S2223-G0572,2,05:23,NOP,,HOU,,H. Jones,NOP,Jones P.FOUL (P2.T4) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2223-G0572,2,04:40,NOP,,HOU,,H. Jones,NOP,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0572,2,01:50,NOP,,HOU,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0572,3,11:31,NOP,,HOU,,H. Jones,NOP,Jones Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0572,3,07:29,NOP,,HOU,,H. Jones,NOP,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0572,3,03:34,NOP,,HOU,,H. Jones,NOP,SUB: Hayes FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0572,4,07:24,NOP,105.0,HOU,86.0,H. Jones,NOP,Jones Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0572,4,07:24,NOP,106.0,HOU,86.0,H. Jones,NOP,Jones Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0572,4,04:49,NOP,,HOU,,H. Jones,NOP,Jones S.FOUL (P3.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0572,4,03:10,NOP,111.0,HOU,97.0,H. Jones,NOP,Jones Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0572,4,03:10,NOP,112.0,HOU,97.0,H. Jones,NOP,Jones Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0572,4,00:32.800000,NOP,116.0,HOU,108.0,H. Jones,NOP,Jones Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0572,4,00:32.800000,NOP,117.0,HOU,108.0,H. Jones,NOP,Jones Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0572,4,00:27.100000,NOP,,HOU,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0175,1,10:21,NOP,5.0,POR,2.0,H. Jones,NOP,Jones 23' Jump Shot (2 PTS) (Williamson 1 AST),Made Shot,Jump Shot,205,102,23,1,2.0,2.0,h
+S2223-G0175,1,07:53,NOP,11.0,POR,6.0,H. Jones,NOP,Jones Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0175,1,07:53,NOP,12.0,POR,6.0,H. Jones,NOP,Jones Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0175,1,04:10,NOP,,POR,,H. Jones,NOP,SUB: McCollum FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0175,2,05:05,NOP,,POR,,H. Jones,NOP,MISS Jones 9' Jump Shot,Missed Shot,Jump Shot,-53,68,9,1,2.0,0.0,h
+S2223-G0175,2,04:30,NOP,,POR,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0175,2,04:29,NOP,46.0,POR,39.0,H. Jones,NOP,Jones Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0175,2,04:29,NOP,47.0,POR,39.0,H. Jones,NOP,Jones Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0175,2,03:09,NOP,,POR,,H. Jones,NOP,Jones S.FOUL (P1.PN) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0175,2,02:39,NOP,,POR,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0175,3,08:20,NOP,63.0,POR,63.0,H. Jones,NOP,Jones 2' Cutting Layup Shot (8 PTS) (Ingram 2 AST),Made Shot,Cutting Layup Shot,-16,-1,2,1,2.0,2.0,h
+S2223-G0175,3,03:13,NOP,,POR,,H. Jones,NOP,MISS Jones 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-42,163,17,1,2.0,0.0,h
+S2223-G0175,4,08:21,NOP,79.0,POR,86.0,H. Jones,NOP,Jones 21' Jump Shot (10 PTS) (Murphy III 1 AST),Made Shot,Jump Shot,210,8,21,1,2.0,2.0,h
+S2223-G0175,4,06:39,NOP,,POR,,H. Jones,NOP,Jones S.FOUL (P2.PN) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2223-G0175,4,04:39,NOP,,POR,,H. Jones,NOP,Jones Step Out of Bounds Turnover (P1.T16),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0175,4,02:17,NOP,,POR,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0175,4,01:00,NOP,,POR,,H. Jones,NOP,MISS Jones 22' Jump Shot,Missed Shot,Jump Shot,-200,98,22,1,2.0,0.0,h
+S2223-G0134,1,06:50,ATL,,NOP,,H. Jones,NOP,Jones S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0134,1,06:15,ATL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0134,1,06:13,ATL,,NOP,,H. Jones,NOP,MISS Jones Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0134,1,05:50,ATL,,NOP,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0134,1,05:50,ATL,18.0,NOP,13.0,H. Jones,NOP,Jones Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0134,1,05:34,ATL,,NOP,,H. Jones,NOP,Jones S.FOUL (P2.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2223-G0134,1,05:34,ATL,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0134,2,07:19,ATL,43.0,NOP,36.0,H. Jones,NOP,Jones 1' Driving Dunk (3 PTS),Made Shot,Driving Dunk Shot,-5,10,1,1,2.0,2.0,v
+S2223-G0134,2,06:14,ATL,,NOP,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,161,200,26,1,3.0,0.0,v
+S2223-G0134,2,05:19,ATL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0134,2,02:24,ATL,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0134,2,02:20,ATL,52.0,NOP,44.0,H. Jones,NOP,Jones 1' Running Dunk (5 PTS) (Williamson 2 AST),Made Shot,Running Dunk Shot,-2,7,1,1,2.0,2.0,v
+S2223-G0134,2,00:20.300000,ATL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0134,3,10:56,ATL,,NOP,,H. Jones,NOP,MISS Jones 5' Driving Layup,Missed Shot,Driving Layup Shot,5,53,5,1,2.0,0.0,v
+S2223-G0134,3,09:52,ATL,,NOP,,H. Jones,NOP,MISS Jones Driving Layup,Missed Shot,Driving Layup Shot,-1,1,0,1,2.0,0.0,v
+S2223-G0134,3,07:34,ATL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0134,3,07:30,ATL,,NOP,,H. Jones,NOP,MISS Jones 4' Running Layup,Missed Shot,Running Layup Shot,-11,36,4,1,2.0,0.0,v
+S2223-G0134,3,07:27,ATL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0134,3,06:29,ATL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0134,3,06:28,ATL,71.0,NOP,62.0,H. Jones,NOP,Jones Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0134,3,06:28,ATL,71.0,NOP,63.0,H. Jones,NOP,Jones Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0134,3,05:13,ATL,,NOP,,H. Jones,NOP,Jones S.FOUL (P3.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0134,3,05:02,ATL,77.0,NOP,67.0,H. Jones,NOP,Jones 2' Driving Layup (9 PTS) (Murphy III 2 AST),Made Shot,Driving Layup Shot,-20,9,2,1,2.0,2.0,v
+S2223-G0134,3,04:36,ATL,79.0,NOP,69.0,H. Jones,NOP,Jones Layup (11 PTS) (Nance Jr. 2 AST),Made Shot,Layup Shot,1,4,0,1,2.0,2.0,v
+S2223-G0134,3,04:05,ATL,,NOP,,H. Jones,NOP,Jones P.FOUL (P4.PN) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2223-G0134,3,04:05,ATL,,NOP,,H. Jones,NOP,SUB: McCollum FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0134,4,05:11,ATL,,NOP,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0134,4,05:11,ATL,,NOP,,H. Jones,NOP,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0134,4,03:45,ATL,103.0,NOP,95.0,H. Jones,NOP,Jones 1' Running Layup (13 PTS) (Ingram 5 AST),Made Shot,Running Layup Shot,6,0,1,1,2.0,2.0,v
+S2223-G0134,4,03:45,ATL,,NOP,,H. Jones,NOP,MISS Jones Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0134,4,03:33,ATL,,NOP,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0134,4,03:03,ATL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0134,4,02:51,ATL,103.0,NOP,101.0,H. Jones,NOP,Jones 1' Cutting Layup Shot (15 PTS) (Ingram 6 AST),Made Shot,Cutting Layup Shot,9,9,1,1,2.0,2.0,v
+S2223-G0134,4,02:51,ATL,103.0,NOP,102.0,H. Jones,NOP,Jones Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0134,4,02:37,ATL,,NOP,,H. Jones,NOP,Jones S.FOUL (P5.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0134,4,01:32,ATL,,NOP,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,162,184,25,1,3.0,0.0,v
+S2223-G0134,5,01:16,ATL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0134,5,00:05.800000,ATL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0134,5,00:05.800000,ATL,124.0,NOP,120.0,H. Jones,NOP,Jones Tip Layup Shot (18 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0134,5,00:05.800000,ATL,124.0,NOP,121.0,H. Jones,NOP,Jones Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0134,5,00:04.400000,ATL,,NOP,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G1162,1,11:16,NOP,,LAC,,H. Jones,NOP,MISS Jones 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-40,26,5,1,2.0,0.0,h
+S2223-G1162,1,07:37,NOP,,LAC,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1162,1,04:37,NOP,,LAC,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1162,1,03:06,NOP,,LAC,,H. Jones,NOP,Jones S.FOUL (P1.T4) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G1162,1,02:32,NOP,18.0,LAC,26.0,H. Jones,NOP,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1162,1,02:32,NOP,19.0,LAC,26.0,H. Jones,NOP,Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1162,1,01:13,NOP,,LAC,,H. Jones,NOP,SUB: McCollum FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1162,2,05:01,NOP,,LAC,,H. Jones,NOP,Jones S.FOUL (P2.T2) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G1162,2,03:04,NOP,45.0,LAC,51.0,H. Jones,NOP,Jones 3' Driving Layup (4 PTS) (Nance Jr. 4 AST),Made Shot,Driving Layup Shot,-33,10,3,1,2.0,2.0,h
+S2223-G1162,2,03:04,NOP,46.0,LAC,51.0,H. Jones,NOP,Jones Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1162,2,00:49.500000,NOP,,LAC,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1162,2,00:45.700000,NOP,54.0,LAC,54.0,H. Jones,NOP,Jones Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1162,2,00:45.700000,NOP,55.0,LAC,54.0,H. Jones,NOP,Jones Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1162,3,11:00,NOP,,LAC,,H. Jones,NOP,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1162,3,10:54,NOP,60.0,LAC,59.0,H. Jones,NOP,Jones 26' 3PT Jump Shot (10 PTS) (Ingram 6 AST),Made Shot,Jump Shot,-99,237,26,1,3.0,3.0,h
+S2223-G1162,3,09:35,NOP,,LAC,,H. Jones,NOP,Jones S.FOUL (P3.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G1162,3,07:00,NOP,,LAC,,H. Jones,NOP,Jones P.FOUL (P4.T4) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2223-G1162,3,07:00,NOP,,LAC,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1162,4,05:23,NOP,106.0,LAC,102.0,H. Jones,NOP,Jones Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1162,4,05:23,NOP,107.0,LAC,102.0,H. Jones,NOP,Jones Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1162,4,02:09,NOP,,LAC,,H. Jones,NOP,Jones S.FOUL (P5.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G1162,4,00:25.300000,NOP,,LAC,,H. Jones,NOP,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0231,1,11:41,NOP,2.0,BOS,0.0,H. Jones,NOP,Jones 1' Layup (2 PTS) (Ingram 1 AST),Made Shot,Layup Shot,-12,7,1,1,2.0,2.0,h
+S2223-G0231,1,10:49,NOP,,BOS,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0231,1,07:47,NOP,,BOS,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,60,24,1,3.0,0.0,h
+S2223-G0231,1,04:38,NOP,,BOS,,H. Jones,NOP,SUB: Graham FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0231,2,06:24,NOP,,BOS,,H. Jones,NOP,MISS Jones 2' Layup,Missed Shot,Layup Shot,-21,8,2,1,2.0,0.0,h
+S2223-G0231,2,06:14,NOP,,BOS,,H. Jones,NOP,Jones P.FOUL (P1.T3) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2223-G0231,2,05:42,NOP,45.0,BOS,54.0,H. Jones,NOP,Jones 3PT Jump Shot (5 PTS) (Alvarado 3 AST),Made Shot,Jump Shot,-230,31,0,1,3.0,3.0,h
+S2223-G0231,2,02:44,NOP,,BOS,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0231,2,02:39,NOP,51.0,BOS,59.0,H. Jones,NOP,Jones Putback Layup (7 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0231,2,01:49,NOP,,BOS,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0231,2,01:26,NOP,,BOS,,H. Jones,NOP,Jones S.FOUL (P2.T4) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0231,2,00:02.500000,NOP,,BOS,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0231,3,10:49,NOP,,BOS,,H. Jones,NOP,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0231,3,10:30,NOP,,BOS,,H. Jones,NOP,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0231,3,09:16,NOP,,BOS,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,19,24,1,3.0,0.0,h
+S2223-G0231,3,06:00,NOP,66.0,BOS,76.0,H. Jones,NOP,Jones 2' Running Layup (9 PTS) (McCollum 2 AST),Made Shot,Running Layup Shot,-23,0,2,1,2.0,2.0,h
+S2223-G0231,3,04:06,NOP,,BOS,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0231,3,04:01,NOP,,BOS,,H. Jones,NOP,MISS Jones 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,17,6,2,1,2.0,0.0,h
+S2223-G0231,3,03:44,NOP,,BOS,,H. Jones,NOP,SUB: Graham FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0231,4,11:45,NOP,,BOS,,H. Jones,NOP,Jones Out of Bounds Lost Ball Turnover (P2.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0231,4,10:49,NOP,,BOS,,H. Jones,NOP,Jones REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0231,4,10:41,NOP,81.0,BOS,91.0,H. Jones,NOP,Jones 25' 3PT Jump Shot (12 PTS) (Valanciunas 2 AST),Made Shot,Jump Shot,-136,205,25,1,3.0,3.0,h
+S2223-G0231,4,08:56,NOP,,BOS,,H. Jones,NOP,MISS Jones 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,18,1,2,1,2.0,0.0,h
+S2223-G0231,4,07:01,NOP,87.0,BOS,98.0,H. Jones,NOP,Jones 2' Driving Layup (14 PTS) (Ingram 6 AST),Made Shot,Driving Layup Shot,20,-2,2,1,2.0,2.0,h
+S2223-G0231,4,06:46,NOP,,BOS,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0231,4,06:42,NOP,89.0,BOS,98.0,H. Jones,NOP,Jones 1' Running Dunk (16 PTS),Made Shot,Running Dunk Shot,2,-6,1,1,2.0,2.0,h
+S2223-G0231,4,03:02,NOP,,BOS,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0231,4,03:02,NOP,98.0,BOS,107.0,H. Jones,NOP,Jones Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0231,4,02:44,NOP,,BOS,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0231,4,00:28.600000,NOP,,BOS,,H. Jones,NOP,Jones P.FOUL (P3.PN) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2223-G0231,4,00:04.800000,NOP,,BOS,,H. Jones,NOP,Jones REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1135,1,09:34,GSW,,NOP,,H. Jones,NOP,MISS Jones 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,53,8,5,1,2.0,0.0,v
+S2223-G1135,1,07:31,GSW,13.0,NOP,14.0,H. Jones,NOP,Jones 3PT Jump Shot (3 PTS) (McCollum 1 AST),Made Shot,Jump Shot,-224,-6,0,1,3.0,3.0,v
+S2223-G1135,1,06:05,GSW,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1135,1,03:36,GSW,23.0,NOP,23.0,H. Jones,NOP,Jones 3PT Jump Shot (6 PTS) (Ingram 2 AST),Made Shot,Jump Shot,-230,48,0,1,3.0,3.0,v
+S2223-G1135,1,03:07,GSW,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1135,1,03:03,GSW,23.0,NOP,25.0,H. Jones,NOP,Jones 5' Running Layup (8 PTS),Made Shot,Running Layup Shot,-32,44,5,1,2.0,2.0,v
+S2223-G1135,1,02:44,GSW,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1135,1,01:00,GSW,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1135,2,05:02,GSW,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1135,2,05:00,GSW,,NOP,,H. Jones,NOP,MISS Jones Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1135,2,04:38,GSW,,NOP,,H. Jones,NOP,MISS Jones 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-26,277,28,1,3.0,0.0,v
+S2223-G1135,2,02:39,GSW,,NOP,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1135,2,02:08,GSW,,NOP,,H. Jones,NOP,MISS Jones 5' Driving Layup,Missed Shot,Driving Layup Shot,-37,32,5,1,2.0,0.0,v
+S2223-G1135,2,02:05,GSW,,NOP,,H. Jones,NOP,Jones REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1135,3,10:29,GSW,54.0,NOP,66.0,H. Jones,NOP,Jones 25' 3PT Jump Shot (11 PTS) (Ingram 4 AST),Made Shot,Jump Shot,-104,225,25,1,3.0,3.0,v
+S2223-G1135,3,10:14,GSW,,NOP,,H. Jones,NOP,Jones P.FOUL (P1.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2223-G1135,3,08:53,GSW,,NOP,,H. Jones,NOP,MISS Jones 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-27,16,3,1,2.0,0.0,v
+S2223-G1135,3,04:06,GSW,,NOP,,H. Jones,NOP,Jones P.FOUL (P2.PN) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2223-G1135,3,03:04,GSW,,NOP,,H. Jones,NOP,Jones REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1135,3,02:45,GSW,,NOP,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-225,16,0,1,3.0,0.0,v
+S2223-G1135,4,07:27,GSW,99.0,NOP,98.0,H. Jones,NOP,Jones 8' Running Layup (13 PTS) (Ingram 5 AST),Made Shot,Running Layup Shot,50,56,8,1,2.0,2.0,v
+S2223-G1135,4,07:09,GSW,,NOP,,H. Jones,NOP,Jones S.FOUL (P3.T2) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2223-G1135,4,02:26,GSW,,NOP,,H. Jones,NOP,Jones REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1135,4,01:01,GSW,,NOP,,H. Jones,NOP,SUB: Richardson FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0724,1,10:16,NOP,,MIN,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0724,1,09:28,NOP,,MIN,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,228,-1,0,1,3.0,0.0,h
+S2223-G0724,1,09:03,NOP,,MIN,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,223,1,0,1,3.0,0.0,h
+S2223-G0724,1,08:26,NOP,,MIN,,H. Jones,NOP,Jones S.FOUL (P1.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0724,1,07:48,NOP,,MIN,,H. Jones,NOP,Jones S.FOUL (P2.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0724,1,07:01,NOP,10.0,MIN,14.0,H. Jones,NOP,Jones 3' Driving Layup (2 PTS) (McCollum 2 AST),Made Shot,Driving Layup Shot,-10,29,3,1,2.0,2.0,h
+S2223-G0724,1,06:22,NOP,,MIN,,H. Jones,NOP,Jones REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0724,1,05:33,NOP,,MIN,,H. Jones,NOP,SUB: Graham FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0724,2,06:36,NOP,,MIN,,H. Jones,NOP,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0724,2,03:45,NOP,,MIN,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,227,55,0,1,3.0,0.0,h
+S2223-G0724,2,03:17,NOP,,MIN,,H. Jones,NOP,MISS Jones 3' Driving Layup,Missed Shot,Driving Layup Shot,-4,34,3,1,2.0,0.0,h
+S2223-G0724,2,03:14,NOP,,MIN,,H. Jones,NOP,Jones REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0724,2,03:13,NOP,50.0,MIN,41.0,H. Jones,NOP,Jones 7' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,7,67,7,1,2.0,2.0,h
+S2223-G0724,2,02:35,NOP,,MIN,,H. Jones,NOP,Jones S.FOUL (P3.T3) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0724,2,02:35,NOP,,MIN,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0724,3,11:07,NOP,,MIN,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,-195,155,25,1,3.0,0.0,h
+S2223-G0724,3,08:35,NOP,,MIN,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,195,157,25,1,3.0,0.0,h
+S2223-G0724,3,08:30,NOP,,MIN,,H. Jones,NOP,Jones Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0724,3,08:03,NOP,,MIN,,H. Jones,NOP,MISS Jones 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-10,4,1,1,2.0,0.0,h
+S2223-G0724,3,04:37,NOP,,MIN,,H. Jones,NOP,SUB: Nance Jr. FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0724,4,02:38,NOP,,MIN,,H. Jones,NOP,Jones Violation:Kicked Ball (N.Sago),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0724,4,00:44.400000,NOP,,MIN,,H. Jones,NOP,Jones REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1030,1,10:35,NOP,,LAL,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1030,1,09:52,NOP,,LAL,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,10,24,1,3.0,0.0,h
+S2223-G1030,1,08:25,NOP,,LAL,,H. Jones,NOP,Jones P.FOUL (P1.T2) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2223-G1030,1,07:56,NOP,,LAL,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,-141,209,25,1,3.0,0.0,h
+S2223-G1030,1,05:23,NOP,11.0,LAL,23.0,H. Jones,NOP,Jones 25' 3PT Jump Shot (3 PTS) (McCollum 1 AST),Made Shot,Jump Shot,-42,246,25,1,3.0,3.0,h
+S2223-G1030,1,02:40,NOP,16.0,LAL,29.0,H. Jones,NOP,Jones 5' Cutting Layup Shot (5 PTS) (McCollum 2 AST),Made Shot,Cutting Layup Shot,25,38,5,1,2.0,2.0,h
+S2223-G1030,1,02:40,NOP,17.0,LAL,29.0,H. Jones,NOP,Jones Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1030,1,01:30,NOP,,LAL,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1030,2,06:18,NOP,34.0,LAL,57.0,H. Jones,NOP,Jones 3PT Jump Shot (9 PTS) (Murphy III 1 AST),Made Shot,Jump Shot,-230,-17,0,1,3.0,3.0,h
+S2223-G1030,2,03:00,NOP,,LAL,,H. Jones,NOP,Jones S.FOUL (P2.T4) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G1030,2,02:37,NOP,,LAL,,H. Jones,NOP,MISS Jones 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,50,19,5,1,2.0,0.0,h
+S2223-G1030,2,01:56,NOP,,LAL,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,43,24,1,3.0,0.0,h
+S2223-G1030,2,01:51,NOP,,LAL,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1030,2,01:46,NOP,38.0,LAL,69.0,H. Jones,NOP,Jones Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1030,2,01:46,NOP,39.0,LAL,69.0,H. Jones,NOP,Jones Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1030,2,00:43.700000,NOP,,LAL,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,229,15,0,1,3.0,0.0,h
+S2223-G1030,2,00:10.700000,NOP,40.0,LAL,75.0,H. Jones,NOP,Jones Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1030,2,00:10.700000,NOP,,LAL,,H. Jones,NOP,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1030,3,09:17,NOP,,LAL,,H. Jones,NOP,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1030,3,08:53,NOP,,LAL,,H. Jones,NOP,Jones REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1030,3,08:53,NOP,,LAL,,H. Jones,NOP,MISS Jones 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,-38,18,4,1,2.0,0.0,h
+S2223-G1030,3,08:22,NOP,,LAL,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,39,24,1,3.0,0.0,h
+S2223-G1030,3,06:53,NOP,,LAL,,H. Jones,NOP,Jones Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1030,3,06:33,NOP,,LAL,,H. Jones,NOP,Jones REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1030,3,06:33,NOP,51.0,LAL,88.0,H. Jones,NOP,Jones Putback Layup (14 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1030,3,05:40,NOP,,LAL,,H. Jones,NOP,Jones REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1030,3,03:31,NOP,,LAL,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1030,3,03:27,NOP,66.0,LAL,95.0,H. Jones,NOP,Jones 1' Running Finger Roll Layup (16 PTS),Made Shot,Running Finger Roll Layup Shot,-11,2,1,1,2.0,2.0,h
+S2223-G1030,3,01:15,NOP,71.0,LAL,97.0,H. Jones,NOP,Jones 1' Cutting Layup Shot (18 PTS) (Ingram 6 AST),Made Shot,Cutting Layup Shot,-12,8,1,1,2.0,2.0,h
+S2223-G1030,3,01:15,NOP,,LAL,,H. Jones,NOP,MISS Jones Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1030,3,01:03,NOP,,LAL,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-65,249,26,1,3.0,0.0,h
+S2223-G1030,3,00:38,NOP,,LAL,,H. Jones,NOP,Jones T.FOUL (P2.T1) (M.Kogut),Foul,Technical,0,0,0,0,,,h
+S2223-G1030,3,00:00.700000,NOP,,LAL,,H. Jones,NOP,Jones REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1030,3,00:00.700000,NOP,75.0,LAL,98.0,H. Jones,NOP,Jones Putback Layup (20 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1030,4,04:54,NOP,,LAL,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1030,4,04:51,NOP,,LAL,,H. Jones,NOP,Jones Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1030,4,04:51,NOP,,LAL,,H. Jones,NOP,Jones L.B.FOUL (P3.PN) (M.Smith),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1030,4,04:17,NOP,,LAL,,H. Jones,NOP,Jones Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1030,4,03:29,NOP,,LAL,,H. Jones,NOP,Jones S.FOUL (P4.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G1030,4,02:25,NOP,,LAL,,H. Jones,NOP,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,-18,15,2,1,2.0,0.0,h
+S2223-G1030,4,01:34,NOP,,LAL,,H. Jones,NOP,SUB: Richardson FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1067,1,10:43,HOU,,NOP,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-232,13,0,1,3.0,0.0,v
+S2223-G1067,1,08:41,HOU,8.0,NOP,11.0,H. Jones,NOP,Jones 3PT Jump Shot (3 PTS) (Ingram 2 AST),Made Shot,Jump Shot,230,47,0,1,3.0,3.0,v
+S2223-G1067,1,07:16,HOU,,NOP,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,211,139,25,1,3.0,0.0,v
+S2223-G1067,1,07:04,HOU,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1067,1,06:08,HOU,,NOP,,H. Jones,NOP,Jones S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G1067,1,05:16,HOU,,NOP,,H. Jones,NOP,MISS Jones 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-49,21,5,1,2.0,0.0,v
+S2223-G1067,1,03:44,HOU,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1067,1,00:58.900000,HOU,,NOP,,H. Jones,NOP,Jones S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G1067,1,00:58.900000,HOU,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1067,2,04:43,HOU,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1067,2,03:39,HOU,40.0,NOP,56.0,H. Jones,NOP,Jones 24' 3PT Jump Shot (6 PTS) (Daniels 1 AST),Made Shot,Jump Shot,-234,47,24,1,3.0,3.0,v
+S2223-G1067,2,02:04,HOU,40.0,NOP,59.0,H. Jones,NOP,Jones 11' Running Jump Shot (8 PTS),Made Shot,Running Jump Shot,61,88,11,1,2.0,2.0,v
+S2223-G1067,2,02:04,HOU,40.0,NOP,60.0,H. Jones,NOP,Jones Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1067,3,09:35,HOU,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1067,3,09:32,HOU,52.0,NOP,71.0,H. Jones,NOP,Jones 1' Running Dunk (11 PTS),Made Shot,Running Dunk Shot,2,10,1,1,2.0,2.0,v
+S2223-G1067,3,08:39,HOU,,NOP,,H. Jones,NOP,Jones OFF.Foul (P3) (D.Richardson),Foul,Offensive,0,0,0,0,,,v
+S2223-G1067,3,08:39,HOU,,NOP,,H. Jones,NOP,Jones Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1067,3,03:44,HOU,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1067,3,03:28,HOU,,NOP,,H. Jones,NOP,Jones P.FOUL (P4.T4) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2223-G1067,3,03:28,HOU,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1067,4,00:40.600000,HOU,,NOP,,H. Jones,NOP,Jones Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1067,4,00:35.300000,HOU,107.0,NOP,115.0,H. Jones,NOP,Jones Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1067,4,00:35.300000,HOU,107.0,NOP,116.0,H. Jones,NOP,Jones Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0699,1,07:55,MIA,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0699,1,07:51,MIA,4.0,NOP,11.0,H. Jones,NOP,Jones 1' Running Reverse Layup (2 PTS) (Daniels 3 AST),Made Shot,Running Reverse Layup Shot,9,9,1,1,2.0,2.0,v
+S2223-G0699,1,05:59,MIA,,NOP,,H. Jones,NOP,SUB: Hayes FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0699,2,05:36,MIA,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0699,2,03:57,MIA,,NOP,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0699,2,01:24,MIA,,NOP,,H. Jones,NOP,Jones Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0699,2,00:21.200000,MIA,,NOP,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0699,3,07:58,MIA,50.0,NOP,54.0,H. Jones,NOP,Jones 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-32,15,4,1,2.0,2.0,v
+S2223-G0699,3,07:23,MIA,,NOP,,H. Jones,NOP,Jones Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0699,3,07:12,MIA,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0699,3,07:12,MIA,,NOP,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0699,3,07:12,MIA,53.0,NOP,55.0,H. Jones,NOP,Jones Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0699,3,06:12,MIA,,NOP,,H. Jones,NOP,Jones S.FOUL (P1.T3) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0699,3,06:12,MIA,,NOP,,H. Jones,NOP,SUB: Graham FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0699,4,10:39,MIA,73.0,NOP,74.0,H. Jones,NOP,Jones 2' Cutting Finger Roll Layup Shot (7 PTS) (Valanciunas 1 AST),Made Shot,Cutting Finger Roll Layup Shot,17,15,2,1,2.0,2.0,v
+S2223-G0699,4,10:18,MIA,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0699,4,08:51,MIA,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0699,4,07:47,MIA,76.0,NOP,77.0,H. Jones,NOP,Jones Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0699,4,07:47,MIA,76.0,NOP,78.0,H. Jones,NOP,Jones Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0699,4,06:58,MIA,,NOP,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0699,4,04:08,MIA,,NOP,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P3.T22),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0699,4,02:44,MIA,91.0,NOP,88.0,H. Jones,NOP,Jones 1' Driving Layup (11 PTS) (Nance Jr. 4 AST),Made Shot,Driving Layup Shot,6,6,1,1,2.0,2.0,v
+S2223-G0699,4,00:00,MIA,,NOP,,H. Jones,NOP,MISS Jones 28' 3PT Jump Shot,Missed Shot,Jump Shot,-113,256,28,1,3.0,0.0,v
+S2223-G0477,1,10:59,NOP,,SAS,,H. Jones,NOP,MISS Jones 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,15,74,8,1,2.0,0.0,h
+S2223-G0477,1,10:04,NOP,,SAS,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0477,1,06:41,NOP,,SAS,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0477,1,03:56,NOP,,SAS,,H. Jones,NOP,SUB: Alvarado FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0477,2,06:51,NOP,,SAS,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0477,2,06:47,NOP,,SAS,,H. Jones,NOP,Jones Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0477,2,05:46,NOP,46.0,SAS,29.0,H. Jones,NOP,Jones 25' 3PT Jump Shot (3 PTS) (McCollum 4 AST),Made Shot,Jump Shot,212,130,25,1,3.0,3.0,h
+S2223-G0477,2,03:04,NOP,,SAS,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0477,2,02:03,NOP,,SAS,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0477,2,01:52,NOP,60.0,SAS,42.0,H. Jones,NOP,Jones 1' Cutting Dunk Shot (5 PTS) (Valanciunas 1 AST),Made Shot,Cutting Dunk Shot,2,7,1,1,2.0,2.0,h
+S2223-G0477,2,01:18,NOP,63.0,SAS,44.0,H. Jones,NOP,Jones 3PT Jump Shot (8 PTS) (McCollum 6 AST),Made Shot,Jump Shot,230,13,0,1,3.0,3.0,h
+S2223-G0477,2,01:02,NOP,,SAS,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0477,2,01:00,NOP,65.0,SAS,44.0,H. Jones,NOP,Jones 2' Running Dunk (10 PTS),Made Shot,Running Dunk Shot,0,15,2,1,2.0,2.0,h
+S2223-G0477,2,00:22.200000,NOP,,SAS,,H. Jones,NOP,Jones S.FOUL (P1.PN) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2223-G0477,3,10:35,NOP,,SAS,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-151,209,26,1,3.0,0.0,h
+S2223-G0477,3,10:03,NOP,,SAS,,H. Jones,NOP,Jones P.FOUL (P2.T1) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2223-G0477,3,09:36,NOP,,SAS,,H. Jones,NOP,MISS Jones 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,231,23,1,2.0,0.0,h
+S2223-G0477,3,04:02,NOP,,SAS,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0477,3,03:19,NOP,,SAS,,H. Jones,NOP,SUB: Alvarado FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0477,4,05:58,NOP,,SAS,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-241,27,24,1,3.0,0.0,h
+S2223-G0477,4,04:42,NOP,113.0,SAS,104.0,H. Jones,NOP,Jones Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0477,4,04:42,NOP,114.0,SAS,104.0,H. Jones,NOP,Jones Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0477,4,01:59,NOP,,SAS,,H. Jones,NOP,SUB: Hayes FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0318,1,11:34,NOP,,TOR,,H. Jones,NOP,Jones Backcourt Turnover (P1.T1),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2223-G0318,1,10:44,NOP,3.0,TOR,4.0,H. Jones,NOP,Jones 27' 3PT Jump Shot (3 PTS) (Williamson 1 AST),Made Shot,Jump Shot,167,210,27,1,3.0,3.0,h
+S2223-G0318,1,10:12,NOP,,TOR,,H. Jones,NOP,MISS Jones 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,67,59,9,1,2.0,0.0,h
+S2223-G0318,1,09:19,NOP,,TOR,,H. Jones,NOP,Jones Violation:Kicked Ball (K.Cutler),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0318,1,06:04,NOP,,TOR,,H. Jones,NOP,Jones L.B.FOUL (P1.T2) (K.Cutler),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0318,1,05:41,NOP,,TOR,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0318,1,05:36,NOP,18.0,TOR,17.0,H. Jones,NOP,Jones 3' Running Layup (5 PTS),Made Shot,Running Layup Shot,-15,21,3,1,2.0,2.0,h
+S2223-G0318,1,04:46,NOP,23.0,TOR,17.0,H. Jones,NOP,Jones 2' Driving Reverse Layup (7 PTS) (Murphy III 1 AST),Made Shot,Driving Reverse Layup Shot,18,4,2,1,2.0,2.0,h
+S2223-G0318,1,03:42,NOP,,TOR,,H. Jones,NOP,SUB: Nance Jr. FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0318,2,07:39,NOP,52.0,TOR,37.0,H. Jones,NOP,Jones 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,229,-1,0,1,3.0,3.0,h
+S2223-G0318,2,06:59,NOP,,TOR,,H. Jones,NOP,MISS Jones 1' Driving Layup,Missed Shot,Driving Layup Shot,12,5,1,1,2.0,0.0,h
+S2223-G0318,2,05:26,NOP,,TOR,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,131,221,26,1,3.0,0.0,h
+S2223-G0318,2,05:05,NOP,,TOR,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0318,2,03:51,NOP,,TOR,,H. Jones,NOP,Jones Traveling Turnover (P2.T7),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0318,2,01:39,NOP,66.0,TOR,47.0,H. Jones,NOP,Jones Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0318,2,01:39,NOP,67.0,TOR,47.0,H. Jones,NOP,Jones Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0318,3,08:37,NOP,,TOR,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-232,111,26,1,3.0,0.0,h
+S2223-G0318,3,08:26,NOP,,TOR,,H. Jones,NOP,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0318,3,08:06,NOP,,TOR,,H. Jones,NOP,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0318,3,08:06,NOP,,TOR,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,-230,109,25,1,3.0,0.0,h
+S2223-G0318,3,07:52,NOP,,TOR,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0768,1,10:38,DEN,2.0,NOP,5.0,H. Jones,NOP,Jones 25' 3PT Jump Shot (3 PTS) (Ingram 1 AST),Made Shot,Jump Shot,-223,115,25,1,3.0,3.0,v
+S2223-G0768,1,06:20,DEN,,NOP,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0768,1,05:35,DEN,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0768,1,03:33,DEN,,NOP,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0768,1,03:30,DEN,25.0,NOP,24.0,H. Jones,NOP,Jones 1' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,-5,8,1,1,2.0,2.0,v
+S2223-G0768,1,02:24,DEN,27.0,NOP,27.0,H. Jones,NOP,Jones 24' 3PT Jump Shot (8 PTS) (McCollum 2 AST),Made Shot,Jump Shot,-229,65,24,1,3.0,3.0,v
+S2223-G0768,1,01:39,DEN,,NOP,,H. Jones,NOP,SUB: Nance Jr. FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0768,2,06:21,DEN,,NOP,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0768,2,05:33,DEN,39.0,NOP,49.0,H. Jones,NOP,Jones 11' Driving Floating Bank Jump Shot (10 PTS) (Marshall 1 AST),Made Shot,Driving Floating Bank Jump Shot,-87,60,11,1,2.0,2.0,v
+S2223-G0768,2,05:20,DEN,,NOP,,H. Jones,NOP,Jones Violation:Kicked Ball (J.Tiven),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0768,2,05:09,DEN,39.0,NOP,50.0,H. Jones,NOP,Jones Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0768,2,05:09,DEN,39.0,NOP,51.0,H. Jones,NOP,Jones Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0768,2,01:18,DEN,,NOP,,H. Jones,NOP,Jones STEAL (4 STL),,,0,0,0,0,,,v
+S2223-G0768,2,00:21.900000,DEN,,NOP,,H. Jones,NOP,Jones S.FOUL (P1.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0768,3,11:21,DEN,,NOP,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-162,201,26,1,3.0,0.0,v
+S2223-G0768,3,10:30,DEN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0768,3,05:32,DEN,,NOP,,H. Jones,NOP,Jones Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0768,3,05:14,DEN,78.0,NOP,70.0,H. Jones,NOP,Jones Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0768,3,05:14,DEN,78.0,NOP,71.0,H. Jones,NOP,Jones Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0768,3,04:58,DEN,78.0,NOP,72.0,H. Jones,NOP,Jones Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0768,3,04:58,DEN,78.0,NOP,73.0,H. Jones,NOP,Jones Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0768,3,04:26,DEN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0768,3,04:19,DEN,,NOP,,H. Jones,NOP,Jones STEAL (5 STL),,,0,0,0,0,,,v
+S2223-G0768,3,03:19,DEN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0768,3,01:30,DEN,90.0,NOP,82.0,H. Jones,NOP,Jones Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0768,3,01:30,DEN,,NOP,,H. Jones,NOP,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0768,3,00:28.200000,DEN,,NOP,,H. Jones,NOP,Jones L.B.FOUL (P2.PN) (J.Tiven),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0768,3,00:28.200000,DEN,,NOP,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0768,4,04:53,DEN,108.0,NOP,102.0,H. Jones,NOP,Jones 1' Driving Dunk (19 PTS) (Ingram 7 AST),Made Shot,Driving Dunk Shot,-4,6,1,1,2.0,2.0,v
+S2223-G0768,4,03:49,DEN,,NOP,,H. Jones,NOP,Jones S.FOUL (P3.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0768,4,02:47,DEN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0768,4,01:04,DEN,,NOP,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,16,24,1,3.0,0.0,v
+S2223-G0768,4,00:52.600000,DEN,118.0,NOP,113.0,H. Jones,NOP,Jones 2' Driving Finger Roll Layup (21 PTS) (Ingram 9 AST),Made Shot,Driving Finger Roll Layup Shot,-16,11,2,1,2.0,2.0,v
+S2223-G0768,4,00:49.800000,DEN,,NOP,,H. Jones,NOP,Jones P.FOUL (P4.PN) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2223-G0953,1,08:43,GSW,4.0,NOP,11.0,H. Jones,NOP,Jones 2' Reverse Layup (2 PTS) (Ingram 1 AST),Made Shot,Reverse Layup Shot,-22,8,2,1,2.0,2.0,v
+S2223-G0953,1,07:07,GSW,6.0,NOP,15.0,H. Jones,NOP,Jones 4' Cutting Layup Shot (4 PTS),Made Shot,Cutting Layup Shot,-33,13,4,1,2.0,2.0,v
+S2223-G0953,1,03:59,GSW,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0953,2,08:16,GSW,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0953,2,03:32,GSW,,NOP,,H. Jones,NOP,Jones P.FOUL (P1.T4) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2223-G0953,2,03:01,GSW,,NOP,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0953,2,02:46,GSW,,NOP,,H. Jones,NOP,Jones P.FOUL (P2.PN) (M.Myers),Foul,Personal,0,0,0,0,,,v
+S2223-G0953,2,00:21.400000,GSW,54.0,NOP,57.0,H. Jones,NOP,Jones 4' Cutting Layup Shot (6 PTS) (Ingram 4 AST),Made Shot,Cutting Layup Shot,20,34,4,1,2.0,2.0,v
+S2223-G0953,3,11:40,GSW,,NOP,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0953,3,11:08,GSW,,NOP,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-228,24,0,1,3.0,0.0,v
+S2223-G0953,3,08:52,GSW,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0953,3,06:53,GSW,,NOP,,H. Jones,NOP,MISS Jones 2' Layup,Missed Shot,Layup Shot,-17,15,2,1,2.0,0.0,v
+S2223-G0953,3,04:23,GSW,,NOP,,H. Jones,NOP,SUB: Lewis Jr. FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0953,4,09:49,GSW,,NOP,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0953,4,09:39,GSW,,NOP,,H. Jones,NOP,Jones Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0953,4,08:28,GSW,,NOP,,H. Jones,NOP,Jones STEAL (4 STL),,,0,0,0,0,,,v
+S2223-G0953,4,08:14,GSW,,NOP,,H. Jones,NOP,Jones S.FOUL (P3.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0953,4,07:06,GSW,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0953,4,05:36,GSW,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0953,4,03:27,GSW,,NOP,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0953,4,03:27,GSW,95.0,NOP,94.0,H. Jones,NOP,Jones Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0953,4,01:17,GSW,,NOP,,H. Jones,NOP,Jones Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0683,1,10:07,ORL,0.0,NOP,4.0,H. Jones,NOP,Jones 2' Cutting Dunk Shot (2 PTS) (McCollum 1 AST),Made Shot,Cutting Dunk Shot,-10,17,2,1,2.0,2.0,v
+S2223-G0683,1,07:17,ORL,,NOP,,H. Jones,NOP,Jones P.FOUL (P1.T1) (M.Dagher),Foul,Personal,0,0,0,0,,,v
+S2223-G0683,1,07:17,ORL,,NOP,,H. Jones,NOP,SUB: Nance Jr. FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0683,2,06:49,ORL,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0683,2,05:28,ORL,,NOP,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0683,2,05:20,ORL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0683,2,05:20,ORL,46.0,NOP,48.0,H. Jones,NOP,Jones Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0683,2,05:20,ORL,,NOP,,H. Jones,NOP,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0683,2,03:41,ORL,,NOP,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0683,2,03:07,ORL,,NOP,,H. Jones,NOP,Jones S.FOUL (P2.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0683,2,01:45,ORL,49.0,NOP,57.0,H. Jones,NOP,Jones 2' Layup (5 PTS) (Nance Jr. 2 AST),Made Shot,Layup Shot,-5,21,2,1,2.0,2.0,v
+S2223-G0683,2,00:39.400000,ORL,52.0,NOP,60.0,H. Jones,NOP,Jones 25' 3PT Jump Shot (8 PTS) (Daniels 5 AST),Made Shot,Jump Shot,240,74,25,1,3.0,3.0,v
+S2223-G0683,2,00:01.800000,ORL,,NOP,,H. Jones,NOP,Jones S.FOUL (P3.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0683,3,09:48,ORL,,NOP,,H. Jones,NOP,Jones S.FOUL (P4.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0683,3,09:48,ORL,,NOP,,H. Jones,NOP,SUB: Alvarado FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0683,4,10:39,ORL,,NOP,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0683,4,10:39,ORL,,NOP,,H. Jones,NOP,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0683,4,10:00,ORL,92.0,NOP,93.0,H. Jones,NOP,Jones 7' Driving Floating Jump Shot (10 PTS) (Graham 1 AST),Made Shot,Driving Floating Jump Shot,4,69,7,1,2.0,2.0,v
+S2223-G0683,4,09:17,ORL,,NOP,,H. Jones,NOP,Jones S.FOUL (P5.T2) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0683,4,09:17,ORL,,NOP,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0683,4,04:47,ORL,,NOP,,H. Jones,NOP,MISS Jones 23' Jump Shot,Missed Shot,Jump Shot,142,183,23,1,2.0,0.0,v
+S2223-G0683,4,04:28,ORL,,NOP,,H. Jones,NOP,Jones S.FOUL (P6.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0683,4,04:28,ORL,,NOP,,H. Jones,NOP,SUB: Alvarado FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0457,1,10:36,NOP,,MIL,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,-199,146,25,1,3.0,0.0,h
+S2223-G0457,1,10:06,NOP,,MIL,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0457,1,09:59,NOP,,MIL,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,151,194,25,1,3.0,0.0,h
+S2223-G0457,1,08:42,NOP,,MIL,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0457,1,08:21,NOP,,MIL,,H. Jones,NOP,Jones S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0457,1,08:12,NOP,,MIL,,H. Jones,NOP,Jones OFF.Foul (P2) (T.Brothers),Foul,Offensive,0,0,0,0,,,h
+S2223-G0457,1,08:12,NOP,,MIL,,H. Jones,NOP,Jones Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0457,1,08:12,NOP,,MIL,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0457,2,09:20,NOP,,MIL,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0457,2,08:54,NOP,34.0,MIL,40.0,H. Jones,NOP,Jones 25' 3PT Jump Shot (3 PTS) (Valanciunas 1 AST),Made Shot,Jump Shot,134,215,25,1,3.0,3.0,h
+S2223-G0457,2,06:01,NOP,,MIL,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-223,57,0,1,3.0,0.0,h
+S2223-G0457,2,04:15,NOP,,MIL,,H. Jones,NOP,MISS Jones 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,43,79,9,1,2.0,0.0,h
+S2223-G0457,2,03:40,NOP,,MIL,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0457,2,03:30,NOP,52.0,MIL,54.0,H. Jones,NOP,Jones 4' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,-34,24,4,1,2.0,2.0,h
+S2223-G0457,2,02:34,NOP,,MIL,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0457,3,11:45,NOP,64.0,MIL,66.0,H. Jones,NOP,Jones 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-121,233,26,1,3.0,3.0,h
+S2223-G0457,3,10:14,NOP,,MIL,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,208,120,24,1,3.0,0.0,h
+S2223-G0457,3,09:16,NOP,,MIL,,H. Jones,NOP,Jones STEAL (4 STL),,,0,0,0,0,,,h
+S2223-G0457,3,08:18,NOP,,MIL,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0457,3,08:18,NOP,73.0,MIL,79.0,H. Jones,NOP,Jones Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0457,3,07:20,NOP,,MIL,,H. Jones,NOP,Jones S.FOUL (P3.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0457,3,06:42,NOP,,MIL,,H. Jones,NOP,Jump Ball Jones vs. G. Antetokounmpo: Tip to Ingles,Jump Ball,,0,0,0,0,,,h
+S2223-G0457,3,04:41,NOP,,MIL,,H. Jones,NOP,MISS Jones 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,22,10,2,1,2.0,0.0,h
+S2223-G0457,3,03:57,NOP,,MIL,,H. Jones,NOP,SUB: Hernangomez FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0457,4,10:10,NOP,,MIL,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0457,4,07:07,NOP,,MIL,,H. Jones,NOP,Jones STEAL (5 STL),,,0,0,0,0,,,h
+S2223-G0457,4,07:07,NOP,,MIL,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P2.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0457,4,06:36,NOP,,MIL,,H. Jones,NOP,Jones S.FOUL (P4.T4) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0457,4,04:30,NOP,,MIL,,H. Jones,NOP,Jones P.FOUL (P5.PN) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2223-G0457,4,03:59,NOP,,MIL,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-230,50,24,1,3.0,0.0,h
+S2223-G0457,4,01:39,NOP,,MIL,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-232,23,0,1,3.0,0.0,h
+S2223-G0586,1,11:43,NOP,,BKN,,H. Jones,NOP,Jones S.FOUL (P1.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0586,1,07:16,NOP,10.0,BKN,6.0,H. Jones,NOP,Jones 26' 3PT Jump Shot (3 PTS) (McCollum 1 AST),Made Shot,Jump Shot,-119,232,26,1,3.0,3.0,h
+S2223-G0586,1,06:42,NOP,,BKN,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0586,1,03:54,NOP,,BKN,,H. Jones,NOP,SUB: Nance Jr. FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0586,2,04:36,NOP,,BKN,,H. Jones,NOP,MISS Jones 8' Running Layup,Missed Shot,Running Layup Shot,-45,67,8,1,2.0,0.0,h
+S2223-G0586,2,04:10,NOP,,BKN,,H. Jones,NOP,Jones P.FOUL (P2.PN) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G0586,2,01:40,NOP,,BKN,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0586,3,11:39,NOP,,BKN,,H. Jones,NOP,MISS Jones 22' Jump Shot,Missed Shot,Jump Shot,-77,210,22,1,2.0,0.0,h
+S2223-G0586,3,09:32,NOP,,BKN,,H. Jones,NOP,MISS Jones 9' Driving Layup,Missed Shot,Driving Layup Shot,-27,84,9,1,2.0,0.0,h
+S2223-G0586,3,06:58,NOP,,BKN,,H. Jones,NOP,Jones P.FOUL (P3.T2) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G0586,3,04:45,NOP,,BKN,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0586,4,05:37,NOP,,BKN,,H. Jones,NOP,MISS Jones 9' Driving Layup,Missed Shot,Driving Layup Shot,-6,88,9,1,2.0,0.0,h
+S2223-G0586,4,04:49,NOP,,BKN,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-219,3,0,1,3.0,0.0,h
+S2223-G0586,4,02:48,NOP,,BKN,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0586,4,02:09,NOP,,BKN,,H. Jones,NOP,Jones L.B.FOUL (P4.T2) (T.Ford),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0586,4,02:09,NOP,,BKN,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0586,4,01:20,NOP,,BKN,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0586,4,01:06,NOP,100.0,BKN,103.0,H. Jones,NOP,Jones 5' Reverse Layup (5 PTS) (McCollum 6 AST),Made Shot,Reverse Layup Shot,21,41,5,1,2.0,2.0,h
+S2223-G0586,4,00:14.600000,NOP,,BKN,,H. Jones,NOP,Jones L.B.FOUL (P5.T3) (T.Ford),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0586,4,00:12.800000,NOP,,BKN,,H. Jones,NOP,Jones P.FOUL (P6.PN) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2223-G0586,4,00:12.800000,NOP,,BKN,,H. Jones,NOP,SUB: Valanciunas FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1051,1,08:57,HOU,,NOP,,H. Jones,NOP,Jones P.FOUL (P1.T1) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2223-G1051,1,08:39,HOU,5.0,NOP,10.0,H. Jones,NOP,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1051,1,08:39,HOU,5.0,NOP,11.0,H. Jones,NOP,Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1051,1,07:06,HOU,,NOP,,H. Jones,NOP,Jones P.FOUL (P2.T2) (D.Mosher),Foul,Personal,0,0,0,0,,,v
+S2223-G1051,1,07:06,HOU,,NOP,,H. Jones,NOP,SUB: Richardson FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1051,2,04:51,HOU,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1051,2,04:47,HOU,45.0,NOP,46.0,H. Jones,NOP,Jones 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,-26,23,3,1,2.0,2.0,v
+S2223-G1051,2,04:29,HOU,,NOP,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1051,2,03:34,HOU,,NOP,,H. Jones,NOP,Jones P.FOUL (P3.T3) (D.Mosher),Foul,Personal,0,0,0,0,,,v
+S2223-G1051,2,03:34,HOU,,NOP,,H. Jones,NOP,SUB: Richardson FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1051,3,09:39,HOU,51.0,NOP,61.0,H. Jones,NOP,Jones 4' Running Alley Oop Layup Shot (6 PTS) (Ingram 2 AST),Made Shot,Running Alley Oop Layup Shot,38,24,4,1,2.0,2.0,v
+S2223-G1051,3,06:45,HOU,,NOP,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G1051,3,02:13,HOU,73.0,NOP,89.0,H. Jones,NOP,Jones 2' Running Dunk (8 PTS) (Marshall 1 AST),Made Shot,Running Dunk Shot,-16,9,2,1,2.0,2.0,v
+S2223-G1051,3,00:51.300000,HOU,,NOP,,H. Jones,NOP,Jones STEAL (4 STL),,,0,0,0,0,,,v
+S2223-G1051,3,00:47.800000,HOU,76.0,NOP,90.0,H. Jones,NOP,Jones Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1051,3,00:47.800000,HOU,,NOP,,H. Jones,NOP,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1051,4,06:33,HOU,,NOP,,H. Jones,NOP,Jones S.FOUL (P4.T3) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G1051,4,04:53,HOU,,NOP,,H. Jones,NOP,Jones P.FOUL (P5.PN) (T.Washington),Foul,Personal,0,0,0,0,,,v
+S2223-G1051,4,04:10,HOU,,NOP,,H. Jones,NOP,MISS Jones 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-34,6,3,1,2.0,0.0,v
+S2223-G1051,4,00:15.300000,HOU,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0882,1,08:46,LAL,12.0,NOP,4.0,H. Jones,NOP,Jones 1' Driving Dunk (2 PTS) (McCollum 2 AST),Made Shot,Driving Dunk Shot,7,11,1,1,2.0,2.0,v
+S2223-G0882,1,06:00,LAL,,NOP,,H. Jones,NOP,Jones Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0882,1,05:20,LAL,,NOP,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-176,189,26,1,3.0,0.0,v
+S2223-G0882,1,04:50,LAL,,NOP,,H. Jones,NOP,SUB: Alvarado FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0882,2,07:35,LAL,,NOP,,H. Jones,NOP,MISS Jones 23' Jump Shot,Missed Shot,Jump Shot,-45,222,23,1,2.0,0.0,v
+S2223-G0882,2,07:23,LAL,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0882,2,05:37,LAL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0882,2,03:45,LAL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0882,2,03:44,LAL,,NOP,,H. Jones,NOP,MISS Jones 5' Putback Layup,Missed Shot,Putback Layup Shot,-33,37,5,1,2.0,0.0,v
+S2223-G0882,2,03:43,LAL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0882,2,03:43,LAL,53.0,NOP,44.0,H. Jones,NOP,Jones 2' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,6,15,2,1,2.0,2.0,v
+S2223-G0882,2,02:44,LAL,53.0,NOP,47.0,H. Jones,NOP,Jones 3' Driving Dunk (6 PTS),Made Shot,Driving Dunk Shot,9,27,3,1,2.0,2.0,v
+S2223-G0882,2,01:15,LAL,,NOP,,H. Jones,NOP,MISS Jones 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-232,-10,0,1,3.0,0.0,v
+S2223-G0882,3,11:18,LAL,,NOP,,H. Jones,NOP,Jones S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0882,3,05:27,LAL,,NOP,,H. Jones,NOP,SUB: Hernangomez FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0882,4,08:43,LAL,98.0,NOP,84.0,H. Jones,NOP,Jones 4' Pullup Jump Shot (8 PTS) (Valanciunas 2 AST),Made Shot,Pullup Jump shot,-23,36,4,1,2.0,2.0,v
+S2223-G0882,4,06:58,LAL,104.0,NOP,87.0,H. Jones,NOP,Jones 3PT Jump Shot (11 PTS) (McCollum 9 AST),Made Shot,Jump Shot,-224,21,0,1,3.0,3.0,v
+S2223-G0882,4,03:51,LAL,,NOP,,H. Jones,NOP,SUB: Hernangomez FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0206,1,11:47,NOP,,MEM,,H. Jones,NOP,Jones S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G0206,1,11:22,NOP,2.0,MEM,0.0,H. Jones,NOP,Jones 2' Driving Finger Roll Layup (2 PTS) (McCollum 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,20,2,1,2.0,2.0,h
+S2223-G0206,1,11:02,NOP,5.0,MEM,2.0,H. Jones,NOP,Jones 27' 3PT Pullup Jump Shot (5 PTS) (Valanciunas 1 AST),Made Shot,Pullup Jump shot,188,189,27,1,3.0,3.0,h
+S2223-G0206,1,09:18,NOP,,MEM,,H. Jones,NOP,MISS Jones 23' Jump Shot,Missed Shot,Jump Shot,-110,199,23,1,2.0,0.0,h
+S2223-G0206,1,08:39,NOP,,MEM,,H. Jones,NOP,Jones S.FOUL (P2.T4) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G0206,1,08:39,NOP,,MEM,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0206,2,09:01,NOP,41.0,MEM,37.0,H. Jones,NOP,Jones 7' Cutting Layup Shot (7 PTS) (Alvarado 1 AST),Made Shot,Cutting Layup Shot,-37,63,7,1,2.0,2.0,h
+S2223-G0206,2,09:01,NOP,,MEM,,H. Jones,NOP,MISS Jones Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0206,2,07:43,NOP,,MEM,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0206,2,04:31,NOP,,MEM,,H. Jones,NOP,Jones S.FOUL (P3.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G0206,2,04:31,NOP,,MEM,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0206,3,09:26,NOP,,MEM,,H. Jones,NOP,MISS Jones 27' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,-146,227,27,1,3.0,0.0,h
+S2223-G0206,3,07:19,NOP,,MEM,,H. Jones,NOP,Jones L.B.FOUL (P4.T2) (B.Taylor),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0206,3,07:19,NOP,,MEM,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0206,4,07:57,NOP,103.0,MEM,91.0,H. Jones,NOP,Jones 26' 3PT Jump Shot (10 PTS) (McCollum 8 AST),Made Shot,Jump Shot,110,237,26,1,3.0,3.0,h
+S2223-G0206,4,03:52,NOP,,MEM,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0206,4,01:54,NOP,,MEM,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0206,4,01:53,NOP,,MEM,,H. Jones,NOP,MISS Jones 4' Layup,Missed Shot,Layup Shot,-27,29,4,1,2.0,0.0,h
+S2223-G0206,4,00:10.400000,NOP,,MEM,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0842,1,09:32,NOP,,CLE,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0842,1,06:06,NOP,14.0,CLE,20.0,H. Jones,NOP,Jones 4' Cutting Dunk Shot (2 PTS) (Ingram 3 AST),Made Shot,Cutting Dunk Shot,-20,33,4,1,2.0,2.0,h
+S2223-G0842,1,05:48,NOP,,CLE,,H. Jones,NOP,Jones S.FOUL (P1.T3) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0842,1,05:14,NOP,,CLE,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,12,24,1,3.0,0.0,h
+S2223-G0842,1,05:02,NOP,,CLE,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0842,1,04:22,NOP,,CLE,,H. Jones,NOP,Jones P.FOUL (P2.T4) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2223-G0842,1,04:22,NOP,,CLE,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0842,2,08:56,NOP,31.0,CLE,49.0,H. Jones,NOP,Jones 4' Driving Dunk (4 PTS) (McCollum 2 AST),Made Shot,Driving Dunk Shot,21,37,4,1,2.0,2.0,h
+S2223-G0842,2,08:43,NOP,,CLE,,H. Jones,NOP,Jones P.FOUL (P3.T1) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0842,2,08:43,NOP,,CLE,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0842,3,10:27,NOP,,CLE,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0842,3,07:54,NOP,,CLE,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0842,3,07:39,NOP,66.0,CLE,80.0,H. Jones,NOP,Jones 26' 3PT Jump Shot (7 PTS) (Ingram 7 AST),Made Shot,Jump Shot,172,194,26,1,3.0,3.0,h
+S2223-G0842,3,04:08,NOP,,CLE,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0842,3,01:06,NOP,77.0,CLE,101.0,H. Jones,NOP,Jones Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0842,3,01:06,NOP,78.0,CLE,101.0,H. Jones,NOP,Jones Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0842,3,00:31.200000,NOP,,CLE,,H. Jones,NOP,MISS Jones 6' Layup,Missed Shot,Layup Shot,-47,31,6,1,2.0,0.0,h
+S2223-G0842,4,10:36,NOP,89.0,CLE,103.0,H. Jones,NOP,Jones 4' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,20,30,4,1,2.0,2.0,h
+S2223-G0842,4,06:30,NOP,,CLE,,H. Jones,NOP,MISS Jones 4' Driving Layup,Missed Shot,Driving Layup Shot,-18,31,4,1,2.0,0.0,h
+S2223-G0842,4,05:20,NOP,,CLE,,H. Jones,NOP,MISS Jones 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,5,40,4,1,2.0,0.0,h
+S2223-G0842,4,04:02,NOP,,CLE,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0842,4,03:13,NOP,,CLE,,H. Jones,NOP,SUB: Alvarado FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0747,1,10:48,NOP,4.0,WAS,0.0,H. Jones,NOP,Jones 3' Running Layup (2 PTS) (Ingram 1 AST),Made Shot,Running Layup Shot,-16,26,3,1,2.0,2.0,h
+S2223-G0747,1,08:58,NOP,,WAS,,H. Jones,NOP,Jones S.FOUL (P1.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0747,1,04:54,NOP,,WAS,,H. Jones,NOP,SUB: Hernangomez FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0747,2,07:10,NOP,,WAS,,H. Jones,NOP,Jones P.FOUL (P2.T3) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0747,2,03:30,NOP,47.0,WAS,53.0,H. Jones,NOP,Jones Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0747,2,03:30,NOP,48.0,WAS,53.0,H. Jones,NOP,Jones Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0747,2,01:10,NOP,,WAS,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0747,3,06:05,NOP,66.0,WAS,74.0,H. Jones,NOP,Jones 5' Cutting Layup Shot (6 PTS) (Ingram 3 AST),Made Shot,Cutting Layup Shot,-12,52,5,1,2.0,2.0,h
+S2223-G0747,3,05:23,NOP,,WAS,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0747,3,04:56,NOP,,WAS,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0747,3,03:57,NOP,,WAS,,H. Jones,NOP,MISS Jones 5' Driving Layup,Missed Shot,Driving Layup Shot,-13,49,5,1,2.0,0.0,h
+S2223-G0747,3,02:47,NOP,,WAS,,H. Jones,NOP,Jones L.B.FOUL (P3.T3) (C.Washington),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0747,3,02:47,NOP,,WAS,,H. Jones,NOP,SUB: Alvarado FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0747,4,06:44,NOP,,WAS,,H. Jones,NOP,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0747,4,06:06,NOP,90.0,WAS,96.0,H. Jones,NOP,Jones 2' Running Dunk (8 PTS) (Alvarado 4 AST),Made Shot,Running Dunk Shot,12,17,2,1,2.0,2.0,h
+S2223-G0747,4,05:48,NOP,,WAS,,H. Jones,NOP,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0747,4,03:10,NOP,,WAS,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-138,220,26,1,3.0,0.0,h
+S2223-G0747,4,02:07,NOP,,WAS,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0593,1,10:34,DAL,,NOP,,H. Jones,NOP,MISS Jones 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-13,101,10,1,2.0,0.0,v
+S2223-G0593,1,09:10,DAL,,NOP,,H. Jones,NOP,Jones S.FOUL (P1.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0593,1,06:58,DAL,,NOP,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-50,254,26,1,3.0,0.0,v
+S2223-G0593,1,03:17,DAL,,NOP,,H. Jones,NOP,Jones S.FOUL (P2.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0593,1,03:17,DAL,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0593,2,07:47,DAL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0593,2,03:57,DAL,,NOP,,H. Jones,NOP,Jones OFF.Foul (P3) (M.Kogut),Foul,Offensive,0,0,0,0,,,v
+S2223-G0593,2,03:57,DAL,,NOP,,H. Jones,NOP,Jones Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0593,2,03:57,DAL,,NOP,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0593,3,10:38,DAL,,NOP,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,-221,124,25,1,3.0,0.0,v
+S2223-G0593,3,10:04,DAL,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0593,3,06:59,DAL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0593,3,05:16,DAL,78.0,NOP,67.0,H. Jones,NOP,Jones 2' Running Layup (2 PTS) (Alvarado 4 AST),Made Shot,Running Layup Shot,6,20,2,1,2.0,2.0,v
+S2223-G0593,3,04:24,DAL,82.0,NOP,69.0,H. Jones,NOP,Jones 5' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,-38,28,5,1,2.0,2.0,v
+S2223-G0593,3,02:52,DAL,88.0,NOP,75.0,H. Jones,NOP,Jones 24' 3PT Jump Shot (7 PTS) (Alvarado 5 AST),Made Shot,Jump Shot,140,201,24,1,3.0,3.0,v
+S2223-G0593,3,01:09,DAL,,NOP,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0593,3,01:00,DAL,95.0,NOP,78.0,H. Jones,NOP,Jones Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0593,3,01:00,DAL,95.0,NOP,79.0,H. Jones,NOP,Jones Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0593,3,00:29.600000,DAL,,NOP,,H. Jones,NOP,MISS Jones 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,61,6,1,2.0,0.0,v
+S2223-G0593,4,08:51,DAL,,NOP,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0593,4,08:45,DAL,104.0,NOP,90.0,H. Jones,NOP,Jones 6' Floating Jump Shot (11 PTS) (Graham 2 AST),Made Shot,Floating Jump shot,12,56,6,1,2.0,2.0,v
+S2223-G0593,4,08:32,DAL,,NOP,,H. Jones,NOP,Jones STEAL (4 STL),,,0,0,0,0,,,v
+S2223-G0593,4,08:28,DAL,104.0,NOP,92.0,H. Jones,NOP,Jones 3' Running Layup (13 PTS),Made Shot,Running Layup Shot,-27,19,3,1,2.0,2.0,v
+S2223-G0593,4,06:59,DAL,,NOP,,H. Jones,NOP,MISS Jones 3' Running Layup,Missed Shot,Running Layup Shot,28,11,3,1,2.0,0.0,v
+S2223-G0593,4,04:48,DAL,117.0,NOP,100.0,H. Jones,NOP,Jones 2' Driving Dunk (15 PTS) (Alvarado 6 AST),Made Shot,Driving Dunk Shot,-2,17,2,1,2.0,2.0,v
+S2223-G0593,4,04:32,DAL,,NOP,,H. Jones,NOP,Jones S.FOUL (P4.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0593,4,03:47,DAL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0593,4,02:15,DAL,,NOP,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0593,4,02:12,DAL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0593,4,01:46,DAL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0593,4,01:15,DAL,,NOP,,H. Jones,NOP,MISS Jones 2' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,6,17,2,1,2.0,0.0,v
+S2223-G0593,4,01:12,DAL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0593,4,00:32.800000,DAL,,NOP,,H. Jones,NOP,Jones STEAL (5 STL),,,0,0,0,0,,,v
+S2223-G0593,4,00:32.600000,DAL,123.0,NOP,117.0,H. Jones,NOP,Jones Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0593,4,00:32.600000,DAL,,NOP,,H. Jones,NOP,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0593,4,00:15.700000,DAL,,NOP,,H. Jones,NOP,MISS Jones 2' Layup,Missed Shot,Layup Shot,-2,21,2,1,2.0,0.0,v
+S2223-G1225,1,11:25,MIN,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1225,1,10:03,MIN,,NOP,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,233,15,0,1,3.0,0.0,v
+S2223-G1225,1,08:20,MIN,,NOP,,H. Jones,NOP,Jones Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1225,1,08:20,MIN,,NOP,,H. Jones,NOP,Jones Violation:Kicked Ball (J.Goldenberg),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G1225,1,06:42,MIN,,NOP,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1225,1,03:47,MIN,,NOP,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1225,1,01:52,MIN,,NOP,,H. Jones,NOP,SUB: McCollum FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1225,2,07:02,MIN,,NOP,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G1225,2,03:59,MIN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1225,2,01:05,MIN,,NOP,,H. Jones,NOP,Jones P.FOUL (P1.PN) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2223-G1225,3,10:50,MIN,47.0,NOP,60.0,H. Jones,NOP,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1225,3,10:50,MIN,47.0,NOP,61.0,H. Jones,NOP,Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1225,3,07:10,MIN,,NOP,,H. Jones,NOP,Jones S.FOUL (P2.T3) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G1225,3,04:17,MIN,,NOP,,H. Jones,NOP,Jones STEAL (4 STL),,,0,0,0,0,,,v
+S2223-G1225,3,02:50,MIN,,NOP,,H. Jones,NOP,Jones STEAL (5 STL),,,0,0,0,0,,,v
+S2223-G1225,3,02:46,MIN,,NOP,,H. Jones,NOP,Jones Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G1225,3,02:09,MIN,,NOP,,H. Jones,NOP,SUB: Valanciunas FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1225,4,09:12,MIN,,NOP,,H. Jones,NOP,MISS Jones 27' 3PT Jump Shot,Missed Shot,Jump Shot,154,220,27,1,3.0,0.0,v
+S2223-G1225,4,08:28,MIN,,NOP,,H. Jones,NOP,Jones P.FOUL (P3.T2) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2223-G1225,4,05:12,MIN,,NOP,,H. Jones,NOP,Jones S.FOUL (P4.T4) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G1225,4,03:05,MIN,,NOP,,H. Jones,NOP,Jones OFF.Foul (P5) (J.Goldenberg),Foul,Offensive,0,0,0,0,,,v
+S2223-G1225,4,03:05,MIN,,NOP,,H. Jones,NOP,Jones Offensive Foul Turnover (P3.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1225,4,02:12,MIN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1225,4,01:41,MIN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1225,4,01:41,MIN,,NOP,,H. Jones,NOP,MISS Jones Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1225,4,00:17.100000,MIN,111.0,NOP,108.0,H. Jones,NOP,Jones 1' Driving Dunk (4 PTS) (Ingram 7 AST),Made Shot,Driving Dunk Shot,0,11,1,1,2.0,2.0,v
+S2223-G0988,1,11:29,NOP,,DAL,,H. Jones,NOP,MISS Jones 23' Jump Shot,Missed Shot,Jump Shot,-103,206,23,1,2.0,0.0,h
+S2223-G0988,1,10:53,NOP,,DAL,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0988,1,07:19,NOP,,DAL,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0988,1,05:32,NOP,,DAL,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,154,207,26,1,3.0,0.0,h
+S2223-G0988,1,05:11,NOP,,DAL,,H. Jones,NOP,Jones REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0988,1,05:09,NOP,14.0,DAL,18.0,H. Jones,NOP,Jones 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,7,11,1,1,2.0,2.0,h
+S2223-G0988,1,04:15,NOP,17.0,DAL,20.0,H. Jones,NOP,Jones 22' Jump Shot (4 PTS) (McCollum 3 AST),Made Shot,Jump Shot,213,46,22,1,2.0,2.0,h
+S2223-G0988,1,03:35,NOP,,DAL,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0988,1,02:00,NOP,,DAL,,H. Jones,NOP,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0988,1,01:44,NOP,,DAL,,H. Jones,NOP,MISS Jones 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-23,6,2,1,2.0,0.0,h
+S2223-G0988,1,00:57.600000,NOP,,DAL,,H. Jones,NOP,SUB: Hayes FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0988,2,04:19,NOP,47.0,DAL,35.0,H. Jones,NOP,Jones 1' Cutting Dunk Shot (6 PTS) (Ingram 4 AST),Made Shot,Cutting Dunk Shot,7,11,1,1,2.0,2.0,h
+S2223-G0988,2,02:25,NOP,,DAL,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,47,24,1,3.0,0.0,h
+S2223-G0988,3,11:47,NOP,,DAL,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,212,147,26,1,3.0,0.0,h
+S2223-G0988,3,10:50,NOP,,DAL,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0988,3,10:35,NOP,61.0,DAL,45.0,H. Jones,NOP,Jones 1' Cutting Layup Shot (8 PTS) (Valanciunas 1 AST),Made Shot,Cutting Layup Shot,-11,0,1,1,2.0,2.0,h
+S2223-G0988,3,10:17,NOP,,DAL,,H. Jones,NOP,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0988,3,10:06,NOP,,DAL,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,-15,24,1,3.0,0.0,h
+S2223-G0988,3,09:37,NOP,,DAL,,H. Jones,NOP,Jones S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0988,3,06:42,NOP,69.0,DAL,55.0,H. Jones,NOP,Jones 1' Cutting Layup Shot (10 PTS) (Marshall 2 AST),Made Shot,Cutting Layup Shot,6,-7,1,1,2.0,2.0,h
+S2223-G0988,3,05:25,NOP,,DAL,,H. Jones,NOP,MISS Jones 23' Jump Shot,Missed Shot,Jump Shot,-146,172,23,1,2.0,0.0,h
+S2223-G0988,3,03:06,NOP,,DAL,,H. Jones,NOP,Jones REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0988,3,03:04,NOP,75.0,DAL,63.0,H. Jones,NOP,Jones Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0988,3,03:04,NOP,76.0,DAL,63.0,H. Jones,NOP,Jones Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0988,3,02:39,NOP,78.0,DAL,63.0,H. Jones,NOP,Jones 3' Running Layup (14 PTS) (Richardson 2 AST),Made Shot,Running Layup Shot,28,-5,3,1,2.0,2.0,h
+S2223-G0988,3,01:20,NOP,,DAL,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0988,4,07:33,NOP,,DAL,,H. Jones,NOP,Jones REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0988,4,07:33,NOP,,DAL,,H. Jones,NOP,MISS Jones Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0988,4,07:32,NOP,,DAL,,H. Jones,NOP,Jones REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0988,4,06:39,NOP,,DAL,,H. Jones,NOP,MISS Jones 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,17,0,2,1,2.0,0.0,h
+S2223-G0988,4,05:17,NOP,,DAL,,H. Jones,NOP,Jones S.FOUL (P2.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0988,4,04:55,NOP,,DAL,,H. Jones,NOP,Jones Traveling Turnover (P1.T15),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0988,4,03:28,NOP,,DAL,,H. Jones,NOP,Jones REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0988,4,00:59.800000,NOP,,DAL,,H. Jones,NOP,Jones REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0818,1,08:46,NOP,,ATL,,H. Jones,NOP,MISS Jones 3' Running Layup,Missed Shot,Running Layup Shot,-18,22,3,1,2.0,0.0,h
+S2223-G0818,1,08:18,NOP,,ATL,,H. Jones,NOP,MISS Jones Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,h
+S2223-G0818,1,08:18,NOP,,ATL,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0818,1,08:18,NOP,12.0,ATL,2.0,H. Jones,NOP,Jones Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0818,1,07:41,NOP,,ATL,,H. Jones,NOP,Jones S.FOUL (P1.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G0818,1,04:20,NOP,,ATL,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0818,2,07:31,NOP,45.0,ATL,45.0,H. Jones,NOP,Jones 2' Driving Reverse Layup (3 PTS) (Lewis Jr. 1 AST),Made Shot,Driving Reverse Layup Shot,-15,18,2,1,2.0,2.0,h
+S2223-G0818,2,06:52,NOP,,ATL,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0818,2,06:03,NOP,47.0,ATL,47.0,H. Jones,NOP,Jones 11' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,-62,91,11,1,2.0,2.0,h
+S2223-G0818,2,05:44,NOP,,ATL,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0818,2,03:17,NOP,,ATL,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0818,2,02:29,NOP,,ATL,,H. Jones,NOP,MISS Jones 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,20,6,2,1,2.0,0.0,h
+S2223-G0818,2,01:39,NOP,,ATL,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,225,131,26,1,3.0,0.0,h
+S2223-G0818,2,00:24.100000,NOP,,ATL,,H. Jones,NOP,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0818,3,09:47,NOP,71.0,ATL,63.0,H. Jones,NOP,Jones Cutting Dunk Shot (7 PTS) (Valanciunas 1 AST),Made Shot,Cutting Dunk Shot,0,-1,0,1,2.0,2.0,h
+S2223-G0818,3,09:17,NOP,,ATL,,H. Jones,NOP,Jones S.FOUL (P2.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0818,3,08:58,NOP,,ATL,,H. Jones,NOP,Jones S.FOUL (P3.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0818,3,07:59,NOP,,ATL,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0818,3,06:14,NOP,,ATL,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0818,3,06:10,NOP,76.0,ATL,72.0,H. Jones,NOP,Jones 1' Running Dunk (9 PTS) (Ingram 6 AST),Made Shot,Running Dunk Shot,-1,-5,1,1,2.0,2.0,h
+S2223-G0818,3,04:35,NOP,,ATL,,H. Jones,NOP,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0818,3,04:12,NOP,,ATL,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0818,4,07:14,NOP,,ATL,,H. Jones,NOP,Jones S.FOUL (P4.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0818,4,04:33,NOP,,ATL,,H. Jones,NOP,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0818,4,04:30,NOP,,ATL,,H. Jones,NOP,Jones REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0818,4,02:25,NOP,,ATL,,H. Jones,NOP,Jones REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0818,4,02:23,NOP,,ATL,,H. Jones,NOP,Jones Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0818,4,00:33.400000,NOP,114.0,ATL,107.0,H. Jones,NOP,Jones Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0818,4,00:33.400000,NOP,115.0,ATL,107.0,H. Jones,NOP,Jones Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0818,4,00:26.900000,NOP,,ATL,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0818,4,00:15.500000,NOP,,ATL,,H. Jones,NOP,Jones REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0818,4,00:01.300000,NOP,,ATL,,H. Jones,NOP,Jones REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1209,1,11:36,NOP,,NYK,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1209,1,11:16,NOP,2.0,NYK,0.0,H. Jones,NOP,Jones 2' Cutting Layup Shot (2 PTS) (Ingram 1 AST),Made Shot,Cutting Layup Shot,17,13,2,1,2.0,2.0,h
+S2223-G1209,1,08:42,NOP,10.0,NYK,5.0,H. Jones,NOP,Jones 1' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,2,13,1,1,2.0,2.0,h
+S2223-G1209,1,08:26,NOP,,NYK,,H. Jones,NOP,Jones BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1209,1,07:29,NOP,,NYK,,H. Jones,NOP,Jones P.FOUL (P1.T1) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2223-G1209,1,03:11,NOP,,NYK,,H. Jones,NOP,Jones S.FOUL (P2.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G1209,1,03:11,NOP,,NYK,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1209,2,04:43,NOP,46.0,NYK,45.0,H. Jones,NOP,Jones 3' Cutting Finger Roll Layup Shot (6 PTS) (Daniels 1 AST),Made Shot,Cutting Finger Roll Layup Shot,-11,23,3,1,2.0,2.0,h
+S2223-G1209,2,00:45.100000,NOP,,NYK,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1209,3,08:22,NOP,,NYK,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1209,3,05:43,NOP,79.0,NYK,68.0,H. Jones,NOP,Jones 3' Driving Layup (8 PTS) (McCollum 3 AST),Made Shot,Driving Layup Shot,21,15,3,1,2.0,2.0,h
+S2223-G1209,3,05:23,NOP,,NYK,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1209,3,04:13,NOP,,NYK,,H. Jones,NOP,Jones Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1209,3,00:10.600000,NOP,,NYK,,H. Jones,NOP,SUB: McCollum FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1209,4,06:37,NOP,97.0,NYK,95.0,H. Jones,NOP,Jones 3' Cutting Layup Shot (10 PTS) (Ingram 5 AST),Made Shot,Cutting Layup Shot,-12,24,3,1,2.0,2.0,h
+S2223-G1209,4,04:50,NOP,101.0,NYK,100.0,H. Jones,NOP,Jones 6' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,16,62,6,1,2.0,2.0,h
+S2223-G1209,4,03:06,NOP,,NYK,,H. Jones,NOP,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1209,4,01:40,NOP,109.0,NYK,103.0,H. Jones,NOP,Jones 3PT Jump Shot (15 PTS) (Ingram 7 AST),Made Shot,Jump Shot,-222,3,0,1,3.0,3.0,h
+S2223-G1209,4,00:30.800000,NOP,,NYK,,H. Jones,NOP,Jones BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G1209,4,00:25.500000,NOP,,NYK,,H. Jones,NOP,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0253,1,11:47,NOP,,GSW,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0253,1,10:09,NOP,,GSW,,H. Jones,NOP,MISS Jones 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-227,21,0,1,3.0,0.0,h
+S2223-G0253,1,10:01,NOP,,GSW,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0253,1,09:56,NOP,,GSW,,H. Jones,NOP,MISS Jones 1' Running Layup,Missed Shot,Running Layup Shot,5,13,1,1,2.0,0.0,h
+S2223-G0253,1,09:01,NOP,,GSW,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0253,1,07:59,NOP,,GSW,,H. Jones,NOP,Jones P.FOUL (P1.T2) (R.Hussey),Foul,Personal,0,0,0,0,,,h
+S2223-G0253,1,05:52,NOP,,GSW,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0253,1,05:02,NOP,,GSW,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0253,2,08:44,NOP,44.0,GSW,23.0,H. Jones,NOP,Jones 1' Running Dunk (2 PTS) (Marshall 3 AST),Made Shot,Running Dunk Shot,-6,7,1,1,2.0,2.0,h
+S2223-G0253,2,08:17,NOP,,GSW,,H. Jones,NOP,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0253,2,08:01,NOP,,GSW,,H. Jones,NOP,Jones BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0253,2,06:50,NOP,,GSW,,H. Jones,NOP,Jones Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0253,2,06:40,NOP,,GSW,,H. Jones,NOP,Jones L.B.FOUL (P2.T3) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0253,2,06:19,NOP,,GSW,,H. Jones,NOP,Jones S.FOUL (P3.T4) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G0253,2,06:19,NOP,,GSW,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0253,3,11:42,NOP,66.0,GSW,41.0,H. Jones,NOP,Jones Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0253,3,11:42,NOP,,GSW,,H. Jones,NOP,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0253,3,08:52,NOP,,GSW,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-229,-4,0,1,3.0,0.0,h
+S2223-G0253,3,07:48,NOP,,GSW,,H. Jones,NOP,Jones Traveling Turnover (P2.T10),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0253,3,07:42,NOP,,GSW,,H. Jones,NOP,Jones BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0253,3,05:47,NOP,,GSW,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-224,5,0,1,3.0,0.0,h
+S2223-G0253,3,04:36,NOP,,GSW,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,233,113,26,1,3.0,0.0,h
+S2223-G0253,3,03:28,NOP,,GSW,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0269,1,11:36,SAS,,NOP,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-152,207,26,1,3.0,0.0,v
+S2223-G0269,1,11:28,SAS,,NOP,,H. Jones,NOP,MISS Jones 23' Jump Shot,Missed Shot,Jump Shot,-153,172,23,1,2.0,0.0,v
+S2223-G0269,1,08:54,SAS,,NOP,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0269,1,08:51,SAS,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0269,1,08:10,SAS,,NOP,,H. Jones,NOP,Jones S.FOUL (P1.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G0269,1,04:39,SAS,6.0,NOP,21.0,H. Jones,NOP,Jones 3PT Jump Shot (3 PTS) (Ingram 3 AST),Made Shot,Jump Shot,-232,4,0,1,3.0,3.0,v
+S2223-G0269,1,03:20,SAS,,NOP,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0269,2,07:16,SAS,,NOP,,H. Jones,NOP,Jones S.FOUL (P2.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0269,2,06:15,SAS,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0269,2,05:48,SAS,,NOP,,H. Jones,NOP,Jones S.FOUL (P3.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0269,2,05:48,SAS,,NOP,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0269,3,10:49,SAS,47.0,NOP,68.0,H. Jones,NOP,Jones 1' Running Layup (5 PTS),Made Shot,Running Layup Shot,0,11,1,1,2.0,2.0,v
+S2223-G0269,3,09:15,SAS,,NOP,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-169,177,24,1,3.0,0.0,v
+S2223-G0269,3,08:24,SAS,,NOP,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,24,24,1,3.0,0.0,v
+S2223-G0269,3,07:40,SAS,59.0,NOP,75.0,H. Jones,NOP,Jones 3' Reverse Layup (7 PTS) (Valanciunas 2 AST),Made Shot,Reverse Layup Shot,-20,-15,3,1,2.0,2.0,v
+S2223-G0269,3,06:55,SAS,61.0,NOP,76.0,H. Jones,NOP,Jones Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0269,3,06:55,SAS,61.0,NOP,77.0,H. Jones,NOP,Jones Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0269,3,03:43,SAS,,NOP,,H. Jones,NOP,SUB: Graham FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0906,1,10:05,NYK,,NOP,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-230,-1,0,1,3.0,0.0,v
+S2223-G0906,1,09:46,NYK,10.0,NOP,4.0,H. Jones,NOP,Jones 2' Cutting Layup Shot (2 PTS) (Ingram 1 AST),Made Shot,Cutting Layup Shot,-20,-4,2,1,2.0,2.0,v
+S2223-G0906,1,08:06,NYK,,NOP,,H. Jones,NOP,Jones S.FOUL (P1.T2) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0906,1,06:56,NYK,18.0,NOP,13.0,H. Jones,NOP,Jones Cutting Layup Shot (4 PTS) (Valanciunas 1 AST),Made Shot,Cutting Layup Shot,1,4,0,1,2.0,2.0,v
+S2223-G0906,1,06:26,NYK,,NOP,,H. Jones,NOP,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,-16,-1,2,1,2.0,0.0,v
+S2223-G0906,1,05:42,NYK,,NOP,,H. Jones,NOP,Jones Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0906,1,05:24,NYK,,NOP,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0906,3,06:29,NYK,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0906,3,05:50,NYK,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0906,3,05:49,NYK,92.0,NOP,68.0,H. Jones,NOP,Jones 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,12,9,2,1,2.0,2.0,v
+S2223-G0906,3,05:27,NYK,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0906,3,05:10,NYK,,NOP,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1194,1,10:56,NOP,,MEM,,H. Jones,NOP,Jones L.B.FOUL (P1.T1) (S.Foster),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1194,1,10:32,NOP,,MEM,,H. Jones,NOP,MISS Jones 3' Driving Layup,Missed Shot,Driving Layup Shot,4,27,3,1,2.0,0.0,h
+S2223-G1194,1,10:32,NOP,,MEM,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1194,1,10:32,NOP,4.0,MEM,4.0,H. Jones,NOP,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1194,1,10:32,NOP,5.0,MEM,4.0,H. Jones,NOP,Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1194,1,09:55,NOP,8.0,MEM,7.0,H. Jones,NOP,Jones 26' 3PT Jump Shot (5 PTS) (Murphy III 1 AST),Made Shot,Jump Shot,212,152,26,1,3.0,3.0,h
+S2223-G1194,1,09:12,NOP,,MEM,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1194,1,07:25,NOP,,MEM,,H. Jones,NOP,MISS Jones 3' Layup,Missed Shot,Layup Shot,-32,5,3,1,2.0,0.0,h
+S2223-G1194,1,07:21,NOP,,MEM,,H. Jones,NOP,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1194,1,06:54,NOP,,MEM,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,230,19,0,1,3.0,0.0,h
+S2223-G1194,1,06:22,NOP,,MEM,,H. Jones,NOP,Jones Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1194,1,05:09,NOP,19.0,MEM,21.0,H. Jones,NOP,Jones 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-2,5,1,1,2.0,2.0,h
+S2223-G1194,1,04:08,NOP,22.0,MEM,23.0,H. Jones,NOP,Jones 24' 3PT Jump Shot (10 PTS) (Daniels 1 AST),Made Shot,Jump Shot,31,237,24,1,3.0,3.0,h
+S2223-G1194,1,03:04,NOP,,MEM,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,70,243,25,1,3.0,0.0,h
+S2223-G1194,1,02:14,NOP,25.0,MEM,30.0,H. Jones,NOP,Jones 3PT Jump Shot (13 PTS) (Richardson 1 AST),Made Shot,Jump Shot,232,10,0,1,3.0,3.0,h
+S2223-G1194,1,00:06.600000,NOP,32.0,MEM,34.0,H. Jones,NOP,Jones 3' Cutting Layup Shot (15 PTS) (Ingram 1 AST),Made Shot,Cutting Layup Shot,31,14,3,1,2.0,2.0,h
+S2223-G1194,2,05:26,NOP,,MEM,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1194,2,05:17,NOP,44.0,MEM,54.0,H. Jones,NOP,Jones 22' Jump Shot (17 PTS) (McCollum 4 AST),Made Shot,Jump Shot,214,25,22,1,2.0,2.0,h
+S2223-G1194,2,03:50,NOP,,MEM,,H. Jones,NOP,MISS Jones 22' Jump Shot,Missed Shot,Jump Shot,156,162,22,1,2.0,0.0,h
+S2223-G1194,2,02:37,NOP,48.0,MEM,63.0,H. Jones,NOP,Jones 1' Cutting Dunk Shot (19 PTS) (McCollum 6 AST),Made Shot,Cutting Dunk Shot,12,6,1,1,2.0,2.0,h
+S2223-G1194,2,00:57.300000,NOP,51.0,MEM,69.0,H. Jones,NOP,Jones Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1194,2,00:57.300000,NOP,52.0,MEM,69.0,H. Jones,NOP,Jones Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1194,3,11:15,NOP,53.0,MEM,69.0,H. Jones,NOP,Jones Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1194,3,11:15,NOP,54.0,MEM,69.0,H. Jones,NOP,Jones Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1194,3,10:31,NOP,,MEM,,H. Jones,NOP,MISS Jones 4' Driving Layup,Missed Shot,Driving Layup Shot,26,36,4,1,2.0,0.0,h
+S2223-G1194,3,08:26,NOP,,MEM,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,225,-6,0,1,3.0,0.0,h
+S2223-G1194,3,06:56,NOP,,MEM,,H. Jones,NOP,Jones BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1194,3,05:50,NOP,,MEM,,H. Jones,NOP,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1194,3,04:42,NOP,74.0,MEM,82.0,H. Jones,NOP,Jones 3PT Jump Shot (26 PTS) (Nance Jr. 3 AST),Made Shot,Jump Shot,232,-10,0,1,3.0,3.0,h
+S2223-G1194,3,04:13,NOP,,MEM,,H. Jones,NOP,Jones REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1194,3,03:38,NOP,,MEM,,H. Jones,NOP,Jones REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1194,3,03:32,NOP,,MEM,,H. Jones,NOP,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,-16,4,2,1,2.0,0.0,h
+S2223-G1194,3,03:02,NOP,78.0,MEM,84.0,H. Jones,NOP,Jones 3' Cutting Layup Shot (28 PTS) (Ingram 5 AST),Made Shot,Cutting Layup Shot,-28,8,3,1,2.0,2.0,h
+S2223-G1194,3,03:02,NOP,79.0,MEM,84.0,H. Jones,NOP,Jones Free Throw 1 of 1 (29 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1194,3,02:05,NOP,,MEM,,H. Jones,NOP,MISS Jones 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,16,7,2,1,2.0,0.0,h
+S2223-G1194,3,01:45,NOP,,MEM,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1194,4,06:47,NOP,104.0,MEM,105.0,H. Jones,NOP,Jones 24' 3PT Jump Shot (32 PTS) (Ingram 8 AST),Made Shot,Jump Shot,-239,8,24,1,3.0,3.0,h
+S2223-G1194,4,03:19,NOP,,MEM,,H. Jones,NOP,Jones REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1194,4,00:04.700000,NOP,,MEM,,H. Jones,NOP,Jones S.FOUL (P2.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G1194,5,03:38,NOP,,MEM,,H. Jones,NOP,Jones P.FOUL (P3.T1) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G1194,5,02:21,NOP,134.0,MEM,124.0,H. Jones,NOP,Jones 1' Running Dunk (34 PTS) (Ingram 13 AST),Made Shot,Running Dunk Shot,-4,5,1,1,2.0,2.0,h
+S2223-G1194,5,01:26,NOP,,MEM,,H. Jones,NOP,MISS Jones 3' Layup,Missed Shot,Layup Shot,31,13,3,1,2.0,0.0,h
+S2223-G1194,5,01:13,NOP,137.0,MEM,129.0,H. Jones,NOP,Jones Free Throw 1 of 2 (35 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1194,5,01:13,NOP,,MEM,,H. Jones,NOP,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1194,5,00:59,NOP,,MEM,,H. Jones,NOP,Jones Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1194,5,00:23.800000,NOP,,MEM,,H. Jones,NOP,Jones BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G1127,1,09:17,POR,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1127,1,09:17,POR,,NOP,,H. Jones,NOP,MISS Jones Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1127,1,07:55,POR,7.0,NOP,10.0,H. Jones,NOP,Jones 2' Running Layup (2 PTS) (Ingram 1 AST),Made Shot,Running Layup Shot,-16,8,2,1,2.0,2.0,v
+S2223-G1127,1,07:55,POR,7.0,NOP,11.0,H. Jones,NOP,Jones Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1127,1,06:16,POR,10.0,NOP,15.0,H. Jones,NOP,Jones 11' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-1,112,11,1,2.0,2.0,v
+S2223-G1127,1,01:52,POR,,NOP,,H. Jones,NOP,SUB: McCollum FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1127,2,05:18,POR,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1127,2,04:18,POR,,NOP,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1127,3,02:21,POR,52.0,NOP,84.0,H. Jones,NOP,Jones 1' Cutting Layup Shot (7 PTS) (Daniels 1 AST),Made Shot,Cutting Layup Shot,-10,4,1,1,2.0,2.0,v
+S2223-G1127,3,01:53,POR,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0798,1,09:21,NOP,,LAL,,H. Jones,NOP,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,-20,1,2,1,2.0,0.0,h
+S2223-G0798,1,07:48,NOP,,LAL,,H. Jones,NOP,MISS Jones 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,22,-2,2,1,2.0,0.0,h
+S2223-G0798,1,07:45,NOP,,LAL,,H. Jones,NOP,Jones S.FOUL (P1.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0798,1,07:05,NOP,13.0,LAL,17.0,H. Jones,NOP,Jones 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-21,3,2,1,2.0,2.0,h
+S2223-G0798,1,04:32,NOP,,LAL,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0798,1,01:32,NOP,,LAL,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0798,2,11:41,NOP,,LAL,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-138,200,24,1,3.0,0.0,h
+S2223-G0798,2,07:12,NOP,,LAL,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0798,2,06:48,NOP,,LAL,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0798,2,04:43,NOP,,LAL,,H. Jones,NOP,MISS Jones 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,36,-2,4,1,2.0,0.0,h
+S2223-G0798,2,03:22,NOP,,LAL,,H. Jones,NOP,SUB: Nance Jr. FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0798,3,10:56,NOP,,LAL,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0798,3,10:50,NOP,,LAL,,H. Jones,NOP,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,-18,12,2,1,2.0,0.0,h
+S2223-G0798,3,10:44,NOP,,LAL,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0798,3,09:19,NOP,72.0,LAL,77.0,H. Jones,NOP,Jones 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-2,28,3,1,2.0,2.0,h
+S2223-G0798,3,08:28,NOP,,LAL,,H. Jones,NOP,Jones S.FOUL (P2.T3) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2223-G0798,3,04:33,NOP,,LAL,,H. Jones,NOP,Jones Offensive Charge Foul (P3) (J.Goldenberg),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0798,3,04:33,NOP,,LAL,,H. Jones,NOP,Jones Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0798,3,02:40,NOP,,LAL,,H. Jones,NOP,SUB: McCollum FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0798,4,10:00,NOP,,LAL,,H. Jones,NOP,Jones P.FOUL (P4.T1) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G0798,4,09:36,NOP,,LAL,,H. Jones,NOP,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0798,4,09:11,NOP,,LAL,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0798,4,07:05,NOP,,LAL,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,162,193,25,1,3.0,0.0,h
+S2223-G0798,4,06:23,NOP,,LAL,,H. Jones,NOP,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0798,4,02:26,NOP,,LAL,,H. Jones,NOP,MISS Jones 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,-2,52,5,1,2.0,0.0,h
+S2223-G0798,4,00:18.300000,NOP,,LAL,,H. Jones,NOP,Jones S.FOUL (P5.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0798,4,00:08,NOP,,LAL,,H. Jones,NOP,Jones Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0798,4,00:00.100000,NOP,,LAL,,H. Jones,NOP,Jones STEAL (4 STL),,,0,0,0,0,,,h
+S2223-G0976,1,10:00,SAC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0976,1,07:36,SAC,14.0,NOP,14.0,H. Jones,NOP,Jones 25' 3PT Jump Shot (3 PTS) (Ingram 2 AST),Made Shot,Jump Shot,-184,167,25,1,3.0,3.0,v
+S2223-G0976,1,06:57,SAC,,NOP,,H. Jones,NOP,MISS Jones 2' Layup,Missed Shot,Layup Shot,-15,6,2,1,2.0,0.0,v
+S2223-G0976,1,06:57,SAC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0976,1,06:57,SAC,,NOP,,H. Jones,NOP,MISS Jones Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0976,1,03:31,SAC,,NOP,,H. Jones,NOP,SUB: Hayes FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0976,2,08:42,SAC,,NOP,,H. Jones,NOP,Jones S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0976,2,07:42,SAC,,NOP,,H. Jones,NOP,Jones L.B.FOUL (P2.T4) (K.Cutler),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0976,2,03:34,SAC,,NOP,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0976,2,03:14,SAC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0976,2,02:57,SAC,,NOP,,H. Jones,NOP,Jones Kicked Ball Violation Turnover (P1.T9),Turnover,Kicked Ball Violation,0,0,0,0,,,v
+S2223-G0976,2,00:11.400000,SAC,59.0,NOP,59.0,H. Jones,NOP,Jones 3PT Jump Shot (6 PTS) (Ingram 6 AST),Made Shot,Jump Shot,232,24,0,1,3.0,3.0,v
+S2223-G0976,3,11:13,SAC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0976,3,10:34,SAC,63.0,NOP,63.0,H. Jones,NOP,Jones 24' 3PT Jump Shot (9 PTS) (Murphy III 3 AST),Made Shot,Jump Shot,-234,27,24,1,3.0,3.0,v
+S2223-G0976,3,09:48,SAC,63.0,NOP,65.0,H. Jones,NOP,Jones Running Dunk (11 PTS) (Murphy III 4 AST),Made Shot,Running Dunk Shot,-1,2,0,1,2.0,2.0,v
+S2223-G0976,3,04:57,SAC,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0976,4,09:57,SAC,,NOP,,H. Jones,NOP,Jones S.FOUL (P3.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2223-G0976,4,09:06,SAC,105.0,NOP,85.0,H. Jones,NOP,Jones 3' Driving Layup (13 PTS) (McCollum 2 AST),Made Shot,Driving Layup Shot,-25,18,3,1,2.0,2.0,v
+S2223-G0976,4,08:23,SAC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0976,4,08:04,SAC,,NOP,,H. Jones,NOP,Jones P.FOUL (P4.T2) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2223-G0976,4,05:39,SAC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0976,4,05:13,SAC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0976,4,03:33,SAC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0976,4,02:24,SAC,,NOP,,H. Jones,NOP,Jones S.FOUL (P5.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2223-G0976,4,02:04,SAC,,NOP,,H. Jones,NOP,MISS Jones 3' Driving Layup,Missed Shot,Driving Layup Shot,-22,16,3,1,2.0,0.0,v
+S2223-G0976,4,01:28,SAC,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0976,4,00:40.800000,SAC,,NOP,,H. Jones,NOP,SUB: Hayes FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0864,1,10:58,OKC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0864,1,10:35,OKC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0864,1,10:22,OKC,,NOP,,H. Jones,NOP,Jones P.FOUL (P1.T1) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2223-G0864,1,09:35,OKC,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0864,1,08:19,OKC,,NOP,,H. Jones,NOP,Jones S.FOUL (P2.T3) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2223-G0864,1,08:11,OKC,,NOP,,H. Jones,NOP,SUB: Richardson FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0864,2,05:44,OKC,,NOP,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,-167,187,25,1,3.0,0.0,v
+S2223-G0864,2,03:59,OKC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0864,2,01:22,OKC,,NOP,,H. Jones,NOP,Jones P.FOUL (P3.T2) (B.Schwab),Foul,Personal,0,0,0,0,,,v
+S2223-G0864,2,01:22,OKC,,NOP,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0864,3,10:59,OKC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0864,3,08:56,OKC,,NOP,,H. Jones,NOP,MISS Jones 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-5,44,4,1,2.0,0.0,v
+S2223-G0864,3,06:36,OKC,62.0,NOP,67.0,H. Jones,NOP,Jones 1' Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,0,11,1,1,2.0,2.0,v
+S2223-G0864,3,05:07,OKC,,NOP,,H. Jones,NOP,SUB: Richardson FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0864,4,06:34,OKC,82.0,NOP,91.0,H. Jones,NOP,Jones 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-11,7,1,1,2.0,2.0,v
+S2223-G0864,4,05:38,OKC,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0864,4,00:27,OKC,,NOP,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0444,1,08:11,PHX,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0444,1,03:17,PHX,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0444,2,07:21,PHX,32.0,NOP,45.0,H. Jones,NOP,Jones 3PT Jump Shot (3 PTS) (Marshall 1 AST),Made Shot,Jump Shot,-232,12,0,1,3.0,3.0,v
+S2223-G0444,2,07:09,PHX,,NOP,,H. Jones,NOP,Jones P.FOUL (P1.T4) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G0444,2,06:52,PHX,,NOP,,H. Jones,NOP,Jones P.FOUL (P2.PN) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2223-G0444,2,06:20,PHX,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0444,2,01:24,PHX,,NOP,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0444,3,08:27,PHX,57.0,NOP,77.0,H. Jones,NOP,Jones Running Reverse Layup (5 PTS) (McCollum 7 AST),Made Shot,Running Reverse Layup Shot,4,-2,0,1,2.0,2.0,v
+S2223-G0444,3,07:14,PHX,59.0,NOP,83.0,H. Jones,NOP,Jones 3PT Jump Shot (8 PTS) (Williamson 7 AST),Made Shot,Jump Shot,233,13,0,1,3.0,3.0,v
+S2223-G0444,3,03:42,PHX,,NOP,,H. Jones,NOP,SUB: Williamson FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0444,4,02:38,PHX,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0444,4,02:28,PHX,,NOP,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,172,187,25,1,3.0,0.0,v
+S2223-G0444,4,02:09,PHX,,NOP,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0444,4,00:16.300000,PHX,,NOP,,H. Jones,NOP,Jones P.FOUL (P3.PN) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2223-G0444,4,00:10.200000,PHX,,NOP,,H. Jones,NOP,SUB: Valanciunas FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0782,1,10:38,DAL,,NOP,,H. Jones,NOP,Jones Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0782,1,09:31,DAL,,NOP,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,172,184,25,1,3.0,0.0,v
+S2223-G0782,1,08:40,DAL,,NOP,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,43,24,1,3.0,0.0,v
+S2223-G0782,1,07:32,DAL,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0782,1,02:24,DAL,,NOP,,H. Jones,NOP,Jones Offensive Charge Foul (P1) (L.Wood),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0782,1,02:24,DAL,,NOP,,H. Jones,NOP,Jones Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0782,1,02:24,DAL,,NOP,,H. Jones,NOP,SUB: McCollum FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0782,2,06:33,DAL,,NOP,,H. Jones,NOP,Jones Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0782,2,05:41,DAL,,NOP,,H. Jones,NOP,Jones Traveling Turnover (P4.T10),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0782,2,04:49,DAL,,NOP,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0782,2,04:22,DAL,62.0,NOP,37.0,H. Jones,NOP,Jones 3PT Jump Shot (3 PTS) (Ingram 3 AST),Made Shot,Jump Shot,-228,21,0,1,3.0,3.0,v
+S2223-G0782,2,02:48,DAL,,NOP,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,38,24,1,3.0,0.0,v
+S2223-G0782,2,01:03,DAL,,NOP,,H. Jones,NOP,Jones S.FOUL (P2.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G0782,2,00:47.600000,DAL,,NOP,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,41,24,1,3.0,0.0,v
+S2223-G0782,3,09:57,DAL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0782,3,06:47,DAL,84.0,NOP,57.0,H. Jones,NOP,Jones 3' Layup (5 PTS) (Ingram 4 AST),Made Shot,Layup Shot,21,14,3,1,2.0,2.0,v
+S2223-G0782,3,06:47,DAL,,NOP,,H. Jones,NOP,MISS Jones Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0782,3,03:05,DAL,92.0,NOP,69.0,H. Jones,NOP,Jones 7' Driving Floating Jump Shot (7 PTS) (Ingram 5 AST),Made Shot,Driving Floating Jump Shot,48,55,7,1,2.0,2.0,v
+S2223-G0782,3,02:11,DAL,,NOP,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0782,4,07:40,DAL,,NOP,,H. Jones,NOP,MISS Jones 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,225,69,24,1,3.0,0.0,v
+S2223-G0782,4,05:55,DAL,,NOP,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0782,4,05:23,DAL,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0782,4,01:03,DAL,,NOP,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0782,4,00:58.400000,DAL,108.0,NOP,104.0,H. Jones,NOP,Jones 2' Running Layup (9 PTS) (Ingram 7 AST),Made Shot,Running Layup Shot,-9,19,2,1,2.0,2.0,v
+S2223-G0782,4,00:50.100000,DAL,,NOP,,H. Jones,NOP," Foul : Double Personal - Jones (3 PF), Dinwiddie (3 PF) (L.Wood)",Foul,Double Personal,0,0,0,0,,,
+S2223-G0782,4,00:02.400000,DAL,,NOP,,H. Jones,NOP,Jones Personal Take Foul (P4.PN) (B.Barnaky),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0147,1,09:53,IND,,NOP,,H. Jones,NOP,Jones Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0147,1,09:28,IND,,NOP,,H. Jones,NOP,MISS Jones 4' Driving Layup,Missed Shot,Driving Layup Shot,31,17,4,1,2.0,0.0,v
+S2223-G0147,1,07:28,IND,11.0,NOP,7.0,H. Jones,NOP,Jones 2' Running Finger Roll Layup (2 PTS) (McCollum 1 AST),Made Shot,Running Finger Roll Layup Shot,18,8,2,1,2.0,2.0,v
+S2223-G0147,1,06:57,IND,,NOP,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,-125,214,25,1,3.0,0.0,v
+S2223-G0147,1,06:42,IND,,NOP,,H. Jones,NOP,Jones P.FOUL (P1.T2) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0147,1,04:38,IND,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0147,1,04:35,IND,19.0,NOP,14.0,H. Jones,NOP,Jones 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,7,7,1,1,2.0,2.0,v
+S2223-G0147,1,02:23,IND,,NOP,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P2.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0147,1,01:32,IND,,NOP,,H. Jones,NOP,SUB: Graham FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0147,2,03:53,IND,,NOP,,H. Jones,NOP,MISS Jones 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-23,89,9,1,2.0,0.0,v
+S2223-G0147,2,00:00,IND,58.0,NOP,55.0,H. Jones,NOP,Jones 2' Reverse Layup (6 PTS) (McCollum 3 AST),Made Shot,Reverse Layup Shot,13,18,2,1,2.0,2.0,v
+S2223-G0147,3,10:56,IND,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0147,3,10:06,IND,66.0,NOP,64.0,H. Jones,NOP,Jones 5' Driving Layup (8 PTS) (McCollum 4 AST),Made Shot,Driving Layup Shot,25,42,5,1,2.0,2.0,v
+S2223-G0147,3,06:05,IND,,NOP,,H. Jones,NOP,MISS Jones 1' Driving Layup,Missed Shot,Driving Layup Shot,12,0,1,1,2.0,0.0,v
+S2223-G0147,3,05:27,IND,,NOP,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0147,4,04:35,IND,119.0,NOP,109.0,H. Jones,NOP,Jones 2' Running Finger Roll Layup (10 PTS) (Ingram 2 AST),Made Shot,Running Finger Roll Layup Shot,16,11,2,1,2.0,2.0,v
+S2223-G0147,4,03:53,IND,122.0,NOP,111.0,H. Jones,NOP,Jones 3' Driving Finger Roll Layup (12 PTS) (Williamson 5 AST),Made Shot,Driving Finger Roll Layup Shot,-31,16,3,1,2.0,2.0,v
+S2223-G0147,4,03:53,IND,122.0,NOP,112.0,H. Jones,NOP,Jones Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0147,4,03:31,IND,,NOP,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0147,4,01:57,IND,,NOP,,H. Jones,NOP,Jones S.FOUL (P2.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0147,4,01:44,IND,,NOP,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,233,15,0,1,3.0,0.0,v
+S2223-G0147,4,01:15,IND,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0147,4,00:04.400000,IND,129.0,NOP,122.0,H. Jones,NOP,Jones 25' 3PT Jump Shot (16 PTS) (Williamson 7 AST),Made Shot,Jump Shot,205,148,25,1,3.0,3.0,v
+S2223-G1185,1,10:28,NOP,,SAC,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1185,1,09:24,NOP,,SAC,,H. Jones,NOP,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,-20,10,2,1,2.0,0.0,h
+S2223-G1185,1,06:07,NOP,,SAC,,H. Jones,NOP,Jones P.FOUL (P1.T2) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2223-G1185,1,03:57,NOP,,SAC,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1185,1,02:42,NOP,,SAC,,H. Jones,NOP,SUB: McCollum FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1185,2,05:15,NOP,38.0,SAC,44.0,H. Jones,NOP,Jones 2' Driving Layup (2 PTS) (Daniels 1 AST),Made Shot,Driving Layup Shot,-16,4,2,1,2.0,2.0,h
+S2223-G1185,2,03:27,NOP,,SAC,,H. Jones,NOP,MISS Jones 2' Running Layup,Missed Shot,Running Layup Shot,-18,4,2,1,2.0,0.0,h
+S2223-G1185,2,02:50,NOP,47.0,SAC,53.0,H. Jones,NOP,Jones 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-1,15,2,1,2.0,2.0,h
+S2223-G1185,2,02:15,NOP,,SAC,,H. Jones,NOP,MISS Jones 1' Driving Layup,Missed Shot,Driving Layup Shot,11,5,1,1,2.0,0.0,h
+S2223-G1185,2,00:40.700000,NOP,54.0,SAC,63.0,H. Jones,NOP,Jones 25' 3PT Jump Shot (7 PTS) (Ingram 5 AST),Made Shot,Jump Shot,-159,191,25,1,3.0,3.0,h
+S2223-G1185,3,11:38,NOP,,SAC,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1185,3,08:29,NOP,,SAC,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1185,3,08:28,NOP,62.0,SAC,74.0,H. Jones,NOP,Jones 3' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,25,17,3,1,2.0,2.0,h
+S2223-G1185,3,05:02,NOP,,SAC,,H. Jones,NOP,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1185,3,02:22,NOP,,SAC,,H. Jones,NOP,MISS Jones 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-21,89,9,1,2.0,0.0,h
+S2223-G1185,3,01:23,NOP,,SAC,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1185,4,06:53,NOP,,SAC,,H. Jones,NOP,MISS Jones 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-47,30,6,1,2.0,0.0,h
+S2223-G1185,4,04:39,NOP,,SAC,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1185,4,04:34,NOP,93.0,SAC,111.0,H. Jones,NOP,Jones 2' Running Layup (11 PTS) (Murphy III 2 AST),Made Shot,Running Layup Shot,16,-5,2,1,2.0,2.0,h
+S2223-G1185,4,03:18,NOP,,SAC,,H. Jones,NOP,Jones Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1185,4,03:01,NOP,,SAC,,H. Jones,NOP,SUB: Hayes FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0716,1,11:23,NOP,,DEN,,H. Jones,NOP,Jones P.FOUL (P1.T1) (E.Lewis),Foul,Personal,0,0,0,0,,,h
+S2223-G0716,1,08:23,NOP,,DEN,,H. Jones,NOP,MISS Jones 27' 3PT Jump Shot,Missed Shot,Jump Shot,-110,252,27,1,3.0,0.0,h
+S2223-G0716,1,07:48,NOP,,DEN,,H. Jones,NOP,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0716,1,07:47,NOP,9.0,DEN,13.0,H. Jones,NOP,Jones 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,18,2,2,1,2.0,2.0,h
+S2223-G0716,1,06:21,NOP,,DEN,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0716,1,06:16,NOP,13.0,DEN,13.0,H. Jones,NOP,Jones 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,16,2,2,1,2.0,2.0,h
+S2223-G0716,1,05:56,NOP,,DEN,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0716,1,03:35,NOP,,DEN,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0716,1,03:30,NOP,,DEN,,H. Jones,NOP,MISS Jones 3' Running Layup,Missed Shot,Running Layup Shot,-26,11,3,1,2.0,0.0,h
+S2223-G0716,1,03:29,NOP,,DEN,,H. Jones,NOP,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0716,1,03:29,NOP,22.0,DEN,20.0,H. Jones,NOP,Jones 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,16,8,2,1,2.0,2.0,h
+S2223-G0716,1,03:29,NOP,,DEN,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0716,2,08:46,NOP,,DEN,,H. Jones,NOP,Jones OFF.Foul (P2) (E.Lewis),Foul,Offensive,0,0,0,0,,,h
+S2223-G0716,2,08:46,NOP,,DEN,,H. Jones,NOP,Jones Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0716,2,07:57,NOP,,DEN,,H. Jones,NOP,Jones S.FOUL (P3.T1) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0716,2,07:57,NOP,,DEN,,H. Jones,NOP,SUB: Hayes FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0716,3,10:24,NOP,,DEN,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0716,3,09:57,NOP,,DEN,,H. Jones,NOP,MISS Jones 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,10,0,1,1,2.0,0.0,h
+S2223-G0716,3,09:55,NOP,,DEN,,H. Jones,NOP,Jones REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0716,3,09:39,NOP,,DEN,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0716,3,08:27,NOP,,DEN,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,42,24,1,3.0,0.0,h
+S2223-G0716,3,07:38,NOP,,DEN,,H. Jones,NOP,Jones S.FOUL (P4.T1) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0716,3,06:41,NOP,,DEN,,H. Jones,NOP,SUB: Temple FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0716,4,08:00,NOP,,DEN,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0716,4,07:14,NOP,,DEN,,H. Jones,NOP,SUB: McCollum FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0716,4,02:41,NOP,,DEN,,H. Jones,NOP,Jones REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0716,4,02:38,NOP,,DEN,,H. Jones,NOP,Jones Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0716,4,02:06,NOP,,DEN,,H. Jones,NOP,Jones Step Out of Bounds Turnover (P4.T16),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0716,4,00:03.900000,NOP,,DEN,,H. Jones,NOP,Jones REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0716,4,00:03.700000,NOP,,DEN,,H. Jones,NOP,MISS Jones 2' Putback Layup,Missed Shot,Putback Layup Shot,11,17,2,1,2.0,0.0,h
+S2223-G0605,1,05:25,WAS,,NOP,,H. Jones,NOP,MISS Jones 22' Jump Shot,Missed Shot,Jump Shot,143,165,22,1,2.0,0.0,v
+S2223-G0605,1,03:55,WAS,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0605,1,03:53,WAS,20.0,NOP,24.0,H. Jones,NOP,Jones 2' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,11,11,2,1,2.0,2.0,v
+S2223-G0605,1,03:03,WAS,,NOP,,H. Jones,NOP,Jones P.FOUL (P1.T3) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0605,1,01:51,WAS,29.0,NOP,30.0,H. Jones,NOP,Jones Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0605,1,01:51,WAS,29.0,NOP,31.0,H. Jones,NOP,Jones Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0605,1,00:57.700000,WAS,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0605,2,05:59,WAS,,NOP,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0605,2,05:59,WAS,50.0,NOP,54.0,H. Jones,NOP,Jones Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0605,2,05:52,WAS,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0890,1,11:07,TOR,,NOP,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-234,10,0,1,3.0,0.0,v
+S2223-G0890,1,10:50,TOR,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0890,1,09:24,TOR,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0890,1,08:25,TOR,4.0,NOP,4.0,H. Jones,NOP,Jones 1' Running Finger Roll Layup (2 PTS) (Richardson 1 AST),Made Shot,Running Finger Roll Layup Shot,-2,7,1,1,2.0,2.0,v
+S2223-G0890,1,07:32,TOR,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0890,1,06:17,TOR,,NOP,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0890,1,05:50,TOR,,NOP,,H. Jones,NOP,Jones BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0890,1,05:26,TOR,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0890,2,06:59,TOR,,NOP,,H. Jones,NOP,SUB: Ingram FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0890,3,05:52,TOR,,NOP,,H. Jones,NOP,Jones S.FOUL (P1.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0890,3,05:52,TOR,,NOP,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0890,4,11:37,TOR,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0890,4,11:10,TOR,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0890,4,07:01,TOR,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0890,4,03:38,TOR,,NOP,,H. Jones,NOP,MISS Jones 1' Driving Dunk,Missed Shot,Driving Dunk Shot,13,4,1,1,2.0,0.0,v
+S2223-G1147,1,09:08,DEN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1147,1,01:44,DEN,,NOP,,H. Jones,NOP,Jones Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G1147,1,01:44,DEN,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1147,2,05:54,DEN,29.0,NOP,37.0,H. Jones,NOP,Jones 26' 3PT Jump Shot (3 PTS) (Ingram 2 AST),Made Shot,Jump Shot,-168,204,26,1,3.0,3.0,v
+S2223-G1147,2,04:43,DEN,32.0,NOP,42.0,H. Jones,NOP,Jones 26' 3PT Jump Shot (6 PTS) (Ingram 3 AST),Made Shot,Jump Shot,-225,123,26,1,3.0,3.0,v
+S2223-G1147,2,03:54,DEN,,NOP,,H. Jones,NOP,MISS Jones 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-25,13,3,1,2.0,0.0,v
+S2223-G1147,2,00:17.900000,DEN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1147,3,11:32,DEN,,NOP,,H. Jones,NOP,Jones L.B.FOUL (P1.T1) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1147,3,10:54,DEN,,NOP,,H. Jones,NOP,MISS Jones 4' Driving Layup,Missed Shot,Driving Layup Shot,-29,20,4,1,2.0,0.0,v
+S2223-G1147,3,07:25,DEN,,NOP,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1147,3,06:48,DEN,,NOP,,H. Jones,NOP,MISS Jones 5' Layup,Missed Shot,Layup Shot,-37,26,5,1,2.0,0.0,v
+S2223-G1147,3,06:34,DEN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1147,3,02:34,DEN,,NOP,,H. Jones,NOP,Jones Out of Bounds Lost Ball Turnover (P3.T8),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G1147,3,01:51,DEN,,NOP,,H. Jones,NOP,MISS Jones 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,64,6,1,2.0,0.0,v
+S2223-G1147,3,01:40,DEN,,NOP,,H. Jones,NOP,SUB: Valanciunas FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1147,4,07:13,DEN,,NOP,,H. Jones,NOP,Jones P.FOUL (P2.T2) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G1147,4,05:01,DEN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1147,4,04:27,DEN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1147,4,02:20,DEN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1147,4,01:53,DEN,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1147,4,01:40,DEN,,NOP,,H. Jones,NOP,SUB: Richardson FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1080,1,11:35,NOP,,SAS,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-229,-3,0,1,3.0,0.0,h
+S2223-G1080,1,10:24,NOP,,SAS,,H. Jones,NOP,Jones P.FOUL (P1.T1) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2223-G1080,1,05:40,NOP,,SAS,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,229,4,0,1,3.0,0.0,h
+S2223-G1080,1,05:29,NOP,,SAS,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1080,1,03:21,NOP,,SAS,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1080,2,06:02,NOP,45.0,SAS,28.0,H. Jones,NOP,Jones 3' Driving Floating Bank Jump Shot (2 PTS) (Daniels 1 AST),Made Shot,Driving Floating Bank Jump Shot,27,12,3,1,2.0,2.0,h
+S2223-G1080,2,03:51,NOP,,SAS,,H. Jones,NOP,Jones Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G1080,2,03:41,NOP,,SAS,,H. Jones,NOP,Jones S.FOUL (P2.T3) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G1080,2,02:24,NOP,,SAS,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1080,2,01:59,NOP,,SAS,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1080,2,01:59,NOP,,SAS,,H. Jones,NOP,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1080,2,00:42.400000,NOP,,SAS,,H. Jones,NOP,SUB: Richardson FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1080,3,07:10,NOP,,SAS,,H. Jones,NOP,Jones S.FOUL (P3.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G1080,3,05:50,NOP,,SAS,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1080,3,03:44,NOP,85.0,SAS,59.0,H. Jones,NOP,Jones 2' Driving Layup (4 PTS) (Daniels 2 AST),Made Shot,Driving Layup Shot,23,1,2,1,2.0,2.0,h
+S2223-G1080,3,02:39,NOP,,SAS,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1080,3,02:14,NOP,,SAS,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0941,1,09:14,POR,6.0,NOP,5.0,H. Jones,NOP,Jones 26' 3PT Jump Shot (3 PTS) (McCollum 1 AST),Made Shot,Jump Shot,-124,227,26,1,3.0,3.0,v
+S2223-G0941,1,05:53,POR,,NOP,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0941,2,06:47,POR,42.0,NOP,43.0,H. Jones,NOP,Jones 3' Cutting Layup Shot (5 PTS) (McCollum 2 AST),Made Shot,Cutting Layup Shot,13,29,3,1,2.0,2.0,v
+S2223-G0941,2,06:30,POR,,NOP,,H. Jones,NOP,Jones P.FOUL (P1.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2223-G0941,2,05:07,POR,,NOP,,H. Jones,NOP,Jones S.FOUL (P2.T3) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0941,2,04:00,POR,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0941,2,03:58,POR,,NOP,,H. Jones,NOP,MISS Jones 5' Layup,Missed Shot,Layup Shot,-16,46,5,1,2.0,0.0,v
+S2223-G0941,2,03:49,POR,,NOP,,H. Jones,NOP,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0941,2,03:26,POR,,NOP,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0941,3,09:12,POR,,NOP,,H. Jones,NOP,MISS Jones 4' Driving Layup,Missed Shot,Driving Layup Shot,-16,35,4,1,2.0,0.0,v
+S2223-G0941,3,08:26,POR,,NOP,,H. Jones,NOP,MISS Jones 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-59,41,7,1,2.0,0.0,v
+S2223-G0941,3,07:14,POR,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0941,3,04:44,POR,,NOP,,H. Jones,NOP,SUB: Hayes FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0941,3,00:34.200000,POR,,NOP,,H. Jones,NOP,Jones S.FOUL (P3.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0941,3,00:34.200000,POR,,NOP,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0941,4,07:49,POR,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0941,4,06:06,POR,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0941,4,04:53,POR,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0941,4,04:02,POR,101.0,NOP,112.0,H. Jones,NOP,Jones 1' Cutting Layup Shot (7 PTS) (Ingram 3 AST),Made Shot,Cutting Layup Shot,4,14,1,1,2.0,2.0,v
+S2223-G0941,4,03:36,POR,,NOP,,H. Jones,NOP,Jones L.B.FOUL (P4.T3) (E.Lewis),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0941,4,03:06,POR,,NOP,,H. Jones,NOP,MISS Jones 2' Reverse Layup,Missed Shot,Reverse Layup Shot,6,15,2,1,2.0,0.0,v
+S2223-G0941,4,02:41,POR,,NOP,,H. Jones,NOP,Jones P.FOUL (P5.PN) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2223-G0941,4,01:39,POR,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0412,1,11:42,UTA,0.0,NOP,1.0,H. Jones,NOP,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0412,1,11:42,UTA,0.0,NOP,2.0,H. Jones,NOP,Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0412,1,10:08,UTA,,NOP,,H. Jones,NOP,Jones S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0412,1,06:51,UTA,,NOP,,H. Jones,NOP,SUB: Daniels FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0412,2,05:47,UTA,42.0,NOP,42.0,H. Jones,NOP,Jones 3' Cutting Layup Shot (4 PTS) (Alvarado 1 AST),Made Shot,Cutting Layup Shot,-15,31,3,1,2.0,2.0,v
+S2223-G0412,2,04:49,UTA,,NOP,,H. Jones,NOP,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-102,216,24,1,3.0,0.0,v
+S2223-G0412,2,00:59.600000,UTA,,NOP,,H. Jones,NOP,MISS Jones 11' Floating Jump Shot,Missed Shot,Floating Jump shot,-40,100,11,1,2.0,0.0,v
+S2223-G0412,3,05:21,UTA,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0412,4,07:54,UTA,,NOP,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-229,-4,0,1,3.0,0.0,v
+S2223-G0412,4,06:35,UTA,107.0,NOP,82.0,H. Jones,NOP,Jones 2' Reverse Layup (6 PTS) (Daniels 1 AST),Made Shot,Reverse Layup Shot,-18,4,2,1,2.0,2.0,v
+S2223-G0412,4,06:08,UTA,,NOP,,H. Jones,NOP,SUB: Lewis Jr. FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0279,1,11:02,MEM,,NOP,,H. Jones,NOP,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,179,169,25,1,3.0,0.0,v
+S2223-G0279,1,10:09,MEM,7.0,NOP,2.0,H. Jones,NOP,Jones Cutting Layup Shot (2 PTS) (Ingram 1 AST),Made Shot,Cutting Layup Shot,1,1,0,1,2.0,2.0,v
+S2223-G0279,1,09:33,MEM,,NOP,,H. Jones,NOP,MISS Jones 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-21,10,2,1,2.0,0.0,v
+S2223-G0279,1,09:22,MEM,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0279,1,08:34,MEM,12.0,NOP,7.0,H. Jones,NOP,Jones 3PT Jump Shot (5 PTS) (Williamson 1 AST),Made Shot,Jump Shot,-227,-2,0,1,3.0,3.0,v
+S2223-G0279,1,08:01,MEM,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0279,1,07:27,MEM,,NOP,,H. Jones,NOP,Jones L.B.FOUL (P1.T1) (J.Goble),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0279,1,06:33,MEM,,NOP,,H. Jones,NOP,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-129,220,26,1,3.0,0.0,v
+S2223-G0279,1,06:09,MEM,,NOP,,H. Jones,NOP,SUB: Murphy III FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0279,1,00:00,MEM,,NOP,,H. Jones,NOP,MISS Jones 1' Layup,Missed Shot,Layup Shot,-12,8,1,1,2.0,0.0,v
+S2223-G0279,2,08:00,MEM,,NOP,,H. Jones,NOP,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0279,2,08:00,MEM,59.0,NOP,35.0,H. Jones,NOP,Jones Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0279,2,07:41,MEM,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0279,2,07:24,MEM,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0279,2,06:51,MEM,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0279,2,06:49,MEM,,NOP,,H. Jones,NOP,MISS Jones 1' Running Dunk,Missed Shot,Running Dunk Shot,6,9,1,1,2.0,0.0,v
+S2223-G0279,2,06:04,MEM,,NOP,,H. Jones,NOP,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0279,2,05:53,MEM,,NOP,,H. Jones,NOP,MISS Jones 22' Jump Shot,Missed Shot,Jump Shot,78,208,22,1,2.0,0.0,v
+S2223-G0279,2,04:18,MEM,,NOP,,H. Jones,NOP,Jones REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0279,2,00:59.900000,MEM,,NOP,,H. Jones,NOP,Jones OFF.Foul (P2) (S.Wall),Foul,Offensive,0,0,0,0,,,v
+S2223-G0279,2,00:59.900000,MEM,,NOP,,H. Jones,NOP,Jones Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0279,3,10:41,MEM,71.0,NOP,51.0,H. Jones,NOP,Jones 3PT Jump Shot (9 PTS) (Williamson 3 AST),Made Shot,Jump Shot,223,20,0,1,3.0,3.0,v
+S2223-G0279,3,08:37,MEM,,NOP,,H. Jones,NOP,MISS Jones 23' Jump Shot,Missed Shot,Jump Shot,140,178,23,1,2.0,0.0,v
+S2223-G0279,3,08:07,MEM,80.0,NOP,53.0,H. Jones,NOP,Jones 1' Cutting Dunk Shot (11 PTS) (Valanciunas 1 AST),Made Shot,Cutting Dunk Shot,-4,11,1,1,2.0,2.0,v
+S2223-G0279,3,06:06,MEM,86.0,NOP,56.0,H. Jones,NOP,Jones Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0279,3,06:06,MEM,86.0,NOP,57.0,H. Jones,NOP,Jones Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0279,3,04:39,MEM,,NOP,,H. Jones,NOP,SUB: Marshall FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0166,1,11:10,CHI,0.0,NOP,2.0,H. Jones,NOP,Jones 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-4,3,1,1,2.0,2.0,v
+S2223-G0166,1,10:15,CHI,,NOP,,H. Jones,NOP,Jones Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0166,1,06:57,CHI,,NOP,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,229,-1,0,1,3.0,0.0,v
+S2223-G0166,1,05:13,CHI,,NOP,,H. Jones,NOP,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-230,-21,0,1,3.0,0.0,v
+S2223-G0166,1,03:38,CHI,,NOP,,H. Jones,NOP,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0166,1,03:35,CHI,,NOP,,H. Jones,NOP,MISS Jones 1' Running Dunk,Missed Shot,Running Dunk Shot,-1,5,1,1,2.0,0.0,v
+S2223-G0166,1,03:01,CHI,,NOP,,H. Jones,NOP,SUB: McCollum FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0166,2,06:34,CHI,39.0,NOP,32.0,H. Jones,NOP,Jones Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0166,2,06:34,CHI,39.0,NOP,33.0,H. Jones,NOP,Jones Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0166,2,04:48,CHI,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0166,2,04:01,CHI,43.0,NOP,40.0,H. Jones,NOP,Jones 1' Cutting Layup Shot (6 PTS) (Ingram 2 AST),Made Shot,Cutting Layup Shot,5,-2,1,1,2.0,2.0,v
+S2223-G0166,2,02:42,CHI,,NOP,,H. Jones,NOP,Jones S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0166,2,02:13,CHI,,NOP,,H. Jones,NOP,SUB: McCollum FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0166,3,11:14,CHI,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0166,3,09:40,CHI,,NOP,,H. Jones,NOP,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0166,3,09:35,CHI,58.0,NOP,62.0,H. Jones,NOP,Jones Running Layup (8 PTS),Made Shot,Running Layup Shot,0,-1,0,1,2.0,2.0,v
+S2223-G0166,3,09:00,CHI,,NOP,,H. Jones,NOP,Jones P.FOUL (P2.T3) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2223-G0166,3,08:59,CHI,,NOP,,H. Jones,NOP,Jones STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0166,3,08:01,CHI,,NOP,,H. Jones,NOP,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0166,3,07:56,CHI,58.0,NOP,67.0,H. Jones,NOP,Jones Running Dunk (10 PTS),Made Shot,Running Dunk Shot,0,4,0,1,2.0,2.0,v
+S2223-G0166,3,06:24,CHI,,NOP,,H. Jones,NOP,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0166,3,06:22,CHI,,NOP,,H. Jones,NOP,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,0,16,2,1,2.0,0.0,v
+S2223-G0166,3,03:27,CHI,72.0,NOP,74.0,H. Jones,NOP,Jones Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0166,3,03:27,CHI,72.0,NOP,75.0,H. Jones,NOP,Jones Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0166,3,03:13,CHI,,NOP,,H. Jones,NOP,Jones S.FOUL (P3.PN) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0166,3,03:13,CHI,,NOP,,H. Jones,NOP,SUB: McCollum FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0166,4,03:41,CHI,100.0,NOP,102.0,H. Jones,NOP,Jones 2' Driving Finger Roll Layup (14 PTS) (Williamson 1 AST),Made Shot,Driving Finger Roll Layup Shot,-9,12,2,1,2.0,2.0,v
+S2223-G0166,4,01:24,CHI,,NOP,,H. Jones,NOP,Jones S.FOUL (P4.PN) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0166,4,00:13.400000,CHI,109.0,NOP,113.0,H. Jones,NOP,Jones Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0166,4,00:13.400000,CHI,109.0,NOP,114.0,H. Jones,NOP,Jones Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0166,4,00:04.200000,CHI,111.0,NOP,115.0,H. Jones,NOP,Jones Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0166,4,00:04.200000,CHI,,NOP,,H. Jones,NOP,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v

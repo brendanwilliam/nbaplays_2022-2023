@@ -1,0 +1,813 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0935,1,12:00,BOS,,CLE,,R. Williams III,BOS,Jump Ball Williams III vs. Allen: Tip to Horford,Jump Ball,,0,0,0,0,,,h
+S2223-G0935,1,10:30,BOS,,CLE,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0935,1,10:20,BOS,6.0,CLE,2.0,R. Williams III,BOS,Williams III 1' Alley Oop Dunk (2 PTS) (Horford 1 AST),Made Shot,Alley Oop Dunk Shot,-5,7,1,1,2.0,2.0,h
+S2223-G0935,1,09:52,BOS,,CLE,,R. Williams III,BOS,Williams III S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0935,1,07:30,BOS,,CLE,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0935,1,06:57,BOS,,CLE,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0935,1,06:24,BOS,,CLE,,R. Williams III,BOS,SUB: Brogdon FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0935,2,07:09,BOS,,CLE,,R. Williams III,BOS,Williams III Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0935,2,06:30,BOS,,CLE,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0935,2,04:46,BOS,44.0,CLE,38.0,R. Williams III,BOS,Williams III 3' Alley Oop Layup (4 PTS) (Brown 2 AST),Made Shot,Alley Oop Layup shot,-31,13,3,1,2.0,2.0,h
+S2223-G0935,3,10:49,BOS,,CLE,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0935,3,10:18,BOS,,CLE,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0935,3,08:43,BOS,,CLE,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0935,3,08:08,BOS,,CLE,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0935,3,08:07,BOS,67.0,CLE,57.0,R. Williams III,BOS,Williams III 3' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,7,24,3,1,2.0,2.0,h
+S2223-G0935,3,08:07,BOS,68.0,CLE,57.0,R. Williams III,BOS,Williams III Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0935,3,07:09,BOS,,CLE,,R. Williams III,BOS,SUB: Brogdon FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0935,3,02:55,BOS,,CLE,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0935,3,02:32,BOS,89.0,CLE,68.0,R. Williams III,BOS,Williams III 3' Alley Oop Dunk (9 PTS) (White 4 AST),Made Shot,Alley Oop Dunk Shot,12,32,3,1,2.0,2.0,h
+S2223-G0935,3,01:35,BOS,,CLE,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0935,3,01:25,BOS,92.0,CLE,73.0,R. Williams III,BOS,Williams III Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0935,3,01:25,BOS,93.0,CLE,73.0,R. Williams III,BOS,Williams III Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0935,3,00:49.700000,BOS,,CLE,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0935,4,10:13,BOS,,CLE,,R. Williams III,BOS,Williams III P.FOUL (P2.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2223-G0935,4,08:27,BOS,,CLE,,R. Williams III,BOS,Williams III BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0935,4,07:49,BOS,,CLE,,R. Williams III,BOS,Williams III STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0935,4,05:41,BOS,,CLE,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0935,4,05:19,BOS,,CLE,,R. Williams III,BOS,SUB: White FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0714,1,11:58,MIA,,BOS,,R. Williams III,BOS,Williams III Violation:Jump Ball (M.Myers),Violation,Jump Ball,0,0,0,0,,,v
+S2223-G0714,1,11:11,MIA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,1,09:39,MIA,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P1.T1) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0714,1,05:23,MIA,,BOS,,R. Williams III,BOS,SUB: Griffin FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0714,2,11:23,MIA,,BOS,,R. Williams III,BOS,Williams III P.FOUL (P2.T1) (M.Myers),Foul,Personal,0,0,0,0,,,v
+S2223-G0714,2,10:45,MIA,,BOS,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0714,2,09:45,MIA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,2,09:28,MIA,35.0,BOS,37.0,R. Williams III,BOS,Williams III 1' Layup (2 PTS) (Pritchard 4 AST),Made Shot,Layup Shot,-12,5,1,1,2.0,2.0,v
+S2223-G0714,2,08:15,MIA,,BOS,,R. Williams III,BOS,SUB: Tatum FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0714,2,01:04,MIA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,2,01:03,MIA,,BOS,,R. Williams III,BOS,Williams III Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0714,2,01:02,MIA,,BOS,,R. Williams III,BOS,Williams III BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0714,2,00:37.700000,MIA,,BOS,,R. Williams III,BOS,SUB: Kornet FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0714,3,11:31,MIA,50.0,BOS,60.0,R. Williams III,BOS,Williams III 2' Cutting Dunk Shot (4 PTS) (Williams 1 AST),Made Shot,Cutting Dunk Shot,-16,8,2,1,2.0,2.0,v
+S2223-G0714,3,11:31,MIA,50.0,BOS,61.0,R. Williams III,BOS,Williams III Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0714,3,08:42,MIA,,BOS,,R. Williams III,BOS,Williams III Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0714,3,08:12,MIA,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P3.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2223-G0714,3,07:51,MIA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,3,07:50,MIA,,BOS,,R. Williams III,BOS,Williams III Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0714,3,06:40,MIA,58.0,BOS,69.0,R. Williams III,BOS,Williams III 2' Alley Oop Dunk (7 PTS) (White 2 AST),Made Shot,Alley Oop Dunk Shot,-16,17,2,1,2.0,2.0,v
+S2223-G0714,3,06:22,MIA,,BOS,,R. Williams III,BOS,SUB: Kornet FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0714,4,11:13,MIA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,4,10:42,MIA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,4,10:25,MIA,,BOS,,R. Williams III,BOS,MISS Williams III 9' Floating Jump Shot,Missed Shot,Floating Jump shot,-5,90,9,1,2.0,0.0,v
+S2223-G0714,4,08:47,MIA,77.0,BOS,87.0,R. Williams III,BOS,Williams III 1' Alley Oop Dunk (9 PTS) (White 5 AST),Made Shot,Alley Oop Dunk Shot,-12,8,1,1,2.0,2.0,v
+S2223-G0714,4,06:50,MIA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,4,01:48,MIA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,4,01:48,MIA,93.0,BOS,92.0,R. Williams III,BOS,Williams III Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0714,4,00:00.600000,MIA,,BOS,,R. Williams III,BOS,SUB: Pritchard FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0606,1,12:00,BOS,,CHI,,R. Williams III,BOS,Jump Ball Williams III vs. Vucevic: Tip to Brown,Jump Ball,,0,0,0,0,,,h
+S2223-G0606,1,10:51,BOS,2.0,CHI,3.0,R. Williams III,BOS,Williams III 2' Alley Oop Dunk (2 PTS) (Horford 1 AST),Made Shot,Alley Oop Dunk Shot,-7,17,2,1,2.0,2.0,h
+S2223-G0606,1,08:35,BOS,,CHI,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0606,1,08:34,BOS,,CHI,,R. Williams III,BOS,MISS Williams III 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-12,21,2,1,2.0,0.0,h
+S2223-G0606,1,08:09,BOS,,CHI,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0606,1,08:07,BOS,,CHI,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0606,1,07:25,BOS,14.0,CHI,7.0,R. Williams III,BOS,Williams III 3' Cutting Layup Shot (4 PTS) (Tatum 1 AST),Made Shot,Cutting Layup Shot,-5,25,3,1,2.0,2.0,h
+S2223-G0606,1,07:24,BOS,,CHI,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0606,1,04:07,BOS,,CHI,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0606,2,10:54,BOS,,CHI,,R. Williams III,BOS,SUB: Kornet FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0606,3,11:11,BOS,,CHI,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0606,3,10:16,BOS,,CHI,,R. Williams III,BOS,Williams III BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0606,3,09:06,BOS,63.0,CHI,59.0,R. Williams III,BOS,Williams III 2' Cutting Finger Roll Layup Shot (6 PTS) (Tatum 4 AST),Made Shot,Cutting Finger Roll Layup Shot,2,20,2,1,2.0,2.0,h
+S2223-G0606,3,08:27,BOS,,CHI,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0606,3,01:55,BOS,,CHI,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0606,3,01:17,BOS,,CHI,,R. Williams III,BOS,Williams III S.FOUL (P1.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0606,3,00:10.100000,BOS,,CHI,,R. Williams III,BOS,Williams III L.B.FOUL (P2.PN) (K.Cutler),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0606,4,11:09,BOS,,CHI,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0606,4,09:29,BOS,,CHI,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0606,4,09:20,BOS,,CHI,,R. Williams III,BOS,Williams III Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0606,4,08:01,BOS,,CHI,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0692,1,11:14,TOR,2.0,BOS,2.0,R. Williams III,BOS,Williams III 5' Turnaround Hook Shot (2 PTS) (Smart 1 AST),Made Shot,Turnaround Hook Shot,-42,29,5,1,2.0,2.0,v
+S2223-G0692,1,07:31,TOR,,BOS,,R. Williams III,BOS,SUB: Brogdon FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0692,1,04:07,TOR,,BOS,,R. Williams III,BOS,Williams III L.B.FOUL (P1.T2) (D.Mosher),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0692,1,01:55,TOR,,BOS,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0692,1,01:53,TOR,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0692,1,01:30,TOR,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0692,1,00:53,TOR,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0692,1,00:53,TOR,,BOS,,R. Williams III,BOS,MISS Williams III Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0692,1,00:24.600000,TOR,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0692,2,10:24,TOR,,BOS,,R. Williams III,BOS,Williams III STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0692,2,05:50,TOR,,BOS,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0627,1,11:48,BKN,,BOS,,R. Williams III,BOS,Williams III Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0627,1,11:09,BKN,,BOS,,R. Williams III,BOS,MISS Williams III 14' Jump Bank Shot,Missed Shot,Jump Bank Shot,91,108,14,1,2.0,0.0,v
+S2223-G0627,1,10:42,BKN,3.0,BOS,2.0,R. Williams III,BOS,Williams III 3' Cutting Dunk Shot (2 PTS) (Smart 1 AST),Made Shot,Cutting Dunk Shot,2,25,3,1,2.0,2.0,v
+S2223-G0627,1,08:31,BKN,10.0,BOS,9.0,R. Williams III,BOS,Williams III 1' Alley Oop Dunk (4 PTS) (Tatum 2 AST),Made Shot,Alley Oop Dunk Shot,6,1,1,1,2.0,2.0,v
+S2223-G0627,1,07:57,BKN,,BOS,,R. Williams III,BOS,SUB: Kornet FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0627,2,11:14,BKN,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0627,2,10:46,BKN,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P1.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G0627,2,08:06,BKN,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0627,2,06:58,BKN,,BOS,,R. Williams III,BOS,SUB: Tatum FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0627,2,03:45,BKN,,BOS,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0627,2,01:38,BKN,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P2.T3) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G0627,2,00:09.800000,BKN,,BOS,,R. Williams III,BOS,SUB: Pritchard FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0627,3,11:26,BKN,,BOS,,R. Williams III,BOS,MISS Williams III 5' Jump Shot,Missed Shot,Jump Shot,-31,36,5,1,2.0,0.0,v
+S2223-G0627,3,10:39,BKN,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0627,3,10:12,BKN,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0627,3,07:55,BKN,,BOS,,R. Williams III,BOS,MISS Williams III 16' Jump Shot,Missed Shot,Jump Shot,-148,63,16,1,2.0,0.0,v
+S2223-G0627,3,06:52,BKN,,BOS,,R. Williams III,BOS,SUB: Kornet FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0627,3,03:53,BKN,75.0,BOS,72.0,R. Williams III,BOS,Williams III 1' Alley Oop Dunk (6 PTS) (Tatum 3 AST),Made Shot,Alley Oop Dunk Shot,0,11,1,1,2.0,2.0,v
+S2223-G0627,3,03:13,BKN,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0627,3,00:29.200000,BKN,,BOS,,R. Williams III,BOS,SUB: White FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0627,4,03:53,BKN,91.0,BOS,101.0,R. Williams III,BOS,Williams III 1' Alley Oop Dunk (8 PTS) (Tatum 4 AST),Made Shot,Alley Oop Dunk Shot,-5,12,1,1,2.0,2.0,v
+S2223-G0627,4,01:12,BKN,,BOS,,R. Williams III,BOS,SUB: Pritchard FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0430,1,06:17,BOS,,ORL,,R. Williams III,BOS,Williams III OFF.Foul (P1) (T.Mirkovich),Foul,Offensive,0,0,0,0,,,h
+S2223-G0430,1,06:17,BOS,,ORL,,R. Williams III,BOS,Williams III Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0430,1,05:58,BOS,,ORL,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0430,1,05:19,BOS,19.0,ORL,11.0,R. Williams III,BOS,Williams III 1' Alley Oop Dunk (2 PTS) (Smart 4 AST),Made Shot,Alley Oop Dunk Shot,10,10,1,1,2.0,2.0,h
+S2223-G0430,1,04:56,BOS,,ORL,,R. Williams III,BOS,Williams III S.FOUL (P2.T4) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0430,1,04:56,BOS,,ORL,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0430,1,02:56,BOS,,ORL,,R. Williams III,BOS,Williams III S.FOUL (P3.PN) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0430,1,02:56,BOS,,ORL,,R. Williams III,BOS,SUB: Tatum FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0430,2,11:45,BOS,,ORL,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0430,2,11:34,BOS,,ORL,,R. Williams III,BOS,Williams III STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0430,2,07:33,BOS,,ORL,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0430,3,05:37,BOS,,ORL,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0430,3,05:37,BOS,67.0,ORL,77.0,R. Williams III,BOS,Williams III Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0430,3,04:51,BOS,,ORL,,R. Williams III,BOS,MISS Williams III Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0430,3,04:51,BOS,68.0,ORL,79.0,R. Williams III,BOS,Williams III Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0430,3,04:36,BOS,70.0,ORL,79.0,R. Williams III,BOS,Williams III 3' Running Alley Oop Dunk Shot (7 PTS) (Tatum 3 AST),Made Shot,Running Alley Oop Dunk Shot,-2,25,3,1,2.0,2.0,h
+S2223-G0430,3,03:47,BOS,,ORL,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0430,3,02:44,BOS,75.0,ORL,84.0,R. Williams III,BOS,Williams III 2' Cutting Dunk Shot (9 PTS) (Brown 2 AST),Made Shot,Cutting Dunk Shot,-5,22,2,1,2.0,2.0,h
+S2223-G0430,3,02:02,BOS,,ORL,,R. Williams III,BOS,SUB: Griffin FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0430,4,06:01,BOS,,ORL,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0430,4,03:54,BOS,,ORL,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0591,1,03:32,SAS,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0591,1,01:50,SAS,,BOS,,R. Williams III,BOS,Williams III STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0591,1,01:08,SAS,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0591,1,01:03,SAS,27.0,BOS,30.0,R. Williams III,BOS,Williams III Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0591,1,00:28.100000,SAS,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0591,2,09:54,SAS,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P1.T1) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0591,2,09:18,SAS,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0591,2,08:04,SAS,,BOS,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0591,2,02:08,SAS,,BOS,,R. Williams III,BOS,Williams III STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0591,2,01:10,SAS,,BOS,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0591,2,01:05,SAS,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0591,2,01:04,SAS,53.0,BOS,68.0,R. Williams III,BOS,Williams III 2' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,0,20,2,1,2.0,2.0,v
+S2223-G0591,3,02:58,SAS,,BOS,,R. Williams III,BOS,Williams III BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0591,3,00:14.100000,SAS,87.0,BOS,93.0,R. Williams III,BOS,Williams III 1' Cutting Dunk Shot (6 PTS) (Brogdon 4 AST),Made Shot,Cutting Dunk Shot,1,8,1,1,2.0,2.0,v
+S2223-G0591,4,11:28,SAS,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0591,4,11:28,SAS,,BOS,,R. Williams III,BOS,MISS Williams III 10' Tip Layup Shot,Missed Shot,Tip Layup Shot,95,-3,10,1,2.0,0.0,v
+S2223-G0591,4,11:27,SAS,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0591,4,11:27,SAS,91.0,BOS,95.0,R. Williams III,BOS,Williams III Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0591,4,11:19,SAS,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0591,4,09:50,SAS,,BOS,,R. Williams III,BOS,Williams III BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0591,4,09:38,SAS,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0591,4,09:02,SAS,,BOS,,R. Williams III,BOS,Williams III BLOCK (4 BLK),,,0,0,0,0,,,v
+S2223-G0591,4,08:36,SAS,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0591,4,08:21,SAS,,BOS,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0591,4,00:48.700000,SAS,113.0,BOS,116.0,R. Williams III,BOS,Williams III 1' Alley Oop Dunk (10 PTS) (White 10 AST),Made Shot,Alley Oop Dunk Shot,4,10,1,1,2.0,2.0,v
+S2223-G0591,4,00:09.300000,SAS,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0591,4,00:09.300000,SAS,,BOS,,R. Williams III,BOS,SUB: Brogdon FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0495,1,02:00,BOS,,MIL,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0495,1,00:59.500000,BOS,,MIL,,R. Williams III,BOS,Williams III Offensive Goaltending Turnover (P1.T1),Turnover,Offensive Goaltending,0,0,0,0,,,h
+S2223-G0495,2,02:55,BOS,,MIL,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0495,2,02:54,BOS,,MIL,,R. Williams III,BOS,Williams III S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0495,2,02:21,BOS,,MIL,,R. Williams III,BOS,MISS Williams III 4' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-11,42,4,1,2.0,0.0,h
+S2223-G0495,2,01:34,BOS,,MIL,,R. Williams III,BOS,Williams III S.FOUL (P2.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0495,2,01:25,BOS,58.0,MIL,54.0,R. Williams III,BOS,Williams III 4' Alley Oop Dunk (2 PTS) (Smart 5 AST),Made Shot,Alley Oop Dunk Shot,-2,35,4,1,2.0,2.0,h
+S2223-G0495,3,01:39,BOS,,MIL,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0495,3,01:38,BOS,95.0,MIL,84.0,R. Williams III,BOS,Williams III 4' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-31,22,4,1,2.0,2.0,h
+S2223-G0495,4,10:13,BOS,105.0,MIL,91.0,R. Williams III,BOS,Williams III 2' Alley Oop Layup (6 PTS) (Brown 3 AST),Made Shot,Alley Oop Layup shot,15,8,2,1,2.0,2.0,h
+S2223-G0495,4,08:37,BOS,,MIL,,R. Williams III,BOS,Williams III S.FOUL (P3.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0495,4,08:37,BOS,,MIL,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G1206,1,12:00,BOS,,TOR,,R. Williams III,BOS,Jump Ball Williams III vs. Poeltl: Tip to Horford,Jump Ball,,0,0,0,0,,,h
+S2223-G1206,1,10:25,BOS,,TOR,,R. Williams III,BOS,Williams III Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1206,1,10:11,BOS,2.0,TOR,2.0,R. Williams III,BOS,Williams III 1' Cutting Dunk Shot (2 PTS) (Tatum 1 AST),Made Shot,Cutting Dunk Shot,-5,-1,1,1,2.0,2.0,h
+S2223-G1206,1,09:52,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,1,08:46,BOS,,TOR,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1206,1,08:17,BOS,,TOR,,R. Williams III,BOS,Williams III BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1206,1,08:15,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,1,07:51,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,1,07:22,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,1,06:23,BOS,,TOR,,R. Williams III,BOS,Williams III STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1206,1,06:15,BOS,,TOR,,R. Williams III,BOS,SUB: Griffin FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G1206,2,07:39,BOS,,TOR,,R. Williams III,BOS,Williams III BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G1206,2,07:33,BOS,47.0,TOR,22.0,R. Williams III,BOS,Williams III 1' Running Layup (4 PTS) (Horford 1 AST),Made Shot,Running Layup Shot,-6,10,1,1,2.0,2.0,h
+S2223-G1206,2,04:21,BOS,,TOR,,R. Williams III,BOS,Williams III STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1206,2,03:16,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,2,02:31,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,2,00:23.600000,BOS,,TOR,,R. Williams III,BOS,Williams III P.FOUL (P1.PN) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2223-G1206,2,00:05.800000,BOS,,TOR,,R. Williams III,BOS,SUB: Muscala FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G1206,3,11:28,BOS,,TOR,,R. Williams III,BOS,MISS Williams III 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,58,43,7,1,2.0,0.0,h
+S2223-G1206,3,09:55,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,3,09:03,BOS,73.0,TOR,47.0,R. Williams III,BOS,Williams III 5' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,43,24,5,1,2.0,2.0,h
+S2223-G1206,3,08:48,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,3,07:20,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1206,3,06:44,BOS,,TOR,,R. Williams III,BOS,Williams III OFF.Foul (P2) (J.Goldenberg),Foul,Offensive,0,0,0,0,,,h
+S2223-G1206,3,06:44,BOS,,TOR,,R. Williams III,BOS,Williams III Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1206,3,05:57,BOS,76.0,TOR,57.0,R. Williams III,BOS,Williams III 2' Alley Oop Layup (8 PTS) (White 6 AST),Made Shot,Alley Oop Layup shot,12,10,2,1,2.0,2.0,h
+S2223-G1206,3,05:57,BOS,,TOR,,R. Williams III,BOS,MISS Williams III Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1206,3,01:30,BOS,,TOR,,R. Williams III,BOS,SUB: Griffin FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0525,1,01:13,BOS,,LAC,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0525,1,00:02.900000,BOS,,LAC,,R. Williams III,BOS,Williams III Backcourt Turnover (P1.T1),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2223-G0525,2,11:46,BOS,,LAC,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0525,2,11:40,BOS,,LAC,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0525,2,11:09,BOS,28.0,LAC,26.0,R. Williams III,BOS,Williams III Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0525,2,11:09,BOS,29.0,LAC,26.0,R. Williams III,BOS,Williams III Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0525,2,07:31,BOS,,LAC,,R. Williams III,BOS,SUB: Brown FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0525,2,04:20,BOS,,LAC,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0525,2,03:45,BOS,,LAC,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0525,2,02:01,BOS,,LAC,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0525,2,02:00,BOS,56.0,LAC,43.0,R. Williams III,BOS,Williams III Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0525,2,01:30,BOS,,LAC,,R. Williams III,BOS,Williams III L.B.FOUL (P1.T4) (M.Myers),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0525,2,00:00.500000,BOS,,LAC,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0525,2,00:00.500000,BOS,60.0,LAC,49.0,R. Williams III,BOS,Williams III Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0525,3,01:30,BOS,,LAC,,R. Williams III,BOS,Williams III Violation:Defensive Goaltending (S.Foster),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0525,3,00:31.900000,BOS,,LAC,,R. Williams III,BOS,Williams III STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0525,3,00:27.800000,BOS,,LAC,,R. Williams III,BOS,Williams III Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0525,4,11:04,BOS,,LAC,,R. Williams III,BOS,Williams III S.FOUL (P2.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0525,4,10:46,BOS,88.0,LAC,87.0,R. Williams III,BOS,Williams III 1' Layup (8 PTS) (Brown 2 AST),Made Shot,Layup Shot,2,5,1,1,2.0,2.0,h
+S2223-G0525,4,09:58,BOS,91.0,LAC,90.0,R. Williams III,BOS,Williams III Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0525,4,09:58,BOS,92.0,LAC,90.0,R. Williams III,BOS,Williams III Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0525,4,09:36,BOS,94.0,LAC,90.0,R. Williams III,BOS,Williams III 1' Cutting Dunk Shot (12 PTS) (White 3 AST),Made Shot,Cutting Dunk Shot,12,5,1,1,2.0,2.0,h
+S2223-G0525,4,08:48,BOS,,LAC,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0525,4,01:37,BOS,,LAC,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0948,1,12:00,BOS,,BKN,,R. Williams III,BOS,Jump Ball Williams III vs. Claxton: Tip to Smart,Jump Ball,,0,0,0,0,,,h
+S2223-G0948,1,10:05,BOS,,BKN,,R. Williams III,BOS,Williams III S.FOUL (P1.T1) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0948,1,08:48,BOS,12.0,BKN,3.0,R. Williams III,BOS,Williams III Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0948,1,08:48,BOS,13.0,BKN,3.0,R. Williams III,BOS,Williams III Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0948,1,08:17,BOS,,BKN,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0948,1,08:17,BOS,,BKN,,R. Williams III,BOS,MISS Williams III Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0948,1,08:16,BOS,,BKN,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0948,1,08:14,BOS,,BKN,,R. Williams III,BOS,Williams III Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0948,1,07:03,BOS,,BKN,,R. Williams III,BOS,SUB: White FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0948,2,08:05,BOS,,BKN,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0948,2,07:23,BOS,,BKN,,R. Williams III,BOS,SUB: Smart FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0948,2,02:43,BOS,60.0,BKN,39.0,R. Williams III,BOS,Williams III 1' Alley Oop Dunk (4 PTS) (Smart 5 AST),Made Shot,Alley Oop Dunk Shot,-11,2,1,1,2.0,2.0,h
+S2223-G0948,2,01:09,BOS,,BKN,,R. Williams III,BOS,Williams III S.FOUL (P2.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0948,2,00:44.300000,BOS,,BKN,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0948,2,00:15.400000,BOS,,BKN,,R. Williams III,BOS,MISS Williams III 5' Driving Layup,Missed Shot,Driving Layup Shot,-38,33,5,1,2.0,0.0,h
+S2223-G0948,3,10:33,BOS,,BKN,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0948,3,07:49,BOS,70.0,BKN,67.0,R. Williams III,BOS,Williams III 2' Alley Oop Dunk (6 PTS) (Tatum 4 AST),Made Shot,Alley Oop Dunk Shot,-12,17,2,1,2.0,2.0,h
+S2223-G0948,3,07:30,BOS,,BKN,,R. Williams III,BOS,Williams III BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0948,3,07:09,BOS,,BKN,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0948,3,07:02,BOS,,BKN,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0948,3,07:02,BOS,,BKN,,R. Williams III,BOS,MISS Williams III Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0948,3,07:02,BOS,,BKN,,R. Williams III,BOS,MISS Williams III Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0948,3,06:11,BOS,,BKN,,R. Williams III,BOS,Williams III S.FOUL (P3.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0948,3,06:11,BOS,,BKN,,R. Williams III,BOS,SUB: Kornet FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0549,1,01:54,DEN,33.0,BOS,25.0,R. Williams III,BOS,Williams III 2' Driving Reverse Layup (2 PTS) (Tatum 2 AST),Made Shot,Driving Reverse Layup Shot,-20,8,2,1,2.0,2.0,v
+S2223-G0549,2,09:58,DEN,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0549,2,09:54,DEN,,BOS,,R. Williams III,BOS,Williams III Offensive Goaltending Turnover (P1.T3),Turnover,Offensive Goaltending,0,0,0,0,,,v
+S2223-G0549,2,09:30,DEN,,BOS,,R. Williams III,BOS,Williams III OFF.Foul (P1) (K.Cutler),Foul,Offensive,0,0,0,0,,,v
+S2223-G0549,2,09:30,DEN,,BOS,,R. Williams III,BOS,Williams III Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0549,2,07:36,DEN,,BOS,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0549,2,02:46,DEN,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0549,2,02:36,DEN,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0549,2,02:10,DEN,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0549,2,00:15,DEN,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P2.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0549,2,00:07.200000,DEN,,BOS,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0549,3,02:54,DEN,88.0,BOS,77.0,R. Williams III,BOS,Williams III 3' Dunk (4 PTS) (White 3 AST),Made Shot,Dunk Shot,-9,26,3,1,2.0,2.0,v
+S2223-G0549,4,10:52,DEN,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0549,4,10:12,DEN,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0549,4,10:12,DEN,101.0,BOS,89.0,R. Williams III,BOS,Williams III Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0549,4,08:06,DEN,107.0,BOS,94.0,R. Williams III,BOS,Williams III 2' Running Alley Oop Dunk Shot (8 PTS) (Brown 3 AST),Made Shot,Running Alley Oop Dunk Shot,-9,15,2,1,2.0,2.0,v
+S2223-G0549,4,07:44,DEN,,BOS,,R. Williams III,BOS,SUB: Tatum FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0772,1,12:00,BOS,,BKN,,R. Williams III,BOS,Jump Ball Williams III vs. Claxton: Tip to White,Jump Ball,,0,0,0,0,,,h
+S2223-G0772,1,11:10,BOS,2.0,BKN,0.0,R. Williams III,BOS,Williams III Cutting Dunk Shot (2 PTS) (Brown 1 AST),Made Shot,Cutting Dunk Shot,0,4,0,1,2.0,2.0,h
+S2223-G0772,1,09:34,BOS,,BKN,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,1,09:34,BOS,,BKN,,R. Williams III,BOS,MISS Williams III Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0772,1,09:33,BOS,,BKN,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,1,09:33,BOS,9.0,BKN,3.0,R. Williams III,BOS,Williams III Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0772,1,07:52,BOS,,BKN,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,1,07:29,BOS,,BKN,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0772,1,07:09,BOS,,BKN,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,1,07:09,BOS,18.0,BKN,3.0,R. Williams III,BOS,Williams III Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0772,1,06:46,BOS,,BKN,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,1,06:18,BOS,,BKN,,R. Williams III,BOS,Williams III S.FOUL (P1.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0772,1,06:18,BOS,,BKN,,R. Williams III,BOS,SUB: Brogdon FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0772,2,11:39,BOS,,BKN,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,2,11:04,BOS,,BKN,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,2,11:03,BOS,50.0,BKN,18.0,R. Williams III,BOS,Williams III 1' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,10,-1,1,1,2.0,2.0,h
+S2223-G0772,2,10:44,BOS,,BKN,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,2,08:28,BOS,56.0,BKN,28.0,R. Williams III,BOS,Williams III 1' Layup (10 PTS) (Brown 2 AST),Made Shot,Layup Shot,4,5,1,1,2.0,2.0,h
+S2223-G0772,2,07:26,BOS,,BKN,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0772,2,01:39,BOS,73.0,BKN,45.0,R. Williams III,BOS,Williams III 1' Running Alley Oop Dunk Shot (12 PTS) (Tatum 2 AST),Made Shot,Running Alley Oop Dunk Shot,4,7,1,1,2.0,2.0,h
+S2223-G0772,3,11:29,BOS,,BKN,,R. Williams III,BOS,Williams III P.FOUL (P2.T1) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0772,3,09:32,BOS,84.0,BKN,50.0,R. Williams III,BOS,Williams III 7' Turnaround Jump Shot (14 PTS),Made Shot,Turnaround Jump Shot,-58,42,7,1,2.0,2.0,h
+S2223-G0772,3,08:11,BOS,,BKN,,R. Williams III,BOS,Williams III S.FOUL (P3.T3) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0772,3,06:03,BOS,,BKN,,R. Williams III,BOS,Williams III REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,3,06:02,BOS,96.0,BKN,62.0,R. Williams III,BOS,Williams III Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0772,3,06:02,BOS,97.0,BKN,62.0,R. Williams III,BOS,Williams III Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0772,3,05:41,BOS,,BKN,,R. Williams III,BOS,SUB: Brogdon FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0908,1,06:40,PHI,,BOS,,R. Williams III,BOS,SUB: White FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0908,1,02:09,PHI,28.0,BOS,21.0,R. Williams III,BOS,Williams III 2' Alley Oop Layup (2 PTS) (Tatum 2 AST),Made Shot,Alley Oop Layup shot,-17,2,2,1,2.0,2.0,v
+S2223-G0908,1,00:43.400000,PHI,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0908,1,00:00.200000,PHI,30.0,BOS,28.0,R. Williams III,BOS,Williams III 15' Jump Shot (4 PTS) (White 1 AST),Made Shot,Jump Shot,-150,20,15,1,2.0,2.0,v
+S2223-G0908,2,09:53,PHI,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0908,2,09:53,PHI,30.0,BOS,36.0,R. Williams III,BOS,Williams III Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0908,2,09:06,PHI,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0908,2,09:00,PHI,,BOS,,R. Williams III,BOS,Williams III L.B.FOUL (P1.T2) (M.Davis),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0908,2,07:06,PHI,,BOS,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0908,3,10:37,PHI,61.0,BOS,52.0,R. Williams III,BOS,Williams III 1' Cutting Layup Shot (8 PTS) (Horford 2 AST),Made Shot,Cutting Layup Shot,-9,3,1,1,2.0,2.0,v
+S2223-G0908,3,07:10,PHI,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0908,3,07:10,PHI,67.0,BOS,56.0,R. Williams III,BOS,Williams III Putback Layup (10 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0908,3,06:35,PHI,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0908,3,05:42,PHI,,BOS,,R. Williams III,BOS,Williams III STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0908,3,04:09,PHI,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0908,3,03:30,PHI,,BOS,,R. Williams III,BOS,SUB: Brogdon FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0908,3,00:01.300000,PHI,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0908,3,00:00.100000,PHI,,BOS,,R. Williams III,BOS,Williams III Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0908,4,11:46,PHI,78.0,BOS,82.0,R. Williams III,BOS,Williams III Alley Oop Dunk (12 PTS) (Williams 1 AST),Made Shot,Alley Oop Dunk Shot,1,3,0,1,2.0,2.0,v
+S2223-G0908,4,07:30,PHI,85.0,BOS,93.0,R. Williams III,BOS,Williams III 1' Running Dunk (14 PTS) (Brown 3 AST),Made Shot,Running Dunk Shot,-4,11,1,1,2.0,2.0,v
+S2223-G0908,4,06:08,PHI,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0908,4,05:20,PHI,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P2.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0908,4,03:35,PHI,,BOS,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0908,4,00:10.800000,PHI,,BOS,,R. Williams III,BOS,SUB: White FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0656,1,11:26,CHA,,BOS,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0656,1,11:26,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0656,1,11:15,CHA,,BOS,,R. Williams III,BOS,Williams III Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0656,1,08:26,CHA,7.0,BOS,12.0,R. Williams III,BOS,Williams III Running Dunk (2 PTS) (Tatum 1 AST),Made Shot,Running Dunk Shot,0,1,0,1,2.0,2.0,v
+S2223-G0656,1,07:59,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0656,1,06:39,CHA,,BOS,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0656,2,05:13,CHA,38.0,BOS,51.0,R. Williams III,BOS,Williams III 2' Cutting Layup Shot (4 PTS) (White 3 AST),Made Shot,Cutting Layup Shot,6,22,2,1,2.0,2.0,v
+S2223-G0656,2,00:35.800000,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0656,3,10:47,CHA,60.0,BOS,68.0,R. Williams III,BOS,Williams III 2' Alley Oop Layup (6 PTS) (Horford 3 AST),Made Shot,Alley Oop Layup shot,16,17,2,1,2.0,2.0,v
+S2223-G0656,3,09:43,CHA,63.0,BOS,72.0,R. Williams III,BOS,Williams III 1' Alley Oop Dunk (8 PTS) (Tatum 4 AST),Made Shot,Alley Oop Dunk Shot,4,13,1,1,2.0,2.0,v
+S2223-G0656,3,09:24,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0656,3,07:14,CHA,,BOS,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0656,3,02:52,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0656,3,02:11,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0656,3,02:11,CHA,,BOS,,R. Williams III,BOS,MISS Williams III Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0656,3,01:32,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0656,3,00:32.900000,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0656,4,03:45,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0507,1,02:30,BOS,,HOU,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,1,02:18,BOS,,HOU,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,1,02:18,BOS,19.0,HOU,18.0,R. Williams III,BOS,Williams III Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0507,1,01:18,BOS,,HOU,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0507,1,01:14,BOS,,HOU,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,2,10:58,BOS,,HOU,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,2,09:28,BOS,,HOU,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,2,08:50,BOS,,HOU,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,2,08:38,BOS,,HOU,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,2,08:37,BOS,31.0,HOU,27.0,R. Williams III,BOS,Williams III Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0507,2,08:37,BOS,32.0,HOU,27.0,R. Williams III,BOS,Williams III Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0507,2,08:05,BOS,,HOU,,R. Williams III,BOS,Williams III S.FOUL (P1.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G0507,2,07:54,BOS,,HOU,,R. Williams III,BOS,SUB: Smart FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0507,3,03:16,BOS,,HOU,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,3,01:14,BOS,,HOU,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,3,00:47,BOS,,HOU,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,3,00:35.600000,BOS,,HOU,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,3,00:05.400000,BOS,92.0,HOU,78.0,R. Williams III,BOS,Williams III 1' Cutting Dunk Shot (6 PTS) (Brogdon 7 AST),Made Shot,Cutting Dunk Shot,-7,9,1,1,2.0,2.0,h
+S2223-G0507,4,10:07,BOS,101.0,HOU,84.0,R. Williams III,BOS,Williams III 2' Running Alley Oop Dunk Shot (8 PTS) (Brogdon 8 AST),Made Shot,Running Alley Oop Dunk Shot,-10,13,2,1,2.0,2.0,h
+S2223-G0507,4,09:14,BOS,,HOU,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,4,07:56,BOS,,HOU,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,4,07:55,BOS,102.0,HOU,87.0,R. Williams III,BOS,Williams III Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0507,4,07:55,BOS,,HOU,,R. Williams III,BOS,MISS Williams III Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0507,4,07:40,BOS,,HOU,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,4,05:32,BOS,,HOU,,R. Williams III,BOS,Williams III REBOUND (Off:5 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0507,4,02:43,BOS,120.0,HOU,99.0,R. Williams III,BOS,Williams III 2' Alley Oop Dunk (11 PTS) (Smart 6 AST),Made Shot,Alley Oop Dunk Shot,-12,16,2,1,2.0,2.0,h
+S2223-G0507,4,02:40,BOS,,HOU,,R. Williams III,BOS,SUB: Jackson FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0679,1,12:00,BOS,,GSW,,R. Williams III,BOS,Jump Ball Williams III vs. Green: Tip to Smart,Jump Ball,,0,0,0,0,,,h
+S2223-G0679,1,07:38,BOS,,GSW,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0679,1,07:37,BOS,,GSW,,R. Williams III,BOS,MISS Williams III 3' Putback Layup,Missed Shot,Putback Layup Shot,22,12,3,1,2.0,0.0,h
+S2223-G0679,1,05:39,BOS,17.0,GSW,14.0,R. Williams III,BOS,Williams III 2' Alley Oop Layup (2 PTS) (Tatum 2 AST),Made Shot,Alley Oop Layup shot,-10,17,2,1,2.0,2.0,h
+S2223-G0679,1,04:53,BOS,,GSW,,R. Williams III,BOS,SUB: Brogdon FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0679,2,05:48,BOS,,GSW,,R. Williams III,BOS,Williams III Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0679,2,04:21,BOS,,GSW,,R. Williams III,BOS,Williams III OFF.Foul (P1) (A.Smith),Foul,Offensive,0,0,0,0,,,h
+S2223-G0679,2,04:21,BOS,,GSW,,R. Williams III,BOS,Williams III Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0679,2,03:25,BOS,,GSW,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0679,2,02:29,BOS,47.0,GSW,45.0,R. Williams III,BOS,Williams III 5' Running Alley Oop Dunk Shot (4 PTS) (Tatum 3 AST),Made Shot,Running Alley Oop Dunk Shot,-20,49,5,1,2.0,2.0,h
+S2223-G0679,2,01:45,BOS,49.0,GSW,47.0,R. Williams III,BOS,Williams III 10' Cutting Layup Shot (6 PTS) (Tatum 4 AST),Made Shot,Cutting Layup Shot,-21,94,10,1,2.0,2.0,h
+S2223-G0679,2,01:45,BOS,50.0,GSW,47.0,R. Williams III,BOS,Williams III Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0679,2,01:12,BOS,,GSW,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0679,2,01:12,BOS,52.0,GSW,50.0,R. Williams III,BOS,Williams III Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0679,2,01:05,BOS,,GSW,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0679,2,00:27.100000,BOS,,GSW,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0679,2,00:26.100000,BOS,54.0,GSW,52.0,R. Williams III,BOS,Williams III 6' Jump Shot (11 PTS),Made Shot,Jump Shot,-52,18,6,1,2.0,2.0,h
+S2223-G0679,3,10:08,BOS,57.0,GSW,61.0,R. Williams III,BOS,Williams III 5' Reverse Layup (13 PTS),Made Shot,Reverse Layup Shot,28,36,5,1,2.0,2.0,h
+S2223-G0679,3,09:55,BOS,,GSW,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0679,3,08:02,BOS,,GSW,,R. Williams III,BOS,SUB: Brogdon FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0679,3,03:28,BOS,,GSW,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0679,3,01:47,BOS,,GSW,,R. Williams III,BOS,Williams III REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0679,3,00:21,BOS,,GSW,,R. Williams III,BOS,Williams III REBOUND (Off:6 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0679,4,11:29,BOS,,GSW,,R. Williams III,BOS,Williams III REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0679,4,11:17,BOS,,GSW,,R. Williams III,BOS,Williams III REBOUND (Off:7 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0679,4,11:16,BOS,,GSW,,R. Williams III,BOS,MISS Williams III 5' Putback Layup,Missed Shot,Putback Layup Shot,21,40,5,1,2.0,0.0,h
+S2223-G0679,4,10:33,BOS,,GSW,,R. Williams III,BOS,MISS Williams III Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0679,4,10:33,BOS,84.0,GSW,90.0,R. Williams III,BOS,Williams III Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0679,4,09:24,BOS,,GSW,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0679,5,05:00,BOS,,GSW,,R. Williams III,BOS,Jump Ball Williams III vs. Wiggins: Tip to Brown,Jump Ball,,0,0,0,0,,,h
+S2223-G0679,5,03:23,BOS,,GSW,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0788,1,12:00,BOS,,PHX,,R. Williams III,BOS,Jump Ball Williams III vs. Ayton: Tip to Brown,Jump Ball,,0,0,0,0,,,h
+S2223-G0788,1,10:40,BOS,,PHX,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0788,1,07:56,BOS,,PHX,,R. Williams III,BOS,SUB: Brogdon FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0788,2,08:12,BOS,,PHX,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0788,2,04:14,BOS,33.0,PHX,50.0,R. Williams III,BOS,Williams III 2' Cutting Dunk Shot (2 PTS) (White 1 AST),Made Shot,Cutting Dunk Shot,0,24,2,1,2.0,2.0,h
+S2223-G0788,2,03:17,BOS,,PHX,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0788,2,02:19,BOS,,PHX,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0788,3,11:30,BOS,,PHX,,R. Williams III,BOS,Williams III OFF.Foul (P1) (D.Collins),Foul,Offensive,0,0,0,0,,,h
+S2223-G0788,3,11:30,BOS,,PHX,,R. Williams III,BOS,Williams III Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0788,3,10:23,BOS,,PHX,,R. Williams III,BOS,Williams III BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0788,3,09:51,BOS,,PHX,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0788,3,09:29,BOS,,PHX,,R. Williams III,BOS,Williams III S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0788,3,07:58,BOS,,PHX,,R. Williams III,BOS,SUB: Kornet FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0788,3,01:33,BOS,,PHX,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0788,3,00:26.800000,BOS,,PHX,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0788,3,00:00.600000,BOS,73.0,PHX,74.0,R. Williams III,BOS,Williams III 12' Jump Shot (4 PTS) (Tatum 4 AST),Made Shot,Jump Shot,-44,115,12,1,2.0,2.0,h
+S2223-G0788,4,08:59,BOS,,PHX,,R. Williams III,BOS,Williams III OFF.Foul (P3) (G.Petraitis),Foul,Offensive,0,0,0,0,,,h
+S2223-G0788,4,08:59,BOS,,PHX,,R. Williams III,BOS,Williams III Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0788,4,08:08,BOS,,PHX,,R. Williams III,BOS,Williams III BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0788,4,07:28,BOS,,PHX,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0788,4,07:22,BOS,81.0,PHX,88.0,R. Williams III,BOS,Williams III 1' Dunk (6 PTS) (Tatum 5 AST),Made Shot,Dunk Shot,-2,6,1,1,2.0,2.0,h
+S2223-G0788,4,06:22,BOS,,PHX,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0788,4,03:29,BOS,,PHX,,R. Williams III,BOS,MISS Williams III 8' Layup,Missed Shot,Layup Shot,56,58,8,1,2.0,0.0,h
+S2223-G0788,4,01:03,BOS,,PHX,,R. Williams III,BOS,SUB: Hauser FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0730,1,12:00,BOS,,NYK,,R. Williams III,BOS,Jump Ball Williams III vs. Sims: Tip to Horford,Jump Ball,,0,0,0,0,,,h
+S2223-G0730,1,09:21,BOS,,NYK,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0730,1,08:52,BOS,,NYK,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0730,1,06:51,BOS,,NYK,,R. Williams III,BOS,SUB: Brogdon FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0730,1,02:51,BOS,,NYK,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0730,1,00:47,BOS,,NYK,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0730,2,01:54,BOS,53.0,NYK,54.0,R. Williams III,BOS,Williams III 3' Alley Oop Layup (2 PTS) (Brogdon 2 AST),Made Shot,Alley Oop Layup shot,-22,12,3,1,2.0,2.0,h
+S2223-G0730,2,00:30.700000,BOS,,NYK,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0730,3,09:00,BOS,,NYK,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0730,3,08:25,BOS,,NYK,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0730,3,07:09,BOS,,NYK,,R. Williams III,BOS,SUB: Brogdon FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0730,3,04:42,BOS,,NYK,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0730,3,04:33,BOS,75.0,NYK,80.0,R. Williams III,BOS,Williams III 3' Alley Oop Layup (4 PTS) (Tatum 2 AST),Made Shot,Alley Oop Layup shot,5,27,3,1,2.0,2.0,h
+S2223-G0730,3,01:49,BOS,,NYK,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0730,3,01:48,BOS,80.0,NYK,87.0,R. Williams III,BOS,Williams III 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,19,2,1,2.0,2.0,h
+S2223-G0730,3,01:11,BOS,,NYK,,R. Williams III,BOS,Williams III STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0730,4,08:16,BOS,,NYK,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0730,4,05:12,BOS,,NYK,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0730,4,04:24,BOS,,NYK,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0730,4,04:17,BOS,98.0,NYK,106.0,R. Williams III,BOS,Williams III 3' Cutting Layup Shot (8 PTS) (Horford 4 AST),Made Shot,Cutting Layup Shot,18,30,3,1,2.0,2.0,h
+S2223-G0730,4,04:17,BOS,,NYK,,R. Williams III,BOS,MISS Williams III Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0730,4,00:00.500000,BOS,,NYK,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0730,4,00:00,BOS,,NYK,,R. Williams III,BOS,MISS Williams III 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,2,56,6,1,2.0,0.0,h
+S2223-G0730,5,05:00,BOS,,NYK,,R. Williams III,BOS,Jump Ball Williams III vs. Sims: Tip to Brogdon,Jump Ball,,0,0,0,0,,,h
+S2223-G0730,5,00:50.800000,BOS,,NYK,,R. Williams III,BOS,Williams III REBOUND (Off:5 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0730,5,00:21.200000,BOS,,NYK,,R. Williams III,BOS,Williams III P.FOUL (P1.PN) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2223-G0730,5,00:05.700000,BOS,,NYK,,R. Williams III,BOS,SUB: Hauser FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0642,1,09:10,CHA,,BOS,,R. Williams III,BOS,Williams III STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0642,1,07:35,CHA,13.0,BOS,16.0,R. Williams III,BOS,Williams III 3' Running Alley Oop Dunk Shot (2 PTS) (Tatum 3 AST),Made Shot,Running Alley Oop Dunk Shot,5,25,3,1,2.0,2.0,v
+S2223-G0642,1,07:13,CHA,15.0,BOS,18.0,R. Williams III,BOS,Williams III 1' Alley Oop Dunk (4 PTS) (Smart 2 AST),Made Shot,Alley Oop Dunk Shot,5,9,1,1,2.0,2.0,v
+S2223-G0642,1,06:50,CHA,,BOS,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0642,1,02:00,CHA,,BOS,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0642,1,01:06,CHA,,BOS,,R. Williams III,BOS,MISS Williams III 1' Reverse Layup,Missed Shot,Reverse Layup Shot,2,5,1,1,2.0,0.0,v
+S2223-G0642,1,00:52.600000,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0642,1,00:18.200000,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0642,2,10:30,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0642,2,10:29,CHA,,BOS,,R. Williams III,BOS,MISS Williams III 1' Putback Layup,Missed Shot,Putback Layup Shot,9,1,1,1,2.0,0.0,v
+S2223-G0642,2,08:56,CHA,,BOS,,R. Williams III,BOS,SUB: Kornet FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0642,2,05:49,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0642,2,03:52,CHA,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0642,2,03:33,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0642,2,03:21,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0642,2,03:21,CHA,62.0,BOS,49.0,R. Williams III,BOS,Williams III 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,6,10,1,1,2.0,2.0,v
+S2223-G0642,2,03:21,CHA,,BOS,,R. Williams III,BOS,MISS Williams III Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0642,2,00:01.100000,CHA,,BOS,,R. Williams III,BOS,Williams III STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0642,3,11:24,CHA,,BOS,,R. Williams III,BOS,MISS Williams III 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-1,56,6,1,2.0,0.0,v
+S2223-G0642,3,10:59,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0642,3,09:20,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0642,3,07:54,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0642,3,06:52,CHA,,BOS,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0642,3,01:08,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0642,3,00:02.100000,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0642,4,11:42,CHA,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0642,4,10:47,CHA,,BOS,,R. Williams III,BOS,SUB: Kornet FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G1116,1,01:48,BOS,,SAS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,1,00:29.400000,BOS,,SAS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,1,00:29.400000,BOS,29.0,SAS,29.0,R. Williams III,BOS,Williams III 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,10,10,1,1,2.0,2.0,h
+S2223-G1116,1,00:29.400000,BOS,30.0,SAS,29.0,R. Williams III,BOS,Williams III Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1116,2,11:01,BOS,,SAS,,R. Williams III,BOS,MISS Williams III 9' Hook Shot,Missed Shot,Hook Shot,-76,55,9,1,2.0,0.0,h
+S2223-G1116,2,10:44,BOS,,SAS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,2,10:00,BOS,32.0,SAS,38.0,R. Williams III,BOS,Williams III 4' Turnaround Hook Shot (5 PTS) (Brogdon 3 AST),Made Shot,Turnaround Hook Shot,-16,32,4,1,2.0,2.0,h
+S2223-G1116,2,10:00,BOS,,SAS,,R. Williams III,BOS,MISS Williams III Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1116,2,08:58,BOS,34.0,SAS,38.0,R. Williams III,BOS,Williams III 4' Running Layup (7 PTS),Made Shot,Running Layup Shot,-38,15,4,1,2.0,2.0,h
+S2223-G1116,2,08:36,BOS,,SAS,,R. Williams III,BOS,SUB: Smart FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G1116,2,01:48,BOS,,SAS,,R. Williams III,BOS,Williams III P.FOUL (P1.PN) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G1116,3,02:11,BOS,,SAS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,3,02:10,BOS,,SAS,,R. Williams III,BOS,Williams III Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1116,3,01:47,BOS,,SAS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,3,01:47,BOS,92.0,SAS,76.0,R. Williams III,BOS,Williams III Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1116,3,01:02,BOS,,SAS,,R. Williams III,BOS,MISS Williams III 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-29,26,4,1,2.0,0.0,h
+S2223-G1116,3,00:50.500000,BOS,,SAS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,3,00:10.300000,BOS,,SAS,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1116,3,00:09.500000,BOS,,SAS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,4,09:52,BOS,,SAS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1116,4,08:23,BOS,111.0,SAS,81.0,R. Williams III,BOS,Williams III 3' Cutting Dunk Shot (11 PTS) (Brogdon 9 AST),Made Shot,Cutting Dunk Shot,-10,24,3,1,2.0,2.0,h
+S2223-G1116,4,07:01,BOS,,SAS,,R. Williams III,BOS,SUB: Hauser FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0838,1,12:00,BOS,,CHA,,R. Williams III,BOS,Jump Ball Williams III vs. Williams: Tip to Williams,Jump Ball,,0,0,0,0,,,h
+S2223-G0838,1,11:22,BOS,,CHA,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,1,09:57,BOS,,CHA,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,1,09:47,BOS,,CHA,,R. Williams III,BOS,MISS Williams III 5' Layup,Missed Shot,Layup Shot,50,5,5,1,2.0,0.0,h
+S2223-G0838,1,09:33,BOS,,CHA,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,1,08:41,BOS,,CHA,,R. Williams III,BOS,Williams III S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G0838,1,07:00,BOS,,CHA,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,1,06:54,BOS,,CHA,,R. Williams III,BOS,SUB: Griffin FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0838,2,09:26,BOS,,CHA,,R. Williams III,BOS,MISS Williams III 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,20,50,5,1,2.0,0.0,h
+S2223-G0838,2,09:20,BOS,,CHA,,R. Williams III,BOS,Williams III P.FOUL (P2.T1) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0838,2,08:21,BOS,,CHA,,R. Williams III,BOS,SUB: Kornet FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0838,2,04:38,BOS,,CHA,,R. Williams III,BOS,Williams III Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0838,2,04:00,BOS,,CHA,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,2,03:12,BOS,62.0,CHA,43.0,R. Williams III,BOS,Williams III 2' Cutting Layup Shot (2 PTS) (Brogdon 2 AST),Made Shot,Cutting Layup Shot,11,11,2,1,2.0,2.0,h
+S2223-G0838,2,03:12,BOS,,CHA,,R. Williams III,BOS,MISS Williams III Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0838,2,02:16,BOS,,CHA,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,2,02:02,BOS,,CHA,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,2,02:02,BOS,,CHA,,R. Williams III,BOS,Williams III Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0838,2,02:02,BOS,,CHA,,R. Williams III,BOS,SUB: Griffin FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0838,3,11:13,BOS,,CHA,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,3,10:02,BOS,78.0,CHA,58.0,R. Williams III,BOS,Williams III 5' Hook Shot (4 PTS),Made Shot,Hook Shot,-16,48,5,1,2.0,2.0,h
+S2223-G0838,3,09:00,BOS,,CHA,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,3,08:25,BOS,,CHA,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,3,07:50,BOS,,CHA,,R. Williams III,BOS,SUB: Kornet FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0838,3,02:57,BOS,,CHA,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,3,02:37,BOS,,CHA,,R. Williams III,BOS,Williams III S.FOUL (P3.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0838,3,02:00,BOS,,CHA,,R. Williams III,BOS,Williams III Out of Bounds Lost Ball Turnover (P3.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0838,3,01:40,BOS,,CHA,,R. Williams III,BOS,Williams III S.FOUL (P4.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0838,3,00:02,BOS,,CHA,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,4,05:16,BOS,,CHA,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:12),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,4,03:27,BOS,,CHA,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:13),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,4,01:57,BOS,,CHA,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:13),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,4,01:39,BOS,,CHA,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:14),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0838,4,01:00,BOS,,CHA,,R. Williams III,BOS,SUB: Pritchard FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0855,1,12:00,BOS,,MEM,,R. Williams III,BOS,Jump Ball Williams III vs. Jackson Jr.: Tip to Horford,Jump Ball,,0,0,0,0,,,h
+S2223-G0855,1,10:28,BOS,,MEM,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,1,08:36,BOS,,MEM,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,1,08:05,BOS,,MEM,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0855,2,10:36,BOS,,MEM,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,2,08:41,BOS,,MEM,,R. Williams III,BOS,MISS Williams III 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,2,27,3,1,2.0,0.0,h
+S2223-G0855,2,08:15,BOS,31.0,MEM,35.0,R. Williams III,BOS,Williams III 4' Running Layup (2 PTS) (White 4 AST),Made Shot,Running Layup Shot,16,34,4,1,2.0,2.0,h
+S2223-G0855,2,07:07,BOS,,MEM,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0855,2,03:54,BOS,,MEM,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,2,02:08,BOS,54.0,MEM,43.0,R. Williams III,BOS,Williams III 3' Alley Oop Dunk (4 PTS) (White 7 AST),Made Shot,Alley Oop Dunk Shot,-6,30,3,1,2.0,2.0,h
+S2223-G0855,2,01:12,BOS,,MEM,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,2,00:15,BOS,,MEM,,R. Williams III,BOS,Williams III S.FOUL (P1.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0855,3,10:49,BOS,,MEM,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,3,09:44,BOS,,MEM,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,3,07:52,BOS,,MEM,,R. Williams III,BOS,Williams III STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0855,3,07:31,BOS,,MEM,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,3,07:29,BOS,,MEM,,R. Williams III,BOS,MISS Williams III 2' Putback Layup,Missed Shot,Putback Layup Shot,2,18,2,1,2.0,0.0,h
+S2223-G0855,3,06:45,BOS,,MEM,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,3,06:25,BOS,,MEM,,R. Williams III,BOS,MISS Williams III 2' Layup,Missed Shot,Layup Shot,-9,20,2,1,2.0,0.0,h
+S2223-G0855,3,06:24,BOS,,MEM,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,3,06:23,BOS,65.0,MEM,63.0,R. Williams III,BOS,Williams III 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,22,2,1,2.0,2.0,h
+S2223-G0855,3,05:10,BOS,,MEM,,R. Williams III,BOS,SUB: Muscala FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0855,4,11:16,BOS,,MEM,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,4,10:24,BOS,,MEM,,R. Williams III,BOS,Williams III S.FOUL (P2.T2) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0855,4,08:12,BOS,,MEM,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,4,06:38,BOS,,MEM,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,4,05:27,BOS,,MEM,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,4,05:07,BOS,,MEM,,R. Williams III,BOS,Williams III S.FOUL (P3.T3) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0855,4,02:43,BOS,,MEM,,R. Williams III,BOS,Williams III REBOUND (Off:5 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,4,02:43,BOS,109.0,MEM,100.0,R. Williams III,BOS,Williams III 3' Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,-26,-3,3,1,2.0,2.0,h
+S2223-G0855,4,02:03,BOS,,MEM,,R. Williams III,BOS,MISS Williams III 3PT Jump Shot,Missed Shot,Jump Shot,232,29,0,1,3.0,0.0,h
+S2223-G0855,4,01:51,BOS,,MEM,,R. Williams III,BOS,Williams III REBOUND (Off:5 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0855,4,00:27.300000,BOS,115.0,MEM,104.0,R. Williams III,BOS,Williams III 2' Alley Oop Dunk (10 PTS) (White 10 AST),Made Shot,Alley Oop Dunk Shot,-5,15,2,1,2.0,2.0,h
+S2223-G0855,4,00:17.100000,BOS,,MEM,,R. Williams III,BOS,SUB: Pritchard FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0921,1,11:44,NYK,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0921,1,09:35,NYK,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0921,1,06:40,NYK,,BOS,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0921,1,06:35,NYK,,BOS,,R. Williams III,BOS,MISS Williams III Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0921,1,06:35,NYK,,BOS,,R. Williams III,BOS,MISS Williams III Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0921,1,05:55,NYK,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0921,1,05:54,NYK,10.0,BOS,9.0,R. Williams III,BOS,Williams III 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,10,1,1,2.0,2.0,v
+S2223-G0921,1,05:36,NYK,,BOS,,R. Williams III,BOS,SUB: Griffin FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0921,2,11:16,NYK,27.0,BOS,19.0,R. Williams III,BOS,Williams III Dunk (4 PTS) (Brogdon 1 AST),Made Shot,Dunk Shot,2,4,0,1,2.0,2.0,v
+S2223-G0921,2,09:03,NYK,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P1.T1) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G0921,2,08:49,NYK,,BOS,,R. Williams III,BOS,MISS Williams III 1' Layup,Missed Shot,Layup Shot,-10,9,1,1,2.0,0.0,v
+S2223-G0921,2,08:32,NYK,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0921,2,08:23,NYK,37.0,BOS,25.0,R. Williams III,BOS,Williams III 1' Alley Oop Dunk (6 PTS) (White 2 AST),Made Shot,Alley Oop Dunk Shot,4,9,1,1,2.0,2.0,v
+S2223-G0921,2,05:38,NYK,,BOS,,R. Williams III,BOS,Williams III P.FOUL (P2.T3) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2223-G0921,2,05:22,NYK,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0921,2,05:03,NYK,,BOS,,R. Williams III,BOS,Williams III BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0921,2,01:50,NYK,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P3.T4) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G0921,2,01:50,NYK,,BOS,,R. Williams III,BOS,SUB: Brogdon FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0921,3,09:10,NYK,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0921,3,05:47,NYK,,BOS,,R. Williams III,BOS,SUB: Brogdon FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0921,4,08:32,NYK,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0921,4,02:36,NYK,,BOS,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G1081,1,02:38,SAC,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G1081,1,02:18,SAC,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1081,2,08:02,SAC,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1081,2,07:46,SAC,39.0,BOS,42.0,R. Williams III,BOS,Williams III 1' Cutting Dunk Shot (2 PTS) (Brown 1 AST),Made Shot,Cutting Dunk Shot,-10,10,1,1,2.0,2.0,v
+S2223-G1081,2,06:48,SAC,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1081,2,06:32,SAC,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1081,2,06:32,SAC,42.0,BOS,43.0,R. Williams III,BOS,Williams III Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1081,2,06:32,SAC,42.0,BOS,44.0,R. Williams III,BOS,Williams III Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1081,2,04:36,SAC,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P2.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G1081,2,04:17,SAC,,BOS,,R. Williams III,BOS,MISS Williams III 19' Jump Shot,Missed Shot,Jump Shot,-184,31,19,1,2.0,0.0,v
+S2223-G1081,2,03:09,SAC,,BOS,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G1081,3,05:59,SAC,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1081,3,04:26,SAC,76.0,BOS,89.0,R. Williams III,BOS,Williams III 2' Layup (6 PTS) (White 9 AST),Made Shot,Layup Shot,-9,16,2,1,2.0,2.0,v
+S2223-G1081,3,02:53,SAC,,BOS,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1081,3,02:21,SAC,,BOS,,R. Williams III,BOS,Williams III T.FOUL (P2.T2) (B.Nansel),Foul,Technical,0,0,0,0,,,v
+S2223-G1081,3,02:21,SAC,,BOS,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G1081,4,10:52,SAC,,BOS,,R. Williams III,BOS,Williams III P.FOUL (P3.T1) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2223-G1081,4,10:35,SAC,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1081,4,09:40,SAC,,BOS,,R. Williams III,BOS,Williams III OFF.Foul (P4) (J.DeRosa),Foul,Offensive,0,0,0,0,,,v
+S2223-G1081,4,09:40,SAC,,BOS,,R. Williams III,BOS,Williams III Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1081,4,08:51,SAC,,BOS,,R. Williams III,BOS,MISS Williams III 3' Jump Shot,Missed Shot,Jump Shot,-31,13,3,1,2.0,0.0,v
+S2223-G1081,4,07:34,SAC,,BOS,,R. Williams III,BOS,Williams III P.FOUL (P5.T4) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2223-G1081,4,07:22,SAC,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1081,4,05:04,SAC,,BOS,,R. Williams III,BOS,SUB: Smart FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G1097,1,06:04,BOS,,IND,,R. Williams III,BOS,MISS Williams III 8' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,-69,34,8,1,2.0,0.0,h
+S2223-G1097,1,04:42,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1097,1,04:33,BOS,,IND,,R. Williams III,BOS,Williams III STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1097,1,04:16,BOS,,IND,,R. Williams III,BOS,Williams III STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1097,1,04:14,BOS,,IND,,R. Williams III,BOS,Williams III Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1097,1,03:04,BOS,,IND,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1097,1,02:55,BOS,,IND,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G1097,2,08:29,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1097,2,08:15,BOS,42.0,IND,38.0,R. Williams III,BOS,Williams III 1' Alley Oop Dunk (2 PTS) (White 3 AST),Made Shot,Alley Oop Dunk Shot,7,7,1,1,2.0,2.0,h
+S2223-G1097,2,07:16,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1097,2,05:32,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1097,2,04:38,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1097,2,03:51,BOS,,IND,,R. Williams III,BOS,SUB: Smart FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G1097,3,06:12,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1097,3,05:02,BOS,,IND,,R. Williams III,BOS,Williams III S.FOUL (P1.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G1097,3,04:47,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1097,3,04:47,BOS,82.0,IND,70.0,R. Williams III,BOS,Williams III Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1097,3,04:32,BOS,,IND,,R. Williams III,BOS,Williams III BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1097,3,02:28,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1097,3,02:14,BOS,,IND,,R. Williams III,BOS,Williams III STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G1097,3,01:52,BOS,,IND,,R. Williams III,BOS,Williams III BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G1097,3,00:08.700000,BOS,,IND,,R. Williams III,BOS,Williams III S.FOUL (P2.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0887,1,11:10,IND,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0887,1,11:10,IND,0.0,BOS,2.0,R. Williams III,BOS,Williams III 2' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,17,2,1,2.0,2.0,v
+S2223-G0887,1,09:17,IND,,BOS,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0887,1,07:38,IND,10.0,BOS,12.0,R. Williams III,BOS,Williams III 1' Cutting Dunk Shot (4 PTS) (Brown 1 AST),Made Shot,Cutting Dunk Shot,-9,3,1,1,2.0,2.0,v
+S2223-G0887,1,06:08,IND,,BOS,,R. Williams III,BOS,SUB: White FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0887,2,10:56,IND,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0887,2,07:47,IND,,BOS,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0887,3,10:24,IND,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0887,3,07:50,IND,77.0,BOS,77.0,R. Williams III,BOS,Williams III 1' Cutting Dunk Shot (6 PTS) (Horford 5 AST),Made Shot,Cutting Dunk Shot,-10,8,1,1,2.0,2.0,v
+S2223-G0887,3,06:34,IND,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P1.T3) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0887,3,06:34,IND,,BOS,,R. Williams III,BOS,SUB: White FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0887,3,01:43,IND,94.0,BOS,95.0,R. Williams III,BOS,Williams III 3' Running Layup (8 PTS) (Brogdon 4 AST),Made Shot,Running Layup Shot,-22,21,3,1,2.0,2.0,v
+S2223-G0887,4,11:43,IND,,BOS,,R. Williams III,BOS,MISS Williams III 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-4,64,6,1,2.0,0.0,v
+S2223-G0887,4,10:17,IND,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P2.T1) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2223-G0887,4,07:35,IND,,BOS,,R. Williams III,BOS,MISS Williams III 9' Layup,Missed Shot,Layup Shot,-88,20,9,1,2.0,0.0,v
+S2223-G0887,4,06:47,IND,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0887,4,06:21,IND,,BOS,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0887,5,02:38,IND,,BOS,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G1146,1,02:19,MIL,21.0,BOS,27.0,R. Williams III,BOS,Williams III 3' Layup (2 PTS) (Brown 2 AST),Made Shot,Layup Shot,5,28,3,1,2.0,2.0,v
+S2223-G1146,1,01:16,MIL,,BOS,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1146,2,11:38,MIL,26.0,BOS,36.0,R. Williams III,BOS,Williams III 3' Cutting Dunk Shot (4 PTS) (Brogdon 3 AST),Made Shot,Cutting Dunk Shot,2,26,3,1,2.0,2.0,v
+S2223-G1146,2,10:33,MIL,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2223-G1146,2,09:46,MIL,,BOS,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G1146,2,07:02,MIL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1146,2,06:44,MIL,,BOS,,R. Williams III,BOS,Williams III STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1146,2,06:26,MIL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1146,2,06:26,MIL,,BOS,,R. Williams III,BOS,Williams III Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1146,2,05:31,MIL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1146,2,04:52,MIL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1146,2,04:52,MIL,32.0,BOS,54.0,R. Williams III,BOS,Williams III Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1146,2,04:37,MIL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1146,2,04:28,MIL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1146,2,04:17,MIL,,BOS,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G1146,3,02:34,MIL,,BOS,,R. Williams III,BOS,Williams III BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1146,3,01:17,MIL,,BOS,,R. Williams III,BOS,Williams III BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G1146,3,00:59.100000,MIL,,BOS,,R. Williams III,BOS,Williams III BLOCK (4 BLK),,,0,0,0,0,,,v
+S2223-G1146,4,10:14,MIL,76.0,BOS,118.0,R. Williams III,BOS,Williams III Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1146,4,10:14,MIL,,BOS,,R. Williams III,BOS,MISS Williams III Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1146,4,09:50,MIL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1146,4,09:04,MIL,,BOS,,R. Williams III,BOS,SUB: Kornet FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0469,1,02:40,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,1,02:40,BOS,,IND,,R. Williams III,BOS,MISS Williams III 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,7,1,1,2.0,0.0,h
+S2223-G0469,1,02:33,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,1,01:54,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,1,01:51,BOS,17.0,IND,33.0,R. Williams III,BOS,Williams III 2' Dunk (2 PTS) (Brogdon 1 AST),Made Shot,Dunk Shot,-21,6,2,1,2.0,2.0,h
+S2223-G0469,1,01:26,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,1,01:26,BOS,19.0,IND,33.0,R. Williams III,BOS,Williams III Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0469,1,00:45.200000,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,2,03:47,BOS,,IND,,R. Williams III,BOS,Williams III Jump Ball Violation Turnover (P1.T11),Turnover,Jump Ball Violation,0,0,0,0,,,h
+S2223-G0469,2,03:05,BOS,,IND,,R. Williams III,BOS,Williams III Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0469,2,02:53,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,2,01:33,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,2,00:00.400000,BOS,43.0,IND,71.0,R. Williams III,BOS,Williams III 2' Cutting Dunk Shot (6 PTS) (Brogdon 2 AST),Made Shot,Cutting Dunk Shot,-1,22,2,1,2.0,2.0,h
+S2223-G0469,3,04:38,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,3,02:16,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,4,07:51,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,4,04:28,BOS,,IND,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0469,4,03:09,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:7 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,4,03:09,BOS,,IND,,R. Williams III,BOS,MISS Williams III Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0469,4,02:09,BOS,,IND,,R. Williams III,BOS,Williams III S.FOUL (P1.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0469,4,01:07,BOS,,IND,,R. Williams III,BOS,Williams III STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0469,4,00:38.200000,BOS,,IND,,R. Williams III,BOS,Williams III REBOUND (Off:7 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0469,4,00:17.500000,BOS,,IND,,R. Williams III,BOS,SUB: White FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0869,1,03:02,MIL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,1,00:59.400000,MIL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,1,00:59,MIL,27.0,BOS,32.0,R. Williams III,BOS,Williams III 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,6,0,1,1,2.0,2.0,v
+S2223-G0869,1,00:36.800000,MIL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,1,00:32.200000,MIL,27.0,BOS,34.0,R. Williams III,BOS,Williams III 1' Reverse Layup (4 PTS) (Brogdon 1 AST),Made Shot,Reverse Layup Shot,-2,5,1,1,2.0,2.0,v
+S2223-G0869,1,00:04.400000,MIL,,BOS,,R. Williams III,BOS,SUB: White FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0869,2,08:00,MIL,,BOS,,R. Williams III,BOS,SUB: Griffin FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0869,3,03:02,MIL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,3,02:16,MIL,78.0,BOS,92.0,R. Williams III,BOS,Williams III 2' Cutting Layup Shot (6 PTS) (Brogdon 4 AST),Made Shot,Cutting Layup Shot,-17,3,2,1,2.0,2.0,v
+S2223-G0869,4,10:28,MIL,,BOS,,R. Williams III,BOS,SUB: Hauser FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0869,4,07:58,MIL,,BOS,,R. Williams III,BOS,MISS Williams III 4' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,2,41,4,1,2.0,0.0,v
+S2223-G0869,4,07:27,MIL,,BOS,,R. Williams III,BOS,MISS Williams III 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-47,41,6,1,2.0,0.0,v
+S2223-G0869,4,07:12,MIL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0869,4,06:48,MIL,,BOS,,R. Williams III,BOS,SUB: Muscala FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0869,4,00:07.400000,MIL,,BOS,,R. Williams III,BOS,SUB: Hauser FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G1192,1,12:00,BOS,,TOR,,R. Williams III,BOS,Jump Ball Williams III vs. Poeltl: Tip to Muscala,Jump Ball,,0,0,0,0,,,h
+S2223-G1192,1,10:39,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,1,10:29,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,1,10:28,BOS,,TOR,,R. Williams III,BOS,MISS Williams III Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1192,1,10:28,BOS,1.0,TOR,0.0,R. Williams III,BOS,Williams III Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1192,1,09:35,BOS,,TOR,,R. Williams III,BOS,Williams III Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1192,1,06:46,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,1,04:06,BOS,21.0,TOR,22.0,R. Williams III,BOS,Williams III 4' Cutting Layup Shot (3 PTS) (White 1 AST),Made Shot,Cutting Layup Shot,-37,15,4,1,2.0,2.0,h
+S2223-G1192,1,03:55,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,1,03:07,BOS,,TOR,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G1192,2,06:22,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,2,04:46,BOS,47.0,TOR,40.0,R. Williams III,BOS,Williams III 5' Alley Oop Dunk (5 PTS) (White 2 AST),Made Shot,Alley Oop Dunk Shot,-31,34,5,1,2.0,2.0,h
+S2223-G1192,2,02:00,BOS,,TOR,,R. Williams III,BOS,MISS Williams III 15' Jump Shot,Missed Shot,Jump Shot,-147,8,15,1,2.0,0.0,h
+S2223-G1192,3,09:53,BOS,59.0,TOR,50.0,R. Williams III,BOS,Williams III 5' Cutting Layup Shot (7 PTS) (Brown 4 AST),Made Shot,Cutting Layup Shot,23,45,5,1,2.0,2.0,h
+S2223-G1192,3,08:14,BOS,,TOR,,R. Williams III,BOS,Williams III P.FOUL (P1.T3) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2223-G1192,3,07:40,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,3,07:28,BOS,,TOR,,R. Williams III,BOS,Williams III STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1192,3,07:23,BOS,,TOR,,R. Williams III,BOS,SUB: Griffin FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G1192,3,00:37.200000,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,4,09:53,BOS,,TOR,,R. Williams III,BOS,Williams III S.FOUL (P2.T1) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G1192,4,09:53,BOS,,TOR,,R. Williams III,BOS,SUB: Kornet FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G1192,4,05:14,BOS,,TOR,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1192,4,04:15,BOS,,TOR,,R. Williams III,BOS,Williams III Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1192,4,03:30,BOS,,TOR,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1192,4,00:12.600000,BOS,,TOR,,R. Williams III,BOS,SUB: Hauser FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0445,1,06:52,BOS,,ORL,,R. Williams III,BOS,MISS Williams III 8' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,75,28,8,1,2.0,0.0,h
+S2223-G0445,1,05:59,BOS,,ORL,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0445,1,05:19,BOS,10.0,ORL,14.0,R. Williams III,BOS,Williams III 1' Cutting Dunk Shot (2 PTS) (Smart 1 AST),Made Shot,Cutting Dunk Shot,-1,7,1,1,2.0,2.0,h
+S2223-G0445,1,02:06,BOS,,ORL,,R. Williams III,BOS,SUB: Kornet FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0445,2,09:24,BOS,,ORL,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0445,2,07:32,BOS,,ORL,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0445,2,06:33,BOS,,ORL,,R. Williams III,BOS,SUB: White FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0445,3,06:45,BOS,,ORL,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0445,3,06:00,BOS,,ORL,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0445,3,06:00,BOS,59.0,ORL,57.0,R. Williams III,BOS,Williams III Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0445,3,05:04,BOS,,ORL,,R. Williams III,BOS,MISS Williams III 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,17,29,3,1,2.0,0.0,h
+S2223-G0445,3,04:52,BOS,,ORL,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0445,3,03:32,BOS,,ORL,,R. Williams III,BOS,Williams III S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0445,3,02:57,BOS,63.0,ORL,65.0,R. Williams III,BOS,Williams III 2' Alley Oop Dunk (6 PTS) (Williams 2 AST),Made Shot,Alley Oop Dunk Shot,-2,19,2,1,2.0,2.0,h
+S2223-G0445,3,02:21,BOS,,ORL,,R. Williams III,BOS,SUB: Kornet FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0445,4,07:14,BOS,,ORL,,R. Williams III,BOS,Williams III BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0445,4,06:08,BOS,,ORL,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,h
+S2223-G0577,1,03:24,DAL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0577,1,01:33,DAL,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P1.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0577,1,00:31.300000,DAL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0577,2,11:35,DAL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0577,2,10:57,DAL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0577,2,09:52,DAL,,BOS,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0577,2,09:50,DAL,,BOS,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0577,2,01:32,DAL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0577,2,00:32,DAL,46.0,BOS,64.0,R. Williams III,BOS,Williams III Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0577,2,00:32,DAL,,BOS,,R. Williams III,BOS,MISS Williams III Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0577,2,00:19.200000,DAL,,BOS,,R. Williams III,BOS,SUB: Tatum FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0577,3,01:55,DAL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0577,3,01:48,DAL,62.0,BOS,83.0,R. Williams III,BOS,Williams III 2' Finger Roll Layup (3 PTS) (Brogdon 4 AST),Made Shot,Finger Roll Layup Shot,2,15,2,1,2.0,2.0,v
+S2223-G0577,3,01:30,DAL,,BOS,,R. Williams III,BOS,Williams III T.FOUL (P1.T3) (J.Orr),Foul,Technical,0,0,0,0,,,v
+S2223-G0577,3,00:00.900000,DAL,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0577,4,04:37,DAL,,BOS,,R. Williams III,BOS,SUB: White FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G1130,1,05:27,WAS,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1130,1,03:25,WAS,,BOS,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1130,1,02:58,WAS,,BOS,,R. Williams III,BOS,Williams III STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1130,1,02:37,WAS,,BOS,,R. Williams III,BOS,Williams III P.FOUL (P1.T3) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2223-G1130,1,01:09,WAS,,BOS,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G1130,2,03:04,WAS,,BOS,,R. Williams III,BOS,SUB: Horford FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G1130,3,01:14,WAS,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1130,3,00:57.300000,WAS,,BOS,,R. Williams III,BOS,Williams III Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1130,3,00:12.200000,WAS,,BOS,,R. Williams III,BOS,Williams III BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1130,4,11:40,WAS,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P2.T1) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G1130,4,11:14,WAS,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1130,4,09:31,WAS,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1130,4,09:21,WAS,,BOS,,R. Williams III,BOS,SUB: Pritchard FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0808,1,10:51,DET,2.0,BOS,2.0,R. Williams III,BOS,Williams III 3' Alley Oop Dunk (2 PTS) (White 1 AST),Made Shot,Alley Oop Dunk Shot,15,25,3,1,2.0,2.0,v
+S2223-G0808,1,06:54,DET,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,1,06:34,DET,,BOS,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0808,2,08:52,DET,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,2,07:27,DET,,BOS,,R. Williams III,BOS,Williams III BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0808,2,06:58,DET,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,2,06:31,DET,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,2,02:06,DET,,BOS,,R. Williams III,BOS,Williams III STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0808,2,01:53,DET,,BOS,,R. Williams III,BOS,MISS Williams III 4' Layup,Missed Shot,Layup Shot,-43,10,4,1,2.0,0.0,v
+S2223-G0808,2,01:49,DET,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,2,01:48,DET,51.0,BOS,55.0,R. Williams III,BOS,Williams III Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0808,2,00:58.800000,DET,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,2,00:37.900000,DET,,BOS,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0808,3,11:28,DET,,BOS,,R. Williams III,BOS,Williams III OFF.Foul (P1) (B.Taylor),Foul,Offensive,0,0,0,0,,,v
+S2223-G0808,3,11:28,DET,,BOS,,R. Williams III,BOS,Williams III Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0808,3,10:26,DET,55.0,BOS,62.0,R. Williams III,BOS,Williams III 2' Layup (6 PTS) (White 5 AST),Made Shot,Layup Shot,4,21,2,1,2.0,2.0,v
+S2223-G0808,3,10:00,DET,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,3,09:27,DET,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,3,08:59,DET,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,3,08:16,DET,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,3,08:14,DET,57.0,BOS,73.0,R. Williams III,BOS,Williams III 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,7,22,2,1,2.0,2.0,v
+S2223-G0808,3,07:40,DET,,BOS,,R. Williams III,BOS,SUB: Griffin FOR Williams III,Substitution,,0,0,0,0,,,v
+S2223-G0808,4,10:15,DET,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,4,10:06,DET,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,4,10:05,DET,,BOS,,R. Williams III,BOS,MISS Williams III 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,-1,43,4,1,2.0,0.0,v
+S2223-G0808,4,07:54,DET,,BOS,,R. Williams III,BOS,Williams III S.FOUL (P2.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0808,4,07:48,DET,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,4,07:42,DET,86.0,BOS,95.0,R. Williams III,BOS,Williams III 4' Alley Oop Dunk (10 PTS) (Tatum 4 AST),Made Shot,Alley Oop Dunk Shot,-5,36,4,1,2.0,2.0,v
+S2223-G0808,4,06:55,DET,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:5 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,4,06:55,DET,89.0,BOS,97.0,R. Williams III,BOS,Williams III Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0808,4,06:28,DET,91.0,BOS,98.0,R. Williams III,BOS,Williams III Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0808,4,06:28,DET,,BOS,,R. Williams III,BOS,MISS Williams III Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0808,4,05:43,DET,,BOS,,R. Williams III,BOS,Williams III REBOUND (Off:6 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0808,4,05:41,DET,91.0,BOS,100.0,R. Williams III,BOS,Williams III 4' Putback Layup (15 PTS),Made Shot,Putback Layup Shot,-7,42,4,1,2.0,2.0,v
+S2223-G0808,4,02:12,DET,,BOS,,R. Williams III,BOS,Williams III STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0808,4,01:45,DET,,BOS,,R. Williams III,BOS,SUB: Williams FOR Williams III,Substitution,,0,0,0,0,,,v

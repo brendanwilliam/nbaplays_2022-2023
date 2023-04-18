@@ -1,0 +1,1338 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0718,1,01:57,PHX,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0718,1,01:56,PHX,29.0,CHA,12.0,N. Richards,CHA,Richards 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,-6,7,1,1,2.0,2.0,v
+S2223-G0718,1,00:03.400000,PHX,,CHA,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0718,1,00:03.400000,PHX,36.0,CHA,15.0,N. Richards,CHA,Richards Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0718,2,10:38,PHX,39.0,CHA,16.0,N. Richards,CHA,Richards Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0718,2,10:38,PHX,,CHA,,N. Richards,CHA,MISS Richards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0718,2,10:24,PHX,,CHA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0718,2,09:25,PHX,,CHA,,N. Richards,CHA,Richards OFF.Foul (P1) (J.DeRosa),Foul,Offensive,0,0,0,0,,,v
+S2223-G0718,2,09:25,PHX,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0718,2,08:18,PHX,,CHA,,N. Richards,CHA,Richards Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0718,2,07:54,PHX,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0718,3,00:32,PHX,,CHA,,N. Richards,CHA,Richards Inbound Turnover (P3.T10),Turnover,Inbound Turnover,0,0,0,0,,,v
+S2223-G0718,4,11:46,PHX,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0718,4,11:44,PHX,,CHA,,N. Richards,CHA,MISS Richards 1' Hook Shot,Missed Shot,Hook Shot,-5,5,1,1,2.0,0.0,v
+S2223-G0718,4,07:48,PHX,,CHA,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0718,4,07:24,PHX,,CHA,,N. Richards,CHA,Richards S.FOUL (P2.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0718,4,06:01,PHX,,CHA,,N. Richards,CHA,Richards BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0718,4,05:59,PHX,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0718,4,05:49,PHX,,CHA,,N. Richards,CHA,SUB: Bouknight FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G1148,1,03:32,CHA,,CHI,,N. Richards,CHA,Richards Offensive Charge Foul (P1) (P.Ransom),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1148,1,03:32,CHA,,CHI,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1148,1,03:22,CHA,,CHI,,N. Richards,CHA,Richards P.FOUL (P2.T4) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2223-G1148,1,03:14,CHA,,CHI,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1148,1,02:12,CHA,,CHI,,N. Richards,CHA,Richards S.FOUL (P3.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1148,1,02:12,CHA,,CHI,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1148,3,02:44,CHA,,CHI,,N. Richards,CHA,Richards Violation:Defensive Goaltending (G.Petraitis),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G1148,3,02:13,CHA,,CHI,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,3,01:06,CHA,77.0,CHI,86.0,N. Richards,CHA,Richards 26' 3PT Jump Shot (3 PTS) (Bouknight 4 AST),Made Shot,Jump Shot,-16,256,26,1,3.0,3.0,h
+S2223-G1148,4,11:42,CHA,,CHI,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,4,11:13,CHA,,CHI,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,4,07:08,CHA,84.0,CHI,103.0,N. Richards,CHA,Richards 2' Hook Shot (5 PTS) (Maledon 9 AST),Made Shot,Hook Shot,-4,16,2,1,2.0,2.0,h
+S2223-G1148,4,06:56,CHA,,CHI,,N. Richards,CHA,Richards P.FOUL (P4.T2) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2223-G1148,4,06:18,CHA,,CHI,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0260,1,03:22,CHA,,PHI,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0260,1,02:44,CHA,14.0,PHI,22.0,N. Richards,CHA,Richards 2' Floating Jump Shot (2 PTS) (Rozier 1 AST),Made Shot,Floating Jump shot,20,13,2,1,2.0,2.0,h
+S2223-G0260,1,02:44,CHA,,PHI,,N. Richards,CHA,MISS Richards Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0260,1,02:12,CHA,16.0,PHI,25.0,N. Richards,CHA,Richards 2' Jump Bank Shot (4 PTS),Made Shot,Jump Bank Shot,18,6,2,1,2.0,2.0,h
+S2223-G0260,1,01:26,CHA,,PHI,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0260,1,01:25,CHA,,PHI,,N. Richards,CHA,Richards Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0260,1,01:15,CHA,,PHI,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0260,2,11:42,CHA,22.0,PHI,33.0,N. Richards,CHA,Richards Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0260,2,11:42,CHA,23.0,PHI,33.0,N. Richards,CHA,Richards Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0260,2,10:59,CHA,,PHI,,N. Richards,CHA,Richards P.FOUL (P1.T2) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G0260,2,10:14,CHA,,PHI,,N. Richards,CHA,MISS Richards 6' Driving Layup,Missed Shot,Driving Layup Shot,28,49,6,1,2.0,0.0,h
+S2223-G0260,2,10:02,CHA,,PHI,,N. Richards,CHA,Richards REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0260,2,10:01,CHA,,PHI,,N. Richards,CHA,MISS Richards 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,16,12,2,1,2.0,0.0,h
+S2223-G0260,2,08:08,CHA,,PHI,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0260,2,07:34,CHA,34.0,PHI,39.0,N. Richards,CHA,Richards 1' Reverse Layup (8 PTS) (Hayward 2 AST),Made Shot,Reverse Layup Shot,-10,0,1,1,2.0,2.0,h
+S2223-G0260,2,05:50,CHA,,PHI,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0260,3,03:47,CHA,,PHI,,N. Richards,CHA,Richards REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0260,3,03:45,CHA,,PHI,,N. Richards,CHA,MISS Richards 2' Putback Layup,Missed Shot,Putback Layup Shot,-20,8,2,1,2.0,0.0,h
+S2223-G0260,3,03:00,CHA,,PHI,,N. Richards,CHA,Richards REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0260,3,02:30,CHA,,PHI,,N. Richards,CHA,Richards REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0260,3,02:30,CHA,70.0,PHI,71.0,N. Richards,CHA,Richards Putback Layup (10 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0260,3,02:30,CHA,71.0,PHI,71.0,N. Richards,CHA,Richards Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0260,3,02:07,CHA,,PHI,,N. Richards,CHA,Richards REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0260,3,01:15,CHA,,PHI,,N. Richards,CHA,Richards REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0260,4,11:41,CHA,,PHI,,N. Richards,CHA,Richards REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0260,4,11:13,CHA,,PHI,,N. Richards,CHA,Richards REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0260,4,10:57,CHA,,PHI,,N. Richards,CHA,Richards REBOUND (Off:5 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0260,4,10:57,CHA,,PHI,,N. Richards,CHA,MISS Richards Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0260,4,09:39,CHA,,PHI,,N. Richards,CHA,MISS Richards 7' Floating Jump Shot,Missed Shot,Floating Jump shot,-12,67,7,1,2.0,0.0,h
+S2223-G0260,4,08:23,CHA,,PHI,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0260,4,08:11,CHA,81.0,PHI,81.0,N. Richards,CHA,Richards 1' Layup (13 PTS) (Rozier 6 AST),Made Shot,Layup Shot,-6,-1,1,1,2.0,2.0,h
+S2223-G0260,4,05:31,CHA,,PHI,,N. Richards,CHA,Richards STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0260,4,04:46,CHA,,PHI,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0364,1,03:17,BKN,22.0,CHA,21.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (2 PTS) (Washington 3 AST),Made Shot,Cutting Dunk Shot,5,-5,1,1,2.0,2.0,v
+S2223-G0364,1,01:30,BKN,,CHA,,N. Richards,CHA,Richards FLAGRANT.FOUL.TYPE1 (P1.T3) (G.Petraitis),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2223-G0364,2,07:08,BKN,,CHA,,N. Richards,CHA,Richards S.FOUL (P2.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2223-G0364,2,06:18,BKN,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0919,1,03:41,CHA,27.0,DET,19.0,N. Richards,CHA,Richards Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0919,1,03:41,CHA,28.0,DET,19.0,N. Richards,CHA,Richards Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0919,1,03:17,CHA,,DET,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0919,1,02:18,CHA,,DET,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0919,1,01:16,CHA,,DET,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0919,1,00:40.600000,CHA,40.0,DET,19.0,N. Richards,CHA,Richards Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0919,1,00:40.600000,CHA,41.0,DET,19.0,N. Richards,CHA,Richards Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0919,2,11:32,CHA,,DET,,N. Richards,CHA,Richards P.FOUL (P1.T1) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2223-G0919,2,10:33,CHA,,DET,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0919,2,10:28,CHA,44.0,DET,23.0,N. Richards,CHA,Richards Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0919,2,10:28,CHA,,DET,,N. Richards,CHA,MISS Richards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0919,2,07:33,CHA,,DET,,N. Richards,CHA,Richards REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0919,2,07:23,CHA,,DET,,N. Richards,CHA,MISS Richards 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,22,64,7,1,2.0,0.0,h
+S2223-G0919,2,07:00,CHA,,DET,,N. Richards,CHA,SUB: Rozier FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0919,3,04:41,CHA,,DET,,N. Richards,CHA,Richards REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0919,3,03:53,CHA,,DET,,N. Richards,CHA,Richards REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0919,3,03:52,CHA,88.0,DET,66.0,N. Richards,CHA,Richards 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,13,13,2,1,2.0,2.0,h
+S2223-G0919,3,02:48,CHA,90.0,DET,70.0,N. Richards,CHA,Richards 2' Cutting Layup Shot (9 PTS) (Smith Jr. 4 AST),Made Shot,Cutting Layup Shot,-9,17,2,1,2.0,2.0,h
+S2223-G0919,3,02:32,CHA,,DET,,N. Richards,CHA,Richards REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0919,3,02:08,CHA,,DET,,N. Richards,CHA,Richards REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0919,3,01:32,CHA,,DET,,N. Richards,CHA,Richards L.B.FOUL (P2.PN) (S.Foster),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0919,3,01:28,CHA,,DET,,N. Richards,CHA,Richards REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0919,3,00:41.600000,CHA,,DET,,N. Richards,CHA,MISS Richards 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,27,47,5,1,2.0,0.0,h
+S2223-G0919,3,00:07.300000,CHA,,DET,,N. Richards,CHA,MISS Richards 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-12,42,4,1,2.0,0.0,h
+S2223-G0919,4,09:02,CHA,,DET,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0082,1,03:12,CHA,,GSW,,N. Richards,CHA,MISS Richards 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-20,44,5,1,2.0,0.0,h
+S2223-G0082,1,03:12,CHA,,GSW,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0082,1,03:11,CHA,,GSW,,N. Richards,CHA,MISS Richards Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0082,1,02:56,CHA,,GSW,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0082,1,02:07,CHA,,GSW,,N. Richards,CHA,Richards REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0082,1,02:07,CHA,28.0,GSW,19.0,N. Richards,CHA,Richards Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0082,1,02:07,CHA,29.0,GSW,19.0,N. Richards,CHA,Richards Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0082,1,00:57.900000,CHA,,GSW,,N. Richards,CHA,Richards REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0082,1,00:57.900000,CHA,30.0,GSW,21.0,N. Richards,CHA,Richards Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0082,1,00:57.900000,CHA,31.0,GSW,21.0,N. Richards,CHA,Richards Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0082,1,00:03.900000,CHA,,GSW,,N. Richards,CHA,Richards REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0082,1,00:00,CHA,,GSW,,N. Richards,CHA,MISS Richards Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0082,2,11:28,CHA,,GSW,,N. Richards,CHA,Richards S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0082,2,11:11,CHA,,GSW,,N. Richards,CHA,MISS Richards 6' Hook Bank Shot,Missed Shot,Hook Bank Shot,5,55,6,1,2.0,0.0,h
+S2223-G0082,2,06:05,CHA,,GSW,,N. Richards,CHA,SUB: Smith Jr. FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0082,3,03:06,CHA,,GSW,,N. Richards,CHA,Richards Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0082,3,03:06,CHA,,GSW,,N. Richards,CHA,Richards T.FOUL (P1.T3) (R.Mott),Foul,Technical,0,0,0,0,,,h
+S2223-G0082,3,02:52,CHA,,GSW,,N. Richards,CHA,Richards REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0082,3,01:50,CHA,80.0,GSW,80.0,N. Richards,CHA,Richards 2' Alley Oop Dunk (7 PTS) (Smith Jr. 4 AST),Made Shot,Alley Oop Dunk Shot,12,15,2,1,2.0,2.0,h
+S2223-G0082,3,01:04,CHA,,GSW,,N. Richards,CHA,Richards REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0082,4,09:59,CHA,,GSW,,N. Richards,CHA,Richards Violation:Defensive Goaltending (S.Wall),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0082,4,08:48,CHA,,GSW,,N. Richards,CHA,Richards REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0082,4,08:48,CHA,,GSW,,N. Richards,CHA,MISS Richards Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0082,4,06:56,CHA,91.0,GSW,88.0,N. Richards,CHA,Richards 2' Reverse Layup (9 PTS) (Oubre Jr. 3 AST),Made Shot,Reverse Layup Shot,-7,21,2,1,2.0,2.0,h
+S2223-G0082,4,06:06,CHA,,GSW,,N. Richards,CHA,Richards S.FOUL (P2.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0082,4,06:06,CHA,,GSW,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0539,4,03:09,CHA,,BKN,,N. Richards,CHA,Richards STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0539,4,02:17,CHA,,BKN,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0539,4,02:17,CHA,103.0,BKN,120.0,N. Richards,CHA,Richards 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,19,2,1,2.0,2.0,h
+S2223-G0539,4,02:17,CHA,,BKN,,N. Richards,CHA,MISS Richards Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0352,1,03:44,CHA,,LAC,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,1,02:17,CHA,,LAC,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,1,01:34,CHA,,LAC,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,1,01:33,CHA,23.0,LAC,26.0,N. Richards,CHA,Richards Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0352,2,09:32,CHA,32.0,LAC,37.0,N. Richards,CHA,Richards 1' Dunk (4 PTS) (Rozier 4 AST),Made Shot,Dunk Shot,11,10,1,1,2.0,2.0,h
+S2223-G0352,2,08:32,CHA,,LAC,,N. Richards,CHA,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,2,06:58,CHA,,LAC,,N. Richards,CHA,Richards S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0352,2,06:34,CHA,,LAC,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0352,3,02:57,CHA,,LAC,,N. Richards,CHA,Richards Violation:Defensive Goaltending (P.Fraher),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0352,3,02:12,CHA,,LAC,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,3,02:12,CHA,84.0,LAC,80.0,N. Richards,CHA,Richards Putback Dunk (6 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0352,3,01:58,CHA,,LAC,,N. Richards,CHA,Richards S.FOUL (P2.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0352,3,01:54,CHA,,LAC,,N. Richards,CHA,Richards REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,3,01:44,CHA,,LAC,,N. Richards,CHA,Richards REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,3,01:44,CHA,86.0,LAC,82.0,N. Richards,CHA,Richards 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,15,2,1,2.0,2.0,h
+S2223-G0352,3,01:44,CHA,,LAC,,N. Richards,CHA,MISS Richards Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0352,3,00:31.700000,CHA,,LAC,,N. Richards,CHA,Richards REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,3,00:02.500000,CHA,,LAC,,N. Richards,CHA,Richards REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,3,00:00.300000,CHA,,LAC,,N. Richards,CHA,MISS Richards 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,15,65,7,1,2.0,0.0,h
+S2223-G0352,4,09:55,CHA,,LAC,,N. Richards,CHA,Richards REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,4,09:11,CHA,95.0,LAC,96.0,N. Richards,CHA,Richards 2' Cutting Layup Shot (10 PTS) (Rozier 6 AST),Made Shot,Cutting Layup Shot,16,11,2,1,2.0,2.0,h
+S2223-G0352,4,08:48,CHA,96.0,LAC,99.0,N. Richards,CHA,Richards Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0352,4,08:36,CHA,,LAC,,N. Richards,CHA,Richards S.FOUL (P3.T2) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0352,4,06:58,CHA,,LAC,,N. Richards,CHA,Richards S.FOUL (P4.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0352,4,05:24,CHA,,LAC,,N. Richards,CHA,SUB: Rozier FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0450,1,05:10,DEN,,CHA,,N. Richards,CHA,MISS Richards 2' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,-15,17,2,1,2.0,0.0,v
+S2223-G0450,1,04:44,DEN,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0450,1,04:44,DEN,9.0,CHA,12.0,N. Richards,CHA,Richards Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0450,1,03:51,DEN,13.0,CHA,14.0,N. Richards,CHA,Richards 2' Cutting Dunk Shot (4 PTS) (Rozier 1 AST),Made Shot,Cutting Dunk Shot,11,21,2,1,2.0,2.0,v
+S2223-G0450,1,03:25,DEN,,CHA,,N. Richards,CHA,MISS Richards 5' Floating Jump Shot,Missed Shot,Floating Jump shot,34,38,5,1,2.0,0.0,v
+S2223-G0450,1,00:50.400000,DEN,,CHA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0450,1,00:31.700000,DEN,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0450,1,00:01.300000,DEN,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0450,2,09:29,DEN,,CHA,,N. Richards,CHA,MISS Richards 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,62,36,7,1,2.0,0.0,v
+S2223-G0450,2,09:14,DEN,,CHA,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0450,2,07:58,DEN,,CHA,,N. Richards,CHA,Richards S.FOUL (P1.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G0450,2,07:58,DEN,,CHA,,N. Richards,CHA,SUB: Jones FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0450,2,01:35,DEN,,CHA,,N. Richards,CHA,Richards S.FOUL (P2.PN) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0450,2,01:35,DEN,,CHA,,N. Richards,CHA,SUB: Thor FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0450,4,11:33,DEN,,CHA,,N. Richards,CHA,Richards BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0450,4,09:20,DEN,96.0,CHA,88.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (6 PTS) (McDaniels 2 AST),Made Shot,Cutting Dunk Shot,0,6,1,1,2.0,2.0,v
+S2223-G0450,4,08:20,DEN,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0450,4,08:20,DEN,97.0,CHA,90.0,N. Richards,CHA,Richards 2' Putback Dunk (8 PTS),Made Shot,Putback Dunk Shot,9,15,2,1,2.0,2.0,v
+S2223-G0450,4,07:55,DEN,,CHA,,N. Richards,CHA,Richards L.B.FOUL (P3.T2) (B.Forte),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0450,4,07:08,DEN,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0450,4,06:25,DEN,100.0,CHA,92.0,N. Richards,CHA,Richards 3' Layup (10 PTS) (Washington 1 AST),Made Shot,Layup Shot,-26,8,3,1,2.0,2.0,v
+S2223-G0450,4,06:25,DEN,100.0,CHA,93.0,N. Richards,CHA,Richards Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0450,4,06:04,DEN,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0450,4,05:27,DEN,,CHA,,N. Richards,CHA,Richards S.FOUL (P4.T3) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2223-G0450,4,05:27,DEN,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G1095,1,09:05,NOP,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,1,07:55,NOP,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,1,07:44,NOP,,CHA,,N. Richards,CHA,Richards Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1095,1,07:02,NOP,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,1,06:55,NOP,,CHA,,N. Richards,CHA,Richards S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G1095,1,06:17,NOP,,CHA,,N. Richards,CHA,Richards Violation:Defensive Goaltending (N.Sago),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G1095,1,04:53,NOP,20.0,CHA,15.0,N. Richards,CHA,Richards 16' Jump Shot (2 PTS) (Smith Jr. 1 AST),Made Shot,Jump Shot,158,-4,16,1,2.0,2.0,v
+S2223-G1095,1,04:35,NOP,,CHA,,N. Richards,CHA,Richards S.FOUL (P2.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G1095,1,03:51,NOP,,CHA,,N. Richards,CHA,SUB: Oubre Jr. FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G1095,2,03:37,NOP,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,2,02:37,NOP,,CHA,,N. Richards,CHA,SUB: Washington FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G1095,3,11:22,NOP,,CHA,,N. Richards,CHA,Richards S.FOUL (P3.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G1095,3,09:44,NOP,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,3,08:57,NOP,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,3,08:57,NOP,68.0,CHA,61.0,N. Richards,CHA,Richards Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1095,3,08:57,NOP,68.0,CHA,62.0,N. Richards,CHA,Richards Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1095,3,06:06,NOP,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,3,05:07,NOP,79.0,CHA,73.0,N. Richards,CHA,Richards 2' Driving Reverse Layup (7 PTS) (McGowens 3 AST),Made Shot,Driving Reverse Layup Shot,-12,13,2,1,2.0,2.0,v
+S2223-G1095,3,04:35,NOP,81.0,CHA,74.0,N. Richards,CHA,Richards Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1095,3,04:35,NOP,81.0,CHA,75.0,N. Richards,CHA,Richards Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1095,3,03:59,NOP,,CHA,,N. Richards,CHA,Richards P.FOUL (P4.T4) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G1095,3,03:11,NOP,,CHA,,N. Richards,CHA,SUB: Washington FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G1095,4,07:43,NOP,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,4,07:42,NOP,,CHA,,N. Richards,CHA,MISS Richards 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-10,15,2,1,2.0,0.0,v
+S2223-G1095,4,07:41,NOP,,CHA,,N. Richards,CHA,Richards L.B.FOUL (P5.T3) (B.Kennedy),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1095,4,07:12,NOP,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,4,05:55,NOP,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,4,05:28,NOP,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,4,05:03,NOP,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,4,01:38,NOP,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,4,01:19,NOP,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0017,1,07:46,CHA,,NOP,,N. Richards,CHA,Richards S.FOUL (P1.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0017,1,02:44,CHA,,NOP,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0017,1,02:00,CHA,19.0,NOP,31.0,N. Richards,CHA,Richards 1' Dunk (2 PTS) (Washington 1 AST),Made Shot,Dunk Shot,-6,8,1,1,2.0,2.0,h
+S2223-G0017,2,11:02,CHA,,NOP,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0017,2,10:36,CHA,,NOP,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0017,2,10:17,CHA,26.0,NOP,37.0,N. Richards,CHA,Richards Cutting Layup Shot (4 PTS) (Smith Jr. 2 AST),Made Shot,Cutting Layup Shot,4,-1,0,1,2.0,2.0,h
+S2223-G0017,2,10:03,CHA,,NOP,,N. Richards,CHA,Richards REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0017,2,08:22,CHA,,NOP,,N. Richards,CHA,SUB: Hayward FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0017,2,02:34,CHA,,NOP,,N. Richards,CHA,Richards REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0017,3,04:06,CHA,,NOP,,N. Richards,CHA,Richards S.FOUL (P2.PN) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2223-G0017,3,01:20,CHA,84.0,NOP,91.0,N. Richards,CHA,Richards Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0017,3,01:20,CHA,85.0,NOP,91.0,N. Richards,CHA,Richards Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0017,3,00:38.100000,CHA,,NOP,,N. Richards,CHA,Richards REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0017,3,00:36.700000,CHA,,NOP,,N. Richards,CHA,MISS Richards 6' Layup,Missed Shot,Layup Shot,-27,58,6,1,2.0,0.0,h
+S2223-G0017,3,00:06.600000,CHA,,NOP,,N. Richards,CHA,MISS Richards 5' Layup,Missed Shot,Layup Shot,11,48,5,1,2.0,0.0,h
+S2223-G0017,4,06:03,CHA,,NOP,,N. Richards,CHA,SUB: Washington FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0847,1,04:10,CHA,,DEN,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0847,1,00:15.700000,CHA,34.0,DEN,25.0,N. Richards,CHA,Richards Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0847,1,00:15.700000,CHA,,DEN,,N. Richards,CHA,MISS Richards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0847,2,10:33,CHA,,DEN,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0847,2,09:49,CHA,41.0,DEN,33.0,N. Richards,CHA,Richards 7' Driving Hook Shot (3 PTS) (Washington 1 AST),Made Shot,Driving Hook Shot,-1,68,7,1,2.0,2.0,h
+S2223-G0847,2,06:39,CHA,,DEN,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0847,2,05:30,CHA,,DEN,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0847,2,05:00,CHA,,DEN,,N. Richards,CHA,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0847,2,05:00,CHA,,DEN,,N. Richards,CHA,Richards Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0847,2,05:00,CHA,,DEN,,N. Richards,CHA,SUB: McGowens FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0847,2,02:14,CHA,,DEN,,N. Richards,CHA,Richards S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0847,2,01:50,CHA,,DEN,,N. Richards,CHA,Richards P.FOUL (P2.PN) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2223-G0847,2,01:07,CHA,,DEN,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0847,2,01:06,CHA,58.0,DEN,54.0,N. Richards,CHA,Richards 2' Cutting Dunk Shot (5 PTS) (Hayward 2 AST),Made Shot,Cutting Dunk Shot,21,7,2,1,2.0,2.0,h
+S2223-G0847,2,00:57.100000,CHA,,DEN,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0847,3,03:20,CHA,76.0,DEN,85.0,N. Richards,CHA,Richards 13' Jump Shot (7 PTS) (Rozier 4 AST),Made Shot,Jump Shot,-126,19,13,1,2.0,2.0,h
+S2223-G0847,3,02:11,CHA,,DEN,,N. Richards,CHA,SUB: Washington FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0847,4,11:24,CHA,,DEN,,N. Richards,CHA,Richards REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0847,4,10:40,CHA,,DEN,,N. Richards,CHA,MISS Richards 2' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,18,11,2,1,2.0,0.0,h
+S2223-G0847,4,10:16,CHA,,DEN,,N. Richards,CHA,Richards OFF.Foul (P3) (J.Goldenberg),Foul,Offensive,0,0,0,0,,,h
+S2223-G0847,4,10:16,CHA,,DEN,,N. Richards,CHA,Richards Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0847,4,10:00,CHA,,DEN,,N. Richards,CHA,Richards Violation:Defensive Goaltending (J.Goldenberg),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0847,4,08:48,CHA,,DEN,,N. Richards,CHA,Richards REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0847,4,06:57,CHA,,DEN,,N. Richards,CHA,MISS Richards 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,49,48,7,1,2.0,0.0,h
+S2223-G0847,4,06:48,CHA,,DEN,,N. Richards,CHA,SUB: Rozier FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0847,4,01:09,CHA,,DEN,,N. Richards,CHA,Richards REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0847,4,01:09,CHA,102.0,DEN,117.0,N. Richards,CHA,Richards Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0847,4,01:09,CHA,103.0,DEN,117.0,N. Richards,CHA,Richards Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0144,1,05:08,CHA,,WAS,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,1,05:08,CHA,13.0,WAS,16.0,N. Richards,CHA,Richards Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0144,1,04:48,CHA,15.0,WAS,16.0,N. Richards,CHA,Richards 2' Layup (4 PTS) (Smith Jr. 2 AST),Made Shot,Layup Shot,15,5,2,1,2.0,2.0,h
+S2223-G0144,2,11:02,CHA,,WAS,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,2,09:05,CHA,,WAS,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,2,08:52,CHA,,WAS,,N. Richards,CHA,MISS Richards 1' Driving Dunk,Missed Shot,Driving Dunk Shot,1,9,1,1,2.0,0.0,h
+S2223-G0144,2,08:39,CHA,,WAS,,N. Richards,CHA,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,2,07:53,CHA,,WAS,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,2,06:27,CHA,28.0,WAS,30.0,N. Richards,CHA,Richards 3' Layup (6 PTS) (Thor 2 AST),Made Shot,Layup Shot,10,29,3,1,2.0,2.0,h
+S2223-G0144,2,05:55,CHA,,WAS,,N. Richards,CHA,SUB: Oubre Jr. FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0144,2,00:12.800000,CHA,,WAS,,N. Richards,CHA,Richards P.FOUL (P1.PN) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2223-G0144,3,03:25,CHA,,WAS,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0144,3,02:47,CHA,,WAS,,N. Richards,CHA,MISS Richards 4' Layup,Missed Shot,Layup Shot,-17,32,4,1,2.0,0.0,h
+S2223-G0144,3,02:40,CHA,,WAS,,N. Richards,CHA,Richards S.FOUL (P2.PN) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0144,4,07:23,CHA,,WAS,,N. Richards,CHA,Richards REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,4,07:23,CHA,84.0,WAS,86.0,N. Richards,CHA,Richards Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0144,4,06:59,CHA,,WAS,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0144,4,06:41,CHA,,WAS,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0979,1,03:53,NYK,,CHA,,N. Richards,CHA,Richards S.FOUL (P1.T1) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0979,1,03:16,NYK,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0979,2,08:52,NYK,33.0,CHA,27.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (2 PTS) (Smith Jr. 3 AST),Made Shot,Cutting Dunk Shot,0,6,1,1,2.0,2.0,v
+S2223-G0979,2,08:52,NYK,33.0,CHA,28.0,N. Richards,CHA,Richards Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0979,2,07:04,NYK,,CHA,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0979,3,02:31,NYK,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0979,3,02:06,NYK,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0979,3,01:24,NYK,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0979,3,01:24,NYK,86.0,CHA,84.0,N. Richards,CHA,Richards Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0979,3,01:24,NYK,86.0,CHA,85.0,N. Richards,CHA,Richards Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0979,3,01:05,NYK,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0979,3,00:52.600000,NYK,86.0,CHA,86.0,N. Richards,CHA,Richards Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0979,3,00:52.600000,NYK,86.0,CHA,87.0,N. Richards,CHA,Richards Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0979,3,00:13.700000,NYK,,CHA,,N. Richards,CHA,Richards L.B.FOUL (P2.T4) (R.Acosta),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0979,4,06:38,NYK,,CHA,,N. Richards,CHA,SUB: Washington FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0492,1,02:42,LAL,,CHA,,N. Richards,CHA,Richards STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0492,1,01:35,LAL,,CHA,,N. Richards,CHA,MISS Richards 5' Running Layup,Missed Shot,Running Layup Shot,33,34,5,1,2.0,0.0,v
+S2223-G0492,1,01:17,LAL,,CHA,,N. Richards,CHA,Richards P.FOUL (P1.PN) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2223-G0492,2,11:13,LAL,,CHA,,N. Richards,CHA,Richards P.FOUL (P2.T1) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2223-G0492,2,10:48,LAL,31.0,CHA,35.0,N. Richards,CHA,Richards 4' Cutting Layup Shot (2 PTS) (Hayward 1 AST),Made Shot,Cutting Layup Shot,-20,33,4,1,2.0,2.0,v
+S2223-G0492,2,10:48,LAL,31.0,CHA,36.0,N. Richards,CHA,Richards Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0492,2,10:27,LAL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0492,2,09:59,LAL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0492,2,08:21,LAL,34.0,CHA,44.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (5 PTS) (Ball 2 AST),Made Shot,Cutting Dunk Shot,1,5,1,1,2.0,2.0,v
+S2223-G0492,2,07:48,LAL,,CHA,,N. Richards,CHA,Richards OFF.Foul (P3) (S.Twardoski),Foul,Offensive,0,0,0,0,,,v
+S2223-G0492,2,07:48,LAL,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0492,2,07:48,LAL,,CHA,,N. Richards,CHA,SUB: Rozier FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0492,3,00:21.100000,LAL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0492,4,10:13,LAL,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0241,1,00:55.500000,WAS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0241,1,00:08.200000,WAS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0241,1,00:08.200000,WAS,35.0,CHA,27.0,N. Richards,CHA,Richards Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0241,1,00:00.100000,WAS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0241,2,11:11,WAS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0241,2,11:11,WAS,,CHA,,N. Richards,CHA,MISS Richards 3' Layup,Missed Shot,Layup Shot,-28,7,3,1,2.0,0.0,v
+S2223-G0241,2,10:55,WAS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0241,2,10:10,WAS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0241,2,10:10,WAS,37.0,CHA,32.0,N. Richards,CHA,Richards 2' Layup (4 PTS),Made Shot,Layup Shot,13,16,2,1,2.0,2.0,v
+S2223-G0241,2,07:48,WAS,,CHA,,N. Richards,CHA,Richards L.B.FOUL (P1.T1) (J.Goble),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0241,2,05:45,WAS,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0241,3,02:42,WAS,73.0,CHA,72.0,N. Richards,CHA,Richards Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0241,3,02:42,WAS,,CHA,,N. Richards,CHA,MISS Richards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0241,3,01:25,WAS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0241,3,01:20,WAS,75.0,CHA,77.0,N. Richards,CHA,Richards 2' Cutting Finger Roll Layup Shot (7 PTS) (Smith Jr. 2 AST),Made Shot,Cutting Finger Roll Layup Shot,-15,10,2,1,2.0,2.0,v
+S2223-G0241,3,00:55.500000,WAS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0241,4,11:26,WAS,,CHA,,N. Richards,CHA,Richards OFF.Foul (P2) (E.Scott),Foul,Offensive,0,0,0,0,,,v
+S2223-G0241,4,11:26,WAS,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0241,4,10:47,WAS,,CHA,,N. Richards,CHA,MISS Richards 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-4,30,3,1,2.0,0.0,v
+S2223-G0241,4,10:45,WAS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0241,4,10:43,WAS,83.0,CHA,81.0,N. Richards,CHA,Richards 7' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,-49,46,7,1,2.0,2.0,v
+S2223-G0241,4,09:06,WAS,88.0,CHA,84.0,N. Richards,CHA,Richards Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0241,4,09:06,WAS,88.0,CHA,85.0,N. Richards,CHA,Richards Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0241,4,08:08,WAS,,CHA,,N. Richards,CHA,MISS Richards 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-17,64,7,1,2.0,0.0,v
+S2223-G0241,4,07:55,WAS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0241,4,07:46,WAS,,CHA,,N. Richards,CHA,MISS Richards 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-34,21,4,1,2.0,0.0,v
+S2223-G0241,4,07:12,WAS,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0200,1,03:35,ORL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0200,1,03:35,ORL,14.0,CHA,24.0,N. Richards,CHA,Richards Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0200,1,03:35,ORL,14.0,CHA,25.0,N. Richards,CHA,Richards Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0200,1,03:11,ORL,,CHA,,N. Richards,CHA,Richards OFF.Foul (P1) (M.Davis),Foul,Offensive,0,0,0,0,,,v
+S2223-G0200,1,03:11,ORL,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0200,1,02:17,ORL,,CHA,,N. Richards,CHA,Richards S.FOUL (P2.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0200,1,00:46.800000,ORL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0200,1,00:46.800000,ORL,19.0,CHA,31.0,N. Richards,CHA,Richards 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,15,2,1,2.0,2.0,v
+S2223-G0200,2,10:31,ORL,,CHA,,N. Richards,CHA,Richards S.FOUL (P3.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0200,2,10:31,ORL,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0200,3,04:59,ORL,,CHA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0200,3,01:41,ORL,66.0,CHA,81.0,N. Richards,CHA,Richards 2' Cutting Dunk Shot (6 PTS) (Ball 8 AST),Made Shot,Cutting Dunk Shot,13,19,2,1,2.0,2.0,v
+S2223-G0200,4,11:08,ORL,,CHA,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0200,4,09:03,ORL,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0133,1,03:56,CHA,,BKN,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,1,03:55,CHA,,BKN,,N. Richards,CHA,MISS Richards 2' Putback Layup,Missed Shot,Putback Layup Shot,1,16,2,1,2.0,0.0,h
+S2223-G0133,1,03:40,CHA,,BKN,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,1,01:51,CHA,,BKN,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0133,1,01:51,CHA,14.0,BKN,26.0,N. Richards,CHA,Richards Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0133,1,01:11,CHA,,BKN,,N. Richards,CHA,Richards P.FOUL (P1.PN) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2223-G0133,2,11:29,CHA,,BKN,,N. Richards,CHA,Richards REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,2,11:29,CHA,23.0,BKN,30.0,N. Richards,CHA,Richards Tip Layup Shot (3 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0133,2,11:12,CHA,,BKN,,N. Richards,CHA,Richards REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,2,10:47,CHA,,BKN,,N. Richards,CHA,Richards OFF.Foul (P2) (D.Mosher),Foul,Offensive,0,0,0,0,,,h
+S2223-G0133,2,10:47,CHA,,BKN,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0133,2,09:28,CHA,,BKN,,N. Richards,CHA,Richards OFF.Foul (P3) (G.Petraitis),Foul,Offensive,0,0,0,0,,,h
+S2223-G0133,2,09:28,CHA,,BKN,,N. Richards,CHA,Richards Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0133,2,09:28,CHA,,BKN,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0133,3,04:20,CHA,,BKN,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,3,03:47,CHA,63.0,BKN,61.0,N. Richards,CHA,Richards Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0133,3,03:47,CHA,64.0,BKN,61.0,N. Richards,CHA,Richards Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0133,3,02:46,CHA,,BKN,,N. Richards,CHA,Richards S.FOUL (P4.PN) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0133,3,02:27,CHA,,BKN,,N. Richards,CHA,Richards REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,3,01:27,CHA,,BKN,,N. Richards,CHA,Richards REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,3,00:32.100000,CHA,,BKN,,N. Richards,CHA,MISS Richards 3' Hook Shot,Missed Shot,Hook Shot,9,25,3,1,2.0,0.0,h
+S2223-G0133,4,09:45,CHA,,BKN,,N. Richards,CHA,Richards REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,4,09:45,CHA,78.0,BKN,69.0,N. Richards,CHA,Richards 4' Layup (7 PTS),Made Shot,Layup Shot,-7,43,4,1,2.0,2.0,h
+S2223-G0133,4,09:45,CHA,79.0,BKN,69.0,N. Richards,CHA,Richards Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0133,4,08:46,CHA,82.0,BKN,72.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (10 PTS) (Washington 2 AST),Made Shot,Cutting Dunk Shot,6,0,1,1,2.0,2.0,h
+S2223-G0133,4,06:50,CHA,,BKN,,N. Richards,CHA,Richards REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,4,06:30,CHA,,BKN,,N. Richards,CHA,SUB: Oubre Jr. FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0125,1,02:50,MEM,,CHA,,N. Richards,CHA,MISS Richards 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,48,38,6,1,2.0,0.0,v
+S2223-G0125,1,02:00,MEM,,CHA,,N. Richards,CHA,Richards OFF.Foul (P1) (J.Goldenberg),Foul,Offensive,0,0,0,0,,,v
+S2223-G0125,1,02:00,MEM,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0125,1,01:40,MEM,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,1,00:42.900000,MEM,41.0,CHA,23.0,N. Richards,CHA,Richards Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0125,1,00:42.900000,MEM,41.0,CHA,24.0,N. Richards,CHA,Richards Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0125,2,11:38,MEM,41.0,CHA,26.0,N. Richards,CHA,Richards 4' Dunk (4 PTS) (Smith Jr. 1 AST),Made Shot,Dunk Shot,-33,23,4,1,2.0,2.0,v
+S2223-G0125,2,09:59,MEM,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,2,09:59,MEM,,CHA,,N. Richards,CHA,MISS Richards 3' Putback Layup,Missed Shot,Putback Layup Shot,-23,15,3,1,2.0,0.0,v
+S2223-G0125,2,08:00,MEM,,CHA,,N. Richards,CHA,MISS Richards 5' Driving Dunk,Missed Shot,Driving Dunk Shot,47,20,5,1,2.0,0.0,v
+S2223-G0125,2,07:48,MEM,,CHA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0125,2,07:48,MEM,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,2,06:09,MEM,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,2,06:02,MEM,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0125,3,03:17,MEM,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,3,03:17,MEM,,CHA,,N. Richards,CHA,MISS Richards Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,v
+S2223-G0125,3,02:31,MEM,,CHA,,N. Richards,CHA,MISS Richards 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-25,10,3,1,2.0,0.0,v
+S2223-G0125,3,02:06,MEM,,CHA,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0125,3,02:06,MEM,99.0,CHA,64.0,N. Richards,CHA,Richards Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0125,3,01:09,MEM,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,3,00:36.700000,MEM,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,3,00:35.200000,MEM,,CHA,,N. Richards,CHA,MISS Richards 1' Dunk,Missed Shot,Dunk Shot,7,9,1,1,2.0,0.0,v
+S2223-G0125,4,11:06,MEM,,CHA,,N. Richards,CHA,MISS Richards 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,11,26,3,1,2.0,0.0,v
+S2223-G0125,4,09:50,MEM,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,4,09:42,MEM,110.0,CHA,72.0,N. Richards,CHA,Richards 1' Alley Oop Dunk (7 PTS) (Smith Jr. 5 AST),Made Shot,Alley Oop Dunk Shot,-9,3,1,1,2.0,2.0,v
+S2223-G0125,4,09:28,MEM,,CHA,,N. Richards,CHA,Richards Violation:Defensive Goaltending (J.Goldenberg),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0125,4,08:52,MEM,,CHA,,N. Richards,CHA,Richards REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,4,08:52,MEM,115.0,CHA,75.0,N. Richards,CHA,Richards Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0125,4,08:52,MEM,115.0,CHA,76.0,N. Richards,CHA,Richards Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0125,4,07:23,MEM,,CHA,,N. Richards,CHA,SUB: Jones FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0211,1,00:28.200000,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0211,2,11:10,CHA,32.0,IND,27.0,N. Richards,CHA,Richards 2' Driving Dunk (2 PTS) (McDaniels 1 AST),Made Shot,Driving Dunk Shot,-6,16,2,1,2.0,2.0,h
+S2223-G0211,2,09:31,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0211,2,07:04,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0211,2,07:04,CHA,46.0,IND,39.0,N. Richards,CHA,Richards 3' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-2,29,3,1,2.0,2.0,h
+S2223-G0211,2,07:04,CHA,47.0,IND,39.0,N. Richards,CHA,Richards Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0211,2,06:24,CHA,,IND,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0211,3,02:31,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0211,3,02:31,CHA,,IND,,N. Richards,CHA,MISS Richards Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0211,3,02:31,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0211,3,02:28,CHA,,IND,,N. Richards,CHA,MISS Richards 4' Putback Layup,Missed Shot,Putback Layup Shot,9,36,4,1,2.0,0.0,h
+S2223-G0211,3,00:45.300000,CHA,,IND,,N. Richards,CHA,Richards S.FOUL (P1.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0211,4,07:03,CHA,,IND,,N. Richards,CHA,SUB: Rozier FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0339,1,02:58,CHA,,MIL,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0339,1,02:56,CHA,18.0,MIL,20.0,N. Richards,CHA,Richards 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,2,14,1,1,2.0,2.0,h
+S2223-G0339,1,02:38,CHA,,MIL,,N. Richards,CHA,Richards Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0339,1,01:02,CHA,,MIL,,N. Richards,CHA,Richards Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0339,1,00:29.600000,CHA,,MIL,,N. Richards,CHA,MISS Richards 1' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,14,1,1,2.0,0.0,h
+S2223-G0339,1,00:28.200000,CHA,,MIL,,N. Richards,CHA,Richards REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0339,1,00:28.200000,CHA,22.0,MIL,25.0,N. Richards,CHA,Richards 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-9,5,1,1,2.0,2.0,h
+S2223-G0339,2,09:39,CHA,,MIL,,N. Richards,CHA,MISS Richards 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-53,73,9,1,2.0,0.0,h
+S2223-G0339,2,09:13,CHA,26.0,MIL,35.0,N. Richards,CHA,Richards 1' Dunk (6 PTS) (Rozier 2 AST),Made Shot,Dunk Shot,-11,5,1,1,2.0,2.0,h
+S2223-G0339,2,08:32,CHA,,MIL,,N. Richards,CHA,Richards REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0339,2,08:25,CHA,27.0,MIL,35.0,N. Richards,CHA,Richards Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0339,2,08:25,CHA,28.0,MIL,35.0,N. Richards,CHA,Richards Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0339,2,06:04,CHA,,MIL,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0339,3,03:29,CHA,,MIL,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0339,3,03:29,CHA,66.0,MIL,74.0,N. Richards,CHA,Richards Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0339,3,02:40,CHA,,MIL,,N. Richards,CHA,Richards REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0339,3,02:31,CHA,,MIL,,N. Richards,CHA,MISS Richards 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,2,13,1,1,2.0,0.0,h
+S2223-G0339,4,11:26,CHA,,MIL,,N. Richards,CHA,MISS Richards 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,22,18,3,1,2.0,0.0,h
+S2223-G0339,4,10:06,CHA,,MIL,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0339,4,08:35,CHA,,MIL,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0460,1,07:30,SAC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,1,07:19,SAC,,CHA,,N. Richards,CHA,MISS Richards 4' Layup,Missed Shot,Layup Shot,-42,7,4,1,2.0,0.0,v
+S2223-G0460,1,05:27,SAC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,1,05:13,SAC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,1,05:13,SAC,18.0,CHA,20.0,N. Richards,CHA,Richards Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0460,1,03:33,SAC,,CHA,,N. Richards,CHA,MISS Richards 9' Hook Shot,Missed Shot,Hook Shot,-21,85,9,1,2.0,0.0,v
+S2223-G0460,1,03:23,SAC,,CHA,,N. Richards,CHA,Richards Violation:Defensive Goaltending (J.Butler),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0460,1,02:44,SAC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,1,02:44,SAC,24.0,CHA,28.0,N. Richards,CHA,Richards Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0460,1,02:07,SAC,,CHA,,N. Richards,CHA,Richards P.FOUL (P1.PN) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0460,1,02:04,SAC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,1,01:45,SAC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,1,01:45,SAC,,CHA,,N. Richards,CHA,MISS Richards Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0460,1,01:43,SAC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,1,01:42,SAC,28.0,CHA,32.0,N. Richards,CHA,Richards 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,18,2,1,2.0,2.0,v
+S2223-G0460,1,01:22,SAC,,CHA,,N. Richards,CHA,Richards Offensive Charge Foul (P2) (C.Kirkland),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0460,1,01:22,SAC,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0460,1,00:55.700000,SAC,30.0,CHA,34.0,N. Richards,CHA,Richards 2' Cutting Dunk Shot (8 PTS),Made Shot,Cutting Dunk Shot,9,12,2,1,2.0,2.0,v
+S2223-G0460,1,00:29.200000,SAC,30.0,CHA,36.0,N. Richards,CHA,Richards 5' Cutting Layup Shot (10 PTS) (Maledon 1 AST),Made Shot,Cutting Layup Shot,7,49,5,1,2.0,2.0,v
+S2223-G0460,1,00:29.200000,SAC,30.0,CHA,37.0,N. Richards,CHA,Richards Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0460,2,11:08,SAC,,CHA,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0460,2,11:08,SAC,32.0,CHA,42.0,N. Richards,CHA,Richards Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0460,2,09:12,SAC,,CHA,,N. Richards,CHA,Richards STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0460,2,06:09,SAC,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0460,3,01:31,SAC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,3,01:11,SAC,87.0,CHA,89.0,N. Richards,CHA,Richards Driving Reverse Dunk Shot (14 PTS) (Maledon 2 AST),Made Shot,Driving Reverse Dunk Shot,0,3,0,1,2.0,2.0,v
+S2223-G0460,4,11:08,SAC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,4,09:35,SAC,,CHA,,N. Richards,CHA,Richards Violation:Defensive Goaltending (C.Kirkland),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0460,4,08:05,SAC,,CHA,,N. Richards,CHA,Richards Violation:Defensive Goaltending (P.Ransom),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0460,4,07:19,SAC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,4,07:11,SAC,,CHA,,N. Richards,CHA,Richards S.FOUL (P3.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2223-G0460,4,06:32,SAC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0460,4,06:21,SAC,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0933,1,01:53,CHA,18.0,PHX,22.0,N. Richards,CHA,Richards 2' Cutting Layup Shot (2 PTS) (Smith Jr. 1 AST),Made Shot,Cutting Layup Shot,-22,5,2,1,2.0,2.0,h
+S2223-G0933,1,00:32.500000,CHA,,PHX,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0933,2,07:00,CHA,,PHX,,N. Richards,CHA,Richards P.FOUL (P1.T1) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0933,2,05:07,CHA,,PHX,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0933,3,02:34,CHA,,PHX,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0933,3,01:06,CHA,,PHX,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0933,3,00:40.700000,CHA,,PHX,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0933,4,10:25,CHA,,PHX,,N. Richards,CHA,Richards P.FOUL (P2.T1) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2223-G0933,4,08:55,CHA,,PHX,,N. Richards,CHA,MISS Richards 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,20,25,3,1,2.0,0.0,h
+S2223-G0933,4,08:09,CHA,,PHX,,N. Richards,CHA,Richards Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0933,4,04:53,CHA,,PHX,,N. Richards,CHA,SUB: Smith Jr. FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0476,2,10:17,LAC,45.0,CHA,23.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (2 PTS) (Ball 3 AST),Made Shot,Cutting Dunk Shot,-1,8,1,1,2.0,2.0,v
+S2223-G0476,2,10:02,LAC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0476,2,06:49,LAC,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0476,3,02:09,LAC,94.0,CHA,67.0,N. Richards,CHA,Richards 3' Reverse Layup (4 PTS) (Hayward 2 AST),Made Shot,Reverse Layup Shot,29,15,3,1,2.0,2.0,v
+S2223-G0476,3,00:42.600000,LAC,97.0,CHA,71.0,N. Richards,CHA,Richards 2' Layup (6 PTS) (Maledon 3 AST),Made Shot,Layup Shot,20,8,2,1,2.0,2.0,v
+S2223-G0476,4,10:24,LAC,,CHA,,N. Richards,CHA,Richards S.FOUL (P1.T2) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G0476,4,10:13,LAC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0476,4,10:13,LAC,,CHA,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0476,4,10:13,LAC,104.0,CHA,82.0,N. Richards,CHA,Richards Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0476,4,09:21,LAC,,CHA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0476,4,07:57,LAC,,CHA,,N. Richards,CHA,SUB: Washington FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0564,4,03:44,CHA,,MEM,,N. Richards,CHA,Richards S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0564,4,03:09,CHA,,MEM,,N. Richards,CHA,Richards S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0564,4,02:16,CHA,,MEM,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0564,4,02:02,CHA,,MEM,,N. Richards,CHA,Richards S.FOUL (P3.T3) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0564,4,01:51,CHA,,MEM,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0564,4,01:51,CHA,100.0,MEM,128.0,N. Richards,CHA,Richards Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0564,4,01:51,CHA,101.0,MEM,128.0,N. Richards,CHA,Richards Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0564,4,00:11.600000,CHA,107.0,MEM,131.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (4 PTS) (McGowens 1 AST),Made Shot,Cutting Dunk Shot,7,11,1,1,2.0,2.0,h
+S2223-G0071,1,03:03,ORL,14.0,CHA,19.0,N. Richards,CHA,Richards 2' Driving Finger Roll Layup (2 PTS) (Maledon 1 AST),Made Shot,Driving Finger Roll Layup Shot,-5,21,2,1,2.0,2.0,v
+S2223-G0071,1,03:03,ORL,,CHA,,N. Richards,CHA,MISS Richards Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0071,1,00:37.600000,ORL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0071,1,00:36.100000,ORL,,CHA,,N. Richards,CHA,MISS Richards 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-10,55,6,1,2.0,0.0,v
+S2223-G0071,2,10:06,ORL,,CHA,,N. Richards,CHA,Richards S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0071,2,09:50,ORL,29.0,CHA,23.0,N. Richards,CHA,Richards Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-4,1,0,1,2.0,2.0,v
+S2223-G0071,2,07:26,ORL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0071,2,06:53,ORL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0071,2,05:47,ORL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0071,2,05:24,ORL,,CHA,,N. Richards,CHA,Hornets T.Foul (Def. 3 Sec Richards ) (S.Mehta),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0071,2,05:24,ORL,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0071,3,04:04,ORL,,CHA,,N. Richards,CHA,Richards Violation:Defensive Goaltending (S.Mehta),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0071,3,03:40,ORL,,CHA,,N. Richards,CHA,Richards S.FOUL (P2.T3) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0071,3,01:40,ORL,76.0,CHA,48.0,N. Richards,CHA,Richards Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0071,3,01:40,ORL,76.0,CHA,49.0,N. Richards,CHA,Richards Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0071,3,00:47.800000,ORL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0071,4,11:46,ORL,82.0,CHA,55.0,N. Richards,CHA,Richards 2' Cutting Layup Shot (8 PTS) (Smith Jr. 2 AST),Made Shot,Cutting Layup Shot,9,16,2,1,2.0,2.0,v
+S2223-G0071,4,11:46,ORL,82.0,CHA,56.0,N. Richards,CHA,Richards Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0071,4,11:19,ORL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0071,4,11:17,ORL,,CHA,,N. Richards,CHA,MISS Richards 2' Driving Layup,Missed Shot,Driving Layup Shot,5,17,2,1,2.0,0.0,v
+S2223-G0071,4,10:57,ORL,82.0,CHA,58.0,N. Richards,CHA,Richards 1' Cutting Layup Shot (11 PTS) (Smith Jr. 3 AST),Made Shot,Cutting Layup Shot,9,11,1,1,2.0,2.0,v
+S2223-G0071,4,10:13,ORL,,CHA,,N. Richards,CHA,Richards S.FOUL (P3.T1) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0071,4,08:12,ORL,92.0,CHA,65.0,N. Richards,CHA,Richards 1' Running Layup (13 PTS) (Smith Jr. 4 AST),Made Shot,Running Layup Shot,9,6,1,1,2.0,2.0,v
+S2223-G0071,4,08:12,ORL,92.0,CHA,66.0,N. Richards,CHA,Richards Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0071,4,07:06,ORL,,CHA,,N. Richards,CHA,SUB: Maledon FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G1027,1,12:00,CHA,,CLE,,N. Richards,CHA,Jump Ball Richards vs. E. Mobley: Tip to Garland,Jump Ball,,0,0,0,0,,,h
+S2223-G1027,1,10:42,CHA,4.0,CLE,3.0,N. Richards,CHA,Richards 2' Alley Oop Dunk (2 PTS) (Rozier 2 AST),Made Shot,Alley Oop Dunk Shot,2,20,2,1,2.0,2.0,h
+S2223-G1027,1,10:28,CHA,,CLE,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1027,1,10:25,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,1,08:59,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,1,08:59,CHA,,CLE,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1027,1,08:59,CHA,9.0,CLE,5.0,N. Richards,CHA,Richards Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1027,1,06:45,CHA,,CLE,,N. Richards,CHA,Richards Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1027,1,04:37,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,1,04:14,CHA,16.0,CLE,19.0,N. Richards,CHA,Richards Cutting Dunk Shot (5 PTS) (Smith Jr. 1 AST),Made Shot,Cutting Dunk Shot,2,4,0,1,2.0,2.0,h
+S2223-G1027,1,03:53,CHA,,CLE,,N. Richards,CHA,SUB: Oubre Jr. FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1027,2,05:36,CHA,,CLE,,N. Richards,CHA,Richards S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G1027,2,04:37,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,2,02:11,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,2,01:12,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,3,11:31,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,3,08:57,CHA,,CLE,,N. Richards,CHA,Richards Lost Ball Turnover (P2.T18),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1027,3,07:33,CHA,,CLE,,N. Richards,CHA,Richards S.FOUL (P2.T1) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2223-G1027,3,06:12,CHA,,CLE,,N. Richards,CHA,Richards OFF.Foul (P3) (D.Mosher),Foul,Offensive,0,0,0,0,,,h
+S2223-G1027,3,06:12,CHA,,CLE,,N. Richards,CHA,Richards Offensive Foul Turnover (P3.T19),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1027,3,04:59,CHA,64.0,CLE,82.0,N. Richards,CHA,Richards Dunk (7 PTS) (Hayward 5 AST),Made Shot,Dunk Shot,4,1,0,1,2.0,2.0,h
+S2223-G1027,3,04:17,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,3,03:39,CHA,,CLE,,N. Richards,CHA,SUB: Washington FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0159,2,11:40,CHA,32.0,POR,25.0,N. Richards,CHA,Richards 2' Alley Oop Layup (2 PTS) (Washington 2 AST),Made Shot,Alley Oop Layup shot,0,22,2,1,2.0,2.0,h
+S2223-G0159,2,09:59,CHA,,POR,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0159,2,08:12,CHA,42.0,POR,40.0,N. Richards,CHA,Richards 2' Cutting Layup Shot (4 PTS) (Rozier 4 AST),Made Shot,Cutting Layup Shot,-17,13,2,1,2.0,2.0,h
+S2223-G0159,2,08:12,CHA,,POR,,N. Richards,CHA,MISS Richards Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0159,2,07:54,CHA,,POR,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0159,2,07:37,CHA,,POR,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0159,2,05:44,CHA,,POR,,N. Richards,CHA,MISS Richards 3' Layup,Missed Shot,Layup Shot,-15,27,3,1,2.0,0.0,h
+S2223-G0159,2,05:33,CHA,,POR,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0159,3,03:48,CHA,73.0,POR,72.0,N. Richards,CHA,Richards Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0159,3,03:48,CHA,74.0,POR,72.0,N. Richards,CHA,Richards Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0159,3,00:11.800000,CHA,,POR,,N. Richards,CHA,Richards OFF.Foul (P1) (J.Conley),Foul,Offensive,0,0,0,0,,,h
+S2223-G0159,3,00:11.800000,CHA,,POR,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1071,1,12:00,CHA,,IND,,N. Richards,CHA,Jump Ball Richards vs. Turner: Tip to Washington,Jump Ball,,0,0,0,0,,,h
+S2223-G1071,1,11:12,CHA,,IND,,N. Richards,CHA,MISS Richards 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-23,23,3,1,2.0,0.0,h
+S2223-G1071,1,11:10,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,1,11:10,CHA,,IND,,N. Richards,CHA,MISS Richards 1' Putback Layup,Missed Shot,Putback Layup Shot,1,12,1,1,2.0,0.0,h
+S2223-G1071,1,11:10,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,1,11:09,CHA,,IND,,N. Richards,CHA,MISS Richards 2' Putback Layup,Missed Shot,Putback Layup Shot,-1,17,2,1,2.0,0.0,h
+S2223-G1071,1,07:02,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,1,07:02,CHA,12.0,IND,19.0,N. Richards,CHA,Richards Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G1071,1,06:57,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,1,06:35,CHA,,IND,,N. Richards,CHA,Richards P.FOUL (P1.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2223-G1071,1,05:32,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,1,05:32,CHA,18.0,IND,24.0,N. Richards,CHA,Richards Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1071,1,05:19,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,1,03:42,CHA,,IND,,N. Richards,CHA,Richards P.FOUL (P2.PN) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G1071,1,03:42,CHA,,IND,,N. Richards,CHA,SUB: Jones FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1071,2,04:48,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,2,04:15,CHA,46.0,IND,56.0,N. Richards,CHA,Richards Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1071,2,04:15,CHA,47.0,IND,56.0,N. Richards,CHA,Richards Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1071,2,04:03,CHA,,IND,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1071,2,02:32,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,2,02:21,CHA,,IND,,N. Richards,CHA,Richards P.FOUL (P3.PN) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2223-G1071,2,02:21,CHA,,IND,,N. Richards,CHA,SUB: Thor FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1071,3,11:34,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,3,10:32,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,3,10:32,CHA,62.0,IND,68.0,N. Richards,CHA,Richards Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1071,3,07:09,CHA,72.0,IND,75.0,N. Richards,CHA,Richards 1' Layup (10 PTS) (Washington 2 AST),Made Shot,Layup Shot,0,9,1,1,2.0,2.0,h
+S2223-G1071,3,05:39,CHA,76.0,IND,77.0,N. Richards,CHA,Richards Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1071,3,05:39,CHA,77.0,IND,77.0,N. Richards,CHA,Richards Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1071,3,03:38,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,3,02:50,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,3,02:50,CHA,84.0,IND,82.0,N. Richards,CHA,Richards Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1071,3,02:50,CHA,,IND,,N. Richards,CHA,SUB: Oubre Jr. FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1071,4,04:44,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:6 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,4,04:05,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:6 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,4,03:44,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:6 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,4,02:45,CHA,,IND,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1071,4,02:45,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:6 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,4,02:12,CHA,,IND,,N. Richards,CHA,Richards REBOUND (Off:6 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,4,00:36.900000,CHA,,IND,,N. Richards,CHA,SUB: Smith Jr. FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1071,4,00:19.200000,CHA,,IND,,N. Richards,CHA,SUB: Smith Jr. FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1134,1,11:14,OKC,,CHA,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1134,1,11:14,OKC,2.0,CHA,3.0,N. Richards,CHA,Richards Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1134,1,10:56,OKC,,CHA,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1134,1,10:56,OKC,2.0,CHA,4.0,N. Richards,CHA,Richards Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1134,1,06:24,OKC,,CHA,,N. Richards,CHA,Richards P.FOUL (P1.T3) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2223-G1134,1,05:55,OKC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,1,05:52,OKC,,CHA,,N. Richards,CHA,MISS Richards 5' Putback Layup,Missed Shot,Putback Layup Shot,12,49,5,1,2.0,0.0,v
+S2223-G1134,1,05:49,OKC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,1,05:49,OKC,14.0,CHA,13.0,N. Richards,CHA,Richards Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1134,1,05:32,OKC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,1,04:37,OKC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,1,04:09,OKC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,1,03:00,OKC,,CHA,,N. Richards,CHA,Richards OFF.Foul (P2) (M.Lindsay),Foul,Offensive,0,0,0,0,,,v
+S2223-G1134,1,03:00,OKC,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1134,1,03:00,OKC,,CHA,,N. Richards,CHA,SUB: Jones FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G1134,2,04:05,OKC,,CHA,,N. Richards,CHA,Richards S.FOUL (P3.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1134,2,04:05,OKC,,CHA,,N. Richards,CHA,SUB: Maledon FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G1134,3,11:31,OKC,,CHA,,N. Richards,CHA,MISS Richards 4' Running Layup,Missed Shot,Running Layup Shot,-42,-8,4,1,2.0,0.0,v
+S2223-G1134,3,11:29,OKC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,3,11:29,OKC,,CHA,,N. Richards,CHA,MISS Richards 4' Putback Layup,Missed Shot,Putback Layup Shot,-39,19,4,1,2.0,0.0,v
+S2223-G1134,3,11:05,OKC,70.0,CHA,59.0,N. Richards,CHA,Richards 3' Cutting Dunk Shot (6 PTS) (Washington 1 AST),Made Shot,Cutting Dunk Shot,25,13,3,1,2.0,2.0,v
+S2223-G1134,3,10:47,OKC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,3,09:15,OKC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,3,07:49,OKC,79.0,CHA,73.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (8 PTS) (McGowens 2 AST),Made Shot,Cutting Dunk Shot,0,8,1,1,2.0,2.0,v
+S2223-G1134,3,06:04,OKC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,3,05:00,OKC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,3,04:24,OKC,88.0,CHA,82.0,N. Richards,CHA,Richards 4' Running Alley Oop Dunk Shot (10 PTS) (Bouknight 5 AST),Made Shot,Running Alley Oop Dunk Shot,22,31,4,1,2.0,2.0,v
+S2223-G1134,3,02:45,OKC,,CHA,,N. Richards,CHA,SUB: Washington FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G1134,4,04:16,OKC,117.0,CHA,125.0,N. Richards,CHA,Richards 2' Dunk (12 PTS),Made Shot,Dunk Shot,-2,24,2,1,2.0,2.0,v
+S2223-G1134,4,00:19.400000,OKC,,CHA,,N. Richards,CHA,Richards REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,4,00:19.400000,OKC,132.0,CHA,134.0,N. Richards,CHA,Richards Tip Dunk Shot (14 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G1134,4,00:04.200000,OKC,,CHA,,N. Richards,CHA,Richards S.FOUL (P4.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0174,1,03:11,MIA,,CHA,,N. Richards,CHA,Richards P.FOUL (P1.T3) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G0174,1,02:27,MIA,,CHA,,N. Richards,CHA,Richards S.FOUL (P2.T4) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2223-G0174,1,01:29,MIA,29.0,CHA,21.0,N. Richards,CHA,Richards 7' Turnaround Hook Shot (2 PTS) (McDaniels 1 AST),Made Shot,Turnaround Hook Shot,-11,67,7,1,2.0,2.0,v
+S2223-G0174,1,00:54.700000,MIA,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0174,1,00:53.700000,MIA,30.0,CHA,23.0,N. Richards,CHA,Richards Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0174,1,00:53.700000,MIA,,CHA,,N. Richards,CHA,MISS Richards Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0174,1,00:12.500000,MIA,,CHA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0174,2,10:09,MIA,,CHA,,N. Richards,CHA,Richards STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0174,2,09:49,MIA,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0174,2,09:43,MIA,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0174,2,09:42,MIA,34.0,CHA,32.0,N. Richards,CHA,Richards Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0174,2,09:23,MIA,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0174,2,06:38,MIA,,CHA,,N. Richards,CHA,SUB: Washington FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0174,3,03:44,MIA,74.0,CHA,71.0,N. Richards,CHA,Richards 1' Alley Oop Dunk (8 PTS) (Rozier 1 AST),Made Shot,Alley Oop Dunk Shot,10,6,1,1,2.0,2.0,v
+S2223-G0174,3,03:05,MIA,,CHA,,N. Richards,CHA,Richards OFF.Foul (P3) (J.Goble),Foul,Offensive,0,0,0,0,,,v
+S2223-G0174,3,03:05,MIA,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0174,3,02:35,MIA,,CHA,,N. Richards,CHA,Richards L.B.FOUL (P4.PN) (S.Wall),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0174,3,00:23.600000,MIA,84.0,CHA,72.0,N. Richards,CHA,Richards Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0174,3,00:23.600000,MIA,84.0,CHA,73.0,N. Richards,CHA,Richards Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0898,1,05:40,MIN,,CHA,,N. Richards,CHA,Richards S.FOUL (P1.T4) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G0898,1,05:25,MIN,,CHA,,N. Richards,CHA,MISS Richards 5' Hook Shot,Missed Shot,Hook Shot,-28,43,5,1,2.0,0.0,v
+S2223-G0898,1,04:34,MIN,22.0,CHA,22.0,N. Richards,CHA,Richards Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0898,1,04:34,MIN,,CHA,,N. Richards,CHA,MISS Richards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0898,1,03:45,MIN,,CHA,,N. Richards,CHA,Richards S.FOUL (P2.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0898,1,02:37,MIN,28.0,CHA,28.0,N. Richards,CHA,Richards 4' Cutting Finger Roll Layup Shot (3 PTS) (Rozier 3 AST),Made Shot,Cutting Finger Roll Layup Shot,19,31,4,1,2.0,2.0,v
+S2223-G0898,1,02:37,MIN,28.0,CHA,29.0,N. Richards,CHA,Richards Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0898,1,00:47.200000,MIN,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0898,2,11:28,MIN,,CHA,,N. Richards,CHA,Richards S.FOUL (P3.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0898,2,11:28,MIN,,CHA,,N. Richards,CHA,SUB: Hayward FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0898,3,03:11,MIN,82.0,CHA,90.0,N. Richards,CHA,Richards 2' Cutting Dunk Shot (6 PTS) (Rozier 5 AST),Made Shot,Cutting Dunk Shot,-16,-5,2,1,2.0,2.0,v
+S2223-G0898,3,00:37.500000,MIN,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0898,3,00:30.500000,MIN,,CHA,,N. Richards,CHA,MISS Richards 3' Layup,Missed Shot,Layup Shot,-28,6,3,1,2.0,0.0,v
+S2223-G0898,3,00:08.100000,MIN,,CHA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0898,4,11:30,MIN,,CHA,,N. Richards,CHA,MISS Richards 5' Layup,Missed Shot,Layup Shot,-1,53,5,1,2.0,0.0,v
+S2223-G0898,4,11:28,MIN,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0898,4,11:27,MIN,,CHA,,N. Richards,CHA,MISS Richards 2' Layup,Missed Shot,Layup Shot,9,17,2,1,2.0,0.0,v
+S2223-G0898,4,07:54,MIN,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0898,4,07:54,MIN,99.0,CHA,100.0,N. Richards,CHA,Richards Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0898,4,06:17,MIN,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0898,4,05:21,MIN,106.0,CHA,106.0,N. Richards,CHA,Richards Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0898,4,05:21,MIN,106.0,CHA,107.0,N. Richards,CHA,Richards Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0898,4,04:14,MIN,,CHA,,N. Richards,CHA,SUB: Ball FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0965,1,03:37,BKN,,CHA,,N. Richards,CHA,MISS Richards 7' Layup,Missed Shot,Layup Shot,66,21,7,1,2.0,0.0,v
+S2223-G0965,1,01:25,BKN,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0965,1,00:42.900000,BKN,,CHA,,N. Richards,CHA,Richards L.B.FOUL (P1.T4) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0965,2,08:49,BKN,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0965,2,08:42,BKN,,CHA,,N. Richards,CHA,Richards OFF.Foul (P2) (C.Kirkland),Foul,Offensive,0,0,0,0,,,v
+S2223-G0965,2,08:42,BKN,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0965,2,08:28,BKN,,CHA,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0965,2,02:08,BKN,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0965,2,00:59.100000,BKN,,CHA,,N. Richards,CHA,Richards OFF.Foul (P3) (J.Butler),Foul,Offensive,0,0,0,0,,,v
+S2223-G0965,2,00:59.100000,BKN,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0965,2,00:59.100000,BKN,,CHA,,N. Richards,CHA,SUB: Jones FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0857,1,04:23,CHA,29.0,ATL,17.0,N. Richards,CHA,Richards Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0857,1,04:23,CHA,30.0,ATL,17.0,N. Richards,CHA,Richards Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0857,1,03:08,CHA,,ATL,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0857,1,02:28,CHA,,ATL,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0857,1,01:03,CHA,,ATL,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0857,1,00:32.400000,CHA,,ATL,,N. Richards,CHA,Richards P.FOUL (P1.PN) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2223-G0857,1,00:16.500000,CHA,,ATL,,N. Richards,CHA,MISS Richards 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-20,28,3,1,2.0,0.0,h
+S2223-G0857,1,00:02.300000,CHA,,ATL,,N. Richards,CHA,Richards S.FOUL (P2.PN) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2223-G0857,2,11:21,CHA,38.0,ATL,29.0,N. Richards,CHA,Richards 2' Alley Oop Dunk (4 PTS) (Smith Jr. 1 AST),Made Shot,Alley Oop Dunk Shot,13,12,2,1,2.0,2.0,h
+S2223-G0857,2,08:13,CHA,,ATL,,N. Richards,CHA,SUB: Hayward FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0857,2,01:26,CHA,,ATL,,N. Richards,CHA,Richards Violation:Defensive Goaltending (M.Lindsay),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0857,3,01:54,CHA,,ATL,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0857,3,01:54,CHA,100.0,ATL,96.0,N. Richards,CHA,Richards Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0857,3,01:31,CHA,,ATL,,N. Richards,CHA,Richards REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0857,3,00:56.200000,CHA,,ATL,,N. Richards,CHA,Richards REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0857,3,00:01.300000,CHA,,ATL,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0857,3,00:01.300000,CHA,109.0,ATL,96.0,N. Richards,CHA,Richards Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0857,4,09:55,CHA,,ATL,,N. Richards,CHA,Richards Violation:Kicked Ball (D.Richardson),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0857,4,08:09,CHA,,ATL,,N. Richards,CHA,Richards P.FOUL (P3.T1) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2223-G0857,4,08:09,CHA,,ATL,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0904,1,03:15,CHA,,MIA,,N. Richards,CHA,Richards L.B.FOUL (P1.T4) (E.Lewis),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0904,1,02:55,CHA,,MIA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0904,1,01:00,CHA,27.0,MIA,16.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (2 PTS) (Ball 3 AST),Made Shot,Cutting Dunk Shot,-11,8,1,1,2.0,2.0,h
+S2223-G0904,1,00:19.300000,CHA,,MIA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0904,2,11:16,CHA,,MIA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0904,2,10:46,CHA,,MIA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0904,2,10:08,CHA,33.0,MIA,18.0,N. Richards,CHA,Richards 2' Layup (4 PTS) (Ball 4 AST),Made Shot,Layup Shot,1,23,2,1,2.0,2.0,h
+S2223-G0904,2,09:07,CHA,,MIA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0904,2,07:42,CHA,,MIA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0904,2,06:56,CHA,,MIA,,N. Richards,CHA,SUB: Rozier FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0904,3,02:48,CHA,,MIA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0904,3,02:48,CHA,,MIA,,N. Richards,CHA,MISS Richards Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0904,3,01:07,CHA,,MIA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0904,4,10:08,CHA,,MIA,,N. Richards,CHA,MISS Richards 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,10,43,4,1,2.0,0.0,h
+S2223-G0904,4,08:25,CHA,,MIA,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1047,1,12:00,CHA,,PHI,,N. Richards,CHA,Jump Ball Richards vs. Embiid: Tip to Harden,Jump Ball,,0,0,0,0,,,h
+S2223-G1047,1,07:38,CHA,,PHI,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1047,1,07:24,CHA,,PHI,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1047,1,07:22,CHA,,PHI,,N. Richards,CHA,Richards Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1047,1,06:10,CHA,,PHI,,N. Richards,CHA,Richards S.FOUL (P1.T3) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G1047,1,05:40,CHA,,PHI,,N. Richards,CHA,Richards S.FOUL (P2.T4) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2223-G1047,1,05:40,CHA,,PHI,,N. Richards,CHA,SUB: Jones FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1047,2,03:02,CHA,46.0,PHI,55.0,N. Richards,CHA,Richards Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1047,2,03:02,CHA,47.0,PHI,55.0,N. Richards,CHA,Richards Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1047,3,11:44,CHA,,PHI,,N. Richards,CHA,Richards OFF.Foul (P3) (N.Green),Foul,Offensive,0,0,0,0,,,h
+S2223-G1047,3,11:44,CHA,,PHI,,N. Richards,CHA,Richards Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1047,3,10:39,CHA,,PHI,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1047,3,10:02,CHA,,PHI,,N. Richards,CHA,Richards S.FOUL (P4.T2) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G1047,3,10:02,CHA,,PHI,,N. Richards,CHA,SUB: Jones FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0946,1,03:52,CHA,,ORL,,N. Richards,CHA,Jump Ball Richards vs. Carter Jr.: Tip to Rozier,Jump Ball,,0,0,0,0,,,h
+S2223-G0946,1,01:52,CHA,,ORL,,N. Richards,CHA,MISS Richards 3' Hook Shot,Missed Shot,Hook Shot,2,29,3,1,2.0,0.0,h
+S2223-G0946,1,01:41,CHA,,ORL,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0946,1,00:47.500000,CHA,,ORL,,N. Richards,CHA,Richards Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0946,1,00:01.400000,CHA,26.0,ORL,31.0,N. Richards,CHA,Richards 2' Cutting Layup Shot (2 PTS) (Smith Jr. 3 AST),Made Shot,Cutting Layup Shot,15,0,2,1,2.0,2.0,h
+S2223-G0946,2,11:08,CHA,,ORL,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0946,2,10:25,CHA,,ORL,,N. Richards,CHA,Richards BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0946,2,05:45,CHA,,ORL,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0946,3,02:25,CHA,,ORL,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0946,3,00:01.600000,CHA,,ORL,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0946,4,09:35,CHA,,ORL,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0946,4,09:14,CHA,81.0,ORL,96.0,N. Richards,CHA,Richards 1' Dunk (4 PTS) (Smith Jr. 6 AST),Made Shot,Dunk Shot,1,11,1,1,2.0,2.0,h
+S2223-G0946,4,08:50,CHA,83.0,ORL,96.0,N. Richards,CHA,Richards 1' Running Layup (6 PTS) (Mykhailiuk 1 AST),Made Shot,Running Layup Shot,-4,5,1,1,2.0,2.0,h
+S2223-G0946,4,08:50,CHA,84.0,ORL,96.0,N. Richards,CHA,Richards Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0946,4,07:42,CHA,,ORL,,N. Richards,CHA,Richards OFF.Foul (P1) (G.Petraitis),Foul,Offensive,0,0,0,0,,,h
+S2223-G0946,4,07:42,CHA,,ORL,,N. Richards,CHA,Richards Offensive Foul Turnover (P2.T18),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0946,4,06:10,CHA,,ORL,,N. Richards,CHA,Richards REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0946,4,05:57,CHA,,ORL,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1005,1,12:00,CHA,,UTA,,N. Richards,CHA,Jump Ball Richards vs. Kessler: Tip to Horton-Tucker,Jump Ball,,0,0,0,0,,,h
+S2223-G1005,1,10:26,CHA,,UTA,,N. Richards,CHA,MISS Richards 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,2,16,2,1,2.0,0.0,h
+S2223-G1005,1,09:59,CHA,,UTA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1005,1,09:41,CHA,,UTA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1005,1,06:10,CHA,,UTA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1005,1,03:29,CHA,22.0,UTA,24.0,N. Richards,CHA,Richards 1' Dunk (2 PTS),Made Shot,Dunk Shot,-1,11,1,1,2.0,2.0,h
+S2223-G1005,1,02:03,CHA,,UTA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1005,1,01:42,CHA,,UTA,,N. Richards,CHA,SUB: McGowens FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1005,2,04:12,CHA,,UTA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1005,2,03:24,CHA,,UTA,,N. Richards,CHA,Richards L.B.FOUL (P1.T2) (K.Lane),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1005,2,03:15,CHA,,UTA,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1005,2,02:08,CHA,,UTA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1005,2,00:33.100000,CHA,,UTA,,N. Richards,CHA,Richards BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G1005,3,11:46,CHA,,UTA,,N. Richards,CHA,MISS Richards 3' Layup,Missed Shot,Layup Shot,6,26,3,1,2.0,0.0,h
+S2223-G1005,3,11:44,CHA,,UTA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1005,3,11:42,CHA,51.0,UTA,58.0,N. Richards,CHA,Richards 2' Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,2,18,2,1,2.0,2.0,h
+S2223-G1005,3,11:14,CHA,53.0,UTA,60.0,N. Richards,CHA,Richards 1' Layup (6 PTS) (Rozier 5 AST),Made Shot,Layup Shot,-4,10,1,1,2.0,2.0,h
+S2223-G1005,3,11:14,CHA,54.0,UTA,60.0,N. Richards,CHA,Richards Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1005,3,11:03,CHA,,UTA,,N. Richards,CHA,Richards S.FOUL (P2.T1) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2223-G1005,3,07:06,CHA,63.0,UTA,79.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (9 PTS) (Washington 1 AST),Made Shot,Cutting Dunk Shot,-2,10,1,1,2.0,2.0,h
+S2223-G1005,3,04:55,CHA,,UTA,,N. Richards,CHA,Richards BLOCK (4 BLK),,,0,0,0,0,,,h
+S2223-G1005,3,03:29,CHA,,UTA,,N. Richards,CHA,Richards BLOCK (5 BLK),,,0,0,0,0,,,h
+S2223-G1005,3,02:23,CHA,,UTA,,N. Richards,CHA,SUB: Oubre Jr. FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1005,4,04:50,CHA,,UTA,,N. Richards,CHA,MISS Richards 2' Driving Layup,Missed Shot,Driving Layup Shot,13,16,2,1,2.0,0.0,h
+S2223-G1005,4,03:56,CHA,,UTA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1005,4,01:21,CHA,,UTA,,N. Richards,CHA,Richards S.FOUL (P3.T4) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G1005,4,01:18,CHA,,UTA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0301,1,03:24,BOS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,1,03:21,BOS,,CHA,,N. Richards,CHA,Richards Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0301,1,02:20,BOS,,CHA,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0301,1,02:20,BOS,43.0,CHA,17.0,N. Richards,CHA,Richards Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0301,2,05:00,BOS,,CHA,,N. Richards,CHA,Richards OFF.Foul (P1) (K.Lane),Foul,Offensive,0,0,0,0,,,v
+S2223-G0301,2,05:00,BOS,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0301,2,02:56,BOS,,CHA,,N. Richards,CHA,Richards OFF.Foul (P2) (B.Barnaky),Foul,Offensive,0,0,0,0,,,v
+S2223-G0301,2,02:56,BOS,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0301,2,02:46,BOS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,2,01:11,BOS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,3,02:08,BOS,,CHA,,N. Richards,CHA,MISS Richards 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,-2,26,3,1,2.0,0.0,v
+S2223-G0301,3,01:20,BOS,,CHA,,N. Richards,CHA,Richards Violation:Defensive Goaltending (J.Goldenberg),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0301,3,00:57.900000,BOS,,CHA,,N. Richards,CHA,Richards S.FOUL (P3.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0301,3,00:00.300000,BOS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,4,07:26,BOS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,4,06:47,BOS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,4,04:22,BOS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,4,04:21,BOS,132.0,CHA,94.0,N. Richards,CHA,Richards 2' Putback Layup (3 PTS),Made Shot,Putback Layup Shot,-21,11,2,1,2.0,2.0,v
+S2223-G0301,4,03:45,BOS,132.0,CHA,96.0,N. Richards,CHA,Richards 2' Cutting Layup Shot (5 PTS) (McGowens 5 AST),Made Shot,Cutting Layup Shot,16,1,2,1,2.0,2.0,v
+S2223-G0301,4,02:26,BOS,137.0,CHA,101.0,N. Richards,CHA,Richards 7' Hook Bank Shot (7 PTS),Made Shot,Hook Bank Shot,-51,42,7,1,2.0,2.0,v
+S2223-G1101,1,10:51,DAL,,CHA,,N. Richards,CHA,Richards S.FOUL (P1.T1) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G1101,1,10:49,DAL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1101,1,10:37,DAL,,CHA,,N. Richards,CHA,MISS Richards 5' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,0,53,5,1,2.0,0.0,v
+S2223-G1101,1,10:13,DAL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1101,1,08:49,DAL,,CHA,,N. Richards,CHA,Hornets T.Foul (Def. 3 Sec Richards ) (E.Dalen),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G1101,1,08:24,DAL,,CHA,,N. Richards,CHA,Richards Violation:Defensive Goaltending (E.Dalen),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G1101,1,07:49,DAL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1101,1,07:29,DAL,,CHA,,N. Richards,CHA,Richards Violation:Defensive Goaltending (E.Dalen),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G1101,1,07:17,DAL,10.0,CHA,16.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (2 PTS) (Hayward 2 AST),Made Shot,Cutting Dunk Shot,0,6,1,1,2.0,2.0,v
+S2223-G1101,1,05:49,DAL,16.0,CHA,20.0,N. Richards,CHA,Richards 1' Alley Oop Dunk (4 PTS) (Smith Jr. 4 AST),Made Shot,Alley Oop Dunk Shot,-6,-1,1,1,2.0,2.0,v
+S2223-G1101,1,05:49,DAL,,CHA,,N. Richards,CHA,MISS Richards Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G1101,1,05:27,DAL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1101,1,04:36,DAL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1101,1,04:01,DAL,20.0,CHA,26.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (6 PTS) (Hayward 3 AST),Made Shot,Cutting Dunk Shot,-9,5,1,1,2.0,2.0,v
+S2223-G1101,1,03:39,DAL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1101,1,03:36,DAL,,CHA,,N. Richards,CHA,SUB: Mykhailiuk FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G1101,2,04:47,DAL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1101,2,03:21,DAL,,CHA,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G1101,3,09:47,DAL,,CHA,,N. Richards,CHA,Richards Violation:Kicked Ball (E.Dalen),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G1101,3,08:02,DAL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1101,3,06:16,DAL,,CHA,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1101,3,06:16,DAL,,CHA,,N. Richards,CHA,MISS Richards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1101,3,05:33,DAL,67.0,CHA,85.0,N. Richards,CHA,Richards 2' Cutting Layup Shot (8 PTS) (Hayward 8 AST),Made Shot,Cutting Layup Shot,2,18,2,1,2.0,2.0,v
+S2223-G1101,3,03:50,DAL,,CHA,,N. Richards,CHA,MISS Richards 17' Jump Shot,Missed Shot,Jump Shot,83,148,17,1,2.0,0.0,v
+S2223-G1101,3,03:41,DAL,,CHA,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G1101,4,05:14,DAL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1101,4,04:57,DAL,,CHA,,N. Richards,CHA,MISS Richards 6' Hook Shot,Missed Shot,Hook Shot,-20,54,6,1,2.0,0.0,v
+S2223-G1101,4,04:56,DAL,,CHA,,N. Richards,CHA,Richards L.B.FOUL (P2.T1) (E.Scott),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1101,4,03:36,DAL,101.0,CHA,112.0,N. Richards,CHA,Richards 1' Running Dunk (10 PTS) (Smith Jr. 9 AST),Made Shot,Running Dunk Shot,-11,4,1,1,2.0,2.0,v
+S2223-G1101,4,02:57,DAL,,CHA,,N. Richards,CHA,MISS Richards 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-4,11,1,1,2.0,0.0,v
+S2223-G1101,4,02:41,DAL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1101,4,02:20,DAL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1101,4,00:21.400000,DAL,,CHA,,N. Richards,CHA,MISS Richards 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-24,7,3,1,2.0,0.0,v
+S2223-G1101,4,00:13.700000,DAL,,CHA,,N. Richards,CHA,SUB: Thor FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0710,4,04:06,UTA,,CHA,,N. Richards,CHA,MISS Richards 3' Dunk,Missed Shot,Dunk Shot,25,14,3,1,2.0,0.0,v
+S2223-G0710,4,04:01,UTA,,CHA,,N. Richards,CHA,Richards STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0710,4,03:59,UTA,112.0,CHA,89.0,N. Richards,CHA,Richards 2' Dunk (2 PTS),Made Shot,Dunk Shot,0,20,2,1,2.0,2.0,v
+S2223-G0710,4,01:46,UTA,,CHA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0710,4,00:40.900000,UTA,,CHA,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0710,4,00:26.900000,UTA,120.0,CHA,102.0,N. Richards,CHA,Richards 2' Cutting Layup Shot (4 PTS) (Smith Jr. 9 AST),Made Shot,Cutting Layup Shot,-21,0,2,1,2.0,2.0,v
+S2223-G1176,1,12:00,CHA,,TOR,,N. Richards,CHA,Jump Ball Richards vs. Poeltl: Tip to Siakam,Jump Ball,,0,0,0,0,,,h
+S2223-G1176,1,11:07,CHA,,TOR,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,1,10:54,CHA,2.0,TOR,0.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (2 PTS) (Maledon 1 AST),Made Shot,Cutting Dunk Shot,7,8,1,1,2.0,2.0,h
+S2223-G1176,1,10:13,CHA,,TOR,,N. Richards,CHA,Richards S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G1176,1,09:30,CHA,,TOR,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,1,09:13,CHA,,TOR,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,1,08:36,CHA,10.0,TOR,2.0,N. Richards,CHA,Richards 2' Running Layup (4 PTS) (McGowens 1 AST),Made Shot,Running Layup Shot,7,18,2,1,2.0,2.0,h
+S2223-G1176,1,07:54,CHA,,TOR,,N. Richards,CHA,Richards REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,1,07:36,CHA,,TOR,,N. Richards,CHA,Richards REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,1,05:27,CHA,17.0,TOR,13.0,N. Richards,CHA,Richards 3' Cutting Layup Shot (6 PTS) (Mykhailiuk 2 AST),Made Shot,Cutting Layup Shot,7,25,3,1,2.0,2.0,h
+S2223-G1176,1,05:07,CHA,,TOR,,N. Richards,CHA,Richards REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,1,04:18,CHA,,TOR,,N. Richards,CHA,Richards REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,1,03:58,CHA,,TOR,,N. Richards,CHA,Richards P.FOUL (P2.T3) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2223-G1176,1,03:58,CHA,,TOR,,N. Richards,CHA,SUB: Thor FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1176,2,02:14,CHA,,TOR,,N. Richards,CHA,MISS Richards 8' Jump Shot,Missed Shot,Jump Shot,-17,79,8,1,2.0,0.0,h
+S2223-G1176,2,00:34.700000,CHA,,TOR,,N. Richards,CHA,SUB: Jones FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1176,3,10:51,CHA,51.0,TOR,63.0,N. Richards,CHA,Richards 1' Alley Oop Dunk (8 PTS) (Mykhailiuk 3 AST),Made Shot,Alley Oop Dunk Shot,6,5,1,1,2.0,2.0,h
+S2223-G1176,3,04:46,CHA,71.0,TOR,80.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (10 PTS) (Maledon 8 AST),Made Shot,Cutting Dunk Shot,4,4,1,1,2.0,2.0,h
+S2223-G1176,3,02:37,CHA,,TOR,,N. Richards,CHA,SUB: Sneed FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1176,4,05:16,CHA,90.0,TOR,107.0,N. Richards,CHA,Richards 3' Layup (12 PTS) (Maledon 10 AST),Made Shot,Layup Shot,4,28,3,1,2.0,2.0,h
+S2223-G1176,4,04:55,CHA,,TOR,,N. Richards,CHA,Richards REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,4,04:21,CHA,93.0,TOR,109.0,N. Richards,CHA,Richards Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1176,4,04:21,CHA,94.0,TOR,109.0,N. Richards,CHA,Richards Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1176,4,03:43,CHA,,TOR,,N. Richards,CHA,Richards REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,4,03:42,CHA,,TOR,,N. Richards,CHA,MISS Richards Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G1176,4,03:42,CHA,,TOR,,N. Richards,CHA,Richards REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,4,03:42,CHA,,TOR,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1176,4,03:42,CHA,95.0,TOR,112.0,N. Richards,CHA,Richards Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1176,4,03:05,CHA,97.0,TOR,115.0,N. Richards,CHA,Richards 3' Layup (17 PTS) (Simmons 1 AST),Made Shot,Layup Shot,25,9,3,1,2.0,2.0,h
+S2223-G1176,4,03:05,CHA,98.0,TOR,115.0,N. Richards,CHA,Richards Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1176,4,02:07,CHA,,TOR,,N. Richards,CHA,Richards REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,4,02:05,CHA,,TOR,,N. Richards,CHA,SUB: Sneed FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0272,1,02:08,CHA,,MIN,,N. Richards,CHA,MISS Richards 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,13,-3,1,1,2.0,0.0,h
+S2223-G0272,1,01:43,CHA,26.0,MIN,29.0,N. Richards,CHA,Richards 2' Layup (2 PTS) (Maledon 2 AST),Made Shot,Layup Shot,-12,12,2,1,2.0,2.0,h
+S2223-G0272,2,09:14,CHA,,MIN,,N. Richards,CHA,Richards L.B.FOUL (P1.T2) (S.Foster),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0272,2,08:56,CHA,,MIN,,N. Richards,CHA,Richards OFF.Foul (P2) (S.Foster),Foul,Offensive,0,0,0,0,,,h
+S2223-G0272,2,08:56,CHA,,MIN,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0272,2,07:40,CHA,,MIN,,N. Richards,CHA,SUB: Oubre Jr. FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0272,3,04:06,CHA,,MIN,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,3,03:26,CHA,,MIN,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0272,3,02:54,CHA,,MIN,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,3,02:47,CHA,,MIN,,N. Richards,CHA,Richards Traveling Turnover (P2.T9),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0272,3,01:42,CHA,,MIN,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,4,11:11,CHA,,MIN,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0272,4,05:22,CHA,,MIN,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0225,1,03:46,CLE,,CHA,,N. Richards,CHA,Richards Violation:Kicked Ball (J.DeRosa),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0225,1,03:06,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,1,02:15,CLE,21.0,CHA,12.0,N. Richards,CHA,Richards 2' Cutting Dunk Shot (2 PTS) (Bouknight 1 AST),Made Shot,Cutting Dunk Shot,4,15,2,1,2.0,2.0,v
+S2223-G0225,1,02:15,CLE,,CHA,,N. Richards,CHA,MISS Richards Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0225,2,11:35,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,2,11:35,CLE,28.0,CHA,16.0,N. Richards,CHA,Richards Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0225,2,09:16,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,2,09:12,CLE,,CHA,,N. Richards,CHA,MISS Richards 2' Driving Layup,Missed Shot,Driving Layup Shot,11,20,2,1,2.0,0.0,v
+S2223-G0225,2,08:56,CLE,31.0,CHA,22.0,N. Richards,CHA,Richards 2' Alley Oop Dunk (6 PTS) (Rozier 1 AST),Made Shot,Alley Oop Dunk Shot,4,21,2,1,2.0,2.0,v
+S2223-G0225,2,08:43,CLE,,CHA,,N. Richards,CHA,Richards S.FOUL (P1.T1) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0225,2,08:12,CLE,,CHA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0225,2,07:32,CLE,,CHA,,N. Richards,CHA,Richards L.B.FOUL (P2.T2) (B.Kennedy),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0225,2,06:31,CLE,,CHA,,N. Richards,CHA,MISS Richards 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-2,27,3,1,2.0,0.0,v
+S2223-G0225,2,06:25,CLE,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0225,3,02:11,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,3,00:44.700000,CLE,,CHA,,N. Richards,CHA,Richards S.FOUL (P3.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0225,4,11:33,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,4,11:07,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,4,10:24,CLE,,CHA,,N. Richards,CHA,Richards OFF.Foul (P4) (B.Kennedy),Foul,Offensive,0,0,0,0,,,v
+S2223-G0225,4,10:24,CLE,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0225,4,08:51,CLE,90.0,CHA,75.0,N. Richards,CHA,Richards Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0225,4,08:51,CLE,90.0,CHA,76.0,N. Richards,CHA,Richards Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0225,4,08:05,CLE,,CHA,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0225,4,06:45,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,4,06:44,CLE,,CHA,,N. Richards,CHA,MISS Richards 3' Putback Dunk,Missed Shot,Putback Dunk Shot,0,31,3,1,2.0,0.0,v
+S2223-G0225,4,06:43,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,4,06:43,CLE,92.0,CHA,82.0,N. Richards,CHA,Richards 2' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,4,15,2,1,2.0,2.0,v
+S2223-G0225,4,06:43,CLE,92.0,CHA,83.0,N. Richards,CHA,Richards Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0225,4,06:28,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,4,06:07,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,4,06:04,CLE,92.0,CHA,85.0,N. Richards,CHA,Richards 5' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,4,48,5,1,2.0,2.0,v
+S2223-G0225,4,05:41,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,4,05:38,CLE,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0225,4,00:03.800000,CLE,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0225,5,00:22.500000,CLE,,CHA,,N. Richards,CHA,SUB: McDaniels FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0225,5,00:01,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:5 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,5,00:00.300000,CLE,,CHA,,N. Richards,CHA,MISS Richards 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,-12,27,3,1,2.0,0.0,v
+S2223-G0225,6,04:24,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:5 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,6,02:50,CLE,,CHA,,N. Richards,CHA,Richards BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0225,6,01:07,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:6 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,6,01:07,CLE,,CHA,,N. Richards,CHA,MISS Richards Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0399,1,03:42,PHI,,CHA,,N. Richards,CHA,Richards STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0399,1,00:00.300000,PHI,,CHA,,N. Richards,CHA,MISS Richards 10' Jump Shot,Missed Shot,Jump Shot,20,96,10,1,2.0,0.0,v
+S2223-G0399,2,09:49,PHI,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0399,2,08:58,PHI,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0399,2,08:43,PHI,27.0,CHA,32.0,N. Richards,CHA,Richards Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0399,2,08:43,PHI,27.0,CHA,33.0,N. Richards,CHA,Richards Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0399,2,06:53,PHI,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0399,2,00:16.100000,PHI,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0399,2,00:16.100000,PHI,61.0,CHA,54.0,N. Richards,CHA,Richards Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0399,3,02:33,PHI,,CHA,,N. Richards,CHA,MISS Richards 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-1,36,4,1,2.0,0.0,v
+S2223-G0399,3,02:26,PHI,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0399,3,01:43,PHI,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0399,3,01:43,PHI,91.0,CHA,82.0,N. Richards,CHA,Richards Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0399,3,01:30,PHI,,CHA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0399,3,00:33.900000,PHI,94.0,CHA,84.0,N. Richards,CHA,Richards Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0399,3,00:33.900000,PHI,94.0,CHA,85.0,N. Richards,CHA,Richards Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0399,4,08:44,PHI,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0399,4,08:44,PHI,,CHA,,N. Richards,CHA,MISS Richards Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0399,4,08:12,PHI,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0399,4,08:02,PHI,,CHA,,N. Richards,CHA,Richards REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0399,4,07:43,PHI,,CHA,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0399,4,07:43,PHI,106.0,CHA,95.0,N. Richards,CHA,Richards Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0399,4,05:48,PHI,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0377,1,01:55,CHA,,NYK,,N. Richards,CHA,Richards OFF.Foul (P1) (A.Smith),Foul,Offensive,0,0,0,0,,,h
+S2223-G0377,1,01:55,CHA,,NYK,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0377,1,00:48.300000,CHA,,NYK,,N. Richards,CHA,Richards STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0377,1,00:21.100000,CHA,,NYK,,N. Richards,CHA,MISS Richards 2' Layup,Missed Shot,Layup Shot,5,17,2,1,2.0,0.0,h
+S2223-G0377,2,10:51,CHA,23.0,NYK,26.0,N. Richards,CHA,Richards Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0377,2,10:51,CHA,24.0,NYK,26.0,N. Richards,CHA,Richards Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0377,2,07:51,CHA,,NYK,,N. Richards,CHA,Richards OFF.Foul (P2) (E.Lewis),Foul,Offensive,0,0,0,0,,,h
+S2223-G0377,2,07:51,CHA,,NYK,,N. Richards,CHA,Richards Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0377,2,06:35,CHA,,NYK,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0377,2,06:32,CHA,,NYK,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0377,3,02:25,CHA,,NYK,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0377,3,00:43.700000,CHA,,NYK,,N. Richards,CHA,Richards S.FOUL (P3.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0377,4,10:03,CHA,,NYK,,N. Richards,CHA,Richards L.B.FOUL (P4.T1) (J.Goldenberg),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0377,4,09:48,CHA,,NYK,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0377,4,09:32,CHA,,NYK,,N. Richards,CHA,MISS Richards 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,0,6,1,1,2.0,0.0,h
+S2223-G0377,4,09:12,CHA,,NYK,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0642,1,01:04,CHA,,BOS,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0642,1,00:43.200000,CHA,,BOS,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0642,2,11:29,CHA,,BOS,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0642,2,10:27,CHA,,BOS,,N. Richards,CHA,Richards REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0642,2,10:21,CHA,40.0,BOS,31.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (2 PTS) (Ball 3 AST),Made Shot,Cutting Dunk Shot,5,10,1,1,2.0,2.0,h
+S2223-G0642,2,09:43,CHA,42.0,BOS,31.0,N. Richards,CHA,Richards 7' Driving Hook Shot (4 PTS),Made Shot,Driving Hook Shot,-2,65,7,1,2.0,2.0,h
+S2223-G0642,2,08:56,CHA,,BOS,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0642,2,06:31,CHA,,BOS,,N. Richards,CHA,Richards REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0642,2,06:31,CHA,54.0,BOS,42.0,N. Richards,CHA,Richards Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0642,2,06:23,CHA,,BOS,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0642,3,01:20,CHA,,BOS,,N. Richards,CHA,MISS Richards 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,34,92,10,1,2.0,0.0,h
+S2223-G0642,3,00:41.900000,CHA,,BOS,,N. Richards,CHA,Richards L.B.FOUL (P1.T2) (D.Collins),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0642,3,00:14.800000,CHA,85.0,BOS,93.0,N. Richards,CHA,Richards 2' Layup (8 PTS) (Smith Jr. 3 AST),Made Shot,Layup Shot,16,4,2,1,2.0,2.0,h
+S2223-G0642,4,11:34,CHA,,BOS,,N. Richards,CHA,Richards REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0642,4,09:23,CHA,,BOS,,N. Richards,CHA,SUB: Rozier FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0838,1,03:20,BOS,,CHA,,N. Richards,CHA,Richards S.FOUL (P1.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0838,1,02:36,BOS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0838,2,11:44,BOS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0838,2,11:44,BOS,32.0,CHA,26.0,N. Richards,CHA,Richards Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0838,2,10:45,BOS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0838,2,10:07,BOS,38.0,CHA,32.0,N. Richards,CHA,Richards 2' Cutting Dunk Shot (4 PTS) (McGowens 1 AST),Made Shot,Cutting Dunk Shot,2,17,2,1,2.0,2.0,v
+S2223-G0838,2,09:40,BOS,,CHA,,N. Richards,CHA,Richards OFF.Foul (P2) (D.Taylor),Foul,Offensive,0,0,0,0,,,v
+S2223-G0838,2,09:40,BOS,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0838,2,06:46,BOS,,CHA,,N. Richards,CHA,SUB: Rozier FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0838,3,03:02,BOS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0838,3,03:02,BOS,,CHA,,N. Richards,CHA,MISS Richards Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0838,3,02:46,BOS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0838,3,00:22.600000,BOS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0838,3,00:22.600000,BOS,,CHA,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0838,3,00:22.600000,BOS,94.0,CHA,81.0,N. Richards,CHA,Richards Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0838,4,09:44,BOS,102.0,CHA,87.0,N. Richards,CHA,Richards Cutting Dunk Shot (7 PTS) (Ball 6 AST),Made Shot,Cutting Dunk Shot,-1,2,0,1,2.0,2.0,v
+S2223-G0838,4,07:58,BOS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0838,4,07:43,BOS,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0838,4,07:03,BOS,,CHA,,N. Richards,CHA,SUB: Hayward FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0992,1,08:49,DET,,CHA,,N. Richards,CHA,Richards Violation:Kicked Ball (M.Ervin),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0992,1,08:29,DET,7.0,CHA,10.0,N. Richards,CHA,Richards 2' Reverse Layup (2 PTS) (Hayward 1 AST),Made Shot,Reverse Layup Shot,-16,0,2,1,2.0,2.0,v
+S2223-G0992,1,07:34,DET,11.0,CHA,12.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (4 PTS) (Rozier 3 AST),Made Shot,Cutting Dunk Shot,13,3,1,1,2.0,2.0,v
+S2223-G0992,1,07:34,DET,11.0,CHA,13.0,N. Richards,CHA,Richards Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0992,1,03:27,DET,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0992,1,01:48,DET,,CHA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0992,1,00:51.800000,DET,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0992,2,11:03,DET,27.0,CHA,35.0,N. Richards,CHA,Richards 1' Dunk (7 PTS) (Oubre Jr. 1 AST),Made Shot,Dunk Shot,5,10,1,1,2.0,2.0,v
+S2223-G0992,2,09:53,DET,,CHA,,N. Richards,CHA,Richards STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0992,2,09:22,DET,,CHA,,N. Richards,CHA,Richards S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0992,2,08:55,DET,29.0,CHA,41.0,N. Richards,CHA,Richards 1' Running Dunk (9 PTS) (Smith Jr. 1 AST),Made Shot,Running Dunk Shot,-7,10,1,1,2.0,2.0,v
+S2223-G0992,2,08:46,DET,,CHA,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0992,3,10:03,DET,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0992,3,09:37,DET,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0992,3,09:26,DET,55.0,CHA,70.0,N. Richards,CHA,Richards 1' Layup (11 PTS) (Rozier 7 AST),Made Shot,Layup Shot,7,7,1,1,2.0,2.0,v
+S2223-G0992,3,07:07,DET,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0992,3,05:09,DET,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0992,3,04:25,DET,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0992,3,04:24,DET,69.0,CHA,81.0,N. Richards,CHA,Richards 1' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,-10,4,1,1,2.0,2.0,v
+S2223-G0992,3,03:33,DET,,CHA,,N. Richards,CHA,SUB: Smith Jr. FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0992,4,04:51,DET,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0992,4,04:50,DET,,CHA,,N. Richards,CHA,Richards Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0992,4,04:05,DET,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0992,4,03:58,DET,,CHA,,N. Richards,CHA,Richards OFF.Foul (P2) (M.Ervin),Foul,Offensive,0,0,0,0,,,v
+S2223-G0992,4,03:58,DET,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0992,4,02:54,DET,,CHA,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0992,4,02:37,DET,,CHA,,N. Richards,CHA,Richards REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0992,4,02:37,DET,,CHA,,N. Richards,CHA,MISS Richards 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,9,8,1,1,2.0,0.0,v
+S2223-G0414,2,09:59,CHA,,DET,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0414,2,09:41,CHA,,DET,,N. Richards,CHA,Richards S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0414,2,07:35,CHA,,DET,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0414,2,07:35,CHA,,DET,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0414,2,07:35,CHA,50.0,DET,47.0,N. Richards,CHA,Richards Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0414,2,06:59,CHA,,DET,,N. Richards,CHA,Richards S.FOUL (P2.T4) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0414,2,06:25,CHA,,DET,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0414,2,06:07,CHA,,DET,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0414,2,06:03,CHA,,DET,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0414,3,03:11,CHA,,DET,,N. Richards,CHA,Richards Violation:Defensive Goaltending (D.Guthrie),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0414,3,02:39,CHA,,DET,,N. Richards,CHA,Richards L.B.FOUL (P3.PN) (D.Guthrie),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0414,3,00:47.400000,CHA,94.0,DET,105.0,N. Richards,CHA,Richards Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0414,3,00:47.400000,CHA,95.0,DET,105.0,N. Richards,CHA,Richards Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0414,4,07:34,CHA,,DET,,N. Richards,CHA,Richards OFF.Foul (P4) (J.Ralls),Foul,Offensive,0,0,0,0,,,h
+S2223-G0414,4,07:34,CHA,,DET,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0414,4,06:58,CHA,,DET,,N. Richards,CHA,SUB: Maledon FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0785,1,02:55,DET,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0785,1,01:10,DET,23.0,CHA,28.0,N. Richards,CHA,Richards 3' Cutting Dunk Shot (2 PTS) (Ball 1 AST),Made Shot,Cutting Dunk Shot,-5,32,3,1,2.0,2.0,v
+S2223-G0785,1,00:08.100000,DET,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0785,1,00:07.400000,DET,,CHA,,N. Richards,CHA,MISS Richards 4' Hook Shot,Missed Shot,Hook Shot,-20,30,4,1,2.0,0.0,v
+S2223-G0785,1,00:02.400000,DET,,CHA,,N. Richards,CHA,Richards S.FOUL (P1.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2223-G0785,1,00:00,DET,,CHA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0785,2,10:56,DET,31.0,CHA,36.0,N. Richards,CHA,Richards 2' Running Layup (4 PTS) (Smith Jr. 1 AST),Made Shot,Running Layup Shot,-21,-7,2,1,2.0,2.0,v
+S2223-G0785,2,10:56,DET,31.0,CHA,37.0,N. Richards,CHA,Richards Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0785,2,10:20,DET,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0785,2,10:20,DET,,CHA,,N. Richards,CHA,MISS Richards 2' Layup,Missed Shot,Layup Shot,-13,9,2,1,2.0,0.0,v
+S2223-G0785,2,08:23,DET,,CHA,,N. Richards,CHA,Richards L.B.FOUL (P2.T1) (M.Lindsay),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0785,2,07:53,DET,41.0,CHA,43.0,N. Richards,CHA,Richards 4' Hook Shot (7 PTS) (Washington 1 AST),Made Shot,Hook Shot,-2,36,4,1,2.0,2.0,v
+S2223-G0785,2,06:53,DET,,CHA,,N. Richards,CHA,Richards S.FOUL (P3.T2) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0785,2,06:53,DET,,CHA,,N. Richards,CHA,SUB: Rozier FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0785,3,02:22,DET,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0785,3,00:34,DET,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0785,4,10:52,DET,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0785,4,09:08,DET,,CHA,,N. Richards,CHA,Richards L.B.FOUL (P4.T3) (J.Van Duyne),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0785,4,08:53,DET,,CHA,,N. Richards,CHA,Richards OFF.Foul (P5) (M.Boland),Foul,Offensive,0,0,0,0,,,v
+S2223-G0785,4,08:53,DET,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0785,4,08:53,DET,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G1218,2,11:27,CLE,25.0,CHA,18.0,N. Richards,CHA,Richards Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1218,2,11:27,CLE,25.0,CHA,19.0,N. Richards,CHA,Richards Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1218,2,10:58,CLE,,CHA,,N. Richards,CHA,Richards Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1218,2,09:42,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,2,09:25,CLE,,CHA,,N. Richards,CHA,Richards Traveling Turnover (P2.T5),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1218,2,08:36,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,2,08:35,CLE,,CHA,,N. Richards,CHA,MISS Richards 1' Putback Layup,Missed Shot,Putback Layup Shot,0,11,1,1,2.0,0.0,v
+S2223-G1218,2,06:57,CLE,,CHA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1218,2,06:43,CLE,39.0,CHA,30.0,N. Richards,CHA,Richards 4' Cutting Layup Shot (4 PTS) (Mykhailiuk 3 AST),Made Shot,Cutting Layup Shot,27,30,4,1,2.0,2.0,v
+S2223-G1218,2,06:08,CLE,41.0,CHA,32.0,N. Richards,CHA,Richards 10' Turnaround Jump Shot (6 PTS) (Maledon 2 AST),Made Shot,Turnaround Jump Shot,69,77,10,1,2.0,2.0,v
+S2223-G1218,2,06:08,CLE,41.0,CHA,33.0,N. Richards,CHA,Richards Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1218,2,05:33,CLE,,CHA,,N. Richards,CHA,SUB: Thor FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G1218,3,03:33,CLE,,CHA,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1218,3,03:29,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,3,01:15,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,4,11:24,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,4,11:09,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,4,10:42,CLE,77.0,CHA,77.0,N. Richards,CHA,Richards 2' Driving Layup (9 PTS) (Mykhailiuk 5 AST),Made Shot,Driving Layup Shot,-15,8,2,1,2.0,2.0,v
+S2223-G1218,4,09:56,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,4,09:35,CLE,,CHA,,N. Richards,CHA,Richards STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1218,4,09:11,CLE,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,4,09:07,CLE,,CHA,,N. Richards,CHA,Richards Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1218,4,08:58,CLE,,CHA,,N. Richards,CHA,Richards BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G1218,4,07:05,CLE,84.0,CHA,91.0,N. Richards,CHA,Richards Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1218,4,07:05,CLE,84.0,CHA,92.0,N. Richards,CHA,Richards Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1218,4,06:16,CLE,,CHA,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G1202,1,02:22,CHA,,HOU,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1202,1,01:22,CHA,23.0,HOU,21.0,N. Richards,CHA,Richards 2' Cutting Layup Shot (2 PTS) (Bouknight 1 AST),Made Shot,Cutting Layup Shot,21,8,2,1,2.0,2.0,h
+S2223-G1202,2,11:51,CHA,,HOU,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1202,2,11:51,CHA,27.0,HOU,25.0,N. Richards,CHA,Richards Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1202,2,09:57,CHA,,HOU,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1202,2,09:51,CHA,,HOU,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1202,2,09:51,CHA,,HOU,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1202,2,09:51,CHA,32.0,HOU,31.0,N. Richards,CHA,Richards Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1202,2,09:34,CHA,,HOU,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1202,2,08:36,CHA,,HOU,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1202,2,08:15,CHA,,HOU,,N. Richards,CHA,Richards P.FOUL (P1.T1) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2223-G1202,2,06:27,CHA,,HOU,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1202,3,03:46,CHA,,HOU,,N. Richards,CHA,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1202,3,02:49,CHA,,HOU,,N. Richards,CHA,Richards REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1202,4,09:05,CHA,,HOU,,N. Richards,CHA,MISS Richards 2' Running Layup,Missed Shot,Running Layup Shot,21,9,2,1,2.0,0.0,h
+S2223-G1202,4,08:12,CHA,,HOU,,N. Richards,CHA,Richards P.FOUL (P2.T3) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G1202,4,08:02,CHA,,HOU,,N. Richards,CHA,Richards REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1202,4,07:09,CHA,,HOU,,N. Richards,CHA,Richards REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1202,4,06:14,CHA,91.0,HOU,99.0,N. Richards,CHA,Richards Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1202,4,06:14,CHA,92.0,HOU,99.0,N. Richards,CHA,Richards Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1202,4,05:31,CHA,,HOU,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0583,4,01:07,MIL,,CHA,,N. Richards,CHA,Richards STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0096,1,01:29,CHA,,SAC,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0096,1,01:04,CHA,,SAC,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0096,1,00:18.400000,CHA,34.0,SAC,22.0,N. Richards,CHA,Richards 3' Cutting Layup Shot (2 PTS) (Maledon 1 AST),Made Shot,Cutting Layup Shot,5,31,3,1,2.0,2.0,h
+S2223-G0096,2,10:07,CHA,,SAC,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0096,2,10:07,CHA,,SAC,,N. Richards,CHA,MISS Richards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0096,2,09:36,CHA,,SAC,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0096,2,07:55,CHA,,SAC,,N. Richards,CHA,Richards P.FOUL (P1.T3) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2223-G0096,2,07:18,CHA,,SAC,,N. Richards,CHA,SUB: Hayward FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0096,3,03:07,CHA,,SAC,,N. Richards,CHA,Richards OFF.Foul (P2) (J.Tiven),Foul,Offensive,0,0,0,0,,,h
+S2223-G0096,3,03:07,CHA,,SAC,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0096,3,02:41,CHA,,SAC,,N. Richards,CHA,Richards Out of Bounds - Bad Pass Turnover Turnover (P2.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0096,3,01:40,CHA,,SAC,,N. Richards,CHA,Jump Ball Richards vs. Holmes: Tip to Lyles,Jump Ball,,0,0,0,0,,,h
+S2223-G0096,4,11:32,CHA,,SAC,,N. Richards,CHA,Richards REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0096,4,10:22,CHA,89.0,SAC,91.0,N. Richards,CHA,Richards 2' Dunk (4 PTS) (Washington 2 AST),Made Shot,Dunk Shot,0,16,2,1,2.0,2.0,h
+S2223-G0096,4,10:02,CHA,,SAC,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0096,4,08:49,CHA,,SAC,,N. Richards,CHA,MISS Richards 4' Layup,Missed Shot,Layup Shot,1,42,4,1,2.0,0.0,h
+S2223-G0096,4,06:25,CHA,,SAC,,N. Richards,CHA,Richards L.B.FOUL (P3.T3) (S.Corbin),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0096,4,06:25,CHA,,SAC,,N. Richards,CHA,Richards T.FOUL (P3.T3) (J.Tiven),Foul,Technical,0,0,0,0,,,h
+S2223-G0096,4,05:50,CHA,,SAC,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0038,1,00:26,ATL,30.0,CHA,22.0,N. Richards,CHA,Richards 3' Cutting Layup Shot (2 PTS) (McDaniels 2 AST),Made Shot,Cutting Layup Shot,-9,26,3,1,2.0,2.0,v
+S2223-G0038,2,09:50,ATL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,2,09:50,ATL,,CHA,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0038,2,09:50,ATL,30.0,CHA,31.0,N. Richards,CHA,Richards Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0038,2,07:19,ATL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,2,07:19,ATL,34.0,CHA,40.0,N. Richards,CHA,Richards Putback Layup (5 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0038,2,05:54,ATL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,2,05:52,ATL,38.0,CHA,42.0,N. Richards,CHA,Richards 2' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,-9,16,2,1,2.0,2.0,v
+S2223-G0038,2,05:20,ATL,39.0,CHA,44.0,N. Richards,CHA,Richards 10' Driving Hook Shot (9 PTS) (Maledon 2 AST),Made Shot,Driving Hook Shot,1,97,10,1,2.0,2.0,v
+S2223-G0038,2,05:02,ATL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,2,04:42,ATL,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0038,3,04:40,ATL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,3,03:49,ATL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,3,03:38,ATL,75.0,CHA,91.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (11 PTS) (Bouknight 2 AST),Made Shot,Cutting Dunk Shot,-7,-6,1,1,2.0,2.0,v
+S2223-G0038,3,02:58,ATL,,CHA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0038,3,02:32,ATL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,3,01:49,ATL,78.0,CHA,95.0,N. Richards,CHA,Richards 1' Layup (13 PTS) (Maledon 3 AST),Made Shot,Layup Shot,-5,-10,1,1,2.0,2.0,v
+S2223-G0038,3,01:49,ATL,78.0,CHA,96.0,N. Richards,CHA,Richards Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0038,3,01:34,ATL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,3,01:33,ATL,78.0,CHA,98.0,N. Richards,CHA,Richards Putback Layup (16 PTS),Made Shot,Putback Layup Shot,-1,0,0,1,2.0,2.0,v
+S2223-G0038,3,00:48.500000,ATL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,3,00:48.500000,ATL,82.0,CHA,102.0,N. Richards,CHA,Richards Tip Layup Shot (18 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0038,3,00:31.300000,ATL,,CHA,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0038,3,00:04.800000,ATL,84.0,CHA,104.0,N. Richards,CHA,Richards 1' Dunk (20 PTS) (Maledon 4 AST),Made Shot,Dunk Shot,0,8,1,1,2.0,2.0,v
+S2223-G0038,4,10:46,ATL,,CHA,,N. Richards,CHA,Richards S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0038,4,09:45,ATL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,4,08:45,ATL,,CHA,,N. Richards,CHA,Richards REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,4,07:44,ATL,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G1015,1,12:00,CHA,,CLE,,N. Richards,CHA,Jump Ball Richards vs. E. Mobley: Tip to Stevens,Jump Ball,,0,0,0,0,,,h
+S2223-G1015,1,09:11,CHA,,CLE,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1015,1,08:50,CHA,,CLE,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1015,1,07:30,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,1,07:15,CHA,,CLE,,N. Richards,CHA,Jump Ball Richards vs. Stevens: Tip to Garland,Jump Ball,,0,0,0,0,,,h
+S2223-G1015,1,07:15,CHA,,CLE,,N. Richards,CHA,Richards Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1015,1,06:44,CHA,14.0,CLE,11.0,N. Richards,CHA,Richards 3' Running Layup (2 PTS) (Smith Jr. 1 AST),Made Shot,Running Layup Shot,-16,20,3,1,2.0,2.0,h
+S2223-G1015,1,04:31,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,1,04:16,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,1,04:16,CHA,27.0,CLE,15.0,N. Richards,CHA,Richards Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1015,1,03:24,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,1,03:14,CHA,,CLE,,N. Richards,CHA,SUB: McGowens FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1015,2,05:35,CHA,,CLE,,N. Richards,CHA,Richards S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G1015,2,04:21,CHA,,CLE,,N. Richards,CHA,Richards BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G1015,2,03:54,CHA,49.0,CLE,49.0,N. Richards,CHA,Richards Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1015,2,03:54,CHA,50.0,CLE,49.0,N. Richards,CHA,Richards Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1015,2,03:39,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,2,03:24,CHA,52.0,CLE,49.0,N. Richards,CHA,Richards 3' Layup (8 PTS) (Smith Jr. 5 AST),Made Shot,Layup Shot,-22,17,3,1,2.0,2.0,h
+S2223-G1015,2,03:24,CHA,53.0,CLE,49.0,N. Richards,CHA,Richards Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1015,2,02:47,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,2,02:33,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,2,01:02,CHA,,CLE,,N. Richards,CHA,MISS Richards 13' Jump Shot,Missed Shot,Jump Shot,-9,132,13,1,2.0,0.0,h
+S2223-G1015,3,11:32,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,3,10:43,CHA,60.0,CLE,55.0,N. Richards,CHA,Richards Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1015,3,10:43,CHA,61.0,CLE,55.0,N. Richards,CHA,Richards Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1015,3,10:12,CHA,63.0,CLE,57.0,N. Richards,CHA,Richards 1' Alley Oop Dunk (13 PTS) (Smith Jr. 6 AST),Made Shot,Alley Oop Dunk Shot,6,5,1,1,2.0,2.0,h
+S2223-G1015,3,09:56,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,3,04:04,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,3,03:25,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:1 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,3,03:01,CHA,,CLE,,N. Richards,CHA,SUB: Mykhailiuk FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G1015,4,04:33,CHA,,CLE,,N. Richards,CHA,Richards S.FOUL (P2.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G1015,4,04:10,CHA,,CLE,,N. Richards,CHA,Richards Bad Pass Turnover (P2.T19),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1015,4,02:49,CHA,,CLE,,N. Richards,CHA,Richards REBOUND (Off:1 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,4,02:43,CHA,106.0,CLE,107.0,N. Richards,CHA,Richards 1' Dunk (15 PTS) (Rozier 6 AST),Made Shot,Dunk Shot,-2,10,1,1,2.0,2.0,h
+S2223-G1015,4,02:43,CHA,,CLE,,N. Richards,CHA,MISS Richards Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0428,1,01:45,,,ATL,,N. Richards,CHA,Richards REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,1,01:45,,,ATL,,N. Richards,CHA,MISS Richards Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0428,1,01:45,,,ATL,,N. Richards,CHA,Richards REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,1,01:43,,20.0,ATL,34.0,N. Richards,CHA,Richards Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0428,1,01:15,,21.0,ATL,34.0,N. Richards,CHA,Richards Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0428,1,01:15,,22.0,ATL,34.0,N. Richards,CHA,Richards Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0428,1,00:58.600000,,,ATL,,N. Richards,CHA,Richards REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,1,00:53.300000,,23.0,ATL,34.0,N. Richards,CHA,Richards Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0428,1,00:53.300000,,,ATL,,N. Richards,CHA,MISS Richards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0428,1,00:39.800000,,,ATL,,N. Richards,CHA,Richards P.FOUL (P1.T4) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2223-G0428,2,09:45,,,ATL,,N. Richards,CHA,Richards REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,2,09:29,,,ATL,,N. Richards,CHA,Richards REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,2,09:28,,29.0,ATL,45.0,N. Richards,CHA,Richards 2' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,4,23,2,1,2.0,2.0,h
+S2223-G0428,2,08:02,,,ATL,,N. Richards,CHA,MISS Richards 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,26,16,3,1,2.0,0.0,h
+S2223-G0428,2,07:49,,,ATL,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0428,2,07:31,,,ATL,,N. Richards,CHA,Richards REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,2,07:31,,,ATL,,N. Richards,CHA,MISS Richards Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0428,2,06:17,,,ATL,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0428,2,02:44,,,ATL,,N. Richards,CHA,Richards REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,2,02:44,,48.0,ATL,70.0,N. Richards,CHA,Richards Putback Layup (9 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0428,2,02:44,,,ATL,,N. Richards,CHA,MISS Richards Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0428,2,00:15.800000,,,ATL,,N. Richards,CHA,SUB: Jones FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0428,3,03:05,,,ATL,,N. Richards,CHA,Richards OFF.Foul (P2) (M.Kogut),Foul,Offensive,0,0,0,0,,,h
+S2223-G0428,3,03:05,,,ATL,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0428,3,01:03,,,ATL,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0428,3,00:19,,,ATL,,N. Richards,CHA,Richards REBOUND (Off:6 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,3,00:19,,92.0,ATL,96.0,N. Richards,CHA,Richards Putback Layup (11 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0428,4,11:40,,,ATL,,N. Richards,CHA,Richards REBOUND (Off:7 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,4,11:40,,94.0,ATL,98.0,N. Richards,CHA,Richards Putback Dunk (13 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0428,4,11:18,,,ATL,,N. Richards,CHA,Richards REBOUND (Off:7 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,4,10:36,,,ATL,,N. Richards,CHA,Richards S.FOUL (P3.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G0428,4,09:41,,,ATL,,N. Richards,CHA,Richards REBOUND (Off:8 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,4,09:39,,,ATL,,N. Richards,CHA,MISS Richards 4' Reverse Layup,Missed Shot,Reverse Layup Shot,28,32,4,1,2.0,0.0,h
+S2223-G0428,4,09:18,,,ATL,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0111,1,03:11,CHI,14.0,CHA,20.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (2 PTS) (Maledon 1 AST),Made Shot,Cutting Dunk Shot,-6,1,1,1,2.0,2.0,v
+S2223-G0111,1,00:52,CHI,,CHA,,N. Richards,CHA,Richards P.FOUL (P1.T3) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2223-G0111,1,00:32.700000,CHI,27.0,CHA,26.0,N. Richards,CHA,Richards 1' Cutting Layup Shot (4 PTS) (Maledon 2 AST),Made Shot,Cutting Layup Shot,11,0,1,1,2.0,2.0,v
+S2223-G0111,1,00:02.400000,CHI,,CHA,,N. Richards,CHA,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0111,1,00:02.400000,CHI,,CHA,,N. Richards,CHA,MISS Richards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0111,2,11:45,CHI,,CHA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0111,2,10:51,CHI,,CHA,,N. Richards,CHA,MISS Richards 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,39,4,1,2.0,0.0,v
+S2223-G0111,2,09:46,CHI,,CHA,,N. Richards,CHA,SUB: Thor FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0111,2,00:02.600000,CHI,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0111,3,01:33,CHI,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0111,3,01:33,CHI,,CHA,,N. Richards,CHA,Richards Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0111,3,01:24,CHI,,CHA,,N. Richards,CHA,Richards S.FOUL (P2.T4) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0111,3,00:28.600000,CHI,,CHA,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0111,4,09:41,CHI,,CHA,,N. Richards,CHA,Richards Out of Bounds Lost Ball Turnover (P2.T15),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0111,4,09:41,CHI,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0629,1,02:25,TOR,,CHA,,N. Richards,CHA,Richards S.FOUL (P1.T1) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2223-G0629,1,01:34,TOR,33.0,CHA,26.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (2 PTS),Made Shot,Cutting Dunk Shot,9,4,1,1,2.0,2.0,v
+S2223-G0629,1,01:13,TOR,33.0,CHA,27.0,N. Richards,CHA,Richards Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0629,1,01:13,TOR,33.0,CHA,28.0,N. Richards,CHA,Richards Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0629,1,00:47.900000,TOR,,CHA,,N. Richards,CHA,MISS Richards 17' Jump Shot,Missed Shot,Jump Shot,153,64,17,1,2.0,0.0,v
+S2223-G0629,1,00:09.800000,TOR,,CHA,,N. Richards,CHA,Richards P.FOUL (P2.PN) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2223-G0629,1,00:00.700000,TOR,38.0,CHA,29.0,N. Richards,CHA,Richards Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0629,1,00:00.700000,TOR,,CHA,,N. Richards,CHA,MISS Richards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0629,2,11:22,TOR,38.0,CHA,31.0,N. Richards,CHA,Richards 2' Running Alley Oop Dunk Shot (7 PTS) (Ball 2 AST),Made Shot,Running Alley Oop Dunk Shot,2,15,2,1,2.0,2.0,v
+S2223-G0629,2,09:37,TOR,,CHA,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0629,2,09:17,TOR,,CHA,,N. Richards,CHA,Richards S.FOUL (P3.T4) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2223-G0629,2,08:47,TOR,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0629,2,08:16,TOR,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0629,3,00:03.400000,TOR,,CHA,,N. Richards,CHA,Richards S.FOUL (P4.PN) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2223-G0629,4,09:48,TOR,,CHA,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0629,4,09:40,TOR,,CHA,,N. Richards,CHA,Richards OFF.Foul (P5) (K.Scott),Foul,Offensive,0,0,0,0,,,v
+S2223-G0629,4,09:40,TOR,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0629,4,09:04,TOR,,CHA,,N. Richards,CHA,Richards Lost Ball Turnover (P2.T17),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0629,4,08:22,TOR,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0873,1,04:14,CHA,,SAS,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0873,1,01:36,CHA,,SAS,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0873,1,00:58.100000,CHA,30.0,SAS,29.0,N. Richards,CHA,Richards 2' Cutting Layup Shot (2 PTS) (Ball 5 AST),Made Shot,Cutting Layup Shot,-9,15,2,1,2.0,2.0,h
+S2223-G0873,1,00:31.600000,CHA,,SAS,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0873,2,09:56,CHA,,SAS,,N. Richards,CHA,Richards REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0873,2,09:54,CHA,,SAS,,N. Richards,CHA,Richards REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0873,2,09:48,CHA,,SAS,,N. Richards,CHA,MISS Richards 3' Putback Layup,Missed Shot,Putback Layup Shot,1,25,3,1,2.0,0.0,h
+S2223-G0873,2,09:41,CHA,,SAS,,N. Richards,CHA,Richards REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0873,2,09:31,CHA,,SAS,,N. Richards,CHA,Richards BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0873,2,08:31,CHA,,SAS,,N. Richards,CHA,Richards BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0873,2,06:19,CHA,,SAS,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0873,3,03:07,CHA,,SAS,,N. Richards,CHA,Richards L.B.FOUL (P1.PN) (N.Sago),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0873,3,02:43,CHA,,SAS,,N. Richards,CHA,MISS Richards 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,25,19,3,1,2.0,0.0,h
+S2223-G0873,3,02:41,CHA,,SAS,,N. Richards,CHA,Richards REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0873,3,02:40,CHA,,SAS,,N. Richards,CHA,Richards Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0873,3,02:34,CHA,,SAS,,N. Richards,CHA,Richards BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0873,3,02:26,CHA,87.0,SAS,75.0,N. Richards,CHA,Richards 1' Running Dunk (4 PTS) (Smith Jr. 8 AST),Made Shot,Running Dunk Shot,-1,6,1,1,2.0,2.0,h
+S2223-G0873,3,02:20,CHA,,SAS,,N. Richards,CHA,Richards S.FOUL (P2.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0873,3,02:09,CHA,88.0,SAS,77.0,N. Richards,CHA,Richards Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0873,3,02:09,CHA,89.0,SAS,77.0,N. Richards,CHA,Richards Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0873,3,01:57,CHA,,SAS,,N. Richards,CHA,Richards BLOCK (4 BLK),,,0,0,0,0,,,h
+S2223-G0873,3,00:59.500000,CHA,,SAS,,N. Richards,CHA,Richards REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0873,3,00:55.700000,CHA,,SAS,,N. Richards,CHA,MISS Richards 6' Hook Shot,Missed Shot,Hook Shot,-10,61,6,1,2.0,0.0,h
+S2223-G0873,4,10:28,CHA,,SAS,,N. Richards,CHA,Richards OFF.Foul (P3) (C.Kirkland),Foul,Offensive,0,0,0,0,,,h
+S2223-G0873,4,10:28,CHA,,SAS,,N. Richards,CHA,Richards Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0873,4,09:47,CHA,,SAS,,N. Richards,CHA,Richards BLOCK (5 BLK),,,0,0,0,0,,,h
+S2223-G0873,4,09:44,CHA,,SAS,,N. Richards,CHA,Richards REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0873,4,07:59,CHA,,SAS,,N. Richards,CHA,SUB: Williams FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0189,1,02:41,MIA,,CHA,,N. Richards,CHA,Richards OFF.Foul (P1) (J.Tiven),Foul,Offensive,0,0,0,0,,,v
+S2223-G0189,1,02:41,MIA,,CHA,,N. Richards,CHA,Richards Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0189,1,01:54,MIA,30.0,CHA,26.0,N. Richards,CHA,Richards 17' Jump Shot (2 PTS) (McDaniels 1 AST),Made Shot,Jump Shot,-77,151,17,1,2.0,2.0,v
+S2223-G0189,1,01:20,MIA,30.0,CHA,28.0,N. Richards,CHA,Richards 1' Cutting Dunk Shot (4 PTS) (McDaniels 2 AST),Made Shot,Cutting Dunk Shot,0,10,1,1,2.0,2.0,v
+S2223-G0189,1,01:06,MIA,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0189,2,10:56,MIA,,CHA,,N. Richards,CHA,MISS Richards 11' Floating Jump Shot,Missed Shot,Floating Jump shot,-38,101,11,1,2.0,0.0,v
+S2223-G0189,2,10:27,MIA,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0189,2,10:22,MIA,,CHA,,N. Richards,CHA,Richards L.B.FOUL (P2.T1) (E.Scott),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0189,2,09:50,MIA,37.0,CHA,34.0,N. Richards,CHA,Richards Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0189,2,09:50,MIA,37.0,CHA,35.0,N. Richards,CHA,Richards Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0189,2,09:41,MIA,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0189,2,07:10,MIA,,CHA,,N. Richards,CHA,SUB: Oubre Jr. FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0189,2,00:02.300000,MIA,,CHA,,N. Richards,CHA,Richards S.FOUL (P3.PN) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0189,4,11:34,MIA,102.0,CHA,86.0,N. Richards,CHA,Richards 1' Dunk (8 PTS) (McDaniels 3 AST),Made Shot,Dunk Shot,-10,8,1,1,2.0,2.0,v
+S2223-G0189,4,10:57,MIA,102.0,CHA,88.0,N. Richards,CHA,Richards 2' Layup (10 PTS) (Ball 6 AST),Made Shot,Layup Shot,2,15,2,1,2.0,2.0,v
+S2223-G0189,4,10:26,MIA,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0189,4,10:26,MIA,102.0,CHA,90.0,N. Richards,CHA,Richards 2' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,0,17,2,1,2.0,2.0,v
+S2223-G0189,4,10:26,MIA,102.0,CHA,91.0,N. Richards,CHA,Richards Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0189,4,06:36,MIA,,CHA,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0189,4,00:15.700000,MIA,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0189,4,00:15.700000,MIA,132.0,CHA,115.0,N. Richards,CHA,Richards 1' Putback Layup (15 PTS),Made Shot,Putback Layup Shot,12,5,1,1,2.0,2.0,v
+S2223-G0326,1,03:22,CHA,29.0,WAS,23.0,N. Richards,CHA,Richards 2' Cutting Layup Shot (2 PTS) (Washington 1 AST),Made Shot,Cutting Layup Shot,-2,22,2,1,2.0,2.0,h
+S2223-G0326,1,03:22,CHA,30.0,WAS,23.0,N. Richards,CHA,Richards Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0326,1,00:32.300000,CHA,,WAS,,N. Richards,CHA,Richards REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0326,1,00:32.200000,CHA,,WAS,,N. Richards,CHA,MISS Richards 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,-6,32,3,1,2.0,0.0,h
+S2223-G0326,1,00:21.600000,CHA,,WAS,,N. Richards,CHA,Richards S.FOUL (P1.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0326,1,00:19.900000,CHA,,WAS,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0326,2,11:24,CHA,,WAS,,N. Richards,CHA,Richards S.FOUL (P2.T1) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0326,2,11:22,CHA,,WAS,,N. Richards,CHA,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0326,2,10:52,CHA,,WAS,,N. Richards,CHA,Defensive Goaltending,Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0326,2,10:12,CHA,44.0,WAS,38.0,N. Richards,CHA,Richards 1' Driving Dunk (5 PTS) (McGowens 1 AST),Made Shot,Driving Dunk Shot,-4,10,1,1,2.0,2.0,h
+S2223-G0326,2,09:50,CHA,,WAS,,N. Richards,CHA,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0326,2,09:37,CHA,,WAS,,N. Richards,CHA,Richards REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0326,2,09:35,CHA,45.0,WAS,38.0,N. Richards,CHA,Richards Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0326,2,09:35,CHA,,WAS,,N. Richards,CHA,MISS Richards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0326,2,09:09,CHA,,WAS,,N. Richards,CHA,Richards REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0326,2,09:02,CHA,,WAS,,N. Richards,CHA,Richards REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0326,2,09:02,CHA,47.0,WAS,38.0,N. Richards,CHA,Richards Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0326,2,07:51,CHA,,WAS,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0326,3,03:38,CHA,98.0,WAS,79.0,N. Richards,CHA,Richards 2' Layup (10 PTS) (Washington 4 AST),Made Shot,Layup Shot,-4,18,2,1,2.0,2.0,h
+S2223-G0326,3,01:55,CHA,,WAS,,N. Richards,CHA,Richards S.FOUL (P3.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0326,3,01:33,CHA,,WAS,,N. Richards,CHA,Richards REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0326,3,01:33,CHA,102.0,WAS,83.0,N. Richards,CHA,Richards Putback Dunk (12 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0326,3,00:36.800000,CHA,,WAS,,N. Richards,CHA,Richards REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0326,4,11:17,CHA,,WAS,,N. Richards,CHA,SUB: Plumlee FOR Richards,Substitution,,0,0,0,0,,,h
+S2223-G0058,1,01:01,NYK,28.0,CHA,27.0,N. Richards,CHA,Richards 1' Layup (2 PTS) (Bouknight 1 AST),Made Shot,Layup Shot,-12,1,1,1,2.0,2.0,v
+S2223-G0058,2,10:33,NYK,,CHA,,N. Richards,CHA,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0058,2,08:43,NYK,,CHA,,N. Richards,CHA,SUB: Oubre Jr. FOR Richards,Substitution,,0,0,0,0,,,v
+S2223-G0058,3,02:03,NYK,,CHA,,N. Richards,CHA,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0058,3,02:03,NYK,93.0,CHA,83.0,N. Richards,CHA,Richards Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0058,3,02:03,NYK,93.0,CHA,84.0,N. Richards,CHA,Richards Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0058,3,01:05,NYK,95.0,CHA,86.0,N. Richards,CHA,Richards Cutting Dunk Shot (6 PTS) (Maledon 3 AST),Made Shot,Cutting Dunk Shot,1,1,0,1,2.0,2.0,v
+S2223-G0058,4,07:36,NYK,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0058,4,07:35,NYK,109.0,CHA,104.0,N. Richards,CHA,Richards Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0058,4,07:35,NYK,,CHA,,N. Richards,CHA,MISS Richards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0058,4,05:14,NYK,,CHA,,N. Richards,CHA,Richards REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0058,4,04:30,NYK,,CHA,,N. Richards,CHA,SUB: Washington FOR Richards,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,21 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G1187,4,01:32,GSW,,OKC,,L. Quinones,GSW,MISS Quinones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1187,4,01:32,GSW,136.0,OKC,122.0,L. Quinones,GSW,Quinones Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1187,4,01:15,GSW,,OKC,,L. Quinones,GSW,Quinones Step Out of Bounds Turnover (P1.T13),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G1187,4,00:38.700000,GSW,,OKC,,L. Quinones,GSW,Quinones Traveling Turnover (P2.T14),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1158,4,00:48.900000,GSW,,SAS,,L. Quinones,GSW,Quinones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1158,4,00:41.900000,GSW,,SAS,,L. Quinones,GSW,MISS Quinones 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,201,169,26,1,3.0,0.0,h
+S2223-G1158,4,00:09.100000,GSW,,SAS,,L. Quinones,GSW,MISS Quinones 5' Driving Layup,Missed Shot,Driving Layup Shot,-9,48,5,1,2.0,0.0,h
+S2223-G1230,4,09:02,POR,77.0,GSW,126.0,L. Quinones,GSW,Quinones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1230,4,09:02,POR,77.0,GSW,127.0,L. Quinones,GSW,Quinones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1230,4,08:34,POR,,GSW,,L. Quinones,GSW,Quinones Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1230,4,07:37,POR,,GSW,,L. Quinones,GSW,MISS Quinones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1230,4,07:37,POR,81.0,GSW,130.0,L. Quinones,GSW,Quinones Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1230,4,06:47,POR,,GSW,,L. Quinones,GSW,Quinones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1230,4,05:11,POR,89.0,GSW,140.0,L. Quinones,GSW,Quinones 25' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-227,94,25,1,3.0,3.0,v
+S2223-G1230,4,02:10,POR,95.0,GSW,153.0,L. Quinones,GSW,Quinones 32' 3PT Jump Shot (9 PTS) (Lamb 2 AST),Made Shot,Jump Shot,5,318,32,1,3.0,3.0,v
+S2223-G1230,4,00:42.700000,POR,,GSW,,L. Quinones,GSW,Quinones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1211,4,01:55,SAC,,GSW,,L. Quinones,GSW,Quinones Bad Pass Turnover (P1.T23),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1211,4,01:46,SAC,,GSW,,L. Quinones,GSW,Quinones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1211,4,01:46,SAC,,GSW,,L. Quinones,GSW,Quinones Out of Bounds Lost Ball Turnover (P2.T24),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G1211,4,00:23.300000,SAC,,GSW,,L. Quinones,GSW,MISS Quinones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,7,24,1,3.0,0.0,v

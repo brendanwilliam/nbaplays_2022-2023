@@ -1,0 +1,71 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0780,1,04:57,NYK,,MIA,,U. Haslem,MIA,Haslem REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0780,1,01:35,NYK,,MIA,,U. Haslem,MIA,SUB: Adebayo FOR Haslem,Substitution,,0,0,0,0,,,v
+S2223-G0780,2,02:25,NYK,,MIA,,U. Haslem,MIA,Haslem REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0780,2,02:19,NYK,,MIA,,U. Haslem,MIA,MISS Haslem 18' Jump Shot,Missed Shot,Jump Shot,176,-4,18,1,2.0,0.0,v
+S2223-G0780,2,01:37,NYK,,MIA,,U. Haslem,MIA,Haslem S.FOUL (P1.T4) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0780,2,01:37,NYK,,MIA,,U. Haslem,MIA,SUB: Adebayo FOR Haslem,Substitution,,0,0,0,0,,,v
+S2223-G0780,3,00:18.200000,NYK,,MIA,,U. Haslem,MIA,MISS Haslem 3PT Jump Shot,Missed Shot,Jump Shot,-227,13,0,1,3.0,0.0,v
+S2223-G0328,2,05:22,,,,,U. Haslem,MIA,Haslem P.FOUL (P1.T3) (M.Dagher),Foul,Personal,0,0,0,0,,,v
+S2223-G0328,2,04:59,,,,,U. Haslem,MIA,MISS Haslem 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,16,19,2,1,2.0,0.0,v
+S2223-G0328,2,04:34,,,,,U. Haslem,MIA,Haslem REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0328,2,03:54,,,,,U. Haslem,MIA,Haslem S.FOUL (P2.T4) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2223-G0328,2,01:24,,,,,U. Haslem,MIA,Haslem P.FOUL (P3.PN) (M.Dagher),Foul,Personal,0,0,0,0,,,v
+S2223-G0328,2,01:24,,,,,U. Haslem,MIA,SUB: Strus FOR Haslem,Substitution,,0,0,0,0,,,v
+S2223-G0314,1,03:41,BOS,,MIA,,U. Haslem,MIA,MISS Haslem 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-29,22,4,1,2.0,0.0,v
+S2223-G0314,1,03:17,BOS,,MIA,,U. Haslem,MIA,Haslem REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0314,1,01:40,BOS,,MIA,,U. Haslem,MIA,MISS Haslem 27' 3PT Jump Shot,Missed Shot,Jump Shot,31,268,27,1,3.0,0.0,v
+S2223-G0314,1,00:20,BOS,,MIA,,U. Haslem,MIA,SUB: Herro FOR Haslem,Substitution,,0,0,0,0,,,v
+S2223-G0314,2,00:40.300000,BOS,,MIA,,U. Haslem,MIA,Haslem STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0065,4,01:39,POR,,MIA,,U. Haslem,MIA,Haslem REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0065,4,01:13,POR,,MIA,,U. Haslem,MIA,Haslem BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0065,4,00:43.900000,POR,,MIA,,U. Haslem,MIA,MISS Haslem 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,103,67,12,1,2.0,0.0,v
+S2223-G0081,1,04:54,SAC,19.0,MIA,11.0,U. Haslem,MIA,Haslem Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0081,1,04:54,SAC,,MIA,,U. Haslem,MIA,MISS Haslem Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0081,1,03:50,SAC,21.0,MIA,16.0,U. Haslem,MIA,Haslem 13' Turnaround Jump Shot (3 PTS) (Butler 2 AST),Made Shot,Turnaround Jump Shot,134,11,13,1,2.0,2.0,v
+S2223-G0081,1,03:32,SAC,,MIA,,U. Haslem,MIA,Haslem REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0081,1,01:31,SAC,,MIA,,U. Haslem,MIA,MISS Haslem 16' Jump Shot,Missed Shot,Jump Shot,163,8,16,1,2.0,0.0,v
+S2223-G0081,1,00:50.700000,SAC,,MIA,,U. Haslem,MIA,SUB: Jovic FOR Haslem,Substitution,,0,0,0,0,,,v
+S2223-G0081,3,03:48,SAC,,MIA,,U. Haslem,MIA,Haslem S.FOUL (P1.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0081,3,02:41,SAC,,MIA,,U. Haslem,MIA,SUB: Adebayo FOR Haslem,Substitution,,0,0,0,0,,,v
+S2223-G0424,1,11:29,HOU,,MIA,,U. Haslem,MIA,MISS Haslem 17' Jump Shot,Missed Shot,Jump Shot,163,36,17,1,2.0,0.0,v
+S2223-G0424,1,10:08,HOU,,MIA,,U. Haslem,MIA,Haslem REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0424,1,05:24,HOU,,MIA,,U. Haslem,MIA,Haslem REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0424,1,05:19,HOU,,MIA,,U. Haslem,MIA,MISS Haslem 13' Jump Shot,Missed Shot,Jump Shot,109,64,13,1,2.0,0.0,v
+S2223-G0424,1,04:00,HOU,,MIA,,U. Haslem,MIA,SUB: O. Robinson FOR Haslem,Substitution,,0,0,0,0,,,v
+S2223-G0424,3,09:48,HOU,,MIA,,U. Haslem,MIA,Haslem S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0424,3,09:27,HOU,,MIA,,U. Haslem,MIA,MISS Haslem 1' Layup,Missed Shot,Layup Shot,6,12,1,1,2.0,0.0,v
+S2223-G0424,3,09:13,HOU,,MIA,,U. Haslem,MIA,Haslem S.FOUL (P3.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G0424,3,08:33,HOU,,MIA,,U. Haslem,MIA,MISS Haslem 4' Floating Jump Shot,Missed Shot,Floating Jump shot,-17,36,4,1,2.0,0.0,v
+S2223-G0424,3,08:26,HOU,,MIA,,U. Haslem,MIA,Haslem T.FOUL (P3.T3) (B.Forte),Foul,Technical,0,0,0,0,,,v
+S2223-G0424,3,07:31,HOU,,MIA,,U. Haslem,MIA,SUB: O. Robinson FOR Haslem,Substitution,,0,0,0,0,,,v
+S2223-G1219,1,07:14,MIA,,ORL,,U. Haslem,MIA,MISS Haslem 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-7,5,1,1,2.0,0.0,h
+S2223-G1219,1,07:05,MIA,,ORL,,U. Haslem,MIA,Haslem REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1219,1,06:18,MIA,,ORL,,U. Haslem,MIA,Haslem REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1219,1,06:13,MIA,12.0,ORL,16.0,U. Haslem,MIA,Haslem 2' Cutting Layup Shot (2 PTS) (Herro 2 AST),Made Shot,Cutting Layup Shot,0,21,2,1,2.0,2.0,h
+S2223-G1219,1,05:47,MIA,,ORL,,U. Haslem,MIA,MISS Haslem 26' 3PT Jump Shot,Missed Shot,Jump Shot,164,204,26,1,3.0,0.0,h
+S2223-G1219,1,05:22,MIA,,ORL,,U. Haslem,MIA,MISS Haslem 3PT Jump Shot,Missed Shot,Jump Shot,232,13,0,1,3.0,0.0,h
+S2223-G1219,1,05:09,MIA,15.0,ORL,16.0,U. Haslem,MIA,Haslem 26' 3PT Jump Shot (5 PTS) (Strus 1 AST),Made Shot,Jump Shot,148,209,26,1,3.0,3.0,h
+S2223-G1219,1,04:32,MIA,17.0,ORL,16.0,U. Haslem,MIA,Haslem 14' Jump Shot (7 PTS) (Herro 3 AST),Made Shot,Jump Shot,-121,66,14,1,2.0,2.0,h
+S2223-G1219,1,03:51,MIA,19.0,ORL,16.0,U. Haslem,MIA,Haslem 14' Jump Shot (9 PTS) (Strus 2 AST),Made Shot,Jump Shot,-141,14,14,1,2.0,2.0,h
+S2223-G1219,1,03:05,MIA,21.0,ORL,16.0,U. Haslem,MIA,Haslem 11' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,-11,114,11,1,2.0,2.0,h
+S2223-G1219,1,02:31,MIA,,ORL,,U. Haslem,MIA,MISS Haslem 17' Jump Shot,Missed Shot,Jump Shot,5,171,17,1,2.0,0.0,h
+S2223-G1219,1,01:22,MIA,,ORL,,U. Haslem,MIA,Haslem P.FOUL (P1.T3) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2223-G1219,1,00:42.900000,MIA,23.0,ORL,22.0,U. Haslem,MIA,Haslem 4' Running Alley Oop Dunk Shot (13 PTS) (D. Robinson 1 AST),Made Shot,Running Alley Oop Dunk Shot,32,22,4,1,2.0,2.0,h
+S2223-G1219,1,00:32.700000,MIA,,ORL,,U. Haslem,MIA,Haslem S.FOUL (P2.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1219,1,00:21.400000,MIA,,ORL,,U. Haslem,MIA,MISS Haslem 15' Jump Shot,Missed Shot,Jump Shot,-146,43,15,1,2.0,0.0,h
+S2223-G1219,2,01:54,MIA,,ORL,,U. Haslem,MIA,MISS Haslem 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-65,120,14,1,2.0,0.0,h
+S2223-G1219,3,09:24,MIA,,ORL,,U. Haslem,MIA,MISS Haslem 3PT Jump Shot,Missed Shot,Jump Shot,-230,7,0,1,3.0,0.0,h
+S2223-G1219,3,06:51,MIA,,ORL,,U. Haslem,MIA,MISS Haslem 26' 3PT Jump Shot,Missed Shot,Jump Shot,-145,212,26,1,3.0,0.0,h
+S2223-G1219,3,06:13,MIA,,ORL,,U. Haslem,MIA,Haslem Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1219,3,02:34,MIA,78.0,ORL,77.0,U. Haslem,MIA,Haslem 26' 3PT Jump Shot (16 PTS) (Oladipo 7 AST),Made Shot,Jump Shot,-71,251,26,1,3.0,3.0,h
+S2223-G1219,3,02:24,MIA,,ORL,,U. Haslem,MIA,SUB: O. Robinson FOR Haslem,Substitution,,0,0,0,0,,,h
+S2223-G1219,4,03:26,MIA,,ORL,,U. Haslem,MIA,Haslem BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1219,4,03:03,MIA,115.0,ORL,100.0,U. Haslem,MIA,Haslem 10' Jump Shot (18 PTS),Made Shot,Jump Shot,-76,69,10,1,2.0,2.0,h
+S2223-G1219,4,03:03,MIA,116.0,ORL,100.0,U. Haslem,MIA,Haslem Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1219,4,02:22,MIA,,ORL,,U. Haslem,MIA,Haslem S.FOUL (P3.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1219,4,02:19,MIA,,ORL,,U. Haslem,MIA,Haslem REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1219,4,02:06,MIA,117.0,ORL,102.0,U. Haslem,MIA,Haslem Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1219,4,02:06,MIA,118.0,ORL,102.0,U. Haslem,MIA,Haslem Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1219,4,01:12,MIA,121.0,ORL,106.0,U. Haslem,MIA,Haslem 3PT Jump Shot (24 PTS) (Highsmith 3 AST),Made Shot,Jump Shot,227,-5,0,1,3.0,3.0,h
+S2223-G1219,4,00:58.900000,MIA,,ORL,,U. Haslem,MIA,SUB: O. Robinson FOR Haslem,Substitution,,0,0,0,0,,,h

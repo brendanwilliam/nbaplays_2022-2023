@@ -1,0 +1,768 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0309,1,11:11,DET,,NYK,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0309,1,01:45,DET,,NYK,,I. Livers,DET,SUB: Bey FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0309,3,11:50,DET,,NYK,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,-214,143,26,1,3.0,0.0,h
+S2223-G0309,3,11:18,DET,59.0,NYK,72.0,I. Livers,DET,Livers 26' 3PT Jump Shot (3 PTS) (Bagley III 2 AST),Made Shot,Jump Shot,-212,145,26,1,3.0,3.0,h
+S2223-G0309,3,09:00,DET,,NYK,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-132,214,25,1,3.0,0.0,h
+S2223-G0309,3,08:48,DET,,NYK,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0309,3,08:45,DET,,NYK,,I. Livers,DET,SUB: Bey FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0309,4,05:23,DET,95.0,NYK,124.0,I. Livers,DET,Livers 26' 3PT Running Jump Shot (6 PTS) (Hayes 5 AST),Made Shot,Running Jump Shot,113,231,26,1,3.0,3.0,h
+S2223-G0309,4,04:04,DET,,NYK,,I. Livers,DET,Livers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0309,4,02:24,DET,,NYK,,I. Livers,DET,MISS Livers 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,230,69,24,1,3.0,0.0,h
+S2223-G0325,1,08:48,DET,,DAL,,I. Livers,DET,Livers Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0325,1,06:54,DET,16.0,DAL,20.0,I. Livers,DET,Livers 29' 3PT Jump Shot (3 PTS) (Bagley III 1 AST),Made Shot,Jump Shot,-157,246,29,1,3.0,3.0,h
+S2223-G0325,1,06:38,DET,,DAL,,I. Livers,DET,Livers L.B.FOUL (P1.T2) (G.Petraitis),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0325,1,05:53,DET,22.0,DAL,22.0,I. Livers,DET,Livers 3PT Jump Shot (6 PTS) (Hayes 3 AST),Made Shot,Jump Shot,234,15,0,1,3.0,3.0,h
+S2223-G0325,1,05:08,DET,,DAL,,I. Livers,DET,SUB: Bey FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G1099,1,10:03,TOR,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1099,1,06:49,TOR,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1099,1,05:26,TOR,,DET,,I. Livers,DET,SUB: Omoruyi FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G1099,2,09:02,TOR,,DET,,I. Livers,DET,Livers S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1099,2,07:52,TOR,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1099,2,01:27,TOR,,DET,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,15,24,1,3.0,0.0,v
+S2223-G1099,3,11:43,TOR,72.0,DET,55.0,I. Livers,DET,Livers 26' 3PT Jump Shot (3 PTS) (Hayes 5 AST),Made Shot,Jump Shot,156,211,26,1,3.0,3.0,v
+S2223-G1099,3,10:09,TOR,74.0,DET,57.0,I. Livers,DET,Livers 1' Driving Reverse Layup (5 PTS),Made Shot,Driving Reverse Layup Shot,1,7,1,1,2.0,2.0,v
+S2223-G1099,3,08:38,TOR,,DET,,I. Livers,DET,MISS Livers 3PT Running Jump Shot,Missed Shot,Running Jump Shot,234,17,0,1,3.0,0.0,v
+S2223-G1099,3,06:54,TOR,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1099,3,05:48,TOR,,DET,,I. Livers,DET,SUB: Omoruyi FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G1099,4,10:03,TOR,,DET,,I. Livers,DET,MISS Livers 27' 3PT Jump Shot,Missed Shot,Jump Shot,-107,243,27,1,3.0,0.0,v
+S2223-G1099,4,08:06,TOR,,DET,,I. Livers,DET,MISS Livers 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,131,22,13,1,2.0,0.0,v
+S2223-G1099,4,07:46,TOR,104.0,DET,78.0,I. Livers,DET,Livers Free Throw 1 of 3 (6 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2223-G1099,4,07:46,TOR,104.0,DET,79.0,I. Livers,DET,Livers Free Throw 2 of 3 (7 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G1099,4,07:46,TOR,104.0,DET,80.0,I. Livers,DET,Livers Free Throw 3 of 3 (8 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G1099,4,06:44,TOR,106.0,DET,84.0,I. Livers,DET,Livers Running Layup (10 PTS) (Ivey 6 AST),Made Shot,Running Layup Shot,-2,4,0,1,2.0,2.0,v
+S2223-G1099,4,06:04,TOR,109.0,DET,86.0,I. Livers,DET,Livers 2' Cutting Dunk Shot (12 PTS) (Duren 4 AST),Made Shot,Cutting Dunk Shot,5,17,2,1,2.0,2.0,v
+S2223-G1099,4,03:52,TOR,,DET,,I. Livers,DET,SUB: Wiseman FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0919,1,09:46,CHA,,DET,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,-184,185,26,1,3.0,0.0,v
+S2223-G0919,1,07:13,CHA,,DET,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,229,12,0,1,3.0,0.0,v
+S2223-G0919,1,04:41,CHA,,DET,,I. Livers,DET,MISS Livers 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-159,226,28,1,3.0,0.0,v
+S2223-G0919,1,04:26,CHA,,DET,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0919,1,03:41,CHA,,DET,,I. Livers,DET,SUB: Hampton FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0743,1,01:44,DET,,HOU,,I. Livers,DET,Livers P.FOUL (P1.T2) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2223-G0743,1,00:53.300000,DET,37.0,HOU,23.0,I. Livers,DET,Livers 25' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,-219,121,25,1,3.0,3.0,h
+S2223-G0743,2,07:20,DET,,HOU,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,233,25,0,1,3.0,0.0,h
+S2223-G0743,2,05:06,DET,,HOU,,I. Livers,DET,Livers S.FOUL (P2.T3) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G0743,2,05:06,DET,,HOU,,I. Livers,DET,SUB: Burks FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0743,2,00:15.300000,DET,,HOU,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,55,242,25,1,3.0,0.0,h
+S2223-G0743,3,03:06,DET,,HOU,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0743,3,01:10,DET,82.0,HOU,80.0,I. Livers,DET,Livers 4' Dunk (5 PTS) (Stewart 2 AST),Made Shot,Dunk Shot,34,25,4,1,2.0,2.0,h
+S2223-G0743,4,11:32,DET,,HOU,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0743,4,07:54,DET,,HOU,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,228,57,24,1,3.0,0.0,h
+S2223-G0743,4,04:03,DET,,HOU,,I. Livers,DET,SUB: Bey FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0743,4,00:34.700000,DET,,HOU,,I. Livers,DET,SUB: Ivey FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0186,1,00:53.900000,DET,,BOS,,I. Livers,DET,Livers S.FOUL (P1.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0186,1,00:25.100000,DET,29.0,BOS,27.0,I. Livers,DET,Livers 5' Driving Hook Shot (2 PTS) (Joseph 1 AST),Made Shot,Driving Hook Shot,31,38,5,1,2.0,2.0,h
+S2223-G0186,2,10:25,DET,,BOS,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0186,2,09:54,DET,,BOS,,I. Livers,DET,Livers S.FOUL (P2.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G0186,2,09:29,DET,,BOS,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,212,133,25,1,3.0,0.0,h
+S2223-G0186,2,09:02,DET,,BOS,,I. Livers,DET,Livers REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0186,2,07:39,DET,,BOS,,I. Livers,DET,MISS Livers 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,164,20,17,1,2.0,0.0,h
+S2223-G0186,2,07:35,DET,,BOS,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,225,67,0,1,3.0,0.0,h
+S2223-G0186,2,05:24,DET,,BOS,,I. Livers,DET,Livers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0186,2,05:18,DET,,BOS,,I. Livers,DET,SUB: Ivey FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0186,2,01:53,DET,,BOS,,I. Livers,DET,MISS Livers Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0186,2,01:53,DET,52.0,BOS,50.0,I. Livers,DET,Livers Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0186,2,01:36,DET,,BOS,,I. Livers,DET,Livers REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0186,2,01:27,DET,,BOS,,I. Livers,DET,Livers REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0186,3,01:23,DET,,BOS,,I. Livers,DET,Livers Offensive Charge Foul (P3) (P.Ransom),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0186,3,01:23,DET,,BOS,,I. Livers,DET,Livers Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0186,4,10:50,DET,,BOS,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,192,162,25,1,3.0,0.0,h
+S2223-G0186,4,07:44,DET,,BOS,,I. Livers,DET,Livers REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0186,4,07:18,DET,,BOS,,I. Livers,DET,SUB: Hayes FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0283,1,11:14,PHX,,DET,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0283,1,10:49,PHX,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0283,1,09:42,PHX,,DET,,I. Livers,DET,MISS Livers 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,201,173,27,1,3.0,0.0,v
+S2223-G0283,1,05:07,PHX,,DET,,I. Livers,DET,Livers P.FOUL (P1.T2) (M.Dagher),Foul,Personal,0,0,0,0,,,v
+S2223-G0283,2,04:21,PHX,38.0,DET,43.0,I. Livers,DET,Livers 24' 3PT Jump Shot (3 PTS) (Hayes 5 AST),Made Shot,Jump Shot,240,3,24,1,3.0,3.0,v
+S2223-G0283,2,01:57,PHX,44.0,DET,50.0,I. Livers,DET,Livers 13' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,80,98,13,1,2.0,2.0,v
+S2223-G0283,2,01:16,PHX,,DET,,I. Livers,DET,Livers S.FOUL (P2.PN) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2223-G0283,2,01:16,PHX,,DET,,I. Livers,DET,SUB: Knox II FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0283,3,11:48,PHX,,DET,,I. Livers,DET,MISS Livers 28' 3PT Jump Shot,Missed Shot,Jump Shot,194,197,28,1,3.0,0.0,v
+S2223-G0283,3,03:44,PHX,,DET,,I. Livers,DET,MISS Livers 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,51,127,14,1,2.0,0.0,v
+S2223-G0283,3,03:27,PHX,,DET,,I. Livers,DET,SUB: Diallo FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0283,4,11:03,PHX,84.0,DET,81.0,I. Livers,DET,Livers 3' Cutting Layup Shot (7 PTS) (Duren 1 AST),Made Shot,Cutting Layup Shot,9,27,3,1,2.0,2.0,v
+S2223-G0283,4,06:52,PHX,,DET,,I. Livers,DET,SUB: Bogdanovic FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0283,4,00:11,PHX,,DET,,I. Livers,DET,MISS Livers 28' 3PT Jump Shot,Missed Shot,Jump Shot,4,280,28,1,3.0,0.0,v
+S2223-G0903,2,08:36,DET,,TOR,,I. Livers,DET,MISS Livers 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-135,128,19,1,2.0,0.0,h
+S2223-G0903,2,07:52,DET,33.0,TOR,30.0,I. Livers,DET,Livers 25' 3PT Jump Shot (3 PTS) (Joseph 1 AST),Made Shot,Jump Shot,-200,158,25,1,3.0,3.0,h
+S2223-G0903,2,06:59,DET,,TOR,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0903,2,05:54,DET,,TOR,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0903,2,05:46,DET,38.0,TOR,32.0,I. Livers,DET,Livers 25' 3PT Jump Shot (6 PTS) (Joseph 2 AST),Made Shot,Jump Shot,213,122,25,1,3.0,3.0,h
+S2223-G0903,2,05:32,DET,,TOR,,I. Livers,DET,SUB: Bogdanovic FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0903,3,02:51,DET,67.0,TOR,60.0,I. Livers,DET,Livers 26' 3PT Jump Shot (9 PTS) (Burks 3 AST),Made Shot,Jump Shot,121,225,26,1,3.0,3.0,h
+S2223-G0903,4,10:25,DET,,TOR,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0903,4,02:13,DET,88.0,TOR,89.0,I. Livers,DET,Livers 2' Cutting Dunk Shot (11 PTS) (Hayes 6 AST),Made Shot,Cutting Dunk Shot,6,18,2,1,2.0,2.0,h
+S2223-G0903,4,01:35,DET,,TOR,,I. Livers,DET,MISS Livers 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,61,239,25,1,3.0,0.0,h
+S2223-G0903,4,00:02.800000,DET,,TOR,,I. Livers,DET,Livers Personal Take Foul (P1.PN) (S.Wright),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0057,1,03:18,DET,23.0,ATL,29.0,I. Livers,DET,Livers 25' 3PT Jump Shot (3 PTS) (Cunningham 2 AST),Made Shot,Jump Shot,-162,191,25,1,3.0,3.0,h
+S2223-G0057,1,02:17,DET,,ATL,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0057,1,02:11,DET,,ATL,,I. Livers,DET,MISS Livers 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-179,188,26,1,3.0,0.0,h
+S2223-G0057,2,10:57,DET,,ATL,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,-230,12,0,1,3.0,0.0,h
+S2223-G0057,2,10:53,DET,,ATL,,I. Livers,DET,Livers REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0057,2,10:45,DET,35.0,ATL,39.0,I. Livers,DET,Livers 25' 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,-180,178,25,1,3.0,3.0,h
+S2223-G0057,2,07:37,DET,,ATL,,I. Livers,DET,MISS Livers 16' Jump Shot,Missed Shot,Jump Shot,159,10,16,1,2.0,0.0,h
+S2223-G0057,2,06:46,DET,43.0,ATL,44.0,I. Livers,DET,Livers 3PT Jump Shot (9 PTS) (Joseph 3 AST),Made Shot,Jump Shot,233,23,0,1,3.0,3.0,h
+S2223-G0057,2,06:34,DET,,ATL,,I. Livers,DET,SUB: Stewart FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0057,2,02:19,DET,,ATL,,I. Livers,DET,Livers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0057,2,00:09.900000,DET,,ATL,,I. Livers,DET,Livers S.FOUL (P1.T3) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0057,4,10:36,DET,94.0,ATL,92.0,I. Livers,DET,Livers 26' 3PT Jump Shot (12 PTS) (Diallo 1 AST),Made Shot,Jump Shot,121,229,26,1,3.0,3.0,h
+S2223-G0057,4,09:14,DET,,ATL,,I. Livers,DET,Livers P.FOUL (P2.T2) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0057,4,05:27,DET,,ATL,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0057,4,05:12,DET,,ATL,,I. Livers,DET,Livers S.FOUL (P3.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0057,4,05:12,DET,,ATL,,I. Livers,DET,SUB: Bey FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0057,4,00:12.700000,DET,,ATL,,I. Livers,DET,Livers P.FOUL (P4.PN) (R.Hussey),Foul,Personal,0,0,0,0,,,h
+S2223-G0295,1,09:26,DET,,CLE,,I. Livers,DET,Jump Ball Livers vs. Wade: Tip to Garland,Jump Ball,,0,0,0,0,,,h
+S2223-G0295,1,09:09,DET,7.0,CLE,2.0,I. Livers,DET,Livers 24' 3PT Jump Shot (3 PTS) (Hayes 2 AST),Made Shot,Jump Shot,228,86,24,1,3.0,3.0,h
+S2223-G0295,1,08:32,DET,,CLE,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0295,1,06:03,DET,17.0,CLE,7.0,I. Livers,DET,Livers Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2223-G0295,1,05:50,DET,19.0,CLE,7.0,I. Livers,DET,Livers 3' Cutting Layup Shot (6 PTS) (Hayes 3 AST),Made Shot,Cutting Layup Shot,18,20,3,1,2.0,2.0,h
+S2223-G0295,1,04:14,DET,,CLE,,I. Livers,DET,Livers P.FOUL (P1.T2) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0295,1,02:59,DET,,CLE,,I. Livers,DET,SUB: Knox II FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0295,2,05:59,DET,,CLE,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0295,2,04:20,DET,,CLE,,I. Livers,DET,Livers S.FOUL (P2.PN) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0295,2,03:21,DET,,CLE,,I. Livers,DET,MISS Livers Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0295,2,03:21,DET,46.0,CLE,43.0,I. Livers,DET,Livers Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0295,2,02:42,DET,,CLE,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,-228,11,0,1,3.0,0.0,h
+S2223-G0295,2,02:04,DET,,CLE,,I. Livers,DET,Livers P.FOUL (P3.PN) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0295,2,02:04,DET,,CLE,,I. Livers,DET,SUB: Burks FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0295,3,11:08,DET,,CLE,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0295,3,09:40,DET,,CLE,,I. Livers,DET,Livers BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0295,3,08:02,DET,,CLE,,I. Livers,DET,MISS Livers 46' 3PT Jump Shot,Missed Shot,Jump Shot,169,431,46,1,3.0,0.0,h
+S2223-G0295,3,07:23,DET,,CLE,,I. Livers,DET,Livers S.FOUL (P4.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0295,3,06:14,DET,,CLE,,I. Livers,DET,Livers S.FOUL (P5.T3) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0295,3,06:14,DET,,CLE,,I. Livers,DET,SUB: Joseph FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0295,4,04:15,DET,,CLE,,I. Livers,DET,Livers BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0295,4,03:52,DET,,CLE,,I. Livers,DET,Livers Traveling Turnover (P1.T16),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0295,4,02:49,DET,,CLE,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0295,4,01:06,DET,,CLE,,I. Livers,DET,MISS Livers 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-167,184,25,1,3.0,0.0,h
+S2223-G0113,1,01:47,MIL,,DET,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-194,164,25,1,3.0,0.0,v
+S2223-G0113,1,01:03,MIL,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0113,2,07:55,MIL,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0113,2,07:50,MIL,,DET,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,-207,162,26,1,3.0,0.0,v
+S2223-G0113,2,06:23,MIL,,DET,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,225,0,0,1,3.0,0.0,v
+S2223-G0113,2,05:26,MIL,,DET,,I. Livers,DET,Livers S.FOUL (P1.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0113,2,05:26,MIL,,DET,,I. Livers,DET,SUB: Ivey FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0113,3,03:01,MIL,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0113,3,01:20,MIL,,DET,,I. Livers,DET,Livers Violation:Kicked Ball (M.Ervin),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0113,4,09:11,MIL,,DET,,I. Livers,DET,Livers Lost Ball Turnover (P1.T20),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0113,4,07:35,MIL,95.0,DET,76.0,I. Livers,DET,Livers 25' 3PT Running Pull-Up Jump Shot (3 PTS) (Joseph 3 AST),Made Shot,Running Pull-Up Jump Shot,174,178,25,1,3.0,3.0,v
+S2223-G0113,4,07:24,MIL,,DET,,I. Livers,DET,SUB: Cunningham FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G1169,1,08:19,ORL,,DET,,I. Livers,DET,Livers S.FOUL (P1.T4) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G1169,1,06:15,ORL,,DET,,I. Livers,DET,Livers Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1169,1,05:43,ORL,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1169,1,04:59,ORL,,DET,,I. Livers,DET,Livers L.B.FOUL (P2.PN) (S.Wright),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1169,1,04:59,ORL,,DET,,I. Livers,DET,SUB: Duren FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G1169,2,07:36,ORL,,DET,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,-147,212,26,1,3.0,0.0,v
+S2223-G1169,2,07:23,ORL,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1169,2,07:02,ORL,,DET,,I. Livers,DET,MISS Livers 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,232,10,0,1,3.0,0.0,v
+S2223-G1169,2,05:54,ORL,,DET,,I. Livers,DET,MISS Livers 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-105,7,11,1,2.0,0.0,v
+S2223-G1169,2,04:19,ORL,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1169,2,02:56,ORL,,DET,,I. Livers,DET,Livers S.FOUL (P3.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G1169,2,02:45,ORL,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1169,2,00:39,ORL,,DET,,I. Livers,DET,MISS Livers 27' 3PT Jump Shot,Missed Shot,Jump Shot,-164,212,27,1,3.0,0.0,v
+S2223-G1169,3,08:55,ORL,,DET,,I. Livers,DET,Livers Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1169,3,04:39,ORL,,DET,,I. Livers,DET,SUB: Hampton FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G1169,4,10:11,ORL,,DET,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1169,4,09:25,ORL,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1169,4,08:48,ORL,,DET,,I. Livers,DET,Livers REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1169,4,08:48,ORL,98.0,DET,75.0,I. Livers,DET,Livers Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1169,4,08:48,ORL,98.0,DET,76.0,I. Livers,DET,Livers Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1169,4,08:15,ORL,100.0,DET,79.0,I. Livers,DET,Livers 3PT Jump Shot (5 PTS) (Joseph 4 AST),Made Shot,Jump Shot,229,15,0,1,3.0,3.0,v
+S2223-G1169,4,07:34,ORL,103.0,DET,82.0,I. Livers,DET,Livers 25' 3PT Jump Shot (8 PTS) (Joseph 5 AST),Made Shot,Jump Shot,-156,194,25,1,3.0,3.0,v
+S2223-G1169,4,07:20,ORL,,DET,,I. Livers,DET,Livers S.FOUL (P4.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G1169,4,06:11,ORL,106.0,DET,86.0,I. Livers,DET,Livers 18' Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,-130,129,18,1,2.0,2.0,v
+S2223-G1169,4,05:13,ORL,,DET,,I. Livers,DET,SUB: Boeheim FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G1020,1,08:33,DET,,IND,,I. Livers,DET,MISS Livers 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,142,233,27,1,3.0,0.0,h
+S2223-G1020,1,06:50,DET,,IND,,I. Livers,DET,Livers S.FOUL (P1.T1) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G1020,1,05:21,DET,,IND,,I. Livers,DET,Livers REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1020,1,05:11,DET,,IND,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-223,116,25,1,3.0,0.0,h
+S2223-G1020,1,04:25,DET,,IND,,I. Livers,DET,Livers S.FOUL (P2.T4) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G1020,1,04:25,DET,,IND,,I. Livers,DET,Livers T.FOUL (P2.T4) (B.Barnaky),Foul,Technical,0,0,0,0,,,h
+S2223-G1020,1,04:25,DET,,IND,,I. Livers,DET,SUB: Hampton FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G1020,1,00:02.100000,DET,,IND,,I. Livers,DET,Livers REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1020,1,00:00.200000,DET,,IND,,I. Livers,DET,MISS Livers 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-17,106,11,1,2.0,0.0,h
+S2223-G1020,2,11:18,DET,,IND,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-49,249,25,1,3.0,0.0,h
+S2223-G1020,2,10:29,DET,,IND,,I. Livers,DET,Livers S.FOUL (P3.T1) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G1020,2,10:29,DET,,IND,,I. Livers,DET,SUB: McGruder FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G1020,3,11:35,DET,,IND,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,168,201,26,1,3.0,0.0,h
+S2223-G1020,3,10:48,DET,,IND,,I. Livers,DET,MISS Livers 5' Layup,Missed Shot,Layup Shot,27,42,5,1,2.0,0.0,h
+S2223-G1020,3,07:18,DET,,IND,,I. Livers,DET,Livers REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1020,3,04:17,DET,,IND,,I. Livers,DET,Livers REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1020,3,03:37,DET,84.0,IND,59.0,I. Livers,DET,Livers 8' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,-50,64,8,1,2.0,2.0,h
+S2223-G1020,3,02:01,DET,,IND,,I. Livers,DET,SUB: Omoruyi FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0888,1,02:14,ORL,,DET,,I. Livers,DET,Livers S.FOUL (P1.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0888,1,00:52.200000,ORL,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0888,2,10:40,ORL,,DET,,I. Livers,DET,Livers P.FOUL (P2.T1) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2223-G0888,2,07:15,ORL,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0888,2,07:08,ORL,,DET,,I. Livers,DET,MISS Livers 27' 3PT Jump Shot,Missed Shot,Jump Shot,165,214,27,1,3.0,0.0,v
+S2223-G0888,2,06:07,ORL,34.0,DET,39.0,I. Livers,DET,Livers 25' 3PT Running Jump Shot (3 PTS) (Joseph 1 AST),Made Shot,Running Jump Shot,2,247,25,1,3.0,3.0,v
+S2223-G0888,2,05:10,ORL,,DET,,I. Livers,DET,SUB: Wiseman FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0888,2,00:15.500000,ORL,,DET,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,230,22,0,1,3.0,0.0,v
+S2223-G0888,3,02:15,ORL,72.0,DET,73.0,I. Livers,DET,Livers 3PT Running Jump Shot (6 PTS) (Diallo 1 AST),Made Shot,Running Jump Shot,233,0,0,1,3.0,3.0,v
+S2223-G0888,3,00:03.600000,ORL,,DET,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0888,4,10:15,ORL,,DET,,I. Livers,DET,Livers Traveling Turnover (P1.T19),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0888,4,09:25,ORL,,DET,,I. Livers,DET,Livers P.FOUL (P3.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2223-G0888,4,08:57,ORL,85.0,DET,86.0,I. Livers,DET,Livers 3PT Jump Shot (9 PTS) (Ivey 2 AST),Made Shot,Jump Shot,-232,26,0,1,3.0,3.0,v
+S2223-G0888,4,04:43,ORL,,DET,,I. Livers,DET,SUB: Bogdanovic FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G1142,1,10:35,OKC,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1142,1,09:03,OKC,,DET,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1142,1,06:39,OKC,,DET,,I. Livers,DET,Livers Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G1142,1,06:17,OKC,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1142,1,04:52,OKC,,DET,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,32,24,1,3.0,0.0,v
+S2223-G1142,1,04:51,OKC,,DET,,I. Livers,DET,SUB: Duren FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G1142,2,05:21,OKC,,DET,,I. Livers,DET,MISS Livers 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,4,128,13,1,2.0,0.0,v
+S2223-G1142,2,03:31,OKC,,DET,,I. Livers,DET,Livers S.FOUL (P1.T4) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G1142,2,00:41.100000,OKC,,DET,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1142,3,11:29,OKC,,DET,,I. Livers,DET,MISS Livers 27' 3PT Jump Shot,Missed Shot,Jump Shot,188,189,27,1,3.0,0.0,v
+S2223-G1142,3,08:47,OKC,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1142,3,05:15,OKC,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1142,3,04:52,OKC,,DET,,I. Livers,DET,SUB: Omoruyi FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0769,1,11:41,DET,,WAS,,I. Livers,DET,MISS Livers 28' 3PT Jump Shot,Missed Shot,Jump Shot,162,225,28,1,3.0,0.0,h
+S2223-G0769,1,08:42,DET,,WAS,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0769,1,06:24,DET,,WAS,,I. Livers,DET,Livers S.FOUL (P1.T3) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0769,1,05:45,DET,,WAS,,I. Livers,DET,Kicked Ball,Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0769,1,05:38,DET,,WAS,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0769,1,05:13,DET,,WAS,,I. Livers,DET,Livers S.FOUL (P2.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0769,1,05:13,DET,,WAS,,I. Livers,DET,SUB: Joseph FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0769,2,10:54,DET,32.0,WAS,32.0,I. Livers,DET,Livers 24' 3PT Jump Shot (3 PTS) (Joseph 2 AST),Made Shot,Jump Shot,238,19,24,1,3.0,3.0,h
+S2223-G0769,2,08:37,DET,,WAS,,I. Livers,DET,MISS Livers 29' 3PT Jump Shot,Missed Shot,Jump Shot,-2,285,29,1,3.0,0.0,h
+S2223-G0769,2,06:07,DET,48.0,WAS,40.0,I. Livers,DET,Livers 27' 3PT Jump Shot (6 PTS) (Joseph 4 AST),Made Shot,Jump Shot,-123,239,27,1,3.0,3.0,h
+S2223-G0769,2,05:35,DET,,WAS,,I. Livers,DET,MISS Livers 29' 3PT Jump Shot,Missed Shot,Jump Shot,-194,211,29,1,3.0,0.0,h
+S2223-G0769,2,03:17,DET,,WAS,,I. Livers,DET,SUB: Wiseman FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0769,2,02:50,DET,,WAS,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0769,2,01:53,DET,,WAS,,I. Livers,DET,Livers STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0769,3,08:47,DET,,WAS,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0769,3,03:10,DET,,WAS,,I. Livers,DET,Livers S.FOUL (P3.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0769,3,02:53,DET,,WAS,,I. Livers,DET,MISS Livers 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,31,53,6,1,2.0,0.0,h
+S2223-G0769,3,02:48,DET,,WAS,,I. Livers,DET,SUB: Rhoden FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0769,4,09:00,DET,,WAS,,I. Livers,DET,MISS Livers 27' 3PT Jump Shot,Missed Shot,Jump Shot,157,216,27,1,3.0,0.0,h
+S2223-G0769,4,08:09,DET,,WAS,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,211,154,26,1,3.0,0.0,h
+S2223-G0769,4,06:53,DET,101.0,WAS,103.0,I. Livers,DET,Livers 26' 3PT Jump Shot (9 PTS) (Wiseman 3 AST),Made Shot,Jump Shot,237,106,26,1,3.0,3.0,h
+S2223-G0769,4,04:03,DET,,WAS,,I. Livers,DET,MISS Livers 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,92,17,9,1,2.0,0.0,h
+S2223-G0769,4,03:05,DET,,WAS,,I. Livers,DET,Livers S.FOUL (P4.T4) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0769,4,01:49,DET,,WAS,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,151,212,26,1,3.0,0.0,h
+S2223-G0769,4,00:23.300000,DET,,WAS,,I. Livers,DET,MISS Livers 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-36,73,8,1,2.0,0.0,h
+S2223-G0856,1,00:36.700000,TOR,,DET,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,8,24,1,3.0,0.0,v
+S2223-G0856,1,00:36.700000,TOR,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0856,1,00:33.600000,TOR,31.0,DET,26.0,I. Livers,DET,Livers 13' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,109,69,13,1,2.0,2.0,v
+S2223-G0856,2,10:58,TOR,,DET,,I. Livers,DET,Livers S.FOUL (P1.T1) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0856,2,10:40,TOR,,DET,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,46,24,1,3.0,0.0,v
+S2223-G0856,2,07:20,TOR,,DET,,I. Livers,DET,Livers S.FOUL (P2.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0856,2,04:42,TOR,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0856,2,04:40,TOR,,DET,,I. Livers,DET,Livers Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0856,2,02:17,TOR,,DET,,I. Livers,DET,SUB: Burks FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0856,3,06:27,TOR,,DET,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0856,3,02:19,TOR,,DET,,I. Livers,DET,Livers S.FOUL (P3.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0856,3,01:08,TOR,,DET,,I. Livers,DET,MISS Livers 27' 3PT Jump Shot,Missed Shot,Jump Shot,-92,252,27,1,3.0,0.0,v
+S2223-G0856,4,11:09,TOR,,DET,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,232,13,0,1,3.0,0.0,v
+S2223-G0856,4,10:35,TOR,,DET,,I. Livers,DET,SUB: Bogdanovic FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0856,4,00:18,TOR,,DET,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0856,4,00:07.100000,TOR,,DET,,I. Livers,DET,Livers P.FOUL (P4.PN) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0163,1,01:39,BOS,,DET,,I. Livers,DET,MISS Livers Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0163,1,01:39,BOS,,DET,,I. Livers,DET,MISS Livers Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0163,2,10:47,BOS,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0163,2,10:35,BOS,32.0,DET,26.0,I. Livers,DET,Livers 26' 3PT Jump Shot (3 PTS) (Ivey 2 AST),Made Shot,Jump Shot,194,168,26,1,3.0,3.0,v
+S2223-G0163,2,04:21,BOS,,DET,,I. Livers,DET,SUB: Cunningham FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0163,3,01:09,BOS,,DET,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,71,24,1,3.0,0.0,v
+S2223-G0163,3,00:59,BOS,,DET,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0163,3,00:37.900000,BOS,,DET,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,124,218,25,1,3.0,0.0,v
+S2223-G0163,3,00:25.800000,BOS,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0163,4,08:45,BOS,,DET,,I. Livers,DET,Livers S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0163,4,07:37,BOS,,DET,,I. Livers,DET,Livers FLAGRANT.FOUL.TYPE1 (P2.T3) (J.Goldenberg),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2223-G0163,4,07:06,BOS,,DET,,I. Livers,DET,Livers Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0163,4,06:52,BOS,,DET,,I. Livers,DET,SUB: Cunningham FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0270,1,11:25,UTA,,DET,,I. Livers,DET,Livers P.FOUL (P1.T1) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2223-G0270,1,09:50,UTA,3.0,DET,8.0,I. Livers,DET,Livers 3PT Jump Shot (3 PTS) (Hayes 2 AST),Made Shot,Jump Shot,-227,-11,0,1,3.0,3.0,v
+S2223-G0270,1,08:13,UTA,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0270,1,05:34,UTA,,DET,,I. Livers,DET,Livers Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0270,1,04:56,UTA,,DET,,I. Livers,DET,SUB: Diallo FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0270,2,05:18,UTA,,DET,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-210,131,25,1,3.0,0.0,v
+S2223-G0270,2,01:15,UTA,,DET,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,-45,252,26,1,3.0,0.0,v
+S2223-G0270,3,10:10,UTA,61.0,DET,70.0,I. Livers,DET,Livers 3' Cutting Layup Shot (5 PTS) (Ivey 3 AST),Made Shot,Cutting Layup Shot,20,16,3,1,2.0,2.0,v
+S2223-G0270,3,06:36,UTA,70.0,DET,83.0,I. Livers,DET,Livers 3' Cutting Dunk Shot (7 PTS) (Ivey 4 AST),Made Shot,Cutting Dunk Shot,21,20,3,1,2.0,2.0,v
+S2223-G0270,3,05:25,UTA,,DET,,I. Livers,DET,SUB: Burks FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G1122,1,11:16,DET,2.0,MIL,0.0,I. Livers,DET,Livers 1' Driving Reverse Layup (2 PTS) (Ivey 1 AST),Made Shot,Driving Reverse Layup Shot,-12,8,1,1,2.0,2.0,h
+S2223-G1122,1,08:39,DET,,MIL,,I. Livers,DET,Livers REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1122,1,07:45,DET,,MIL,,I. Livers,DET,Livers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1122,1,06:08,DET,,MIL,,I. Livers,DET,Livers REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1122,1,05:00,DET,,MIL,,I. Livers,DET,Livers REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1122,2,03:04,DET,,MIL,,I. Livers,DET,Livers P.FOUL (P1.PN) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2223-G1122,2,01:43,DET,,MIL,,I. Livers,DET,MISS Livers 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,89,98,13,1,2.0,0.0,h
+S2223-G1122,2,00:49.700000,DET,48.0,MIL,55.0,I. Livers,DET,Livers 17' Jump Shot (4 PTS) (Hayes 2 AST),Made Shot,Jump Shot,-74,148,17,1,2.0,2.0,h
+S2223-G1122,3,06:52,DET,69.0,MIL,74.0,I. Livers,DET,Livers 25' 3PT Step Back Jump Shot (7 PTS) (Hayes 4 AST),Made Shot,Step Back Jump shot,214,127,25,1,3.0,3.0,h
+S2223-G1122,3,06:34,DET,,MIL,,I. Livers,DET,Livers S.FOUL (P2.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G1122,3,05:21,DET,,MIL,,I. Livers,DET,Livers REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1122,3,02:58,DET,,MIL,,I. Livers,DET,SUB: Bagley III FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G1122,4,02:34,DET,,MIL,,I. Livers,DET,Livers REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1122,4,02:24,DET,110.0,MIL,117.0,I. Livers,DET,Livers 16' Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,-23,154,16,1,2.0,2.0,h
+S2223-G0070,2,08:16,DET,,ATL,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,33,24,1,3.0,0.0,h
+S2223-G0070,2,06:58,DET,,ATL,,I. Livers,DET,Livers P.FOUL (P1.T2) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2223-G0070,2,06:58,DET,,ATL,,I. Livers,DET,Livers P.FOUL (P2.T3) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2223-G0070,2,06:30,DET,,ATL,,I. Livers,DET,SUB: Bey FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0070,3,02:49,DET,,ATL,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,-233,17,0,1,3.0,0.0,h
+S2223-G0070,3,02:47,DET,,ATL,,I. Livers,DET,Livers REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0070,3,00:00.600000,DET,,ATL,,I. Livers,DET,MISS Livers 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,87,245,26,1,3.0,0.0,h
+S2223-G0070,4,10:23,DET,,ATL,,I. Livers,DET,Livers REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0070,4,09:31,DET,,ATL,,I. Livers,DET,SUB: Bey FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0877,2,07:33,BOS,,DET,,I. Livers,DET,MISS Livers 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,21,15,3,1,2.0,0.0,v
+S2223-G0877,2,07:11,BOS,,DET,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0877,2,05:24,BOS,,DET,,I. Livers,DET,SUB: Hayes FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0877,3,02:54,BOS,,DET,,I. Livers,DET,Livers P.FOUL (P1.T4) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2223-G0877,3,01:54,BOS,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0877,4,11:35,BOS,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0877,4,06:01,BOS,,DET,,I. Livers,DET,SUB: Hayes FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G1006,1,07:57,DET,,IND,,I. Livers,DET,MISS Livers 28' 3PT Step Back Bank Jump Shot,Missed Shot,Step Back Bank Jump Shot,-162,227,28,1,3.0,0.0,h
+S2223-G1006,1,07:26,DET,,IND,,I. Livers,DET,MISS Livers 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,18,12,2,1,2.0,0.0,h
+S2223-G1006,1,06:16,DET,,IND,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,116,233,26,1,3.0,0.0,h
+S2223-G1006,1,03:54,DET,,IND,,I. Livers,DET,MISS Livers 8' Step Back Jump Shot,Missed Shot,Step Back Jump shot,31,75,8,1,2.0,0.0,h
+S2223-G1006,1,02:52,DET,22.0,IND,26.0,I. Livers,DET,Livers 24' 3PT Jump Shot (3 PTS) (Joseph 1 AST),Made Shot,Jump Shot,-234,34,24,1,3.0,3.0,h
+S2223-G1006,1,01:59,DET,,IND,,I. Livers,DET,MISS Livers 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,26,55,6,1,2.0,0.0,h
+S2223-G1006,1,01:56,DET,,IND,,I. Livers,DET,Livers REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1006,1,01:01,DET,,IND,,I. Livers,DET,MISS Livers 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,5,25,3,1,2.0,0.0,h
+S2223-G1006,1,00:57.300000,DET,,IND,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1006,1,00:55.200000,DET,24.0,IND,33.0,I. Livers,DET,Livers 4' Layup (5 PTS),Made Shot,Layup Shot,1,37,4,1,2.0,2.0,h
+S2223-G1006,2,06:17,DET,,IND,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,-189,181,26,1,3.0,0.0,h
+S2223-G1006,2,04:07,DET,,IND,,I. Livers,DET,Livers STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1006,2,00:46.800000,DET,,IND,,I. Livers,DET,Livers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1006,3,11:10,DET,63.0,IND,69.0,I. Livers,DET,Livers 27' 3PT Jump Shot (8 PTS) (Hayes 6 AST),Made Shot,Jump Shot,18,274,27,1,3.0,3.0,h
+S2223-G1006,3,10:59,DET,,IND,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1006,3,08:30,DET,,IND,,I. Livers,DET,Livers BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1006,3,08:01,DET,77.0,IND,77.0,I. Livers,DET,Livers 24' 3PT Step Back Jump Shot (11 PTS) (Hayes 9 AST),Made Shot,Step Back Jump shot,-153,188,24,1,3.0,3.0,h
+S2223-G1006,3,05:06,DET,,IND,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,42,24,1,3.0,0.0,h
+S2223-G1006,3,04:50,DET,82.0,IND,86.0,I. Livers,DET,Livers 1' Running Alley Oop Dunk Shot (13 PTS) (Hayes 10 AST),Made Shot,Running Alley Oop Dunk Shot,10,1,1,1,2.0,2.0,h
+S2223-G1006,3,04:31,DET,,IND,,I. Livers,DET,Livers S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G1006,3,04:18,DET,84.0,IND,87.0,I. Livers,DET,Livers 1' Cutting Dunk Shot (15 PTS) (Hayes 11 AST),Made Shot,Cutting Dunk Shot,5,6,1,1,2.0,2.0,h
+S2223-G1006,3,02:05,DET,,IND,,I. Livers,DET,Livers REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1006,3,01:53,DET,,IND,,I. Livers,DET,MISS Livers 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,154,52,16,1,2.0,0.0,h
+S2223-G1006,3,01:15,DET,,IND,,I. Livers,DET,Livers S.FOUL (P2.T3) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G1006,3,00:00.300000,DET,,IND,,I. Livers,DET,MISS Livers 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,123,111,17,1,2.0,0.0,h
+S2223-G1006,4,06:48,DET,103.0,IND,108.0,I. Livers,DET,Livers 15' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,-145,10,15,1,2.0,2.0,h
+S2223-G1006,4,05:21,DET,,IND,,I. Livers,DET,MISS Livers 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-118,215,25,1,3.0,0.0,h
+S2223-G1006,4,03:42,DET,,IND,,I. Livers,DET,Livers STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G1006,4,03:39,DET,106.0,IND,114.0,I. Livers,DET,Livers Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1006,4,03:39,DET,,IND,,I. Livers,DET,MISS Livers Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1006,4,01:47,DET,,IND,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-82,237,25,1,3.0,0.0,h
+S2223-G1006,4,00:23,DET,,IND,,I. Livers,DET,Livers STEAL (4 STL),,,0,0,0,0,,,h
+S2223-G1006,4,00:19.500000,DET,,IND,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-163,187,25,1,3.0,0.0,h
+S2223-G1006,4,00:14.300000,DET,,IND,,I. Livers,DET,Livers REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,1,02:44,NYK,,DET,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0178,1,02:09,NYK,,DET,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,221,16,0,1,3.0,0.0,v
+S2223-G0178,2,09:58,NYK,,DET,,I. Livers,DET,MISS Livers 28' 3PT Jump Shot,Missed Shot,Jump Shot,195,195,28,1,3.0,0.0,v
+S2223-G0178,2,08:41,NYK,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0178,2,08:17,NYK,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0178,2,07:06,NYK,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0178,2,05:03,NYK,,DET,,I. Livers,DET,SUB: Burks FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0178,4,10:13,NYK,,DET,,I. Livers,DET,Livers REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0178,4,09:45,NYK,,DET,,I. Livers,DET,Livers BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0178,4,08:01,NYK,98.0,DET,92.0,I. Livers,DET,Livers 26' 3PT Jump Shot (3 PTS) (Hayes 4 AST),Made Shot,Jump Shot,-158,206,26,1,3.0,3.0,v
+S2223-G0178,4,07:02,NYK,101.0,DET,95.0,I. Livers,DET,Livers 25' 3PT Jump Shot (6 PTS) (Hayes 5 AST),Made Shot,Jump Shot,-176,181,25,1,3.0,3.0,v
+S2223-G0178,4,05:53,NYK,,DET,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,-10,24,1,3.0,0.0,v
+S2223-G0178,4,05:48,NYK,,DET,,I. Livers,DET,Livers P.FOUL (P1.T1) (L.Wood),Foul,Personal,0,0,0,0,,,v
+S2223-G0178,4,05:10,NYK,105.0,DET,96.0,I. Livers,DET,Livers Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0178,4,05:10,NYK,105.0,DET,97.0,I. Livers,DET,Livers Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0178,4,03:35,NYK,109.0,DET,102.0,I. Livers,DET,Livers 24' 3PT Jump Shot (11 PTS) (Hayes 6 AST),Made Shot,Jump Shot,229,86,24,1,3.0,3.0,v
+S2223-G0178,4,01:08,NYK,,DET,,I. Livers,DET,Livers S.FOUL (P2.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G1155,1,11:10,HOU,2.0,DET,6.0,I. Livers,DET,Livers 26' 3PT Jump Shot (3 PTS) (Wiseman 1 AST),Made Shot,Jump Shot,-163,198,26,1,3.0,3.0,v
+S2223-G1155,1,10:14,HOU,,DET,,I. Livers,DET,MISS Livers 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-92,82,12,1,2.0,0.0,v
+S2223-G1155,1,09:01,HOU,11.0,DET,10.0,I. Livers,DET,Livers 3' Cutting Layup Shot (5 PTS) (Bagley III 1 AST),Made Shot,Cutting Layup Shot,6,32,3,1,2.0,2.0,v
+S2223-G1155,1,09:01,HOU,11.0,DET,11.0,I. Livers,DET,Livers Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1155,1,07:11,HOU,,DET,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,-137,224,26,1,3.0,0.0,v
+S2223-G1155,1,05:31,HOU,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1155,1,03:26,HOU,,DET,,I. Livers,DET,Livers S.FOUL (P1.T4) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G1155,1,03:26,HOU,,DET,,I. Livers,DET,SUB: Omoruyi FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G1155,2,04:50,HOU,,DET,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-178,171,25,1,3.0,0.0,v
+S2223-G1155,2,03:22,HOU,49.0,DET,56.0,I. Livers,DET,Livers 24' 3PT Jump Shot (9 PTS) (Ivey 3 AST),Made Shot,Jump Shot,31,240,24,1,3.0,3.0,v
+S2223-G1155,3,10:21,HOU,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1155,3,09:39,HOU,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1155,3,09:02,HOU,66.0,DET,70.0,I. Livers,DET,Livers 24' 3PT Jump Shot (12 PTS) (Ivey 4 AST),Made Shot,Jump Shot,-238,32,24,1,3.0,3.0,v
+S2223-G1155,3,07:18,HOU,,DET,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1155,3,06:19,HOU,,DET,,I. Livers,DET,Livers S.FOUL (P2.T4) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G1155,3,05:02,HOU,,DET,,I. Livers,DET,SUB: Omoruyi FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G1155,4,04:43,HOU,,DET,,I. Livers,DET,MISS Livers 27' 3PT Jump Shot,Missed Shot,Jump Shot,-163,211,27,1,3.0,0.0,v
+S2223-G1155,4,04:28,HOU,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1155,4,01:31,HOU,,DET,,I. Livers,DET,Livers S.FOUL (P3.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G1155,4,00:09.100000,HOU,,DET,,I. Livers,DET,Livers Personal Take Foul (P4.PN) (M.Kogut),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0100,1,01:24,,,DET,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,-178,194,26,1,3.0,0.0,v
+S2223-G0100,1,01:13,,,DET,,I. Livers,DET,Livers P.FOUL (P1.PN) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2223-G0100,2,09:11,,,DET,,I. Livers,DET,Pistons T.Foul (Def. 3 Sec Livers ) (D.Taylor),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0100,2,08:23,,45.0,DET,35.0,I. Livers,DET,Livers 24' 3PT Jump Shot (3 PTS) (Stewart 1 AST),Made Shot,Jump Shot,-237,-6,24,1,3.0,3.0,v
+S2223-G0100,2,06:54,,,DET,,I. Livers,DET,SUB: Bey FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0100,2,01:42,,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0100,4,09:47,,,DET,,I. Livers,DET,SUB: Bogdanovic FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0706,1,11:46,DET,,MIL,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0706,1,10:39,DET,,MIL,,I. Livers,DET,Livers S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G0706,1,09:22,DET,,MIL,,I. Livers,DET,Livers S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G0706,1,09:22,DET,,MIL,,I. Livers,DET,SUB: Diallo FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0706,2,11:14,DET,27.0,MIL,52.0,I. Livers,DET,Livers 25' 3PT Jump Shot (3 PTS) (Joseph 4 AST),Made Shot,Jump Shot,191,167,25,1,3.0,3.0,h
+S2223-G0706,2,10:29,DET,,MIL,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0706,2,09:48,DET,,MIL,,I. Livers,DET,MISS Livers 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,97,135,17,1,2.0,0.0,h
+S2223-G0706,2,08:59,DET,,MIL,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-179,171,25,1,3.0,0.0,h
+S2223-G0706,2,03:48,DET,44.0,MIL,71.0,I. Livers,DET,Livers Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0706,2,03:48,DET,45.0,MIL,71.0,I. Livers,DET,Livers Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0706,2,03:48,DET,46.0,MIL,71.0,I. Livers,DET,Livers Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0706,2,03:06,DET,,MIL,,I. Livers,DET,SUB: Diallo FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0706,3,05:54,DET,,MIL,,I. Livers,DET,MISS Livers 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,218,116,25,1,3.0,0.0,h
+S2223-G0706,3,05:15,DET,76.0,MIL,98.0,I. Livers,DET,Livers 3PT Running Jump Shot (9 PTS) (Ivey 9 AST),Made Shot,Running Jump Shot,-229,32,0,1,3.0,3.0,h
+S2223-G0706,3,04:21,DET,,MIL,,I. Livers,DET,SUB: Burks FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0706,4,02:35,DET,,MIL,,I. Livers,DET,SUB: McGruder FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0835,2,11:32,DET,,SAS,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0835,2,11:07,DET,,SAS,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0835,2,11:02,DET,22.0,SAS,28.0,I. Livers,DET,Livers 26' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,-100,235,26,1,3.0,3.0,h
+S2223-G0835,2,07:23,DET,,SAS,,I. Livers,DET,MISS Livers 27' 3PT Jump Shot,Missed Shot,Jump Shot,-119,241,27,1,3.0,0.0,h
+S2223-G0835,2,05:50,DET,,SAS,,I. Livers,DET,Livers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0835,2,04:42,DET,,SAS,,I. Livers,DET,Livers P.FOUL (P1.T4) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2223-G0835,2,02:18,DET,,SAS,,I. Livers,DET,Livers REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0835,2,02:08,DET,48.0,SAS,50.0,I. Livers,DET,Livers 25' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,207,138,25,1,3.0,3.0,h
+S2223-G0835,2,00:00,DET,,SAS,,I. Livers,DET,MISS Livers 42' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,113,403,42,1,3.0,0.0,h
+S2223-G0835,3,02:24,DET,84.0,SAS,81.0,I. Livers,DET,Livers 4' Driving Layup (8 PTS) (Diallo 1 AST),Made Shot,Driving Layup Shot,29,22,4,1,2.0,2.0,h
+S2223-G0835,4,07:42,DET,,SAS,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0835,4,05:27,DET,,SAS,,I. Livers,DET,Livers REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0835,4,01:57,DET,,SAS,,I. Livers,DET,Livers REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0835,4,00:46.100000,DET,,SAS,,I. Livers,DET,MISS Livers 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,134,72,15,1,2.0,0.0,h
+S2223-G0835,5,02:05,DET,,SAS,,I. Livers,DET,Livers REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0835,5,01:57,DET,,SAS,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,234,19,0,1,3.0,0.0,h
+S2223-G0835,5,01:29,DET,,SAS,,I. Livers,DET,Livers Violation:Kicked Ball (M.Davis),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0835,5,01:25,DET,,SAS,,I. Livers,DET,Livers P.FOUL (P2.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2223-G0835,5,00:14.300000,DET,,SAS,,I. Livers,DET,Livers STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0835,6,02:00,DET,,SAS,,I. Livers,DET,Livers REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0835,6,01:54,DET,132.0,SAS,131.0,I. Livers,DET,Livers 25' 3PT Jump Shot (11 PTS) (Stewart 4 AST),Made Shot,Jump Shot,174,182,25,1,3.0,3.0,h
+S2223-G0835,6,01:34,DET,,SAS,,I. Livers,DET,Livers REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0835,6,00:03.300000,DET,,SAS,,I. Livers,DET,Livers REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0618,1,02:15,DET,,MIN,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0618,1,00:48,DET,,MIN,,I. Livers,DET,MISS Livers 27' 3PT Jump Shot,Missed Shot,Jump Shot,-170,205,27,1,3.0,0.0,h
+S2223-G0618,2,06:25,DET,,MIN,,I. Livers,DET,Livers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0618,2,04:57,DET,,MIN,,I. Livers,DET,Livers REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0618,2,04:11,DET,,MIN,,I. Livers,DET,SUB: Bogdanovic FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0618,3,01:18,DET,,MIN,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0618,3,00:37.500000,DET,,MIN,,I. Livers,DET,Livers REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0618,4,10:41,DET,,MIN,,I. Livers,DET,Livers P.FOUL (P1.T1) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2223-G0618,4,09:28,DET,109.0,MIN,87.0,I. Livers,DET,Livers 3PT Jump Shot (3 PTS) (Ivey 7 AST),Made Shot,Jump Shot,233,15,0,1,3.0,3.0,h
+S2223-G0618,4,07:19,DET,,MIN,,I. Livers,DET,SUB: Hayes FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0120,2,10:49,DET,22.0,CLE,28.0,I. Livers,DET,Livers Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0120,2,10:49,DET,23.0,CLE,28.0,I. Livers,DET,Livers Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0120,2,09:24,DET,,CLE,,I. Livers,DET,MISS Livers 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-110,52,12,1,2.0,0.0,h
+S2223-G0120,2,08:38,DET,,CLE,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,64,252,26,1,3.0,0.0,h
+S2223-G0120,2,07:49,DET,26.0,CLE,40.0,I. Livers,DET,Livers 3PT Jump Shot (5 PTS) (Ivey 1 AST),Made Shot,Jump Shot,228,21,0,1,3.0,3.0,h
+S2223-G0120,2,07:25,DET,,CLE,,I. Livers,DET,SUB: Bogdanovic FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0120,3,03:48,DET,,CLE,,I. Livers,DET,MISS Livers 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-28,20,3,1,2.0,0.0,h
+S2223-G0120,3,02:08,DET,,CLE,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0120,3,01:05,DET,65.0,CLE,85.0,I. Livers,DET,Livers 24' 3PT Jump Shot (8 PTS) (Hayes 1 AST),Made Shot,Jump Shot,232,45,24,1,3.0,3.0,h
+S2223-G0120,4,11:42,DET,,CLE,,I. Livers,DET,Livers S.FOUL (P1.T2) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G0120,4,06:51,DET,80.0,CLE,101.0,I. Livers,DET,Livers 26' 3PT Jump Shot (11 PTS) (Ivey 3 AST),Made Shot,Jump Shot,89,247,26,1,3.0,3.0,h
+S2223-G0120,4,04:30,DET,,CLE,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,-218,135,26,1,3.0,0.0,h
+S2223-G0120,4,01:11,DET,,CLE,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0822,2,02:48,CLE,,DET,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,-233,25,0,1,3.0,0.0,v
+S2223-G0822,4,05:22,CLE,,DET,,I. Livers,DET,Livers S.FOUL (P1.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0822,4,05:08,CLE,,DET,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,36,24,1,3.0,0.0,v
+S2223-G0822,4,04:26,CLE,102.0,DET,75.0,I. Livers,DET,Livers 3PT Jump Shot (3 PTS) (Ivey 1 AST),Made Shot,Jump Shot,229,42,0,1,3.0,3.0,v
+S2223-G0822,4,02:04,CLE,106.0,DET,79.0,I. Livers,DET,Livers 1' Alley Oop Layup (5 PTS) (Duren 2 AST),Made Shot,Alley Oop Layup shot,-9,9,1,1,2.0,2.0,v
+S2223-G0822,4,02:04,CLE,106.0,DET,80.0,I. Livers,DET,Livers Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0199,1,02:59,DET,,TOR,,I. Livers,DET,MISS Livers 27' 3PT Jump Shot,Missed Shot,Jump Shot,92,251,27,1,3.0,0.0,h
+S2223-G0199,1,00:50.800000,DET,,TOR,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0199,1,00:17.800000,DET,,TOR,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,64,24,1,3.0,0.0,h
+S2223-G0199,2,07:33,DET,,TOR,,I. Livers,DET,SUB: Stewart FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0199,3,01:50,DET,,TOR,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-218,122,25,1,3.0,0.0,h
+S2223-G0199,4,10:23,DET,82.0,TOR,90.0,I. Livers,DET,Livers Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0199,4,10:23,DET,83.0,TOR,90.0,I. Livers,DET,Livers Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0199,4,09:05,DET,86.0,TOR,94.0,I. Livers,DET,Livers Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0199,4,09:05,DET,,TOR,,I. Livers,DET,MISS Livers Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,h
+S2223-G0199,4,09:05,DET,87.0,TOR,94.0,I. Livers,DET,Livers Free Throw 3 of 3 (4 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0199,4,04:03,DET,100.0,TOR,103.0,I. Livers,DET,Livers 3PT Jump Shot (7 PTS) (Ivey 7 AST),Made Shot,Jump Shot,228,45,0,1,3.0,3.0,h
+S2223-G0199,4,03:37,DET,,TOR,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0199,4,02:10,DET,,TOR,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,224,22,0,1,3.0,0.0,h
+S2223-G0199,4,01:34,DET,,TOR,,I. Livers,DET,Livers REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0731,1,02:53,BKN,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0731,1,00:27.300000,BKN,,DET,,I. Livers,DET,MISS Livers 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-145,118,19,1,2.0,0.0,v
+S2223-G0731,2,11:07,BKN,27.0,DET,32.0,I. Livers,DET,Livers 1' Running Dunk (2 PTS) (Diallo 1 AST),Made Shot,Running Dunk Shot,6,11,1,1,2.0,2.0,v
+S2223-G0731,2,09:57,BKN,,DET,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,196,164,26,1,3.0,0.0,v
+S2223-G0731,2,09:36,BKN,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0731,2,08:56,BKN,,DET,,I. Livers,DET,Livers S.FOUL (P1.T4) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G0731,2,06:13,BKN,,DET,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0731,2,06:09,BKN,,DET,,I. Livers,DET,SUB: Duren FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0731,4,09:28,BKN,,DET,,I. Livers,DET,MISS Livers 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-32,53,6,1,2.0,0.0,v
+S2223-G0731,4,07:46,BKN,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0731,4,06:52,BKN,,DET,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,192,152,24,1,3.0,0.0,v
+S2223-G0731,4,03:57,BKN,,DET,,I. Livers,DET,Livers S.FOUL (P2.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0731,4,03:57,BKN,,DET,,I. Livers,DET,SUB: Hayes FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G1177,1,10:09,DET,,MIA,,I. Livers,DET,Livers Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1177,1,09:36,DET,,MIA,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1177,1,07:52,DET,,MIA,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1177,1,04:35,DET,,MIA,,I. Livers,DET,MISS Livers 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,48,78,9,1,2.0,0.0,h
+S2223-G1177,1,04:01,DET,20.0,MIA,20.0,I. Livers,DET,Livers 24' 3PT Jump Shot (3 PTS) (Hayes 1 AST),Made Shot,Jump Shot,234,23,24,1,3.0,3.0,h
+S2223-G1177,1,03:09,DET,21.0,MIA,23.0,I. Livers,DET,Livers Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G1177,1,03:09,DET,22.0,MIA,23.0,I. Livers,DET,Livers Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G1177,1,03:09,DET,23.0,MIA,23.0,I. Livers,DET,Livers Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G1177,1,03:08,DET,,MIA,,I. Livers,DET,SUB: Duren FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G1177,2,05:06,DET,,MIA,,I. Livers,DET,Livers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1177,2,01:59,DET,49.0,MIA,58.0,I. Livers,DET,Livers 3PT Jump Shot (9 PTS) (Ivey 4 AST),Made Shot,Jump Shot,228,7,0,1,3.0,3.0,h
+S2223-G1177,2,01:32,DET,,MIA,,I. Livers,DET,MISS Livers 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-192,174,26,1,3.0,0.0,h
+S2223-G1177,2,01:19,DET,,MIA,,I. Livers,DET,Livers L.B.FOUL (P1.T4) (R.Hussey),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1177,2,00:54.600000,DET,52.0,MIA,58.0,I. Livers,DET,Livers 27' 3PT Jump Shot (12 PTS) (Ivey 5 AST),Made Shot,Jump Shot,-173,204,27,1,3.0,3.0,h
+S2223-G1177,2,00:01.400000,DET,,MIA,,I. Livers,DET,MISS Livers 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,103,244,26,1,3.0,0.0,h
+S2223-G1177,3,11:42,DET,,MIA,,I. Livers,DET,MISS Livers 3' Driving Layup,Missed Shot,Driving Layup Shot,21,21,3,1,2.0,0.0,h
+S2223-G1177,3,07:54,DET,,MIA,,I. Livers,DET,MISS Livers 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-157,55,17,1,2.0,0.0,h
+S2223-G1177,3,06:42,DET,,MIA,,I. Livers,DET,Livers S.FOUL (P2.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G1177,3,05:53,DET,63.0,MIA,72.0,I. Livers,DET,Livers 27' 3PT Jump Shot (15 PTS) (Hayes 4 AST),Made Shot,Jump Shot,82,257,27,1,3.0,3.0,h
+S2223-G1177,3,03:58,DET,,MIA,,I. Livers,DET,Livers P.FOUL (P3.T4) (R.Hussey),Foul,Personal,0,0,0,0,,,h
+S2223-G1177,3,03:03,DET,,MIA,,I. Livers,DET,SUB: Hayes FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0029,1,03:05,IND,,DET,,I. Livers,DET,Livers OFF.Foul (P1) (B.Forte),Foul,Offensive,0,0,0,0,,,v
+S2223-G0029,1,03:05,IND,,DET,,I. Livers,DET,Livers Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0029,1,00:45.500000,IND,23.0,DET,35.0,I. Livers,DET,Livers 24' 3PT Jump Shot (3 PTS) (Hayes 1 AST),Made Shot,Jump Shot,238,37,24,1,3.0,3.0,v
+S2223-G0029,1,00:27.400000,IND,,DET,,I. Livers,DET,Livers Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0029,2,09:43,IND,27.0,DET,40.0,I. Livers,DET,Livers 9' Cutting Finger Roll Layup Shot (5 PTS) (Joseph 1 AST),Made Shot,Cutting Finger Roll Layup Shot,66,63,9,1,2.0,2.0,v
+S2223-G0029,2,09:13,IND,,DET,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-156,197,25,1,3.0,0.0,v
+S2223-G0029,2,08:27,IND,,DET,,I. Livers,DET,SUB: Ivey FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0029,3,06:00,IND,,DET,,I. Livers,DET,MISS Livers 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,25,17,3,1,2.0,0.0,v
+S2223-G0029,3,05:51,IND,,DET,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0029,3,04:28,IND,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0029,3,02:09,IND,,DET,,I. Livers,DET,MISS Livers 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,116,10,12,1,2.0,0.0,v
+S2223-G0029,3,01:13,IND,,DET,,I. Livers,DET,Livers STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0029,3,01:00,IND,83.0,DET,76.0,I. Livers,DET,Livers 26' 3PT Step Back Jump Shot (8 PTS) (Joseph 2 AST),Made Shot,Step Back Jump shot,165,201,26,1,3.0,3.0,v
+S2223-G0029,3,00:51.200000,IND,,DET,,I. Livers,DET,Livers P.FOUL (P2.T3) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2223-G0029,4,11:39,IND,,DET,,I. Livers,DET,Livers Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0029,4,10:52,IND,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0029,4,10:16,IND,,DET,,I. Livers,DET,Livers S.FOUL (P3.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G0029,4,10:16,IND,,DET,,I. Livers,DET,SUB: Stewart FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0992,1,11:50,DET,,CHA,,I. Livers,DET,Livers L.B.FOUL (P1.T1) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0992,1,10:54,DET,,CHA,,I. Livers,DET,Livers Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0992,1,09:56,DET,,CHA,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0992,1,08:40,DET,,CHA,,I. Livers,DET,MISS Livers 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-102,122,16,1,2.0,0.0,h
+S2223-G0992,1,08:06,DET,,CHA,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,-135,225,26,1,3.0,0.0,h
+S2223-G0992,1,05:44,DET,,CHA,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0992,1,05:27,DET,,CHA,,I. Livers,DET,Livers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0992,1,02:32,DET,23.0,CHA,24.0,I. Livers,DET,Livers 18' Jump Shot (2 PTS) (Ivey 2 AST),Made Shot,Jump Shot,170,49,18,1,2.0,2.0,h
+S2223-G0992,1,01:07,DET,,CHA,,I. Livers,DET,SUB: Hampton FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0992,3,07:52,DET,57.0,CHA,72.0,I. Livers,DET,Livers 12' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,13,124,12,1,2.0,2.0,h
+S2223-G0992,3,04:43,DET,69.0,CHA,79.0,I. Livers,DET,Livers 17' Step Back Jump Shot (6 PTS) (Omoruyi 1 AST),Made Shot,Step Back Jump shot,110,129,17,1,2.0,2.0,h
+S2223-G0992,3,04:09,DET,72.0,CHA,81.0,I. Livers,DET,Livers 26' 3PT Jump Shot (9 PTS) (Joseph 2 AST),Made Shot,Jump Shot,11,258,26,1,3.0,3.0,h
+S2223-G0992,3,02:26,DET,77.0,CHA,86.0,I. Livers,DET,Livers 18' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,94,155,18,1,2.0,2.0,h
+S2223-G0992,3,01:57,DET,,CHA,,I. Livers,DET,SUB: Hayes FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0992,4,05:39,DET,,CHA,,I. Livers,DET,Livers REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0992,4,03:24,DET,98.0,CHA,110.0,I. Livers,DET,Livers 18' Step Back Jump Shot (13 PTS) (Ivey 6 AST),Made Shot,Step Back Jump shot,44,176,18,1,2.0,2.0,h
+S2223-G0992,4,02:58,DET,,CHA,,I. Livers,DET,Livers REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0992,4,01:30,DET,,CHA,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,228,8,0,1,3.0,0.0,h
+S2223-G0091,1,00:00.200000,DET,,GSW,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0091,1,00:00.100000,DET,,GSW,,I. Livers,DET,MISS Livers 57' 3PT Jump Shot,Missed Shot,Jump Shot,-173,546,57,1,3.0,0.0,h
+S2223-G0091,2,08:29,DET,,GSW,,I. Livers,DET,Livers P.FOUL (P1.T2) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2223-G0091,2,07:46,DET,37.0,GSW,41.0,I. Livers,DET,Livers 27' 3PT Jump Shot (3 PTS) (Hayes 3 AST),Made Shot,Jump Shot,-147,227,27,1,3.0,3.0,h
+S2223-G0091,2,07:19,DET,,GSW,,I. Livers,DET,Livers P.FOUL (P2.T3) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G0091,2,03:49,DET,,GSW,,I. Livers,DET,Livers S.FOUL (P3.T4) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0091,2,03:49,DET,,GSW,,I. Livers,DET,SUB: Bey FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0091,4,11:31,DET,,GSW,,I. Livers,DET,MISS Livers 27' 3PT Jump Shot,Missed Shot,Jump Shot,-26,267,27,1,3.0,0.0,h
+S2223-G0091,4,10:10,DET,,GSW,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0091,4,07:54,DET,108.0,GSW,97.0,I. Livers,DET,Livers 27' 3PT Jump Shot (6 PTS) (Bogdanovic 2 AST),Made Shot,Jump Shot,201,187,27,1,3.0,3.0,h
+S2223-G0091,4,07:14,DET,,GSW,,I. Livers,DET,Livers REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0091,4,06:20,DET,,GSW,,I. Livers,DET,SUB: Bey FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0052,2,10:35,WAS,,DET,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,175,183,25,1,3.0,0.0,v
+S2223-G0052,2,09:08,WAS,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0052,2,09:06,WAS,,DET,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,212,108,24,1,3.0,0.0,v
+S2223-G0052,2,07:29,WAS,,DET,,I. Livers,DET,SUB: Bogdanovic FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0052,3,05:19,WAS,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0052,3,04:28,WAS,,DET,,I. Livers,DET,Livers P.FOUL (P1.T3) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2223-G0052,3,02:16,WAS,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0052,3,00:05.100000,WAS,,DET,,I. Livers,DET,MISS Livers 28' 3PT Jump Shot,Missed Shot,Jump Shot,126,252,28,1,3.0,0.0,v
+S2223-G0052,3,00:00.500000,WAS,85.0,DET,73.0,I. Livers,DET,Livers Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0052,3,00:00.500000,WAS,85.0,DET,74.0,I. Livers,DET,Livers Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0052,3,00:00.500000,WAS,85.0,DET,75.0,I. Livers,DET,Livers Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0052,4,11:40,WAS,85.0,DET,77.0,I. Livers,DET,Livers 11' Turnaround Fadeaway (5 PTS),Made Shot,Turnaround Fadeaway shot,107,17,11,1,2.0,2.0,v
+S2223-G0052,4,09:21,WAS,,DET,,I. Livers,DET,Livers S.FOUL (P2.T4) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0052,4,08:23,WAS,,DET,,I. Livers,DET,Livers P.FOUL (P3.PN) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2223-G0052,4,08:08,WAS,,DET,,I. Livers,DET,SUB: Bey FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0052,4,02:07,WAS,,DET,,I. Livers,DET,Livers Step Out of Bounds Turnover (P1.T13),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0052,4,00:41.700000,WAS,,DET,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,88,243,26,1,3.0,0.0,v
+S2223-G0052,4,00:27.100000,WAS,,DET,,I. Livers,DET,MISS Livers 27' 3PT Jump Shot,Missed Shot,Jump Shot,248,99,27,1,3.0,0.0,v
+S2223-G0678,1,01:36,DET,,CHI,,I. Livers,DET,Livers S.FOUL (P1.T3) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0678,2,08:23,DET,,CHI,,I. Livers,DET,Livers S.FOUL (P2.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2223-G0678,2,06:29,DET,,CHI,,I. Livers,DET,SUB: Bey FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0678,3,02:24,DET,,CHI,,I. Livers,DET,Livers P.FOUL (P3.PN) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2223-G0678,3,01:37,DET,,CHI,,I. Livers,DET,MISS Livers 3' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-2,29,3,1,2.0,0.0,h
+S2223-G0678,3,00:00,DET,,CHI,,I. Livers,DET,Livers REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0678,4,11:20,DET,,CHI,,I. Livers,DET,MISS Livers 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-172,6,17,1,2.0,0.0,h
+S2223-G0678,4,09:37,DET,,CHI,,I. Livers,DET,Livers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0678,4,07:38,DET,94.0,CHI,103.0,I. Livers,DET,Livers 27' 3PT Running Pull-Up Jump Shot (3 PTS) (Bogdanovic 3 AST),Made Shot,Running Pull-Up Jump Shot,158,214,27,1,3.0,3.0,h
+S2223-G0678,4,07:19,DET,,CHI,,I. Livers,DET,Livers S.FOUL (P4.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0678,4,07:06,DET,97.0,CHI,105.0,I. Livers,DET,Livers 27' 3PT Jump Shot (6 PTS) (Ivey 4 AST),Made Shot,Jump Shot,-23,267,27,1,3.0,3.0,h
+S2223-G0678,4,01:23,DET,,CHI,,I. Livers,DET,SUB: Ivey FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0785,1,02:04,DET,,CHA,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,134,227,26,1,3.0,0.0,h
+S2223-G0785,1,01:48,DET,,CHA,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0785,1,01:23,DET,,CHA,,I. Livers,DET,Livers Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0785,1,00:30.100000,DET,28.0,CHA,30.0,I. Livers,DET,Livers 24' 3PT Jump Shot (3 PTS) (Stewart 3 AST),Made Shot,Jump Shot,237,22,24,1,3.0,3.0,h
+S2223-G0785,2,11:46,DET,,CHA,,I. Livers,DET,Livers Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0785,2,10:20,DET,,CHA,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0785,2,09:53,DET,,CHA,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0785,2,08:23,DET,,CHA,,I. Livers,DET,SUB: Ivey FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0785,3,01:52,DET,,CHA,,I. Livers,DET,Livers Bad Pass Turnover (P3.T17),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0785,4,10:25,DET,,CHA,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0785,4,09:45,DET,,CHA,,I. Livers,DET,Livers Bad Pass Turnover (P4.T19),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0785,4,09:24,DET,,CHA,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,235,82,25,1,3.0,0.0,h
+S2223-G0785,4,08:34,DET,,CHA,,I. Livers,DET,Livers Bad Pass Turnover (P5.T21),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0785,4,08:31,DET,,CHA,,I. Livers,DET,SUB: Bogdanovic FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0785,4,00:32.100000,DET,,CHA,,I. Livers,DET,SUB: Ivey FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0761,1,05:11,DAL,,DET,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,-205,155,26,1,3.0,0.0,v
+S2223-G0761,1,02:17,DAL,22.0,DET,24.0,I. Livers,DET,Livers Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0761,1,02:17,DAL,,DET,,I. Livers,DET,MISS Livers Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0761,1,01:25,DAL,,DET,,I. Livers,DET,Livers S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0761,1,00:49.500000,DAL,,DET,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-190,170,25,1,3.0,0.0,v
+S2223-G0761,2,10:57,DAL,,DET,,I. Livers,DET,Livers S.FOUL (P2.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0761,2,10:24,DAL,,DET,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0761,2,09:46,DAL,,DET,,I. Livers,DET,MISS Livers 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,80,164,18,1,2.0,0.0,v
+S2223-G0761,2,08:01,DAL,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0761,2,06:19,DAL,,DET,,I. Livers,DET,SUB: Duren FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0761,2,04:19,DAL,43.0,DET,45.0,I. Livers,DET,Livers 25' 3PT Jump Shot (4 PTS) (Hayes 2 AST),Made Shot,Jump Shot,229,94,25,1,3.0,3.0,v
+S2223-G0761,2,04:10,DAL,,DET,,I. Livers,DET,Livers S.FOUL (P3.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0761,2,03:18,DAL,45.0,DET,48.0,I. Livers,DET,Livers 26' 3PT Jump Shot (7 PTS) (Hayes 3 AST),Made Shot,Jump Shot,157,209,26,1,3.0,3.0,v
+S2223-G0761,2,01:51,DAL,,DET,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0761,2,00:27.300000,DAL,,DET,,I. Livers,DET,Livers S.FOUL (P4.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0761,2,00:27.300000,DAL,,DET,,I. Livers,DET,SUB: Burks FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0761,3,03:12,DAL,75.0,DET,80.0,I. Livers,DET,Livers Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0761,3,03:12,DAL,75.0,DET,81.0,I. Livers,DET,Livers Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0761,4,05:50,DAL,,DET,,I. Livers,DET,SUB: Bey FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0223,2,11:43,LAC,,DET,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,107,221,25,1,3.0,0.0,v
+S2223-G0223,2,08:17,LAC,,DET,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,221,109,25,1,3.0,0.0,v
+S2223-G0223,2,05:35,LAC,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0223,2,05:29,LAC,,DET,,I. Livers,DET,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,172,200,26,1,3.0,0.0,v
+S2223-G0223,2,04:24,LAC,,DET,,I. Livers,DET,SUB: Knox II FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0223,3,02:35,LAC,,DET,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0223,3,00:00.400000,LAC,68.0,DET,67.0,I. Livers,DET,Livers 18' Step Back Jump Shot (2 PTS) (Burks 2 AST),Made Shot,Step Back Jump shot,-103,152,18,1,2.0,2.0,v
+S2223-G0223,4,11:06,LAC,70.0,DET,71.0,I. Livers,DET,Livers 2' Running Reverse Layup (4 PTS) (Diallo 2 AST),Made Shot,Running Reverse Layup Shot,-4,15,2,1,2.0,2.0,v
+S2223-G0223,4,08:35,LAC,75.0,DET,74.0,I. Livers,DET,Livers Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2223-G0223,4,07:33,LAC,,DET,,I. Livers,DET,Livers S.FOUL (P1.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0223,4,07:33,LAC,,DET,,I. Livers,DET,SUB: Bey FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0632,1,02:09,DET,,NOP,,I. Livers,DET,Livers S.FOUL (P1.T3) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2223-G0632,1,01:08,DET,,NOP,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0632,1,00:51.900000,DET,,NOP,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0632,1,00:28.700000,DET,,NOP,,I. Livers,DET,Livers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0632,2,10:52,DET,,NOP,,I. Livers,DET,Livers P.FOUL (P2.T1) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2223-G0632,2,07:00,DET,,NOP,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,-229,-7,0,1,3.0,0.0,h
+S2223-G0632,2,05:39,DET,,NOP,,I. Livers,DET,SUB: Hayes FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0632,4,07:46,DET,,NOP,,I. Livers,DET,MISS Livers 28' 3PT Jump Shot,Missed Shot,Jump Shot,-74,273,28,1,3.0,0.0,h
+S2223-G0632,4,05:47,DET,96.0,NOP,101.0,I. Livers,DET,Livers 18' Pullup Jump Shot (2 PTS) (Knox II 1 AST),Made Shot,Pullup Jump shot,174,58,18,1,2.0,2.0,h
+S2223-G0632,4,05:19,DET,,NOP,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,224,13,0,1,3.0,0.0,h
+S2223-G0632,4,01:36,DET,,NOP,,I. Livers,DET,SUB: Hayes FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0258,1,10:52,DEN,,DET,,I. Livers,DET,Livers Violation:Kicked Ball (J.Williams),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0258,1,09:53,DEN,,DET,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0258,1,07:00,DEN,,DET,,I. Livers,DET,Livers BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0258,1,02:31,DEN,,DET,,I. Livers,DET,SUB: Diallo FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0258,2,02:55,DEN,,DET,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,9,24,1,3.0,0.0,v
+S2223-G0258,2,00:57,DEN,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0258,2,00:25.500000,DEN,55.0,DET,58.0,I. Livers,DET,Livers 17' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,-143,99,17,1,2.0,2.0,v
+S2223-G0258,2,00:07.700000,DEN,,DET,,I. Livers,DET,Livers FLAGRANT.FOUL.TYPE1 (P1.PN) (L.Holtkamp),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2223-G0258,3,07:40,DEN,,DET,,I. Livers,DET,Livers BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0258,3,07:00,DEN,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0258,3,05:18,DEN,71.0,DET,73.0,I. Livers,DET,Livers 3PT Jump Shot (5 PTS) (Hayes 6 AST),Made Shot,Jump Shot,227,17,0,1,3.0,3.0,v
+S2223-G0258,3,01:52,DEN,,DET,,I. Livers,DET,SUB: Diallo FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0794,1,00:14.500000,DET,,PHX,,I. Livers,DET,Livers S.FOUL (P1.PN) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G0794,2,11:45,DET,,PHX,,I. Livers,DET,Livers Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0794,2,08:53,DET,,PHX,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-138,209,25,1,3.0,0.0,h
+S2223-G0794,2,08:01,DET,,PHX,,I. Livers,DET,Livers P.FOUL (P2.PN) (J.Schroeder),Foul,Personal,0,0,0,0,,,h
+S2223-G0794,2,06:50,DET,,PHX,,I. Livers,DET,Livers Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0794,2,06:40,DET,,PHX,,I. Livers,DET,SUB: Ivey FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0242,1,11:06,SAC,1.0,DET,2.0,I. Livers,DET,Livers 2' Cutting Dunk Shot (2 PTS) (Ivey 1 AST),Made Shot,Cutting Dunk Shot,10,15,2,1,2.0,2.0,v
+S2223-G0242,1,06:06,SAC,,DET,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,230,26,0,1,3.0,0.0,v
+S2223-G0242,1,05:00,SAC,,DET,,I. Livers,DET,SUB: Diallo FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0242,2,05:27,SAC,,DET,,I. Livers,DET,Livers S.FOUL (P1.T3) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0242,2,05:27,SAC,,DET,,I. Livers,DET,SUB: Bogdanovic FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0242,3,10:13,SAC,,DET,,I. Livers,DET,Livers Traveling Turnover (P1.T7),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0242,3,10:05,SAC,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0242,3,07:35,SAC,82.0,DET,84.0,I. Livers,DET,Livers 3PT Jump Shot (5 PTS) (Bogdanovic 1 AST),Made Shot,Jump Shot,-228,0,0,1,3.0,3.0,v
+S2223-G0242,3,06:58,SAC,,DET,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,-228,75,24,1,3.0,0.0,v
+S2223-G0242,3,06:44,SAC,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0242,3,05:32,SAC,,DET,,I. Livers,DET,SUB: Diallo FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0146,1,02:44,DET,,OKC,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0146,1,02:31,DET,,OKC,,I. Livers,DET,Livers S.FOUL (P1.T4) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0146,1,00:03,DET,28.0,OKC,33.0,I. Livers,DET,Livers 3' Driving Layup (2 PTS) (Hayes 1 AST),Made Shot,Driving Layup Shot,16,31,3,1,2.0,2.0,h
+S2223-G0146,2,11:23,DET,,OKC,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,-227,4,0,1,3.0,0.0,h
+S2223-G0146,2,11:12,DET,,OKC,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0146,2,09:50,DET,,OKC,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0146,2,09:45,DET,33.0,OKC,37.0,I. Livers,DET,Livers 26' 3PT Jump Shot (5 PTS) (Hayes 2 AST),Made Shot,Jump Shot,219,132,26,1,3.0,3.0,h
+S2223-G0146,2,07:44,DET,,OKC,,I. Livers,DET,SUB: Bogdanovic FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0146,3,02:06,DET,,OKC,,I. Livers,DET,MISS Livers 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,55,158,17,1,2.0,0.0,h
+S2223-G0146,4,10:25,DET,,OKC,,I. Livers,DET,Livers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0146,4,07:16,DET,,OKC,,I. Livers,DET,Livers REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0146,4,07:03,DET,,OKC,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,40,24,1,3.0,0.0,h
+S2223-G0146,4,04:45,DET,,OKC,,I. Livers,DET,MISS Livers 5' Driving Layup,Missed Shot,Driving Layup Shot,49,8,5,1,2.0,0.0,h
+S2223-G0146,4,04:28,DET,,OKC,,I. Livers,DET,Livers REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0146,4,04:00,DET,,OKC,,I. Livers,DET,SUB: Bogdanovic FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0957,1,07:28,CLE,,DET,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-119,225,25,1,3.0,0.0,v
+S2223-G0957,1,06:04,CLE,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0957,1,03:06,CLE,,DET,,I. Livers,DET,SUB: McGruder FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0957,2,04:26,CLE,,DET,,I. Livers,DET,Livers S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0957,3,11:25,CLE,56.0,DET,47.0,I. Livers,DET,Livers 21' Pullup Jump Shot (2 PTS) (Wiseman 1 AST),Made Shot,Pullup Jump shot,-50,199,21,1,2.0,2.0,v
+S2223-G0957,3,10:01,CLE,,DET,,I. Livers,DET,Livers S.FOUL (P2.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0957,3,08:55,CLE,,DET,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0957,3,08:01,CLE,,DET,,I. Livers,DET,SUB: Hampton FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0957,4,05:27,CLE,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0957,4,04:11,CLE,107.0,DET,80.0,I. Livers,DET,Livers 1' Driving Finger Roll Layup (4 PTS) (Joseph 3 AST),Made Shot,Driving Finger Roll Layup Shot,-5,10,1,1,2.0,2.0,v
+S2223-G0957,4,03:32,CLE,,DET,,I. Livers,DET,MISS Livers 25' 3PT Jump Shot,Missed Shot,Jump Shot,-230,110,25,1,3.0,0.0,v
+S2223-G0957,4,02:58,CLE,,DET,,I. Livers,DET,MISS Livers 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,179,183,26,1,3.0,0.0,v
+S2223-G0957,4,02:38,CLE,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0957,4,01:33,CLE,,DET,,I. Livers,DET,Livers REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0957,4,00:08.900000,CLE,114.0,DET,90.0,I. Livers,DET,Livers 35' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,-176,300,35,1,3.0,3.0,v
+S2223-G0977,1,09:16,DET,,POR,,I. Livers,DET,MISS Livers 27' 3PT Jump Shot,Missed Shot,Jump Shot,140,227,27,1,3.0,0.0,h
+S2223-G0977,1,08:47,DET,,POR,,I. Livers,DET,Livers Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0977,1,04:29,DET,11.0,POR,17.0,I. Livers,DET,Livers 2' Driving Dunk (2 PTS) (Burks 2 AST),Made Shot,Driving Dunk Shot,-23,5,2,1,2.0,2.0,h
+S2223-G0977,1,00:46.700000,DET,,POR,,I. Livers,DET,SUB: Rhoden FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0977,2,05:53,DET,33.0,POR,44.0,I. Livers,DET,Livers 27' 3PT Jump Shot (5 PTS) (Ivey 4 AST),Made Shot,Jump Shot,-217,160,27,1,3.0,3.0,h
+S2223-G0977,2,05:22,DET,,POR,,I. Livers,DET,Livers Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0977,2,04:49,DET,,POR,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,6,24,1,3.0,0.0,h
+S2223-G0977,2,04:06,DET,35.0,POR,50.0,I. Livers,DET,Livers 3' Driving Layup (7 PTS) (Joseph 2 AST),Made Shot,Driving Layup Shot,-26,1,3,1,2.0,2.0,h
+S2223-G0977,2,02:31,DET,,POR,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0977,2,00:00.100000,DET,,POR,,I. Livers,DET,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0977,3,09:40,DET,58.0,POR,64.0,I. Livers,DET,Livers 2' Running Layup (9 PTS) (Ivey 9 AST),Made Shot,Running Layup Shot,22,6,2,1,2.0,2.0,h
+S2223-G0977,3,07:39,DET,,POR,,I. Livers,DET,Livers REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0977,3,06:03,DET,,POR,,I. Livers,DET,Livers REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0977,3,03:21,DET,67.0,POR,83.0,I. Livers,DET,Livers 27' 3PT Jump Shot (12 PTS) (Diallo 2 AST),Made Shot,Jump Shot,69,264,27,1,3.0,3.0,h
+S2223-G0977,3,02:58,DET,,POR,,I. Livers,DET,Livers REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0977,3,01:39,DET,70.0,POR,86.0,I. Livers,DET,Livers 26' 3PT Jump Shot (15 PTS) (Bagley III 1 AST),Made Shot,Jump Shot,-125,230,26,1,3.0,3.0,h
+S2223-G0977,4,04:41,DET,,POR,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,9,24,1,3.0,0.0,h
+S2223-G0977,4,04:14,DET,88.0,POR,101.0,I. Livers,DET,Livers 4' Running Layup (17 PTS) (Ivey 11 AST),Made Shot,Running Layup Shot,-34,10,4,1,2.0,2.0,h
+S2223-G0977,4,03:25,DET,,POR,,I. Livers,DET,SUB: Omoruyi FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0977,4,00:25,DET,,POR,,I. Livers,DET,MISS Livers 27' 3PT Jump Shot,Missed Shot,Jump Shot,219,155,27,1,3.0,0.0,h
+S2223-G0977,4,00:08.400000,DET,,POR,,I. Livers,DET,MISS Livers 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-158,281,32,1,3.0,0.0,h
+S2223-G0648,1,09:44,DET,,NYK,,I. Livers,DET,Livers REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0648,1,08:47,DET,,NYK,,I. Livers,DET,MISS Livers 28' 3PT Jump Shot,Missed Shot,Jump Shot,-6,280,28,1,3.0,0.0,h
+S2223-G0648,1,05:03,DET,,NYK,,I. Livers,DET,SUB: Diallo FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0648,1,01:33,DET,,NYK,,I. Livers,DET,Livers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0648,2,11:47,DET,,NYK,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,-225,34,0,1,3.0,0.0,h
+S2223-G0648,2,11:08,DET,,NYK,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0648,2,10:00,DET,,NYK,,I. Livers,DET,MISS Livers 28' 3PT Jump Shot,Missed Shot,Jump Shot,113,253,28,1,3.0,0.0,h
+S2223-G0648,2,09:40,DET,28.0,NYK,45.0,I. Livers,DET,Livers 24' 3PT Jump Shot (3 PTS) (Ivey 2 AST),Made Shot,Jump Shot,232,55,24,1,3.0,3.0,h
+S2223-G0648,2,08:35,DET,,NYK,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0648,2,08:21,DET,33.0,NYK,48.0,I. Livers,DET,Livers 13' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-16,127,13,1,2.0,2.0,h
+S2223-G0648,2,03:41,DET,43.0,NYK,58.0,I. Livers,DET,Livers 26' 3PT Jump Shot (8 PTS) (Bey 1 AST),Made Shot,Jump Shot,164,205,26,1,3.0,3.0,h
+S2223-G0648,2,00:17.700000,DET,,NYK,,I. Livers,DET,Livers REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0648,2,00:02.500000,DET,,NYK,,I. Livers,DET,Livers REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0648,2,00:00.300000,DET,,NYK,,I. Livers,DET,MISS Livers 34' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-10,341,34,1,3.0,0.0,h
+S2223-G0648,3,07:51,DET,,NYK,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,-227,59,0,1,3.0,0.0,h
+S2223-G0648,3,06:20,DET,,NYK,,I. Livers,DET,Livers REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0648,3,04:33,DET,,NYK,,I. Livers,DET,SUB: Burks FOR Livers,Substitution,,0,0,0,0,,,h
+S2223-G0648,4,08:28,DET,,NYK,,I. Livers,DET,Livers Step Out of Bounds Turnover (P1.T12),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0648,4,06:05,DET,,NYK,,I. Livers,DET,Livers REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0648,4,05:17,DET,98.0,NYK,105.0,I. Livers,DET,Livers 3PT Jump Shot (11 PTS) (Ivey 6 AST),Made Shot,Jump Shot,230,13,0,1,3.0,3.0,h
+S2223-G0234,2,11:55,LAL,,DET,,I. Livers,DET,Livers OFF.Foul (P1) (M.Kogut),Foul,Offensive,0,0,0,0,,,v
+S2223-G0234,2,11:55,LAL,,DET,,I. Livers,DET,Livers Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0234,2,10:11,LAL,,DET,,I. Livers,DET,Livers Step Out of Bounds Turnover (P2.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0234,2,09:07,LAL,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0234,2,08:55,LAL,,DET,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0234,2,08:09,LAL,,DET,,I. Livers,DET,Livers S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0234,2,07:14,LAL,,DET,,I. Livers,DET,MISS Livers 24' 3PT Jump Shot,Missed Shot,Jump Shot,223,101,24,1,3.0,0.0,v
+S2223-G0234,2,05:42,LAL,48.0,DET,56.0,I. Livers,DET,Livers 3PT Jump Shot (3 PTS) (Bogdanovic 1 AST),Made Shot,Jump Shot,227,49,0,1,3.0,3.0,v
+S2223-G0234,2,04:15,LAL,,DET,,I. Livers,DET,SUB: Duren FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0234,3,00:46.600000,LAL,,DET,,I. Livers,DET,Livers STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0234,4,11:37,LAL,,DET,,I. Livers,DET,Livers S.FOUL (P3.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0234,4,10:52,LAL,,DET,,I. Livers,DET,MISS Livers 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,154,210,26,1,3.0,0.0,v
+S2223-G0234,4,10:39,LAL,,DET,,I. Livers,DET,Livers P.FOUL (P4.T2) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G0234,4,09:27,LAL,,DET,,I. Livers,DET,Livers REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0234,4,09:18,LAL,,DET,,I. Livers,DET,MISS Livers 12' Jump Shot,Missed Shot,Jump Shot,115,15,12,1,2.0,0.0,v
+S2223-G0234,4,09:04,LAL,,DET,,I. Livers,DET,SUB: Bogdanovic FOR Livers,Substitution,,0,0,0,0,,,v
+S2223-G0808,2,09:20,DET,,BOS,,I. Livers,DET,Livers S.FOUL (P1.T1) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0808,2,07:16,DET,36.0,BOS,42.0,I. Livers,DET,Livers 19' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,-62,176,19,1,2.0,2.0,h
+S2223-G0808,2,05:19,DET,41.0,BOS,48.0,I. Livers,DET,Livers 3PT Jump Shot (5 PTS) (Ivey 2 AST),Made Shot,Jump Shot,-233,25,0,1,3.0,3.0,h
+S2223-G0808,2,05:03,DET,,BOS,,I. Livers,DET,Livers P.FOUL (P2.T4) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2223-G0808,2,04:27,DET,,BOS,,I. Livers,DET,MISS Livers 3PT Jump Shot,Missed Shot,Jump Shot,219,6,0,1,3.0,0.0,h
+S2223-G0808,2,03:31,DET,,BOS,,I. Livers,DET,Livers STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0808,4,10:37,DET,,BOS,,I. Livers,DET,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0808,4,10:10,DET,,BOS,,I. Livers,DET,Livers BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0808,4,09:05,DET,,BOS,,I. Livers,DET,Livers STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0808,4,06:28,DET,,BOS,,I. Livers,DET,Livers S.FOUL (P3.T3) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2223-G0808,4,06:28,DET,,BOS,,I. Livers,DET,SUB: Bogdanovic FOR Livers,Substitution,,0,0,0,0,,,h

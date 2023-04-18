@@ -1,0 +1,140 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0149,4,01:31,ATL,117.0,MIL,94.0,J. Culver,ATL,Culver Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0149,4,01:31,ATL,,MIL,,J. Culver,ATL,MISS Culver Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0149,4,01:29,ATL,,MIL,,J. Culver,ATL,Culver REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0149,4,01:28,ATL,,MIL,,J. Culver,ATL,MISS Culver 2' Putback Layup,Missed Shot,Putback Layup Shot,6,21,2,1,2.0,0.0,h
+S2223-G0313,2,10:48,ORL,,ATL,,J. Culver,ATL,Culver REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0313,2,10:17,ORL,,ATL,,J. Culver,ATL,Culver REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0313,2,08:24,ORL,,ATL,,J. Culver,ATL,Culver BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0313,2,08:21,ORL,,ATL,,J. Culver,ATL,Culver REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0313,2,06:04,ORL,,ATL,,J. Culver,ATL,Culver REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0313,2,05:52,ORL,,ATL,,J. Culver,ATL,MISS Culver 21' Jump Shot,Missed Shot,Jump Shot,172,118,21,1,2.0,0.0,v
+S2223-G0313,2,04:56,ORL,,ATL,,J. Culver,ATL,Culver REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0313,2,04:56,ORL,41.0,ATL,50.0,J. Culver,ATL,Culver Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0313,2,04:56,ORL,41.0,ATL,51.0,J. Culver,ATL,Culver Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0313,2,04:43,ORL,,ATL,,J. Culver,ATL,Culver REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0313,2,03:59,ORL,43.0,ATL,55.0,J. Culver,ATL,Culver 3' Running Layup (4 PTS) (Young 8 AST),Made Shot,Running Layup Shot,16,30,3,1,2.0,2.0,v
+S2223-G0313,3,11:35,ORL,,ATL,,J. Culver,ATL,Culver STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0313,3,10:34,ORL,,ATL,,J. Culver,ATL,Culver REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0313,3,09:59,ORL,53.0,ATL,76.0,J. Culver,ATL,Culver 18' Pullup Jump Shot (6 PTS) (Murray 4 AST),Made Shot,Pullup Jump shot,-21,174,18,1,2.0,2.0,v
+S2223-G0313,3,09:11,ORL,,ATL,,J. Culver,ATL,Culver REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0313,3,09:11,ORL,,ATL,,J. Culver,ATL,MISS Culver Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0313,3,09:11,ORL,,ATL,,J. Culver,ATL,Culver REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0313,3,09:11,ORL,,ATL,,J. Culver,ATL,MISS Culver Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0313,3,09:11,ORL,55.0,ATL,77.0,J. Culver,ATL,Culver Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0313,3,08:04,ORL,,ATL,,J. Culver,ATL,MISS Culver 25' 3PT Jump Shot,Missed Shot,Jump Shot,42,250,25,1,3.0,0.0,v
+S2223-G0313,3,07:51,ORL,,ATL,,J. Culver,ATL,Culver REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0313,3,07:00,ORL,,ATL,,J. Culver,ATL,MISS Culver 3PT Jump Shot,Missed Shot,Jump Shot,227,29,0,1,3.0,0.0,v
+S2223-G0313,3,06:31,ORL,,ATL,,J. Culver,ATL,SUB: Griffin FOR Culver,Substitution,,0,0,0,0,,,v
+S2223-G0313,4,08:11,ORL,,ATL,,J. Culver,ATL,Culver Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0313,4,05:51,ORL,,ATL,,J. Culver,ATL,Culver Traveling Turnover (P2.T12),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0313,4,04:49,ORL,,ATL,,J. Culver,ATL,Culver S.FOUL (P1.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0313,4,04:13,ORL,,ATL,,J. Culver,ATL,Culver STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0313,4,02:56,ORL,,ATL,,J. Culver,ATL,Culver REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0313,4,02:39,ORL,103.0,ATL,120.0,J. Culver,ATL,Culver 2' Cutting Layup Shot (9 PTS) (Capela 1 AST),Made Shot,Cutting Layup Shot,-11,17,2,1,2.0,2.0,v
+S2223-G0313,4,02:23,ORL,,ATL,,J. Culver,ATL,Culver REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0365,1,06:19,NYK,,ATL,,J. Culver,ATL,MISS Culver 25' 3PT Jump Shot,Missed Shot,Jump Shot,-153,199,25,1,3.0,0.0,v
+S2223-G0365,1,02:51,NYK,,ATL,,J. Culver,ATL,Culver REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0365,2,01:18,NYK,,ATL,,J. Culver,ATL,Culver BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0365,2,01:06,NYK,,ATL,,J. Culver,ATL,MISS Culver 26' 3PT Jump Shot,Missed Shot,Jump Shot,-145,210,26,1,3.0,0.0,v
+S2223-G0365,2,00:05.800000,NYK,,ATL,,J. Culver,ATL,SUB: Bogdanovic FOR Culver,Substitution,,0,0,0,0,,,v
+S2223-G0365,3,00:15.800000,NYK,,ATL,,J. Culver,ATL,SUB: Griffin FOR Culver,Substitution,,0,0,0,0,,,v
+S2223-G0365,4,09:30,NYK,,ATL,,J. Culver,ATL,Culver S.FOUL (P1.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G0365,4,09:28,NYK,,ATL,,J. Culver,ATL,Culver REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0365,4,08:22,NYK,,ATL,,J. Culver,ATL,SUB: Johnson FOR Culver,Substitution,,0,0,0,0,,,v
+S2223-G0365,4,02:42,NYK,,ATL,,J. Culver,ATL,MISS Culver 20' Running Jump Shot,Missed Shot,Running Jump Shot,-150,125,20,1,2.0,0.0,v
+S2223-G0365,4,02:04,NYK,,ATL,,J. Culver,ATL,Culver REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0365,4,02:04,NYK,108.0,ATL,83.0,J. Culver,ATL,Culver Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0365,4,01:15,NYK,,ATL,,J. Culver,ATL,MISS Culver 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,17,39,4,1,2.0,0.0,v
+S2223-G0354,1,04:19,ATL,,OKC,,J. Culver,ATL,Culver REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0354,1,01:12,ATL,,OKC,,J. Culver,ATL,Culver S.FOUL (P1.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0354,1,01:05,ATL,26.0,OKC,24.0,J. Culver,ATL,Culver 1' Cutting Dunk Shot (2 PTS) (Young 2 AST),Made Shot,Cutting Dunk Shot,-7,-7,1,1,2.0,2.0,h
+S2223-G0354,2,06:12,ATL,43.0,OKC,38.0,J. Culver,ATL,Culver 12' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,9,116,12,1,2.0,2.0,h
+S2223-G0354,2,06:00,ATL,,OKC,,J. Culver,ATL,Culver STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0354,2,05:56,ATL,,OKC,,J. Culver,ATL,MISS Culver 3' Running Layup,Missed Shot,Running Layup Shot,26,19,3,1,2.0,0.0,h
+S2223-G0354,2,03:42,ATL,,OKC,,J. Culver,ATL,Culver L.B.FOUL (P2.T1) (J.Orr),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0354,2,03:30,ATL,,OKC,,J. Culver,ATL,Culver REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0354,2,02:23,ATL,,OKC,,J. Culver,ATL,MISS Culver 24' 3PT Jump Shot,Missed Shot,Jump Shot,-230,71,24,1,3.0,0.0,h
+S2223-G0354,2,00:45.700000,ATL,58.0,OKC,52.0,J. Culver,ATL,Culver 1' Running Layup (6 PTS) (Young 5 AST),Made Shot,Running Layup Shot,11,-1,1,1,2.0,2.0,h
+S2223-G0354,2,00:45.700000,ATL,59.0,OKC,52.0,J. Culver,ATL,Culver Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0354,3,02:49,ATL,,OKC,,J. Culver,ATL,Culver S.FOUL (P3.T4) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G0354,3,02:01,ATL,,OKC,,J. Culver,ATL,Culver Violation:Kicked Ball (T.Maddox),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0354,3,00:34.900000,ATL,,OKC,,J. Culver,ATL,Culver S.FOUL (P4.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0354,3,00:34.900000,ATL,,OKC,,J. Culver,ATL,SUB: Griffin FOR Culver,Substitution,,0,0,0,0,,,h
+S2223-G0354,4,05:42,ATL,,OKC,,J. Culver,ATL,Culver REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0354,4,04:37,ATL,,OKC,,J. Culver,ATL,Culver REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0354,4,03:06,ATL,,OKC,,J. Culver,ATL,Culver Offensive Charge Foul (P5) (T.Maddox),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0354,4,03:06,ATL,,OKC,,J. Culver,ATL,Culver Offensive Foul Turnover (P1.T18),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0354,4,02:15,ATL,,OKC,,J. Culver,ATL,Culver REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0354,4,02:12,ATL,100.0,OKC,107.0,J. Culver,ATL,Culver 1' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,-7,12,1,1,2.0,2.0,h
+S2223-G0354,4,00:27.800000,ATL,,OKC,,J. Culver,ATL,Culver Personal Take Foul (P6.PN) (J.Capers),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0354,4,00:27.800000,ATL,,OKC,,J. Culver,ATL,SUB: Johnson FOR Culver,Substitution,,0,0,0,0,,,h
+S2223-G0416,1,06:09,ORL,,ATL,,J. Culver,ATL,Culver REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0416,1,06:07,ORL,,ATL,,J. Culver,ATL,Culver Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0416,1,05:18,ORL,,ATL,,J. Culver,ATL,Culver Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0416,1,04:09,ORL,,ATL,,J. Culver,ATL,Culver STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0416,1,03:39,ORL,,ATL,,J. Culver,ATL,MISS Culver 26' 3PT Jump Shot,Missed Shot,Jump Shot,206,160,26,1,3.0,0.0,v
+S2223-G0416,1,03:09,ORL,,ATL,,J. Culver,ATL,Culver REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0416,1,03:09,ORL,34.0,ATL,17.0,J. Culver,ATL,Culver Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0416,1,02:58,ORL,,ATL,,J. Culver,ATL,Culver S.FOUL (P1.PN) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,v
+S2223-G0416,1,02:58,ORL,,ATL,,J. Culver,ATL,SUB: J. Holiday FOR Culver,Substitution,,0,0,0,0,,,v
+S2223-G0380,1,01:57,BKN,,ATL,,J. Culver,ATL,Culver REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0380,4,11:43,BKN,96.0,ATL,92.0,J. Culver,ATL,Culver 7' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,-45,54,7,1,2.0,2.0,v
+S2223-G0380,4,11:23,BKN,,ATL,,J. Culver,ATL,Culver REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0380,4,10:50,BKN,,ATL,,J. Culver,ATL,Culver S.FOUL (P1.T1) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0380,4,08:53,BKN,96.0,ATL,98.0,J. Culver,ATL,Culver Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0380,4,08:53,BKN,96.0,ATL,99.0,J. Culver,ATL,Culver Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0380,4,07:42,BKN,,ATL,,J. Culver,ATL,MISS Culver 4' Layup,Missed Shot,Layup Shot,-26,26,4,1,2.0,0.0,v
+S2223-G0380,4,07:39,BKN,,ATL,,J. Culver,ATL,Culver REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0380,4,06:56,BKN,,ATL,,J. Culver,ATL,Culver REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0380,4,06:45,BKN,,ATL,,J. Culver,ATL,SUB: Griffin FOR Culver,Substitution,,0,0,0,0,,,v
+S2223-G0380,4,00:06.300000,BKN,,ATL,,J. Culver,ATL,SUB: Young FOR Culver,Substitution,,0,0,0,0,,,v
+S2223-G0327,1,11:38,ATL,2.0,DEN,0.0,J. Culver,ATL,Culver 1' Driving Layup (2 PTS) (Murray 1 AST),Made Shot,Driving Layup Shot,-7,-5,1,1,2.0,2.0,h
+S2223-G0327,1,10:18,ATL,,DEN,,J. Culver,ATL,Culver REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0327,1,09:00,ATL,,DEN,,J. Culver,ATL,Culver P.FOUL (P1.T2) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G0327,1,07:26,ATL,,DEN,,J. Culver,ATL,MISS Culver 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,23,185,19,1,2.0,0.0,h
+S2223-G0327,1,05:39,ATL,,DEN,,J. Culver,ATL,SUB: Bogdanovic FOR Culver,Substitution,,0,0,0,0,,,h
+S2223-G0327,1,03:53,ATL,,DEN,,J. Culver,ATL,Culver STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0327,1,01:57,ATL,,DEN,,J. Culver,ATL,Culver S.FOUL (P2.T4) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0327,1,01:53,ATL,,DEN,,J. Culver,ATL,Culver REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0327,1,01:39,ATL,25.0,DEN,20.0,J. Culver,ATL,Culver 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-2,22,2,1,2.0,2.0,h
+S2223-G0327,1,00:41.700000,ATL,,DEN,,J. Culver,ATL,Culver REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0327,1,00:36.800000,ATL,,DEN,,J. Culver,ATL,MISS Culver Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0327,1,00:36.800000,ATL,28.0,DEN,20.0,J. Culver,ATL,Culver Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0327,2,06:35,ATL,,DEN,,J. Culver,ATL,MISS Culver 26' 3PT Jump Shot,Missed Shot,Jump Shot,-130,228,26,1,3.0,0.0,h
+S2223-G0327,2,03:46,ATL,,DEN,,J. Culver,ATL,Culver REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0327,2,03:46,ATL,48.0,DEN,40.0,J. Culver,ATL,Culver Putback Layup (7 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0327,2,00:42.600000,ATL,,DEN,,J. Culver,ATL,SUB: Griffin FOR Culver,Substitution,,0,0,0,0,,,h
+S2223-G0327,3,09:56,ATL,,DEN,,J. Culver,ATL,MISS Culver 25' 3PT Jump Shot,Missed Shot,Jump Shot,183,169,25,1,3.0,0.0,h
+S2223-G0327,3,09:26,ATL,,DEN,,J. Culver,ATL,Culver S.FOUL (P3.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G0327,3,09:05,ATL,,DEN,,J. Culver,ATL,Culver Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0327,3,09:03,ATL,,DEN,,J. Culver,ATL,Culver STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0327,3,07:33,ATL,,DEN,,J. Culver,ATL,MISS Culver 5' Driving Layup,Missed Shot,Driving Layup Shot,28,40,5,1,2.0,0.0,h
+S2223-G0327,3,06:38,ATL,72.0,DEN,65.0,J. Culver,ATL,Culver 3PT Jump Shot (10 PTS) (Murray 7 AST),Made Shot,Jump Shot,224,27,0,1,3.0,3.0,h
+S2223-G0327,3,06:00,ATL,,DEN,,J. Culver,ATL,SUB: Bogdanovic FOR Culver,Substitution,,0,0,0,0,,,h
+S2223-G0327,3,03:26,ATL,,DEN,,J. Culver,ATL,Culver REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0327,3,00:09.500000,ATL,,DEN,,J. Culver,ATL,SUB: Murray FOR Culver,Substitution,,0,0,0,0,,,h
+S2223-G0327,4,01:28,ATL,,DEN,,J. Culver,ATL,Culver Traveling Turnover (P2.T11),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0327,4,01:18,ATL,,DEN,,J. Culver,ATL,Culver REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0327,4,00:49.200000,ATL,,DEN,,J. Culver,ATL,Culver REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0327,4,00:35.700000,ATL,,DEN,,J. Culver,ATL,MISS Culver 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-184,174,25,1,3.0,0.0,h
+S2223-G0428,4,02:22,,,ATL,,J. Culver,ATL,MISS Culver 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-45,90,10,1,2.0,0.0,v
+S2223-G0428,4,01:48,,,ATL,,J. Culver,ATL,MISS Culver 2' Driving Layup,Missed Shot,Driving Layup Shot,13,21,2,1,2.0,0.0,v
+S2223-G0404,1,02:36,MEM,27.0,ATL,29.0,J. Culver,ATL,Culver 21' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,190,91,21,1,2.0,2.0,v
+S2223-G0404,1,00:29.400000,MEM,,ATL,,J. Culver,ATL,MISS Culver 1' Driving Layup,Missed Shot,Driving Layup Shot,11,1,1,1,2.0,0.0,v
+S2223-G0404,1,00:27.500000,MEM,,ATL,,J. Culver,ATL,MISS Culver 22' Jump Shot,Missed Shot,Jump Shot,-190,115,22,1,2.0,0.0,v
+S2223-G0404,2,10:42,MEM,,ATL,,J. Culver,ATL,Culver REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0404,2,10:40,MEM,,ATL,,J. Culver,ATL,MISS Culver 1' Putback Layup,Missed Shot,Putback Layup Shot,11,1,1,1,2.0,0.0,v
+S2223-G0404,2,09:18,MEM,,ATL,,J. Culver,ATL,Culver REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0404,2,09:00,MEM,,ATL,,J. Culver,ATL,Culver REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0404,2,08:59,MEM,41.0,ATL,35.0,J. Culver,ATL,Culver 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-15,4,2,1,2.0,2.0,v
+S2223-G0404,2,08:47,MEM,,ATL,,J. Culver,ATL,SUB: Johnson FOR Culver,Substitution,,0,0,0,0,,,v
+S2223-G0404,3,03:55,MEM,,ATL,,J. Culver,ATL,Culver P.FOUL (P1.PN) (E.Lewis),Foul,Personal,0,0,0,0,,,v
+S2223-G0404,3,03:53,MEM,,ATL,,J. Culver,ATL,Culver REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0404,3,03:43,MEM,,ATL,,J. Culver,ATL,MISS Culver 25' 3PT Jump Shot,Missed Shot,Jump Shot,-191,166,25,1,3.0,0.0,v
+S2223-G0404,3,03:35,MEM,89.0,ATL,65.0,J. Culver,ATL,Culver Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0404,3,03:35,MEM,,ATL,,J. Culver,ATL,MISS Culver Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0404,3,02:59,MEM,91.0,ATL,67.0,J. Culver,ATL,Culver 1' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,-5,11,1,1,2.0,2.0,v
+S2223-G0404,4,10:51,MEM,,ATL,,J. Culver,ATL,MISS Culver 25' 3PT Jump Shot,Missed Shot,Jump Shot,66,243,25,1,3.0,0.0,v
+S2223-G0404,4,10:22,MEM,,ATL,,J. Culver,ATL,MISS Culver 3' Driving Layup,Missed Shot,Driving Layup Shot,22,13,3,1,2.0,0.0,v
+S2223-G0404,4,10:19,MEM,,ATL,,J. Culver,ATL,SUB: Johnson FOR Culver,Substitution,,0,0,0,0,,,v

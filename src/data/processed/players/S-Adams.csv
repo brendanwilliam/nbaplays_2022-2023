@@ -1,0 +1,1285 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0169,1,11:36,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,1,09:23,SAS,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0169,1,09:23,SAS,5.0,MEM,8.0,S. Adams,MEM,Adams Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0169,1,09:05,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,1,07:59,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,1,07:59,SAS,9.0,MEM,15.0,S. Adams,MEM,Adams Tip Layup Shot (3 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0169,1,06:51,SAS,,MEM,,S. Adams,MEM,Adams OFF.Foul (P1) (J.Goble),Foul,Offensive,0,0,0,0,,,v
+S2223-G0169,1,06:51,SAS,,MEM,,S. Adams,MEM,Adams Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0169,1,04:52,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,1,04:52,SAS,16.0,MEM,26.0,S. Adams,MEM,Adams Reverse Layup (5 PTS),Made Shot,Reverse Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0169,1,03:51,SAS,,MEM,,S. Adams,MEM,Adams OFF.Foul (P2) (P.O'Connell),Foul,Offensive,0,0,0,0,,,v
+S2223-G0169,1,03:51,SAS,,MEM,,S. Adams,MEM,Adams Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0169,1,03:51,SAS,,MEM,,S. Adams,MEM,SUB: Jones FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0169,2,08:29,SAS,,MEM,,S. Adams,MEM,MISS Adams 4' Hook Shot,Missed Shot,Hook Shot,13,36,4,1,2.0,0.0,v
+S2223-G0169,2,06:31,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,2,06:24,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,2,04:55,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,2,03:05,SAS,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0169,2,02:35,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,2,01:23,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,2,00:44.100000,SAS,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0169,3,10:31,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,3,10:25,SAS,59.0,MEM,71.0,S. Adams,MEM,Adams 2' Layup (7 PTS) (Brooks 3 AST),Made Shot,Layup Shot,15,6,2,1,2.0,2.0,v
+S2223-G0169,3,09:20,SAS,,MEM,,S. Adams,MEM,Adams Out of Bounds - Bad Pass Turnover Turnover (P4.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0169,3,08:26,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,3,07:00,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:7 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,3,02:57,SAS,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0169,4,07:03,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:8 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,4,07:03,SAS,,MEM,,S. Adams,MEM,Adams Out of Bounds - Bad Pass Turnover Turnover (P5.T17),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0169,4,06:29,SAS,,MEM,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0169,4,06:00,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:8 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,4,04:53,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:9 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,4,03:52,SAS,,MEM,,S. Adams,MEM,Adams OFF.Foul (P3) (J.Goble),Foul,Offensive,0,0,0,0,,,v
+S2223-G0169,4,03:52,SAS,,MEM,,S. Adams,MEM,Adams Offensive Foul Turnover (P6.T18),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0169,4,01:41,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:10 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,4,00:27.400000,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:10 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,4,00:00.400000,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:10 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,5,04:34,SAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:10 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0169,5,02:15,SAS,,MEM,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0169,5,00:09.300000,SAS,,MEM,,S. Adams,MEM,SUB: Jones FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0169,5,00:05,SAS,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0368,1,12:00,MEM,,OKC,,S. Adams,MEM,Jump Ball Adams vs. Pokusevski: Tip to Morant,Jump Ball,,0,0,0,0,,,h
+S2223-G0368,1,10:25,MEM,6.0,OKC,6.0,S. Adams,MEM,Adams 3' Layup (2 PTS) (Morant 2 AST),Made Shot,Layup Shot,26,13,3,1,2.0,2.0,h
+S2223-G0368,1,09:37,MEM,,OKC,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0368,1,09:33,MEM,,OKC,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0368,1,08:44,MEM,,OKC,,S. Adams,MEM,Adams Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0368,1,06:54,MEM,13.0,OKC,11.0,S. Adams,MEM,Adams 2' Cutting Finger Roll Layup Shot (4 PTS) (Brooks 1 AST),Made Shot,Cutting Finger Roll Layup Shot,-15,17,2,1,2.0,2.0,h
+S2223-G0368,1,06:54,MEM,,OKC,,S. Adams,MEM,MISS Adams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0368,1,03:44,MEM,,OKC,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0368,2,01:20,MEM,,OKC,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0368,2,00:04.600000,MEM,,OKC,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0368,2,00:04.600000,MEM,57.0,OKC,52.0,S. Adams,MEM,Adams Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0368,3,06:05,MEM,,OKC,,S. Adams,MEM,Adams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0368,3,06:05,MEM,75.0,OKC,71.0,S. Adams,MEM,Adams Putback Dunk (8 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0368,3,04:48,MEM,,OKC,,S. Adams,MEM,Adams BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0368,3,04:46,MEM,,OKC,,S. Adams,MEM,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0368,3,04:41,MEM,,OKC,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0543,1,12:00,MEM,,NOP,,S. Adams,MEM,Jump Ball Adams vs. Valanciunas: Tip to Bane,Jump Ball,,0,0,0,0,,,h
+S2223-G0543,1,11:20,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,1,10:49,MEM,,NOP,,S. Adams,MEM,Adams P.FOUL (P1.T1) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G0543,1,10:43,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,1,09:28,MEM,8.0,NOP,2.0,S. Adams,MEM,Adams 10' Hook Shot (2 PTS),Made Shot,Hook Shot,-26,94,10,1,2.0,2.0,h
+S2223-G0543,1,09:09,MEM,,NOP,,S. Adams,MEM,MISS Adams 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,10,22,2,1,2.0,0.0,h
+S2223-G0543,1,09:04,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,1,09:04,MEM,10.0,NOP,2.0,S. Adams,MEM,Adams Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0543,1,08:05,MEM,,NOP,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0543,1,06:42,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,1,06:08,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,1,05:48,MEM,,NOP,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0543,1,05:24,MEM,,NOP,,S. Adams,MEM,Adams S.FOUL (P2.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0543,1,05:24,MEM,,NOP,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0543,2,07:46,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,2,07:04,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,2,05:38,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,2,04:46,MEM,47.0,NOP,38.0,S. Adams,MEM,Adams 1' Running Dunk (6 PTS) (Morant 5 AST),Made Shot,Running Dunk Shot,1,10,1,1,2.0,2.0,h
+S2223-G0543,2,02:23,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,2,01:35,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,2,01:02,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,2,00:49.900000,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,2,00:28.400000,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,2,00:28.200000,MEM,51.0,NOP,50.0,S. Adams,MEM,Adams 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,-6,23,2,1,2.0,2.0,h
+S2223-G0543,3,11:40,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:3 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,3,10:52,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:3 Def:12),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,3,10:33,MEM,,NOP,,S. Adams,MEM,Adams STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0543,3,10:13,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:3 Def:13),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,3,07:52,MEM,67.0,NOP,60.0,S. Adams,MEM,Adams Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0543,3,07:52,MEM,,NOP,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0543,3,06:57,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:3 Def:14),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,3,06:52,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:4 Def:14),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,3,06:15,MEM,,NOP,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0543,3,06:15,MEM,,NOP,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0543,3,05:31,MEM,,NOP,,S. Adams,MEM,Adams S.FOUL (P3.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0543,3,04:52,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:4 Def:15),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,3,03:38,MEM,,NOP,,S. Adams,MEM,Adams BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0543,3,03:29,MEM,,NOP,,S. Adams,MEM,Jump Ball Adams vs. Hernangomez: Tip to Marshall,Jump Ball,,0,0,0,0,,,h
+S2223-G0543,3,02:57,MEM,,NOP,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0543,4,04:19,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:4 Def:16),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,4,01:29,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:5 Def:16),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0543,4,01:29,MEM,,NOP,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0543,4,01:29,MEM,,NOP,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0543,4,01:29,MEM,114.0,NOP,97.0,S. Adams,MEM,Adams Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0543,4,01:27,MEM,,NOP,,S. Adams,MEM,SUB: Tillman FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0703,1,11:51,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0703,1,11:16,PHX,,MEM,,S. Adams,MEM,MISS Adams 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,80,8,1,2.0,0.0,v
+S2223-G0703,1,09:17,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0703,1,08:26,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0703,1,06:34,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0703,1,06:34,PHX,,MEM,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0703,1,06:34,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0703,1,06:32,PHX,,MEM,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0703,1,03:20,PHX,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0703,2,05:58,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0703,2,05:58,PHX,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0703,2,05:58,PHX,47.0,MEM,28.0,S. Adams,MEM,Adams Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0703,2,05:25,PHX,47.0,MEM,30.0,S. Adams,MEM,Adams 3' Cutting Layup Shot (3 PTS) (Aldama 2 AST),Made Shot,Cutting Layup Shot,-4,25,3,1,2.0,2.0,v
+S2223-G0703,2,04:37,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0703,2,02:30,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0703,2,02:30,PHX,,MEM,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0703,2,01:29,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0703,2,00:55.900000,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0703,2,00:55.900000,PHX,,MEM,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0703,3,11:39,PHX,62.0,MEM,39.0,S. Adams,MEM,Adams 3' Cutting Layup Shot (5 PTS) (Bane 2 AST),Made Shot,Cutting Layup Shot,4,31,3,1,2.0,2.0,v
+S2223-G0703,3,11:39,PHX,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0703,3,10:09,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0703,3,10:09,PHX,,MEM,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0703,3,09:45,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0703,3,09:06,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0703,3,08:53,PHX,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0703,3,07:57,PHX,72.0,MEM,44.0,S. Adams,MEM,Adams Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0703,3,07:57,PHX,72.0,MEM,45.0,S. Adams,MEM,Adams Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0703,3,06:45,PHX,74.0,MEM,48.0,S. Adams,MEM,Adams Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0703,3,06:45,PHX,,MEM,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0703,3,06:20,PHX,,MEM,,S. Adams,MEM,Adams S.FOUL (P1.T4) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0703,3,03:51,PHX,,MEM,,S. Adams,MEM,Adams S.FOUL (P2.PN) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,v
+S2223-G0703,3,03:51,PHX,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0703,4,08:26,PHX,,MEM,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0703,4,07:06,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:7 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0703,4,07:06,PHX,,MEM,,S. Adams,MEM,Adams Lost Ball Turnover (P2.T19),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0703,4,06:46,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:8 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0703,4,06:46,PHX,98.0,MEM,86.0,S. Adams,MEM,Adams Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0703,4,03:11,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:8 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0703,4,02:25,PHX,,MEM,,S. Adams,MEM,Adams STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0703,4,00:05.600000,PHX,,MEM,,S. Adams,MEM,Adams STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0703,4,00:01.600000,PHX,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P3.T20),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0257,1,12:00,MEM,,SAC,,S. Adams,MEM,Jump Ball Adams vs. Sabonis: Tip to Morant,Jump Ball,,0,0,0,0,,,h
+S2223-G0257,1,11:05,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0257,1,08:38,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0257,1,07:42,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0257,1,05:19,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0257,1,04:01,MEM,23.0,SAC,21.0,S. Adams,MEM,Adams 2' Cutting Layup Shot (2 PTS) (Jones 1 AST),Made Shot,Cutting Layup Shot,15,8,2,1,2.0,2.0,h
+S2223-G0257,1,03:19,MEM,,SAC,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0257,2,03:19,MEM,,SAC,,S. Adams,MEM,MISS Adams 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,61,6,6,1,2.0,0.0,h
+S2223-G0257,2,01:23,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0257,2,00:45,MEM,,SAC,,S. Adams,MEM,Adams S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0257,3,11:44,MEM,,SAC,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0257,3,11:40,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0257,3,10:57,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0257,3,09:54,MEM,63.0,SAC,64.0,S. Adams,MEM,Adams 1' Running Dunk (4 PTS) (Brooks 5 AST),Made Shot,Running Dunk Shot,1,10,1,1,2.0,2.0,h
+S2223-G0257,3,09:10,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0257,3,08:59,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0257,3,08:59,MEM,,SAC,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0257,3,08:53,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0257,3,08:51,MEM,,SAC,,S. Adams,MEM,MISS Adams 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-72,63,10,1,2.0,0.0,h
+S2223-G0257,3,07:17,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0257,3,05:01,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:5 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0257,3,04:07,MEM,,SAC,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0257,3,02:31,MEM,,SAC,,S. Adams,MEM,Adams Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0257,3,02:22,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:5 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0257,3,02:15,MEM,,SAC,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0257,3,02:15,MEM,,SAC,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0257,3,01:13,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:5 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0257,3,00:46.300000,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:5 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0257,4,05:19,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:5 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0257,4,04:41,MEM,,SAC,,S. Adams,MEM,Adams OFF.Foul (P2) (P.Fraher),Foul,Offensive,0,0,0,0,,,h
+S2223-G0257,4,04:41,MEM,,SAC,,S. Adams,MEM,Adams Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0257,4,04:08,MEM,,SAC,,S. Adams,MEM,Adams OFF.Foul (P3) (S.Twardoski),Foul,Offensive,0,0,0,0,,,h
+S2223-G0257,4,04:08,MEM,,SAC,,S. Adams,MEM,Adams Offensive Foul Turnover (P3.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0257,4,04:08,MEM,,SAC,,S. Adams,MEM,Adams T.FOUL (P3.T1) (S.Twardoski),Foul,Technical,0,0,0,0,,,h
+S2223-G0257,4,00:40,MEM,,SAC,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0257,4,00:40,MEM,103.0,SAC,108.0,S. Adams,MEM,Adams Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0257,4,00:23,MEM,,SAC,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0257,4,00:01.700000,MEM,,SAC,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0332,1,12:00,MEM,,PHI,,S. Adams,MEM,Jump Ball Adams vs. Embiid: Tip to Tucker,Jump Ball,,0,0,0,0,,,h
+S2223-G0332,1,10:10,MEM,,PHI,,S. Adams,MEM,MISS Adams 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,36,53,6,1,2.0,0.0,h
+S2223-G0332,1,09:38,MEM,,PHI,,S. Adams,MEM,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0332,1,09:36,MEM,,PHI,,S. Adams,MEM,MISS Adams 4' Putback Layup,Missed Shot,Putback Layup Shot,28,26,4,1,2.0,0.0,h
+S2223-G0332,1,09:35,MEM,,PHI,,S. Adams,MEM,Adams REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0332,1,09:35,MEM,,PHI,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0332,1,09:15,MEM,4.0,PHI,3.0,S. Adams,MEM,Adams 1' Running Layup (2 PTS) (Morant 1 AST),Made Shot,Running Layup Shot,-9,5,1,1,2.0,2.0,h
+S2223-G0332,1,08:44,MEM,,PHI,,S. Adams,MEM,Adams REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0332,1,08:44,MEM,5.0,PHI,5.0,S. Adams,MEM,Adams Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0332,1,08:44,MEM,,PHI,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0332,1,08:19,MEM,,PHI,,S. Adams,MEM,Adams Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0332,1,06:37,MEM,,PHI,,S. Adams,MEM,Adams L.B.FOUL (P1.T2) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0332,1,05:41,MEM,13.0,PHI,17.0,S. Adams,MEM,Adams 7' Turnaround Jump Shot (5 PTS) (Brooks 1 AST),Made Shot,Turnaround Jump Shot,9,67,7,1,2.0,2.0,h
+S2223-G0332,1,01:30,MEM,,PHI,,S. Adams,MEM,SUB: Brooks FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0332,2,05:33,MEM,,PHI,,S. Adams,MEM,Adams REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0332,2,05:33,MEM,,PHI,,S. Adams,MEM,MISS Adams 2' Putback Layup,Missed Shot,Putback Layup Shot,-1,15,2,1,2.0,0.0,h
+S2223-G0332,2,05:13,MEM,,PHI,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0332,2,04:53,MEM,,PHI,,S. Adams,MEM,Adams REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0332,2,03:58,MEM,,PHI,,S. Adams,MEM,Adams REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0332,2,03:58,MEM,,PHI,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0332,2,03:52,MEM,,PHI,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0332,2,03:06,MEM,,PHI,,S. Adams,MEM,Adams P.FOUL (P2.T4) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G0332,2,01:29,MEM,,PHI,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0332,3,10:18,MEM,,PHI,,S. Adams,MEM,Adams REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0332,3,07:16,MEM,,PHI,,S. Adams,MEM,Adams REBOUND (Off:6 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0332,3,06:55,MEM,,PHI,,S. Adams,MEM,Adams REBOUND (Off:7 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0332,3,06:33,MEM,,PHI,,S. Adams,MEM,Adams STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0332,3,06:00,MEM,,PHI,,S. Adams,MEM,Adams REBOUND (Off:8 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0332,3,05:12,MEM,,PHI,,S. Adams,MEM,Adams STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0332,3,05:12,MEM,81.0,PHI,67.0,S. Adams,MEM,Adams 1' Running Dunk (7 PTS),Made Shot,Running Dunk Shot,10,0,1,1,2.0,2.0,h
+S2223-G0332,3,04:47,MEM,,PHI,,S. Adams,MEM,Adams BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0332,3,03:36,MEM,,PHI,,S. Adams,MEM,Adams L.B.FOUL (P3.T1) (S.Wright),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0332,3,03:12,MEM,,PHI,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0332,4,07:38,MEM,,PHI,,S. Adams,MEM,Adams REBOUND (Off:8 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0332,4,07:31,MEM,,PHI,,S. Adams,MEM,MISS Adams 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-18,13,2,1,2.0,0.0,h
+S2223-G0332,4,06:21,MEM,,PHI,,S. Adams,MEM,Adams REBOUND (Off:9 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0332,4,06:21,MEM,107.0,PHI,92.0,S. Adams,MEM,Adams Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0332,4,06:04,MEM,,PHI,,S. Adams,MEM,Adams OFF.Foul (P4) (M.Ervin),Foul,Offensive,0,0,0,0,,,h
+S2223-G0332,4,06:04,MEM,,PHI,,S. Adams,MEM,Adams Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0332,4,05:54,MEM,,PHI,,S. Adams,MEM,Adams REBOUND (Off:9 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0332,4,05:03,MEM,,PHI,,S. Adams,MEM,Adams REBOUND (Off:10 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0332,4,05:02,MEM,,PHI,,S. Adams,MEM,MISS Adams 1' Putback Layup,Missed Shot,Putback Layup Shot,6,7,1,1,2.0,0.0,h
+S2223-G0332,4,03:14,MEM,,PHI,,S. Adams,MEM,Adams Offensive Goaltending Turnover (P3.T12),Turnover,Offensive Goaltending,0,0,0,0,,,h
+S2223-G0332,4,02:29,MEM,,PHI,,S. Adams,MEM,Adams BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0332,4,02:27,MEM,,PHI,,S. Adams,MEM,Adams REBOUND (Off:10 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0332,4,01:12,MEM,,PHI,,S. Adams,MEM,Adams REBOUND (Off:10 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,1,12:00,MEM,,CHA,,S. Adams,MEM,Jump Ball Adams vs. Plumlee: Tip to Aldama,Jump Ball,,0,0,0,0,,,h
+S2223-G0125,1,11:40,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,1,11:29,MEM,2.0,CHA,0.0,S. Adams,MEM,Adams 3' Finger Roll Layup (2 PTS) (Morant 1 AST),Made Shot,Finger Roll Layup Shot,16,24,3,1,2.0,2.0,h
+S2223-G0125,1,10:27,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,1,10:27,MEM,,CHA,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0125,1,10:27,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,1,10:25,MEM,4.0,CHA,2.0,S. Adams,MEM,Adams 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,19,2,1,2.0,2.0,h
+S2223-G0125,1,10:20,MEM,,CHA,,S. Adams,MEM,Adams S.FOUL (P1.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G0125,1,09:56,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,1,09:36,MEM,,CHA,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0125,1,08:38,MEM,,CHA,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0125,1,08:31,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,1,07:47,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,1,06:43,MEM,,CHA,,S. Adams,MEM,Adams BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0125,1,06:38,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,1,05:41,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,1,03:39,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:6 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,1,03:36,MEM,32.0,CHA,15.0,S. Adams,MEM,Adams Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0125,1,03:36,MEM,,CHA,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0125,2,05:51,MEM,,CHA,,S. Adams,MEM,MISS Adams 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,12,30,3,1,2.0,0.0,h
+S2223-G0125,2,05:38,MEM,55.0,CHA,39.0,S. Adams,MEM,Adams 1' Running Alley Oop Dunk Shot (8 PTS) (Aldama 1 AST),Made Shot,Running Alley Oop Dunk Shot,10,6,1,1,2.0,2.0,h
+S2223-G0125,2,04:23,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,2,03:58,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:6 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,2,03:13,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:7 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,2,03:12,MEM,,CHA,,S. Adams,MEM,MISS Adams 2' Putback Layup,Missed Shot,Putback Layup Shot,-9,22,2,1,2.0,0.0,h
+S2223-G0125,2,03:11,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:8 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,2,03:11,MEM,,CHA,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0125,2,03:11,MEM,61.0,CHA,43.0,S. Adams,MEM,Adams Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0125,2,01:59,MEM,63.0,CHA,45.0,S. Adams,MEM,Adams 5' Hook Shot (11 PTS) (Morant 7 AST),Made Shot,Hook Shot,-18,43,5,1,2.0,2.0,h
+S2223-G0125,2,01:20,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:8 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,2,01:00,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:9 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,2,01:00,MEM,66.0,CHA,45.0,S. Adams,MEM,Adams Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0125,2,00:52.400000,MEM,,CHA,,S. Adams,MEM,Adams STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0125,2,00:37.800000,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:10 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,2,00:37.800000,MEM,,CHA,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0125,3,09:03,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:11 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,3,07:33,MEM,,CHA,,S. Adams,MEM,Adams Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0125,3,07:19,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:11 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,3,06:31,MEM,,CHA,,S. Adams,MEM,Adams REBOUND (Off:11 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0125,3,06:27,MEM,,CHA,,S. Adams,MEM,Adams Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0125,3,06:11,MEM,,CHA,,S. Adams,MEM,Adams L.B.FOUL (P2.T3) (J.Williams),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0125,3,04:42,MEM,,CHA,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0564,1,09:05,CHA,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0564,1,09:05,CHA,,MEM,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0564,1,08:18,CHA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0564,1,07:58,CHA,,MEM,,S. Adams,MEM,Adams S.FOUL (P1.T1) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0564,1,06:38,CHA,,MEM,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0564,1,06:35,CHA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0564,1,05:54,CHA,19.0,MEM,20.0,S. Adams,MEM,Adams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0564,1,05:54,CHA,19.0,MEM,21.0,S. Adams,MEM,Adams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0564,1,05:11,CHA,,MEM,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0564,1,03:55,CHA,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0564,1,03:44,CHA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0564,1,03:37,CHA,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0564,1,02:34,CHA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0564,1,02:34,CHA,24.0,MEM,35.0,S. Adams,MEM,Adams Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0564,1,02:23,CHA,,MEM,,S. Adams,MEM,SUB: Brooks FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0564,2,06:03,CHA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0564,2,05:37,CHA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0564,2,05:08,CHA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0564,2,03:34,CHA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0564,2,01:44,CHA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0564,2,00:56.600000,CHA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0564,2,00:56.600000,CHA,,MEM,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0564,2,00:31.900000,CHA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0564,2,00:31.900000,CHA,47.0,MEM,75.0,S. Adams,MEM,Adams Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0564,2,00:31.900000,CHA,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0564,3,09:48,CHA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0564,3,09:44,CHA,,MEM,,S. Adams,MEM,MISS Adams 4' Driving Layup,Missed Shot,Driving Layup Shot,-28,25,4,1,2.0,0.0,v
+S2223-G0564,3,06:35,CHA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0564,3,06:35,CHA,,MEM,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0564,3,04:57,CHA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0564,3,03:01,CHA,,MEM,,S. Adams,MEM,MISS Adams 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,-42,43,6,1,2.0,0.0,v
+S2223-G0564,3,02:39,CHA,,MEM,,S. Adams,MEM,Adams BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0564,3,02:33,CHA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0564,3,01:20,CHA,71.0,MEM,100.0,S. Adams,MEM,Adams 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,17,5,2,1,2.0,2.0,v
+S2223-G0564,3,01:20,CHA,71.0,MEM,101.0,S. Adams,MEM,Adams Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0564,3,00:48.500000,CHA,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0564,3,00:45.700000,CHA,,MEM,,S. Adams,MEM,SUB: Tillman FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0142,1,12:00,MEM,,WAS,,S. Adams,MEM,Jump Ball Adams vs. Porzingis: Tip to Kuzma,Jump Ball,,0,0,0,0,,,h
+S2223-G0142,1,08:43,MEM,2.0,WAS,9.0,S. Adams,MEM,Adams 1' Running Dunk (2 PTS) (Bane 1 AST),Made Shot,Running Dunk Shot,-1,5,1,1,2.0,2.0,h
+S2223-G0142,1,08:14,MEM,,WAS,,S. Adams,MEM,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0142,1,04:46,MEM,,WAS,,S. Adams,MEM,Adams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0142,1,03:47,MEM,,WAS,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0142,1,03:13,MEM,,WAS,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0142,2,04:43,MEM,,WAS,,S. Adams,MEM,Adams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0142,2,04:42,MEM,50.0,WAS,38.0,S. Adams,MEM,Adams 5' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,53,5,1,2.0,2.0,h
+S2223-G0142,2,04:20,MEM,,WAS,,S. Adams,MEM,Adams P.FOUL (P1.T2) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2223-G0142,2,03:34,MEM,,WAS,,S. Adams,MEM,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0142,2,02:50,MEM,,WAS,,S. Adams,MEM,Adams REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0142,2,01:16,MEM,,WAS,,S. Adams,MEM,Adams REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0142,2,01:05,MEM,,WAS,,S. Adams,MEM,Adams L.B.FOUL (P2.T3) (J.Schroeder),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0142,3,10:58,MEM,,WAS,,S. Adams,MEM,Adams OFF.Foul (P3) (J.Capers),Foul,Offensive,0,0,0,0,,,h
+S2223-G0142,3,10:58,MEM,,WAS,,S. Adams,MEM,Adams Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0142,3,10:58,MEM,,WAS,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0142,4,05:07,MEM,,WAS,,S. Adams,MEM,Adams REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0142,4,02:53,MEM,,WAS,,S. Adams,MEM,Adams REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0142,4,00:48.700000,MEM,,WAS,,S. Adams,MEM,Adams REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0181,1,12:00,MEM,,MIN,,S. Adams,MEM,Jump Ball Adams vs. Gobert: Tip to Morant,Jump Ball,,0,0,0,0,,,h
+S2223-G0181,1,11:01,MEM,,MIN,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0181,1,09:05,MEM,,MIN,,S. Adams,MEM,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0181,1,08:38,MEM,,MIN,,S. Adams,MEM,Adams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0181,1,06:35,MEM,,MIN,,S. Adams,MEM,Adams S.FOUL (P1.T4) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0181,1,04:16,MEM,,MIN,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0181,2,07:13,MEM,53.0,MIN,42.0,S. Adams,MEM,Adams Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0181,2,06:07,MEM,,MIN,,S. Adams,MEM,Adams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0181,2,05:56,MEM,,MIN,,S. Adams,MEM,Adams L.B.FOUL (P2.T3) (B.Nansel),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0181,2,05:32,MEM,,MIN,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0181,2,05:32,MEM,,MIN,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0181,2,04:56,MEM,,MIN,,S. Adams,MEM,MISS Adams 1' Layup,Missed Shot,Layup Shot,6,8,1,1,2.0,0.0,h
+S2223-G0181,2,04:56,MEM,,MIN,,S. Adams,MEM,Adams REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0181,2,04:56,MEM,59.0,MIN,47.0,S. Adams,MEM,Adams 1' Putback Layup (3 PTS),Made Shot,Putback Layup Shot,2,10,1,1,2.0,2.0,h
+S2223-G0181,2,04:56,MEM,,MIN,,S. Adams,MEM,MISS Adams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0181,2,04:04,MEM,,MIN,,S. Adams,MEM,Adams REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0181,2,03:48,MEM,,MIN,,S. Adams,MEM,Adams S.FOUL (P3.T4) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0181,2,03:48,MEM,,MIN,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0181,3,10:34,MEM,,MIN,,S. Adams,MEM,MISS Adams 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,50,5,1,2.0,0.0,h
+S2223-G0181,3,09:30,MEM,,MIN,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0181,3,06:59,MEM,,MIN,,S. Adams,MEM,Adams REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0181,3,03:02,MEM,,MIN,,S. Adams,MEM,Adams REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0181,3,02:00,MEM,,MIN,,S. Adams,MEM,Adams REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0181,3,01:31,MEM,,MIN,,S. Adams,MEM,Adams OFF.Foul (P4) (K.Scott),Foul,Offensive,0,0,0,0,,,h
+S2223-G0181,3,01:31,MEM,,MIN,,S. Adams,MEM,Adams Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0181,3,01:31,MEM,,MIN,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0181,4,02:35,MEM,,MIN,,S. Adams,MEM,Adams REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0206,1,11:47,NOP,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0206,1,11:47,NOP,,MEM,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0206,1,09:18,NOP,,MEM,,S. Adams,MEM,Adams L.B.FOUL (P1.T1) (N.Buchert),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0206,1,09:00,NOP,,MEM,,S. Adams,MEM,Adams OFF.Foul (P2) (E.Scott),Foul,Offensive,0,0,0,0,,,v
+S2223-G0206,1,09:00,NOP,,MEM,,S. Adams,MEM,Adams Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0206,1,09:00,NOP,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0206,2,11:32,NOP,,MEM,,S. Adams,MEM,Adams OFF.Foul (P3) (E.Scott),Foul,Offensive,0,0,0,0,,,v
+S2223-G0206,2,11:32,NOP,,MEM,,S. Adams,MEM,Adams Offensive Foul Turnover (P2.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0206,2,11:32,NOP,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0206,3,11:00,NOP,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0206,3,08:48,NOP,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0206,3,07:54,NOP,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0206,3,06:43,NOP,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0206,3,06:41,NOP,,MEM,,S. Adams,MEM,MISS Adams 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,47,31,6,1,2.0,0.0,v
+S2223-G0206,3,05:56,NOP,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0206,3,05:56,NOP,74.0,MEM,73.0,S. Adams,MEM,Adams Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0206,3,02:39,NOP,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0383,1,12:00,MEM,,DET,,S. Adams,MEM,Jump Ball Adams vs. Duren: Tip to Morant,Jump Ball,,0,0,0,0,,,h
+S2223-G0383,1,11:45,MEM,2.0,DET,0.0,S. Adams,MEM,Adams Alley Oop Dunk (2 PTS) (Morant 1 AST),Made Shot,Alley Oop Dunk Shot,-1,4,0,1,2.0,2.0,h
+S2223-G0383,1,11:13,MEM,4.0,DET,0.0,S. Adams,MEM,Adams 4' Driving Bank Hook Shot (4 PTS) (Brooks 1 AST),Made Shot,Driving Bank Hook Shot,29,32,4,1,2.0,2.0,h
+S2223-G0383,1,10:52,MEM,,DET,,S. Adams,MEM,MISS Adams 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-48,68,8,1,2.0,0.0,h
+S2223-G0383,1,10:33,MEM,,DET,,S. Adams,MEM,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0383,1,08:47,MEM,,DET,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0383,1,08:29,MEM,,DET,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0383,1,08:29,MEM,,DET,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0383,1,06:50,MEM,,DET,,S. Adams,MEM,Adams REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0383,1,06:28,MEM,17.0,DET,9.0,S. Adams,MEM,Adams 1' Alley Oop Dunk (6 PTS) (Morant 2 AST),Made Shot,Alley Oop Dunk Shot,-1,5,1,1,2.0,2.0,h
+S2223-G0383,1,05:22,MEM,,DET,,S. Adams,MEM,MISS Adams 3' Layup,Missed Shot,Layup Shot,-17,29,3,1,2.0,0.0,h
+S2223-G0383,1,04:44,MEM,,DET,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0383,2,05:40,MEM,47.0,DET,44.0,S. Adams,MEM,Adams 2' Layup (8 PTS) (Morant 5 AST),Made Shot,Layup Shot,-15,3,2,1,2.0,2.0,h
+S2223-G0383,2,05:19,MEM,,DET,,S. Adams,MEM,Adams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0383,2,03:26,MEM,,DET,,S. Adams,MEM,Adams REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0383,2,02:14,MEM,,DET,,S. Adams,MEM,Adams REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0383,2,02:13,MEM,,DET,,S. Adams,MEM,Adams Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0383,2,00:30.800000,MEM,,DET,,S. Adams,MEM,Adams REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0383,3,09:34,MEM,,DET,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0383,3,06:17,MEM,,DET,,S. Adams,MEM,MISS Adams 2' Layup,Missed Shot,Layup Shot,-16,18,2,1,2.0,0.0,h
+S2223-G0383,3,06:00,MEM,,DET,,S. Adams,MEM,Adams REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0383,3,05:32,MEM,,DET,,S. Adams,MEM,Adams S.FOUL (P1.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0383,3,03:50,MEM,,DET,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0383,4,06:15,MEM,109.0,DET,91.0,S. Adams,MEM,Adams 9' Turnaround Hook Shot (10 PTS) (Brooks 4 AST),Made Shot,Turnaround Hook Shot,5,88,9,1,2.0,2.0,h
+S2223-G0383,4,05:33,MEM,,DET,,S. Adams,MEM,Adams REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0383,4,05:33,MEM,,DET,,S. Adams,MEM,Adams Step Out of Bounds Turnover (P2.T12),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0383,4,05:33,MEM,,DET,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0229,1,12:00,MEM,,OKC,,S. Adams,MEM,Jump Ball Adams vs. Pokusevski: Tip to Dort,Jump Ball,,0,0,0,0,,,h
+S2223-G0229,1,10:58,MEM,,OKC,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0229,1,09:43,MEM,7.0,OKC,0.0,S. Adams,MEM,Adams 1' Running Dunk (2 PTS) (Brooks 2 AST),Made Shot,Running Dunk Shot,5,6,1,1,2.0,2.0,h
+S2223-G0229,1,09:06,MEM,,OKC,,S. Adams,MEM,Adams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0229,1,09:06,MEM,9.0,OKC,2.0,S. Adams,MEM,Adams 6' Turnaround Hook Shot (4 PTS),Made Shot,Turnaround Hook Shot,-48,41,6,1,2.0,2.0,h
+S2223-G0229,1,08:55,MEM,,OKC,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0229,1,07:49,MEM,,OKC,,S. Adams,MEM,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0229,1,07:12,MEM,,OKC,,S. Adams,MEM,Adams OFF.Foul (P1) (M.Smith),Foul,Offensive,0,0,0,0,,,h
+S2223-G0229,1,07:12,MEM,,OKC,,S. Adams,MEM,Adams Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0229,1,05:43,MEM,,OKC,,S. Adams,MEM,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0229,1,05:31,MEM,,OKC,,S. Adams,MEM,Adams Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0229,1,05:04,MEM,,OKC,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0229,1,05:04,MEM,,OKC,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0229,1,04:36,MEM,,OKC,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0229,2,00:00.900000,MEM,,OKC,,S. Adams,MEM,Adams REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0229,3,06:35,MEM,,OKC,,S. Adams,MEM,Adams REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0229,3,04:22,MEM,80.0,OKC,73.0,S. Adams,MEM,Adams 6' Hook Shot (6 PTS) (Morant 10 AST),Made Shot,Hook Shot,-4,55,6,1,2.0,2.0,h
+S2223-G0229,3,04:22,MEM,,OKC,,S. Adams,MEM,SUB: Jones FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0229,4,04:04,MEM,,OKC,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0229,4,04:04,MEM,,OKC,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0116,1,11:18,POR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0116,1,10:10,POR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0116,1,09:34,POR,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0116,1,09:34,POR,0.0,MEM,7.0,S. Adams,MEM,Adams Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0116,1,09:20,POR,,MEM,,S. Adams,MEM,Adams S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0116,1,09:09,POR,2.0,MEM,9.0,S. Adams,MEM,Adams 1' Cutting Layup Shot (3 PTS) (Morant 1 AST),Made Shot,Cutting Layup Shot,-7,7,1,1,2.0,2.0,v
+S2223-G0116,1,09:09,POR,2.0,MEM,10.0,S. Adams,MEM,Adams Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0116,1,08:36,POR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0116,1,07:28,POR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0116,1,07:28,POR,,MEM,,S. Adams,MEM,MISS Adams 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,4,17,2,1,2.0,0.0,v
+S2223-G0116,1,06:26,POR,10.0,MEM,14.0,S. Adams,MEM,Adams 1' Cutting Dunk Shot (6 PTS) (Morant 2 AST),Made Shot,Cutting Dunk Shot,4,7,1,1,2.0,2.0,v
+S2223-G0116,1,06:10,POR,,MEM,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0116,1,05:26,POR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0116,1,05:16,POR,,MEM,,S. Adams,MEM,Adams Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0116,1,04:19,POR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0116,1,03:17,POR,,MEM,,S. Adams,MEM,SUB: Konchar FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0116,2,07:09,POR,34.0,MEM,39.0,S. Adams,MEM,Adams 2' Layup (8 PTS),Made Shot,Layup Shot,-16,7,2,1,2.0,2.0,v
+S2223-G0116,2,06:05,POR,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0116,2,00:04.500000,POR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0116,3,10:51,POR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0116,3,09:39,POR,52.0,MEM,59.0,S. Adams,MEM,Adams 1' Alley Oop Dunk (10 PTS) (Morant 6 AST),Made Shot,Alley Oop Dunk Shot,7,-1,1,1,2.0,2.0,v
+S2223-G0116,3,08:05,POR,57.0,MEM,63.0,S. Adams,MEM,Adams 1' Cutting Layup Shot (12 PTS) (Bane 3 AST),Made Shot,Cutting Layup Shot,7,6,1,1,2.0,2.0,v
+S2223-G0116,3,06:14,POR,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0116,4,10:27,POR,,MEM,,S. Adams,MEM,Adams BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0116,4,08:30,POR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0116,4,07:51,POR,,MEM,,S. Adams,MEM,MISS Adams 15' Floating Jump Shot,Missed Shot,Floating Jump shot,-86,125,15,1,2.0,0.0,v
+S2223-G0116,4,06:53,POR,,MEM,,S. Adams,MEM,Adams L.B.FOUL (P2.T1) (N.Buchert),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0116,4,06:53,POR,,MEM,,S. Adams,MEM,Adams T.FOUL (P2.T1) (N.Buchert),Foul,Technical,0,0,0,0,,,v
+S2223-G0116,4,03:19,POR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0116,4,03:19,POR,96.0,MEM,98.0,S. Adams,MEM,Adams Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0116,4,01:19,POR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0116,4,01:19,POR,,MEM,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0116,4,00:23.700000,POR,,MEM,,S. Adams,MEM,SUB: Jones FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0643,1,10:52,IND,2.0,MEM,4.0,S. Adams,MEM,Adams 5' Layup (2 PTS) (Bane 1 AST),Made Shot,Layup Shot,-34,34,5,1,2.0,2.0,v
+S2223-G0643,1,10:00,IND,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0643,1,08:47,IND,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0643,1,08:45,IND,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0643,1,08:45,IND,,MEM,,S. Adams,MEM,Adams Transition Take Foul (P1.T2) (E.Lewis),Foul                                    ,Transition Take,0,0,0,0,,,v
+S2223-G0643,1,05:51,IND,13.0,MEM,17.0,S. Adams,MEM,Adams Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0643,1,05:51,IND,13.0,MEM,18.0,S. Adams,MEM,Adams Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0643,1,05:37,IND,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0643,1,04:26,IND,17.0,MEM,25.0,S. Adams,MEM,Adams 1' Dunk (6 PTS),Made Shot,Dunk Shot,-1,13,1,1,2.0,2.0,v
+S2223-G0643,1,04:15,IND,,MEM,,S. Adams,MEM,Adams S.FOUL (P2.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0643,1,04:15,IND,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0643,2,02:45,IND,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0643,2,02:44,IND,49.0,MEM,61.0,S. Adams,MEM,Adams 5' Hook Shot (8 PTS),Made Shot,Hook Shot,-53,-8,5,1,2.0,2.0,v
+S2223-G0643,2,02:32,IND,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0643,2,01:37,IND,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0643,2,01:00,IND,,MEM,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0643,2,01:00,IND,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0643,3,10:38,IND,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0643,3,06:47,IND,,MEM,,S. Adams,MEM,Adams Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0643,3,06:38,IND,,MEM,,S. Adams,MEM,Adams P.FOUL (P3.T2) (E.Lewis),Foul,Personal,0,0,0,0,,,v
+S2223-G0643,3,06:30,IND,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0643,3,05:56,IND,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0643,3,05:31,IND,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0643,3,04:59,IND,65.0,MEM,85.0,S. Adams,MEM,Adams Alley Oop Dunk (10 PTS) (Aldama 1 AST),Made Shot,Alley Oop Dunk Shot,4,1,0,1,2.0,2.0,v
+S2223-G0643,3,02:32,IND,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0194,1,11:40,WAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0194,1,10:52,WAS,2.0,MEM,4.0,S. Adams,MEM,Adams 3' Hook Shot (2 PTS),Made Shot,Hook Shot,26,20,3,1,2.0,2.0,v
+S2223-G0194,1,10:23,WAS,,MEM,,S. Adams,MEM,MISS Adams 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-12,12,2,1,2.0,0.0,v
+S2223-G0194,1,09:22,WAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0194,1,09:21,WAS,5.0,MEM,8.0,S. Adams,MEM,Adams 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-11,6,1,1,2.0,2.0,v
+S2223-G0194,1,07:21,WAS,,MEM,,S. Adams,MEM,Adams P.FOUL (P1.T1) (L.Wood),Foul,Personal,0,0,0,0,,,v
+S2223-G0194,1,07:16,WAS,,MEM,,S. Adams,MEM,Adams S.FOUL (P2.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0194,1,07:16,WAS,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0194,2,11:35,WAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0194,2,10:50,WAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0194,2,09:40,WAS,,MEM,,S. Adams,MEM,Adams Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0194,2,05:38,WAS,,MEM,,S. Adams,MEM,SUB: Roddy FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0194,3,11:06,WAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0194,3,11:05,WAS,57.0,MEM,53.0,S. Adams,MEM,Adams 5' Hook Shot (6 PTS),Made Shot,Hook Shot,7,53,5,1,2.0,2.0,v
+S2223-G0194,3,10:47,WAS,,MEM,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0194,3,10:31,WAS,57.0,MEM,55.0,S. Adams,MEM,Adams 4' Layup (8 PTS) (Brooks 2 AST),Made Shot,Layup Shot,-32,16,4,1,2.0,2.0,v
+S2223-G0194,3,08:04,WAS,63.0,MEM,61.0,S. Adams,MEM,Adams 7' Turnaround Hook Shot (10 PTS),Made Shot,Turnaround Hook Shot,-66,10,7,1,2.0,2.0,v
+S2223-G0194,3,06:39,WAS,,MEM,,S. Adams,MEM,MISS Adams 3' Reverse Layup,Missed Shot,Reverse Layup Shot,-5,30,3,1,2.0,0.0,v
+S2223-G0194,3,06:38,WAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0194,3,06:26,WAS,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0194,3,05:54,WAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0194,3,05:43,WAS,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0194,4,10:32,WAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0194,4,09:30,WAS,85.0,MEM,78.0,S. Adams,MEM,Adams 6' Driving Bank Hook Shot (12 PTS),Made Shot,Driving Bank Hook Shot,29,51,6,1,2.0,2.0,v
+S2223-G0194,4,07:08,WAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0194,4,04:13,WAS,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0194,4,04:05,WAS,,MEM,,S. Adams,MEM,Adams P.FOUL (P3.T3) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2223-G0194,4,00:55.400000,WAS,,MEM,,S. Adams,MEM,Adams P.FOUL (P4.PN) (L.Wood),Foul,Personal,0,0,0,0,,,v
+S2223-G0194,4,00:54.400000,WAS,,MEM,,S. Adams,MEM,Adams OFF.Foul (P5) (G.Petraitis),Foul,Offensive,0,0,0,0,,,v
+S2223-G0194,4,00:54.400000,WAS,,MEM,,S. Adams,MEM,Adams Offensive Foul Turnover (P3.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0317,1,10:52,MIN,,MEM,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0317,1,08:10,MIN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0317,1,07:44,MIN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0317,1,06:23,MIN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0317,1,06:21,MIN,8.0,MEM,13.0,S. Adams,MEM,Adams 7' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,-44,59,7,1,2.0,2.0,v
+S2223-G0317,1,04:42,MIN,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0317,2,07:27,MIN,34.0,MEM,31.0,S. Adams,MEM,Adams Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0317,2,07:27,MIN,34.0,MEM,32.0,S. Adams,MEM,Adams Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0317,2,07:00,MIN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0317,2,06:59,MIN,,MEM,,S. Adams,MEM,MISS Adams 2' Reverse Layup,Missed Shot,Reverse Layup Shot,5,20,2,1,2.0,0.0,v
+S2223-G0317,2,04:23,MIN,,MEM,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0317,2,03:38,MIN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0317,2,03:38,MIN,36.0,MEM,43.0,S. Adams,MEM,Adams Putback Dunk (6 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0317,2,01:00,MIN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0317,2,00:00,MIN,,MEM,,S. Adams,MEM,MISS Adams 3PT Jump Shot,Missed Shot,Jump Shot,-224,37,0,1,3.0,0.0,v
+S2223-G0317,3,10:40,MIN,,MEM,,S. Adams,MEM,MISS Adams 3' Layup,Missed Shot,Layup Shot,21,17,3,1,2.0,0.0,v
+S2223-G0317,3,09:43,MIN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0317,3,09:40,MIN,,MEM,,S. Adams,MEM,MISS Adams 5' Hook Shot,Missed Shot,Hook Shot,-9,50,5,1,2.0,0.0,v
+S2223-G0317,3,09:26,MIN,,MEM,,S. Adams,MEM,Adams P.FOUL (P1.T1) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G0317,3,05:38,MIN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0317,3,05:34,MIN,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0317,4,07:11,MIN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0317,4,06:59,MIN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0317,4,06:57,MIN,,MEM,,S. Adams,MEM,MISS Adams 9' Hook Shot,Missed Shot,Hook Shot,-25,89,9,1,2.0,0.0,v
+S2223-G0317,4,05:58,MIN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0317,4,05:27,MIN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0317,4,04:07,MIN,94.0,MEM,92.0,S. Adams,MEM,Adams 1' Cutting Dunk Shot (8 PTS) (Brooks 3 AST),Made Shot,Cutting Dunk Shot,-1,5,1,1,2.0,2.0,v
+S2223-G0069,1,11:44,SAC,0.0,MEM,2.0,S. Adams,MEM,Adams 1' Alley Oop Dunk (2 PTS) (Morant 1 AST),Made Shot,Alley Oop Dunk Shot,2,5,1,1,2.0,2.0,v
+S2223-G0069,1,11:25,SAC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0069,1,10:16,SAC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0069,1,10:15,SAC,,MEM,,S. Adams,MEM,MISS Adams 3' Jump Bank Shot,Missed Shot,Jump Bank Shot,25,9,3,1,2.0,0.0,v
+S2223-G0069,1,09:25,SAC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0069,1,04:11,SAC,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0069,2,05:42,SAC,42.0,MEM,48.0,S. Adams,MEM,Adams 1' Cutting Dunk Shot (4 PTS) (Roddy 1 AST),Made Shot,Cutting Dunk Shot,0,6,1,1,2.0,2.0,v
+S2223-G0069,2,05:24,SAC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0069,2,02:38,SAC,49.0,MEM,56.0,S. Adams,MEM,Adams 5' Hook Shot (6 PTS),Made Shot,Hook Shot,-6,46,5,1,2.0,2.0,v
+S2223-G0069,2,02:38,SAC,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0069,2,01:23,SAC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0069,2,01:23,SAC,,MEM,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0069,2,01:04,SAC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0069,2,01:01,SAC,53.0,MEM,58.0,S. Adams,MEM,Adams 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,-9,1,1,1,2.0,2.0,v
+S2223-G0069,3,11:43,SAC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0069,3,11:22,SAC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0069,3,11:22,SAC,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0069,3,11:22,SAC,,MEM,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0069,3,10:30,SAC,,MEM,,S. Adams,MEM,Adams S.FOUL (P1.T1) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0069,3,10:11,SAC,58.0,MEM,69.0,S. Adams,MEM,Adams 9' Turnaround Hook Shot (10 PTS),Made Shot,Turnaround Hook Shot,-49,73,9,1,2.0,2.0,v
+S2223-G0069,3,09:53,SAC,,MEM,,S. Adams,MEM,Adams OFF.Foul (P2) (M.Dagher),Foul,Offensive,0,0,0,0,,,v
+S2223-G0069,3,09:53,SAC,,MEM,,S. Adams,MEM,Adams Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0069,3,09:03,SAC,,MEM,,S. Adams,MEM,Adams Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0069,3,08:51,SAC,,MEM,,S. Adams,MEM,Adams S.FOUL (P3.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0069,3,08:36,SAC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0069,3,07:25,SAC,,MEM,,S. Adams,MEM,Adams OFF.Foul (P4) (E.Malloy),Foul,Offensive,0,0,0,0,,,v
+S2223-G0069,3,07:25,SAC,,MEM,,S. Adams,MEM,Adams Offensive Foul Turnover (P3.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0069,3,07:25,SAC,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0069,4,04:49,SAC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0069,4,04:48,SAC,,MEM,,S. Adams,MEM,Adams Out of Bounds - Bad Pass Turnover Turnover (P4.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0069,4,04:14,SAC,,MEM,,S. Adams,MEM,MISS Adams 3' Layup,Missed Shot,Layup Shot,-23,18,3,1,2.0,0.0,v
+S2223-G0069,4,03:25,SAC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:7 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0069,4,01:07,SAC,110.0,MEM,125.0,S. Adams,MEM,Adams 2' Reverse Layup (12 PTS) (Brooks 2 AST),Made Shot,Reverse Layup Shot,20,12,2,1,2.0,2.0,v
+S2223-G0069,4,00:25.200000,SAC,,MEM,,S. Adams,MEM,SUB: Lofton Jr. FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0049,1,12:00,MEM,,BKN,,S. Adams,MEM,Jump Ball Adams vs. Claxton: Tip to O'Neale,Jump Ball,,0,0,0,0,,,h
+S2223-G0049,1,11:52,MEM,,BKN,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0049,1,11:37,MEM,,BKN,,S. Adams,MEM,MISS Adams 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,13,14,2,1,2.0,0.0,h
+S2223-G0049,1,11:36,MEM,,BKN,,S. Adams,MEM,Adams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0049,1,11:08,MEM,,BKN,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0049,1,10:49,MEM,,BKN,,S. Adams,MEM,Adams S.FOUL (P1.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G0049,1,07:53,MEM,,BKN,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0049,1,07:31,MEM,,BKN,,S. Adams,MEM,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0049,1,05:48,MEM,20.0,BKN,15.0,S. Adams,MEM,Adams 1' Driving Reverse Dunk Shot (2 PTS),Made Shot,Driving Reverse Dunk Shot,-4,8,1,1,2.0,2.0,h
+S2223-G0049,1,04:38,MEM,,BKN,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0049,2,05:36,MEM,,BKN,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0049,2,05:36,MEM,55.0,BKN,57.0,S. Adams,MEM,Adams Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0049,2,05:03,MEM,,BKN,,S. Adams,MEM,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0049,2,04:33,MEM,,BKN,,S. Adams,MEM,Adams REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0049,2,03:24,MEM,,BKN,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0049,2,03:24,MEM,,BKN,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0049,2,02:44,MEM,,BKN,,S. Adams,MEM,Adams REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0049,2,00:10.100000,MEM,,BKN,,S. Adams,MEM,SUB: Roddy FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0049,3,11:01,MEM,,BKN,,S. Adams,MEM,Adams REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0049,3,10:38,MEM,,BKN,,S. Adams,MEM,Adams REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0049,3,08:56,MEM,,BKN,,S. Adams,MEM,Adams REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0049,3,07:41,MEM,,BKN,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0049,3,07:33,MEM,82.0,BKN,74.0,S. Adams,MEM,Adams 3' Layup (5 PTS) (Bane 5 AST),Made Shot,Layup Shot,-31,10,3,1,2.0,2.0,h
+S2223-G0049,3,06:34,MEM,,BKN,,S. Adams,MEM,Adams REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0049,3,05:29,MEM,88.0,BKN,79.0,S. Adams,MEM,Adams Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0049,3,05:29,MEM,89.0,BKN,79.0,S. Adams,MEM,Adams Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0049,3,04:07,MEM,,BKN,,S. Adams,MEM,Adams REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0049,3,02:22,MEM,,BKN,,S. Adams,MEM,SUB: LaRavia FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0049,4,06:32,MEM,,BKN,,S. Adams,MEM,MISS Adams 6' Driving Layup,Missed Shot,Driving Layup Shot,42,39,6,1,2.0,0.0,h
+S2223-G0049,4,06:28,MEM,,BKN,,S. Adams,MEM,Jump Ball Adams vs. Claxton: Tip to Durant,Jump Ball,,0,0,0,0,,,h
+S2223-G0049,4,01:52,MEM,,BKN,,S. Adams,MEM,Adams P.FOUL (P2.PN) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0049,4,00:18,MEM,,BKN,,S. Adams,MEM,Adams REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0049,4,00:18,MEM,134.0,BKN,122.0,S. Adams,MEM,Adams Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0663,1,12:00,MEM,,PHX,,S. Adams,MEM,Jump Ball Adams vs. Ayton: Tip to Jackson Jr.,Jump Ball,,0,0,0,0,,,h
+S2223-G0663,1,08:20,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0663,1,08:20,MEM,9.0,PHX,13.0,S. Adams,MEM,Adams Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0663,1,06:36,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0663,1,03:43,MEM,,PHX,,S. Adams,MEM,Adams Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0663,1,03:13,MEM,,PHX,,S. Adams,MEM,Adams L.B.FOUL (P1.T3) (T.Maddox),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0663,1,02:32,MEM,,PHX,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0663,2,04:15,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0663,2,04:03,MEM,,PHX,,S. Adams,MEM,Adams L.B.FOUL (P2.T3) (M.Davis),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0663,2,02:49,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0663,2,02:46,MEM,62.0,PHX,58.0,S. Adams,MEM,Adams 3' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-5,34,3,1,2.0,2.0,h
+S2223-G0663,2,01:42,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0663,2,01:41,MEM,66.0,PHX,60.0,S. Adams,MEM,Adams Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0663,2,01:01,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0663,2,01:01,MEM,,PHX,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0663,2,00:13.900000,MEM,,PHX,,S. Adams,MEM,Adams S.FOUL (P3.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0663,2,00:00.200000,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0663,2,00:00.200000,MEM,68.0,PHX,65.0,S. Adams,MEM,Adams Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0663,3,06:12,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0663,3,05:16,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0663,3,03:07,MEM,,PHX,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0024,1,11:15,HOU,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0024,1,11:15,HOU,,MEM,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0024,1,09:49,HOU,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0024,1,09:24,HOU,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0024,1,08:19,HOU,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0024,1,05:19,HOU,13.0,MEM,17.0,S. Adams,MEM,Adams 8' Driving Hook Shot (2 PTS) (Aldama 1 AST),Made Shot,Driving Hook Shot,56,57,8,1,2.0,2.0,v
+S2223-G0024,1,04:59,HOU,,MEM,,S. Adams,MEM,SUB: Tillman FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0024,2,04:13,HOU,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0024,2,04:13,HOU,,MEM,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0024,2,03:34,HOU,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0024,2,01:24,HOU,,MEM,,S. Adams,MEM,Adams S.FOUL (P1.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G0024,2,00:59.200000,HOU,66.0,MEM,57.0,S. Adams,MEM,Adams 3' Cutting Dunk Shot (4 PTS) (Morant 5 AST),Made Shot,Cutting Dunk Shot,11,27,3,1,2.0,2.0,v
+S2223-G0024,2,00:47,HOU,,MEM,,S. Adams,MEM,Adams S.FOUL (P2.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0024,2,00:03.600000,HOU,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0024,3,11:04,HOU,72.0,MEM,66.0,S. Adams,MEM,Adams Cutting Layup Shot (6 PTS) (Bane 3 AST),Made Shot,Cutting Layup Shot,1,1,0,1,2.0,2.0,v
+S2223-G0024,3,03:54,HOU,,MEM,,S. Adams,MEM,Adams S.FOUL (P3.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0024,3,02:56,HOU,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0024,4,09:05,HOU,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0024,4,07:41,HOU,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0024,4,06:05,HOU,,MEM,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0024,4,06:02,HOU,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0024,4,02:55,HOU,,MEM,,S. Adams,MEM,Adams P.FOUL (P4.PN) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2223-G0024,4,00:56.700000,HOU,,MEM,,S. Adams,MEM,Adams P.FOUL (P5.PN) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2223-G0024,4,00:18.200000,HOU,,MEM,,S. Adams,MEM,Adams BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0024,4,00:18.200000,HOU,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,1,10:24,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,1,10:23,TOR,,MEM,,S. Adams,MEM,MISS Adams 3' Hook Bank Shot,Missed Shot,Hook Bank Shot,-22,13,3,1,2.0,0.0,v
+S2223-G0526,1,10:22,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,1,10:21,TOR,,MEM,,S. Adams,MEM,MISS Adams 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,-5,6,1,1,2.0,0.0,v
+S2223-G0526,1,10:20,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,1,10:19,TOR,,MEM,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0526,1,07:43,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,1,06:29,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,1,06:24,TOR,10.0,MEM,19.0,S. Adams,MEM,Adams 1' Running Alley Oop Dunk Shot (2 PTS) (Morant 3 AST),Made Shot,Running Alley Oop Dunk Shot,-1,8,1,1,2.0,2.0,v
+S2223-G0526,1,06:06,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,1,05:19,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,1,05:18,TOR,10.0,MEM,21.0,S. Adams,MEM,Adams 1' Reverse Layup (4 PTS),Made Shot,Reverse Layup Shot,-2,5,1,1,2.0,2.0,v
+S2223-G0526,1,05:02,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,1,03:23,TOR,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0526,2,06:52,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,2,06:14,TOR,31.0,MEM,45.0,S. Adams,MEM,Adams 1' Running Dunk (6 PTS) (Morant 5 AST),Made Shot,Running Dunk Shot,2,-5,1,1,2.0,2.0,v
+S2223-G0526,2,04:24,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,2,03:14,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,2,03:14,TOR,,MEM,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0526,2,03:14,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,2,02:11,TOR,36.0,MEM,55.0,S. Adams,MEM,Adams 1' Alley Oop Dunk (8 PTS) (Morant 7 AST),Made Shot,Alley Oop Dunk Shot,6,8,1,1,2.0,2.0,v
+S2223-G0526,2,01:22,TOR,,MEM,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0526,2,00:11.700000,TOR,,MEM,,S. Adams,MEM,Adams OFF.Foul (P1) (M.Smith),Foul,Offensive,0,0,0,0,,,v
+S2223-G0526,2,00:11.700000,TOR,,MEM,,S. Adams,MEM,Adams Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0526,3,08:07,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,3,06:02,TOR,57.0,MEM,79.0,S. Adams,MEM,Adams 2' Driving Layup (10 PTS) (Brooks 5 AST),Made Shot,Driving Layup Shot,-9,19,2,1,2.0,2.0,v
+S2223-G0526,3,06:02,TOR,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0526,3,03:59,TOR,64.0,MEM,85.0,S. Adams,MEM,Adams 2' Cutting Dunk Shot (12 PTS) (Morant 13 AST),Made Shot,Cutting Dunk Shot,1,22,2,1,2.0,2.0,v
+S2223-G0526,3,02:37,TOR,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0526,3,00:00.300000,TOR,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0526,4,06:54,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:7 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,4,06:09,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:8 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,4,05:24,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:8 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0526,4,04:30,TOR,98.0,MEM,112.0,S. Adams,MEM,Adams 3' Turnaround Hook Shot (14 PTS) (Brooks 6 AST),Made Shot,Turnaround Hook Shot,-1,25,3,1,2.0,2.0,v
+S2223-G0526,4,04:30,TOR,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0526,4,03:28,TOR,,MEM,,S. Adams,MEM,Adams REBOUND (Off:8 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0009,1,12:00,MEM,,NYK,,S. Adams,MEM,Jump Ball Adams vs. Robinson: Tip to Morant,Jump Ball,,0,0,0,0,,,h
+S2223-G0009,1,10:52,MEM,,NYK,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0009,1,09:16,MEM,,NYK,,S. Adams,MEM,Adams L.B.FOUL (P1.T1) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0009,1,06:49,MEM,,NYK,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0009,1,03:46,MEM,,NYK,,S. Adams,MEM,SUB: Tillman FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0009,2,05:58,MEM,,NYK,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0009,2,05:53,MEM,,NYK,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0009,2,05:53,MEM,43.0,NYK,35.0,S. Adams,MEM,Adams Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0009,2,04:03,MEM,,NYK,,S. Adams,MEM,Adams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0009,2,00:11.800000,MEM,,NYK,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0009,2,00:07.500000,MEM,,NYK,,S. Adams,MEM,Adams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0009,3,11:30,MEM,,NYK,,S. Adams,MEM,Adams Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0009,3,11:20,MEM,,NYK,,S. Adams,MEM,Adams REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0009,3,10:49,MEM,,NYK,,S. Adams,MEM,Adams REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0009,3,10:20,MEM,,NYK,,S. Adams,MEM,Adams REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0009,3,09:48,MEM,,NYK,,S. Adams,MEM,MISS Adams 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,0,22,2,1,2.0,0.0,h
+S2223-G0009,3,08:17,MEM,,NYK,,S. Adams,MEM,Adams REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0009,3,07:14,MEM,,NYK,,S. Adams,MEM,Adams REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0009,3,03:32,MEM,,NYK,,S. Adams,MEM,SUB: Tillman FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0009,4,08:17,MEM,,NYK,,S. Adams,MEM,Adams REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0009,4,07:38,MEM,,NYK,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0009,4,07:38,MEM,,NYK,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0009,4,07:17,MEM,,NYK,,S. Adams,MEM,Adams REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0009,4,05:01,MEM,,NYK,,S. Adams,MEM,Adams REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0009,4,01:43,MEM,,NYK,,S. Adams,MEM,Adams REBOUND (Off:5 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0009,4,01:13,MEM,,NYK,,S. Adams,MEM,Adams REBOUND (Off:6 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0009,4,01:11,MEM,106.0,NYK,102.0,S. Adams,MEM,Adams 11' Hook Shot (3 PTS) (Aldama 1 AST),Made Shot,Hook Shot,-6,107,11,1,2.0,2.0,h
+S2223-G0009,4,00:03,MEM,,NYK,,S. Adams,MEM,SUB: Jones FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0009,5,05:00,MEM,,NYK,,S. Adams,MEM,Jump Ball Adams vs. Hartenstein: Tip to Morant,Jump Ball,,0,0,0,0,,,h
+S2223-G0009,5,04:36,MEM,,NYK,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0623,1,12:00,MEM,,SAS,,S. Adams,MEM,Jump Ball Adams vs. Poeltl: Tip to Bane,Jump Ball,,0,0,0,0,,,h
+S2223-G0623,1,10:33,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,1,09:30,MEM,,SAS,,S. Adams,MEM,Adams S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0623,1,07:49,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,1,07:22,MEM,,SAS,,S. Adams,MEM,Adams OFF.Foul (P2) (E.Scott),Foul,Offensive,0,0,0,0,,,h
+S2223-G0623,1,07:22,MEM,,SAS,,S. Adams,MEM,Adams Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0623,1,07:22,MEM,,SAS,,S. Adams,MEM,SUB: Tillman FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0623,2,11:10,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,2,09:11,MEM,45.0,SAS,39.0,S. Adams,MEM,Adams 2' Reverse Layup (2 PTS) (Jones 2 AST),Made Shot,Reverse Layup Shot,-21,13,2,1,2.0,2.0,h
+S2223-G0623,2,08:19,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,2,07:21,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,2,06:47,MEM,,SAS,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0623,2,06:37,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,2,06:36,MEM,,SAS,,S. Adams,MEM,MISS Adams 2' Putback Layup,Missed Shot,Putback Layup Shot,-9,17,2,1,2.0,0.0,h
+S2223-G0623,2,06:30,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,2,06:17,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,2,05:02,MEM,,SAS,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0623,2,04:51,MEM,,SAS,,S. Adams,MEM,MISS Adams 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-44,29,5,1,2.0,0.0,h
+S2223-G0623,2,04:02,MEM,65.0,SAS,51.0,S. Adams,MEM,Adams 1' Cutting Dunk Shot (4 PTS) (Brooks 1 AST),Made Shot,Cutting Dunk Shot,-1,5,1,1,2.0,2.0,h
+S2223-G0623,2,02:38,MEM,,SAS,,S. Adams,MEM,SUB: Aldama FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0623,3,10:49,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,3,10:49,MEM,80.0,SAS,66.0,S. Adams,MEM,Adams Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0623,3,04:12,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,3,03:58,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,3,03:58,MEM,102.0,SAS,84.0,S. Adams,MEM,Adams Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0623,3,03:09,MEM,103.0,SAS,88.0,S. Adams,MEM,Adams Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0623,3,03:09,MEM,,SAS,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0623,3,02:15,MEM,,SAS,,S. Adams,MEM,Adams BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0623,3,02:00,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:5 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,3,01:58,MEM,,SAS,,S. Adams,MEM,SUB: Tillman FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0623,4,08:06,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:5 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,4,05:42,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:5 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,4,03:54,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:5 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,4,02:16,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:6 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,4,02:03,MEM,,SAS,,S. Adams,MEM,Adams BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0623,4,01:43,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:7 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0623,4,01:43,MEM,132.0,SAS,127.0,S. Adams,MEM,Adams Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0623,4,00:13.700000,MEM,,SAS,,S. Adams,MEM,Adams REBOUND (Off:7 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0087,1,09:56,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0087,1,08:28,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0087,1,07:50,UTA,,MEM,,S. Adams,MEM,Adams OFF.Foul (P1) (C.Kirkland),Foul,Offensive,0,0,0,0,,,v
+S2223-G0087,1,07:50,UTA,,MEM,,S. Adams,MEM,Adams Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0087,1,07:19,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0087,1,07:19,UTA,,MEM,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0087,1,07:01,UTA,,MEM,,S. Adams,MEM,Adams OFF.Foul (P2) (C.Kirkland),Foul,Offensive,0,0,0,0,,,v
+S2223-G0087,1,07:01,UTA,,MEM,,S. Adams,MEM,Adams Offensive Foul Turnover (P2.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0087,1,07:01,UTA,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0087,2,08:02,UTA,,MEM,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0087,2,06:37,UTA,,MEM,,S. Adams,MEM,Adams OFF.Foul (P3) (M.Ervin),Foul,Offensive,0,0,0,0,,,v
+S2223-G0087,2,06:37,UTA,,MEM,,S. Adams,MEM,Adams Offensive Foul Turnover (P3.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0087,2,06:37,UTA,,MEM,,S. Adams,MEM,SUB: Konchar FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0087,3,10:35,UTA,,MEM,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0087,3,10:19,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0087,3,08:27,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0087,3,08:25,UTA,,MEM,,S. Adams,MEM,Adams Out of Bounds Lost Ball Turnover (P4.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0087,3,06:34,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0087,3,06:03,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0087,3,04:53,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0087,3,04:50,UTA,79.0,MEM,82.0,S. Adams,MEM,Adams 7' Driving Bank Hook Shot (2 PTS) (Jones 6 AST),Made Shot,Driving Bank Hook Shot,54,42,7,1,2.0,2.0,v
+S2223-G0087,3,04:02,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0087,3,03:44,UTA,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0087,4,04:11,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0087,4,03:14,UTA,,MEM,,S. Adams,MEM,Adams P.FOUL (P4.T3) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G0087,4,03:14,UTA,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0496,1,10:41,GSW,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0496,1,10:04,GSW,,MEM,,S. Adams,MEM,MISS Adams 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-23,25,3,1,2.0,0.0,v
+S2223-G0496,1,09:56,GSW,,MEM,,S. Adams,MEM,MISS Adams 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-31,33,5,1,2.0,0.0,v
+S2223-G0496,1,05:12,GSW,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0496,1,05:12,GSW,21.0,MEM,16.0,S. Adams,MEM,Adams Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0496,1,05:04,GSW,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0496,1,04:58,GSW,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0496,2,04:15,GSW,,MEM,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0496,2,03:44,GSW,,MEM,,S. Adams,MEM,Adams S.FOUL (P1.T2) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0496,2,01:21,GSW,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0496,2,00:35.100000,GSW,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0496,2,00:33.800000,GSW,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0496,2,00:04.400000,GSW,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0496,3,11:23,GSW,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0496,3,11:19,GSW,,MEM,,S. Adams,MEM,Adams REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0496,3,11:19,GSW,,MEM,,S. Adams,MEM,MISS Adams 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,10,17,2,1,2.0,0.0,v
+S2223-G0496,3,10:34,GSW,,MEM,,S. Adams,MEM,Adams REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0496,3,09:52,GSW,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0496,3,09:52,GSW,,MEM,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0496,3,08:38,GSW,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0496,3,07:38,GSW,,MEM,,S. Adams,MEM,Adams S.FOUL (P2.T3) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0496,3,07:29,GSW,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0496,3,07:19,GSW,74.0,MEM,66.0,S. Adams,MEM,Adams 6' Hook Shot (4 PTS) (Aldama 2 AST),Made Shot,Hook Shot,10,55,6,1,2.0,2.0,v
+S2223-G0496,3,07:06,GSW,76.0,MEM,69.0,S. Adams,MEM,Adams Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0496,3,07:06,GSW,76.0,MEM,70.0,S. Adams,MEM,Adams Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0496,3,06:19,GSW,,MEM,,S. Adams,MEM,Adams REBOUND (Off:7 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0496,3,05:48,GSW,,MEM,,S. Adams,MEM,Adams REBOUND (Off:7 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0496,3,03:53,GSW,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0357,1,12:00,MEM,,MIA,,S. Adams,MEM,Jump Ball Adams vs. Adebayo: Tip to Jones,Jump Ball,,0,0,0,0,,,h
+S2223-G0357,1,08:43,MEM,11.0,MIA,8.0,S. Adams,MEM,Adams 1' Layup (2 PTS),Made Shot,Layup Shot,-5,5,1,1,2.0,2.0,h
+S2223-G0357,1,07:22,MEM,,MIA,,S. Adams,MEM,MISS Adams 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,37,22,4,1,2.0,0.0,h
+S2223-G0357,1,05:40,MEM,,MIA,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0357,1,04:38,MEM,,MIA,,S. Adams,MEM,SUB: Chandler FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0357,2,06:21,MEM,,MIA,,S. Adams,MEM,Adams L.B.FOUL (P1.T2) (S.Foster),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0357,2,03:43,MEM,,MIA,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0357,3,10:30,MEM,,MIA,,S. Adams,MEM,GRIZZLIES T.Foul (Def. 3 Sec Adams ) (S.Foster),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G0357,3,10:06,MEM,,MIA,,S. Adams,MEM,Adams Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0357,3,09:42,MEM,,MIA,,S. Adams,MEM,MISS Adams 1' Driving Layup,Missed Shot,Driving Layup Shot,11,4,1,1,2.0,0.0,h
+S2223-G0357,3,05:28,MEM,,MIA,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0357,3,05:28,MEM,70.0,MIA,68.0,S. Adams,MEM,Adams Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0357,3,05:08,MEM,,MIA,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0357,4,04:08,MEM,95.0,MIA,86.0,S. Adams,MEM,Adams 2' Layup (6 PTS) (Brooks 1 AST),Made Shot,Layup Shot,21,4,2,1,2.0,2.0,h
+S2223-G0357,4,03:23,MEM,,MIA,,S. Adams,MEM,Jump Ball (CC) Adams vs. Adebayo: Tip to Butler,Jump Ball,Coach Challenge,0,0,0,0,,,h
+S2223-G0357,4,02:00,MEM,99.0,MIA,87.0,S. Adams,MEM,Adams 8' Driving Floating Jump Shot (8 PTS) (Brooks 2 AST),Made Shot,Driving Floating Jump Shot,-1,75,8,1,2.0,2.0,h
+S2223-G0357,4,01:52,MEM,,MIA,,S. Adams,MEM,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0357,4,01:00,MEM,,MIA,,S. Adams,MEM,Adams S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0510,1,12:00,MEM,,PHX,,S. Adams,MEM,Jump Ball Adams vs. Ayton: Tip to Paul,Jump Ball,,0,0,0,0,,,h
+S2223-G0510,1,11:13,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0510,1,10:42,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0510,1,08:02,MEM,,PHX,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0510,1,05:44,MEM,10.0,PHX,9.0,S. Adams,MEM,Adams 1' Cutting Layup Shot (2 PTS) (Morant 3 AST),Made Shot,Cutting Layup Shot,6,1,1,1,2.0,2.0,h
+S2223-G0510,1,03:46,MEM,,PHX,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0510,2,05:24,MEM,,PHX,,S. Adams,MEM,Adams Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0510,2,05:08,MEM,,PHX,,S. Adams,MEM,MISS Adams 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,51,73,9,1,2.0,0.0,h
+S2223-G0510,2,03:55,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0510,2,02:51,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0510,2,02:46,MEM,42.0,PHX,53.0,S. Adams,MEM,Adams Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0510,3,11:23,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0510,3,10:56,MEM,,PHX,,S. Adams,MEM,MISS Adams 1' Layup,Missed Shot,Layup Shot,6,9,1,1,2.0,0.0,h
+S2223-G0510,3,10:51,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0510,3,10:51,MEM,51.0,PHX,67.0,S. Adams,MEM,Adams Putback Dunk (6 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0510,3,09:11,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0510,3,07:30,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0510,3,06:55,MEM,,PHX,,S. Adams,MEM,Adams REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0510,3,03:40,MEM,,PHX,,S. Adams,MEM,Adams S.FOUL (P1.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0510,3,03:40,MEM,,PHX,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0510,4,07:12,MEM,,PHX,,S. Adams,MEM,SUB: Roddy FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0547,1,12:00,MEM,,SAC,,S. Adams,MEM,Jump Ball Adams vs. Sabonis: Tip to Morant,Jump Ball,,0,0,0,0,,,h
+S2223-G0547,1,10:25,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,1,10:15,MEM,,SAC,,S. Adams,MEM,MISS Adams 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,70,51,9,1,2.0,0.0,h
+S2223-G0547,1,10:03,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,1,09:00,MEM,,SAC,,S. Adams,MEM,MISS Adams 11' Floating Jump Shot,Missed Shot,Floating Jump shot,47,99,11,1,2.0,0.0,h
+S2223-G0547,1,08:19,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,1,07:46,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,1,06:42,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,1,06:42,MEM,,SAC,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0547,1,06:23,MEM,11.0,SAC,16.0,S. Adams,MEM,Adams 1' Alley Oop Dunk (2 PTS) (Morant 2 AST),Made Shot,Alley Oop Dunk Shot,2,10,1,1,2.0,2.0,h
+S2223-G0547,1,05:50,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,1,05:08,MEM,,SAC,,S. Adams,MEM,Adams Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0547,1,05:00,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,1,04:32,MEM,,SAC,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0547,1,04:25,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,1,04:12,MEM,,SAC,,S. Adams,MEM,SUB: Tillman FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0547,2,10:58,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,2,10:03,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,2,10:01,MEM,,SAC,,S. Adams,MEM,MISS Adams 2' Putback Layup,Missed Shot,Putback Layup Shot,17,11,2,1,2.0,0.0,h
+S2223-G0547,2,10:01,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,2,09:24,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,2,09:23,MEM,,SAC,,S. Adams,MEM,Adams Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0547,2,08:03,MEM,36.0,SAC,35.0,S. Adams,MEM,Adams 4' Layup (4 PTS) (Brooks 1 AST),Made Shot,Layup Shot,-26,34,4,1,2.0,2.0,h
+S2223-G0547,2,07:06,MEM,,SAC,,S. Adams,MEM,MISS Adams 3' Driving Layup,Missed Shot,Driving Layup Shot,23,24,3,1,2.0,0.0,h
+S2223-G0547,2,07:05,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:5 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,2,06:41,MEM,,SAC,,S. Adams,MEM,SUB: Tillman FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0547,2,03:28,MEM,,SAC,,S. Adams,MEM,Adams OFF.Foul (P1) (J.Goldenberg),Foul,Offensive,0,0,0,0,,,h
+S2223-G0547,2,03:28,MEM,,SAC,,S. Adams,MEM,Adams Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0547,2,02:38,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:5 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,2,02:26,MEM,,SAC,,S. Adams,MEM,Adams S.FOUL (P2.T3) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0547,2,00:55.500000,MEM,,SAC,,S. Adams,MEM,Adams S.FOUL (P3.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0547,2,00:55.500000,MEM,,SAC,,S. Adams,MEM,SUB: Jones FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0547,3,09:37,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:6 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,3,09:37,MEM,66.0,SAC,67.0,S. Adams,MEM,Adams Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0547,3,09:37,MEM,,SAC,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0547,3,08:21,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:6 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,3,06:20,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:7 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,3,04:05,MEM,,SAC,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0547,3,02:44,MEM,,SAC,,S. Adams,MEM,SUB: Chandler FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0547,4,09:07,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:8 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,4,09:06,MEM,101.0,SAC,90.0,S. Adams,MEM,Adams 1' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,0,8,1,1,2.0,2.0,h
+S2223-G0547,4,08:19,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:9 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,4,08:19,MEM,,SAC,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0547,4,06:52,MEM,,SAC,,S. Adams,MEM,MISS Adams 3' Hook Shot,Missed Shot,Hook Shot,-13,22,3,1,2.0,0.0,h
+S2223-G0547,4,06:50,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:10 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,4,06:49,MEM,105.0,SAC,92.0,S. Adams,MEM,Adams 3' Putback Dunk (9 PTS),Made Shot,Putback Dunk Shot,-25,18,3,1,2.0,2.0,h
+S2223-G0547,4,05:59,MEM,107.0,SAC,95.0,S. Adams,MEM,Adams 4' Turnaround Hook Shot (11 PTS),Made Shot,Turnaround Hook Shot,9,34,4,1,2.0,2.0,h
+S2223-G0547,4,05:06,MEM,,SAC,,S. Adams,MEM,Adams BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0547,4,03:35,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:11 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,4,03:30,MEM,,SAC,,S. Adams,MEM,Adams Traveling Turnover (P4.T11),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0547,4,02:28,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:12 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,4,02:04,MEM,,SAC,,S. Adams,MEM,Adams REBOUND (Off:13 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,4,00:58.700000,MEM,,SAC,,S. Adams,MEM,Adams Personal Take Foul (P4.T4) (J.Goldenberg),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0547,4,00:58.700000,MEM,,SAC,,S. Adams,MEM,SUB: Chandler FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0101,1,11:23,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0101,1,10:54,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0101,1,10:00,UTA,,MEM,,S. Adams,MEM,Adams Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0101,1,08:19,UTA,,MEM,,S. Adams,MEM,MISS Adams 3' Layup,Missed Shot,Layup Shot,-23,21,3,1,2.0,0.0,v
+S2223-G0101,1,05:07,UTA,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0101,2,06:29,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0101,2,06:28,UTA,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0101,2,05:41,UTA,,MEM,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0101,2,04:11,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0101,2,04:11,UTA,,MEM,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0101,2,03:49,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0101,2,03:35,UTA,,MEM,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0101,2,03:31,UTA,,MEM,,S. Adams,MEM,Adams Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0101,2,03:02,UTA,,MEM,,S. Adams,MEM,MISS Adams 4' Driving Layup,Missed Shot,Driving Layup Shot,33,21,4,1,2.0,0.0,v
+S2223-G0101,2,02:07,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0101,3,11:41,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0101,3,10:34,UTA,,MEM,,S. Adams,MEM,Adams OFF.Foul (P1) (M.Davis),Foul,Offensive,0,0,0,0,,,v
+S2223-G0101,3,10:34,UTA,,MEM,,S. Adams,MEM,Adams Offensive Foul Turnover (P4.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0101,3,09:57,UTA,,MEM,,S. Adams,MEM,Adams Violation:Kicked Ball (M.Davis),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0101,3,08:46,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0101,3,08:31,UTA,67.0,MEM,51.0,S. Adams,MEM,Adams 11' Floating Jump Shot (2 PTS) (Aldama 1 AST),Made Shot,Floating Jump shot,25,105,11,1,2.0,2.0,v
+S2223-G0101,3,08:13,UTA,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0101,3,07:20,UTA,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0101,3,07:15,UTA,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0443,1,11:42,OKC,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0443,1,11:42,OKC,0.0,MEM,1.0,S. Adams,MEM,Adams Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0443,1,10:52,OKC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0443,1,10:30,OKC,,MEM,,S. Adams,MEM,Adams S.FOUL (P1.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0443,1,09:46,OKC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0443,1,08:06,OKC,,MEM,,S. Adams,MEM,Adams Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0443,1,06:32,OKC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0443,1,05:59,OKC,15.0,MEM,15.0,S. Adams,MEM,Adams 1' Cutting Dunk Shot (3 PTS) (Aldama 1 AST),Made Shot,Cutting Dunk Shot,5,10,1,1,2.0,2.0,v
+S2223-G0443,1,05:59,OKC,15.0,MEM,16.0,S. Adams,MEM,Adams Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0443,1,02:46,OKC,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0443,2,04:09,OKC,,MEM,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0443,2,01:36,OKC,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0443,2,01:36,OKC,55.0,MEM,38.0,S. Adams,MEM,Adams Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0443,2,01:16,OKC,,MEM,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0443,2,00:57.200000,OKC,,MEM,,S. Adams,MEM,MISS Adams Layup,Missed Shot,Layup Shot,-1,-1,0,1,2.0,0.0,v
+S2223-G0443,2,00:57.200000,OKC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0443,2,00:56.800000,OKC,57.0,MEM,40.0,S. Adams,MEM,Adams Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0443,3,10:37,OKC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0443,3,10:35,OKC,67.0,MEM,45.0,S. Adams,MEM,Adams 1' Dunk (9 PTS),Made Shot,Dunk Shot,-5,11,1,1,2.0,2.0,v
+S2223-G0443,3,10:20,OKC,,MEM,,S. Adams,MEM,MISS Adams 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,47,8,5,1,2.0,0.0,v
+S2223-G0443,3,10:04,OKC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0443,3,07:56,OKC,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0443,3,07:44,OKC,,MEM,,S. Adams,MEM,Adams STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0443,3,05:44,OKC,,MEM,,S. Adams,MEM,Adams S.FOUL (P2.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0443,3,05:12,OKC,,MEM,,S. Adams,MEM,SUB: Roddy FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0443,4,05:12,OKC,,MEM,,S. Adams,MEM,Adams BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0443,4,04:25,OKC,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0443,4,00:49.800000,OKC,,MEM,,S. Adams,MEM,Adams P.FOUL (P3.T2) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0443,4,00:45.900000,OKC,,MEM,,S. Adams,MEM,Adams P.FOUL (P4.PN) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0443,4,00:24.200000,OKC,,MEM,,S. Adams,MEM,Adams P.FOUL (P5.PN) (R.Acosta),Foul,Personal,0,0,0,0,,,v
+S2223-G0443,4,00:19.200000,OKC,,MEM,,S. Adams,MEM,Adams P.FOUL (P6.PN) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0443,4,00:19.200000,OKC,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0425,1,12:00,MEM,,MIL,,S. Adams,MEM,Jump Ball Adams vs. Lopez: Tip to Jackson Jr.,Jump Ball,,0,0,0,0,,,h
+S2223-G0425,1,10:22,MEM,,MIL,,S. Adams,MEM,Jump Ball Adams vs. Middleton: Tip to Brooks,Jump Ball,,0,0,0,0,,,h
+S2223-G0425,1,10:03,MEM,,MIL,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0425,1,10:00,MEM,,MIL,,S. Adams,MEM,Jump Ball Adams vs. G. Antetokounmpo: Tip to G. Antetokounmpo,Jump Ball,,0,0,0,0,,,h
+S2223-G0425,1,09:23,MEM,,MIL,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0425,1,08:02,MEM,,MIL,,S. Adams,MEM,Adams L.B.FOUL (P1.T3) (D.Guthrie),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0425,1,06:03,MEM,,MIL,,S. Adams,MEM,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0425,1,06:03,MEM,,MIL,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0425,1,05:59,MEM,,MIL,,S. Adams,MEM,Adams BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0425,1,04:28,MEM,,MIL,,S. Adams,MEM,Adams BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0425,1,04:16,MEM,20.0,MIL,12.0,S. Adams,MEM,Adams Driving Dunk (2 PTS) (Roddy 1 AST),Made Shot,Driving Dunk Shot,2,4,0,1,2.0,2.0,h
+S2223-G0425,1,03:19,MEM,,MIL,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0425,2,03:25,MEM,,MIL,,S. Adams,MEM,Adams REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0425,2,03:25,MEM,,MIL,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0425,2,03:25,MEM,,MIL,,S. Adams,MEM,Adams REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0425,2,03:24,MEM,,MIL,,S. Adams,MEM,MISS Adams 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-20,-1,2,1,2.0,0.0,h
+S2223-G0425,2,03:21,MEM,,MIL,,S. Adams,MEM,Adams REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0425,2,03:21,MEM,,MIL,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0425,2,02:05,MEM,,MIL,,S. Adams,MEM,Jump Ball Adams vs. G. Antetokounmpo: Tip to Allen,Jump Ball,,0,0,0,0,,,h
+S2223-G0425,2,01:23,MEM,,MIL,,S. Adams,MEM,Adams REBOUND (Off:5 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0425,2,01:23,MEM,66.0,MIL,37.0,S. Adams,MEM,Adams Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0425,3,11:44,MEM,,MIL,,S. Adams,MEM,Adams S.FOUL (P2.T1) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2223-G0425,3,11:32,MEM,72.0,MIL,42.0,S. Adams,MEM,Adams 1' Alley Oop Layup (6 PTS) (Morant 5 AST),Made Shot,Alley Oop Layup shot,4,11,1,1,2.0,2.0,h
+S2223-G0425,3,10:24,MEM,,MIL,,S. Adams,MEM,Adams BLOCK (4 BLK),,,0,0,0,0,,,h
+S2223-G0425,3,10:21,MEM,,MIL,,S. Adams,MEM,Adams REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0425,3,10:19,MEM,,MIL,,S. Adams,MEM,Adams Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0425,3,07:28,MEM,91.0,MIL,56.0,S. Adams,MEM,Adams Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0425,3,07:28,MEM,92.0,MIL,56.0,S. Adams,MEM,Adams Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0425,3,07:18,MEM,,MIL,,S. Adams,MEM,Adams BLOCK (5 BLK),,,0,0,0,0,,,h
+S2223-G0425,3,06:54,MEM,94.0,MIL,58.0,S. Adams,MEM,Adams 2' Driving Bank Hook Shot (10 PTS),Made Shot,Driving Bank Hook Shot,-13,10,2,1,2.0,2.0,h
+S2223-G0425,3,04:41,MEM,,MIL,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0608,1,12:00,MEM,,,,S. Adams,MEM,Jump Ball Adams vs. Poeltl: Tip to Jones,Jump Ball,,0,0,0,0,,,h
+S2223-G0608,1,11:03,MEM,,,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0608,1,10:34,MEM,4.0,,2.0,S. Adams,MEM,Adams 5' Cutting Layup Shot (2 PTS) (Bane 1 AST),Made Shot,Cutting Layup Shot,48,17,5,1,2.0,2.0,h
+S2223-G0608,1,10:05,MEM,,,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0608,1,09:59,MEM,,,,S. Adams,MEM,Adams Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0608,1,09:58,MEM,,,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0608,1,09:51,MEM,6.0,,2.0,S. Adams,MEM,Adams 2' Hook Shot (4 PTS) (Jackson Jr. 1 AST),Made Shot,Hook Shot,-2,17,2,1,2.0,2.0,h
+S2223-G0608,1,08:42,MEM,,,,S. Adams,MEM,Adams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0608,1,05:16,MEM,,,,S. Adams,MEM,Adams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0608,1,03:30,MEM,,,,S. Adams,MEM,Adams REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0608,1,03:05,MEM,,,,S. Adams,MEM,Adams REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0608,1,02:54,MEM,,,,S. Adams,MEM,MISS Adams 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,86,19,9,1,2.0,0.0,h
+S2223-G0608,1,02:45,MEM,,,,S. Adams,MEM,SUB: Tillman FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0608,2,05:46,MEM,53.0,,43.0,S. Adams,MEM,Adams 4' Cutting Layup Shot (6 PTS) (Brooks 2 AST),Made Shot,Cutting Layup Shot,-20,31,4,1,2.0,2.0,h
+S2223-G0608,2,02:43,MEM,,,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0608,2,02:43,MEM,,,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0608,2,02:18,MEM,,,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0608,2,02:18,MEM,,,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0608,2,01:28,MEM,70.0,,61.0,S. Adams,MEM,Adams 4' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,34,21,4,1,2.0,2.0,h
+S2223-G0608,3,11:13,MEM,,,,S. Adams,MEM,Adams REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0608,3,10:45,MEM,,,,S. Adams,MEM,Adams REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0608,3,10:33,MEM,,,,S. Adams,MEM,MISS Adams 7' Hook Shot,Missed Shot,Hook Shot,-39,63,7,1,2.0,0.0,h
+S2223-G0608,3,09:58,MEM,,,,S. Adams,MEM,Adams REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0608,3,09:36,MEM,,,,S. Adams,MEM,Adams REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0608,3,08:10,MEM,,,,S. Adams,MEM,Adams REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0608,3,07:27,MEM,,,,S. Adams,MEM,Adams REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0608,3,07:27,MEM,85.0,,74.0,S. Adams,MEM,Adams 3' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,-22,17,3,1,2.0,2.0,h
+S2223-G0608,3,07:27,MEM,,,,S. Adams,MEM,MISS Adams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0608,3,06:40,MEM,,,,S. Adams,MEM,Adams REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0608,3,05:55,MEM,,,,S. Adams,MEM,Adams REBOUND (Off:4 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0608,3,05:20,MEM,,,,S. Adams,MEM,Adams REBOUND (Off:4 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0608,3,05:11,MEM,,,,S. Adams,MEM,Adams Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0608,3,04:43,MEM,,,,S. Adams,MEM,SUB: Tillman FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0608,4,06:45,MEM,107.0,,107.0,S. Adams,MEM,Adams Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0608,4,06:45,MEM,,,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0608,4,04:53,MEM,113.0,,109.0,S. Adams,MEM,Adams Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0608,4,04:53,MEM,,,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0608,4,04:05,MEM,,,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0608,4,04:05,MEM,117.0,,111.0,S. Adams,MEM,Adams Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0608,4,03:50,MEM,,,,S. Adams,MEM,SUB: Williams FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0034,1,11:02,DAL,,MEM,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0034,1,08:14,DAL,,MEM,,S. Adams,MEM,Adams BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0034,1,08:07,DAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0034,1,08:07,DAL,,MEM,,S. Adams,MEM,MISS Adams Hook Shot,Missed Shot,Hook Shot,0,0,0,1,2.0,0.0,v
+S2223-G0034,1,08:03,DAL,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0034,1,08:03,DAL,,MEM,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0034,1,03:31,DAL,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0034,2,04:55,DAL,,MEM,,S. Adams,MEM,Adams Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0034,3,11:40,DAL,,MEM,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0034,3,09:59,DAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0034,3,09:41,DAL,,MEM,,S. Adams,MEM,MISS Adams 2' Layup,Missed Shot,Layup Shot,-17,3,2,1,2.0,0.0,v
+S2223-G0034,3,08:48,DAL,,MEM,,S. Adams,MEM,Adams BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0034,3,08:43,DAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0034,3,08:42,DAL,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0034,3,08:14,DAL,,MEM,,S. Adams,MEM,Adams BLOCK (4 BLK),,,0,0,0,0,,,v
+S2223-G0034,3,08:14,DAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0034,3,07:53,DAL,73.0,MEM,48.0,S. Adams,MEM,Adams 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,2,8,1,1,2.0,2.0,v
+S2223-G0034,3,07:20,DAL,,MEM,,S. Adams,MEM,Adams S.FOUL (P1.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0034,3,06:16,DAL,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0034,3,03:34,DAL,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0576,1,10:47,ORL,,MEM,,S. Adams,MEM,MISS Adams 5' Hook Shot,Missed Shot,Hook Shot,50,21,5,1,2.0,0.0,v
+S2223-G0576,1,10:09,ORL,,MEM,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0576,1,08:33,ORL,,MEM,,S. Adams,MEM,MISS Adams 8' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,71,32,8,1,2.0,0.0,v
+S2223-G0576,1,06:03,ORL,,MEM,,S. Adams,MEM,Adams S.FOUL (P1.T3) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0576,1,05:29,ORL,,MEM,,S. Adams,MEM,Adams Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0576,1,04:45,ORL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0576,1,04:16,ORL,,MEM,,S. Adams,MEM,MISS Adams 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,44,26,5,1,2.0,0.0,v
+S2223-G0576,1,04:08,ORL,,MEM,,S. Adams,MEM,SUB: Tillman FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0576,2,03:28,ORL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0576,2,03:07,ORL,,MEM,,S. Adams,MEM,Adams S.FOUL (P2.T3) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0576,2,02:26,ORL,37.0,MEM,55.0,S. Adams,MEM,Adams 3' Cutting Layup Shot (2 PTS) (Morant 3 AST),Made Shot,Cutting Layup Shot,15,21,3,1,2.0,2.0,v
+S2223-G0576,2,02:26,ORL,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0576,3,11:26,ORL,,MEM,,S. Adams,MEM,Adams P.FOUL (P3.T1) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0576,3,09:59,ORL,48.0,MEM,68.0,S. Adams,MEM,Adams 2' Cutting Dunk Shot (4 PTS) (Brooks 4 AST),Made Shot,Cutting Dunk Shot,10,21,2,1,2.0,2.0,v
+S2223-G0576,3,07:07,ORL,,MEM,,S. Adams,MEM,Adams S.FOUL (P4.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0576,3,07:07,ORL,,MEM,,S. Adams,MEM,SUB: Tillman FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0576,4,10:08,ORL,,MEM,,S. Adams,MEM,Adams S.FOUL (P5.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0576,4,09:19,ORL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0576,4,08:17,ORL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0576,4,07:33,ORL,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0576,4,01:29,ORL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0576,4,00:39.100000,ORL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,1,11:36,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,1,10:16,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,1,09:21,LAL,0.0,MEM,4.0,S. Adams,MEM,Adams 2' Reverse Layup (2 PTS) (Morant 2 AST),Made Shot,Reverse Layup Shot,4,24,2,1,2.0,2.0,v
+S2223-G0690,1,09:21,LAL,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0690,1,08:28,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,1,07:23,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,1,07:23,LAL,6.0,MEM,9.0,S. Adams,MEM,Adams Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0690,1,06:00,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,1,05:45,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,1,05:45,LAL,,MEM,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0690,1,04:32,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,1,04:32,LAL,16.0,MEM,12.0,S. Adams,MEM,Adams Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0690,1,04:32,LAL,,MEM,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0690,1,03:56,LAL,18.0,MEM,14.0,S. Adams,MEM,Adams 1' Dunk (7 PTS) (Morant 4 AST),Made Shot,Dunk Shot,-10,5,1,1,2.0,2.0,v
+S2223-G0690,1,02:54,LAL,20.0,MEM,16.0,S. Adams,MEM,Adams 4' Driving Layup (9 PTS) (Brooks 1 AST),Made Shot,Driving Layup Shot,-4,35,4,1,2.0,2.0,v
+S2223-G0690,1,01:48,LAL,,MEM,,S. Adams,MEM,SUB: Bane FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0690,2,05:54,LAL,,MEM,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0690,2,02:13,LAL,,MEM,,S. Adams,MEM,Adams L.B.FOUL (P1.PN) (M.Myers),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0690,2,00:42.900000,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,2,00:00.700000,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,3,11:24,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,3,11:19,LAL,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0690,3,10:59,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,3,10:58,LAL,52.0,MEM,55.0,S. Adams,MEM,Adams 3' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,-6,25,3,1,2.0,2.0,v
+S2223-G0690,3,10:10,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,3,07:16,LAL,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0690,3,07:16,LAL,,MEM,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0690,3,07:00,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,3,06:42,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:7 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,3,06:41,LAL,65.0,MEM,70.0,S. Adams,MEM,Adams 2' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,2,16,2,1,2.0,2.0,v
+S2223-G0690,3,06:30,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:7 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,3,06:20,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:8 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,3,06:20,LAL,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0690,3,06:20,LAL,65.0,MEM,71.0,S. Adams,MEM,Adams Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0690,3,04:32,LAL,,MEM,,S. Adams,MEM,Adams L.B.FOUL (P2.T4) (Z.Zarba),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0690,3,04:32,LAL,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0690,4,04:19,LAL,,MEM,,S. Adams,MEM,Adams REBOUND (Off:8 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0690,4,03:33,LAL,104.0,MEM,108.0,S. Adams,MEM,Adams Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0690,4,03:33,LAL,104.0,MEM,109.0,S. Adams,MEM,Adams Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0690,4,03:07,LAL,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0243,1,11:41,BKN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0243,1,11:39,BKN,0.0,MEM,2.0,S. Adams,MEM,Adams 5' Hook Shot (2 PTS),Made Shot,Hook Shot,16,47,5,1,2.0,2.0,v
+S2223-G0243,1,10:47,BKN,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0243,1,08:51,BKN,13.0,MEM,12.0,S. Adams,MEM,Adams 1' Layup (4 PTS) (Konchar 1 AST),Made Shot,Layup Shot,1,6,1,1,2.0,2.0,v
+S2223-G0243,1,08:17,BKN,,MEM,,S. Adams,MEM,MISS Adams 2' Driving Layup,Missed Shot,Driving Layup Shot,-16,8,2,1,2.0,0.0,v
+S2223-G0243,1,07:48,BKN,,MEM,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0243,1,07:46,BKN,,MEM,,S. Adams,MEM,Adams Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0243,1,07:34,BKN,,MEM,,S. Adams,MEM,Adams STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0243,1,06:45,BKN,16.0,MEM,17.0,S. Adams,MEM,Adams 1' Dunk (6 PTS) (Aldama 1 AST),Made Shot,Dunk Shot,1,6,1,1,2.0,2.0,v
+S2223-G0243,1,05:58,BKN,16.0,MEM,21.0,S. Adams,MEM,Adams 2' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,13,13,2,1,2.0,2.0,v
+S2223-G0243,1,04:09,BKN,,MEM,,S. Adams,MEM,SUB: LaRavia FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0243,2,09:16,BKN,38.0,MEM,35.0,S. Adams,MEM,Adams 2' Layup (10 PTS) (Brooks 2 AST),Made Shot,Layup Shot,16,6,2,1,2.0,2.0,v
+S2223-G0243,2,08:29,BKN,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0243,2,08:08,BKN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0243,2,07:17,BKN,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0243,2,06:32,BKN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0243,2,06:12,BKN,,MEM,,S. Adams,MEM,Adams STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0243,2,06:06,BKN,45.0,MEM,42.0,S. Adams,MEM,Adams 1' Cutting Finger Roll Layup Shot (12 PTS) (Roddy 1 AST),Made Shot,Cutting Finger Roll Layup Shot,-2,10,1,1,2.0,2.0,v
+S2223-G0243,2,05:16,BKN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0243,2,02:20,BKN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0243,2,02:05,BKN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0243,2,01:32,BKN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0243,3,11:12,BKN,,MEM,,S. Adams,MEM,Adams S.FOUL (P1.T1) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0243,3,08:59,BKN,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0243,3,08:59,BKN,,MEM,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0243,3,08:14,BKN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0243,3,08:14,BKN,72.0,MEM,69.0,S. Adams,MEM,Adams Putback Layup (14 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0243,3,08:14,BKN,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0243,3,06:40,BKN,,MEM,,S. Adams,MEM,Adams OFF.Foul (P2) (B.Forte),Foul,Offensive,0,0,0,0,,,v
+S2223-G0243,3,06:40,BKN,,MEM,,S. Adams,MEM,Adams Offensive Foul Turnover (P4.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0243,3,06:40,BKN,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0243,4,10:41,BKN,,MEM,,S. Adams,MEM,Adams Out of Bounds - Bad Pass Turnover Turnover (P5.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0243,4,08:38,BKN,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0243,4,08:38,BKN,,MEM,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0243,4,08:29,BKN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0243,4,08:27,BKN,,MEM,,S. Adams,MEM,MISS Adams 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,-6,6,1,1,2.0,0.0,v
+S2223-G0243,4,08:26,BKN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0243,4,08:24,BKN,,MEM,,S. Adams,MEM,MISS Adams 2' Putback Layup,Missed Shot,Putback Layup Shot,-6,24,2,1,2.0,0.0,v
+S2223-G0243,4,08:19,BKN,,MEM,,S. Adams,MEM,SUB: LaRavia FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0243,4,04:02,BKN,123.0,MEM,105.0,S. Adams,MEM,Adams Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0243,4,04:02,BKN,,MEM,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0243,4,02:39,BKN,,MEM,,S. Adams,MEM,SUB: Roddy FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0490,1,11:22,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0490,1,10:33,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0490,1,10:32,PHX,,MEM,,S. Adams,MEM,MISS Adams 1' Putback Layup,Missed Shot,Putback Layup Shot,-5,11,1,1,2.0,0.0,v
+S2223-G0490,1,10:29,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0490,1,10:28,PHX,0.0,MEM,4.0,S. Adams,MEM,Adams 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,4,12,1,1,2.0,2.0,v
+S2223-G0490,1,10:14,PHX,,MEM,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0490,1,08:45,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0490,1,07:48,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0490,1,05:30,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0490,1,05:16,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0490,1,05:16,PHX,6.0,MEM,23.0,S. Adams,MEM,Adams Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0490,1,04:19,PHX,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0490,2,05:05,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0490,2,04:59,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0490,2,03:51,PHX,29.0,MEM,52.0,S. Adams,MEM,Adams 1' Alley Oop Dunk (6 PTS) (Morant 4 AST),Made Shot,Alley Oop Dunk Shot,-2,8,1,1,2.0,2.0,v
+S2223-G0490,2,02:50,PHX,,MEM,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0490,2,02:17,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0490,2,00:31.600000,PHX,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0490,2,00:31.600000,PHX,,MEM,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0490,3,11:25,PHX,,MEM,,S. Adams,MEM,MISS Adams Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,3,0,1,2.0,0.0,v
+S2223-G0490,3,08:15,PHX,,MEM,,S. Adams,MEM,Adams REBOUND (Off:7 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0490,3,08:14,PHX,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0490,3,08:14,PHX,,MEM,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0490,3,04:03,PHX,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0296,1,09:47,NYK,2.0,MEM,4.0,S. Adams,MEM,Adams Cutting Dunk Shot (2 PTS) (Brooks 1 AST),Made Shot,Cutting Dunk Shot,0,-1,0,1,2.0,2.0,v
+S2223-G0296,1,08:55,NYK,,MEM,,S. Adams,MEM,Adams S.FOUL (P1.T1) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2223-G0296,1,07:35,NYK,,MEM,,S. Adams,MEM,MISS Adams 1' Layup,Missed Shot,Layup Shot,10,-5,1,1,2.0,0.0,v
+S2223-G0296,1,06:02,NYK,,MEM,,S. Adams,MEM,Adams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0296,1,03:03,NYK,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0296,1,02:48,NYK,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0296,2,06:14,NYK,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0296,2,05:18,NYK,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0296,2,05:18,NYK,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0296,2,05:18,NYK,36.0,MEM,42.0,S. Adams,MEM,Adams Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0296,2,04:58,NYK,36.0,MEM,43.0,S. Adams,MEM,Adams Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0296,2,04:58,NYK,,MEM,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0296,2,04:07,NYK,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0296,2,02:48,NYK,42.0,MEM,45.0,S. Adams,MEM,Adams 1' Cutting Dunk Shot (6 PTS) (Morant 5 AST),Made Shot,Cutting Dunk Shot,4,4,1,1,2.0,2.0,v
+S2223-G0296,2,02:26,NYK,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0296,2,02:26,NYK,,MEM,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0296,2,01:36,NYK,45.0,MEM,46.0,S. Adams,MEM,Adams Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0296,2,01:36,NYK,45.0,MEM,47.0,S. Adams,MEM,Adams Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0296,3,09:42,NYK,57.0,MEM,63.0,S. Adams,MEM,Adams 2' Cutting Layup Shot (10 PTS) (Morant 8 AST),Made Shot,Cutting Layup Shot,-18,13,2,1,2.0,2.0,v
+S2223-G0296,3,09:42,NYK,,MEM,,S. Adams,MEM,MISS Adams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0296,3,06:16,NYK,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0296,3,06:16,NYK,65.0,MEM,70.0,S. Adams,MEM,Adams Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0296,3,05:45,NYK,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0296,3,05:45,NYK,,MEM,,S. Adams,MEM,MISS Adams 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-12,11,2,1,2.0,0.0,v
+S2223-G0296,3,04:53,NYK,,MEM,,S. Adams,MEM,MISS Adams 11' Floating Jump Shot,Missed Shot,Floating Jump shot,-7,108,11,1,2.0,0.0,v
+S2223-G0296,3,04:17,NYK,,MEM,,S. Adams,MEM,Adams REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0296,3,04:17,NYK,67.0,MEM,75.0,S. Adams,MEM,Adams Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0296,3,04:06,NYK,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0296,4,06:07,NYK,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0296,4,03:24,NYK,,MEM,,S. Adams,MEM,Adams REBOUND (Off:6 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0296,4,03:12,NYK,,MEM,,S. Adams,MEM,Adams REBOUND (Off:7 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0296,4,03:11,NYK,112.0,MEM,115.0,S. Adams,MEM,Adams Reverse Layup (16 PTS),Made Shot,Reverse Layup Shot,-2,1,0,1,2.0,2.0,v
+S2223-G0296,4,00:06,NYK,,MEM,,S. Adams,MEM,SUB: Roddy FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0279,1,12:00,MEM,,NOP,,S. Adams,MEM,Jump Ball Adams vs. Valanciunas: Tip to Konchar,Jump Ball,,0,0,0,0,,,h
+S2223-G0279,1,11:21,MEM,2.0,NOP,0.0,S. Adams,MEM,Adams 5' Driving Floating Bank Jump Shot (2 PTS) (Morant 1 AST),Made Shot,Driving Floating Bank Jump Shot,-50,16,5,1,2.0,2.0,h
+S2223-G0279,1,10:46,MEM,4.0,NOP,0.0,S. Adams,MEM,Adams 1' Layup (4 PTS),Made Shot,Layup Shot,-13,7,1,1,2.0,2.0,h
+S2223-G0279,1,09:30,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0279,1,08:11,MEM,,NOP,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0279,1,08:05,MEM,,NOP,,S. Adams,MEM,MISS Adams 7' Floating Jump Shot,Missed Shot,Floating Jump shot,-1,65,7,1,2.0,0.0,h
+S2223-G0279,1,08:03,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0279,1,08:01,MEM,,NOP,,S. Adams,MEM,Adams Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0279,1,07:21,MEM,17.0,NOP,7.0,S. Adams,MEM,Adams 1' Cutting Dunk Shot (6 PTS) (Brooks 1 AST),Made Shot,Cutting Dunk Shot,-9,7,1,1,2.0,2.0,h
+S2223-G0279,1,06:30,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0279,1,05:36,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0279,1,05:30,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0279,1,05:30,MEM,,NOP,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0279,1,05:28,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0279,1,05:28,MEM,24.0,NOP,9.0,S. Adams,MEM,Adams Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0279,1,03:09,MEM,,NOP,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0279,2,09:24,MEM,54.0,NOP,32.0,S. Adams,MEM,Adams 8' Hook Shot (10 PTS) (Brooks 3 AST),Made Shot,Hook Shot,-45,65,8,1,2.0,2.0,h
+S2223-G0279,2,08:14,MEM,59.0,NOP,34.0,S. Adams,MEM,Adams 2' Turnaround Bank Hook Shot (12 PTS),Made Shot,Turnaround Bank Hook Shot,-16,8,2,1,2.0,2.0,h
+S2223-G0279,2,06:05,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0279,2,06:04,MEM,,NOP,,S. Adams,MEM,MISS Adams 2' Putback Layup,Missed Shot,Putback Layup Shot,-6,20,2,1,2.0,0.0,h
+S2223-G0279,2,06:03,MEM,,NOP,,S. Adams,MEM, ,Jump Ball,,0,0,0,0,,,h
+S2223-G0279,2,06:03,MEM,,NOP,,S. Adams,MEM,Adams L.B.FOUL (P1.T4) (J.Goble),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0279,2,04:31,MEM,,NOP,,S. Adams,MEM,Adams Traveling Turnover (P2.T5),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0279,2,01:20,MEM,62.0,NOP,46.0,S. Adams,MEM,Adams 10' Hook Shot (14 PTS) (Morant 5 AST),Made Shot,Hook Shot,-31,91,10,1,2.0,2.0,h
+S2223-G0279,3,11:39,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0279,3,10:15,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0279,3,09:45,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0279,3,09:20,MEM,76.0,NOP,51.0,S. Adams,MEM,Adams Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0279,3,09:20,MEM,,NOP,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0279,3,09:05,MEM,,NOP,,S. Adams,MEM,Adams REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0279,3,05:33,MEM,,NOP,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0465,1,11:12,DEN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0465,1,10:22,DEN,,MEM,,S. Adams,MEM,MISS Adams 7' Floating Jump Shot,Missed Shot,Floating Jump shot,20,63,7,1,2.0,0.0,v
+S2223-G0465,1,08:42,DEN,,MEM,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0465,1,05:21,DEN,,MEM,,S. Adams,MEM,Adams S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2223-G0465,1,04:53,DEN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0465,1,04:00,DEN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0465,1,03:57,DEN,,MEM,,S. Adams,MEM,MISS Adams 6' Hook Bank Shot,Missed Shot,Hook Bank Shot,-51,39,6,1,2.0,0.0,v
+S2223-G0465,1,03:24,DEN,26.0,MEM,12.0,S. Adams,MEM,Adams 2' Alley Oop Dunk (2 PTS) (Morant 3 AST),Made Shot,Alley Oop Dunk Shot,9,13,2,1,2.0,2.0,v
+S2223-G0465,1,01:48,DEN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0465,1,01:33,DEN,,MEM,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,v
+S2223-G0465,2,07:23,DEN,43.0,MEM,24.0,S. Adams,MEM,Adams 3' Reverse Layup (4 PTS) (Morant 4 AST),Made Shot,Reverse Layup Shot,-21,17,3,1,2.0,2.0,v
+S2223-G0465,2,07:12,DEN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0465,2,06:06,DEN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0465,2,03:12,DEN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0465,2,01:16,DEN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0465,2,01:15,DEN,,MEM,,S. Adams,MEM,Adams Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0465,3,11:20,DEN,,MEM,,S. Adams,MEM,Adams Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0465,3,08:31,DEN,,MEM,,S. Adams,MEM,Adams P.FOUL (P2.T3) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2223-G0465,3,05:39,DEN,,MEM,,S. Adams,MEM,MISS Adams 7' Hook Shot,Missed Shot,Hook Shot,5,71,7,1,2.0,0.0,v
+S2223-G0465,3,04:21,DEN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0465,3,02:13,DEN,,MEM,,S. Adams,MEM,Adams REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0672,1,12:00,MEM,,CLE,,S. Adams,MEM,Jump Ball Adams vs. Allen: Tip to Morant,Jump Ball,,0,0,0,0,,,h
+S2223-G0672,1,10:49,MEM,,CLE,,S. Adams,MEM,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0672,1,08:04,MEM,4.0,CLE,13.0,S. Adams,MEM,Adams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0672,1,08:04,MEM,,CLE,,S. Adams,MEM,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0672,1,07:54,MEM,6.0,CLE,13.0,S. Adams,MEM,Adams 5' Driving Bank Hook Shot (3 PTS),Made Shot,Driving Bank Hook Shot,34,32,5,1,2.0,2.0,h
+S2223-G0672,1,06:36,MEM,,CLE,,S. Adams,MEM,Adams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0672,1,06:35,MEM,10.0,CLE,17.0,S. Adams,MEM,Adams 1' Reverse Layup (5 PTS),Made Shot,Reverse Layup Shot,10,8,1,1,2.0,2.0,h
+S2223-G0672,1,02:44,MEM,,CLE,,S. Adams,MEM,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0672,1,01:40,MEM,,CLE,,S. Adams,MEM,Adams Offensive Charge Foul (P1) (M.Dagher),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0672,1,01:40,MEM,,CLE,,S. Adams,MEM,Adams Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0672,1,01:40,MEM,,CLE,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0672,3,11:44,MEM,,CLE,,S. Adams,MEM,Adams S.FOUL (P2.T1) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0672,3,11:23,MEM,,CLE,,S. Adams,MEM,Adams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0672,3,11:23,MEM,,CLE,,S. Adams,MEM,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0672,3,11:15,MEM,70.0,CLE,63.0,S. Adams,MEM,Adams 2' Layup (7 PTS),Made Shot,Layup Shot,-18,6,2,1,2.0,2.0,h
+S2223-G0672,3,10:19,MEM,,CLE,,S. Adams,MEM,Adams REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0672,3,10:19,MEM,72.0,CLE,65.0,S. Adams,MEM,Adams Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0672,3,09:44,MEM,,CLE,,S. Adams,MEM,Adams S.FOUL (P3.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0672,3,09:42,MEM,,CLE,,S. Adams,MEM,Adams REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0672,3,08:38,MEM,,CLE,,S. Adams,MEM,Adams REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0672,3,05:16,MEM,,CLE,,S. Adams,MEM,MISS Adams 6' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,6,60,6,1,2.0,0.0,h
+S2223-G0672,3,05:05,MEM,,CLE,,S. Adams,MEM,Adams STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0672,3,04:26,MEM,83.0,CLE,76.0,S. Adams,MEM,Adams 2' Cutting Dunk Shot (11 PTS) (Bane 3 AST),Made Shot,Cutting Dunk Shot,-9,22,2,1,2.0,2.0,h
+S2223-G0672,3,02:01,MEM,,CLE,,S. Adams,MEM,SUB: Clarke FOR Adams,Substitution,,0,0,0,0,,,h
+S2223-G0672,4,03:17,MEM,,CLE,,S. Adams,MEM,Adams REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0672,4,01:37,MEM,,CLE,,S. Adams,MEM,Adams REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0672,4,00:16.600000,MEM,,CLE,,S. Adams,MEM,Adams REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0672,4,00:16.600000,MEM,115.0,CLE,114.0,S. Adams,MEM,Adams Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h

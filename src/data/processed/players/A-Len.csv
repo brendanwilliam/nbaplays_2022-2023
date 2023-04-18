@@ -1,0 +1,196 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G1037,2,11:36,CHI,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1037,2,10:55,CHI,,SAC,,A. Len,SAC,Len S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G1037,2,10:33,CHI,,SAC,,A. Len,SAC,MISS Len 2' Driving Layup,Missed Shot,Driving Layup Shot,17,8,2,1,2.0,0.0,v
+S2223-G1037,2,09:19,CHI,,SAC,,A. Len,SAC,Len Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1037,2,08:18,CHI,,SAC,,A. Len,SAC,SUB: Murray FOR Len,Substitution,,0,0,0,0,,,v
+S2223-G0369,4,00:33.900000,MIL,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0369,4,00:21.800000,MIL,,SAC,,A. Len,SAC,MISS Len 17' Jump Shot,Missed Shot,Jump Shot,-61,157,17,1,2.0,0.0,v
+S2223-G1128,2,11:22,SAC,,MIN,,A. Len,SAC,Len REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1128,2,11:22,SAC,27.0,MIN,36.0,A. Len,SAC,Len Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1128,2,11:12,SAC,,MIN,,A. Len,SAC,Len S.FOUL (P1.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G1128,2,11:08,SAC,,MIN,,A. Len,SAC,Len REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1128,2,10:57,SAC,,MIN,,A. Len,SAC,MISS Len Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1128,2,10:57,SAC,28.0,MIN,36.0,A. Len,SAC,Len Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1128,2,09:07,SAC,,MIN,,A. Len,SAC,SUB: Sabonis FOR Len,Substitution,,0,0,0,0,,,h
+S2223-G1128,4,10:13,SAC,,MIN,,A. Len,SAC,MISS Len Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1128,4,10:13,SAC,88.0,MIN,90.0,A. Len,SAC,Len Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1128,4,09:35,SAC,,MIN,,A. Len,SAC,Len BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1128,4,09:09,SAC,,MIN,,A. Len,SAC,Len BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1128,4,08:34,SAC,,MIN,,A. Len,SAC,SUB: Barnes FOR Len,Substitution,,0,0,0,0,,,h
+S2223-G1128,4,00:35.100000,SAC,,MIN,,A. Len,SAC,SUB: Huerter FOR Len,Substitution,,0,0,0,0,,,h
+S2223-G0514,1,12:00,SAC,,DEN,,A. Len,SAC,Jump Ball Len vs. Jokic: Tip to Huerter,Jump Ball,,0,0,0,0,,,h
+S2223-G0514,1,10:47,SAC,,DEN,,A. Len,SAC,Len REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,1,10:27,SAC,3.0,DEN,0.0,A. Len,SAC,Len Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0514,1,10:27,SAC,4.0,DEN,0.0,A. Len,SAC,Len Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0514,1,09:36,SAC,,DEN,,A. Len,SAC,MISS Len 25' 3PT Jump Shot,Missed Shot,Jump Shot,-92,231,25,1,3.0,0.0,h
+S2223-G0514,1,06:58,SAC,,DEN,,A. Len,SAC,Len REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,1,06:39,SAC,,DEN,,A. Len,SAC,Len REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,1,06:00,SAC,,DEN,,A. Len,SAC,SUB: Mitchell FOR Len,Substitution,,0,0,0,0,,,h
+S2223-G0514,2,03:49,SAC,,DEN,,A. Len,SAC,Len OFF.Foul (P1) (S.Twardoski),Foul,Offensive,0,0,0,0,,,h
+S2223-G0514,2,03:49,SAC,,DEN,,A. Len,SAC,Len Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0514,2,01:47,SAC,,DEN,,A. Len,SAC,Len REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,2,01:27,SAC,,DEN,,A. Len,SAC,Len S.FOUL (P2.T4) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0514,2,01:27,SAC,,DEN,,A. Len,SAC,Len Violation:Lane (S.Twardoski),Violation,Lane,0,0,0,0,,,h
+S2223-G0514,2,00:09.600000,SAC,,DEN,,A. Len,SAC,SUB: Lyles FOR Len,Substitution,,0,0,0,0,,,h
+S2223-G0514,3,10:18,SAC,,DEN,,A. Len,SAC,Len P.FOUL (P3.T1) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2223-G0514,3,10:10,SAC,,DEN,,A. Len,SAC,Len S.FOUL (P4.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0514,3,09:53,SAC,,DEN,,A. Len,SAC,Len Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0514,3,08:16,SAC,,DEN,,A. Len,SAC,SUB: Holmes FOR Len,Substitution,,0,0,0,0,,,h
+S2223-G1145,1,01:41,POR,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,1,01:02,POR,,SAC,,A. Len,SAC,Len P.FOUL (P1.T2) (T.Maddox),Foul,Personal,0,0,0,0,,,v
+S2223-G1145,2,11:15,POR,22.0,SAC,24.0,A. Len,SAC,Len 1' Cutting Dunk Shot (2 PTS) (Monk 3 AST),Made Shot,Cutting Dunk Shot,10,6,1,1,2.0,2.0,v
+S2223-G1145,2,10:57,POR,,SAC,,A. Len,SAC,Len STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1145,2,10:26,POR,,SAC,,A. Len,SAC,Len REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,2,10:26,POR,22.0,SAC,27.0,A. Len,SAC,Len Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1145,2,10:26,POR,,SAC,,A. Len,SAC,MISS Len Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1145,2,10:09,POR,,SAC,,A. Len,SAC,Len REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,2,09:50,POR,,SAC,,A. Len,SAC,Len S.FOUL (P2.T1) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G1145,2,09:38,POR,24.0,SAC,29.0,A. Len,SAC,Len 2' Cutting Layup Shot (5 PTS) (Monk 4 AST),Made Shot,Cutting Layup Shot,16,3,2,1,2.0,2.0,v
+S2223-G1145,2,07:28,POR,,SAC,,A. Len,SAC,SUB: Sabonis FOR Len,Substitution,,0,0,0,0,,,v
+S2223-G1145,3,02:53,POR,,SAC,,A. Len,SAC,Len P.FOUL (P3.T2) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2223-G1145,3,02:38,POR,,SAC,,A. Len,SAC,Len REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,3,02:30,POR,,SAC,,A. Len,SAC,MISS Len 1' Layup,Missed Shot,Layup Shot,5,0,1,1,2.0,0.0,v
+S2223-G1145,3,02:00,POR,,SAC,,A. Len,SAC,Len STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1145,3,00:40.700000,POR,,SAC,,A. Len,SAC,Len REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,4,10:04,POR,,SAC,,A. Len,SAC,Len REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,4,09:19,POR,,SAC,,A. Len,SAC,Len REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,4,08:49,POR,,SAC,,A. Len,SAC,Len BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1145,4,07:50,POR,,SAC,,A. Len,SAC,MISS Len 3' Hook Bank Shot,Missed Shot,Hook Bank Shot,26,12,3,1,2.0,0.0,v
+S2223-G1145,4,06:02,POR,,SAC,,A. Len,SAC,Len REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,4,05:59,POR,,SAC,,A. Len,SAC,SUB: Dozier FOR Len,Substitution,,0,0,0,0,,,v
+S2223-G0712,4,02:39,SAC,,MEM,,A. Len,SAC,Len REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0712,4,02:39,SAC,,MEM,,A. Len,SAC,Len Bad Pass Turnover (P1.T24),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0712,4,02:02,SAC,,MEM,,A. Len,SAC,Len S.FOUL (P1.T4) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0712,4,01:15,SAC,,MEM,,A. Len,SAC,Len REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0323,4,04:10,SAC,,IND,,A. Len,SAC,Len REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0323,4,03:19,SAC,,IND,,A. Len,SAC,Len REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0323,4,02:34,SAC,,IND,,A. Len,SAC,Len REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0323,4,02:34,SAC,134.0,IND,104.0,A. Len,SAC,Len Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0323,4,01:46,SAC,,IND,,A. Len,SAC,Len REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0323,4,01:46,SAC,136.0,IND,108.0,A. Len,SAC,Len Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0323,4,00:55.500000,SAC,,IND,,A. Len,SAC,Len L.B.FOUL (P1.PN) (S.Wright),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0323,4,00:54.300000,SAC,,IND,,A. Len,SAC,Len REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0323,4,00:21.500000,SAC,,IND,,A. Len,SAC,MISS Len 19' Jump Shot,Missed Shot,Jump Shot,-96,162,19,1,2.0,0.0,h
+S2223-G1159,1,00:37.900000,POR,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1159,1,00:23,POR,,SAC,,A. Len,SAC,Len BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1159,2,11:37,POR,,SAC,,A. Len,SAC,Len L.B.FOUL (P1.T1) (K.Cutler),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1159,2,10:26,POR,32.0,SAC,40.0,A. Len,SAC,Len 1' Cutting Dunk Shot (2 PTS) (Fox 5 AST),Made Shot,Cutting Dunk Shot,0,6,1,1,2.0,2.0,v
+S2223-G1159,2,08:31,POR,,SAC,,A. Len,SAC,SUB: Murray FOR Len,Substitution,,0,0,0,0,,,v
+S2223-G1159,3,01:08,POR,,SAC,,A. Len,SAC,Len S.FOUL (P2.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G1159,3,00:08.500000,POR,,SAC,,A. Len,SAC,SUB: Mitchell FOR Len,Substitution,,0,0,0,0,,,v
+S2223-G1159,4,08:47,POR,,SAC,,A. Len,SAC,SUB: Mitchell FOR Len,Substitution,,0,0,0,0,,,v
+S2223-G1159,4,02:40,POR,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1159,4,02:25,POR,105.0,SAC,132.0,A. Len,SAC,Len 1' Layup (4 PTS) (Murray 3 AST),Made Shot,Layup Shot,-5,-1,1,1,2.0,2.0,v
+S2223-G1159,4,02:07,POR,,SAC,,A. Len,SAC,SUB: Dozier FOR Len,Substitution,,0,0,0,0,,,v
+S2223-G1227,1,01:38,DEN,,SAC,,A. Len,SAC,Len STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1227,1,01:25,DEN,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1227,1,00:59.600000,DEN,,SAC,,A. Len,SAC,Len BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1227,1,00:56.800000,DEN,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1227,1,00:30.100000,DEN,,SAC,,A. Len,SAC,Len BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1227,2,11:11,DEN,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1227,2,09:02,DEN,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1227,2,08:36,DEN,,SAC,,A. Len,SAC,SUB: Murray FOR Len,Substitution,,0,0,0,0,,,v
+S2223-G1227,3,05:40,DEN,,SAC,,A. Len,SAC,Len S.FOUL (P1.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G1227,3,05:26,DEN,,SAC,,A. Len,SAC,Len REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1227,3,05:02,DEN,,SAC,,A. Len,SAC,SUB: Metu FOR Len,Substitution,,0,0,0,0,,,v
+S2223-G0338,4,02:27,LAC,,SAC,,A. Len,SAC,MISS Len 8' Hook Shot,Missed Shot,Hook Shot,-5,80,8,1,2.0,0.0,v
+S2223-G0338,4,02:04,LAC,90.0,SAC,118.0,A. Len,SAC,Len 11' Floating Jump Shot (2 PTS) (Dellavedova 1 AST),Made Shot,Floating Jump shot,31,103,11,1,2.0,2.0,v
+S2223-G1211,1,12:00,SAC,,GSW,,A. Len,SAC,Jump Ball Len vs. Looney: Tip to D. Green,Jump Ball,,0,0,0,0,,,h
+S2223-G1211,1,11:46,SAC,,GSW,,A. Len,SAC,Len Violation:Kicked Ball (S.Twardoski),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G1211,1,11:25,SAC,,GSW,,A. Len,SAC,Len REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,1,09:46,SAC,,GSW,,A. Len,SAC,Len REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,1,08:40,SAC,,GSW,,A. Len,SAC,MISS Len 11' Floating Jump Shot,Missed Shot,Floating Jump shot,39,107,11,1,2.0,0.0,h
+S2223-G1211,1,08:16,SAC,5.0,GSW,11.0,A. Len,SAC,Len 2' Dunk (2 PTS) (Mitchell 2 AST),Made Shot,Dunk Shot,15,11,2,1,2.0,2.0,h
+S2223-G1211,1,06:09,SAC,,GSW,,A. Len,SAC,Len REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,1,06:05,SAC,,GSW,,A. Len,SAC,SUB: Edwards FOR Len,Substitution,,0,0,0,0,,,h
+S2223-G1211,2,03:10,SAC,,GSW,,A. Len,SAC,Len BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1211,2,02:22,SAC,,GSW,,A. Len,SAC,Len S.FOUL (P1.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G1211,2,02:03,SAC,,GSW,,A. Len,SAC,Len REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,3,11:43,SAC,50.0,GSW,53.0,A. Len,SAC,Len 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,16,4,2,1,2.0,2.0,h
+S2223-G1211,3,09:18,SAC,,GSW,,A. Len,SAC,MISS Len Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1211,3,09:18,SAC,51.0,GSW,62.0,A. Len,SAC,Len Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1211,3,07:05,SAC,,GSW,,A. Len,SAC,Len REBOUND (Off:5 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,3,07:01,SAC,,GSW,,A. Len,SAC,Len OFF.Foul (P2) (J.Tiven),Foul,Offensive,0,0,0,0,,,h
+S2223-G1211,3,07:01,SAC,,GSW,,A. Len,SAC,Len Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1211,3,06:47,SAC,,GSW,,A. Len,SAC,Len Violation:Defensive Goaltending (J.Tiven),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G1211,3,06:35,SAC,,GSW,,A. Len,SAC,Len Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1211,3,06:24,SAC,,GSW,,A. Len,SAC,Len REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,3,05:17,SAC,,GSW,,A. Len,SAC,SUB: Edwards FOR Len,Substitution,,0,0,0,0,,,h
+S2223-G0210,4,02:45,SAC,141.0,BKN,114.0,A. Len,SAC,Len 13' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,-81,96,13,1,2.0,2.0,h
+S2223-G0210,4,02:24,SAC,,BKN,,A. Len,SAC,Len REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0210,4,02:17,SAC,143.0,BKN,114.0,A. Len,SAC,Len 2' Alley Oop Dunk (4 PTS) (Dellavedova 4 AST),Made Shot,Alley Oop Dunk Shot,11,16,2,1,2.0,2.0,h
+S2223-G0894,4,01:31,SAC,,POR,,A. Len,SAC,Len OFF.Foul (P1) (T.Maddox),Foul,Offensive,0,0,0,0,,,h
+S2223-G0894,4,01:31,SAC,,POR,,A. Len,SAC,Len Offensive Foul Turnover (P1.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0894,4,01:04,SAC,,POR,,A. Len,SAC,Len Bad Pass Turnover (P2.T18),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1195,1,01:01,DAL,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1195,2,10:33,DAL,,SAC,,A. Len,SAC,Len REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1195,2,10:32,DAL,,SAC,,A. Len,SAC,Len Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1195,2,08:23,DAL,,SAC,,A. Len,SAC,Len REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1195,2,07:59,DAL,,SAC,,A. Len,SAC,SUB: Sabonis FOR Len,Substitution,,0,0,0,0,,,v
+S2223-G1195,3,01:27,DAL,,SAC,,A. Len,SAC,Len REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1195,3,01:27,DAL,,SAC,,A. Len,SAC,MISS Len Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1195,3,01:06,DAL,,SAC,,A. Len,SAC,Len REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1195,3,00:30.800000,DAL,,SAC,,A. Len,SAC,MISS Len 1' Layup,Missed Shot,Layup Shot,10,11,1,1,2.0,0.0,v
+S2223-G1195,3,00:28,DAL,,SAC,,A. Len,SAC,Len REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1195,3,00:15.100000,DAL,,SAC,,A. Len,SAC,Len REBOUND (Off:6 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1195,3,00:15.100000,DAL,92.0,SAC,91.0,A. Len,SAC,Len Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1195,3,00:15.100000,DAL,92.0,SAC,92.0,A. Len,SAC,Len Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1195,4,11:15,DAL,,SAC,,A. Len,SAC,Len REBOUND (Off:7 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1195,4,10:54,DAL,,SAC,,A. Len,SAC,Len S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G1195,4,08:46,DAL,,SAC,,A. Len,SAC,Len REBOUND (Off:7 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1195,4,07:45,DAL,,SAC,,A. Len,SAC,SUB: Mitchell FOR Len,Substitution,,0,0,0,0,,,v
+S2223-G0069,2,02:35,SAC,,MEM,,A. Len,SAC,Len REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0547,4,00:54.900000,MEM,,SAC,,A. Len,SAC,Len Out of Bounds - Bad Pass Turnover Turnover (P1.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1170,1,02:10,SAC,,SAS,,A. Len,SAC,Len REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1170,1,02:09,SAC,,SAS,,A. Len,SAC,Len Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1170,1,00:31,SAC,,SAS,,A. Len,SAC,Len REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1170,2,10:10,SAC,,SAS,,A. Len,SAC,Len REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1170,2,10:01,SAC,,SAS,,A. Len,SAC,Len REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1170,2,10:01,SAC,36.0,SAS,32.0,A. Len,SAC,Len Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G1170,2,09:44,SAC,,SAS,,A. Len,SAC,Len BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1170,2,09:41,SAC,,SAS,,A. Len,SAC,Len REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1170,2,09:07,SAC,,SAS,,A. Len,SAC,Len OFF.Foul (P1) (N.Green),Foul,Offensive,0,0,0,0,,,h
+S2223-G1170,2,09:07,SAC,,SAS,,A. Len,SAC,Len Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1170,2,08:48,SAC,,SAS,,A. Len,SAC,SUB: Murray FOR Len,Substitution,,0,0,0,0,,,h
+S2223-G1170,2,01:54,SAC,,SAS,,A. Len,SAC,Len REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1170,2,01:22,SAC,,SAS,,A. Len,SAC,Len Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1170,2,00:09,SAC,,SAS,,A. Len,SAC,SUB: Edwards FOR Len,Substitution,,0,0,0,0,,,h
+S2223-G1170,4,09:38,SAC,,SAS,,A. Len,SAC,Len BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1170,4,09:26,SAC,,SAS,,A. Len,SAC,MISS Len 5' Layup,Missed Shot,Layup Shot,44,12,5,1,2.0,0.0,h
+S2223-G1170,4,08:42,SAC,101.0,SAS,104.0,A. Len,SAC,Len 2' Dunk (4 PTS) (Fox 2 AST),Made Shot,Dunk Shot,-4,16,2,1,2.0,2.0,h
+S2223-G1170,4,07:57,SAC,,SAS,,A. Len,SAC,Len STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1170,4,07:48,SAC,,SAS,,A. Len,SAC,MISS Len 5' Hook Shot,Missed Shot,Hook Shot,0,50,5,1,2.0,0.0,h
+S2223-G1170,4,07:46,SAC,,SAS,,A. Len,SAC,Len REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1170,4,07:44,SAC,105.0,SAS,104.0,A. Len,SAC,Len 2' Layup (6 PTS),Made Shot,Layup Shot,-4,20,2,1,2.0,2.0,h
+S2223-G1170,4,06:54,SAC,,SAS,,A. Len,SAC,Len L.B.FOUL (P2.T1) (N.Green),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1170,4,06:54,SAC,,SAS,,A. Len,SAC,SUB: Sabonis FOR Len,Substitution,,0,0,0,0,,,h
+S2223-G1185,1,02:11,NOP,,SAC,,A. Len,SAC,Len REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1185,1,02:00,NOP,20.0,SAC,18.0,A. Len,SAC,Len 2' Layup (2 PTS) (Fox 2 AST),Made Shot,Layup Shot,2,16,2,1,2.0,2.0,v
+S2223-G1185,2,10:32,NOP,,SAC,,A. Len,SAC,Len L.B.FOUL (P1.T1) (D.Collins),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1185,2,10:10,NOP,,SAC,,A. Len,SAC,Len BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1185,2,08:48,NOP,,SAC,,A. Len,SAC,Len REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1185,2,07:37,NOP,,SAC,,A. Len,SAC,SUB: Sabonis FOR Len,Substitution,,0,0,0,0,,,v
+S2223-G1185,3,02:19,NOP,,SAC,,A. Len,SAC,Len REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1185,3,00:49.400000,NOP,,SAC,,A. Len,SAC,Len BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1185,3,00:48.400000,NOP,,SAC,,A. Len,SAC,Len REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1185,3,00:47.400000,NOP,79.0,SAC,93.0,A. Len,SAC,Len Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1185,3,00:47.400000,NOP,79.0,SAC,94.0,A. Len,SAC,Len Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1185,4,11:02,NOP,,SAC,,A. Len,SAC,Len L.B.FOUL (P2.T1) (R.Acosta),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1185,4,10:49,NOP,,SAC,,A. Len,SAC,Len P.FOUL (P3.T2) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G1185,4,09:05,NOP,,SAC,,A. Len,SAC,Len OFF.Foul (P4) (R.Acosta),Foul,Offensive,0,0,0,0,,,v
+S2223-G1185,4,09:05,NOP,,SAC,,A. Len,SAC,Len Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1185,4,09:05,NOP,,SAC,,A. Len,SAC,SUB: Edwards FOR Len,Substitution,,0,0,0,0,,,v
+S2223-G0096,2,00:49.700000,CHA,,SAC,,A. Len,SAC,Len S.FOUL (P1.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0096,2,00:18.300000,CHA,,SAC,,A. Len,SAC,MISS Len 4' Driving Layup,Missed Shot,Driving Layup Shot,37,14,4,1,2.0,0.0,v
+S2223-G0081,3,04:26,SAC,,MIA,,A. Len,SAC,Len REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0081,3,04:07,SAC,,MIA,,A. Len,SAC,Len P.FOUL (P1.PN) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G0081,3,03:27,SAC,,MIA,,A. Len,SAC,MISS Len Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0081,3,03:27,SAC,82.0,MIA,72.0,A. Len,SAC,Len Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0081,3,02:41,SAC,,MIA,,A. Len,SAC,SUB: Fox FOR Len,Substitution,,0,0,0,0,,,h
+S2223-G0812,4,02:15,HOU,,SAC,,A. Len,SAC,Len S.FOUL (P1.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1059,4,04:10,WAS,,SAC,,A. Len,SAC,Len REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1059,4,03:32,WAS,,SAC,,A. Len,SAC,Len Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1059,4,01:43,WAS,,SAC,,A. Len,SAC,Len S.FOUL (P1.PN) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2223-G1059,4,01:08,WAS,,SAC,,A. Len,SAC,MISS Len 25' 3PT Jump Shot,Missed Shot,Jump Shot,-25,253,25,1,3.0,0.0,v
+S2223-G1059,4,00:06.100000,WAS,,SAC,,A. Len,SAC,Len Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,v

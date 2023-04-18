@@ -1,0 +1,69 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0562,4,05:20,OKC,,BOS,,J. Jackson,BOS,Jackson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0562,4,03:06,OKC,144.0,BOS,113.0,J. Jackson,BOS,Jackson 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-132,211,25,1,3.0,3.0,v
+S2223-G0562,4,02:43,OKC,,BOS,,J. Jackson,BOS,MISS Jackson 26' 3PT Jump Shot,Missed Shot,Jump Shot,196,168,26,1,3.0,0.0,v
+S2223-G0562,4,00:24.100000,OKC,,BOS,,J. Jackson,BOS,MISS Jackson 6' Running Layup,Missed Shot,Running Layup Shot,62,8,6,1,2.0,0.0,v
+S2223-G0562,4,00:22.200000,OKC,,BOS,,J. Jackson,BOS,Jackson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0562,4,00:22.200000,OKC,,BOS,,J. Jackson,BOS,MISS Jackson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0562,4,00:22.200000,OKC,150.0,BOS,117.0,J. Jackson,BOS,Jackson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0714,1,01:03,MIA,,BOS,,J. Jackson,BOS,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,1,00:47.700000,MIA,,BOS,,J. Jackson,BOS,Jackson P.FOUL (P1.PN) (M.Myers),Foul,Personal,0,0,0,0,,,v
+S2223-G0714,2,08:56,MIA,,BOS,,J. Jackson,BOS,MISS Jackson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,12,24,1,3.0,0.0,v
+S2223-G0714,2,07:21,MIA,,BOS,,J. Jackson,BOS,Jackson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,2,06:11,MIA,44.0,BOS,43.0,J. Jackson,BOS,Jackson 3PT Jump Shot (3 PTS) (Tatum 2 AST),Made Shot,Jump Shot,-228,0,0,1,3.0,3.0,v
+S2223-G0714,2,04:30,MIA,,BOS,,J. Jackson,BOS,Jackson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,2,02:47,MIA,,BOS,,J. Jackson,BOS,Jackson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,2,02:41,MIA,,BOS,,J. Jackson,BOS,SUB: Williams FOR Jackson,Substitution,,0,0,0,0,,,v
+S2223-G0714,4,10:57,MIA,,BOS,,J. Jackson,BOS,MISS Jackson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-206,153,26,1,3.0,0.0,v
+S2223-G0714,4,09:15,MIA,,BOS,,J. Jackson,BOS,Jackson REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0714,4,07:46,MIA,,BOS,,J. Jackson,BOS,SUB: Tatum FOR Jackson,Substitution,,0,0,0,0,,,v
+S2223-G0294,4,09:43,BOS,,WAS,,J. Jackson,BOS,SUB: Williams FOR Jackson,Substitution,,0,0,0,0,,,h
+S2223-G0373,4,08:43,PHX,,BOS,,J. Jackson,BOS,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0373,4,06:38,PHX,,BOS,,J. Jackson,BOS,MISS Jackson 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,32,24,1,3.0,0.0,v
+S2223-G0373,4,03:07,PHX,,BOS,,J. Jackson,BOS,MISS Jackson 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-6,20,2,1,2.0,0.0,v
+S2223-G0373,4,02:08,PHX,,BOS,,J. Jackson,BOS,MISS Jackson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-205,163,26,1,3.0,0.0,v
+S2223-G0047,4,04:34,CHI,109.0,BOS,93.0,J. Jackson,BOS,Jackson 25' 3PT Jump Shot (3 PTS) (Griffin 1 AST),Made Shot,Jump Shot,-154,199,25,1,3.0,3.0,v
+S2223-G0047,4,02:29,CHI,116.0,BOS,99.0,J. Jackson,BOS,Jackson 25' 3PT Jump Shot (6 PTS) (Pritchard 2 AST),Made Shot,Jump Shot,-88,232,25,1,3.0,3.0,v
+S2223-G0047,4,01:39,CHI,,BOS,,J. Jackson,BOS,MISS Jackson 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-20,190,19,1,2.0,0.0,v
+S2223-G0163,4,04:26,BOS,,DET,,J. Jackson,BOS,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0163,4,04:06,BOS,,DET,,J. Jackson,BOS,MISS Jackson 29' 3PT Jump Shot,Missed Shot,Jump Shot,94,279,29,1,3.0,0.0,h
+S2223-G0163,4,03:24,BOS,,DET,,J. Jackson,BOS,Jackson S.FOUL (P1.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2223-G0163,4,01:38,BOS,,DET,,J. Jackson,BOS,MISS Jackson 28' 3PT Jump Shot,Missed Shot,Jump Shot,124,247,28,1,3.0,0.0,h
+S2223-G0621,4,01:32,BOS,,NOP,,J. Jackson,BOS,Jackson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0621,4,01:10,BOS,,NOP,,J. Jackson,BOS,MISS Jackson 27' 3PT Jump Shot,Missed Shot,Jump Shot,-65,267,27,1,3.0,0.0,h
+S2223-G0549,4,01:30,DEN,,BOS,,J. Jackson,BOS,MISS Jackson 8' Floating Jump Shot,Missed Shot,Floating Jump shot,33,76,8,1,2.0,0.0,v
+S2223-G0549,4,00:49.200000,DEN,,BOS,,J. Jackson,BOS,Jackson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0772,4,07:37,BOS,,BKN,,J. Jackson,BOS,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,4,06:01,BOS,,BKN,,J. Jackson,BOS,MISS Jackson 27' 3PT Jump Shot,Missed Shot,Jump Shot,-163,215,27,1,3.0,0.0,h
+S2223-G0772,4,05:50,BOS,,BKN,,J. Jackson,BOS,Jackson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0772,4,03:59,BOS,129.0,BKN,84.0,J. Jackson,BOS,Jackson 1' Cutting Layup Shot (2 PTS) (Kornet 2 AST),Made Shot,Cutting Layup Shot,2,9,1,1,2.0,2.0,h
+S2223-G0772,4,01:18,BOS,,BKN,,J. Jackson,BOS,Jackson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0089,4,02:52,BOS,,WAS,,J. Jackson,BOS,Jackson P.FOUL (P1.T2) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2223-G0089,4,00:45.900000,BOS,,WAS,,J. Jackson,BOS,MISS Jackson 29' 3PT Jump Shot,Missed Shot,Jump Shot,121,261,29,1,3.0,0.0,h
+S2223-G0482,4,00:57.300000,BOS,,MIN,,J. Jackson,BOS,Jackson Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0507,4,02:05,BOS,,HOU,,J. Jackson,BOS,Jackson S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G0507,4,01:31,BOS,126.0,HOU,102.0,J. Jackson,BOS,Jackson 27' 3PT Jump Shot (3 PTS) (Kornet 1 AST),Made Shot,Jump Shot,168,209,27,1,3.0,3.0,h
+S2223-G0301,4,07:49,BOS,,CHA,,J. Jackson,BOS,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0301,4,05:29,BOS,,CHA,,J. Jackson,BOS,Jackson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0301,4,05:10,BOS,,CHA,,J. Jackson,BOS,Jackson STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0301,4,04:41,BOS,,CHA,,J. Jackson,BOS,Jackson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0301,4,02:10,BOS,,CHA,,J. Jackson,BOS,MISS Jackson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-120,221,25,1,3.0,0.0,h
+S2223-G0301,4,01:41,BOS,,CHA,,J. Jackson,BOS,MISS Jackson 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,67,24,1,3.0,0.0,h
+S2223-G0642,4,10:59,CHA,,BOS,,J. Jackson,BOS,Jackson S.FOUL (P1.T1) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2223-G0642,4,09:51,CHA,,BOS,,J. Jackson,BOS,SUB: Smart FOR Jackson,Substitution,,0,0,0,0,,,v
+S2223-G0642,4,00:59.400000,CHA,,BOS,,J. Jackson,BOS,MISS Jackson 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-233,12,0,1,3.0,0.0,v
+S2223-G0346,4,00:33.700000,BKN,,BOS,,J. Jackson,BOS,Jackson S.FOUL (P1.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0214,2,10:56,ATL,,BOS,,J. Jackson,BOS,MISS Jackson 3PT Jump Shot,Missed Shot,Jump Shot,-227,8,0,1,3.0,0.0,v
+S2223-G0214,2,07:56,ATL,,BOS,,J. Jackson,BOS,Jackson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0214,2,07:20,ATL,,BOS,,J. Jackson,BOS,SUB: Horford FOR Jackson,Substitution,,0,0,0,0,,,v
+S2223-G0214,4,01:38,ATL,,BOS,,J. Jackson,BOS,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0577,4,02:06,DAL,,BOS,,J. Jackson,BOS,MISS Jackson 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-16,115,12,1,2.0,0.0,v
+S2223-G0577,4,01:37,DAL,,BOS,,J. Jackson,BOS,Jackson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0577,4,00:59.600000,DAL,,BOS,,J. Jackson,BOS,Jackson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0577,4,00:46.600000,DAL,,BOS,,J. Jackson,BOS,Jackson S.FOUL (P1.T4) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2223-G0577,4,00:35,DAL,93.0,BOS,122.0,J. Jackson,BOS,Jackson 10' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,42,95,10,1,2.0,2.0,v
+S2223-G0408,4,02:48,LAC,,BOS,,J. Jackson,BOS,Jackson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0408,4,02:40,LAC,,BOS,,J. Jackson,BOS,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0408,4,02:35,LAC,,BOS,,J. Jackson,BOS,Jackson Out of Bounds - Bad Pass Turnover Turnover (P1.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0275,4,03:04,BOS,,SAC,,J. Jackson,BOS,MISS Jackson 25' 3PT Jump Shot,Missed Shot,Jump Shot,235,98,25,1,3.0,0.0,h
+S2223-G0275,4,00:43.500000,BOS,,SAC,,J. Jackson,BOS,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h

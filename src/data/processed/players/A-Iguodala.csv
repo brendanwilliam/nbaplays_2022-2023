@@ -1,0 +1,86 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0410,3,06:30,MIL,,GSW,,A. Iguodala,GSW,Iguodala T.FOUL (P0.T4) (B.Taylor),Foul,Technical,0,0,0,0,,,v
+S2223-G0996,2,09:35,MEM,,GSW,,A. Iguodala,GSW,Iguodala S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G0996,2,08:41,MEM,,GSW,,A. Iguodala,GSW,Iguodala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0996,2,06:17,MEM,,GSW,,A. Iguodala,GSW,Iguodala STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0996,2,06:03,MEM,,GSW,,A. Iguodala,GSW,SUB: Poole FOR Iguodala,Substitution,,0,0,0,0,,,v
+S2223-G0996,2,00:01.500000,MEM,,GSW,,A. Iguodala,GSW,SUB: Looney FOR Iguodala,Substitution,,0,0,0,0,,,v
+S2223-G0996,3,03:57,MEM,,GSW,,A. Iguodala,GSW,MISS Iguodala 26' 3PT Jump Shot,Missed Shot,Jump Shot,-158,204,26,1,3.0,0.0,v
+S2223-G0996,3,01:20,MEM,,GSW,,A. Iguodala,GSW,Iguodala STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0996,3,00:43,MEM,,GSW,,A. Iguodala,GSW,MISS Iguodala 3PT Jump Shot,Missed Shot,Jump Shot,-229,25,0,1,3.0,0.0,v
+S2223-G0996,4,06:50,MEM,,GSW,,A. Iguodala,GSW,MISS Iguodala 25' 3PT Jump Shot,Missed Shot,Jump Shot,154,203,25,1,3.0,0.0,v
+S2223-G0996,4,06:39,MEM,,GSW,,A. Iguodala,GSW,SUB: J. Green FOR Iguodala,Substitution,,0,0,0,0,,,v
+S2223-G0964,2,08:50,LAL,,GSW,,A. Iguodala,GSW,Iguodala BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0964,2,05:53,LAL,,GSW,,A. Iguodala,GSW,MISS Iguodala 25' 3PT Jump Shot,Missed Shot,Jump Shot,71,242,25,1,3.0,0.0,v
+S2223-G0964,2,05:34,LAL,,GSW,,A. Iguodala,GSW,SUB: Looney FOR Iguodala,Substitution,,0,0,0,0,,,v
+S2223-G0964,4,10:33,LAL,,GSW,,A. Iguodala,GSW,MISS Iguodala 26' 3PT Jump Shot,Missed Shot,Jump Shot,134,221,26,1,3.0,0.0,v
+S2223-G0964,4,06:52,LAL,,GSW,,A. Iguodala,GSW,SUB: Poole FOR Iguodala,Substitution,,0,0,0,0,,,v
+S2223-G0964,4,01:26,LAL,,GSW,,A. Iguodala,GSW,Iguodala S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0964,4,00:48.900000,LAL,,GSW,,A. Iguodala,GSW,SUB: Poole FOR Iguodala,Substitution,,0,0,0,0,,,v
+S2223-G1025,1,00:23,GSW,,PHX,,A. Iguodala,GSW,Iguodala S.FOUL (P1.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G1025,1,00:23,GSW,,PHX,,A. Iguodala,GSW,SUB: Thompson FOR Iguodala,Substitution,,0,0,0,0,,,h
+S2223-G1025,2,08:28,GSW,54.0,PHX,32.0,A. Iguodala,GSW,Iguodala 3' Reverse Dunk (2 PTS) (Poole 4 AST),Made Shot,Reverse Dunk Shot,27,14,3,1,2.0,2.0,h
+S2223-G1025,2,07:50,GSW,,PHX,,A. Iguodala,GSW,Iguodala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1025,2,05:31,GSW,,PHX,,A. Iguodala,GSW,Iguodala S.FOUL (P2.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G1025,2,05:07,GSW,,PHX,,A. Iguodala,GSW,SUB: D. Green FOR Iguodala,Substitution,,0,0,0,0,,,h
+S2223-G1025,3,02:28,GSW,,PHX,,A. Iguodala,GSW,Iguodala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1025,3,01:51,GSW,,PHX,,A. Iguodala,GSW,Iguodala P.FOUL (P3.PN) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G1025,3,01:41,GSW,95.0,PHX,86.0,A. Iguodala,GSW,Iguodala 6' Driving Finger Roll Layup (4 PTS) (Curry 5 AST),Made Shot,Driving Finger Roll Layup Shot,22,54,6,1,2.0,2.0,h
+S2223-G1025,3,01:41,GSW,96.0,PHX,86.0,A. Iguodala,GSW,Iguodala Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1025,3,01:08,GSW,,PHX,,A. Iguodala,GSW,Iguodala STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1025,3,00:00.200000,GSW,,PHX,,A. Iguodala,GSW,MISS Iguodala 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-225,-1,0,1,3.0,0.0,h
+S2223-G1025,4,06:03,GSW,111.0,PHX,100.0,A. Iguodala,GSW,Iguodala Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1025,4,06:03,GSW,,PHX,,A. Iguodala,GSW,MISS Iguodala Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1025,4,04:02,GSW,,PHX,,A. Iguodala,GSW,SUB: D. Green FOR Iguodala,Substitution,,0,0,0,0,,,h
+S2223-G0635,1,08:49,SAS,,GSW,,A. Iguodala,GSW,Iguodala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0635,1,03:56,SAS,13.0,GSW,20.0,A. Iguodala,GSW,Iguodala 26' 3PT Jump Shot (3 PTS) (Moody 1 AST),Made Shot,Jump Shot,-188,177,26,1,3.0,3.0,v
+S2223-G0635,1,02:26,SAS,,GSW,,A. Iguodala,GSW,SUB: Looney FOR Iguodala,Substitution,,0,0,0,0,,,v
+S2223-G0635,2,04:10,SAS,,GSW,,A. Iguodala,GSW,Iguodala Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0635,2,03:51,SAS,,GSW,,A. Iguodala,GSW,SUB: Green FOR Iguodala,Substitution,,0,0,0,0,,,v
+S2223-G0635,3,08:19,SAS,,GSW,,A. Iguodala,GSW,Iguodala P.FOUL (P1.T3) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2223-G0635,3,07:41,SAS,,GSW,,A. Iguodala,GSW,Iguodala BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0635,3,06:47,SAS,,GSW,,A. Iguodala,GSW,Iguodala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0635,3,05:35,SAS,,GSW,,A. Iguodala,GSW,Iguodala REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0635,3,04:38,SAS,,GSW,,A. Iguodala,GSW,Iguodala Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0635,3,04:06,SAS,,GSW,,A. Iguodala,GSW,MISS Iguodala 26' 3PT Jump Shot,Missed Shot,Jump Shot,218,143,26,1,3.0,0.0,v
+S2223-G0635,3,02:22,SAS,,GSW,,A. Iguodala,GSW,SUB: Looney FOR Iguodala,Substitution,,0,0,0,0,,,v
+S2223-G0635,4,08:16,SAS,,GSW,,A. Iguodala,GSW,Iguodala REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0635,4,06:03,SAS,93.0,GSW,129.0,A. Iguodala,GSW,Iguodala 2' Running Dunk (5 PTS) (Poole 5 AST),Made Shot,Running Dunk Shot,-10,12,2,1,2.0,2.0,v
+S2223-G0635,4,05:22,SAS,,GSW,,A. Iguodala,GSW,Iguodala STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0635,4,04:52,SAS,,GSW,,A. Iguodala,GSW,SUB: DiVincenzo FOR Iguodala,Substitution,,0,0,0,0,,,v
+S2223-G1012,1,01:05,GSW,,MIL,,A. Iguodala,GSW,Iguodala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1012,1,00:04.900000,GSW,,MIL,,A. Iguodala,GSW,Iguodala REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1012,1,00:04.900000,GSW,28.0,MIL,23.0,A. Iguodala,GSW,Iguodala Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1012,2,11:24,GSW,,MIL,,A. Iguodala,GSW,Iguodala REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1012,2,10:32,GSW,,MIL,,A. Iguodala,GSW,Iguodala REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1012,2,09:29,GSW,,MIL,,A. Iguodala,GSW,Iguodala BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1012,2,08:40,GSW,,MIL,,A. Iguodala,GSW,SUB: Looney FOR Iguodala,Substitution,,0,0,0,0,,,h
+S2223-G1012,3,03:18,GSW,,MIL,,A. Iguodala,GSW,Iguodala Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1012,3,01:55,GSW,,MIL,,A. Iguodala,GSW,Iguodala S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G1012,3,01:14,GSW,,MIL,,A. Iguodala,GSW,Iguodala REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1012,3,01:07,GSW,,MIL,,A. Iguodala,GSW,MISS Iguodala 26' 3PT Jump Shot,Missed Shot,Jump Shot,7,262,26,1,3.0,0.0,h
+S2223-G1012,3,00:38.700000,GSW,,MIL,,A. Iguodala,GSW,SUB: D. Green FOR Iguodala,Substitution,,0,0,0,0,,,h
+S2223-G0615,1,06:16,GSW,,PHX,,A. Iguodala,GSW,Iguodala S.FOUL (P1.T2) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0615,1,03:40,GSW,,PHX,,A. Iguodala,GSW,Iguodala REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0615,1,03:37,GSW,20.0,PHX,18.0,A. Iguodala,GSW,Iguodala Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0615,1,02:44,GSW,,PHX,,A. Iguodala,GSW,SUB: Looney FOR Iguodala,Substitution,,0,0,0,0,,,h
+S2223-G0615,4,08:57,GSW,,PHX,,A. Iguodala,GSW,Iguodala OFF.Foul (P2) (M.Myers),Foul,Offensive,0,0,0,0,,,h
+S2223-G0615,4,08:57,GSW,,PHX,,A. Iguodala,GSW,Iguodala Offensive Foul Turnover (P1.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0615,4,07:09,GSW,,PHX,,A. Iguodala,GSW,Iguodala S.FOUL (P3.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2223-G0615,4,04:30,GSW,,PHX,,A. Iguodala,GSW,Iguodala T.FOUL (P3.T3) (K.Lane),Foul,Technical,0,0,0,0,,,h
+S2223-G0615,4,04:30,GSW,,PHX,,A. Iguodala,GSW,Iguodala Ejection:Other,Ejection,Other,0,0,0,0,,,h
+S2223-G0615,4,04:30,GSW,,PHX,,A. Iguodala,GSW,SUB: Lamb FOR Iguodala,Substitution,,0,0,0,0,,,h
+S2223-G0594,1,05:36,GSW,,ORL,,A. Iguodala,GSW,Iguodala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0594,1,04:37,GSW,,ORL,,A. Iguodala,GSW,Iguodala Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0594,1,00:50.400000,GSW,,ORL,,A. Iguodala,GSW,SUB: Looney FOR Iguodala,Substitution,,0,0,0,0,,,h
+S2223-G0594,3,07:53,GSW,,ORL,,A. Iguodala,GSW,Iguodala Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0594,3,07:07,GSW,,ORL,,A. Iguodala,GSW,Iguodala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0594,3,06:15,GSW,,ORL,,A. Iguodala,GSW,Iguodala S.FOUL (P1.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0594,3,03:24,GSW,,ORL,,A. Iguodala,GSW,SUB: Baldwin Jr. FOR Iguodala,Substitution,,0,0,0,0,,,h
+S2223-G0982,1,05:25,OKC,,GSW,,A. Iguodala,GSW,Iguodala REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0982,1,04:26,OKC,24.0,GSW,24.0,A. Iguodala,GSW,Iguodala 1' Cutting Dunk Shot (2 PTS) (Curry 5 AST),Made Shot,Cutting Dunk Shot,6,8,1,1,2.0,2.0,v
+S2223-G0982,1,02:55,OKC,,GSW,,A. Iguodala,GSW,Iguodala Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0982,1,02:08,OKC,,GSW,,A. Iguodala,GSW,Iguodala Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0982,1,02:00,OKC,,GSW,,A. Iguodala,GSW,Iguodala Out of Bounds Lost Ball Turnover (P3.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0982,1,01:41,OKC,,GSW,,A. Iguodala,GSW,Iguodala REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0982,3,01:37,OKC,,GSW,,A. Iguodala,GSW,SUB: Curry FOR Iguodala,Substitution,,0,0,0,0,,,v

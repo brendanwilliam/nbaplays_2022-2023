@@ -1,0 +1,610 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0962,2,03:43,DAL,,PHX,,T. Warren,PHX,Warren REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0962,2,03:41,DAL,,PHX,,T. Warren,PHX,MISS Warren 11' Jump Shot,Missed Shot,Jump Shot,-39,100,11,1,2.0,0.0,v
+S2223-G0962,2,02:30,DAL,,PHX,,T. Warren,PHX,SUB: Durant FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0870,1,00:37.600000,PHX,27.0,SAC,26.0,T. Warren,PHX,Warren 24' 3PT Jump Shot (3 PTS) (S. Lee 1 AST),Made Shot,Jump Shot,-238,2,24,1,3.0,3.0,h
+S2223-G0870,2,11:51,PHX,,SAC,,T. Warren,PHX,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0870,2,11:36,PHX,,SAC,,T. Warren,PHX,MISS Warren 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-115,25,12,1,2.0,0.0,h
+S2223-G0870,2,11:21,PHX,,SAC,,T. Warren,PHX,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0870,2,11:04,PHX,,SAC,,T. Warren,PHX,SUB: Okogie FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0870,3,02:13,PHX,,SAC,,T. Warren,PHX,Warren STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0870,3,01:58,PHX,88.0,SAC,80.0,T. Warren,PHX,Warren 7' Turnaround Fadeaway (5 PTS) (Ayton 1 AST),Made Shot,Turnaround Fadeaway shot,-55,45,7,1,2.0,2.0,h
+S2223-G0470,1,02:19,BKN,,GSW,,T. Warren,BKN,MISS Warren 20' Jump Shot,Missed Shot,Jump Shot,-195,26,20,1,2.0,0.0,h
+S2223-G0470,1,00:13.500000,BKN,,GSW,,T. Warren,BKN,MISS Warren 3' Layup,Missed Shot,Layup Shot,-28,10,3,1,2.0,0.0,h
+S2223-G0470,1,00:01.300000,BKN,,GSW,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0470,2,11:39,BKN,48.0,GSW,17.0,T. Warren,BKN,Warren 9' Jump Shot (2 PTS),Made Shot,Jump Shot,-55,67,9,1,2.0,2.0,h
+S2223-G0470,2,10:53,BKN,51.0,GSW,21.0,T. Warren,BKN,Warren 25' 3PT Jump Shot (5 PTS) (Curry 2 AST),Made Shot,Jump Shot,-184,169,25,1,3.0,3.0,h
+S2223-G0470,2,09:36,BKN,,GSW,,T. Warren,BKN,MISS Warren 3PT Jump Shot,Missed Shot,Jump Shot,-233,1,0,1,3.0,0.0,h
+S2223-G0470,2,06:26,BKN,,GSW,,T. Warren,BKN,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0470,2,05:16,BKN,,GSW,,T. Warren,BKN,MISS Warren 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-110,6,11,1,2.0,0.0,h
+S2223-G0470,2,05:06,BKN,,GSW,,T. Warren,BKN,SUB: Durant FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0470,4,10:40,BKN,,GSW,,T. Warren,BKN,Warren OFF.Foul (P1) (A.Smith),Foul,Offensive,0,0,0,0,,,h
+S2223-G0470,4,10:40,BKN,,GSW,,T. Warren,BKN,Warren Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0470,4,09:31,BKN,117.0,GSW,96.0,T. Warren,BKN,Warren 25' 3PT Jump Shot (8 PTS) (Mills 1 AST),Made Shot,Jump Shot,-162,187,25,1,3.0,3.0,h
+S2223-G0470,4,08:01,BKN,124.0,GSW,96.0,T. Warren,BKN,Warren 6' Driving Floating Jump Shot (10 PTS) (Morris 2 AST),Made Shot,Driving Floating Jump Shot,-18,52,6,1,2.0,2.0,h
+S2223-G0470,4,07:57,BKN,,GSW,,T. Warren,BKN,Warren S.FOUL (P2.T4) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2223-G0470,4,07:03,BKN,129.0,GSW,99.0,T. Warren,BKN,Warren 2' Driving Layup (12 PTS) (Mills 2 AST),Made Shot,Driving Layup Shot,13,15,2,1,2.0,2.0,h
+S2223-G0470,4,06:43,BKN,,GSW,,T. Warren,BKN,Warren REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0470,4,05:39,BKN,,GSW,,T. Warren,BKN,Warren REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0470,4,05:21,BKN,,GSW,,T. Warren,BKN,MISS Warren 6' Hook Shot,Missed Shot,Hook Shot,1,56,6,1,2.0,0.0,h
+S2223-G0470,4,05:15,BKN,,GSW,,T. Warren,BKN,Warren STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0470,4,04:43,BKN,,GSW,,T. Warren,BKN,Warren REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0470,4,01:49,BKN,,GSW,,T. Warren,BKN,SUB: Watanabe FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G1125,1,05:13,UTA,,PHX,,T. Warren,PHX,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1125,1,03:13,UTA,,PHX,,T. Warren,PHX,MISS Warren 9' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-83,20,9,1,2.0,0.0,v
+S2223-G1125,1,03:01,UTA,,PHX,,T. Warren,PHX,Warren P.FOUL (P1.T1) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2223-G1125,1,02:45,UTA,,PHX,,T. Warren,PHX,MISS Warren 25' 3PT Jump Shot,Missed Shot,Jump Shot,-230,89,25,1,3.0,0.0,v
+S2223-G1125,1,02:26,UTA,,PHX,,T. Warren,PHX,Warren S.FOUL (P2.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2223-G1125,1,02:02,UTA,,PHX,,T. Warren,PHX,MISS Warren 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,13,125,13,1,2.0,0.0,v
+S2223-G1125,1,01:12,UTA,,PHX,,T. Warren,PHX,Warren P.FOUL (P3.T3) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2223-G1125,1,01:12,UTA,,PHX,,T. Warren,PHX,SUB: Wainright FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G1125,3,02:43,UTA,,PHX,,T. Warren,PHX,MISS Warren 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,35,24,1,3.0,0.0,v
+S2223-G1125,3,01:51,UTA,,PHX,,T. Warren,PHX,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1125,3,01:00,UTA,,PHX,,T. Warren,PHX,Warren BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1125,3,00:04.800000,UTA,81.0,PHX,84.0,T. Warren,PHX,Warren 17' Pullup Jump Shot (2 PTS) (Shamet 4 AST),Made Shot,Pullup Jump shot,172,-27,17,1,2.0,2.0,v
+S2223-G1125,4,07:00,UTA,89.0,PHX,100.0,T. Warren,PHX,Warren 15' Pullup Jump Shot (4 PTS) (Ross 1 AST),Made Shot,Pullup Jump shot,-142,35,15,1,2.0,2.0,v
+S2223-G1125,4,06:36,UTA,89.0,PHX,102.0,T. Warren,PHX,Warren 3' Running Layup (6 PTS) (Payne 5 AST),Made Shot,Running Layup Shot,-23,16,3,1,2.0,2.0,v
+S2223-G1125,4,06:36,UTA,89.0,PHX,103.0,T. Warren,PHX,Warren Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1125,4,05:36,UTA,93.0,PHX,105.0,T. Warren,PHX,Warren 19' Pullup Jump Shot (9 PTS) (Biyombo 2 AST),Made Shot,Pullup Jump shot,167,84,19,1,2.0,2.0,v
+S2223-G1125,4,03:50,UTA,,PHX,,T. Warren,PHX,MISS Warren 11' Floating Jump Shot,Missed Shot,Floating Jump shot,89,64,11,1,2.0,0.0,v
+S2223-G1125,4,03:25,UTA,,PHX,,T. Warren,PHX,Warren REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1125,4,01:44,UTA,,PHX,,T. Warren,PHX,Warren REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0364,1,01:07,BKN,,CHA,,T. Warren,BKN,MISS Warren 11' Jump Shot,Missed Shot,Jump Shot,44,101,11,1,2.0,0.0,h
+S2223-G0364,2,06:02,BKN,,CHA,,T. Warren,BKN,Warren S.FOUL (P1.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0364,2,05:25,BKN,,CHA,,T. Warren,BKN,SUB: Harris FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0364,3,01:43,BKN,,CHA,,T. Warren,BKN,Warren S.FOUL (P2.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G0364,3,01:25,BKN,,CHA,,T. Warren,BKN,Warren Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1172,1,03:21,OKC,,PHX,,T. Warren,PHX,Warren S.FOUL (P1.T3) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2223-G1172,1,02:11,OKC,,PHX,,T. Warren,PHX,MISS Warren 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-71,43,8,1,2.0,0.0,v
+S2223-G1172,1,01:59,OKC,,PHX,,T. Warren,PHX,Warren P.FOUL (P2.T4) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2223-G1172,1,01:31,OKC,22.0,PHX,20.0,T. Warren,PHX,Warren 3PT Jump Shot (3 PTS) (Craig 1 AST),Made Shot,Jump Shot,229,16,0,1,3.0,3.0,v
+S2223-G1172,2,04:31,OKC,43.0,PHX,55.0,T. Warren,PHX,Warren 25' 3PT Jump Shot (6 PTS) (Payne 3 AST),Made Shot,Jump Shot,159,198,25,1,3.0,3.0,v
+S2223-G1172,2,01:16,OKC,,PHX,,T. Warren,PHX,SUB: Craig FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G1172,3,03:13,OKC,,PHX,,T. Warren,PHX,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1172,3,01:00,OKC,,PHX,,T. Warren,PHX,MISS Warren 3PT Jump Shot,Missed Shot,Jump Shot,-232,-29,0,1,3.0,0.0,v
+S2223-G1172,3,00:10.300000,OKC,,PHX,,T. Warren,PHX,MISS Warren 24' 3PT Jump Shot,Missed Shot,Jump Shot,-189,154,24,1,3.0,0.0,v
+S2223-G1105,1,03:40,SAC,,PHX,,T. Warren,PHX,MISS Warren 25' 3PT Jump Shot,Missed Shot,Jump Shot,80,239,25,1,3.0,0.0,v
+S2223-G1105,1,03:27,SAC,,PHX,,T. Warren,PHX,Warren STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1105,1,03:26,SAC,20.0,PHX,24.0,T. Warren,PHX,Warren 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,-9,6,1,1,2.0,2.0,v
+S2223-G1105,1,02:13,SAC,,PHX,,T. Warren,PHX,MISS Warren 3PT Jump Shot,Missed Shot,Jump Shot,227,25,0,1,3.0,0.0,v
+S2223-G1105,1,01:57,SAC,,PHX,,T. Warren,PHX,Warren STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1105,1,01:23,SAC,,PHX,,T. Warren,PHX,MISS Warren 3' Driving Layup,Missed Shot,Driving Layup Shot,-17,20,3,1,2.0,0.0,v
+S2223-G1105,2,11:35,SAC,24.0,PHX,32.0,T. Warren,PHX,Warren 14' Jump Shot (4 PTS) (Paul 3 AST),Made Shot,Jump Shot,142,9,14,1,2.0,2.0,v
+S2223-G1105,2,10:30,SAC,,PHX,,T. Warren,PHX,Warren Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1105,2,09:48,SAC,,PHX,,T. Warren,PHX,Warren REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1105,2,09:46,SAC,29.0,PHX,36.0,T. Warren,PHX,Warren 19' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-191,32,19,1,2.0,2.0,v
+S2223-G1105,2,08:05,SAC,33.0,PHX,44.0,T. Warren,PHX,Warren 17' Running Jump Shot (8 PTS) (Paul 7 AST),Made Shot,Running Jump Shot,164,48,17,1,2.0,2.0,v
+S2223-G1105,2,04:41,SAC,,PHX,,T. Warren,PHX,MISS Warren 25' 3PT Jump Shot,Missed Shot,Jump Shot,-205,136,25,1,3.0,0.0,v
+S2223-G1105,2,04:21,SAC,,PHX,,T. Warren,PHX,SUB: Booker FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G1105,3,04:28,SAC,87.0,PHX,79.0,T. Warren,PHX,Warren 16' Pullup Jump Shot (10 PTS) (Booker 4 AST),Made Shot,Pullup Jump shot,-110,122,16,1,2.0,2.0,v
+S2223-G1105,3,03:10,SAC,,PHX,,T. Warren,PHX,Warren P.FOUL (P1.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G1105,3,02:56,SAC,92.0,PHX,85.0,T. Warren,PHX,Warren 24' 3PT Jump Shot (13 PTS) (Payne 2 AST),Made Shot,Jump Shot,-235,15,24,1,3.0,3.0,v
+S2223-G1105,3,00:36.500000,SAC,,PHX,,T. Warren,PHX,Warren REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1105,4,11:38,SAC,,PHX,,T. Warren,PHX,MISS Warren 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-141,5,14,1,2.0,0.0,v
+S2223-G1105,4,10:49,SAC,103.0,PHX,95.0,T. Warren,PHX,Warren 6' Floating Jump Shot (15 PTS) (Payne 4 AST),Made Shot,Floating Jump shot,32,49,6,1,2.0,2.0,v
+S2223-G1105,4,10:49,SAC,,PHX,,T. Warren,PHX,MISS Warren Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G1105,4,08:43,SAC,,PHX,,T. Warren,PHX,Warren S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1105,4,07:46,SAC,,PHX,,T. Warren,PHX,SUB: Craig FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G1105,4,05:27,SAC,,PHX,,T. Warren,PHX,MISS Warren 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-67,25,7,1,2.0,0.0,v
+S2223-G1105,4,01:40,SAC,,PHX,,T. Warren,PHX,Warren P.FOUL (P3.PN) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2223-G1105,4,01:37,SAC,,PHX,,T. Warren,PHX,Warren REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1105,4,00:07.800000,SAC,,PHX,,T. Warren,PHX,Warren Personal Take Foul (P4.PN) (A.Nagy),Foul,Personal Take,0,0,0,0,,,v
+S2223-G1105,4,00:04.300000,SAC,,PHX,,T. Warren,PHX,Warren Personal Take Foul (P5.PN) (A.Nagy),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0651,1,02:38,,,OKC,,T. Warren,BKN,Warren Offensive Charge Foul (P1) (B.Schwab),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0651,1,02:38,,,OKC,,T. Warren,BKN,Warren Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0651,1,01:45,,,OKC,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0651,2,03:41,,,OKC,,T. Warren,BKN,MISS Warren 26' 3PT Jump Shot,Missed Shot,Jump Shot,-206,152,26,1,3.0,0.0,h
+S2223-G0651,2,02:57,,,OKC,,T. Warren,BKN,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0651,2,02:44,,44.0,OKC,45.0,T. Warren,BKN,Warren 3PT Jump Shot (3 PTS) (O'Neale 4 AST),Made Shot,Jump Shot,-229,-1,0,1,3.0,3.0,h
+S2223-G0651,2,02:21,,,OKC,,T. Warren,BKN,MISS Warren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0651,2,02:21,,,OKC,,T. Warren,BKN,MISS Warren Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0651,2,02:00,,,OKC,,T. Warren,BKN,MISS Warren 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,37,64,7,1,2.0,0.0,h
+S2223-G0651,2,01:56,,,OKC,,T. Warren,BKN,Warren REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0651,2,01:56,,46.0,OKC,45.0,T. Warren,BKN,Warren Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0651,2,01:30,,,OKC,,T. Warren,BKN,MISS Warren 13' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,81,98,13,1,2.0,0.0,h
+S2223-G0651,2,00:30.100000,,,OKC,,T. Warren,BKN,SUB: Claxton FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0651,3,03:55,,72.0,OKC,66.0,T. Warren,BKN,Warren 3PT Jump Shot (8 PTS) (Watanabe 2 AST),Made Shot,Jump Shot,-225,2,0,1,3.0,3.0,h
+S2223-G0651,3,03:55,,73.0,OKC,66.0,T. Warren,BKN,Warren Free Throw Flagrant 1 of 1 (9 PTS),Free Throw,Free Throw Flagrant 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0651,3,02:51,,,OKC,,T. Warren,BKN,Warren S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0651,3,00:33.800000,,,OKC,,T. Warren,BKN,Warren P.FOUL (P3.PN) (B.Schwab),Foul,Personal,0,0,0,0,,,h
+S2223-G0651,4,11:44,,,OKC,,T. Warren,BKN,MISS Warren 5' Driving Layup,Missed Shot,Driving Layup Shot,40,26,5,1,2.0,0.0,h
+S2223-G0651,4,10:54,,,OKC,,T. Warren,BKN,SUB: O'Neale FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0651,4,00:58.500000,,,OKC,,T. Warren,BKN,MISS Warren 3PT Jump Shot,Missed Shot,Jump Shot,-228,4,0,1,3.0,0.0,h
+S2223-G1144,1,00:53.200000,PHX,,MIN,,T. Warren,PHX,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1144,1,00:47.900000,PHX,,MIN,,T. Warren,PHX,MISS Warren 8' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,38,69,8,1,2.0,0.0,h
+S2223-G1144,1,00:04,PHX,,MIN,,T. Warren,PHX,MISS Warren 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-42,190,19,1,2.0,0.0,h
+S2223-G1144,2,04:12,PHX,,MIN,,T. Warren,PHX,Warren REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1144,2,04:06,PHX,40.0,MIN,38.0,T. Warren,PHX,Warren Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1144,2,03:50,PHX,,MIN,,T. Warren,PHX,Warren REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1144,2,01:36,PHX,,MIN,,T. Warren,PHX,SUB: Craig FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G1144,3,02:46,PHX,,MIN,,T. Warren,PHX,Warren REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1144,3,02:06,PHX,,MIN,,T. Warren,PHX,Warren BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1144,3,00:31.300000,PHX,,MIN,,T. Warren,PHX,MISS Warren 2' Running Layup,Missed Shot,Running Layup Shot,11,20,2,1,2.0,0.0,h
+S2223-G0539,1,02:47,CHA,,BKN,,T. Warren,BKN,MISS Warren 25' 3PT Jump Shot,Missed Shot,Jump Shot,-168,188,25,1,3.0,0.0,v
+S2223-G0539,1,02:37,CHA,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0539,1,02:04,CHA,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0539,1,02:02,CHA,20.0,BKN,27.0,T. Warren,BKN,Warren 6' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,15,63,6,1,2.0,2.0,v
+S2223-G0539,1,02:02,CHA,20.0,BKN,28.0,T. Warren,BKN,Warren Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0539,1,00:11.700000,CHA,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0539,2,11:39,CHA,,BKN,,T. Warren,BKN,MISS Warren 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-39,193,20,1,2.0,0.0,v
+S2223-G0539,2,10:47,CHA,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0539,2,10:24,CHA,,BKN,,T. Warren,BKN,MISS Warren 25' 3PT Jump Shot,Missed Shot,Jump Shot,100,231,25,1,3.0,0.0,v
+S2223-G0539,2,09:09,CHA,,BKN,,T. Warren,BKN,Warren Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0539,2,05:03,CHA,,BKN,,T. Warren,BKN,SUB: Watanabe FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0539,3,02:42,CHA,76.0,BKN,89.0,T. Warren,BKN,Warren 12' Turnaround Fadeaway (5 PTS) (Durant 4 AST),Made Shot,Turnaround Fadeaway shot,-119,13,12,1,2.0,2.0,v
+S2223-G0539,3,02:22,CHA,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0539,3,02:22,CHA,76.0,BKN,90.0,T. Warren,BKN,Warren Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0539,3,02:22,CHA,76.0,BKN,91.0,T. Warren,BKN,Warren Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0539,3,00:11.800000,CHA,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0539,4,10:33,CHA,,BKN,,T. Warren,BKN,MISS Warren 3PT Jump Shot,Missed Shot,Jump Shot,-232,36,0,1,3.0,0.0,v
+S2223-G0539,4,10:07,CHA,82.0,BKN,99.0,T. Warren,BKN,Warren 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,21,7,2,1,2.0,2.0,v
+S2223-G0539,4,09:44,CHA,,BKN,,T. Warren,BKN,Warren Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0539,4,08:41,CHA,,BKN,,T. Warren,BKN,MISS Warren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0539,4,08:41,CHA,85.0,BKN,100.0,T. Warren,BKN,Warren Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0539,4,05:57,CHA,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0539,4,02:17,CHA,,BKN,,T. Warren,BKN,Warren S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G0885,1,02:43,PHX,,LAC,,T. Warren,PHX,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0885,1,00:24.500000,PHX,,LAC,,T. Warren,PHX,SUB: Okogie FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0885,2,11:27,PHX,,LAC,,T. Warren,PHX,Warren REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0885,2,11:22,PHX,25.0,LAC,30.0,T. Warren,PHX,Warren 7' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,-11,67,7,1,2.0,2.0,h
+S2223-G0885,2,10:08,PHX,,LAC,,T. Warren,PHX,MISS Warren 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-96,159,19,1,2.0,0.0,h
+S2223-G0885,2,10:07,PHX,,LAC,,T. Warren,PHX,SUB: D. Lee FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0885,3,02:44,PHX,,LAC,,T. Warren,PHX,Warren REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0885,3,00:30.200000,PHX,,LAC,,T. Warren,PHX,Warren S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0329,1,03:28,BKN,32.0,TOR,10.0,T. Warren,BKN,Warren 14' Pullup Jump Shot (2 PTS) (Curry 2 AST),Made Shot,Pullup Jump shot,136,5,14,1,2.0,2.0,h
+S2223-G0329,1,01:33,BKN,,TOR,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0329,1,01:01,BKN,,TOR,,T. Warren,BKN,Warren STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0329,1,00:57.600000,BKN,,TOR,,T. Warren,BKN,MISS Warren 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,2,16,2,1,2.0,0.0,h
+S2223-G0329,2,08:30,BKN,,TOR,,T. Warren,BKN,Warren REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0329,2,08:28,BKN,,TOR,,T. Warren,BKN,MISS Warren 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,6,12,1,1,2.0,0.0,h
+S2223-G0329,2,08:27,BKN,,TOR,,T. Warren,BKN,Warren REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0329,2,08:25,BKN,54.0,TOR,27.0,T. Warren,BKN,Warren 2' Driving Layup (4 PTS) (Curry 4 AST),Made Shot,Driving Layup Shot,17,5,2,1,2.0,2.0,h
+S2223-G0329,2,07:23,BKN,60.0,TOR,31.0,T. Warren,BKN,Warren 19' Pullup Jump Shot (6 PTS) (Harris 4 AST),Made Shot,Pullup Jump shot,-153,106,19,1,2.0,2.0,h
+S2223-G0329,2,06:57,BKN,,TOR,,T. Warren,BKN,MISS Warren 26' 3PT Jump Shot,Missed Shot,Jump Shot,-169,202,26,1,3.0,0.0,h
+S2223-G0329,2,05:30,BKN,,TOR,,T. Warren,BKN,MISS Warren 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-23,55,6,1,2.0,0.0,h
+S2223-G0329,2,05:25,BKN,,TOR,,T. Warren,BKN,Warren REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0329,2,05:25,BKN,67.0,TOR,31.0,T. Warren,BKN,Warren Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0329,2,05:21,BKN,,TOR,,T. Warren,BKN,SUB: Morris FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0329,3,02:13,BKN,89.0,TOR,68.0,T. Warren,BKN,Warren 2' Running Layup (10 PTS) (Durant 6 AST),Made Shot,Running Layup Shot,-20,1,2,1,2.0,2.0,h
+S2223-G0329,3,01:29,BKN,,TOR,,T. Warren,BKN,Warren OFF.Foul (P1) (N.Green),Foul,Offensive,0,0,0,0,,,h
+S2223-G0329,3,01:29,BKN,,TOR,,T. Warren,BKN,Warren Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0329,3,01:01,BKN,,TOR,,T. Warren,BKN,MISS Warren 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,-29,24,1,3.0,0.0,h
+S2223-G0329,4,11:20,BKN,,TOR,,T. Warren,BKN,MISS Warren 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-110,15,11,1,2.0,0.0,h
+S2223-G0329,4,09:24,BKN,,TOR,,T. Warren,BKN,Warren P.FOUL (P2.T4) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2223-G0329,4,07:14,BKN,,TOR,,T. Warren,BKN,SUB: Harris FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0447,1,03:53,DET,23.0,BKN,12.0,T. Warren,BKN,Warren 2' Running Reverse Layup (2 PTS) (Sumner 2 AST),Made Shot,Running Reverse Layup Shot,20,13,2,1,2.0,2.0,v
+S2223-G0447,1,02:03,DET,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0447,1,00:41.600000,DET,31.0,BKN,21.0,T. Warren,BKN,Warren 2' Cutting Layup Shot (4 PTS) (Sumner 4 AST),Made Shot,Cutting Layup Shot,20,-1,2,1,2.0,2.0,v
+S2223-G0447,1,00:01.400000,DET,,BKN,,T. Warren,BKN,Warren S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G0447,2,03:48,DET,,BKN,,T. Warren,BKN,MISS Warren 26' 3PT Jump Shot,Missed Shot,Jump Shot,-120,230,26,1,3.0,0.0,v
+S2223-G0447,2,01:02,DET,69.0,BKN,52.0,T. Warren,BKN,Warren 15' Pullup Jump Shot (6 PTS) (Sumner 5 AST),Made Shot,Pullup Jump shot,116,94,15,1,2.0,2.0,v
+S2223-G0555,1,04:44,BKN,,SAS,,T. Warren,BKN,Warren P.FOUL (P1.T3) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G0555,1,03:48,BKN,,SAS,,T. Warren,BKN,MISS Warren 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,107,4,11,1,2.0,0.0,h
+S2223-G0555,1,03:02,BKN,,SAS,,T. Warren,BKN,Warren BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0555,1,01:43,BKN,,SAS,,T. Warren,BKN,Warren Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0555,1,00:57.600000,BKN,35.0,SAS,22.0,T. Warren,BKN,Warren 13' Driving Floating Jump Shot (2 PTS) (Sharpe 1 AST),Made Shot,Driving Floating Jump Shot,-15,132,13,1,2.0,2.0,h
+S2223-G0555,2,02:45,BKN,,SAS,,T. Warren,BKN,Warren STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0555,2,02:40,BKN,66.0,SAS,42.0,T. Warren,BKN,Warren 1' Running Reverse Layup (4 PTS) (Durant 5 AST),Made Shot,Running Reverse Layup Shot,-1,7,1,1,2.0,2.0,h
+S2223-G0555,2,01:39,BKN,70.0,SAS,44.0,T. Warren,BKN,Warren 13' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-126,28,13,1,2.0,2.0,h
+S2223-G0555,2,00:58.500000,BKN,,SAS,,T. Warren,BKN,Warren STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0555,2,00:32.600000,BKN,,SAS,,T. Warren,BKN,MISS Warren 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-47,39,6,1,2.0,0.0,h
+S2223-G0555,2,00:09.200000,BKN,74.0,SAS,47.0,T. Warren,BKN,Warren 12' Jump Shot (8 PTS) (Durant 6 AST),Made Shot,Jump Shot,115,4,12,1,2.0,2.0,h
+S2223-G0555,4,08:49,BKN,,SAS,,T. Warren,BKN,MISS Warren 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-28,51,6,1,2.0,0.0,h
+S2223-G0555,4,08:20,BKN,116.0,SAS,85.0,T. Warren,BKN,Warren 7' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,32,66,7,1,2.0,2.0,h
+S2223-G0555,4,07:43,BKN,118.0,SAS,87.0,T. Warren,BKN,Warren 7' Driving Floating Jump Shot (12 PTS) (Sumner 1 AST),Made Shot,Driving Floating Jump Shot,-43,53,7,1,2.0,2.0,h
+S2223-G0555,4,07:10,BKN,120.0,SAS,89.0,T. Warren,BKN,Warren 19' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,185,-1,19,1,2.0,2.0,h
+S2223-G0555,4,06:20,BKN,,SAS,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0555,4,05:32,BKN,,SAS,,T. Warren,BKN,MISS Warren 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-32,51,6,1,2.0,0.0,h
+S2223-G0555,4,04:32,BKN,,SAS,,T. Warren,BKN,Warren BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0555,4,03:26,BKN,130.0,SAS,97.0,T. Warren,BKN,Warren 21' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,167,124,21,1,2.0,2.0,h
+S2223-G0555,4,01:42,BKN,136.0,SAS,103.0,T. Warren,BKN,Warren 12' Pullup Jump Shot (18 PTS) (Mills 3 AST),Made Shot,Pullup Jump shot,17,119,12,1,2.0,2.0,h
+S2223-G0810,1,00:04,BKN,,LAC,,T. Warren,BKN,MISS Warren 3PT Jump Shot,Missed Shot,Jump Shot,225,8,0,1,3.0,0.0,h
+S2223-G0810,2,11:22,BKN,29.0,LAC,29.0,T. Warren,BKN,Warren 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-92,105,14,1,2.0,2.0,h
+S2223-G0810,2,10:59,BKN,,LAC,,T. Warren,BKN,Warren Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0810,2,10:28,BKN,31.0,LAC,31.0,T. Warren,BKN,Warren 11' Turnaround Jump Shot (4 PTS) (Smith 1 AST),Made Shot,Turnaround Jump Shot,10,114,11,1,2.0,2.0,h
+S2223-G0810,2,08:43,BKN,,LAC,,T. Warren,BKN,SUB: O'Neale FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0810,3,04:21,BKN,,LAC,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0810,3,03:05,BKN,,LAC,,T. Warren,BKN,MISS Warren 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-20,75,8,1,2.0,0.0,h
+S2223-G0810,3,02:21,BKN,86.0,LAC,83.0,T. Warren,BKN,Warren 1' Running Layup (6 PTS) (Smith 2 AST),Made Shot,Running Layup Shot,-9,-3,1,1,2.0,2.0,h
+S2223-G0810,3,00:38,BKN,88.0,LAC,88.0,T. Warren,BKN,Warren 2' Cutting Layup Shot (8 PTS) (Smith 3 AST),Made Shot,Cutting Layup Shot,-13,15,2,1,2.0,2.0,h
+S2223-G0627,1,06:50,BKN,16.0,BOS,11.0,T. Warren,BKN,Warren 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,40,136,14,1,2.0,2.0,h
+S2223-G0627,1,06:17,BKN,19.0,BOS,14.0,T. Warren,BKN,Warren 26' 3PT Jump Shot (5 PTS) (Simmons 4 AST),Made Shot,Jump Shot,-104,236,26,1,3.0,3.0,h
+S2223-G0627,1,05:09,BKN,21.0,BOS,16.0,T. Warren,BKN,Warren 15' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,-44,148,15,1,2.0,2.0,h
+S2223-G0627,1,04:38,BKN,,BOS,,T. Warren,BKN,MISS Warren 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-78,33,8,1,2.0,0.0,h
+S2223-G0627,1,02:33,BKN,,BOS,,T. Warren,BKN,MISS Warren 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-98,305,32,1,3.0,0.0,h
+S2223-G0627,1,01:36,BKN,,BOS,,T. Warren,BKN,MISS Warren 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,-7,69,7,1,2.0,0.0,h
+S2223-G0627,2,04:49,BKN,48.0,BOS,44.0,T. Warren,BKN,Warren 7' Running Layup (9 PTS) (Simmons 9 AST),Made Shot,Running Layup Shot,71,6,7,1,2.0,2.0,h
+S2223-G0627,2,04:30,BKN,50.0,BOS,44.0,T. Warren,BKN,Warren 1' Running Layup (11 PTS) (Simmons 10 AST),Made Shot,Running Layup Shot,9,-4,1,1,2.0,2.0,h
+S2223-G0627,2,03:23,BKN,52.0,BOS,45.0,T. Warren,BKN,Warren 9' Turnaround Fadeaway (13 PTS),Made Shot,Turnaround Fadeaway shot,-28,88,9,1,2.0,2.0,h
+S2223-G0627,2,02:15,BKN,,BOS,,T. Warren,BKN,Warren Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0627,2,00:57.800000,BKN,,BOS,,T. Warren,BKN,MISS Warren 26' 3PT Jump Shot,Missed Shot,Jump Shot,-153,207,26,1,3.0,0.0,h
+S2223-G0627,2,00:09.800000,BKN,,BOS,,T. Warren,BKN,Warren S.FOUL (P1.T4) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0627,3,02:22,BKN,,BOS,,T. Warren,BKN,MISS Warren 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,66,88,11,1,2.0,0.0,h
+S2223-G0627,3,01:59,BKN,77.0,BOS,78.0,T. Warren,BKN,Warren 3' Cutting Layup Shot (15 PTS) (Watanabe 1 AST),Made Shot,Cutting Layup Shot,27,-2,3,1,2.0,2.0,h
+S2223-G0627,3,00:53.600000,BKN,82.0,BOS,80.0,T. Warren,BKN,Warren 14' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,25,135,14,1,2.0,2.0,h
+S2223-G0627,3,00:11.100000,BKN,,BOS,,T. Warren,BKN,MISS Warren 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-55,25,6,1,2.0,0.0,h
+S2223-G0627,4,11:21,BKN,,BOS,,T. Warren,BKN,MISS Warren 4' Driving Layup,Missed Shot,Driving Layup Shot,36,24,4,1,2.0,0.0,h
+S2223-G0627,4,10:25,BKN,,BOS,,T. Warren,BKN,SUB: Harris FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0627,4,05:43,BKN,89.0,BOS,96.0,T. Warren,BKN,Warren 25' 3PT Jump Shot (20 PTS) (Irving 6 AST),Made Shot,Jump Shot,-87,234,25,1,3.0,3.0,h
+S2223-G0627,4,04:05,BKN,,BOS,,T. Warren,BKN,Warren BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0627,4,03:16,BKN,,BOS,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0627,4,02:33,BKN,,BOS,,T. Warren,BKN,MISS Warren 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,21,195,20,1,2.0,0.0,h
+S2223-G0627,4,00:25.800000,BKN,,BOS,,T. Warren,BKN,MISS Warren 25' 3PT Jump Shot,Missed Shot,Jump Shot,-176,174,25,1,3.0,0.0,h
+S2223-G0666,1,02:51,SAS,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0666,1,02:48,SAS,23.0,BKN,11.0,T. Warren,BKN,Warren 15' Jump Shot (2 PTS) (Sharpe 1 AST),Made Shot,Jump Shot,25,145,15,1,2.0,2.0,v
+S2223-G0666,1,02:34,SAS,,BKN,,T. Warren,BKN,Warren P.FOUL (P1.T4) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G0666,1,01:18,SAS,25.0,BKN,13.0,T. Warren,BKN,Warren 15' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,20,153,15,1,2.0,2.0,v
+S2223-G0666,1,00:57.200000,SAS,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0666,1,00:52.700000,SAS,25.0,BKN,14.0,T. Warren,BKN,Warren Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0666,1,00:52.700000,SAS,25.0,BKN,15.0,T. Warren,BKN,Warren Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0666,1,00:01.800000,SAS,,BKN,,T. Warren,BKN,MISS Warren 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,2,174,17,1,2.0,0.0,v
+S2223-G0666,2,08:34,SAS,,BKN,,T. Warren,BKN,MISS Warren 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-72,66,10,1,2.0,0.0,v
+S2223-G0666,2,08:02,SAS,,BKN,,T. Warren,BKN,Warren STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0666,2,07:58,SAS,31.0,BKN,25.0,T. Warren,BKN,Warren 11' Running Pull-Up Jump Shot (8 PTS),Made Shot,Running Pull-Up Jump Shot,23,108,11,1,2.0,2.0,v
+S2223-G0666,2,07:31,SAS,31.0,BKN,27.0,T. Warren,BKN,Warren 16' Pullup Jump Shot (10 PTS) (Simmons 1 AST),Made Shot,Pullup Jump shot,-40,155,16,1,2.0,2.0,v
+S2223-G0666,2,06:41,SAS,34.0,BKN,29.0,T. Warren,BKN,Warren 2' Driving Finger Roll Layup (12 PTS) (Simmons 2 AST),Made Shot,Driving Finger Roll Layup Shot,13,19,2,1,2.0,2.0,v
+S2223-G0666,2,06:25,SAS,34.0,BKN,30.0,T. Warren,BKN,Warren Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0666,2,06:25,SAS,34.0,BKN,31.0,T. Warren,BKN,Warren Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0666,2,05:04,SAS,,BKN,,T. Warren,BKN,SUB: Harris FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0666,3,05:01,SAS,,BKN,,T. Warren,BKN,MISS Warren 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,112,67,13,1,2.0,0.0,v
+S2223-G0666,3,01:47,SAS,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0666,3,01:07,SAS,,BKN,,T. Warren,BKN,MISS Warren 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-72,165,18,1,2.0,0.0,v
+S2223-G0666,3,00:52.700000,SAS,74.0,BKN,68.0,T. Warren,BKN,Warren 4' Running Layup (16 PTS) (Sumner 1 AST),Made Shot,Running Layup Shot,-17,33,4,1,2.0,2.0,v
+S2223-G0666,3,00:15.500000,SAS,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0666,3,00:04.600000,SAS,,BKN,,T. Warren,BKN,MISS Warren 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-44,286,29,1,3.0,0.0,v
+S2223-G0666,4,11:24,SAS,,BKN,,T. Warren,BKN,MISS Warren 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,38,24,1,3.0,0.0,v
+S2223-G0666,4,10:56,SAS,,BKN,,T. Warren,BKN,MISS Warren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0666,4,10:56,SAS,80.0,BKN,69.0,T. Warren,BKN,Warren Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0666,4,07:56,SAS,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0666,4,06:45,SAS,87.0,BKN,82.0,T. Warren,BKN,Warren 12' Pullup Jump Shot (19 PTS) (Simmons 8 AST),Made Shot,Pullup Jump shot,28,117,12,1,2.0,2.0,v
+S2223-G0666,4,06:16,SAS,,BKN,,T. Warren,BKN,Warren Lost Ball Turnover (P1.T17),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0666,4,05:10,SAS,,BKN,,T. Warren,BKN,SUB: O'Neale FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0689,1,04:11,UTA,,,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0689,1,00:15.900000,UTA,,,,T. Warren,BKN,SUB: Harris FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0689,2,05:07,UTA,,,,T. Warren,BKN,Warren S.FOUL (P1.T3) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0689,2,04:43,UTA,41.0,,41.0,T. Warren,BKN,Warren 25' 3PT Jump Shot (3 PTS) (Simmons 3 AST),Made Shot,Jump Shot,165,193,25,1,3.0,3.0,v
+S2223-G0689,2,03:03,UTA,,,,T. Warren,BKN,MISS Warren 25' 3PT Jump Shot,Missed Shot,Jump Shot,-120,216,25,1,3.0,0.0,v
+S2223-G0689,2,02:49,UTA,,,,T. Warren,BKN,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0689,2,02:37,UTA,47.0,,46.0,T. Warren,BKN,Warren 6' Driving Floating Jump Shot (5 PTS) (Irving 3 AST),Made Shot,Driving Floating Jump Shot,4,58,6,1,2.0,2.0,v
+S2223-G0689,2,02:13,UTA,,,,T. Warren,BKN,Warren REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0689,2,02:05,UTA,,,,T. Warren,BKN,MISS Warren 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,26,40,5,1,2.0,0.0,v
+S2223-G0689,4,07:52,UTA,,,,T. Warren,BKN,Warren BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0689,4,07:35,UTA,,,,T. Warren,BKN,Warren STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0689,4,06:46,UTA,,,,T. Warren,BKN,SUB: O'Neale FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0483,1,02:05,BKN,,MIL,,T. Warren,BKN,Warren S.FOUL (P1.T4) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G0483,1,01:56,BKN,,MIL,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0483,1,00:56.100000,BKN,,MIL,,T. Warren,BKN,MISS Warren 17' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,168,11,17,1,2.0,0.0,h
+S2223-G0483,1,00:35.600000,BKN,34.0,MIL,27.0,T. Warren,BKN,Warren 26' 3PT Jump Shot (3 PTS) (Durant 3 AST),Made Shot,Jump Shot,6,257,26,1,3.0,3.0,h
+S2223-G0483,1,00:12.800000,BKN,,MIL,,T. Warren,BKN,MISS Warren 3' Driving Layup,Missed Shot,Driving Layup Shot,-18,24,3,1,2.0,0.0,h
+S2223-G0483,1,00:11.600000,BKN,,MIL,,T. Warren,BKN,Warren REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0483,1,00:10.800000,BKN,,MIL,,T. Warren,BKN,MISS Warren 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,-4,33,3,1,2.0,0.0,h
+S2223-G0483,2,11:26,BKN,,MIL,,T. Warren,BKN,Warren Violation:Kicked Ball (P.Fraher),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0483,2,11:08,BKN,40.0,MIL,29.0,T. Warren,BKN,Warren 16' Jump Shot (5 PTS) (Simmons 4 AST),Made Shot,Jump Shot,66,148,16,1,2.0,2.0,h
+S2223-G0483,2,09:36,BKN,43.0,MIL,36.0,T. Warren,BKN,Warren 25' 3PT Jump Shot (8 PTS) (Irving 2 AST),Made Shot,Jump Shot,132,216,25,1,3.0,3.0,h
+S2223-G0483,2,08:34,BKN,,MIL,,T. Warren,BKN,Warren REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0483,2,08:07,BKN,,MIL,,T. Warren,BKN,Warren REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0483,2,06:19,BKN,50.0,MIL,40.0,T. Warren,BKN,Warren 13' Turnaround Fadeaway (10 PTS),Made Shot,Turnaround Fadeaway shot,102,77,13,1,2.0,2.0,h
+S2223-G0483,2,03:42,BKN,,MIL,,T. Warren,BKN,SUB: Sumner FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0483,3,01:41,BKN,,MIL,,T. Warren,BKN,MISS Warren 25' 3PT Jump Shot,Missed Shot,Jump Shot,71,243,25,1,3.0,0.0,h
+S2223-G0483,3,00:26,BKN,,MIL,,T. Warren,BKN,MISS Warren 26' 3PT Jump Shot,Missed Shot,Jump Shot,26,257,26,1,3.0,0.0,h
+S2223-G0483,4,11:47,BKN,,MIL,,T. Warren,BKN,Warren REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0483,4,11:35,BKN,,MIL,,T. Warren,BKN,MISS Warren 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,75,17,8,1,2.0,0.0,h
+S2223-G0483,4,10:12,BKN,,MIL,,T. Warren,BKN,Warren STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0483,4,09:17,BKN,,MIL,,T. Warren,BKN,Warren REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0483,4,07:16,BKN,96.0,MIL,84.0,T. Warren,BKN,Warren 6' Floating Jump Shot (12 PTS) (Irving 5 AST),Made Shot,Floating Jump shot,5,64,6,1,2.0,2.0,h
+S2223-G0483,4,06:58,BKN,,MIL,,T. Warren,BKN,SUB: Durant FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0483,4,02:27,BKN,,MIL,,T. Warren,BKN,Warren Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0704,1,00:41.300000,GSW,,BKN,,T. Warren,BKN,MISS Warren 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-100,79,13,1,2.0,0.0,v
+S2223-G0704,1,00:08.500000,GSW,,BKN,,T. Warren,BKN,Warren S.FOUL (P1.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G0704,2,11:25,GSW,,BKN,,T. Warren,BKN,Warren S.FOUL (P2.T1) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0704,2,11:05,GSW,34.0,BKN,32.0,T. Warren,BKN,Warren 4' Driving Layup (2 PTS) (Curry 2 AST),Made Shot,Driving Layup Shot,-43,11,4,1,2.0,2.0,v
+S2223-G0704,2,10:36,GSW,,BKN,,T. Warren,BKN,SUB: Harris FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0704,2,04:09,GSW,,BKN,,T. Warren,BKN,MISS Warren 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,12,108,11,1,2.0,0.0,v
+S2223-G0704,2,03:50,GSW,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0704,2,03:24,GSW,,BKN,,T. Warren,BKN,MISS Warren 5' Layup,Missed Shot,Layup Shot,45,20,5,1,2.0,0.0,v
+S2223-G0704,2,03:21,GSW,,BKN,,T. Warren,BKN,Warren REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0704,2,03:21,GSW,,BKN,,T. Warren,BKN,MISS Warren Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0704,2,01:12,GSW,70.0,BKN,56.0,T. Warren,BKN,Warren 4' Reverse Layup (4 PTS) (Irving 4 AST),Made Shot,Reverse Layup Shot,-38,13,4,1,2.0,2.0,v
+S2223-G0704,2,00:07.800000,GSW,,BKN,,T. Warren,BKN,MISS Warren 26' 3PT Jump Shot,Missed Shot,Jump Shot,225,136,26,1,3.0,0.0,v
+S2223-G0704,3,02:55,GSW,,BKN,,T. Warren,BKN,Warren S.FOUL (P3.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G0704,3,00:19.100000,GSW,,BKN,,T. Warren,BKN,MISS Warren 13' Floating Jump Shot,Missed Shot,Floating Jump shot,65,112,13,1,2.0,0.0,v
+S2223-G0817,1,02:15,BKN,,PHX,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0817,1,01:13,BKN,,PHX,,T. Warren,BKN,Warren S.FOUL (P1.T4) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0817,1,00:36.800000,BKN,,PHX,,T. Warren,BKN,MISS Warren 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,-16,26,3,1,2.0,0.0,h
+S2223-G0817,2,11:05,BKN,,PHX,,T. Warren,BKN,MISS Warren 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-162,21,16,1,2.0,0.0,h
+S2223-G0817,2,09:58,BKN,,PHX,,T. Warren,BKN,MISS Warren 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-37,90,10,1,2.0,0.0,h
+S2223-G0817,2,08:51,BKN,,PHX,,T. Warren,BKN,SUB: Harris FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0817,3,04:49,BKN,,PHX,,T. Warren,BKN,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0817,3,04:06,BKN,71.0,PHX,71.0,T. Warren,BKN,Warren 10' Driving Floating Jump Shot (2 PTS) (Simmons 5 AST),Made Shot,Driving Floating Jump Shot,-31,94,10,1,2.0,2.0,h
+S2223-G0817,3,03:54,BKN,,PHX,,T. Warren,BKN,Warren S.FOUL (P2.T4) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0817,3,01:37,BKN,77.0,PHX,80.0,T. Warren,BKN,Warren 5' Driving Floating Jump Shot (4 PTS) (Claxton 3 AST),Made Shot,Driving Floating Jump Shot,-15,49,5,1,2.0,2.0,h
+S2223-G0817,3,01:06,BKN,,PHX,,T. Warren,BKN,MISS Warren 3PT Jump Shot,Missed Shot,Jump Shot,228,8,0,1,3.0,0.0,h
+S2223-G0817,4,08:10,BKN,89.0,PHX,96.0,T. Warren,BKN,Warren 24' 3PT Jump Shot (7 PTS) (Thomas 3 AST),Made Shot,Jump Shot,-233,50,24,1,3.0,3.0,h
+S2223-G0817,4,07:23,BKN,91.0,PHX,96.0,T. Warren,BKN,Warren 19' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,163,92,19,1,2.0,2.0,h
+S2223-G0817,4,06:29,BKN,92.0,PHX,96.0,T. Warren,BKN,Warren Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,4,06:29,BKN,93.0,PHX,96.0,T. Warren,BKN,Warren Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,4,05:52,BKN,95.0,PHX,98.0,T. Warren,BKN,Warren 15' Jump Shot (13 PTS) (O'Neale 4 AST),Made Shot,Jump Shot,154,13,15,1,2.0,2.0,h
+S2223-G0817,4,03:36,BKN,,PHX,,T. Warren,BKN,Warren S.FOUL (P3.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0817,4,03:23,BKN,97.0,PHX,105.0,T. Warren,BKN,Warren 2' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,-9,17,2,1,2.0,2.0,h
+S2223-G0817,4,02:04,BKN,98.0,PHX,109.0,T. Warren,BKN,Warren Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,4,02:04,BKN,99.0,PHX,109.0,T. Warren,BKN,Warren Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0817,4,00:14.900000,BKN,,PHX,,T. Warren,BKN,Warren Personal Take Foul (P4.PN) (C.Washington),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0933,2,08:04,CHA,,PHX,,T. Warren,PHX,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0933,2,06:41,CHA,,PHX,,T. Warren,PHX,Warren P.FOUL (P1.T3) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2223-G0933,2,05:50,CHA,28.0,PHX,44.0,T. Warren,PHX,Warren 3' Driving Layup (2 PTS) (Ayton 1 AST),Made Shot,Driving Layup Shot,10,32,3,1,2.0,2.0,v
+S2223-G0933,2,03:29,CHA,,PHX,,T. Warren,PHX,MISS Warren 26' 3PT Jump Shot,Missed Shot,Jump Shot,-129,228,26,1,3.0,0.0,v
+S2223-G0933,2,02:27,CHA,,PHX,,T. Warren,PHX,SUB: Craig FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0933,4,07:19,CHA,,PHX,,T. Warren,PHX,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0933,4,06:14,CHA,,PHX,,T. Warren,PHX,Warren STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0933,4,05:16,CHA,,PHX,,T. Warren,PHX,Warren BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0933,4,04:53,CHA,,PHX,,T. Warren,PHX,MISS Warren 3' Driving Layup,Missed Shot,Driving Layup Shot,0,32,3,1,2.0,0.0,v
+S2223-G0933,4,04:53,CHA,,PHX,,T. Warren,PHX,Warren Traveling Turnover (P1.T11),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0933,4,03:30,CHA,,PHX,,T. Warren,PHX,MISS Warren 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-22,9,2,1,2.0,0.0,v
+S2223-G0933,4,03:30,CHA,,PHX,,T. Warren,PHX,Warren REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0933,4,03:30,CHA,,PHX,,T. Warren,PHX,MISS Warren Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0933,4,02:49,CHA,,PHX,,T. Warren,PHX,SUB: Durant FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0498,1,05:22,CLE,10.0,BKN,19.0,T. Warren,BKN,Warren 3PT Jump Shot (3 PTS) (O'Neale 1 AST),Made Shot,Jump Shot,-230,32,0,1,3.0,3.0,v
+S2223-G0498,1,04:47,CLE,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0498,1,04:02,CLE,12.0,BKN,21.0,T. Warren,BKN,Warren 13' Pullup Jump Shot (5 PTS) (Durant 1 AST),Made Shot,Pullup Jump shot,39,126,13,1,2.0,2.0,v
+S2223-G0498,1,02:16,CLE,14.0,BKN,26.0,T. Warren,BKN,Warren 10' Turnaround Jump Shot (7 PTS) (Irving 2 AST),Made Shot,Turnaround Jump Shot,-104,3,10,1,2.0,2.0,v
+S2223-G0498,1,02:16,CLE,14.0,BKN,27.0,T. Warren,BKN,Warren Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0498,1,00:08.600000,CLE,,BKN,,T. Warren,BKN,Warren STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0498,2,11:39,CLE,,BKN,,T. Warren,BKN,MISS Warren 26' 3PT Jump Shot,Missed Shot,Jump Shot,-159,200,26,1,3.0,0.0,v
+S2223-G0498,2,10:47,CLE,,BKN,,T. Warren,BKN,Warren S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0498,2,10:00,CLE,,BKN,,T. Warren,BKN,Warren STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0498,2,09:15,CLE,,BKN,,T. Warren,BKN,MISS Warren 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,89,27,9,1,2.0,0.0,v
+S2223-G0498,2,07:21,CLE,,BKN,,T. Warren,BKN,MISS Warren 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-50,145,15,1,2.0,0.0,v
+S2223-G0498,2,06:52,CLE,,BKN,,T. Warren,BKN,SUB: Durant FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0498,2,02:38,CLE,45.0,BKN,51.0,T. Warren,BKN,Warren 2' Running Dunk (10 PTS),Made Shot,Running Dunk Shot,-6,20,2,1,2.0,2.0,v
+S2223-G0498,2,01:29,CLE,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0498,2,01:21,CLE,45.0,BKN,59.0,T. Warren,BKN,Warren 17' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,85,143,17,1,2.0,2.0,v
+S2223-G0498,2,00:38.300000,CLE,47.0,BKN,62.0,T. Warren,BKN,Warren 26' 3PT Jump Shot (15 PTS) (Irving 3 AST),Made Shot,Jump Shot,109,232,26,1,3.0,3.0,v
+S2223-G0498,2,00:22.900000,CLE,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0498,3,05:22,CLE,,BKN,,T. Warren,BKN,Warren P.FOUL (P2.T4) (J.Butler),Foul,Personal,0,0,0,0,,,v
+S2223-G0498,3,04:41,CLE,,BKN,,T. Warren,BKN,MISS Warren 3PT Jump Shot,Missed Shot,Jump Shot,229,8,0,1,3.0,0.0,v
+S2223-G0498,3,03:17,CLE,,BKN,,T. Warren,BKN,Warren REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0498,3,03:17,CLE,70.0,BKN,84.0,T. Warren,BKN,Warren Tip Layup Shot (17 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0498,3,01:46,CLE,,BKN,,T. Warren,BKN,Warren REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0498,4,08:30,CLE,,BKN,,T. Warren,BKN,Warren REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0498,4,08:28,CLE,91.0,BKN,107.0,T. Warren,BKN,Warren 12' Fadeaway Jumper (19 PTS),Made Shot,Fadeaway Jump Shot,51,104,12,1,2.0,2.0,v
+S2223-G0498,4,08:14,CLE,,BKN,,T. Warren,BKN,Warren REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0498,4,08:04,CLE,91.0,BKN,109.0,T. Warren,BKN,Warren 11' Floating Jump Shot (21 PTS) (Simmons 7 AST),Made Shot,Floating Jump shot,48,96,11,1,2.0,2.0,v
+S2223-G0498,4,07:29,CLE,,BKN,,T. Warren,BKN,SUB: Durant FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0498,4,01:39,CLE,,BKN,,T. Warren,BKN,MISS Warren 8' Floating Jump Shot,Missed Shot,Floating Jump shot,-77,13,8,1,2.0,0.0,v
+S2223-G0498,4,01:15,CLE,,BKN,,T. Warren,BKN,Warren Lost Ball Turnover (P1.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0498,4,00:27.300000,CLE,,BKN,,T. Warren,BKN,Warren REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0498,4,00:13.800000,CLE,117.0,BKN,124.0,T. Warren,BKN,Warren Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0498,4,00:13.800000,CLE,117.0,BKN,125.0,T. Warren,BKN,Warren Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0498,4,00:13.800000,CLE,,BKN,,T. Warren,BKN,SUB: Sumner FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0380,1,00:29.600000,BKN,,ATL,,T. Warren,BKN,Warren STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0380,2,11:00,BKN,40.0,ATL,30.0,T. Warren,BKN,Warren 13' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,-124,23,13,1,2.0,2.0,h
+S2223-G0380,2,09:13,BKN,,ATL,,T. Warren,BKN,MISS Warren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0380,2,09:13,BKN,45.0,ATL,38.0,T. Warren,BKN,Warren Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0380,2,08:37,BKN,47.0,ATL,40.0,T. Warren,BKN,Warren 10' Step Back Jump Shot (5 PTS) (Simmons 5 AST),Made Shot,Step Back Jump shot,-4,97,10,1,2.0,2.0,h
+S2223-G0380,2,05:02,BKN,59.0,ATL,47.0,T. Warren,BKN,Warren 13' Turnaround Jump Shot (7 PTS) (Harris 3 AST),Made Shot,Turnaround Jump Shot,-50,116,13,1,2.0,2.0,h
+S2223-G0380,2,04:33,BKN,,ATL,,T. Warren,BKN,SUB: Sumner FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0380,2,00:43.600000,BKN,,ATL,,T. Warren,BKN,Warren STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0380,2,00:34.600000,BKN,68.0,ATL,64.0,T. Warren,BKN,Warren 1' Running Dunk (9 PTS) (Irving 1 AST),Made Shot,Running Dunk Shot,-2,8,1,1,2.0,2.0,h
+S2223-G0380,2,00:23.600000,BKN,,ATL,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0380,3,06:03,BKN,87.0,ATL,77.0,T. Warren,BKN,Warren 4' Driving Floating Jump Shot (11 PTS) (Irving 2 AST),Made Shot,Driving Floating Jump Shot,6,35,4,1,2.0,2.0,h
+S2223-G0380,3,05:44,BKN,,ATL,,T. Warren,BKN,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0380,3,00:40.600000,BKN,96.0,ATL,88.0,T. Warren,BKN,Warren 25' 3PT Jump Shot (14 PTS) (Irving 3 AST),Made Shot,Jump Shot,-105,227,25,1,3.0,3.0,h
+S2223-G0380,3,00:06.200000,BKN,,ATL,,T. Warren,BKN,MISS Warren 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-55,4,6,1,2.0,0.0,h
+S2223-G0380,3,00:01.900000,BKN,,ATL,,T. Warren,BKN,Warren P.FOUL (P1.PN) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G0380,3,00:00,BKN,,ATL,,T. Warren,BKN,MISS Warren 35' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,132,327,35,1,3.0,0.0,h
+S2223-G0380,4,04:38,BKN,,ATL,,T. Warren,BKN,SUB: Harris FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G1092,1,03:09,LAL,,PHX,,T. Warren,PHX,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1092,1,01:24,LAL,,PHX,,T. Warren,PHX,Warren S.FOUL (P1.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G1092,1,01:21,LAL,,PHX,,T. Warren,PHX,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1092,1,01:00,LAL,,PHX,,T. Warren,PHX,MISS Warren 13' Floating Jump Shot,Missed Shot,Floating Jump shot,1,131,13,1,2.0,0.0,v
+S2223-G1092,2,08:56,LAL,,PHX,,T. Warren,PHX,MISS Warren 27' 3PT Jump Shot,Missed Shot,Jump Shot,-181,199,27,1,3.0,0.0,v
+S2223-G1092,2,08:36,LAL,,PHX,,T. Warren,PHX,Warren REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1092,2,08:15,LAL,,PHX,,T. Warren,PHX,SUB: Biyombo FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G1092,3,02:48,LAL,82.0,PHX,75.0,T. Warren,PHX,Warren 9' Floating Jump Shot (2 PTS) (Payne 1 AST),Made Shot,Floating Jump shot,-38,86,9,1,2.0,2.0,v
+S2223-G1092,3,02:01,LAL,84.0,PHX,77.0,T. Warren,PHX,Warren 6' Pullup Jump Shot (4 PTS) (Payne 2 AST),Made Shot,Pullup Jump shot,55,34,6,1,2.0,2.0,v
+S2223-G1092,3,00:25.800000,LAL,,PHX,,T. Warren,PHX,SUB: Biyombo FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G1092,4,07:30,LAL,,PHX,,T. Warren,PHX,MISS Warren 3' Running Layup,Missed Shot,Running Layup Shot,23,12,3,1,2.0,0.0,v
+S2223-G1092,4,07:29,LAL,,PHX,,T. Warren,PHX,Warren REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1092,4,07:29,LAL,99.0,PHX,98.0,T. Warren,PHX,Warren Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1092,4,07:17,LAL,,PHX,,T. Warren,PHX,Warren S.FOUL (P2.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G1092,4,06:03,LAL,,PHX,,T. Warren,PHX,SUB: Craig FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0990,4,06:02,PHX,,OKC,,T. Warren,PHX,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0990,4,05:41,PHX,,OKC,,T. Warren,PHX,Warren S.FOUL (P1.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0990,4,03:59,PHX,,OKC,,T. Warren,PHX,Warren REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0990,4,00:51,PHX,,OKC,,T. Warren,PHX,Warren REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0990,4,00:26.700000,PHX,,OKC,,T. Warren,PHX,Warren REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0586,1,04:26,NOP,,BKN,,T. Warren,BKN,MISS Warren 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,54,256,26,1,3.0,0.0,v
+S2223-G0586,1,01:48,NOP,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0586,2,07:54,NOP,,BKN,,T. Warren,BKN,Warren S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0586,2,06:43,NOP,45.0,BKN,32.0,T. Warren,BKN,Warren 16' Driving Floating Jump Shot (2 PTS) (Simmons 3 AST),Made Shot,Driving Floating Jump Shot,17,159,16,1,2.0,2.0,v
+S2223-G0586,2,06:43,NOP,45.0,BKN,33.0,T. Warren,BKN,Warren Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0586,2,06:28,NOP,45.0,BKN,34.0,T. Warren,BKN,Warren Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0586,2,06:28,NOP,45.0,BKN,35.0,T. Warren,BKN,Warren Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0586,2,06:11,NOP,,BKN,,T. Warren,BKN,Warren P.FOUL (P2.T4) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0586,2,06:00,NOP,45.0,BKN,37.0,T. Warren,BKN,Warren 3' Running Dunk (7 PTS) (O'Neale 1 AST),Made Shot,Running Dunk Shot,4,29,3,1,2.0,2.0,v
+S2223-G0586,2,04:25,NOP,,BKN,,T. Warren,BKN,SUB: Watanabe FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0586,3,04:15,NOP,,BKN,,T. Warren,BKN,MISS Warren 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-136,10,14,1,2.0,0.0,v
+S2223-G0586,3,01:51,NOP,85.0,BKN,82.0,T. Warren,BKN,Warren 4' Layup (9 PTS) (Harris 1 AST),Made Shot,Layup Shot,37,12,4,1,2.0,2.0,v
+S2223-G0586,3,01:51,NOP,85.0,BKN,83.0,T. Warren,BKN,Warren Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0586,3,01:08,NOP,,BKN,,T. Warren,BKN,MISS Warren 6' Driving Layup,Missed Shot,Driving Layup Shot,23,53,6,1,2.0,0.0,v
+S2223-G0586,3,00:08.400000,NOP,85.0,BKN,88.0,T. Warren,BKN,Warren 26' 3PT Jump Shot (13 PTS) (Irving 4 AST),Made Shot,Jump Shot,-142,217,26,1,3.0,3.0,v
+S2223-G0586,4,09:44,NOP,,BKN,,T. Warren,BKN,Warren STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0586,4,07:38,NOP,90.0,BKN,90.0,T. Warren,BKN,Warren 3' Reverse Layup (15 PTS) (Irving 5 AST),Made Shot,Reverse Layup Shot,-33,11,3,1,2.0,2.0,v
+S2223-G0586,4,06:29,NOP,,BKN,,T. Warren,BKN,SUB: Simmons FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0586,4,01:42,NOP,,BKN,,T. Warren,BKN,Warren S.FOUL (P3.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0586,4,00:43.400000,NOP,,BKN,,T. Warren,BKN,SUB: Simmons FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0586,4,00:12.800000,NOP,,BKN,,T. Warren,BKN,SUB: Simmons FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0403,2,10:31,WAS,,BKN,,T. Warren,BKN,Warren REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0403,2,07:55,WAS,,BKN,,T. Warren,BKN,MISS Warren 25' 3PT Jump Shot,Missed Shot,Jump Shot,148,201,25,1,3.0,0.0,v
+S2223-G0403,2,06:57,WAS,42.0,BKN,42.0,T. Warren,BKN,Warren 4' Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,-42,16,4,1,2.0,2.0,v
+S2223-G0403,2,06:47,WAS,,BKN,,T. Warren,BKN,Warren P.FOUL (P1.T4) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2223-G0403,2,04:41,WAS,44.0,BKN,51.0,T. Warren,BKN,Warren 19' Pullup Jump Shot (4 PTS) (Sumner 1 AST),Made Shot,Pullup Jump shot,67,173,19,1,2.0,2.0,v
+S2223-G0403,2,04:06,WAS,,BKN,,T. Warren,BKN,Warren S.FOUL (P2.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G0403,2,04:06,WAS,,BKN,,T. Warren,BKN,SUB: Thomas FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0403,3,04:56,WAS,,BKN,,T. Warren,BKN,Warren STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0403,3,03:16,WAS,,BKN,,T. Warren,BKN,Warren REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0403,3,03:08,WAS,71.0,BKN,88.0,T. Warren,BKN,Warren 19' Pullup Jump Shot (6 PTS) (Simmons 5 AST),Made Shot,Pullup Jump shot,97,165,19,1,2.0,2.0,v
+S2223-G0403,3,02:35,WAS,,BKN,,T. Warren,BKN,MISS Warren 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,124,33,13,1,2.0,0.0,v
+S2223-G0403,3,02:12,WAS,,BKN,,T. Warren,BKN,Warren T.FOUL (P2.T2) (B.Kennedy),Foul,Technical,0,0,0,0,,,v
+S2223-G0403,3,01:49,WAS,,BKN,,T. Warren,BKN,Warren REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0403,3,01:49,WAS,76.0,BKN,90.0,T. Warren,BKN,Warren Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0403,3,01:08,WAS,78.0,BKN,92.0,T. Warren,BKN,Warren 17' Driving Floating Jump Shot (10 PTS) (Thomas 1 AST),Made Shot,Driving Floating Jump Shot,-135,97,17,1,2.0,2.0,v
+S2223-G0403,4,11:11,WAS,,BKN,,T. Warren,BKN,Warren S.FOUL (P3.T2) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G0403,4,10:20,WAS,,BKN,,T. Warren,BKN,MISS Warren 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-136,136,19,1,2.0,0.0,v
+S2223-G0403,4,09:13,WAS,,BKN,,T. Warren,BKN,MISS Warren 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-108,64,13,1,2.0,0.0,v
+S2223-G0403,4,07:07,WAS,,BKN,,T. Warren,BKN,Warren REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0403,4,07:05,WAS,92.0,BKN,102.0,T. Warren,BKN,Warren 11' Jump Shot (12 PTS),Made Shot,Jump Shot,76,76,11,1,2.0,2.0,v
+S2223-G0403,4,06:28,WAS,,BKN,,T. Warren,BKN,SUB: Durant FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G1013,2,11:13,PHX,,SAC,,T. Warren,PHX,Warren S.FOUL (P1.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G1013,2,10:44,PHX,,SAC,,T. Warren,PHX,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1013,2,10:04,PHX,,SAC,,T. Warren,PHX,Warren L.B.FOUL (P2.T2) (T.Maddox),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1013,2,08:19,PHX,,SAC,,T. Warren,PHX,Warren P.FOUL (P3.T4) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2223-G1013,2,08:19,PHX,,SAC,,T. Warren,PHX,SUB: Craig FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G1033,1,00:38.700000,PHX,,MIL,,T. Warren,PHX,MISS Warren 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,93,-4,9,1,2.0,0.0,h
+S2223-G1033,2,10:30,PHX,,MIL,,T. Warren,PHX,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1033,2,10:19,PHX,,MIL,,T. Warren,PHX,MISS Warren 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,42,185,19,1,2.0,0.0,h
+S2223-G1033,2,09:43,PHX,,MIL,,T. Warren,PHX,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1033,2,09:25,PHX,,MIL,,T. Warren,PHX,MISS Warren 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,15,105,11,1,2.0,0.0,h
+S2223-G1033,2,09:18,PHX,,MIL,,T. Warren,PHX,SUB: Paul FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G1160,1,02:07,PHX,,DEN,,T. Warren,PHX,Warren REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1160,1,01:59,PHX,28.0,DEN,17.0,T. Warren,PHX,Warren 8' Finger Roll Layup (2 PTS),Made Shot,Finger Roll Layup Shot,25,75,8,1,2.0,2.0,h
+S2223-G1160,1,01:49,PHX,,DEN,,T. Warren,PHX,Warren REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1160,1,01:35,PHX,,DEN,,T. Warren,PHX,Warren REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1160,1,01:18,PHX,30.0,DEN,17.0,T. Warren,PHX,Warren 15' Pullup Jump Shot (4 PTS) (Booker 3 AST),Made Shot,Pullup Jump shot,130,71,15,1,2.0,2.0,h
+S2223-G1160,1,00:57.800000,PHX,,DEN,,T. Warren,PHX,Warren REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1160,1,00:41.900000,PHX,,DEN,,T. Warren,PHX,Warren STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1160,1,00:04.400000,PHX,,DEN,,T. Warren,PHX,Warren S.FOUL (P1.T4) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G1160,2,10:33,PHX,,DEN,,T. Warren,PHX,Warren BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1160,2,10:08,PHX,,DEN,,T. Warren,PHX,Warren REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1160,2,07:58,PHX,,DEN,,T. Warren,PHX,MISS Warren 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,47,96,11,1,2.0,0.0,h
+S2223-G1160,2,07:36,PHX,,DEN,,T. Warren,PHX,SUB: Paul FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G1160,3,01:02,PHX,,DEN,,T. Warren,PHX,MISS Warren 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,143,4,14,1,2.0,0.0,h
+S2223-G1160,4,09:30,PHX,,DEN,,T. Warren,PHX,Warren STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1160,4,07:22,PHX,,DEN,,T. Warren,PHX,MISS Warren 3PT Jump Shot,Missed Shot,Jump Shot,225,3,0,1,3.0,0.0,h
+S2223-G1160,4,07:02,PHX,,DEN,,T. Warren,PHX,Warren REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1160,4,07:01,PHX,,DEN,,T. Warren,PHX,MISS Warren 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-16,3,2,1,2.0,0.0,h
+S2223-G1160,4,06:48,PHX,,DEN,,T. Warren,PHX,Warren Traveling Turnover (P1.T14),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1160,4,06:48,PHX,,DEN,,T. Warren,PHX,SUB: Ayton FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0570,1,03:01,CHI,,BKN,,T. Warren,BKN,Warren P.FOUL (P1.T2) (T.Maddox),Foul,Personal,0,0,0,0,,,v
+S2223-G0570,1,00:44.700000,CHI,,BKN,,T. Warren,BKN,Warren P.FOUL (P2.T3) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2223-G0570,2,02:09,CHI,,BKN,,T. Warren,BKN,MISS Warren 3PT Jump Shot,Missed Shot,Jump Shot,233,-11,0,1,3.0,0.0,v
+S2223-G0570,2,01:58,CHI,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0570,2,01:36,CHI,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0570,2,00:25.900000,CHI,,BKN,,T. Warren,BKN,SUB: Irving FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0570,3,00:33,CHI,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0570,4,08:06,CHI,,BKN,,T. Warren,BKN,MISS Warren 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,127,-1,13,1,2.0,0.0,v
+S2223-G0570,4,07:59,CHI,,BKN,,T. Warren,BKN,SUB: Durant FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0731,1,05:43,BKN,,DET,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0731,1,05:26,BKN,,DET,,T. Warren,BKN,Warren S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0731,1,04:29,BKN,19.0,DET,18.0,T. Warren,BKN,Warren 2' Running Layup (2 PTS) (O'Neale 1 AST),Made Shot,Running Layup Shot,17,9,2,1,2.0,2.0,h
+S2223-G0731,1,02:28,BKN,,DET,,T. Warren,BKN,Warren Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0731,1,02:03,BKN,,DET,,T. Warren,BKN,MISS Warren 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,142,-26,14,1,2.0,0.0,h
+S2223-G0731,1,01:50,BKN,,DET,,T. Warren,BKN,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0731,2,10:32,BKN,,DET,,T. Warren,BKN,SUB: Watanabe FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0731,2,00:31.900000,BKN,,DET,,T. Warren,BKN,MISS Warren 3PT Jump Shot,Missed Shot,Jump Shot,228,53,0,1,3.0,0.0,h
+S2223-G0731,4,11:42,BKN,,DET,,T. Warren,BKN,MISS Warren 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-25,99,10,1,2.0,0.0,h
+S2223-G0731,4,10:36,BKN,,DET,,T. Warren,BKN,MISS Warren 25' 3PT Jump Shot,Missed Shot,Jump Shot,183,167,25,1,3.0,0.0,h
+S2223-G0731,4,07:05,BKN,,DET,,T. Warren,BKN,SUB: Watanabe FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0681,1,06:33,PHX,16.0,BKN,17.0,T. Warren,BKN,Warren 8' Driving Floating Jump Shot (2 PTS) (Irving 1 AST),Made Shot,Driving Floating Jump Shot,77,29,8,1,2.0,2.0,v
+S2223-G0681,1,05:45,PHX,,BKN,,T. Warren,BKN,Warren OFF.Foul (P1) (E.Lewis),Foul,Offensive,0,0,0,0,,,v
+S2223-G0681,1,05:45,PHX,,BKN,,T. Warren,BKN,Warren Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0681,1,03:54,PHX,,BKN,,T. Warren,BKN,MISS Warren 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-55,93,11,1,2.0,0.0,v
+S2223-G0681,1,03:48,PHX,25.0,BKN,20.0,T. Warren,BKN,Warren Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0681,1,03:48,PHX,,BKN,,T. Warren,BKN,MISS Warren Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0681,1,02:55,PHX,,BKN,,T. Warren,BKN,MISS Warren 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,109,5,11,1,2.0,0.0,v
+S2223-G0681,1,02:01,PHX,,BKN,,T. Warren,BKN,Warren P.FOUL (P2.T3) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2223-G0681,1,01:26,PHX,,BKN,,T. Warren,BKN,Warren P.FOUL (P3.T4) (E.Lewis),Foul,Personal,0,0,0,0,,,v
+S2223-G0681,1,00:27.100000,PHX,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0681,1,00:06.600000,PHX,,BKN,,T. Warren,BKN,SUB: Claxton FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0599,1,04:12,MIA,,BKN,,T. Warren,BKN,MISS Warren 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-5,146,15,1,2.0,0.0,v
+S2223-G0599,1,03:11,MIA,20.0,BKN,22.0,T. Warren,BKN,Warren 3' Running Pull-Up Jump Shot (2 PTS) (Simmons 3 AST),Made Shot,Running Pull-Up Jump Shot,23,15,3,1,2.0,2.0,v
+S2223-G0599,1,02:16,MIA,,BKN,,T. Warren,BKN,MISS Warren 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,72,53,9,1,2.0,0.0,v
+S2223-G0599,1,00:23.800000,MIA,25.0,BKN,28.0,T. Warren,BKN,Warren 25' 3PT Jump Shot (5 PTS) (Durant 2 AST),Made Shot,Jump Shot,-147,207,25,1,3.0,3.0,v
+S2223-G0599,1,00:01.600000,MIA,27.0,BKN,31.0,T. Warren,BKN,Warren 25' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,114,227,25,1,3.0,3.0,v
+S2223-G0599,2,04:24,MIA,,BKN,,T. Warren,BKN,MISS Warren 26' 3PT Jump Shot,Missed Shot,Jump Shot,-151,207,26,1,3.0,0.0,v
+S2223-G0599,2,02:21,MIA,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0599,2,00:50.100000,MIA,,BKN,,T. Warren,BKN,MISS Warren 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-70,79,11,1,2.0,0.0,v
+S2223-G0599,2,00:39.800000,MIA,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0599,2,00:01.200000,MIA,,BKN,,T. Warren,BKN,Warren P.FOUL (P1.PN) (R.Acosta),Foul,Personal,0,0,0,0,,,v
+S2223-G0599,3,03:13,MIA,,BKN,,T. Warren,BKN,Warren STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0599,3,02:59,MIA,,BKN,,T. Warren,BKN,MISS Warren 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,-22,24,1,3.0,0.0,v
+S2223-G0599,3,01:05,MIA,,BKN,,T. Warren,BKN,Warren STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0599,4,11:47,MIA,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0599,4,11:42,MIA,82.0,BKN,81.0,T. Warren,BKN,Warren 1' Running Finger Roll Layup (10 PTS) (Irving 3 AST),Made Shot,Running Finger Roll Layup Shot,12,5,1,1,2.0,2.0,v
+S2223-G0599,4,11:11,MIA,,BKN,,T. Warren,BKN,Warren Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0599,4,10:45,MIA,,BKN,,T. Warren,BKN,Warren Traveling Turnover (P2.T16),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0599,4,09:40,MIA,,BKN,,T. Warren,BKN,SUB: Watanabe FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0433,1,03:22,TOR,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0433,1,00:45.100000,TOR,,BKN,,T. Warren,BKN,Warren L.B.FOUL (P1.PN) (J.Goldenberg),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0433,1,00:31.700000,TOR,,BKN,,T. Warren,BKN,MISS Warren 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,110,114,16,1,2.0,0.0,v
+S2223-G0433,2,03:43,TOR,,BKN,,T. Warren,BKN,MISS Warren 3PT Jump Shot,Missed Shot,Jump Shot,228,32,0,1,3.0,0.0,v
+S2223-G0433,2,03:10,TOR,53.0,BKN,40.0,T. Warren,BKN,Warren 7' Running Jump Shot (2 PTS) (Durant 1 AST),Made Shot,Running Jump Shot,9,68,7,1,2.0,2.0,v
+S2223-G0433,2,02:24,TOR,56.0,BKN,42.0,T. Warren,BKN,Warren 12' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,118,11,12,1,2.0,2.0,v
+S2223-G0433,2,00:10,TOR,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0433,2,00:06.100000,TOR,62.0,BKN,51.0,T. Warren,BKN,Warren Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0433,2,00:06.100000,TOR,62.0,BKN,52.0,T. Warren,BKN,Warren Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0433,3,01:54,TOR,78.0,BKN,81.0,T. Warren,BKN,Warren 16' Driving Floating Jump Shot (8 PTS) (Durant 3 AST),Made Shot,Driving Floating Jump Shot,-42,155,16,1,2.0,2.0,v
+S2223-G0433,3,00:02.200000,TOR,84.0,BKN,88.0,T. Warren,BKN,Warren 1' Driving Dunk (10 PTS) (O'Neale 2 AST),Made Shot,Driving Dunk Shot,2,11,1,1,2.0,2.0,v
+S2223-G0433,4,08:38,TOR,,BKN,,T. Warren,BKN,Warren P.FOUL (P2.T2) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2223-G0433,4,07:43,TOR,,BKN,,T. Warren,BKN,Warren P.FOUL (P3.T3) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2223-G0433,4,04:57,TOR,,BKN,,T. Warren,BKN,SUB: Harris FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0517,1,01:07,ATL,,BKN,,T. Warren,BKN,MISS Warren 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-43,48,6,1,2.0,0.0,v
+S2223-G0517,2,10:40,ATL,,BKN,,T. Warren,BKN,Warren BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0517,2,08:26,ATL,,BKN,,T. Warren,BKN,Warren Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0517,2,06:56,ATL,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0517,2,06:30,ATL,,BKN,,T. Warren,BKN,Nets T.Foul (Def. 3 Sec Warren ) (J.Williams),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0517,2,05:50,ATL,,BKN,,T. Warren,BKN,MISS Warren 3PT Jump Shot,Missed Shot,Jump Shot,225,11,0,1,3.0,0.0,v
+S2223-G0517,2,05:29,ATL,,BKN,,T. Warren,BKN,SUB: Irving FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0517,3,02:44,ATL,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0517,3,01:29,ATL,,BKN,,T. Warren,BKN,Warren Violation:Kicked Ball (K.Lane),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0517,4,11:39,ATL,80.0,BKN,85.0,T. Warren,BKN,Warren 11' Pullup Jump Shot (2 PTS) (Irving 6 AST),Made Shot,Pullup Jump shot,-38,102,11,1,2.0,2.0,v
+S2223-G0517,4,10:55,ATL,,BKN,,T. Warren,BKN,MISS Warren 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,33,106,11,1,2.0,0.0,v
+S2223-G0517,4,10:35,ATL,,BKN,,T. Warren,BKN,Warren S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2223-G0517,4,09:06,ATL,,BKN,,T. Warren,BKN,Warren P.FOUL (P2.T2) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G0517,4,06:41,ATL,,BKN,,T. Warren,BKN,MISS Warren 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,23,70,7,1,2.0,0.0,v
+S2223-G0517,4,05:16,ATL,,BKN,,T. Warren,BKN,Warren BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0517,4,04:10,ATL,,BKN,,T. Warren,BKN,SUB: Watanabe FOR Warren,Substitution,,0,0,0,0,,,v
+S2223-G0346,2,08:21,BKN,,BOS,,T. Warren,BKN,MISS Warren 2' Running Layup,Missed Shot,Running Layup Shot,-23,4,2,1,2.0,0.0,h
+S2223-G0346,2,07:04,BKN,,BOS,,T. Warren,BKN,Warren REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0346,2,07:03,BKN,39.0,BOS,44.0,T. Warren,BKN,Warren Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-1,0,0,1,2.0,2.0,h
+S2223-G0346,2,06:18,BKN,40.0,BOS,44.0,T. Warren,BKN,Warren Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0346,2,06:18,BKN,41.0,BOS,44.0,T. Warren,BKN,Warren Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0346,2,05:54,BKN,,BOS,,T. Warren,BKN,SUB: Harris FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G0346,3,02:46,BKN,,BOS,,T. Warren,BKN,Warren REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0346,3,02:39,BKN,,BOS,,T. Warren,BKN,MISS Warren 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-76,169,19,1,2.0,0.0,h
+S2223-G0346,4,09:46,BKN,,BOS,,T. Warren,BKN,MISS Warren 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,77,124,15,1,2.0,0.0,h
+S2223-G0346,4,09:33,BKN,,BOS,,T. Warren,BKN,Warren BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0346,4,06:45,BKN,,BOS,,T. Warren,BKN,SUB: Irving FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G1110,1,04:17,PHX,,PHI,,T. Warren,PHX,Warren REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1110,1,04:17,PHX,,PHI,,T. Warren,PHX,MISS Warren 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,-26,36,4,1,2.0,0.0,h
+S2223-G1110,1,04:06,PHX,,PHI,,T. Warren,PHX,Warren REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1110,1,03:39,PHX,,PHI,,T. Warren,PHX,Warren BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1110,1,00:50.600000,PHX,,PHI,,T. Warren,PHX,Warren REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1110,1,00:07.100000,PHX,26.0,PHI,24.0,T. Warren,PHX,Warren 10' Jump Shot (2 PTS) (Ross 1 AST),Made Shot,Jump Shot,97,16,10,1,2.0,2.0,h
+S2223-G1110,2,11:26,PHX,29.0,PHI,26.0,T. Warren,PHX,Warren 24' 3PT Jump Shot (5 PTS) (Ross 2 AST),Made Shot,Jump Shot,-235,38,24,1,3.0,3.0,h
+S2223-G1110,2,08:30,PHX,40.0,PHI,33.0,T. Warren,PHX,Warren 8' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-11,80,8,1,2.0,2.0,h
+S2223-G1110,2,08:08,PHX,,PHI,,T. Warren,PHX,Warren REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1110,2,07:26,PHX,,PHI,,T. Warren,PHX,SUB: Paul FOR Warren,Substitution,,0,0,0,0,,,h
+S2223-G1110,3,04:22,PHX,,PHI,,T. Warren,PHX,MISS Warren 26' 3PT Jump Shot,Missed Shot,Jump Shot,163,205,26,1,3.0,0.0,h
+S2223-G1110,3,04:05,PHX,,PHI,,T. Warren,PHX,Warren REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1110,3,03:42,PHX,,PHI,,T. Warren,PHX,Warren STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1110,3,03:38,PHX,83.0,PHI,77.0,T. Warren,PHX,Warren 3' Running Layup (9 PTS),Made Shot,Running Layup Shot,-13,24,3,1,2.0,2.0,h
+S2223-G1110,4,11:15,PHX,94.0,PHI,83.0,T. Warren,PHX,Warren 26' 3PT Running Jump Shot (12 PTS) (Payne 4 AST),Made Shot,Running Jump Shot,-129,221,26,1,3.0,3.0,h
+S2223-G1110,4,09:51,PHX,,PHI,,T. Warren,PHX,Warren REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1110,4,07:50,PHX,,PHI,,T. Warren,PHX,MISS Warren 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-62,62,9,1,2.0,0.0,h
+S2223-G1110,4,06:52,PHX,107.0,PHI,88.0,T. Warren,PHX,Warren 12' Step Back Jump Shot (14 PTS) (Payne 6 AST),Made Shot,Step Back Jump shot,119,1,12,1,2.0,2.0,h
+S2223-G1110,4,06:37,PHX,,PHI,,T. Warren,PHX,Warren REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1110,4,03:31,PHX,,PHI,,T. Warren,PHX,MISS Warren 3PT Jump Shot,Missed Shot,Jump Shot,-227,57,0,1,3.0,0.0,h
+S2223-G1110,4,02:56,PHX,117.0,PHI,99.0,T. Warren,PHX,Warren 10' Fadeaway Jumper (16 PTS) (Ross 3 AST),Made Shot,Fadeaway Jump Shot,-98,11,10,1,2.0,2.0,h
+S2223-G1110,4,01:54,PHX,,PHI,,T. Warren,PHX,Warren REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1110,4,01:33,PHX,,PHI,,T. Warren,PHX,MISS Warren 3' Reverse Layup,Missed Shot,Reverse Layup Shot,28,11,3,1,2.0,0.0,h
+S2223-G1188,1,02:01,PHX,,SAS,,T. Warren,PHX,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1188,1,00:06.300000,PHX,,SAS,,T. Warren,PHX,Warren REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1188,2,02:31,PHX,,SAS,,T. Warren,PHX,MISS Warren 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,75,24,1,3.0,0.0,h
+S2223-G1188,4,02:25,PHX,,SAS,,T. Warren,PHX,Warren S.FOUL (P1.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1188,4,02:22,PHX,,SAS,,T. Warren,PHX,Warren REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0721,2,11:28,PHI,41.0,BKN,43.0,T. Warren,BKN,Warren 9' Turnaround Fadeaway (2 PTS) (Irving 4 AST),Made Shot,Turnaround Fadeaway shot,-83,20,9,1,2.0,2.0,v
+S2223-G0721,2,10:30,PHI,,BKN,,T. Warren,BKN,MISS Warren 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,23,94,10,1,2.0,0.0,v
+S2223-G0721,2,04:46,PHI,,BKN,,T. Warren,BKN,Warren S.FOUL (P1.T3) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0721,2,03:40,PHI,,BKN,,T. Warren,BKN,Warren REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0721,2,02:37,PHI,,BKN,,T. Warren,BKN,SUB: Irving FOR Warren,Substitution,,0,0,0,0,,,v

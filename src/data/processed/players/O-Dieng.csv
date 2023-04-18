@@ -1,0 +1,469 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0759,2,10:11,OKC,,GSW,,O. Dieng,OKC,MISS Dieng 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,32,24,1,3.0,0.0,h
+S2223-G0759,2,08:16,OKC,,GSW,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0759,2,07:23,OKC,,GSW,,O. Dieng,OKC,Dieng L.B.FOUL (P1.T4) (M.Myers),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0759,2,06:42,OKC,28.0,GSW,45.0,O. Dieng,OKC,Dieng 3' Running Dunk (2 PTS) (Bazley 1 AST),Made Shot,Running Dunk Shot,28,15,3,1,2.0,2.0,h
+S2223-G0759,2,05:02,OKC,,GSW,,O. Dieng,OKC,SUB: Gilgeous-Alexander FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G1172,2,09:53,OKC,,PHX,,O. Dieng,OKC,THUNDER T.Foul (Def. 3 Sec Dieng ) (D.Guthrie),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G1172,2,09:04,OKC,,PHX,,O. Dieng,OKC,MISS Dieng 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-210,131,25,1,3.0,0.0,h
+S2223-G1172,2,08:58,OKC,,PHX,,O. Dieng,OKC,Dieng S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1172,2,06:56,OKC,,PHX,,O. Dieng,OKC,SUB: Gilgeous-Alexander FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G1187,2,09:41,GSW,,OKC,,O. Dieng,OKC,Dieng Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1187,2,07:52,GSW,44.0,OKC,48.0,O. Dieng,OKC,Dieng 5' Driving Layup (2 PTS) (Joe 1 AST),Made Shot,Driving Layup Shot,12,51,5,1,2.0,2.0,v
+S2223-G1187,2,07:52,GSW,44.0,OKC,50.0,O. Dieng,OKC,Dieng Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1187,2,06:49,GSW,,OKC,,O. Dieng,OKC,Dieng P.FOUL (P1.T2) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G1187,2,06:49,GSW,,OKC,,O. Dieng,OKC,SUB: Jay. Williams FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G1187,4,02:13,GSW,,OKC,,O. Dieng,OKC,Dieng Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1187,4,00:58,GSW,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1187,4,00:57,GSW,,OKC,,O. Dieng,OKC,MISS Dieng 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-219,43,0,1,3.0,0.0,v
+S2223-G0041,1,00:04,OKC,,MIN,,O. Dieng,OKC,Dieng BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0041,2,11:36,OKC,21.0,MIN,31.0,O. Dieng,OKC,Dieng 26' 3PT Jump Shot (3 PTS) (J. Williams 1 AST),Made Shot,Jump Shot,-44,255,26,1,3.0,3.0,h
+S2223-G0041,2,09:55,OKC,,MIN,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0041,2,07:56,OKC,,MIN,,O. Dieng,OKC,MISS Dieng 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-219,-1,0,1,3.0,0.0,h
+S2223-G0041,2,05:59,OKC,,MIN,,O. Dieng,OKC,Dieng STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0041,2,05:29,OKC,,MIN,,O. Dieng,OKC,Dieng P.FOUL (P1.PN) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2223-G0041,2,04:25,OKC,,MIN,,O. Dieng,OKC,Dieng S.FOUL (P2.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G0041,2,04:25,OKC,,MIN,,O. Dieng,OKC,SUB: K. Williams FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0041,3,01:17,OKC,,MIN,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0041,3,00:52.200000,OKC,,MIN,,O. Dieng,OKC,Dieng Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0041,3,00:23.300000,OKC,,MIN,,O. Dieng,OKC,MISS Dieng 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-138,249,28,1,3.0,0.0,h
+S2223-G0041,3,00:00.700000,OKC,,MIN,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0041,4,11:09,OKC,,MIN,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0041,4,09:43,OKC,,MIN,,O. Dieng,OKC,Dieng BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0041,4,08:54,OKC,,MIN,,O. Dieng,OKC,SUB: Waters III FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0041,4,06:09,OKC,,MIN,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0041,4,03:26,OKC,,MIN,,O. Dieng,OKC,MISS Dieng 6' Floating Jump Shot,Missed Shot,Floating Jump shot,51,31,6,1,2.0,0.0,h
+S2223-G0041,4,02:17,OKC,,MIN,,O. Dieng,OKC,MISS Dieng 4' Driving Layup,Missed Shot,Driving Layup Shot,36,26,4,1,2.0,0.0,h
+S2223-G0041,4,01:21,OKC,,MIN,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0041,4,00:56.500000,OKC,102.0,MIN,116.0,O. Dieng,OKC,Dieng 1' Running Dunk (5 PTS) (Joe 2 AST),Made Shot,Running Dunk Shot,4,12,1,1,2.0,2.0,h
+S2223-G1200,4,01:12,UTA,,OKC,,O. Dieng,OKC,MISS Dieng 30' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,222,196,30,1,3.0,0.0,v
+S2223-G1200,4,00:41.400000,UTA,,OKC,,O. Dieng,OKC,MISS Dieng 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,47,76,9,1,2.0,0.0,v
+S2223-G0105,1,04:12,OKC,24.0,ORL,19.0,O. Dieng,OKC,Dieng 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,-232,29,0,1,3.0,3.0,h
+S2223-G0105,1,02:54,OKC,26.0,ORL,24.0,O. Dieng,OKC,Dieng 8' Driving Floating Jump Shot (5 PTS) (Mann 1 AST),Made Shot,Driving Floating Jump Shot,-49,61,8,1,2.0,2.0,h
+S2223-G0105,1,02:16,OKC,29.0,ORL,24.0,O. Dieng,OKC,Dieng 25' 3PT Jump Shot (8 PTS) (Bazley 1 AST),Made Shot,Jump Shot,-53,243,25,1,3.0,3.0,h
+S2223-G0105,1,01:45,OKC,,ORL,,O. Dieng,OKC,Dieng Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0105,1,00:09.500000,OKC,,ORL,,O. Dieng,OKC,Dieng S.FOUL (P1.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0105,1,00:09.500000,OKC,,ORL,,O. Dieng,OKC,SUB: Joe FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0105,2,11:10,OKC,,ORL,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0105,2,07:56,OKC,,ORL,,O. Dieng,OKC,SUB: Dort FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0105,3,04:08,OKC,,ORL,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0105,3,03:52,OKC,,ORL,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0105,3,00:41,OKC,,ORL,,O. Dieng,OKC,MISS Dieng 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,65,24,1,3.0,0.0,h
+S2223-G0105,3,00:14.100000,OKC,,ORL,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0105,4,08:51,OKC,,ORL,,O. Dieng,OKC,SUB: Wiggins FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0739,1,00:19.800000,OKC,,CLE,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0739,2,09:58,OKC,,CLE,,O. Dieng,OKC,Dieng P.FOUL (P1.T4) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2223-G0739,2,06:08,OKC,,CLE,,O. Dieng,OKC,Dieng Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0739,2,06:08,OKC,,CLE,,O. Dieng,OKC,SUB: Gilgeous-Alexander FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0739,3,02:56,OKC,,CLE,,O. Dieng,OKC,Dieng OFF.Foul (P2) (D.Collins),Foul,Offensive,0,0,0,0,,,h
+S2223-G0739,3,02:56,OKC,,CLE,,O. Dieng,OKC,Dieng Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0739,3,02:02,OKC,,CLE,,O. Dieng,OKC,Dieng P.FOUL (P3.PN) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2223-G0739,3,02:02,OKC,,CLE,,O. Dieng,OKC,SUB: Wiggins FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G1082,1,01:22,LAC,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1082,1,00:45.700000,LAC,,OKC,,O. Dieng,OKC,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,158,190,25,1,3.0,0.0,v
+S2223-G1082,2,11:04,LAC,,OKC,,O. Dieng,OKC,MISS Dieng 22' Jump Shot,Missed Shot,Jump Shot,186,109,22,1,2.0,0.0,v
+S2223-G1082,2,08:34,LAC,31.0,OKC,31.0,O. Dieng,OKC,Dieng 3PT Jump Shot (3 PTS) (Jal. Williams 2 AST),Made Shot,Jump Shot,-228,37,0,1,3.0,3.0,v
+S2223-G1082,2,07:47,LAC,,OKC,,O. Dieng,OKC,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,-23,273,27,1,3.0,0.0,v
+S2223-G1082,2,06:32,LAC,,OKC,,O. Dieng,OKC,SUB: Giddey FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G0304,1,03:57,NOP,,OKC,,O. Dieng,OKC,Dieng BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0304,1,03:18,NOP,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0304,1,02:53,NOP,,OKC,,O. Dieng,OKC,Dieng S.FOUL (P1.T3) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0304,1,02:29,NOP,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0304,1,02:00,NOP,,OKC,,O. Dieng,OKC,MISS Dieng 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,64,78,10,1,2.0,0.0,v
+S2223-G0304,3,01:49,NOP,,OKC,,O. Dieng,OKC,Dieng P.FOUL (P2.T4) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2223-G0304,3,01:26,NOP,79.0,OKC,72.0,O. Dieng,OKC,Dieng 3PT Jump Shot (3 PTS) (Dort 4 AST),Made Shot,Jump Shot,-227,6,0,1,3.0,3.0,v
+S2223-G0304,4,11:28,NOP,83.0,OKC,77.0,O. Dieng,OKC,Dieng 24' 3PT Jump Shot (6 PTS) (Mann 1 AST),Made Shot,Jump Shot,-229,82,24,1,3.0,3.0,v
+S2223-G0304,4,11:02,NOP,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0304,4,10:35,NOP,,OKC,,O. Dieng,OKC,Dieng BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0304,4,10:15,NOP,,OKC,,O. Dieng,OKC,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,158,214,27,1,3.0,0.0,v
+S2223-G0304,4,08:54,NOP,,OKC,,O. Dieng,OKC,Dieng Traveling Turnover (P1.T16),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0304,4,08:31,NOP,,OKC,,O. Dieng,OKC,Dieng STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0304,4,07:36,NOP,,OKC,,O. Dieng,OKC,SUB: Pokusevski FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G1149,1,02:27,IND,,OKC,,O. Dieng,OKC,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,138,204,25,1,3.0,0.0,v
+S2223-G1149,1,00:18.100000,IND,36.0,OKC,32.0,O. Dieng,OKC,Dieng 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-23,56,6,1,2.0,2.0,v
+S2223-G1149,1,00:07.800000,IND,,OKC,,O. Dieng,OKC,SUB: Dort FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G1149,2,10:04,IND,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1149,2,09:44,IND,,OKC,,O. Dieng,OKC,Dieng S.FOUL (P1.T1) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G1149,2,08:46,IND,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1149,2,07:49,IND,,OKC,,O. Dieng,OKC,SUB: Joe FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G0968,1,02:43,OKC,28.0,UTA,10.0,O. Dieng,OKC,Dieng 2' Cutting Layup Shot (2 PTS) (Wiggins 1 AST),Made Shot,Cutting Layup Shot,1,15,2,1,2.0,2.0,h
+S2223-G0968,1,00:07.500000,OKC,,UTA,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0968,1,00:02.900000,OKC,,UTA,,O. Dieng,OKC,MISS Dieng 5' Running Layup,Missed Shot,Running Layup Shot,-21,42,5,1,2.0,0.0,h
+S2223-G0968,2,10:46,OKC,,UTA,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0968,2,10:36,OKC,37.0,UTA,22.0,O. Dieng,OKC,Dieng 6' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,34,49,6,1,2.0,2.0,h
+S2223-G0968,2,07:56,OKC,48.0,UTA,27.0,O. Dieng,OKC,Dieng 26' 3PT Running Jump Shot (7 PTS) (Joe 1 AST),Made Shot,Running Jump Shot,-174,190,26,1,3.0,3.0,h
+S2223-G0968,2,06:51,OKC,,UTA,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0968,2,06:51,OKC,51.0,UTA,29.0,O. Dieng,OKC,Dieng Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0968,2,06:51,OKC,52.0,UTA,29.0,O. Dieng,OKC,Dieng Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0968,2,04:30,OKC,,UTA,,O. Dieng,OKC,SUB: Jal. Williams FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0968,3,03:39,OKC,,UTA,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0968,3,02:45,OKC,,UTA,,O. Dieng,OKC,Dieng STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0968,3,00:32.800000,OKC,100.0,UTA,84.0,O. Dieng,OKC,Dieng 25' 3PT Jump Shot (12 PTS) (Waters III 1 AST),Made Shot,Jump Shot,-180,171,25,1,3.0,3.0,h
+S2223-G0968,4,10:41,OKC,,UTA,,O. Dieng,OKC,Dieng STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0968,4,09:59,OKC,,UTA,,O. Dieng,OKC,MISS Dieng 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-97,236,26,1,3.0,0.0,h
+S2223-G0968,4,09:22,OKC,,UTA,,O. Dieng,OKC,Dieng P.FOUL (P1.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2223-G0968,4,08:24,OKC,,UTA,,O. Dieng,OKC,SUB: Dort FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G1011,2,06:41,NOP,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1011,2,06:41,NOP,34.0,OKC,46.0,O. Dieng,OKC,Dieng Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1011,2,06:41,NOP,34.0,OKC,47.0,O. Dieng,OKC,Dieng Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1011,2,04:57,NOP,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1011,2,04:03,NOP,,OKC,,O. Dieng,OKC,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,179,169,25,1,3.0,0.0,v
+S2223-G1011,2,03:42,NOP,,OKC,,O. Dieng,OKC,Dieng STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1011,2,03:39,NOP,,OKC,,O. Dieng,OKC,MISS Dieng Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1011,2,03:39,NOP,36.0,OKC,53.0,O. Dieng,OKC,Dieng Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1011,2,01:35,NOP,,OKC,,O. Dieng,OKC,Dieng S.FOUL (P1.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G1011,2,00:35.600000,NOP,,OKC,,O. Dieng,OKC,SUB: Giddey FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G1011,3,00:00.800000,NOP,,OKC,,O. Dieng,OKC,MISS Dieng 54' 3PT Jump Shot,Missed Shot,Jump Shot,118,531,54,1,3.0,0.0,v
+S2223-G1142,2,07:01,OKC,,DET,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1142,2,06:51,OKC,,DET,,O. Dieng,OKC,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,-234,5,0,1,3.0,0.0,h
+S2223-G1142,2,06:15,OKC,,DET,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1142,2,05:18,OKC,,DET,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1142,2,04:56,OKC,,DET,,O. Dieng,OKC,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,-228,-1,0,1,3.0,0.0,h
+S2223-G1142,2,03:55,OKC,,DET,,O. Dieng,OKC,SUB: Joe FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0354,1,04:08,ATL,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0354,1,03:42,ATL,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0354,1,03:35,ATL,18.0,OKC,17.0,O. Dieng,OKC,Dieng 26' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,-134,220,26,1,3.0,3.0,v
+S2223-G0354,1,02:48,ATL,,OKC,,O. Dieng,OKC,MISS Dieng 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,70,24,1,3.0,0.0,v
+S2223-G0354,1,01:53,ATL,21.0,OKC,23.0,O. Dieng,OKC,Dieng 1' Running Dunk (5 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Running Dunk Shot,2,6,1,1,2.0,2.0,v
+S2223-G0354,1,00:12.900000,ATL,29.0,OKC,27.0,O. Dieng,OKC,Dieng 26' 3PT Jump Shot (8 PTS) (Wiggins 1 AST),Made Shot,Jump Shot,54,252,26,1,3.0,3.0,v
+S2223-G0354,2,11:48,ATL,29.0,OKC,29.0,O. Dieng,OKC,Dieng 9' Driving Floating Jump Shot (10 PTS) (Pokusevski 2 AST),Made Shot,Driving Floating Jump Shot,26,88,9,1,2.0,2.0,v
+S2223-G0354,2,10:15,ATL,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0354,2,10:15,ATL,,OKC,,O. Dieng,OKC,MISS Dieng Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0354,2,08:04,ATL,,OKC,,O. Dieng,OKC,Dieng S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0354,2,07:49,ATL,,OKC,,O. Dieng,OKC,Dieng Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0354,2,07:40,ATL,,OKC,,O. Dieng,OKC,SUB: Muscala FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G0354,3,08:03,ATL,,OKC,,O. Dieng,OKC,Dieng STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0354,3,07:47,ATL,,OKC,,O. Dieng,OKC,Dieng Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0354,3,05:18,ATL,,OKC,,O. Dieng,OKC,Dieng L.B.FOUL (P2.T3) (J.Capers),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0354,3,05:07,ATL,,OKC,,O. Dieng,OKC,Dieng S.FOUL (P3.T4) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0354,3,04:01,ATL,80.0,OKC,70.0,O. Dieng,OKC,Dieng 25' 3PT Jump Shot (13 PTS) (Wiggins 3 AST),Made Shot,Jump Shot,-185,166,25,1,3.0,3.0,v
+S2223-G0354,3,03:26,ATL,80.0,OKC,72.0,O. Dieng,OKC,Dieng 1' Running Dunk (15 PTS) (Joe 2 AST),Made Shot,Running Dunk Shot,-7,-7,1,1,2.0,2.0,v
+S2223-G0354,3,01:50,ATL,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0354,3,00:48.900000,ATL,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0010,1,00:30,MIN,,OKC,,O. Dieng,OKC,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,224,6,0,1,3.0,0.0,v
+S2223-G0010,2,08:29,MIN,,OKC,,O. Dieng,OKC,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,-230,-3,0,1,3.0,0.0,v
+S2223-G0010,2,08:03,MIN,,OKC,,O. Dieng,OKC,MISS Dieng 1' Reverse Layup,Missed Shot,Reverse Layup Shot,-5,1,1,1,2.0,0.0,v
+S2223-G0010,2,07:24,MIN,,OKC,,O. Dieng,OKC,SUB: Dort FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G0010,3,00:11.100000,MIN,,OKC,,O. Dieng,OKC,SUB: Joe FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G0010,4,11:14,MIN,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0010,4,09:40,MIN,,OKC,,O. Dieng,OKC,SUB: Omoruyi FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G1226,1,10:32,OKC,,MEM,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1226,1,08:09,OKC,6.0,MEM,4.0,O. Dieng,OKC,Dieng 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,25,6,3,1,2.0,2.0,h
+S2223-G1226,1,06:53,OKC,,MEM,,O. Dieng,OKC,MISS Dieng 2' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-16,13,2,1,2.0,0.0,h
+S2223-G1226,1,06:03,OKC,,MEM,,O. Dieng,OKC,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,114,238,26,1,3.0,0.0,h
+S2223-G1226,1,05:46,OKC,,MEM,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1226,1,05:31,OKC,,MEM,,O. Dieng,OKC,MISS Dieng 28' 3PT Jump Shot,Missed Shot,Jump Shot,-47,273,28,1,3.0,0.0,h
+S2223-G1226,1,02:28,OKC,,MEM,,O. Dieng,OKC,MISS Dieng 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,207,148,25,1,3.0,0.0,h
+S2223-G1226,1,02:24,OKC,,MEM,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1226,1,01:56,OKC,17.0,MEM,15.0,O. Dieng,OKC,Dieng 4' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,15,36,4,1,2.0,2.0,h
+S2223-G1226,1,00:33.200000,OKC,,MEM,,O. Dieng,OKC,Dieng Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1226,1,00:26,OKC,,MEM,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1226,2,05:21,OKC,38.0,MEM,37.0,O. Dieng,OKC,Dieng 22' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,136,175,22,1,2.0,2.0,h
+S2223-G1226,2,03:09,OKC,,MEM,,O. Dieng,OKC,Dieng BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1226,2,00:04,OKC,,MEM,,O. Dieng,OKC,Dieng Offensive Charge Foul (P1) (S.Wright),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1226,2,00:04,OKC,,MEM,,O. Dieng,OKC,Dieng Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1226,3,10:12,OKC,,MEM,,O. Dieng,OKC,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,-162,192,25,1,3.0,0.0,h
+S2223-G1226,3,07:49,OKC,60.0,MEM,57.0,O. Dieng,OKC,Dieng Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1226,3,07:49,OKC,,MEM,,O. Dieng,OKC,MISS Dieng Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1226,3,06:27,OKC,,MEM,,O. Dieng,OKC,MISS Dieng 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-39,245,25,1,3.0,0.0,h
+S2223-G1226,3,05:06,OKC,,MEM,,O. Dieng,OKC,Dieng STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1226,3,05:03,OKC,69.0,MEM,63.0,O. Dieng,OKC,Dieng Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1226,3,05:03,OKC,70.0,MEM,63.0,O. Dieng,OKC,Dieng Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1226,3,01:40,OKC,78.0,MEM,69.0,O. Dieng,OKC,Dieng 26' 3PT Jump Shot (12 PTS) (Mann 8 AST),Made Shot,Jump Shot,146,214,26,1,3.0,3.0,h
+S2223-G1226,4,11:12,OKC,87.0,MEM,75.0,O. Dieng,OKC,Dieng 17' Pullup Jump Shot (14 PTS) (Mann 10 AST),Made Shot,Pullup Jump shot,74,150,17,1,2.0,2.0,h
+S2223-G1226,4,09:25,OKC,,MEM,,O. Dieng,OKC,Dieng P.FOUL (P2.T1) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2223-G1226,4,07:49,OKC,,MEM,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1226,4,06:44,OKC,102.0,MEM,83.0,O. Dieng,OKC,Dieng 2' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,21,-2,2,1,2.0,2.0,h
+S2223-G1226,4,06:44,OKC,103.0,MEM,83.0,O. Dieng,OKC,Dieng Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1226,4,06:01,OKC,,MEM,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1226,4,04:59,OKC,,MEM,,O. Dieng,OKC,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,-105,222,25,1,3.0,0.0,h
+S2223-G1226,4,04:30,OKC,106.0,MEM,89.0,O. Dieng,OKC,Dieng 3' Driving Floating Jump Shot (19 PTS) (Mann 11 AST),Made Shot,Driving Floating Jump Shot,15,31,3,1,2.0,2.0,h
+S2223-G1226,4,04:15,OKC,,MEM,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1226,4,02:13,OKC,,MEM,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1226,4,02:08,OKC,,MEM,,O. Dieng,OKC,Dieng Lost Ball Turnover (P3.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1226,4,01:26,OKC,,MEM,,O. Dieng,OKC,Dieng Out of Bounds - Bad Pass Turnover Turnover (P4.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1226,4,00:49.100000,OKC,115.0,MEM,98.0,O. Dieng,OKC,Dieng 24' 3PT Jump Shot (22 PTS) (Waters III 1 AST),Made Shot,Jump Shot,-137,203,24,1,3.0,3.0,h
+S2223-G0067,1,01:12,OKC,,LAC,,O. Dieng,OKC,SUB: Joe FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0067,2,11:05,OKC,,LAC,,O. Dieng,OKC,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,75,254,26,1,3.0,0.0,h
+S2223-G0067,2,09:01,OKC,,LAC,,O. Dieng,OKC,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,165,204,26,1,3.0,0.0,h
+S2223-G0067,2,06:07,OKC,45.0,LAC,37.0,O. Dieng,OKC,Dieng 4' Running Layup (2 PTS),Made Shot,Running Layup Shot,12,33,4,1,2.0,2.0,h
+S2223-G0067,2,05:52,OKC,,LAC,,O. Dieng,OKC,Dieng P.FOUL (P1.T2) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G0067,2,05:20,OKC,,LAC,,O. Dieng,OKC,SUB: K. Williams FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0319,1,03:24,OKC,23.0,SAS,27.0,O. Dieng,OKC,Dieng 2' Cutting Dunk Shot (2 PTS) (Giddey 2 AST),Made Shot,Cutting Dunk Shot,-21,5,2,1,2.0,2.0,h
+S2223-G0319,1,03:07,OKC,,SAS,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0319,1,03:05,OKC,25.0,SAS,27.0,O. Dieng,OKC,Dieng 3' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,12,29,3,1,2.0,2.0,h
+S2223-G0319,1,00:03.500000,OKC,,SAS,,O. Dieng,OKC,Dieng S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0319,2,10:26,OKC,,SAS,,O. Dieng,OKC,MISS Dieng Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0319,2,10:26,OKC,,SAS,,O. Dieng,OKC,MISS Dieng Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0319,2,10:19,OKC,36.0,SAS,37.0,O. Dieng,OKC,Dieng 3' Cutting Finger Roll Layup Shot (6 PTS) (Pokusevski 1 AST),Made Shot,Cutting Finger Roll Layup Shot,22,24,3,1,2.0,2.0,h
+S2223-G0319,2,08:57,OKC,,SAS,,O. Dieng,OKC,SUB: Wiggins FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0319,3,02:24,OKC,,SAS,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0319,3,00:44.500000,OKC,,SAS,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0319,4,11:26,OKC,,SAS,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0319,4,10:12,OKC,,SAS,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0319,4,10:02,OKC,95.0,SAS,98.0,O. Dieng,OKC,Dieng 2' Cutting Layup Shot (8 PTS) (J. Williams 2 AST),Made Shot,Cutting Layup Shot,18,6,2,1,2.0,2.0,h
+S2223-G0319,4,07:56,OKC,100.0,SAS,102.0,O. Dieng,OKC,Dieng 4' Cutting Layup Shot (10 PTS) (Dort 4 AST),Made Shot,Cutting Layup Shot,-25,31,4,1,2.0,2.0,h
+S2223-G0319,4,05:44,OKC,,SAS,,O. Dieng,OKC,Dieng S.FOUL (P2.T3) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0319,4,05:44,OKC,,SAS,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0319,4,05:22,OKC,,SAS,,O. Dieng,OKC,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,20,268,27,1,3.0,0.0,h
+S2223-G0319,4,04:28,OKC,,SAS,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0319,4,02:58,OKC,,SAS,,O. Dieng,OKC,SUB: K. Williams FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0773,1,03:07,HOU,,OKC,,O. Dieng,OKC,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,-74,260,27,1,3.0,0.0,v
+S2223-G0773,1,00:15.300000,HOU,,OKC,,O. Dieng,OKC,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,211,145,26,1,3.0,0.0,v
+S2223-G0773,2,11:02,HOU,,OKC,,O. Dieng,OKC,MISS Dieng 2' Layup,Missed Shot,Layup Shot,16,3,2,1,2.0,0.0,v
+S2223-G0773,2,09:51,HOU,,OKC,,O. Dieng,OKC,MISS Dieng 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-2,71,7,1,2.0,0.0,v
+S2223-G0773,2,09:37,HOU,,OKC,,O. Dieng,OKC,Dieng BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0773,2,08:44,HOU,42.0,OKC,36.0,O. Dieng,OKC,Dieng 2' Cutting Layup Shot (2 PTS) (K. Williams 1 AST),Made Shot,Cutting Layup Shot,15,3,2,1,2.0,2.0,v
+S2223-G0773,2,05:51,HOU,,OKC,,O. Dieng,OKC,SUB: Wiggins FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G0773,3,01:38,HOU,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0773,4,10:35,HOU,,OKC,,O. Dieng,OKC,MISS Dieng 28' 3PT Jump Shot,Missed Shot,Jump Shot,-127,247,28,1,3.0,0.0,v
+S2223-G0773,4,09:38,HOU,,OKC,,O. Dieng,OKC,Dieng BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0773,4,09:31,HOU,,OKC,,O. Dieng,OKC,SUB: Jal. Williams FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G1031,1,04:24,OKC,14.0,BKN,20.0,O. Dieng,OKC,Dieng Cutting Dunk Shot (2 PTS) (Joe 1 AST),Made Shot,Cutting Dunk Shot,-1,1,0,1,2.0,2.0,h
+S2223-G1031,1,02:50,OKC,,BKN,,O. Dieng,OKC,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,-227,6,0,1,3.0,0.0,h
+S2223-G1031,1,02:30,OKC,,BKN,,O. Dieng,OKC,SUB: Saric FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G1031,2,07:58,OKC,,BKN,,O. Dieng,OKC,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,-229,20,0,1,3.0,0.0,h
+S2223-G1031,2,07:55,OKC,,BKN,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1031,2,07:44,OKC,,BKN,,O. Dieng,OKC,MISS Dieng 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,6,192,19,1,2.0,0.0,h
+S2223-G1031,2,05:30,OKC,,BKN,,O. Dieng,OKC,MISS Dieng 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,40,51,6,1,2.0,0.0,h
+S2223-G1031,2,03:37,OKC,,BKN,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1031,2,03:24,OKC,,BKN,,O. Dieng,OKC,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,-150,197,25,1,3.0,0.0,h
+S2223-G1031,2,02:20,OKC,,BKN,,O. Dieng,OKC,SUB: Jal. Williams FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G1031,3,03:21,OKC,,BKN,,O. Dieng,OKC,Dieng Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1031,3,01:37,OKC,,BKN,,O. Dieng,OKC,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,192,155,25,1,3.0,0.0,h
+S2223-G1031,3,00:42.600000,OKC,90.0,BKN,80.0,O. Dieng,OKC,Dieng 2' Cutting Dunk Shot (4 PTS) (Jal. Williams 2 AST),Made Shot,Cutting Dunk Shot,2,21,2,1,2.0,2.0,h
+S2223-G1031,3,00:32.800000,OKC,,BKN,,O. Dieng,OKC,Dieng S.FOUL (P1.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G1031,3,00:32.800000,OKC,,BKN,,O. Dieng,OKC,SUB: Saric FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G1134,1,02:29,OKC,,CHA,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1134,2,11:46,OKC,,CHA,,O. Dieng,OKC,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,-230,13,0,1,3.0,0.0,h
+S2223-G1134,2,08:27,OKC,,CHA,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1134,2,06:04,OKC,,CHA,,O. Dieng,OKC,Dieng S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2223-G1134,2,06:04,OKC,,CHA,,O. Dieng,OKC,SUB: Joe FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G1134,3,00:27,OKC,,CHA,,O. Dieng,OKC,SUB: Butler FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0725,1,02:34,OKC,,ATL,,O. Dieng,OKC,Dieng S.FOUL (P1.T3) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G0725,1,02:34,OKC,,ATL,,O. Dieng,OKC,SUB: Mann FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0725,2,11:00,OKC,48.0,ATL,41.0,O. Dieng,OKC,Dieng 26' 3PT Jump Shot (3 PTS) (Giddey 5 AST),Made Shot,Jump Shot,188,176,26,1,3.0,3.0,h
+S2223-G0725,2,08:19,OKC,,ATL,,O. Dieng,OKC,SUB: Wiggins FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0725,3,00:35.800000,OKC,104.0,ATL,107.0,O. Dieng,OKC,Dieng 2' Cutting Dunk Shot (5 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Cutting Dunk Shot,-12,15,2,1,2.0,2.0,h
+S2223-G0725,3,00:02.400000,OKC,,ATL,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0725,4,11:19,OKC,,ATL,,O. Dieng,OKC,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,-233,-1,0,1,3.0,0.0,h
+S2223-G0725,4,10:55,OKC,,ATL,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0725,4,09:56,OKC,,ATL,,O. Dieng,OKC,SUB: Bazley FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0119,2,11:30,OKC,,DEN,,O. Dieng,OKC,Dieng P.FOUL (P1.T1) (L.Holtkamp),Foul,Personal,0,0,0,0,,,h
+S2223-G0119,2,08:45,OKC,,DEN,,O. Dieng,OKC,SUB: Robinson-Earl FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0119,2,02:20,OKC,,DEN,,O. Dieng,OKC,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,-230,-21,0,1,3.0,0.0,h
+S2223-G0119,2,01:28,OKC,,DEN,,O. Dieng,OKC,SUB: K. Williams FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0119,3,03:15,OKC,,DEN,,O. Dieng,OKC,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,-232,-20,0,1,3.0,0.0,h
+S2223-G0119,3,03:11,OKC,,DEN,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0119,3,03:09,OKC,,DEN,,O. Dieng,OKC,Dieng Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0119,3,01:26,OKC,,DEN,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0119,3,01:25,OKC,,DEN,,O. Dieng,OKC,MISS Dieng Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0119,3,01:25,OKC,91.0,DEN,91.0,O. Dieng,OKC,Dieng Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0119,3,00:47,OKC,95.0,DEN,93.0,O. Dieng,OKC,Dieng 3' Cutting Layup Shot (3 PTS) (K. Williams 1 AST),Made Shot,Cutting Layup Shot,15,22,3,1,2.0,2.0,h
+S2223-G0119,3,00:32.400000,OKC,,DEN,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0119,3,00:03.300000,OKC,,DEN,,O. Dieng,OKC,SUB: Dort FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0990,1,04:38,PHX,,OKC,,O. Dieng,OKC,Dieng STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0990,1,03:54,PHX,,OKC,,O. Dieng,OKC,Thunder T.Foul (Def. 3 Sec Dieng ) (B.Forte),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0990,1,02:41,PHX,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0990,1,01:09,PHX,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0990,1,00:25.500000,PHX,,OKC,,O. Dieng,OKC,MISS Dieng 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,51,24,1,3.0,0.0,v
+S2223-G0990,2,11:49,PHX,,OKC,,O. Dieng,OKC,Dieng Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0990,2,09:54,PHX,41.0,OKC,29.0,O. Dieng,OKC,Dieng 2' Cutting Dunk Shot (2 PTS) (Robinson-Earl 2 AST),Made Shot,Cutting Dunk Shot,0,22,2,1,2.0,2.0,v
+S2223-G0990,2,09:43,PHX,,OKC,,O. Dieng,OKC,Dieng L.B.FOUL (P1.T2) (J.Williams),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0990,2,06:46,PHX,,OKC,,O. Dieng,OKC,MISS Dieng 5' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-12,52,5,1,2.0,0.0,v
+S2223-G0990,2,06:26,PHX,,OKC,,O. Dieng,OKC,SUB: Dort FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G0990,3,06:09,PHX,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0990,3,03:47,PHX,,OKC,,O. Dieng,OKC,MISS Dieng 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,79,8,1,2.0,0.0,v
+S2223-G0990,3,01:33,PHX,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0990,3,01:20,PHX,,OKC,,O. Dieng,OKC,MISS Dieng 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,138,80,16,1,2.0,0.0,v
+S2223-G0990,3,00:47.400000,PHX,,OKC,,O. Dieng,OKC,SUB: Joe FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G0990,4,09:28,PHX,,OKC,,O. Dieng,OKC,MISS Dieng 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-56,84,10,1,2.0,0.0,v
+S2223-G0990,4,07:42,PHX,121.0,OKC,88.0,O. Dieng,OKC,Dieng 24' 3PT Jump Shot (5 PTS) (Butler 3 AST),Made Shot,Jump Shot,-232,57,24,1,3.0,3.0,v
+S2223-G0990,4,07:26,PHX,,OKC,,O. Dieng,OKC,Dieng P.FOUL (P2.T2) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G0990,4,06:42,PHX,,OKC,,O. Dieng,OKC,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,-77,260,27,1,3.0,0.0,v
+S2223-G0990,4,06:24,PHX,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0990,4,05:17,PHX,,OKC,,O. Dieng,OKC,Dieng Lost Ball Turnover (P2.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0990,4,04:58,PHX,123.0,OKC,92.0,O. Dieng,OKC,Dieng 8' Driving Floating Jump Shot (7 PTS) (Mann 4 AST),Made Shot,Driving Floating Jump Shot,31,76,8,1,2.0,2.0,v
+S2223-G0990,4,04:40,PHX,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0990,4,04:16,PHX,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0990,4,03:29,PHX,127.0,OKC,95.0,O. Dieng,OKC,Dieng 29' 3PT Jump Shot (10 PTS) (Butler 4 AST),Made Shot,Jump Shot,-89,272,29,1,3.0,3.0,v
+S2223-G0990,4,02:37,PHX,,OKC,,O. Dieng,OKC,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,-129,225,26,1,3.0,0.0,v
+S2223-G0990,4,01:52,PHX,130.0,OKC,99.0,O. Dieng,OKC,Dieng 7' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,39,57,7,1,2.0,2.0,v
+S2223-G0990,4,00:30,PHX,,OKC,,O. Dieng,OKC,MISS Dieng 28' 3PT Jump Shot,Missed Shot,Jump Shot,142,241,28,1,3.0,0.0,v
+S2223-G0287,1,00:49.100000,HOU,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0287,2,11:23,HOU,,OKC,,O. Dieng,OKC,Thunder T.Foul (Def. 3 Sec Dieng ) (C.Kirkland),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0287,2,09:58,HOU,,OKC,,O. Dieng,OKC,MISS Dieng 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,162,218,27,1,3.0,0.0,v
+S2223-G0287,2,08:14,HOU,,OKC,,O. Dieng,OKC,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,-27,252,25,1,3.0,0.0,v
+S2223-G0287,2,08:13,HOU,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0287,2,05:52,HOU,,OKC,,O. Dieng,OKC,SUB: Wiggins FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G0287,3,00:00.700000,HOU,,OKC,,O. Dieng,OKC,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,-229,42,0,1,3.0,0.0,v
+S2223-G0287,4,10:30,HOU,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0287,4,07:58,HOU,,OKC,,O. Dieng,OKC,SUB: Robinson-Earl FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G0287,4,02:10,HOU,,OKC,,O. Dieng,OKC,MISS Dieng 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,59,24,1,3.0,0.0,v
+S2223-G0287,4,01:30,HOU,,OKC,,O. Dieng,OKC,Dieng Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1044,1,04:47,TOR,,OKC,,O. Dieng,OKC,Dieng S.FOUL (P1.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G1044,1,03:08,TOR,19.0,OKC,24.0,O. Dieng,OKC,Dieng 3PT Jump Shot (3 PTS) (Saric 1 AST),Made Shot,Jump Shot,228,14,0,1,3.0,3.0,v
+S2223-G1044,1,01:00,TOR,,OKC,,O. Dieng,OKC,Dieng S.FOUL (P2.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G1044,2,10:44,TOR,,OKC,,O. Dieng,OKC,SUB: Wiggins FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G1044,4,09:59,TOR,,OKC,,O. Dieng,OKC,SUB: Gilgeous-Alexander FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G1044,4,02:37,TOR,,OKC,,O. Dieng,OKC,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,97,232,25,1,3.0,0.0,v
+S2223-G1044,4,00:12.900000,TOR,,OKC,,O. Dieng,OKC,MISS Dieng 4' Running Layup,Missed Shot,Running Layup Shot,-33,26,4,1,2.0,0.0,v
+S2223-G1064,1,03:05,OKC,,PHX,,O. Dieng,OKC,Dieng Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1064,1,01:47,OKC,,PHX,,O. Dieng,OKC,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,156,193,25,1,3.0,0.0,h
+S2223-G1064,1,00:35.700000,OKC,,PHX,,O. Dieng,OKC,SUB: Dort FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G1064,2,09:54,OKC,,PHX,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1064,2,07:42,OKC,,PHX,,O. Dieng,OKC,SUB: Saric FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0136,1,02:11,MIL,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0136,3,04:05,MIL,88.0,OKC,67.0,O. Dieng,OKC,Dieng 26' 3PT Jump Shot (3 PTS) (Bazley 1 AST),Made Shot,Jump Shot,114,236,26,1,3.0,3.0,v
+S2223-G0136,3,03:18,MIL,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0136,3,01:22,MIL,93.0,OKC,78.0,O. Dieng,OKC,Dieng 24' 3PT Running Jump Shot (6 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Running Jump Shot,-230,57,24,1,3.0,3.0,v
+S2223-G0136,3,00:39.700000,MIL,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0136,4,08:17,MIL,,OKC,,O. Dieng,OKC,SUB: Dort FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G0136,4,04:44,MIL,,OKC,,O. Dieng,OKC,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,-212,145,26,1,3.0,0.0,v
+S2223-G0136,4,01:51,MIL,106.0,OKC,94.0,O. Dieng,OKC,Dieng 1' Running Dunk (8 PTS) (Jal. Williams 1 AST),Made Shot,Running Dunk Shot,-2,10,1,1,2.0,2.0,v
+S2223-G0136,4,00:31,MIL,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1120,2,10:55,POR,,OKC,,O. Dieng,OKC,Dieng S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G1120,2,10:38,POR,,OKC,,O. Dieng,OKC,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,-205,157,26,1,3.0,0.0,v
+S2223-G1120,2,09:21,POR,40.0,OKC,33.0,O. Dieng,OKC,Dieng 1' Driving Reverse Layup (2 PTS) (Giddey 2 AST),Made Shot,Driving Reverse Layup Shot,10,3,1,1,2.0,2.0,v
+S2223-G1120,2,07:15,POR,,OKC,,O. Dieng,OKC,Dieng STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1120,2,07:03,POR,,OKC,,O. Dieng,OKC,MISS Dieng 2' Driving Layup,Missed Shot,Driving Layup Shot,20,5,2,1,2.0,0.0,v
+S2223-G1120,2,06:43,POR,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1120,2,06:02,POR,,OKC,,O. Dieng,OKC,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,-4,261,26,1,3.0,0.0,v
+S2223-G1120,2,06:01,POR,,OKC,,O. Dieng,OKC,SUB: Gilgeous-Alexander FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G1120,3,01:45,POR,,OKC,,O. Dieng,OKC,Dieng Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1120,3,00:01.700000,POR,94.0,OKC,96.0,O. Dieng,OKC,Dieng 1' Running Layup (4 PTS) (Joe 5 AST),Made Shot,Running Layup Shot,-7,2,1,1,2.0,2.0,v
+S2223-G0341,1,01:05,MIN,,OKC,,O. Dieng,OKC,Dieng STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0341,2,11:36,MIN,,OKC,,O. Dieng,OKC,MISS Dieng 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,62,90,11,1,2.0,0.0,v
+S2223-G0341,2,11:11,MIN,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0341,2,10:25,MIN,,OKC,,O. Dieng,OKC,SUB: Robinson-Earl FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G0341,3,01:44,MIN,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0341,3,00:36.800000,MIN,,OKC,,O. Dieng,OKC,Dieng STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0341,4,08:44,MIN,,OKC,,O. Dieng,OKC,SUB: Robinson-Earl FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G0951,1,03:18,OKC,,UTA,,O. Dieng,OKC,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,-225,126,26,1,3.0,0.0,h
+S2223-G0951,2,11:12,OKC,,UTA,,O. Dieng,OKC,Dieng S.FOUL (P1.T1) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0951,2,08:09,OKC,,UTA,,O. Dieng,OKC,SUB: Wiggins FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0951,3,03:23,OKC,92.0,UTA,74.0,O. Dieng,OKC,Dieng 7' Driving Floating Jump Shot (2 PTS) (Mann 1 AST),Made Shot,Driving Floating Jump Shot,-44,59,7,1,2.0,2.0,h
+S2223-G0951,3,02:44,OKC,,UTA,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0951,3,02:35,OKC,,UTA,,O. Dieng,OKC,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,-233,17,0,1,3.0,0.0,h
+S2223-G0951,3,01:02,OKC,,UTA,,O. Dieng,OKC,Dieng Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0951,4,11:16,OKC,,UTA,,O. Dieng,OKC,MISS Dieng 4' Running Dunk,Missed Shot,Running Dunk Shot,29,22,4,1,2.0,0.0,h
+S2223-G0951,4,08:36,OKC,,UTA,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0951,4,08:36,OKC,106.0,UTA,89.0,O. Dieng,OKC,Dieng Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0951,4,07:28,OKC,,UTA,,O. Dieng,OKC,MISS Dieng 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-184,164,25,1,3.0,0.0,h
+S2223-G0951,4,06:34,OKC,,UTA,,O. Dieng,OKC,SUB: Giddey FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0951,4,03:17,OKC,123.0,UTA,98.0,O. Dieng,OKC,Dieng 8' Driving Floating Jump Shot (6 PTS) (Mann 2 AST),Made Shot,Driving Floating Jump Shot,-76,14,8,1,2.0,2.0,h
+S2223-G0951,4,02:42,OKC,,UTA,,O. Dieng,OKC,Dieng S.FOUL (P2.T4) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0951,4,02:40,OKC,,UTA,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0951,4,02:23,OKC,127.0,UTA,98.0,O. Dieng,OKC,Dieng 6' Driving Floating Bank Jump Shot (8 PTS) (Mann 4 AST),Made Shot,Driving Floating Bank Jump Shot,58,27,6,1,2.0,2.0,h
+S2223-G0951,4,01:25,OKC,,UTA,,O. Dieng,OKC,Dieng REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0951,4,01:13,OKC,,UTA,,O. Dieng,OKC,MISS Dieng Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0951,4,01:13,OKC,128.0,UTA,103.0,O. Dieng,OKC,Dieng Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1106,1,02:13,LAL,,OKC,,O. Dieng,OKC,MISS Dieng 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-45,260,26,1,3.0,0.0,v
+S2223-G1106,1,01:52,LAL,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1106,1,01:45,LAL,,OKC,,O. Dieng,OKC,Dieng Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1106,1,01:14,LAL,,OKC,,O. Dieng,OKC,Dieng S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G1106,1,00:26.200000,LAL,,OKC,,O. Dieng,OKC,SUB: Robinson-Earl FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G0982,1,03:43,OKC,,GSW,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0982,1,03:13,OKC,,GSW,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0982,1,02:48,OKC,,GSW,,O. Dieng,OKC,MISS Dieng 1' Running Layup,Missed Shot,Running Layup Shot,7,10,1,1,2.0,0.0,h
+S2223-G0982,1,02:08,OKC,,GSW,,O. Dieng,OKC,Dieng STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0982,1,01:13,OKC,31.0,GSW,28.0,O. Dieng,OKC,Dieng 1' Dunk (2 PTS) (Saric 1 AST),Made Shot,Dunk Shot,2,6,1,1,2.0,2.0,h
+S2223-G0982,1,00:46.900000,OKC,34.0,GSW,30.0,O. Dieng,OKC,Dieng 24' 3PT Jump Shot (5 PTS) (Giddey 4 AST),Made Shot,Jump Shot,-216,111,24,1,3.0,3.0,h
+S2223-G0982,1,00:04.200000,OKC,,GSW,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0982,1,00:00.500000,OKC,40.0,GSW,30.0,O. Dieng,OKC,Dieng 25' 3PT Running Pull-Up Jump Shot (8 PTS),Made Shot,Running Pull-Up Jump Shot,-173,183,25,1,3.0,3.0,h
+S2223-G0982,2,10:41,OKC,,GSW,,O. Dieng,OKC,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,194,166,26,1,3.0,0.0,h
+S2223-G0982,2,09:04,OKC,,GSW,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0982,2,08:56,OKC,,GSW,,O. Dieng,OKC,Dieng STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0982,2,08:40,OKC,,GSW,,O. Dieng,OKC,SUB: Gilgeous-Alexander FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0982,3,06:44,OKC,,GSW,,O. Dieng,OKC,MISS Dieng Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0982,3,06:44,OKC,81.0,GSW,82.0,O. Dieng,OKC,Dieng Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0982,3,05:26,OKC,,GSW,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0982,3,00:02,OKC,,GSW,,O. Dieng,OKC,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,229,102,25,1,3.0,0.0,h
+S2223-G0982,4,08:00,OKC,121.0,GSW,108.0,O. Dieng,OKC,Dieng 2' Dunk (11 PTS) (Giddey 17 AST),Made Shot,Dunk Shot,4,20,2,1,2.0,2.0,h
+S2223-G0982,4,07:44,OKC,,GSW,,O. Dieng,OKC,SUB: Gilgeous-Alexander FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0146,2,10:38,DET,,OKC,,O. Dieng,OKC,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,-181,178,25,1,3.0,0.0,v
+S2223-G0146,2,07:46,DET,,OKC,,O. Dieng,OKC,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,-234,-10,0,1,3.0,0.0,v
+S2223-G0146,2,06:47,DET,,OKC,,O. Dieng,OKC,SUB: Dort FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G0146,4,10:44,DET,88.0,OKC,87.0,O. Dieng,OKC,Dieng 1' Running Layup (2 PTS) (Bazley 3 AST),Made Shot,Running Layup Shot,-1,12,1,1,2.0,2.0,v
+S2223-G0146,4,10:28,DET,,OKC,,O. Dieng,OKC,MISS Dieng 3' Driving Layup,Missed Shot,Driving Layup Shot,-2,34,3,1,2.0,0.0,v
+S2223-G0146,4,08:21,DET,,OKC,,O. Dieng,OKC,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,210,148,26,1,3.0,0.0,v
+S2223-G0146,4,07:47,DET,,OKC,,O. Dieng,OKC,MISS Dieng 4' Driving Layup,Missed Shot,Driving Layup Shot,22,29,4,1,2.0,0.0,v
+S2223-G0146,4,06:20,DET,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0146,4,02:08,DET,,OKC,,O. Dieng,OKC,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,-233,83,25,1,3.0,0.0,v
+S2223-G0146,4,01:52,DET,,OKC,,O. Dieng,OKC,SUB: Dort FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G1096,2,11:32,LAC,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1096,2,09:56,LAC,42.0,OKC,34.0,O. Dieng,OKC,Dieng 25' 3PT Jump Shot (3 PTS) (Jal. Williams 3 AST),Made Shot,Jump Shot,-168,188,25,1,3.0,3.0,v
+S2223-G1096,2,08:09,LAC,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1096,2,07:58,LAC,,OKC,,O. Dieng,OKC,MISS Dieng 3' Layup,Missed Shot,Layup Shot,-34,4,3,1,2.0,0.0,v
+S2223-G1096,2,07:06,LAC,,OKC,,O. Dieng,OKC,Dieng STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1096,2,06:20,LAC,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1096,2,05:14,LAC,,OKC,,O. Dieng,OKC,SUB: Waters III FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G1096,4,09:09,LAC,,OKC,,O. Dieng,OKC,MISS Dieng 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-98,124,16,1,2.0,0.0,v
+S2223-G1096,4,08:53,LAC,,OKC,,O. Dieng,OKC,SUB: Giddey FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G1096,4,04:32,LAC,116.0,OKC,91.0,O. Dieng,OKC,Dieng 1' Driving Dunk (5 PTS) (Mann 1 AST),Made Shot,Driving Dunk Shot,5,13,1,1,2.0,2.0,v
+S2223-G1096,4,03:15,LAC,118.0,OKC,95.0,O. Dieng,OKC,Dieng 1' Driving Dunk (7 PTS) (Waters III 1 AST),Made Shot,Driving Dunk Shot,-12,8,1,1,2.0,2.0,v
+S2223-G1096,4,02:16,LAC,123.0,OKC,97.0,O. Dieng,OKC,Dieng 12' Driving Floating Jump Shot (9 PTS) (Sarr 1 AST),Made Shot,Driving Floating Jump Shot,25,116,12,1,2.0,2.0,v
+S2223-G1096,4,01:31,LAC,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1096,4,01:27,LAC,,OKC,,O. Dieng,OKC,Dieng Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0054,1,02:47,OKC,,LAC,,O. Dieng,OKC,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,-170,195,26,1,3.0,0.0,h
+S2223-G0054,1,02:09,OKC,21.0,LAC,14.0,O. Dieng,OKC,Dieng 2' Dunk (2 PTS) (Pokusevski 1 AST),Made Shot,Dunk Shot,-11,13,2,1,2.0,2.0,h
+S2223-G0054,1,00:55.600000,OKC,,LAC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0054,1,00:42.300000,OKC,,LAC,,O. Dieng,OKC,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,-154,204,26,1,3.0,0.0,h
+S2223-G0054,2,09:30,OKC,,LAC,,O. Dieng,OKC,SUB: Wiggins FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0054,4,07:54,OKC,,LAC,,O. Dieng,OKC,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,18,256,26,1,3.0,0.0,h
+S2223-G0054,4,07:43,OKC,,LAC,,O. Dieng,OKC,SUB: Muscala FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0035,2,10:38,DEN,,OKC,,O. Dieng,OKC,MISS Dieng 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,32,35,5,1,2.0,0.0,v
+S2223-G0035,2,07:45,DEN,,OKC,,O. Dieng,OKC,MISS Dieng 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-61,55,8,1,2.0,0.0,v
+S2223-G0035,2,06:18,DEN,,OKC,,O. Dieng,OKC,SUB: Gilgeous-Alexander FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G1018,1,04:32,SAS,,OKC,,O. Dieng,OKC,MISS Dieng 15' Jump Shot,Missed Shot,Jump Shot,-143,38,15,1,2.0,0.0,v
+S2223-G1018,1,03:50,SAS,,OKC,,O. Dieng,OKC,MISS Dieng 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-24,54,6,1,2.0,0.0,v
+S2223-G1018,1,03:40,SAS,,OKC,,O. Dieng,OKC,Dieng S.FOUL (P1.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G1018,1,03:37,SAS,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1018,1,02:54,SAS,,OKC,,O. Dieng,OKC,Dieng S.FOUL (P2.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G1018,1,01:50,SAS,17.0,OKC,22.0,O. Dieng,OKC,Dieng 24' 3PT Jump Shot (3 PTS) (Saric 1 AST),Made Shot,Jump Shot,239,15,24,1,3.0,3.0,v
+S2223-G1018,1,01:01,SAS,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1018,1,00:24.900000,SAS,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1018,1,00:20.200000,SAS,19.0,OKC,29.0,O. Dieng,OKC,Dieng 1' Running Layup (5 PTS),Made Shot,Running Layup Shot,7,-1,1,1,2.0,2.0,v
+S2223-G1018,1,00:01.200000,SAS,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1018,1,00:00,SAS,,OKC,,O. Dieng,OKC,MISS Dieng 45' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,164,420,45,1,3.0,0.0,v
+S2223-G1018,2,11:49,SAS,19.0,OKC,31.0,O. Dieng,OKC,Dieng 2' Cutting Layup Shot (7 PTS) (Jal. Williams 2 AST),Made Shot,Cutting Layup Shot,20,1,2,1,2.0,2.0,v
+S2223-G1018,2,10:06,SAS,,OKC,,O. Dieng,OKC,Dieng P.FOUL (P3.T1) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2223-G1018,2,09:39,SAS,19.0,OKC,33.0,O. Dieng,OKC,Dieng 1' Driving Dunk (9 PTS) (Wiggins 1 AST),Made Shot,Driving Dunk Shot,10,3,1,1,2.0,2.0,v
+S2223-G1018,2,07:13,SAS,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1018,2,05:24,SAS,29.0,OKC,44.0,O. Dieng,OKC,Dieng 1' Running Layup (11 PTS) (Dort 1 AST),Made Shot,Running Layup Shot,4,10,1,1,2.0,2.0,v
+S2223-G1018,2,04:51,SAS,,OKC,,O. Dieng,OKC,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,134,229,27,1,3.0,0.0,v
+S2223-G1018,2,04:38,SAS,,OKC,,O. Dieng,OKC,SUB: Giddey FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G1018,2,01:52,SAS,,OKC,,O. Dieng,OKC,MISS Dieng 2' Driving Layup,Missed Shot,Driving Layup Shot,-21,3,2,1,2.0,0.0,v
+S2223-G1018,2,00:24.400000,SAS,,OKC,,O. Dieng,OKC,SUB: Waters III FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G1018,3,05:03,SAS,65.0,OKC,74.0,O. Dieng,OKC,Dieng 1' Running Layup (13 PTS) (Jay. Williams 2 AST),Made Shot,Running Layup Shot,6,13,1,1,2.0,2.0,v
+S2223-G1018,3,02:24,SAS,67.0,OKC,77.0,O. Dieng,OKC,Dieng 25' 3PT Jump Shot (16 PTS) (Jal. Williams 7 AST),Made Shot,Jump Shot,-240,65,25,1,3.0,3.0,v
+S2223-G1018,3,02:09,SAS,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1018,3,01:13,SAS,,OKC,,O. Dieng,OKC,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,119,243,27,1,3.0,0.0,v
+S2223-G1018,3,00:34.100000,SAS,,OKC,,O. Dieng,OKC,MISS Dieng Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1018,3,00:34.100000,SAS,69.0,OKC,78.0,O. Dieng,OKC,Dieng Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1018,3,00:15.100000,SAS,,OKC,,O. Dieng,OKC,MISS Dieng 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,15,12,2,1,2.0,0.0,v
+S2223-G1018,4,09:55,SAS,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1018,4,08:04,SAS,,OKC,,O. Dieng,OKC,MISS Dieng 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-107,278,30,1,3.0,0.0,v
+S2223-G1018,4,04:47,SAS,,OKC,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1018,4,04:18,SAS,,OKC,,O. Dieng,OKC,SUB: Jal. Williams FOR Dieng,Substitution,,0,0,0,0,,,v
+S2223-G0799,2,08:56,OKC,,HOU,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0799,2,08:55,OKC,,HOU,,O. Dieng,OKC,Dieng Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0799,2,08:51,OKC,,HOU,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0799,2,08:46,OKC,48.0,HOU,27.0,O. Dieng,OKC,Dieng 3' Cutting Layup Shot (2 PTS) (Jay. Williams 1 AST),Made Shot,Cutting Layup Shot,-16,24,3,1,2.0,2.0,h
+S2223-G0799,2,08:46,OKC,49.0,HOU,27.0,O. Dieng,OKC,Dieng Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0799,2,08:29,OKC,,HOU,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0799,2,07:03,OKC,,HOU,,O. Dieng,OKC,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,208,147,25,1,3.0,0.0,h
+S2223-G0799,2,04:28,OKC,64.0,HOU,35.0,O. Dieng,OKC,Dieng 24' 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,-145,197,24,1,3.0,3.0,h
+S2223-G0799,2,03:32,OKC,,HOU,,O. Dieng,OKC,Dieng S.FOUL (P1.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0799,2,02:44,OKC,,HOU,,O. Dieng,OKC,SUB: Giddey FOR Dieng,Substitution,,0,0,0,0,,,h
+S2223-G0799,4,11:08,OKC,,HOU,,O. Dieng,OKC,Dieng S.FOUL (P2.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G0799,4,09:31,OKC,131.0,HOU,89.0,O. Dieng,OKC,Dieng 26' 3PT Jump Shot (9 PTS) (Joe 2 AST),Made Shot,Jump Shot,-173,189,26,1,3.0,3.0,h
+S2223-G0799,4,09:03,OKC,,HOU,,O. Dieng,OKC,Dieng S.FOUL (P3.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0799,4,07:00,OKC,,HOU,,O. Dieng,OKC,Dieng Traveling Turnover (P2.T5),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0799,4,06:31,OKC,,HOU,,O. Dieng,OKC,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,156,226,27,1,3.0,0.0,h
+S2223-G0799,4,04:41,OKC,,HOU,,O. Dieng,OKC,Dieng S.FOUL (P4.PN) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G0799,4,04:38,OKC,,HOU,,O. Dieng,OKC,Dieng REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0799,4,04:27,OKC,,HOU,,O. Dieng,OKC,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,153,202,25,1,3.0,0.0,h
+S2223-G0799,4,04:00,OKC,,HOU,,O. Dieng,OKC,Dieng Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0799,4,02:51,OKC,,HOU,,O. Dieng,OKC,MISS Dieng 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-61,29,7,1,2.0,0.0,h
+S2223-G0799,4,01:42,OKC,,HOU,,O. Dieng,OKC,Dieng S.FOUL (P5.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,h

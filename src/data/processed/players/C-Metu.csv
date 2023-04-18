@@ -1,0 +1,774 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0827,1,02:32,HOU,,SAC,,C. Metu,SAC,Metu BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0827,2,11:20,HOU,37.0,SAC,32.0,C. Metu,SAC,Metu 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,6,193,19,1,2.0,2.0,v
+S2223-G0827,2,10:56,HOU,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0827,2,09:49,HOU,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0827,2,09:18,HOU,,SAC,,C. Metu,SAC,Metu BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0827,2,09:07,HOU,,SAC,,C. Metu,SAC,SUB: Murray FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0827,3,06:20,HOU,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.T4) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0827,3,06:12,HOU,78.0,SAC,76.0,C. Metu,SAC,Metu 7' Hook Shot (4 PTS) (Davis 1 AST),Made Shot,Hook Shot,-13,64,7,1,2.0,2.0,v
+S2223-G0827,3,03:17,HOU,89.0,SAC,88.0,C. Metu,SAC,Metu 4' Layup (6 PTS) (Mitchell 3 AST),Made Shot,Layup Shot,36,18,4,1,2.0,2.0,v
+S2223-G0827,3,01:47,HOU,93.0,SAC,94.0,C. Metu,SAC,Metu 3' Cutting Dunk Shot (8 PTS) (Mitchell 4 AST),Made Shot,Cutting Dunk Shot,15,29,3,1,2.0,2.0,v
+S2223-G0827,3,00:45.100000,HOU,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0870,2,10:31,PHX,,SAC,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0870,2,09:00,PHX,,SAC,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0870,4,10:43,PHX,,SAC,,C. Metu,SAC,Metu Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0870,4,09:31,PHX,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0132,2,00:00,ORL,,SAC,,C. Metu,SAC,MISS Metu 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,-29,27,4,1,2.0,0.0,v
+S2223-G0132,3,01:54,ORL,77.0,SAC,77.0,C. Metu,SAC,Metu Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0132,3,01:54,ORL,77.0,SAC,78.0,C. Metu,SAC,Metu Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0132,3,00:38.100000,ORL,77.0,SAC,80.0,C. Metu,SAC,Metu 1' Running Alley Oop Dunk Shot (4 PTS) (Davis 3 AST),Made Shot,Running Alley Oop Dunk Shot,-5,10,1,1,2.0,2.0,v
+S2223-G0132,3,00:22.700000,ORL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0132,4,09:35,ORL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0132,4,09:20,ORL,,SAC,,C. Metu,SAC,Metu Violation:Kicked Ball (D.Guthrie),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0132,4,08:40,ORL,,SAC,,C. Metu,SAC,SUB: Fox FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0132,4,01:41,ORL,102.0,SAC,100.0,C. Metu,SAC,Metu Cutting Dunk Shot (6 PTS) (Barnes 1 AST),Made Shot,Cutting Dunk Shot,0,3,0,1,2.0,2.0,v
+S2223-G0132,4,01:20,ORL,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0132,4,00:00.600000,ORL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0132,5,00:25,ORL,,SAC,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0775,1,00:11,SAS,,SAC,,C. Metu,SAC,MISS Metu 27' 3PT Jump Shot,Missed Shot,Jump Shot,120,245,27,1,3.0,0.0,v
+S2223-G0775,2,10:18,SAS,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0775,2,09:43,SAS,35.0,SAC,37.0,C. Metu,SAC,Metu 2' Layup (2 PTS) (Monk 2 AST),Made Shot,Layup Shot,6,17,2,1,2.0,2.0,v
+S2223-G0775,2,09:08,SAS,,SAC,,C. Metu,SAC,MISS Metu 13' Jump Shot,Missed Shot,Jump Shot,9,125,13,1,2.0,0.0,v
+S2223-G0775,2,08:52,SAS,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0775,2,05:47,SAS,40.0,SAC,51.0,C. Metu,SAC,Metu 9' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,-34,82,9,1,2.0,2.0,v
+S2223-G0775,2,05:34,SAS,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0775,4,11:48,SAS,,SAC,,C. Metu,SAC,Metu P.FOUL (P1.T1) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0775,4,11:45,SAS,,SAC,,C. Metu,SAC,Metu P.FOUL (P2.T2) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0775,4,11:13,SAS,,SAC,,C. Metu,SAC,MISS Metu 26' 3PT Jump Shot,Missed Shot,Jump Shot,-238,97,26,1,3.0,0.0,v
+S2223-G0775,4,10:59,SAS,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0775,4,08:34,SAS,,SAC,,C. Metu,SAC,SUB: Murray FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G1076,2,10:43,UTA,,SAC,,C. Metu,SAC,Metu L.B.FOUL (P1.T1) (J.Orr),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1076,2,09:39,UTA,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G1076,3,01:53,UTA,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1076,3,01:47,UTA,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1076,3,01:46,UTA,,SAC,,C. Metu,SAC,MISS Metu 11' Floating Jump Shot,Missed Shot,Floating Jump shot,-47,100,11,1,2.0,0.0,v
+S2223-G1076,3,01:00,UTA,,SAC,,C. Metu,SAC,Metu BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1076,3,00:58.800000,UTA,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1076,3,00:54.200000,UTA,95.0,SAC,92.0,C. Metu,SAC,Metu Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1076,3,00:54.200000,UTA,,SAC,,C. Metu,SAC,MISS Metu Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1076,4,09:27,UTA,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1076,4,09:15,UTA,98.0,SAC,99.0,C. Metu,SAC,Metu 11' Driving Hook Shot (3 PTS) (Monk 2 AST),Made Shot,Driving Hook Shot,87,59,11,1,2.0,2.0,v
+S2223-G1076,4,09:15,UTA,98.0,SAC,100.0,C. Metu,SAC,Metu Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1076,4,08:43,UTA,,SAC,,C. Metu,SAC,MISS Metu 26' 3PT Jump Shot,Missed Shot,Jump Shot,-167,196,26,1,3.0,0.0,v
+S2223-G1076,4,08:26,UTA,,SAC,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G1037,1,02:53,CHI,,SAC,,C. Metu,SAC,Metu Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G1037,1,01:34,CHI,26.0,SAC,20.0,C. Metu,SAC,Metu 1' Running Dunk (2 PTS) (Monk 1 AST),Made Shot,Running Dunk Shot,-4,7,1,1,2.0,2.0,v
+S2223-G1037,1,00:08.200000,CHI,,SAC,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G1037,2,11:30,CHI,30.0,SAC,27.0,C. Metu,SAC,Metu Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,4,0,1,2.0,2.0,v
+S2223-G1037,2,10:25,CHI,,SAC,,C. Metu,SAC,SUB: Barnes FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G1037,4,10:15,CHI,86.0,SAC,86.0,C. Metu,SAC,Metu Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1037,4,10:15,CHI,,SAC,,C. Metu,SAC,MISS Metu Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1037,4,09:11,CHI,,SAC,,C. Metu,SAC,MISS Metu 24' 3PT Jump Shot,Missed Shot,Jump Shot,-5,242,24,1,3.0,0.0,v
+S2223-G1037,4,09:04,CHI,88.0,SAC,91.0,C. Metu,SAC,Metu Cutting Dunk Shot (7 PTS) (Fox 1 AST),Made Shot,Cutting Dunk Shot,0,-1,0,1,2.0,2.0,v
+S2223-G1037,4,08:48,CHI,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G1105,1,03:03,SAC,22.0,PHX,24.0,C. Metu,SAC,Metu 2' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,2,20,2,1,2.0,2.0,h
+S2223-G1105,1,02:48,SAC,,PHX,,C. Metu,SAC,Metu S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1105,2,08:50,SAC,,PHX,,C. Metu,SAC,SUB: Murray FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G1105,4,11:26,SAC,103.0,PHX,93.0,C. Metu,SAC,Metu 2' Cutting Dunk Shot (4 PTS) (Monk 3 AST),Made Shot,Cutting Dunk Shot,-16,8,2,1,2.0,2.0,h
+S2223-G1105,4,11:06,SAC,,PHX,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1105,4,10:46,SAC,,PHX,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1105,4,09:38,SAC,,PHX,,C. Metu,SAC,MISS Metu 3' Driving Layup,Missed Shot,Driving Layup Shot,28,17,3,1,2.0,0.0,h
+S2223-G1105,4,09:09,SAC,109.0,PHX,100.0,C. Metu,SAC,Metu 1' Cutting Dunk Shot (6 PTS) (Mitchell 4 AST),Made Shot,Cutting Dunk Shot,7,-1,1,1,2.0,2.0,h
+S2223-G1105,4,09:02,SAC,,PHX,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1105,4,08:25,SAC,,PHX,,C. Metu,SAC,Metu S.FOUL (P2.T4) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1105,4,08:25,SAC,,PHX,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0610,1,01:05,SAC,,ORL,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0610,1,00:58.300000,SAC,39.0,ORL,27.0,C. Metu,SAC,Metu 1' Dunk (2 PTS) (Lyles 1 AST),Made Shot,Dunk Shot,10,6,1,1,2.0,2.0,h
+S2223-G0610,1,00:40.400000,SAC,41.0,ORL,29.0,C. Metu,SAC,Metu 1' Cutting Dunk Shot (4 PTS) (Fox 3 AST),Made Shot,Cutting Dunk Shot,-10,8,1,1,2.0,2.0,h
+S2223-G0610,2,11:34,SAC,,ORL,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0610,2,11:26,SAC,,ORL,,C. Metu,SAC,MISS Metu 2' Layup,Missed Shot,Layup Shot,0,19,2,1,2.0,0.0,h
+S2223-G0610,2,10:01,SAC,,ORL,,C. Metu,SAC,MISS Metu 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,-22,1,2,1,2.0,0.0,h
+S2223-G0610,2,09:59,SAC,,ORL,,C. Metu,SAC,Metu REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0610,2,09:58,SAC,,ORL,,C. Metu,SAC,Metu Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0610,2,09:49,SAC,,ORL,,C. Metu,SAC,Metu REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0610,2,09:36,SAC,,ORL,,C. Metu,SAC,Metu REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0610,2,09:36,SAC,48.0,ORL,33.0,C. Metu,SAC,Metu Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0610,2,09:05,SAC,,ORL,,C. Metu,SAC,Metu L.B.FOUL (P1.T1) (S.Foster),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0610,2,08:16,SAC,,ORL,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0610,3,01:20,SAC,98.0,ORL,81.0,C. Metu,SAC,Metu 3' Cutting Finger Roll Layup Shot (8 PTS) (Fox 7 AST),Made Shot,Cutting Finger Roll Layup Shot,-9,27,3,1,2.0,2.0,h
+S2223-G0610,3,00:45,SAC,103.0,ORL,81.0,C. Metu,SAC,Metu 3' Running Finger Roll Layup (10 PTS) (Huerter 3 AST),Made Shot,Running Finger Roll Layup Shot,-11,26,3,1,2.0,2.0,h
+S2223-G0610,3,00:45,SAC,104.0,ORL,81.0,C. Metu,SAC,Metu Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0610,3,00:02.500000,SAC,,ORL,,C. Metu,SAC,Metu REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0610,4,10:52,SAC,,ORL,,C. Metu,SAC,Metu REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0610,4,10:07,SAC,,ORL,,C. Metu,SAC,Metu S.FOUL (P2.T3) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2223-G0610,4,09:09,SAC,,ORL,,C. Metu,SAC,SUB: Barnes FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0610,4,06:10,SAC,,ORL,,C. Metu,SAC,Metu S.FOUL (P3.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0610,4,06:07,SAC,,ORL,,C. Metu,SAC,Metu REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0610,4,05:13,SAC,,ORL,,C. Metu,SAC,Metu REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0610,4,02:06,SAC,,ORL,,C. Metu,SAC,SUB: Holmes FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0997,1,01:00,SAC,,NYK,,C. Metu,SAC,Metu S.FOUL (P1.T3) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0997,2,10:18,SAC,,NYK,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0997,2,08:42,SAC,,NYK,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0997,4,10:54,SAC,,NYK,,C. Metu,SAC,MISS Metu 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,-37,15,4,1,2.0,0.0,h
+S2223-G0997,4,10:27,SAC,,NYK,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0954,1,01:50,SAC,29.0,LAC,30.0,C. Metu,SAC,Metu 2' Dunk (2 PTS) (Lyles 1 AST),Made Shot,Dunk Shot,-11,17,2,1,2.0,2.0,h
+S2223-G0954,1,01:36,SAC,,LAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0954,2,11:13,SAC,,LAC,,C. Metu,SAC,MISS Metu 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,11,6,1,1,2.0,0.0,h
+S2223-G0954,2,10:32,SAC,,LAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0954,2,09:17,SAC,,LAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0954,2,08:21,SAC,,LAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0954,2,08:09,SAC,,LAC,,C. Metu,SAC,MISS Metu 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-21,60,6,1,2.0,0.0,h
+S2223-G0954,2,07:47,SAC,,LAC,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0954,4,08:52,SAC,,LAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0954,4,07:09,SAC,,LAC,,C. Metu,SAC,MISS Metu 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,97,0,10,1,2.0,0.0,h
+S2223-G0954,4,05:52,SAC,,LAC,,C. Metu,SAC,SUB: Murray FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0807,1,02:20,NOP,,SAC,,C. Metu,SAC,Metu P.FOUL (P1.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G0807,2,11:35,NOP,,SAC,,C. Metu,SAC,Metu BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0807,2,10:59,NOP,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0807,2,10:58,NOP,34.0,SAC,32.0,C. Metu,SAC,Metu 9' Hook Shot (2 PTS),Made Shot,Hook Shot,33,82,9,1,2.0,2.0,v
+S2223-G0807,2,10:07,NOP,40.0,SAC,35.0,C. Metu,SAC,Metu 24' 3PT Jump Shot (5 PTS) (Monk 2 AST),Made Shot,Jump Shot,110,215,24,1,3.0,3.0,v
+S2223-G0807,2,09:00,NOP,,SAC,,C. Metu,SAC,Metu BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0807,2,07:23,NOP,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0807,3,00:47.900000,NOP,104.0,SAC,73.0,C. Metu,SAC,Metu Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0807,3,00:47.900000,NOP,104.0,SAC,74.0,C. Metu,SAC,Metu Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0807,3,00:30,NOP,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0807,3,00:25,NOP,,SAC,,C. Metu,SAC,Metu Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0807,4,10:43,NOP,,SAC,,C. Metu,SAC,MISS Metu 26' 3PT Jump Shot,Missed Shot,Jump Shot,74,253,26,1,3.0,0.0,v
+S2223-G0807,4,10:19,NOP,,SAC,,C. Metu,SAC,Metu S.FOUL (P2.T1) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0807,4,10:19,NOP,,SAC,,C. Metu,SAC,SUB: Holmes FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0915,1,01:39,OKC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0915,1,01:39,OKC,,SAC,,C. Metu,SAC,MISS Metu Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0915,2,11:21,OKC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0915,2,11:07,OKC,26.0,SAC,38.0,C. Metu,SAC,Metu 6' Driving Floating Jump Shot (2 PTS) (Fox 3 AST),Made Shot,Driving Floating Jump Shot,62,5,6,1,2.0,2.0,v
+S2223-G0915,2,10:10,OKC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0915,2,08:55,OKC,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0915,2,08:55,OKC,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0915,4,10:38,OKC,92.0,SAC,100.0,C. Metu,SAC,Metu 1' Dunk (4 PTS) (Lyles 1 AST),Made Shot,Dunk Shot,1,10,1,1,2.0,2.0,v
+S2223-G0915,4,08:35,OKC,97.0,SAC,106.0,C. Metu,SAC,Metu Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0915,4,08:35,OKC,97.0,SAC,107.0,C. Metu,SAC,Metu Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0915,4,08:12,OKC,,SAC,,C. Metu,SAC,Metu Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0915,4,08:12,OKC,,SAC,,C. Metu,SAC,Metu Transition Take Foul (P2.T3) (M.Smith),Foul                                    ,Transition Take,0,0,0,0,,,v
+S2223-G0915,4,08:12,OKC,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0369,2,11:33,MIL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0369,2,10:37,MIL,36.0,SAC,35.0,C. Metu,SAC,Metu 27' 3PT Jump Shot (3 PTS) (Fox 1 AST),Made Shot,Jump Shot,99,246,27,1,3.0,3.0,v
+S2223-G0369,2,09:42,MIL,,SAC,,C. Metu,SAC,MISS Metu 28' 3PT Jump Shot,Missed Shot,Jump Shot,-175,216,28,1,3.0,0.0,v
+S2223-G0369,2,09:02,MIL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0369,2,08:50,MIL,,SAC,,C. Metu,SAC,MISS Metu 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-29,52,6,1,2.0,0.0,v
+S2223-G0369,2,08:15,MIL,,SAC,,C. Metu,SAC,Metu Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0369,2,08:13,MIL,,SAC,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0369,3,00:45.500000,MIL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0369,3,00:12.700000,MIL,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G0369,3,00:12.700000,MIL,,SAC,,C. Metu,SAC,SUB: Barnes FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0369,4,11:45,MIL,,SAC,,C. Metu,SAC,Metu S.FOUL (P2.T1) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0369,4,10:53,MIL,99.0,SAC,96.0,C. Metu,SAC,Metu 1' Driving Dunk (5 PTS),Made Shot,Driving Dunk Shot,7,11,1,1,2.0,2.0,v
+S2223-G0369,4,09:09,MIL,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0902,1,03:23,LAC,,SAC,,C. Metu,SAC,Metu L.B.FOUL (P1.PN) (T.Brothers),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0902,1,01:24,LAC,36.0,SAC,33.0,C. Metu,SAC,Metu 3' Driving Layup (2 PTS) (Monk 1 AST),Made Shot,Driving Layup Shot,-12,22,3,1,2.0,2.0,v
+S2223-G0902,2,10:38,LAC,,SAC,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0902,2,10:20,LAC,46.0,SAC,45.0,C. Metu,SAC,Metu 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,5,16,2,1,2.0,2.0,v
+S2223-G0902,2,09:04,LAC,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0902,2,02:37,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0902,2,02:36,LAC,,SAC,,C. Metu,SAC,Metu Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0902,2,02:25,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0902,2,00:03.300000,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0902,3,00:55.800000,LAC,114.0,SAC,106.0,C. Metu,SAC,Metu 1' Cutting Dunk Shot (6 PTS) (Fox 7 AST),Made Shot,Cutting Dunk Shot,-4,5,1,1,2.0,2.0,v
+S2223-G0902,4,11:47,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0902,4,09:05,LAC,,SAC,,C. Metu,SAC,Metu S.FOUL (P2.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0902,4,07:13,LAC,,SAC,,C. Metu,SAC,Metu S.FOUL (P3.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0902,4,07:13,LAC,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0902,5,02:54,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0902,5,02:54,LAC,162.0,SAC,158.0,C. Metu,SAC,Metu Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0902,5,02:54,LAC,,SAC,,C. Metu,SAC,MISS Metu Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0902,5,02:36,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0902,5,01:35,LAC,,SAC,,C. Metu,SAC,Metu S.FOUL (P4.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0902,5,00:23.300000,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0902,6,04:41,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0902,6,04:38,LAC,,SAC,,C. Metu,SAC,SUB: Lyles FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0902,6,01:04,LAC,,SAC,,C. Metu,SAC,Metu STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0902,6,00:27.100000,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,4,04:43,POR,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,4,04:35,POR,,SAC,,C. Metu,SAC,MISS Metu 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-74,76,11,1,2.0,0.0,v
+S2223-G1145,4,04:20,POR,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,4,03:00,POR,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,4,02:38,POR,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.T3) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G1145,4,00:45.500000,POR,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,4,00:45.500000,POR,80.0,SAC,120.0,C. Metu,SAC,Metu Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1145,4,00:35.600000,POR,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0257,1,01:31,MEM,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0257,1,01:19,MEM,,SAC,,C. Metu,SAC,Metu Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0257,1,00:57,MEM,,SAC,,C. Metu,SAC,MISS Metu 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,15,29,3,1,2.0,0.0,v
+S2223-G0257,1,00:37.400000,MEM,28.0,SAC,28.0,C. Metu,SAC,Metu 2' Cutting Dunk Shot (2 PTS) (Mitchell 3 AST),Made Shot,Cutting Dunk Shot,2,20,2,1,2.0,2.0,v
+S2223-G0257,1,00:00,MEM,,SAC,,C. Metu,SAC,MISS Metu 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-183,165,25,1,3.0,0.0,v
+S2223-G0257,2,11:45,MEM,31.0,SAC,30.0,C. Metu,SAC,Metu 5' Turnaround Hook Shot (4 PTS) (Monk 1 AST),Made Shot,Turnaround Hook Shot,34,34,5,1,2.0,2.0,v
+S2223-G0257,2,10:01,MEM,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0257,2,09:50,MEM,35.0,SAC,35.0,C. Metu,SAC,Metu 2' Cutting Dunk Shot (6 PTS) (Fox 1 AST),Made Shot,Cutting Dunk Shot,-2,17,2,1,2.0,2.0,v
+S2223-G0257,2,08:55,MEM,37.0,SAC,39.0,C. Metu,SAC,Metu 1' Alley Oop Dunk (8 PTS) (Fox 3 AST),Made Shot,Alley Oop Dunk Shot,1,13,1,1,2.0,2.0,v
+S2223-G0257,2,08:43,MEM,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2223-G0257,2,08:03,MEM,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0257,4,10:28,MEM,,SAC,,C. Metu,SAC,Metu L.B.FOUL (P2.T2) (S.Twardoski),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0257,4,10:20,MEM,,SAC,,C. Metu,SAC,Metu S.FOUL (P3.T3) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0257,4,10:18,MEM,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0257,4,09:20,MEM,81.0,SAC,93.0,C. Metu,SAC,Metu 1' Running Dunk (10 PTS) (Fox 5 AST),Made Shot,Running Dunk Shot,5,3,1,1,2.0,2.0,v
+S2223-G0257,4,09:20,MEM,,SAC,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0257,4,00:01.700000,MEM,,SAC,,C. Metu,SAC,SUB: Monk FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0758,1,00:56.100000,MIN,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0758,1,00:44.600000,MIN,13.0,SAC,22.0,C. Metu,SAC,Metu 8' Turnaround Hook Shot (2 PTS) (Lyles 1 AST),Made Shot,Turnaround Hook Shot,82,18,8,1,2.0,2.0,v
+S2223-G0758,2,11:46,MIN,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.T1) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0758,2,11:17,MIN,,SAC,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0758,2,10:49,MIN,22.0,SAC,28.0,C. Metu,SAC,Metu Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0758,2,10:49,MIN,,SAC,,C. Metu,SAC,MISS Metu Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0758,2,10:09,MIN,,SAC,,C. Metu,SAC,Metu P.FOUL (P2.T2) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2223-G0758,2,09:49,MIN,,SAC,,C. Metu,SAC,MISS Metu 25' 3PT Jump Shot,Missed Shot,Jump Shot,-158,197,25,1,3.0,0.0,v
+S2223-G0758,2,09:11,MIN,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0758,3,06:04,MIN,69.0,SAC,63.0,C. Metu,SAC,Metu 5' Hook Shot (5 PTS) (Murray 1 AST),Made Shot,Hook Shot,18,48,5,1,2.0,2.0,v
+S2223-G0758,3,05:44,MIN,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0758,3,03:13,MIN,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0758,3,01:32,MIN,,SAC,,C. Metu,SAC,Metu P.FOUL (P3.PN) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2223-G0758,3,01:32,MIN,,SAC,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0397,1,01:16,NYK,,SAC,,C. Metu,SAC,Metu OFF.Foul (P1) (M.Davis),Foul,Offensive,0,0,0,0,,,v
+S2223-G0397,1,01:16,NYK,,SAC,,C. Metu,SAC,Metu Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0397,2,11:27,NYK,,SAC,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0397,2,10:58,NYK,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0397,2,09:57,NYK,,SAC,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0397,4,10:36,NYK,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0397,4,09:17,NYK,,SAC,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0728,1,06:18,SAC,,TOR,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0728,1,04:18,SAC,,TOR,,C. Metu,SAC,MISS Metu Dunk,Missed Shot,Dunk Shot,4,0,0,1,2.0,0.0,h
+S2223-G0728,1,03:47,SAC,,TOR,,C. Metu,SAC,Metu P.FOUL (P1.T1) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2223-G0728,1,03:25,SAC,,TOR,,C. Metu,SAC,MISS Metu 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,9,24,1,3.0,0.0,h
+S2223-G0728,1,01:18,SAC,,TOR,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0728,1,00:06.600000,SAC,,TOR,,C. Metu,SAC,MISS Metu 1' Dunk,Missed Shot,Dunk Shot,10,3,1,1,2.0,0.0,h
+S2223-G0728,3,04:39,SAC,,TOR,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0728,3,04:38,SAC,62.0,TOR,80.0,C. Metu,SAC,Metu 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,-10,6,1,1,2.0,2.0,h
+S2223-G0728,3,03:12,SAC,,TOR,,C. Metu,SAC,Metu REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0728,3,02:04,SAC,,TOR,,C. Metu,SAC,Metu REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0728,4,10:16,SAC,,TOR,,C. Metu,SAC,MISS Metu 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-11,55,6,1,2.0,0.0,h
+S2223-G0728,4,09:30,SAC,,TOR,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0728,4,09:27,SAC,,TOR,,C. Metu,SAC,SUB: Fox FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0381,1,01:34,CLE,16.0,SAC,27.0,C. Metu,SAC,Metu 1' Cutting Dunk Shot (2 PTS) (Dellavedova 1 AST),Made Shot,Cutting Dunk Shot,-5,13,1,1,2.0,2.0,v
+S2223-G0381,2,11:46,CLE,,SAC,,C. Metu,SAC,MISS Metu 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-2,20,2,1,2.0,0.0,v
+S2223-G0381,2,11:24,CLE,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0381,2,11:09,CLE,,SAC,,C. Metu,SAC,MISS Metu Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0381,2,11:09,CLE,20.0,SAC,32.0,C. Metu,SAC,Metu Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0381,2,10:11,CLE,,SAC,,C. Metu,SAC,MISS Metu Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0381,2,10:11,CLE,20.0,SAC,35.0,C. Metu,SAC,Metu Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0381,2,09:47,CLE,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0381,2,09:02,CLE,,SAC,,C. Metu,SAC,Metu Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0381,2,09:02,CLE,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0381,4,11:29,CLE,80.0,SAC,81.0,C. Metu,SAC,Metu Alley Oop Dunk (6 PTS) (Dellavedova 4 AST),Made Shot,Alley Oop Dunk Shot,-1,1,0,1,2.0,2.0,v
+S2223-G0381,4,10:56,CLE,,SAC,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0381,4,10:30,CLE,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0381,4,08:40,CLE,,SAC,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0417,1,02:10,TOR,24.0,SAC,23.0,C. Metu,SAC,Metu 2' Cutting Layup Shot (2 PTS) (Davis 1 AST),Made Shot,Cutting Layup Shot,12,16,2,1,2.0,2.0,v
+S2223-G0417,1,01:10,TOR,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.T4) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0417,2,10:03,TOR,,SAC,,C. Metu,SAC,Metu Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0417,2,09:44,TOR,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0786,1,01:03,IND,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0786,1,00:38.600000,IND,,SAC,,C. Metu,SAC,Metu Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0786,1,00:30.500000,IND,,SAC,,C. Metu,SAC,MISS Metu 26' 3PT Jump Shot,Missed Shot,Jump Shot,-89,240,26,1,3.0,0.0,v
+S2223-G0786,1,00:09.600000,IND,,SAC,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0786,2,11:46,IND,28.0,SAC,29.0,C. Metu,SAC,Metu 12' Floating Jump Shot (2 PTS) (Davis 2 AST),Made Shot,Floating Jump shot,-112,36,12,1,2.0,2.0,v
+S2223-G0786,2,09:56,IND,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0786,2,09:56,IND,33.0,SAC,31.0,C. Metu,SAC,Metu Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0786,2,09:42,IND,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0786,2,09:09,IND,35.0,SAC,34.0,C. Metu,SAC,Metu 25' 3PT Jump Shot (7 PTS) (Monk 2 AST),Made Shot,Jump Shot,-143,211,25,1,3.0,3.0,v
+S2223-G0786,2,08:40,IND,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0786,2,08:31,IND,,SAC,,C. Metu,SAC,SUB: Murray FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0786,3,01:41,IND,85.0,SAC,77.0,C. Metu,SAC,Metu 25' 3PT Jump Shot (10 PTS) (Monk 3 AST),Made Shot,Jump Shot,138,212,25,1,3.0,3.0,v
+S2223-G0786,4,11:15,IND,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0786,4,11:08,IND,,SAC,,C. Metu,SAC,Metu Lost Ball Turnover (P2.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0786,4,11:02,IND,,SAC,,C. Metu,SAC,Metu BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0786,4,09:28,IND,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0323,1,02:02,SAC,,IND,,C. Metu,SAC,Metu BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0323,1,01:25,SAC,,IND,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0323,1,01:05,SAC,,IND,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0323,1,00:54.700000,SAC,,IND,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0323,1,00:54.700000,SAC,33.0,IND,16.0,C. Metu,SAC,Metu 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,20,24,3,1,2.0,2.0,h
+S2223-G0323,2,11:42,SAC,,IND,,C. Metu,SAC,Metu REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0323,2,11:40,SAC,,IND,,C. Metu,SAC,MISS Metu 5' Putback Layup,Missed Shot,Putback Layup Shot,25,41,5,1,2.0,0.0,h
+S2223-G0323,2,10:45,SAC,35.0,IND,25.0,C. Metu,SAC,Metu 3' Cutting Layup Shot (4 PTS) (Fox 3 AST),Made Shot,Cutting Layup Shot,-29,1,3,1,2.0,2.0,h
+S2223-G0323,2,08:39,SAC,,IND,,C. Metu,SAC,Metu REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0323,2,08:10,SAC,,IND,,C. Metu,SAC,MISS Metu 2' Dunk,Missed Shot,Dunk Shot,-5,17,2,1,2.0,0.0,h
+S2223-G0323,2,07:43,SAC,,IND,,C. Metu,SAC,MISS Metu 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,247,25,1,3.0,0.0,h
+S2223-G0323,2,07:37,SAC,,IND,,C. Metu,SAC,Metu S.FOUL (P1.T3) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0323,2,07:37,SAC,,IND,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0323,2,01:51,SAC,,IND,,C. Metu,SAC,Metu REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0323,2,00:30,SAC,,IND,,C. Metu,SAC,Metu REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0323,3,03:09,SAC,,IND,,C. Metu,SAC,Metu S.FOUL (P2.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0323,4,11:22,SAC,110.0,IND,85.0,C. Metu,SAC,Metu 8' Running Jump Shot (6 PTS) (Monk 4 AST),Made Shot,Running Jump Shot,-1,81,8,1,2.0,2.0,h
+S2223-G0323,4,10:55,SAC,112.0,IND,85.0,C. Metu,SAC,Metu 3' Alley Oop Dunk (8 PTS) (Davis 2 AST),Made Shot,Alley Oop Dunk Shot,-18,18,3,1,2.0,2.0,h
+S2223-G0323,4,09:26,SAC,,IND,,C. Metu,SAC,Metu REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0323,4,09:03,SAC,,IND,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0677,1,04:10,LAL,23.0,SAC,20.0,C. Metu,SAC,Metu 1' Cutting Dunk Shot (2 PTS) (Monk 1 AST),Made Shot,Cutting Dunk Shot,-4,8,1,1,2.0,2.0,v
+S2223-G0677,2,11:13,LAL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,2,11:13,LAL,41.0,SAC,31.0,C. Metu,SAC,Metu Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0677,2,11:13,LAL,41.0,SAC,32.0,C. Metu,SAC,Metu Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0677,2,10:53,LAL,,SAC,,C. Metu,SAC,Metu BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0677,2,10:41,LAL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,2,08:44,LAL,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.T2) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,v
+S2223-G0677,2,08:29,LAL,,SAC,,C. Metu,SAC,SUB: Holmes FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0677,4,11:12,LAL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,4,11:12,LAL,,SAC,,C. Metu,SAC,MISS Metu Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0677,4,11:09,LAL,,SAC,,C. Metu,SAC,Metu S.FOUL (P2.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2223-G0677,4,10:27,LAL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,4,09:32,LAL,91.0,SAC,96.0,C. Metu,SAC,Metu 2' Cutting Dunk Shot (6 PTS) (Fox 5 AST),Made Shot,Cutting Dunk Shot,-4,21,2,1,2.0,2.0,v
+S2223-G0677,4,08:30,LAL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,4,07:30,LAL,,SAC,,C. Metu,SAC,Metu BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0677,4,07:30,LAL,,SAC,,C. Metu,SAC,SUB: Holmes FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0677,4,00:30.400000,LAL,,SAC,,C. Metu,SAC,SUB: Murray FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0677,4,00:05,LAL,,SAC,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0698,1,01:21,SAC,,PHI,,C. Metu,SAC,MISS Metu 2' Layup,Missed Shot,Layup Shot,18,1,2,1,2.0,0.0,h
+S2223-G0698,1,00:57.800000,SAC,35.0,PHI,25.0,C. Metu,SAC,Metu 1' Dunk (2 PTS),Made Shot,Dunk Shot,-6,8,1,1,2.0,2.0,h
+S2223-G0698,1,00:36.200000,SAC,,PHI,,C. Metu,SAC,Metu Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0698,2,09:57,SAC,,PHI,,C. Metu,SAC,Metu S.FOUL (P1.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2223-G0698,2,09:19,SAC,,PHI,,C. Metu,SAC,Metu Traveling Turnover (P2.T2),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0698,2,09:19,SAC,,PHI,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G1026,1,01:42,SAC,,MIL,,C. Metu,SAC,MISS Metu 3' Dunk,Missed Shot,Dunk Shot,2,34,3,1,2.0,0.0,h
+S2223-G1026,1,01:07,SAC,,MIL,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1026,1,00:20.300000,SAC,,MIL,,C. Metu,SAC,Metu BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1026,2,10:28,SAC,,MIL,,C. Metu,SAC,Metu P.FOUL (P1.T1) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2223-G1026,2,10:05,SAC,38.0,MIL,31.0,C. Metu,SAC,Metu 26' 3PT Jump Shot (3 PTS) (Fox 3 AST),Made Shot,Jump Shot,0,256,26,1,3.0,3.0,h
+S2223-G1026,2,09:00,SAC,39.0,MIL,31.0,C. Metu,SAC,Metu Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1026,2,09:00,SAC,40.0,MIL,31.0,C. Metu,SAC,Metu Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1026,2,08:51,SAC,,MIL,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G1026,3,03:01,SAC,,MIL,,C. Metu,SAC,Metu S.FOUL (P2.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1026,3,01:54,SAC,,MIL,,C. Metu,SAC,MISS Metu 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,146,66,16,1,2.0,0.0,h
+S2223-G1026,3,00:34.700000,SAC,,MIL,,C. Metu,SAC,Metu S.FOUL (P3.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2223-G1026,3,00:33.400000,SAC,,MIL,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1026,3,00:27.200000,SAC,,MIL,,C. Metu,SAC,MISS Metu 25' 3PT Jump Shot,Missed Shot,Jump Shot,-67,245,25,1,3.0,0.0,h
+S2223-G1159,4,01:51,POR,,SAC,,C. Metu,SAC,MISS Metu 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,92,23,9,1,2.0,0.0,v
+S2223-G1227,3,01:16,DEN,,SAC,,C. Metu,SAC,MISS Metu Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1227,3,01:16,DEN,81.0,SAC,79.0,C. Metu,SAC,Metu Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1227,3,00:57,DEN,83.0,SAC,80.0,C. Metu,SAC,Metu Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1227,3,00:57,DEN,83.0,SAC,81.0,C. Metu,SAC,Metu Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1227,4,04:51,DEN,,SAC,,C. Metu,SAC,MISS Metu 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-36,90,10,1,2.0,0.0,v
+S2223-G1227,4,03:28,DEN,104.0,SAC,87.0,C. Metu,SAC,Metu Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1227,4,03:28,DEN,104.0,SAC,88.0,C. Metu,SAC,Metu Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1227,4,01:38,DEN,109.0,SAC,93.0,C. Metu,SAC,Metu 18' Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,-123,138,18,1,2.0,2.0,v
+S2223-G1227,4,00:38.100000,DEN,,SAC,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1227,4,00:33.800000,DEN,109.0,SAC,95.0,C. Metu,SAC,Metu 3' Running Dunk (9 PTS) (Ellis 1 AST),Made Shot,Running Dunk Shot,0,33,3,1,2.0,2.0,v
+S2223-G1227,4,00:01.700000,DEN,,SAC,,C. Metu,SAC,MISS Metu 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-189,191,27,1,3.0,0.0,v
+S2223-G0338,1,01:20,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0338,1,00:30.800000,LAC,21.0,SAC,38.0,C. Metu,SAC,Metu 4' Running Alley Oop Dunk Shot (2 PTS) (Davis 1 AST),Made Shot,Running Alley Oop Dunk Shot,-7,36,4,1,2.0,2.0,v
+S2223-G0338,1,00:19,LAC,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.T3) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0338,2,11:09,LAC,,SAC,,C. Metu,SAC,Metu BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0338,2,11:01,LAC,24.0,SAC,44.0,C. Metu,SAC,Metu 3' Layup (4 PTS) (Davis 3 AST),Made Shot,Layup Shot,-15,23,3,1,2.0,2.0,v
+S2223-G0338,2,11:01,LAC,24.0,SAC,45.0,C. Metu,SAC,Metu Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0338,2,10:24,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0338,2,09:20,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0338,2,08:47,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0338,2,08:31,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0338,2,07:56,LAC,,SAC,,C. Metu,SAC,SUB: Fox FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0338,2,01:51,LAC,,SAC,,C. Metu,SAC,Metu Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0338,2,01:32,LAC,,SAC,,C. Metu,SAC,Metu BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0338,2,00:58.500000,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0338,3,04:34,LAC,,SAC,,C. Metu,SAC,Metu P.FOUL (P2.PN) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2223-G0338,3,03:24,LAC,,SAC,,C. Metu,SAC,Metu S.FOUL (P3.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0338,3,03:00,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0338,3,02:40,LAC,57.0,SAC,81.0,C. Metu,SAC,Metu Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0338,3,02:40,LAC,57.0,SAC,82.0,C. Metu,SAC,Metu Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0338,3,02:06,LAC,59.0,SAC,83.0,C. Metu,SAC,Metu Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0338,3,02:06,LAC,,SAC,,C. Metu,SAC,MISS Metu Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0338,3,01:15,LAC,62.0,SAC,85.0,C. Metu,SAC,Metu 3' Layup (10 PTS) (Monk 2 AST),Made Shot,Layup Shot,-1,25,3,1,2.0,2.0,v
+S2223-G0338,3,00:40.400000,LAC,,SAC,,C. Metu,SAC,Metu Violation:Defensive Goaltending (B.Kennedy),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0338,4,11:20,LAC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0338,4,10:36,LAC,,SAC,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0338,4,06:33,LAC,,SAC,,C. Metu,SAC,SUB: Holmes FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G1211,1,05:36,SAC,,GSW,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,1,05:27,SAC,11.0,GSW,18.0,C. Metu,SAC,Metu 2' Cutting Layup Shot (2 PTS) (Barnes 1 AST),Made Shot,Cutting Layup Shot,17,5,2,1,2.0,2.0,h
+S2223-G1211,1,05:10,SAC,,GSW,,C. Metu,SAC,Metu S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G1211,1,04:48,SAC,,GSW,,C. Metu,SAC,MISS Metu 7' Driving Layup,Missed Shot,Driving Layup Shot,65,22,7,1,2.0,0.0,h
+S2223-G1211,1,04:19,SAC,,GSW,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,1,04:10,SAC,,GSW,,C. Metu,SAC,MISS Metu 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,141,14,1,2.0,0.0,h
+S2223-G1211,1,04:07,SAC,,GSW,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,1,04:05,SAC,,GSW,,C. Metu,SAC,MISS Metu 3' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-5,28,3,1,2.0,0.0,h
+S2223-G1211,1,03:22,SAC,,GSW,,C. Metu,SAC,Metu REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,1,02:29,SAC,13.0,GSW,25.0,C. Metu,SAC,Metu 10' Driving Floating Jump Shot (4 PTS) (Dozier 1 AST),Made Shot,Driving Floating Jump Shot,-43,92,10,1,2.0,2.0,h
+S2223-G1211,1,00:02.900000,SAC,,GSW,,C. Metu,SAC,Metu REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,3,04:56,SAC,58.0,GSW,75.0,C. Metu,SAC,Metu Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1211,3,04:56,SAC,59.0,GSW,75.0,C. Metu,SAC,Metu Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1211,3,04:38,SAC,,GSW,,C. Metu,SAC,Metu REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,3,04:11,SAC,,GSW,,C. Metu,SAC,Metu REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,3,03:35,SAC,63.0,GSW,75.0,C. Metu,SAC,Metu Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1211,3,03:03,SAC,65.0,GSW,75.0,C. Metu,SAC,Metu 7' Driving Hook Shot (9 PTS),Made Shot,Driving Hook Shot,34,58,7,1,2.0,2.0,h
+S2223-G1211,3,02:02,SAC,68.0,GSW,76.0,C. Metu,SAC,Metu 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,31,6,3,1,2.0,2.0,h
+S2223-G1211,3,01:33,SAC,70.0,GSW,78.0,C. Metu,SAC,Metu 1' Alley Oop Dunk (13 PTS) (Dozier 2 AST),Made Shot,Alley Oop Dunk Shot,-6,6,1,1,2.0,2.0,h
+S2223-G1211,3,01:07,SAC,,GSW,,C. Metu,SAC,MISS Metu Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1211,3,01:07,SAC,,GSW,,C. Metu,SAC,MISS Metu Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1211,4,11:32,SAC,,GSW,,C. Metu,SAC,MISS Metu Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1211,4,11:32,SAC,,GSW,,C. Metu,SAC,MISS Metu Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1211,4,10:57,SAC,,GSW,,C. Metu,SAC,SUB: Barnes FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G1211,4,01:40,SAC,,GSW,,C. Metu,SAC,Metu Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1211,4,01:15,SAC,,GSW,,C. Metu,SAC,Metu REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,4,01:13,SAC,,GSW,,C. Metu,SAC,Metu Backcourt Turnover (P2.T12),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2223-G1211,4,00:20.400000,SAC,,GSW,,C. Metu,SAC,Metu REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,4,00:10.900000,SAC,96.0,GSW,119.0,C. Metu,SAC,Metu Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1211,4,00:10.900000,SAC,97.0,GSW,119.0,C. Metu,SAC,Metu Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0640,1,01:48,SAC,,HOU,,C. Metu,SAC,Metu P.FOUL (P1.PN) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0640,2,10:39,SAC,,HOU,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0640,2,09:03,SAC,,HOU,,C. Metu,SAC,SUB: Murray FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0640,4,11:09,SAC,,HOU,,C. Metu,SAC,Metu T.FOUL (P1.T1) (B.Taylor),Foul,Technical,0,0,0,0,,,h
+S2223-G0640,4,11:09,SAC,,HOU,,C. Metu,SAC,Metu Ejection:Other,Ejection,Other,0,0,0,0,,,h
+S2223-G0640,4,11:09,SAC,,HOU,,C. Metu,SAC,SUB: Murray FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0210,1,00:59.300000,SAC,,BKN,,C. Metu,SAC,KINGS T.Foul (Def. 3 Sec Metu ) (D.Scott),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G0210,1,00:44.100000,SAC,,BKN,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0210,2,10:19,SAC,,BKN,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0210,2,10:19,SAC,,BKN,,C. Metu,SAC,MISS Metu Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0210,2,10:02,SAC,,BKN,,C. Metu,SAC,MISS Metu 26' 3PT Jump Shot,Missed Shot,Jump Shot,130,229,26,1,3.0,0.0,h
+S2223-G0210,2,09:39,SAC,40.0,BKN,37.0,C. Metu,SAC,Metu 1' Alley Oop Dunk (2 PTS) (Monk 1 AST),Made Shot,Alley Oop Dunk Shot,-1,6,1,1,2.0,2.0,h
+S2223-G0210,2,09:21,SAC,,BKN,,C. Metu,SAC,Metu OFF.Foul (P1) (T.Brothers),Foul,Offensive,0,0,0,0,,,h
+S2223-G0210,2,09:21,SAC,,BKN,,C. Metu,SAC,Metu Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0210,2,08:55,SAC,,BKN,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0210,3,12:00,SAC,,BKN,,C. Metu,SAC,Metu T.FOUL (P1.T0) (J.Goble),Foul,Technical,0,0,0,0,,,h
+S2223-G0210,3,01:33,SAC,,BKN,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0210,4,10:18,SAC,,BKN,,C. Metu,SAC,Metu REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0210,4,09:02,SAC,,BKN,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0210,4,07:43,SAC,,BKN,,C. Metu,SAC,Metu Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0210,4,06:29,SAC,,BKN,,C. Metu,SAC,SUB: Holmes FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0210,4,04:28,SAC,,BKN,,C. Metu,SAC,Metu Lost Ball Turnover (P3.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0210,4,03:32,SAC,,BKN,,C. Metu,SAC,Metu Bad Pass Turnover (P4.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0210,4,03:31,SAC,,BKN,,C. Metu,SAC,SUB: Davis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0928,1,02:50,OKC,,SAC,,C. Metu,SAC,MISS Metu 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,-50,79,9,1,2.0,0.0,v
+S2223-G0928,1,01:29,OKC,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0928,1,01:10,OKC,33.0,SAC,40.0,C. Metu,SAC,Metu 1' Alley Oop Dunk (2 PTS) (Monk 1 AST),Made Shot,Alley Oop Dunk Shot,-9,7,1,1,2.0,2.0,v
+S2223-G0928,1,00:49.700000,OKC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0928,1,00:35.300000,OKC,33.0,SAC,42.0,C. Metu,SAC,Metu 9' Driving Floating Bank Jump Shot (4 PTS) (Dellavedova 1 AST),Made Shot,Driving Floating Bank Jump Shot,-78,43,9,1,2.0,2.0,v
+S2223-G0928,2,11:39,OKC,,SAC,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0928,2,10:14,OKC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0928,2,09:41,OKC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0928,2,07:54,OKC,,SAC,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0928,3,04:20,OKC,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0928,3,04:20,OKC,,SAC,,C. Metu,SAC,MISS Metu Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0928,3,04:20,OKC,,SAC,,C. Metu,SAC,MISS Metu Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0928,3,02:58,OKC,,SAC,,C. Metu,SAC,MISS Metu 25' 3PT Jump Shot,Missed Shot,Jump Shot,-136,206,25,1,3.0,0.0,v
+S2223-G0928,3,00:53.500000,OKC,,SAC,,C. Metu,SAC,SUB: Holmes FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0894,1,00:39.900000,SAC,,POR,,C. Metu,SAC,Metu BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0894,1,00:04,SAC,,POR,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0894,2,09:55,SAC,,POR,,C. Metu,SAC,Metu S.FOUL (P1.T2) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0894,2,08:16,SAC,,POR,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0894,2,07:49,SAC,,POR,,C. Metu,SAC,Metu STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0894,2,07:21,SAC,,POR,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0894,2,06:51,SAC,,POR,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0894,3,01:39,SAC,,POR,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0894,3,01:39,SAC,,POR,,C. Metu,SAC,MISS Metu Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0894,3,00:35.800000,SAC,,POR,,C. Metu,SAC,Metu S.FOUL (P2.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0894,4,11:43,SAC,102.0,POR,91.0,C. Metu,SAC,Metu 1' Alley Oop Layup (2 PTS) (Fox 3 AST),Made Shot,Alley Oop Layup shot,13,7,1,1,2.0,2.0,h
+S2223-G0894,4,11:43,SAC,,POR,,C. Metu,SAC,MISS Metu Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0894,4,10:37,SAC,,POR,,C. Metu,SAC,Metu REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0894,4,09:30,SAC,,POR,,C. Metu,SAC,Metu REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0894,4,09:19,SAC,,POR,,C. Metu,SAC,MISS Metu 3' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,26,16,3,1,2.0,0.0,h
+S2223-G0894,4,08:49,SAC,,POR,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0894,4,03:05,SAC,,POR,,C. Metu,SAC,MISS Metu 5' Layup,Missed Shot,Layup Shot,-49,8,5,1,2.0,0.0,h
+S2223-G0894,4,01:48,SAC,,POR,,C. Metu,SAC,SUB: Len FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0197,1,03:39,SAC,21.0,GSW,27.0,C. Metu,SAC,Metu 1' Cutting Dunk Shot (2 PTS) (Monk 1 AST),Made Shot,Cutting Dunk Shot,1,6,1,1,2.0,2.0,h
+S2223-G0197,1,03:27,SAC,,GSW,,C. Metu,SAC,Metu L.B.FOUL (P1.T3) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0197,1,01:41,SAC,,GSW,,C. Metu,SAC,Metu L.B.FOUL (P2.T4) (K.Cutler),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0197,1,01:22,SAC,,GSW,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0197,2,08:58,SAC,37.0,GSW,43.0,C. Metu,SAC,Metu 1' Cutting Dunk Shot (4 PTS) (Fox 2 AST),Made Shot,Cutting Dunk Shot,1,8,1,1,2.0,2.0,h
+S2223-G0197,2,08:26,SAC,,GSW,,C. Metu,SAC,MISS Metu 25' 3PT Jump Shot,Missed Shot,Jump Shot,89,236,25,1,3.0,0.0,h
+S2223-G0197,2,08:09,SAC,,GSW,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0197,2,08:04,SAC,,GSW,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0197,3,00:23.700000,SAC,,GSW,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0197,4,10:28,SAC,100.0,GSW,96.0,C. Metu,SAC,Metu 4' Hook Shot (6 PTS) (Davis 1 AST),Made Shot,Hook Shot,7,44,4,1,2.0,2.0,h
+S2223-G0197,4,09:34,SAC,105.0,GSW,98.0,C. Metu,SAC,Metu 1' Driving Dunk (8 PTS) (Monk 4 AST),Made Shot,Driving Dunk Shot,4,5,1,1,2.0,2.0,h
+S2223-G0197,4,08:08,SAC,,GSW,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0197,4,07:12,SAC,,GSW,,C. Metu,SAC,MISS Metu 25' 3PT Jump Shot,Missed Shot,Jump Shot,181,175,25,1,3.0,0.0,h
+S2223-G0197,4,06:54,SAC,,GSW,,C. Metu,SAC,SUB: Barnes FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0854,1,00:32.400000,SAC,34.0,DAL,30.0,C. Metu,SAC,Metu 1' Alley Oop Dunk (2 PTS) (Fox 2 AST),Made Shot,Alley Oop Dunk Shot,-9,10,1,1,2.0,2.0,h
+S2223-G0854,2,11:42,SAC,,DAL,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0854,2,09:51,SAC,,DAL,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0854,2,09:01,SAC,,DAL,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0854,4,10:56,SAC,,DAL,,C. Metu,SAC,Metu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0854,4,09:51,SAC,,DAL,,C. Metu,SAC,Metu S.FOUL (P1.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0854,4,09:51,SAC,,DAL,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G1013,1,01:36,PHX,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.T4) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G1013,1,00:57.300000,PHX,30.0,SAC,27.0,C. Metu,SAC,Metu Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1013,1,00:57.300000,PHX,30.0,SAC,28.0,C. Metu,SAC,Metu Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1013,2,10:33,PHX,,SAC,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1013,2,10:10,PHX,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1013,2,09:08,PHX,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1013,2,08:34,PHX,38.0,SAC,41.0,C. Metu,SAC,Metu 5' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,10,53,5,1,2.0,2.0,v
+S2223-G1013,2,08:34,PHX,38.0,SAC,42.0,C. Metu,SAC,Metu Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1013,2,08:29,PHX,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G1013,4,11:40,PHX,,SAC,,C. Metu,SAC,Metu STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1013,4,11:38,PHX,95.0,SAC,97.0,C. Metu,SAC,Metu Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1013,4,11:38,PHX,95.0,SAC,98.0,C. Metu,SAC,Metu Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1013,4,08:31,PHX,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1013,4,05:43,PHX,,SAC,,C. Metu,SAC,Metu STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G1013,4,05:40,PHX,107.0,SAC,112.0,C. Metu,SAC,Metu 5' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,2,49,5,1,2.0,2.0,v
+S2223-G1013,4,04:53,PHX,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0069,1,06:14,SAC,,MEM,,C. Metu,SAC,MISS Metu 25' 3PT Jump Shot,Missed Shot,Jump Shot,175,180,25,1,3.0,0.0,h
+S2223-G0069,1,04:28,SAC,,MEM,,C. Metu,SAC,MISS Metu 26' 3PT Jump Shot,Missed Shot,Jump Shot,-229,117,26,1,3.0,0.0,h
+S2223-G0069,1,01:11,SAC,,MEM,,C. Metu,SAC,SUB: Davis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0069,2,06:48,SAC,,MEM,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0069,2,06:06,SAC,,MEM,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0069,2,04:55,SAC,,MEM,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0069,3,07:30,SAC,,MEM,,C. Metu,SAC,MISS Metu 12' Floating Jump Shot,Missed Shot,Floating Jump shot,118,15,12,1,2.0,0.0,h
+S2223-G0069,3,06:46,SAC,,MEM,,C. Metu,SAC,Metu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0069,3,06:06,SAC,68.0,MEM,76.0,C. Metu,SAC,Metu 2' Driving Layup (2 PTS) (Sabonis 8 AST),Made Shot,Driving Layup Shot,-17,5,2,1,2.0,2.0,h
+S2223-G0069,3,03:55,SAC,,MEM,,C. Metu,SAC,Metu P.FOUL (P1.T4) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2223-G0069,3,02:39,SAC,,MEM,,C. Metu,SAC,SUB: Moneke FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0746,1,00:30.300000,MIN,,SAC,,C. Metu,SAC,MISS Metu 1' Reverse Layup,Missed Shot,Reverse Layup Shot,-13,7,1,1,2.0,0.0,v
+S2223-G0746,2,11:29,MIN,31.0,SAC,25.0,C. Metu,SAC,Metu 1' Cutting Dunk Shot (2 PTS) (Fox 2 AST),Made Shot,Cutting Dunk Shot,7,7,1,1,2.0,2.0,v
+S2223-G0746,2,11:04,MIN,31.0,SAC,27.0,C. Metu,SAC,Metu 1' Running Alley Oop Dunk Shot (4 PTS) (Monk 1 AST),Made Shot,Running Alley Oop Dunk Shot,-2,13,1,1,2.0,2.0,v
+S2223-G0746,2,09:14,MIN,36.0,SAC,31.0,C. Metu,SAC,Metu 1' Alley Oop Dunk (6 PTS) (Monk 2 AST),Made Shot,Alley Oop Dunk Shot,0,13,1,1,2.0,2.0,v
+S2223-G0746,2,08:24,MIN,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0746,3,02:08,MIN,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0746,3,01:56,MIN,,SAC,,C. Metu,SAC,MISS Metu Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0746,3,01:56,MIN,82.0,SAC,74.0,C. Metu,SAC,Metu Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0746,3,00:05.300000,MIN,,SAC,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0746,4,10:48,MIN,,SAC,,C. Metu,SAC,MISS Metu 3PT Jump Shot,Missed Shot,Jump Shot,228,19,0,1,3.0,0.0,v
+S2223-G0746,4,10:46,MIN,,SAC,,C. Metu,SAC,SUB: Barnes FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0183,1,01:11,LAL,,SAC,,C. Metu,SAC,MISS Metu 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-50,96,11,1,2.0,0.0,v
+S2223-G0183,1,01:02,LAL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0183,1,01:02,LAL,,SAC,,C. Metu,SAC,MISS Metu Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0183,1,01:02,LAL,21.0,SAC,23.0,C. Metu,SAC,Metu Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0183,2,11:24,LAL,,SAC,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0183,2,10:47,LAL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0183,2,10:34,LAL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0183,2,10:34,LAL,,SAC,,C. Metu,SAC,MISS Metu 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,-21,28,4,1,2.0,0.0,v
+S2223-G0183,2,10:06,LAL,29.0,SAC,32.0,C. Metu,SAC,Metu 25' 3PT Jump Shot (4 PTS) (Fox 4 AST),Made Shot,Jump Shot,-175,178,25,1,3.0,3.0,v
+S2223-G0183,2,09:04,LAL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0183,2,08:55,LAL,,SAC,,C. Metu,SAC,MISS Metu 25' 3PT Jump Shot,Missed Shot,Jump Shot,80,241,25,1,3.0,0.0,v
+S2223-G0183,2,08:42,LAL,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0183,2,00:02,LAL,,SAC,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0183,3,04:31,LAL,,SAC,,C. Metu,SAC,MISS Metu 26' 3PT Jump Shot,Missed Shot,Jump Shot,53,252,26,1,3.0,0.0,v
+S2223-G0183,3,02:36,LAL,79.0,SAC,79.0,C. Metu,SAC,Metu 2' Cutting Dunk Shot (6 PTS) (Monk 1 AST),Made Shot,Cutting Dunk Shot,10,21,2,1,2.0,2.0,v
+S2223-G0183,4,10:53,LAL,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0183,4,10:35,LAL,90.0,SAC,93.0,C. Metu,SAC,Metu 3' Finger Roll Layup (8 PTS) (Monk 3 AST),Made Shot,Finger Roll Layup Shot,10,27,3,1,2.0,2.0,v
+S2223-G0183,4,09:31,LAL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0183,4,09:31,LAL,95.0,SAC,98.0,C. Metu,SAC,Metu Tip Dunk Shot (10 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0183,4,07:35,LAL,,SAC,,C. Metu,SAC,Metu Out of Bounds Lost Ball Turnover (P1.T15),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0183,4,07:35,LAL,,SAC,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0547,4,00:39.500000,MEM,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0547,4,00:26.200000,MEM,118.0,SAC,108.0,C. Metu,SAC,Metu 4' Driving Layup (2 PTS) (Len 1 AST),Made Shot,Driving Layup Shot,18,41,4,1,2.0,2.0,v
+S2223-G0156,1,02:14,GSW,,SAC,,C. Metu,SAC,Metu P.FOUL (P1.T4) (M.Kallio),Foul,Personal,0,0,0,0,,,v
+S2223-G0156,1,01:35,GSW,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0156,2,09:06,GSW,,SAC,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0156,3,02:54,GSW,77.0,SAC,86.0,C. Metu,SAC,Metu 2' Alley Oop Dunk (2 PTS) (Monk 4 AST),Made Shot,Alley Oop Dunk Shot,-22,7,2,1,2.0,2.0,v
+S2223-G0156,3,02:20,GSW,,SAC,,C. Metu,SAC,MISS Metu 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-5,90,9,1,2.0,0.0,v
+S2223-G0156,3,01:25,GSW,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0156,4,10:28,GSW,,SAC,,C. Metu,SAC,MISS Metu 4' Running Layup,Missed Shot,Running Layup Shot,-13,37,4,1,2.0,0.0,v
+S2223-G0156,4,08:36,GSW,,SAC,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0156,4,00:01.300000,GSW,,SAC,,C. Metu,SAC,Metu P.FOUL (P2.PN) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2223-G0156,4,00:01.300000,GSW,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0409,1,04:34,PHI,,SAC,,C. Metu,SAC,MISS Metu 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-71,262,27,1,3.0,0.0,v
+S2223-G0409,1,04:05,PHI,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0409,1,04:03,PHI,23.0,SAC,17.0,C. Metu,SAC,Metu 5' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,50,5,1,2.0,2.0,v
+S2223-G0409,1,02:27,PHI,,SAC,,C. Metu,SAC,MISS Metu 26' 3PT Jump Shot,Missed Shot,Jump Shot,-154,205,26,1,3.0,0.0,v
+S2223-G0409,1,01:40,PHI,31.0,SAC,26.0,C. Metu,SAC,Metu 26' 3PT Jump Shot (5 PTS) (Davis 1 AST),Made Shot,Jump Shot,-77,249,26,1,3.0,3.0,v
+S2223-G0409,1,00:08.400000,PHI,,SAC,,C. Metu,SAC,Metu REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0409,1,00:06.700000,PHI,,SAC,,C. Metu,SAC,MISS Metu 20' Jump Shot,Missed Shot,Jump Shot,-18,202,20,1,2.0,0.0,v
+S2223-G0409,4,11:35,PHI,,SAC,,C. Metu,SAC,MISS Metu 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-5,14,1,1,2.0,0.0,v
+S2223-G0409,4,11:01,PHI,,SAC,,C. Metu,SAC,Metu REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0409,4,08:26,PHI,,SAC,,C. Metu,SAC,Metu REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0409,4,07:35,PHI,,SAC,,C. Metu,SAC,SUB: Murray FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0976,1,01:14,SAC,27.0,NOP,32.0,C. Metu,SAC,Metu 1' Cutting Dunk Shot (2 PTS) (Mitchell 2 AST),Made Shot,Cutting Dunk Shot,4,12,1,1,2.0,2.0,h
+S2223-G0976,1,00:21.500000,SAC,,NOP,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0976,2,10:07,SAC,,NOP,,C. Metu,SAC,Metu Violation:Kicked Ball (J.Williams),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0976,2,08:42,SAC,42.0,NOP,37.0,C. Metu,SAC,Metu Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0976,2,08:42,SAC,,NOP,,C. Metu,SAC,MISS Metu Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0976,2,08:00,SAC,44.0,NOP,39.0,C. Metu,SAC,Metu 1' Cutting Dunk Shot (5 PTS) (Lyles 1 AST),Made Shot,Cutting Dunk Shot,-2,7,1,1,2.0,2.0,h
+S2223-G0976,2,07:42,SAC,,NOP,,C. Metu,SAC,SUB: Davis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0976,3,01:24,SAC,90.0,NOP,79.0,C. Metu,SAC,Metu 3' Cutting Finger Roll Layup Shot (7 PTS) (Lyles 2 AST),Made Shot,Cutting Finger Roll Layup Shot,2,30,3,1,2.0,2.0,h
+S2223-G0976,3,01:03,SAC,,NOP,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0976,4,10:14,SAC,102.0,NOP,81.0,C. Metu,SAC,Metu 2' Alley Oop Layup (9 PTS) (Mitchell 6 AST),Made Shot,Alley Oop Layup shot,21,6,2,1,2.0,2.0,h
+S2223-G0976,4,08:04,SAC,,NOP,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0171,1,02:48,SAC,,CLE,,C. Metu,SAC,Metu Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0171,1,02:28,SAC,29.0,CLE,19.0,C. Metu,SAC,Metu 2' Alley Oop Layup (2 PTS) (Mitchell 1 AST),Made Shot,Alley Oop Layup shot,-16,5,2,1,2.0,2.0,h
+S2223-G0171,2,11:42,SAC,,CLE,,C. Metu,SAC,MISS Metu 24' 3PT Jump Shot,Missed Shot,Jump Shot,-136,203,24,1,3.0,0.0,h
+S2223-G0171,2,11:30,SAC,36.0,CLE,29.0,C. Metu,SAC,Metu 1' Reverse Dunk (4 PTS) (Lyles 1 AST),Made Shot,Reverse Dunk Shot,-7,4,1,1,2.0,2.0,h
+S2223-G0171,2,08:30,SAC,,CLE,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0171,2,08:25,SAC,,CLE,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0171,4,11:11,SAC,,CLE,,C. Metu,SAC,MISS Metu 26' 3PT Jump Shot,Missed Shot,Jump Shot,-163,204,26,1,3.0,0.0,h
+S2223-G0171,4,10:43,SAC,99.0,CLE,95.0,C. Metu,SAC,Metu 2' Alley Oop Dunk (6 PTS) (Fox 8 AST),Made Shot,Alley Oop Dunk Shot,10,12,2,1,2.0,2.0,h
+S2223-G0171,4,08:44,SAC,,CLE,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G1081,4,04:47,SAC,,BOS,,C. Metu,SAC,MISS Metu 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,7,151,15,1,2.0,0.0,h
+S2223-G1081,4,00:24.200000,SAC,108.0,BOS,132.0,C. Metu,SAC,Metu 3' Driving Layup (2 PTS) (Ellis 1 AST),Made Shot,Driving Layup Shot,-21,26,3,1,2.0,2.0,h
+S2223-G1081,4,00:24.200000,SAC,109.0,BOS,132.0,C. Metu,SAC,Metu Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0844,2,10:41,SAC,,DAL,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0844,2,09:08,SAC,,DAL,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0844,4,11:02,SAC,,DAL,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0844,4,11:01,SAC,89.0,DAL,104.0,C. Metu,SAC,Metu 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-27,12,3,1,2.0,2.0,h
+S2223-G0844,4,09:46,SAC,,DAL,,C. Metu,SAC,Metu Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0844,4,09:28,SAC,,DAL,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0844,4,09:23,SAC,90.0,DAL,104.0,C. Metu,SAC,Metu Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0844,4,09:23,SAC,,DAL,,C. Metu,SAC,MISS Metu Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0844,4,08:46,SAC,91.0,DAL,104.0,C. Metu,SAC,Metu Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0844,4,08:46,SAC,92.0,DAL,104.0,C. Metu,SAC,Metu Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0844,4,08:28,SAC,,DAL,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0844,4,00:09.100000,SAC,114.0,DAL,122.0,C. Metu,SAC,Metu 2' Dunk (7 PTS) (Davis 1 AST),Made Shot,Dunk Shot,-12,13,2,1,2.0,2.0,h
+S2223-G1185,4,01:28,NOP,,SAC,,C. Metu,SAC,Metu Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0429,1,03:44,DET,,SAC,,C. Metu,SAC,MISS Metu 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-4,64,6,1,2.0,0.0,v
+S2223-G0429,1,02:31,DET,,SAC,,C. Metu,SAC,MISS Metu 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,78,56,10,1,2.0,0.0,v
+S2223-G0429,1,02:04,DET,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0429,1,01:04,DET,,SAC,,C. Metu,SAC,Metu P.FOUL (P1.PN) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2223-G0429,1,00:50.400000,DET,,SAC,,C. Metu,SAC,MISS Metu 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,56,83,10,1,2.0,0.0,v
+S2223-G0429,1,00:34.300000,DET,,SAC,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0429,1,00:31.700000,DET,,SAC,,C. Metu,SAC,Metu Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1111,1,01:55,SAC,,UTA,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1111,1,01:45,SAC,,UTA,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1111,1,01:45,SAC,,UTA,,C. Metu,SAC,MISS Metu 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-1,48,5,1,2.0,0.0,h
+S2223-G1111,1,01:32,SAC,,UTA,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1111,1,00:58.200000,SAC,,UTA,,C. Metu,SAC,MISS Metu 25' 3PT Jump Shot,Missed Shot,Jump Shot,-119,223,25,1,3.0,0.0,h
+S2223-G1111,1,00:50,SAC,,UTA,,C. Metu,SAC,Metu REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0350,1,02:36,SAC,20.0,CHI,20.0,C. Metu,SAC,Metu 2' Running Alley Oop Layup Shot (2 PTS) (Fox 2 AST),Made Shot,Running Alley Oop Layup Shot,7,15,2,1,2.0,2.0,h
+S2223-G0350,1,01:35,SAC,22.0,CHI,23.0,C. Metu,SAC,Metu 4' Hook Shot (4 PTS) (Monk 1 AST),Made Shot,Hook Shot,-20,32,4,1,2.0,2.0,h
+S2223-G0350,1,01:17,SAC,,CHI,,C. Metu,SAC,Metu S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G0350,1,01:10,SAC,,CHI,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0350,1,00:02,SAC,,CHI,,C. Metu,SAC,Metu Violation:Defensive Goaltending (K.Scott),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0350,2,11:45,SAC,31.0,CHI,27.0,C. Metu,SAC,Metu 2' Running Alley Oop Dunk Shot (6 PTS) (Monk 2 AST),Made Shot,Running Alley Oop Dunk Shot,-2,15,2,1,2.0,2.0,h
+S2223-G0350,2,11:07,SAC,,CHI,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0350,2,09:18,SAC,,CHI,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0350,2,08:52,SAC,,CHI,,C. Metu,SAC,Metu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0350,2,08:46,SAC,38.0,CHI,29.0,C. Metu,SAC,Metu 1' Dunk (8 PTS) (Monk 4 AST),Made Shot,Dunk Shot,5,7,1,1,2.0,2.0,h
+S2223-G0350,2,08:30,SAC,,CHI,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0350,3,01:33,SAC,,CHI,,C. Metu,SAC,Metu Bad Pass Turnover (P1.T18),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0350,4,09:39,SAC,88.0,CHI,84.0,C. Metu,SAC,Metu Running Dunk (10 PTS) (Mitchell 4 AST),Made Shot,Running Dunk Shot,2,4,0,1,2.0,2.0,h
+S2223-G0350,4,09:31,SAC,,CHI,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0491,4,01:31,SAC,,WAS,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0242,1,01:08,SAC,,DET,,C. Metu,SAC,MISS Metu 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,247,25,1,3.0,0.0,h
+S2223-G0242,2,10:54,SAC,40.0,DET,37.0,C. Metu,SAC,Metu 7' Turnaround Hook Shot (2 PTS) (Monk 1 AST),Made Shot,Turnaround Hook Shot,44,55,7,1,2.0,2.0,h
+S2223-G0242,2,10:05,SAC,,DET,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0242,2,09:41,SAC,,DET,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0242,2,08:17,SAC,,DET,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0242,2,02:33,SAC,,DET,,C. Metu,SAC,Metu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0242,2,02:20,SAC,59.0,DET,62.0,C. Metu,SAC,Metu 2' Dunk (4 PTS) (Fox 3 AST),Made Shot,Dunk Shot,13,8,2,1,2.0,2.0,h
+S2223-G0242,2,01:57,SAC,,DET,,C. Metu,SAC,Metu REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0242,2,01:57,SAC,61.0,DET,62.0,C. Metu,SAC,Metu Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0242,2,01:35,SAC,,DET,,C. Metu,SAC,Metu S.FOUL (P1.T4) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2223-G0242,2,00:29,SAC,,DET,,C. Metu,SAC,Metu REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0242,3,01:19,SAC,,DET,,C. Metu,SAC,Metu REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0242,4,10:53,SAC,,DET,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0307,2,11:42,SAC,,PHX,,C. Metu,SAC,MISS Metu 3' Dunk,Missed Shot,Dunk Shot,28,17,3,1,2.0,0.0,h
+S2223-G0307,2,09:20,SAC,35.0,PHX,35.0,C. Metu,SAC,Metu 2' Alley Oop Layup (2 PTS) (Monk 2 AST),Made Shot,Alley Oop Layup shot,17,16,2,1,2.0,2.0,h
+S2223-G0307,2,07:45,SAC,,PHX,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0307,4,10:42,SAC,88.0,PHX,94.0,C. Metu,SAC,Metu Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0307,4,10:42,SAC,89.0,PHX,94.0,C. Metu,SAC,Metu Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0307,4,10:24,SAC,,PHX,,C. Metu,SAC,Metu BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0307,4,08:46,SAC,,PHX,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G1043,2,11:28,BKN,,SAC,,C. Metu,SAC,Metu BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1043,2,11:23,BKN,25.0,SAC,26.0,C. Metu,SAC,Metu 2' Running Dunk (2 PTS) (Lyles 1 AST),Made Shot,Running Dunk Shot,15,5,2,1,2.0,2.0,v
+S2223-G1043,2,10:10,BKN,,SAC,,C. Metu,SAC,MISS Metu 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,10,63,6,1,2.0,0.0,v
+S2223-G1043,2,09:05,BKN,,SAC,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G1043,3,01:01,BKN,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0652,1,01:30,SAS,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0652,1,01:23,SAS,27.0,SAC,27.0,C. Metu,SAC,Metu Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0652,1,01:23,SAS,27.0,SAC,28.0,C. Metu,SAC,Metu Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0652,1,00:17.500000,SAS,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0652,1,00:17.500000,SAS,29.0,SAC,33.0,C. Metu,SAC,Metu Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0652,2,11:12,SAS,34.0,SAC,37.0,C. Metu,SAC,Metu 1' Cutting Layup Shot (6 PTS) (Monk 1 AST),Made Shot,Cutting Layup Shot,-4,4,1,1,2.0,2.0,v
+S2223-G0652,2,10:32,SAS,,SAC,,C. Metu,SAC,MISS Metu 2' Driving Dunk,Missed Shot,Driving Dunk Shot,5,15,2,1,2.0,0.0,v
+S2223-G0652,2,08:51,SAS,,SAC,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0652,3,06:22,SAS,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0652,3,05:21,SAS,79.0,SAC,86.0,C. Metu,SAC,Metu 1' Cutting Dunk Shot (8 PTS) (Huerter 3 AST),Made Shot,Cutting Dunk Shot,1,8,1,1,2.0,2.0,v
+S2223-G0652,3,04:06,SAS,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.T4) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0652,3,02:59,SAS,,SAC,,C. Metu,SAC,MISS Metu 7' Floating Jump Shot,Missed Shot,Floating Jump shot,-13,64,7,1,2.0,0.0,v
+S2223-G0652,3,02:59,SAS,,SAC,,C. Metu,SAC,Metu REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0652,3,02:59,SAS,,SAC,,C. Metu,SAC,MISS Metu Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,v
+S2223-G0652,3,00:30.700000,SAS,,SAC,,C. Metu,SAC,Metu S.FOUL (P2.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0652,4,00:15,SAS,,SAC,,C. Metu,SAC,Metu REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0812,1,00:53.200000,HOU,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0812,1,00:08.700000,HOU,,SAC,,C. Metu,SAC,Metu P.FOUL (P1.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G0812,2,11:06,HOU,26.0,SAC,33.0,C. Metu,SAC,Metu 1' Running Alley Oop Dunk Shot (2 PTS) (Fox 2 AST),Made Shot,Running Alley Oop Dunk Shot,-13,6,1,1,2.0,2.0,v
+S2223-G0812,2,09:45,HOU,30.0,SAC,38.0,C. Metu,SAC,Metu 2' Driving Finger Roll Layup (4 PTS) (Barnes 1 AST),Made Shot,Driving Finger Roll Layup Shot,-23,1,2,1,2.0,2.0,v
+S2223-G0812,2,08:52,HOU,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0812,2,08:09,HOU,,SAC,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0812,2,00:19.300000,HOU,,SAC,,C. Metu,SAC,Metu P.FOUL (P2.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2223-G0812,2,00:19.300000,HOU,,SAC,,C. Metu,SAC,SUB: Lyles FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0812,4,11:07,HOU,,SAC,,C. Metu,SAC,Metu BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0812,4,11:06,HOU,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0812,4,09:53,HOU,,SAC,,C. Metu,SAC,Metu BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0812,4,08:16,HOU,,SAC,,C. Metu,SAC,MISS Metu 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-26,50,6,1,2.0,0.0,v
+S2223-G0812,4,07:45,HOU,,SAC,,C. Metu,SAC,SUB: Huerter FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0812,4,02:27,HOU,,SAC,,C. Metu,SAC,SUB: Len FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0691,1,02:46,SAC,,OKC,,C. Metu,SAC,Metu S.FOUL (P1.T4) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0691,1,02:33,SAC,23.0,OKC,27.0,C. Metu,SAC,Metu 1' Cutting Dunk Shot (2 PTS) (Monk 1 AST),Made Shot,Cutting Dunk Shot,-4,10,1,1,2.0,2.0,h
+S2223-G0691,2,11:39,SAC,,OKC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0691,2,10:05,SAC,,OKC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0691,2,10:00,SAC,35.0,OKC,38.0,C. Metu,SAC,Metu 1' Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,9,6,1,1,2.0,2.0,h
+S2223-G0691,2,08:50,SAC,,OKC,,C. Metu,SAC,Metu REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0691,2,08:50,SAC,,OKC,,C. Metu,SAC,MISS Metu Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0691,2,07:50,SAC,,OKC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0691,3,01:24,SAC,,OKC,,C. Metu,SAC,Metu P.FOUL (P2.T4) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2223-G0691,4,11:38,SAC,,OKC,,C. Metu,SAC,Metu S.FOUL (P3.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0691,4,10:44,SAC,,OKC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0042,4,09:52,GSW,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0042,4,09:29,GSW,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0042,4,07:14,GSW,122.0,SAC,106.0,C. Metu,SAC,Metu Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0042,4,07:14,GSW,122.0,SAC,107.0,C. Metu,SAC,Metu Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0042,4,06:38,GSW,,SAC,,C. Metu,SAC,MISS Metu 6' Hook Shot,Missed Shot,Hook Shot,-29,49,6,1,2.0,0.0,v
+S2223-G0042,4,06:29,GSW,,SAC,,C. Metu,SAC,Metu BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0042,4,05:03,GSW,,SAC,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0042,4,04:39,GSW,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0042,4,04:29,GSW,,SAC,,C. Metu,SAC,MISS Metu 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-3,24,1,3.0,0.0,v
+S2223-G0042,4,03:39,GSW,,SAC,,C. Metu,SAC,Metu L.B.FOUL (P1.PN) (C.Washington),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0042,4,01:06,GSW,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0042,4,01:04,GSW,126.0,SAC,122.0,C. Metu,SAC,Metu 4' Dunk (4 PTS) (Monk 7 AST),Made Shot,Dunk Shot,31,32,4,1,2.0,2.0,v
+S2223-G0042,4,00:25.400000,GSW,,SAC,,C. Metu,SAC,Metu Personal Take Foul (P2.PN) (C.Washington),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0961,1,02:14,SAC,,MIN,,C. Metu,SAC,Metu S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G0961,1,01:14,SAC,30.0,MIN,34.0,C. Metu,SAC,Metu 2' Hook Shot (2 PTS) (Monk 2 AST),Made Shot,Hook Shot,-2,22,2,1,2.0,2.0,h
+S2223-G0961,1,00:26.500000,SAC,,MIN,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0961,1,00:05.600000,SAC,,MIN,,C. Metu,SAC,MISS Metu 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,22,73,8,1,2.0,0.0,h
+S2223-G0961,2,10:03,SAC,37.0,MIN,44.0,C. Metu,SAC,Metu 1' Dunk (4 PTS) (Lyles 1 AST),Made Shot,Dunk Shot,6,3,1,1,2.0,2.0,h
+S2223-G0961,2,09:14,SAC,,MIN,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0961,2,09:14,SAC,39.0,MIN,49.0,C. Metu,SAC,Metu Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0961,2,08:04,SAC,,MIN,,C. Metu,SAC,SUB: Murray FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G1059,2,10:41,WAS,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1059,2,09:24,WAS,,SAC,,C. Metu,SAC,MISS Metu 8' Hook Shot,Missed Shot,Hook Shot,5,78,8,1,2.0,0.0,v
+S2223-G1059,2,08:09,WAS,,SAC,,C. Metu,SAC,Metu P.FOUL (P1.T1) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2223-G1059,2,07:59,WAS,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1059,2,07:10,WAS,,SAC,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G1059,3,02:01,WAS,,SAC,,C. Metu,SAC,Metu REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1059,3,01:58,WAS,,SAC,,C. Metu,SAC,MISS Metu 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,-18,63,7,1,2.0,0.0,v
+S2223-G1059,3,01:46,WAS,,SAC,,C. Metu,SAC,Metu REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1059,3,01:22,WAS,,SAC,,C. Metu,SAC,Metu REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1059,3,00:48.400000,WAS,,SAC,,C. Metu,SAC,Metu REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1059,3,00:38.400000,WAS,,SAC,,C. Metu,SAC,Metu S.FOUL (P2.T4) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2223-G1059,4,10:47,WAS,,SAC,,C. Metu,SAC,Metu BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1059,4,10:27,WAS,,SAC,,C. Metu,SAC,Metu BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1059,4,09:33,WAS,,SAC,,C. Metu,SAC,Metu BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G1059,4,09:11,WAS,97.0,SAC,112.0,C. Metu,SAC,Metu 8' Floating Jump Shot (2 PTS) (Monk 6 AST),Made Shot,Floating Jump shot,77,26,8,1,2.0,2.0,v
+S2223-G1059,4,09:01,WAS,,SAC,,C. Metu,SAC,Metu P.FOUL (P3.T1) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2223-G1059,4,08:48,WAS,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0263,2,10:45,ATL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0263,2,09:19,ATL,44.0,SAC,32.0,C. Metu,SAC,Metu 25' 3PT Jump Shot (3 PTS) (Fox 2 AST),Made Shot,Jump Shot,91,237,25,1,3.0,3.0,v
+S2223-G0263,2,08:43,ATL,46.0,SAC,34.0,C. Metu,SAC,Metu 1' Alley Oop Dunk (5 PTS) (Monk 2 AST),Made Shot,Alley Oop Dunk Shot,-9,3,1,1,2.0,2.0,v
+S2223-G0263,2,07:37,ATL,,SAC,,C. Metu,SAC,MISS Metu 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-15,26,3,1,2.0,0.0,v
+S2223-G0263,2,07:30,ATL,,SAC,,C. Metu,SAC,Metu S.FOUL (P1.T2) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0263,2,07:30,ATL,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0263,3,01:14,ATL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0263,4,10:56,ATL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0263,4,09:38,ATL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0263,4,09:10,ATL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0263,4,08:48,ATL,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0263,4,08:04,ATL,,SAC,,C. Metu,SAC,SUB: Barnes FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0263,4,00:23.900000,ATL,,SAC,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,v
+S2223-G0222,2,10:52,SAC,,SAS,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0222,2,10:47,SAC,39.0,SAS,30.0,C. Metu,SAC,Metu 1' Dunk (2 PTS) (Davis 3 AST),Made Shot,Dunk Shot,-6,5,1,1,2.0,2.0,h
+S2223-G0222,2,09:10,SAC,45.0,SAS,36.0,C. Metu,SAC,Metu 3' Running Alley Oop Dunk Shot (4 PTS) (Mitchell 1 AST),Made Shot,Running Alley Oop Dunk Shot,18,25,3,1,2.0,2.0,h
+S2223-G0222,2,08:54,SAC,,SAS,,C. Metu,SAC,Metu STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0222,2,07:06,SAC,,SAS,,C. Metu,SAC,Metu Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0222,2,07:06,SAC,,SAS,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0222,4,11:25,SAC,,SAS,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0222,4,10:58,SAC,,SAS,,C. Metu,SAC,Metu S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0222,4,10:56,SAC,,SAS,,C. Metu,SAC,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0222,4,09:22,SAC,101.0,SAS,85.0,C. Metu,SAC,Metu 1' Running Layup (6 PTS) (Fox 6 AST),Made Shot,Running Layup Shot,1,11,1,1,2.0,2.0,h
+S2223-G0222,4,09:22,SAC,102.0,SAS,85.0,C. Metu,SAC,Metu Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0222,4,07:41,SAC,110.0,SAS,92.0,C. Metu,SAC,Metu 26' 3PT Jump Shot (10 PTS) (Huerter 6 AST),Made Shot,Jump Shot,-213,148,26,1,3.0,3.0,h
+S2223-G0222,4,07:32,SAC,,SAS,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0625,1,01:57,SAC,,HOU,,C. Metu,SAC,Metu REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0625,1,01:57,SAC,,HOU,,C. Metu,SAC,MISS Metu Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0625,1,00:57.100000,SAC,,HOU,,C. Metu,SAC,Metu S.FOUL (P1.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0625,1,00:55,SAC,,HOU,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0625,2,11:53,SAC,32.0,HOU,27.0,C. Metu,SAC,Metu Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0625,2,11:53,SAC,33.0,HOU,27.0,C. Metu,SAC,Metu Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0625,2,09:32,SAC,,HOU,,C. Metu,SAC," Foul : Double Personal - Metu (2 PF), Garuba (2 PF) (A.Smith)",Foul,Double Personal,0,0,0,0,,,
+S2223-G0625,2,09:32,SAC,,HOU,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0625,4,10:58,SAC,96.0,HOU,95.0,C. Metu,SAC,Metu 1' Alley Oop Layup (4 PTS) (Fox 4 AST),Made Shot,Alley Oop Layup shot,-2,10,1,1,2.0,2.0,h
+S2223-G0625,4,10:46,SAC,,HOU,,C. Metu,SAC,Metu S.FOUL (P3.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0625,4,10:02,SAC,100.0,HOU,96.0,C. Metu,SAC,Metu 4' Hook Shot (6 PTS) (Fox 5 AST),Made Shot,Hook Shot,-6,38,4,1,2.0,2.0,h
+S2223-G0625,4,09:14,SAC,,HOU,,C. Metu,SAC,Metu OFF.Foul (P4) (M.Davis),Foul,Offensive,0,0,0,0,,,h
+S2223-G0625,4,09:14,SAC,,HOU,,C. Metu,SAC,Metu Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0625,4,09:14,SAC,,HOU,,C. Metu,SAC,SUB: Sabonis FOR Metu,Substitution,,0,0,0,0,,,h
+S2223-G0275,1,02:27,BOS,,SAC,,C. Metu,SAC,Metu OFF.Foul (P1) (E.Lewis),Foul,Offensive,0,0,0,0,,,v
+S2223-G0275,1,02:27,BOS,,SAC,,C. Metu,SAC,Metu Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0275,1,00:59.400000,BOS,,SAC,,C. Metu,SAC,Metu Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0275,1,00:40.400000,BOS,34.0,SAC,21.0,C. Metu,SAC,Metu Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0275,1,00:40.400000,BOS,34.0,SAC,22.0,C. Metu,SAC,Metu Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0275,2,10:22,BOS,38.0,SAC,28.0,C. Metu,SAC,Metu 3' Cutting Dunk Shot (4 PTS) (Davis 1 AST),Made Shot,Cutting Dunk Shot,-1,29,3,1,2.0,2.0,v
+S2223-G0275,2,09:52,BOS,,SAC,,C. Metu,SAC,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0275,2,07:52,BOS,,SAC,,C. Metu,SAC,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0275,2,07:52,BOS,,SAC,,C. Metu,SAC,MISS Metu Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0275,2,06:49,BOS,,SAC,,C. Metu,SAC,SUB: Mitchell FOR Metu,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,847 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G1109,2,09:38,DEN,,MIL,,C. Braun,DEN,Braun S.FOUL (P1.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2223-G1109,2,07:58,DEN,,MIL,,C. Braun,DEN,MISS Braun 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,174,193,26,1,3.0,0.0,h
+S2223-G1109,2,07:47,DEN,,MIL,,C. Braun,DEN,SUB: Jokic FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G1109,4,10:24,DEN,,MIL,,C. Braun,DEN,MISS Braun 5' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,45,28,5,1,2.0,0.0,h
+S2223-G1109,4,06:50,DEN,,MIL,,C. Braun,DEN,Braun P.FOUL (P2.T4) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2223-G1109,4,06:41,DEN,,MIL,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0535,3,03:52,DEN,,MIA,,C. Braun,DEN,Braun S.FOUL (P1.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0535,3,02:18,DEN,,MIA,,C. Braun,DEN,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0535,3,02:17,DEN,,MIA,,C. Braun,DEN,Braun Traveling Turnover (P1.T17),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0535,3,02:00,DEN,,MIA,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0831,1,03:52,ORL,,DEN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0831,1,03:47,ORL,,DEN,,C. Braun,DEN,MISS Braun 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,5,22,2,1,2.0,0.0,v
+S2223-G0831,1,00:34,ORL,,DEN,,C. Braun,DEN,Braun S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0831,2,10:07,ORL,,DEN,,C. Braun,DEN,Braun S.FOUL (P2.T2) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0831,2,08:13,ORL,,DEN,,C. Braun,DEN,Braun P.FOUL (P3.T3) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G0831,2,08:05,ORL,,DEN,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0831,4,09:56,ORL,,DEN,,C. Braun,DEN,MISS Braun 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-18,20,3,1,2.0,0.0,v
+S2223-G0831,4,07:26,ORL,,DEN,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0688,3,02:33,DEN,,IND,,C. Braun,DEN,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0688,3,02:28,DEN,88.0,IND,76.0,C. Braun,DEN,Braun 1' Alley Oop Dunk (2 PTS) (Murray 13 AST),Made Shot,Alley Oop Dunk Shot,7,6,1,1,2.0,2.0,h
+S2223-G0688,4,11:13,DEN,,IND,,C. Braun,DEN,Braun L.B.FOUL (P1.T1) (B.Schwab),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0688,4,10:44,DEN,104.0,IND,84.0,C. Braun,DEN,Braun 26' 3PT Jump Shot (5 PTS) (Gordon 3 AST),Made Shot,Jump Shot,110,231,26,1,3.0,3.0,h
+S2223-G0688,4,09:19,DEN,108.0,IND,87.0,C. Braun,DEN,Braun 1' Cutting Dunk Shot (7 PTS) (Gordon 5 AST),Made Shot,Cutting Dunk Shot,-11,6,1,1,2.0,2.0,h
+S2223-G0688,4,08:47,DEN,110.0,IND,89.0,C. Braun,DEN,Braun 1' Layup (9 PTS) (Brown 4 AST),Made Shot,Layup Shot,-9,10,1,1,2.0,2.0,h
+S2223-G0688,4,06:55,DEN,121.0,IND,98.0,C. Braun,DEN,Braun Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0688,4,06:55,DEN,,IND,,C. Braun,DEN,MISS Braun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0688,4,04:21,DEN,,IND,,C. Braun,DEN,Braun BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0688,4,03:40,DEN,,IND,,C. Braun,DEN,Braun S.FOUL (P2.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G0688,4,03:30,DEN,,IND,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0688,4,01:08,DEN,,IND,,C. Braun,DEN,MISS Braun 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-197,3,20,1,2.0,0.0,h
+S2223-G0305,4,04:29,DEN,,HOU,,C. Braun,DEN,MISS Braun 25' 3PT Jump Shot,Missed Shot,Jump Shot,210,137,25,1,3.0,0.0,h
+S2223-G0702,1,03:58,DEN,,OKC,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0702,1,03:41,DEN,,OKC,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0702,1,02:23,DEN,,OKC,,C. Braun,DEN,MISS Braun 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,20,19,3,1,2.0,0.0,h
+S2223-G0702,1,00:01.800000,DEN,,OKC,,C. Braun,DEN,MISS Braun 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,11,24,1,3.0,0.0,h
+S2223-G0702,2,10:54,DEN,,OKC,,C. Braun,DEN,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0702,2,10:40,DEN,21.0,OKC,27.0,C. Braun,DEN,Braun 3' Reverse Layup (2 PTS) (Hyland 1 AST),Made Shot,Reverse Layup Shot,-26,-1,3,1,2.0,2.0,h
+S2223-G0702,2,07:32,DEN,,OKC,,C. Braun,DEN,Braun BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0702,2,06:40,DEN,,OKC,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0702,3,02:43,DEN,69.0,OKC,75.0,C. Braun,DEN,Braun 3' Reverse Layup (4 PTS) (Murray 7 AST),Made Shot,Reverse Layup Shot,-21,16,3,1,2.0,2.0,h
+S2223-G0702,3,02:31,DEN,,OKC,,C. Braun,DEN,Braun S.FOUL (P1.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0702,3,01:42,DEN,,OKC,,C. Braun,DEN,Braun REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0702,3,00:45,DEN,74.0,OKC,79.0,C. Braun,DEN,Braun 24' 3PT Jump Shot (7 PTS) (Murray 8 AST),Made Shot,Jump Shot,-230,54,24,1,3.0,3.0,h
+S2223-G0702,3,00:19.700000,DEN,,OKC,,C. Braun,DEN,Braun REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0702,4,11:52,DEN,,OKC,,C. Braun,DEN,Braun BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0702,4,11:26,DEN,,OKC,,C. Braun,DEN,Braun REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0702,4,11:04,DEN,,OKC,,C. Braun,DEN,MISS Braun 6' Driving Layup,Missed Shot,Driving Layup Shot,-49,27,6,1,2.0,0.0,h
+S2223-G0702,4,10:39,DEN,76.0,OKC,81.0,C. Braun,DEN,Braun 2' Cutting Dunk Shot (9 PTS) (Brown 1 AST),Made Shot,Cutting Dunk Shot,-7,16,2,1,2.0,2.0,h
+S2223-G0702,4,10:39,DEN,77.0,OKC,81.0,C. Braun,DEN,Braun Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0702,4,07:37,DEN,,OKC,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0450,1,06:31,DEN,,CHA,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,227,58,0,1,3.0,0.0,h
+S2223-G0450,1,06:01,DEN,,CHA,,C. Braun,DEN,MISS Braun 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,37,24,1,3.0,0.0,h
+S2223-G0450,1,02:03,DEN,,CHA,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0450,2,10:48,DEN,,CHA,,C. Braun,DEN,SUB: Brown FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0450,3,07:59,DEN,,CHA,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0450,3,02:25,DEN,92.0,CHA,76.0,C. Braun,DEN,Braun 4' Driving Layup (2 PTS) (Jokic 8 AST),Made Shot,Driving Layup Shot,-34,13,4,1,2.0,2.0,h
+S2223-G0450,3,00:53.200000,DEN,,CHA,,C. Braun,DEN,Braun REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0450,4,11:05,DEN,,CHA,,C. Braun,DEN,Braun REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0450,4,09:55,DEN,,CHA,,C. Braun,DEN,Braun REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0450,4,07:55,DEN,,CHA,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G1083,1,02:45,WAS,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1083,1,02:24,WAS,,DEN,,C. Braun,DEN,Braun P.FOUL (P1.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2223-G1083,1,01:16,WAS,,DEN,,C. Braun,DEN,MISS Braun 26' 3PT Jump Shot,Missed Shot,Jump Shot,-29,261,26,1,3.0,0.0,v
+S2223-G1083,2,09:06,WAS,,DEN,,C. Braun,DEN,Braun S.FOUL (P2.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2223-G1083,2,07:49,WAS,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1083,2,06:42,WAS,,DEN,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1083,3,00:18.300000,WAS,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1083,4,10:22,WAS,,DEN,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,-230,2,0,1,3.0,0.0,v
+S2223-G1083,4,09:06,WAS,,DEN,,C. Braun,DEN,MISS Braun 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,2,24,1,3.0,0.0,v
+S2223-G1083,4,08:08,WAS,,DEN,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1083,4,00:22.600000,WAS,,DEN,,C. Braun,DEN,Braun P.FOUL (P3.PN) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2223-G1201,1,11:11,PHX,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1201,1,09:48,PHX,0.0,DEN,4.0,C. Braun,DEN,Braun 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-4,10,1,1,2.0,2.0,v
+S2223-G1201,1,07:42,PHX,,DEN,,C. Braun,DEN,MISS Braun 5' Running Jump Shot,Missed Shot,Running Jump Shot,-9,53,5,1,2.0,0.0,v
+S2223-G1201,1,05:59,PHX,,DEN,,C. Braun,DEN,Braun P.FOUL (P1.T2) (R.Acosta),Foul,Personal,0,0,0,0,,,v
+S2223-G1201,1,05:27,PHX,,DEN,,C. Braun,DEN,MISS Braun 26' 3PT Jump Shot,Missed Shot,Jump Shot,196,173,26,1,3.0,0.0,v
+S2223-G1201,1,03:39,PHX,,DEN,,C. Braun,DEN,SUB: Smith FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1201,2,06:27,PHX,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1201,2,04:52,PHX,42.0,DEN,43.0,C. Braun,DEN,Braun Running Layup (4 PTS) (Brown 1 AST),Made Shot,Running Layup Shot,2,-2,0,1,2.0,2.0,v
+S2223-G1201,2,04:31,PHX,42.0,DEN,45.0,C. Braun,DEN,Braun Cutting Dunk Shot (6 PTS) (Brown 2 AST),Made Shot,Cutting Dunk Shot,-1,4,0,1,2.0,2.0,v
+S2223-G1201,2,03:38,PHX,,DEN,,C. Braun,DEN,MISS Braun 29' 3PT Jump Shot,Missed Shot,Jump Shot,105,268,29,1,3.0,0.0,v
+S2223-G1201,2,02:16,PHX,,DEN,,C. Braun,DEN,Braun Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1201,3,10:26,PHX,,DEN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1201,3,08:11,PHX,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1201,3,08:10,PHX,,DEN,,C. Braun,DEN,MISS Braun 2' Reverse Layup,Missed Shot,Reverse Layup Shot,11,20,2,1,2.0,0.0,v
+S2223-G1201,3,07:18,PHX,70.0,DEN,69.0,C. Braun,DEN,Braun 25' 3PT Jump Shot (9 PTS) (Brown 3 AST),Made Shot,Jump Shot,-245,8,25,1,3.0,3.0,v
+S2223-G1201,3,06:13,PHX,,DEN,,C. Braun,DEN,Braun S.FOUL (P2.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G1201,3,05:57,PHX,,DEN,,C. Braun,DEN,Braun Traveling Turnover (P2.T10),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1201,3,05:44,PHX,,DEN,,C. Braun,DEN,Braun STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1201,3,05:40,PHX,72.0,DEN,73.0,C. Braun,DEN,Braun 1' Running Layup (11 PTS),Made Shot,Running Layup Shot,12,4,1,1,2.0,2.0,v
+S2223-G1201,3,04:05,PHX,74.0,DEN,80.0,C. Braun,DEN,Braun 28' 3PT Pullup Jump Shot (14 PTS) (Brown 4 AST),Made Shot,Pullup Jump shot,-157,232,28,1,3.0,3.0,v
+S2223-G1201,3,03:42,PHX,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1201,3,02:54,PHX,76.0,DEN,81.0,C. Braun,DEN,Braun Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1201,3,02:54,PHX,,DEN,,C. Braun,DEN,MISS Braun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1201,4,03:58,PHX,,DEN,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,-232,11,0,1,3.0,0.0,v
+S2223-G1201,4,00:04.200000,PHX,,DEN,,C. Braun,DEN,Braun P.FOUL (P3.T4) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0806,1,09:02,MIN,7.0,DEN,7.0,C. Braun,DEN,Braun 24' 3PT Jump Shot (3 PTS) (Cancar 1 AST),Made Shot,Jump Shot,178,162,24,1,3.0,3.0,v
+S2223-G0806,1,08:21,MIN,,DEN,,C. Braun,DEN,MISS Braun 12' Floating Jump Shot,Missed Shot,Floating Jump shot,45,116,12,1,2.0,0.0,v
+S2223-G0806,1,03:44,MIN,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0806,1,02:52,MIN,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0806,1,02:45,MIN,,DEN,,C. Braun,DEN,SUB: Watson FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0806,2,06:18,MIN,,DEN,,C. Braun,DEN,MISS Braun 10' Floating Jump Shot,Missed Shot,Floating Jump shot,-82,62,10,1,2.0,0.0,v
+S2223-G0806,2,05:28,MIN,51.0,DEN,28.0,C. Braun,DEN,Braun Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0806,2,05:28,MIN,51.0,DEN,29.0,C. Braun,DEN,Braun Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0806,2,05:11,MIN,51.0,DEN,31.0,C. Braun,DEN,Braun 2' Driving Reverse Layup (7 PTS) (Brown 5 AST),Made Shot,Driving Reverse Layup Shot,15,11,2,1,2.0,2.0,v
+S2223-G0806,2,04:39,MIN,,DEN,,C. Braun,DEN,Braun Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0806,2,03:46,MIN,55.0,DEN,35.0,C. Braun,DEN,Braun 2' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,10,12,2,1,2.0,2.0,v
+S2223-G0806,2,03:10,MIN,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0806,2,02:17,MIN,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0806,2,01:56,MIN,,DEN,,C. Braun,DEN,Braun BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0806,2,01:54,MIN,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0806,2,01:49,MIN,,DEN,,C. Braun,DEN,MISS Braun 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-168,153,23,1,2.0,0.0,v
+S2223-G0806,3,07:04,MIN,76.0,DEN,58.0,C. Braun,DEN,Braun 14' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,70,117,14,1,2.0,2.0,v
+S2223-G0806,3,05:59,MIN,80.0,DEN,60.0,C. Braun,DEN,Braun 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,-15,15,2,1,2.0,2.0,v
+S2223-G0806,3,03:06,MIN,85.0,DEN,67.0,C. Braun,DEN,Braun 25' 3PT Jump Shot (16 PTS) (Smith 3 AST),Made Shot,Jump Shot,-88,236,25,1,3.0,3.0,v
+S2223-G0806,3,02:45,MIN,,DEN,,C. Braun,DEN,MISS Braun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0806,3,02:45,MIN,85.0,DEN,68.0,C. Braun,DEN,Braun Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0806,3,01:06,MIN,,DEN,,C. Braun,DEN,Braun Step Out of Bounds Turnover (P2.T17),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0806,4,04:57,MIN,113.0,DEN,87.0,C. Braun,DEN,Braun 2' Driving Finger Roll Layup (19 PTS) (Cancar 3 AST),Made Shot,Driving Finger Roll Layup Shot,6,15,2,1,2.0,2.0,v
+S2223-G0806,4,03:47,MIN,,DEN,,C. Braun,DEN,Braun S.FOUL (P1.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0806,4,03:47,MIN,,DEN,,C. Braun,DEN,SUB: Reed FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0847,1,01:59,CHA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0847,1,01:00,CHA,31.0,DEN,23.0,C. Braun,DEN,Braun 2' Driving Dunk (2 PTS) (Jokic 2 AST),Made Shot,Driving Dunk Shot,13,15,2,1,2.0,2.0,v
+S2223-G0847,1,00:33.500000,CHA,,DEN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0847,1,00:29.600000,CHA,,DEN,,C. Braun,DEN,MISS Braun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0847,1,00:29.600000,CHA,33.0,DEN,25.0,C. Braun,DEN,Braun Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0847,1,00:00.800000,CHA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0847,1,00:00.800000,CHA,34.0,DEN,27.0,C. Braun,DEN,Braun Putback Layup (5 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0847,2,11:17,CHA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0847,2,08:27,CHA,,DEN,,C. Braun,DEN,MISS Braun 3' Layup,Missed Shot,Layup Shot,-9,32,3,1,2.0,0.0,v
+S2223-G0847,2,08:14,CHA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0847,2,06:30,CHA,,DEN,,C. Braun,DEN,Braun STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0847,2,06:05,CHA,46.0,DEN,37.0,C. Braun,DEN,Braun 1' Driving Layup (7 PTS) (Brown 2 AST),Made Shot,Driving Layup Shot,2,8,1,1,2.0,2.0,v
+S2223-G0847,2,04:12,CHA,,DEN,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0847,3,01:40,CHA,78.0,DEN,92.0,C. Braun,DEN,Braun 2' Layup (9 PTS) (Jokic 8 AST),Made Shot,Layup Shot,15,15,2,1,2.0,2.0,v
+S2223-G0847,3,01:27,CHA,,DEN,,C. Braun,DEN,Braun P.FOUL (P1.PN) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2223-G0847,4,10:39,CHA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0847,4,08:50,CHA,,DEN,,C. Braun,DEN,MISS Braun 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,10,67,7,1,2.0,0.0,v
+S2223-G0847,4,06:16,CHA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0847,4,05:17,CHA,,DEN,,C. Braun,DEN,Braun STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0847,4,05:14,CHA,92.0,DEN,108.0,C. Braun,DEN,Braun 1' Running Dunk (11 PTS),Made Shot,Running Dunk Shot,4,6,1,1,2.0,2.0,v
+S2223-G0847,4,04:50,CHA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0847,4,03:37,CHA,,DEN,,C. Braun,DEN,MISS Braun 28' 3PT Jump Shot,Missed Shot,Jump Shot,131,242,28,1,3.0,0.0,v
+S2223-G0847,4,02:08,CHA,,DEN,,C. Braun,DEN,Braun S.FOUL (P2.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2223-G0847,4,01:19,CHA,,DEN,,C. Braun,DEN,Braun Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0847,4,00:32.800000,CHA,,DEN,,C. Braun,DEN,Braun STEAL (4 STL),,,0,0,0,0,,,v
+S2223-G0514,2,04:46,SAC,46.0,DEN,31.0,C. Braun,DEN,Braun 1' Running Layup (2 PTS) (Porter Jr. 1 AST),Made Shot,Running Layup Shot,10,7,1,1,2.0,2.0,v
+S2223-G0514,2,04:25,SAC,,DEN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0514,2,01:51,SAC,,DEN,,C. Braun,DEN,MISS Braun 25' 3PT Jump Shot,Missed Shot,Jump Shot,223,121,25,1,3.0,0.0,v
+S2223-G0514,2,00:25.200000,SAC,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0514,3,05:00,SAC,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0514,3,03:51,SAC,,DEN,,C. Braun,DEN,Braun BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0514,3,03:26,SAC,,DEN,,C. Braun,DEN,Braun Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0514,3,03:18,SAC,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0514,3,01:18,SAC,81.0,DEN,79.0,C. Braun,DEN,Braun 3' Driving Floating Jump Shot (4 PTS) (Hyland 5 AST),Made Shot,Driving Floating Jump Shot,2,32,3,1,2.0,2.0,v
+S2223-G0514,3,01:18,SAC,,DEN,,C. Braun,DEN,MISS Braun Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0514,3,00:42.400000,SAC,,DEN,,C. Braun,DEN,MISS Braun 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,28,64,7,1,2.0,0.0,v
+S2223-G0095,1,05:04,LAL,,DEN,,C. Braun,DEN,MISS Braun 3' Driving Layup,Missed Shot,Driving Layup Shot,-26,0,3,1,2.0,0.0,v
+S2223-G0095,1,02:35,LAL,,DEN,,C. Braun,DEN,MISS Braun 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-132,221,26,1,3.0,0.0,v
+S2223-G0095,1,02:10,LAL,,DEN,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0095,2,06:49,LAL,,DEN,,C. Braun,DEN,SUB: Gordon FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0095,3,00:05,LAL,,DEN,,C. Braun,DEN,Braun S.FOUL (P1.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0095,3,00:00.900000,LAL,,DEN,,C. Braun,DEN,MISS Braun 34' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,64,330,34,1,3.0,0.0,v
+S2223-G0095,4,08:20,LAL,,DEN,,C. Braun,DEN,SUB: Gordon FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0579,3,00:00.200000,DEN,,LAC,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,227,31,0,1,3.0,0.0,h
+S2223-G0579,4,09:33,DEN,,LAC,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0579,4,09:28,DEN,106.0,LAC,65.0,C. Braun,DEN,Braun 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,23,17,3,1,2.0,2.0,h
+S2223-G0579,4,08:19,DEN,,LAC,,C. Braun,DEN,MISS Braun 10' Floating Jump Shot,Missed Shot,Floating Jump shot,70,67,10,1,2.0,0.0,h
+S2223-G0579,4,07:58,DEN,,LAC,,C. Braun,DEN,MISS Braun 2' Running Layup,Missed Shot,Running Layup Shot,6,20,2,1,2.0,0.0,h
+S2223-G0579,4,07:36,DEN,,LAC,,C. Braun,DEN,Braun S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G0579,4,05:38,DEN,,LAC,,C. Braun,DEN,MISS Braun 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-50,81,10,1,2.0,0.0,h
+S2223-G0579,4,05:25,DEN,,LAC,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0579,4,04:18,DEN,118.0,LAC,80.0,C. Braun,DEN,Braun 2' Driving Dunk (4 PTS) (Smith 2 AST),Made Shot,Driving Dunk Shot,6,16,2,1,2.0,2.0,h
+S2223-G0579,4,03:43,DEN,,LAC,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,-227,20,0,1,3.0,0.0,h
+S2223-G0579,4,03:15,DEN,,LAC,,C. Braun,DEN,MISS Braun 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,173,139,22,1,2.0,0.0,h
+S2223-G0723,1,11:37,MIL,,DEN,,C. Braun,DEN,MISS Braun 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,17,2,1,2.0,0.0,v
+S2223-G0723,1,10:52,MIL,,DEN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0723,1,10:47,MIL,3.0,DEN,5.0,C. Braun,DEN,Braun 2' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,9,20,2,1,2.0,2.0,v
+S2223-G0723,1,08:21,MIL,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0723,1,07:41,MIL,,DEN,,C. Braun,DEN,Braun S.FOUL (P1.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0723,1,07:22,MIL,,DEN,,C. Braun,DEN,MISS Braun 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-38,106,11,1,2.0,0.0,v
+S2223-G0723,1,05:05,MIL,,DEN,,C. Braun,DEN,SUB: Green FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0723,2,06:22,MIL,,DEN,,C. Braun,DEN,Braun P.FOUL (P2.T3) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0723,2,04:50,MIL,,DEN,,C. Braun,DEN,Braun Backcourt Turnover (P1.T7),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2223-G0723,2,04:26,MIL,43.0,DEN,46.0,C. Braun,DEN,Braun 28' 3PT Jump Shot (5 PTS) (Gordon 1 AST),Made Shot,Jump Shot,-203,193,28,1,3.0,3.0,v
+S2223-G0723,2,00:42.500000,MIL,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0723,3,09:14,MIL,,DEN,,C. Braun,DEN,MISS Braun 4' Running Layup,Missed Shot,Running Layup Shot,6,35,4,1,2.0,0.0,v
+S2223-G0723,3,07:30,MIL,,DEN,,C. Braun,DEN,SUB: Smith FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0723,4,05:01,MIL,94.0,DEN,89.0,C. Braun,DEN,Braun 26' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,-189,174,26,1,3.0,3.0,v
+S2223-G0723,4,04:18,MIL,,DEN,,C. Braun,DEN,Braun P.FOUL (P3.PN) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2223-G0522,2,10:48,SAC,29.0,DEN,45.0,C. Braun,DEN,Braun 7' Running Layup (2 PTS),Made Shot,Running Layup Shot,-54,43,7,1,2.0,2.0,v
+S2223-G0522,2,10:11,SAC,,DEN,,C. Braun,DEN,Braun Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0522,2,10:05,SAC,,DEN,,C. Braun,DEN,Braun P.FOUL (P1.T2) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2223-G0522,2,09:07,SAC,,DEN,,C. Braun,DEN,Braun S.FOUL (P2.T3) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0522,2,07:19,SAC,,DEN,,C. Braun,DEN,Braun L.B.FOUL (P3.T4) (J.Sterling),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0522,2,07:19,SAC,,DEN,,C. Braun,DEN,SUB: Jokic FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0522,3,00:25.700000,SAC,92.0,DEN,105.0,C. Braun,DEN,Braun 2' Driving Layup (4 PTS) (Reed 3 AST),Made Shot,Driving Layup Shot,21,3,2,1,2.0,2.0,v
+S2223-G0522,4,11:07,SAC,,DEN,,C. Braun,DEN,Braun BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0522,4,11:01,SAC,,DEN,,C. Braun,DEN,MISS Braun 6' Running Layup,Missed Shot,Running Layup Shot,-38,47,6,1,2.0,0.0,v
+S2223-G0522,4,09:40,SAC,97.0,DEN,108.0,C. Braun,DEN,Braun 24' 3PT Jump Shot (7 PTS) (Smith 5 AST),Made Shot,Jump Shot,-228,57,24,1,3.0,3.0,v
+S2223-G0522,4,06:25,SAC,,DEN,,C. Braun,DEN,SUB: Jokic FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0522,4,00:40.200000,SAC,126.0,DEN,126.0,C. Braun,DEN,Braun 1' Cutting Dunk Shot (9 PTS) (Hyland 11 AST),Made Shot,Cutting Dunk Shot,9,4,1,1,2.0,2.0,v
+S2223-G0196,1,00:34.300000,CHI,,DEN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0196,2,08:20,CHI,,DEN,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0196,2,02:57,CHI,41.0,DEN,51.0,C. Braun,DEN,Braun 3PT Jump Shot (3 PTS) (Caldwell-Pope 2 AST),Made Shot,Jump Shot,-229,-6,0,1,3.0,3.0,v
+S2223-G0196,2,01:34,CHI,43.0,DEN,57.0,C. Braun,DEN,Braun 1' Driving Layup (5 PTS) (Jokic 10 AST),Made Shot,Driving Layup Shot,-1,6,1,1,2.0,2.0,v
+S2223-G0196,3,02:12,CHI,70.0,DEN,90.0,C. Braun,DEN,Braun Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0196,3,02:12,CHI,70.0,DEN,91.0,C. Braun,DEN,Braun Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0196,3,00:36.800000,CHI,,DEN,,C. Braun,DEN,Braun S.FOUL (P1.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0196,4,10:48,CHI,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0196,4,10:31,CHI,80.0,DEN,99.0,C. Braun,DEN,Braun 7' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,26,69,7,1,2.0,2.0,v
+S2223-G0196,4,07:45,CHI,,DEN,,C. Braun,DEN,Braun STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0196,4,05:59,CHI,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0196,4,05:57,CHI,,DEN,,C. Braun,DEN,MISS Braun 1' Running Layup,Missed Shot,Running Layup Shot,1,14,1,1,2.0,0.0,v
+S2223-G0196,4,02:21,CHI,,DEN,,C. Braun,DEN,Braun S.FOUL (P2.T4) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0196,4,02:10,CHI,,DEN,,C. Braun,DEN,MISS Braun 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-17,24,1,3.0,0.0,v
+S2223-G0196,4,01:37,CHI,,DEN,,C. Braun,DEN,MISS Braun 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,64,6,1,2.0,0.0,v
+S2223-G0246,1,04:25,DAL,12.0,DEN,17.0,C. Braun,DEN,Braun 3PT Jump Shot (3 PTS) (Brown 4 AST),Made Shot,Jump Shot,-221,30,0,1,3.0,3.0,v
+S2223-G0246,1,03:16,DAL,,DEN,,C. Braun,DEN,MISS Braun 2' Layup,Missed Shot,Layup Shot,2,17,2,1,2.0,0.0,v
+S2223-G0246,1,02:15,DAL,,DEN,,C. Braun,DEN,MISS Braun 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,9,8,1,1,2.0,0.0,v
+S2223-G0246,2,10:43,DAL,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0246,2,09:45,DAL,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0246,2,08:07,DAL,,DEN,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0246,2,00:02,DAL,,DEN,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0246,3,02:03,DAL,66.0,DEN,76.0,C. Braun,DEN,Braun 1' Running Layup (5 PTS) (Reed 2 AST),Made Shot,Running Layup Shot,9,-4,1,1,2.0,2.0,v
+S2223-G0246,3,01:54,DAL,,DEN,,C. Braun,DEN,Braun S.FOUL (P1.T3) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0246,3,01:09,DAL,,DEN,,C. Braun,DEN,Braun P.FOUL (P2.PN) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2223-G0246,3,00:17.100000,DAL,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0246,3,00:00.100000,DAL,,DEN,,C. Braun,DEN,MISS Braun 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-131,41,14,1,2.0,0.0,v
+S2223-G0246,4,11:30,DAL,,DEN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0246,4,10:09,DAL,,DEN,,C. Braun,DEN,Braun P.FOUL (P3.T1) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2223-G0246,4,08:49,DAL,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0246,4,08:31,DAL,,DEN,,C. Braun,DEN,SUB: Brown FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0138,2,07:37,DEN,,SAS,,C. Braun,DEN,MISS Braun 5' Driving Layup,Missed Shot,Driving Layup Shot,-28,47,5,1,2.0,0.0,h
+S2223-G0138,2,06:25,DEN,56.0,SAS,35.0,C. Braun,DEN,Braun 2' Running Dunk (2 PTS) (Caldwell-Pope 2 AST),Made Shot,Running Dunk Shot,20,11,2,1,2.0,2.0,h
+S2223-G0138,2,05:50,DEN,,SAS,,C. Braun,DEN,MISS Braun 19' Jump Shot,Missed Shot,Jump Shot,-190,25,19,1,2.0,0.0,h
+S2223-G0138,2,05:09,DEN,,SAS,,C. Braun,DEN,MISS Braun 27' 3PT Jump Shot,Missed Shot,Jump Shot,-179,207,27,1,3.0,0.0,h
+S2223-G0138,2,03:22,DEN,,SAS,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0138,4,05:43,DEN,,SAS,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0138,4,01:05,DEN,,SAS,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0285,1,01:31,LAC,,DEN,,C. Braun,DEN,MISS Braun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0285,1,01:31,LAC,,DEN,,C. Braun,DEN,MISS Braun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0285,1,00:44.300000,LAC,,DEN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0285,2,11:05,LAC,,DEN,,C. Braun,DEN,SUB: Smith FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0051,1,01:05,POR,,DEN,,C. Braun,DEN,MISS Braun 26' 3PT Jump Shot,Missed Shot,Jump Shot,127,222,26,1,3.0,0.0,v
+S2223-G0051,1,00:15.400000,POR,,DEN,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0051,3,00:15.600000,POR,,DEN,,C. Braun,DEN,Braun S.FOUL (P1.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0051,4,03:31,POR,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0051,4,02:08,POR,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0051,4,01:39,POR,,DEN,,C. Braun,DEN,MISS Braun 3' Driving Layup,Missed Shot,Driving Layup Shot,-33,1,3,1,2.0,0.0,v
+S2223-G0051,4,01:23,POR,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0801,1,03:24,DEN,28.0,ATL,25.0,C. Braun,DEN,Braun 27' 3PT Jump Shot (3 PTS) (Brown 1 AST),Made Shot,Jump Shot,-70,257,27,1,3.0,3.0,h
+S2223-G0801,1,01:59,DEN,,ATL,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0801,2,10:41,DEN,,ATL,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0801,2,10:36,DEN,,ATL,,C. Braun,DEN,MISS Braun 3' Running Layup,Missed Shot,Running Layup Shot,31,11,3,1,2.0,0.0,h
+S2223-G0801,2,08:10,DEN,,ATL,,C. Braun,DEN,MISS Braun 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-37,13,4,1,2.0,0.0,h
+S2223-G0801,2,07:09,DEN,,ATL,,C. Braun,DEN,SUB: Gordon FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0801,2,04:21,DEN,,ATL,,C. Braun,DEN,Braun S.FOUL (P1.T1) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0801,2,03:01,DEN,59.0,ATL,45.0,C. Braun,DEN,Braun 2' Running Dunk (5 PTS) (Jokic 6 AST),Made Shot,Running Dunk Shot,-2,15,2,1,2.0,2.0,h
+S2223-G0801,2,00:06.300000,DEN,,ATL,,C. Braun,DEN,Braun Personal Take Foul (P2.T3) (Z.Zarba),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0801,2,00:06.300000,DEN,,ATL,,C. Braun,DEN,SUB: Brown FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0801,3,07:35,DEN,,ATL,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0801,3,06:20,DEN,,ATL,,C. Braun,DEN,Braun S.FOUL (P3.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G0801,3,06:07,DEN,,ATL,,C. Braun,DEN,MISS Braun 1' Driving Dunk,Missed Shot,Driving Dunk Shot,-6,5,1,1,2.0,0.0,h
+S2223-G0801,3,06:07,DEN,,ATL,,C. Braun,DEN,SUB: Brown FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0801,3,02:51,DEN,94.0,ATL,79.0,C. Braun,DEN,Braun 1' Running Dunk (7 PTS) (Brown 4 AST),Made Shot,Running Dunk Shot,4,9,1,1,2.0,2.0,h
+S2223-G0801,3,00:18.200000,DEN,,ATL,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0801,4,09:40,DEN,,ATL,,C. Braun,DEN,Braun REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0801,4,09:22,DEN,,ATL,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,-234,-6,0,1,3.0,0.0,h
+S2223-G0801,4,09:12,DEN,,ATL,,C. Braun,DEN,Braun P.FOUL (P4.T2) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G0801,4,08:38,DEN,,ATL,,C. Braun,DEN,Braun REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0801,4,08:27,DEN,,ATL,,C. Braun,DEN,Braun Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0801,4,08:14,DEN,,ATL,,C. Braun,DEN,Braun REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0801,4,08:12,DEN,,ATL,,C. Braun,DEN,MISS Braun 3' Putback Layup,Missed Shot,Putback Layup Shot,26,20,3,1,2.0,0.0,h
+S2223-G0801,4,08:11,DEN,,ATL,,C. Braun,DEN,Braun REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0801,4,08:11,DEN,,ATL,,C. Braun,DEN,MISS Braun 2' Putback Layup,Missed Shot,Putback Layup Shot,20,6,2,1,2.0,0.0,h
+S2223-G0801,4,07:36,DEN,107.0,ATL,96.0,C. Braun,DEN,Braun 25' 3PT Step Back Jump Shot (10 PTS) (Jokic 9 AST),Made Shot,Step Back Jump shot,-205,147,25,1,3.0,3.0,h
+S2223-G0801,4,06:07,DEN,,ATL,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,233,24,0,1,3.0,0.0,h
+S2223-G0801,4,05:12,DEN,,ATL,,C. Braun,DEN,Braun REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0801,4,02:27,DEN,,ATL,,C. Braun,DEN,Braun STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0801,4,02:08,DEN,,ATL,,C. Braun,DEN,SUB: Cancar FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0437,1,06:17,LAL,,DEN,,C. Braun,DEN,Braun Offensive Charge Foul (P1) (E.Dalen),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0437,1,06:17,LAL,,DEN,,C. Braun,DEN,Braun Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0437,1,04:07,LAL,,DEN,,C. Braun,DEN,MISS Braun 25' 3PT Jump Shot,Missed Shot,Jump Shot,-132,212,25,1,3.0,0.0,v
+S2223-G0437,1,03:30,LAL,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0437,1,02:22,LAL,,DEN,,C. Braun,DEN,Braun S.FOUL (P2.T3) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2223-G0437,1,01:38,LAL,,DEN,,C. Braun,DEN,MISS Braun 25' 3PT Jump Shot,Missed Shot,Jump Shot,192,159,25,1,3.0,0.0,v
+S2223-G0026,1,06:39,GSW,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0026,1,05:55,GSW,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0026,1,05:26,GSW,,DEN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0026,1,03:58,GSW,,DEN,,C. Braun,DEN,MISS Braun 6' Layup,Missed Shot,Layup Shot,61,16,6,1,2.0,0.0,v
+S2223-G0026,1,03:18,GSW,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0026,1,02:57,GSW,,DEN,,C. Braun,DEN,Braun STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0026,1,02:52,GSW,,DEN,,C. Braun,DEN,MISS Braun 4' Layup,Missed Shot,Layup Shot,-37,10,4,1,2.0,0.0,v
+S2223-G0026,2,08:18,GSW,,DEN,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0026,2,00:49.700000,GSW,,DEN,,C. Braun,DEN,Braun S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0026,3,02:36,GSW,81.0,DEN,93.0,C. Braun,DEN,Braun 4' Layup (2 PTS) (Hyland 5 AST),Made Shot,Layup Shot,36,11,4,1,2.0,2.0,v
+S2223-G0026,3,01:23,GSW,,DEN,,C. Braun,DEN,Braun STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0026,3,01:19,GSW,84.0,DEN,96.0,C. Braun,DEN,Braun 7' Layup (4 PTS),Made Shot,Layup Shot,62,26,7,1,2.0,2.0,v
+S2223-G0026,4,09:55,GSW,,DEN,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,230,43,0,1,3.0,0.0,v
+S2223-G0026,4,09:34,GSW,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0026,4,07:40,GSW,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0026,4,06:51,GSW,,DEN,,C. Braun,DEN,Braun Lost Ball Turnover (P1.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0026,4,06:16,GSW,,DEN,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0362,2,11:06,DEN,,DAL,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,-229,31,0,1,3.0,0.0,h
+S2223-G0362,2,10:57,DEN,,DAL,,C. Braun,DEN,Braun S.FOUL (P1.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0362,2,10:23,DEN,,DAL,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0362,2,06:55,DEN,,DAL,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0362,3,06:03,DEN,,DAL,,C. Braun,DEN,MISS Braun 19' Jump Shot,Missed Shot,Jump Shot,-185,-8,19,1,2.0,0.0,h
+S2223-G0362,3,02:45,DEN,,DAL,,C. Braun,DEN,Braun S.FOUL (P2.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0362,3,00:30.900000,DEN,86.0,DAL,89.0,C. Braun,DEN,Braun 4' Driving Layup (2 PTS) (Hyland 5 AST),Made Shot,Driving Layup Shot,-12,35,4,1,2.0,2.0,h
+S2223-G0362,3,00:10.700000,DEN,,DAL,,C. Braun,DEN,Braun S.FOUL (P3.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0362,4,10:07,DEN,,DAL,,C. Braun,DEN,Braun P.FOUL (P4.T1) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2223-G0362,4,08:26,DEN,96.0,DAL,97.0,C. Braun,DEN,Braun 26' 3PT Jump Shot (5 PTS) (Murray 4 AST),Made Shot,Jump Shot,237,95,26,1,3.0,3.0,h
+S2223-G0362,4,07:59,DEN,,DAL,,C. Braun,DEN,SUB: Gordon FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0362,4,00:10.900000,DEN,,DAL,,C. Braun,DEN,Braun Personal Take Foul (P5.PN) (N.Buchert),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0362,4,00:10.900000,DEN,,DAL,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0362,4,00:04.200000,DEN,,DAL,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G1175,1,03:21,DEN,,GSW,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1175,1,03:14,DEN,,GSW,,C. Braun,DEN,MISS Braun 3' Running Layup,Missed Shot,Running Layup Shot,5,32,3,1,2.0,0.0,h
+S2223-G1175,1,02:33,DEN,,GSW,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,-229,4,0,1,3.0,0.0,h
+S2223-G1175,1,01:46,DEN,,GSW,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1175,1,00:59.500000,DEN,,GSW,,C. Braun,DEN,Braun S.FOUL (P1.T3) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G1175,1,00:48.800000,DEN,,GSW,,C. Braun,DEN,MISS Braun 26' 3PT Jump Shot,Missed Shot,Jump Shot,97,236,26,1,3.0,0.0,h
+S2223-G1175,3,03:50,DEN,76.0,GSW,78.0,C. Braun,DEN,Braun 1' Cutting Dunk Shot (2 PTS) (Green 3 AST),Made Shot,Cutting Dunk Shot,1,6,1,1,2.0,2.0,h
+S2223-G1175,3,00:38.400000,DEN,,GSW,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1175,3,00:33.100000,DEN,,GSW,,C. Braun,DEN,MISS Braun 4' Running Layup,Missed Shot,Running Layup Shot,-32,26,4,1,2.0,0.0,h
+S2223-G1175,3,00:30.900000,DEN,,GSW,,C. Braun,DEN,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1175,3,00:30.900000,DEN,,GSW,,C. Braun,DEN,MISS Braun Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G1175,4,10:26,DEN,,GSW,,C. Braun,DEN,Braun REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1175,4,10:22,DEN,95.0,GSW,90.0,C. Braun,DEN,Braun 4' Running Layup (4 PTS),Made Shot,Running Layup Shot,43,11,4,1,2.0,2.0,h
+S2223-G1175,4,09:50,DEN,,GSW,,C. Braun,DEN,Braun REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1175,4,09:32,DEN,,GSW,,C. Braun,DEN,MISS Braun 27' 3PT Jump Shot,Missed Shot,Jump Shot,-174,201,27,1,3.0,0.0,h
+S2223-G1175,4,09:15,DEN,,GSW,,C. Braun,DEN,Braun STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1175,4,09:12,DEN,97.0,GSW,90.0,C. Braun,DEN,Braun 1' Running Dunk (6 PTS),Made Shot,Running Dunk Shot,-1,5,1,1,2.0,2.0,h
+S2223-G1175,4,04:41,DEN,,GSW,,C. Braun,DEN,MISS Braun 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,22,11,2,1,2.0,0.0,h
+S2223-G1175,4,03:58,DEN,,GSW,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G1175,4,00:58.300000,DEN,,GSW,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0676,2,11:35,DEN,,MIN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0676,2,10:02,DEN,,MIN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0676,2,09:43,DEN,,MIN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0676,2,09:41,DEN,,MIN,,C. Braun,DEN,Braun Step Out of Bounds Turnover (P1.T8),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0676,2,08:08,DEN,,MIN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0676,2,08:03,DEN,,MIN,,C. Braun,DEN,MISS Braun 5' Running Layup,Missed Shot,Running Layup Shot,-47,26,5,1,2.0,0.0,h
+S2223-G0676,2,07:17,DEN,,MIN,,C. Braun,DEN,Braun STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0676,2,07:06,DEN,,MIN,,C. Braun,DEN,MISS Braun 26' 3PT Jump Shot,Missed Shot,Jump Shot,148,217,26,1,3.0,0.0,h
+S2223-G0676,2,05:59,DEN,,MIN,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0230,1,02:04,DAL,,DEN,,C. Braun,DEN,Braun S.FOUL (P1.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0230,1,00:33.800000,DAL,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0230,2,11:03,DAL,,DEN,,C. Braun,DEN,MISS Braun 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,28,99,10,1,2.0,0.0,v
+S2223-G0230,2,11:01,DAL,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0230,2,11:00,DAL,,DEN,,C. Braun,DEN,MISS Braun 7' Hook Shot,Missed Shot,Hook Shot,-35,57,7,1,2.0,0.0,v
+S2223-G0230,2,09:47,DAL,,DEN,,C. Braun,DEN,Braun S.FOUL (P2.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0230,2,09:20,DAL,,DEN,,C. Braun,DEN,SUB: Brown FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0230,4,06:21,DAL,,DEN,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,-222,11,0,1,3.0,0.0,v
+S2223-G0230,4,03:52,DAL,,DEN,,C. Braun,DEN,MISS Braun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0230,4,03:52,DAL,,DEN,,C. Braun,DEN,MISS Braun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0230,4,03:39,DAL,,DEN,,C. Braun,DEN,Braun P.FOUL (P3.T3) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2223-G0230,4,03:09,DAL,,DEN,,C. Braun,DEN,MISS Braun 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,63,39,7,1,2.0,0.0,v
+S2223-G0230,4,02:08,DAL,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0230,4,00:58.500000,DAL,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0230,4,00:58,DAL,125.0,DEN,98.0,C. Braun,DEN,Braun 6' Layup (2 PTS),Made Shot,Layup Shot,-47,33,6,1,2.0,2.0,v
+S2223-G0230,4,00:58,DAL,125.0,DEN,99.0,C. Braun,DEN,Braun Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0119,1,01:48,OKC,,DEN,,C. Braun,DEN,Braun S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0119,1,00:38.300000,OKC,,DEN,,C. Braun,DEN,Braun P.FOUL (P2.PN) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2223-G0119,1,00:38.300000,OKC,,DEN,,C. Braun,DEN,SUB: Reed FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0119,3,03:06,OKC,84.0,DEN,88.0,C. Braun,DEN,Braun 3PT Jump Shot (3 PTS) (Brown 4 AST),Made Shot,Jump Shot,-224,6,0,1,3.0,3.0,v
+S2223-G0119,3,01:25,OKC,,DEN,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0549,1,05:33,DEN,,BOS,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0549,2,11:08,DEN,,BOS,,C. Braun,DEN,Braun Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0549,2,10:17,DEN,,BOS,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0549,2,07:36,DEN,49.0,BOS,34.0,C. Braun,DEN,Braun 3' Running Finger Roll Layup (2 PTS) (Gordon 4 AST),Made Shot,Running Finger Roll Layup Shot,27,11,3,1,2.0,2.0,h
+S2223-G0549,2,06:17,DEN,,BOS,,C. Braun,DEN,SUB: Jokic FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0549,2,00:07.200000,DEN,,BOS,,C. Braun,DEN,Braun S.FOUL (P1.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0549,4,06:43,DEN,,BOS,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0861,1,03:11,MIA,,DEN,,C. Braun,DEN,MISS Braun 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,17,24,1,3.0,0.0,v
+S2223-G0861,1,00:33.700000,MIA,,DEN,,C. Braun,DEN,Braun L.B.FOUL (P1.PN) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0861,2,10:11,MIA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0861,2,09:28,MIA,40.0,DEN,34.0,C. Braun,DEN,Braun 3PT Jump Shot (3 PTS) (Smith 3 AST),Made Shot,Jump Shot,232,-5,0,1,3.0,3.0,v
+S2223-G0861,2,08:32,MIA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0861,2,06:25,MIA,,DEN,,C. Braun,DEN,Braun P.FOUL (P2.T1) (R.Acosta),Foul,Personal,0,0,0,0,,,v
+S2223-G0861,2,04:14,MIA,,DEN,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0861,3,03:14,MIA,77.0,DEN,87.0,C. Braun,DEN,Braun 2' Layup (5 PTS),Made Shot,Layup Shot,-21,1,2,1,2.0,2.0,v
+S2223-G0861,3,01:48,MIA,,DEN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0861,3,01:45,MIA,,DEN,,C. Braun,DEN,MISS Braun 1' Running Layup,Missed Shot,Running Layup Shot,-13,3,1,1,2.0,0.0,v
+S2223-G0861,4,07:33,MIA,,DEN,,C. Braun,DEN,Braun P.FOUL (P3.T3) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G0861,4,06:49,MIA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0861,4,06:49,MIA,94.0,DEN,99.0,C. Braun,DEN,Braun Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0861,4,06:09,MIA,96.0,DEN,101.0,C. Braun,DEN,Braun 23' Pullup Jump Shot (9 PTS) (Jokic 7 AST),Made Shot,Pullup Jump shot,22,224,23,1,2.0,2.0,v
+S2223-G0861,4,04:30,MIA,,DEN,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0861,4,00:08.200000,MIA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0861,4,00:07.300000,MIA,106.0,DEN,111.0,C. Braun,DEN,Braun Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0861,4,00:07.300000,MIA,,DEN,,C. Braun,DEN,MISS Braun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0861,4,00:05,MIA,,DEN,,C. Braun,DEN,SUB: Bryant FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0820,1,04:45,DEN,,,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0820,1,04:42,DEN,29.0,,15.0,C. Braun,DEN,Braun 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,23,6,2,1,2.0,2.0,h
+S2223-G0820,1,01:47,DEN,41.0,,15.0,C. Braun,DEN,Braun 1' Running Dunk (4 PTS) (Jokic 6 AST),Made Shot,Running Dunk Shot,0,11,1,1,2.0,2.0,h
+S2223-G0820,2,09:06,DEN,,,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,-230,17,0,1,3.0,0.0,h
+S2223-G0820,2,08:00,DEN,,,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0820,2,00:18.900000,DEN,,,,C. Braun,DEN,SUB: Brown FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0820,3,04:37,DEN,,,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0820,3,03:31,DEN,,,,C. Braun,DEN,Braun STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0820,3,03:08,DEN,,,,C. Braun,DEN,Braun Personal Take Foul (P1.T3) (T.Maddox),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0820,4,11:10,DEN,112.0,,77.0,C. Braun,DEN,Braun 2' Cutting Dunk Shot (6 PTS) (Green 2 AST),Made Shot,Cutting Dunk Shot,-2,15,2,1,2.0,2.0,h
+S2223-G0820,4,10:50,DEN,,,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0820,4,08:02,DEN,,,,C. Braun,DEN,Braun REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0820,4,07:56,DEN,122.0,,85.0,C. Braun,DEN,Braun 4' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,31,19,4,1,2.0,2.0,h
+S2223-G0820,4,07:49,DEN,,,,C. Braun,DEN,Braun Personal Take Foul (P2.T3) (M.Davis),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0820,4,07:49,DEN,,,,C. Braun,DEN,SUB: Watson FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G1227,1,11:22,DEN,2.0,SAC,2.0,C. Braun,DEN,Braun 2' Driving Dunk (2 PTS) (Jordan 1 AST),Made Shot,Driving Dunk Shot,-10,13,2,1,2.0,2.0,h
+S2223-G1227,1,10:25,DEN,,SAC,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,-232,-9,0,1,3.0,0.0,h
+S2223-G1227,1,10:01,DEN,,SAC,,C. Braun,DEN,MISS Braun 6' Layup,Missed Shot,Layup Shot,-58,12,6,1,2.0,0.0,h
+S2223-G1227,1,10:01,DEN,,SAC,,C. Braun,DEN,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1227,1,10:00,DEN,3.0,SAC,8.0,C. Braun,DEN,Braun Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1227,1,10:00,DEN,4.0,SAC,8.0,C. Braun,DEN,Braun Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1227,1,06:26,DEN,,SAC,,C. Braun,DEN,MISS Braun 25' 3PT Step Back Bank Jump Shot,Missed Shot,Step Back Bank Jump Shot,-5,251,25,1,3.0,0.0,h
+S2223-G1227,1,05:56,DEN,12.0,SAC,24.0,C. Braun,DEN,Braun 2' Cutting Layup Shot (6 PTS) (Jordan 2 AST),Made Shot,Cutting Layup Shot,-10,16,2,1,2.0,2.0,h
+S2223-G1227,1,04:15,DEN,,SAC,,C. Braun,DEN,SUB: Jackson FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G1227,2,06:02,DEN,,SAC,,C. Braun,DEN,Braun REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1227,2,03:52,DEN,,SAC,,C. Braun,DEN,MISS Braun 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,59,155,17,1,2.0,0.0,h
+S2223-G1227,2,00:56,DEN,,SAC,,C. Braun,DEN,Braun Traveling Turnover (P1.T7),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1227,3,10:49,DEN,62.0,SAC,67.0,C. Braun,DEN,Braun 3' Running Layup (8 PTS) (Brown 3 AST),Made Shot,Running Layup Shot,4,25,3,1,2.0,2.0,h
+S2223-G1227,3,10:04,DEN,64.0,SAC,67.0,C. Braun,DEN,Braun 2' Running Layup (10 PTS) (Brown 4 AST),Made Shot,Running Layup Shot,13,19,2,1,2.0,2.0,h
+S2223-G1227,3,09:39,DEN,,SAC,,C. Braun,DEN,Braun Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1227,3,08:54,DEN,,SAC,,C. Braun,DEN,MISS Braun 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,10,22,2,1,2.0,0.0,h
+S2223-G1227,3,03:17,DEN,,SAC,,C. Braun,DEN,Braun S.FOUL (P1.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G1227,3,03:17,DEN,,SAC,,C. Braun,DEN,SUB: Nnaji FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0011,3,00:11.300000,UTA,,DEN,,C. Braun,DEN,Braun S.FOUL (P1.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0011,3,00:11.300000,UTA,,DEN,,C. Braun,DEN,SUB: Hyland FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0154,2,09:33,SAS,,DEN,,C. Braun,DEN,Braun Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0154,2,07:43,SAS,,DEN,,C. Braun,DEN,SUB: Jokic FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0768,2,09:29,DEN,,NOP,,C. Braun,DEN,Braun Offensive Charge Foul (P1) (J.Tiven),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0768,2,09:29,DEN,,NOP,,C. Braun,DEN,Braun Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0768,2,09:19,DEN,,NOP,,C. Braun,DEN,Braun S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G0768,2,08:23,DEN,,NOP,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0768,2,06:36,DEN,,NOP,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0768,2,05:59,DEN,,NOP,,C. Braun,DEN,MISS Braun 3' Running Layup,Missed Shot,Running Layup Shot,28,10,3,1,2.0,0.0,h
+S2223-G0768,2,05:57,DEN,,NOP,,C. Braun,DEN,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0768,2,05:09,DEN,,NOP,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0768,3,03:08,DEN,,NOP,,C. Braun,DEN,Braun REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0768,3,03:01,DEN,85.0,NOP,77.0,C. Braun,DEN,Braun 2' Driving Finger Roll Layup (2 PTS) (Jokic 12 AST),Made Shot,Driving Finger Roll Layup Shot,20,12,2,1,2.0,2.0,h
+S2223-G0768,3,00:39,DEN,,NOP,,C. Braun,DEN,Braun REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0768,3,00:11.200000,DEN,,NOP,,C. Braun,DEN,Braun P.FOUL (P3.PN) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2223-G0768,4,11:36,DEN,95.0,NOP,84.0,C. Braun,DEN,Braun 1' Running Dunk (4 PTS) (Brown 2 AST),Made Shot,Running Dunk Shot,-4,12,1,1,2.0,2.0,h
+S2223-G0768,4,07:12,DEN,,NOP,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0907,1,01:46,MEM,,DEN,,C. Braun,DEN,Braun Offensive Goaltending Turnover (P1.T5),Turnover,Offensive Goaltending,0,0,0,0,,,v
+S2223-G0907,1,01:04,MEM,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0907,2,08:47,MEM,,DEN,,C. Braun,DEN,MISS Braun 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,16,16,2,1,2.0,0.0,v
+S2223-G0907,2,08:21,MEM,,DEN,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0907,3,00:42,MEM,94.0,DEN,62.0,C. Braun,DEN,Braun 1' Driving Floating Jump Shot (2 PTS) (Jackson 2 AST),Made Shot,Driving Floating Jump Shot,-7,8,1,1,2.0,2.0,v
+S2223-G0907,4,10:42,MEM,94.0,DEN,65.0,C. Braun,DEN,Braun 24' 3PT Jump Shot (5 PTS) (Brown 2 AST),Made Shot,Jump Shot,-89,225,24,1,3.0,3.0,v
+S2223-G0907,4,09:16,MEM,,DEN,,C. Braun,DEN,MISS Braun 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,11,3,1,1,2.0,0.0,v
+S2223-G0907,4,08:23,MEM,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0907,4,08:15,MEM,,DEN,,C. Braun,DEN,MISS Braun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0907,4,08:15,MEM,100.0,DEN,69.0,C. Braun,DEN,Braun Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0907,4,05:28,MEM,105.0,DEN,78.0,C. Braun,DEN,Braun 26' 3PT Jump Shot (9 PTS) (Jackson 3 AST),Made Shot,Jump Shot,86,242,26,1,3.0,3.0,v
+S2223-G0907,4,04:30,MEM,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0907,4,03:39,MEM,110.0,DEN,85.0,C. Braun,DEN,Braun 1' Driving Layup (11 PTS) (White 1 AST),Made Shot,Driving Layup Shot,-7,8,1,1,2.0,2.0,v
+S2223-G0907,4,02:50,MEM,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1029,1,01:44,TOR,,DEN,,C. Braun,DEN,Braun BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1029,2,08:16,TOR,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1029,2,07:56,TOR,55.0,DEN,38.0,C. Braun,DEN,Braun 7' Driving Bank Hook Shot (2 PTS),Made Shot,Driving Bank Hook Shot,53,53,7,1,2.0,2.0,v
+S2223-G1029,2,07:23,TOR,,DEN,,C. Braun,DEN,Braun S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G1029,2,07:23,TOR,,DEN,,C. Braun,DEN,SUB: Gordon FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1029,4,06:51,TOR,,DEN,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1029,4,00:48.800000,TOR,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1029,4,00:42,TOR,125.0,DEN,110.0,C. Braun,DEN,Braun 7' Driving Bank Hook Shot (4 PTS),Made Shot,Driving Bank Hook Shot,42,55,7,1,2.0,2.0,v
+S2223-G1029,4,00:13.400000,TOR,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1183,1,03:34,HOU,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1183,1,01:25,HOU,,DEN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1183,1,01:22,HOU,25.0,DEN,28.0,C. Braun,DEN,Braun 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,6,9,1,1,2.0,2.0,v
+S2223-G1183,1,00:10.700000,HOU,,DEN,,C. Braun,DEN,MISS Braun 25' 3PT Jump Shot,Missed Shot,Jump Shot,190,169,25,1,3.0,0.0,v
+S2223-G1183,2,11:30,HOU,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1183,2,09:21,HOU,,DEN,,C. Braun,DEN,Braun STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1183,2,07:43,HOU,,DEN,,C. Braun,DEN,Braun S.FOUL (P1.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2223-G1183,2,07:19,HOU,36.0,DEN,45.0,C. Braun,DEN,Braun 3' Layup (4 PTS) (Watson 1 AST),Made Shot,Layup Shot,6,30,3,1,2.0,2.0,v
+S2223-G1183,2,07:02,HOU,,DEN,,C. Braun,DEN,Braun S.FOUL (P2.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2223-G1183,2,07:02,HOU,,DEN,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1183,3,01:35,HOU,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1183,3,01:32,HOU,,DEN,,C. Braun,DEN,MISS Braun 3' Putback Layup,Missed Shot,Putback Layup Shot,-20,26,3,1,2.0,0.0,v
+S2223-G1183,3,00:36.200000,HOU,,DEN,,C. Braun,DEN,MISS Braun 4' Running Layup,Missed Shot,Running Layup Shot,34,25,4,1,2.0,0.0,v
+S2223-G1183,3,00:35.700000,HOU,,DEN,,C. Braun,DEN,Braun Traveling Turnover (P1.T12),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1183,4,09:54,HOU,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1183,4,09:44,HOU,,DEN,,C. Braun,DEN,Braun Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1183,4,09:28,HOU,,DEN,,C. Braun,DEN,MISS Braun 4' Running Layup,Missed Shot,Running Layup Shot,-23,28,4,1,2.0,0.0,v
+S2223-G1183,4,08:19,HOU,,DEN,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0268,1,04:53,OKC,12.0,DEN,27.0,C. Braun,DEN,Braun Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0268,1,04:53,OKC,12.0,DEN,28.0,C. Braun,DEN,Braun Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0268,1,03:01,OKC,,DEN,,C. Braun,DEN,MISS Braun 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,2,52,5,1,2.0,0.0,v
+S2223-G0268,1,02:21,OKC,,DEN,,C. Braun,DEN,Braun S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0268,1,01:55,OKC,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0268,1,00:55.700000,OKC,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0268,2,10:53,OKC,,DEN,,C. Braun,DEN,Braun Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0268,2,09:59,OKC,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0268,2,09:28,OKC,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0268,2,08:56,OKC,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0268,2,07:58,OKC,,DEN,,C. Braun,DEN,MISS Braun 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-13,29,3,1,2.0,0.0,v
+S2223-G0268,2,07:31,OKC,,DEN,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0268,3,00:27.200000,OKC,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0268,3,00:03.400000,OKC,,DEN,,C. Braun,DEN,MISS Braun 26' 3PT Jump Shot,Missed Shot,Jump Shot,174,199,26,1,3.0,0.0,v
+S2223-G0881,1,05:33,DEN,,DAL,,C. Braun,DEN,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0881,1,03:41,DEN,,DAL,,C. Braun,DEN,MISS Braun 26' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-218,139,26,1,3.0,0.0,h
+S2223-G0881,1,03:22,DEN,23.0,DAL,17.0,C. Braun,DEN,Braun 3PT Jump Shot (3 PTS) (Jokic 2 AST),Made Shot,Jump Shot,-233,15,0,1,3.0,3.0,h
+S2223-G0881,1,03:04,DEN,,DAL,,C. Braun,DEN,Braun P.FOUL (P1.PN) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2223-G0881,1,00:49.900000,DEN,,DAL,,C. Braun,DEN,NUGGETS T.Foul (Def. 3 Sec Braun ) (B.Kennedy),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G0881,1,00:26.100000,DEN,,DAL,,C. Braun,DEN,Braun Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0881,2,06:48,DEN,,DAL,,C. Braun,DEN,MISS Braun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0881,2,06:48,DEN,42.0,DAL,31.0,C. Braun,DEN,Braun Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0881,2,05:59,DEN,,DAL,,C. Braun,DEN,Braun S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0881,2,04:31,DEN,,DAL,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0881,3,10:56,DEN,,DAL,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0881,3,03:17,DEN,,DAL,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0881,3,01:53,DEN,85.0,DAL,66.0,C. Braun,DEN,Braun 3' Running Finger Roll Layup (6 PTS),Made Shot,Running Finger Roll Layup Shot,-28,8,3,1,2.0,2.0,h
+S2223-G0881,4,07:41,DEN,,DAL,,C. Braun,DEN,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0881,4,04:42,DEN,,DAL,,C. Braun,DEN,SUB: Cancar FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0497,1,04:05,DEN,26.0,PHX,11.0,C. Braun,DEN,Braun 3PT Step Back Jump Shot (3 PTS) (Jokic 2 AST),Made Shot,Step Back Jump shot,-223,22,0,1,3.0,3.0,h
+S2223-G0497,3,01:10,DEN,,PHX,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0497,4,09:38,DEN,,PHX,,C. Braun,DEN,Braun S.FOUL (P1.T4) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2223-G0497,4,09:20,DEN,,PHX,,C. Braun,DEN,SUB: Gordon FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0376,2,11:14,POR,,DEN,,C. Braun,DEN,Braun Traveling Turnover (P1.T7),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0376,2,10:29,POR,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0376,2,10:19,POR,41.0,DEN,34.0,C. Braun,DEN,Braun 3' Driving Reverse Layup (2 PTS) (Hyland 1 AST),Made Shot,Driving Reverse Layup Shot,26,0,3,1,2.0,2.0,v
+S2223-G0376,2,09:34,POR,,DEN,,C. Braun,DEN,Braun BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0376,2,06:06,POR,,DEN,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0376,3,04:35,POR,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0376,3,01:03,POR,,DEN,,C. Braun,DEN,Braun P.FOUL (P1.T3) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0376,4,11:22,POR,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0376,4,11:22,POR,,DEN,,C. Braun,DEN,MISS Braun Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,v
+S2223-G0376,4,10:50,POR,99.0,DEN,91.0,C. Braun,DEN,Braun 2' Layup (4 PTS),Made Shot,Layup Shot,-15,-10,2,1,2.0,2.0,v
+S2223-G0376,4,10:23,POR,,DEN,,C. Braun,DEN,Braun REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0376,4,09:26,POR,,DEN,,C. Braun,DEN,Braun L.B.FOUL (P2.T2) (P.Ransom),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0376,4,05:51,POR,,DEN,,C. Braun,DEN,Braun REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0376,4,05:50,POR,106.0,DEN,107.0,C. Braun,DEN,Braun 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,-9,8,1,1,2.0,2.0,v
+S2223-G0376,4,04:03,POR,,DEN,,C. Braun,DEN,SUB: Brown FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1160,1,11:05,PHX,,DEN,,C. Braun,DEN,Nuggets T.Foul (Def. 3 Sec Braun ) (C.Kirkland),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G1160,1,08:09,PHX,,DEN,,C. Braun,DEN,MISS Braun 29' 3PT Jump Shot,Missed Shot,Jump Shot,116,271,29,1,3.0,0.0,v
+S2223-G1160,1,04:29,PHX,,DEN,,C. Braun,DEN,MISS Braun 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22,69,7,1,2.0,0.0,v
+S2223-G1160,1,03:21,PHX,,DEN,,C. Braun,DEN,SUB: Watson FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1160,2,06:30,PHX,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1160,2,02:13,PHX,,DEN,,C. Braun,DEN,Braun P.FOUL (P1.PN) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G1160,2,00:43.900000,PHX,,DEN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1160,3,10:00,PHX,65.0,DEN,44.0,C. Braun,DEN,Braun 4' Cutting Layup Shot (2 PTS) (Gordon 5 AST),Made Shot,Cutting Layup Shot,33,28,4,1,2.0,2.0,v
+S2223-G1160,3,10:00,PHX,65.0,DEN,45.0,C. Braun,DEN,Braun Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1160,3,09:37,PHX,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1160,3,06:50,PHX,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1160,3,05:48,PHX,,DEN,,C. Braun,DEN,MISS Braun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1160,3,05:48,PHX,72.0,DEN,52.0,C. Braun,DEN,Braun Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1160,3,04:26,PHX,75.0,DEN,57.0,C. Braun,DEN,Braun 7' Running Layup (6 PTS) (Jackson 2 AST),Made Shot,Running Layup Shot,59,39,7,1,2.0,2.0,v
+S2223-G1160,3,04:05,PHX,,DEN,,C. Braun,DEN,SUB: Nnaji FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1160,4,10:22,PHX,86.0,DEN,79.0,C. Braun,DEN,Braun 26' 3PT Jump Shot (9 PTS) (Smith 2 AST),Made Shot,Jump Shot,-120,228,26,1,3.0,3.0,v
+S2223-G1160,4,10:06,PHX,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1160,4,09:39,PHX,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1160,4,08:55,PHX,,DEN,,C. Braun,DEN,Braun S.FOUL (P2.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2223-G1160,4,07:33,PHX,92.0,DEN,85.0,C. Braun,DEN,Braun 9' Driving Layup (11 PTS) (Smith 4 AST),Made Shot,Driving Layup Shot,-22,83,9,1,2.0,2.0,v
+S2223-G1160,4,06:48,PHX,,DEN,,C. Braun,DEN,SUB: Jackson FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0989,4,02:46,DEN,,CHI,,C. Braun,DEN,MISS Braun 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,25,44,5,1,2.0,0.0,h
+S2223-G0064,1,06:29,DEN,,LAL,,C. Braun,DEN,MISS Braun 5' Driving Layup,Missed Shot,Driving Layup Shot,4,46,5,1,2.0,0.0,h
+S2223-G0064,1,05:41,DEN,15.0,LAL,13.0,C. Braun,DEN,Braun 22' Jump Shot (2 PTS) (Jokic 4 AST),Made Shot,Jump Shot,-203,80,22,1,2.0,2.0,h
+S2223-G0064,1,03:36,DEN,19.0,LAL,16.0,C. Braun,DEN,Braun 3' Running Layup (4 PTS) (Murray 1 AST),Made Shot,Running Layup Shot,4,25,3,1,2.0,2.0,h
+S2223-G0064,1,03:22,DEN,,LAL,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0064,1,03:20,DEN,,LAL,,C. Braun,DEN,Braun Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0064,1,02:08,DEN,,LAL,,C. Braun,DEN,MISS Braun 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,57,24,1,3.0,0.0,h
+S2223-G0064,1,00:04.200000,DEN,,LAL,,C. Braun,DEN,Braun Personal Take Foul (P1.T2) (M.Ervin),Foul,Personal Take,0,0,0,0,,,h
+S2223-G0064,2,06:33,DEN,,LAL,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0064,2,04:39,DEN,,LAL,,C. Braun,DEN,SUB: Brown FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0064,3,02:09,DEN,,LAL,,C. Braun,DEN,Braun REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0064,3,01:21,DEN,,LAL,,C. Braun,DEN,Braun REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0064,3,00:39.100000,DEN,85.0,LAL,69.0,C. Braun,DEN,Braun 2' Driving Layup (6 PTS) (Green 2 AST),Made Shot,Driving Layup Shot,23,8,2,1,2.0,2.0,h
+S2223-G0064,4,07:26,DEN,,LAL,,C. Braun,DEN,Braun REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0064,4,07:26,DEN,93.0,LAL,84.0,C. Braun,DEN,Braun Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0064,4,07:26,DEN,,LAL,,C. Braun,DEN,MISS Braun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0064,4,07:11,DEN,95.0,LAL,84.0,C. Braun,DEN,Braun 3' Running Layup (9 PTS) (Green 3 AST),Made Shot,Running Layup Shot,28,6,3,1,2.0,2.0,h
+S2223-G0064,4,07:11,DEN,,LAL,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0176,1,02:05,BOS,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0176,1,01:20,BOS,31.0,DEN,23.0,C. Braun,DEN,Braun 10' Driving Floating Jump Shot (2 PTS) (Brown 1 AST),Made Shot,Driving Floating Jump Shot,-25,98,10,1,2.0,2.0,v
+S2223-G0176,1,00:29.500000,BOS,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0176,2,09:19,BOS,,DEN,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0176,4,10:27,BOS,,DEN,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0926,4,02:16,HOU,108.0,DEN,127.0,C. Braun,DEN,Braun Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0926,4,02:16,HOU,108.0,DEN,128.0,C. Braun,DEN,Braun Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0926,4,00:54.300000,HOU,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0926,4,00:51.100000,HOU,110.0,DEN,133.0,C. Braun,DEN,Braun 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,26,-1,3,1,2.0,2.0,v
+S2223-G0422,1,06:50,DEN,,WAS,,C. Braun,DEN,Braun S.FOUL (P1.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0422,1,02:51,DEN,,WAS,,C. Braun,DEN,MISS Braun 2' Running Layup,Missed Shot,Running Layup Shot,-23,8,2,1,2.0,0.0,h
+S2223-G0422,1,01:23,DEN,,WAS,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0422,1,01:18,DEN,33.0,WAS,26.0,C. Braun,DEN,Braun 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,-23,6,2,1,2.0,2.0,h
+S2223-G0422,2,07:11,DEN,,WAS,,C. Braun,DEN,SUB: Jokic FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0422,3,02:38,DEN,,WAS,,C. Braun,DEN,MISS Braun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0422,3,02:38,DEN,97.0,WAS,88.0,C. Braun,DEN,Braun Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0422,3,02:03,DEN,99.0,WAS,88.0,C. Braun,DEN,Braun 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,-23,12,3,1,2.0,2.0,h
+S2223-G0422,3,00:53.500000,DEN,,WAS,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,234,10,0,1,3.0,0.0,h
+S2223-G0422,4,10:32,DEN,,WAS,,C. Braun,DEN,MISS Braun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0422,4,10:32,DEN,109.0,WAS,97.0,C. Braun,DEN,Braun Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0422,4,09:04,DEN,113.0,WAS,105.0,C. Braun,DEN,Braun 1' Driving Dunk (8 PTS) (Green 1 AST),Made Shot,Driving Dunk Shot,4,12,1,1,2.0,2.0,h
+S2223-G0422,4,08:25,DEN,,WAS,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0422,4,00:40.200000,DEN,,WAS,,C. Braun,DEN,MISS Braun 3' Driving Layup,Missed Shot,Driving Layup Shot,25,13,3,1,2.0,0.0,h
+S2223-G0320,4,02:06,DEN,,HOU,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0320,4,01:12,DEN,,HOU,,C. Braun,DEN,MISS Braun 4' Driving Layup,Missed Shot,Driving Layup Shot,31,26,4,1,2.0,0.0,h
+S2223-G1213,1,03:37,UTA,,DEN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1213,1,03:34,UTA,,DEN,,C. Braun,DEN,MISS Braun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1213,1,03:34,UTA,26.0,DEN,11.0,C. Braun,DEN,Braun Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1213,1,01:36,UTA,,DEN,,C. Braun,DEN,Braun STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1213,1,01:30,UTA,,DEN,,C. Braun,DEN,MISS Braun 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,70,38,8,1,2.0,0.0,v
+S2223-G1213,2,10:26,UTA,,DEN,,C. Braun,DEN,MISS Braun 30' 3PT Jump Shot,Missed Shot,Jump Shot,199,218,30,1,3.0,0.0,v
+S2223-G1213,2,09:29,UTA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1213,2,07:40,UTA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1213,2,06:42,UTA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1213,2,05:52,UTA,,DEN,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,-228,6,0,1,3.0,0.0,v
+S2223-G1213,2,05:37,UTA,,DEN,,C. Braun,DEN,Braun S.FOUL (P1.T2) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1213,2,05:37,UTA,,DEN,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1213,3,03:05,UTA,85.0,DEN,87.0,C. Braun,DEN,Braun 6' Driving Layup (3 PTS) (Jokic 10 AST),Made Shot,Driving Layup Shot,-48,42,6,1,2.0,2.0,v
+S2223-G1213,3,02:24,UTA,87.0,DEN,89.0,C. Braun,DEN,Braun 4' Layup (5 PTS) (Watson 1 AST),Made Shot,Layup Shot,-26,25,4,1,2.0,2.0,v
+S2223-G1213,3,02:08,UTA,,DEN,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1213,4,11:09,UTA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1213,4,10:41,UTA,91.0,DEN,97.0,C. Braun,DEN,Braun 3' Running Layup (7 PTS) (Jackson 3 AST),Made Shot,Running Layup Shot,17,21,3,1,2.0,2.0,v
+S2223-G1213,4,10:41,UTA,91.0,DEN,98.0,C. Braun,DEN,Braun Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1213,4,10:19,UTA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1213,4,09:23,UTA,91.0,DEN,100.0,C. Braun,DEN,Braun 4' Layup (10 PTS) (Cancar 1 AST),Made Shot,Layup Shot,-29,23,4,1,2.0,2.0,v
+S2223-G1213,4,05:02,UTA,,DEN,,C. Braun,DEN,Braun BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1213,4,04:09,UTA,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1213,4,03:43,UTA,,DEN,,C. Braun,DEN,Braun P.FOUL (P2.T2) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2223-G1213,4,00:34.400000,UTA,116.0,DEN,112.0,C. Braun,DEN,Braun 3' Dunk (12 PTS) (Watson 4 AST),Made Shot,Dunk Shot,1,29,3,1,2.0,2.0,v
+S2223-G1213,4,00:18.100000,UTA,,DEN,,C. Braun,DEN,Braun STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G1213,4,00:15.800000,UTA,116.0,DEN,113.0,C. Braun,DEN,Braun Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1213,4,00:15.800000,UTA,116.0,DEN,114.0,C. Braun,DEN,Braun Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0624,4,08:10,DEN,,PHX,,C. Braun,DEN,MISS Braun 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-27,42,5,1,2.0,0.0,h
+S2223-G0624,4,03:50,DEN,,PHX,,C. Braun,DEN,MISS Braun 27' 3PT Jump Shot,Missed Shot,Jump Shot,-147,222,27,1,3.0,0.0,h
+S2223-G0624,4,02:10,DEN,,PHX,,C. Braun,DEN,Braun Offensive Charge Foul (P1) (D.Guthrie),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0624,4,02:10,DEN,,PHX,,C. Braun,DEN,Braun Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0624,4,00:40.600000,DEN,,PHX,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0624,4,00:28.100000,DEN,125.0,PHX,94.0,C. Braun,DEN,Braun Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0624,4,00:28.100000,DEN,126.0,PHX,94.0,C. Braun,DEN,Braun Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0219,1,00:04.900000,DEN,27.0,NYK,30.0,C. Braun,DEN,Braun 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,33,11,3,1,2.0,2.0,h
+S2223-G0219,2,11:02,DEN,,NYK,,C. Braun,DEN,Braun BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0219,2,09:18,DEN,,NYK,,C. Braun,DEN,MISS Braun 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,15,59,6,1,2.0,0.0,h
+S2223-G0219,2,08:57,DEN,,NYK,,C. Braun,DEN,SUB: Brown FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0219,4,11:03,DEN,,NYK,,C. Braun,DEN,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0219,4,08:05,DEN,,NYK,,C. Braun,DEN,Braun L.B.FOUL (P1.T2) (E.Lewis),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0219,4,06:39,DEN,,NYK,,C. Braun,DEN,SUB: Green FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0258,2,10:41,DEN,,DET,,C. Braun,DEN,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0258,2,08:34,DEN,,DET,,C. Braun,DEN,SUB: Jokic FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0393,1,02:05,DEN,,UTA,,C. Braun,DEN,MISS Braun 5' Driving Layup,Missed Shot,Driving Layup Shot,-2,51,5,1,2.0,0.0,h
+S2223-G0393,2,04:48,DEN,,UTA,,C. Braun,DEN,Braun Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0393,2,04:35,DEN,44.0,UTA,41.0,C. Braun,DEN,Braun 2' Running Layup (2 PTS) (Caldwell-Pope 2 AST),Made Shot,Running Layup Shot,11,15,2,1,2.0,2.0,h
+S2223-G0393,2,01:59,DEN,,UTA,,C. Braun,DEN,SUB: Brown FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0393,3,04:03,DEN,,UTA,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0393,3,01:11,DEN,89.0,UTA,85.0,C. Braun,DEN,Braun 3' Running Layup (4 PTS) (Jokic 13 AST),Made Shot,Running Layup Shot,22,12,3,1,2.0,2.0,h
+S2223-G0393,3,01:11,DEN,90.0,UTA,85.0,C. Braun,DEN,Braun Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0393,4,08:31,DEN,,UTA,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0393,4,05:33,DEN,,UTA,,C. Braun,DEN,SUB: Brown FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G1042,1,00:50,DET,,DEN,,C. Braun,DEN,MISS Braun 19' Jump Shot,Missed Shot,Jump Shot,-191,14,19,1,2.0,0.0,v
+S2223-G1042,1,00:27.500000,DET,,DEN,,C. Braun,DEN,Braun BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1042,2,07:07,DET,41.0,DEN,42.0,C. Braun,DEN,Braun 3' Driving Dunk (2 PTS) (Murray 2 AST),Made Shot,Driving Dunk Shot,-1,27,3,1,2.0,2.0,v
+S2223-G1042,2,06:50,DET,,DEN,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1042,3,04:10,DET,,DEN,,C. Braun,DEN,MISS Braun 27' 3PT Jump Shot,Missed Shot,Jump Shot,92,251,27,1,3.0,0.0,v
+S2223-G1042,3,01:54,DET,82.0,DEN,80.0,C. Braun,DEN,Braun Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1042,3,01:54,DET,82.0,DEN,81.0,C. Braun,DEN,Braun Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1042,3,01:44,DET,,DEN,,C. Braun,DEN,Braun P.FOUL (P1.T4) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2223-G1042,3,00:35.200000,DET,,DEN,,C. Braun,DEN,Braun L.B.FOUL (P2.PN) (S.Wright),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1042,3,00:00.500000,DET,,DEN,,C. Braun,DEN,Braun S.FOUL (P3.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2223-G1042,4,09:45,DET,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1042,4,09:37,DET,91.0,DEN,91.0,C. Braun,DEN,Braun 5' Driving Floating Jump Shot (6 PTS) (Murray 6 AST),Made Shot,Driving Floating Jump Shot,27,41,5,1,2.0,2.0,v
+S2223-G1042,4,08:40,DET,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1042,4,08:33,DET,91.0,DEN,96.0,C. Braun,DEN,Braun 24' 3PT Jump Shot (9 PTS) (Murray 7 AST),Made Shot,Jump Shot,-238,23,24,1,3.0,3.0,v
+S2223-G1042,4,08:18,DET,,DEN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1042,4,08:12,DET,,DEN,,C. Braun,DEN,MISS Braun 3' Running Layup,Missed Shot,Running Layup Shot,2,25,3,1,2.0,0.0,v
+S2223-G1042,4,07:55,DET,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1042,4,06:06,DET,,DEN,,C. Braun,DEN,Braun STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1042,4,05:54,DET,,DEN,,C. Braun,DEN,SUB: Gordon FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0653,3,05:00,DEN,,ORL,,C. Braun,DEN,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0653,3,05:00,DEN,,ORL,,C. Braun,DEN,MISS Braun Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0653,3,04:01,DEN,,ORL,,C. Braun,DEN,Braun REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0653,3,03:56,DEN,87.0,ORL,76.0,C. Braun,DEN,Braun 1' Cutting Dunk Shot (2 PTS) (Jokic 11 AST),Made Shot,Cutting Dunk Shot,9,8,1,1,2.0,2.0,h
+S2223-G0653,3,03:40,DEN,,ORL,,C. Braun,DEN,Braun REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0653,3,02:26,DEN,,ORL,,C. Braun,DEN,MISS Braun 2' Running Dunk,Missed Shot,Running Dunk Shot,-7,15,2,1,2.0,0.0,h
+S2223-G0653,3,01:46,DEN,,ORL,,C. Braun,DEN,MISS Braun 27' 3PT Jump Shot,Missed Shot,Jump Shot,-109,247,27,1,3.0,0.0,h
+S2223-G0653,4,10:51,DEN,98.0,ORL,92.0,C. Braun,DEN,Braun 15' Driving Floating Jump Shot (4 PTS) (Nnaji 1 AST),Made Shot,Driving Floating Jump Shot,147,27,15,1,2.0,2.0,h
+S2223-G0653,4,09:42,DEN,,ORL,,C. Braun,DEN,Braun REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0653,4,07:47,DEN,,ORL,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0716,1,00:40.700000,NOP,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0716,2,10:49,NOP,,DEN,,C. Braun,DEN,Braun P.FOUL (P1.T2) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G0716,2,06:47,NOP,28.0,DEN,44.0,C. Braun,DEN,Braun 2' Cutting Layup Shot (2 PTS) (Murray 4 AST),Made Shot,Cutting Layup Shot,-15,8,2,1,2.0,2.0,v
+S2223-G0716,2,06:05,NOP,,DEN,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0716,3,04:40,NOP,63.0,DEN,78.0,C. Braun,DEN,Braun 1' Running Layup (4 PTS) (Jokic 8 AST),Made Shot,Running Layup Shot,13,7,1,1,2.0,2.0,v
+S2223-G0716,3,04:40,NOP,63.0,DEN,79.0,C. Braun,DEN,Braun Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0716,3,03:49,NOP,,DEN,,C. Braun,DEN,MISS Braun 27' 3PT Jump Shot,Missed Shot,Jump Shot,-167,214,27,1,3.0,0.0,v
+S2223-G0716,3,01:06,NOP,,DEN,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,-228,5,0,1,3.0,0.0,v
+S2223-G0716,3,00:00.200000,NOP,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0716,3,00:00,NOP,74.0,DEN,83.0,C. Braun,DEN,Braun 3' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,-5,32,3,1,2.0,2.0,v
+S2223-G0716,4,08:51,NOP,,DEN,,C. Braun,DEN,SUB: Gordon FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1014,4,11:27,DEN,,BKN,,C. Braun,DEN,MISS Braun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1014,4,11:27,DEN,88.0,BKN,98.0,C. Braun,DEN,Braun Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1014,4,09:40,DEN,,BKN,,C. Braun,DEN,Braun Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1014,4,07:52,DEN,97.0,BKN,109.0,C. Braun,DEN,Braun 26' 3PT Jump Shot (4 PTS) (Jokic 9 AST),Made Shot,Jump Shot,145,221,26,1,3.0,3.0,h
+S2223-G1014,4,07:22,DEN,,BKN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1014,4,05:10,DEN,107.0,BKN,116.0,C. Braun,DEN,Braun 2' Running Layup (6 PTS) (Jokic 10 AST),Made Shot,Running Layup Shot,-5,15,2,1,2.0,2.0,h
+S2223-G1014,4,05:10,DEN,108.0,BKN,116.0,C. Braun,DEN,Braun Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1014,4,04:49,DEN,,BKN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1014,4,03:18,DEN,,BKN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1014,4,00:43,DEN,,BKN,,C. Braun,DEN,Braun BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1014,4,00:23.200000,DEN,,BKN,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G1014,4,00:01.800000,DEN,,BKN,,C. Braun,DEN,SUB: Jokic FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G1002,1,00:55.400000,SAS,,DEN,,C. Braun,DEN,Braun P.FOUL (P1.T4) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2223-G1002,2,11:42,SAS,26.0,DEN,41.0,C. Braun,DEN,Braun 24' 3PT Jump Shot (3 PTS) (Jackson 2 AST),Made Shot,Jump Shot,237,15,24,1,3.0,3.0,v
+S2223-G1002,2,10:41,SAS,,DEN,,C. Braun,DEN,MISS Braun 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-20,0,2,1,2.0,0.0,v
+S2223-G1002,2,09:32,SAS,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1002,2,07:43,SAS,,DEN,,C. Braun,DEN,SUB: Jokic FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1147,1,01:06,DEN,,NOP,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1147,1,00:57.300000,DEN,,NOP,,C. Braun,DEN,MISS Braun 25' 3PT Jump Shot,Missed Shot,Jump Shot,-114,227,25,1,3.0,0.0,h
+S2223-G1147,2,11:07,DEN,19.0,NOP,23.0,C. Braun,DEN,Braun 5' Driving Floating Jump Shot (2 PTS) (Brown 1 AST),Made Shot,Driving Floating Jump Shot,-49,11,5,1,2.0,2.0,h
+S2223-G1147,2,06:44,DEN,,NOP,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G1147,3,04:01,DEN,,NOP,,C. Braun,DEN,MISS Braun 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,230,49,24,1,3.0,0.0,h
+S2223-G1147,3,03:35,DEN,59.0,NOP,75.0,C. Braun,DEN,Braun 2' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,2,18,2,1,2.0,2.0,h
+S2223-G1147,3,03:20,DEN,,NOP,,C. Braun,DEN,MISS Braun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1147,3,03:20,DEN,,NOP,,C. Braun,DEN,MISS Braun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1147,4,11:09,DEN,71.0,NOP,85.0,C. Braun,DEN,Braun Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1147,4,11:09,DEN,,NOP,,C. Braun,DEN,MISS Braun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1147,4,10:02,DEN,73.0,NOP,85.0,C. Braun,DEN,Braun 4' Cutting Layup Shot (7 PTS) (Brown 4 AST),Made Shot,Cutting Layup Shot,-38,8,4,1,2.0,2.0,h
+S2223-G1147,4,08:39,DEN,77.0,NOP,88.0,C. Braun,DEN,Braun 3' Running Dunk (9 PTS) (Murray 5 AST),Made Shot,Running Dunk Shot,7,26,3,1,2.0,2.0,h
+S2223-G1147,4,08:34,DEN,79.0,NOP,88.0,C. Braun,DEN,Braun 2' Running Dunk (11 PTS) (Murray 6 AST),Made Shot,Running Dunk Shot,-1,20,2,1,2.0,2.0,h
+S2223-G1147,4,07:31,DEN,,NOP,,C. Braun,DEN,Braun P.FOUL (P1.T3) (L.Wood),Foul,Personal,0,0,0,0,,,h
+S2223-G1147,4,07:00,DEN,,NOP,,C. Braun,DEN,MISS Braun 4' Layup,Missed Shot,Layup Shot,-39,11,4,1,2.0,0.0,h
+S2223-G1147,4,06:00,DEN,,NOP,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G1147,4,03:08,DEN,,NOP,,C. Braun,DEN,Braun P.FOUL (P2.PN) (L.Wood),Foul,Personal,0,0,0,0,,,h
+S2223-G1147,4,01:25,DEN,,NOP,,C. Braun,DEN,MISS Braun 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,37,212,22,1,2.0,0.0,h
+S2223-G0886,1,01:04,CLE,,DEN,,C. Braun,DEN,Braun Backcourt Turnover (P1.T4),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2223-G0886,2,09:16,CLE,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0886,2,07:37,CLE,,DEN,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0886,2,07:37,CLE,34.0,DEN,39.0,C. Braun,DEN,Braun Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0886,2,07:37,CLE,,DEN,,C. Braun,DEN,MISS Braun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0886,2,06:53,CLE,,DEN,,C. Braun,DEN,Braun P.FOUL (P1.T3) (T.Washington),Foul,Personal,0,0,0,0,,,v
+S2223-G0886,2,06:53,CLE,,DEN,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0886,3,00:01.700000,CLE,,DEN,,C. Braun,DEN,Braun S.FOUL (P2.PN) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0886,3,00:01.700000,CLE,,DEN,,C. Braun,DEN,SUB: Bryant FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1055,1,03:27,NYK,,DEN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1055,1,03:21,NYK,26.0,DEN,20.0,C. Braun,DEN,Braun 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,5,19,2,1,2.0,2.0,v
+S2223-G1055,1,03:05,NYK,,DEN,,C. Braun,DEN,Braun S.FOUL (P1.T3) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G1055,1,01:13,NYK,,DEN,,C. Braun,DEN,Braun P.FOUL (P2.PN) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2223-G1055,1,00:03.600000,NYK,,DEN,,C. Braun,DEN,MISS Braun 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-22,17,3,1,2.0,0.0,v
+S2223-G1055,2,11:40,NYK,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1055,2,09:56,NYK,,DEN,,C. Braun,DEN,MISS Braun 25' 3PT Jump Shot,Missed Shot,Jump Shot,-123,221,25,1,3.0,0.0,v
+S2223-G1055,2,09:15,NYK,,DEN,,C. Braun,DEN,MISS Braun 3' Driving Layup,Missed Shot,Driving Layup Shot,23,25,3,1,2.0,0.0,v
+S2223-G1055,2,09:04,NYK,,DEN,,C. Braun,DEN,SUB: Jokic FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1055,3,02:21,NYK,,DEN,,C. Braun,DEN,Braun BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1055,3,02:20,NYK,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1055,3,02:19,NYK,,DEN,,C. Braun,DEN,Braun OFF.Foul (P3) (M.Kogut),Foul,Offensive,0,0,0,0,,,v
+S2223-G1055,3,02:19,NYK,,DEN,,C. Braun,DEN,Braun Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1055,3,00:00.600000,NYK,,DEN,,C. Braun,DEN,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,-228,2,0,1,3.0,0.0,v
+S2223-G1055,4,11:51,NYK,,DEN,,C. Braun,DEN,Braun REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1055,4,10:37,NYK,,DEN,,C. Braun,DEN,MISS Braun 25' 3PT Jump Shot,Missed Shot,Jump Shot,-234,96,25,1,3.0,0.0,v
+S2223-G1055,4,09:54,NYK,98.0,DEN,94.0,C. Braun,DEN,Braun 3PT Jump Shot (5 PTS) (Murray 4 AST),Made Shot,Jump Shot,223,-1,0,1,3.0,3.0,v
+S2223-G1055,4,09:35,NYK,,DEN,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0078,1,03:24,DEN,,UTA,,C. Braun,DEN,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0078,1,03:23,DEN,26.0,UTA,17.0,C. Braun,DEN,Braun 5' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,51,5,1,2.0,2.0,h
+S2223-G0078,1,03:23,DEN,,UTA,,C. Braun,DEN,MISS Braun Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0078,1,02:58,DEN,,UTA,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0078,1,00:46.900000,DEN,,UTA,,C. Braun,DEN,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0078,2,10:13,DEN,43.0,UTA,33.0,C. Braun,DEN,Braun 4' Running Layup (4 PTS) (Porter Jr. 1 AST),Made Shot,Running Layup Shot,-38,6,4,1,2.0,2.0,h
+S2223-G0078,2,10:13,DEN,44.0,UTA,33.0,C. Braun,DEN,Braun Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0078,2,09:34,DEN,,UTA,,C. Braun,DEN,Braun BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0078,2,09:31,DEN,,UTA,,C. Braun,DEN,Braun REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0078,2,09:26,DEN,,UTA,,C. Braun,DEN,Braun REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0078,2,05:49,DEN,,UTA,,C. Braun,DEN,MISS Braun 3' Driving Layup,Missed Shot,Driving Layup Shot,0,32,3,1,2.0,0.0,h
+S2223-G0078,2,04:31,DEN,,UTA,,C. Braun,DEN,Braun S.FOUL (P1.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0078,2,03:57,DEN,,UTA,,C. Braun,DEN,Braun REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0078,2,03:51,DEN,61.0,UTA,44.0,C. Braun,DEN,Braun 3' Running Layup (7 PTS),Made Shot,Running Layup Shot,27,21,3,1,2.0,2.0,h
+S2223-G0078,2,02:14,DEN,,UTA,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0078,3,05:38,DEN,76.0,UTA,61.0,C. Braun,DEN,Braun 3PT Running Jump Shot (10 PTS) (Brown 2 AST),Made Shot,Running Jump Shot,-232,15,0,1,3.0,3.0,h
+S2223-G0078,3,00:00.200000,DEN,,UTA,,C. Braun,DEN,MISS Braun 41' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-175,370,41,1,3.0,0.0,h
+S2223-G0078,4,05:44,DEN,,UTA,,C. Braun,DEN,Braun Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0078,4,02:15,DEN,,UTA,,C. Braun,DEN,MISS Braun 30' 3PT Jump Shot,Missed Shot,Jump Shot,-143,264,30,1,3.0,0.0,h
+S2223-G0078,4,01:20,DEN,,UTA,,C. Braun,DEN,SUB: White FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0557,1,04:49,MIN,18.0,DEN,15.0,C. Braun,DEN,Braun 1' Driving Dunk (2 PTS) (Brown 1 AST),Made Shot,Driving Dunk Shot,2,11,1,1,2.0,2.0,v
+S2223-G0557,1,02:53,MIN,,DEN,,C. Braun,DEN,SUB: Murray FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G0783,1,01:48,DEN,,GSW,,C. Braun,DEN,Braun P.FOUL (P1.T4) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2223-G0783,1,00:14.200000,DEN,,GSW,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0783,2,09:44,DEN,,GSW,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0783,2,06:46,DEN,,GSW,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0783,3,04:12,DEN,,GSW,,C. Braun,DEN,MISS Braun 26' 3PT Jump Shot,Missed Shot,Jump Shot,-158,209,26,1,3.0,0.0,h
+S2223-G0783,3,04:09,DEN,,GSW,,C. Braun,DEN,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0783,3,03:09,DEN,,GSW,,C. Braun,DEN,MISS Braun 27' 3PT Jump Shot,Missed Shot,Jump Shot,85,252,27,1,3.0,0.0,h
+S2223-G0783,3,01:53,DEN,,GSW,,C. Braun,DEN,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0783,3,01:44,DEN,101.0,GSW,85.0,C. Braun,DEN,Braun 3' Driving Finger Roll Layup (2 PTS) (Murray 6 AST),Made Shot,Driving Finger Roll Layup Shot,-22,23,3,1,2.0,2.0,h
+S2223-G0783,3,01:37,DEN,,GSW,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0783,3,01:14,DEN,,GSW,,C. Braun,DEN,Braun REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0783,4,11:39,DEN,,GSW,,C. Braun,DEN,Braun STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0783,4,10:49,DEN,108.0,GSW,93.0,C. Braun,DEN,Braun 27' 3PT Jump Shot (5 PTS) (Caldwell-Pope 2 AST),Made Shot,Jump Shot,150,221,27,1,3.0,3.0,h
+S2223-G0783,4,06:11,DEN,,GSW,,C. Braun,DEN,Braun REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0783,4,05:48,DEN,,GSW,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0465,1,10:21,DEN,,MEM,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0465,1,08:53,DEN,,MEM,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0465,1,08:49,DEN,,MEM,,C. Braun,DEN,MISS Braun 3' Running Layup,Missed Shot,Running Layup Shot,-4,25,3,1,2.0,0.0,h
+S2223-G0465,1,07:11,DEN,,MEM,,C. Braun,DEN,Braun Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0465,1,04:11,DEN,,MEM,,C. Braun,DEN,Braun P.FOUL (P1.T1) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2223-G0465,1,03:41,DEN,,MEM,,C. Braun,DEN,MISS Braun 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,180,140,23,1,2.0,0.0,h
+S2223-G0465,1,03:35,DEN,,MEM,,C. Braun,DEN,MISS Braun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0465,1,03:35,DEN,26.0,MEM,10.0,C. Braun,DEN,Braun Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0465,1,02:59,DEN,28.0,MEM,12.0,C. Braun,DEN,Braun 4' Driving Floating Bank Jump Shot (3 PTS),Made Shot,Driving Floating Bank Jump Shot,-34,14,4,1,2.0,2.0,h
+S2223-G0465,1,02:46,DEN,,MEM,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0465,2,08:03,DEN,,MEM,,C. Braun,DEN,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0465,2,04:38,DEN,,MEM,,C. Braun,DEN,MISS Braun 26' 3PT Jump Shot,Missed Shot,Jump Shot,99,240,26,1,3.0,0.0,h
+S2223-G0465,2,04:11,DEN,48.0,MEM,30.0,C. Braun,DEN,Braun 1' Cutting Dunk Shot (5 PTS) (Brown 2 AST),Made Shot,Cutting Dunk Shot,10,11,1,1,2.0,2.0,h
+S2223-G0465,2,02:30,DEN,51.0,MEM,34.0,C. Braun,DEN,Braun 25' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-109,229,25,1,3.0,3.0,h
+S2223-G0465,3,08:08,DEN,67.0,MEM,53.0,C. Braun,DEN,Braun 2' Running Dunk (10 PTS) (Jokic 7 AST),Made Shot,Running Dunk Shot,-12,15,2,1,2.0,2.0,h
+S2223-G0465,3,06:44,DEN,,MEM,,C. Braun,DEN,Braun P.FOUL (P2.T4) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2223-G0465,3,04:06,DEN,,MEM,,C. Braun,DEN,Braun BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0465,3,03:36,DEN,79.0,MEM,59.0,C. Braun,DEN,Braun 26' 3PT Jump Shot (13 PTS) (Cancar 2 AST),Made Shot,Jump Shot,-157,204,26,1,3.0,3.0,h
+S2223-G0465,3,03:03,DEN,,MEM,,C. Braun,DEN,Braun S.FOUL (P3.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0465,3,02:44,DEN,,MEM,,C. Braun,DEN,MISS Braun 26' 3PT Jump Shot,Missed Shot,Jump Shot,150,214,26,1,3.0,0.0,h
+S2223-G0465,3,02:27,DEN,,MEM,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0465,4,00:50.500000,DEN,,MEM,,C. Braun,DEN,MISS Braun 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-74,218,23,1,2.0,0.0,h
+S2223-G0465,4,00:42.700000,DEN,,MEM,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0465,4,00:21.400000,DEN,,MEM,,C. Braun,DEN,MISS Braun 27' 3PT Jump Shot,Missed Shot,Jump Shot,137,235,27,1,3.0,0.0,h
+S2223-G0035,1,04:32,DEN,,OKC,,C. Braun,DEN,Braun Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0035,1,02:55,DEN,,OKC,,C. Braun,DEN,MISS Braun 3' Driving Layup,Missed Shot,Driving Layup Shot,23,18,3,1,2.0,0.0,h
+S2223-G0035,1,00:45.900000,DEN,,OKC,,C. Braun,DEN,MISS Braun 26' 3PT Jump Shot,Missed Shot,Jump Shot,-80,248,26,1,3.0,0.0,h
+S2223-G0035,3,05:02,DEN,74.0,OKC,67.0,C. Braun,DEN,Braun 3PT Jump Shot (3 PTS) (Jokic 10 AST),Made Shot,Jump Shot,-234,0,0,1,3.0,3.0,h
+S2223-G0035,3,03:57,DEN,78.0,OKC,70.0,C. Braun,DEN,Braun 25' 3PT Jump Shot (6 PTS) (Hyland 2 AST),Made Shot,Jump Shot,-89,234,25,1,3.0,3.0,h
+S2223-G0035,3,03:16,DEN,,OKC,,C. Braun,DEN,Braun S.FOUL (P1.T3) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0035,4,10:42,DEN,,OKC,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0035,4,08:46,DEN,97.0,OKC,94.0,C. Braun,DEN,Braun 25' 3PT Jump Shot (9 PTS) (Green 2 AST),Made Shot,Jump Shot,-196,153,25,1,3.0,3.0,h
+S2223-G0035,4,07:53,DEN,,OKC,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0035,4,06:53,DEN,,OKC,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0035,4,00:17.300000,DEN,,OKC,,C. Braun,DEN,SUB: Jokic FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G0035,4,00:00.200000,DEN,,OKC,,C. Braun,DEN,Braun BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0609,4,00:19.200000,DEN,,,,C. Braun,DEN,Braun Lost Ball Turnover (P1.T17),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1126,2,09:15,DEN,32.0,PHI,28.0,C. Braun,DEN,Braun 3PT Jump Shot (3 PTS) (Green 1 AST),Made Shot,Jump Shot,232,23,0,1,3.0,3.0,h
+S2223-G1126,2,07:00,DEN,,PHI,,C. Braun,DEN,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1126,2,06:53,DEN,,PHI,,C. Braun,DEN,MISS Braun 27' 3PT Jump Shot,Missed Shot,Jump Shot,-173,202,27,1,3.0,0.0,h
+S2223-G1126,2,06:39,DEN,,PHI,,C. Braun,DEN,Braun S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G1126,2,06:39,DEN,,PHI,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G1126,3,02:44,DEN,,PHI,,C. Braun,DEN,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1126,4,11:18,DEN,,PHI,,C. Braun,DEN,Braun S.FOUL (P2.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G1126,4,09:10,DEN,,PHI,,C. Braun,DEN,Braun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1126,4,09:10,DEN,99.0,PHI,82.0,C. Braun,DEN,Braun Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G1126,4,08:35,DEN,102.0,PHI,84.0,C. Braun,DEN,Braun 3PT Jump Shot (8 PTS) (Brown 4 AST),Made Shot,Jump Shot,-230,4,0,1,3.0,3.0,h
+S2223-G1126,4,08:33,DEN,,PHI,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1126,4,07:08,DEN,,PHI,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,h
+S2223-G1063,1,02:27,BKN,,DEN,,C. Braun,DEN,Braun OFF.Foul (P1) (B.Taylor),Foul,Offensive,0,0,0,0,,,v
+S2223-G1063,1,02:27,BKN,,DEN,,C. Braun,DEN,Braun Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1063,1,02:10,BKN,,DEN,,C. Braun,DEN,Braun P.FOUL (P2.T1) (L.Wood),Foul,Personal,0,0,0,0,,,v
+S2223-G1063,1,00:34.500000,BKN,,DEN,,C. Braun,DEN,Braun S.FOUL (P3.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G1063,1,00:34.500000,BKN,,DEN,,C. Braun,DEN,SUB: Caldwell-Pope FOR Braun,Substitution,,0,0,0,0,,,v
+S2223-G1063,3,01:50,BKN,,DEN,,C. Braun,DEN,Braun STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1063,4,07:02,BKN,,DEN,,C. Braun,DEN,Braun BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1063,4,05:22,BKN,,DEN,,C. Braun,DEN,SUB: Porter Jr. FOR Braun,Substitution,,0,0,0,0,,,v

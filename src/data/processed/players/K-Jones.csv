@@ -1,0 +1,470 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0718,4,02:45,PHX,,CHA,,K. Jones,CHA,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0718,4,02:45,PHX,118.0,CHA,91.0,K. Jones,CHA,Jones Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0718,4,02:45,PHX,,CHA,,K. Jones,CHA,MISS Jones Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G1148,3,05:17,CHA,,CHI,,K. Jones,CHA,Jones S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1148,3,05:14,CHA,,CHI,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,4,11:45,CHA,,CHI,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1148,4,11:26,CHA,,CHI,,K. Jones,CHA,MISS Jones 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-59,165,18,1,2.0,0.0,h
+S2223-G1148,4,10:09,CHA,,CHI,,K. Jones,CHA,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1148,4,08:49,CHA,,CHI,,K. Jones,CHA,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,4,08:49,CHA,81.0,CHI,96.0,K. Jones,CHA,Jones Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G1148,4,08:49,CHA,82.0,CHI,96.0,K. Jones,CHA,Jones Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1148,4,00:08.700000,CHA,,CHI,,K. Jones,CHA,Jones Offensive Goaltending Turnover (P1.T22),Turnover,Offensive Goaltending,0,0,0,0,,,h
+S2223-G0260,2,06:29,CHA,,PHI,,K. Jones,CHA,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0260,2,06:29,CHA,36.0,PHI,41.0,K. Jones,CHA,Jones Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0260,2,06:08,CHA,,PHI,,K. Jones,CHA,Jones S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0260,2,04:30,CHA,,PHI,,K. Jones,CHA,Jones S.FOUL (P2.T4) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0260,2,03:56,CHA,,PHI,,K. Jones,CHA,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0260,2,03:23,CHA,,PHI,,K. Jones,CHA,SUB: Washington FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0260,4,07:41,CHA,83.0,PHI,82.0,K. Jones,CHA,Jones 13' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-27,126,13,1,2.0,2.0,h
+S2223-G0260,4,04:46,CHA,,PHI,,K. Jones,CHA,SUB: Washington FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0364,1,00:18.100000,BKN,36.0,CHA,28.0,K. Jones,CHA,Jones 25' 3PT Jump Shot (3 PTS) (Rozier 3 AST),Made Shot,Jump Shot,148,205,25,1,3.0,3.0,v
+S2223-G0364,2,10:22,BKN,,CHA,,K. Jones,CHA,Jones REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0364,2,10:22,BKN,,CHA,,K. Jones,CHA,MISS Jones Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0364,2,10:22,BKN,,CHA,,K. Jones,CHA,Jones REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0364,2,10:16,BKN,,CHA,,K. Jones,CHA,MISS Jones 2' Putback Layup,Missed Shot,Putback Layup Shot,20,-1,2,1,2.0,0.0,v
+S2223-G0364,2,08:30,BKN,,CHA,,K. Jones,CHA,Jones OFF.Foul (P1) (G.Petraitis),Foul,Offensive,0,0,0,0,,,v
+S2223-G0364,2,08:30,BKN,,CHA,,K. Jones,CHA,Jones Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0364,2,07:58,BKN,54.0,CHA,35.0,K. Jones,CHA,Jones 2' Driving Dunk (5 PTS) (McGowens 1 AST),Made Shot,Driving Dunk Shot,20,8,2,1,2.0,2.0,v
+S2223-G0364,2,07:42,BKN,,CHA,,K. Jones,CHA,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0364,2,07:39,BKN,,CHA,,K. Jones,CHA,SUB: Maledon FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0364,4,11:51,BKN,,CHA,,K. Jones,CHA,Jones OFF.Foul (P2) (M.Myers),Foul,Offensive,0,0,0,0,,,v
+S2223-G0364,4,11:51,BKN,,CHA,,K. Jones,CHA,Jones Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0364,4,10:42,BKN,,CHA,,K. Jones,CHA,Jones Violation:Defensive Goaltending (J.Williams),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0364,4,10:00,BKN,,CHA,,K. Jones,CHA,Jones OFF.Foul (P3) (J.Williams),Foul,Offensive,0,0,0,0,,,v
+S2223-G0364,4,10:00,BKN,,CHA,,K. Jones,CHA,Jones Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0364,4,10:00,BKN,,CHA,,K. Jones,CHA,SUB: Plumlee FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0919,1,03:45,CHA,,DET,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0919,1,02:48,CHA,,DET,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0919,1,00:53.300000,CHA,,DET,,K. Jones,CHA,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0919,3,05:19,CHA,,DET,,K. Jones,CHA,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0919,3,04:35,CHA,86.0,DET,64.0,K. Jones,CHA,Jones 6' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,-18,59,6,1,2.0,2.0,h
+S2223-G0919,3,00:55.600000,CHA,,DET,,K. Jones,CHA,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,2,11:19,CHA,,LAC,,K. Jones,CHA,Jones S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0352,2,09:57,CHA,,LAC,,K. Jones,CHA,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,2,09:06,CHA,,LAC,,K. Jones,CHA,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,2,07:50,CHA,36.0,LAC,40.0,K. Jones,CHA,Jones 10' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,27,101,10,1,2.0,2.0,h
+S2223-G0352,2,07:30,CHA,,LAC,,K. Jones,CHA,SUB: McDaniels FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0352,3,00:16.700000,CHA,,LAC,,K. Jones,CHA,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,4,11:41,CHA,,LAC,,K. Jones,CHA,Jones OFF.Foul (P2) (P.Fraher),Foul,Offensive,0,0,0,0,,,h
+S2223-G0352,4,11:41,CHA,,LAC,,K. Jones,CHA,Jones Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0352,4,10:53,CHA,,LAC,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0352,4,10:49,CHA,,LAC,,K. Jones,CHA,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,4,08:48,CHA,,LAC,,K. Jones,CHA,Jones Lane Violation Turnover (P2.T9),Turnover,Lane Violation,0,0,0,0,,,h
+S2223-G0352,4,07:53,CHA,,LAC,,K. Jones,CHA,Jones REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0352,4,07:51,CHA,,LAC,,K. Jones,CHA,MISS Jones 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,23,39,5,1,2.0,0.0,h
+S2223-G0352,4,07:42,CHA,,LAC,,K. Jones,CHA,SUB: Washington FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1113,1,01:16,CHA,,DAL,,K. Jones,CHA,Jones S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G1113,1,00:53.600000,CHA,,DAL,,K. Jones,CHA,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1113,1,00:50.900000,CHA,,DAL,,K. Jones,CHA,Jones 3 Second Violation Turnover (P1.T3),Turnover,3 Second Violation,0,0,0,0,,,h
+S2223-G1113,1,00:36,CHA,,DAL,,K. Jones,CHA,Jones S.FOUL (P2.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G1113,2,06:23,CHA,,DAL,,K. Jones,CHA,SUB: Williams FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1113,4,10:33,CHA,85.0,DAL,76.0,K. Jones,CHA,Jones 1' Cutting Dunk Shot (2 PTS) (McGowens 4 AST),Made Shot,Cutting Dunk Shot,12,8,1,1,2.0,2.0,h
+S2223-G1113,4,06:24,CHA,,DAL,,K. Jones,CHA,Jones OFF.Foul (P3) (R.Hussey),Foul,Offensive,0,0,0,0,,,h
+S2223-G1113,4,06:24,CHA,,DAL,,K. Jones,CHA,Jones Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1113,4,06:24,CHA,,DAL,,K. Jones,CHA,SUB: Washington FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0450,2,07:46,DEN,,CHA,,K. Jones,CHA,Jones Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0450,2,07:37,DEN,,CHA,,K. Jones,CHA,Jones P.FOUL (P1.T3) (L.Wood),Foul,Personal,0,0,0,0,,,v
+S2223-G0450,2,05:32,DEN,,CHA,,K. Jones,CHA,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0450,2,05:28,DEN,37.0,CHA,45.0,K. Jones,CHA,Jones 3' Running Alley Oop Dunk Shot (2 PTS) (Ball 3 AST),Made Shot,Running Alley Oop Dunk Shot,2,29,3,1,2.0,2.0,v
+S2223-G0450,2,05:28,DEN,37.0,CHA,46.0,K. Jones,CHA,Jones Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0450,2,05:13,DEN,,CHA,,K. Jones,CHA,Jones S.FOUL (P2.T4) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2223-G0450,2,04:35,DEN,,CHA,,K. Jones,CHA,Jones L.B.FOUL (P3.PN) (L.Wood),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0450,2,04:35,DEN,,CHA,,K. Jones,CHA,SUB: Richards FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1095,1,00:46.600000,NOP,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,2,11:08,NOP,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,2,10:10,NOP,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,2,09:50,NOP,39.0,CHA,33.0,K. Jones,CHA,Jones 1' Cutting Dunk Shot (2 PTS) (Oubre Jr. 2 AST),Made Shot,Cutting Dunk Shot,-5,0,1,1,2.0,2.0,v
+S2223-G1095,2,08:30,NOP,,CHA,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1095,2,06:29,NOP,,CHA,,K. Jones,CHA,SUB: Richards FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1095,3,02:03,NOP,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1095,3,00:18.700000,NOP,88.0,CHA,81.0,K. Jones,CHA,Jones 1' Driving Layup (4 PTS) (McGowens 5 AST),Made Shot,Driving Layup Shot,-4,11,1,1,2.0,2.0,v
+S2223-G1095,4,09:47,NOP,,CHA,,K. Jones,CHA,MISS Jones 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,120,23,12,1,2.0,0.0,v
+S2223-G1095,4,08:46,NOP,,CHA,,K. Jones,CHA,SUB: Mykhailiuk FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1095,4,03:15,NOP,,CHA,,K. Jones,CHA,Jones P.FOUL (P1.T4) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2223-G0241,2,04:51,WAS,46.0,CHA,47.0,K. Jones,CHA,Jones 3' Layup (2 PTS) (Plumlee 2 AST),Made Shot,Layup Shot,21,21,3,1,2.0,2.0,v
+S2223-G0241,2,03:50,WAS,,CHA,,K. Jones,CHA,Jones Traveling Turnover (P1.T7),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0241,2,03:22,WAS,,CHA,,K. Jones,CHA,SUB: Washington FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0241,4,07:21,WAS,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0241,4,06:32,WAS,,CHA,,K. Jones,CHA,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0241,4,06:27,WAS,93.0,CHA,89.0,K. Jones,CHA,Jones 2' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,-7,21,2,1,2.0,2.0,v
+S2223-G0241,4,05:56,WAS,,CHA,,K. Jones,CHA,MISS Jones 5' Layup,Missed Shot,Layup Shot,-17,43,5,1,2.0,0.0,v
+S2223-G0241,4,04:48,WAS,,CHA,,K. Jones,CHA,MISS Jones 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-13,85,9,1,2.0,0.0,v
+S2223-G0241,4,04:09,WAS,,CHA,,K. Jones,CHA,SUB: Washington FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0200,2,01:22,ORL,,CHA,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0125,4,07:15,MEM,,CHA,,K. Jones,CHA,Jones S.FOUL (P1.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G0125,4,04:31,MEM,,CHA,,K. Jones,CHA,Jones S.FOUL (P2.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2223-G0125,4,04:04,MEM,,CHA,,K. Jones,CHA,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0125,4,03:40,MEM,,CHA,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0125,4,02:38,MEM,,CHA,,K. Jones,CHA,Jones BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0125,4,00:48.300000,MEM,,CHA,,K. Jones,CHA,Jones BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0125,4,00:44.200000,MEM,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,4,00:41.700000,MEM,,CHA,,K. Jones,CHA,MISS Jones 3' Running Layup,Missed Shot,Running Layup Shot,23,11,3,1,2.0,0.0,v
+S2223-G0339,1,01:32,CHA,,MIL,,K. Jones,CHA,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0339,1,00:14.600000,CHA,,MIL,,K. Jones,CHA,Jones S.FOUL (P1.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0339,2,07:56,CHA,,MIL,,K. Jones,CHA,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-230,14,0,1,3.0,0.0,h
+S2223-G0339,2,07:48,CHA,,MIL,,K. Jones,CHA,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0339,2,07:44,CHA,,MIL,,K. Jones,CHA,SUB: Washington FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0339,3,02:23,CHA,,MIL,,K. Jones,CHA,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0339,4,11:12,CHA,,MIL,,K. Jones,CHA,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0339,4,08:20,CHA,,MIL,,K. Jones,CHA,Jones Traveling Turnover (P1.T11),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0339,4,07:24,CHA,,MIL,,K. Jones,CHA,SUB: McDaniels FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0933,1,00:26.100000,CHA,,PHX,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0933,2,11:01,CHA,,PHX,,K. Jones,CHA,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0933,2,09:07,CHA,,PHX,,K. Jones,CHA,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0933,2,09:05,CHA,26.0,PHX,34.0,K. Jones,CHA,Jones 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,2,13,1,1,2.0,2.0,h
+S2223-G0933,2,08:27,CHA,,PHX,,K. Jones,CHA,SUB: Hayward FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0933,3,03:46,CHA,63.0,PHX,75.0,K. Jones,CHA,Jones 1' Alley Oop Dunk (4 PTS) (Smith Jr. 4 AST),Made Shot,Alley Oop Dunk Shot,-6,8,1,1,2.0,2.0,h
+S2223-G0933,3,02:27,CHA,,PHX,,K. Jones,CHA,MISS Jones 27' 3PT Jump Shot,Missed Shot,Jump Shot,-74,256,27,1,3.0,0.0,h
+S2223-G0933,3,01:31,CHA,,PHX,,K. Jones,CHA,Jones S.FOUL (P1.T4) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G0933,3,00:11,CHA,,PHX,,K. Jones,CHA,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0933,4,11:38,CHA,,PHX,,K. Jones,CHA,Jones Traveling Turnover (P1.T10),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0933,4,10:19,CHA,,PHX,,K. Jones,CHA,Jones S.FOUL (P2.T2) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2223-G0933,4,10:01,CHA,,PHX,,K. Jones,CHA,SUB: Thor FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0476,4,01:51,LAC,121.0,CHA,100.0,K. Jones,CHA,Jones 1' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,1,11,1,1,2.0,2.0,v
+S2223-G0564,4,03:48,CHA,,MEM,,K. Jones,CHA,MISS Jones 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,18,6,2,1,2.0,0.0,h
+S2223-G0564,4,02:20,CHA,,MEM,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0564,4,00:50.600000,CHA,105.0,MEM,131.0,K. Jones,CHA,Jones 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,7,11,1,1,2.0,2.0,h
+S2223-G0564,4,00:26.700000,CHA,,MEM,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0071,4,04:00,ORL,104.0,CHA,74.0,K. Jones,CHA,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0071,4,04:00,ORL,,CHA,,K. Jones,CHA,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0071,4,03:43,ORL,,CHA,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0071,4,02:33,ORL,107.0,CHA,80.0,K. Jones,CHA,Jones Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0071,4,02:33,ORL,,CHA,,K. Jones,CHA,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0071,4,00:41.100000,ORL,113.0,CHA,90.0,K. Jones,CHA,Jones Alley Oop Dunk (4 PTS) (McGowens 1 AST),Made Shot,Alley Oop Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G1027,2,10:52,CHA,29.0,CLE,32.0,K. Jones,CHA,Jones 1' Running Alley Oop Dunk Shot (2 PTS) (Smith Jr. 3 AST),Made Shot,Running Alley Oop Dunk Shot,1,10,1,1,2.0,2.0,h
+S2223-G1027,2,10:35,CHA,,CLE,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,2,10:31,CHA,,CLE,,K. Jones,CHA,Jones Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1027,2,09:45,CHA,,CLE,,K. Jones,CHA,Jones OFF.Foul (P1) (J.DeRosa),Foul,Offensive,0,0,0,0,,,h
+S2223-G1027,2,09:45,CHA,,CLE,,K. Jones,CHA,Jones Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1027,2,08:42,CHA,,CLE,,K. Jones,CHA,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,2,07:18,CHA,,CLE,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1027,2,07:13,CHA,,CLE,,K. Jones,CHA,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,2,07:03,CHA,,CLE,,K. Jones,CHA,Jones S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G1027,2,06:23,CHA,,CLE,,K. Jones,CHA,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,2,06:19,CHA,,CLE,,K. Jones,CHA,Jones L.B.FOUL (P3.T3) (C.Blair),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1027,2,06:19,CHA,,CLE,,K. Jones,CHA,SUB: Richards FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1027,3,01:13,CHA,,CLE,,K. Jones,CHA,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1027,4,11:00,CHA,,CLE,,K. Jones,CHA,MISS Jones 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,28,14,3,1,2.0,0.0,h
+S2223-G1027,4,08:45,CHA,84.0,CLE,104.0,K. Jones,CHA,Jones 1' Dunk (4 PTS) (Smith Jr. 5 AST),Made Shot,Dunk Shot,-6,10,1,1,2.0,2.0,h
+S2223-G1027,4,07:43,CHA,,CLE,,K. Jones,CHA,SUB: Hayward FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1027,4,03:26,CHA,,CLE,,K. Jones,CHA,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1071,1,00:50.300000,CHA,,IND,,K. Jones,CHA,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,1,00:02.900000,CHA,,IND,,K. Jones,CHA,Jones L.B.FOUL (P1.PN) (J.Goble),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1071,2,09:55,CHA,,IND,,K. Jones,CHA,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,2,09:33,CHA,,IND,,K. Jones,CHA,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1071,2,08:51,CHA,,IND,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1071,2,08:51,CHA,,IND,,K. Jones,CHA,Jones S.FOUL (P2.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G1071,2,08:22,CHA,,IND,,K. Jones,CHA,Jones S.FOUL (P3.T4) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2223-G1071,2,08:22,CHA,,IND,,K. Jones,CHA,SUB: Hayward FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1071,3,02:33,CHA,,IND,,K. Jones,CHA,Jones BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1071,4,11:51,CHA,,IND,,K. Jones,CHA,Jones OFF.Foul (P4) (M.Lindsay),Foul,Offensive,0,0,0,0,,,h
+S2223-G1071,4,11:51,CHA,,IND,,K. Jones,CHA,Jones Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1071,4,10:32,CHA,90.0,IND,90.0,K. Jones,CHA,Jones 1' Driving Dunk (2 PTS) (Mykhailiuk 1 AST),Made Shot,Driving Dunk Shot,-5,9,1,1,2.0,2.0,h
+S2223-G1071,4,10:27,CHA,,IND,,K. Jones,CHA,Jones P.FOUL (P5.T2) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2223-G1071,4,05:44,CHA,,IND,,K. Jones,CHA,SUB: Washington FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1134,1,02:37,OKC,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,1,00:49.200000,OKC,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,1,00:46.100000,OKC,21.0,CHA,24.0,K. Jones,CHA,Jones 3' Running Alley Oop Dunk Shot (2 PTS) (Bouknight 2 AST),Made Shot,Running Alley Oop Dunk Shot,-18,22,3,1,2.0,2.0,v
+S2223-G1134,1,00:15.200000,OKC,,CHA,,K. Jones,CHA,Jones Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1134,2,09:20,OKC,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,2,08:44,OKC,,CHA,,K. Jones,CHA,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,2,08:43,OKC,,CHA,,K. Jones,CHA,Jones Out of Bounds Lost Ball Turnover (P2.T8),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G1134,2,07:02,OKC,,CHA,,K. Jones,CHA,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,2,06:54,OKC,38.0,CHA,35.0,K. Jones,CHA,Jones Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1134,2,06:54,OKC,38.0,CHA,36.0,K. Jones,CHA,Jones Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1134,2,06:04,OKC,,CHA,,K. Jones,CHA,SUB: Richards FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1134,2,03:49,OKC,52.0,CHA,46.0,K. Jones,CHA,Jones 3' Cutting Dunk Shot (6 PTS) (Maledon 4 AST),Made Shot,Cutting Dunk Shot,-25,11,3,1,2.0,2.0,v
+S2223-G1134,2,03:10,OKC,54.0,CHA,48.0,K. Jones,CHA,Jones 3' Layup (8 PTS),Made Shot,Layup Shot,-16,22,3,1,2.0,2.0,v
+S2223-G1134,2,03:10,OKC,,CHA,,K. Jones,CHA,MISS Jones Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G1134,2,00:23,OKC,,CHA,,K. Jones,CHA,Jones Violation:Defensive Goaltending (M.Lindsay),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G1134,3,02:03,OKC,,CHA,,K. Jones,CHA,Jones REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,3,01:31,OKC,,CHA,,K. Jones,CHA,Jones REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,3,01:25,OKC,97.0,CHA,90.0,K. Jones,CHA,Jones 6' Hook Shot (10 PTS) (Thor 3 AST),Made Shot,Hook Shot,20,53,6,1,2.0,2.0,v
+S2223-G1134,3,01:11,OKC,,CHA,,K. Jones,CHA,Jones REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,3,00:58.600000,OKC,97.0,CHA,92.0,K. Jones,CHA,Jones 3' Reverse Dunk (12 PTS) (Washington 3 AST),Made Shot,Reverse Dunk Shot,26,17,3,1,2.0,2.0,v
+S2223-G1134,3,00:21.100000,OKC,,CHA,,K. Jones,CHA,Jones REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,3,00:21.100000,OKC,,CHA,,K. Jones,CHA,Jones Lost Ball Turnover (P3.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1134,4,11:30,OKC,,CHA,,K. Jones,CHA,Jones Violation:Defensive Goaltending (S.Corbin),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G1134,4,10:56,OKC,,CHA,,K. Jones,CHA,Jones REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,4,09:52,OKC,,CHA,,K. Jones,CHA,Jones REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,4,09:19,OKC,,CHA,,K. Jones,CHA,Jones REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,4,08:02,OKC,,CHA,,K. Jones,CHA,Jones REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,4,06:10,OKC,,CHA,,K. Jones,CHA,Jones REBOUND (Off:3 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,4,05:59,OKC,,CHA,,K. Jones,CHA,SUB: McGowens FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1163,1,03:48,CHA,,TOR,,K. Jones,CHA,Jones P.FOUL (P1.T2) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2223-G1163,1,01:54,CHA,,TOR,,K. Jones,CHA,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1163,1,01:50,CHA,23.0,TOR,26.0,K. Jones,CHA,Jones 1' Running Finger Roll Layup (2 PTS) (Bouknight 1 AST),Made Shot,Running Finger Roll Layup Shot,1,12,1,1,2.0,2.0,h
+S2223-G1163,1,01:20,CHA,,TOR,,K. Jones,CHA,Jones Violation:Defensive Goaltending (T.Brothers),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G1163,1,00:08.800000,CHA,,TOR,,K. Jones,CHA,Jones OFF.Foul (P2) (R.Acosta),Foul,Offensive,0,0,0,0,,,h
+S2223-G1163,1,00:08.800000,CHA,,TOR,,K. Jones,CHA,Jones Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1163,2,10:29,CHA,27.0,TOR,40.0,K. Jones,CHA,Jones 2' Cutting Dunk Shot (4 PTS) (Maledon 3 AST),Made Shot,Cutting Dunk Shot,-15,18,2,1,2.0,2.0,h
+S2223-G1163,2,10:15,CHA,,TOR,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,2,08:57,CHA,,TOR,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1163,2,07:52,CHA,,TOR,,K. Jones,CHA,Jones BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1163,2,07:28,CHA,,TOR,,K. Jones,CHA,Jones Traveling Turnover (P2.T7),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1163,2,07:12,CHA,,TOR,,K. Jones,CHA,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,2,04:46,CHA,,TOR,,K. Jones,CHA,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,232,27,0,1,3.0,0.0,h
+S2223-G1163,2,04:27,CHA,,TOR,,K. Jones,CHA,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,2,03:03,CHA,,TOR,,K. Jones,CHA,MISS Jones 7' Driving Layup,Missed Shot,Driving Layup Shot,-45,49,7,1,2.0,0.0,h
+S2223-G1163,2,02:58,CHA,,TOR,,K. Jones,CHA,SUB: Mykhailiuk FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1163,3,05:22,CHA,,TOR,,K. Jones,CHA,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,189,171,25,1,3.0,0.0,h
+S2223-G1163,3,01:51,CHA,,TOR,,K. Jones,CHA,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,4,11:06,CHA,,TOR,,K. Jones,CHA,MISS Jones 6' Hook Shot,Missed Shot,Hook Shot,-2,56,6,1,2.0,0.0,h
+S2223-G1163,4,09:06,CHA,,TOR,,K. Jones,CHA,Jones REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,4,08:23,CHA,,TOR,,K. Jones,CHA,Jones Traveling Turnover (P3.T15),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1163,4,08:00,CHA,,TOR,,K. Jones,CHA,Jones BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G1163,4,07:56,CHA,99.0,TOR,110.0,K. Jones,CHA,Jones 2' Running Dunk (6 PTS) (McGowens 1 AST),Made Shot,Running Dunk Shot,-2,15,2,1,2.0,2.0,h
+S2223-G1163,4,04:53,CHA,106.0,TOR,116.0,K. Jones,CHA,Jones 1' Dunk (8 PTS) (Maledon 13 AST),Made Shot,Dunk Shot,-1,14,1,1,2.0,2.0,h
+S2223-G1163,4,02:58,CHA,108.0,TOR,124.0,K. Jones,CHA,Jones 2' Driving Layup (10 PTS) (Maledon 14 AST),Made Shot,Driving Layup Shot,0,20,2,1,2.0,2.0,h
+S2223-G1163,4,02:58,CHA,,TOR,,K. Jones,CHA,MISS Jones Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1163,4,02:22,CHA,,TOR,,K. Jones,CHA,MISS Jones 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-11,183,18,1,2.0,0.0,h
+S2223-G0904,1,04:59,CHA,,MIA,,K. Jones,CHA,Jones S.FOUL (P1.T2) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0904,1,03:28,CHA,,MIA,,K. Jones,CHA,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0904,1,01:59,CHA,,MIA,,K. Jones,CHA,Jones STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0904,1,00:31.800000,CHA,28.0,MIA,16.0,K. Jones,CHA,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0904,1,00:31.800000,CHA,29.0,MIA,16.0,K. Jones,CHA,Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1047,1,04:22,CHA,19.0,PHI,21.0,K. Jones,CHA,Jones 14' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,-129,43,14,1,2.0,2.0,h
+S2223-G1047,1,04:08,CHA,,PHI,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1047,1,03:59,CHA,,PHI,,K. Jones,CHA,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1047,1,01:42,CHA,,PHI,,K. Jones,CHA,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1047,1,00:24.100000,CHA,,PHI,,K. Jones,CHA,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1047,2,09:05,CHA,,PHI,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1047,2,08:51,CHA,,PHI,,K. Jones,CHA,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1047,2,07:12,CHA,,PHI,,K. Jones,CHA,Jones REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1047,2,05:03,CHA,,PHI,,K. Jones,CHA,MISS Jones 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,49,151,16,1,2.0,0.0,h
+S2223-G1047,2,04:55,CHA,,PHI,,K. Jones,CHA,SUB: Richards FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1047,3,07:56,CHA,,PHI,,K. Jones,CHA,Jones REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1047,3,07:52,CHA,58.0,PHI,77.0,K. Jones,CHA,Jones 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,-1,14,1,1,2.0,2.0,h
+S2223-G1047,3,05:30,CHA,,PHI,,K. Jones,CHA,MISS Jones 3' Running Dunk,Missed Shot,Running Dunk Shot,-33,6,3,1,2.0,0.0,h
+S2223-G1047,3,05:18,CHA,,PHI,,K. Jones,CHA,Jones REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1047,3,05:00,CHA,60.0,PHI,82.0,K. Jones,CHA,Jones 5' Hook Bank Shot (6 PTS) (Smith Jr. 6 AST),Made Shot,Hook Bank Shot,16,51,5,1,2.0,2.0,h
+S2223-G1047,3,04:27,CHA,62.0,PHI,82.0,K. Jones,CHA,Jones 7' Hook Shot (8 PTS) (Rozier 4 AST),Made Shot,Hook Shot,29,66,7,1,2.0,2.0,h
+S2223-G1047,3,03:30,CHA,,PHI,,K. Jones,CHA,Jones REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1047,3,02:54,CHA,,PHI,,K. Jones,CHA,Jones Double Dribble Turnover (P1.T9),Turnover,Double Dribble,0,0,0,0,,,h
+S2223-G1047,3,02:44,CHA,,PHI,,K. Jones,CHA,Jones S.FOUL (P1.PN) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2223-G1047,3,02:29,CHA,,PHI,,K. Jones,CHA,SUB: Washington FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1047,4,06:06,CHA,72.0,PHI,105.0,K. Jones,CHA,Jones 1' Cutting Dunk Shot (10 PTS) (Mykhailiuk 1 AST),Made Shot,Cutting Dunk Shot,1,8,1,1,2.0,2.0,h
+S2223-G1047,4,04:07,CHA,,PHI,,K. Jones,CHA,MISS Jones 3' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,18,21,3,1,2.0,0.0,h
+S2223-G1047,4,01:41,CHA,,PHI,,K. Jones,CHA,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0946,1,02:30,CHA,,ORL,,K. Jones,CHA,MISS Jones 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,23,187,19,1,2.0,0.0,h
+S2223-G0946,1,01:48,CHA,,ORL,,K. Jones,CHA,Jones S.FOUL (P1.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0946,1,00:48.500000,CHA,,ORL,,K. Jones,CHA,Jones S.FOUL (P2.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0946,1,00:26.200000,CHA,24.0,ORL,31.0,K. Jones,CHA,Jones 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,5,11,1,1,2.0,2.0,h
+S2223-G0946,2,09:52,CHA,,ORL,,K. Jones,CHA,Jones S.FOUL (P3.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0946,2,09:52,CHA,,ORL,,K. Jones,CHA,SUB: Thor FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0946,3,06:02,CHA,,ORL,,K. Jones,CHA,Jones S.FOUL (P4.T2) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G0946,3,04:30,CHA,,ORL,,K. Jones,CHA,MISS Jones 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-112,121,16,1,2.0,0.0,h
+S2223-G0946,3,00:31.700000,CHA,,ORL,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0946,3,00:25.800000,CHA,,ORL,,K. Jones,CHA,Jones Offensive Charge Foul (P5) (D.Richardson),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0946,3,00:25.800000,CHA,,ORL,,K. Jones,CHA,Jones Offensive Foul Turnover (P1.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1005,1,01:25,CHA,,UTA,,K. Jones,CHA,Lane,Violation,Lane,0,0,0,0,,,h
+S2223-G1005,1,00:25.800000,CHA,,UTA,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1005,1,00:19.200000,CHA,,UTA,,K. Jones,CHA,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1005,1,00:19.200000,CHA,29.0,UTA,32.0,K. Jones,CHA,Jones Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G1005,2,09:30,CHA,,UTA,,K. Jones,CHA,Jones REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1005,2,08:34,CHA,,UTA,,K. Jones,CHA,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1005,2,07:42,CHA,,UTA,,K. Jones,CHA,Jones BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1005,2,07:30,CHA,,UTA,,K. Jones,CHA,Jones BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G1005,2,06:11,CHA,,UTA,,K. Jones,CHA,MISS Jones 4' Layup,Missed Shot,Layup Shot,-23,27,4,1,2.0,0.0,h
+S2223-G1005,2,06:05,CHA,,UTA,,K. Jones,CHA,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1005,2,06:00,CHA,39.0,UTA,43.0,K. Jones,CHA,Jones Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1005,2,06:00,CHA,40.0,UTA,43.0,K. Jones,CHA,Jones Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1005,2,05:02,CHA,,UTA,,K. Jones,CHA,MISS Jones 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,55,6,1,2.0,0.0,h
+S2223-G1005,2,04:31,CHA,,UTA,,K. Jones,CHA,SUB: Richards FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1005,3,01:56,CHA,,UTA,,K. Jones,CHA,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1005,4,09:35,CHA,,UTA,,K. Jones,CHA,Jones REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1005,4,07:54,CHA,,UTA,,K. Jones,CHA,Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1005,4,07:23,CHA,,UTA,,K. Jones,CHA,MISS Jones 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-9,22,2,1,2.0,0.0,h
+S2223-G1005,4,06:32,CHA,95.0,UTA,103.0,K. Jones,CHA,Jones Dunk (6 PTS) (Smith Jr. 5 AST),Made Shot,Dunk Shot,4,2,0,1,2.0,2.0,h
+S2223-G1005,4,05:45,CHA,,UTA,,K. Jones,CHA,SUB: Richards FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0301,2,09:14,BOS,,CHA,,K. Jones,CHA,MISS Jones 7' Driving Layup,Missed Shot,Driving Layup Shot,39,53,7,1,2.0,0.0,v
+S2223-G0301,2,09:11,BOS,,CHA,,K. Jones,CHA,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,2,09:10,BOS,52.0,CHA,30.0,K. Jones,CHA,Jones 2' Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,6,19,2,1,2.0,2.0,v
+S2223-G0301,2,08:51,BOS,,CHA,,K. Jones,CHA,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,2,08:34,BOS,,CHA,,K. Jones,CHA,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,2,07:29,BOS,,CHA,,K. Jones,CHA,MISS Jones 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-99,47,11,1,2.0,0.0,v
+S2223-G0301,2,07:17,BOS,,CHA,,K. Jones,CHA,SUB: Washington FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0301,3,01:32,BOS,,CHA,,K. Jones,CHA,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,3,01:29,BOS,,CHA,,K. Jones,CHA,MISS Jones 1' Layup,Missed Shot,Layup Shot,-6,12,1,1,2.0,0.0,v
+S2223-G0301,3,01:26,BOS,,CHA,,K. Jones,CHA,Jones REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,3,01:26,BOS,,CHA,,K. Jones,CHA,MISS Jones 1' Layup,Missed Shot,Layup Shot,-5,8,1,1,2.0,0.0,v
+S2223-G0301,4,09:54,BOS,,CHA,,K. Jones,CHA,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-227,121,26,1,3.0,0.0,v
+S2223-G0301,4,07:49,BOS,,CHA,,K. Jones,CHA,Jones P.FOUL (P1.T2) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2223-G0301,4,07:13,BOS,,CHA,,K. Jones,CHA,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,18,8,2,1,2.0,0.0,v
+S2223-G0301,4,07:12,BOS,,CHA,,K. Jones,CHA,Jones REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,4,07:11,BOS,127.0,CHA,92.0,K. Jones,CHA,Jones 5' Turnaround Hook Shot (4 PTS),Made Shot,Turnaround Hook Shot,51,11,5,1,2.0,2.0,v
+S2223-G0301,4,04:44,BOS,,CHA,,K. Jones,CHA,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,81,244,26,1,3.0,0.0,v
+S2223-G0301,4,03:15,BOS,135.0,CHA,99.0,K. Jones,CHA,Jones 26' 3PT Jump Shot (7 PTS) (Bouknight 1 AST),Made Shot,Jump Shot,189,178,26,1,3.0,3.0,v
+S2223-G0301,4,01:34,BOS,140.0,CHA,103.0,K. Jones,CHA,Jones 1' Running Finger Roll Layup (9 PTS) (Maledon 8 AST),Made Shot,Running Finger Roll Layup Shot,-7,8,1,1,2.0,2.0,v
+S2223-G0710,4,03:04,UTA,116.0,CHA,91.0,K. Jones,CHA,Jones 1' Cutting Dunk Shot (2 PTS) (Smith Jr. 7 AST),Made Shot,Cutting Dunk Shot,-10,1,1,1,2.0,2.0,v
+S2223-G0710,4,01:42,UTA,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0710,4,01:36,UTA,118.0,CHA,96.0,K. Jones,CHA,Jones 5' Running Dunk (4 PTS) (Smith Jr. 8 AST),Made Shot,Running Dunk Shot,51,0,5,1,2.0,2.0,v
+S2223-G1176,2,09:58,CHA,,TOR,,K. Jones,CHA,Jones Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1176,2,09:36,CHA,,TOR,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,2,07:49,CHA,40.0,TOR,32.0,K. Jones,CHA,Jones 1' Reverse Layup (2 PTS) (Thor 1 AST),Made Shot,Reverse Layup Shot,-1,5,1,1,2.0,2.0,h
+S2223-G1176,2,06:33,CHA,,TOR,,K. Jones,CHA,SUB: Richards FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1176,3,02:44,CHA,,TOR,,K. Jones,CHA,MISS Jones 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,2,52,5,1,2.0,0.0,h
+S2223-G1176,3,01:40,CHA,,TOR,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1176,4,08:24,CHA,,TOR,,K. Jones,CHA,Jones S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G1176,4,07:05,CHA,86.0,TOR,104.0,K. Jones,CHA,Jones 2' Cutting Dunk Shot (4 PTS) (Maledon 9 AST),Made Shot,Cutting Dunk Shot,-20,10,2,1,2.0,2.0,h
+S2223-G1176,4,06:03,CHA,,TOR,,K. Jones,CHA,SUB: Richards FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1176,4,01:58,CHA,,TOR,,K. Jones,CHA,MISS Jones 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,2,77,8,1,2.0,0.0,h
+S2223-G1176,4,01:49,CHA,,TOR,,K. Jones,CHA,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,4,01:33,CHA,,TOR,,K. Jones,CHA,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,4,00:59.700000,CHA,,TOR,,K. Jones,CHA,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,4,00:42.400000,CHA,,TOR,,K. Jones,CHA,Jones S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G0272,1,05:12,CHA,,MIN,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,1,04:05,CHA,17.0,MIN,22.0,K. Jones,CHA,Jones 1' Running Alley Oop Dunk Shot (2 PTS) (Plumlee 2 AST),Made Shot,Running Alley Oop Dunk Shot,-6,11,1,1,2.0,2.0,h
+S2223-G0272,1,02:45,CHA,,MIN,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0272,1,01:56,CHA,,MIN,,K. Jones,CHA,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,2,10:17,CHA,,MIN,,K. Jones,CHA,MISS Jones 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,9,78,8,1,2.0,0.0,h
+S2223-G0272,2,10:16,CHA,,MIN,,K. Jones,CHA,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,2,10:14,CHA,31.0,MIN,38.0,K. Jones,CHA,Jones 1' Reverse Dunk (4 PTS),Made Shot,Reverse Dunk Shot,0,11,1,1,2.0,2.0,h
+S2223-G0272,2,08:31,CHA,,MIN,,K. Jones,CHA,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,2,08:08,CHA,,MIN,,K. Jones,CHA,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,2,07:40,CHA,,MIN,,K. Jones,CHA,SUB: Washington FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0272,2,01:22,CHA,,MIN,,K. Jones,CHA,Jones P.FOUL (P1.T4) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2223-G0272,3,08:53,CHA,,MIN,,K. Jones,CHA,Jones REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,3,08:35,CHA,,MIN,,K. Jones,CHA,Jones S.FOUL (P2.T3) (I.Hwang),Foul,Shooting,0,0,0,0,,,h
+S2223-G0272,3,07:01,CHA,,MIN,,K. Jones,CHA,Jones REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,3,03:12,CHA,,MIN,,K. Jones,CHA,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0272,3,03:12,CHA,83.0,MIN,77.0,K. Jones,CHA,Jones Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0272,3,00:08,CHA,,MIN,,K. Jones,CHA,MISS Jones 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-50,79,9,1,2.0,0.0,h
+S2223-G0272,3,00:00.200000,CHA,,MIN,,K. Jones,CHA,Jones REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,4,11:07,CHA,93.0,MIN,83.0,K. Jones,CHA,Jones 2' Running Alley Oop Dunk Shot (7 PTS) (Rozier 6 AST),Made Shot,Running Alley Oop Dunk Shot,2,22,2,1,2.0,2.0,h
+S2223-G0272,4,10:47,CHA,,MIN,,K. Jones,CHA,Jones REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,4,10:47,CHA,94.0,MIN,83.0,K. Jones,CHA,Jones Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0272,4,10:47,CHA,95.0,MIN,83.0,K. Jones,CHA,Jones Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0272,4,10:35,CHA,,MIN,,K. Jones,CHA,Jones REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,4,09:22,CHA,,MIN,,K. Jones,CHA,Jones REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,4,08:56,CHA,,MIN,,K. Jones,CHA,Jones REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,4,08:25,CHA,,MIN,,K. Jones,CHA,SUB: Washington FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0225,2,06:25,CLE,,CHA,,K. Jones,CHA,Jones P.FOUL (P1.T3) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2223-G0225,2,06:12,CLE,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,2,05:57,CLE,,CHA,,K. Jones,CHA,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,2,05:57,CLE,37.0,CHA,30.0,K. Jones,CHA,Jones Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0225,2,04:38,CLE,,CHA,,K. Jones,CHA,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,2,03:42,CLE,,CHA,,K. Jones,CHA,SUB: Rozier FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0225,4,06:46,CLE,,CHA,,K. Jones,CHA,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,159,193,25,1,3.0,0.0,v
+S2223-G0225,4,05:38,CLE,,CHA,,K. Jones,CHA,SUB: McDaniels FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0399,1,00:26.200000,PHI,,CHA,,K. Jones,CHA,MISS Jones 5' Floating Jump Shot,Missed Shot,Floating Jump shot,23,47,5,1,2.0,0.0,v
+S2223-G0399,2,11:49,PHI,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0399,2,11:12,PHI,,CHA,,K. Jones,CHA,Jones S.FOUL (P1.T2) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0399,2,08:21,PHI,,CHA,,K. Jones,CHA,SUB: Maledon FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0399,4,10:57,PHI,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0399,4,10:49,PHI,,CHA,,K. Jones,CHA,MISS Jones 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-54,87,10,1,2.0,0.0,v
+S2223-G0399,4,10:46,PHI,,CHA,,K. Jones,CHA,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0399,4,10:45,PHI,98.0,CHA,89.0,K. Jones,CHA,Jones 1' Layup (2 PTS),Made Shot,Layup Shot,-9,9,1,1,2.0,2.0,v
+S2223-G0399,4,10:45,PHI,98.0,CHA,90.0,K. Jones,CHA,Jones Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0399,4,09:28,PHI,103.0,CHA,93.0,K. Jones,CHA,Jones 1' Driving Layup (5 PTS) (McGowens 2 AST),Made Shot,Driving Layup Shot,9,3,1,1,2.0,2.0,v
+S2223-G0399,4,09:28,PHI,103.0,CHA,94.0,K. Jones,CHA,Jones Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0399,4,09:12,PHI,,CHA,,K. Jones,CHA,Jones S.FOUL (P2.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0399,4,07:59,PHI,,CHA,,K. Jones,CHA,SUB: Washington FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0377,1,02:04,CHA,,NYK,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0377,1,01:11,CHA,,NYK,,K. Jones,CHA,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0377,1,01:07,CHA,20.0,NYK,22.0,K. Jones,CHA,Jones Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,0,0,1,2.0,2.0,h
+S2223-G0377,2,10:27,CHA,,NYK,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0377,2,10:07,CHA,,NYK,,K. Jones,CHA,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0377,2,10:07,CHA,26.0,NYK,26.0,K. Jones,CHA,Jones Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0377,2,09:00,CHA,,NYK,,K. Jones,CHA,MISS Jones 27' 3PT Jump Shot,Missed Shot,Jump Shot,150,220,27,1,3.0,0.0,h
+S2223-G0377,2,07:57,CHA,,NYK,,K. Jones,CHA,Jones S.FOUL (P1.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0377,2,07:57,CHA,,NYK,,K. Jones,CHA,SUB: Maledon FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0377,2,00:35.200000,CHA,,NYK,,K. Jones,CHA,Jones BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0377,4,10:04,CHA,,NYK,,K. Jones,CHA,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0377,4,09:24,CHA,,NYK,,K. Jones,CHA,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0377,4,08:52,CHA,,NYK,,K. Jones,CHA,MISS Jones 4' Driving Dunk,Missed Shot,Driving Dunk Shot,15,41,4,1,2.0,0.0,h
+S2223-G0377,4,06:28,CHA,,NYK,,K. Jones,CHA,Jones S.FOUL (P2.T3) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0377,4,03:02,CHA,,NYK,,K. Jones,CHA,Jones L.B.FOUL (P3.PN) (J.Goldenberg),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0992,3,01:05,DET,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0992,3,00:41.200000,DET,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0992,3,00:40.700000,DET,79.0,CHA,90.0,K. Jones,CHA,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0992,3,00:40.700000,DET,79.0,CHA,91.0,K. Jones,CHA,Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0992,3,00:28.700000,DET,,CHA,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0992,4,10:50,DET,83.0,CHA,99.0,K. Jones,CHA,Jones 2' Running Alley Oop Dunk Shot (4 PTS) (Smith Jr. 3 AST),Made Shot,Running Alley Oop Dunk Shot,-9,12,2,1,2.0,2.0,v
+S2223-G0992,4,10:22,DET,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0992,4,10:01,DET,,CHA,,K. Jones,CHA,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0992,4,08:03,DET,,CHA,,K. Jones,CHA,SUB: Richards FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G0414,1,01:09,CHA,,DET,,K. Jones,CHA,Jones S.FOUL (P1.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0414,2,10:53,CHA,,DET,,K. Jones,CHA,Jones L.B.FOUL (P2.T1) (J.Ralls),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0414,2,08:19,CHA,,DET,,K. Jones,CHA,Jones S.FOUL (P3.T3) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0414,2,08:19,CHA,,DET,,K. Jones,CHA,SUB: Washington FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0414,4,08:49,CHA,,DET,,K. Jones,CHA,SUB: Washington FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1218,1,01:11,CLE,,CHA,,K. Jones,CHA,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-174,189,26,1,3.0,0.0,v
+S2223-G1218,2,11:44,CLE,,CHA,,K. Jones,CHA,Jones P.FOUL (P1.T1) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G1218,2,09:57,CLE,,CHA,,K. Jones,CHA,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1218,2,07:56,CLE,,CHA,,K. Jones,CHA,Jones S.FOUL (P2.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G1218,2,05:33,CLE,,CHA,,K. Jones,CHA,SUB: McGowens FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1218,3,00:24,CLE,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,4,07:37,CLE,,CHA,,K. Jones,CHA,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,4,07:16,CLE,,CHA,,K. Jones,CHA,Defensive Goaltending,Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G1218,4,07:05,CLE,,CHA,,K. Jones,CHA,SUB: Thor FOR Jones,Substitution,,0,0,0,0,,,v
+S2223-G1202,1,03:43,CHA,,HOU,,K. Jones,CHA,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,55,254,26,1,3.0,0.0,h
+S2223-G1202,1,03:09,CHA,,HOU,,K. Jones,CHA,Jones Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1202,1,02:25,CHA,,HOU,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1202,1,01:45,CHA,,HOU,,K. Jones,CHA,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1202,1,01:30,CHA,,HOU,,K. Jones,CHA,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,63,24,1,3.0,0.0,h
+S2223-G1202,1,00:59,CHA,,HOU,,K. Jones,CHA,MISS Jones 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-18,47,5,1,2.0,0.0,h
+S2223-G1202,1,00:31.400000,CHA,25.0,HOU,23.0,K. Jones,CHA,Jones 7' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-59,43,7,1,2.0,2.0,h
+S2223-G1202,1,00:31.400000,CHA,26.0,HOU,23.0,K. Jones,CHA,Jones Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1202,2,11:39,CHA,,HOU,,K. Jones,CHA,Jones STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1202,2,10:49,CHA,,HOU,,K. Jones,CHA,Jones Violation:Defensive Goaltending (S.Wright),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G1202,2,07:24,CHA,,HOU,,K. Jones,CHA,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,17,24,1,3.0,0.0,h
+S2223-G1202,2,06:52,CHA,,HOU,,K. Jones,CHA,MISS Jones 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,-1,38,4,1,2.0,0.0,h
+S2223-G1202,2,06:27,CHA,,HOU,,K. Jones,CHA,SUB: Thor FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1202,3,03:41,CHA,,HOU,,K. Jones,CHA,Jones Offensive Charge Foul (P1) (S.Wright),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1202,3,03:41,CHA,,HOU,,K. Jones,CHA,Jones Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1202,3,01:47,CHA,69.0,HOU,80.0,K. Jones,CHA,Jones 1' Alley Oop Dunk (5 PTS) (Bouknight 2 AST),Made Shot,Alley Oop Dunk Shot,7,11,1,1,2.0,2.0,h
+S2223-G1202,3,00:58.600000,CHA,71.0,HOU,80.0,K. Jones,CHA,Jones 1' Running Dunk (7 PTS) (Richards 1 AST),Made Shot,Running Dunk Shot,-2,10,1,1,2.0,2.0,h
+S2223-G1202,3,00:58.600000,CHA,,HOU,,K. Jones,CHA,Jones T.FOUL (P1.T3) (N.Sago),Foul,Technical,0,0,0,0,,,h
+S2223-G1202,4,11:25,CHA,76.0,HOU,87.0,K. Jones,CHA,Jones 3PT Jump Shot (10 PTS) (Maledon 5 AST),Made Shot,Jump Shot,229,24,0,1,3.0,3.0,h
+S2223-G1202,4,09:11,CHA,,HOU,,K. Jones,CHA,Jones BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1202,4,07:13,CHA,,HOU,,K. Jones,CHA,Jones BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G1202,4,05:31,CHA,,HOU,,K. Jones,CHA,SUB: Thor FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1015,1,02:34,CHA,,CLE,,K. Jones,CHA,Jones Offensive Charge Foul (P1) (M.Boland),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1015,1,02:34,CHA,,CLE,,K. Jones,CHA,Jones Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1015,1,01:45,CHA,,CLE,,K. Jones,CHA,Jones P.FOUL (P2.T2) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2223-G1015,2,11:45,CHA,,CLE,,K. Jones,CHA,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,2,11:43,CHA,,CLE,,K. Jones,CHA,Jones Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1015,2,10:53,CHA,,CLE,,K. Jones,CHA,Jones Lost Ball Turnover (P3.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1015,2,10:07,CHA,,CLE,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1015,2,10:04,CHA,,CLE,,K. Jones,CHA,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,2,09:40,CHA,,CLE,,K. Jones,CHA,Jones S.FOUL (P3.T2) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2223-G1015,2,09:40,CHA,,CLE,,K. Jones,CHA,SUB: Thor FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G1015,3,01:36,CHA,,CLE,,K. Jones,CHA,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,3,00:11.600000,CHA,,CLE,,K. Jones,CHA,Jones S.FOUL (P4.PN) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2223-G1015,4,11:42,CHA,,CLE,,K. Jones,CHA,Jones S.FOUL (P5.T1) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G1015,4,11:20,CHA,,CLE,,K. Jones,CHA,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,4,09:52,CHA,93.0,CLE,87.0,K. Jones,CHA,Jones 1' Alley Oop Dunk (2 PTS) (Smith Jr. 7 AST),Made Shot,Alley Oop Dunk Shot,-9,9,1,1,2.0,2.0,h
+S2223-G1015,4,09:27,CHA,,CLE,,K. Jones,CHA,Jones REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,4,08:08,CHA,,CLE,,K. Jones,CHA,Jones REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1015,4,08:08,CHA,,CLE,,K. Jones,CHA,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1015,4,08:08,CHA,94.0,CLE,92.0,K. Jones,CHA,Jones Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1015,4,07:54,CHA,,CLE,,K. Jones,CHA,Jones S.FOUL (P6.T4) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G1015,4,07:54,CHA,,CLE,,K. Jones,CHA,SUB: Richards FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0428,1,02:28,,18.0,ATL,34.0,K. Jones,CHA,Jones 3' Driving Layup (2 PTS) (Rozier 2 AST),Made Shot,Driving Layup Shot,-9,32,3,1,2.0,2.0,h
+S2223-G0428,1,02:08,,,ATL,,K. Jones,CHA,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,1,00:09.300000,,,ATL,,K. Jones,CHA,Jones P.FOUL (P1.PN) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2223-G0428,2,10:36,,,ATL,,K. Jones,CHA,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,2,09:19,,,ATL,,K. Jones,CHA,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,2,07:43,,,ATL,,K. Jones,CHA,MISS Jones 3' Running Layup,Missed Shot,Running Layup Shot,23,13,3,1,2.0,0.0,h
+S2223-G0428,2,07:23,,,ATL,,K. Jones,CHA,Jones REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,2,06:17,,,ATL,,K. Jones,CHA,SUB: McDaniels FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0428,4,02:18,,,ATL,,K. Jones,CHA,Jones REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,4,01:21,,,ATL,,K. Jones,CHA,Jones REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,4,01:08,,,ATL,,K. Jones,CHA,Jones REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,4,01:08,,106.0,ATL,123.0,K. Jones,CHA,Jones Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0111,4,02:09,CHI,,CHA,,K. Jones,CHA,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,43,24,1,3.0,0.0,v
+S2223-G0111,4,01:18,CHI,,CHA,,K. Jones,CHA,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0111,4,01:15,CHI,104.0,CHA,88.0,K. Jones,CHA,Jones Running Alley Oop Dunk Shot (2 PTS) (Thor 1 AST),Made Shot,Running Alley Oop Dunk Shot,-1,1,0,1,2.0,2.0,v
+S2223-G0111,4,00:48.700000,CHI,,CHA,,K. Jones,CHA,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,208,136,25,1,3.0,0.0,v
+S2223-G0189,4,00:47.500000,MIA,129.0,CHA,113.0,K. Jones,CHA,Jones 1' Running Dunk (2 PTS) (Thor 1 AST),Made Shot,Running Dunk Shot,6,5,1,1,2.0,2.0,v
+S2223-G0326,1,00:34.400000,CHA,,WAS,,K. Jones,CHA,MISS Jones 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,-5,47,5,1,2.0,0.0,h
+S2223-G0326,1,00:00.300000,CHA,,WAS,,K. Jones,CHA,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-232,14,0,1,3.0,0.0,h
+S2223-G0326,2,07:51,CHA,,WAS,,K. Jones,CHA,Jones S.FOUL (P1.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0326,2,05:54,CHA,,WAS,,K. Jones,CHA,Jones L.B.FOUL (P2.T3) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0326,2,05:54,CHA,,WAS,,K. Jones,CHA,SUB: Washington FOR Jones,Substitution,,0,0,0,0,,,h
+S2223-G0326,3,02:19,CHA,,WAS,,K. Jones,CHA,Jones S.FOUL (P3.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0326,3,01:39,CHA,,WAS,,K. Jones,CHA,MISS Jones 6' Hook Shot,Missed Shot,Hook Shot,-11,57,6,1,2.0,0.0,h
+S2223-G0326,3,01:25,CHA,,WAS,,K. Jones,CHA,Jones S.FOUL (P4.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,h

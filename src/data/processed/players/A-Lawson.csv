@@ -1,0 +1,96 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0647,4,06:02,POR,,DAL,,A. Lawson,DAL,Lawson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0647,4,05:58,POR,,DAL,,A. Lawson,DAL,MISS Lawson 4' Running Layup,Missed Shot,Running Layup Shot,0,36,4,1,2.0,0.0,v
+S2223-G0647,4,01:56,POR,134.0,DAL,116.0,A. Lawson,DAL,Lawson 25' 3PT Jump Shot (3 PTS) (Wright IV 4 AST),Made Shot,Jump Shot,203,144,25,1,3.0,3.0,v
+S2223-G0647,4,01:17,POR,,DAL,,A. Lawson,DAL,MISS Lawson 3PT Jump Shot,Missed Shot,Jump Shot,-232,-10,0,1,3.0,0.0,v
+S2223-G0647,4,00:55.200000,POR,,DAL,,A. Lawson,DAL,MISS Lawson 1' Running Dunk,Missed Shot,Running Dunk Shot,-9,8,1,1,2.0,0.0,v
+S2223-G1210,3,09:40,DAL,,CHI,,A. Lawson,DAL,MISS Lawson 3PT Jump Shot,Missed Shot,Jump Shot,-232,36,0,1,3.0,0.0,h
+S2223-G1210,3,08:28,DAL,,CHI,,A. Lawson,DAL,Lawson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1210,3,08:22,DAL,76.0,CHI,64.0,A. Lawson,DAL,Lawson Running Dunk (2 PTS) (Wright IV 1 AST),Made Shot,Running Dunk Shot,-1,4,0,1,2.0,2.0,h
+S2223-G1210,3,06:03,DAL,,CHI,,A. Lawson,DAL,Lawson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1210,3,06:02,DAL,80.0,CHI,68.0,A. Lawson,DAL,Lawson Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G1210,3,05:13,DAL,,CHI,,A. Lawson,DAL,SUB: Holiday FOR Lawson,Substitution,,0,0,0,0,,,h
+S2223-G1210,3,01:26,DAL,91.0,CHI,83.0,A. Lawson,DAL,Lawson 25' 3PT Jump Shot (7 PTS) (Holiday 2 AST),Made Shot,Jump Shot,-62,247,25,1,3.0,3.0,h
+S2223-G1210,3,00:30.600000,DAL,,CHI,,A. Lawson,DAL,Lawson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1210,3,00:30.200000,DAL,,CHI,,A. Lawson,DAL,Lawson Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1210,4,11:35,DAL,,CHI,,A. Lawson,DAL,Lawson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1210,4,11:34,DAL,93.0,CHI,85.0,A. Lawson,DAL,Lawson 1' Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,-1,10,1,1,2.0,2.0,h
+S2223-G1210,4,10:34,DAL,,CHI,,A. Lawson,DAL,Lawson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1210,4,10:14,DAL,,CHI,,A. Lawson,DAL,MISS Lawson 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-233,31,24,1,3.0,0.0,h
+S2223-G1210,4,09:17,DAL,,CHI,,A. Lawson,DAL,Lawson REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1210,4,09:00,DAL,,CHI,,A. Lawson,DAL,Lawson Offensive Goaltending Turnover (P2.T9),Turnover,Offensive Goaltending,0,0,0,0,,,h
+S2223-G1210,4,07:41,DAL,,CHI,,A. Lawson,DAL,MISS Lawson 25' 3PT Jump Shot,Missed Shot,Jump Shot,154,193,25,1,3.0,0.0,h
+S2223-G1210,4,02:18,DAL,108.0,CHI,110.0,A. Lawson,DAL,Lawson 24' 3PT Running Jump Shot (12 PTS) (Pinson 3 AST),Made Shot,Running Jump Shot,-232,52,24,1,3.0,3.0,h
+S2223-G1210,4,00:06.200000,DAL,,CHI,,A. Lawson,DAL,MISS Lawson 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-203,202,29,1,3.0,0.0,h
+S2223-G0800,2,02:36,GSW,,DAL,,A. Lawson,DAL,Lawson P.FOUL (P1.T2) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G0800,2,02:29,GSW,,DAL,,A. Lawson,DAL,Lawson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0800,2,00:30.700000,GSW,,DAL,,A. Lawson,DAL,MISS Lawson 3PT Jump Shot,Missed Shot,Jump Shot,-233,-3,0,1,3.0,0.0,v
+S2223-G0800,3,00:50.900000,GSW,,DAL,,A. Lawson,DAL,Lawson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0800,3,00:40.200000,GSW,,DAL,,A. Lawson,DAL,Lawson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0800,3,00:40.200000,GSW,99.0,DAL,84.0,A. Lawson,DAL,Lawson Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0800,3,00:30.200000,GSW,,DAL,,A. Lawson,DAL,Lawson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0800,4,11:10,GSW,,DAL,,A. Lawson,DAL,Lawson Violation:Kicked Ball (J.Capers),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0800,4,09:30,GSW,104.0,DAL,91.0,A. Lawson,DAL,Lawson 26' 3PT Running Jump Shot (5 PTS) (Wright IV 3 AST),Made Shot,Running Jump Shot,-201,164,26,1,3.0,3.0,v
+S2223-G0800,4,07:28,GSW,,DAL,,A. Lawson,DAL,MISS Lawson 3PT Jump Shot,Missed Shot,Jump Shot,-228,2,0,1,3.0,0.0,v
+S2223-G0800,4,05:47,GSW,,DAL,,A. Lawson,DAL,SUB: Finney-Smith FOR Lawson,Substitution,,0,0,0,0,,,v
+S2223-G0617,4,00:54.700000,LAC,,DAL,,A. Lawson,DAL,Lawson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0528,4,00:40.100000,DAL,,HOU,,A. Lawson,DAL,MISS Lawson 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,165,192,25,1,3.0,0.0,h
+S2223-G0881,3,07:12,DEN,71.0,DAL,57.0,A. Lawson,DAL,Lawson 26' 3PT Jump Shot (3 PTS) (Doncic 6 AST),Made Shot,Jump Shot,188,173,26,1,3.0,3.0,v
+S2223-G0881,3,06:17,DEN,,DAL,,A. Lawson,DAL,Lawson P.FOUL (P1.T3) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2223-G0881,3,04:54,DEN,,DAL,,A. Lawson,DAL,Lawson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0881,3,04:54,DEN,75.0,DAL,61.0,A. Lawson,DAL,Lawson Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0881,3,02:40,DEN,81.0,DAL,66.0,A. Lawson,DAL,Lawson 3' Running Layup (7 PTS) (Doncic 7 AST),Made Shot,Running Layup Shot,26,13,3,1,2.0,2.0,v
+S2223-G0881,3,00:31.400000,DEN,90.0,DAL,74.0,A. Lawson,DAL,Lawson 25' 3PT Jump Shot (10 PTS) (Doncic 8 AST),Made Shot,Jump Shot,-184,174,25,1,3.0,3.0,v
+S2223-G0881,4,07:59,DEN,,DAL,,A. Lawson,DAL,Lawson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0881,4,07:45,DEN,,DAL,,A. Lawson,DAL,MISS Lawson 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,29,24,1,3.0,0.0,v
+S2223-G0881,4,04:56,DEN,,DAL,,A. Lawson,DAL,Lawson STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0881,4,04:51,DEN,,DAL,,A. Lawson,DAL,MISS Lawson 3' Running Layup,Missed Shot,Running Layup Shot,-25,8,3,1,2.0,0.0,v
+S2223-G0881,4,04:42,DEN,,DAL,,A. Lawson,DAL,SUB: Green FOR Lawson,Substitution,,0,0,0,0,,,v
+S2223-G0602,4,00:01.800000,OKC,,DAL,,A. Lawson,DAL,MISS Lawson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-10,24,1,3.0,0.0,v
+S2223-G1224,1,04:21,DAL,,SAS,,A. Lawson,DAL,Lawson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,1,04:18,DAL,,SAS,,A. Lawson,DAL,MISS Lawson 3' Running Layup,Missed Shot,Running Layup Shot,-25,18,3,1,2.0,0.0,h
+S2223-G1224,1,04:04,DAL,,SAS,,A. Lawson,DAL,Lawson S.FOUL (P1.T3) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1224,1,02:21,DAL,,SAS,,A. Lawson,DAL,Lawson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,1,01:09,DAL,,SAS,,A. Lawson,DAL,MISS Lawson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1224,1,01:09,DAL,,SAS,,A. Lawson,DAL,MISS Lawson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1224,1,00:42.400000,DAL,12.0,SAS,36.0,A. Lawson,DAL,Lawson 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-12,22,3,1,2.0,2.0,h
+S2223-G1224,2,10:02,DAL,,SAS,,A. Lawson,DAL,MISS Lawson 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,1,24,1,3.0,0.0,h
+S2223-G1224,2,09:08,DAL,,SAS,,A. Lawson,DAL,MISS Lawson 3' Driving Layup,Missed Shot,Driving Layup Shot,20,16,3,1,2.0,0.0,h
+S2223-G1224,2,08:32,DAL,,SAS,,A. Lawson,DAL,SUB: Ntilikina FOR Lawson,Substitution,,0,0,0,0,,,h
+S2223-G1224,3,01:03,DAL,91.0,SAS,106.0,A. Lawson,DAL,Lawson 24' 3PT Jump Shot (5 PTS) (Wright IV 2 AST),Made Shot,Jump Shot,-237,8,24,1,3.0,3.0,h
+S2223-G1224,4,10:16,DAL,,SAS,,A. Lawson,DAL,Lawson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,4,09:35,DAL,,SAS,,A. Lawson,DAL,MISS Lawson 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-15,9,2,1,2.0,0.0,h
+S2223-G1224,4,09:06,DAL,98.0,SAS,116.0,A. Lawson,DAL,Lawson 6' Driving Floating Bank Jump Shot (7 PTS) (Morris 2 AST),Made Shot,Driving Floating Bank Jump Shot,-22,57,6,1,2.0,2.0,h
+S2223-G1224,4,09:06,DAL,,SAS,,A. Lawson,DAL,MISS Lawson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1224,4,08:44,DAL,,SAS,,A. Lawson,DAL,Lawson S.FOUL (P2.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2223-G1224,4,07:32,DAL,,SAS,,A. Lawson,DAL,Lawson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1224,4,07:32,DAL,100.0,SAS,119.0,A. Lawson,DAL,Lawson Tip Dunk Shot (9 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G1224,4,06:42,DAL,,SAS,,A. Lawson,DAL,Lawson S.FOUL (P3.T4) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1224,4,06:29,DAL,,SAS,,A. Lawson,DAL,MISS Lawson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1224,4,06:29,DAL,103.0,SAS,124.0,A. Lawson,DAL,Lawson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1224,4,06:00,DAL,,SAS,,A. Lawson,DAL,MISS Lawson 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,42,24,1,3.0,0.0,h
+S2223-G1224,4,04:34,DAL,,SAS,,A. Lawson,DAL,Lawson STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1224,4,00:03.500000,DAL,,SAS,,A. Lawson,DAL,Lawson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0654,4,03:16,POR,,DAL,,A. Lawson,DAL,Lawson L.B.FOUL (P1.PN) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0654,4,03:13,POR,,DAL,,A. Lawson,DAL,Lawson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0654,4,02:23,POR,138.0,DAL,114.0,A. Lawson,DAL,Lawson 5' Driving Floating Jump Shot (2 PTS) (Wright IV 3 AST),Made Shot,Driving Floating Jump Shot,11,46,5,1,2.0,2.0,v
+S2223-G0654,4,02:23,POR,138.0,DAL,115.0,A. Lawson,DAL,Lawson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0654,4,01:36,POR,140.0,DAL,121.0,A. Lawson,DAL,Lawson 26' 3PT Jump Shot (6 PTS) (Wright IV 4 AST),Made Shot,Jump Shot,184,180,26,1,3.0,3.0,v
+S2223-G0212,4,01:45,ORL,,MIN,,A. Lawson,MIN,Lawson Personal Take Foul (P1.PN) (J.Capers),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0212,4,01:03,ORL,,MIN,,A. Lawson,MIN,Lawson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0212,4,00:26.100000,ORL,105.0,MIN,126.0,A. Lawson,MIN,Lawson Cutting Dunk Shot (2 PTS) (Reid 1 AST),Made Shot,Cutting Dunk Shot,-4,-2,0,1,2.0,2.0,v
+S2223-G0813,1,02:25,UTA,,DAL,,A. Lawson,DAL,MISS Lawson 3PT Jump Shot,Missed Shot,Jump Shot,233,29,0,1,3.0,0.0,v
+S2223-G0813,1,01:43,UTA,,DAL,,A. Lawson,DAL,Lawson S.FOUL (P1.T3) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2223-G0813,2,10:14,UTA,,DAL,,A. Lawson,DAL,MISS Lawson 4' Running Layup,Missed Shot,Running Layup Shot,33,14,4,1,2.0,0.0,v
+S2223-G0813,2,09:46,UTA,,DAL,,A. Lawson,DAL,Lawson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0813,2,08:30,UTA,,DAL,,A. Lawson,DAL,Lawson S.FOUL (P2.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0813,2,08:30,UTA,,DAL,,A. Lawson,DAL,SUB: Ntilikina FOR Lawson,Substitution,,0,0,0,0,,,v
+S2223-G0813,3,03:05,UTA,73.0,DAL,82.0,A. Lawson,DAL,Lawson 3PT Jump Shot (3 PTS) (Pinson 2 AST),Made Shot,Jump Shot,224,11,0,1,3.0,3.0,v
+S2223-G0813,3,02:44,UTA,,DAL,,A. Lawson,DAL,Lawson S.FOUL (P3.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0813,3,01:02,UTA,,DAL,,A. Lawson,DAL,MISS Lawson 3PT Jump Shot,Missed Shot,Jump Shot,228,34,0,1,3.0,0.0,v
+S2223-G0686,4,02:07,DAL,112.0,MIA,84.0,A. Lawson,DAL,Lawson 1' Cutting Dunk Shot (2 PTS) (Hardy 1 AST),Made Shot,Cutting Dunk Shot,7,9,1,1,2.0,2.0,h
+S2223-G0686,4,01:52,DAL,,MIA,,A. Lawson,DAL,Lawson S.FOUL (P1.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0686,4,01:34,DAL,115.0,MIA,86.0,A. Lawson,DAL,Lawson 25' 3PT Jump Shot (5 PTS) (Ntilikina 1 AST),Made Shot,Jump Shot,165,188,25,1,3.0,3.0,h
+S2223-G0686,4,00:29.700000,DAL,,MIA,,A. Lawson,DAL,MISS Lawson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0686,4,00:29.700000,DAL,,MIA,,A. Lawson,DAL,MISS Lawson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0577,4,03:31,DAL,,BOS,,A. Lawson,DAL,MISS Lawson 25' 3PT Jump Shot,Missed Shot,Jump Shot,194,155,25,1,3.0,0.0,h

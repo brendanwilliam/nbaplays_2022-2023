@@ -1,0 +1,837 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0309,2,09:43,DET,,NYK,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0309,2,09:33,DET,,NYK,,K. Knox II,DET,MISS Knox II 29' 3PT Jump Shot,Missed Shot,Jump Shot,-146,256,29,1,3.0,0.0,h
+S2223-G0309,2,05:42,DET,,NYK,,K. Knox II,DET,SUB: Stewart FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0309,3,07:42,DET,63.0,NYK,82.0,K. Knox II,DET,Knox II 3' Driving Layup (2 PTS) (Joseph 3 AST),Made Shot,Driving Layup Shot,-4,31,3,1,2.0,2.0,h
+S2223-G0309,3,07:42,DET,,NYK,,K. Knox II,DET,MISS Knox II Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0309,3,07:08,DET,,NYK,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,-233,-17,0,1,3.0,0.0,h
+S2223-G0309,3,06:51,DET,,NYK,,K. Knox II,DET,Knox II S.FOUL (P1.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0309,3,05:00,DET,,NYK,,K. Knox II,DET,Knox II BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0309,3,03:14,DET,68.0,NYK,97.0,K. Knox II,DET,Knox II Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0309,3,03:14,DET,69.0,NYK,97.0,K. Knox II,DET,Knox II Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0309,3,02:57,DET,,NYK,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0309,3,02:34,DET,,NYK,,K. Knox II,DET,SUB: McGruder FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0309,4,02:30,DET,,NYK,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0309,4,01:25,DET,,NYK,,K. Knox II,DET,Knox II BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0309,4,01:06,DET,,NYK,,K. Knox II,DET,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,-178,199,27,1,3.0,0.0,h
+S2223-G0309,4,00:55.300000,DET,,NYK,,K. Knox II,DET,Knox II STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0309,4,00:52.700000,DET,108.0,NYK,138.0,K. Knox II,DET,Knox II Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0309,4,00:52.700000,DET,,NYK,,K. Knox II,DET,MISS Knox II Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0325,1,00:53.500000,DET,,DAL,,K. Knox II,DET,Knox II S.FOUL (P1.T4) (J.Reneau),Foul,Shooting,0,0,0,0,,,h
+S2223-G0325,2,07:33,DET,,DAL,,K. Knox II,DET,Knox II P.FOUL (P2.T3) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2223-G0325,2,06:38,DET,,DAL,,K. Knox II,DET,SUB: Hayes FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0325,3,00:19.200000,DET,,DAL,,K. Knox II,DET,Knox II STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0325,4,11:17,DET,,DAL,,K. Knox II,DET,Knox II S.FOUL (P3.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0325,4,10:22,DET,,DAL,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0325,4,10:22,DET,103.0,DAL,94.0,K. Knox II,DET,Knox II Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0325,4,10:00,DET,,DAL,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0325,4,08:38,DET,,DAL,,K. Knox II,DET,SUB: Stewart FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0743,1,02:36,DET,,HOU,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0743,2,11:29,DET,,HOU,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0743,2,10:49,DET,40.0,HOU,30.0,K. Knox II,DET,Knox II 3PT Jump Shot (3 PTS) (Hayes 1 AST),Made Shot,Jump Shot,-227,34,0,1,3.0,3.0,h
+S2223-G0743,2,10:32,DET,,HOU,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0743,2,09:30,DET,,HOU,,K. Knox II,DET,Knox II Traveling Turnover (P1.T7),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0743,2,08:56,DET,43.0,HOU,36.0,K. Knox II,DET,Knox II 26' 3PT Jump Shot (6 PTS) (Stewart 1 AST),Made Shot,Jump Shot,-37,260,26,1,3.0,3.0,h
+S2223-G0743,2,08:10,DET,,HOU,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0743,2,07:53,DET,,HOU,,K. Knox II,DET,SUB: Bey FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G1017,4,11:28,NOP,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1017,4,11:10,NOP,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1017,4,08:31,NOP,115.0,POR,79.0,K. Knox II,POR,Knox II 26' 3PT Jump Shot (3 PTS) (Johnson 1 AST),Made Shot,Jump Shot,-130,226,26,1,3.0,3.0,v
+S2223-G1017,4,07:25,NOP,117.0,POR,84.0,K. Knox II,POR,Knox II 28' 3PT Running Jump Shot (6 PTS) (Sharpe 1 AST),Made Shot,Running Jump Shot,-186,207,28,1,3.0,3.0,v
+S2223-G1017,4,06:41,NOP,,POR,,K. Knox II,POR,MISS Knox II 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-157,214,27,1,3.0,0.0,v
+S2223-G1017,4,06:31,NOP,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1017,4,06:27,NOP,117.0,POR,89.0,K. Knox II,POR,Knox II 1' Running Dunk (8 PTS),Made Shot,Running Dunk Shot,1,13,1,1,2.0,2.0,v
+S2223-G1017,4,04:24,NOP,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1017,4,04:06,NOP,,POR,,K. Knox II,POR,Knox II P.FOUL (P1.PN) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2223-G1017,4,03:00,NOP,124.0,POR,98.0,K. Knox II,POR,Knox II 2' Running Dunk (10 PTS) (Johnson 2 AST),Made Shot,Running Dunk Shot,-2,16,2,1,2.0,2.0,v
+S2223-G1017,4,01:10,NOP,126.0,POR,106.0,K. Knox II,POR,Knox II 2' Running Layup (12 PTS) (Sharpe 3 AST),Made Shot,Running Layup Shot,15,6,2,1,2.0,2.0,v
+S2223-G1017,4,00:58.500000,NOP,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1017,4,00:57.100000,NOP,126.0,POR,108.0,K. Knox II,POR,Knox II 2' Running Layup (14 PTS),Made Shot,Running Layup Shot,16,8,2,1,2.0,2.0,v
+S2223-G1017,4,00:43.400000,NOP,,POR,,K. Knox II,POR,Knox II S.FOUL (P2.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0283,1,02:53,PHX,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0283,2,11:12,PHX,,DET,,K. Knox II,DET,MISS Knox II 3' Driving Layup,Missed Shot,Driving Layup Shot,-17,29,3,1,2.0,0.0,v
+S2223-G0283,2,10:38,PHX,,DET,,K. Knox II,DET,Knox II BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0283,2,10:10,PHX,,DET,,K. Knox II,DET,Knox II L.B.FOUL (P1.T1) (L.Wood),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0283,2,08:36,PHX,,DET,,K. Knox II,DET,MISS Knox II 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,42,98,11,1,2.0,0.0,v
+S2223-G0283,2,07:48,PHX,30.0,DET,31.0,K. Knox II,DET,Knox II 1' Running Dunk (2 PTS) (Diallo 1 AST),Made Shot,Running Dunk Shot,7,8,1,1,2.0,2.0,v
+S2223-G0283,2,06:47,PHX,32.0,DET,34.0,K. Knox II,DET,Knox II 26' 3PT Running Jump Shot (5 PTS) (Hayes 3 AST),Made Shot,Running Jump Shot,188,176,26,1,3.0,3.0,v
+S2223-G0283,2,02:50,PHX,,DET,,K. Knox II,DET,SUB: McGruder FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0283,2,00:41.700000,PHX,,DET,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,-230,14,0,1,3.0,0.0,v
+S2223-G0283,2,00:30.900000,PHX,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0283,4,08:42,PHX,,DET,,K. Knox II,DET,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,-222,151,27,1,3.0,0.0,v
+S2223-G0283,4,07:24,PHX,,DET,,K. Knox II,DET,Knox II STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0283,4,06:14,PHX,94.0,DET,89.0,K. Knox II,DET,Knox II 3' Cutting Layup Shot (7 PTS) (Duren 2 AST),Made Shot,Cutting Layup Shot,-15,23,3,1,2.0,2.0,v
+S2223-G0283,4,03:38,PHX,,DET,,K. Knox II,DET,Knox II BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0283,4,03:35,PHX,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0283,4,02:16,PHX,,DET,,K. Knox II,DET,Knox II S.FOUL (P2.T4) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2223-G0283,4,02:02,PHX,,DET,,K. Knox II,DET,Knox II REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0515,3,01:57,DET,,ORL,,K. Knox II,DET,Knox II Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0515,3,01:11,DET,,ORL,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0515,3,01:04,DET,,ORL,,K. Knox II,DET,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,-7,250,25,1,3.0,0.0,h
+S2223-G0515,4,10:51,DET,97.0,ORL,79.0,K. Knox II,DET,Knox II 3PT Jump Shot (3 PTS) (Ivey 3 AST),Made Shot,Jump Shot,-234,-13,0,1,3.0,3.0,h
+S2223-G0515,4,09:26,DET,,ORL,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,-233,-12,0,1,3.0,0.0,h
+S2223-G0515,4,08:46,DET,,ORL,,K. Knox II,DET,SUB: Bogdanovic FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0057,2,09:21,DET,,ATL,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0057,2,08:50,DET,,ATL,,K. Knox II,DET,Knox II P.FOUL (P1.T1) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2223-G0057,2,06:34,DET,,ATL,,K. Knox II,DET,Knox II P.FOUL (P2.T2) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0057,2,06:34,DET,,ATL,,K. Knox II,DET,SUB: Bogdanovic FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0295,1,01:08,DET,,CLE,,K. Knox II,DET,Knox II S.FOUL (P1.T3) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0295,2,09:51,DET,,CLE,,K. Knox II,DET,MISS Knox II 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22,67,7,1,2.0,0.0,h
+S2223-G0295,2,09:47,DET,,CLE,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0295,2,08:06,DET,38.0,CLE,29.0,K. Knox II,DET,Knox II 25' 3PT Jump Shot (3 PTS) (Hayes 4 AST),Made Shot,Jump Shot,239,79,25,1,3.0,3.0,h
+S2223-G0295,2,05:35,DET,,CLE,,K. Knox II,DET,Knox II S.FOUL (P2.T4) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0295,2,03:26,DET,,CLE,,K. Knox II,DET,SUB: McGruder FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0295,3,02:16,DET,,CLE,,K. Knox II,DET,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,28,252,25,1,3.0,0.0,h
+S2223-G0295,3,00:04.100000,DET,,CLE,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0295,4,11:24,DET,,CLE,,K. Knox II,DET,Knox II Traveling Turnover (P1.T14),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0295,4,09:02,DET,,CLE,,K. Knox II,DET,SUB: Bey FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0447,1,00:32.600000,DET,,BKN,,K. Knox II,DET,MISS Knox II Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0447,1,00:32.600000,DET,32.0,BKN,21.0,K. Knox II,DET,Knox II Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0447,1,00:12,DET,,BKN,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0447,2,11:16,DET,,BKN,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0447,2,11:14,DET,,BKN,,K. Knox II,DET,MISS Knox II 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,227,96,25,1,3.0,0.0,h
+S2223-G0447,2,10:03,DET,39.0,BKN,26.0,K. Knox II,DET,Knox II 12' Fadeaway Jumper (3 PTS) (Joseph 2 AST),Made Shot,Fadeaway Jump Shot,-116,43,12,1,2.0,2.0,h
+S2223-G0447,2,07:39,DET,,BKN,,K. Knox II,DET,MISS Knox II 6' Running Layup,Missed Shot,Running Layup Shot,-18,57,6,1,2.0,0.0,h
+S2223-G0447,2,04:20,DET,,BKN,,K. Knox II,DET,Knox II S.FOUL (P1.T4) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2223-G0447,2,03:57,DET,,BKN,,K. Knox II,DET,Knox II Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0447,2,03:44,DET,,BKN,,K. Knox II,DET,SUB: Bogdanovic FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0447,3,01:55,DET,,BKN,,K. Knox II,DET,Knox II P.FOUL (P2.PN) (J.Schroeder),Foul,Personal,0,0,0,0,,,h
+S2223-G0447,3,00:57.700000,DET,94.0,BKN,89.0,K. Knox II,DET,Knox II 24' 3PT Jump Shot (6 PTS) (Joseph 4 AST),Made Shot,Jump Shot,232,64,24,1,3.0,3.0,h
+S2223-G0447,4,11:20,DET,,BKN,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0447,4,11:05,DET,,BKN,,K. Knox II,DET,Knox II STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0447,4,11:05,DET,98.0,BKN,98.0,K. Knox II,DET,Knox II 1' Running Layup (8 PTS),Made Shot,Running Layup Shot,5,-5,1,1,2.0,2.0,h
+S2223-G0447,4,11:05,DET,99.0,BKN,98.0,K. Knox II,DET,Knox II Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0447,4,07:58,DET,,BKN,,K. Knox II,DET,MISS Knox II 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-232,96,25,1,3.0,0.0,h
+S2223-G0447,4,07:40,DET,,BKN,,K. Knox II,DET,SUB: Stewart FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0113,4,01:38,MIL,,DET,,K. Knox II,DET,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,-197,147,25,1,3.0,0.0,v
+S2223-G0113,4,01:08,MIL,115.0,DET,87.0,K. Knox II,DET,Knox II 11' Driving Floating Jump Shot (2 PTS) (Joseph 5 AST),Made Shot,Driving Floating Jump Shot,-43,104,11,1,2.0,2.0,v
+S2223-G0113,4,00:23,MIL,116.0,DET,91.0,K. Knox II,DET,Knox II 1' Driving Dunk (4 PTS) (Joseph 6 AST),Made Shot,Driving Dunk Shot,5,-5,1,1,2.0,2.0,v
+S2223-G1145,1,11:40,POR,2.0,SAC,0.0,K. Knox II,POR,Knox II 12' Pullup Jump Shot (2 PTS) (Eubanks 1 AST),Made Shot,Pullup Jump shot,115,16,12,1,2.0,2.0,h
+S2223-G1145,1,10:51,POR,,SAC,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,1,10:34,POR,,SAC,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,1,10:34,POR,4.0,SAC,0.0,K. Knox II,POR,Knox II Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1145,1,09:17,POR,,SAC,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,1,06:12,POR,,SAC,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,1,04:50,POR,,SAC,,K. Knox II,POR,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,-147,231,27,1,3.0,0.0,h
+S2223-G1145,1,04:47,POR,,SAC,,K. Knox II,POR,Knox II REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,1,04:44,POR,17.0,SAC,12.0,K. Knox II,POR,Knox II 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,7,10,1,1,2.0,2.0,h
+S2223-G1145,1,04:14,POR,,SAC,,K. Knox II,POR,MISS Knox II 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,50,70,9,1,2.0,0.0,h
+S2223-G1145,1,03:32,POR,,SAC,,K. Knox II,POR,MISS Knox II 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-235,26,24,1,3.0,0.0,h
+S2223-G1145,1,03:29,POR,,SAC,,K. Knox II,POR,SUB: Eubanks FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G1145,2,10:36,POR,,SAC,,K. Knox II,POR,MISS Knox II 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-20,151,15,1,2.0,0.0,h
+S2223-G1145,2,09:21,POR,26.0,SAC,29.0,K. Knox II,POR,Knox II Driving Dunk (8 PTS) (Eubanks 4 AST),Made Shot,Driving Dunk Shot,-2,0,0,1,2.0,2.0,h
+S2223-G1145,2,06:26,POR,,SAC,,K. Knox II,POR,Knox II Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1145,2,06:06,POR,,SAC,,K. Knox II,POR,Knox II STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1145,2,05:29,POR,,SAC,,K. Knox II,POR,Knox II L.B.FOUL (P1.T4) (T.Maddox),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1145,2,04:06,POR,,SAC,,K. Knox II,POR,Knox II REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,2,04:03,POR,32.0,SAC,41.0,K. Knox II,POR,Knox II 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,20,1,2,1,2.0,2.0,h
+S2223-G1145,2,03:51,POR,,SAC,,K. Knox II,POR,SUB: Butler Jr. FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G1145,3,10:48,POR,,SAC,,K. Knox II,POR,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,184,182,26,1,3.0,0.0,h
+S2223-G1145,3,08:43,POR,,SAC,,K. Knox II,POR,MISS Knox II 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,192,103,22,1,2.0,0.0,h
+S2223-G1145,3,06:23,POR,,SAC,,K. Knox II,POR,MISS Knox II 2' Driving Layup,Missed Shot,Driving Layup Shot,15,10,2,1,2.0,0.0,h
+S2223-G1145,3,05:31,POR,,SAC,,K. Knox II,POR,SUB: Little FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G1145,3,01:36,POR,,SAC,,K. Knox II,POR,Knox II REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,3,01:30,POR,,SAC,,K. Knox II,POR,Knox II Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1145,4,11:22,POR,,SAC,,K. Knox II,POR,Knox II S.FOUL (P2.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G1145,4,10:33,POR,,SAC,,K. Knox II,POR,Knox II Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1145,4,09:26,POR,,SAC,,K. Knox II,POR,MISS Knox II 2' Driving Layup,Missed Shot,Driving Layup Shot,-9,14,2,1,2.0,0.0,h
+S2223-G1145,4,06:46,POR,,SAC,,K. Knox II,POR,Knox II REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,4,06:31,POR,72.0,SAC,104.0,K. Knox II,POR,Knox II 8' Driving Bank Hook Shot (12 PTS),Made Shot,Driving Bank Hook Shot,62,46,8,1,2.0,2.0,h
+S2223-G1145,4,05:19,POR,,SAC,,K. Knox II,POR,Knox II Traveling Turnover (P4.T14),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1145,4,04:34,POR,,SAC,,K. Knox II,POR,Knox II REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,4,04:11,POR,,SAC,,K. Knox II,POR,Knox II REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,4,03:41,POR,,SAC,,K. Knox II,POR,Knox II REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,4,03:33,POR,,SAC,,K. Knox II,POR,MISS Knox II 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-129,232,27,1,3.0,0.0,h
+S2223-G1145,4,03:13,POR,,SAC,,K. Knox II,POR,Knox II REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1145,4,01:44,POR,,SAC,,K. Knox II,POR,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,-208,134,25,1,3.0,0.0,h
+S2223-G0596,2,08:11,DET,,PHI,,K. Knox II,DET,Knox II Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0596,2,08:06,DET,,PHI,,K. Knox II,DET,Knox II S.FOUL (P1.T2) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0596,2,05:22,DET,46.0,PHI,50.0,K. Knox II,DET,Knox II 24' 3PT Jump Shot (3 PTS) (Ivey 4 AST),Made Shot,Jump Shot,235,64,24,1,3.0,3.0,h
+S2223-G0596,2,05:10,DET,,PHI,,K. Knox II,DET,Knox II S.FOUL (P2.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G0596,2,01:35,DET,,PHI,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0596,2,01:09,DET,,PHI,,K. Knox II,DET,SUB: Hayes FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0596,3,01:19,DET,,PHI,,K. Knox II,DET,Knox II Lost Ball Turnover (P2.T16),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0596,3,01:00,DET,,PHI,,K. Knox II,DET,MISS Knox II 18' Jump Shot,Missed Shot,Jump Shot,172,50,18,1,2.0,0.0,h
+S2223-G0596,3,00:14,DET,,PHI,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,-230,6,0,1,3.0,0.0,h
+S2223-G0596,4,09:51,DET,,PHI,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0596,4,09:45,DET,,PHI,,K. Knox II,DET,Knox II Out of Bounds - Bad Pass Turnover Turnover (P3.T19),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0596,4,09:25,DET,,PHI,,K. Knox II,DET,Knox II S.FOUL (P3.T3) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0596,4,09:25,DET,,PHI,,K. Knox II,DET,SUB: Bogdanovic FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G1104,1,01:24,POR,,CHI,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1104,2,11:30,POR,,CHI,,K. Knox II,POR,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,123,239,27,1,3.0,0.0,h
+S2223-G1104,2,09:38,POR,,CHI,,K. Knox II,POR,SUB: Thybulle FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G1104,4,11:49,POR,74.0,CHI,94.0,K. Knox II,POR,Knox II 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,33,18,4,1,2.0,2.0,h
+S2223-G1104,4,09:45,POR,,CHI,,K. Knox II,POR,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,-180,202,27,1,3.0,0.0,h
+S2223-G1104,4,09:19,POR,81.0,CHI,103.0,K. Knox II,POR,Knox II 3' Alley Oop Layup (4 PTS) (Walker 1 AST),Made Shot,Alley Oop Layup shot,25,12,3,1,2.0,2.0,h
+S2223-G1104,4,08:04,POR,83.0,CHI,105.0,K. Knox II,POR,Knox II 2' Driving Layup (6 PTS) (Arcidiacono 6 AST),Made Shot,Driving Layup Shot,9,13,2,1,2.0,2.0,h
+S2223-G1104,4,04:54,POR,,CHI,,K. Knox II,POR,MISS Knox II 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-28,132,13,1,2.0,0.0,h
+S2223-G1104,4,04:01,POR,,CHI,,K. Knox II,POR,MISS Knox II 2' Driving Layup,Missed Shot,Driving Layup Shot,16,17,2,1,2.0,0.0,h
+S2223-G1104,4,03:34,POR,,CHI,,K. Knox II,POR,MISS Knox II 28' 3PT Jump Shot,Missed Shot,Jump Shot,-75,265,28,1,3.0,0.0,h
+S2223-G1104,4,02:37,POR,,CHI,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0559,4,11:58,POR,,DET,,K. Knox II,DET,Knox II Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0559,4,10:46,POR,,DET,,K. Knox II,DET,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,216,151,26,1,3.0,0.0,v
+S2223-G0559,4,08:55,POR,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0559,4,08:49,POR,,DET,,K. Knox II,DET,MISS Knox II 2' Driving Layup,Missed Shot,Driving Layup Shot,21,8,2,1,2.0,0.0,v
+S2223-G0559,4,08:21,POR,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0559,4,03:10,POR,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0559,4,03:05,POR,124.0,DET,97.0,K. Knox II,DET,Knox II 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,6,1,1,2.0,2.0,v
+S2223-G0559,4,00:47.100000,POR,,DET,,K. Knox II,DET,Knox II S.FOUL (P1.PN) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0559,4,00:17.400000,POR,135.0,DET,105.0,K. Knox II,DET,Knox II Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0559,4,00:17.400000,POR,135.0,DET,106.0,K. Knox II,DET,Knox II Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0867,4,05:26,POR,,LAL,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0867,4,05:15,POR,,LAL,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0867,4,04:40,POR,119.0,LAL,97.0,K. Knox II,POR,Knox II 11' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,-58,92,11,1,2.0,2.0,h
+S2223-G0867,4,01:48,POR,,LAL,,K. Knox II,POR,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,-186,184,26,1,3.0,0.0,h
+S2223-G0867,4,01:25,POR,126.0,LAL,108.0,K. Knox II,POR,Knox II Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0867,4,01:25,POR,127.0,LAL,108.0,K. Knox II,POR,Knox II Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0867,4,00:50.900000,POR,,LAL,,K. Knox II,POR,Knox II S.FOUL (P1.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0467,2,10:11,PHI,,DET,,K. Knox II,DET,Knox II Step Out of Bounds Turnover (P1.T10),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0467,2,08:00,PHI,,DET,,K. Knox II,DET,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,153,226,27,1,3.0,0.0,v
+S2223-G0467,2,06:15,PHI,,DET,,K. Knox II,DET,Knox II Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0467,2,05:38,PHI,,DET,,K. Knox II,DET,Pistons T.Foul (Def. 3 Sec Knox II ) (M.Myers),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0467,2,05:11,PHI,,DET,,K. Knox II,DET,Knox II Traveling Turnover (P3.T12),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0467,2,04:27,PHI,,DET,,K. Knox II,DET,SUB: Ivey FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0467,3,04:25,PHI,81.0,DET,70.0,K. Knox II,DET,Knox II 2' Driving Layup (2 PTS) (Burks 1 AST),Made Shot,Driving Layup Shot,10,16,2,1,2.0,2.0,v
+S2223-G0467,3,04:06,PHI,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0467,3,04:00,PHI,,DET,,K. Knox II,DET,MISS Knox II 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,51,24,1,3.0,0.0,v
+S2223-G0467,3,03:20,PHI,,DET,,K. Knox II,DET,Knox II STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0467,3,03:20,PHI,,DET,,K. Knox II,DET,Knox II Out of Bounds Lost Ball Turnover (P4.T17),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0467,3,02:04,PHI,,DET,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,-230,17,0,1,3.0,0.0,v
+S2223-G0467,4,11:14,PHI,,DET,,K. Knox II,DET,Knox II S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0467,4,06:42,PHI,,DET,,K. Knox II,DET,MISS Knox II 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,67,24,1,3.0,0.0,v
+S2223-G0467,4,06:27,PHI,,DET,,K. Knox II,DET,SUB: Stewart FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0499,2,10:21,DET,,LAC,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0499,2,10:01,DET,,LAC,,K. Knox II,DET,Knox II P.FOUL (P1.T2) (E.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G0499,2,09:15,DET,,LAC,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,227,35,0,1,3.0,0.0,h
+S2223-G0499,2,04:49,DET,,LAC,,K. Knox II,DET,SUB: Bogdanovic FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0163,4,05:24,BOS,,DET,,K. Knox II,DET,Knox II Offensive Charge Foul (P1) (T.Brothers),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0163,4,05:24,BOS,,DET,,K. Knox II,DET,Knox II Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0163,4,01:19,BOS,,DET,,K. Knox II,DET,MISS Knox II 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-225,155,27,1,3.0,0.0,v
+S2223-G1230,1,12:00,POR,,GSW,,K. Knox II,POR,Jump Ball Knox II vs. Looney: Tip to D. Green,Jump Ball,,0,0,0,0,,,h
+S2223-G1230,1,10:19,POR,,GSW,,K. Knox II,POR,Knox II S.FOUL (P1.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G1230,1,05:55,POR,,GSW,,K. Knox II,POR,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,213,143,26,1,3.0,0.0,h
+S2223-G1230,1,04:38,POR,23.0,GSW,32.0,K. Knox II,POR,Knox II 13' Pullup Jump Shot (2 PTS) (Mays 2 AST),Made Shot,Pullup Jump shot,75,109,13,1,2.0,2.0,h
+S2223-G1230,1,03:56,POR,,GSW,,K. Knox II,POR,MISS Knox II 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-4,35,4,1,2.0,0.0,h
+S2223-G1230,1,03:13,POR,,GSW,,K. Knox II,POR,MISS Knox II 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,118,230,26,1,3.0,0.0,h
+S2223-G1230,1,02:48,POR,,GSW,,K. Knox II,POR,SUB: Minaya FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G1230,2,10:30,POR,,GSW,,K. Knox II,POR,MISS Knox II 4' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,36,13,4,1,2.0,0.0,h
+S2223-G1230,2,09:39,POR,,GSW,,K. Knox II,POR,Knox II STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1230,2,09:33,POR,31.0,GSW,59.0,K. Knox II,POR,Knox II 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,13,-7,1,1,2.0,2.0,h
+S2223-G1230,2,08:49,POR,34.0,GSW,61.0,K. Knox II,POR,Knox II 27' 3PT Jump Shot (7 PTS) (Mays 3 AST),Made Shot,Jump Shot,99,256,27,1,3.0,3.0,h
+S2223-G1230,2,04:42,POR,,GSW,,K. Knox II,POR,Knox II S.FOUL (P2.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2223-G1230,2,04:30,POR,,GSW,,K. Knox II,POR,MISS Knox II 24' 3PT Jump Shot,Missed Shot,Jump Shot,-217,110,24,1,3.0,0.0,h
+S2223-G1230,2,02:20,POR,,GSW,,K. Knox II,POR,MISS Knox II 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-76,17,8,1,2.0,0.0,h
+S2223-G1230,2,02:05,POR,,GSW,,K. Knox II,POR,SUB: Minaya FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G1230,3,08:11,POR,,GSW,,K. Knox II,POR,MISS Knox II 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-60,48,8,1,2.0,0.0,h
+S2223-G1230,3,07:20,POR,,GSW,,K. Knox II,POR,MISS Knox II 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-12,-5,1,1,2.0,0.0,h
+S2223-G1230,3,06:21,POR,,GSW,,K. Knox II,POR,MISS Knox II Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1230,3,06:21,POR,65.0,GSW,100.0,K. Knox II,POR,Knox II Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1230,3,05:25,POR,,GSW,,K. Knox II,POR,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,-110,252,27,1,3.0,0.0,h
+S2223-G1230,3,04:53,POR,,GSW,,K. Knox II,POR,MISS Knox II 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-230,5,0,1,3.0,0.0,h
+S2223-G1230,3,04:39,POR,,GSW,,K. Knox II,POR,SUB: Butler Jr. FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G1230,4,09:36,POR,76.0,GSW,125.0,K. Knox II,POR,Knox II Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1230,4,09:36,POR,77.0,GSW,125.0,K. Knox II,POR,Knox II Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1230,4,09:09,POR,,GSW,,K. Knox II,POR,MISS Knox II 29' 3PT Jump Shot,Missed Shot,Jump Shot,-148,251,29,1,3.0,0.0,h
+S2223-G1230,4,08:51,POR,,GSW,,K. Knox II,POR,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,183,181,26,1,3.0,0.0,h
+S2223-G1230,4,05:33,POR,89.0,GSW,137.0,K. Knox II,POR,Knox II 25' 3PT Jump Shot (13 PTS) (Mays 9 AST),Made Shot,Jump Shot,-195,162,25,1,3.0,3.0,h
+S2223-G1230,4,04:06,POR,,GSW,,K. Knox II,POR,SUB: Butler Jr. FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0270,1,01:44,UTA,23.0,DET,24.0,K. Knox II,DET,Knox II 3PT Jump Shot (3 PTS) (Diallo 1 AST),Made Shot,Jump Shot,-227,-5,0,1,3.0,3.0,v
+S2223-G0270,1,01:20,UTA,,DET,,K. Knox II,DET,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,-184,173,25,1,3.0,0.0,v
+S2223-G0270,1,00:15.200000,UTA,25.0,DET,30.0,K. Knox II,DET,Knox II 26' 3PT Jump Shot (6 PTS) (Burks 1 AST),Made Shot,Jump Shot,161,201,26,1,3.0,3.0,v
+S2223-G0270,1,00:03.500000,UTA,,DET,,K. Knox II,DET,Knox II P.FOUL (P1.T3) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G0270,2,11:28,UTA,25.0,DET,33.0,K. Knox II,DET,Knox II 24' 3PT Jump Shot (9 PTS) (Joseph 2 AST),Made Shot,Jump Shot,237,19,24,1,3.0,3.0,v
+S2223-G0270,2,10:01,UTA,,DET,,K. Knox II,DET,Knox II Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0270,2,09:21,UTA,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0270,2,06:44,UTA,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0270,2,05:51,UTA,,DET,,K. Knox II,DET,SUB: Ivey FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0270,4,10:04,UTA,,DET,,K. Knox II,DET,Knox II S.FOUL (P2.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0270,4,09:56,UTA,95.0,DET,99.0,K. Knox II,DET,Knox II Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0270,4,09:56,UTA,95.0,DET,100.0,K. Knox II,DET,Knox II Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0270,4,09:25,UTA,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0270,4,09:14,UTA,95.0,DET,103.0,K. Knox II,DET,Knox II 26' 3PT Jump Shot (14 PTS) (Bogdanovic 1 AST),Made Shot,Jump Shot,91,248,26,1,3.0,3.0,v
+S2223-G0270,4,07:07,UTA,,DET,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,229,46,0,1,3.0,0.0,v
+S2223-G0270,4,06:55,UTA,101.0,DET,110.0,K. Knox II,DET,Knox II 3PT Jump Shot (17 PTS) (Diallo 2 AST),Made Shot,Jump Shot,229,47,0,1,3.0,3.0,v
+S2223-G0270,4,04:43,UTA,106.0,DET,113.0,K. Knox II,DET,Knox II 3PT Jump Shot (20 PTS) (Ivey 6 AST),Made Shot,Jump Shot,-232,18,0,1,3.0,3.0,v
+S2223-G0270,4,00:23.500000,UTA,,DET,,K. Knox II,DET,MISS Knox II Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0270,4,00:23.500000,UTA,112.0,DET,121.0,K. Knox II,DET,Knox II Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0070,4,02:09,DET,,ATL,,K. Knox II,DET,MISS Knox II 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,27,24,1,3.0,0.0,h
+S2223-G0532,1,00:02.400000,CHI,,DET,,K. Knox II,DET,Knox II Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0532,2,11:35,CHI,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0532,2,11:06,CHI,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0532,2,10:13,CHI,35.0,DET,34.0,K. Knox II,DET,Knox II 3PT Jump Shot (3 PTS) (Burks 2 AST),Made Shot,Jump Shot,219,3,0,1,3.0,3.0,v
+S2223-G0532,2,07:11,CHI,,DET,,K. Knox II,DET,Knox II STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0532,2,07:09,CHI,41.0,DET,42.0,K. Knox II,DET,Knox II Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0532,2,07:09,CHI,41.0,DET,43.0,K. Knox II,DET,Knox II Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0532,2,07:00,CHI,,DET,,K. Knox II,DET,Knox II P.FOUL (P1.T2) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0532,2,06:52,CHI,,DET,,K. Knox II,DET,SUB: Ivey FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0532,4,11:16,CHI,,DET,,K. Knox II,DET,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,-179,193,26,1,3.0,0.0,v
+S2223-G0532,4,09:36,CHI,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0532,4,09:26,CHI,,DET,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,-227,1,0,1,3.0,0.0,v
+S2223-G0532,4,08:10,CHI,,DET,,K. Knox II,DET,SUB: Bey FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G1159,1,06:15,POR,,SAC,,K. Knox II,POR,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,207,134,25,1,3.0,0.0,h
+S2223-G1159,1,05:23,POR,,SAC,,K. Knox II,POR,MISS Knox II 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-5,13,1,1,2.0,0.0,h
+S2223-G1159,1,04:57,POR,,SAC,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1159,1,04:22,POR,,SAC,,K. Knox II,POR,MISS Knox II 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-86,165,19,1,2.0,0.0,h
+S2223-G1159,1,02:42,POR,,SAC,,K. Knox II,POR,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,225,11,0,1,3.0,0.0,h
+S2223-G1159,1,02:00,POR,,SAC,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1159,2,11:09,POR,29.0,SAC,36.0,K. Knox II,POR,Knox II 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,12,0,1,1,2.0,2.0,h
+S2223-G1159,2,09:38,POR,,SAC,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1159,2,06:53,POR,,SAC,,K. Knox II,POR,SUB: Watford FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G1159,3,04:06,POR,76.0,SAC,92.0,K. Knox II,POR,Knox II 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-4,4,1,1,2.0,2.0,h
+S2223-G1159,3,04:06,POR,77.0,SAC,92.0,K. Knox II,POR,Knox II Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1159,3,03:45,POR,80.0,SAC,94.0,K. Knox II,POR,Knox II 27' 3PT Pullup Jump Shot (8 PTS) (Harrison 1 AST),Made Shot,Pullup Jump shot,92,253,27,1,3.0,3.0,h
+S2223-G1159,3,03:31,POR,,SAC,,K. Knox II,POR,Knox II STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1159,3,02:33,POR,,SAC,,K. Knox II,POR,Knox II Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1159,3,01:08,POR,86.0,SAC,101.0,K. Knox II,POR,Knox II Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1159,3,01:08,POR,,SAC,,K. Knox II,POR,MISS Knox II Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1159,3,00:00.500000,POR,,SAC,,K. Knox II,POR,MISS Knox II 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,148,176,23,1,2.0,0.0,h
+S2223-G1159,4,09:09,POR,,SAC,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1159,4,07:09,POR,,SAC,,K. Knox II,POR,SUB: Thybulle FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G1159,4,03:57,POR,,SAC,,K. Knox II,POR,MISS Knox II 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-157,1,16,1,2.0,0.0,h
+S2223-G1159,4,03:08,POR,,SAC,,K. Knox II,POR,Knox II Lost Ball Turnover (P2.T18),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1159,4,02:41,POR,,SAC,,K. Knox II,POR,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,146,208,25,1,3.0,0.0,h
+S2223-G1159,4,01:33,POR,,SAC,,K. Knox II,POR,Knox II Lost Ball Turnover (P3.T19),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0461,1,00:52.600000,DET,,UTA,,K. Knox II,DET,Knox II S.FOUL (P1.PN) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0461,1,00:50.700000,DET,,UTA,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0461,2,08:19,DET,34.0,UTA,41.0,K. Knox II,DET,Knox II 25' 3PT Jump Shot (3 PTS) (Burks 1 AST),Made Shot,Jump Shot,-195,152,25,1,3.0,3.0,h
+S2223-G0461,2,07:58,DET,,UTA,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0461,2,05:35,DET,45.0,UTA,43.0,K. Knox II,DET,Knox II 25' 3PT Jump Shot (6 PTS) (Ivey 4 AST),Made Shot,Jump Shot,196,157,25,1,3.0,3.0,h
+S2223-G0461,2,05:09,DET,,UTA,,K. Knox II,DET,SUB: Bogdanovic FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0461,3,00:02.300000,DET,,UTA,,K. Knox II,DET,Knox II Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0461,4,10:13,DET,,UTA,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0461,4,07:46,DET,,UTA,,K. Knox II,DET,SUB: Ivey FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0461,4,00:56.400000,DET,108.0,UTA,124.0,K. Knox II,DET,Knox II 1' Running Layup (8 PTS) (McGruder 2 AST),Made Shot,Running Layup Shot,7,8,1,1,2.0,2.0,h
+S2223-G0461,4,00:56.400000,DET,109.0,UTA,124.0,K. Knox II,DET,Knox II Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0396,1,00:47.200000,DET,26.0,LAL,30.0,K. Knox II,DET,Knox II 27' 3PT Jump Shot (3 PTS) (Joseph 4 AST),Made Shot,Jump Shot,192,188,27,1,3.0,3.0,h
+S2223-G0396,2,10:26,DET,,LAL,,K. Knox II,DET,MISS Knox II 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-212,182,28,1,3.0,0.0,h
+S2223-G0396,2,06:50,DET,,LAL,,K. Knox II,DET,Knox II Offensive Goaltending Turnover (P1.T6),Turnover,Offensive Goaltending,0,0,0,0,,,h
+S2223-G0396,2,06:50,DET,,LAL,,K. Knox II,DET,Knox II S.FOUL (P1.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0396,2,06:50,DET,,LAL,,K. Knox II,DET,SUB: Stewart FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0396,4,09:51,DET,96.0,LAL,100.0,K. Knox II,DET,Knox II 2' Driving Layup (5 PTS) (Burks 2 AST),Made Shot,Driving Layup Shot,23,2,2,1,2.0,2.0,h
+S2223-G0396,4,08:28,DET,,LAL,,K. Knox II,DET,Knox II S.FOUL (P2.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0396,4,08:02,DET,,LAL,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0396,4,06:49,DET,,LAL,,K. Knox II,DET,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,234,79,25,1,3.0,0.0,h
+S2223-G0396,4,05:36,DET,,LAL,,K. Knox II,DET,SUB: Hayes FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0894,4,11:43,SAC,,POR,,K. Knox II,POR,Knox II S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0894,4,11:39,SAC,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0894,4,08:49,SAC,,POR,,K. Knox II,POR,SUB: Arcidiacono FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0894,4,01:48,SAC,,POR,,K. Knox II,POR,Knox II P.FOUL (P2.PN) (C.Flores),Foul,Personal,0,0,0,0,,,v
+S2223-G0894,4,00:40.600000,SAC,,POR,,K. Knox II,POR,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,132,236,27,1,3.0,0.0,v
+S2223-G0986,4,04:59,BOS,,POR,,K. Knox II,POR,MISS Knox II 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,104,164,19,1,2.0,0.0,v
+S2223-G0986,4,03:54,BOS,,POR,,K. Knox II,POR,Knox II STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0986,4,01:28,BOS,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0986,4,01:26,BOS,,POR,,K. Knox II,POR,MISS Knox II 1' Running Alley Oop Dunk Shot,Missed Shot,Running Alley Oop Dunk Shot,-2,11,1,1,2.0,0.0,v
+S2223-G0383,1,01:30,MEM,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0383,1,00:13.400000,MEM,34.0,DET,26.0,K. Knox II,DET,Knox II Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0383,1,00:13.400000,MEM,34.0,DET,27.0,K. Knox II,DET,Knox II Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0383,2,11:05,MEM,34.0,DET,32.0,K. Knox II,DET,Knox II 25' 3PT Jump Shot (5 PTS) (Bagley III 1 AST),Made Shot,Jump Shot,-218,132,25,1,3.0,3.0,v
+S2223-G0383,2,10:06,MEM,38.0,DET,35.0,K. Knox II,DET,Knox II 26' 3PT Step Back Jump Shot (8 PTS) (Joseph 2 AST),Made Shot,Step Back Jump shot,-119,228,26,1,3.0,3.0,v
+S2223-G0383,2,08:20,MEM,40.0,DET,40.0,K. Knox II,DET,Knox II 3PT Jump Shot (11 PTS) (Burks 2 AST),Made Shot,Jump Shot,-230,31,0,1,3.0,3.0,v
+S2223-G0383,2,07:13,MEM,40.0,DET,42.0,K. Knox II,DET,Knox II 9' Turnaround Jump Shot (13 PTS) (Burks 3 AST),Made Shot,Turnaround Jump Shot,-12,86,9,1,2.0,2.0,v
+S2223-G0383,2,05:03,MEM,,DET,,K. Knox II,DET,SUB: Ivey FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0383,3,06:16,MEM,,DET,,K. Knox II,DET,Knox II S.FOUL (P1.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0383,3,05:16,MEM,,DET,,K. Knox II,DET,Knox II S.FOUL (P2.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0383,3,02:47,MEM,,DET,,K. Knox II,DET,Knox II P.FOUL (P3.PN) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2223-G0383,3,02:28,MEM,,DET,,K. Knox II,DET,MISS Knox II 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-43,57,7,1,2.0,0.0,v
+S2223-G0383,3,01:37,MEM,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0383,3,00:00.500000,MEM,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0383,4,11:18,MEM,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0383,4,10:51,MEM,,DET,,K. Knox II,DET,Knox II L.B.FOUL (P4.T1) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0383,4,10:51,MEM,,DET,,K. Knox II,DET,SUB: Stewart FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G1091,1,01:59,UTA,,POR,,K. Knox II,POR,MISS Knox II 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-17,-2,2,1,2.0,0.0,v
+S2223-G1091,1,01:22,UTA,,POR,,K. Knox II,POR,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,196,179,27,1,3.0,0.0,v
+S2223-G1091,1,01:08,UTA,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1091,2,10:31,UTA,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1091,2,08:19,UTA,,POR,,K. Knox II,POR,SUB: Watford FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G1091,3,04:53,UTA,,POR,,K. Knox II,POR,Knox II P.FOUL (P1.T4) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2223-G1091,3,02:06,UTA,,POR,,K. Knox II,POR,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,146,209,25,1,3.0,0.0,v
+S2223-G1091,3,00:43.200000,UTA,,POR,,K. Knox II,POR,Knox II Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1091,4,11:04,UTA,,POR,,K. Knox II,POR,Knox II S.FOUL (P2.T1) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2223-G1091,4,10:42,UTA,,POR,,K. Knox II,POR,Knox II S.FOUL (P3.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G1091,4,10:23,UTA,94.0,POR,97.0,K. Knox II,POR,Knox II 26' 3PT Jump Shot (3 PTS) (Sharpe 2 AST),Made Shot,Jump Shot,121,228,26,1,3.0,3.0,v
+S2223-G1091,4,10:03,UTA,94.0,POR,98.0,K. Knox II,POR,Knox II Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1091,4,09:06,UTA,96.0,POR,101.0,K. Knox II,POR,Knox II 3' Running Dunk (6 PTS),Made Shot,Running Dunk Shot,-15,26,3,1,2.0,2.0,v
+S2223-G1091,4,07:11,UTA,100.0,POR,106.0,K. Knox II,POR,Knox II 3' Alley Oop Layup (8 PTS) (Arcidiacono 2 AST),Made Shot,Alley Oop Layup shot,25,22,3,1,2.0,2.0,v
+S2223-G1091,4,06:29,UTA,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1091,4,05:23,UTA,,POR,,K. Knox II,POR,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,223,23,0,1,3.0,0.0,v
+S2223-G1091,4,04:12,UTA,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1091,4,02:48,UTA,110.0,POR,122.0,K. Knox II,POR,Knox II 3' Alley Oop Layup (10 PTS) (Watford 5 AST),Made Shot,Alley Oop Layup shot,26,15,3,1,2.0,2.0,v
+S2223-G1091,4,02:14,UTA,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0706,1,06:41,DET,,MIL,,K. Knox II,DET,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,235,77,25,1,3.0,0.0,h
+S2223-G0706,1,05:39,DET,,MIL,,K. Knox II,DET,Knox II S.FOUL (P1.T4) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G0706,1,04:38,DET,,MIL,,K. Knox II,DET,Knox II Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0706,1,02:34,DET,,MIL,,K. Knox II,DET,Knox II Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0706,1,02:21,DET,,MIL,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0706,1,01:56,DET,,MIL,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0706,1,00:59.800000,DET,24.0,MIL,47.0,K. Knox II,DET,Knox II 1' Cutting Layup Shot (2 PTS) (Joseph 3 AST),Made Shot,Cutting Layup Shot,11,10,1,1,2.0,2.0,h
+S2223-G0706,1,00:47.600000,DET,,MIL,,K. Knox II,DET,Knox II STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0706,2,10:49,DET,30.0,MIL,54.0,K. Knox II,DET,Knox II 25' 3PT Jump Shot (5 PTS) (Joseph 5 AST),Made Shot,Jump Shot,28,250,25,1,3.0,3.0,h
+S2223-G0706,2,09:38,DET,,MIL,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0706,2,08:57,DET,,MIL,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0706,2,08:56,DET,,MIL,,K. Knox II,DET,MISS Knox II 8' Floating Jump Shot,Missed Shot,Floating Jump shot,59,58,8,1,2.0,0.0,h
+S2223-G0706,2,08:42,DET,,MIL,,K. Knox II,DET,SUB: Ivey FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0706,4,07:51,DET,,MIL,,K. Knox II,DET,Knox II REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0706,4,07:33,DET,,MIL,,K. Knox II,DET,Knox II S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G0481,1,00:35.300000,ATL,,DET,,K. Knox II,DET,MISS Knox II 24' 3PT Jump Shot,Missed Shot,Jump Shot,159,185,24,1,3.0,0.0,v
+S2223-G0481,2,10:40,ATL,36.0,DET,37.0,K. Knox II,DET,Knox II 21' Pullup Jump Shot (2 PTS) (Joseph 2 AST),Made Shot,Pullup Jump shot,-82,192,21,1,2.0,2.0,v
+S2223-G0481,2,10:22,ATL,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0481,2,09:40,ATL,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0481,2,08:41,ATL,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0481,2,08:00,ATL,,DET,,K. Knox II,DET,MISS Knox II 3' Driving Layup,Missed Shot,Driving Layup Shot,16,24,3,1,2.0,0.0,v
+S2223-G0481,2,07:43,ATL,,DET,,K. Knox II,DET,Knox II S.FOUL (P1.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2223-G0481,2,07:29,ATL,,DET,,K. Knox II,DET,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,-136,214,25,1,3.0,0.0,v
+S2223-G0481,2,07:14,ATL,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0481,2,06:29,ATL,,DET,,K. Knox II,DET,SUB: Stewart FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0481,3,02:49,ATL,,DET,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,-232,-9,0,1,3.0,0.0,v
+S2223-G0481,3,02:27,ATL,,DET,,K. Knox II,DET,MISS Knox II 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,2,24,1,3.0,0.0,v
+S2223-G0481,3,00:11.700000,ATL,,DET,,K. Knox II,DET,MISS Knox II 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-7,125,13,1,2.0,0.0,v
+S2223-G0481,3,00:04.400000,ATL,,DET,,K. Knox II,DET,Knox II S.FOUL (P2.T3) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0481,4,11:40,ATL,,DET,,K. Knox II,DET,Knox II P.FOUL (P3.T1) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0481,4,10:55,ATL,,DET,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,233,0,0,1,3.0,0.0,v
+S2223-G0481,4,09:12,ATL,,DET,,K. Knox II,DET,SUB: Bogdanovic FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0481,4,00:49.500000,ATL,128.0,DET,103.0,K. Knox II,DET,Knox II 3PT Jump Shot (5 PTS) (Diallo 1 AST),Made Shot,Jump Shot,-232,-9,0,1,3.0,3.0,v
+S2223-G1199,1,05:08,SAS,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1199,1,05:04,SAS,20.0,POR,27.0,K. Knox II,POR,Knox II 2' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,20,0,2,1,2.0,2.0,v
+S2223-G1199,1,03:28,SAS,,POR,,K. Knox II,POR,Knox II Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1199,1,01:40,SAS,32.0,POR,34.0,K. Knox II,POR,Knox II 25' 3PT Jump Shot (5 PTS) (Harrison 2 AST),Made Shot,Jump Shot,130,215,25,1,3.0,3.0,v
+S2223-G1199,1,01:11,SAS,32.0,POR,37.0,K. Knox II,POR,Knox II 25' 3PT Jump Shot (8 PTS) (Harrison 3 AST),Made Shot,Jump Shot,239,80,25,1,3.0,3.0,v
+S2223-G1199,1,00:00,SAS,,POR,,K. Knox II,POR,MISS Knox II 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-204,193,28,1,3.0,0.0,v
+S2223-G1199,2,11:21,SAS,33.0,POR,39.0,K. Knox II,POR,Knox II 1' Running Dunk (10 PTS) (Mays 2 AST),Made Shot,Running Dunk Shot,-4,14,1,1,2.0,2.0,v
+S2223-G1199,2,10:39,SAS,,POR,,K. Knox II,POR,SUB: Watford FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G1199,2,01:36,SAS,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1199,2,01:36,SAS,,POR,,K. Knox II,POR,Knox II Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1199,2,01:36,SAS,,POR,,K. Knox II,POR,Knox II Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1199,2,01:09,SAS,,POR,,K. Knox II,POR,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,228,38,0,1,3.0,0.0,v
+S2223-G1199,2,00:18.800000,SAS,,POR,,K. Knox II,POR,MISS Knox II 10' Floating Jump Shot,Missed Shot,Floating Jump shot,-11,98,10,1,2.0,0.0,v
+S2223-G1199,2,00:14.900000,SAS,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1199,2,00:14.900000,SAS,,POR,,K. Knox II,POR,MISS Knox II Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1199,3,03:31,SAS,,POR,,K. Knox II,POR,Knox II Lost Ball Turnover (P4.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1199,3,01:14,SAS,94.0,POR,94.0,K. Knox II,POR,Knox II 25' 3PT Jump Shot (13 PTS) (Harrison 6 AST),Made Shot,Jump Shot,200,143,25,1,3.0,3.0,v
+S2223-G1199,3,00:28.100000,SAS,98.0,POR,97.0,K. Knox II,POR,Knox II Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1199,3,00:28.100000,SAS,98.0,POR,98.0,K. Knox II,POR,Knox II Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1199,3,00:03.400000,SAS,98.0,POR,100.0,K. Knox II,POR,Knox II 13' Pullup Jump Shot (17 PTS) (Minaya 1 AST),Made Shot,Pullup Jump shot,123,-30,13,1,2.0,2.0,v
+S2223-G1199,4,10:20,SAS,,POR,,K. Knox II,POR,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,-98,237,26,1,3.0,0.0,v
+S2223-G1199,4,10:00,SAS,,POR,,K. Knox II,POR,SUB: Williams FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G1199,4,06:04,SAS,110.0,POR,117.0,K. Knox II,POR,Knox II 1' Running Alley Oop Dunk Shot (19 PTS) (Williams 4 AST),Made Shot,Running Alley Oop Dunk Shot,10,5,1,1,2.0,2.0,v
+S2223-G1199,4,02:53,SAS,,POR,,K. Knox II,POR,MISS Knox II 3' Driving Layup,Missed Shot,Driving Layup Shot,25,6,3,1,2.0,0.0,v
+S2223-G1199,4,01:25,SAS,123.0,POR,121.0,K. Knox II,POR,Knox II 15' Pullup Jump Shot (21 PTS) (Butler Jr. 4 AST),Made Shot,Pullup Jump shot,70,133,15,1,2.0,2.0,v
+S2223-G1199,4,00:31.600000,SAS,125.0,POR,123.0,K. Knox II,POR,Knox II 2' Floating Jump Shot (23 PTS) (Eubanks 2 AST),Made Shot,Floating Jump shot,-17,-9,2,1,2.0,2.0,v
+S2223-G1199,4,00:07.600000,SAS,127.0,POR,124.0,K. Knox II,POR,Knox II Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1199,4,00:07.600000,SAS,,POR,,K. Knox II,POR,MISS Knox II Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0618,2,03:28,DET,,MIN,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0618,2,03:17,DET,54.0,MIN,60.0,K. Knox II,DET,Knox II 27' 3PT Jump Shot (3 PTS) (Hayes 3 AST),Made Shot,Jump Shot,-169,214,27,1,3.0,3.0,h
+S2223-G0618,2,02:59,DET,,MIN,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,230,17,0,1,3.0,0.0,h
+S2223-G0618,2,02:17,DET,,MIN,,K. Knox II,DET,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,-194,190,27,1,3.0,0.0,h
+S2223-G0618,2,01:29,DET,,MIN,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0618,4,10:57,DET,103.0,MIN,87.0,K. Knox II,DET,Knox II 5' Pullup Jump Shot (5 PTS) (Burks 5 AST),Made Shot,Pullup Jump shot,-28,41,5,1,2.0,2.0,h
+S2223-G0618,4,10:23,DET,,MIN,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0618,4,08:39,DET,,MIN,,K. Knox II,DET,MISS Knox II 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,51,24,1,3.0,0.0,h
+S2223-G0618,4,08:28,DET,,MIN,,K. Knox II,DET,SUB: Bey FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0931,4,00:18.800000,GSW,,POR,,K. Knox II,POR,MISS Knox II 28' 3PT Jump Shot,Missed Shot,Jump Shot,7,279,28,1,3.0,0.0,v
+S2223-G0120,2,04:58,DET,,CLE,,K. Knox II,DET,Knox II S.FOUL (P1.T2) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G0120,2,04:34,DET,,CLE,,K. Knox II,DET,Knox II BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0120,2,02:20,DET,,CLE,,K. Knox II,DET,Jump Ball Knox II vs. Allen: Tip to Mobley,Jump Ball,,0,0,0,0,,,h
+S2223-G0120,2,01:57,DET,,CLE,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0120,2,01:32,DET,,CLE,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0120,2,01:00,DET,,CLE,,K. Knox II,DET,Knox II P.FOUL (P2.T4) (B.Schwab),Foul,Personal,0,0,0,0,,,h
+S2223-G0120,2,00:28.600000,DET,,CLE,,K. Knox II,DET,SUB: Noel FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0120,4,09:41,DET,,CLE,,K. Knox II,DET,MISS Knox II 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,240,55,25,1,3.0,0.0,h
+S2223-G0120,4,06:05,DET,,CLE,,K. Knox II,DET,Knox II Traveling Turnover (P1.T17),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0120,4,02:13,DET,,CLE,,K. Knox II,DET,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,-130,214,25,1,3.0,0.0,h
+S2223-G0120,4,01:37,DET,85.0,CLE,112.0,K. Knox II,DET,Knox II 26' 3PT Jump Shot (3 PTS) (Joseph 1 AST),Made Shot,Jump Shot,-164,201,26,1,3.0,3.0,h
+S2223-G0822,4,02:37,CLE,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0822,4,02:30,CLE,,DET,,K. Knox II,DET,Knox II Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0822,4,02:18,CLE,,DET,,K. Knox II,DET,Knox II STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0822,4,02:10,CLE,,DET,,K. Knox II,DET,MISS Knox II 30' 3PT Jump Shot,Missed Shot,Jump Shot,186,237,30,1,3.0,0.0,v
+S2223-G0822,4,00:59.600000,CLE,,DET,,K. Knox II,DET,MISS Knox II 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,22,24,1,3.0,0.0,v
+S2223-G1120,1,03:40,POR,22.0,OKC,13.0,K. Knox II,POR,Knox II 26' 3PT Jump Shot (3 PTS) (Johnson 1 AST),Made Shot,Jump Shot,-175,190,26,1,3.0,3.0,h
+S2223-G1120,1,02:54,POR,,OKC,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1120,1,02:08,POR,,OKC,,K. Knox II,POR,Knox II S.FOUL (P1.T4) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1120,1,01:49,POR,29.0,OKC,20.0,K. Knox II,POR,Knox II 3PT Jump Shot (6 PTS) (Johnson 2 AST),Made Shot,Jump Shot,233,-1,0,1,3.0,3.0,h
+S2223-G1120,1,00:41.100000,POR,37.0,OKC,25.0,K. Knox II,POR,Knox II 26' 3PT Jump Shot (9 PTS) (Johnson 4 AST),Made Shot,Jump Shot,-188,183,26,1,3.0,3.0,h
+S2223-G1120,2,11:50,POR,,OKC,,K. Knox II,POR,Knox II S.FOUL (P2.T1) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G1120,2,11:06,POR,,OKC,,K. Knox II,POR,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,224,18,0,1,3.0,0.0,h
+S2223-G1120,2,10:35,POR,,OKC,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1120,2,10:26,POR,,OKC,,K. Knox II,POR,MISS Knox II 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-13,5,1,1,2.0,0.0,h
+S2223-G1120,2,09:41,POR,,OKC,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1120,2,08:19,POR,,OKC,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1120,2,08:12,POR,,OKC,,K. Knox II,POR,SUB: Watford FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G1120,3,00:11.300000,POR,,OKC,,K. Knox II,POR,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,232,34,0,1,3.0,0.0,h
+S2223-G1120,4,11:49,POR,96.0,OKC,96.0,K. Knox II,POR,Knox II 22' Jump Shot (11 PTS),Made Shot,Jump Shot,-69,204,22,1,2.0,2.0,h
+S2223-G1120,4,11:10,POR,,OKC,,K. Knox II,POR,MISS Knox II 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,36,24,4,1,2.0,0.0,h
+S2223-G1120,4,09:25,POR,,OKC,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1120,4,07:36,POR,,OKC,,K. Knox II,POR,Knox II S.FOUL (P3.T2) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G1120,4,07:20,POR,,OKC,,K. Knox II,POR,MISS Knox II 29' 3PT Jump Shot,Missed Shot,Jump Shot,121,261,29,1,3.0,0.0,h
+S2223-G1120,4,06:37,POR,,OKC,,K. Knox II,POR,SUB: Sharpe FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0361,1,01:08,MIA,21.0,DET,20.0,K. Knox II,DET,Knox II 26' 3PT Jump Shot (3 PTS) (Joseph 1 AST),Made Shot,Jump Shot,-178,194,26,1,3.0,3.0,v
+S2223-G0361,1,00:51.400000,MIA,,DET,,K. Knox II,DET,Knox II L.B.FOUL (P1.PN) (C.Flores),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0361,2,10:21,MIA,,DET,,K. Knox II,DET,MISS Knox II 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-158,215,27,1,3.0,0.0,v
+S2223-G0361,2,09:07,MIA,29.0,DET,29.0,K. Knox II,DET,Knox II 9' Floating Jump Shot (5 PTS) (Joseph 2 AST),Made Shot,Floating Jump shot,5,85,9,1,2.0,2.0,v
+S2223-G0361,2,07:49,MIA,,DET,,K. Knox II,DET,Knox II Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0361,2,06:35,MIA,,DET,,K. Knox II,DET,Knox II Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0361,2,05:53,MIA,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0361,2,05:32,MIA,,DET,,K. Knox II,DET,Knox II P.FOUL (P2.T2) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2223-G0361,2,05:32,MIA,,DET,,K. Knox II,DET,SUB: Stewart FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0361,3,00:31.200000,MIA,,DET,,K. Knox II,DET,Knox II S.FOUL (P3.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0361,4,11:14,MIA,,DET,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,232,-1,0,1,3.0,0.0,v
+S2223-G0361,4,09:29,MIA,78.0,DET,84.0,K. Knox II,DET,Knox II 5' Driving Finger Roll Layup (7 PTS) (Bey 3 AST),Made Shot,Driving Finger Roll Layup Shot,41,30,5,1,2.0,2.0,v
+S2223-G0361,4,06:46,MIA,,DET,,K. Knox II,DET,SUB: Stewart FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G1053,3,05:22,POR,63.0,BOS,79.0,K. Knox II,POR,Knox II 25' 3PT Jump Shot (3 PTS) (Lillard 5 AST),Made Shot,Jump Shot,-130,219,25,1,3.0,3.0,h
+S2223-G1053,3,04:33,POR,,BOS,,K. Knox II,POR,Knox II STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1053,3,03:27,POR,,BOS,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1053,4,08:42,POR,,BOS,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1053,4,08:03,POR,,BOS,,K. Knox II,POR,SUB: Nurkic FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0052,4,10:47,WAS,,DET,,K. Knox II,DET,Knox II L.B.FOUL (P1.T1) (T.Ford),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0052,4,10:43,WAS,,DET,,K. Knox II,DET,Knox II S.FOUL (P2.T2) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2223-G0052,4,10:27,WAS,,DET,,K. Knox II,DET,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,-194,155,25,1,3.0,0.0,v
+S2223-G0052,4,09:43,WAS,,DET,,K. Knox II,DET,Knox II STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0052,4,09:40,WAS,90.0,DET,81.0,K. Knox II,DET,Knox II 4' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,26,27,4,1,2.0,2.0,v
+S2223-G0052,4,09:29,WAS,,DET,,K. Knox II,DET,Knox II P.FOUL (P3.T3) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2223-G0052,4,08:41,WAS,,DET,,K. Knox II,DET,SUB: Bogdanovic FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0414,1,02:41,CHA,27.0,DET,25.0,K. Knox II,DET,Knox II 3PT Jump Shot (3 PTS) (Burks 1 AST),Made Shot,Jump Shot,233,24,0,1,3.0,3.0,v
+S2223-G0414,1,01:09,CHA,29.0,DET,31.0,K. Knox II,DET,Knox II Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0414,1,01:09,CHA,29.0,DET,32.0,K. Knox II,DET,Knox II Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0414,1,00:09.800000,CHA,31.0,DET,35.0,K. Knox II,DET,Knox II 26' 3PT Jump Shot (8 PTS) (Burks 2 AST),Made Shot,Jump Shot,-119,230,26,1,3.0,3.0,v
+S2223-G0414,2,10:01,CHA,,DET,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,228,26,0,1,3.0,0.0,v
+S2223-G0414,2,09:41,CHA,41.0,DET,38.0,K. Knox II,DET,Knox II Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0414,2,09:41,CHA,41.0,DET,39.0,K. Knox II,DET,Knox II Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0414,2,07:35,CHA,,DET,,K. Knox II,DET,Knox II S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2223-G0414,2,06:23,CHA,,DET,,K. Knox II,DET,Knox II S.FOUL (P2.T3) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2223-G0414,2,06:23,CHA,,DET,,K. Knox II,DET,SUB: Stewart FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0414,3,02:17,CHA,90.0,DET,100.0,K. Knox II,DET,Knox II Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0414,3,02:17,CHA,90.0,DET,101.0,K. Knox II,DET,Knox II Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0414,3,02:05,CHA,,DET,,K. Knox II,DET,Knox II BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0414,4,11:10,CHA,102.0,DET,110.0,K. Knox II,DET,Knox II 30' 3PT Jump Shot (15 PTS) (Joseph 2 AST),Made Shot,Jump Shot,-102,280,30,1,3.0,3.0,v
+S2223-G0414,4,08:49,CHA,,DET,,K. Knox II,DET,Knox II S.FOUL (P3.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0414,4,08:26,CHA,113.0,DET,113.0,K. Knox II,DET,Knox II 11' Pullup Jump Shot (17 PTS) (Hayes 5 AST),Made Shot,Pullup Jump shot,-5,112,11,1,2.0,2.0,v
+S2223-G0414,4,07:02,CHA,,DET,,K. Knox II,DET,Knox II BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0414,4,06:39,CHA,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0414,4,05:16,CHA,,DET,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,228,52,0,1,3.0,0.0,v
+S2223-G0414,4,04:07,CHA,,DET,,K. Knox II,DET,SUB: Ivey FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0947,4,01:03,ATL,125.0,POR,109.0,K. Knox II,POR,Knox II 2' Running Alley Oop Layup Shot (2 PTS) (Sharpe 4 AST),Made Shot,Running Alley Oop Layup Shot,4,17,2,1,2.0,2.0,v
+S2223-G0761,2,11:26,DAL,,DET,,K. Knox II,DET,Knox II S.FOUL (P1.T1) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0761,2,11:23,DAL,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0761,2,10:15,DAL,,DET,,K. Knox II,DET,MISS Knox II 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-228,38,0,1,3.0,0.0,v
+S2223-G0761,2,08:53,DAL,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0761,2,08:04,DAL,,DET,,K. Knox II,DET,Knox II BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0761,2,07:14,DAL,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0761,2,07:13,DAL,36.0,DET,36.0,K. Knox II,DET,Knox II 4' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,10,38,4,1,2.0,2.0,v
+S2223-G0761,2,06:26,DAL,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0761,2,06:19,DAL,,DET,,K. Knox II,DET,SUB: Bogdanovic FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0761,3,02:08,DAL,,DET,,K. Knox II,DET,Knox II REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0761,3,02:04,DAL,,DET,,K. Knox II,DET,Knox II OFF.Foul (P2) (C.Blair),Foul,Offensive,0,0,0,0,,,v
+S2223-G0761,3,02:04,DAL,,DET,,K. Knox II,DET,Knox II Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0761,3,00:21.600000,DAL,,DET,,K. Knox II,DET,Knox II OFF.Foul (P3) (J.Goble),Foul,Offensive,0,0,0,0,,,v
+S2223-G0761,3,00:21.600000,DAL,,DET,,K. Knox II,DET,Knox II Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0761,4,11:16,DAL,,DET,,K. Knox II,DET,Knox II Out of Bounds Lost Ball Turnover (P3.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0761,4,10:35,DAL,88.0,DET,86.0,K. Knox II,DET,Knox II 9' Driving Floating Jump Shot (4 PTS) (Hayes 6 AST),Made Shot,Driving Floating Jump Shot,-4,85,9,1,2.0,2.0,v
+S2223-G0761,4,09:28,DAL,,DET,,K. Knox II,DET,Knox II REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0761,4,08:36,DAL,,DET,,K. Knox II,DET,SUB: Ivey FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G1127,1,05:28,POR,,NOP,,K. Knox II,POR,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,-225,9,0,1,3.0,0.0,h
+S2223-G1127,1,04:39,POR,,NOP,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1127,1,04:38,POR,12.0,NOP,20.0,K. Knox II,POR,Knox II 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,-7,0,1,1,2.0,2.0,h
+S2223-G1127,2,09:33,POR,25.0,NOP,41.0,K. Knox II,POR,Knox II 2' Layup (4 PTS) (Johnson 1 AST),Made Shot,Layup Shot,16,-1,2,1,2.0,2.0,h
+S2223-G1127,2,07:18,POR,,NOP,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1127,2,07:17,POR,,NOP,,K. Knox II,POR,Knox II OFF.Foul (P1) (J.Goble),Foul,Offensive,0,0,0,0,,,h
+S2223-G1127,2,07:17,POR,,NOP,,K. Knox II,POR,Knox II Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1127,2,06:16,POR,31.0,NOP,49.0,K. Knox II,POR,Knox II 1' Driving Finger Roll Layup (6 PTS) (Little 2 AST),Made Shot,Driving Finger Roll Layup Shot,6,9,1,1,2.0,2.0,h
+S2223-G1127,2,05:52,POR,,NOP,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1127,2,05:22,POR,,NOP,,K. Knox II,POR,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,78,261,27,1,3.0,0.0,h
+S2223-G1127,2,04:38,POR,,NOP,,K. Knox II,POR,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,206,158,26,1,3.0,0.0,h
+S2223-G1127,2,03:45,POR,35.0,NOP,49.0,K. Knox II,POR,Knox II 15' Pullup Jump Shot (8 PTS) (Little 3 AST),Made Shot,Pullup Jump shot,77,132,15,1,2.0,2.0,h
+S2223-G1127,2,03:29,POR,,NOP,,K. Knox II,POR,SUB: Sharpe FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G1127,2,01:06,POR,,NOP,,K. Knox II,POR,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,-228,-2,0,1,3.0,0.0,h
+S2223-G1127,2,00:52.300000,POR,,NOP,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1127,3,01:46,POR,,NOP,,K. Knox II,POR,MISS Knox II 20' Jump Shot,Missed Shot,Jump Shot,142,134,20,1,2.0,0.0,h
+S2223-G1127,3,01:30,POR,,NOP,,K. Knox II,POR,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,147,226,27,1,3.0,0.0,h
+S2223-G1127,3,01:17,POR,,NOP,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1127,4,10:09,POR,59.0,NOP,91.0,K. Knox II,POR,Knox II 1' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,-1,11,1,1,2.0,2.0,h
+S2223-G1127,4,09:50,POR,62.0,NOP,93.0,K. Knox II,POR,Knox II 26' 3PT Jump Shot (13 PTS) (Johnson 4 AST),Made Shot,Jump Shot,168,202,26,1,3.0,3.0,h
+S2223-G1127,4,04:30,POR,,NOP,,K. Knox II,POR,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,173,181,25,1,3.0,0.0,h
+S2223-G1127,4,03:18,POR,,NOP,,K. Knox II,POR,MISS Knox II 2' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,-21,-10,2,1,2.0,0.0,h
+S2223-G1127,4,03:03,POR,,NOP,,K. Knox II,POR,MISS Knox II 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22,13,3,1,2.0,0.0,h
+S2223-G1127,4,02:45,POR,,NOP,,K. Knox II,POR,Knox II STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1127,4,00:28,POR,89.0,NOP,124.0,K. Knox II,POR,Knox II Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1127,4,00:28,POR,90.0,NOP,124.0,K. Knox II,POR,Knox II Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0223,2,02:38,LAC,,DET,,K. Knox II,DET,Knox II S.FOUL (P1.T4) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0223,2,01:51,LAC,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0223,2,01:17,LAC,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0223,2,01:03,LAC,,DET,,K. Knox II,DET,MISS Knox II 24' 3PT Jump Shot,Missed Shot,Jump Shot,222,102,24,1,3.0,0.0,v
+S2223-G0223,2,00:44.400000,LAC,40.0,DET,47.0,K. Knox II,DET,Knox II 3PT Jump Shot (3 PTS) (Bogdanovic 1 AST),Made Shot,Jump Shot,228,15,0,1,3.0,3.0,v
+S2223-G0223,2,00:02.700000,LAC,,DET,,K. Knox II,DET,Knox II BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0223,4,10:39,LAC,,DET,,K. Knox II,DET,Knox II BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0223,4,09:19,LAC,,DET,,K. Knox II,DET,MISS Knox II 24' 3PT Jump Shot,Missed Shot,Jump Shot,-142,199,24,1,3.0,0.0,v
+S2223-G0223,4,08:55,LAC,,DET,,K. Knox II,DET,Knox II STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0223,4,08:50,LAC,,DET,,K. Knox II,DET,MISS Knox II 2' Running Layup,Missed Shot,Running Layup Shot,-15,13,2,1,2.0,0.0,v
+S2223-G0223,4,08:35,LAC,,DET,,K. Knox II,DET,SUB: Bogdanovic FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G1166,1,02:43,MIN,,POR,,K. Knox II,POR,Knox II Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G1166,1,02:17,MIN,,POR,,K. Knox II,POR,MISS Knox II 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,180,170,25,1,3.0,0.0,v
+S2223-G1166,1,01:58,MIN,,POR,,K. Knox II,POR,Knox II STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1166,1,01:46,MIN,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1166,1,01:46,MIN,24.0,POR,26.0,K. Knox II,POR,Knox II Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1166,1,01:08,MIN,,POR,,K. Knox II,POR,Knox II STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1166,1,01:03,MIN,26.0,POR,29.0,K. Knox II,POR,Knox II Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1166,1,01:03,MIN,,POR,,K. Knox II,POR,MISS Knox II Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1166,1,00:41.500000,MIN,,POR,,K. Knox II,POR,Knox II S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G1166,2,11:38,MIN,,POR,,K. Knox II,POR,MISS Knox II 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-49,126,14,1,2.0,0.0,v
+S2223-G1166,2,10:21,MIN,33.0,POR,33.0,K. Knox II,POR,Knox II 1' Cutting Dunk Shot (5 PTS) (Mays 3 AST),Made Shot,Cutting Dunk Shot,-6,12,1,1,2.0,2.0,v
+S2223-G1166,2,08:29,MIN,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1166,2,06:29,MIN,,POR,,K. Knox II,POR,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,221,52,0,1,3.0,0.0,v
+S2223-G1166,2,05:34,MIN,,POR,,K. Knox II,POR,SUB: Watford FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G1166,3,06:02,MIN,74.0,POR,70.0,K. Knox II,POR,Knox II 2' Running Alley Oop Dunk Shot (7 PTS) (Mays 9 AST),Made Shot,Running Alley Oop Dunk Shot,7,19,2,1,2.0,2.0,v
+S2223-G1166,3,05:44,MIN,,POR,,K. Knox II,POR,Knox II STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G1166,3,05:41,MIN,,POR,,K. Knox II,POR,MISS Knox II 3' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,-17,22,3,1,2.0,0.0,v
+S2223-G1166,3,03:55,MIN,,POR,,K. Knox II,POR,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,195,151,25,1,3.0,0.0,v
+S2223-G1166,3,03:16,MIN,84.0,POR,75.0,K. Knox II,POR,Knox II 25' 3PT Jump Shot (10 PTS) (Walker 1 AST),Made Shot,Jump Shot,-81,234,25,1,3.0,3.0,v
+S2223-G1166,3,02:16,MIN,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1166,3,02:12,MIN,84.0,POR,80.0,K. Knox II,POR,Knox II 1' Running Dunk (12 PTS),Made Shot,Running Dunk Shot,9,8,1,1,2.0,2.0,v
+S2223-G1166,3,01:49,MIN,84.0,POR,82.0,K. Knox II,POR,Knox II 1' Running Layup (14 PTS) (Harrison 4 AST),Made Shot,Running Layup Shot,-2,10,1,1,2.0,2.0,v
+S2223-G1166,3,01:08,MIN,,POR,,K. Knox II,POR,MISS Knox II 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,54,99,11,1,2.0,0.0,v
+S2223-G1166,4,09:47,MIN,,POR,,K. Knox II,POR,MISS Knox II 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-142,214,26,1,3.0,0.0,v
+S2223-G1166,4,09:19,MIN,88.0,POR,86.0,K. Knox II,POR,Knox II 4' Driving Layup (16 PTS) (Harrison 5 AST),Made Shot,Driving Layup Shot,28,22,4,1,2.0,2.0,v
+S2223-G1166,4,09:19,MIN,,POR,,K. Knox II,POR,MISS Knox II Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G1166,4,06:35,MIN,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1166,4,05:20,MIN,92.0,POR,96.0,K. Knox II,POR,Knox II 25' 3PT Jump Shot (19 PTS) (Sharpe 6 AST),Made Shot,Jump Shot,-188,163,25,1,3.0,3.0,v
+S2223-G0632,1,02:07,DET,,NOP,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0632,1,00:00.800000,DET,,NOP,,K. Knox II,DET,Knox II S.FOUL (P1.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0632,2,10:38,DET,,NOP,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0632,2,07:37,DET,,NOP,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0632,2,07:32,DET,42.0,NOP,41.0,K. Knox II,DET,Knox II 5' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,48,16,5,1,2.0,2.0,h
+S2223-G0632,2,06:59,DET,,NOP,,K. Knox II,DET,SUB: Noel FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0632,4,09:41,DET,86.0,NOP,96.0,K. Knox II,DET,Knox II 24' 3PT Jump Shot (5 PTS) (Ivey 5 AST),Made Shot,Jump Shot,238,13,24,1,3.0,3.0,h
+S2223-G0632,4,09:11,DET,,NOP,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0632,4,08:47,DET,,NOP,,K. Knox II,DET,Knox II BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0632,4,03:17,DET,,NOP,,K. Knox II,DET,Knox II P.FOUL (P2.T3) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2223-G0632,4,02:09,DET,,NOP,,K. Knox II,DET,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,-153,223,27,1,3.0,0.0,h
+S2223-G0632,4,01:36,DET,,NOP,,K. Knox II,DET,SUB: Bey FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0632,4,00:04.300000,DET,,NOP,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0632,4,00:04.300000,DET,110.0,NOP,116.0,K. Knox II,DET,Knox II Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0258,1,00:38.100000,DEN,,DET,,K. Knox II,DET,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,-21,250,25,1,3.0,0.0,v
+S2223-G0258,1,00:00.300000,DEN,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0258,1,00:00,DEN,29.0,DET,28.0,K. Knox II,DET,Knox II 2' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,9,16,2,1,2.0,2.0,v
+S2223-G0258,2,11:46,DEN,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0258,2,09:09,DEN,34.0,DET,38.0,K. Knox II,DET,Knox II 26' 3PT Jump Shot (5 PTS) (Joseph 1 AST),Made Shot,Jump Shot,186,177,26,1,3.0,3.0,v
+S2223-G0258,2,08:20,DEN,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0258,2,06:22,DEN,40.0,DET,44.0,K. Knox II,DET,Knox II 2' Running Dunk (7 PTS) (Ivey 3 AST),Made Shot,Running Dunk Shot,6,16,2,1,2.0,2.0,v
+S2223-G0258,2,05:35,DEN,40.0,DET,49.0,K. Knox II,DET,Knox II 3' Running Layup (9 PTS) (Ivey 4 AST),Made Shot,Running Layup Shot,-25,4,3,1,2.0,2.0,v
+S2223-G0258,2,05:14,DEN,,DET,,K. Knox II,DET,Knox II L.B.FOUL (P1.PN) (N.Green),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0258,2,05:11,DEN,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0258,2,04:57,DEN,,DET,,K. Knox II,DET,Knox II Offensive Charge Foul (P2) (L.Holtkamp),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0258,2,04:57,DEN,,DET,,K. Knox II,DET,Knox II Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0258,2,04:44,DEN,,DET,,K. Knox II,DET,SUB: Bagley III FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0258,3,02:45,DEN,77.0,DET,81.0,K. Knox II,DET,Knox II 2' Running Dunk (11 PTS) (Hayes 9 AST),Made Shot,Running Dunk Shot,21,13,2,1,2.0,2.0,v
+S2223-G0258,3,01:30,DEN,,DET,,K. Knox II,DET,MISS Knox II 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-119,232,26,1,3.0,0.0,v
+S2223-G0258,3,00:52.400000,DEN,79.0,DET,83.0,K. Knox II,DET,Knox II 4' Running Layup (13 PTS) (Burks 1 AST),Made Shot,Running Layup Shot,-21,32,4,1,2.0,2.0,v
+S2223-G0258,3,00:29.200000,DEN,,DET,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,-234,1,0,1,3.0,0.0,v
+S2223-G0258,4,11:45,DEN,81.0,DET,85.0,K. Knox II,DET,Knox II 3' Driving Layup (15 PTS) (Burks 2 AST),Made Shot,Driving Layup Shot,-28,15,3,1,2.0,2.0,v
+S2223-G0258,4,10:45,DEN,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0258,4,08:11,DEN,,DET,,K. Knox II,DET,Knox II STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0258,4,08:08,DEN,84.0,DET,96.0,K. Knox II,DET,Knox II Running Dunk (17 PTS),Made Shot,Running Dunk Shot,1,1,0,1,2.0,2.0,v
+S2223-G0258,4,07:04,DEN,,DET,,K. Knox II,DET,Knox II P.FOUL (P3.T3) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2223-G0258,4,03:16,DEN,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0258,4,01:39,DEN,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0258,4,00:00.200000,DEN,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0872,3,06:16,POR,,WAS,,K. Knox II,POR,Knox II P.FOUL (P1.PN) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2223-G0872,3,03:43,POR,,WAS,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0872,3,03:21,POR,,WAS,,K. Knox II,POR,Knox II S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0872,3,02:56,POR,,WAS,,K. Knox II,POR,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,229,48,0,1,3.0,0.0,h
+S2223-G0872,3,02:45,POR,,WAS,,K. Knox II,POR,SUB: Reddish FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0794,3,01:06,DET,,PHX,,K. Knox II,DET,MISS Knox II 29' 3PT Jump Shot,Missed Shot,Jump Shot,-107,273,29,1,3.0,0.0,h
+S2223-G0794,3,00:52.900000,DET,,PHX,,K. Knox II,DET,Knox II BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0794,3,00:16.500000,DET,,PHX,,K. Knox II,DET,Knox II P.FOUL (P1.PN) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0794,3,00:14.900000,DET,,PHX,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0794,4,11:08,DET,,PHX,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0794,4,07:47,DET,,PHX,,K. Knox II,DET,Knox II P.FOUL (P2.T2) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0794,4,07:41,DET,,PHX,,K. Knox II,DET,Knox II S.FOUL (P3.T3) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0794,4,06:28,DET,,PHX,,K. Knox II,DET,SUB: Stewart FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0429,1,01:50,DET,,SAC,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0429,1,01:22,DET,,SAC,,K. Knox II,DET,Knox II S.FOUL (P1.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0429,1,00:31.700000,DET,,SAC,,K. Knox II,DET,Knox II STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0429,1,00:30.500000,DET,29.0,SAC,25.0,K. Knox II,DET,Knox II 3' Layup (2 PTS),Made Shot,Layup Shot,-1,32,3,1,2.0,2.0,h
+S2223-G0429,2,11:27,DET,,SAC,,K. Knox II,DET,Knox II S.FOUL (P2.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2223-G0429,2,11:08,DET,,SAC,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0429,2,11:08,DET,,SAC,,K. Knox II,DET,MISS Knox II Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0429,2,11:02,DET,,SAC,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0429,2,10:42,DET,,SAC,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0429,2,09:14,DET,42.0,SAC,36.0,K. Knox II,DET,Knox II 3PT Jump Shot (5 PTS) (Joseph 2 AST),Made Shot,Jump Shot,-234,-10,0,1,3.0,3.0,h
+S2223-G0429,2,06:53,DET,,SAC,,K. Knox II,DET,SUB: Stewart FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0429,3,02:24,DET,,SAC,,K. Knox II,DET,MISS Knox II 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,82,27,9,1,2.0,0.0,h
+S2223-G0429,4,10:21,DET,,SAC,,K. Knox II,DET,Knox II REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0429,4,10:21,DET,92.0,SAC,95.0,K. Knox II,DET,Knox II Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0429,4,09:49,DET,,SAC,,K. Knox II,DET,Knox II STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0429,4,08:39,DET,,SAC,,K. Knox II,DET,Knox II S.FOUL (P3.T2) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0429,4,08:39,DET,,SAC,,K. Knox II,DET,SUB: Stewart FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0242,1,01:03,SAC,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0242,2,11:37,SAC,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0242,2,08:53,SAC,45.0,DET,42.0,K. Knox II,DET,Knox II 3PT Jump Shot (3 PTS) (Joseph 3 AST),Made Shot,Jump Shot,-230,18,0,1,3.0,3.0,v
+S2223-G0242,2,08:40,SAC,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0242,2,08:32,SAC,45.0,DET,45.0,K. Knox II,DET,Knox II 25' 3PT Jump Shot (6 PTS) (Joseph 4 AST),Made Shot,Jump Shot,-196,163,25,1,3.0,3.0,v
+S2223-G0242,2,06:47,SAC,,DET,,K. Knox II,DET,Knox II S.FOUL (P1.T2) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2223-G0242,2,06:32,SAC,49.0,DET,52.0,K. Knox II,DET,Knox II 2' Cutting Layup Shot (8 PTS) (Hayes 3 AST),Made Shot,Cutting Layup Shot,-13,17,2,1,2.0,2.0,v
+S2223-G0242,2,02:37,SAC,,DET,,K. Knox II,DET,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,158,205,26,1,3.0,0.0,v
+S2223-G0242,2,01:35,SAC,,DET,,K. Knox II,DET,SUB: Burks FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0242,3,01:23,SAC,,DET,,K. Knox II,DET,MISS Knox II 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,172,67,18,1,2.0,0.0,v
+S2223-G0242,4,11:38,SAC,102.0,DET,105.0,K. Knox II,DET,Knox II 25' 3PT Jump Shot (11 PTS) (Joseph 5 AST),Made Shot,Jump Shot,-172,179,25,1,3.0,3.0,v
+S2223-G0242,4,08:00,SAC,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0242,4,05:40,SAC,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0242,4,04:45,SAC,,DET,,K. Knox II,DET,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,-77,246,26,1,3.0,0.0,v
+S2223-G0242,4,03:54,SAC,,DET,,K. Knox II,DET,SUB: Burks FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0612,1,08:23,PHI,,DET,,K. Knox II,DET,MISS Knox II 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-6,122,12,1,2.0,0.0,v
+S2223-G0612,1,06:39,PHI,19.0,DET,11.0,K. Knox II,DET,Knox II 24' 3PT Jump Shot (3 PTS) (Hayes 1 AST),Made Shot,Jump Shot,227,85,24,1,3.0,3.0,v
+S2223-G0612,1,05:37,PHI,,DET,,K. Knox II,DET,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,165,213,27,1,3.0,0.0,v
+S2223-G0612,1,02:23,PHI,,DET,,K. Knox II,DET,MISS Knox II 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,59,24,1,3.0,0.0,v
+S2223-G0612,1,01:58,PHI,,DET,,K. Knox II,DET,SUB: Ivey FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0612,2,04:01,PHI,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0612,2,03:25,PHI,50.0,DET,34.0,K. Knox II,DET,Knox II 1' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,5,4,1,1,2.0,2.0,v
+S2223-G0612,2,01:24,PHI,,DET,,K. Knox II,DET,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,-158,203,26,1,3.0,0.0,v
+S2223-G0612,2,00:58.200000,PHI,,DET,,K. Knox II,DET,Knox II P.FOUL (P1.PN) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2223-G0612,2,00:01.700000,PHI,65.0,DET,43.0,K. Knox II,DET,Knox II 1' Driving Finger Roll Layup (7 PTS) (Hayes 4 AST),Made Shot,Driving Finger Roll Layup Shot,2,6,1,1,2.0,2.0,v
+S2223-G0612,3,11:45,PHI,,DET,,K. Knox II,DET,MISS Knox II 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-74,33,8,1,2.0,0.0,v
+S2223-G0612,3,08:35,PHI,74.0,DET,53.0,K. Knox II,DET,Knox II 2' Running Reverse Layup (9 PTS) (Hayes 6 AST),Made Shot,Running Reverse Layup Shot,15,13,2,1,2.0,2.0,v
+S2223-G0612,3,06:33,PHI,,DET,,K. Knox II,DET,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,-145,210,26,1,3.0,0.0,v
+S2223-G0612,3,03:53,PHI,,DET,,K. Knox II,DET,Knox II P.FOUL (P2.PN) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2223-G0612,3,03:06,PHI,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0612,3,02:44,PHI,,DET,,K. Knox II,DET,SUB: Bey FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0612,4,04:52,PHI,,DET,,K. Knox II,DET,MISS Knox II Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0612,4,04:52,PHI,137.0,DET,105.0,K. Knox II,DET,Knox II Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0612,4,04:42,PHI,,DET,,K. Knox II,DET,Knox II S.FOUL (P3.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0612,4,02:11,PHI,145.0,DET,116.0,K. Knox II,DET,Knox II 27' 3PT Step Back Jump Shot (13 PTS) (Joseph 8 AST),Made Shot,Step Back Jump shot,-42,268,27,1,3.0,3.0,v
+S2223-G0347,1,03:15,DET,16.0,MEM,34.0,K. Knox II,DET,Knox II Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0347,1,03:15,DET,,MEM,,K. Knox II,DET,MISS Knox II Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0347,1,01:35,DET,,MEM,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0347,1,01:13,DET,,MEM,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0347,1,00:42,DET,,MEM,,K. Knox II,DET,MISS Knox II 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,61,24,1,3.0,0.0,h
+S2223-G0347,1,00:09.400000,DET,26.0,MEM,40.0,K. Knox II,DET,Knox II 16' Pullup Jump Shot (3 PTS) (Joseph 1 AST),Made Shot,Pullup Jump shot,162,21,16,1,2.0,2.0,h
+S2223-G0347,2,11:03,DET,,MEM,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0347,2,08:50,DET,,MEM,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0347,2,08:32,DET,42.0,MEM,47.0,K. Knox II,DET,Knox II 26' 3PT Jump Shot (6 PTS) (Hayes 4 AST),Made Shot,Jump Shot,181,187,26,1,3.0,3.0,h
+S2223-G0347,2,07:54,DET,,MEM,,K. Knox II,DET,SUB: Bogdanovic FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0347,3,03:27,DET,,MEM,,K. Knox II,DET,MISS Knox II 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,121,10,12,1,2.0,0.0,h
+S2223-G0347,3,03:12,DET,,MEM,,K. Knox II,DET,Knox II L.B.FOUL (P1.PN) (E.Malloy),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0347,3,02:45,DET,,MEM,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1184,1,11:31,MEM,,POR,,K. Knox II,POR,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,-140,214,26,1,3.0,0.0,v
+S2223-G1184,1,08:28,MEM,,POR,,K. Knox II,POR,MISS Knox II 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-9,136,14,1,2.0,0.0,v
+S2223-G1184,1,08:18,MEM,,POR,,K. Knox II,POR,MISS Knox II 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,17,7,2,1,2.0,0.0,v
+S2223-G1184,1,04:09,MEM,,POR,,K. Knox II,POR,MISS Knox II 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-16,7,2,1,2.0,0.0,v
+S2223-G1184,1,02:11,MEM,,POR,,K. Knox II,POR,SUB: Mays FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G1184,2,06:00,MEM,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1184,2,05:50,MEM,50.0,POR,48.0,K. Knox II,POR,Knox II 20' Pullup Jump Shot (2 PTS) (Eubanks 2 AST),Made Shot,Pullup Jump shot,-20,202,20,1,2.0,2.0,v
+S2223-G1184,2,05:18,MEM,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1184,2,05:11,MEM,,POR,,K. Knox II,POR,MISS Knox II 25' 3PT Jump Shot,Missed Shot,Jump Shot,154,197,25,1,3.0,0.0,v
+S2223-G1184,2,03:32,MEM,,POR,,K. Knox II,POR,MISS Knox II Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1184,2,03:32,MEM,57.0,POR,51.0,K. Knox II,POR,Knox II Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1184,2,02:40,MEM,,POR,,K. Knox II,POR,MISS Knox II 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,67,249,26,1,3.0,0.0,v
+S2223-G1184,2,02:14,MEM,,POR,,K. Knox II,POR,Knox II Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1184,2,01:57,MEM,,POR,,K. Knox II,POR,MISS Knox II 2' Driving Layup,Missed Shot,Driving Layup Shot,16,13,2,1,2.0,0.0,v
+S2223-G1184,2,01:42,MEM,63.0,POR,55.0,K. Knox II,POR,Knox II 3PT Jump Shot (6 PTS) (Mays 2 AST),Made Shot,Jump Shot,-232,21,0,1,3.0,3.0,v
+S2223-G1184,2,00:25.900000,MEM,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1184,3,11:33,MEM,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1184,3,09:54,MEM,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1184,3,09:34,MEM,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1184,3,08:01,MEM,,POR,,K. Knox II,POR,Knox II Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1184,3,05:43,MEM,,POR,,K. Knox II,POR,MISS Knox II 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,21,8,2,1,2.0,0.0,v
+S2223-G1184,3,04:36,MEM,,POR,,K. Knox II,POR,SUB: Minaya FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0003,1,03:30,DET,,ORL,,K. Knox II,DET,MISS Knox II 3' Driving Layup,Missed Shot,Driving Layup Shot,-31,8,3,1,2.0,0.0,h
+S2223-G0003,1,03:24,DET,,ORL,,K. Knox II,DET,MISS Knox II 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,25,24,1,3.0,0.0,h
+S2223-G0003,1,01:41,DET,,ORL,,K. Knox II,DET,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,150,211,26,1,3.0,0.0,h
+S2223-G0003,1,01:05,DET,,ORL,,K. Knox II,DET,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,-191,188,27,1,3.0,0.0,h
+S2223-G0003,1,00:03,DET,,ORL,,K. Knox II,DET,Knox II Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0003,2,11:42,DET,,ORL,,K. Knox II,DET,MISS Knox II 28' 3PT Jump Shot,Missed Shot,Jump Shot,-194,197,28,1,3.0,0.0,h
+S2223-G0003,2,11:29,DET,,ORL,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0003,2,11:03,DET,,ORL,,K. Knox II,DET,Knox II S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0003,2,11:03,DET,,ORL,,K. Knox II,DET,SUB: Bogdanovic FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0003,3,01:31,DET,89.0,ORL,78.0,K. Knox II,DET,Knox II 24' 3PT Jump Shot (3 PTS) (Hayes 4 AST),Made Shot,Jump Shot,235,9,24,1,3.0,3.0,h
+S2223-G0003,4,10:58,DET,,ORL,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0003,4,10:54,DET,,ORL,,K. Knox II,DET,Knox II Traveling Turnover (P2.T9),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0003,4,10:43,DET,,ORL,,K. Knox II,DET,Knox II P.FOUL (P2.T1) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2223-G0003,4,10:27,DET,,ORL,,K. Knox II,DET,MISS Knox II 32' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,178,260,32,1,3.0,0.0,h
+S2223-G0003,4,08:21,DET,,ORL,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0003,4,07:25,DET,,ORL,,K. Knox II,DET,MISS Knox II 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-21,4,2,1,2.0,0.0,h
+S2223-G0003,4,07:05,DET,,ORL,,K. Knox II,DET,SUB: Ivey FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G1215,1,08:35,LAC,,POR,,K. Knox II,POR,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,227,4,0,1,3.0,0.0,v
+S2223-G1215,1,08:18,LAC,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1215,1,07:48,LAC,8.0,POR,7.0,K. Knox II,POR,Knox II 12' Pullup Jump Shot (2 PTS) (Mays 1 AST),Made Shot,Pullup Jump shot,-2,120,12,1,2.0,2.0,v
+S2223-G1215,1,07:36,LAC,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1215,1,06:03,LAC,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1215,1,04:26,LAC,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1215,1,03:31,LAC,16.0,POR,23.0,K. Knox II,POR,Knox II 25' 3PT Running Jump Shot (5 PTS) (Harrison 1 AST),Made Shot,Running Jump Shot,210,141,25,1,3.0,3.0,v
+S2223-G1215,1,03:07,LAC,,POR,,K. Knox II,POR,SUB: Minaya FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G1215,2,06:11,LAC,48.0,POR,50.0,K. Knox II,POR,Knox II Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1215,2,06:11,LAC,48.0,POR,51.0,K. Knox II,POR,Knox II Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1215,2,05:19,LAC,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1215,2,05:01,LAC,50.0,POR,55.0,K. Knox II,POR,Knox II 2' Running Finger Roll Layup (9 PTS) (Sharpe 2 AST),Made Shot,Running Finger Roll Layup Shot,-6,18,2,1,2.0,2.0,v
+S2223-G1215,2,02:01,LAC,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1215,2,01:57,LAC,,POR,,K. Knox II,POR,MISS Knox II 2' Running Layup,Missed Shot,Running Layup Shot,13,11,2,1,2.0,0.0,v
+S2223-G1215,2,01:33,LAC,59.0,POR,69.0,K. Knox II,POR,Knox II 13' Turnaround Fadeaway (11 PTS),Made Shot,Turnaround Fadeaway shot,-91,89,13,1,2.0,2.0,v
+S2223-G1215,2,00:01.100000,LAC,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1215,3,10:24,LAC,,POR,,K. Knox II,POR,MISS Knox II 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,83,106,13,1,2.0,0.0,v
+S2223-G1215,3,10:07,LAC,71.0,POR,71.0,K. Knox II,POR,Knox II Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1215,3,10:07,LAC,71.0,POR,72.0,K. Knox II,POR,Knox II Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1215,3,09:02,LAC,80.0,POR,75.0,K. Knox II,POR,Knox II 3PT Jump Shot (16 PTS) (Mays 5 AST),Made Shot,Jump Shot,-230,41,0,1,3.0,3.0,v
+S2223-G1215,3,08:41,LAC,,POR,,K. Knox II,POR,Knox II S.FOUL (P1.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G1215,3,07:15,LAC,,POR,,K. Knox II,POR,Knox II S.FOUL (P2.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G1215,3,07:01,LAC,86.0,POR,80.0,K. Knox II,POR,Knox II Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2223-G1215,3,06:30,LAC,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1215,3,06:19,LAC,86.0,POR,85.0,K. Knox II,POR,Knox II 3PT Jump Shot (20 PTS) (Sharpe 3 AST),Made Shot,Jump Shot,-228,13,0,1,3.0,3.0,v
+S2223-G1215,3,03:44,LAC,97.0,POR,89.0,K. Knox II,POR,Knox II 2' Driving Layup (22 PTS) (Watford 3 AST),Made Shot,Driving Layup Shot,-2,15,2,1,2.0,2.0,v
+S2223-G1215,3,03:07,LAC,100.0,POR,92.0,K. Knox II,POR,Knox II 26' 3PT Jump Shot (25 PTS) (Harrison 6 AST),Made Shot,Jump Shot,55,250,26,1,3.0,3.0,v
+S2223-G1215,3,02:26,LAC,,POR,,K. Knox II,POR,MISS Knox II Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,v
+S2223-G1215,3,01:05,LAC,109.0,POR,94.0,K. Knox II,POR,Knox II 20' Pullup Jump Shot (27 PTS) (Butler Jr. 3 AST),Made Shot,Pullup Jump shot,-48,192,20,1,2.0,2.0,v
+S2223-G1215,3,00:39.300000,LAC,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1215,4,06:30,LAC,,POR,,K. Knox II,POR,Knox II REBOUND (Off:0 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1215,4,06:24,LAC,,POR,,K. Knox II,POR,MISS Knox II 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-121,226,26,1,3.0,0.0,v
+S2223-G1215,4,06:24,LAC,,POR,,K. Knox II,POR,Knox II REBOUND (Off:1 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1215,4,05:21,LAC,124.0,POR,109.0,K. Knox II,POR,Knox II 26' 3PT Jump Shot (30 PTS) (Mays 8 AST),Made Shot,Jump Shot,124,224,26,1,3.0,3.0,v
+S2223-G1215,4,05:04,LAC,,POR,,K. Knox II,POR,Knox II STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1215,4,05:00,LAC,,POR,,K. Knox II,POR,Knox II Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1215,4,04:47,LAC,,POR,,K. Knox II,POR,MISS Knox II 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,60,248,26,1,3.0,0.0,v
+S2223-G1215,4,04:24,LAC,,POR,,K. Knox II,POR,Knox II Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1215,4,03:00,LAC,,POR,,K. Knox II,POR,SUB: Minaya FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0023,1,03:01,NYK,,DET,,K. Knox II,DET,MISS Knox II 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-22,58,6,1,2.0,0.0,v
+S2223-G0023,1,02:01,NYK,,DET,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,-230,-17,0,1,3.0,0.0,v
+S2223-G0023,2,10:36,NYK,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0023,2,09:27,NYK,,DET,,K. Knox II,DET,Knox II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0023,2,09:23,NYK,,DET,,K. Knox II,DET,SUB: Ivey FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0023,3,03:42,NYK,91.0,DET,74.0,K. Knox II,DET,Knox II 1' Cutting Layup Shot (2 PTS) (Hayes 3 AST),Made Shot,Cutting Layup Shot,10,0,1,1,2.0,2.0,v
+S2223-G0023,3,00:53.400000,NYK,,DET,,K. Knox II,DET,MISS Knox II 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-21,16,3,1,2.0,0.0,v
+S2223-G0023,4,11:19,NYK,,DET,,K. Knox II,DET,MISS Knox II 24' 3PT Jump Shot,Missed Shot,Jump Shot,-230,52,24,1,3.0,0.0,v
+S2223-G0023,4,10:42,NYK,,DET,,K. Knox II,DET,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,-157,201,26,1,3.0,0.0,v
+S2223-G0023,4,10:36,NYK,,DET,,K. Knox II,DET,SUB: Stewart FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0648,1,09:29,DET,,NYK,,K. Knox II,DET,Knox II P.FOUL (P1.T3) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2223-G0648,1,06:31,DET,,NYK,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0648,1,06:23,DET,10.0,NYK,13.0,K. Knox II,DET,Knox II 26' 3PT Jump Shot (3 PTS) (Hayes 3 AST),Made Shot,Jump Shot,74,251,26,1,3.0,3.0,h
+S2223-G0648,1,04:02,DET,,NYK,,K. Knox II,DET,MISS Knox II Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0648,1,04:02,DET,14.0,NYK,22.0,K. Knox II,DET,Knox II Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0648,1,03:45,DET,,NYK,,K. Knox II,DET,MISS Knox II 3PT Running Jump Shot,Missed Shot,Running Jump Shot,225,55,0,1,3.0,0.0,h
+S2223-G0648,1,03:03,DET,,NYK,,K. Knox II,DET,SUB: Livers FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0648,1,00:37.100000,DET,,NYK,,K. Knox II,DET,Knox II S.FOUL (P2.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0648,2,02:58,DET,,NYK,,K. Knox II,DET,Knox II Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0648,2,02:31,DET,44.0,NYK,58.0,K. Knox II,DET,Knox II Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0648,2,02:31,DET,45.0,NYK,58.0,K. Knox II,DET,Knox II Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0648,2,01:49,DET,48.0,NYK,60.0,K. Knox II,DET,Knox II 26' 3PT Jump Shot (9 PTS) (McGruder 1 AST),Made Shot,Jump Shot,-188,174,26,1,3.0,3.0,h
+S2223-G0648,2,00:35.600000,DET,52.0,NYK,62.0,K. Knox II,DET,Knox II 2' Driving Layup (11 PTS) (Hayes 6 AST),Made Shot,Driving Layup Shot,-22,11,2,1,2.0,2.0,h
+S2223-G0648,3,03:38,DET,72.0,NYK,80.0,K. Knox II,DET,Knox II 10' Driving Floating Jump Shot (13 PTS) (Hayes 7 AST),Made Shot,Driving Floating Jump Shot,91,38,10,1,2.0,2.0,h
+S2223-G0648,3,02:19,DET,77.0,NYK,84.0,K. Knox II,DET,Knox II 24' 3PT Jump Shot (16 PTS) (Hayes 8 AST),Made Shot,Jump Shot,-194,148,24,1,3.0,3.0,h
+S2223-G0648,4,10:23,DET,,NYK,,K. Knox II,DET,Knox II S.FOUL (P3.T2) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2223-G0648,4,09:43,DET,,NYK,,K. Knox II,DET,SUB: Stewart FOR Knox II,Substitution,,0,0,0,0,,,h
+S2223-G0371,1,01:31,NOP,,DET,,K. Knox II,DET,Knox II L.B.FOUL (P1.T4) (K.Lane),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0371,1,01:23,NOP,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0371,1,00:55.900000,NOP,,DET,,K. Knox II,DET,MISS Knox II 4' Running Layup,Missed Shot,Running Layup Shot,-2,41,4,1,2.0,0.0,v
+S2223-G0371,1,00:50.400000,NOP,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0371,1,00:44.100000,NOP,,DET,,K. Knox II,DET,MISS Knox II 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-140,205,25,1,3.0,0.0,v
+S2223-G0371,1,00:25.600000,NOP,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0371,2,08:55,NOP,,DET,,K. Knox II,DET,Knox II P.FOUL (P2.T3) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2223-G0371,2,06:53,NOP,,DET,,K. Knox II,DET,SUB: Hayes FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0371,4,10:09,NOP,82.0,DET,77.0,K. Knox II,DET,Knox II 26' 3PT Jump Shot (3 PTS) (Burks 1 AST),Made Shot,Jump Shot,-151,207,26,1,3.0,3.0,v
+S2223-G0371,4,09:59,NOP,,DET,,K. Knox II,DET,Knox II P.FOUL (P3.T1) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2223-G0371,4,09:51,NOP,,DET,,K. Knox II,DET,Knox II STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0371,4,09:50,NOP,,DET,,K. Knox II,DET,Knox II OFF.Foul (P4) (J.Capers),Foul,Offensive,0,0,0,0,,,v
+S2223-G0371,4,09:50,NOP,,DET,,K. Knox II,DET,Knox II Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0371,4,09:14,NOP,,DET,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,-229,44,0,1,3.0,0.0,v
+S2223-G0371,4,07:41,NOP,,DET,,K. Knox II,DET,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,131,228,26,1,3.0,0.0,v
+S2223-G0371,4,06:58,NOP,,DET,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,230,4,0,1,3.0,0.0,v
+S2223-G0371,4,04:45,NOP,,DET,,K. Knox II,DET,SUB: Duren FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0371,4,00:18,NOP,,DET,,K. Knox II,DET,SUB: Duren FOR Knox II,Substitution,,0,0,0,0,,,v
+S2223-G0234,2,02:04,LAL,,DET,,K. Knox II,DET,MISS Knox II 3PT Jump Shot,Missed Shot,Jump Shot,224,54,0,1,3.0,0.0,v
+S2223-G0234,2,01:39,LAL,,DET,,K. Knox II,DET,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0234,2,00:02.200000,LAL,,DET,,K. Knox II,DET,Knox II Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v

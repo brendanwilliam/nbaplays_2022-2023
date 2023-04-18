@@ -1,0 +1,95 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G1021,4,01:31,ATL,111.0,MIN,133.0,J. Minott,MIN,Minott 1' Driving Dunk (2 PTS) (Anderson 12 AST),Made Shot,Driving Dunk Shot,5,-3,1,1,2.0,2.0,v
+S2223-G1021,4,01:10,ATL,,MIN,,J. Minott,MIN,MISS Minott 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,0,8,1,1,2.0,0.0,v
+S2223-G1021,4,01:00,ATL,,MIN,,J. Minott,MIN,Minott S.FOUL (P1.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1021,4,00:46.800000,ATL,115.0,MIN,136.0,J. Minott,MIN,Minott 3PT Jump Shot (5 PTS) (Moore Jr. 1 AST),Made Shot,Jump Shot,229,-3,0,1,3.0,3.0,v
+S2223-G0407,4,02:37,POR,,MIN,,J. Minott,MIN,MISS Minott 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,34,22,4,1,2.0,0.0,v
+S2223-G0407,4,01:58,POR,,MIN,,J. Minott,MIN,Minott STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0806,4,03:21,MIN,,DEN,,J. Minott,MIN,MISS Minott 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,23,26,3,1,2.0,0.0,h
+S2223-G0806,4,01:51,MIN,,DEN,,J. Minott,MIN,Minott REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0806,4,01:41,MIN,125.0,DEN,92.0,J. Minott,MIN,Minott 1' Cutting Dunk Shot (2 PTS) (Moore Jr. 1 AST),Made Shot,Cutting Dunk Shot,-7,12,1,1,2.0,2.0,h
+S2223-G0806,4,00:56.100000,MIN,,DEN,,J. Minott,MIN,MISS Minott 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,136,12,14,1,2.0,0.0,h
+S2223-G0980,4,03:07,MIN,,PHI,,J. Minott,MIN,MISS Minott 24' 3PT Jump Shot,Missed Shot,Jump Shot,137,200,24,1,3.0,0.0,h
+S2223-G0587,4,01:09,MIN,,LAC,,J. Minott,MIN,Minott REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0587,4,00:17.100000,MIN,,LAC,,J. Minott,MIN,Minott BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0587,4,00:14.600000,MIN,,LAC,,J. Minott,MIN,Minott REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0587,4,00:05.100000,MIN,,LAC,,J. Minott,MIN,Minott S.FOUL (P1.PN) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0820,3,03:19,DEN,,,,J. Minott,MIN,Minott S.FOUL (P1.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0820,3,03:17,DEN,,,,J. Minott,MIN,Minott REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0820,3,02:23,DEN,,,,J. Minott,MIN,MISS Minott 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,36,5,4,1,2.0,0.0,v
+S2223-G0820,3,02:22,DEN,,,,J. Minott,MIN,Minott REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0820,3,02:21,DEN,106.0,,70.0,J. Minott,MIN,Minott 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-32,13,3,1,2.0,2.0,v
+S2223-G0820,4,11:42,DEN,,,,J. Minott,MIN,Minott BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0820,4,11:40,DEN,,,,J. Minott,MIN,Minott REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0820,4,08:26,DEN,120.0,,85.0,J. Minott,MIN,Minott 3' Driving Reverse Layup (4 PTS) (Ryan 2 AST),Made Shot,Driving Reverse Layup Shot,-21,23,3,1,2.0,2.0,v
+S2223-G0820,4,08:09,DEN,,,,J. Minott,MIN,Minott STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0820,4,08:03,DEN,,,,J. Minott,MIN,MISS Minott 4' Running Layup,Missed Shot,Running Layup Shot,-36,23,4,1,2.0,0.0,v
+S2223-G0820,4,07:38,DEN,122.0,,86.0,J. Minott,MIN,Minott Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0820,4,07:38,DEN,122.0,,87.0,J. Minott,MIN,Minott Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0820,4,06:26,DEN,122.0,,90.0,J. Minott,MIN,Minott 26' 3PT Jump Shot (9 PTS) (Knight 3 AST),Made Shot,Jump Shot,168,196,26,1,3.0,3.0,v
+S2223-G0820,4,04:56,DEN,128.0,,96.0,J. Minott,MIN,Minott 3' Driving Reverse Layup (11 PTS) (Moore Jr. 2 AST),Made Shot,Driving Reverse Layup Shot,-21,16,3,1,2.0,2.0,v
+S2223-G0820,4,02:29,DEN,,,,J. Minott,MIN,Minott REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0820,4,02:15,DEN,,,,J. Minott,MIN,Minott BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0820,4,02:09,DEN,,,,J. Minott,MIN,MISS Minott 4' Running Layup,Missed Shot,Running Layup Shot,-27,33,4,1,2.0,0.0,v
+S2223-G0820,4,02:00,DEN,,,,J. Minott,MIN,Minott REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0482,4,00:47.600000,BOS,,MIN,,J. Minott,MIN,MISS Minott 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,136,218,26,1,3.0,0.0,v
+S2223-G0423,4,02:19,LAC,96.0,MIN,82.0,J. Minott,MIN,Minott 4' Running Dunk (2 PTS) (Moore Jr. 1 AST),Made Shot,Running Dunk Shot,28,21,4,1,2.0,2.0,v
+S2223-G0423,4,01:19,LAC,99.0,MIN,83.0,J. Minott,MIN,Minott Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0423,4,01:19,LAC,99.0,MIN,84.0,J. Minott,MIN,Minott Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0300,4,04:26,WAS,,MIN,,J. Minott,MIN,Minott S.FOUL (P1.T4) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0300,4,03:47,WAS,,MIN,,J. Minott,MIN,Minott REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0300,4,03:47,WAS,139.0,MIN,112.0,J. Minott,MIN,Minott Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0300,4,03:47,WAS,139.0,MIN,113.0,J. Minott,MIN,Minott Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0300,4,03:27,WAS,,MIN,,J. Minott,MIN,Minott BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0300,4,01:11,WAS,,MIN,,J. Minott,MIN,Minott REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0300,4,00:00.300000,WAS,,MIN,,J. Minott,MIN,Minott REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0300,4,00:00.300000,WAS,142.0,MIN,127.0,J. Minott,MIN,Minott Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G1058,1,02:43,TOR,,MIN,,J. Minott,MIN,Minott REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1058,1,01:41,TOR,,MIN,,J. Minott,MIN,Minott Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1058,1,01:10,TOR,,MIN,,J. Minott,MIN,Minott P.FOUL (P1.T4) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2223-G1058,2,11:07,TOR,,MIN,,J. Minott,MIN,MISS Minott 3' Driving Layup,Missed Shot,Driving Layup Shot,18,27,3,1,2.0,0.0,v
+S2223-G1058,2,10:58,TOR,,MIN,,J. Minott,MIN,Minott STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1058,2,10:54,TOR,34.0,MIN,30.0,J. Minott,MIN,Minott 3' Running Layup (2 PTS) (McLaughlin 5 AST),Made Shot,Running Layup Shot,17,25,3,1,2.0,2.0,v
+S2223-G1058,2,08:56,TOR,,MIN,,J. Minott,MIN,Minott Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1058,2,08:34,TOR,,MIN,,J. Minott,MIN,Minott REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1058,2,06:00,TOR,,MIN,,J. Minott,MIN,Minott S.FOUL (P2.T3) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2223-G1058,2,06:00,TOR,,MIN,,J. Minott,MIN,SUB: McLaughlin FOR Minott,Substitution,,0,0,0,0,,,v
+S2223-G1058,3,02:22,TOR,,MIN,,J. Minott,MIN,Minott Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1058,3,01:12,TOR,87.0,MIN,85.0,J. Minott,MIN,Minott 2' Running Alley Oop Dunk Shot (4 PTS) (Anderson 5 AST),Made Shot,Running Alley Oop Dunk Shot,-1,16,2,1,2.0,2.0,v
+S2223-G1058,4,00:57.700000,TOR,,MIN,,J. Minott,MIN,Minott REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1058,4,00:11.700000,TOR,122.0,MIN,106.0,J. Minott,MIN,Minott Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1058,4,00:11.700000,TOR,122.0,MIN,107.0,J. Minott,MIN,Minott Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1214,4,03:35,SAS,,MIN,,J. Minott,MIN,MISS Minott 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,21,0,2,1,2.0,0.0,v
+S2223-G1214,4,00:33.200000,SAS,,MIN,,J. Minott,MIN,MISS Minott 2' Layup,Missed Shot,Layup Shot,-15,7,2,1,2.0,0.0,v
+S2223-G0828,1,03:11,UTA,21.0,MIN,26.0,J. Minott,MIN,Minott 5' Running Dunk (2 PTS) (Edwards 4 AST),Made Shot,Running Dunk Shot,48,20,5,1,2.0,2.0,v
+S2223-G0828,1,02:11,UTA,,MIN,,J. Minott,MIN,MISS Minott 5' Driving Layup,Missed Shot,Driving Layup Shot,25,42,5,1,2.0,0.0,v
+S2223-G0828,1,00:37.700000,UTA,,MIN,,J. Minott,MIN,Minott REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0828,1,00:03.500000,UTA,,MIN,,J. Minott,MIN,Minott REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0828,2,11:26,UTA,31.0,MIN,37.0,J. Minott,MIN,Minott 1' Cutting Dunk Shot (4 PTS) (Prince 2 AST),Made Shot,Cutting Dunk Shot,-5,4,1,1,2.0,2.0,v
+S2223-G0828,2,10:16,UTA,,MIN,,J. Minott,MIN,Minott REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0828,2,08:45,UTA,,MIN,,J. Minott,MIN,SUB: McDaniels FOR Minott,Substitution,,0,0,0,0,,,v
+S2223-G0828,2,03:21,UTA,59.0,MIN,72.0,J. Minott,MIN,Minott 3' Running Dunk (6 PTS) (Forbes 2 AST),Made Shot,Running Dunk Shot,-12,25,3,1,2.0,2.0,v
+S2223-G0828,2,02:47,UTA,,MIN,,J. Minott,MIN,MISS Minott 5' Driving Layup,Missed Shot,Driving Layup Shot,43,19,5,1,2.0,0.0,v
+S2223-G0828,2,02:21,UTA,,MIN,,J. Minott,MIN,MISS Minott 3PT Jump Shot,Missed Shot,Jump Shot,-221,-13,0,1,3.0,0.0,v
+S2223-G0828,2,01:34,UTA,,MIN,,J. Minott,MIN,Minott BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0828,2,01:32,UTA,,MIN,,J. Minott,MIN,Minott REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0828,2,00:57.900000,UTA,,MIN,,J. Minott,MIN,Minott REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0828,2,00:57.900000,UTA,67.0,MIN,74.0,J. Minott,MIN,Minott 3' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,26,3,1,2.0,2.0,v
+S2223-G0828,2,00:50.700000,UTA,,MIN,,J. Minott,MIN,Minott BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0828,2,00:27.900000,UTA,,MIN,,J. Minott,MIN,MISS Minott 3' Layup,Missed Shot,Layup Shot,-27,3,3,1,2.0,0.0,v
+S2223-G0828,3,02:06,UTA,,MIN,,J. Minott,MIN,Minott REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0828,3,01:45,UTA,,MIN,,J. Minott,MIN,Minott P.FOUL (P1.T2) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2223-G0828,3,01:34,UTA,84.0,MIN,114.0,J. Minott,MIN,Minott 3' Running Dunk (10 PTS) (McLaughlin 1 AST),Made Shot,Running Dunk Shot,22,26,3,1,2.0,2.0,v
+S2223-G0828,4,10:19,UTA,,MIN,,J. Minott,MIN,Minott REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0828,4,09:42,UTA,,MIN,,J. Minott,MIN,Minott S.FOUL (P2.T1) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0828,4,08:47,UTA,,MIN,,J. Minott,MIN,Minott REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0828,4,08:47,UTA,97.0,MIN,123.0,J. Minott,MIN,Minott Putback Layup (12 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0828,4,07:17,UTA,,MIN,,J. Minott,MIN,Minott REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0828,4,06:19,UTA,,MIN,,J. Minott,MIN,Minott STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0828,4,06:02,UTA,,MIN,,J. Minott,MIN,Minott REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0828,4,05:12,UTA,,MIN,,J. Minott,MIN,Minott S.FOUL (P3.T4) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2223-G0828,4,04:37,UTA,,MIN,,J. Minott,MIN,MISS Minott 8' Floating Jump Shot,Missed Shot,Floating Jump shot,72,27,8,1,2.0,0.0,v
+S2223-G0828,4,04:24,UTA,,MIN,,J. Minott,MIN,Minott S.FOUL (P4.PN) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2223-G0828,4,02:29,UTA,,MIN,,J. Minott,MIN,Minott REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0828,4,01:36,UTA,,MIN,,J. Minott,MIN,MISS Minott 3PT Jump Shot,Missed Shot,Jump Shot,227,25,0,1,3.0,0.0,v
+S2223-G0449,4,01:03,MIN,146.0,CHI,121.0,J. Minott,MIN,Minott Cutting Dunk Shot (2 PTS) (Ryan 1 AST),Made Shot,Cutting Dunk Shot,4,1,0,1,2.0,2.0,h

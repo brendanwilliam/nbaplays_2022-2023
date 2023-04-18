@@ -1,0 +1,735 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0173,4,04:10,ATL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0173,4,04:04,ATL,98.0,PHI,85.0,M. Harrell,PHI,Harrell 1' Dunk (2 PTS) (Milton 1 AST),Made Shot,Dunk Shot,-1,7,1,1,2.0,2.0,v
+S2223-G0173,4,04:04,ATL,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0173,4,03:51,ATL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0173,4,03:50,ATL,98.0,PHI,87.0,M. Harrell,PHI,Harrell 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-2,13,1,1,2.0,2.0,v
+S2223-G0173,4,02:44,ATL,100.0,PHI,90.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0173,4,02:44,ATL,100.0,PHI,91.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0173,4,02:35,ATL,,PHI,,M. Harrell,PHI,Harrell P.FOUL (P1.T3) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G0173,4,02:24,ATL,100.0,PHI,93.0,M. Harrell,PHI,Harrell 7' Driving Hook Shot (8 PTS) (Korkmaz 1 AST),Made Shot,Driving Hook Shot,2,69,7,1,2.0,2.0,v
+S2223-G0173,4,02:05,ATL,,PHI,,M. Harrell,PHI,Harrell STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0173,4,01:28,ATL,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0260,1,11:41,CHA,0.0,PHI,2.0,M. Harrell,PHI,Harrell 2' Dunk (2 PTS) (Milton 1 AST),Made Shot,Dunk Shot,4,19,2,1,2.0,2.0,v
+S2223-G0260,1,11:14,CHA,0.0,PHI,3.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0260,1,11:14,CHA,0.0,PHI,4.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0260,1,08:37,CHA,,PHI,,M. Harrell,PHI,MISS Harrell 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,0,68,7,1,2.0,0.0,v
+S2223-G0260,1,07:16,CHA,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P1.T1) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2223-G0260,1,06:49,CHA,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P2.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2223-G0260,1,06:35,CHA,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0260,2,08:02,CHA,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0260,2,06:08,CHA,36.0,PHI,42.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0260,2,06:08,CHA,36.0,PHI,43.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0260,2,05:17,CHA,36.0,PHI,45.0,M. Harrell,PHI,Harrell 6' Hook Shot (8 PTS) (Melton 1 AST),Made Shot,Hook Shot,-29,55,6,1,2.0,2.0,v
+S2223-G0260,2,04:30,CHA,36.0,PHI,46.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0260,2,04:30,CHA,36.0,PHI,47.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0260,2,03:56,CHA,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0260,2,03:56,CHA,,PHI,,M. Harrell,PHI,MISS Harrell Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,v
+S2223-G0260,2,03:48,CHA,40.0,PHI,49.0,M. Harrell,PHI,Harrell 1' Cutting Dunk Shot (12 PTS) (Milton 4 AST),Made Shot,Cutting Dunk Shot,-4,6,1,1,2.0,2.0,v
+S2223-G0260,2,02:52,CHA,,PHI,,M. Harrell,PHI,MISS Harrell 8' Floating Jump Shot,Missed Shot,Floating Jump shot,16,82,8,1,2.0,0.0,v
+S2223-G0260,2,01:38,CHA,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0260,3,09:29,CHA,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0260,3,08:16,CHA,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0260,3,08:03,CHA,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0260,3,08:03,CHA,57.0,PHI,64.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0260,3,08:03,CHA,57.0,PHI,65.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0260,3,07:18,CHA,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0260,3,07:06,CHA,60.0,PHI,67.0,M. Harrell,PHI,Harrell 2' Alley Oop Layup (16 PTS) (Milton 7 AST),Made Shot,Alley Oop Layup shot,-1,20,2,1,2.0,2.0,v
+S2223-G0260,3,05:42,CHA,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0260,4,05:43,CHA,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0260,4,05:31,CHA,,PHI,,M. Harrell,PHI,Harrell Bad Pass Turnover (P1.T18),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0260,4,04:46,CHA,,PHI,,M. Harrell,PHI,SUB: Niang FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0237,2,11:35,PHI,25.0,MIN,33.0,M. Harrell,PHI,Harrell 4' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,28,34,4,1,2.0,2.0,h
+S2223-G0237,2,10:29,PHI,,MIN,,M. Harrell,PHI,Harrell Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0237,2,09:47,PHI,28.0,MIN,38.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0237,2,09:47,PHI,,MIN,,M. Harrell,PHI,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0237,2,09:42,PHI,,MIN,,M. Harrell,PHI,Harrell P.FOUL (P1.T1) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2223-G0237,2,09:42,PHI,,MIN,,M. Harrell,PHI,SUB: Melton FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0237,3,00:34.500000,PHI,,MIN,,M. Harrell,PHI,Harrell OFF.Foul (P2) (N.Sago),Foul,Offensive,0,0,0,0,,,h
+S2223-G0237,3,00:34.500000,PHI,,MIN,,M. Harrell,PHI,Harrell Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0237,4,11:45,PHI,,MIN,,M. Harrell,PHI,Harrell S.FOUL (P3.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G0237,4,09:40,PHI,,MIN,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0108,1,01:34,PHI,,WAS,,M. Harrell,PHI,Harrell S.FOUL (P1.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0108,1,00:00.500000,PHI,,WAS,,M. Harrell,PHI,MISS Harrell 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-125,29,13,1,2.0,0.0,h
+S2223-G0108,2,09:16,PHI,,WAS,,M. Harrell,PHI,SUB: Harris FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0108,3,01:57,PHI,,WAS,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0108,3,01:32,PHI,,WAS,,M. Harrell,PHI,Harrell P.FOUL (P2.PN) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2223-G0108,4,07:15,PHI,,WAS,,M. Harrell,PHI,SUB: Harden FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0626,1,01:26,PHI,26.0,OKC,28.0,M. Harrell,PHI,Harrell 1' Layup (2 PTS) (Maxey 1 AST),Made Shot,Layup Shot,11,4,1,1,2.0,2.0,h
+S2223-G0626,2,11:10,PHI,,OKC,,M. Harrell,PHI,Harrell OFF.Foul (P1) (M.Boland),Foul,Offensive,0,0,0,0,,,h
+S2223-G0626,2,11:10,PHI,,OKC,,M. Harrell,PHI,Harrell Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0626,2,10:51,PHI,,OKC,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0626,2,10:44,PHI,,OKC,,M. Harrell,PHI,MISS Harrell 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-11,22,2,1,2.0,0.0,h
+S2223-G0626,2,07:26,PHI,,OKC,,M. Harrell,PHI,SUB: Melton FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0256,1,12:00,PHI,,BKN,,M. Harrell,PHI,Jump Ball Harrell vs. Claxton: Tip to Irving,Jump Ball,,0,0,0,0,,,h
+S2223-G0256,1,10:43,PHI,,BKN,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,1,10:43,PHI,,BKN,,M. Harrell,PHI,MISS Harrell Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0256,1,10:43,PHI,,BKN,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,1,09:52,PHI,,BKN,,M. Harrell,PHI,MISS Harrell 5' Layup,Missed Shot,Layup Shot,20,41,5,1,2.0,0.0,h
+S2223-G0256,1,07:39,PHI,,BKN,,M. Harrell,PHI,Harrell REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,1,07:39,PHI,8.0,BKN,12.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0256,1,07:39,PHI,9.0,BKN,12.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0256,1,06:01,PHI,16.0,BKN,16.0,M. Harrell,PHI,Harrell 5' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,6,48,5,1,2.0,2.0,h
+S2223-G0256,1,05:36,PHI,,BKN,,M. Harrell,PHI,Harrell REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,1,05:36,PHI,18.0,BKN,18.0,M. Harrell,PHI,Harrell Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0256,1,04:23,PHI,,BKN,,M. Harrell,PHI,MISS Harrell 2' Layup,Missed Shot,Layup Shot,20,-2,2,1,2.0,0.0,h
+S2223-G0256,1,04:07,PHI,,BKN,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0256,2,05:00,PHI,,BKN,,M. Harrell,PHI,Harrell REBOUND (Off:5 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,2,04:59,PHI,,BKN,,M. Harrell,PHI,MISS Harrell 3' Putback Layup,Missed Shot,Putback Layup Shot,11,27,3,1,2.0,0.0,h
+S2223-G0256,2,02:36,PHI,,BKN,,M. Harrell,PHI,SUB: Milton FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0256,3,11:19,PHI,,BKN,,M. Harrell,PHI,Harrell REBOUND (Off:6 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,3,11:19,PHI,,BKN,,M. Harrell,PHI,Harrell Backcourt Turnover (P1.T8),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2223-G0256,3,10:53,PHI,,BKN,,M. Harrell,PHI,MISS Harrell 3' Layup,Missed Shot,Layup Shot,-16,20,3,1,2.0,0.0,h
+S2223-G0256,3,10:51,PHI,,BKN,,M. Harrell,PHI,Harrell P.FOUL (P1.T1) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G0256,3,10:34,PHI,,BKN,,M. Harrell,PHI,Harrell REBOUND (Off:6 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0256,3,10:21,PHI,,BKN,,M. Harrell,PHI,MISS Harrell 3' Layup,Missed Shot,Layup Shot,15,26,3,1,2.0,0.0,h
+S2223-G0256,3,08:20,PHI,,BKN,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0493,1,02:10,NYK,30.0,PHI,20.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0493,1,02:10,NYK,30.0,PHI,21.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0493,1,02:07,NYK,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0493,1,00:07.900000,NYK,,PHI,,M. Harrell,PHI,MISS Harrell 25' 3PT Jump Shot,Missed Shot,Jump Shot,82,241,25,1,3.0,0.0,v
+S2223-G0493,2,09:01,NYK,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0493,2,08:00,NYK,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0493,2,07:18,NYK,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0493,3,00:54.400000,NYK,,PHI,,M. Harrell,PHI,MISS Harrell 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,12,-3,1,1,2.0,0.0,v
+S2223-G0493,3,00:42.600000,NYK,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0493,4,07:30,NYK,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0581,1,00:25.500000,PHI,,CHI,,M. Harrell,PHI,Harrell P.FOUL (P1.T3) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2223-G0581,2,09:56,PHI,37.0,CHI,27.0,M. Harrell,PHI,Harrell Dunk (2 PTS) (Milton 1 AST),Made Shot,Dunk Shot,2,-1,0,1,2.0,2.0,h
+S2223-G0581,2,09:01,PHI,,CHI,,M. Harrell,PHI,Harrell S.FOUL (P2.T1) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0581,2,07:51,PHI,,CHI,,M. Harrell,PHI,Harrell STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0581,2,07:40,PHI,42.0,CHI,31.0,M. Harrell,PHI,Harrell 7' Jump Shot (4 PTS) (Maxey 3 AST),Made Shot,Jump Shot,70,12,7,1,2.0,2.0,h
+S2223-G0581,2,07:11,PHI,,CHI,,M. Harrell,PHI,MISS Harrell 10' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-97,2,10,1,2.0,0.0,h
+S2223-G0581,2,07:09,PHI,,CHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0581,2,07:07,PHI,44.0,CHI,31.0,M. Harrell,PHI,Harrell 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,-4,7,1,1,2.0,2.0,h
+S2223-G0581,2,05:48,PHI,46.0,CHI,39.0,M. Harrell,PHI,Harrell 1' Cutting Finger Roll Layup Shot (8 PTS) (Harden 6 AST),Made Shot,Cutting Finger Roll Layup Shot,0,5,1,1,2.0,2.0,h
+S2223-G0581,2,05:28,PHI,,CHI,,M. Harrell,PHI,SUB: Tucker FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0581,3,05:46,PHI,71.0,CHI,77.0,M. Harrell,PHI,Harrell 1' Cutting Dunk Shot (10 PTS) (Harden 9 AST),Made Shot,Cutting Dunk Shot,-5,-2,1,1,2.0,2.0,h
+S2223-G0581,3,04:41,PHI,,CHI,,M. Harrell,PHI,MISS Harrell 3' Layup,Missed Shot,Layup Shot,-28,11,3,1,2.0,0.0,h
+S2223-G0581,3,04:13,PHI,,CHI,,M. Harrell,PHI,Harrell Backcourt Turnover (P1.T6),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2223-G0581,3,02:06,PHI,,CHI,,M. Harrell,PHI,MISS Harrell Dunk,Missed Shot,Dunk Shot,0,0,0,1,2.0,0.0,h
+S2223-G0581,3,01:49,PHI,78.0,CHI,93.0,M. Harrell,PHI,Harrell Running Alley Oop Dunk Shot (12 PTS) (Maxey 5 AST),Made Shot,Running Alley Oop Dunk Shot,-1,0,0,1,2.0,2.0,h
+S2223-G0581,3,01:12,PHI,,CHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0581,3,01:12,PHI,,CHI,,M. Harrell,PHI,MISS Harrell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0581,3,01:12,PHI,79.0,CHI,95.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0581,3,00:31.700000,PHI,,CHI,,M. Harrell,PHI,Harrell REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0581,3,00:31.700000,PHI,81.0,CHI,97.0,M. Harrell,PHI,Harrell Tip Layup Shot (15 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0581,4,09:51,PHI,91.0,CHI,104.0,M. Harrell,PHI,Harrell 1' Cutting Dunk Shot (17 PTS) (Niang 1 AST),Made Shot,Cutting Dunk Shot,-2,-5,1,1,2.0,2.0,h
+S2223-G0581,4,07:48,PHI,,CHI,,M. Harrell,PHI,MISS Harrell 3' Layup,Missed Shot,Layup Shot,15,25,3,1,2.0,0.0,h
+S2223-G0581,4,07:28,PHI,,CHI,,M. Harrell,PHI,Harrell REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0581,4,07:25,PHI,,CHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0554,2,11:12,PHI,,NOP,,M. Harrell,PHI,MISS Harrell 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,42,54,7,1,2.0,0.0,h
+S2223-G0554,2,11:00,PHI,,NOP,,M. Harrell,PHI,Harrell S.FOUL (P1.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0554,2,08:32,PHI,,NOP,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0554,2,08:04,PHI,,NOP,,M. Harrell,PHI,Harrell STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0554,2,08:00,PHI,,NOP,,M. Harrell,PHI,Harrell Offensive Charge Foul (P2) (S.Wright),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0554,2,08:00,PHI,,NOP,,M. Harrell,PHI,Harrell Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0554,2,06:48,PHI,,NOP,,M. Harrell,PHI,MISS Harrell 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,39,7,4,1,2.0,0.0,h
+S2223-G0554,2,06:48,PHI,,NOP,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0554,4,09:06,PHI,,NOP,,M. Harrell,PHI,Harrell STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0554,4,09:00,PHI,,NOP,,M. Harrell,PHI,MISS Harrell 3' Layup,Missed Shot,Layup Shot,-25,-8,3,1,2.0,0.0,h
+S2223-G0554,4,08:21,PHI,94.0,NOP,91.0,M. Harrell,PHI,Harrell Cutting Dunk Shot (2 PTS) (Harden 6 AST),Made Shot,Cutting Dunk Shot,1,3,0,1,2.0,2.0,h
+S2223-G0554,4,08:00,PHI,,NOP,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0554,4,06:54,PHI,101.0,NOP,93.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0554,4,06:54,PHI,,NOP,,M. Harrell,PHI,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0554,4,06:35,PHI,,NOP,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0943,2,08:13,DAL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0943,2,07:23,DAL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0943,2,06:37,DAL,,PHI,,M. Harrell,PHI,MISS Harrell 11' Floating Jump Shot,Missed Shot,Floating Jump shot,4,110,11,1,2.0,0.0,v
+S2223-G0943,2,06:27,DAL,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G1217,1,00:56.700000,BKN,,PHI,,M. Harrell,PHI,MISS Harrell 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,6,57,6,1,2.0,0.0,v
+S2223-G1217,1,00:00,BKN,,PHI,,M. Harrell,PHI,MISS Harrell 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-102,224,25,1,3.0,0.0,v
+S2223-G1217,2,08:10,BKN,,PHI,,M. Harrell,PHI,MISS Harrell 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,71,50,9,1,2.0,0.0,v
+S2223-G1217,2,08:07,BKN,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,2,08:05,BKN,,PHI,,M. Harrell,PHI,MISS Harrell 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,88,84,12,1,2.0,0.0,v
+S2223-G1217,2,06:24,BKN,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G1217,4,11:41,BKN,,PHI,,M. Harrell,PHI,Harrell Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1217,4,07:56,BKN,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,4,07:03,BKN,101.0,PHI,114.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1217,4,07:03,BKN,101.0,PHI,115.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1217,4,06:37,BKN,101.0,PHI,117.0,M. Harrell,PHI,Harrell 2' Layup (4 PTS) (Dedmon 4 AST),Made Shot,Layup Shot,-10,13,2,1,2.0,2.0,v
+S2223-G1217,4,06:37,BKN,101.0,PHI,118.0,M. Harrell,PHI,Harrell Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1217,4,05:47,BKN,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,4,04:43,BKN,,PHI,,M. Harrell,PHI,MISS Harrell 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-234,11,0,1,3.0,0.0,v
+S2223-G1217,4,04:21,BKN,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,4,03:40,BKN,103.0,PHI,122.0,M. Harrell,PHI,Harrell 6' Driving Hook Shot (7 PTS) (Milton 7 AST),Made Shot,Driving Hook Shot,-4,55,6,1,2.0,2.0,v
+S2223-G1217,4,03:26,BKN,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,4,03:24,BKN,103.0,PHI,124.0,M. Harrell,PHI,Harrell 4' Running Layup (9 PTS),Made Shot,Running Layup Shot,-10,36,4,1,2.0,2.0,v
+S2223-G1217,4,03:24,BKN,103.0,PHI,125.0,M. Harrell,PHI,Harrell Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1217,4,02:59,BKN,103.0,PHI,127.0,M. Harrell,PHI,Harrell 2' Layup (12 PTS) (Milton 8 AST),Made Shot,Layup Shot,15,15,2,1,2.0,2.0,v
+S2223-G1217,4,02:59,BKN,103.0,PHI,128.0,M. Harrell,PHI,Harrell Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1217,4,02:16,BKN,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1217,4,02:16,BKN,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1217,4,01:56,BKN,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1217,4,00:29.400000,BKN,105.0,PHI,134.0,M. Harrell,PHI,Harrell 1' Cutting Dunk Shot (15 PTS) (McClung 9 AST),Made Shot,Cutting Dunk Shot,-13,-6,1,1,2.0,2.0,v
+S2223-G0001,1,04:27,BOS,,PHI,,M. Harrell,PHI,MISS Harrell 10' Hook Shot,Missed Shot,Hook Shot,43,94,10,1,2.0,0.0,v
+S2223-G0001,1,03:49,BOS,,PHI,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0001,1,02:07,BOS,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P1.T4) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0001,2,01:27,BOS,,PHI,,M. Harrell,PHI,MISS Harrell 4' Layup,Missed Shot,Layup Shot,25,26,4,1,2.0,0.0,v
+S2223-G0001,2,00:27.300000,BOS,61.0,PHI,63.0,M. Harrell,PHI,Harrell 2' Cutting Dunk Shot (2 PTS) (Harden 4 AST),Made Shot,Cutting Dunk Shot,1,16,2,1,2.0,2.0,v
+S2223-G0001,3,01:50,BOS,,PHI,,M. Harrell,PHI,Harrell Offensive Charge Foul (P2) (R.Acosta),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0001,3,01:50,BOS,,PHI,,M. Harrell,PHI,Harrell Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0001,3,00:08.900000,BOS,,PHI,,M. Harrell,PHI,Harrell L.B.FOUL (P3.PN) (B.Forte),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0646,1,00:46.100000,UTA,21.0,PHI,41.0,M. Harrell,PHI,Harrell 3' Hook Shot (2 PTS),Made Shot,Hook Shot,7,24,3,1,2.0,2.0,v
+S2223-G0646,2,11:28,UTA,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0646,2,10:48,UTA,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0646,2,10:46,UTA,,PHI,,M. Harrell,PHI,MISS Harrell 3' Layup,Missed Shot,Layup Shot,-28,3,3,1,2.0,0.0,v
+S2223-G0646,2,10:10,UTA,,PHI,,M. Harrell,PHI,Harrell STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0646,2,07:52,UTA,30.0,PHI,49.0,M. Harrell,PHI,Harrell 2' Dunk (4 PTS) (Harden 7 AST),Made Shot,Dunk Shot,-11,11,2,1,2.0,2.0,v
+S2223-G0646,2,07:17,UTA,,PHI,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0646,2,06:45,UTA,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0646,4,11:15,UTA,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0646,4,11:04,UTA,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0646,4,11:04,UTA,86.0,PHI,89.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0646,4,10:16,UTA,,PHI,,M. Harrell,PHI,MISS Harrell 3' Layup,Missed Shot,Layup Shot,26,21,3,1,2.0,0.0,v
+S2223-G0646,4,10:13,UTA,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0646,4,10:13,UTA,,PHI,,M. Harrell,PHI,MISS Harrell Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0646,4,10:13,UTA,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0646,4,10:13,UTA,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0646,4,10:13,UTA,88.0,PHI,90.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0646,4,06:11,UTA,,PHI,,M. Harrell,PHI,SUB: Melton FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0312,4,11:43,CLE,,PHI,,M. Harrell,PHI,Harrell Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0312,4,09:02,CLE,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0312,4,08:26,CLE,97.0,PHI,72.0,M. Harrell,PHI,Harrell 9' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,-33,89,9,1,2.0,2.0,v
+S2223-G0312,4,07:35,CLE,,PHI,,M. Harrell,PHI,Harrell Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0312,4,04:13,CLE,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0312,4,03:41,CLE,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0312,4,03:41,CLE,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0596,1,10:07,DET,,PHI,,M. Harrell,PHI,MISS Harrell 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,60,41,7,1,2.0,0.0,v
+S2223-G0596,1,09:24,DET,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2223-G0596,1,09:05,DET,5.0,PHI,8.0,M. Harrell,PHI,Harrell 1' Layup (2 PTS) (Harden 2 AST),Made Shot,Layup Shot,-12,6,1,1,2.0,2.0,v
+S2223-G0596,1,08:46,DET,7.0,PHI,9.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0596,1,08:46,DET,7.0,PHI,10.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0596,1,08:14,DET,9.0,PHI,12.0,M. Harrell,PHI,Harrell 6' Floating Jump Shot (6 PTS) (Harden 3 AST),Made Shot,Floating Jump shot,-15,58,6,1,2.0,2.0,v
+S2223-G0596,1,07:14,DET,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,1,05:35,DET,,PHI,,M. Harrell,PHI,MISS Harrell 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,4,6,1,1,2.0,0.0,v
+S2223-G0596,1,05:21,DET,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,1,05:21,DET,15.0,PHI,22.0,M. Harrell,PHI,Harrell Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0596,1,04:25,DET,15.0,PHI,24.0,M. Harrell,PHI,Harrell 2' Cutting Dunk Shot (10 PTS) (Harden 4 AST),Made Shot,Cutting Dunk Shot,2,16,2,1,2.0,2.0,v
+S2223-G0596,1,04:08,DET,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0596,2,06:34,DET,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P2.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2223-G0596,2,04:44,DET,,PHI,,M. Harrell,PHI,MISS Harrell 3' Layup,Missed Shot,Layup Shot,25,0,3,1,2.0,0.0,v
+S2223-G0596,2,04:41,DET,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,2,04:41,DET,46.0,PHI,55.0,M. Harrell,PHI,Harrell Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0596,2,03:26,DET,,PHI,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0596,2,03:08,DET,51.0,PHI,59.0,M. Harrell,PHI,Harrell 3' Driving Hook Shot (14 PTS),Made Shot,Driving Hook Shot,18,30,3,1,2.0,2.0,v
+S2223-G0596,2,02:16,DET,51.0,PHI,65.0,M. Harrell,PHI,Harrell 4' Layup (16 PTS) (Harden 6 AST),Made Shot,Layup Shot,23,31,4,1,2.0,2.0,v
+S2223-G0596,2,01:09,DET,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P3.T4) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,v
+S2223-G0596,2,01:09,DET,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0596,3,10:46,DET,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,3,10:46,DET,57.0,PHI,75.0,M. Harrell,PHI,Harrell Tip Layup Shot (18 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0596,3,09:38,DET,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,3,07:59,DET,,PHI,,M. Harrell,PHI,Harrell Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0596,3,06:15,DET,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0596,3,05:38,DET,70.0,PHI,84.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0596,3,05:38,DET,70.0,PHI,85.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0596,3,01:57,DET,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0534,1,00:29.800000,NOP,,PHI,,M. Harrell,PHI,Harrell Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0534,1,00:00.500000,NOP,,PHI,,M. Harrell,PHI,MISS Harrell 56' 3PT Jump Shot,Missed Shot,Jump Shot,194,528,56,1,3.0,0.0,v
+S2223-G0534,2,10:05,NOP,,PHI,,M. Harrell,PHI,Harrell STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0534,2,09:47,NOP,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P1.T2) (J.Ralls),Foul,Shooting,0,0,0,0,,,v
+S2223-G0534,2,07:08,NOP,44.0,PHI,38.0,M. Harrell,PHI,Harrell 1' Cutting Layup Shot (2 PTS) (Melton 1 AST),Made Shot,Cutting Layup Shot,11,0,1,1,2.0,2.0,v
+S2223-G0534,2,06:59,NOP,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0534,3,00:58.200000,NOP,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0534,3,00:58.200000,NOP,95.0,PHI,87.0,M. Harrell,PHI,Harrell Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0534,3,00:09.700000,NOP,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P2.PN) (J.Ralls),Foul,Shooting,0,0,0,0,,,v
+S2223-G0534,3,00:09.700000,NOP,,PHI,,M. Harrell,PHI,SUB: Harris FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0534,4,09:16,NOP,,PHI,,M. Harrell,PHI,SUB: Harris FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0467,1,03:57,PHI,,DET,,M. Harrell,PHI,Harrell Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0467,1,02:50,PHI,,DET,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0467,1,02:50,PHI,26.0,DET,23.0,M. Harrell,PHI,Harrell Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0467,1,02:09,PHI,28.0,DET,25.0,M. Harrell,PHI,Harrell 1' Running Alley Oop Dunk Shot (4 PTS) (Thybulle 1 AST),Made Shot,Running Alley Oop Dunk Shot,-5,-6,1,1,2.0,2.0,h
+S2223-G0467,1,00:03.400000,PHI,37.0,DET,29.0,M. Harrell,PHI,Harrell 1' Running Finger Roll Layup (6 PTS) (Harden 3 AST),Made Shot,Running Finger Roll Layup Shot,7,-2,1,1,2.0,2.0,h
+S2223-G0467,3,03:46,PHI,83.0,DET,70.0,M. Harrell,PHI,Harrell 1' Cutting Dunk Shot (8 PTS) (Harden 7 AST),Made Shot,Cutting Dunk Shot,6,7,1,1,2.0,2.0,h
+S2223-G0467,3,03:34,PHI,,DET,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0467,3,02:14,PHI,,DET,,M. Harrell,PHI,Harrell Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0467,3,01:32,PHI,89.0,DET,74.0,M. Harrell,PHI,Harrell 2' Layup (10 PTS) (Milton 4 AST),Made Shot,Layup Shot,-15,10,2,1,2.0,2.0,h
+S2223-G0467,3,00:32.700000,PHI,,DET,,M. Harrell,PHI,MISS Harrell 3' Driving Layup,Missed Shot,Driving Layup Shot,22,12,3,1,2.0,0.0,h
+S2223-G0467,3,00:04.300000,PHI,,DET,,M. Harrell,PHI,MISS Harrell 3' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,10,33,3,1,2.0,0.0,h
+S2223-G0084,1,00:45.100000,CHI,,PHI,,M. Harrell,PHI,Harrell STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0084,2,11:06,CHI,,PHI,,M. Harrell,PHI,MISS Harrell 1' Driving Layup,Missed Shot,Driving Layup Shot,10,-1,1,1,2.0,0.0,v
+S2223-G0084,2,10:59,CHI,,PHI,,M. Harrell,PHI,MISS Harrell 2' Driving Layup,Missed Shot,Driving Layup Shot,-15,15,2,1,2.0,0.0,v
+S2223-G0084,2,10:40,CHI,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0084,2,10:40,CHI,,PHI,,M. Harrell,PHI,MISS Harrell 3' Dunk,Missed Shot,Dunk Shot,20,15,3,1,2.0,0.0,v
+S2223-G0084,2,10:12,CHI,26.0,PHI,42.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0084,2,10:12,CHI,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0084,2,10:00,CHI,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0084,2,09:09,CHI,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0084,2,08:53,CHI,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P1.T4) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2223-G0084,2,08:13,CHI,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0084,3,00:21.900000,CHI,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0084,4,11:01,CHI,90.0,PHI,94.0,M. Harrell,PHI,Harrell 1' Cutting Dunk Shot (3 PTS) (Harden 9 AST),Made Shot,Cutting Dunk Shot,0,5,1,1,2.0,2.0,v
+S2223-G0084,4,10:54,CHI,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P2.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0084,4,08:38,CHI,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0682,1,01:12,POR,,PHI,,M. Harrell,PHI,Harrell OFF.Foul (P1) (T.Brothers),Foul,Offensive,0,0,0,0,,,v
+S2223-G0682,1,01:12,POR,,PHI,,M. Harrell,PHI,Harrell Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0682,1,00:01.500000,POR,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0682,1,00:00,POR,,PHI,,M. Harrell,PHI,MISS Harrell Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0682,2,10:58,POR,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0682,2,10:58,POR,14.0,PHI,30.0,M. Harrell,PHI,Harrell Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0682,2,10:11,POR,16.0,PHI,34.0,M. Harrell,PHI,Harrell 1' Alley Oop Dunk (4 PTS) (Niang 1 AST),Made Shot,Alley Oop Dunk Shot,-9,8,1,1,2.0,2.0,v
+S2223-G0682,2,09:07,POR,,PHI,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0682,2,08:23,POR,,PHI,,M. Harrell,PHI,Harrell STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0682,2,08:11,POR,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P2.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0682,2,07:17,POR,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0682,2,00:08.300000,POR,,PHI,,M. Harrell,PHI,SUB: Niang FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0682,3,02:18,POR,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0682,3,02:10,POR,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0682,3,02:10,POR,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0682,3,01:56,POR,,PHI,,M. Harrell,PHI,Harrell P.FOUL (P3.PN) (M.Kallio),Foul,Personal,0,0,0,0,,,v
+S2223-G0682,3,01:29,POR,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0682,4,11:49,POR,,PHI,,M. Harrell,PHI,Harrell Violation:Kicked Ball (T.Brothers),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0682,4,11:03,POR,,PHI,,M. Harrell,PHI,Harrell L.B.FOUL (P4.T1) (M.Kogut),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0682,4,10:13,POR,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P5.T2) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2223-G0682,4,10:11,POR,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0682,4,08:15,POR,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0682,4,08:14,POR,73.0,PHI,88.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0682,4,08:14,POR,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0682,4,07:56,POR,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0122,1,12:00,PHI,,NYK,,M. Harrell,PHI,Jump Ball Harrell vs. Robinson: Tip to Brunson,Jump Ball,,0,0,0,0,,,h
+S2223-G0122,1,08:37,PHI,,NYK,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0122,1,08:24,PHI,,NYK,,M. Harrell,PHI,Harrell STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0122,1,08:21,PHI,9.0,NYK,2.0,M. Harrell,PHI,Harrell Dunk (2 PTS) (Tucker 1 AST),Made Shot,Dunk Shot,1,1,0,1,2.0,2.0,h
+S2223-G0122,1,06:56,PHI,,NYK,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0122,1,06:21,PHI,,NYK,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0122,1,04:25,PHI,,NYK,,M. Harrell,PHI,MISS Harrell 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-5,105,11,1,2.0,0.0,h
+S2223-G0122,1,04:10,PHI,,NYK,,M. Harrell,PHI,MISS Harrell 2' Layup,Missed Shot,Layup Shot,0,19,2,1,2.0,0.0,h
+S2223-G0122,1,04:09,PHI,,NYK,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0122,2,08:50,PHI,27.0,NYK,23.0,M. Harrell,PHI,Harrell Cutting Dunk Shot (4 PTS) (Melton 4 AST),Made Shot,Cutting Dunk Shot,0,-4,0,1,2.0,2.0,h
+S2223-G0122,2,04:38,PHI,,NYK,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0122,2,03:25,PHI,44.0,NYK,46.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0122,2,03:25,PHI,,NYK,,M. Harrell,PHI,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0122,2,03:05,PHI,46.0,NYK,46.0,M. Harrell,PHI,Harrell 4' Driving Layup (7 PTS) (Melton 6 AST),Made Shot,Driving Layup Shot,31,22,4,1,2.0,2.0,h
+S2223-G0122,2,03:05,PHI,48.0,NYK,46.0,M. Harrell,PHI,Harrell Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0122,2,00:07.300000,PHI,52.0,NYK,58.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0122,2,00:07.300000,PHI,53.0,NYK,58.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0122,3,09:35,PHI,,NYK,,M. Harrell,PHI,Harrell P.FOUL (P1.T1) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0122,3,08:00,PHI,,NYK,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0122,3,07:24,PHI,,NYK,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0122,3,04:16,PHI,71.0,NYK,70.0,M. Harrell,PHI,Harrell 1' Running Layup (12 PTS) (Melton 9 AST),Made Shot,Running Layup Shot,13,-1,1,1,2.0,2.0,h
+S2223-G0122,3,04:16,PHI,72.0,NYK,70.0,M. Harrell,PHI,Harrell Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0122,3,03:30,PHI,,NYK,,M. Harrell,PHI,SUB: Niang FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0122,4,02:20,PHI,,NYK,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0122,4,01:45,PHI,96.0,NYK,94.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0122,4,01:45,PHI,,NYK,,M. Harrell,PHI,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0122,4,01:05,PHI,,NYK,,M. Harrell,PHI,SUB: Niang FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0860,4,01:56,PHI,119.0,HOU,93.0,M. Harrell,PHI,Harrell 2' Running Dunk (2 PTS) (McDaniels 2 AST),Made Shot,Running Dunk Shot,-12,10,2,1,2.0,2.0,h
+S2223-G0860,4,01:20,PHI,121.0,HOU,96.0,M. Harrell,PHI,Harrell 10' Floating Jump Shot (4 PTS) (Milton 1 AST),Made Shot,Floating Jump shot,96,15,10,1,2.0,2.0,h
+S2223-G0698,1,07:17,SAC,15.0,PHI,6.0,M. Harrell,PHI,Harrell 8' Hook Shot (2 PTS) (Harris 1 AST),Made Shot,Hook Shot,0,75,8,1,2.0,2.0,v
+S2223-G0698,1,05:55,SAC,,PHI,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0698,1,05:00,SAC,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0698,1,03:26,SAC,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0698,1,03:26,SAC,25.0,PHI,17.0,M. Harrell,PHI,Harrell Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0698,1,03:12,SAC,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0698,2,03:43,SAC,66.0,PHI,49.0,M. Harrell,PHI,Harrell 5' Cutting Layup Shot (6 PTS) (Niang 1 AST),Made Shot,Cutting Layup Shot,-43,33,5,1,2.0,2.0,v
+S2223-G0698,2,03:43,SAC,66.0,PHI,50.0,M. Harrell,PHI,Harrell Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0698,2,01:03,SAC,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0698,2,00:54.100000,SAC,73.0,PHI,59.0,M. Harrell,PHI,Harrell 5' Driving Floating Jump Shot (9 PTS) (Maxey 3 AST),Made Shot,Driving Floating Jump Shot,-5,52,5,1,2.0,2.0,v
+S2223-G0698,2,00:54.100000,SAC,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0698,3,06:59,SAC,86.0,PHI,85.0,M. Harrell,PHI,Harrell 6' Turnaround Bank Hook Shot (11 PTS),Made Shot,Turnaround Bank Hook Shot,54,11,6,1,2.0,2.0,v
+S2223-G0698,3,06:59,SAC,86.0,PHI,86.0,M. Harrell,PHI,Harrell Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0698,3,05:01,SAC,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0698,3,04:56,SAC,91.0,PHI,90.0,M. Harrell,PHI,Harrell Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0698,3,03:31,SAC,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0698,3,03:29,SAC,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0698,3,03:29,SAC,94.0,PHI,93.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0698,3,02:16,SAC,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0698,3,02:16,SAC,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0698,4,08:04,SAC,,PHI,,M. Harrell,PHI,MISS Harrell 2' Dunk,Missed Shot,Dunk Shot,-20,11,2,1,2.0,0.0,v
+S2223-G0698,4,07:16,SAC,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P2.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0698,4,06:29,SAC,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0698,4,04:18,SAC,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0698,4,04:17,SAC,112.0,PHI,120.0,M. Harrell,PHI,Harrell 2' Putback Layup (17 PTS),Made Shot,Putback Layup Shot,21,11,2,1,2.0,2.0,v
+S2223-G0698,4,00:22.800000,SAC,,PHI,,M. Harrell,PHI,SUB: Niang FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G1174,4,02:14,MIL,,PHI,,M. Harrell,PHI,Harrell Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1174,4,00:02,MIL,,PHI,,M. Harrell,PHI,MISS Harrell 27' 3PT Jump Shot,Missed Shot,Jump Shot,169,209,27,1,3.0,0.0,v
+S2223-G0226,3,01:48,PHI,,MIL,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0226,3,01:06,PHI,,MIL,,M. Harrell,PHI,Lane,Violation,Lane,0,0,0,0,,,h
+S2223-G0226,4,11:23,PHI,,MIL,,M. Harrell,PHI,MISS Harrell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0226,4,11:23,PHI,90.0,MIL,86.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0226,4,09:52,PHI,,MIL,,M. Harrell,PHI,MISS Harrell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0226,4,09:52,PHI,,MIL,,M. Harrell,PHI,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0226,4,09:40,PHI,,MIL,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0545,1,00:19.300000,OKC,,PHI,,M. Harrell,PHI,Harrell OFF.Foul (P1) (M.Davis),Foul,Offensive,0,0,0,0,,,v
+S2223-G0545,1,00:19.300000,OKC,,PHI,,M. Harrell,PHI,Harrell Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0545,2,11:16,OKC,20.0,PHI,40.0,M. Harrell,PHI,Harrell 2' Running Layup (2 PTS) (Korkmaz 1 AST),Made Shot,Running Layup Shot,2,16,2,1,2.0,2.0,v
+S2223-G0545,2,10:34,OKC,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0545,2,10:34,OKC,,PHI,,M. Harrell,PHI,MISS Harrell 2' Layup,Missed Shot,Layup Shot,2,20,2,1,2.0,0.0,v
+S2223-G0545,2,10:30,OKC,20.0,PHI,42.0,M. Harrell,PHI,Harrell 3' Driving Layup (4 PTS) (Milton 3 AST),Made Shot,Driving Layup Shot,-27,22,3,1,2.0,2.0,v
+S2223-G0545,2,09:46,OKC,,PHI,,M. Harrell,PHI,MISS Harrell 3' Layup,Missed Shot,Layup Shot,22,22,3,1,2.0,0.0,v
+S2223-G0545,2,09:23,OKC,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0545,2,09:22,OKC,,PHI,,M. Harrell,PHI,MISS Harrell Putback Dunk,Missed Shot,Putback Dunk Shot,0,2,0,1,2.0,0.0,v
+S2223-G0545,2,08:57,OKC,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0545,2,08:46,OKC,22.0,PHI,48.0,M. Harrell,PHI,Harrell 2' Alley Oop Dunk (6 PTS) (Milton 5 AST),Made Shot,Alley Oop Dunk Shot,-2,20,2,1,2.0,2.0,v
+S2223-G0545,2,06:39,OKC,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0545,2,06:08,OKC,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0545,3,01:55,OKC,,PHI,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0545,3,00:03.200000,OKC,,PHI,,M. Harrell,PHI,MISS Harrell 6' Driving Layup,Missed Shot,Driving Layup Shot,54,29,6,1,2.0,0.0,v
+S2223-G0545,4,10:52,OKC,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0545,4,10:42,OKC,,PHI,,M. Harrell,PHI,MISS Harrell 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,33,5,3,1,2.0,0.0,v
+S2223-G0545,4,10:03,OKC,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0545,4,08:08,OKC,78.0,PHI,98.0,M. Harrell,PHI,Harrell 1' Layup (8 PTS),Made Shot,Layup Shot,-13,4,1,1,2.0,2.0,v
+S2223-G0545,4,08:08,OKC,78.0,PHI,99.0,M. Harrell,PHI,Harrell Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0545,4,07:22,OKC,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P2.T1) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0545,4,07:22,OKC,,PHI,,M. Harrell,PHI,SUB: Milton FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0791,1,02:06,SAS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0791,1,01:44,SAS,,PHI,,M. Harrell,PHI,Harrell P.FOUL (P1.T3) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2223-G0791,1,00:01.700000,SAS,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P2.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0791,2,10:28,SAS,28.0,PHI,30.0,M. Harrell,PHI,Harrell 1' Alley Oop Layup (2 PTS) (Maxey 1 AST),Made Shot,Alley Oop Layup shot,-10,5,1,1,2.0,2.0,v
+S2223-G0791,2,09:53,SAS,30.0,PHI,32.0,M. Harrell,PHI,Harrell 3' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,26,3,1,2.0,2.0,v
+S2223-G0791,2,08:48,SAS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0791,2,07:25,SAS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0791,2,06:11,SAS,42.0,PHI,46.0,M. Harrell,PHI,Harrell 1' Alley Oop Dunk (6 PTS) (Maxey 3 AST),Made Shot,Alley Oop Dunk Shot,11,8,1,1,2.0,2.0,v
+S2223-G0791,2,05:25,SAS,,PHI,,M. Harrell,PHI,SUB: Harden FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0791,3,01:51,SAS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0791,4,11:24,SAS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0791,4,11:16,SAS,,PHI,,M. Harrell,PHI,MISS Harrell 2' Layup,Missed Shot,Layup Shot,17,16,2,1,2.0,0.0,v
+S2223-G0791,4,10:13,SAS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0791,4,08:40,SAS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0791,4,07:09,SAS,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G1087,4,01:15,CHI,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1087,4,01:15,CHI,,PHI,,M. Harrell,PHI,MISS Harrell 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,9,8,1,1,2.0,0.0,v
+S2223-G0356,2,02:46,HOU,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0356,2,01:45,HOU,,PHI,,M. Harrell,PHI,MISS Harrell 3' Layup,Missed Shot,Layup Shot,26,20,3,1,2.0,0.0,v
+S2223-G0028,1,00:54.100000,PHI,,SAS,,M. Harrell,PHI,SUB: Maxey FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0028,3,05:08,PHI,,SAS,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0028,3,01:55,PHI,,SAS,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0028,4,06:28,PHI,,SAS,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0028,4,06:14,PHI,,SAS,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0655,2,11:25,LAL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0655,2,11:03,LAL,,PHI,,M. Harrell,PHI,MISS Harrell 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,9,90,9,1,2.0,0.0,v
+S2223-G0655,2,08:38,LAL,,PHI,,M. Harrell,PHI,Harrell Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0655,2,08:07,LAL,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0655,4,06:52,LAL,95.0,PHI,95.0,M. Harrell,PHI,Harrell 2' Dunk (2 PTS) (Harden 11 AST),Made Shot,Dunk Shot,11,14,2,1,2.0,2.0,v
+S2223-G0655,4,05:35,LAL,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0399,1,01:24,PHI,15.0,CHA,21.0,M. Harrell,PHI,Harrell 10' Hook Shot (2 PTS) (Milton 1 AST),Made Shot,Hook Shot,25,92,10,1,2.0,2.0,h
+S2223-G0399,2,11:33,PHI,,CHA,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0399,2,11:12,PHI,23.0,CHA,24.0,M. Harrell,PHI,Harrell 1' Cutting Layup Shot (4 PTS) (Niang 1 AST),Made Shot,Cutting Layup Shot,-10,-8,1,1,2.0,2.0,h
+S2223-G0399,2,11:12,PHI,24.0,CHA,24.0,M. Harrell,PHI,Harrell Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0399,2,10:26,PHI,,CHA,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0399,2,10:12,PHI,26.0,CHA,29.0,M. Harrell,PHI,Harrell 1' Dunk (7 PTS) (Milton 2 AST),Made Shot,Dunk Shot,-2,-5,1,1,2.0,2.0,h
+S2223-G0399,2,08:21,PHI,,CHA,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0399,3,01:05,PHI,,CHA,,M. Harrell,PHI,76ERS T.Foul (Def. 3 Sec Harrell ) (R.Mott),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G0399,3,00:33.900000,PHI,,CHA,,M. Harrell,PHI,Harrell L.B.FOUL (P1.PN) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0399,4,10:19,PHI,,CHA,,M. Harrell,PHI,Harrell S.FOUL (P2.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0399,4,10:02,PHI,103.0,CHA,91.0,M. Harrell,PHI,Harrell 1' Dunk (9 PTS) (Milton 3 AST),Made Shot,Dunk Shot,9,8,1,1,2.0,2.0,h
+S2223-G0399,4,09:12,PHI,,CHA,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0399,4,09:12,PHI,,CHA,,M. Harrell,PHI,MISS Harrell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0399,4,09:12,PHI,,CHA,,M. Harrell,PHI,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0399,4,08:22,PHI,,CHA,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0399,4,07:49,PHI,,CHA,,M. Harrell,PHI,MISS Harrell 2' Driving Layup,Missed Shot,Driving Layup Shot,5,17,2,1,2.0,0.0,h
+S2223-G0399,4,07:43,PHI,,CHA,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0399,4,01:41,PHI,,CHA,,M. Harrell,PHI,SUB: Milton FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0073,2,11:07,TOR,26.0,PHI,33.0,M. Harrell,PHI,Harrell 5' Driving Hook Shot (2 PTS) (Maxey 2 AST),Made Shot,Driving Hook Shot,31,41,5,1,2.0,2.0,v
+S2223-G0073,2,10:22,TOR,,PHI,,M. Harrell,PHI,76ers T.Foul (Def. 3 Sec Harrell ) (E.Lewis),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0073,2,07:15,TOR,,PHI,,M. Harrell,PHI,SUB: Tucker FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0073,3,00:00,TOR,70.0,PHI,81.0,M. Harrell,PHI,Harrell 9' Floating Jump Shot (4 PTS) (Thybulle 3 AST),Made Shot,Floating Jump shot,-26,88,9,1,2.0,2.0,v
+S2223-G0073,4,11:41,TOR,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0073,4,09:55,TOR,72.0,PHI,87.0,M. Harrell,PHI,Harrell 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-21,10,2,1,2.0,2.0,v
+S2223-G0073,4,09:55,TOR,72.0,PHI,88.0,M. Harrell,PHI,Harrell Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0073,4,09:40,TOR,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0073,4,08:13,TOR,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P1.T2) (P.O'Connell),Foul,Shooting,0,0,0,0,,,v
+S2223-G0073,4,07:48,TOR,,PHI,,M. Harrell,PHI,Harrell Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0073,4,07:41,TOR,,PHI,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0073,4,06:00,TOR,,PHI,,M. Harrell,PHI,Harrell Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0073,4,05:58,TOR,,PHI,,M. Harrell,PHI,SUB: Tucker FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0073,4,01:07,TOR,87.0,PHI,110.0,M. Harrell,PHI,Harrell 1' Reverse Layup (9 PTS) (Korkmaz 1 AST),Made Shot,Reverse Layup Shot,-2,8,1,1,2.0,2.0,v
+S2223-G0567,1,04:11,PHI,,IND,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0567,1,04:06,PHI,15.0,IND,19.0,M. Harrell,PHI,Harrell Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0567,1,03:40,PHI,,IND,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0567,1,02:18,PHI,23.0,IND,24.0,M. Harrell,PHI,Harrell 8' Driving Hook Shot (4 PTS),Made Shot,Driving Hook Shot,1,78,8,1,2.0,2.0,h
+S2223-G0567,1,01:37,PHI,,IND,,M. Harrell,PHI,Harrell Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0567,1,01:23,PHI,,IND,,M. Harrell,PHI,Harrell BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0567,1,00:23.600000,PHI,27.0,IND,28.0,M. Harrell,PHI,Harrell 3' Running Reverse Layup (6 PTS) (Milton 1 AST),Made Shot,Running Reverse Layup Shot,21,26,3,1,2.0,2.0,h
+S2223-G0567,2,11:45,PHI,29.0,IND,28.0,M. Harrell,PHI,Harrell Dunk (8 PTS) (Maxey 2 AST),Made Shot,Dunk Shot,1,3,0,1,2.0,2.0,h
+S2223-G0567,2,10:49,PHI,,IND,,M. Harrell,PHI,Harrell S.FOUL (P1.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0567,2,10:08,PHI,,IND,,M. Harrell,PHI,Harrell BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0567,2,09:22,PHI,36.0,IND,32.0,M. Harrell,PHI,Harrell 3' Layup (10 PTS) (Milton 2 AST),Made Shot,Layup Shot,28,-2,3,1,2.0,2.0,h
+S2223-G0567,2,07:20,PHI,43.0,IND,39.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0567,2,07:20,PHI,44.0,IND,39.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0567,2,06:58,PHI,,IND,,M. Harrell,PHI,SUB: Harris FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0567,3,01:32,PHI,93.0,IND,84.0,M. Harrell,PHI,Harrell 2' Finger Roll Layup (14 PTS) (Harris 2 AST),Made Shot,Finger Roll Layup Shot,9,17,2,1,2.0,2.0,h
+S2223-G0567,3,00:00.200000,PHI,,IND,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0567,4,11:13,PHI,,IND,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0567,4,10:58,PHI,,IND,,M. Harrell,PHI,Harrell S.FOUL (P2.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0567,4,10:32,PHI,,IND,,M. Harrell,PHI,Harrell STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0567,4,08:00,PHI,108.0,IND,96.0,M. Harrell,PHI,Harrell 2' Dunk (16 PTS) (Thybulle 1 AST),Made Shot,Dunk Shot,-2,15,2,1,2.0,2.0,h
+S2223-G0567,4,07:27,PHI,,IND,,M. Harrell,PHI,Harrell S.FOUL (P3.T4) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0567,4,06:51,PHI,,IND,,M. Harrell,PHI,Harrell S.FOUL (P4.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0567,4,06:51,PHI,,IND,,M. Harrell,PHI,SUB: Tucker FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0567,4,03:27,PHI,,IND,,M. Harrell,PHI,Jump Ball (CC) Harrell vs. Turner: Tip to Haliburton,Jump Ball,Coach Challenge,0,0,0,0,,,h
+S2223-G0567,4,02:33,PHI,113.0,IND,113.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0567,4,02:33,PHI,,IND,,M. Harrell,PHI,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0567,5,05:00,PHI,,IND,,M. Harrell,PHI,Jump Ball Harrell vs. Turner: Tip to Harris,Jump Ball,,0,0,0,0,,,h
+S2223-G0567,5,03:29,PHI,,IND,,M. Harrell,PHI,Harrell S.FOUL (P5.T1) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0567,5,01:34,PHI,,IND,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0567,5,01:34,PHI,127.0,IND,124.0,M. Harrell,PHI,Harrell 2' Putback Dunk (19 PTS),Made Shot,Putback Dunk Shot,-7,23,2,1,2.0,2.0,h
+S2223-G0567,5,01:15,PHI,,IND,,M. Harrell,PHI,Harrell BLOCK (4 BLK),,,0,0,0,0,,,h
+S2223-G0567,5,00:55.600000,PHI,,IND,,M. Harrell,PHI,Harrell REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0567,5,00:55.600000,PHI,,IND,,M. Harrell,PHI,MISS Harrell Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0770,2,09:45,PHI,,ORL,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0770,3,01:02,PHI,,ORL,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0770,3,00:48.600000,PHI,,ORL,,M. Harrell,PHI,Harrell OFF.Foul (P1) (M.Myers),Foul,Offensive,0,0,0,0,,,h
+S2223-G0770,3,00:48.600000,PHI,,ORL,,M. Harrell,PHI,Harrell Offensive Foul Turnover (P1.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0770,3,00:33.600000,PHI,,ORL,,M. Harrell,PHI,Harrell S.FOUL (P2.T4) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2223-G0770,4,11:40,PHI,,ORL,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0770,4,11:39,PHI,,ORL,,M. Harrell,PHI,MISS Harrell 3' Layup,Missed Shot,Layup Shot,13,29,3,1,2.0,0.0,h
+S2223-G0770,4,09:30,PHI,,ORL,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0770,4,09:28,PHI,,ORL,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0770,4,08:57,PHI,,ORL,,M. Harrell,PHI,Harrell P.FOUL (P3.T2) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2223-G0770,4,08:44,PHI,,ORL,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0770,4,06:59,PHI,95.0,ORL,85.0,M. Harrell,PHI,Harrell 1' Dunk (2 PTS) (Harden 10 AST),Made Shot,Dunk Shot,2,8,1,1,2.0,2.0,h
+S2223-G0770,4,06:40,PHI,,ORL,,M. Harrell,PHI,Harrell STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0770,4,05:24,PHI,,ORL,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G1198,4,04:22,PHI,88.0,MIA,118.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1198,4,04:22,PHI,89.0,MIA,118.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1198,4,01:50,PHI,93.0,MIA,124.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1198,4,01:50,PHI,94.0,MIA,124.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1198,4,01:32,PHI,96.0,MIA,124.0,M. Harrell,PHI,Harrell 1' Running Dunk (6 PTS) (Milton 9 AST),Made Shot,Running Dunk Shot,13,4,1,1,2.0,2.0,h
+S2223-G1198,4,00:02.500000,PHI,101.0,MIA,129.0,M. Harrell,PHI,Harrell 3' Cutting Layup Shot (8 PTS) (Milton 10 AST),Made Shot,Cutting Layup Shot,22,12,3,1,2.0,2.0,h
+S2223-G0273,1,08:00,ORL,,PHI,,M. Harrell,PHI,Harrell Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0273,1,07:21,ORL,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P1.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0273,1,05:43,ORL,,PHI,,M. Harrell,PHI,Harrell Lost Ball Turnover (P2.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0273,1,05:10,ORL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,1,05:02,ORL,15.0,PHI,16.0,M. Harrell,PHI,Harrell 2' Running Dunk (2 PTS) (Harris 1 AST),Made Shot,Running Dunk Shot,0,21,2,1,2.0,2.0,v
+S2223-G0273,1,04:28,ORL,,PHI,,M. Harrell,PHI,SUB: Korkmaz FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0273,2,10:24,ORL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,2,07:03,ORL,,PHI,,M. Harrell,PHI,MISS Harrell 5' Layup,Missed Shot,Layup Shot,-16,48,5,1,2.0,0.0,v
+S2223-G0273,2,04:23,ORL,47.0,PHI,45.0,M. Harrell,PHI,Harrell 3' Layup (4 PTS) (Harris 2 AST),Made Shot,Layup Shot,4,32,3,1,2.0,2.0,v
+S2223-G0273,2,04:08,ORL,,PHI,,M. Harrell,PHI,MISS Harrell 6' Running Layup,Missed Shot,Running Layup Shot,54,27,6,1,2.0,0.0,v
+S2223-G0273,2,03:39,ORL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,2,03:08,ORL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,2,02:42,ORL,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0273,3,08:19,ORL,60.0,PHI,64.0,M. Harrell,PHI,Harrell 1' Cutting Dunk Shot (6 PTS) (Milton 6 AST),Made Shot,Cutting Dunk Shot,0,13,1,1,2.0,2.0,v
+S2223-G0273,3,07:49,ORL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,3,07:26,ORL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,3,06:34,ORL,62.0,PHI,66.0,M. Harrell,PHI,Harrell 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,26,14,3,1,2.0,2.0,v
+S2223-G0273,3,02:57,ORL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,3,02:55,ORL,,PHI,,M. Harrell,PHI,MISS Harrell 3' Putback Layup,Missed Shot,Putback Layup Shot,25,3,3,1,2.0,0.0,v
+S2223-G0273,3,02:55,ORL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0273,3,02:54,ORL,69.0,PHI,74.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0273,3,02:54,ORL,69.0,PHI,75.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0273,3,01:50,ORL,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0273,4,01:13,ORL,98.0,PHI,105.0,M. Harrell,PHI,Harrell 1' Running Dunk (12 PTS) (Milton 10 AST),Made Shot,Running Dunk Shot,-5,-4,1,1,2.0,2.0,v
+S2223-G0273,4,00:30.900000,ORL,99.0,PHI,106.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0273,4,00:30.900000,ORL,99.0,PHI,107.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0195,2,06:55,PHI,,UTA,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0195,2,06:55,PHI,,UTA,,M. Harrell,PHI,MISS Harrell Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0195,2,06:07,PHI,,UTA,,M. Harrell,PHI,SUB: Tucker FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0195,3,05:40,PHI,,UTA,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0195,3,04:28,PHI,,UTA,,M. Harrell,PHI,Harrell Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0195,3,04:07,PHI,,UTA,,M. Harrell,PHI,Harrell OFF.Foul (P1) (B.Adair),Foul,Offensive,0,0,0,0,,,h
+S2223-G0195,3,04:07,PHI,,UTA,,M. Harrell,PHI,Harrell Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0195,3,03:50,PHI,,UTA,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0195,3,02:56,PHI,72.0,UTA,74.0,M. Harrell,PHI,Harrell Running Dunk (2 PTS) (Melton 2 AST),Made Shot,Running Dunk Shot,0,-2,0,1,2.0,2.0,h
+S2223-G0195,3,02:37,PHI,74.0,UTA,74.0,M. Harrell,PHI,Harrell 1' Running Dunk (4 PTS) (Milton 2 AST),Made Shot,Running Dunk Shot,-4,3,1,1,2.0,2.0,h
+S2223-G0195,3,02:03,PHI,,UTA,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0480,1,00:48.900000,PHI,,LAC,,M. Harrell,PHI,Harrell Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0480,2,09:46,PHI,,LAC,,M. Harrell,PHI,Harrell S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G0480,2,08:32,PHI,,LAC,,M. Harrell,PHI,MISS Harrell 10' Floating Jump Shot,Missed Shot,Floating Jump shot,10,95,10,1,2.0,0.0,h
+S2223-G0480,2,08:01,PHI,,LAC,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0382,4,11:27,PHI,,,,M. Harrell,PHI,Harrell S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0382,4,10:28,PHI,,,,M. Harrell,PHI,Harrell P.FOUL (P2.T3) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2223-G0382,4,09:25,PHI,,,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0382,4,08:40,PHI,,,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0044,1,04:38,PHI,,IND,,M. Harrell,PHI,Harrell S.FOUL (P1.T4) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0044,1,03:38,PHI,,IND,,M. Harrell,PHI,MISS Harrell 2' Layup,Missed Shot,Layup Shot,-23,8,2,1,2.0,0.0,h
+S2223-G0044,1,03:08,PHI,,IND,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0044,1,02:41,PHI,26.0,IND,19.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0044,1,02:41,PHI,27.0,IND,19.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0044,1,02:12,PHI,28.0,IND,19.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0044,1,02:12,PHI,,IND,,M. Harrell,PHI,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0044,1,01:47,PHI,29.0,IND,19.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0044,1,01:47,PHI,30.0,IND,19.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0044,1,01:14,PHI,,IND,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0044,2,04:49,PHI,,IND,,M. Harrell,PHI,MISS Harrell 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,16,2,1,2.0,0.0,h
+S2223-G0044,2,04:44,PHI,,IND,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0044,3,02:43,PHI,,IND,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G1205,2,08:46,ATL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,2,07:24,ATL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,2,07:06,ATL,,PHI,,M. Harrell,PHI,Harrell Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1205,2,06:12,ATL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,2,06:12,ATL,46.0,PHI,38.0,M. Harrell,PHI,Harrell Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G1205,2,05:47,ATL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,2,05:47,ATL,47.0,PHI,40.0,M. Harrell,PHI,Harrell Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G1205,2,05:29,ATL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,2,05:22,ATL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,2,05:22,ATL,47.0,PHI,42.0,M. Harrell,PHI,Harrell Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1205,2,05:22,ATL,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G1205,2,04:41,ATL,,PHI,,M. Harrell,PHI,Harrell STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1205,2,03:51,ATL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,2,03:26,ATL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,2,03:11,ATL,51.0,PHI,48.0,M. Harrell,PHI,Harrell 2' Driving Layup (8 PTS) (Springer 2 AST),Made Shot,Driving Layup Shot,12,15,2,1,2.0,2.0,v
+S2223-G1205,2,02:13,ATL,,PHI,,M. Harrell,PHI,MISS Harrell 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,169,17,1,2.0,0.0,v
+S2223-G1205,2,01:10,ATL,,PHI,,M. Harrell,PHI,SUB: Korkmaz FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G1205,4,07:24,ATL,,PHI,,M. Harrell,PHI,MISS Harrell 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,2,43,4,1,2.0,0.0,v
+S2223-G1205,4,07:20,ATL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,4,07:20,ATL,101.0,PHI,98.0,M. Harrell,PHI,Harrell Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1205,4,05:01,ATL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1205,4,04:53,ATL,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1205,4,04:53,ATL,107.0,PHI,103.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1205,4,03:57,ATL,,PHI,,M. Harrell,PHI,Harrell Lost Ball Turnover (P2.T19),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1205,4,03:46,ATL,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0506,1,02:07,WAS,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P1.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0506,1,01:07,WAS,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0506,1,01:07,WAS,28.0,PHI,25.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0506,1,00:50.100000,WAS,28.0,PHI,27.0,M. Harrell,PHI,Harrell 3' Dunk (3 PTS) (Milton 1 AST),Made Shot,Dunk Shot,-13,29,3,1,2.0,2.0,v
+S2223-G0506,1,00:37.600000,WAS,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P2.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0506,1,00:25.900000,WAS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0506,1,00:25.900000,WAS,30.0,PHI,29.0,M. Harrell,PHI,Harrell Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0506,2,11:23,WAS,34.0,PHI,32.0,M. Harrell,PHI,Harrell 11' Hook Shot (7 PTS),Made Shot,Hook Shot,-56,100,11,1,2.0,2.0,v
+S2223-G0506,2,10:43,WAS,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P3.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0506,2,10:36,WAS,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0506,3,00:02.800000,WAS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0506,4,11:39,WAS,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P4.T1) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2223-G0506,4,10:33,WAS,,PHI,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0506,4,09:19,WAS,,PHI,,M. Harrell,PHI,MISS Harrell 4' Layup,Missed Shot,Layup Shot,34,13,4,1,2.0,0.0,v
+S2223-G0506,4,09:17,WAS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0506,4,09:15,WAS,98.0,PHI,95.0,M. Harrell,PHI,Harrell 3' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,-16,23,3,1,2.0,2.0,v
+S2223-G0506,4,07:23,WAS,,PHI,,M. Harrell,PHI,SUB: Melton FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0059,1,03:48,TOR,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0059,1,03:10,TOR,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0059,1,03:10,TOR,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0059,1,01:31,TOR,,PHI,,M. Harrell,PHI,SUB: Niang FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0059,2,02:04,TOR,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0409,2,09:43,PHI,,SAC,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0409,2,08:52,PHI,,SAC,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0409,2,06:57,PHI,,SAC,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0409,4,11:33,PHI,,SAC,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0409,4,11:03,PHI,,SAC,,M. Harrell,PHI,MISS Harrell 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,6,13,1,1,2.0,0.0,h
+S2223-G0409,4,09:18,PHI,,SAC,,M. Harrell,PHI,Harrell S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0409,4,08:55,PHI,,SAC,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0409,4,08:28,PHI,,SAC,,M. Harrell,PHI,MISS Harrell 3' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,27,-10,3,1,2.0,0.0,h
+S2223-G0409,4,07:45,PHI,,SAC,,M. Harrell,PHI,Harrell STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0409,4,07:35,PHI,,SAC,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0409,4,05:33,PHI,,SAC,,M. Harrell,PHI,SUB: Korkmaz FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0297,1,09:55,ORL,5.0,PHI,7.0,M. Harrell,PHI,Harrell 7' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,66,28,7,1,2.0,2.0,v
+S2223-G0297,1,09:55,ORL,5.0,PHI,8.0,M. Harrell,PHI,Harrell Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0297,1,08:47,ORL,9.0,PHI,10.0,M. Harrell,PHI,Harrell 5' Layup (5 PTS),Made Shot,Layup Shot,42,17,5,1,2.0,2.0,v
+S2223-G0297,1,07:12,ORL,,PHI,,M. Harrell,PHI,MISS Harrell 3' Driving Layup,Missed Shot,Driving Layup Shot,-6,33,3,1,2.0,0.0,v
+S2223-G0297,1,05:29,ORL,,PHI,,M. Harrell,PHI,MISS Harrell 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-5,84,8,1,2.0,0.0,v
+S2223-G0297,1,05:16,ORL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,1,04:39,ORL,,PHI,,M. Harrell,PHI,SUB: Niang FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0297,2,01:06,ORL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,3,11:20,ORL,,PHI,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0297,3,10:32,ORL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,3,09:26,ORL,,PHI,,M. Harrell,PHI,Harrell BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0297,3,09:23,ORL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,3,08:13,ORL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,3,07:14,ORL,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0297,3,07:11,ORL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,3,05:51,ORL,61.0,PHI,82.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0297,3,05:51,ORL,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0297,3,05:17,ORL,63.0,PHI,84.0,M. Harrell,PHI,Harrell 2' Layup (8 PTS) (Harris 4 AST),Made Shot,Layup Shot,15,3,2,1,2.0,2.0,v
+S2223-G0297,3,05:17,ORL,63.0,PHI,85.0,M. Harrell,PHI,Harrell Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0297,3,03:45,ORL,,PHI,,M. Harrell,PHI,MISS Harrell 1' Dunk,Missed Shot,Dunk Shot,4,6,1,1,2.0,0.0,v
+S2223-G0297,3,03:38,ORL,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0297,3,03:18,ORL,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0612,1,01:22,PHI,,DET,,M. Harrell,PHI,Harrell OFF.Foul (P1) (J.Capers),Foul,Offensive,0,0,0,0,,,h
+S2223-G0612,1,01:22,PHI,,DET,,M. Harrell,PHI,Harrell Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0612,1,00:49.600000,PHI,27.0,DET,19.0,M. Harrell,PHI,Harrell 8' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,-13,76,8,1,2.0,2.0,h
+S2223-G0612,1,00:24.600000,PHI,,DET,,M. Harrell,PHI,Harrell S.FOUL (P2.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0612,2,11:35,PHI,29.0,DET,20.0,M. Harrell,PHI,Harrell 2' Layup (4 PTS) (Melton 1 AST),Made Shot,Layup Shot,11,16,2,1,2.0,2.0,h
+S2223-G0612,2,08:33,PHI,,DET,,M. Harrell,PHI,Harrell Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0612,2,07:16,PHI,,DET,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0612,3,01:32,PHI,,DET,,M. Harrell,PHI,Harrell Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0612,3,01:06,PHI,105.0,DET,70.0,M. Harrell,PHI,Harrell 1' Dunk (6 PTS) (Thybulle 1 AST),Made Shot,Dunk Shot,-7,-2,1,1,2.0,2.0,h
+S2223-G0612,4,11:23,PHI,108.0,DET,77.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0612,4,11:23,PHI,109.0,DET,77.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0612,4,10:25,PHI,,DET,,M. Harrell,PHI,Harrell S.FOUL (P3.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0612,4,10:25,PHI,,DET,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0741,1,04:47,PHI,18.0,DEN,23.0,M. Harrell,PHI,Harrell Cutting Dunk Shot (2 PTS) (Maxey 1 AST),Made Shot,Cutting Dunk Shot,0,3,0,1,2.0,2.0,h
+S2223-G0741,1,03:35,PHI,,DEN,,M. Harrell,PHI,SUB: Milton FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0741,2,02:48,PHI,,DEN,,M. Harrell,PHI,Harrell P.FOUL (P1.T2) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0741,2,02:48,PHI,,DEN,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0741,4,09:09,PHI,,DEN,,M. Harrell,PHI,Harrell S.FOUL (P2.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0741,4,07:58,PHI,,DEN,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0756,2,10:59,PHI,,ORL,,M. Harrell,PHI,Harrell STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0756,2,10:28,PHI,,ORL,,M. Harrell,PHI,Harrell Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0756,2,10:05,PHI,37.0,ORL,17.0,M. Harrell,PHI,Harrell 2' Cutting Dunk Shot (2 PTS) (Milton 1 AST),Made Shot,Cutting Dunk Shot,-6,-15,2,1,2.0,2.0,h
+S2223-G0756,2,07:53,PHI,44.0,ORL,24.0,M. Harrell,PHI,Harrell 1' Dunk (4 PTS) (Milton 2 AST),Made Shot,Dunk Shot,10,-1,1,1,2.0,2.0,h
+S2223-G0756,2,07:38,PHI,,ORL,,M. Harrell,PHI,Harrell S.FOUL (P1.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2223-G0756,2,06:38,PHI,,ORL,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0756,3,02:19,PHI,,ORL,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0756,3,02:19,PHI,87.0,ORL,84.0,M. Harrell,PHI,Harrell Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0756,3,01:50,PHI,,ORL,,M. Harrell,PHI,MISS Harrell 15' Jump Shot,Missed Shot,Jump Shot,-119,95,15,1,2.0,0.0,h
+S2223-G0756,3,00:00.700000,PHI,,ORL,,M. Harrell,PHI,MISS Harrell 12' Driving Hook Shot,Missed Shot,Driving Hook Shot,4,122,12,1,2.0,0.0,h
+S2223-G0756,4,11:09,PHI,94.0,ORL,94.0,M. Harrell,PHI,Harrell 2' Dunk (8 PTS) (Thybulle 2 AST),Made Shot,Dunk Shot,0,18,2,1,2.0,2.0,h
+S2223-G0756,4,10:58,PHI,,ORL,,M. Harrell,PHI,Harrell S.FOUL (P2.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0756,4,08:31,PHI,,ORL,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0097,1,02:11,WAS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0097,1,00:40.100000,WAS,,PHI,,M. Harrell,PHI,MISS Harrell 8' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-80,17,8,1,2.0,0.0,v
+S2223-G0097,1,00:29.600000,WAS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0097,2,09:58,WAS,,PHI,,M. Harrell,PHI,Harrell STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0097,2,09:30,WAS,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0097,3,02:08,WAS,71.0,PHI,76.0,M. Harrell,PHI,Harrell 3' Running Layup (2 PTS) (Harden 12 AST),Made Shot,Running Layup Shot,16,26,3,1,2.0,2.0,v
+S2223-G0097,3,02:08,WAS,71.0,PHI,77.0,M. Harrell,PHI,Harrell Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0097,3,01:20,WAS,73.0,PHI,79.0,M. Harrell,PHI,Harrell 8' Jump Shot (5 PTS),Made Shot,Jump Shot,60,55,8,1,2.0,2.0,v
+S2223-G0097,3,01:05,WAS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0097,3,00:42.700000,WAS,,PHI,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0097,3,00:35.400000,WAS,73.0,PHI,84.0,M. Harrell,PHI,Harrell 5' Layup (7 PTS) (Harden 14 AST),Made Shot,Layup Shot,42,34,5,1,2.0,2.0,v
+S2223-G0097,4,09:57,WAS,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P1.T3) (T.Ricks),Foul,Shooting,0,0,0,0,,,v
+S2223-G0097,4,07:31,WAS,,PHI,,M. Harrell,PHI,Harrell BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0097,4,07:29,WAS,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P2.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0097,4,06:38,WAS,,PHI,,M. Harrell,PHI,MISS Harrell 6' Running Layup,Missed Shot,Running Layup Shot,-58,18,6,1,2.0,0.0,v
+S2223-G0097,4,06:38,WAS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0097,4,06:38,WAS,,PHI,,M. Harrell,PHI,MISS Harrell 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-4,15,2,1,2.0,0.0,v
+S2223-G0097,4,06:34,WAS,,PHI,,M. Harrell,PHI,SUB: Harris FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0453,2,11:02,PHI,30.0,TOR,25.0,M. Harrell,PHI,Harrell 3' Hook Shot (2 PTS) (House Jr. 1 AST),Made Shot,Hook Shot,-6,29,3,1,2.0,2.0,h
+S2223-G0453,2,09:14,PHI,,TOR,,M. Harrell,PHI,Harrell STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0453,2,09:08,PHI,39.0,TOR,27.0,M. Harrell,PHI,Harrell 1' Running Dunk (4 PTS) (Harden 4 AST),Made Shot,Running Dunk Shot,6,11,1,1,2.0,2.0,h
+S2223-G0453,2,08:36,PHI,41.0,TOR,29.0,M. Harrell,PHI,Harrell 1' Layup (6 PTS) (Milton 3 AST),Made Shot,Layup Shot,-12,-5,1,1,2.0,2.0,h
+S2223-G0453,2,08:05,PHI,,TOR,,M. Harrell,PHI,MISS Harrell 1' Running Layup,Missed Shot,Running Layup Shot,5,-4,1,1,2.0,0.0,h
+S2223-G0453,2,06:40,PHI,,TOR,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0453,4,11:42,PHI,,TOR,,M. Harrell,PHI,Harrell P.FOUL (P1.T1) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2223-G0453,4,11:38,PHI,,TOR,,M. Harrell,PHI,Harrell S.FOUL (P2.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0453,4,11:02,PHI,,TOR,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0453,4,09:37,PHI,,TOR,,M. Harrell,PHI,Harrell STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0453,4,09:34,PHI,79.0,TOR,80.0,M. Harrell,PHI,Harrell Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0453,4,09:34,PHI,,TOR,,M. Harrell,PHI,MISS Harrell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0453,4,08:38,PHI,,TOR,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0668,1,01:50,LAC,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0668,2,08:41,LAC,,PHI,,M. Harrell,PHI,MISS Harrell 7' Floating Jump Shot,Missed Shot,Floating Jump shot,0,71,7,1,2.0,0.0,v
+S2223-G0668,2,07:52,LAC,,PHI,,M. Harrell,PHI,Harrell Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0668,2,07:13,LAC,,PHI,,M. Harrell,PHI,76ers T.Foul (Def. 3 Sec Harrell ) (K.Cutler),Foul,Defense 3 Second,0,0,0,0,,,v
+S2223-G0668,2,07:13,LAC,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0668,4,10:50,LAC,,PHI,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0668,4,08:21,LAC,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0668,4,08:21,LAC,96.0,PHI,103.0,M. Harrell,PHI,Harrell Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0668,4,08:21,LAC,96.0,PHI,104.0,M. Harrell,PHI,Harrell Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0668,4,08:02,LAC,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0668,4,07:35,LAC,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0804,1,00:39.100000,NYK,,PHI,,M. Harrell,PHI,MISS Harrell 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,119,105,16,1,2.0,0.0,v
+S2223-G0804,2,10:24,NYK,,PHI,,M. Harrell,PHI,Harrell S.FOUL (P1.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0804,2,10:24,NYK,,PHI,,M. Harrell,PHI,SUB: Reed FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0015,3,00:09,PHI,,MIL,,M. Harrell,PHI,SUB: Thybulle FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0015,4,09:49,PHI,,MIL,,M. Harrell,PHI,SUB: Harris FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0432,2,11:21,PHI,,GSW,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0432,2,10:41,PHI,,GSW,,M. Harrell,PHI,MISS Harrell 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,-5,42,4,1,2.0,0.0,h
+S2223-G0432,2,08:50,PHI,,GSW,,M. Harrell,PHI,Harrell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0432,2,07:17,PHI,,GSW,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0432,4,06:31,PHI,,GSW,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0432,4,05:44,PHI,,GSW,,M. Harrell,PHI,SUB: Melton FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0824,2,08:06,BOS,,PHI,,M. Harrell,PHI,MISS Harrell 4' Layup,Missed Shot,Layup Shot,11,35,4,1,2.0,0.0,v
+S2223-G0824,2,08:06,BOS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0824,2,07:04,BOS,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0824,4,11:31,BOS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0824,4,09:44,BOS,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0824,4,09:44,BOS,90.0,PHI,85.0,M. Harrell,PHI,Harrell Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0824,4,08:18,BOS,,PHI,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,v
+S2223-G0721,2,11:48,PHI,,BKN,,M. Harrell,PHI,MISS Harrell 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,37,16,4,1,2.0,0.0,h
+S2223-G0721,2,11:05,PHI,43.0,BKN,43.0,M. Harrell,PHI,Harrell 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,6,4,1,1,2.0,2.0,h
+S2223-G0721,2,07:17,PHI,61.0,BKN,52.0,M. Harrell,PHI,Harrell Layup (4 PTS) (Maxey 2 AST),Made Shot,Layup Shot,-4,-1,0,1,2.0,2.0,h
+S2223-G0721,2,07:17,PHI,,BKN,,M. Harrell,PHI,Harrell T.FOUL (P0.T1) (B.Nansel),Foul,Technical,0,0,0,0,,,h
+S2223-G0721,2,06:37,PHI,,BKN,,M. Harrell,PHI,SUB: Embiid FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G0721,3,01:27,PHI,,BKN,,M. Harrell,PHI,Harrell S.FOUL (P1.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0721,3,01:01,PHI,,BKN,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0721,3,00:00.700000,PHI,,BKN,,M. Harrell,PHI,Harrell S.FOUL (P2.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0721,4,11:02,PHI,,BKN,,M. Harrell,PHI,SUB: Harris FOR Harrell,Substitution,,0,0,0,0,,,h
+S2223-G1126,4,02:01,DEN,,PHI,,M. Harrell,PHI,Harrell P.FOUL (P1.T3) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2223-G1126,4,01:32,DEN,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1126,4,01:23,DEN,,PHI,,M. Harrell,PHI,MISS Harrell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1126,4,01:23,DEN,112.0,PHI,107.0,M. Harrell,PHI,Harrell Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1126,4,00:28.900000,DEN,,PHI,,M. Harrell,PHI,Harrell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1126,4,00:28.900000,DEN,114.0,PHI,111.0,M. Harrell,PHI,Harrell Tip Dunk Shot (3 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G1126,4,00:02.600000,DEN,,PHI,,M. Harrell,PHI,MISS Harrell 27' 3PT Jump Shot,Missed Shot,Jump Shot,-123,239,27,1,3.0,0.0,v

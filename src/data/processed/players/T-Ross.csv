@@ -1,0 +1,975 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0962,1,01:30,DAL,,PHX,,T. Ross,PHX,Ross S.FOUL (P1.T3) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0962,2,08:54,DAL,,PHX,,T. Ross,PHX,Ross S.FOUL (P2.T2) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0962,2,08:02,DAL,,PHX,,T. Ross,PHX,Ross REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0962,2,07:49,DAL,,PHX,,T. Ross,PHX,SUB: Ayton FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0962,3,06:38,DAL,,PHX,,T. Ross,PHX,Ross S.FOUL (P3.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0962,3,02:47,DAL,,PHX,,T. Ross,PHX,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,37,24,1,3.0,0.0,v
+S2223-G0962,3,02:41,DAL,,PHX,,T. Ross,PHX,SUB: Craig FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0020,1,10:08,ATL,0.0,ORL,2.0,T. Ross,ORL,Ross 11' Driving Floating Jump Shot (2 PTS) (Carter Jr. 1 AST),Made Shot,Driving Floating Jump Shot,20,110,11,1,2.0,2.0,v
+S2223-G0020,1,09:36,ATL,,ORL,,T. Ross,ORL,MISS Ross 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,43,117,12,1,2.0,0.0,v
+S2223-G0020,1,08:40,ATL,,ORL,,T. Ross,ORL,Ross S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0020,1,07:28,ATL,6.0,ORL,8.0,T. Ross,ORL,Ross 4' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,-37,21,4,1,2.0,2.0,v
+S2223-G0020,1,05:11,ATL,,ORL,,T. Ross,ORL,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,80,232,25,1,3.0,0.0,v
+S2223-G0020,1,01:36,ATL,,ORL,,T. Ross,ORL,SUB: Hampton FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0020,2,05:31,ATL,,ORL,,T. Ross,ORL,Ross S.FOUL (P2.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0020,2,02:08,ATL,46.0,ORL,51.0,T. Ross,ORL,Ross 25' 3PT Jump Shot (7 PTS) (Wagner 2 AST),Made Shot,Jump Shot,134,216,25,1,3.0,3.0,v
+S2223-G0020,3,08:39,ATL,,ORL,,T. Ross,ORL,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,229,8,0,1,3.0,0.0,v
+S2223-G0020,3,07:25,ATL,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0020,3,05:47,ATL,,ORL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-80,244,26,1,3.0,0.0,v
+S2223-G0020,3,05:22,ATL,,ORL,,T. Ross,ORL,Ross Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0020,3,05:12,ATL,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0020,3,04:52,ATL,,ORL,,T. Ross,ORL,Ross REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0020,3,04:06,ATL,,ORL,,T. Ross,ORL,Ross REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0020,3,02:43,ATL,74.0,ORL,75.0,T. Ross,ORL,Ross 12' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,-61,104,12,1,2.0,2.0,v
+S2223-G0020,3,02:15,ATL,76.0,ORL,76.0,T. Ross,ORL,Ross Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0020,3,02:15,ATL,76.0,ORL,77.0,T. Ross,ORL,Ross Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0020,3,02:08,ATL,,ORL,,T. Ross,ORL,Ross P.FOUL (P3.PN) (B.Schwab),Foul,Personal,0,0,0,0,,,v
+S2223-G0020,3,01:07,ATL,,ORL,,T. Ross,ORL,SUB: Hampton FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0020,4,07:59,ATL,,ORL,,T. Ross,ORL,Ross P.FOUL (P4.T1) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0020,4,03:24,ATL,,ORL,,T. Ross,ORL,Ross BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0132,2,11:51,ORL,,SAC,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0132,2,09:44,ORL,,SAC,,T. Ross,ORL,Ross OFF.Foul (P1) (D.Guthrie),Foul,Offensive,0,0,0,0,,,h
+S2223-G0132,2,09:44,ORL,,SAC,,T. Ross,ORL,Ross Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0132,2,08:34,ORL,,SAC,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0132,2,07:24,ORL,,SAC,,T. Ross,ORL,SUB: Hampton FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0132,3,05:11,ORL,,SAC,,T. Ross,ORL,Ross Step Out of Bounds Turnover (P2.T13),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0132,3,03:25,ORL,,SAC,,T. Ross,ORL,MISS Ross 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,42,26,5,1,2.0,0.0,h
+S2223-G0132,3,01:11,ORL,,SAC,,T. Ross,ORL,MISS Ross 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,23,31,4,1,2.0,0.0,h
+S2223-G1125,2,11:11,UTA,,PHX,,T. Ross,PHX,MISS Ross 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,75,249,26,1,3.0,0.0,v
+S2223-G1125,2,08:51,UTA,,PHX,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1125,2,08:46,UTA,,PHX,,T. Ross,PHX,MISS Ross 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,100,238,26,1,3.0,0.0,v
+S2223-G1125,2,08:43,UTA,,PHX,,T. Ross,PHX,Ross REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1125,2,08:20,UTA,,PHX,,T. Ross,PHX,Ross REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1125,2,08:13,UTA,33.0,PHX,45.0,T. Ross,PHX,Ross 11' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,-86,73,11,1,2.0,2.0,v
+S2223-G1125,2,08:13,UTA,33.0,PHX,46.0,T. Ross,PHX,Ross Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1125,2,07:42,UTA,,PHX,,T. Ross,PHX,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-168,196,26,1,3.0,0.0,v
+S2223-G1125,2,06:43,UTA,,PHX,,T. Ross,PHX,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,17,24,1,3.0,0.0,v
+S2223-G1125,2,06:21,UTA,,PHX,,T. Ross,PHX,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,6,24,1,3.0,0.0,v
+S2223-G1125,2,04:44,UTA,,PHX,,T. Ross,PHX,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,25,24,1,3.0,0.0,v
+S2223-G1125,2,04:41,UTA,,PHX,,T. Ross,PHX,Ross REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1125,2,04:39,UTA,,PHX,,T. Ross,PHX,MISS Ross 3' Driving Dunk,Missed Shot,Driving Dunk Shot,-26,10,3,1,2.0,0.0,v
+S2223-G1125,2,04:02,UTA,,PHX,,T. Ross,PHX,SUB: Okogie FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G1125,2,00:06.800000,UTA,52.0,PHX,57.0,T. Ross,PHX,Ross 26' 3PT Jump Shot (6 PTS) (Paul 5 AST),Made Shot,Jump Shot,125,232,26,1,3.0,3.0,v
+S2223-G1125,4,11:46,UTA,81.0,PHX,86.0,T. Ross,PHX,Ross 16' Pullup Jump Shot (8 PTS) (Payne 3 AST),Made Shot,Pullup Jump shot,0,157,16,1,2.0,2.0,v
+S2223-G1125,4,10:44,UTA,,PHX,,T. Ross,PHX,Ross REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1125,4,10:39,UTA,81.0,PHX,91.0,T. Ross,PHX,Ross 17' Running Pull-Up Jump Shot (10 PTS),Made Shot,Running Pull-Up Jump Shot,-40,163,17,1,2.0,2.0,v
+S2223-G1125,4,10:17,UTA,,PHX,,T. Ross,PHX,Ross Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G1125,4,08:28,UTA,86.0,PHX,98.0,T. Ross,PHX,Ross 25' 3PT Jump Shot (13 PTS) (Biyombo 1 AST),Made Shot,Jump Shot,-135,211,25,1,3.0,3.0,v
+S2223-G1125,4,07:38,UTA,,PHX,,T. Ross,PHX,MISS Ross 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,9,137,14,1,2.0,0.0,v
+S2223-G1125,4,07:24,UTA,,PHX,,T. Ross,PHX,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,-222,88,24,1,3.0,0.0,v
+S2223-G1125,4,06:18,UTA,,PHX,,T. Ross,PHX,Ross P.FOUL (P1.PN) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2223-G1125,4,04:58,UTA,,PHX,,T. Ross,PHX,Ross S.FOUL (P2.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G1125,4,04:58,UTA,,PHX,,T. Ross,PHX,SUB: Paul FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G1172,2,06:21,OKC,,PHX,,T. Ross,PHX,SUB: Booker FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G1172,4,11:38,OKC,,PHX,,T. Ross,PHX,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,207,141,25,1,3.0,0.0,v
+S2223-G1172,4,11:05,OKC,,PHX,,T. Ross,PHX,Ross REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1172,4,07:23,OKC,,PHX,,T. Ross,PHX,Ross REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1172,4,06:44,OKC,,PHX,,T. Ross,PHX,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,136,236,27,1,3.0,0.0,v
+S2223-G1172,4,06:36,OKC,,PHX,,T. Ross,PHX,Ross S.FOUL (P1.T3) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2223-G1172,4,06:36,OKC,,PHX,,T. Ross,PHX,SUB: Booker FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G1105,2,08:52,SAC,31.0,PHX,40.0,T. Ross,PHX,Ross 21' Pullup Jump Shot (2 PTS) (Paul 6 AST),Made Shot,Pullup Jump shot,56,200,21,1,2.0,2.0,v
+S2223-G1105,2,08:09,SAC,,PHX,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1105,2,07:45,SAC,,PHX,,T. Ross,PHX,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1105,2,06:20,SAC,,PHX,,T. Ross,PHX,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,173,184,25,1,3.0,0.0,v
+S2223-G1105,2,05:54,SAC,38.0,PHX,50.0,T. Ross,PHX,Ross 12' Driving Floating Jump Shot (4 PTS) (Paul 10 AST),Made Shot,Driving Floating Jump Shot,54,103,12,1,2.0,2.0,v
+S2223-G1105,2,05:23,SAC,41.0,PHX,53.0,T. Ross,PHX,Ross 25' 3PT Jump Shot (7 PTS) (Paul 11 AST),Made Shot,Jump Shot,208,141,25,1,3.0,3.0,v
+S2223-G1105,2,03:28,SAC,47.0,PHX,59.0,T. Ross,PHX,Ross 14' Pullup Jump Shot (9 PTS) (Biyombo 2 AST),Made Shot,Pullup Jump shot,70,122,14,1,2.0,2.0,v
+S2223-G1105,2,02:20,SAC,,PHX,,T. Ross,PHX,Ross P.FOUL (P1.T3) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G1105,2,02:03,SAC,49.0,PHX,62.0,T. Ross,PHX,Ross 25' 3PT Jump Shot (12 PTS) (Landale 1 AST),Made Shot,Jump Shot,216,127,25,1,3.0,3.0,v
+S2223-G1105,3,03:21,SAC,,PHX,,T. Ross,PHX,Ross REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1105,3,03:15,SAC,,PHX,,T. Ross,PHX,MISS Ross 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,59,252,26,1,3.0,0.0,v
+S2223-G1105,3,02:33,SAC,94.0,PHX,88.0,T. Ross,PHX,Ross 3PT Jump Shot (15 PTS) (Payne 3 AST),Made Shot,Jump Shot,229,36,0,1,3.0,3.0,v
+S2223-G1105,3,02:05,SAC,,PHX,,T. Ross,PHX,MISS Ross 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-32,190,19,1,2.0,0.0,v
+S2223-G1105,3,00:05.600000,SAC,,PHX,,T. Ross,PHX,SUB: Craig FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G1105,4,10:21,SAC,103.0,PHX,98.0,T. Ross,PHX,Ross 16' Pullup Jump Shot (17 PTS) (Landale 3 AST),Made Shot,Pullup Jump shot,69,147,16,1,2.0,2.0,v
+S2223-G1105,4,09:22,SAC,107.0,PHX,100.0,T. Ross,PHX,Ross 18' Pullup Jump Shot (19 PTS) (Payne 5 AST),Made Shot,Pullup Jump shot,43,174,18,1,2.0,2.0,v
+S2223-G1105,4,09:01,SAC,,PHX,,T. Ross,PHX,Ross Transition Take Foul (P2.T2) (E.Malloy),Foul                                    ,Transition Take,0,0,0,0,,,v
+S2223-G1105,4,08:25,SAC,112.0,PHX,101.0,T. Ross,PHX,Ross Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1105,4,08:25,SAC,112.0,PHX,102.0,T. Ross,PHX,Ross Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1105,4,07:11,SAC,117.0,PHX,107.0,T. Ross,PHX,Ross 26' 3PT Jump Shot (24 PTS) (Paul 12 AST),Made Shot,Jump Shot,-172,193,26,1,3.0,3.0,v
+S2223-G1105,4,05:13,SAC,,PHX,,T. Ross,PHX,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,233,22,0,1,3.0,0.0,v
+S2223-G1105,4,04:44,SAC,121.0,PHX,115.0,T. Ross,PHX,Ross 24' 3PT Jump Shot (27 PTS) (Warren 1 AST),Made Shot,Jump Shot,-234,29,24,1,3.0,3.0,v
+S2223-G1105,4,04:26,SAC,,PHX,,T. Ross,PHX,Ross P.FOUL (P3.PN) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2223-G1105,4,03:24,SAC,,PHX,,T. Ross,PHX,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,228,94,25,1,3.0,0.0,v
+S2223-G1105,4,03:05,SAC,,PHX,,T. Ross,PHX,Ross REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1105,4,02:53,SAC,125.0,PHX,120.0,T. Ross,PHX,Ross 25' 3PT Jump Shot (30 PTS) (Booker 5 AST),Made Shot,Jump Shot,179,169,25,1,3.0,3.0,v
+S2223-G1105,4,02:28,SAC,,PHX,,T. Ross,PHX,Ross REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1105,4,01:56,SAC,,PHX,,T. Ross,PHX,SUB: Okogie FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0313,1,01:39,ORL,,ATL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,27,255,26,1,3.0,0.0,h
+S2223-G0313,1,01:11,ORL,24.0,ATL,34.0,T. Ross,ORL,Ross 26' 3PT Jump Shot (3 PTS) (M. Wagner 1 AST),Made Shot,Jump Shot,-136,220,26,1,3.0,3.0,h
+S2223-G0313,1,00:09.200000,ORL,27.0,ATL,36.0,T. Ross,ORL,Ross 26' 3PT Jump Shot (6 PTS) (Fultz 1 AST),Made Shot,Jump Shot,-88,243,26,1,3.0,3.0,h
+S2223-G0313,2,10:51,ORL,,ATL,,T. Ross,ORL,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,112,225,25,1,3.0,0.0,h
+S2223-G0313,2,09:53,ORL,30.0,ATL,41.0,T. Ross,ORL,Ross 21' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-66,197,21,1,2.0,2.0,h
+S2223-G0313,2,09:26,ORL,,ATL,,T. Ross,ORL,Ross Discontinue Dribble Turnover (P1.T5),Turnover,Discontinue Dribble,0,0,0,0,,,h
+S2223-G0313,2,08:49,ORL,32.0,ATL,43.0,T. Ross,ORL,Ross 15' Pullup Jump Shot (10 PTS) (M. Wagner 2 AST),Made Shot,Pullup Jump shot,4,145,15,1,2.0,2.0,h
+S2223-G0313,2,08:24,ORL,,ATL,,T. Ross,ORL,MISS Ross 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-151,8,15,1,2.0,0.0,h
+S2223-G0313,2,08:12,ORL,,ATL,,T. Ross,ORL,MISS Ross 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,-12,0,1,3.0,0.0,h
+S2223-G0313,2,07:17,ORL,,ATL,,T. Ross,ORL,SUB: Banchero FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0313,4,08:23,ORL,,ATL,,T. Ross,ORL,MISS Ross 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,227,117,26,1,3.0,0.0,h
+S2223-G0313,4,05:40,ORL,98.0,ATL,113.0,T. Ross,ORL,Ross 2' Driving Dunk (12 PTS) (Anthony 2 AST),Made Shot,Driving Dunk Shot,-1,20,2,1,2.0,2.0,h
+S2223-G0313,4,05:06,ORL,,ATL,,T. Ross,ORL,MISS Ross 12' Jump Shot,Missed Shot,Jump Shot,21,116,12,1,2.0,0.0,h
+S2223-G0313,4,01:58,ORL,,ATL,,T. Ross,ORL,SUB: Schofield FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1144,2,11:41,PHX,,MIN,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1144,2,09:49,PHX,,MIN,,T. Ross,PHX,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1144,2,07:03,PHX,,MIN,,T. Ross,PHX,Ross REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1144,2,06:58,PHX,,MIN,,T. Ross,PHX,MISS Ross 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-77,89,12,1,2.0,0.0,h
+S2223-G1144,2,06:52,PHX,,MIN,,T. Ross,PHX,MISS Ross 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-150,90,17,1,2.0,0.0,h
+S2223-G1144,2,06:25,PHX,,MIN,,T. Ross,PHX,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-131,230,26,1,3.0,0.0,h
+S2223-G1144,2,04:45,PHX,,MIN,,T. Ross,PHX,SUB: Booker FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1144,4,09:37,PHX,,MIN,,T. Ross,PHX,Ross S.FOUL (P1.T1) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1144,4,08:06,PHX,,MIN,,T. Ross,PHX,Ross REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1144,4,06:42,PHX,,MIN,,T. Ross,PHX,SUB: Craig FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0610,1,02:10,SAC,,ORL,,T. Ross,ORL,MISS Ross 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-99,18,10,1,2.0,0.0,v
+S2223-G0610,1,01:50,SAC,34.0,ORL,27.0,T. Ross,ORL,Ross 25' 3PT Jump Shot (3 PTS) (Anthony 1 AST),Made Shot,Jump Shot,-197,160,25,1,3.0,3.0,v
+S2223-G0610,2,08:50,SAC,,ORL,,T. Ross,ORL,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,232,22,0,1,3.0,0.0,v
+S2223-G0610,2,08:16,SAC,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0610,2,05:49,SAC,,ORL,,T. Ross,ORL,SUB: Fultz FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0610,4,10:47,SAC,,ORL,,T. Ross,ORL,SUB: Fultz FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0885,1,03:42,PHX,,LAC,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0885,1,03:01,PHX,16.0,LAC,20.0,T. Ross,PHX,Ross 17' Pullup Jump Shot (2 PTS) (Paul 4 AST),Made Shot,Pullup Jump shot,27,168,17,1,2.0,2.0,h
+S2223-G0885,1,02:30,PHX,,LAC,,T. Ross,PHX,MISS Ross 10' Driving Hook Shot,Missed Shot,Driving Hook Shot,48,89,10,1,2.0,0.0,h
+S2223-G0885,1,02:24,PHX,18.0,LAC,20.0,T. Ross,PHX,Ross 18' Pullup Jump Shot (4 PTS) (Landale 1 AST),Made Shot,Pullup Jump shot,38,172,18,1,2.0,2.0,h
+S2223-G0885,1,01:48,PHX,,LAC,,T. Ross,PHX,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-191,173,26,1,3.0,0.0,h
+S2223-G0885,1,00:43.700000,PHX,21.0,LAC,28.0,T. Ross,PHX,Ross 24' 3PT Jump Shot (7 PTS) (Wainright 1 AST),Made Shot,Jump Shot,-240,1,24,1,3.0,3.0,h
+S2223-G0885,2,11:29,PHX,,LAC,,T. Ross,PHX,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,-154,221,27,1,3.0,0.0,h
+S2223-G0885,2,11:06,PHX,27.0,LAC,32.0,T. Ross,PHX,Ross 11' Driving Floating Jump Shot (9 PTS) (Booker 2 AST),Made Shot,Driving Floating Jump Shot,54,101,11,1,2.0,2.0,h
+S2223-G0885,2,10:44,PHX,,LAC,,T. Ross,PHX,MISS Ross 15' Jump Shot,Missed Shot,Jump Shot,42,140,15,1,2.0,0.0,h
+S2223-G0885,2,08:18,PHX,,LAC,,T. Ross,PHX,SUB: Paul FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0885,2,04:04,PHX,,LAC,,T. Ross,PHX,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,225,78,24,1,3.0,0.0,h
+S2223-G0885,2,02:08,PHX,52.0,LAC,52.0,T. Ross,PHX,Ross 8' Driving Floating Jump Shot (11 PTS) (Paul 7 AST),Made Shot,Driving Floating Jump Shot,25,78,8,1,2.0,2.0,h
+S2223-G0885,2,01:34,PHX,,LAC,,T. Ross,PHX,MISS Ross 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,8,0,1,3.0,0.0,h
+S2223-G0885,3,03:08,PHX,,LAC,,T. Ross,PHX,Ross S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0885,3,02:57,PHX,,LAC,,T. Ross,PHX,MISS Ross 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-45,116,12,1,2.0,0.0,h
+S2223-G0885,3,02:12,PHX,,LAC,,T. Ross,PHX,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0885,3,01:57,PHX,79.0,LAC,85.0,T. Ross,PHX,Ross 14' Pullup Jump Shot (13 PTS) (Biyombo 2 AST),Made Shot,Pullup Jump shot,-20,134,14,1,2.0,2.0,h
+S2223-G0885,3,01:30,PHX,80.0,LAC,87.0,T. Ross,PHX,Ross Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0885,3,01:30,PHX,,LAC,,T. Ross,PHX,MISS Ross Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0885,3,00:01.800000,PHX,,LAC,,T. Ross,PHX,Ross REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0885,3,00:00,PHX,,LAC,,T. Ross,PHX,MISS Ross 36' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,9,363,36,1,3.0,0.0,h
+S2223-G0885,4,07:39,PHX,,LAC,,T. Ross,PHX,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-109,238,26,1,3.0,0.0,h
+S2223-G0885,4,07:39,PHX,,LAC,,T. Ross,PHX,Ross REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0885,4,07:35,PHX,93.0,LAC,99.0,T. Ross,PHX,Ross 14' Floating Jump Shot (16 PTS),Made Shot,Floating Jump shot,-61,131,14,1,2.0,2.0,h
+S2223-G0885,4,07:26,PHX,,LAC,,T. Ross,PHX,Ross S.FOUL (P2.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0885,4,06:25,PHX,,LAC,,T. Ross,PHX,MISS Ross 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-225,-4,0,1,3.0,0.0,h
+S2223-G0885,4,06:12,PHX,,LAC,,T. Ross,PHX,Ross Violation:Kicked Ball (P.Fraher),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0885,4,05:53,PHX,,LAC,,T. Ross,PHX,SUB: Craig FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0145,1,05:59,ORL,,HOU,,T. Ross,ORL,MISS Ross 3PT Running Jump Shot,Missed Shot,Running Jump Shot,225,-4,0,1,3.0,0.0,h
+S2223-G0145,1,03:44,ORL,,HOU,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0145,1,03:42,ORL,,HOU,,T. Ross,ORL,Ross Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0145,1,02:43,ORL,26.0,HOU,21.0,T. Ross,ORL,Ross 25' 3PT Jump Shot (3 PTS) (Wagner 2 AST),Made Shot,Jump Shot,80,242,25,1,3.0,3.0,h
+S2223-G0145,1,02:13,ORL,,HOU,,T. Ross,ORL,Ross BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0145,1,01:29,ORL,,HOU,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0145,2,11:26,ORL,33.0,HOU,35.0,T. Ross,ORL,Ross 26' 3PT Jump Shot (6 PTS) (Wagner 3 AST),Made Shot,Jump Shot,66,251,26,1,3.0,3.0,h
+S2223-G0145,2,11:06,ORL,,HOU,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0145,2,09:56,ORL,,HOU,,T. Ross,ORL,Ross OFF.Foul (P1) (J.Conley),Foul,Offensive,0,0,0,0,,,h
+S2223-G0145,2,09:56,ORL,,HOU,,T. Ross,ORL,Ross Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0145,2,08:14,ORL,,HOU,,T. Ross,ORL,MISS Ross 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-167,61,18,1,2.0,0.0,h
+S2223-G0145,2,06:11,ORL,,HOU,,T. Ross,ORL,Ross Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0145,2,05:31,ORL,,HOU,,T. Ross,ORL,SUB: Bol FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0145,3,04:11,ORL,,HOU,,T. Ross,ORL,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,-218,128,25,1,3.0,0.0,h
+S2223-G0145,3,02:07,ORL,,HOU,,T. Ross,ORL,Ross OFF.Foul (P2) (J.Conley),Foul,Offensive,0,0,0,0,,,h
+S2223-G0145,3,02:07,ORL,,HOU,,T. Ross,ORL,Ross Offensive Foul Turnover (P4.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0145,3,01:21,ORL,,HOU,,T. Ross,ORL,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,134,237,27,1,3.0,0.0,h
+S2223-G0145,4,11:46,ORL,90.0,HOU,100.0,T. Ross,ORL,Ross 11' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,93,65,11,1,2.0,2.0,h
+S2223-G0145,4,11:11,ORL,92.0,HOU,103.0,T. Ross,ORL,Ross 17' Pullup Jump Shot (10 PTS) (Bamba 2 AST),Made Shot,Pullup Jump shot,-34,162,17,1,2.0,2.0,h
+S2223-G0145,4,10:04,ORL,98.0,HOU,103.0,T. Ross,ORL,Ross 19' Pullup Jump Shot (12 PTS) (Bamba 3 AST),Made Shot,Pullup Jump shot,148,116,19,1,2.0,2.0,h
+S2223-G0145,4,09:06,ORL,,HOU,,T. Ross,ORL,MISS Ross 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-98,112,15,1,2.0,0.0,h
+S2223-G0145,4,07:18,ORL,103.0,HOU,115.0,T. Ross,ORL,Ross 26' 3PT Jump Shot (15 PTS) (Suggs 5 AST),Made Shot,Jump Shot,45,257,26,1,3.0,3.0,h
+S2223-G0145,4,06:05,ORL,,HOU,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,151,211,26,1,3.0,0.0,h
+S2223-G0145,4,05:41,ORL,,HOU,,T. Ross,ORL,Ross REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0145,4,02:12,ORL,122.0,HOU,128.0,T. Ross,ORL,Ross 26' 3PT Jump Shot (18 PTS) (Carter Jr. 2 AST),Made Shot,Jump Shot,87,246,26,1,3.0,3.0,h
+S2223-G0145,4,00:45.300000,ORL,127.0,HOU,131.0,T. Ross,ORL,Ross 3PT Fadeaway Jumper (21 PTS) (Suggs 6 AST),Made Shot,Fadeaway Jump Shot,232,-5,0,1,3.0,3.0,h
+S2223-G0145,4,00:09.700000,ORL,,HOU,,T. Ross,ORL,MISS Ross 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-233,10,0,1,3.0,0.0,h
+S2223-G1201,2,10:11,PHX,,DEN,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1201,2,08:07,PHX,36.0,DEN,36.0,T. Ross,PHX,Ross 19' Pullup Jump Shot (2 PTS) (Landale 1 AST),Made Shot,Pullup Jump shot,-60,175,19,1,2.0,2.0,h
+S2223-G1201,2,07:15,PHX,,DEN,,T. Ross,PHX,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1201,2,05:28,PHX,42.0,DEN,39.0,T. Ross,PHX,Ross 26' 3PT Jump Shot (5 PTS) (Ayton 1 AST),Made Shot,Jump Shot,165,195,26,1,3.0,3.0,h
+S2223-G1201,2,04:31,PHX,,DEN,,T. Ross,PHX,SUB: Okogie FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1201,3,02:00,PHX,81.0,DEN,81.0,T. Ross,PHX,Ross 28' 3PT Jump Shot (8 PTS) (Booker 7 AST),Made Shot,Jump Shot,207,188,28,1,3.0,3.0,h
+S2223-G1201,4,09:38,PHX,,DEN,,T. Ross,PHX,Ross REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1201,4,09:08,PHX,,DEN,,T. Ross,PHX,MISS Ross 3PT Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-233,-6,0,1,3.0,0.0,h
+S2223-G1201,4,07:30,PHX,,DEN,,T. Ross,PHX,SUB: Booker FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0105,1,08:17,OKC,,ORL,,T. Ross,ORL,SUB: Houstan FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0693,1,01:13,WAS,,ORL,,T. Ross,ORL,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,-114,247,27,1,3.0,0.0,v
+S2223-G0693,2,11:06,WAS,,ORL,,T. Ross,ORL,MISS Ross 14' Jump Shot,Missed Shot,Jump Shot,6,140,14,1,2.0,0.0,v
+S2223-G0693,2,09:17,WAS,,ORL,,T. Ross,ORL,MISS Ross 4' Driving Layup,Missed Shot,Driving Layup Shot,6,43,4,1,2.0,0.0,v
+S2223-G0693,2,08:28,WAS,49.0,ORL,32.0,T. Ross,ORL,Ross 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-85,151,17,1,2.0,2.0,v
+S2223-G0693,2,06:36,WAS,54.0,ORL,38.0,T. Ross,ORL,Ross 3PT Jump Shot (5 PTS) (Fultz 4 AST),Made Shot,Jump Shot,-230,22,0,1,3.0,3.0,v
+S2223-G0693,2,02:05,WAS,,ORL,,T. Ross,ORL,SUB: Harris FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0693,3,03:05,WAS,,ORL,,T. Ross,ORL,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,-230,60,24,1,3.0,0.0,v
+S2223-G0693,3,02:58,WAS,94.0,ORL,82.0,T. Ross,ORL,Ross 26' 3PT Jump Shot (8 PTS) (Carter Jr. 1 AST),Made Shot,Jump Shot,-234,105,26,1,3.0,3.0,v
+S2223-G0693,3,02:39,WAS,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0693,4,11:34,WAS,,ORL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,142,221,26,1,3.0,0.0,v
+S2223-G0693,4,10:00,WAS,,ORL,,T. Ross,ORL,MISS Ross 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-120,67,14,1,2.0,0.0,v
+S2223-G0693,4,05:46,WAS,,ORL,,T. Ross,ORL,SUB: Banchero FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0056,1,08:03,CLE,,ORL,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0056,1,07:59,CLE,6.0,ORL,10.0,T. Ross,ORL,Ross 2' Running Dunk (2 PTS) (Carter Jr. 1 AST),Made Shot,Running Dunk Shot,-6,17,2,1,2.0,2.0,v
+S2223-G0056,1,04:44,CLE,,ORL,,T. Ross,ORL,MISS Ross 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-66,101,12,1,2.0,0.0,v
+S2223-G0056,1,04:18,CLE,,ORL,,T. Ross,ORL,SUB: Banchero FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0056,2,05:44,CLE,,ORL,,T. Ross,ORL,MISS Ross 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,37,105,11,1,2.0,0.0,v
+S2223-G0056,2,04:13,CLE,,ORL,,T. Ross,ORL,Ross STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0056,2,04:10,CLE,46.0,ORL,44.0,T. Ross,ORL,Ross 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,-6,5,1,1,2.0,2.0,v
+S2223-G0056,2,03:18,CLE,,ORL,,T. Ross,ORL,Ross L.B.FOUL (P1.T2) (S.Wright),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0056,2,03:11,CLE,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0056,3,10:49,CLE,,ORL,,T. Ross,ORL,MISS Ross 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,67,41,8,1,2.0,0.0,v
+S2223-G0056,3,09:42,CLE,,ORL,,T. Ross,ORL,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,230,33,0,1,3.0,0.0,v
+S2223-G0056,3,07:54,CLE,,ORL,,T. Ross,ORL,MISS Ross 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,114,34,12,1,2.0,0.0,v
+S2223-G0056,3,07:52,CLE,,ORL,,T. Ross,ORL,Ross REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0056,3,02:45,CLE,,ORL,,T. Ross,ORL,SUB: Houstan FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0056,4,07:02,CLE,,ORL,,T. Ross,ORL,Ross S.FOUL (P2.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G0056,4,04:48,CLE,,ORL,,T. Ross,ORL,Ross P.FOUL (P3.PN) (E.Dalen),Foul,Personal,0,0,0,0,,,v
+S2223-G0056,4,04:32,CLE,,ORL,,T. Ross,ORL,MISS Ross 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-50,141,15,1,2.0,0.0,v
+S2223-G0056,4,04:00,CLE,88.0,ORL,83.0,T. Ross,ORL,Ross 3PT Jump Shot (7 PTS) (Anthony 5 AST),Made Shot,Jump Shot,-234,16,0,1,3.0,3.0,v
+S2223-G0056,4,01:25,CLE,,ORL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,66,251,26,1,3.0,0.0,v
+S2223-G0353,1,02:26,ORL,,MIL,,T. Ross,ORL,MISS Ross 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,228,72,24,1,3.0,0.0,h
+S2223-G0353,1,01:40,ORL,,MIL,,T. Ross,ORL,MISS Ross 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-29,137,14,1,2.0,0.0,h
+S2223-G0353,1,00:16.200000,ORL,,MIL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,1,00:11.600000,ORL,,MIL,,T. Ross,ORL,MISS Ross 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,6,73,7,1,2.0,0.0,h
+S2223-G0353,2,10:12,ORL,,MIL,,T. Ross,ORL,MISS Ross 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-9,80,8,1,2.0,0.0,h
+S2223-G0353,2,09:04,ORL,,MIL,,T. Ross,ORL,Ross Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0353,2,06:34,ORL,,MIL,,T. Ross,ORL,MISS Ross 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,146,222,27,1,3.0,0.0,h
+S2223-G0353,2,06:26,ORL,,MIL,,T. Ross,ORL,SUB: Hampton FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0353,3,01:08,ORL,72.0,MIL,86.0,T. Ross,ORL,Ross 9' Driving Floating Jump Shot (2 PTS) (M. Wagner 4 AST),Made Shot,Driving Floating Jump Shot,-40,75,9,1,2.0,2.0,h
+S2223-G0353,4,11:39,ORL,,MIL,,T. Ross,ORL,Ross REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,4,11:10,ORL,,MIL,,T. Ross,ORL,MISS Ross 16' Jump Shot,Missed Shot,Jump Shot,157,1,16,1,2.0,0.0,h
+S2223-G0353,4,08:09,ORL,,MIL,,T. Ross,ORL,MISS Ross 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,10,264,26,1,3.0,0.0,h
+S2223-G0353,4,04:22,ORL,,MIL,,T. Ross,ORL,Ross REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,4,03:49,ORL,,MIL,,T. Ross,ORL,Ross REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0353,4,02:20,ORL,97.0,MIL,101.0,T. Ross,ORL,Ross 26' 3PT Jump Shot (5 PTS) (Banchero 7 AST),Made Shot,Jump Shot,-152,210,26,1,3.0,3.0,h
+S2223-G0353,4,01:34,ORL,,MIL,,T. Ross,ORL,MISS Ross 24' Pullup Jump Shot,Missed Shot,Pullup Jump shot,23,237,24,1,2.0,0.0,h
+S2223-G0200,1,03:35,ORL,,CHA,,T. Ross,ORL,Ross S.FOUL (P1.T2) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G0200,1,03:24,ORL,,CHA,,T. Ross,ORL,Ross Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0200,1,03:17,ORL,,CHA,,T. Ross,ORL,Ross Violation:Kicked Ball (M.Davis),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0200,1,01:44,ORL,,CHA,,T. Ross,ORL,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,-225,13,0,1,3.0,0.0,h
+S2223-G0200,1,01:10,ORL,,CHA,,T. Ross,ORL,MISS Ross 3' Driving Layup,Missed Shot,Driving Layup Shot,-25,14,3,1,2.0,0.0,h
+S2223-G0200,1,00:32.600000,ORL,,CHA,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0200,2,09:53,ORL,,CHA,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0200,2,05:58,ORL,,CHA,,T. Ross,ORL,Ross Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0200,2,04:50,ORL,,CHA,,T. Ross,ORL,SUB: Wagner FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0200,3,08:17,ORL,,CHA,,T. Ross,ORL,Ross Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0200,3,05:50,ORL,59.0,CHA,72.0,T. Ross,ORL,Ross 27' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-96,248,27,1,3.0,3.0,h
+S2223-G0200,3,04:18,ORL,,CHA,,T. Ross,ORL,MISS Ross 2' Driving Dunk,Missed Shot,Driving Dunk Shot,5,21,2,1,2.0,0.0,h
+S2223-G0200,3,03:53,ORL,,CHA,,T. Ross,ORL,Ross S.FOUL (P2.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2223-G0200,3,03:35,ORL,,CHA,,T. Ross,ORL,Ross Lost Ball Turnover (P4.T17),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0200,3,03:20,ORL,,CHA,,T. Ross,ORL,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,89,228,24,1,3.0,0.0,h
+S2223-G0200,3,02:47,ORL,,CHA,,T. Ross,ORL,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,-81,256,27,1,3.0,0.0,h
+S2223-G0200,3,01:16,ORL,,CHA,,T. Ross,ORL,Ross REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0236,1,05:42,IND,,ORL,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0236,1,05:13,IND,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0236,1,03:58,IND,12.0,ORL,19.0,T. Ross,ORL,Ross 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-2,68,7,1,2.0,2.0,v
+S2223-G0236,1,03:12,IND,,ORL,,T. Ross,ORL,MISS Ross 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-15,263,26,1,3.0,0.0,v
+S2223-G0236,1,02:37,IND,,ORL,,T. Ross,ORL,MISS Ross 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-65,156,17,1,2.0,0.0,v
+S2223-G0236,1,01:46,IND,16.0,ORL,27.0,T. Ross,ORL,Ross 16' Pullup Jump Shot (4 PTS) (Schofield 1 AST),Made Shot,Pullup Jump shot,-20,161,16,1,2.0,2.0,v
+S2223-G0236,2,11:21,IND,,ORL,,T. Ross,ORL,MISS Ross 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,120,152,19,1,2.0,0.0,v
+S2223-G0236,2,09:20,IND,28.0,ORL,35.0,T. Ross,ORL,Ross 26' 3PT Jump Shot (7 PTS) (Houstan 1 AST),Made Shot,Jump Shot,-211,152,26,1,3.0,3.0,v
+S2223-G0236,2,06:25,IND,,ORL,,T. Ross,ORL,MISS Ross 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,55,164,17,1,2.0,0.0,v
+S2223-G0236,2,04:34,IND,,ORL,,T. Ross,ORL,SUB: Okeke FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0236,3,04:44,IND,,ORL,,T. Ross,ORL,MISS Ross 28' 3PT Jump Shot,Missed Shot,Jump Shot,-4,281,28,1,3.0,0.0,v
+S2223-G0236,3,03:02,IND,,ORL,,T. Ross,ORL,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,77,259,27,1,3.0,0.0,v
+S2223-G0236,3,01:15,IND,,ORL,,T. Ross,ORL,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,167,209,27,1,3.0,0.0,v
+S2223-G0236,3,00:00.800000,IND,,ORL,,T. Ross,ORL,MISS Ross 34' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-96,321,34,1,3.0,0.0,v
+S2223-G0236,4,08:55,IND,,ORL,,T. Ross,ORL,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,-227,32,0,1,3.0,0.0,v
+S2223-G0236,4,08:18,IND,,ORL,,T. Ross,ORL,SUB: K. Harris FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0430,1,05:30,BOS,,ORL,,T. Ross,ORL,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,229,109,25,1,3.0,0.0,v
+S2223-G0430,1,03:50,BOS,,ORL,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0430,1,03:05,BOS,,ORL,,T. Ross,ORL,MISS Ross 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,109,251,27,1,3.0,0.0,v
+S2223-G0430,1,02:06,BOS,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0430,2,10:42,BOS,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0430,2,08:15,BOS,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0430,2,07:38,BOS,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0430,2,06:48,BOS,39.0,ORL,46.0,T. Ross,ORL,Ross 15' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,-20,152,15,1,2.0,2.0,v
+S2223-G0430,2,04:56,BOS,,ORL,,T. Ross,ORL,SUB: M. Wagner FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0430,3,04:44,BOS,,ORL,,T. Ross,ORL,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,-137,228,27,1,3.0,0.0,v
+S2223-G0430,3,04:15,BOS,,ORL,,T. Ross,ORL,Ross Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0430,3,03:27,BOS,73.0,ORL,84.0,T. Ross,ORL,Ross 26' 3PT Jump Shot (5 PTS) (Banchero 3 AST),Made Shot,Jump Shot,80,252,26,1,3.0,3.0,v
+S2223-G0430,4,11:43,BOS,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0430,4,08:26,BOS,86.0,ORL,98.0,T. Ross,ORL,Ross 10' Driving Floating Jump Shot (7 PTS) (Bamba 1 AST),Made Shot,Driving Floating Jump Shot,-59,81,10,1,2.0,2.0,v
+S2223-G0430,4,07:27,BOS,,ORL,,T. Ross,ORL,MISS Ross 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-16,128,13,1,2.0,0.0,v
+S2223-G0430,4,06:06,BOS,,ORL,,T. Ross,ORL,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,47,249,25,1,3.0,0.0,v
+S2223-G0430,4,03:54,BOS,,ORL,,T. Ross,ORL,SUB: F. Wagner FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G1046,1,02:10,PHX,,ORL,,T. Ross,PHX,MISS Ross 21' Jump Shot,Missed Shot,Jump Shot,-87,188,21,1,2.0,0.0,h
+S2223-G1046,1,01:54,PHX,23.0,ORL,26.0,T. Ross,PHX,Ross 24' 3PT Jump Shot (3 PTS) (Booker 2 AST),Made Shot,Jump Shot,241,-24,24,1,3.0,3.0,h
+S2223-G1046,1,01:16,PHX,,ORL,,T. Ross,PHX,Ross S.FOUL (P1.T4) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2223-G1046,1,00:00,PHX,,ORL,,T. Ross,PHX,MISS Ross 16' Jump Shot,Missed Shot,Jump Shot,162,21,16,1,2.0,0.0,h
+S2223-G1046,2,11:20,PHX,32.0,ORL,33.0,T. Ross,PHX,Ross 17' Pullup Jump Shot (5 PTS) (Landale 2 AST),Made Shot,Pullup Jump shot,-51,165,17,1,2.0,2.0,h
+S2223-G1046,2,10:15,PHX,,ORL,,T. Ross,PHX,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,210,159,26,1,3.0,0.0,h
+S2223-G1046,2,10:05,PHX,,ORL,,T. Ross,PHX,Ross S.FOUL (P2.T3) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2223-G1046,2,09:09,PHX,,ORL,,T. Ross,PHX,SUB: Okogie FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1046,3,01:33,PHX,,ORL,,T. Ross,PHX,Ross S.FOUL (P3.T2) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2223-G1046,3,01:06,PHX,,ORL,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1046,3,00:22.900000,PHX,,ORL,,T. Ross,PHX,SUB: Craig FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1046,4,11:46,PHX,,ORL,,T. Ross,PHX,Ross S.FOUL (P4.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2223-G1046,4,07:24,PHX,,ORL,,T. Ross,PHX,Ross S.FOUL (P5.T4) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2223-G1046,4,07:24,PHX,,ORL,,T. Ross,PHX,SUB: Paul FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1046,4,00:06.100000,PHX,115.0,ORL,113.0,T. Ross,PHX,Ross Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1046,4,00:06.100000,PHX,116.0,ORL,113.0,T. Ross,PHX,Ross Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1046,4,00:06.100000,PHX,,ORL,,T. Ross,PHX,SUB: Craig FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0529,1,10:17,ORL,,WAS,,T. Ross,ORL,MISS Ross 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,116,12,1,2.0,0.0,h
+S2223-G0529,1,10:08,ORL,,WAS,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0529,1,08:21,ORL,,WAS,,T. Ross,ORL,MISS Ross 16' Jump Shot,Missed Shot,Jump Shot,55,153,16,1,2.0,0.0,h
+S2223-G0529,1,04:05,ORL,,WAS,,T. Ross,ORL,MISS Ross 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,53,144,15,1,2.0,0.0,h
+S2223-G0529,1,02:57,ORL,,WAS,,T. Ross,ORL,MISS Ross 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,15,152,15,1,2.0,0.0,h
+S2223-G0529,1,02:32,ORL,,WAS,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0529,1,02:23,ORL,,WAS,,T. Ross,ORL,Ross P.FOUL (P1.T3) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2223-G0529,1,02:23,ORL,,WAS,,T. Ross,ORL,SUB: F. Wagner FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0529,2,05:18,ORL,,WAS,,T. Ross,ORL,MISS Ross 10' Floating Jump Shot,Missed Shot,Floating Jump shot,74,71,10,1,2.0,0.0,h
+S2223-G0529,2,04:29,ORL,,WAS,,T. Ross,ORL,Ross S.FOUL (P2.PN) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2223-G0529,2,04:08,ORL,,WAS,,T. Ross,ORL,Ross P.FOUL (P3.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2223-G0529,2,04:08,ORL,,WAS,,T. Ross,ORL,SUB: F. Wagner FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0529,3,11:52,ORL,49.0,WAS,56.0,T. Ross,ORL,Ross 16' Jump Shot (2 PTS) (Banchero 2 AST),Made Shot,Jump Shot,-81,135,16,1,2.0,2.0,h
+S2223-G0529,3,07:42,ORL,,WAS,,T. Ross,ORL,MISS Ross 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-205,156,26,1,3.0,0.0,h
+S2223-G0529,3,06:53,ORL,58.0,WAS,78.0,T. Ross,ORL,Ross 15' Pullup Jump Shot (4 PTS) (Fultz 5 AST),Made Shot,Pullup Jump shot,-2,146,15,1,2.0,2.0,h
+S2223-G0529,3,05:14,ORL,61.0,WAS,83.0,T. Ross,ORL,Ross 17' Pullup Jump Shot (6 PTS) (K. Harris 1 AST),Made Shot,Pullup Jump shot,-50,164,17,1,2.0,2.0,h
+S2223-G0529,3,04:38,ORL,,WAS,,T. Ross,ORL,SUB: Houstan FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0529,3,02:01,ORL,,WAS,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-163,206,26,1,3.0,0.0,h
+S2223-G0529,4,08:56,ORL,,WAS,,T. Ross,ORL,SUB: Banchero FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0616,1,02:50,POR,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0616,1,00:30.600000,POR,,ORL,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0616,2,04:23,POR,,ORL,,T. Ross,ORL,SUB: Harris FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0616,4,11:22,POR,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0616,4,10:02,POR,,ORL,,T. Ross,ORL,Ross S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0616,4,08:50,POR,,ORL,,T. Ross,ORL,SUB: Fultz FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0505,1,01:40,ORL,,LAL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-168,193,26,1,3.0,0.0,h
+S2223-G0505,2,10:23,ORL,31.0,LAL,35.0,T. Ross,ORL,Ross 18' Pullup Jump Shot (2 PTS) (Carter Jr. 2 AST),Made Shot,Pullup Jump shot,-64,172,18,1,2.0,2.0,h
+S2223-G0505,2,09:38,ORL,,LAL,,T. Ross,ORL,MISS Ross 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,85,152,17,1,2.0,0.0,h
+S2223-G0505,2,08:11,ORL,37.0,LAL,44.0,T. Ross,ORL,Ross 18' Pullup Jump Shot (4 PTS) (M. Wagner 1 AST),Made Shot,Pullup Jump shot,130,126,18,1,2.0,2.0,h
+S2223-G0505,2,06:44,ORL,,LAL,,T. Ross,ORL,SUB: F. Wagner FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0505,3,00:55.900000,ORL,83.0,LAL,92.0,T. Ross,ORL,Ross Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0505,3,00:55.900000,ORL,,LAL,,T. Ross,ORL,MISS Ross Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0505,3,00:31.600000,ORL,,LAL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0505,3,00:23.400000,ORL,,LAL,,T. Ross,ORL,MISS Ross 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,91,255,27,1,3.0,0.0,h
+S2223-G0505,3,00:19.100000,ORL,,LAL,,T. Ross,ORL,Ross REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0505,4,10:33,ORL,85.0,LAL,95.0,T. Ross,ORL,Ross 18' Pullup Jump Shot (7 PTS) (Anthony 4 AST),Made Shot,Pullup Jump shot,-60,172,18,1,2.0,2.0,h
+S2223-G0505,4,09:36,ORL,89.0,LAL,97.0,T. Ross,ORL,Ross 17' Pullup Jump Shot (9 PTS) (Carter Jr. 3 AST),Made Shot,Pullup Jump shot,-12,174,17,1,2.0,2.0,h
+S2223-G0505,4,06:34,ORL,,LAL,,T. Ross,ORL,MISS Ross 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-123,147,19,1,2.0,0.0,h
+S2223-G0505,4,04:52,ORL,100.0,LAL,113.0,T. Ross,ORL,Ross 1' Driving Dunk (11 PTS) (M. Wagner 4 AST),Made Shot,Driving Dunk Shot,-4,8,1,1,2.0,2.0,h
+S2223-G0505,4,03:03,ORL,105.0,LAL,118.0,T. Ross,ORL,Ross 2' Driving Layup (13 PTS) (Fultz 3 AST),Made Shot,Driving Layup Shot,17,8,2,1,2.0,2.0,h
+S2223-G0505,4,02:26,ORL,,LAL,,T. Ross,ORL,SUB: Bol FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0030,1,10:33,ORL,6.0,BOS,2.0,T. Ross,ORL,Ross 14' Pullup Jump Shot (2 PTS) (Banchero 1 AST),Made Shot,Pullup Jump shot,40,130,14,1,2.0,2.0,h
+S2223-G0030,1,10:09,ORL,9.0,BOS,2.0,T. Ross,ORL,Ross 25' 3PT Jump Shot (5 PTS) (Carter Jr. 1 AST),Made Shot,Jump Shot,-191,168,25,1,3.0,3.0,h
+S2223-G0030,1,07:45,ORL,14.0,BOS,9.0,T. Ross,ORL,Ross 3PT Jump Shot (8 PTS) (Banchero 2 AST),Made Shot,Jump Shot,-224,9,0,1,3.0,3.0,h
+S2223-G0030,1,04:47,ORL,,BOS,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0030,1,04:11,ORL,,BOS,,T. Ross,ORL,SUB: Okeke FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0030,2,07:55,ORL,,BOS,,T. Ross,ORL,MISS Ross 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-87,14,9,1,2.0,0.0,h
+S2223-G0030,2,06:54,ORL,,BOS,,T. Ross,ORL,MISS Ross 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,94,152,18,1,2.0,0.0,h
+S2223-G0030,2,06:44,ORL,,BOS,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0030,2,06:37,ORL,49.0,BOS,50.0,T. Ross,ORL,Ross 15' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,18,147,15,1,2.0,2.0,h
+S2223-G0030,2,06:06,ORL,51.0,BOS,51.0,T. Ross,ORL,Ross 2' Cutting Dunk Shot (12 PTS) (Carter Jr. 2 AST),Made Shot,Cutting Dunk Shot,10,19,2,1,2.0,2.0,h
+S2223-G0030,2,01:35,ORL,,BOS,,T. Ross,ORL,Ross S.FOUL (P1.PN) (B.Haskill),Foul,Shooting,0,0,0,0,,,h
+S2223-G0030,2,00:32.600000,ORL,,BOS,,T. Ross,ORL,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,194,148,24,1,3.0,0.0,h
+S2223-G0030,2,00:01.200000,ORL,67.0,BOS,68.0,T. Ross,ORL,Ross Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0030,2,00:01.200000,ORL,68.0,BOS,68.0,T. Ross,ORL,Ross Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0030,3,11:25,ORL,,BOS,,T. Ross,ORL,Ross REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0030,3,11:23,ORL,71.0,BOS,70.0,T. Ross,ORL,Ross 25' 3PT Jump Shot (17 PTS),Made Shot,Jump Shot,-165,191,25,1,3.0,3.0,h
+S2223-G0030,3,10:01,ORL,73.0,BOS,78.0,T. Ross,ORL,Ross 19' Pullup Jump Shot (19 PTS) (Carter Jr. 3 AST),Made Shot,Pullup Jump shot,-50,188,19,1,2.0,2.0,h
+S2223-G0030,3,08:54,ORL,,BOS,,T. Ross,ORL,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,-158,200,25,1,3.0,0.0,h
+S2223-G0030,3,04:26,ORL,91.0,BOS,90.0,T. Ross,ORL,Ross 20' Running Pull-Up Jump Shot (21 PTS) (Anthony 4 AST),Made Shot,Running Pull-Up Jump Shot,61,190,20,1,2.0,2.0,h
+S2223-G0030,3,02:49,ORL,,BOS,,T. Ross,ORL,MISS Ross 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-140,222,26,1,3.0,0.0,h
+S2223-G0030,3,02:41,ORL,94.0,BOS,94.0,T. Ross,ORL,Ross 25' 3PT Jump Shot (24 PTS),Made Shot,Jump Shot,-201,156,25,1,3.0,3.0,h
+S2223-G0030,3,01:17,ORL,,BOS,,T. Ross,ORL,SUB: Banchero FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0030,4,08:27,ORL,,BOS,,T. Ross,ORL,Ross REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0030,4,08:14,ORL,104.0,BOS,104.0,T. Ross,ORL,Ross 16' Turnaround Jump Shot (26 PTS),Made Shot,Turnaround Jump Shot,-55,153,16,1,2.0,2.0,h
+S2223-G0030,4,06:36,ORL,,BOS,,T. Ross,ORL,Ross REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0030,4,03:35,ORL,,BOS,,T. Ross,ORL,Ross S.FOUL (P2.T4) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0030,4,00:26.400000,ORL,,BOS,,T. Ross,ORL,Ross P.FOUL (P3.PN) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2223-G0030,4,00:13.800000,ORL,120.0,BOS,124.0,T. Ross,ORL,Ross 27' 3PT Pullup Jump Shot (29 PTS) (Banchero 3 AST),Made Shot,Pullup Jump shot,-158,218,27,1,3.0,3.0,h
+S2223-G0899,1,04:38,PHX,,OKC,,T. Ross,PHX,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,-17,24,1,3.0,0.0,h
+S2223-G0899,1,00:36.300000,PHX,,OKC,,T. Ross,PHX,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,-50,268,27,1,3.0,0.0,h
+S2223-G0899,2,11:20,PHX,,OKC,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0899,2,08:42,PHX,,OKC,,T. Ross,PHX,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0899,2,07:10,PHX,48.0,OKC,39.0,T. Ross,PHX,Ross 24' 3PT Jump Shot (3 PTS) (Paul 4 AST),Made Shot,Jump Shot,-239,5,24,1,3.0,3.0,h
+S2223-G0899,2,06:27,PHX,,OKC,,T. Ross,PHX,Ross REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0899,2,06:03,PHX,,OKC,,T. Ross,PHX,Ross S.FOUL (P1.T3) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2223-G0899,2,06:03,PHX,,OKC,,T. Ross,PHX,SUB: Craig FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0899,3,04:57,PHX,,OKC,,T. Ross,PHX,MISS Ross 15' Jump Shot,Missed Shot,Jump Shot,-151,-6,15,1,2.0,0.0,h
+S2223-G0899,3,04:50,PHX,,OKC,,T. Ross,PHX,Ross Violation:Kicked Ball (D.Richardson),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0899,3,02:18,PHX,,OKC,,T. Ross,PHX,Ross REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0899,3,00:00.200000,PHX,94.0,OKC,87.0,T. Ross,PHX,Ross 3PT Jump Shot (6 PTS) (Booker 8 AST),Made Shot,Jump Shot,-228,14,0,1,3.0,3.0,h
+S2223-G0899,4,11:04,PHX,99.0,OKC,89.0,T. Ross,PHX,Ross 3PT Jump Shot (9 PTS) (D. Lee 1 AST),Made Shot,Jump Shot,-233,5,0,1,3.0,3.0,h
+S2223-G0899,4,10:35,PHX,,OKC,,T. Ross,PHX,Ross REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0899,4,09:45,PHX,,OKC,,T. Ross,PHX,Ross REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0899,4,09:12,PHX,,OKC,,T. Ross,PHX,Ross STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0899,4,07:07,PHX,,OKC,,T. Ross,PHX,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,225,22,0,1,3.0,0.0,h
+S2223-G0899,4,06:16,PHX,,OKC,,T. Ross,PHX,Ross P.FOUL (P2.T3) (D.Richardson),Foul,Personal,0,0,0,0,,,h
+S2223-G0899,4,05:58,PHX,,OKC,,T. Ross,PHX,Ross REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0899,4,05:31,PHX,,OKC,,T. Ross,PHX,SUB: Okogie FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0071,1,11:34,ORL,,CHA,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0071,1,09:04,ORL,,CHA,,T. Ross,ORL,Ross BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0071,1,08:26,ORL,10.0,CHA,7.0,T. Ross,ORL,Ross 26' 3PT Jump Shot (3 PTS) (Bol 1 AST),Made Shot,Jump Shot,-158,207,26,1,3.0,3.0,h
+S2223-G0071,1,08:26,ORL,,CHA,,T. Ross,ORL,MISS Ross Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0071,1,08:07,ORL,,CHA,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0071,1,05:28,ORL,,CHA,,T. Ross,ORL,MISS Ross 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,156,215,27,1,3.0,0.0,h
+S2223-G0071,1,05:22,ORL,,CHA,,T. Ross,ORL,Ross P.FOUL (P1.T2) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2223-G0071,1,04:11,ORL,,CHA,,T. Ross,ORL,MISS Ross 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-156,221,27,1,3.0,0.0,h
+S2223-G0071,1,03:23,ORL,,CHA,,T. Ross,ORL,SUB: Houstan FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0071,2,05:50,ORL,,CHA,,T. Ross,ORL,MISS Ross 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-77,155,17,1,2.0,0.0,h
+S2223-G0071,2,02:26,ORL,42.0,CHA,30.0,T. Ross,ORL,Ross 10' Driving Floating Jump Shot (5 PTS) (Wagner 1 AST),Made Shot,Driving Floating Jump Shot,38,91,10,1,2.0,2.0,h
+S2223-G0071,2,02:06,ORL,,CHA,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0071,2,01:02,ORL,,CHA,,T. Ross,ORL,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,-225,-15,0,1,3.0,0.0,h
+S2223-G0071,3,09:10,ORL,,CHA,,T. Ross,ORL,Ross P.FOUL (P2.T1) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2223-G0071,3,06:52,ORL,,CHA,,T. Ross,ORL,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,-234,16,0,1,3.0,0.0,h
+S2223-G0071,3,04:17,ORL,,CHA,,T. Ross,ORL,Ross P.FOUL (P3.T2) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2223-G0071,3,04:17,ORL,,CHA,,T. Ross,ORL,SUB: Houstan FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0227,1,01:45,CHI,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0227,2,10:47,CHI,,ORL,,T. Ross,ORL,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,-227,-1,0,1,3.0,0.0,v
+S2223-G0227,2,06:57,CHI,,ORL,,T. Ross,ORL,MISS Ross 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-48,120,13,1,2.0,0.0,v
+S2223-G0227,2,05:47,CHI,,ORL,,T. Ross,ORL,SUB: Okeke FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0227,3,03:25,CHI,67.0,ORL,83.0,T. Ross,ORL,Ross 3PT Jump Shot (3 PTS) (G. Harris 1 AST),Made Shot,Jump Shot,233,3,0,1,3.0,3.0,v
+S2223-G0227,3,02:18,CHI,,ORL,,T. Ross,ORL,Ross Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0227,4,10:37,CHI,,ORL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,21,255,26,1,3.0,0.0,v
+S2223-G0227,4,09:53,CHI,84.0,ORL,89.0,T. Ross,ORL,Ross 19' Pullup Jump Shot (5 PTS) (Carter Jr. 5 AST),Made Shot,Pullup Jump shot,-92,164,19,1,2.0,2.0,v
+S2223-G0227,4,09:25,CHI,86.0,ORL,92.0,T. Ross,ORL,Ross 24' 3PT Jump Shot (8 PTS) (Bamba 1 AST),Made Shot,Jump Shot,-93,226,24,1,3.0,3.0,v
+S2223-G0227,4,08:31,CHI,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0227,4,07:32,CHI,,ORL,,T. Ross,ORL,Ross Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0227,4,07:32,CHI,,ORL,,T. Ross,ORL,Ross P.FOUL (P1.T1) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2223-G0227,4,05:32,CHI,,ORL,,T. Ross,ORL,SUB: Suggs FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0227,4,00:20.300000,CHI,,ORL,,T. Ross,ORL,SUB: Okeke FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0363,1,03:25,ORL,,LAC,,T. Ross,ORL,MISS Ross 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-16,210,21,1,2.0,0.0,h
+S2223-G0363,1,02:36,ORL,,LAC,,T. Ross,ORL,Ross BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0363,1,02:35,ORL,,LAC,,T. Ross,ORL,Ross S.FOUL (P1.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0363,1,00:30.900000,ORL,,LAC,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0363,1,00:18.200000,ORL,,LAC,,T. Ross,ORL,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,77,260,27,1,3.0,0.0,h
+S2223-G0363,2,09:43,ORL,,LAC,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0363,2,07:24,ORL,,LAC,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,31,260,26,1,3.0,0.0,h
+S2223-G0363,2,06:08,ORL,,LAC,,T. Ross,ORL,SUB: Banchero FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0046,1,11:26,NYK,,ORL,,T. Ross,ORL,Ross Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0046,1,03:59,NYK,,ORL,,T. Ross,ORL,SUB: Okeke FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0046,2,08:38,NYK,41.0,ORL,36.0,T. Ross,ORL,Ross 3PT Jump Shot (3 PTS) (Wagner 1 AST),Made Shot,Jump Shot,-229,-10,0,1,3.0,3.0,v
+S2223-G0046,2,06:40,NYK,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0046,2,06:02,NYK,,ORL,,T. Ross,ORL,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,87,24,1,3.0,0.0,v
+S2223-G0046,2,05:28,NYK,,ORL,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0046,2,02:46,NYK,,ORL,,T. Ross,ORL,SUB: Wagner FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0046,3,08:00,NYK,69.0,ORL,70.0,T. Ross,ORL,Ross 3PT Jump Shot (6 PTS) (Carter Jr. 1 AST),Made Shot,Jump Shot,-224,0,0,1,3.0,3.0,v
+S2223-G0046,3,03:04,NYK,87.0,ORL,78.0,T. Ross,ORL,Ross 13' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-82,101,13,1,2.0,2.0,v
+S2223-G0046,3,01:18,NYK,,ORL,,T. Ross,ORL,MISS Ross 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-102,233,25,1,3.0,0.0,v
+S2223-G0046,4,05:11,NYK,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0046,4,04:08,NYK,,ORL,,T. Ross,ORL,Ross S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0046,4,03:06,NYK,,ORL,,T. Ross,ORL,MISS Ross 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,178,178,25,1,3.0,0.0,v
+S2223-G0046,4,02:48,NYK,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0046,4,02:08,NYK,,ORL,,T. Ross,ORL,MISS Ross 18' Jump Shot,Missed Shot,Jump Shot,178,-9,18,1,2.0,0.0,v
+S2223-G0416,1,06:44,ORL,,ATL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0416,1,04:53,ORL,29.0,ATL,11.0,T. Ross,ORL,Ross 25' 3PT Jump Shot (3 PTS) (Banchero 1 AST),Made Shot,Jump Shot,126,213,25,1,3.0,3.0,h
+S2223-G0416,1,04:32,ORL,,ATL,,T. Ross,ORL,Ross Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0416,1,03:36,ORL,,ATL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0416,1,01:32,ORL,,ATL,,T. Ross,ORL,Ross REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0416,1,01:26,ORL,46.0,ATL,17.0,T. Ross,ORL,Ross 3PT Jump Shot (6 PTS) (Anthony 2 AST),Made Shot,Jump Shot,-230,14,0,1,3.0,3.0,h
+S2223-G0416,1,00:48,ORL,,ATL,,T. Ross,ORL,Ross Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0416,1,00:40.800000,ORL,,ATL,,T. Ross,ORL,Ross S.FOUL (P1.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0416,2,11:23,ORL,52.0,ATL,24.0,T. Ross,ORL,Ross 16' Pullup Jump Shot (8 PTS) (Anthony 3 AST),Made Shot,Pullup Jump shot,-99,127,16,1,2.0,2.0,h
+S2223-G0416,2,09:30,ORL,,ATL,,T. Ross,ORL,MISS Ross 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,10,16,2,1,2.0,0.0,h
+S2223-G0416,2,08:22,ORL,,ATL,,T. Ross,ORL,MISS Ross 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-192,161,25,1,3.0,0.0,h
+S2223-G0416,2,06:17,ORL,,ATL,,T. Ross,ORL,SUB: Harris FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0416,3,00:00.500000,ORL,105.0,ATL,94.0,T. Ross,ORL,Ross 26' 3PT Running Pull-Up Jump Shot (11 PTS) (Anthony 5 AST),Made Shot,Running Pull-Up Jump Shot,87,249,26,1,3.0,3.0,h
+S2223-G0416,4,11:20,ORL,,ATL,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0416,4,11:02,ORL,,ATL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,214,139,26,1,3.0,0.0,h
+S2223-G0416,4,10:50,ORL,,ATL,,T. Ross,ORL,Ross REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0416,4,10:36,ORL,,ATL,,T. Ross,ORL,MISS Ross 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,116,237,26,1,3.0,0.0,h
+S2223-G0416,4,09:17,ORL,,ATL,,T. Ross,ORL,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,-138,204,25,1,3.0,0.0,h
+S2223-G0416,4,06:38,ORL,,ATL,,T. Ross,ORL,SUB: Bol FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0683,1,02:02,ORL,16.0,NOP,24.0,T. Ross,ORL,Ross 20' Pullup Jump Shot (2 PTS) (Anthony 2 AST),Made Shot,Pullup Jump shot,152,130,20,1,2.0,2.0,h
+S2223-G0683,2,07:10,ORL,,NOP,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0683,2,05:20,ORL,,NOP,,T. Ross,ORL,SUB: Carter Jr. FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0683,4,11:18,ORL,,NOP,,T. Ross,ORL,Ross BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0683,4,10:39,ORL,,NOP,,T. Ross,ORL,Ross S.FOUL (P1.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0683,4,09:48,ORL,95.0,NOP,93.0,T. Ross,ORL,Ross 3PT Jump Shot (5 PTS) (Suggs 1 AST),Made Shot,Jump Shot,-229,6,0,1,3.0,3.0,h
+S2223-G0683,4,06:48,ORL,107.0,NOP,97.0,T. Ross,ORL,Ross 26' 3PT Jump Shot (8 PTS) (Bol 1 AST),Made Shot,Jump Shot,-158,206,26,1,3.0,3.0,h
+S2223-G0683,4,04:28,ORL,,NOP,,T. Ross,ORL,SUB: Harris FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0379,1,03:48,ORL,,TOR,,T. Ross,ORL,Ross Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0379,1,02:41,ORL,,TOR,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-131,226,26,1,3.0,0.0,h
+S2223-G0379,2,11:17,ORL,,TOR,,T. Ross,ORL,Ross S.FOUL (P1.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0379,2,08:29,ORL,,TOR,,T. Ross,ORL,Ross P.FOUL (P2.PN) (R.Hussey),Foul,Personal,0,0,0,0,,,h
+S2223-G0379,2,07:12,ORL,,TOR,,T. Ross,ORL,MISS Ross 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-184,161,24,1,3.0,0.0,h
+S2223-G0379,2,07:06,ORL,,TOR,,T. Ross,ORL,Ross P.FOUL (P3.PN) (R.Hussey),Foul,Personal,0,0,0,0,,,h
+S2223-G0379,2,07:06,ORL,,TOR,,T. Ross,ORL,SUB: Banchero FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0379,3,01:51,ORL,,TOR,,T. Ross,ORL,Ross S.FOUL (P4.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0379,4,08:28,ORL,,TOR,,T. Ross,ORL,Ross BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0379,4,08:18,ORL,,TOR,,T. Ross,ORL,Ross Step Out of Bounds Turnover (P2.T17),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0379,4,07:11,ORL,,TOR,,T. Ross,ORL,SUB: F. Wagner FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1092,2,09:52,LAL,,PHX,,T. Ross,PHX,MISS Ross 13' Floating Jump Shot,Missed Shot,Floating Jump shot,75,103,13,1,2.0,0.0,v
+S2223-G1092,2,09:37,LAL,,PHX,,T. Ross,PHX,Ross S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G1092,2,04:59,LAL,45.0,PHX,44.0,T. Ross,PHX,Ross 26' 3PT Jump Shot (3 PTS) (Okogie 1 AST),Made Shot,Jump Shot,213,142,26,1,3.0,3.0,v
+S2223-G1092,2,03:59,LAL,,PHX,,T. Ross,PHX,MISS Ross 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-120,132,18,1,2.0,0.0,v
+S2223-G1092,2,03:24,LAL,,PHX,,T. Ross,PHX,MISS Ross 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,75,106,13,1,2.0,0.0,v
+S2223-G1092,2,03:22,LAL,,PHX,,T. Ross,PHX,Ross REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1092,2,02:50,LAL,,PHX,,T. Ross,PHX,SUB: Payne FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G1092,4,07:32,LAL,,PHX,,T. Ross,PHX,Ross REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1092,4,07:00,LAL,,PHX,,T. Ross,PHX,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,92,239,26,1,3.0,0.0,v
+S2223-G1092,4,06:23,LAL,,PHX,,T. Ross,PHX,MISS Ross 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-132,136,19,1,2.0,0.0,v
+S2223-G1092,4,04:52,LAL,,PHX,,T. Ross,PHX,SUB: Shamet FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0093,1,08:41,DAL,,ORL,,T. Ross,ORL,MISS Ross 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,158,75,17,1,2.0,0.0,v
+S2223-G0093,1,08:16,DAL,9.0,ORL,13.0,T. Ross,ORL,Ross 3PT Jump Shot (3 PTS) (Banchero 1 AST),Made Shot,Jump Shot,-225,4,0,1,3.0,3.0,v
+S2223-G0093,1,07:23,DAL,9.0,ORL,19.0,T. Ross,ORL,Ross 3PT Jump Shot (6 PTS) (Wagner 2 AST),Made Shot,Jump Shot,230,3,0,1,3.0,3.0,v
+S2223-G0093,1,06:07,DAL,,ORL,,T. Ross,ORL,Ross P.FOUL (P1.T2) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0093,1,05:10,DAL,13.0,ORL,23.0,T. Ross,ORL,Ross 12' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,-116,6,12,1,2.0,2.0,v
+S2223-G0093,1,04:37,DAL,,ORL,,T. Ross,ORL,SUB: Harris FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0093,2,04:10,DAL,,ORL,,T. Ross,ORL,MISS Ross 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-141,11,14,1,2.0,0.0,v
+S2223-G0093,2,00:42.600000,DAL,,ORL,,T. Ross,ORL,SUB: Harris FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0093,2,00:05.300000,DAL,,ORL,,T. Ross,ORL,SUB: Harris FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0093,3,11:42,DAL,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0093,3,11:38,DAL,,ORL,,T. Ross,ORL,Ross Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0093,3,07:46,DAL,,ORL,,T. Ross,ORL,Ross P.FOUL (P2.T2) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0093,3,05:58,DAL,,ORL,,T. Ross,ORL,Ross Violation:Kicked Ball (P.Ransom),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0093,3,05:08,DAL,,ORL,,T. Ross,ORL,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,53,248,25,1,3.0,0.0,v
+S2223-G0093,3,03:26,DAL,,ORL,,T. Ross,ORL,SUB: Harris FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0093,4,09:25,DAL,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0093,4,07:44,DAL,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0093,4,06:58,DAL,,ORL,,T. Ross,ORL,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,-223,-6,0,1,3.0,0.0,v
+S2223-G0093,4,06:29,DAL,,ORL,,T. Ross,ORL,SUB: Banchero FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0990,1,00:00.500000,PHX,,OKC,,T. Ross,PHX,Ross STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0990,2,10:57,PHX,37.0,OKC,24.0,T. Ross,PHX,Ross 27' 3PT Jump Shot (3 PTS) (Payne 2 AST),Made Shot,Jump Shot,5,269,27,1,3.0,3.0,h
+S2223-G0990,2,09:43,PHX,,OKC,,T. Ross,PHX,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-162,207,26,1,3.0,0.0,h
+S2223-G0990,2,09:14,PHX,,OKC,,T. Ross,PHX,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-143,218,26,1,3.0,0.0,h
+S2223-G0990,2,08:46,PHX,43.0,OKC,32.0,T. Ross,PHX,Ross 4' Running Layup (5 PTS) (Payne 3 AST),Made Shot,Running Layup Shot,25,33,4,1,2.0,2.0,h
+S2223-G0990,2,06:35,PHX,,OKC,,T. Ross,PHX,MISS Ross 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-2,118,12,1,2.0,0.0,h
+S2223-G0990,2,06:26,PHX,,OKC,,T. Ross,PHX,SUB: Craig FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0990,3,07:29,PHX,,OKC,,T. Ross,PHX,Ross S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2223-G0990,3,06:05,PHX,,OKC,,T. Ross,PHX,Ross S.FOUL (P2.T4) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0990,3,04:58,PHX,,OKC,,T. Ross,PHX,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,-210,142,25,1,3.0,0.0,h
+S2223-G0990,3,04:39,PHX,90.0,OKC,71.0,T. Ross,PHX,Ross 3PT Jump Shot (8 PTS) (Craig 2 AST),Made Shot,Jump Shot,-229,-17,0,1,3.0,3.0,h
+S2223-G0990,3,03:57,PHX,92.0,OKC,74.0,T. Ross,PHX,Ross 12' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,-75,89,12,1,2.0,2.0,h
+S2223-G0990,3,02:29,PHX,95.0,OKC,78.0,T. Ross,PHX,Ross 3PT Jump Shot (13 PTS) (Payne 4 AST),Made Shot,Jump Shot,-225,1,0,1,3.0,3.0,h
+S2223-G0990,3,02:07,PHX,,OKC,,T. Ross,PHX,Ross STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0990,3,02:02,PHX,96.0,OKC,78.0,T. Ross,PHX,Ross Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0990,3,02:02,PHX,97.0,OKC,78.0,T. Ross,PHX,Ross Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0990,3,00:32.600000,PHX,102.0,OKC,80.0,T. Ross,PHX,Ross 24' 3PT Jump Shot (18 PTS) (Booker 3 AST),Made Shot,Jump Shot,-227,85,24,1,3.0,3.0,h
+S2223-G0990,3,00:12.900000,PHX,,OKC,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0990,4,11:55,PHX,107.0,OKC,80.0,T. Ross,PHX,Ross 25' 3PT Jump Shot (21 PTS) (Payne 5 AST),Made Shot,Jump Shot,228,111,25,1,3.0,3.0,h
+S2223-G0990,4,10:51,PHX,,OKC,,T. Ross,PHX,Ross REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0990,4,10:45,PHX,110.0,OKC,82.0,T. Ross,PHX,Ross 25' 3PT Jump Shot (24 PTS),Made Shot,Jump Shot,93,231,25,1,3.0,3.0,h
+S2223-G0990,4,10:23,PHX,,OKC,,T. Ross,PHX,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,13,258,26,1,3.0,0.0,h
+S2223-G0990,4,09:38,PHX,,OKC,,T. Ross,PHX,SUB: D. Lee FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1212,1,05:04,LAL,,PHX,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1212,1,04:53,LAL,15.0,PHX,17.0,T. Ross,PHX,Ross 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-82,171,19,1,2.0,2.0,v
+S2223-G1212,1,02:37,LAL,23.0,PHX,26.0,T. Ross,PHX,Ross 16' Pullup Jump Shot (4 PTS) (S. Lee 1 AST),Made Shot,Pullup Jump shot,43,155,16,1,2.0,2.0,v
+S2223-G1212,1,02:05,LAL,23.0,PHX,28.0,T. Ross,PHX,Ross 19' Jump Shot (6 PTS) (Landale 1 AST),Made Shot,Jump Shot,50,180,19,1,2.0,2.0,v
+S2223-G1212,2,11:42,LAL,,PHX,,T. Ross,PHX,Ross BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1212,2,10:14,LAL,,PHX,,T. Ross,PHX,Ross STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1212,2,09:23,LAL,37.0,PHX,39.0,T. Ross,PHX,Ross 15' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-70,138,15,1,2.0,2.0,v
+S2223-G1212,2,08:29,LAL,,PHX,,T. Ross,PHX,MISS Ross 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,216,115,24,1,3.0,0.0,v
+S2223-G1212,2,08:19,LAL,,PHX,,T. Ross,PHX,Ross P.FOUL (P1.T1) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G1212,2,07:56,LAL,,PHX,,T. Ross,PHX,SUB: Payne FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G1212,2,00:58.600000,LAL,,PHX,,T. Ross,PHX,Ross Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2223-G1212,2,00:43,LAL,,PHX,,T. Ross,PHX,SUB: Wainright FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G1212,3,04:48,LAL,,PHX,,T. Ross,PHX,MISS Ross 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-39,143,15,1,2.0,0.0,v
+S2223-G1212,3,04:13,LAL,,PHX,,T. Ross,PHX,MISS Ross 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-85,116,14,1,2.0,0.0,v
+S2223-G1212,4,11:27,LAL,,PHX,,T. Ross,PHX,Ross REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1212,4,10:20,LAL,96.0,PHX,96.0,T. Ross,PHX,Ross 6' Floating Jump Shot (10 PTS),Made Shot,Floating Jump shot,-7,55,6,1,2.0,2.0,v
+S2223-G1212,4,08:26,LAL,,PHX,,T. Ross,PHX,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,-184,172,25,1,3.0,0.0,v
+S2223-G1212,4,07:12,LAL,,PHX,,T. Ross,PHX,MISS Ross 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,38,157,16,1,2.0,0.0,v
+S2223-G1212,4,06:53,LAL,,PHX,,T. Ross,PHX,Ross REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1212,4,03:28,LAL,,PHX,,T. Ross,PHX,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,136,220,26,1,3.0,0.0,v
+S2223-G0454,1,06:30,ATL,10.0,ORL,14.0,T. Ross,ORL,Ross 11' Driving Floating Jump Shot (2 PTS) (Fultz 4 AST),Made Shot,Driving Floating Jump Shot,-105,4,11,1,2.0,2.0,v
+S2223-G0454,1,06:01,ATL,,ORL,,T. Ross,ORL,MISS Ross 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-31,119,12,1,2.0,0.0,v
+S2223-G0454,1,05:54,ATL,,ORL,,T. Ross,ORL,Ross S.FOUL (P1.T3) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0454,1,03:37,ATL,23.0,ORL,19.0,T. Ross,ORL,Ross 3PT Jump Shot (5 PTS) (Fultz 5 AST),Made Shot,Jump Shot,224,-13,0,1,3.0,3.0,v
+S2223-G0454,2,11:17,ATL,36.0,ORL,29.0,T. Ross,ORL,Ross 5' Driving Floating Jump Shot (7 PTS) (Bamba 1 AST),Made Shot,Driving Floating Jump Shot,18,42,5,1,2.0,2.0,v
+S2223-G0454,2,09:11,ATL,,ORL,,T. Ross,ORL,MISS Ross 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,234,67,24,1,3.0,0.0,v
+S2223-G0454,2,07:21,ATL,,ORL,,T. Ross,ORL,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,-229,9,0,1,3.0,0.0,v
+S2223-G0454,2,06:41,ATL,47.0,ORL,41.0,T. Ross,ORL,Ross Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0454,2,06:41,ATL,47.0,ORL,42.0,T. Ross,ORL,Ross Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0454,2,05:35,ATL,49.0,ORL,48.0,T. Ross,ORL,Ross 16' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,-17,156,16,1,2.0,2.0,v
+S2223-G0454,2,05:04,ATL,,ORL,,T. Ross,ORL,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,158,193,25,1,3.0,0.0,v
+S2223-G0454,2,04:55,ATL,,ORL,,T. Ross,ORL,SUB: Bol FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0454,3,04:26,ATL,,ORL,,T. Ross,ORL,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,-233,8,0,1,3.0,0.0,v
+S2223-G0454,4,10:22,ATL,,ORL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-103,236,26,1,3.0,0.0,v
+S2223-G0454,4,08:45,ATL,109.0,ORL,102.0,T. Ross,ORL,Ross 26' 3PT Jump Shot (14 PTS) (F. Wagner 2 AST),Made Shot,Jump Shot,180,186,26,1,3.0,3.0,v
+S2223-G0454,4,07:15,ATL,,ORL,,T. Ross,ORL,SUB: Fultz FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0638,1,03:30,UTA,24.0,ORL,20.0,T. Ross,ORL,Ross 19' Pullup Jump Shot (2 PTS) (Carter Jr. 2 AST),Made Shot,Pullup Jump shot,26,193,19,1,2.0,2.0,v
+S2223-G0638,1,00:00.100000,UTA,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0638,2,11:24,UTA,38.0,ORL,30.0,T. Ross,ORL,Ross 24' 3PT Jump Shot (5 PTS) (Suggs 1 AST),Made Shot,Jump Shot,219,109,24,1,3.0,3.0,v
+S2223-G0638,2,10:31,UTA,38.0,ORL,36.0,T. Ross,ORL,Ross 3PT Jump Shot (8 PTS) (Anthony 3 AST),Made Shot,Jump Shot,-225,-17,0,1,3.0,3.0,v
+S2223-G0638,2,10:02,UTA,,ORL,,T. Ross,ORL,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,152,199,25,1,3.0,0.0,v
+S2223-G0638,2,07:01,UTA,,ORL,,T. Ross,ORL,MISS Ross 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-22,56,6,1,2.0,0.0,v
+S2223-G0638,2,05:15,UTA,,ORL,,T. Ross,ORL,SUB: Bol FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0638,3,04:30,UTA,,ORL,,T. Ross,ORL,Ross S.FOUL (P1.T4) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0638,3,03:15,UTA,,ORL,,T. Ross,ORL,MISS Ross 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,120,97,15,1,2.0,0.0,v
+S2223-G0638,3,02:25,UTA,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0638,3,02:19,UTA,,ORL,,T. Ross,ORL,MISS Ross 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,115,239,27,1,3.0,0.0,v
+S2223-G0638,3,00:04.800000,UTA,,ORL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,162,201,26,1,3.0,0.0,v
+S2223-G0638,4,07:37,UTA,,ORL,,T. Ross,ORL,MISS Ross 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-34,102,11,1,2.0,0.0,v
+S2223-G0638,4,05:20,UTA,,ORL,,T. Ross,ORL,SUB: F. Wagner FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0638,4,00:04.900000,UTA,,ORL,,T. Ross,ORL,Ross Personal Take Foul (P2.PN) (M.Davis),Foul,Personal Take,0,0,0,0,,,v
+S2223-G1013,1,05:57,PHX,,SAC,,T. Ross,PHX,Ross S.FOUL (P1.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G1013,1,05:16,PHX,,SAC,,T. Ross,PHX,Ross STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1013,1,04:52,PHX,20.0,SAC,12.0,T. Ross,PHX,Ross 27' 3PT Jump Shot (3 PTS) (Paul 5 AST),Made Shot,Jump Shot,-156,216,27,1,3.0,3.0,h
+S2223-G1013,1,03:15,PHX,,SAC,,T. Ross,PHX,Ross L.B.FOUL (P2.T4) (R.Acosta),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1013,1,01:36,PHX,,SAC,,T. Ross,PHX,SUB: Okogie FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1013,2,11:30,PHX,34.0,SAC,31.0,T. Ross,PHX,Ross 21' Jump Shot (5 PTS) (Paul 7 AST),Made Shot,Jump Shot,-6,207,21,1,2.0,2.0,h
+S2223-G1013,2,10:55,PHX,36.0,SAC,33.0,T. Ross,PHX,Ross 20' Jump Shot (7 PTS) (Landale 1 AST),Made Shot,Jump Shot,32,202,20,1,2.0,2.0,h
+S2223-G1013,2,10:33,PHX,,SAC,,T. Ross,PHX,Ross Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1013,2,10:13,PHX,,SAC,,T. Ross,PHX,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,234,15,0,1,3.0,0.0,h
+S2223-G1013,2,09:12,PHX,,SAC,,T. Ross,PHX,MISS Ross 28' 3PT Jump Shot,Missed Shot,Jump Shot,-132,244,28,1,3.0,0.0,h
+S2223-G1013,2,08:34,PHX,,SAC,,T. Ross,PHX,SUB: Ayton FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1013,2,03:07,PHX,,SAC,,T. Ross,PHX,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,-228,110,25,1,3.0,0.0,h
+S2223-G1013,2,02:10,PHX,,SAC,,T. Ross,PHX,SUB: Paul FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1013,3,03:13,PHX,,SAC,,T. Ross,PHX,Ross S.FOUL (P3.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G1013,3,02:38,PHX,88.0,SAC,85.0,T. Ross,PHX,Ross 27' 3PT Jump Shot (10 PTS) (Booker 7 AST),Made Shot,Jump Shot,-172,211,27,1,3.0,3.0,h
+S2223-G1013,3,01:40,PHX,91.0,SAC,90.0,T. Ross,PHX,Ross 25' 3PT Jump Shot (13 PTS) (Payne 1 AST),Made Shot,Jump Shot,-71,242,25,1,3.0,3.0,h
+S2223-G1013,3,01:06,PHX,,SAC,,T. Ross,PHX,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,-222,-2,0,1,3.0,0.0,h
+S2223-G1013,3,01:01,PHX,,SAC,,T. Ross,PHX,Ross REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1013,3,00:30.400000,PHX,95.0,SAC,96.0,T. Ross,PHX,Ross 12' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,-116,3,12,1,2.0,2.0,h
+S2223-G1013,3,00:10.300000,PHX,,SAC,,T. Ross,PHX,SUB: Okogie FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1013,4,11:40,PHX,,SAC,,T. Ross,PHX,Ross Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1013,4,11:27,PHX,,SAC,,T. Ross,PHX,MISS Ross 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-77,262,27,1,3.0,0.0,h
+S2223-G1013,4,10:49,PHX,,SAC,,T. Ross,PHX,Ross STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1013,4,10:21,PHX,100.0,SAC,98.0,T. Ross,PHX,Ross 3PT Jump Shot (18 PTS) (Paul 15 AST),Made Shot,Jump Shot,-227,-5,0,1,3.0,3.0,h
+S2223-G1013,4,07:26,PHX,,SAC,,T. Ross,PHX,SUB: Booker FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1013,4,03:39,PHX,,SAC,,T. Ross,PHX,SUB: Paul FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1013,4,02:09,PHX,,SAC,,T. Ross,PHX,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,40,248,25,1,3.0,0.0,h
+S2223-G1013,4,01:22,PHX,,SAC,,T. Ross,PHX,SUB: Craig FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0340,1,00:08.800000,TOR,34.0,ORL,22.0,T. Ross,ORL,Ross 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-64,140,15,1,2.0,2.0,v
+S2223-G0340,2,10:48,TOR,39.0,ORL,24.0,T. Ross,ORL,Ross 20' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-66,188,20,1,2.0,2.0,v
+S2223-G0340,2,08:58,TOR,,ORL,,T. Ross,ORL,SUB: Harris FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0340,3,03:36,TOR,89.0,ORL,61.0,T. Ross,ORL,Ross 25' 3PT Jump Shot (7 PTS) (Houstan 1 AST),Made Shot,Jump Shot,108,230,25,1,3.0,3.0,v
+S2223-G0340,3,03:20,TOR,,ORL,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0340,3,02:03,TOR,94.0,ORL,66.0,T. Ross,ORL,Ross 25' 3PT Jump Shot (10 PTS) (Anthony 5 AST),Made Shot,Jump Shot,230,107,25,1,3.0,3.0,v
+S2223-G0340,3,01:29,TOR,94.0,ORL,68.0,T. Ross,ORL,Ross 19' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,72,180,19,1,2.0,2.0,v
+S2223-G0340,4,09:43,TOR,,ORL,,T. Ross,ORL,Ross STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0340,4,08:15,TOR,,ORL,,T. Ross,ORL,Ross S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0340,4,07:17,TOR,104.0,ORL,85.0,T. Ross,ORL,Ross 28' 3PT Jump Shot (15 PTS) (Schofield 1 AST),Made Shot,Jump Shot,-151,238,28,1,3.0,3.0,v
+S2223-G0340,4,05:42,TOR,108.0,ORL,91.0,T. Ross,ORL,Ross 27' 3PT Jump Shot (18 PTS) (Hampton 1 AST),Made Shot,Jump Shot,-196,190,27,1,3.0,3.0,v
+S2223-G0340,4,04:29,TOR,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1033,1,01:29,PHX,,MIL,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1033,1,00:58,PHX,,MIL,,T. Ross,PHX,Ross S.FOUL (P1.PN) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G1033,1,00:31.700000,PHX,,MIL,,T. Ross,PHX,Ross STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1033,2,10:50,PHX,,MIL,,T. Ross,PHX,MISS Ross 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-31,145,15,1,2.0,0.0,h
+S2223-G1033,2,09:52,PHX,,MIL,,T. Ross,PHX,MISS Ross 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-82,243,26,1,3.0,0.0,h
+S2223-G1033,2,08:48,PHX,,MIL,,T. Ross,PHX,MISS Ross 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,83,124,15,1,2.0,0.0,h
+S2223-G1033,2,07:08,PHX,,MIL,,T. Ross,PHX,SUB: Craig FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1033,4,09:47,PHX,,MIL,,T. Ross,PHX,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1033,4,09:31,PHX,,MIL,,T. Ross,PHX,Ross S.FOUL (P2.T1) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G1033,4,09:31,PHX,,MIL,,T. Ross,PHX,SUB: Okogie FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1064,1,00:20.600000,OKC,,PHX,,T. Ross,PHX,SUB: Craig FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G1064,2,11:40,OKC,,PHX,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1064,2,11:11,OKC,,PHX,,T. Ross,PHX,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1064,2,10:30,OKC,27.0,PHX,39.0,T. Ross,PHX,Ross 17' Pullup Jump Shot (2 PTS) (Landale 1 AST),Made Shot,Pullup Jump shot,-64,158,17,1,2.0,2.0,v
+S2223-G1064,2,09:24,OKC,,PHX,,T. Ross,PHX,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,50,253,26,1,3.0,0.0,v
+S2223-G1064,2,08:17,OKC,,PHX,,T. Ross,PHX,Ross REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1064,2,08:09,OKC,34.0,PHX,42.0,T. Ross,PHX,Ross 25' 3PT Jump Shot (5 PTS) (Payne 3 AST),Made Shot,Jump Shot,105,232,25,1,3.0,3.0,v
+S2223-G1064,2,07:43,OKC,37.0,PHX,45.0,T. Ross,PHX,Ross 25' 3PT Jump Shot (8 PTS) (Lee 1 AST),Made Shot,Jump Shot,-152,204,25,1,3.0,3.0,v
+S2223-G1064,2,07:20,OKC,37.0,PHX,46.0,T. Ross,PHX,Ross Free Throw 1 of 3 (9 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2223-G1064,2,07:20,OKC,,PHX,,T. Ross,PHX,MISS Ross Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,v
+S2223-G1064,2,07:20,OKC,37.0,PHX,47.0,T. Ross,PHX,Ross Free Throw 3 of 3 (10 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G1064,2,05:30,OKC,,PHX,,T. Ross,PHX,SUB: Booker FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G1064,3,01:59,OKC,,PHX,,T. Ross,PHX,Ross REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1064,3,00:32.400000,OKC,,PHX,,T. Ross,PHX,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,10,24,1,3.0,0.0,v
+S2223-G1064,3,00:00.400000,OKC,,PHX,,T. Ross,PHX,SUB: Biyombo FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G1064,4,11:19,OKC,,PHX,,T. Ross,PHX,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,-238,76,25,1,3.0,0.0,v
+S2223-G1064,4,11:07,OKC,,PHX,,T. Ross,PHX,Ross P.FOUL (P1.T1) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2223-G1064,4,10:57,OKC,,PHX,,T. Ross,PHX,Ross STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1064,4,10:52,OKC,90.0,PHX,100.0,T. Ross,PHX,Ross 1' Running Layup (12 PTS) (Payne 6 AST),Made Shot,Running Layup Shot,10,6,1,1,2.0,2.0,v
+S2223-G1064,4,10:42,OKC,,PHX,,T. Ross,PHX,Ross P.FOUL (P2.T2) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2223-G1064,4,08:47,OKC,,PHX,,T. Ross,PHX,Ross Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1064,4,07:43,OKC,,PHX,,T. Ross,PHX,MISS Ross 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-77,34,8,1,2.0,0.0,v
+S2223-G1064,4,06:52,OKC,,PHX,,T. Ross,PHX,SUB: Booker FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G1160,2,11:08,PHX,,DEN,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1160,2,06:02,PHX,,DEN,,T. Ross,PHX,SUB: Booker FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1160,4,11:21,PHX,,DEN,,T. Ross,PHX,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1160,4,10:30,PHX,,DEN,,T. Ross,PHX,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,232,8,0,1,3.0,0.0,h
+S2223-G1160,4,09:42,PHX,,DEN,,T. Ross,PHX,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-184,179,26,1,3.0,0.0,h
+S2223-G1160,4,06:31,PHX,,DEN,,T. Ross,PHX,Ross STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1160,4,06:09,PHX,,DEN,,T. Ross,PHX,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,225,47,0,1,3.0,0.0,h
+S2223-G1160,4,05:02,PHX,,DEN,,T. Ross,PHX,SUB: Craig FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1025,1,01:42,GSW,,PHX,,T. Ross,PHX,Ross Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1025,2,11:25,GSW,,PHX,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1025,2,11:20,GSW,,PHX,,T. Ross,PHX,MISS Ross 15' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-138,59,15,1,2.0,0.0,v
+S2223-G1025,2,11:16,GSW,43.0,PHX,26.0,T. Ross,PHX,Ross 3PT Jump Shot (3 PTS) (Biyombo 2 AST),Made Shot,Jump Shot,-232,-20,0,1,3.0,3.0,v
+S2223-G1025,2,10:53,GSW,,PHX,,T. Ross,PHX,Ross S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G1025,2,08:02,GSW,,PHX,,T. Ross,PHX,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,-40,270,27,1,3.0,0.0,v
+S2223-G1025,2,07:39,GSW,,PHX,,T. Ross,PHX,SUB: Okogie FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G1025,4,11:18,GSW,,PHX,,T. Ross,PHX,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1025,4,10:50,GSW,,PHX,,T. Ross,PHX,Ross STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1025,4,06:49,GSW,,PHX,,T. Ross,PHX,MISS Ross 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-195,167,26,1,3.0,0.0,v
+S2223-G1025,4,06:03,GSW,,PHX,,T. Ross,PHX,Ross P.FOUL (P2.PN) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2223-G1025,4,04:49,GSW,,PHX,,T. Ross,PHX,Ross REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1025,4,04:46,GSW,,PHX,,T. Ross,PHX,MISS Ross 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,18,168,17,1,2.0,0.0,v
+S2223-G1025,4,04:26,GSW,,PHX,,T. Ross,PHX,Ross S.FOUL (P3.PN) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G1025,4,04:26,GSW,,PHX,,T. Ross,PHX,SUB: Craig FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0566,1,02:48,ORL,22.0,OKC,17.0,T. Ross,ORL,Ross 3PT Jump Shot (3 PTS) (Hampton 1 AST),Made Shot,Jump Shot,232,-7,0,1,3.0,3.0,h
+S2223-G0566,1,01:43,ORL,,OKC,,T. Ross,ORL,MISS Ross 7' Driving Layup,Missed Shot,Driving Layup Shot,-70,26,7,1,2.0,0.0,h
+S2223-G0566,2,10:52,ORL,38.0,OKC,28.0,T. Ross,ORL,Ross 3PT Jump Shot (6 PTS) (Bamba 1 AST),Made Shot,Jump Shot,-229,11,0,1,3.0,3.0,h
+S2223-G0566,2,08:14,ORL,,OKC,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0566,2,06:57,ORL,,OKC,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0566,2,06:49,ORL,51.0,OKC,36.0,T. Ross,ORL,Ross 5' Driving Layup (8 PTS) (Banchero 4 AST),Made Shot,Driving Layup Shot,-1,52,5,1,2.0,2.0,h
+S2223-G0566,2,06:49,ORL,52.0,OKC,36.0,T. Ross,ORL,Ross Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0566,2,05:32,ORL,,OKC,,T. Ross,ORL,SUB: Harris FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0566,3,03:26,ORL,89.0,OKC,74.0,T. Ross,ORL,Ross 9' Driving Floating Jump Shot (11 PTS) (Bamba 2 AST),Made Shot,Driving Floating Jump Shot,26,89,9,1,2.0,2.0,h
+S2223-G0566,3,02:23,ORL,95.0,OKC,79.0,T. Ross,ORL,Ross 26' 3PT Step Back Jump Shot (14 PTS) (Banchero 7 AST),Made Shot,Step Back Jump shot,185,185,26,1,3.0,3.0,h
+S2223-G0566,3,01:59,ORL,,OKC,,T. Ross,ORL,MISS Ross 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,83,259,27,1,3.0,0.0,h
+S2223-G0566,4,11:31,ORL,,OKC,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0566,4,10:38,ORL,,OKC,,T. Ross,ORL,Ross REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0566,4,10:19,ORL,,OKC,,T. Ross,ORL,MISS Ross 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-132,-5,13,1,2.0,0.0,h
+S2223-G0566,4,09:05,ORL,102.0,OKC,92.0,T. Ross,ORL,Ross 13' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,-51,121,13,1,2.0,2.0,h
+S2223-G0566,4,08:37,ORL,,OKC,,T. Ross,ORL,Ross REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0566,4,08:16,ORL,,OKC,,T. Ross,ORL,Ross S.FOUL (P1.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0566,4,08:04,ORL,105.0,OKC,94.0,T. Ross,ORL,Ross Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0566,4,08:04,ORL,106.0,OKC,94.0,T. Ross,ORL,Ross Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0566,4,07:33,ORL,,OKC,,T. Ross,ORL,Ross REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0566,4,05:43,ORL,,OKC,,T. Ross,ORL,Ross BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0566,4,04:29,ORL,,OKC,,T. Ross,ORL,Ross Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0566,4,04:26,ORL,,OKC,,T. Ross,ORL,Ross S.FOUL (P2.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0566,4,04:26,ORL,,OKC,,T. Ross,ORL,SUB: Harris FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0161,1,05:22,ORL,,DAL,,T. Ross,ORL,Ross P.FOUL (P1.T3) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2223-G0161,1,05:00,ORL,16.0,DAL,15.0,T. Ross,ORL,Ross 8' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,12,77,8,1,2.0,2.0,h
+S2223-G0161,1,04:52,ORL,,DAL,,T. Ross,ORL,Ross P.FOUL (P2.T4) (C.Flores),Foul,Personal,0,0,0,0,,,h
+S2223-G0161,1,03:30,ORL,,DAL,,T. Ross,ORL,Ross Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0161,1,01:28,ORL,,DAL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0161,2,11:26,ORL,,DAL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,141,215,26,1,3.0,0.0,h
+S2223-G0161,2,05:42,ORL,,DAL,,T. Ross,ORL,SUB: Bol FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0161,2,00:02.900000,ORL,,DAL,,T. Ross,ORL,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,119,247,27,1,3.0,0.0,h
+S2223-G0161,3,02:15,ORL,67.0,DAL,69.0,T. Ross,ORL,Ross 17' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,9,168,17,1,2.0,2.0,h
+S2223-G0161,3,00:39.100000,ORL,,DAL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0161,4,11:47,ORL,,DAL,,T. Ross,ORL,MISS Ross 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,20,148,15,1,2.0,0.0,h
+S2223-G0161,4,07:54,ORL,,DAL,,T. Ross,ORL,MISS Ross 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-146,80,17,1,2.0,0.0,h
+S2223-G0161,4,07:00,ORL,,DAL,,T. Ross,ORL,Ross Traveling Turnover (P2.T18),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0161,4,05:43,ORL,84.0,DAL,83.0,T. Ross,ORL,Ross 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,5,13,1,1,2.0,2.0,h
+S2223-G0161,4,05:43,ORL,,DAL,,T. Ross,ORL,MISS Ross Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0161,4,05:28,ORL,,DAL,,T. Ross,ORL,Ross S.FOUL (P3.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0161,4,04:11,ORL,,DAL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0161,4,03:54,ORL,,DAL,,T. Ross,ORL,MISS Ross 15' Jump Shot,Missed Shot,Jump Shot,13,152,15,1,2.0,0.0,h
+S2223-G0161,4,03:05,ORL,,DAL,,T. Ross,ORL,Ross P.FOUL (P4.T3) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G0161,4,02:37,ORL,,DAL,,T. Ross,ORL,MISS Ross 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,39,58,7,1,2.0,0.0,h
+S2223-G0161,4,00:24.200000,ORL,,DAL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0177,1,03:33,ORL,,PHX,,T. Ross,ORL,MISS Ross 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,124,97,16,1,2.0,0.0,h
+S2223-G0177,1,01:45,ORL,28.0,PHX,19.0,T. Ross,ORL,Ross 12' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-58,105,12,1,2.0,2.0,h
+S2223-G0177,1,00:00,ORL,,PHX,,T. Ross,ORL,MISS Ross 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,112,121,16,1,2.0,0.0,h
+S2223-G0177,2,08:03,ORL,,PHX,,T. Ross,ORL,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,172,180,25,1,3.0,0.0,h
+S2223-G0177,2,07:05,ORL,,PHX,,T. Ross,ORL,SUB: Bol FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0177,3,00:06.600000,ORL,,PHX,,T. Ross,ORL,Ross Transition Take Foul (P1.T3) (E.Scott),Foul                                    ,Transition Take,0,0,0,0,,,h
+S2223-G0177,4,11:02,ORL,,PHX,,T. Ross,ORL,Ross REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0177,4,11:00,ORL,89.0,PHX,80.0,T. Ross,ORL,Ross 4' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,16,40,4,1,2.0,2.0,h
+S2223-G0177,4,09:19,ORL,96.0,PHX,84.0,T. Ross,ORL,Ross 25' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,-145,208,25,1,3.0,3.0,h
+S2223-G0177,4,07:33,ORL,101.0,PHX,87.0,T. Ross,ORL,Ross 9' Driving Floating Jump Shot (9 PTS) (Carter Jr. 3 AST),Made Shot,Driving Floating Jump Shot,15,92,9,1,2.0,2.0,h
+S2223-G0177,4,07:00,ORL,104.0,PHX,87.0,T. Ross,ORL,Ross 25' 3PT Jump Shot (12 PTS) (Carter Jr. 4 AST),Made Shot,Jump Shot,-194,158,25,1,3.0,3.0,h
+S2223-G0177,4,06:25,ORL,105.0,PHX,89.0,T. Ross,ORL,Ross Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0177,4,06:25,ORL,106.0,PHX,89.0,T. Ross,ORL,Ross Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0177,4,06:07,ORL,,PHX,,T. Ross,ORL,Ross REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0177,4,05:51,ORL,,PHX,,T. Ross,ORL,MISS Ross 4' Reverse Layup,Missed Shot,Reverse Layup Shot,-29,24,4,1,2.0,0.0,h
+S2223-G0177,4,04:04,ORL,,PHX,,T. Ross,ORL,SUB: Suggs FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0249,1,03:00,IND,,ORL,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0249,1,02:00,IND,,ORL,,T. Ross,ORL,MISS Ross 1' Dunk,Missed Shot,Dunk Shot,6,1,1,1,2.0,0.0,v
+S2223-G0249,1,00:24.400000,IND,,ORL,,T. Ross,ORL,Ross STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0249,2,11:34,IND,,ORL,,T. Ross,ORL,MISS Ross 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,86,75,11,1,2.0,0.0,v
+S2223-G0249,2,11:21,IND,,ORL,,T. Ross,ORL,Ross STEAL (3 STL),,,0,0,0,0,,,v
+S2223-G0249,2,10:34,IND,,ORL,,T. Ross,ORL,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,29,24,1,3.0,0.0,v
+S2223-G0249,2,09:52,IND,,ORL,,T. Ross,ORL,Ross BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0249,2,06:54,IND,,ORL,,T. Ross,ORL,SUB: Hampton FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0249,2,00:29,IND,,ORL,,T. Ross,ORL,SUB: K. Harris FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0249,3,04:26,IND,71.0,ORL,60.0,T. Ross,ORL,Ross 27' 3PT Jump Shot (3 PTS) (Suggs 3 AST),Made Shot,Jump Shot,-210,165,27,1,3.0,3.0,v
+S2223-G0249,3,03:04,IND,,ORL,,T. Ross,ORL,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,197,178,27,1,3.0,0.0,v
+S2223-G0249,4,10:09,IND,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0249,4,07:02,IND,102.0,ORL,83.0,T. Ross,ORL,Ross 27' 3PT Jump Shot (6 PTS) (Wagner 3 AST),Made Shot,Jump Shot,-210,173,27,1,3.0,3.0,v
+S2223-G0249,4,06:03,IND,,ORL,,T. Ross,ORL,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,33,264,27,1,3.0,0.0,v
+S2223-G0249,4,05:32,IND,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0249,4,05:26,IND,,ORL,,T. Ross,ORL,Ross Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0249,4,05:17,IND,,ORL,,T. Ross,ORL,SUB: K. Harris FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0398,1,06:25,ORL,,TOR,,T. Ross,ORL,Ross S.FOUL (P1.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0398,1,01:52,ORL,,TOR,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0398,1,00:04.800000,ORL,,TOR,,T. Ross,ORL,MISS Ross 20' Jump Shot,Missed Shot,Jump Shot,-16,197,20,1,2.0,0.0,h
+S2223-G0398,2,09:44,ORL,,TOR,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,43,252,26,1,3.0,0.0,h
+S2223-G0398,2,06:19,ORL,34.0,TOR,29.0,T. Ross,ORL,Ross 25' 3PT Jump Shot (3 PTS) (Anthony 2 AST),Made Shot,Jump Shot,-131,216,25,1,3.0,3.0,h
+S2223-G0398,2,05:20,ORL,,TOR,,T. Ross,ORL,SUB: Bol FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0398,3,03:10,ORL,,TOR,,T. Ross,ORL,MISS Ross 20' Jump Shot,Missed Shot,Jump Shot,36,193,20,1,2.0,0.0,h
+S2223-G0398,3,00:05.600000,ORL,82.0,TOR,74.0,T. Ross,ORL,Ross 26' 3PT Jump Shot (6 PTS) (Schofield 2 AST),Made Shot,Jump Shot,-156,211,26,1,3.0,3.0,h
+S2223-G0398,4,11:43,ORL,,TOR,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0398,4,11:24,ORL,84.0,TOR,75.0,T. Ross,ORL,Ross 7' Driving Floating Bank Jump Shot (8 PTS),Made Shot,Driving Floating Bank Jump Shot,-47,48,7,1,2.0,2.0,h
+S2223-G0398,4,05:44,ORL,,TOR,,T. Ross,ORL,SUB: Banchero FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1229,1,04:49,PHX,,LAC,,T. Ross,PHX,MISS Ross 18' Jump Shot,Missed Shot,Jump Shot,-43,174,18,1,2.0,0.0,h
+S2223-G1229,1,03:58,PHX,,LAC,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1229,1,01:57,PHX,,LAC,,T. Ross,PHX,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,-207,141,25,1,3.0,0.0,h
+S2223-G1229,1,00:05.600000,PHX,,LAC,,T. Ross,PHX,Ross S.FOUL (P1.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G1229,2,10:07,PHX,,LAC,,T. Ross,PHX,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,174,178,25,1,3.0,0.0,h
+S2223-G1229,2,09:16,PHX,,LAC,,T. Ross,PHX,Ross P.FOUL (P2.T1) (M.Dagher),Foul,Personal,0,0,0,0,,,h
+S2223-G1229,2,08:58,PHX,,LAC,,T. Ross,PHX,MISS Ross 3' Driving Layup,Missed Shot,Driving Layup Shot,-29,-2,3,1,2.0,0.0,h
+S2223-G1229,2,08:49,PHX,,LAC,,T. Ross,PHX,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1229,2,07:05,PHX,,LAC,,T. Ross,PHX,MISS Ross 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,7,125,13,1,2.0,0.0,h
+S2223-G1229,2,05:35,PHX,,LAC,,T. Ross,PHX,MISS Ross 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-89,67,11,1,2.0,0.0,h
+S2223-G1229,2,05:24,PHX,,LAC,,T. Ross,PHX,Ross REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1229,2,03:24,PHX,43.0,LAC,40.0,T. Ross,PHX,Ross 11' Driving Floating Jump Shot (2 PTS) (Wainright 1 AST),Made Shot,Driving Floating Jump Shot,54,99,11,1,2.0,2.0,h
+S2223-G1229,2,02:55,PHX,,LAC,,T. Ross,PHX,SUB: Okogie FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1229,3,03:51,PHX,74.0,LAC,69.0,T. Ross,PHX,Ross 17' Pullup Jump Shot (4 PTS) (S. Lee 5 AST),Made Shot,Pullup Jump shot,-92,143,17,1,2.0,2.0,h
+S2223-G1229,3,03:01,PHX,,LAC,,T. Ross,PHX,MISS Ross 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-134,167,21,1,2.0,0.0,h
+S2223-G1229,3,01:54,PHX,,LAC,,T. Ross,PHX,Ross REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1229,3,01:48,PHX,81.0,LAC,71.0,T. Ross,PHX,Ross 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-4,16,2,1,2.0,2.0,h
+S2223-G1229,3,00:08.800000,PHX,,LAC,,T. Ross,PHX,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,71,24,1,3.0,0.0,h
+S2223-G1229,4,10:17,PHX,88.0,LAC,86.0,T. Ross,PHX,Ross Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1229,4,10:17,PHX,89.0,LAC,86.0,T. Ross,PHX,Ross Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1229,4,10:06,PHX,,LAC,,T. Ross,PHX,Ross S.FOUL (P3.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G1229,4,08:38,PHX,94.0,LAC,92.0,T. Ross,PHX,Ross 3PT Jump Shot (11 PTS) (S. Lee 7 AST),Made Shot,Jump Shot,-227,10,0,1,3.0,3.0,h
+S2223-G1229,4,08:03,PHX,96.0,LAC,94.0,T. Ross,PHX,Ross 14' Pullup Jump Shot (13 PTS) (S. Lee 8 AST),Made Shot,Pullup Jump shot,103,91,14,1,2.0,2.0,h
+S2223-G1229,4,07:32,PHX,,LAC,,T. Ross,PHX,Ross S.FOUL (P4.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G1229,4,06:26,PHX,,LAC,,T. Ross,PHX,MISS Ross 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,5,130,13,1,2.0,0.0,h
+S2223-G1229,4,06:00,PHX,,LAC,,T. Ross,PHX,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,-228,105,25,1,3.0,0.0,h
+S2223-G0479,2,08:56,ORL,42.0,SAS,37.0,T. Ross,ORL,Ross 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-23,159,16,1,2.0,2.0,h
+S2223-G0479,2,07:17,ORL,,SAS,,T. Ross,ORL,Ross Discontinue Dribble Turnover (P1.T9),Turnover,Discontinue Dribble,0,0,0,0,,,h
+S2223-G0479,2,06:51,ORL,,SAS,,T. Ross,ORL,SUB: Bol FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0212,1,05:34,ORL,11.0,MIN,21.0,T. Ross,ORL,Ross Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0212,1,05:34,ORL,12.0,MIN,21.0,T. Ross,ORL,Ross Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0212,1,04:22,ORL,,MIN,,T. Ross,ORL,MISS Ross 7' Driving Layup,Missed Shot,Driving Layup Shot,-20,64,7,1,2.0,0.0,h
+S2223-G0212,1,00:47.500000,ORL,,MIN,,T. Ross,ORL,Ross Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0212,2,09:03,ORL,,MIN,,T. Ross,ORL,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,103,232,25,1,3.0,0.0,h
+S2223-G0212,2,07:27,ORL,,MIN,,T. Ross,ORL,Ross P.FOUL (P1.T4) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2223-G0212,2,06:24,ORL,,MIN,,T. Ross,ORL,MISS Ross 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-66,27,7,1,2.0,0.0,h
+S2223-G0212,2,06:20,ORL,,MIN,,T. Ross,ORL,SUB: Suggs FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0212,2,01:31,ORL,,MIN,,T. Ross,ORL,Ross Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0212,2,00:10.900000,ORL,49.0,MIN,74.0,T. Ross,ORL,Ross Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2223-G0212,3,02:24,ORL,,MIN,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0212,4,11:32,ORL,83.0,MIN,98.0,T. Ross,ORL,Ross 25' 3PT Jump Shot (6 PTS) (Wagner 3 AST),Made Shot,Jump Shot,71,244,25,1,3.0,3.0,h
+S2223-G0212,4,09:28,ORL,,MIN,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0212,4,08:44,ORL,,MIN,,T. Ross,ORL,Ross S.FOUL (P2.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0212,4,05:07,ORL,,MIN,,T. Ross,ORL,Ross Lost Ball Turnover (P3.T16),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0212,4,05:07,ORL,,MIN,,T. Ross,ORL,Ross P.FOUL (P3.T4) (J.Capers),Foul,Personal,0,0,0,0,,,h
+S2223-G0212,4,03:16,ORL,,MIN,,T. Ross,ORL,SUB: Bamba FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0910,1,03:34,MIL,,PHX,,T. Ross,PHX,Ross P.FOUL (P1.T1) (R.Acosta),Foul,Personal,0,0,0,0,,,v
+S2223-G0910,1,00:11.700000,MIL,,PHX,,T. Ross,PHX,Ross S.FOUL (P2.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0910,2,11:47,MIL,,PHX,,T. Ross,PHX,MISS Ross 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,89,252,27,1,3.0,0.0,v
+S2223-G0910,2,11:31,MIL,,PHX,,T. Ross,PHX,Ross S.FOUL (P3.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0910,2,11:31,MIL,,PHX,,T. Ross,PHX,SUB: Craig FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0910,3,04:58,MIL,71.0,PHX,63.0,T. Ross,PHX,Ross 2' Cutting Dunk Shot (2 PTS) (Paul 5 AST),Made Shot,Cutting Dunk Shot,11,12,2,1,2.0,2.0,v
+S2223-G0910,3,03:34,MIL,,PHX,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0910,3,01:45,MIL,,PHX,,T. Ross,PHX,Ross S.FOUL (P4.T4) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0910,4,11:28,MIL,75.0,PHX,76.0,T. Ross,PHX,Ross 17' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,135,106,17,1,2.0,2.0,v
+S2223-G0910,4,09:42,MIL,77.0,PHX,83.0,T. Ross,PHX,Ross 24' 3PT Running Jump Shot (7 PTS) (Wainright 1 AST),Made Shot,Running Jump Shot,-238,-6,24,1,3.0,3.0,v
+S2223-G0910,4,09:08,MIL,,PHX,,T. Ross,PHX,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,-131,233,27,1,3.0,0.0,v
+S2223-G0910,4,07:55,MIL,,PHX,,T. Ross,PHX,SUB: Ayton FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0910,4,00:32.200000,MIL,,PHX,,T. Ross,PHX,SUB: Okogie FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0910,4,00:00.900000,MIL,,PHX,,T. Ross,PHX,SUB: Okogie FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0472,1,05:32,HOU,,ORL,,T. Ross,ORL,MISS Ross 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,94,72,12,1,2.0,0.0,v
+S2223-G0472,1,04:13,HOU,,ORL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-44,252,26,1,3.0,0.0,v
+S2223-G0472,1,03:23,HOU,,ORL,,T. Ross,ORL,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,-183,169,25,1,3.0,0.0,v
+S2223-G0472,1,00:31.900000,HOU,,ORL,,T. Ross,ORL,Ross P.FOUL (P1.PN) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2223-G0472,2,11:39,HOU,31.0,ORL,27.0,T. Ross,ORL,Ross 16' Pullup Jump Shot (2 PTS) (Anthony 1 AST),Made Shot,Pullup Jump shot,135,93,16,1,2.0,2.0,v
+S2223-G0472,2,08:24,HOU,,ORL,,T. Ross,ORL,SUB: Harris FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0472,4,11:32,HOU,,ORL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,53,253,26,1,3.0,0.0,v
+S2223-G0472,4,09:49,HOU,,ORL,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0472,4,07:41,HOU,,ORL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-190,179,26,1,3.0,0.0,v
+S2223-G0472,4,06:50,HOU,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0472,4,04:25,HOU,,ORL,,T. Ross,ORL,SUB: Bol FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0576,1,00:44.700000,ORL,,MEM,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0576,1,00:36.800000,ORL,,MEM,,T. Ross,ORL,Ross Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0576,1,00:09,ORL,20.0,MEM,22.0,T. Ross,ORL,Ross 27' 3PT Pullup Jump Shot (3 PTS) (Schofield 1 AST),Made Shot,Pullup Jump shot,169,214,27,1,3.0,3.0,h
+S2223-G0576,2,11:08,ORL,,MEM,,T. Ross,ORL,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,-224,106,25,1,3.0,0.0,h
+S2223-G0576,2,09:08,ORL,29.0,MEM,33.0,T. Ross,ORL,Ross 25' 3PT Jump Shot (6 PTS) (Schofield 2 AST),Made Shot,Jump Shot,201,146,25,1,3.0,3.0,h
+S2223-G0576,2,08:15,ORL,,MEM,,T. Ross,ORL,MISS Ross 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,143,221,26,1,3.0,0.0,h
+S2223-G0576,2,03:22,ORL,,MEM,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0576,2,03:07,ORL,,MEM,,T. Ross,ORL,SUB: F. Wagner FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0576,3,02:20,ORL,,MEM,,T. Ross,ORL,Ross S.FOUL (P1.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0576,3,01:04,ORL,72.0,MEM,88.0,T. Ross,ORL,Ross 25' 3PT Running Jump Shot (9 PTS) (Anthony 2 AST),Made Shot,Running Jump Shot,-224,111,25,1,3.0,3.0,h
+S2223-G0576,3,00:37.300000,ORL,75.0,MEM,88.0,T. Ross,ORL,Ross 25' 3PT Running Pull-Up Jump Shot (12 PTS) (F. Wagner 2 AST),Made Shot,Running Pull-Up Jump Shot,-218,132,25,1,3.0,3.0,h
+S2223-G0576,4,07:53,ORL,88.0,MEM,107.0,T. Ross,ORL,Ross 14' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,-121,68,14,1,2.0,2.0,h
+S2223-G0576,4,07:29,ORL,,MEM,,T. Ross,ORL,SUB: Fultz FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0297,1,03:21,ORL,,PHI,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0297,1,03:15,ORL,25.0,PHI,23.0,T. Ross,ORL,Ross 25' 3PT Jump Shot (3 PTS) (G. Harris 4 AST),Made Shot,Jump Shot,-188,162,25,1,3.0,3.0,h
+S2223-G0297,1,02:58,ORL,,PHI,,T. Ross,ORL,Ross STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0297,1,02:56,ORL,27.0,PHI,23.0,T. Ross,ORL,Ross 1' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,5,1,1,1,2.0,2.0,h
+S2223-G0297,1,01:32,ORL,,PHI,,T. Ross,ORL,Ross Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0297,1,01:08,ORL,,PHI,,T. Ross,ORL,Ross Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0297,1,00:43.100000,ORL,,PHI,,T. Ross,ORL,MISS Ross Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,h
+S2223-G0297,2,11:31,ORL,34.0,PHI,36.0,T. Ross,ORL,Ross 13' Pullup Jump Shot (7 PTS) (M. Wagner 2 AST),Made Shot,Pullup Jump shot,-29,122,13,1,2.0,2.0,h
+S2223-G0297,2,10:57,ORL,,PHI,,T. Ross,ORL,MISS Ross 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,83,17,8,1,2.0,0.0,h
+S2223-G0297,2,10:46,ORL,,PHI,,T. Ross,ORL,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,70,245,25,1,3.0,0.0,h
+S2223-G0297,2,08:48,ORL,,PHI,,T. Ross,ORL,Ross Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0297,2,07:48,ORL,,PHI,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-188,182,26,1,3.0,0.0,h
+S2223-G0297,2,07:23,ORL,,PHI,,T. Ross,ORL,SUB: Bol FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0653,1,00:08.700000,DEN,29.0,ORL,25.0,T. Ross,ORL,Ross 24' 3PT Jump Shot (3 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,-237,11,24,1,3.0,3.0,v
+S2223-G0653,2,11:14,DEN,,ORL,,T. Ross,ORL,Ross Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0653,2,10:57,DEN,,ORL,,T. Ross,ORL,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,-212,121,24,1,3.0,0.0,v
+S2223-G0653,2,06:00,DEN,47.0,ORL,40.0,T. Ross,ORL,Ross 3' Cutting Layup Shot (5 PTS) (Banchero 1 AST),Made Shot,Cutting Layup Shot,32,5,3,1,2.0,2.0,v
+S2223-G0653,2,05:30,DEN,,ORL,,T. Ross,ORL,SUB: Harris FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0653,3,04:14,DEN,,ORL,,T. Ross,ORL,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,-88,254,27,1,3.0,0.0,v
+S2223-G0653,3,00:02.400000,DEN,,ORL,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0653,4,10:04,DEN,98.0,ORL,96.0,T. Ross,ORL,Ross 7' Driving Floating Jump Shot (7 PTS) (M. Wagner 1 AST),Made Shot,Driving Floating Jump Shot,-27,64,7,1,2.0,2.0,v
+S2223-G0653,4,09:30,DEN,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0653,4,03:42,DEN,,ORL,,T. Ross,ORL,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,-190,197,27,1,3.0,0.0,v
+S2223-G0653,4,03:18,DEN,,ORL,,T. Ross,ORL,SUB: F. Wagner FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0594,1,00:37.700000,GSW,,ORL,,T. Ross,ORL,MISS Ross 19' Jump Shot,Missed Shot,Jump Shot,4,188,19,1,2.0,0.0,v
+S2223-G0594,1,00:05.200000,GSW,29.0,ORL,28.0,T. Ross,ORL,Ross 26' 3PT Jump Shot (3 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,191,173,26,1,3.0,3.0,v
+S2223-G0594,2,06:17,GSW,,ORL,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0594,2,06:14,GSW,41.0,ORL,47.0,T. Ross,ORL,Ross 3' Running Finger Roll Layup (5 PTS),Made Shot,Running Finger Roll Layup Shot,-20,25,3,1,2.0,2.0,v
+S2223-G0594,2,04:18,GSW,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0594,2,02:19,GSW,,ORL,,T. Ross,ORL,SUB: F. Wagner FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0594,4,09:59,GSW,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0594,4,07:41,GSW,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0594,4,04:22,GSW,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0594,4,03:50,GSW,,ORL,,T. Ross,ORL,SUB: Fultz FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G1110,1,03:16,PHX,16.0,PHI,15.0,T. Ross,PHX,Ross 26' 3PT Jump Shot (3 PTS) (Paul 2 AST),Made Shot,Jump Shot,-183,184,26,1,3.0,3.0,h
+S2223-G1110,1,03:01,PHX,,PHI,,T. Ross,PHX,Ross S.FOUL (P1.PN) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2223-G1110,1,01:21,PHX,,PHI,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1110,1,01:05,PHX,,PHI,,T. Ross,PHX,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,124,237,27,1,3.0,0.0,h
+S2223-G1110,2,11:04,PHX,,PHI,,T. Ross,PHX,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,259,26,1,3.0,0.0,h
+S2223-G1110,2,10:44,PHX,31.0,PHI,28.0,T. Ross,PHX,Ross 19' Pullup Jump Shot (5 PTS) (Okogie 1 AST),Made Shot,Pullup Jump shot,-109,160,19,1,2.0,2.0,h
+S2223-G1110,2,10:13,PHX,34.0,PHI,28.0,T. Ross,PHX,Ross 25' 3PT Jump Shot (8 PTS) (Payne 2 AST),Made Shot,Jump Shot,-201,155,25,1,3.0,3.0,h
+S2223-G1110,2,07:45,PHX,,PHI,,T. Ross,PHX,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1110,2,06:48,PHX,,PHI,,T. Ross,PHX,MISS Ross 28' 3PT Jump Shot,Missed Shot,Jump Shot,153,230,28,1,3.0,0.0,h
+S2223-G1110,2,06:12,PHX,,PHI,,T. Ross,PHX,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,96,244,26,1,3.0,0.0,h
+S2223-G1110,2,05:12,PHX,,PHI,,T. Ross,PHX,Ross REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1110,2,04:49,PHX,,PHI,,T. Ross,PHX,Ross S.FOUL (P2.T3) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2223-G1110,2,04:49,PHX,,PHI,,T. Ross,PHX,SUB: Booker FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1110,4,11:40,PHX,91.0,PHI,83.0,T. Ross,PHX,Ross 16' Jump Shot (10 PTS) (Payne 3 AST),Made Shot,Jump Shot,-161,-1,16,1,2.0,2.0,h
+S2223-G1110,4,10:24,PHX,,PHI,,T. Ross,PHX,Ross REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1110,4,09:28,PHX,,PHI,,T. Ross,PHX,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,183,156,24,1,3.0,0.0,h
+S2223-G1110,4,09:18,PHX,,PHI,,T. Ross,PHX,Ross REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1110,4,09:10,PHX,100.0,PHI,85.0,T. Ross,PHX,Ross 25' 3PT Jump Shot (13 PTS) (Payne 5 AST),Made Shot,Jump Shot,178,169,25,1,3.0,3.0,h
+S2223-G1110,4,07:38,PHX,,PHI,,T. Ross,PHX,Ross REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1110,4,07:29,PHX,105.0,PHI,88.0,T. Ross,PHX,Ross 11' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,-113,1,11,1,2.0,2.0,h
+S2223-G1110,4,05:10,PHX,,PHI,,T. Ross,PHX,MISS Ross 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-27,156,16,1,2.0,0.0,h
+S2223-G1110,4,03:46,PHX,,PHI,,T. Ross,PHX,Ross REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1110,4,01:11,PHX,,PHI,,T. Ross,PHX,Ross S.FOUL (P3.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G0003,1,08:43,DET,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0003,1,08:23,DET,,ORL,,T. Ross,ORL,Ross STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0003,1,08:17,DET,6.0,ORL,14.0,T. Ross,ORL,Ross 27' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,184,195,27,1,3.0,3.0,v
+S2223-G0003,1,05:59,DET,,ORL,,T. Ross,ORL,SUB: Bol FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0003,2,07:57,DET,30.0,ORL,41.0,T. Ross,ORL,Ross 24' 3PT Jump Shot (6 PTS) (Banchero 2 AST),Made Shot,Jump Shot,237,3,24,1,3.0,3.0,v
+S2223-G0003,2,07:11,DET,,ORL,,T. Ross,ORL,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,-233,-4,0,1,3.0,0.0,v
+S2223-G0003,2,05:24,DET,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0003,2,05:19,DET,36.0,ORL,43.0,T. Ross,ORL,Ross 2' Cutting Layup Shot (8 PTS) (Banchero 3 AST),Made Shot,Cutting Layup Shot,-21,3,2,1,2.0,2.0,v
+S2223-G0003,2,04:15,DET,,ORL,,T. Ross,ORL,MISS Ross 28' 3PT Jump Shot,Missed Shot,Jump Shot,71,268,28,1,3.0,0.0,v
+S2223-G0003,2,02:54,DET,,ORL,,T. Ross,ORL,MISS Ross 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-49,205,21,1,2.0,0.0,v
+S2223-G0003,2,02:21,DET,,ORL,,T. Ross,ORL,Ross S.FOUL (P1.PN) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2223-G0003,2,01:46,DET,,ORL,,T. Ross,ORL,MISS Ross 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,37,4,1,2.0,0.0,v
+S2223-G0003,2,01:45,DET,,ORL,,T. Ross,ORL,Ross REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0003,2,00:53.600000,DET,53.0,ORL,50.0,T. Ross,ORL,Ross 27' 3PT Jump Shot (11 PTS) (Wagner 2 AST),Made Shot,Jump Shot,142,229,27,1,3.0,3.0,v
+S2223-G0003,2,00:53.600000,DET,,ORL,,T. Ross,ORL,MISS Ross Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0003,3,11:25,DET,,ORL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,127,227,26,1,3.0,0.0,v
+S2223-G0003,3,08:39,DET,,ORL,,T. Ross,ORL,Ross REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0003,3,02:23,DET,,ORL,,T. Ross,ORL,SUB: Bol FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0003,4,06:00,DET,99.0,ORL,97.0,T. Ross,ORL,Ross 19' Pullup Jump Shot (13 PTS) (Carter Jr. 3 AST),Made Shot,Pullup Jump shot,125,141,19,1,2.0,2.0,v
+S2223-G0003,4,04:35,DET,,ORL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,60,252,26,1,3.0,0.0,v
+S2223-G0003,4,00:26.500000,DET,,ORL,,T. Ross,ORL,SUB: Okeke FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0003,4,00:07.400000,DET,,ORL,,T. Ross,ORL,MISS Ross 30' 3PT Jump Shot,Missed Shot,Jump Shot,-158,251,30,1,3.0,0.0,v
+S2223-G0003,4,00:04.700000,DET,,ORL,,T. Ross,ORL,Ross Personal Take Foul (P2.PN) (D.Guthrie),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0445,1,04:45,BOS,,ORL,,T. Ross,ORL,Ross S.FOUL (P1.T3) (D.Mosher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0445,1,02:40,BOS,,ORL,,T. Ross,ORL,MISS Ross 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,22,264,26,1,3.0,0.0,v
+S2223-G0445,2,11:14,BOS,23.0,ORL,28.0,T. Ross,ORL,Ross 15' Pullup Jump Shot (2 PTS) (F. Wagner 2 AST),Made Shot,Pullup Jump shot,70,138,15,1,2.0,2.0,v
+S2223-G0445,2,10:14,BOS,,ORL,,T. Ross,ORL,MISS Ross 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,148,55,16,1,2.0,0.0,v
+S2223-G0445,2,08:58,BOS,,ORL,,T. Ross,ORL,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,146,226,27,1,3.0,0.0,v
+S2223-G0445,2,07:55,BOS,,ORL,,T. Ross,ORL,MISS Ross 9' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,62,62,9,1,2.0,0.0,v
+S2223-G0445,2,07:34,BOS,,ORL,,T. Ross,ORL,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,118,246,27,1,3.0,0.0,v
+S2223-G0445,2,07:00,BOS,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0445,2,06:33,BOS,,ORL,,T. Ross,ORL,SUB: Harris FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0445,3,04:25,BOS,,ORL,,T. Ross,ORL,Ross Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1188,2,11:19,PHX,,SAS,,T. Ross,PHX,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,31,24,1,3.0,0.0,h
+S2223-G1188,2,11:08,PHX,,SAS,,T. Ross,PHX,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1188,2,10:09,PHX,,SAS,,T. Ross,PHX,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1188,2,08:10,PHX,,SAS,,T. Ross,PHX,MISS Ross 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-156,205,26,1,3.0,0.0,h
+S2223-G1188,2,08:07,PHX,,SAS,,T. Ross,PHX,Ross REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1188,2,07:49,PHX,,SAS,,T. Ross,PHX,Ross REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1188,2,07:29,PHX,,SAS,,T. Ross,PHX,Ross REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1188,2,05:41,PHX,,SAS,,T. Ross,PHX,SUB: Okogie FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G1188,4,09:34,PHX,,SAS,,T. Ross,PHX,Ross BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1188,4,09:17,PHX,,SAS,,T. Ross,PHX,Ross REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1188,4,08:58,PHX,,SAS,,T. Ross,PHX,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,145,215,26,1,3.0,0.0,h
+S2223-G1188,4,06:08,PHX,,SAS,,T. Ross,PHX,SUB: Booker FOR Ross,Substitution,,0,0,0,0,,,h
+S2223-G0330,1,02:31,CLE,23.0,ORL,17.0,T. Ross,ORL,Ross 10' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-98,35,10,1,2.0,2.0,v
+S2223-G0330,2,11:45,CLE,,ORL,,T. Ross,ORL,MISS Ross 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,4,24,1,3.0,0.0,v
+S2223-G0330,2,08:39,CLE,35.0,ORL,30.0,T. Ross,ORL,Ross 6' Driving Floating Jump Shot (4 PTS) (Anthony 1 AST),Made Shot,Driving Floating Jump Shot,-62,17,6,1,2.0,2.0,v
+S2223-G0330,2,08:13,CLE,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0330,2,08:11,CLE,,ORL,,T. Ross,ORL,Ross Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0330,2,06:41,CLE,,ORL,,T. Ross,ORL,SUB: Harris FOR Ross,Substitution,,0,0,0,0,,,v
+S2223-G0330,3,04:38,CLE,,ORL,,T. Ross,ORL,MISS Ross 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-20,104,11,1,2.0,0.0,v
+S2223-G0330,3,03:30,CLE,,ORL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-189,185,26,1,3.0,0.0,v
+S2223-G0330,3,02:00,CLE,,ORL,,T. Ross,ORL,MISS Ross 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,102,95,14,1,2.0,0.0,v
+S2223-G0330,4,11:41,CLE,,ORL,,T. Ross,ORL,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0330,4,07:24,CLE,,ORL,,T. Ross,ORL,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,-188,178,26,1,3.0,0.0,v
+S2223-G0330,4,07:05,CLE,,ORL,,T. Ross,ORL,SUB: Fultz FOR Ross,Substitution,,0,0,0,0,,,v

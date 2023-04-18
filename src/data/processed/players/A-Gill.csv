@@ -1,0 +1,488 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0866,2,11:09,GSW,,WAS,,A. Gill,WAS,Gill Violation:Kicked Ball (J.Williams),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0866,2,07:33,GSW,,WAS,,A. Gill,WAS,MISS Gill 2' Driving Layup,Missed Shot,Driving Layup Shot,17,17,2,1,2.0,0.0,v
+S2223-G0866,2,07:30,GSW,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0866,2,07:30,GSW,46.0,WAS,54.0,A. Gill,WAS,Gill Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0866,2,06:36,GSW,48.0,WAS,58.0,A. Gill,WAS,Gill 3' Cutting Layup Shot (4 PTS) (Gafford 4 AST),Made Shot,Cutting Layup Shot,-25,15,3,1,2.0,2.0,v
+S2223-G0866,2,04:39,GSW,,WAS,,A. Gill,WAS,SUB: Gafford FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0866,3,01:24,GSW,,WAS,,A. Gill,WAS,Gill BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0866,3,01:14,GSW,,WAS,,A. Gill,WAS,Gill Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0866,3,00:05.300000,GSW,106.0,WAS,90.0,A. Gill,WAS,Gill Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0866,3,00:05.300000,GSW,106.0,WAS,91.0,A. Gill,WAS,Gill Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0866,4,00:06,GSW,,WAS,,A. Gill,WAS,Gill BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0108,1,07:51,PHI,,WAS,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0108,1,07:32,PHI,,WAS,,A. Gill,WAS,Gill P.FOUL (P1.T2) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2223-G0108,1,06:55,PHI,,WAS,,A. Gill,WAS,Gill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0108,1,05:26,PHI,,WAS,,A. Gill,WAS,SUB: Hachimura FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0108,2,02:38,PHI,,WAS,,A. Gill,WAS,Gill P.FOUL (P2.T4) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2223-G0108,2,02:38,PHI,,WAS,,A. Gill,WAS,SUB: Hachimura FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0108,3,10:42,PHI,56.0,WAS,59.0,A. Gill,WAS,Gill Cutting Layup Shot (2 PTS) (Beal 2 AST),Made Shot,Cutting Layup Shot,-2,3,0,1,2.0,2.0,v
+S2223-G0108,3,06:15,PHI,,WAS,,A. Gill,WAS,SUB: Hachimura FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G1168,4,02:44,NYK,,WAS,,A. Gill,WAS,Gill Violation:Kicked Ball (M.Smith),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G1168,4,01:46,NYK,,WAS,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1168,4,01:16,NYK,114.0,WAS,103.0,A. Gill,WAS,Gill 1' Running Layup (2 PTS) (Huff 2 AST),Made Shot,Running Layup Shot,1,9,1,1,2.0,2.0,v
+S2223-G1168,4,01:16,NYK,114.0,WAS,104.0,A. Gill,WAS,Gill Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1083,2,10:01,WAS,,DEN,,A. Gill,WAS,MISS Gill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1083,2,10:01,WAS,34.0,DEN,34.0,A. Gill,WAS,Gill Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1083,2,09:20,WAS,,DEN,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1083,2,08:26,WAS,,DEN,,A. Gill,WAS,Gill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1083,2,08:25,WAS,,DEN,,A. Gill,WAS,MISS Gill 5' Layup,Missed Shot,Layup Shot,29,37,5,1,2.0,0.0,h
+S2223-G1083,2,07:29,WAS,,DEN,,A. Gill,WAS,Gill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1083,2,06:42,WAS,,DEN,,A. Gill,WAS,SUB: Avdija FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G1083,4,09:52,WAS,79.0,DEN,98.0,A. Gill,WAS,Gill 2' Cutting Layup Shot (3 PTS) (Nunn 1 AST),Made Shot,Cutting Layup Shot,0,24,2,1,2.0,2.0,h
+S2223-G1083,4,08:08,WAS,,DEN,,A. Gill,WAS,SUB: Avdija FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G1191,1,10:16,ATL,,WAS,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1191,1,09:45,ATL,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1191,1,09:45,ATL,3.0,WAS,6.0,A. Gill,WAS,Gill Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1191,1,09:31,ATL,,WAS,,A. Gill,WAS,Gill REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1191,1,09:31,ATL,,WAS,,A. Gill,WAS,MISS Gill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1191,1,09:31,ATL,,WAS,,A. Gill,WAS,MISS Gill Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1191,1,08:52,ATL,,WAS,,A. Gill,WAS,MISS Gill 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,63,24,1,3.0,0.0,v
+S2223-G1191,1,06:34,ATL,,WAS,,A. Gill,WAS,MISS Gill 2' Driving Layup,Missed Shot,Driving Layup Shot,7,16,2,1,2.0,0.0,v
+S2223-G1191,1,05:03,ATL,,WAS,,A. Gill,WAS,SUB: Huff FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G1191,2,03:18,ATL,,WAS,,A. Gill,WAS,Gill S.FOUL (P1.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2223-G1191,2,01:55,ATL,,WAS,,A. Gill,WAS,Gill P.FOUL (P2.PN) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2223-G1191,3,11:13,ATL,,WAS,,A. Gill,WAS,Gill S.FOUL (P3.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G1191,3,09:01,ATL,,WAS,,A. Gill,WAS,Gill REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1191,3,08:19,ATL,,WAS,,A. Gill,WAS,SUB: Huff FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G1191,3,00:51.500000,ATL,,WAS,,A. Gill,WAS,Gill REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1191,3,00:51.500000,ATL,102.0,WAS,88.0,A. Gill,WAS,Gill Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1191,4,08:50,ATL,,WAS,,A. Gill,WAS,SUB: Cooks FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0294,1,01:46,BOS,,WAS,,A. Gill,WAS,Gill S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0294,2,10:02,BOS,,WAS,,A. Gill,WAS,MISS Gill 25' 3PT Jump Shot,Missed Shot,Jump Shot,-55,244,25,1,3.0,0.0,v
+S2223-G0294,2,09:36,BOS,,WAS,,A. Gill,WAS,SUB: Gibson FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0294,2,01:15,BOS,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0294,2,01:15,BOS,,WAS,,A. Gill,WAS,MISS Gill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0294,2,01:15,BOS,67.0,WAS,53.0,A. Gill,WAS,Gill Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0294,4,10:41,BOS,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0294,4,09:43,BOS,,WAS,,A. Gill,WAS,MISS Gill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0294,4,09:43,BOS,113.0,WAS,93.0,A. Gill,WAS,Gill Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0294,4,08:46,BOS,115.0,WAS,97.0,A. Gill,WAS,Gill 5' Running Layup (4 PTS),Made Shot,Running Layup Shot,25,42,5,1,2.0,2.0,v
+S2223-G0294,4,08:46,BOS,115.0,WAS,98.0,A. Gill,WAS,Gill Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0294,4,06:50,BOS,,WAS,,A. Gill,WAS,Gill S.FOUL (P2.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0294,4,05:52,BOS,,WAS,,A. Gill,WAS,SUB: Beal FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0294,4,00:45.500000,BOS,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0693,4,01:29,WAS,,ORL,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,1,05:58,CHA,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0144,1,05:55,CHA,11.0,WAS,16.0,A. Gill,WAS,Gill 5' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,48,5,1,2.0,2.0,v
+S2223-G0144,1,04:23,CHA,,WAS,,A. Gill,WAS,Gill P.FOUL (P1.T3) (C.Flores),Foul,Personal,0,0,0,0,,,v
+S2223-G0144,1,02:05,CHA,,WAS,,A. Gill,WAS,Gill S.FOUL (P2.T4) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2223-G0144,1,02:05,CHA,,WAS,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0144,2,03:29,CHA,,WAS,,A. Gill,WAS,Gill S.FOUL (P3.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0144,2,02:35,CHA,40.0,WAS,40.0,A. Gill,WAS,Gill 2' Cutting Layup Shot (4 PTS) (Goodwin 4 AST),Made Shot,Cutting Layup Shot,-1,18,2,1,2.0,2.0,v
+S2223-G0144,2,01:22,CHA,,WAS,,A. Gill,WAS,SUB: Hachimura FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0144,3,02:05,CHA,,WAS,,A. Gill,WAS,MISS Gill 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-2,40,4,1,2.0,0.0,v
+S2223-G0144,4,09:21,CHA,,WAS,,A. Gill,WAS,SUB: Kispert FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0144,4,00:14.900000,CHA,98.0,WAS,107.0,A. Gill,WAS,Gill Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0144,4,00:14.900000,CHA,98.0,WAS,108.0,A. Gill,WAS,Gill Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1016,4,06:50,PHI,,WAS,,A. Gill,WAS,Gill S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G1016,4,06:24,PHI,,WAS,,A. Gill,WAS,Gill BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1016,4,05:54,PHI,,WAS,,A. Gill,WAS,MISS Gill 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-20,31,4,1,2.0,0.0,v
+S2223-G1016,4,02:15,PHI,,WAS,,A. Gill,WAS,MISS Gill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1016,4,02:15,PHI,108.0,WAS,89.0,A. Gill,WAS,Gill Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1016,4,01:19,PHI,110.0,WAS,90.0,A. Gill,WAS,Gill Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1016,4,01:19,PHI,110.0,WAS,91.0,A. Gill,WAS,Gill Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1016,4,00:47.700000,PHI,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1016,4,00:47,PHI,110.0,WAS,93.0,A. Gill,WAS,Gill 6' Hook Shot (5 PTS),Made Shot,Hook Shot,7,57,6,1,2.0,2.0,v
+S2223-G0277,2,10:05,MIA,,WAS,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0277,2,09:35,MIA,34.0,WAS,42.0,A. Gill,WAS,Gill 2' Layup (2 PTS) (Barton 2 AST),Made Shot,Layup Shot,9,16,2,1,2.0,2.0,v
+S2223-G0277,2,08:39,MIA,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0277,2,08:03,MIA,,WAS,,A. Gill,WAS,Gill BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0277,2,07:58,MIA,,WAS,,A. Gill,WAS,SUB: Gafford FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0277,4,08:18,MIA,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0277,4,08:09,MIA,,WAS,,A. Gill,WAS,SUB: Beal FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0277,4,03:38,MIA,,WAS,,A. Gill,WAS,SUB: Goodwin FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G1077,4,00:28.600000,ORL,122.0,WAS,112.0,A. Gill,WAS,Gill 3' Cutting Layup Shot (2 PTS) (Goodwin 3 AST),Made Shot,Cutting Layup Shot,4,28,3,1,2.0,2.0,v
+S2223-G1098,2,09:21,WAS,,SAS,,A. Gill,WAS,Gill S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G1098,2,09:04,WAS,,SAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1098,2,09:04,WAS,42.0,SAS,38.0,A. Gill,WAS,Gill Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1098,2,09:04,WAS,43.0,SAS,38.0,A. Gill,WAS,Gill Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1098,2,08:00,WAS,48.0,SAS,41.0,A. Gill,WAS,Gill 5' Turnaround Bank Shot (4 PTS) (Wright 2 AST),Made Shot,Turnaround Bank shot,-45,20,5,1,2.0,2.0,h
+S2223-G1098,2,08:00,WAS,,SAS,,A. Gill,WAS,MISS Gill Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1098,2,07:01,WAS,,SAS,,A. Gill,WAS,MISS Gill 6' Layup,Missed Shot,Layup Shot,-54,11,6,1,2.0,0.0,h
+S2223-G1098,2,04:02,WAS,,SAS,,A. Gill,WAS,Gill BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1098,4,08:52,WAS,,SAS,,A. Gill,WAS,MISS Gill 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,39,13,4,1,2.0,0.0,h
+S2223-G1098,4,07:03,WAS,,SAS,,A. Gill,WAS,Gill P.FOUL (P2.T2) (D.Mosher),Foul,Personal,0,0,0,0,,,h
+S2223-G1098,4,05:56,WAS,,SAS,,A. Gill,WAS,SUB: Avdija FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0172,1,12:00,WAS,,DAL,,A. Gill,WAS,Jump Ball Gill vs. Powell: Tip to Doncic,Jump Ball,,0,0,0,0,,,h
+S2223-G0172,1,07:55,WAS,,DAL,,A. Gill,WAS,MISS Gill 12' Driving Layup,Missed Shot,Driving Layup Shot,0,123,12,1,2.0,0.0,h
+S2223-G0172,1,07:10,WAS,,DAL,,A. Gill,WAS,Gill P.FOUL (P1.T1) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2223-G0172,1,03:46,WAS,,DAL,,A. Gill,WAS,SUB: Gafford FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0172,2,05:13,WAS,,DAL,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0172,2,03:10,WAS,50.0,DAL,57.0,A. Gill,WAS,Gill 3' Layup (2 PTS) (Avdija 2 AST),Made Shot,Layup Shot,-2,34,3,1,2.0,2.0,h
+S2223-G0172,2,02:12,WAS,,DAL,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0172,3,11:21,WAS,,DAL,,A. Gill,WAS,Gill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0172,3,10:56,WAS,,DAL,,A. Gill,WAS,Gill P.FOUL (P2.T1) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2223-G0172,3,10:49,WAS,,DAL,,A. Gill,WAS,Gill P.FOUL (P3.T3) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2223-G0172,3,10:17,WAS,,DAL,,A. Gill,WAS,Gill S.FOUL (P4.T4) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0172,3,10:17,WAS,,DAL,,A. Gill,WAS,SUB: Hachimura FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0349,1,02:33,WAS,,LAL,,A. Gill,WAS,SUB: Gafford FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0349,3,00:04.300000,WAS,,LAL,,A. Gill,WAS,Gill S.FOUL (P1.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G0349,4,02:22,WAS,,LAL,,A. Gill,WAS,Gill BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0349,4,01:18,WAS,,LAL,,A. Gill,WAS,MISS Gill 3PT Jump Shot,Missed Shot,Jump Shot,-232,6,0,1,3.0,0.0,h
+S2223-G0315,1,05:03,BKN,,WAS,,A. Gill,WAS,MISS Gill 26' 3PT Jump Shot,Missed Shot,Jump Shot,132,225,26,1,3.0,0.0,v
+S2223-G0315,1,04:13,BKN,,WAS,,A. Gill,WAS,Gill S.FOUL (P1.T2) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0315,1,03:39,BKN,,WAS,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0529,4,00:34.100000,ORL,,WAS,,A. Gill,WAS,Gill S.FOUL (P1.T3) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0378,2,00:05.500000,IND,,WAS,,A. Gill,WAS,SUB: Morris FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G1119,1,01:32,TOR,,WAS,,A. Gill,WAS,MISS Gill 3' Dunk,Missed Shot,Dunk Shot,-15,23,3,1,2.0,0.0,v
+S2223-G1119,1,00:21.400000,TOR,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1119,1,00:20.600000,TOR,34.0,WAS,21.0,A. Gill,WAS,Gill 1' Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,-9,4,1,1,2.0,2.0,v
+S2223-G1119,1,00:20.600000,TOR,,WAS,,A. Gill,WAS,MISS Gill Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G1119,2,09:09,TOR,,WAS,,A. Gill,WAS,SUB: Porzingis FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G1119,4,01:36,TOR,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1119,4,01:11,TOR,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0548,4,02:18,MIL,91.0,WAS,114.0,A. Gill,WAS,Gill 1' Running Layup (2 PTS) (Goodwin 1 AST),Made Shot,Running Layup Shot,6,12,1,1,2.0,2.0,v
+S2223-G0548,4,01:32,MIL,,WAS,,A. Gill,WAS,Gill S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0548,4,00:29.600000,MIL,,WAS,,A. Gill,WAS,Gill S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0973,1,08:42,WAS,,MIL,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0973,1,08:13,WAS,,MIL,,A. Gill,WAS,Gill S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0973,1,08:10,WAS,,MIL,,A. Gill,WAS,Gill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0973,1,07:34,WAS,,MIL,,A. Gill,WAS,MISS Gill 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,45,24,1,3.0,0.0,h
+S2223-G0973,1,05:48,WAS,,MIL,,A. Gill,WAS,Gill REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0973,1,04:51,WAS,,MIL,,A. Gill,WAS,SUB: Avdija FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0973,2,01:19,WAS,,MIL,,A. Gill,WAS,MISS Gill 1' Running Layup,Missed Shot,Running Layup Shot,-4,13,1,1,2.0,0.0,h
+S2223-G0973,2,01:12,WAS,,MIL,,A. Gill,WAS,Gill REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0973,2,01:10,WAS,44.0,MIL,57.0,A. Gill,WAS,Gill 7' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,69,7,1,2.0,2.0,h
+S2223-G0973,3,09:48,WAS,,MIL,,A. Gill,WAS,Gill REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0973,3,09:34,WAS,,MIL,,A. Gill,WAS,MISS Gill 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,37,75,8,1,2.0,0.0,h
+S2223-G0973,3,06:48,WAS,,MIL,,A. Gill,WAS,Gill REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0973,3,06:46,WAS,,MIL,,A. Gill,WAS,Gill Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0973,3,04:41,WAS,,MIL,,A. Gill,WAS,SUB: Goodwin FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0123,1,09:00,WAS,,BKN,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0123,1,08:55,WAS,11.0,BKN,9.0,A. Gill,WAS,Gill 3' Layup (2 PTS),Made Shot,Layup Shot,23,23,3,1,2.0,2.0,h
+S2223-G0123,1,07:18,WAS,,BKN,,A. Gill,WAS,Gill Violation:Defensive Goaltending (M.Myers),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0123,1,04:51,WAS,,BKN,,A. Gill,WAS,SUB: Hachimura FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0123,2,02:57,WAS,,BKN,,A. Gill,WAS,Gill P.FOUL (P1.T3) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2223-G0123,2,02:18,WAS,,BKN,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0123,3,07:45,WAS,,BKN,,A. Gill,WAS,Gill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0123,3,07:23,WAS,,BKN,,A. Gill,WAS,SUB: Kispert FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0123,3,06:59,WAS,,BKN,,A. Gill,WAS,SUB: Beal FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0123,3,01:55,WAS,,BKN,,A. Gill,WAS,Gill REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0123,3,01:39,WAS,,BKN,,A. Gill,WAS,Gill REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0123,3,01:38,WAS,68.0,BKN,89.0,A. Gill,WAS,Gill 5' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,47,-7,5,1,2.0,2.0,h
+S2223-G0123,4,10:21,WAS,,BKN,,A. Gill,WAS,SUB: Gafford FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0123,4,07:07,WAS,,BKN,,A. Gill,WAS,Gill STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0123,4,06:56,WAS,76.0,BKN,111.0,A. Gill,WAS,Gill 4' Turnaround Hook Shot (6 PTS) (Kispert 1 AST),Made Shot,Turnaround Hook Shot,-40,13,4,1,2.0,2.0,h
+S2223-G0123,4,04:30,WAS,82.0,BKN,121.0,A. Gill,WAS,Gill 5' Turnaround Jump Shot (8 PTS) (Kispert 2 AST),Made Shot,Turnaround Jump Shot,32,43,5,1,2.0,2.0,h
+S2223-G0123,4,02:11,WAS,,BKN,,A. Gill,WAS,Gill S.FOUL (P2.PN) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0123,4,01:50,WAS,,BKN,,A. Gill,WAS,MISS Gill 9' Layup,Missed Shot,Layup Shot,64,59,9,1,2.0,0.0,h
+S2223-G0123,4,01:10,WAS,,BKN,,A. Gill,WAS,MISS Gill 10' Floating Jump Shot,Missed Shot,Floating Jump shot,49,90,10,1,2.0,0.0,h
+S2223-G0089,2,11:39,BOS,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0089,2,10:31,BOS,40.0,WAS,19.0,A. Gill,WAS,Gill 10' Floating Jump Shot (2 PTS) (Morris 1 AST),Made Shot,Floating Jump shot,34,96,10,1,2.0,2.0,v
+S2223-G0089,2,09:37,BOS,,WAS,,A. Gill,WAS,Gill REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0089,2,09:07,BOS,,WAS,,A. Gill,WAS,SUB: Beal FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0089,2,02:06,BOS,53.0,WAS,37.0,A. Gill,WAS,Gill Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0089,2,02:06,BOS,53.0,WAS,38.0,A. Gill,WAS,Gill Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0089,2,01:28,BOS,,WAS,,A. Gill,WAS,Gill STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0089,3,11:43,BOS,58.0,WAS,49.0,A. Gill,WAS,Gill 8' Hook Shot (6 PTS) (Beal 5 AST),Made Shot,Hook Shot,-54,60,8,1,2.0,2.0,v
+S2223-G0089,3,11:24,BOS,,WAS,,A. Gill,WAS,Gill P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2223-G0089,3,10:14,BOS,,WAS,,A. Gill,WAS,MISS Gill 25' 3PT Jump Shot,Missed Shot,Jump Shot,107,230,25,1,3.0,0.0,v
+S2223-G0089,3,10:07,BOS,,WAS,,A. Gill,WAS,Gill S.FOUL (P2.T3) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0089,3,09:54,BOS,,WAS,,A. Gill,WAS,Gill REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0089,3,09:53,BOS,63.0,WAS,51.0,A. Gill,WAS,Gill Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0089,3,06:53,BOS,,WAS,,A. Gill,WAS,Gill REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0089,3,05:21,BOS,,WAS,,A. Gill,WAS,Gill REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0089,3,04:46,BOS,,WAS,,A. Gill,WAS,SUB: Barton FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0089,4,08:34,BOS,,WAS,,A. Gill,WAS,MISS Gill 6' Driving Layup,Missed Shot,Driving Layup Shot,-22,52,6,1,2.0,0.0,v
+S2223-G0089,4,05:29,BOS,100.0,WAS,80.0,A. Gill,WAS,Gill 15' Floating Jump Shot (10 PTS) (Beal 8 AST),Made Shot,Floating Jump shot,80,126,15,1,2.0,2.0,v
+S2223-G0089,4,05:13,BOS,,WAS,,A. Gill,WAS,SUB: Gibson FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0912,2,11:36,CHI,,WAS,,A. Gill,WAS,Gill L.B.FOUL (P1.T1) (S.Jelks),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0912,2,08:56,CHI,,WAS,,A. Gill,WAS,MISS Gill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0912,2,08:56,CHI,32.0,WAS,28.0,A. Gill,WAS,Gill Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0912,2,07:21,CHI,,WAS,,A. Gill,WAS,SUB: Gibson FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0912,4,02:44,CHI,,WAS,,A. Gill,WAS,Gill S.FOUL (P2.T4) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0912,4,01:10,CHI,99.0,WAS,81.0,A. Gill,WAS,Gill Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0912,4,01:10,CHI,99.0,WAS,82.0,A. Gill,WAS,Gill Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0912,4,00:24.600000,CHI,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0912,4,00:24.100000,CHI,,WAS,,A. Gill,WAS,MISS Gill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0912,4,00:24.100000,CHI,,WAS,,A. Gill,WAS,MISS Gill Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1179,1,08:19,WAS,10.0,MIL,10.0,A. Gill,WAS,Gill 29' 3PT Jump Shot (3 PTS) (Goodwin 2 AST),Made Shot,Jump Shot,-158,239,29,1,3.0,3.0,h
+S2223-G1179,1,07:33,WAS,,MIL,,A. Gill,WAS,Gill Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1179,1,06:01,WAS,,MIL,,A. Gill,WAS,MISS Gill 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-18,17,2,1,2.0,0.0,h
+S2223-G1179,1,05:30,WAS,,MIL,,A. Gill,WAS,Gill P.FOUL (P1.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2223-G1179,1,05:30,WAS,,MIL,,A. Gill,WAS,SUB: Huff FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G1179,2,00:36.200000,WAS,,MIL,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1179,3,11:39,WAS,,MIL,,A. Gill,WAS,Gill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1179,3,11:37,WAS,,MIL,,A. Gill,WAS,MISS Gill 2' Layup,Missed Shot,Layup Shot,-11,16,2,1,2.0,0.0,h
+S2223-G1179,3,09:46,WAS,67.0,MIL,85.0,A. Gill,WAS,Gill Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1179,3,09:46,WAS,68.0,MIL,85.0,A. Gill,WAS,Gill Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1179,3,09:34,WAS,,MIL,,A. Gill,WAS,Gill S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1179,3,09:30,WAS,,MIL,,A. Gill,WAS,Gill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1179,3,05:26,WAS,75.0,MIL,96.0,A. Gill,WAS,Gill Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1179,3,05:26,WAS,,MIL,,A. Gill,WAS,MISS Gill Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1179,3,05:00,WAS,77.0,MIL,96.0,A. Gill,WAS,Gill 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,16,11,2,1,2.0,2.0,h
+S2223-G1179,3,05:00,WAS,,MIL,,A. Gill,WAS,MISS Gill Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1179,3,03:16,WAS,,MIL,,A. Gill,WAS,SUB: Cooks FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0142,3,01:25,MEM,,WAS,,A. Gill,WAS,Gill STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0142,3,00:41.200000,MEM,,WAS,,A. Gill,WAS,Gill P.FOUL (P1.PN) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2223-G0142,3,00:05.400000,MEM,,WAS,,A. Gill,WAS,SUB: Porzingis FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G1204,1,07:43,WAS,,MIA,,A. Gill,WAS,MISS Gill 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,58,6,1,2.0,0.0,h
+S2223-G1204,1,04:41,WAS,19.0,MIA,17.0,A. Gill,WAS,Gill 1' Driving Layup (2 PTS) (Gafford 1 AST),Made Shot,Driving Layup Shot,-6,13,1,1,2.0,2.0,h
+S2223-G1204,1,03:46,WAS,,MIA,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1204,1,03:39,WAS,,MIA,,A. Gill,WAS,Gill Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1204,1,03:11,WAS,23.0,MIA,17.0,A. Gill,WAS,Gill 9' Turnaround Jump Shot (4 PTS) (Gafford 2 AST),Made Shot,Turnaround Jump Shot,89,-5,9,1,2.0,2.0,h
+S2223-G1204,1,02:36,WAS,,MIA,,A. Gill,WAS,MISS Gill 3PT Jump Shot,Missed Shot,Jump Shot,-229,33,0,1,3.0,0.0,h
+S2223-G1204,1,02:09,WAS,,MIA,,A. Gill,WAS,SUB: Cooks FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G1204,3,11:10,WAS,,MIA,,A. Gill,WAS,Gill P.FOUL (P1.T1) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G1204,3,10:22,WAS,,MIA,,A. Gill,WAS,MISS Gill 3PT Jump Shot,Missed Shot,Jump Shot,-234,6,0,1,3.0,0.0,h
+S2223-G1204,3,06:12,WAS,,MIA,,A. Gill,WAS,Gill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1204,3,04:54,WAS,,MIA,,A. Gill,WAS,Gill REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1204,3,02:33,WAS,,MIA,,A. Gill,WAS,SUB: Cooks FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0403,1,02:15,WAS,,BKN,,A. Gill,WAS,Gill Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0403,1,02:15,WAS,,BKN,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0403,2,04:06,WAS,,BKN,,A. Gill,WAS,SUB: Goodwin FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0403,4,06:28,WAS,,BKN,,A. Gill,WAS,Gill S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0403,4,06:28,WAS,,BKN,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0004,1,01:10,IND,,WAS,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0004,2,11:45,IND,,WAS,,A. Gill,WAS,Gill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0004,2,11:02,IND,27.0,WAS,38.0,A. Gill,WAS,Gill 1' Reverse Layup (2 PTS) (Barton 1 AST),Made Shot,Reverse Layup Shot,12,5,1,1,2.0,2.0,v
+S2223-G0004,2,08:02,IND,,WAS,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0004,3,09:34,IND,,WAS,,A. Gill,WAS,Gill S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0004,3,08:07,IND,,WAS,,A. Gill,WAS,Gill S.FOUL (P2.T3) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0004,3,08:07,IND,,WAS,,A. Gill,WAS,Lane,Violation,Lane,0,0,0,0,,,v
+S2223-G0004,3,06:19,IND,,WAS,,A. Gill,WAS,Gill BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0004,3,05:47,IND,,WAS,,A. Gill,WAS,SUB: Hachimura FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0004,4,09:24,IND,,WAS,,A. Gill,WAS,Gill S.FOUL (P3.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0004,4,08:13,IND,,WAS,,A. Gill,WAS,MISS Gill 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-59,118,13,1,2.0,0.0,v
+S2223-G0004,4,07:14,IND,,WAS,,A. Gill,WAS,MISS Gill 3PT Jump Shot,Missed Shot,Jump Shot,225,6,0,1,3.0,0.0,v
+S2223-G0004,4,06:47,IND,,WAS,,A. Gill,WAS,SUB: Porzingis FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0478,4,01:36,UTA,120.0,,108.0,A. Gill,WAS,Gill 6' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,22,55,6,1,2.0,2.0,v
+S2223-G0478,4,01:18,UTA,,,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0478,4,00:21.500000,UTA,,,,A. Gill,WAS,MISS Gill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0478,4,00:21.500000,UTA,120.0,,112.0,A. Gill,WAS,Gill Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0823,1,05:12,WAS,,CHA,,A. Gill,WAS,Gill BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0823,1,05:11,WAS,,CHA,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0823,1,02:59,WAS,23.0,CHA,23.0,A. Gill,WAS,Gill 12' Driving Floating Bank Jump Shot (2 PTS) (Beal 4 AST),Made Shot,Driving Floating Bank Jump Shot,-100,68,12,1,2.0,2.0,h
+S2223-G0823,1,01:21,WAS,29.0,CHA,26.0,A. Gill,WAS,Gill 1' Running Layup (4 PTS) (Kispert 1 AST),Made Shot,Running Layup Shot,9,8,1,1,2.0,2.0,h
+S2223-G0823,1,01:21,WAS,30.0,CHA,26.0,A. Gill,WAS,Gill Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0823,3,11:21,WAS,,CHA,,A. Gill,WAS,SUB: Gafford FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0823,3,04:52,WAS,,CHA,,A. Gill,WAS,Gill OFF.Foul (P1) (B.Taylor),Foul,Offensive,0,0,0,0,,,h
+S2223-G0823,3,04:52,WAS,,CHA,,A. Gill,WAS,Gill Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0823,3,01:29,WAS,,CHA,,A. Gill,WAS,Gill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0823,3,01:06,WAS,,CHA,,A. Gill,WAS,MISS Gill 24' 3PT Jump Shot,Missed Shot,Jump Shot,225,84,24,1,3.0,0.0,h
+S2223-G0823,4,09:40,WAS,,CHA,,A. Gill,WAS,Gill REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0823,4,07:35,WAS,100.0,CHA,82.0,A. Gill,WAS,Gill 5' Driving Layup (7 PTS) (Beal 8 AST),Made Shot,Driving Layup Shot,49,13,5,1,2.0,2.0,h
+S2223-G0823,4,06:56,WAS,,CHA,,A. Gill,WAS,SUB: Porzingis FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0823,4,00:44.500000,WAS,,CHA,,A. Gill,WAS,SUB: Goodwin FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G1049,4,09:38,CLE,,WAS,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1049,4,07:33,CLE,,WAS,,A. Gill,WAS,SUB: Porzingis FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0619,1,02:40,WAS,,CHI,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0619,1,02:39,WAS,20.0,CHI,20.0,A. Gill,WAS,Gill 3' Layup (2 PTS),Made Shot,Layup Shot,5,31,3,1,2.0,2.0,h
+S2223-G0619,1,02:24,WAS,,CHI,,A. Gill,WAS,Gill P.FOUL (P1.T3) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2223-G0619,2,10:22,WAS,,CHI,,A. Gill,WAS,Gill S.FOUL (P2.T1) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0619,2,09:39,WAS,,CHI,,A. Gill,WAS,Gill REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0619,2,09:39,WAS,30.0,CHI,36.0,A. Gill,WAS,Gill 5' Layup (4 PTS),Made Shot,Layup Shot,33,37,5,1,2.0,2.0,h
+S2223-G0619,2,09:39,WAS,31.0,CHI,36.0,A. Gill,WAS,Gill Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0619,2,09:07,WAS,32.0,CHI,36.0,A. Gill,WAS,Gill Free Throw 1 of 3 (6 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0619,2,09:07,WAS,33.0,CHI,36.0,A. Gill,WAS,Gill Free Throw 2 of 3 (7 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0619,2,09:07,WAS,34.0,CHI,36.0,A. Gill,WAS,Gill Free Throw 3 of 3 (8 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2223-G0619,2,06:05,WAS,,CHI,,A. Gill,WAS,MISS Gill 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,34,50,6,1,2.0,0.0,h
+S2223-G0619,2,05:23,WAS,,CHI,,A. Gill,WAS,MISS Gill 25' 3PT Jump Shot,Missed Shot,Jump Shot,213,132,25,1,3.0,0.0,h
+S2223-G0619,2,05:11,WAS,,CHI,,A. Gill,WAS,Gill S.FOUL (P3.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0619,2,05:09,WAS,,CHI,,A. Gill,WAS,Gill REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0619,2,04:46,WAS,42.0,CHI,44.0,A. Gill,WAS,Gill 3' Layup (10 PTS) (Avdija 1 AST),Made Shot,Layup Shot,-12,30,3,1,2.0,2.0,h
+S2223-G0619,2,04:09,WAS,44.0,CHI,46.0,A. Gill,WAS,Gill 3' Layup (12 PTS) (Avdija 2 AST),Made Shot,Layup Shot,33,5,3,1,2.0,2.0,h
+S2223-G0619,2,03:57,WAS,,CHI,,A. Gill,WAS,SUB: Gibson FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0619,3,04:36,WAS,71.0,CHI,72.0,A. Gill,WAS,Gill 3' Layup (14 PTS) (Goodwin 1 AST),Made Shot,Layup Shot,-4,29,3,1,2.0,2.0,h
+S2223-G0619,3,03:08,WAS,77.0,CHI,73.0,A. Gill,WAS,Gill 3' Floating Jump Shot (16 PTS) (Kuzma 2 AST),Made Shot,Floating Jump shot,23,26,3,1,2.0,2.0,h
+S2223-G0619,3,03:08,WAS,,CHI,,A. Gill,WAS,MISS Gill Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0619,4,11:46,WAS,,CHI,,A. Gill,WAS,MISS Gill 3PT Jump Shot,Missed Shot,Jump Shot,-232,27,0,1,3.0,0.0,h
+S2223-G0619,4,11:08,WAS,,CHI,,A. Gill,WAS,Gill REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0619,4,11:07,WAS,,CHI,,A. Gill,WAS,MISS Gill 3' Layup,Missed Shot,Layup Shot,-23,17,3,1,2.0,0.0,h
+S2223-G0619,4,10:09,WAS,89.0,CHI,82.0,A. Gill,WAS,Gill 4' Driving Finger Roll Layup (18 PTS) (Goodwin 2 AST),Made Shot,Driving Finger Roll Layup Shot,-32,20,4,1,2.0,2.0,h
+S2223-G0619,4,08:03,WAS,,CHI,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0422,1,00:36.300000,DEN,33.0,WAS,31.0,A. Gill,WAS,Gill 1' Running Dunk (2 PTS) (Barton 1 AST),Made Shot,Running Dunk Shot,4,-4,1,1,2.0,2.0,v
+S2223-G0422,2,09:02,DEN,,WAS,,A. Gill,WAS,Gill S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0422,2,08:05,DEN,,WAS,,A. Gill,WAS,Gill STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0422,2,07:34,DEN,,WAS,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0422,2,07:18,DEN,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0422,2,07:12,DEN,,WAS,,A. Gill,WAS,MISS Gill 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,23,24,1,3.0,0.0,v
+S2223-G0422,2,07:11,DEN,,WAS,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0422,3,01:53,DEN,99.0,WAS,90.0,A. Gill,WAS,Gill 3' Cutting Layup Shot (4 PTS) (Barton 9 AST),Made Shot,Cutting Layup Shot,12,32,3,1,2.0,2.0,v
+S2223-G0422,4,00:49.200000,DEN,139.0,WAS,128.0,A. Gill,WAS,Gill 3' Running Layup (6 PTS) (Goodwin 6 AST),Made Shot,Running Layup Shot,-26,10,3,1,2.0,2.0,v
+S2223-G0265,2,07:27,MIA,,WAS,,A. Gill,WAS,Gill S.FOUL (P1.T3) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0265,2,05:18,MIA,,WAS,,A. Gill,WAS,Gill Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0265,2,04:54,MIA,,WAS,,A. Gill,WAS,SUB: Goodwin FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0265,3,02:22,MIA,,WAS,,A. Gill,WAS,Gill BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0265,3,02:19,MIA,,WAS,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0265,4,11:18,MIA,,WAS,,A. Gill,WAS,Gill STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0265,4,11:13,MIA,,WAS,,A. Gill,WAS,Gill L.B.FOUL (P2.T2) (S.Wall),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0265,4,09:32,MIA,,WAS,,A. Gill,WAS,Gill BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0265,4,09:19,MIA,89.0,WAS,88.0,A. Gill,WAS,Gill 3' Cutting Layup Shot (2 PTS) (Avdija 8 AST),Made Shot,Cutting Layup Shot,21,25,3,1,2.0,2.0,v
+S2223-G0265,4,06:44,MIA,,WAS,,A. Gill,WAS,Gill Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0265,4,06:44,MIA,,WAS,,A. Gill,WAS,SUB: Kispert FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0438,3,05:59,LAC,,WAS,,A. Gill,WAS,Gill P.FOUL (P1.PN) (T.Ricks),Foul,Personal,0,0,0,0,,,v
+S2223-G0438,3,03:27,LAC,,WAS,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0300,1,03:51,WAS,,MIN,,A. Gill,WAS,Gill S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G0300,1,03:31,WAS,,MIN,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0300,3,03:25,WAS,,MIN,,A. Gill,WAS,MISS Gill 3' Layup,Missed Shot,Layup Shot,-34,4,3,1,2.0,0.0,h
+S2223-G0300,3,03:24,WAS,,MIN,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0300,3,03:22,WAS,100.0,MIN,84.0,A. Gill,WAS,Gill 4' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,-37,11,4,1,2.0,2.0,h
+S2223-G0300,3,02:43,WAS,,MIN,,A. Gill,WAS,MISS Gill 7' Hook Shot,Missed Shot,Hook Shot,42,55,7,1,2.0,0.0,h
+S2223-G0300,3,00:46.300000,WAS,,MIN,,A. Gill,WAS,SUB: Beal FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0300,3,00:00.300000,WAS,,MIN,,A. Gill,WAS,Gill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0300,4,11:36,WAS,,MIN,,A. Gill,WAS,MISS Gill 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,224,67,0,1,3.0,0.0,h
+S2223-G0300,4,10:30,WAS,114.0,MIN,99.0,A. Gill,WAS,Gill 2' Dunk (4 PTS) (Morris 5 AST),Made Shot,Dunk Shot,-7,15,2,1,2.0,2.0,h
+S2223-G0300,4,09:37,WAS,,MIN,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0300,4,02:58,WAS,,MIN,,A. Gill,WAS,SUB: Carey Jr. FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0584,4,01:43,OKC,,WAS,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1028,4,01:27,WAS,,DET,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1028,4,01:24,WAS,,DET,,A. Gill,WAS,Gill Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1028,4,00:57.400000,WAS,116.0,DET,95.0,A. Gill,WAS,Gill Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1028,4,00:57.400000,WAS,117.0,DET,95.0,A. Gill,WAS,Gill Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0052,2,01:04,WAS,,DET,,A. Gill,WAS,MISS Gill 25' 3PT Jump Shot,Missed Shot,Jump Shot,224,116,25,1,3.0,0.0,h
+S2223-G0052,4,02:18,WAS,117.0,DET,97.0,A. Gill,WAS,Gill Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0052,4,02:18,WAS,118.0,DET,97.0,A. Gill,WAS,Gill Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0389,1,01:27,WAS,,,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0389,1,00:23.300000,WAS,29.0,,26.0,A. Gill,WAS,Gill 3' Running Layup (2 PTS) (Dotson 2 AST),Made Shot,Running Layup Shot,-2,30,3,1,2.0,2.0,h
+S2223-G0389,2,11:02,WAS,33.0,,28.0,A. Gill,WAS,Gill Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0389,2,11:02,WAS,34.0,,28.0,A. Gill,WAS,Gill Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0389,2,10:16,WAS,,,,A. Gill,WAS,SUB: Gibson FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0389,2,02:41,WAS,,,,A. Gill,WAS,Gill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0389,2,02:25,WAS,,,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0389,3,05:39,WAS,,,,A. Gill,WAS,Gill P.FOUL (P1.T3) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2223-G0389,3,04:09,WAS,,,,A. Gill,WAS,Gill S.FOUL (P2.T4) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0389,3,00:26.900000,WAS,,,,A. Gill,WAS,Gill REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0809,1,01:51,WAS,,CLE,,A. Gill,WAS,Gill OFF.Foul (P1) (D.Guthrie),Foul,Offensive,0,0,0,0,,,h
+S2223-G0809,1,01:51,WAS,,CLE,,A. Gill,WAS,Gill Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0809,1,01:20,WAS,20.0,CLE,32.0,A. Gill,WAS,Gill 3PT Jump Shot (3 PTS) (Nunn 2 AST),Made Shot,Jump Shot,-229,38,0,1,3.0,3.0,h
+S2223-G0809,2,08:35,WAS,,CLE,,A. Gill,WAS,SUB: Avdija FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0809,4,11:45,WAS,,CLE,,A. Gill,WAS,Gill S.FOUL (P2.T1) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0809,4,05:33,WAS,,CLE,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0809,4,05:33,WAS,87.0,CLE,110.0,A. Gill,WAS,Gill Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0809,4,04:34,WAS,,CLE,,A. Gill,WAS,MISS Gill 9' Running Jump Shot,Missed Shot,Running Jump Shot,38,80,9,1,2.0,0.0,h
+S2223-G0809,4,01:24,WAS,,CLE,,A. Gill,WAS,MISS Gill 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,6,82,8,1,2.0,0.0,h
+S2223-G0809,4,01:23,WAS,,CLE,,A. Gill,WAS,Gill REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0809,4,00:50.600000,WAS,89.0,CLE,114.0,A. Gill,WAS,Gill Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0809,4,00:50.600000,WAS,,CLE,,A. Gill,WAS,MISS Gill Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0872,4,01:01,POR,99.0,WAS,123.0,A. Gill,WAS,Gill 9' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,7,85,9,1,2.0,2.0,v
+S2223-G1222,1,03:54,WAS,33.0,HOU,20.0,A. Gill,WAS,Gill 5' Driving Layup (2 PTS) (Jackson 2 AST),Made Shot,Driving Layup Shot,23,46,5,1,2.0,2.0,h
+S2223-G1222,1,02:58,WAS,,HOU,,A. Gill,WAS,Gill S.FOUL (P1.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G1222,2,11:16,WAS,,HOU,,A. Gill,WAS,SUB: Todd FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G1222,2,04:18,WAS,58.0,HOU,47.0,A. Gill,WAS,Gill 4' Driving Hook Shot (4 PTS),Made Shot,Driving Hook Shot,-2,36,4,1,2.0,2.0,h
+S2223-G1222,2,04:08,WAS,,HOU,,A. Gill,WAS,Gill S.FOUL (P2.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G1222,2,02:33,WAS,,HOU,,A. Gill,WAS,MISS Gill 25' 3PT Jump Shot,Missed Shot,Jump Shot,123,221,25,1,3.0,0.0,h
+S2223-G1222,2,02:05,WAS,,HOU,,A. Gill,WAS,MISS Gill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1222,2,02:05,WAS,61.0,HOU,51.0,A. Gill,WAS,Gill Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1222,2,00:00,WAS,,HOU,,A. Gill,WAS,Gill S.FOUL (P3.T4) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2223-G1222,3,06:14,WAS,,HOU,,A. Gill,WAS,MISS Gill 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,11,50,5,1,2.0,0.0,h
+S2223-G1222,3,04:05,WAS,,HOU,,A. Gill,WAS,MISS Gill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1222,3,04:05,WAS,77.0,HOU,81.0,A. Gill,WAS,Gill Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1222,3,03:30,WAS,,HOU,,A. Gill,WAS,MISS Gill 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-28,183,19,1,2.0,0.0,h
+S2223-G1222,3,03:00,WAS,81.0,HOU,81.0,A. Gill,WAS,Gill 4' Layup (8 PTS) (Davis 7 AST),Made Shot,Layup Shot,10,34,4,1,2.0,2.0,h
+S2223-G1222,3,02:25,WAS,,HOU,,A. Gill,WAS,Gill STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1222,3,02:22,WAS,,HOU,,A. Gill,WAS,MISS Gill 3' Running Layup,Missed Shot,Running Layup Shot,5,34,3,1,2.0,0.0,h
+S2223-G1222,4,11:34,WAS,,HOU,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1222,4,11:14,WAS,,HOU,,A. Gill,WAS,MISS Gill 28' 3PT Jump Shot,Missed Shot,Jump Shot,131,253,28,1,3.0,0.0,h
+S2223-G1222,4,10:43,WAS,,HOU,,A. Gill,WAS,Gill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1222,4,08:23,WAS,,HOU,,A. Gill,WAS,SUB: Goodwin FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0956,3,06:12,WAS,,TOR,,A. Gill,WAS,Gill L.B.FOUL (P1.T3) (B.Kennedy),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0956,3,04:24,WAS,,TOR,,A. Gill,WAS,Gill P.FOUL (P2.T4) (D.Mosher),Foul,Personal,0,0,0,0,,,h
+S2223-G0956,3,04:14,WAS,,TOR,,A. Gill,WAS,Gill S.FOUL (P3.PN) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0956,3,04:00,WAS,,TOR,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0956,3,04:00,WAS,73.0,TOR,75.0,A. Gill,WAS,Gill Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0956,3,04:00,WAS,74.0,TOR,75.0,A. Gill,WAS,Gill Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0956,3,03:36,WAS,,TOR,,A. Gill,WAS,Gill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0956,3,01:33,WAS,,TOR,,A. Gill,WAS,MISS Gill 3PT Jump Shot,Missed Shot,Jump Shot,232,-4,0,1,3.0,0.0,h
+S2223-G0956,3,00:04.900000,WAS,78.0,TOR,83.0,A. Gill,WAS,Gill Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0956,3,00:04.900000,WAS,79.0,TOR,83.0,A. Gill,WAS,Gill Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0717,1,05:30,DAL,,WAS,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0717,1,02:55,DAL,,WAS,,A. Gill,WAS,Gill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0717,1,01:17,DAL,,WAS,,A. Gill,WAS,Gill S.FOUL (P1.T4) (D.Mosher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0717,2,10:55,DAL,,WAS,,A. Gill,WAS,MISS Gill 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,7,65,7,1,2.0,0.0,v
+S2223-G0717,2,10:46,DAL,,WAS,,A. Gill,WAS,SUB: Gibson FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0717,2,00:20.600000,DAL,60.0,WAS,63.0,A. Gill,WAS,Gill 4' Cutting Finger Roll Layup Shot (2 PTS) (Beal 2 AST),Made Shot,Cutting Finger Roll Layup Shot,-15,33,4,1,2.0,2.0,v
+S2223-G0717,3,07:23,DAL,,WAS,,A. Gill,WAS,Gill P.FOUL (P2.PN) (D.Mosher),Foul,Personal,0,0,0,0,,,v
+S2223-G0717,3,05:35,DAL,,WAS,,A. Gill,WAS,Gill S.FOUL (P3.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0717,3,03:18,DAL,,WAS,,A. Gill,WAS,Gill S.FOUL (P4.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0717,3,00:11.600000,DAL,95.0,WAS,98.0,A. Gill,WAS,Gill Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0717,3,00:11.600000,DAL,95.0,WAS,99.0,A. Gill,WAS,Gill Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0717,4,05:32,DAL,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0717,4,05:29,DAL,115.0,WAS,117.0,A. Gill,WAS,Gill 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,9,21,2,1,2.0,2.0,v
+S2223-G0717,4,04:42,DAL,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0717,4,04:42,DAL,,WAS,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0717,4,00:10.800000,DAL,,WAS,,A. Gill,WAS,SUB: Morris FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0605,4,03:26,WAS,105.0,NOP,123.0,A. Gill,WAS,Gill 3' Running Dunk (2 PTS) (Avdija 3 AST),Made Shot,Running Dunk Shot,-5,25,3,1,2.0,2.0,h
+S2223-G0605,4,00:12,WAS,,NOP,,A. Gill,WAS,MISS Gill 3PT Jump Shot,Missed Shot,Jump Shot,-232,4,0,1,3.0,0.0,h
+S2223-G1151,2,11:41,WAS,,ORL,,A. Gill,WAS,MISS Gill 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,-20,78,8,1,2.0,0.0,h
+S2223-G1151,2,11:40,WAS,,ORL,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1151,2,11:37,WAS,34.0,ORL,24.0,A. Gill,WAS,Gill 4' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,-37,15,4,1,2.0,2.0,h
+S2223-G1151,2,09:13,WAS,,ORL,,A. Gill,WAS,MISS Gill 25' 3PT Jump Shot,Missed Shot,Jump Shot,234,100,25,1,3.0,0.0,h
+S2223-G1151,2,07:39,WAS,,ORL,,A. Gill,WAS,Gill REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1151,2,07:34,WAS,,ORL,,A. Gill,WAS,MISS Gill 2' Running Layup,Missed Shot,Running Layup Shot,-17,14,2,1,2.0,0.0,h
+S2223-G1151,2,06:57,WAS,,ORL,,A. Gill,WAS,Gill S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2223-G1151,2,05:26,WAS,,ORL,,A. Gill,WAS,SUB: Wright FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G1151,3,03:11,WAS,,ORL,,A. Gill,WAS,Gill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1151,4,10:52,WAS,,ORL,,A. Gill,WAS,Gill Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1151,4,09:20,WAS,,ORL,,A. Gill,WAS,MISS Gill 4' Layup,Missed Shot,Layup Shot,32,29,4,1,2.0,0.0,h
+S2223-G1151,4,09:09,WAS,,ORL,,A. Gill,WAS,SUB: Avdija FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0039,1,00:28.600000,CLE,,WAS,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0039,2,09:19,CLE,,WAS,,A. Gill,WAS,Gill S.FOUL (P1.T1) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2223-G0039,2,09:02,CLE,,WAS,,A. Gill,WAS,MISS Gill 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,227,53,0,1,3.0,0.0,v
+S2223-G0039,2,08:19,CLE,,WAS,,A. Gill,WAS,Gill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0039,2,08:10,CLE,,WAS,,A. Gill,WAS,MISS Gill 3PT Jump Shot,Missed Shot,Jump Shot,225,19,0,1,3.0,0.0,v
+S2223-G0039,2,07:40,CLE,40.0,WAS,37.0,A. Gill,WAS,Gill 2' Cutting Layup Shot (2 PTS) (Wright 2 AST),Made Shot,Cutting Layup Shot,2,21,2,1,2.0,2.0,v
+S2223-G0039,2,07:27,CLE,,WAS,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0039,4,08:46,CLE,,WAS,,A. Gill,WAS,SUB: Porzingis FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0097,1,11:45,WAS,,PHI,,A. Gill,WAS,MISS Gill 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,55,6,1,2.0,0.0,h
+S2223-G0097,1,09:14,WAS,7.0,PHI,8.0,A. Gill,WAS,Gill 3' Layup (2 PTS) (Beal 1 AST),Made Shot,Layup Shot,28,18,3,1,2.0,2.0,h
+S2223-G0097,1,07:59,WAS,14.0,PHI,14.0,A. Gill,WAS,Gill 3' Driving Layup (4 PTS) (Porzingis 1 AST),Made Shot,Driving Layup Shot,25,5,3,1,2.0,2.0,h
+S2223-G0097,1,07:04,WAS,,PHI,,A. Gill,WAS,MISS Gill 3PT Jump Shot,Missed Shot,Jump Shot,-228,-3,0,1,3.0,0.0,h
+S2223-G0097,1,06:56,WAS,,PHI,,A. Gill,WAS,MISS Gill 1' Reverse Layup,Missed Shot,Reverse Layup Shot,-1,11,1,1,2.0,0.0,h
+S2223-G0097,1,06:10,WAS,,PHI,,A. Gill,WAS,Gill Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0097,1,06:01,WAS,18.0,PHI,21.0,A. Gill,WAS,Gill 3' Running Dunk (6 PTS) (Avdija 1 AST),Made Shot,Running Dunk Shot,-22,15,3,1,2.0,2.0,h
+S2223-G0097,1,05:03,WAS,,PHI,,A. Gill,WAS,SUB: Hachimura FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0097,3,10:45,WAS,,PHI,,A. Gill,WAS,MISS Gill 10' Floating Jump Shot,Missed Shot,Floating Jump shot,65,78,10,1,2.0,0.0,h
+S2223-G0097,3,10:21,WAS,,PHI,,A. Gill,WAS,MISS Gill 24' 3PT Jump Shot,Missed Shot,Jump Shot,-241,-5,24,1,3.0,0.0,h
+S2223-G0097,3,05:51,WAS,67.0,PHI,68.0,A. Gill,WAS,Gill 24' 3PT Jump Shot (9 PTS) (Morris 3 AST),Made Shot,Jump Shot,-240,13,24,1,3.0,3.0,h
+S2223-G0097,3,03:45,WAS,,PHI,,A. Gill,WAS,Gill Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0097,3,03:41,WAS,,PHI,,A. Gill,WAS,SUB: Hachimura FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0097,4,06:37,WAS,,PHI,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0097,4,05:26,WAS,,PHI,,A. Gill,WAS,Gill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0097,4,01:57,WAS,,PHI,,A. Gill,WAS,Gill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0097,4,01:04,WAS,,PHI,,A. Gill,WAS,Gill REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0097,4,01:04,WAS,108.0,PHI,116.0,A. Gill,WAS,Gill Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0074,3,00:59.600000,WAS,90.0,IND,97.0,A. Gill,WAS,Gill 24' 3PT Jump Shot (3 PTS) (Barton 3 AST),Made Shot,Jump Shot,-234,55,24,1,3.0,3.0,h
+S2223-G0074,3,00:13.800000,WAS,,IND,,A. Gill,WAS,Gill P.FOUL (P1.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2223-G0074,4,00:52.500000,WAS,,IND,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0561,4,00:24,MIL,123.0,,113.0,A. Gill,WAS,Gill 1' Running Layup (2 PTS) (Goodwin 2 AST),Made Shot,Running Layup Shot,-4,5,1,1,2.0,2.0,v
+S2223-G1059,2,09:49,WAS,,SAC,,A. Gill,WAS,Gill S.FOUL (P1.T1) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G1059,2,09:13,WAS,41.0,SAC,45.0,A. Gill,WAS,Gill 1' Layup (2 PTS) (Avdija 3 AST),Made Shot,Layup Shot,12,6,1,1,2.0,2.0,h
+S2223-G1059,2,08:09,WAS,,SAC,,A. Gill,WAS,SUB: Gafford FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G1059,3,05:47,WAS,,SAC,,A. Gill,WAS,Gill S.FOUL (P2.PN) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G1059,3,05:24,WAS,,SAC,,A. Gill,WAS,Gill P.FOUL (P3.PN) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2223-G1059,3,04:58,WAS,,SAC,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1059,3,03:10,WAS,,SAC,,A. Gill,WAS,Gill BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1059,3,03:03,WAS,82.0,SAC,97.0,A. Gill,WAS,Gill Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1059,3,03:03,WAS,83.0,SAC,97.0,A. Gill,WAS,Gill Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1059,3,02:49,WAS,,SAC,,A. Gill,WAS,Gill BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1059,3,01:40,WAS,,SAC,,A. Gill,WAS,Gill REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1059,3,01:26,WAS,,SAC,,A. Gill,WAS,MISS Gill 27' 3PT Jump Shot,Missed Shot,Jump Shot,-28,264,27,1,3.0,0.0,h
+S2223-G1059,3,00:41.100000,WAS,,SAC,,A. Gill,WAS,Gill REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1059,3,00:02.200000,WAS,,SAC,,A. Gill,WAS,Gill STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1059,3,00:00.500000,WAS,91.0,SAC,104.0,A. Gill,WAS,Gill Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1059,3,00:00.500000,WAS,92.0,SAC,104.0,A. Gill,WAS,Gill Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1059,4,11:00,WAS,,SAC,,A. Gill,WAS,Gill REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1059,4,10:30,WAS,,SAC,,A. Gill,WAS,Gill REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1059,4,10:27,WAS,,SAC,,A. Gill,WAS,MISS Gill 4' Running Layup,Missed Shot,Running Layup Shot,16,36,4,1,2.0,0.0,h
+S2223-G1059,4,09:28,WAS,,SAC,,A. Gill,WAS,Gill REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1059,4,08:48,WAS,,SAC,,A. Gill,WAS,SUB: Gafford FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0849,4,02:26,WAS,,IND,,A. Gill,WAS,Gill Out of Bounds - Bad Pass Turnover Turnover (P1.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0326,3,03:57,CHA,,WAS,,A. Gill,WAS,Gill S.FOUL (P1.T4) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0326,3,02:49,CHA,,WAS,,A. Gill,WAS,Gill S.FOUL (P2.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0326,3,02:25,CHA,,WAS,,A. Gill,WAS,Gill REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0326,3,02:19,CHA,100.0,WAS,80.0,A. Gill,WAS,Gill Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0326,3,02:19,CHA,100.0,WAS,81.0,A. Gill,WAS,Gill Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1130,1,02:58,WAS,,BOS,,A. Gill,WAS,Gill Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1130,1,01:09,WAS,,BOS,,A. Gill,WAS,MISS Gill 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,-1,67,7,1,2.0,0.0,h
+S2223-G1130,1,01:02,WAS,29.0,BOS,20.0,A. Gill,WAS,Gill 3' Cutting Finger Roll Layup Shot (2 PTS) (Nunn 1 AST),Made Shot,Cutting Finger Roll Layup Shot,6,26,3,1,2.0,2.0,h
+S2223-G1130,3,00:05.700000,WAS,99.0,BOS,76.0,A. Gill,WAS,Gill 3' Layup (4 PTS) (Gibson 1 AST),Made Shot,Layup Shot,-18,20,3,1,2.0,2.0,h
+S2223-G0367,2,10:09,CHI,,WAS,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0367,2,09:14,CHI,,WAS,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,v
+S2223-G0019,2,11:15,,,CHI,,A. Gill,WAS,Gill REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0019,2,08:08,,,CHI,,A. Gill,WAS,SUB: Kuzma FOR Gill,Substitution,,0,0,0,0,,,h
+S2223-G0019,3,00:59.400000,,,CHI,,A. Gill,WAS,Gill P.FOUL (P1.PN) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2223-G0019,4,10:33,,81.0,CHI,76.0,A. Gill,WAS,Gill 3' Cutting Finger Roll Layup Shot (2 PTS) (Wright 2 AST),Made Shot,Cutting Finger Roll Layup Shot,-4,33,3,1,2.0,2.0,h
+S2223-G0019,4,09:11,,,CHI,,A. Gill,WAS,Gill S.FOUL (P2.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0019,4,08:08,,,CHI,,A. Gill,WAS,SUB: Beal FOR Gill,Substitution,,0,0,0,0,,,h

@@ -1,0 +1,275 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0348,2,10:16,NYK,,CLE,,R. Lopez,CLE,Lopez OFF.Foul (P1) (M.Dagher),Foul,Offensive,0,0,0,0,,,v
+S2223-G0348,2,10:16,NYK,,CLE,,R. Lopez,CLE,Lopez Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0348,2,09:22,NYK,,CLE,,R. Lopez,CLE,SUB: Osman FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0295,1,11:43,DET,,CLE,,R. Lopez,CLE,MISS Lopez 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,22,55,6,1,2.0,0.0,v
+S2223-G0295,1,10:00,DET,,CLE,,R. Lopez,CLE,Lopez S.FOUL (P1.T1) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0295,1,09:22,DET,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0295,1,09:21,DET,4.0,CLE,2.0,R. Lopez,CLE,Lopez 1' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,-2,6,1,1,2.0,2.0,v
+S2223-G0295,1,08:21,DET,,CLE,,R. Lopez,CLE,Lopez S.FOUL (P2.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0295,1,08:12,DET,,CLE,,R. Lopez,CLE,SUB: Osman FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0914,4,04:26,CLE,,TOR,,R. Lopez,CLE,Lopez Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0914,4,03:53,CLE,114.0,TOR,86.0,R. Lopez,CLE,Lopez 3' Layup (2 PTS) (Stevens 1 AST),Made Shot,Layup Shot,23,17,3,1,2.0,2.0,h
+S2223-G0390,1,01:55,CLE,,OKC,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0390,2,11:04,CLE,30.0,OKC,23.0,R. Lopez,CLE,Lopez 5' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,44,18,5,1,2.0,2.0,h
+S2223-G0390,2,10:47,CLE,,OKC,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0390,2,10:47,CLE,,OKC,,R. Lopez,CLE,Lopez Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0390,2,09:37,CLE,,OKC,,R. Lopez,CLE,SUB: E. Mobley FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0216,1,00:33.100000,MIL,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0216,1,00:08.900000,MIL,,CLE,,R. Lopez,CLE,SUB: LeVert FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0216,2,11:33,MIL,,CLE,,R. Lopez,CLE,Lopez S.FOUL (P1.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2223-G0216,2,10:37,MIL,,CLE,,R. Lopez,CLE,MISS Lopez 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,17,49,5,1,2.0,0.0,v
+S2223-G0216,2,10:30,MIL,,CLE,,R. Lopez,CLE,SUB: Stevens FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0216,3,05:43,MIL,,CLE,,R. Lopez,CLE,MISS Lopez 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,55,45,7,1,2.0,0.0,v
+S2223-G0216,3,03:51,MIL,,CLE,,R. Lopez,CLE,SUB: Okoro FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0754,4,09:06,CLE,,LAC,,R. Lopez,CLE,Lopez OFF.Foul (P1) (T.Ford),Foul,Offensive,0,0,0,0,,,h
+S2223-G0754,4,09:06,CLE,,LAC,,R. Lopez,CLE,Lopez Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0754,4,08:07,CLE,,LAC,,R. Lopez,CLE,SUB: Wade FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0754,4,05:55,CLE,,LAC,,R. Lopez,CLE,Lopez L.B.FOUL (P2.T3) (T.Ford),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0754,4,05:47,CLE,,LAC,,R. Lopez,CLE,Lopez L.B.FOUL (P3.PN) (P.Fraher),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0754,4,05:07,CLE,,LAC,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0754,4,04:59,CLE,,LAC,,R. Lopez,CLE,Lopez Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0754,4,04:19,CLE,,LAC,,R. Lopez,CLE,Lopez BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0754,4,02:54,CLE,,LAC,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0754,4,02:39,CLE,116.0,LAC,87.0,R. Lopez,CLE,Lopez 8' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,-26,76,8,1,2.0,2.0,h
+S2223-G0754,4,02:06,CLE,,LAC,,R. Lopez,CLE,Lopez S.FOUL (P4.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0754,4,00:17.500000,CLE,,LAC,,R. Lopez,CLE,Lopez S.FOUL (P5.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G1000,4,00:04.200000,MIA,,CLE,,R. Lopez,CLE,SUB: Rubio FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0484,3,08:48,CLE,,TOR,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0484,3,07:19,CLE,,TOR,,R. Lopez,CLE,Lopez S.FOUL (P1.T3) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0484,3,05:14,CLE,,TOR,,R. Lopez,CLE,MISS Lopez 1' Layup,Missed Shot,Layup Shot,-6,11,1,1,2.0,0.0,h
+S2223-G0484,3,04:12,CLE,70.0,TOR,88.0,R. Lopez,CLE,Lopez 16' Fadeaway Bank Shot (2 PTS) (Neto 3 AST),Made Shot,Fadeaway Bank shot,-123,103,16,1,2.0,2.0,h
+S2223-G0484,3,01:17,CLE,,TOR,,R. Lopez,CLE,Lopez OFF.Foul (P2) (M.Ervin),Foul,Offensive,0,0,0,0,,,h
+S2223-G0484,3,01:17,CLE,,TOR,,R. Lopez,CLE,Lopez Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0312,1,03:14,CLE,,PHI,,R. Lopez,CLE,Lopez S.FOUL (P1.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0312,1,02:57,CLE,18.0,PHI,13.0,R. Lopez,CLE,Lopez 1' Cutting Layup Shot (2 PTS) (Garland 3 AST),Made Shot,Cutting Layup Shot,1,6,1,1,2.0,2.0,h
+S2223-G0312,1,02:28,CLE,,PHI,,R. Lopez,CLE,Lopez Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0312,1,00:12.200000,CLE,,PHI,,R. Lopez,CLE,SUB: Mobley FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0312,2,05:43,CLE,51.0,PHI,35.0,R. Lopez,CLE,Lopez 4' Driving Hook Shot (4 PTS) (Mitchell 3 AST),Made Shot,Driving Hook Shot,38,15,4,1,2.0,2.0,h
+S2223-G0312,2,03:46,CLE,,PHI,,R. Lopez,CLE,Lopez Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0312,2,03:46,CLE,,PHI,,R. Lopez,CLE,SUB: Diakite FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0312,3,02:39,CLE,,PHI,,R. Lopez,CLE,Lopez Lost Ball Turnover (P3.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0312,3,02:03,CLE,,PHI,,R. Lopez,CLE,SUB: Okoro FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0312,3,01:17,CLE,,PHI,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0312,3,01:06,CLE,,PHI,,R. Lopez,CLE,Lopez REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0261,1,03:40,CLE,,POR,,R. Lopez,CLE,Lopez S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0261,1,02:56,CLE,,POR,,R. Lopez,CLE,SUB: Allen FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0261,2,05:51,CLE,,POR,,R. Lopez,CLE,Lopez S.FOUL (P2.T1) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2223-G0261,2,05:04,CLE,,POR,,R. Lopez,CLE,SUB: Garland FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G1154,2,10:56,CLE,51.0,NYK,45.0,R. Lopez,CLE,Lopez 10' Hook Shot (2 PTS) (Rubio 1 AST),Made Shot,Hook Shot,25,92,10,1,2.0,2.0,h
+S2223-G1154,2,10:41,CLE,,NYK,,R. Lopez,CLE,Lopez P.FOUL (P1.T1) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2223-G1154,2,10:33,CLE,,NYK,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1154,2,08:00,CLE,,NYK,,R. Lopez,CLE,SUB: Mobley FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G1154,4,10:45,CLE,,NYK,,R. Lopez,CLE,Lopez P.FOUL (P2.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2223-G1154,4,09:04,CLE,,NYK,,R. Lopez,CLE,SUB: LeVert FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0303,1,06:23,TOR,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0303,1,06:22,TOR,11.0,CLE,14.0,R. Lopez,CLE,Lopez 3' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,-4,27,3,1,2.0,2.0,v
+S2223-G0303,1,05:23,TOR,,CLE,,R. Lopez,CLE,Lopez S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0303,1,00:23.900000,TOR,,CLE,,R. Lopez,CLE,SUB: Wade FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0303,2,11:28,TOR,,CLE,,R. Lopez,CLE,MISS Lopez 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,6,69,7,1,2.0,0.0,v
+S2223-G0303,2,10:27,TOR,,CLE,,R. Lopez,CLE,SUB: Wade FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0303,2,05:47,TOR,38.0,CLE,37.0,R. Lopez,CLE,Lopez Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0303,2,05:47,TOR,38.0,CLE,38.0,R. Lopez,CLE,Lopez Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0303,2,04:08,TOR,,CLE,,R. Lopez,CLE,Lopez Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0303,2,03:09,TOR,,CLE,,R. Lopez,CLE,SUB: LeVert FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0303,3,07:04,TOR,,CLE,,R. Lopez,CLE,MISS Lopez 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,29,52,6,1,2.0,0.0,v
+S2223-G0303,3,03:53,TOR,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0303,3,03:44,TOR,70.0,CLE,62.0,R. Lopez,CLE,Lopez 1' Turnaround Bank Hook Shot (6 PTS),Made Shot,Turnaround Bank Hook Shot,11,4,1,1,2.0,2.0,v
+S2223-G0303,3,02:14,TOR,,CLE,,R. Lopez,CLE,Lopez S.FOUL (P2.PN) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2223-G0303,3,00:48,TOR,,CLE,,R. Lopez,CLE,MISS Lopez 2' Driving Layup,Missed Shot,Driving Layup Shot,13,10,2,1,2.0,0.0,v
+S2223-G0303,3,00:47.900000,TOR,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0303,3,00:47.900000,TOR,80.0,CLE,64.0,R. Lopez,CLE,Lopez Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0303,3,00:47.900000,TOR,80.0,CLE,65.0,R. Lopez,CLE,Lopez Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0303,3,00:34.800000,TOR,,CLE,,R. Lopez,CLE,SUB: Garland FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0552,1,01:30,CLE,,CHI,,R. Lopez,CLE,MISS Lopez 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,47,68,8,1,2.0,0.0,h
+S2223-G0552,2,11:35,CLE,,CHI,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0552,2,11:35,CLE,,CHI,,R. Lopez,CLE,MISS Lopez Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0552,2,11:35,CLE,28.0,CHI,34.0,R. Lopez,CLE,Lopez Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0552,2,10:58,CLE,,CHI,,R. Lopez,CLE,Lopez L.B.FOUL (P1.T1) (S.Mehta),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0552,2,10:31,CLE,,CHI,,R. Lopez,CLE,Lopez Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0552,2,09:23,CLE,,CHI,,R. Lopez,CLE,SUB: Allen FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0552,4,00:03,CLE,,CHI,,R. Lopez,CLE,SUB: Osman FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G1197,1,10:21,ORL,,CLE,,R. Lopez,CLE,Lopez S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G1197,1,08:35,ORL,10.0,CLE,3.0,R. Lopez,CLE,Lopez 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-12,21,2,1,2.0,2.0,v
+S2223-G1197,1,06:16,ORL,,CLE,,R. Lopez,CLE,Lopez BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1197,1,05:54,ORL,,CLE,,R. Lopez,CLE,SUB: Diakite FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G1197,2,06:55,ORL,,CLE,,R. Lopez,CLE,Lopez Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G1197,2,06:45,ORL,,CLE,,R. Lopez,CLE,Lopez S.FOUL (P2.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G1197,2,06:16,ORL,48.0,CLE,47.0,R. Lopez,CLE,Lopez 4' Cutting Dunk Shot (4 PTS) (Merrill 1 AST),Made Shot,Cutting Dunk Shot,1,39,4,1,2.0,2.0,v
+S2223-G1197,2,04:24,ORL,50.0,CLE,54.0,R. Lopez,CLE,Lopez 9' Turnaround Hook Shot (6 PTS),Made Shot,Turnaround Hook Shot,21,90,9,1,2.0,2.0,v
+S2223-G1197,2,04:07,ORL,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1197,2,02:52,ORL,,CLE,,R. Lopez,CLE,SUB: Mobley FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G1197,3,10:28,ORL,,CLE,,R. Lopez,CLE,Lopez STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1197,3,09:01,ORL,57.0,CLE,77.0,R. Lopez,CLE,Lopez 10' Turnaround Hook Shot (8 PTS) (Rubio 5 AST),Made Shot,Turnaround Hook Shot,51,87,10,1,2.0,2.0,v
+S2223-G1197,3,08:53,ORL,,CLE,,R. Lopez,CLE,Lopez S.FOUL (P3.T2) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2223-G1197,3,08:02,ORL,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1197,3,06:09,ORL,,CLE,,R. Lopez,CLE,Lopez P.FOUL (P4.T3) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2223-G1197,3,06:09,ORL,,CLE,,R. Lopez,CLE,SUB: Diakite FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0421,4,00:29.500000,DAL,,CLE,,R. Lopez,CLE,Lopez BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0803,4,01:12,IND,101.0,CLE,122.0,R. Lopez,CLE,Lopez 7' Hook Shot (2 PTS),Made Shot,Hook Shot,17,69,7,1,2.0,2.0,v
+S2223-G0803,4,00:42.900000,IND,,CLE,,R. Lopez,CLE,MISS Lopez 26' 3PT Jump Shot,Missed Shot,Jump Shot,33,258,26,1,3.0,0.0,v
+S2223-G0842,4,00:58.900000,NOP,,CLE,,R. Lopez,CLE,MISS Lopez 3' Hook Shot,Missed Shot,Hook Shot,34,7,3,1,2.0,0.0,v
+S2223-G0090,1,01:27,CLE,,NYK,,R. Lopez,CLE,SUB: Neto FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0090,2,01:26,CLE,,NYK,,R. Lopez,CLE,Lopez BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0090,3,03:34,CLE,78.0,NYK,79.0,R. Lopez,CLE,Lopez 3' Layup (2 PTS) (Neto 3 AST),Made Shot,Layup Shot,-20,20,3,1,2.0,2.0,h
+S2223-G0090,3,03:34,CLE,,NYK,,R. Lopez,CLE,MISS Lopez Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0090,3,01:45,CLE,,NYK,,R. Lopez,CLE,SUB: Love FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0244,4,06:48,CLE,,MIA,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0244,4,04:46,CLE,,MIA,,R. Lopez,CLE,Lopez OFF.Foul (P1) (S.Foster),Foul,Offensive,0,0,0,0,,,h
+S2223-G0244,4,04:46,CLE,,MIA,,R. Lopez,CLE,Lopez Offensive Foul Turnover (P1.T18),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0244,4,03:45,CLE,,MIA,,R. Lopez,CLE,Lopez P.FOUL (P2.T3) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2223-G0244,4,02:12,CLE,111.0,MIA,83.0,R. Lopez,CLE,Lopez 10' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,40,87,10,1,2.0,2.0,h
+S2223-G0248,1,04:28,CLE,23.0,ATL,14.0,R. Lopez,CLE,Lopez 9' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,-66,65,9,1,2.0,2.0,h
+S2223-G0248,1,03:37,CLE,27.0,ATL,18.0,R. Lopez,CLE,Lopez 7' Hook Shot (4 PTS) (Mobley 2 AST),Made Shot,Hook Shot,-22,64,7,1,2.0,2.0,h
+S2223-G0248,1,01:58,CLE,,ATL,,R. Lopez,CLE,SUB: Allen FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0248,2,05:07,CLE,50.0,ATL,45.0,R. Lopez,CLE,Lopez 1' Layup (6 PTS) (Mitchell 5 AST),Made Shot,Layup Shot,5,2,1,1,2.0,2.0,h
+S2223-G0248,2,04:50,CLE,,ATL,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0248,2,04:11,CLE,,ATL,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0248,2,03:35,CLE,,ATL,,R. Lopez,CLE,Lopez S.FOUL (P1.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0248,2,02:38,CLE,,ATL,,R. Lopez,CLE,SUB: Mitchell FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0248,3,02:37,CLE,,ATL,,R. Lopez,CLE,Lopez STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0248,3,02:35,CLE,,ATL,,R. Lopez,CLE,SUB: Allen FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0032,1,03:02,CHI,19.0,CLE,25.0,R. Lopez,CLE,Lopez 6' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,5,55,6,1,2.0,2.0,v
+S2223-G0032,1,01:58,CHI,23.0,CLE,27.0,R. Lopez,CLE,Lopez 5' Turnaround Hook Shot (4 PTS) (Neto 1 AST),Made Shot,Turnaround Hook Shot,5,47,5,1,2.0,2.0,v
+S2223-G0032,1,00:04.400000,CHI,,CLE,,R. Lopez,CLE,SUB: Mitchell FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0032,3,01:34,CHI,77.0,CLE,91.0,R. Lopez,CLE,Lopez 8' Hook Shot (6 PTS) (LeVert 7 AST),Made Shot,Hook Shot,36,66,8,1,2.0,2.0,v
+S2223-G0032,3,00:46.300000,CHI,77.0,CLE,93.0,R. Lopez,CLE,Lopez 1' Layup (8 PTS) (LeVert 8 AST),Made Shot,Layup Shot,11,1,1,1,2.0,2.0,v
+S2223-G0032,4,11:41,CHI,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0032,4,11:41,CHI,79.0,CLE,95.0,R. Lopez,CLE,Lopez Putback Layup (10 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0032,4,11:29,CHI,,CLE,,R. Lopez,CLE,Lopez S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2223-G0032,4,09:15,CHI,,CLE,,R. Lopez,CLE,MISS Lopez 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-78,1,8,1,2.0,0.0,v
+S2223-G0032,4,08:39,CHI,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0032,4,08:00,CHI,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0032,4,07:45,CHI,,CLE,,R. Lopez,CLE,SUB: LeVert FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0032,4,03:51,CHI,,CLE,,R. Lopez,CLE,Lopez BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0032,4,01:10,CHI,96.0,CLE,125.0,R. Lopez,CLE,Lopez 6' Turnaround Hook Shot (12 PTS) (Neto 4 AST),Made Shot,Turnaround Hook Shot,13,59,6,1,2.0,2.0,v
+S2223-G0120,4,03:12,DET,,CLE,,R. Lopez,CLE,Lopez Traveling Turnover (P1.T17),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0120,4,02:44,DET,,CLE,,R. Lopez,CLE,Lopez OFF.Foul (P1) (B.Schwab),Foul,Offensive,0,0,0,0,,,v
+S2223-G0120,4,02:44,DET,,CLE,,R. Lopez,CLE,Lopez Offensive Foul Turnover (P2.T18),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0120,4,00:30,DET,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0822,4,01:18,CLE,110.0,DET,82.0,R. Lopez,CLE,Lopez 7' Hook Shot (2 PTS),Made Shot,Hook Shot,38,59,7,1,2.0,2.0,h
+S2223-G0822,4,00:33.300000,CLE,113.0,DET,82.0,R. Lopez,CLE,Lopez 24' 3PT Jump Shot (5 PTS) (Osman 3 AST),Made Shot,Jump Shot,230,69,24,1,3.0,3.0,h
+S2223-G0896,4,01:31,ATL,133.0,CLE,114.0,R. Lopez,CLE,Lopez 21' Jump Shot (2 PTS),Made Shot,Jump Shot,-168,126,21,1,2.0,2.0,v
+S2223-G0140,2,03:52,LAL,53.0,CLE,47.0,R. Lopez,CLE,Lopez Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0140,2,03:52,LAL,53.0,CLE,48.0,R. Lopez,CLE,Lopez Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0140,2,01:59,LAL,,CLE,,R. Lopez,CLE,MISS Lopez Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0140,2,01:59,LAL,59.0,CLE,53.0,R. Lopez,CLE,Lopez Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0809,4,04:17,WAS,,CLE,,R. Lopez,CLE,Lopez Traveling Turnover (P1.T15),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0809,4,02:43,WAS,87.0,CLE,111.0,R. Lopez,CLE,Lopez Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0809,4,02:43,WAS,87.0,CLE,112.0,R. Lopez,CLE,Lopez Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0809,4,01:21,WAS,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,2,11:15,CLE,,CHA,,R. Lopez,CLE,Lopez Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1218,2,07:56,CLE,34.0,CHA,28.0,R. Lopez,CLE,Lopez Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1218,2,07:56,CLE,35.0,CHA,28.0,R. Lopez,CLE,Lopez Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1218,2,06:57,CLE,,CHA,,R. Lopez,CLE,MISS Lopez 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,13,41,4,1,2.0,0.0,h
+S2223-G1218,2,06:08,CLE,,CHA,,R. Lopez,CLE,Lopez S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G1218,2,05:45,CLE,,CHA,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1218,2,05:43,CLE,43.0,CHA,33.0,R. Lopez,CLE,Lopez 6' Hook Shot (4 PTS),Made Shot,Hook Shot,6,59,6,1,2.0,2.0,h
+S2223-G1218,2,04:36,CLE,,CHA,,R. Lopez,CLE,Lopez OFF.Foul (P2) (B.Nansel),Foul,Offensive,0,0,0,0,,,h
+S2223-G1218,2,04:36,CLE,,CHA,,R. Lopez,CLE,Lopez Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1218,2,04:36,CLE,,CHA,,R. Lopez,CLE,SUB: Diakite FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G1218,3,11:40,CLE,,CHA,,R. Lopez,CLE,MISS Lopez 7' Hook Shot,Missed Shot,Hook Shot,-8,71,7,1,2.0,0.0,h
+S2223-G1218,3,11:11,CLE,56.0,CHA,51.0,R. Lopez,CLE,Lopez 4' Turnaround Hook Shot (6 PTS) (Rubio 6 AST),Made Shot,Turnaround Hook Shot,-4,40,4,1,2.0,2.0,h
+S2223-G1218,3,07:54,CLE,58.0,CHA,56.0,R. Lopez,CLE,Lopez 1' Hook Bank Shot (8 PTS) (Rubio 7 AST),Made Shot,Hook Bank Shot,-6,6,1,1,2.0,2.0,h
+S2223-G1218,3,07:36,CLE,,CHA,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1218,3,07:19,CLE,,CHA,,R. Lopez,CLE,Lopez BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1218,3,06:35,CLE,,CHA,,R. Lopez,CLE,MISS Lopez 2' Layup,Missed Shot,Layup Shot,12,14,2,1,2.0,0.0,h
+S2223-G1218,3,06:03,CLE,,CHA,,R. Lopez,CLE,SUB: Diakite FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G1218,4,06:55,CLE,86.0,CHA,92.0,R. Lopez,CLE,Lopez 3' Cutting Layup Shot (10 PTS) (Neto 6 AST),Made Shot,Cutting Layup Shot,-29,6,3,1,2.0,2.0,h
+S2223-G1218,4,05:59,CLE,,CHA,,R. Lopez,CLE,MISS Lopez 8' Hook Shot,Missed Shot,Hook Shot,77,35,8,1,2.0,0.0,h
+S2223-G1218,4,05:44,CLE,,CHA,,R. Lopez,CLE,MISS Lopez 22' Jump Shot,Missed Shot,Jump Shot,-180,120,22,1,2.0,0.0,h
+S2223-G1218,4,04:24,CLE,,CHA,,R. Lopez,CLE,Lopez S.FOUL (P3.PN) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2223-G1218,4,03:33,CLE,,CHA,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1218,4,02:27,CLE,,CHA,,R. Lopez,CLE,MISS Lopez 29' 3PT Jump Shot,Missed Shot,Jump Shot,141,250,29,1,3.0,0.0,h
+S2223-G1218,4,01:54,CLE,,CHA,,R. Lopez,CLE,SUB: Diakite FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0171,1,05:17,SAC,,CLE,,R. Lopez,CLE,Lopez S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0171,1,03:09,SAC,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0171,1,02:48,SAC,,CLE,,R. Lopez,CLE,SUB: Okoro FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0540,1,01:20,CHI,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0540,1,01:14,CHI,,CLE,,R. Lopez,CLE,Lopez Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0540,1,00:24.600000,CHI,,CLE,,R. Lopez,CLE,SUB: Mitchell FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0540,2,10:44,CHI,32.0,CLE,33.0,R. Lopez,CLE,Lopez 3' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,12,32,3,1,2.0,2.0,v
+S2223-G0540,2,10:14,CHI,,CLE,,R. Lopez,CLE,MISS Lopez 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-7,50,5,1,2.0,0.0,v
+S2223-G0540,2,09:35,CHI,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0540,2,09:07,CHI,36.0,CLE,41.0,R. Lopez,CLE,Lopez 26' 3PT Jump Shot (5 PTS) (Neto 1 AST),Made Shot,Jump Shot,-64,252,26,1,3.0,3.0,v
+S2223-G0540,2,07:08,CHI,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0540,2,07:07,CHI,38.0,CLE,48.0,R. Lopez,CLE,Lopez Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0540,2,05:56,CHI,,CLE,,R. Lopez,CLE,SUB: Allen FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0540,3,01:55,CHI,68.0,CLE,82.0,R. Lopez,CLE,Lopez 6' Turnaround Hook Shot (9 PTS) (Love 1 AST),Made Shot,Turnaround Hook Shot,9,57,6,1,2.0,2.0,v
+S2223-G0540,3,00:05.200000,CHI,,CLE,,R. Lopez,CLE,SUB: Allen FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0540,4,11:05,CHI,,CLE,,R. Lopez,CLE,Lopez S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2223-G0540,4,10:10,CHI,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0540,4,09:29,CHI,,CLE,,R. Lopez,CLE,SUB: Allen FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0452,4,03:39,CLE,,UTA,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0452,4,02:51,CLE,,UTA,,R. Lopez,CLE,MISS Lopez 8' Hook Shot,Missed Shot,Hook Shot,-43,70,8,1,2.0,0.0,h
+S2223-G0452,4,01:51,CLE,,UTA,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0452,4,01:44,CLE,,UTA,,R. Lopez,CLE,Lopez Traveling Turnover (P1.T22),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0452,4,01:31,CLE,,UTA,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0452,4,01:14,CLE,,UTA,,R. Lopez,CLE,Lopez S.FOUL (P1.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G1015,1,05:24,CHA,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1015,1,04:58,CHA,,CLE,,R. Lopez,CLE,Lopez Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1015,1,04:58,CHA,,CLE,,R. Lopez,CLE,Lopez S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G1015,1,03:01,CHA,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1015,1,02:54,CHA,29.0,CLE,17.0,R. Lopez,CLE,Lopez 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-11,10,1,1,2.0,2.0,v
+S2223-G1015,2,02:52,CHA,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1015,2,02:49,CHA,,CLE,,R. Lopez,CLE,MISS Lopez 2' Hook Shot,Missed Shot,Hook Shot,-10,21,2,1,2.0,0.0,v
+S2223-G1015,2,02:26,CHA,,CLE,,R. Lopez,CLE,Lopez BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1015,2,02:23,CHA,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1015,2,00:39.300000,CHA,,CLE,,R. Lopez,CLE,Lopez BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1015,2,00:36.100000,CHA,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0039,1,02:29,CLE,,WAS,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0039,1,01:59,CLE,26.0,WAS,29.0,R. Lopez,CLE,Lopez 8' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,-18,74,8,1,2.0,2.0,h
+S2223-G0039,1,01:05,CLE,,WAS,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0039,1,00:16,CLE,,WAS,,R. Lopez,CLE,SUB: LeVert FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0039,2,09:38,CLE,,WAS,,R. Lopez,CLE,Lopez S.FOUL (P1.T1) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0039,2,08:39,CLE,,WAS,,R. Lopez,CLE,Lopez Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0039,2,07:57,CLE,,WAS,,R. Lopez,CLE,Lopez REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0039,2,07:54,CLE,40.0,WAS,35.0,R. Lopez,CLE,Lopez Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,1,0,1,2.0,2.0,h
+S2223-G0039,2,06:21,CLE,,WAS,,R. Lopez,CLE,Lopez REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0039,2,06:15,CLE,44.0,WAS,37.0,R. Lopez,CLE,Lopez 2' Reverse Layup (6 PTS),Made Shot,Reverse Layup Shot,-1,18,2,1,2.0,2.0,h
+S2223-G0039,2,06:15,CLE,,WAS,,R. Lopez,CLE,SUB: Mitchell FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0039,3,02:35,CLE,,WAS,,R. Lopez,CLE,MISS Lopez 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,26,58,6,1,2.0,0.0,h
+S2223-G0039,3,02:34,CLE,,WAS,,R. Lopez,CLE,Lopez REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0039,3,02:34,CLE,,WAS,,R. Lopez,CLE,Lopez OFF.Foul (P2) (M.Ervin),Foul,Offensive,0,0,0,0,,,h
+S2223-G0039,3,02:34,CLE,,WAS,,R. Lopez,CLE,Lopez Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0039,3,00:07.300000,CLE,,WAS,,R. Lopez,CLE,SUB: LeVert FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0039,4,09:48,CLE,,WAS,,R. Lopez,CLE,Lopez REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0039,4,08:46,CLE,,WAS,,R. Lopez,CLE,SUB: Allen FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0193,1,04:24,CLE,15.0,MIN,21.0,R. Lopez,CLE,Lopez 2' Cutting Layup Shot (2 PTS) (Love 1 AST),Made Shot,Cutting Layup Shot,1,15,2,1,2.0,2.0,h
+S2223-G0193,1,04:24,CLE,16.0,MIN,21.0,R. Lopez,CLE,Lopez Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0193,1,04:18,CLE,,MIN,,R. Lopez,CLE,Lopez P.FOUL (P1.T1) (M.Kallio),Foul,Personal,0,0,0,0,,,h
+S2223-G0193,1,04:04,CLE,,MIN,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0193,1,03:56,CLE,,MIN,,R. Lopez,CLE,MISS Lopez 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,5,59,6,1,2.0,0.0,h
+S2223-G0193,1,03:20,CLE,,MIN,,R. Lopez,CLE,MISS Lopez 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,77,20,8,1,2.0,0.0,h
+S2223-G0193,1,02:49,CLE,,MIN,,R. Lopez,CLE,SUB: Diakite FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0193,2,04:19,CLE,,MIN,,R. Lopez,CLE,SUB: Garland FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0193,4,07:03,CLE,,MIN,,R. Lopez,CLE,Lopez P.FOUL (P2.T3) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2223-G0193,4,06:14,CLE,99.0,MIN,115.0,R. Lopez,CLE,Lopez 2' Dunk (5 PTS) (Garland 4 AST),Made Shot,Dunk Shot,-6,16,2,1,2.0,2.0,h
+S2223-G0193,4,02:38,CLE,,MIN,,R. Lopez,CLE,Lopez REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0193,4,00:13.300000,CLE,,MIN,,R. Lopez,CLE,SUB: Osman FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0193,4,00:06.500000,CLE,,MIN,,R. Lopez,CLE,SUB: Osman FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0280,1,06:15,MIL,10.0,CLE,16.0,R. Lopez,CLE,Lopez 3' Hook Shot (2 PTS),Made Shot,Hook Shot,-8,25,3,1,2.0,2.0,v
+S2223-G0280,1,06:15,MIL,10.0,CLE,17.0,R. Lopez,CLE,Lopez Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0280,1,05:27,MIL,,CLE,,R. Lopez,CLE,Lopez S.FOUL (P1.T4) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0280,1,04:55,MIL,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0280,2,04:04,MIL,,CLE,,R. Lopez,CLE,MISS Lopez Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0280,2,04:04,MIL,37.0,CLE,52.0,R. Lopez,CLE,Lopez Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0280,2,03:59,MIL,,CLE,,R. Lopez,CLE,Lopez S.FOUL (P2.T4) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2223-G0280,2,03:50,MIL,,CLE,,R. Lopez,CLE,SUB: E. Mobley FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0280,3,06:55,MIL,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0280,3,06:54,MIL,,CLE,,R. Lopez,CLE,Lopez Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0280,3,06:31,MIL,,CLE,,R. Lopez,CLE,Lopez L.B.FOUL (P3.T2) (N.Buchert),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0280,3,05:47,MIL,,CLE,,R. Lopez,CLE,Lopez Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0280,3,05:15,MIL,,CLE,,R. Lopez,CLE,MISS Lopez 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,4,36,4,1,2.0,0.0,v
+S2223-G0280,3,04:39,MIL,,CLE,,R. Lopez,CLE,MISS Lopez 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,51,27,6,1,2.0,0.0,v
+S2223-G0280,3,03:27,MIL,,CLE,,R. Lopez,CLE,Lopez REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0280,3,02:09,MIL,78.0,CLE,71.0,R. Lopez,CLE,Lopez 9' Turnaround Hook Shot (6 PTS),Made Shot,Turnaround Hook Shot,49,77,9,1,2.0,2.0,v
+S2223-G0280,3,01:04,MIL,80.0,CLE,73.0,R. Lopez,CLE,Lopez 7' Hook Shot (8 PTS) (Garland 3 AST),Made Shot,Hook Shot,69,1,7,1,2.0,2.0,v
+S2223-G0280,3,00:25.600000,MIL,,CLE,,R. Lopez,CLE,MISS Lopez 6' Hook Shot,Missed Shot,Hook Shot,49,32,6,1,2.0,0.0,v
+S2223-G0280,3,00:10.300000,MIL,,CLE,,R. Lopez,CLE,Lopez FLAGRANT.FOUL.TYPE1 (P4.PN) (J.Capers),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2223-G0280,3,00:10.300000,MIL,,CLE,,R. Lopez,CLE,SUB: E. Mobley FOR Lopez,Substitution,,0,0,0,0,,,v
+S2223-G0107,1,02:44,CLE,23.0,BOS,18.0,R. Lopez,CLE,Lopez 9' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,-38,78,9,1,2.0,2.0,h
+S2223-G0107,1,01:35,CLE,,BOS,,R. Lopez,CLE,MISS Lopez 8' Hook Shot,Missed Shot,Hook Shot,-39,75,8,1,2.0,0.0,h
+S2223-G0107,1,00:32.800000,CLE,,BOS,,R. Lopez,CLE,SUB: Mitchell FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0107,2,09:42,CLE,,BOS,,R. Lopez,CLE,SUB: LeVert FOR Lopez,Substitution,,0,0,0,0,,,h
+S2223-G0330,2,06:41,CLE,,ORL,,R. Lopez,CLE,SUB: Garland FOR Lopez,Substitution,,0,0,0,0,,,h

@@ -1,0 +1,1521 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G1220,1,08:00,NYK,,IND,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1220,1,07:39,NYK,,IND,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T3) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G1220,1,07:02,NYK,20.0,IND,16.0,I. Hartenstein,NYK,Hartenstein 2' Driving Reverse Layup (2 PTS) (Quickley 2 AST),Made Shot,Driving Reverse Layup Shot,-12,10,2,1,2.0,2.0,h
+S2223-G1220,1,06:13,NYK,26.0,IND,18.0,I. Hartenstein,NYK,Hartenstein 2' Cutting Dunk Shot (4 PTS) (Quickley 3 AST),Made Shot,Cutting Dunk Shot,-1,16,2,1,2.0,2.0,h
+S2223-G1220,1,02:54,NYK,,IND,,I. Hartenstein,NYK,MISS Hartenstein 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-5,122,12,1,2.0,0.0,h
+S2223-G1220,1,02:04,NYK,,IND,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1220,1,01:47,NYK,,IND,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1220,2,10:58,NYK,,IND,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T1) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2223-G1220,2,10:58,NYK,,IND,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G1220,3,03:10,NYK,,IND,,I. Hartenstein,NYK,MISS Hartenstein 3' Layup,Missed Shot,Layup Shot,12,22,3,1,2.0,0.0,h
+S2223-G1220,3,02:23,NYK,103.0,IND,90.0,I. Hartenstein,NYK,Hartenstein 3' Hook Shot (6 PTS) (Hart 2 AST),Made Shot,Hook Shot,22,21,3,1,2.0,2.0,h
+S2223-G1220,4,11:02,NYK,109.0,IND,105.0,I. Hartenstein,NYK,Hartenstein 6' Driving Floating Jump Shot (8 PTS) (Hart 3 AST),Made Shot,Driving Floating Jump Shot,11,55,6,1,2.0,2.0,h
+S2223-G1220,4,10:43,NYK,,IND,,I. Hartenstein,NYK,Hartenstein Violation:Kicked Ball (D.Mosher),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G1220,4,05:25,NYK,,IND,,I. Hartenstein,NYK,MISS Hartenstein 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-26,14,3,1,2.0,0.0,h
+S2223-G1220,4,05:19,NYK,,IND,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0348,1,02:06,NYK,17.0,CLE,9.0,I. Hartenstein,NYK,Hartenstein 4' Hook Shot (2 PTS) (Grimes 1 AST),Made Shot,Hook Shot,-5,43,4,1,2.0,2.0,h
+S2223-G0348,1,01:17,NYK,21.0,CLE,11.0,I. Hartenstein,NYK,Hartenstein 1' Cutting Layup Shot (4 PTS) (Toppin 1 AST),Made Shot,Cutting Layup Shot,-9,5,1,1,2.0,2.0,h
+S2223-G0348,1,01:09,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0348,1,00:23.800000,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0348,1,00:22.800000,NYK,,CLE,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0348,1,00:21.600000,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0348,1,00:20.600000,NYK,,CLE,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0348,2,11:40,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0348,2,10:57,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0348,2,09:56,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0348,2,08:23,NYK,,CLE,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0348,3,01:47,NYK,,CLE,,I. Hartenstein,NYK,MISS Hartenstein 12' Floating Jump Shot,Missed Shot,Floating Jump shot,4,120,12,1,2.0,0.0,h
+S2223-G0348,3,01:16,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0348,3,01:16,NYK,69.0,CLE,61.0,I. Hartenstein,NYK,Hartenstein 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,-6,4,1,1,2.0,2.0,h
+S2223-G0348,3,00:41.100000,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0348,3,00:40.100000,NYK,,CLE,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0348,3,00:12.800000,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein Traveling Turnover (P1.T20),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0348,3,00:12.800000,NYK,,CLE,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0348,4,10:43,NYK,74.0,CLE,66.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0348,4,10:43,NYK,75.0,CLE,66.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0348,4,09:29,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0348,4,07:42,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:6 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0348,4,07:42,NYK,82.0,CLE,69.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0348,4,07:13,NYK,,CLE,,I. Hartenstein,NYK,MISS Hartenstein 2' Layup,Missed Shot,Layup Shot,-22,1,2,1,2.0,0.0,h
+S2223-G0348,4,06:22,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein P.FOUL (P2.T2) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2223-G0348,4,06:22,NYK,,CLE,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0309,1,02:45,DET,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0309,1,01:30,DET,27.0,NYK,38.0,I. Hartenstein,NYK,Hartenstein 3' Alley Oop Layup (2 PTS) (Rose 1 AST),Made Shot,Alley Oop Layup shot,13,32,3,1,2.0,2.0,v
+S2223-G0309,1,00:58.900000,DET,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0309,2,10:27,DET,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0309,2,10:27,DET,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0309,2,10:20,DET,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P1.T1) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2223-G0309,2,08:57,DET,,NYK,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0309,3,03:14,DET,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P2.PN) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2223-G0309,3,03:00,DET,69.0,NYK,99.0,I. Hartenstein,NYK,Hartenstein 5' Driving Layup (4 PTS) (Quickley 3 AST),Made Shot,Driving Layup Shot,43,25,5,1,2.0,2.0,v
+S2223-G0309,3,03:00,DET,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0309,3,00:14.600000,DET,77.0,NYK,107.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0309,3,00:14.600000,DET,77.0,NYK,108.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0309,4,11:36,DET,,NYK,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0309,4,09:43,DET,84.0,NYK,112.0,I. Hartenstein,NYK,Hartenstein 11' Turnaround Hook Shot (8 PTS),Made Shot,Turnaround Hook Shot,-70,86,11,1,2.0,2.0,v
+S2223-G0309,4,09:26,DET,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0309,4,09:07,DET,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0309,4,09:06,DET,,NYK,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0309,4,08:58,DET,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0309,4,08:46,DET,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0485,1,02:09,NYK,,CHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0485,1,01:41,NYK,,CHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0485,2,11:37,NYK,,CHI,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0485,2,11:35,NYK,,CHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0485,2,11:20,NYK,,CHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0485,2,11:17,NYK,24.0,CHI,29.0,I. Hartenstein,NYK,Hartenstein 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-5,-8,1,1,2.0,2.0,h
+S2223-G0485,2,07:58,NYK,,CHI,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T1) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0485,2,07:56,NYK,,CHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0485,2,07:42,NYK,37.0,CHI,35.0,I. Hartenstein,NYK,Hartenstein 3PT Jump Shot (5 PTS) (Barrett 1 AST),Made Shot,Jump Shot,222,41,0,1,3.0,3.0,h
+S2223-G0485,2,04:50,NYK,,CHI,,I. Hartenstein,NYK,SUB: Grimes FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0485,3,04:13,NYK,,CHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0485,3,03:18,NYK,,CHI,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2223-G0485,3,02:02,NYK,,CHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0485,4,11:08,NYK,,CHI,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P3.T1) (E.Lewis),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0485,4,08:12,NYK,,CHI,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0240,1,11:46,PHX,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0240,1,09:26,PHX,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2223-G0240,1,08:34,PHX,,NYK,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P2) (N.Green),Foul,Offensive,0,0,0,0,,,v
+S2223-G0240,1,08:34,PHX,,NYK,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0240,1,08:34,PHX,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0240,3,10:50,PHX,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0240,3,10:30,PHX,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0240,3,10:29,PHX,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 2' Putback Layup,Missed Shot,Putback Layup Shot,13,15,2,1,2.0,0.0,v
+S2223-G0240,3,09:43,PHX,60.0,NYK,58.0,I. Hartenstein,NYK,Hartenstein 11' Floating Jump Shot (2 PTS) (Grimes 7 AST),Made Shot,Floating Jump shot,2,110,11,1,2.0,2.0,v
+S2223-G0240,3,08:43,PHX,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,-17,78,8,1,2.0,0.0,v
+S2223-G0240,3,06:00,PHX,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0240,4,05:42,PHX,105.0,NYK,83.0,I. Hartenstein,NYK,Hartenstein 2' Cutting Layup Shot (4 PTS) (Grimes 8 AST),Made Shot,Cutting Layup Shot,-4,18,2,1,2.0,2.0,v
+S2223-G0240,4,03:47,PHX,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 3' Running Layup,Missed Shot,Running Layup Shot,12,25,3,1,2.0,0.0,v
+S2223-G0240,4,00:54.400000,PHX,116.0,NYK,92.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 3 (5 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0240,4,00:54.400000,PHX,116.0,NYK,93.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 3 (6 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0240,4,00:54.400000,PHX,116.0,NYK,94.0,I. Hartenstein,NYK,Hartenstein Free Throw 3 of 3 (7 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2223-G0240,4,00:11.500000,PHX,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0240,4,00:08,PHX,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0493,1,00:32.900000,NYK,37.0,PHI,25.0,I. Hartenstein,NYK,Hartenstein 11' Floating Jump Shot (2 PTS) (Barrett 1 AST),Made Shot,Floating Jump shot,-28,109,11,1,2.0,2.0,h
+S2223-G0493,2,11:46,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0493,2,10:16,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0493,2,09:47,NYK,,PHI,,I. Hartenstein,NYK,MISS Hartenstein 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-31,112,12,1,2.0,0.0,h
+S2223-G0493,2,07:18,NYK,,PHI,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0493,4,08:54,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein Transition Take Foul (P1.T1) (J.Capers),Foul                                    ,Transition Take,0,0,0,0,,,h
+S2223-G0493,4,08:54,NYK,,PHI,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0997,1,02:38,SAC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0997,1,02:34,SAC,25.0,NYK,20.0,I. Hartenstein,NYK,Hartenstein 2' Cutting Dunk Shot (2 PTS) (Hart 1 AST),Made Shot,Cutting Dunk Shot,-2,16,2,1,2.0,2.0,v
+S2223-G0997,1,02:10,SAC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0997,2,11:13,SAC,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0997,2,09:37,SAC,35.0,NYK,30.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0997,2,09:37,SAC,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0997,2,09:06,SAC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0997,2,08:42,SAC,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P1.T2) (J.Orr),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0997,2,08:42,SAC,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0997,3,04:05,SAC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0997,3,02:57,SAC,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0997,3,00:32,SAC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0997,3,00:26.900000,SAC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0997,4,10:47,SAC,92.0,NYK,89.0,I. Hartenstein,NYK,Hartenstein 1' Running Dunk (5 PTS) (Hart 7 AST),Made Shot,Running Dunk Shot,2,5,1,1,2.0,2.0,v
+S2223-G0997,4,09:17,SAC,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0997,4,08:26,SAC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0997,4,07:41,SAC,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P4.T3) (B.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0997,4,05:54,SAC,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P5.T4) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0997,4,05:34,SAC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0997,4,01:32,SAC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0997,4,00:13.500000,SAC,,NYK,,I. Hartenstein,NYK,SUB: Grimes FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G1168,1,00:26.600000,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1168,2,11:29,NYK,36.0,WAS,31.0,I. Hartenstein,NYK,Hartenstein 2' Layup (2 PTS) (Quickley 2 AST),Made Shot,Layup Shot,-18,4,2,1,2.0,2.0,h
+S2223-G1168,2,11:29,NYK,,WAS,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1168,2,11:26,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein P.FOUL (P1.T1) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G1168,2,09:49,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1168,2,09:45,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1168,2,07:19,NYK,,WAS,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G1168,3,00:26.400000,NYK,86.0,WAS,79.0,I. Hartenstein,NYK,Hartenstein 6' Floating Jump Shot (4 PTS) (Grimes 3 AST),Made Shot,Floating Jump shot,-10,59,6,1,2.0,2.0,h
+S2223-G1168,3,00:01.200000,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1168,4,10:01,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1168,4,07:57,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1168,4,07:12,NYK,,WAS,,I. Hartenstein,NYK,MISS Hartenstein 10' Floating Jump Shot,Missed Shot,Floating Jump shot,-97,4,10,1,2.0,0.0,h
+S2223-G1168,4,07:03,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1168,4,05:10,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1168,4,03:31,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1168,4,03:31,NYK,112.0,WAS,94.0,I. Hartenstein,NYK,Hartenstein 1' Putback Layup (6 PTS) (Grimes 5 AST),Made Shot,Putback Layup Shot,-9,4,1,1,2.0,2.0,h
+S2223-G1168,4,03:31,NYK,,WAS,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1168,4,03:22,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1168,4,02:55,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1168,4,00:57.700000,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1168,4,00:57.700000,NYK,116.0,WAS,104.0,I. Hartenstein,NYK,Hartenstein Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1168,4,00:57.700000,NYK,117.0,WAS,104.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0684,1,03:36,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,1,03:36,ATL,28.0,NYK,30.0,I. Hartenstein,NYK,Hartenstein Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0684,1,01:11,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein Offensive Goaltending Turnover (P1.T5),Turnover,Offensive Goaltending,0,0,0,0,,,v
+S2223-G0684,1,00:00.900000,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,2,09:35,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,2,06:49,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,2,05:12,ATL,,NYK,,I. Hartenstein,NYK,SUB: Barrett FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0684,3,01:52,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,3,00:20.200000,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.PN) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0684,4,09:39,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0684,4,08:31,ATL,,NYK,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0780,1,05:03,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0780,1,04:43,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0780,1,03:46,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0780,1,03:44,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0780,1,03:43,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T4) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0780,1,03:28,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0780,1,03:28,NYK,24.0,MIA,13.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0780,1,02:57,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0780,1,00:31.100000,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P2) (M.Smith),Foul,Offensive,0,0,0,0,,,h
+S2223-G0780,1,00:31.100000,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0780,2,11:41,NYK,,MIA,,I. Hartenstein,NYK,MISS Hartenstein 8' Floating Jump Shot,Missed Shot,Floating Jump shot,2,75,8,1,2.0,0.0,h
+S2223-G0780,2,11:40,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0780,2,11:39,NYK,,MIA,,I. Hartenstein,NYK,MISS Hartenstein 2' Reverse Layup,Missed Shot,Reverse Layup Shot,4,20,2,1,2.0,0.0,h
+S2223-G0780,2,11:04,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0780,2,08:08,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0780,2,07:12,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein Lost Ball Turnover (P3.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0780,2,07:02,NYK,,MIA,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0780,3,03:54,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0780,3,03:42,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0780,3,01:41,NYK,68.0,MIA,69.0,I. Hartenstein,NYK,Hartenstein 1' Cutting Layup Shot (4 PTS) (Fournier 2 AST),Made Shot,Cutting Layup Shot,-13,-7,1,1,2.0,2.0,h
+S2223-G0780,3,01:41,NYK,69.0,MIA,69.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0780,4,10:42,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0780,4,10:29,NYK,,MIA,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0780,4,10:29,NYK,81.0,MIA,75.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0780,4,10:24,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0780,4,07:52,NYK,,MIA,,I. Hartenstein,NYK,MISS Hartenstein 2' Layup,Missed Shot,Layup Shot,15,13,2,1,2.0,0.0,h
+S2223-G0780,4,07:43,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0780,4,04:32,NYK,,MIA,,I. Hartenstein,NYK,MISS Hartenstein 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-10,3,1,1,2.0,0.0,h
+S2223-G0780,4,03:51,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P4.T3) (M.Davis),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0780,4,00:33.500000,NYK,104.0,MIA,101.0,I. Hartenstein,NYK,Hartenstein Cutting Dunk Shot (8 PTS) (Grimes 2 AST),Made Shot,Cutting Dunk Shot,-1,4,0,1,2.0,2.0,h
+S2223-G0780,4,00:08.300000,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0780,4,00:02.900000,NYK,,MIA,,I. Hartenstein,NYK,SUB: Fournier FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0446,1,01:41,IND,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T3) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0446,1,01:39,IND,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0446,1,00:35.200000,IND,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0446,1,00:35.200000,IND,27.0,NYK,26.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0446,2,11:32,IND,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0446,2,10:01,IND,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 26' 3PT Jump Shot,Missed Shot,Jump Shot,-103,240,26,1,3.0,0.0,v
+S2223-G0446,2,07:53,IND,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0446,2,07:48,IND,,NYK,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0446,3,02:31,IND,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0446,3,01:11,IND,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0446,4,11:22,IND,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0446,4,10:27,IND,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0446,4,09:07,IND,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0446,4,06:55,IND,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0446,4,06:55,IND,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0153,1,04:08,MIN,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P1.T4) (S.Mehta),Foul,Personal,0,0,0,0,,,v
+S2223-G0153,1,04:00,MIN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,1,00:53.200000,MIN,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P2.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2223-G0153,1,00:29.400000,MIN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,1,00:29.300000,MIN,27.0,NYK,34.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0153,1,00:29.300000,MIN,27.0,NYK,35.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0153,2,07:40,MIN,,NYK,,I. Hartenstein,NYK,SUB: Barrett FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0153,2,02:13,MIN,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0153,2,02:13,MIN,,NYK,,I. Hartenstein,NYK,SUB: Toppin FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0153,3,07:21,MIN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,3,06:35,MIN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,3,05:41,MIN,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-27,25,4,1,2.0,0.0,v
+S2223-G0153,3,05:18,MIN,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P4.T4) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0153,3,05:18,MIN,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0153,3,02:55,MIN,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,24,24,1,3.0,0.0,v
+S2223-G0153,3,01:58,MIN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,3,00:02.500000,MIN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,3,00:02.500000,MIN,80.0,NYK,103.0,I. Hartenstein,NYK,Hartenstein Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0153,4,09:10,MIN,,NYK,,I. Hartenstein,NYK,Hartenstein Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0153,4,08:58,MIN,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0153,4,08:55,MIN,,NYK,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0851,1,01:53,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0851,1,01:00,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,1,00:36.400000,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,2,11:06,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,2,11:06,NYK,35.0,UTA,32.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0851,2,09:58,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P1.T3) (D.Guthrie),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0851,2,09:02,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,2,09:02,NYK,39.0,UTA,36.0,I. Hartenstein,NYK,Hartenstein Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-1,3,0,1,2.0,2.0,h
+S2223-G0851,2,08:38,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,2,06:32,NYK,,UTA,,I. Hartenstein,NYK,SUB: Brunson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0851,3,03:24,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,4,11:44,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,4,08:56,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,4,06:28,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T3) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0851,4,06:09,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,4,06:09,NYK,106.0,UTA,103.0,I. Hartenstein,NYK,Hartenstein Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0851,4,04:02,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,4,03:49,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,4,03:49,NYK,,UTA,,I. Hartenstein,NYK,MISS Hartenstein 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,4,15,2,1,2.0,0.0,h
+S2223-G0851,4,03:11,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,4,03:11,NYK,,UTA,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0851,4,03:10,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:6 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0851,4,01:13,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P3.PN) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0851,4,01:11,NYK,,UTA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:6 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1190,1,01:51,IND,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 3' Layup,Missed Shot,Layup Shot,6,32,3,1,2.0,0.0,v
+S2223-G1190,1,00:57.600000,IND,24.0,NYK,38.0,I. Hartenstein,NYK,Hartenstein 2' Cutting Dunk Shot (2 PTS) (McBride 2 AST),Made Shot,Cutting Dunk Shot,4,16,2,1,2.0,2.0,v
+S2223-G1190,2,11:01,IND,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1190,2,10:54,IND,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1190,2,10:43,IND,32.0,NYK,40.0,I. Hartenstein,NYK,Hartenstein 6' Floating Jump Shot (4 PTS) (McBride 3 AST),Made Shot,Floating Jump shot,-23,57,6,1,2.0,2.0,v
+S2223-G1190,2,10:05,IND,34.0,NYK,42.0,I. Hartenstein,NYK,Hartenstein 1' Cutting Dunk Shot (6 PTS) (Fournier 1 AST),Made Shot,Cutting Dunk Shot,-1,6,1,1,2.0,2.0,v
+S2223-G1190,2,09:23,IND,,NYK,,I. Hartenstein,NYK,Hartenstein Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1190,2,08:34,IND,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1190,2,07:28,IND,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G1190,2,02:00,IND,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1190,2,01:18,IND,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P1.PN) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2223-G1190,2,01:01,IND,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 3' Layup,Missed Shot,Layup Shot,-17,20,3,1,2.0,0.0,v
+S2223-G1190,2,00:58.700000,IND,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1190,2,00:44.500000,IND,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.PN) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G1190,2,00:43.300000,IND,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1190,3,02:16,IND,89.0,NYK,94.0,I. Hartenstein,NYK,Hartenstein 8' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,-54,55,8,1,2.0,2.0,v
+S2223-G1190,3,02:01,IND,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1190,4,08:41,IND,,NYK,,I. Hartenstein,NYK,SUB: Hart FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0979,1,02:21,NYK,,CHA,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0979,2,11:13,NYK,23.0,CHA,21.0,I. Hartenstein,NYK,Hartenstein Dunk (2 PTS) (Barrett 2 AST),Made Shot,Dunk Shot,1,2,0,1,2.0,2.0,h
+S2223-G0979,2,06:27,NYK,,CHA,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0979,3,01:24,NYK,,CHA,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T2) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0979,4,11:46,NYK,,CHA,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P2.T1) (S.Wright),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0979,4,10:58,NYK,,CHA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0979,4,09:42,NYK,,CHA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0979,4,08:31,NYK,,CHA,,I. Hartenstein,NYK,MISS Hartenstein 12' Floating Jump Shot,Missed Shot,Floating Jump shot,2,117,12,1,2.0,0.0,h
+S2223-G0979,4,08:30,NYK,,CHA,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P3.T2) (S.Wright),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0979,4,08:30,NYK,,CHA,,I. Hartenstein,NYK,SUB: Quickley FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0742,1,01:40,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0742,1,00:57.100000,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0742,2,11:18,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0742,2,08:55,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0742,2,08:55,BKN,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0742,2,08:40,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P2.T4) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,v
+S2223-G0742,2,07:21,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0742,2,04:44,BKN,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0742,3,01:08,BKN,88.0,NYK,79.0,I. Hartenstein,NYK,Hartenstein 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-15,4,2,1,2.0,2.0,v
+S2223-G0742,3,00:21,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0742,3,00:03.100000,BKN,88.0,NYK,81.0,I. Hartenstein,NYK,Hartenstein 8' Floating Jump Shot (4 PTS) (Brunson 2 AST),Made Shot,Floating Jump shot,-59,48,8,1,2.0,2.0,v
+S2223-G0742,4,11:40,BKN,88.0,NYK,83.0,I. Hartenstein,NYK,Hartenstein 6' Turnaround Hook Shot (6 PTS) (Barrett 2 AST),Made Shot,Turnaround Hook Shot,-20,58,6,1,2.0,2.0,v
+S2223-G0742,4,11:16,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0742,4,09:53,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0742,4,08:32,BKN,98.0,NYK,90.0,I. Hartenstein,NYK,Hartenstein 7' Turnaround Bank Shot (8 PTS),Made Shot,Turnaround Bank shot,-29,68,7,1,2.0,2.0,v
+S2223-G0742,4,07:53,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0742,4,06:52,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0742,4,06:52,BKN,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0607,1,00:39.500000,NYK,,MIL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0607,1,00:39.500000,NYK,,MIL,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0607,1,00:00.100000,NYK,,MIL,,I. Hartenstein,NYK,MISS Hartenstein 3PT Jump Shot,Missed Shot,Jump Shot,-224,-6,0,1,3.0,0.0,h
+S2223-G0607,3,04:23,NYK,,MIL,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P1.T3) (R.Mott),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0607,3,03:38,NYK,,MIL,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T4) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2223-G0607,3,02:26,NYK,,MIL,,I. Hartenstein,NYK,MISS Hartenstein 8' Floating Jump Shot,Missed Shot,Floating Jump shot,-59,55,8,1,2.0,0.0,h
+S2223-G0607,3,01:44,NYK,,MIL,,I. Hartenstein,NYK,MISS Hartenstein 1' Layup,Missed Shot,Layup Shot,-7,13,1,1,2.0,0.0,h
+S2223-G0607,3,01:41,NYK,,MIL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0607,3,01:41,NYK,,MIL,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0607,3,01:41,NYK,,MIL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0607,3,01:40,NYK,,MIL,,I. Hartenstein,NYK,MISS Hartenstein 1' Putback Layup,Missed Shot,Putback Layup Shot,-5,-1,1,1,2.0,0.0,h
+S2223-G0607,3,01:36,NYK,,MIL,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P3.PN) (J.Williams),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0607,3,00:48.200000,NYK,,MIL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0607,3,00:20.600000,NYK,,MIL,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0715,1,00:01.200000,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0715,2,09:12,NYK,40.0,CLE,30.0,I. Hartenstein,NYK,Hartenstein Dunk (2 PTS) (Quickley 2 AST),Made Shot,Dunk Shot,-1,0,0,1,2.0,2.0,h
+S2223-G0715,2,08:45,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0715,2,07:51,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0715,2,07:24,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0715,2,06:52,NYK,,CLE,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0715,4,11:39,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0715,4,10:45,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0715,4,10:41,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein Offensive Goaltending Turnover (P1.T13),Turnover,Offensive Goaltending,0,0,0,0,,,h
+S2223-G0715,4,09:49,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0715,4,08:16,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0715,4,07:53,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0715,4,07:50,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein Out of Bounds - Bad Pass Turnover Turnover (P2.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0715,4,05:10,NYK,,CLE,,I. Hartenstein,NYK,MISS Hartenstein 10' Floating Jump Shot,Missed Shot,Floating Jump shot,25,101,10,1,2.0,0.0,h
+S2223-G0715,4,03:06,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0715,4,03:06,NYK,100.0,CLE,96.0,I. Hartenstein,NYK,Hartenstein Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0715,4,00:47.800000,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0715,4,00:45.300000,NYK,,CLE,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1124,1,01:50,NYK,,HOU,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1124,1,01:50,NYK,29.0,HOU,26.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1124,1,01:50,NYK,,HOU,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1124,1,01:17,NYK,31.0,HOU,29.0,I. Hartenstein,NYK,Hartenstein Layup (3 PTS) (Hart 1 AST),Made Shot,Layup Shot,4,-1,0,1,2.0,2.0,h
+S2223-G1124,1,00:32.400000,NYK,,HOU,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1124,2,11:24,NYK,,HOU,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1124,2,10:02,NYK,,HOU,,I. Hartenstein,NYK,Hartenstein STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1124,2,08:32,NYK,,HOU,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1124,2,07:21,NYK,,HOU,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1124,2,06:55,NYK,,HOU,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T4) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2223-G1124,2,06:55,NYK,,HOU,,I. Hartenstein,NYK,SUB: Quickley FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G1124,2,00:01.900000,NYK,,HOU,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1124,3,00:48,NYK,99.0,HOU,85.0,I. Hartenstein,NYK,Hartenstein 1' Driving Dunk (5 PTS) (Quickley 7 AST),Made Shot,Driving Dunk Shot,-6,3,1,1,2.0,2.0,h
+S2223-G1124,4,11:52,NYK,,HOU,,I. Hartenstein,NYK,Hartenstein Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1124,4,11:20,NYK,,HOU,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1124,4,11:14,NYK,104.0,HOU,90.0,I. Hartenstein,NYK,Hartenstein 2' Layup (7 PTS) (Hart 2 AST),Made Shot,Layup Shot,18,-1,2,1,2.0,2.0,h
+S2223-G1124,4,11:14,NYK,105.0,HOU,90.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1124,4,09:26,NYK,,HOU,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G1124,4,08:21,NYK,,HOU,,I. Hartenstein,NYK,Hartenstein P.FOUL (P4.T2) (D.Richardson),Foul,Personal,0,0,0,0,,,h
+S2223-G1124,4,05:10,NYK,,HOU,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1124,4,04:11,NYK,,HOU,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0365,1,00:30.300000,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P1.PN) (B.Forte),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0365,1,00:29.300000,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0365,2,11:02,NYK,33.0,ATL,20.0,I. Hartenstein,NYK,Hartenstein 8' Turnaround Bank Hook Shot (2 PTS) (McBride 1 AST),Made Shot,Turnaround Bank Hook Shot,-75,16,8,1,2.0,2.0,h
+S2223-G0365,2,06:06,NYK,,ATL,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0365,3,03:06,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0365,3,00:31.100000,NYK,,ATL,,I. Hartenstein,NYK,MISS Hartenstein 25' 3PT Jump Shot,Missed Shot,Jump Shot,43,243,25,1,3.0,0.0,h
+S2223-G0365,3,00:15.800000,NYK,,ATL,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0365,4,11:06,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0365,4,10:57,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P2) (B.Forte),Foul,Offensive,0,0,0,0,,,h
+S2223-G0365,4,10:57,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0365,4,10:36,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein P.FOUL (P3.T2) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2223-G0365,4,10:29,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0365,4,10:20,NYK,,ATL,,I. Hartenstein,NYK,MISS Hartenstein 2' Layup,Missed Shot,Layup Shot,-17,15,2,1,2.0,0.0,h
+S2223-G0365,4,08:08,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0365,4,08:08,NYK,97.0,ATL,72.0,I. Hartenstein,NYK,Hartenstein Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0365,4,07:59,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein S.FOUL (P4.T4) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0365,4,07:59,NYK,,ATL,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0365,4,01:13,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0164,1,03:31,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0164,2,11:24,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0164,2,08:59,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0164,2,07:50,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P1.T2) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2223-G0164,2,06:48,BKN,,NYK,,I. Hartenstein,NYK,SUB: Barrett FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0164,3,01:29,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0164,3,01:27,BKN,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,4,27,3,1,2.0,0.0,v
+S2223-G0164,3,00:36.400000,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P2.PN) (J.Orr),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0164,4,11:29,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P3) (J.Orr),Foul,Offensive,0,0,0,0,,,v
+S2223-G0164,4,11:29,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0164,4,10:17,BKN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0164,4,10:17,BKN,95.0,NYK,73.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0164,4,08:43,BKN,,NYK,,I. Hartenstein,NYK,SUB: Brunson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0471,1,01:39,NYK,,TOR,,I. Hartenstein,NYK,MISS Hartenstein 2' Floating Jump Shot,Missed Shot,Floating Jump shot,16,2,2,1,2.0,0.0,h
+S2223-G0471,1,01:21,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0471,1,01:04,NYK,,TOR,,I. Hartenstein,NYK,MISS Hartenstein 1' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,-7,5,1,1,2.0,0.0,h
+S2223-G0471,1,00:39.300000,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0471,1,00:00.200000,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0471,1,00:00.200000,NYK,27.0,TOR,28.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0471,2,10:00,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0471,2,09:19,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0471,2,07:56,NYK,,TOR,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0471,3,03:31,NYK,,TOR,,I. Hartenstein,NYK,Jump Ball (CC) Hartenstein vs. Boucher: Tip to VanVleet,Jump Ball,Coach Challenge,0,0,0,0,,,h
+S2223-G0471,3,02:53,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein Out of Bounds Lost Ball Turnover (P1.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0471,3,00:36.500000,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0471,3,00:36.500000,NYK,,TOR,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0471,4,11:23,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0471,4,09:25,NYK,,TOR,,I. Hartenstein,NYK,MISS Hartenstein 3PT Jump Shot,Missed Shot,Jump Shot,232,20,0,1,3.0,0.0,h
+S2223-G0471,4,08:48,NYK,,TOR,,I. Hartenstein,NYK,SUB: Brunson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0471,4,00:15.900000,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G1154,2,10:36,CLE,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1154,2,10:36,CLE,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1154,2,10:01,CLE,53.0,NYK,47.0,I. Hartenstein,NYK,Hartenstein 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-7,14,2,1,2.0,2.0,v
+S2223-G1154,2,09:00,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1154,2,08:03,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1154,2,07:24,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1154,2,07:24,CLE,,NYK,,I. Hartenstein,NYK,SUB: Brunson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G1154,3,03:52,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1154,3,03:11,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1154,3,00:54.600000,CLE,100.0,NYK,105.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1154,3,00:54.600000,CLE,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1154,4,11:41,CLE,102.0,NYK,107.0,I. Hartenstein,NYK,Hartenstein 7' Hook Shot (5 PTS) (McBride 1 AST),Made Shot,Hook Shot,67,32,7,1,2.0,2.0,v
+S2223-G1154,4,10:28,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1154,4,08:17,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1154,4,06:10,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1154,4,06:05,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1154,4,05:36,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G1154,4,05:07,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1154,4,01:53,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G1154,4,01:02,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1154,4,00:42.900000,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0895,1,01:18,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T4) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2223-G0895,2,11:48,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P2.T1) (J.Tiven),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0895,2,11:33,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0895,2,11:24,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0895,2,11:23,WAS,38.0,NYK,29.0,I. Hartenstein,NYK,Hartenstein 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,4,30,3,1,2.0,2.0,v
+S2223-G0895,2,10:16,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0895,2,09:54,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0895,2,08:55,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0895,2,08:55,WAS,44.0,NYK,31.0,I. Hartenstein,NYK,Hartenstein Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0895,2,07:14,WAS,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0895,3,06:46,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0895,3,03:00,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0895,3,02:30,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0895,3,00:30.600000,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0895,4,10:52,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0895,4,09:49,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0895,4,09:20,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0895,4,07:56,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P3.T1) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0895,4,07:56,WAS,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0568,1,07:57,NYK,,SAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0568,1,07:57,NYK,14.0,SAS,6.0,I. Hartenstein,NYK,Hartenstein Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0568,1,07:14,NYK,,SAS,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T4) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0568,1,06:58,NYK,,SAS,,I. Hartenstein,NYK,MISS Hartenstein 11' Jump Shot,Missed Shot,Jump Shot,-9,105,11,1,2.0,0.0,h
+S2223-G0568,1,06:52,NYK,,SAS,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0568,1,06:07,NYK,,SAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0568,1,06:06,NYK,,SAS,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0568,1,05:49,NYK,,SAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0568,1,03:58,NYK,24.0,SAS,17.0,I. Hartenstein,NYK,Hartenstein 7' Floating Jump Shot (4 PTS) (Brunson 1 AST),Made Shot,Floating Jump shot,9,69,7,1,2.0,2.0,h
+S2223-G0568,1,03:01,NYK,,SAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0568,1,02:28,NYK,30.0,SAS,22.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0568,1,02:28,NYK,31.0,SAS,22.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0568,2,09:28,NYK,,SAS,,I. Hartenstein,NYK,Hartenstein Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0568,2,09:28,NYK,,SAS,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0568,3,03:43,NYK,,SAS,,I. Hartenstein,NYK,MISS Hartenstein 6' Floating Jump Shot,Missed Shot,Floating Jump shot,4,58,6,1,2.0,0.0,h
+S2223-G0568,3,03:36,NYK,,SAS,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P2.T4) (J.Tiven),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0568,4,11:04,NYK,,SAS,,I. Hartenstein,NYK,MISS Hartenstein 3PT Jump Shot,Missed Shot,Jump Shot,227,11,0,1,3.0,0.0,h
+S2223-G0568,4,10:05,NYK,99.0,SAS,91.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0568,4,10:05,NYK,100.0,SAS,91.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0568,4,08:49,NYK,,SAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0568,4,07:55,NYK,,SAS,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2223-G0568,4,07:55,NYK,,SAS,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0397,1,05:09,NYK,,SAC,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T4) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0397,1,05:07,NYK,,SAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0397,1,00:41.600000,NYK,,SAC,,I. Hartenstein,NYK,MISS Hartenstein 26' 3PT Jump Shot,Missed Shot,Jump Shot,12,257,26,1,3.0,0.0,h
+S2223-G0397,2,11:17,NYK,,SAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0397,2,08:38,NYK,,SAC,,I. Hartenstein,NYK,MISS Hartenstein 26' 3PT Jump Shot,Missed Shot,Jump Shot,-121,228,26,1,3.0,0.0,h
+S2223-G0397,2,08:14,NYK,,SAC,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0397,2,05:03,NYK,,SAC,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0397,2,04:30,NYK,,SAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0397,2,04:15,NYK,,SAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0397,2,02:34,NYK,,SAC,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0397,2,01:13,NYK,,SAC,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.PN) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2223-G0397,2,01:13,NYK,,SAC,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0397,3,04:50,NYK,85.0,SAC,66.0,I. Hartenstein,NYK,Hartenstein 12' Floating Jump Shot (2 PTS) (Brunson 3 AST),Made Shot,Floating Jump shot,-18,119,12,1,2.0,2.0,h
+S2223-G0397,3,02:25,NYK,,SAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0397,3,02:03,NYK,,SAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0397,3,01:25,NYK,,SAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0397,3,01:25,NYK,93.0,SAC,72.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0397,3,00:46.500000,NYK,,SAC,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0397,3,00:07.400000,NYK,,SAC,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0397,4,10:39,NYK,,SAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0397,4,09:06,NYK,,SAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0397,4,09:03,NYK,,SAC,,I. Hartenstein,NYK,SUB: McBride FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G1093,1,04:50,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1093,1,02:40,ORL,18.0,NYK,19.0,I. Hartenstein,NYK,Hartenstein 2' Cutting Dunk Shot (2 PTS) (McBride 1 AST),Made Shot,Cutting Dunk Shot,-1,15,2,1,2.0,2.0,v
+S2223-G1093,1,00:52.400000,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.PN) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2223-G1093,2,10:58,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1093,2,10:09,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T1) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2223-G1093,2,09:45,ORL,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G1093,3,04:49,ORL,69.0,NYK,61.0,I. Hartenstein,NYK,Hartenstein 1' Cutting Dunk Shot (4 PTS) (Grimes 5 AST),Made Shot,Cutting Dunk Shot,-10,6,1,1,2.0,2.0,v
+S2223-G1093,3,04:08,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1093,3,03:45,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1093,3,03:23,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G1093,3,01:52,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1093,4,09:17,ORL,83.0,NYK,80.0,I. Hartenstein,NYK,Hartenstein 7' Layup (6 PTS) (Barrett 3 AST),Made Shot,Layup Shot,-1,67,7,1,2.0,2.0,v
+S2223-G1093,4,08:32,ORL,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0122,1,04:10,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0122,1,03:53,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0122,1,03:53,PHI,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0122,1,02:24,PHI,20.0,NYK,16.0,I. Hartenstein,NYK,Hartenstein 1' Dunk (2 PTS) (Rose 1 AST),Made Shot,Dunk Shot,7,5,1,1,2.0,2.0,v
+S2223-G0122,1,01:45,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0122,1,00:57.500000,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0122,1,00:16.900000,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0122,2,10:56,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0122,2,09:47,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0122,2,09:31,PHI,25.0,NYK,23.0,I. Hartenstein,NYK,Hartenstein 9' Floating Jump Shot (4 PTS) (Fournier 1 AST),Made Shot,Floating Jump shot,21,92,9,1,2.0,2.0,v
+S2223-G0122,2,09:10,PHI,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0122,2,03:25,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0122,2,03:05,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0122,3,11:37,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0122,3,10:50,PHI,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 26' 3PT Jump Shot,Missed Shot,Jump Shot,154,206,26,1,3.0,0.0,v
+S2223-G0122,3,10:11,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0122,3,09:36,PHI,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 12' Floating Jump Shot,Missed Shot,Floating Jump shot,6,119,12,1,2.0,0.0,v
+S2223-G0122,3,09:35,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0122,3,09:26,PHI,56.0,NYK,64.0,I. Hartenstein,NYK,Hartenstein 1' Driving Layup (6 PTS) (Brunson 5 AST),Made Shot,Driving Layup Shot,-6,5,1,1,2.0,2.0,v
+S2223-G0122,3,07:25,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0122,3,07:25,PHI,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0122,3,05:47,PHI,69.0,NYK,70.0,I. Hartenstein,NYK,Hartenstein 1' Cutting Dunk Shot (8 PTS) (Barrett 2 AST),Made Shot,Cutting Dunk Shot,-5,-1,1,1,2.0,2.0,v
+S2223-G0122,3,04:51,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0122,3,03:36,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0122,3,03:30,PHI,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0122,4,00:19.400000,PHI,,NYK,,I. Hartenstein,NYK,SUB: Quickley FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0876,1,03:52,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T4) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2223-G0876,1,02:06,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0876,1,00:58.300000,ATL,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 5' Floating Jump Shot,Missed Shot,Floating Jump shot,-49,-4,5,1,2.0,0.0,v
+S2223-G0876,2,08:40,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,2,07:39,ATL,29.0,NYK,46.0,I. Hartenstein,NYK,Hartenstein 1' Cutting Layup Shot (2 PTS) (Hart 2 AST),Made Shot,Cutting Layup Shot,-2,-6,1,1,2.0,2.0,v
+S2223-G0876,2,06:38,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P2.T2) (E.Lewis),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0876,2,05:56,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,2,03:24,ATL,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0876,3,02:07,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,3,02:07,ATL,71.0,NYK,84.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0876,3,01:58,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,3,01:50,ATL,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-2,11,1,1,2.0,0.0,v
+S2223-G0876,3,00:04.400000,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,3,00:04.400000,ATL,76.0,NYK,91.0,I. Hartenstein,NYK,Hartenstein Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0876,3,00:01,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0876,4,10:55,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,4,09:49,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0876,4,09:01,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,4,08:22,ATL,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 3' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,-18,28,3,1,2.0,0.0,v
+S2223-G0876,4,08:06,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,4,07:23,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,4,07:01,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,4,05:34,ATL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0876,4,02:26,ATL,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0837,1,04:11,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0837,1,01:41,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0837,1,00:09.700000,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0837,2,10:34,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0837,2,08:32,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0837,2,07:56,PHI,39.0,NYK,48.0,I. Hartenstein,NYK,Hartenstein 8' Floating Jump Shot (2 PTS) (Barrett 2 AST),Made Shot,Floating Jump shot,-21,75,8,1,2.0,2.0,v
+S2223-G0837,2,07:56,PHI,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0837,2,07:30,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0837,2,05:40,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0837,2,05:35,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P1.PN) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2223-G0837,2,05:35,PHI,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0837,3,07:12,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0837,3,04:55,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0837,3,04:08,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P2.T4) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2223-G0837,3,02:34,PHI,87.0,NYK,88.0,I. Hartenstein,NYK,Hartenstein 2' Layup (4 PTS) (Brunson 7 AST),Made Shot,Layup Shot,-21,-7,2,1,2.0,2.0,v
+S2223-G0837,3,00:33.200000,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0837,4,10:22,PHI,94.0,NYK,95.0,I. Hartenstein,NYK,Hartenstein 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-13,4,1,1,2.0,2.0,v
+S2223-G0837,4,08:13,PHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0837,4,06:38,PHI,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0765,1,03:17,NYK,13.0,LAL,17.0,I. Hartenstein,NYK,Hartenstein 1' Layup (2 PTS) (Randle 1 AST),Made Shot,Layup Shot,-9,3,1,1,2.0,2.0,h
+S2223-G0765,1,00:30,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,1,00:30,NYK,21.0,LAL,27.0,I. Hartenstein,NYK,Hartenstein Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0765,2,10:09,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0765,2,04:49,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,2,04:39,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,2,04:34,NYK,42.0,LAL,38.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0765,2,04:34,NYK,43.0,LAL,38.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0765,2,02:29,NYK,51.0,LAL,43.0,I. Hartenstein,NYK,Hartenstein 4' Turnaround Hook Shot (8 PTS) (Grimes 1 AST),Made Shot,Turnaround Hook Shot,-10,34,4,1,2.0,2.0,h
+S2223-G0765,2,01:07,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,2,01:07,NYK,,LAL,,I. Hartenstein,NYK,MISS Hartenstein 3' Putback Layup,Missed Shot,Putback Layup Shot,22,19,3,1,2.0,0.0,h
+S2223-G0765,2,01:06,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,2,01:06,NYK,,LAL,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0765,2,00:03.300000,NYK,53.0,LAL,49.0,I. Hartenstein,NYK,Hartenstein 1' Layup (10 PTS) (Randle 3 AST),Made Shot,Layup Shot,7,6,1,1,2.0,2.0,h
+S2223-G0765,3,04:01,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0765,3,03:47,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,3,02:39,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,3,01:24,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,4,08:43,NYK,94.0,LAL,97.0,I. Hartenstein,NYK,Hartenstein Cutting Finger Roll Layup Shot (12 PTS) (Quickley 5 AST),Made Shot,Cutting Finger Roll Layup Shot,-1,-1,0,1,2.0,2.0,h
+S2223-G0765,4,06:51,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0765,4,06:27,NYK,100.0,LAL,104.0,I. Hartenstein,NYK,Hartenstein 8' Turnaround Hook Shot (14 PTS) (Brunson 5 AST),Made Shot,Turnaround Hook Shot,-4,81,8,1,2.0,2.0,h
+S2223-G0765,4,04:45,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P4.PN) (T.Ford),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0765,4,04:12,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,4,03:58,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein S.FOUL (P5.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0765,4,03:36,NYK,108.0,LAL,110.0,I. Hartenstein,NYK,Hartenstein 1' Cutting Dunk Shot (16 PTS) (Grimes 2 AST),Made Shot,Cutting Dunk Shot,2,11,1,1,2.0,2.0,h
+S2223-G0765,4,02:47,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,4,02:34,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:7 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,4,02:16,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:7 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,4,00:36.700000,NYK,,LAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:7 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0765,5,05:00,NYK,,LAL,,I. Hartenstein,NYK,Jump Ball Hartenstein vs. Davis: Tip to Westbrook,Jump Ball,,0,0,0,0,,,h
+S2223-G0765,5,01:04,NYK,,LAL,,I. Hartenstein,NYK,MISS Hartenstein 3PT Jump Shot,Missed Shot,Jump Shot,-228,-1,0,1,3.0,0.0,h
+S2223-G0949,1,04:18,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0949,1,03:53,MIA,26.0,NYK,23.0,I. Hartenstein,NYK,Hartenstein 9' Floating Jump Shot (2 PTS) (Brunson 4 AST),Made Shot,Floating Jump shot,43,79,9,1,2.0,2.0,v
+S2223-G0949,1,02:00,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0949,2,11:03,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0949,2,09:42,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0949,2,09:08,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P2.T2) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2223-G0949,2,09:08,MIA,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0949,3,01:39,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0949,3,01:19,MIA,88.0,NYK,93.0,I. Hartenstein,NYK,Hartenstein 10' Floating Jump Shot (4 PTS) (Quickley 3 AST),Made Shot,Floating Jump shot,98,18,10,1,2.0,2.0,v
+S2223-G0949,3,00:34.900000,MIA,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0949,4,07:39,MIA,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0135,1,12:00,NYK,,BOS,,I. Hartenstein,NYK,Jump Ball Hartenstein vs. Griffin: Tip to Smart,Jump Ball,,0,0,0,0,,,h
+S2223-G0135,1,10:35,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,1,07:55,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,1,07:16,NYK,7.0,BOS,15.0,I. Hartenstein,NYK,Hartenstein Cutting Layup Shot (2 PTS) (Barrett 2 AST),Made Shot,Cutting Layup Shot,4,2,0,1,2.0,2.0,h
+S2223-G0135,1,06:56,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,1,06:12,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,1,05:40,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,1,05:18,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,1,02:28,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,1,01:35,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P1.T1) (P.Ransom),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0135,1,01:35,NYK,,BOS,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0135,2,05:53,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2223-G0135,2,04:12,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0135,2,04:03,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,2,03:36,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,3,07:42,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.T3) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0135,3,06:31,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,3,06:12,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,3,06:11,NYK,,BOS,,I. Hartenstein,NYK,MISS Hartenstein 2' Layup,Missed Shot,Layup Shot,4,19,2,1,2.0,0.0,h
+S2223-G0135,3,03:22,NYK,92.0,BOS,95.0,I. Hartenstein,NYK,Hartenstein 1' Cutting Dunk Shot (4 PTS) (Rose 1 AST),Made Shot,Cutting Dunk Shot,-10,-2,1,1,2.0,2.0,h
+S2223-G0135,3,02:22,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,3,01:59,NYK,,BOS,,I. Hartenstein,NYK,SUB: Toppin FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0135,4,09:44,NYK,98.0,BOS,103.0,I. Hartenstein,NYK,Hartenstein 9' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,91,20,9,1,2.0,2.0,h
+S2223-G0135,4,07:43,NYK,,BOS,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0135,4,05:21,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,4,05:21,NYK,109.0,BOS,116.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0135,4,04:08,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0135,4,04:08,NYK,114.0,BOS,119.0,I. Hartenstein,NYK,Hartenstein Tip Dunk Shot (10 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0046,1,03:59,NYK,19.0,ORL,20.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0046,1,03:59,NYK,20.0,ORL,20.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0046,1,02:48,NYK,,ORL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0046,1,02:48,NYK,,ORL,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0046,1,02:47,NYK,,ORL,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0046,1,02:47,NYK,23.0,ORL,22.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0046,1,01:17,NYK,,ORL,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0046,1,00:46.400000,NYK,,ORL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0046,1,00:46.400000,NYK,32.0,ORL,26.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0046,2,11:19,NYK,,ORL,,I. Hartenstein,NYK,MISS Hartenstein 11' Floating Jump Shot,Missed Shot,Floating Jump shot,-39,105,11,1,2.0,0.0,h
+S2223-G0046,2,07:15,NYK,,ORL,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0046,3,03:34,NYK,,ORL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0046,3,03:24,NYK,,ORL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0046,3,03:24,NYK,87.0,ORL,76.0,I. Hartenstein,NYK,Hartenstein Putback Layup (7 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0046,3,01:56,NYK,,ORL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0046,3,01:16,NYK,,ORL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0046,4,11:42,NYK,,ORL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0046,4,11:42,NYK,,ORL,,I. Hartenstein,NYK,MISS Hartenstein 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,11,1,1,2.0,0.0,h
+S2223-G0046,4,10:39,NYK,,ORL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0046,4,10:35,NYK,,ORL,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0046,4,09:45,NYK,,ORL,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P1.T2) (S.Foster),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0046,4,09:20,NYK,,ORL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0046,4,08:15,NYK,,ORL,,I. Hartenstein,NYK,SUB: Brunson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G1084,1,02:59,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1084,2,09:54,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G1084,2,08:01,MIA,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,-13,24,1,3.0,0.0,v
+S2223-G1084,2,07:20,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G1084,2,07:20,MIA,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G1084,2,01:15,MIA,60.0,NYK,55.0,I. Hartenstein,NYK,Hartenstein 8' Floating Jump Shot (2 PTS) (Grimes 1 AST),Made Shot,Floating Jump shot,-60,57,8,1,2.0,2.0,v
+S2223-G1084,2,00:25.800000,MIA,,NYK,,I. Hartenstein,NYK,SUB: McBride FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G1084,3,04:38,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1084,3,04:35,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1084,3,04:23,MIA,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 11' Floating Jump Shot,Missed Shot,Floating Jump shot,-4,109,11,1,2.0,0.0,v
+S2223-G1084,3,03:40,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1084,3,03:36,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1084,3,02:16,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P3) (K.Scott),Foul,Offensive,0,0,0,0,,,v
+S2223-G1084,3,02:16,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1084,3,01:51,MIA,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G1084,4,07:25,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P4) (B.Forte),Foul,Offensive,0,0,0,0,,,v
+S2223-G1084,4,07:25,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P3.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1084,4,06:32,MIA,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P5.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G1084,4,04:35,MIA,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0816,1,03:11,ORL,22.0,NYK,17.0,I. Hartenstein,NYK,Hartenstein 10' Floating Jump Shot (2 PTS) (Randle 3 AST),Made Shot,Floating Jump shot,-6,95,10,1,2.0,2.0,v
+S2223-G0816,1,01:41,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T3) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0816,1,00:45.600000,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0816,1,00:42.500000,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,1,00:01.800000,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P2.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G0816,2,11:12,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,2,10:50,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P3.T1) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2223-G0816,2,10:50,ORL,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0816,3,02:06,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P4.PN) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2223-G0816,3,01:52,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0816,3,00:55.900000,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0816,3,00:04,ORL,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0816,4,07:45,ORL,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P5.T2) (T.Ford),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0816,4,07:45,ORL,,NYK,,I. Hartenstein,NYK,SUB: Brunson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0816,4,00:02.300000,ORL,,NYK,,I. Hartenstein,NYK,SUB: Barrett FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G1138,1,01:45,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1138,1,01:28,NYK,,MIA,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1138,1,01:28,NYK,,MIA,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1138,1,00:28.900000,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1138,1,00:03.300000,NYK,19.0,MIA,23.0,I. Hartenstein,NYK,Hartenstein 2' Layup (2 PTS) (Quickley 1 AST),Made Shot,Layup Shot,-15,12,2,1,2.0,2.0,h
+S2223-G1138,2,09:55,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1138,2,08:27,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1138,2,07:40,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1138,2,05:29,NYK,35.0,MIA,35.0,I. Hartenstein,NYK,Hartenstein 1' Alley Oop Dunk (4 PTS) (Toppin 1 AST),Made Shot,Alley Oop Dunk Shot,13,-3,1,1,2.0,2.0,h
+S2223-G1138,2,04:42,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1138,2,04:03,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1138,2,03:55,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1138,2,01:48,NYK,,MIA,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G1138,3,02:10,NYK,,MIA,,I. Hartenstein,NYK,MISS Hartenstein 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,119,12,1,2.0,0.0,h
+S2223-G1138,3,01:39,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein Out of Bounds - Bad Pass Turnover Turnover (P1.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1138,3,00:01.200000,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G1138,4,11:44,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P2.T1) (J.Van Duyne),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1138,4,10:43,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein P.FOUL (P3.T2) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2223-G1138,4,10:06,NYK,81.0,MIA,79.0,I. Hartenstein,NYK,Hartenstein Dunk (6 PTS) (Quickley 4 AST),Made Shot,Dunk Shot,-1,0,0,1,2.0,2.0,h
+S2223-G1138,4,07:28,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1138,4,05:59,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1138,4,02:45,NYK,,MIA,,I. Hartenstein,NYK,MISS Hartenstein 1' Layup,Missed Shot,Layup Shot,12,6,1,1,2.0,0.0,h
+S2223-G1138,4,02:33,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1138,4,01:25,NYK,,MIA,,I. Hartenstein,NYK,Hartenstein STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0512,2,11:28,DAL,28.0,NYK,32.0,I. Hartenstein,NYK,Hartenstein 14' Floating Jump Shot (2 PTS) (Quickley 6 AST),Made Shot,Floating Jump shot,16,136,14,1,2.0,2.0,v
+S2223-G0512,2,09:23,DAL,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 3PT Jump Shot,Missed Shot,Jump Shot,-230,16,0,1,3.0,0.0,v
+S2223-G0512,2,07:40,DAL,38.0,NYK,42.0,I. Hartenstein,NYK,Hartenstein 24' 3PT Jump Shot (5 PTS) (Quickley 9 AST),Made Shot,Jump Shot,229,85,24,1,3.0,3.0,v
+S2223-G0512,2,06:21,DAL,,NYK,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0512,4,07:57,DAL,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 6' Jump Shot,Missed Shot,Jump Shot,24,50,6,1,2.0,0.0,v
+S2223-G0512,4,07:54,DAL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0512,4,07:51,DAL,,NYK,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0512,4,06:42,DAL,,NYK,,I. Hartenstein,NYK,SUB: McBride FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0178,1,12:00,NYK,,DET,,I. Hartenstein,NYK,Jump Ball Hartenstein vs. Stewart: Tip to Bogdanovic,Jump Ball,,0,0,0,0,,,h
+S2223-G0178,1,08:42,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,1,07:50,NYK,,DET,,I. Hartenstein,NYK,Hartenstein Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0178,1,07:39,NYK,,DET,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T2) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2223-G0178,1,07:07,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,1,06:56,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,1,05:33,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,1,05:33,NYK,12.0,DET,12.0,I. Hartenstein,NYK,Hartenstein 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,11,7,1,1,2.0,2.0,h
+S2223-G0178,1,04:29,NYK,,DET,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0178,2,11:42,NYK,32.0,DET,26.0,I. Hartenstein,NYK,Hartenstein 2' Layup (4 PTS) (Toppin 1 AST),Made Shot,Layup Shot,-20,-4,2,1,2.0,2.0,h
+S2223-G0178,2,11:21,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,2,10:32,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,2,10:32,NYK,34.0,DET,29.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0178,2,10:21,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,2,09:56,NYK,,DET,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P2.T3) (J.Tiven),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0178,2,09:31,NYK,,DET,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0178,2,07:43,NYK,,DET,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G0178,2,07:22,NYK,,DET,,I. Hartenstein,NYK,SUB: Toppin FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0178,3,10:24,NYK,,DET,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0178,3,09:51,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,3,05:23,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,3,03:38,NYK,,DET,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0178,4,11:10,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,4,10:21,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,4,10:20,NYK,,DET,,I. Hartenstein,NYK,MISS Hartenstein 1' Putback Layup,Missed Shot,Putback Layup Shot,-5,9,1,1,2.0,0.0,h
+S2223-G0178,4,08:39,NYK,,DET,,I. Hartenstein,NYK,MISS Hartenstein 7' Floating Jump Shot,Missed Shot,Floating Jump shot,-22,63,7,1,2.0,0.0,h
+S2223-G0178,4,07:07,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0178,4,07:05,NYK,,DET,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0178,4,03:11,NYK,,DET,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P4.PN) (L.Wood),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0178,4,02:22,NYK,,DET,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P5) (T.Maddox),Foul,Offensive,0,0,0,0,,,h
+S2223-G0178,4,02:22,NYK,,DET,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0969,1,02:52,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0969,1,02:09,BOS,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 2' Running Layup,Missed Shot,Running Layup Shot,-2,16,2,1,2.0,0.0,v
+S2223-G0969,1,00:48.400000,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P2) (B.Nansel),Foul,Offensive,0,0,0,0,,,v
+S2223-G0969,1,00:48.400000,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0969,1,00:48.400000,BOS,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0969,3,01:53,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.T2) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0969,4,11:24,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0969,4,10:23,BOS,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 8' Jump Shot,Missed Shot,Jump Shot,-1,81,8,1,2.0,0.0,v
+S2223-G0969,4,10:00,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P4.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G0969,4,10:00,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0969,4,09:56,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein Out of Bounds - Bad Pass Turnover Turnover (P2.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0969,4,08:40,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0969,4,07:24,BOS,,NYK,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0550,1,01:58,NYK,,PHX,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0550,2,08:31,NYK,,PHX,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0550,3,02:47,NYK,76.0,PHX,46.0,I. Hartenstein,NYK,Hartenstein Dunk (2 PTS) (Grimes 4 AST),Made Shot,Dunk Shot,0,1,0,1,2.0,2.0,h
+S2223-G0550,3,02:14,NYK,,PHX,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0550,3,02:14,NYK,77.0,PHX,49.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0550,3,02:02,NYK,,PHX,,I. Hartenstein,NYK,Hartenstein P.FOUL (P1.PN) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2223-G0550,4,10:22,NYK,,PHX,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0090,1,04:49,CLE,19.0,NYK,17.0,I. Hartenstein,NYK,Hartenstein 8' Floating Jump Shot (2 PTS) (Brunson 3 AST),Made Shot,Floating Jump shot,-62,50,8,1,2.0,2.0,v
+S2223-G0090,1,03:28,CLE,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,42,24,1,3.0,0.0,v
+S2223-G0090,1,03:03,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0090,1,00:27.900000,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P1) (E.Lewis),Foul,Offensive,0,0,0,0,,,v
+S2223-G0090,1,00:27.900000,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0090,2,11:39,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0090,2,11:29,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0090,2,11:26,CLE,35.0,NYK,32.0,I. Hartenstein,NYK,Hartenstein 13' Floating Jump Shot (4 PTS) (Reddish 1 AST),Made Shot,Floating Jump shot,10,134,13,1,2.0,2.0,v
+S2223-G0090,2,11:14,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P2.T1) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G0090,2,08:52,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0090,2,06:50,CLE,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 13' Floating Jump Shot,Missed Shot,Floating Jump shot,16,132,13,1,2.0,0.0,v
+S2223-G0090,2,06:31,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0090,2,06:30,CLE,48.0,NYK,43.0,I. Hartenstein,NYK,Hartenstein 2' Putback Dunk (6 PTS),Made Shot,Putback Dunk Shot,-5,17,2,1,2.0,2.0,v
+S2223-G0090,2,03:24,CLE,55.0,NYK,51.0,I. Hartenstein,NYK,Hartenstein 12' Floating Jump Shot (8 PTS) (Barrett 1 AST),Made Shot,Floating Jump shot,-45,108,12,1,2.0,2.0,v
+S2223-G0090,2,02:42,CLE,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 12' Floating Jump Shot,Missed Shot,Floating Jump shot,114,38,12,1,2.0,0.0,v
+S2223-G0090,2,02:21,CLE,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0090,3,05:46,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0090,3,05:18,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0090,3,05:11,CLE,73.0,NYK,77.0,I. Hartenstein,NYK,Hartenstein 14' Floating Jump Shot (10 PTS) (Randle 4 AST),Made Shot,Floating Jump shot,62,125,14,1,2.0,2.0,v
+S2223-G0090,3,04:28,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0090,3,04:16,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0090,3,04:16,CLE,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0090,3,03:51,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0090,3,03:51,CLE,76.0,NYK,79.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0090,3,02:09,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0090,4,07:25,CLE,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2223-G0090,4,07:25,CLE,,NYK,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0337,1,03:05,NYK,,DAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0337,1,02:31,NYK,,DAL,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0337,1,01:54,NYK,,DAL,,I. Hartenstein,NYK,MISS Hartenstein 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-25,0,3,1,2.0,0.0,h
+S2223-G0337,1,01:36,NYK,,DAL,,I. Hartenstein,NYK,Hartenstein STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0337,2,10:53,NYK,,DAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0337,2,10:37,NYK,,DAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0337,2,10:13,NYK,38.0,DAL,23.0,I. Hartenstein,NYK,Hartenstein 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-28,1,3,1,2.0,2.0,h
+S2223-G0337,2,09:56,NYK,,DAL,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0337,2,09:36,NYK,,DAL,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0337,3,07:41,NYK,,DAL,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P2.T1) (T.Ford),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0337,3,03:08,NYK,,DAL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0337,3,02:27,NYK,,DAL,,I. Hartenstein,NYK,Hartenstein Traveling Turnover (P1.T13),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0337,3,02:27,NYK,,DAL,,I. Hartenstein,NYK,SUB: Toppin FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0622,2,08:12,NYK,,IND,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0622,3,02:39,NYK,,IND,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0622,3,02:37,NYK,,IND,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0622,3,02:32,NYK,,IND,,I. Hartenstein,NYK,"Double Technical - Hartenstein, Jackson (R.Acosta)",Foul,Double Technical,0,0,0,0,,,
+S2223-G0622,3,01:59,NYK,,IND,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0622,4,11:03,NYK,,IND,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T1) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2223-G0622,4,11:03,NYK,,IND,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0730,1,03:49,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P1.T2) (B.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0730,1,02:45,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T4) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0730,1,00:01.700000,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,2,11:20,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,2,10:04,BOS,34.0,NYK,31.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0730,2,10:04,BOS,34.0,NYK,32.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0730,2,09:48,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,2,07:50,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G0730,2,07:50,BOS,,NYK,,I. Hartenstein,NYK,SUB: Grimes FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0730,3,01:14,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,3,01:11,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0730,3,00:02.200000,BOS,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0730,4,07:45,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0730,4,06:24,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,4,05:26,BOS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0730,4,05:26,BOS,94.0,NYK,106.0,I. Hartenstein,NYK,Hartenstein 2' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,18,2,1,2.0,2.0,v
+S2223-G0730,4,05:03,BOS,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0233,1,11:41,GSW,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,1,10:02,GSW,4.0,NYK,4.0,I. Hartenstein,NYK,Hartenstein 9' Floating Jump Shot (2 PTS) (Barrett 1 AST),Made Shot,Floating Jump shot,33,85,9,1,2.0,2.0,v
+S2223-G0233,1,08:06,GSW,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P1.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2223-G0233,1,07:57,GSW,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,1,07:17,GSW,,NYK,,I. Hartenstein,NYK,Hartenstein Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0233,1,07:08,GSW,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0233,1,06:00,GSW,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,1,04:44,GSW,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0233,1,04:38,GSW,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0233,2,02:46,GSW,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 12' Floating Jump Shot,Missed Shot,Floating Jump shot,10,117,12,1,2.0,0.0,v
+S2223-G0233,2,02:38,GSW,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T3) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2223-G0233,2,02:19,GSW,58.0,NYK,39.0,I. Hartenstein,NYK,Hartenstein 24' 3PT Jump Shot (5 PTS) (Barrett 3 AST),Made Shot,Jump Shot,243,20,24,1,3.0,3.0,v
+S2223-G0233,2,00:30.200000,GSW,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0233,3,10:41,GSW,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,3,09:13,GSW,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P3.T1) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2223-G0233,3,07:15,GSW,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0233,3,04:33,GSW,74.0,NYK,60.0,I. Hartenstein,NYK,Hartenstein 5' Cutting Layup Shot (7 PTS) (Rose 2 AST),Made Shot,Cutting Layup Shot,-37,32,5,1,2.0,2.0,v
+S2223-G0233,3,04:33,GSW,74.0,NYK,61.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0233,3,04:26,GSW,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0634,1,03:11,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0634,1,02:36,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0634,1,01:09,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0634,1,01:08,WAS,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 4' Layup,Missed Shot,Layup Shot,-39,17,4,1,2.0,0.0,v
+S2223-G0634,1,01:00,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0634,1,00:59.500000,WAS,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 6' Tip Layup Shot,Missed Shot,Tip Layup Shot,-47,37,6,1,2.0,0.0,v
+S2223-G0634,1,00:29.800000,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0634,1,00:29.800000,WAS,19.0,NYK,19.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0634,2,11:13,WAS,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 15' Floating Jump Shot,Missed Shot,Floating Jump shot,56,136,15,1,2.0,0.0,v
+S2223-G0634,2,11:10,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0634,2,10:41,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0634,2,08:25,WAS,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0634,3,04:04,WAS,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0634,3,04:04,WAS,70.0,NYK,72.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0634,3,02:20,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P1.PN) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0634,3,01:36,WAS,73.0,NYK,79.0,I. Hartenstein,NYK,Hartenstein 3' Driving Layup (5 PTS) (Brunson 5 AST),Made Shot,Driving Layup Shot,-27,18,3,1,2.0,2.0,v
+S2223-G0634,3,01:36,WAS,73.0,NYK,80.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0634,4,11:43,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0634,4,09:47,WAS,79.0,NYK,89.0,I. Hartenstein,NYK,Hartenstein 1' Cutting Dunk Shot (8 PTS) (Quickley 2 AST),Made Shot,Cutting Dunk Shot,-1,12,1,1,2.0,2.0,v
+S2223-G0634,4,07:57,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P3) (B.Schwab),Foul,Offensive,0,0,0,0,,,v
+S2223-G0634,4,07:57,WAS,,NYK,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0634,4,07:57,WAS,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0634,4,00:16.600000,WAS,,NYK,,I. Hartenstein,NYK,SUB: Quickley FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0862,1,04:29,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0862,1,03:09,NYK,19.0,BKN,21.0,I. Hartenstein,NYK,Hartenstein 1' Dunk (2 PTS) (Hart 1 AST),Made Shot,Dunk Shot,-7,2,1,1,2.0,2.0,h
+S2223-G0862,2,09:57,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0862,2,09:57,NYK,41.0,BKN,33.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0862,2,08:32,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0862,2,07:39,NYK,,BKN,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0862,3,01:17,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P2.PN) (J.Goble),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0862,3,00:36.400000,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0862,3,00:36.400000,NYK,89.0,BKN,81.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0862,3,00:36.400000,NYK,90.0,BKN,81.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0862,4,10:39,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein Traveling Turnover (P2.T6),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0862,4,10:25,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0862,4,07:30,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.T3) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2223-G0862,4,06:28,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P4.T4) (R.Mott),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0862,4,06:06,NYK,108.0,BKN,94.0,I. Hartenstein,NYK,Hartenstein 2' Alley Oop Dunk (8 PTS) (Brunson 5 AST),Made Shot,Alley Oop Dunk Shot,7,14,2,1,2.0,2.0,h
+S2223-G0862,4,05:21,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0862,4,04:01,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0862,4,02:51,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0862,4,01:52,NYK,,BKN,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0527,1,03:12,SAS,24.0,NYK,27.0,I. Hartenstein,NYK,Hartenstein 6' Floating Jump Shot (2 PTS) (McBride 1 AST),Made Shot,Floating Jump shot,-1,62,6,1,2.0,2.0,v
+S2223-G0527,1,02:38,SAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0527,1,02:37,SAS,,NYK,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0527,2,10:49,SAS,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 25' 3PT Jump Shot,Missed Shot,Jump Shot,-129,214,25,1,3.0,0.0,v
+S2223-G0527,2,10:37,SAS,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0527,2,09:09,SAS,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0527,2,09:09,SAS,,NYK,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0527,3,04:00,SAS,84.0,NYK,71.0,I. Hartenstein,NYK,Hartenstein 2' Layup (4 PTS) (Randle 4 AST),Made Shot,Layup Shot,16,6,2,1,2.0,2.0,v
+S2223-G0527,3,01:27,SAS,,NYK,,I. Hartenstein,NYK,Hartenstein Violation:Kicked Ball (M.Davis),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0527,3,00:56.500000,SAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0527,3,00:45.900000,SAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0527,3,00:20.900000,SAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0527,4,11:07,SAS,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0527,4,11:07,SAS,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0527,4,09:46,SAS,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0527,4,09:41,SAS,,NYK,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0659,1,02:39,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0659,1,02:22,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0659,1,02:20,NYK,21.0,TOR,25.0,I. Hartenstein,NYK,Hartenstein Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0659,1,01:29,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0659,2,09:53,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0659,2,09:22,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0659,2,07:06,NYK,,TOR,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0659,3,01:21,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0659,4,11:27,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0659,4,10:34,NYK,,TOR,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0659,4,08:00,NYK,,TOR,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0434,1,01:24,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0434,1,01:24,CHI,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0434,1,01:02,CHI,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0434,2,11:19,CHI,34.0,NYK,31.0,I. Hartenstein,NYK,Hartenstein 6' Driving Floating Jump Shot (2 PTS) (Quickley 1 AST),Made Shot,Driving Floating Jump Shot,20,53,6,1,2.0,2.0,v
+S2223-G0434,2,10:56,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0434,2,10:56,CHI,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0434,2,10:56,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0434,2,10:56,CHI,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0434,2,10:56,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0434,2,10:56,CHI,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0434,2,09:19,CHI,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 3PT Jump Shot,Missed Shot,Jump Shot,232,-21,0,1,3.0,0.0,v
+S2223-G0434,2,08:17,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0434,2,07:11,CHI,,NYK,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0434,3,02:10,CHI,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0434,3,02:10,CHI,72.0,NYK,84.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0434,3,01:35,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0434,3,00:47.300000,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0434,3,00:05.600000,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P1.T3) (N.Green),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0434,4,09:42,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0434,4,08:53,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0434,4,08:38,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0434,4,08:38,CHI,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0434,4,07:54,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P2) (S.Corbin),Foul,Offensive,0,0,0,0,,,v
+S2223-G0434,4,07:54,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0434,4,07:54,CHI,,NYK,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0208,1,11:23,UTA,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0208,1,11:03,UTA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,1,09:21,UTA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,1,08:40,UTA,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 21' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-129,167,21,1,2.0,0.0,v
+S2223-G0208,1,08:26,UTA,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P2.T2) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G0208,1,08:26,UTA,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0208,2,03:51,UTA,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.PN) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0208,2,03:51,UTA,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0208,3,11:02,UTA,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0208,3,08:40,UTA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,3,06:49,UTA,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 3PT Jump Shot,Missed Shot,Jump Shot,228,7,0,1,3.0,0.0,v
+S2223-G0208,3,06:37,UTA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,3,06:25,UTA,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 9' Floating Jump Shot,Missed Shot,Floating Jump shot,-2,86,9,1,2.0,0.0,v
+S2223-G0208,3,04:40,UTA,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0208,4,09:27,UTA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,4,09:05,UTA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,4,08:38,UTA,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0208,4,08:13,UTA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,4,08:13,UTA,89.0,NYK,97.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0208,4,04:59,UTA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0208,4,03:54,UTA,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P4.PN) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0208,4,00:10.800000,UTA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0463,2,06:52,NYK,,GSW,,I. Hartenstein,NYK,SUB: Grimes FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0463,3,00:05,NYK,,GSW,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0463,4,09:11,NYK,,GSW,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0463,4,09:11,NYK,,GSW,,I. Hartenstein,NYK,MISS Hartenstein 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,-3,4,1,1,2.0,0.0,h
+S2223-G0463,4,08:06,NYK,,GSW,,I. Hartenstein,NYK,MISS Hartenstein 2' Driving Layup,Missed Shot,Driving Layup Shot,1,17,2,1,2.0,0.0,h
+S2223-G0463,4,06:20,NYK,,GSW,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0463,4,06:08,NYK,,GSW,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P1) (E.Malloy),Foul,Offensive,0,0,0,0,,,h
+S2223-G0463,4,06:08,NYK,,GSW,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0463,4,04:49,NYK,,GSW,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0463,4,04:10,NYK,,GSW,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0463,4,04:09,NYK,125.0,GSW,91.0,I. Hartenstein,NYK,Hartenstein 1' Dunk (2 PTS),Made Shot,Dunk Shot,-2,6,1,1,2.0,2.0,h
+S2223-G0463,4,02:40,NYK,,GSW,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0463,4,01:59,NYK,,GSW,,I. Hartenstein,NYK,MISS Hartenstein 3PT Jump Shot,Missed Shot,Jump Shot,-223,-5,0,1,3.0,0.0,h
+S2223-G0463,4,00:36.200000,NYK,,GSW,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0009,1,03:21,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0009,1,03:21,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0009,2,10:18,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0009,2,10:09,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0009,2,10:09,MEM,28.0,NYK,27.0,I. Hartenstein,NYK,Hartenstein Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0009,2,10:09,MEM,28.0,NYK,28.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0009,2,08:15,MEM,36.0,NYK,32.0,I. Hartenstein,NYK,Hartenstein 12' Floating Jump Shot (5 PTS) (Brunson 1 AST),Made Shot,Floating Jump shot,-2,117,12,1,2.0,2.0,v
+S2223-G0009,2,07:23,MEM,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 26' 3PT Jump Shot,Missed Shot,Jump Shot,64,252,26,1,3.0,0.0,v
+S2223-G0009,2,07:17,MEM,39.0,NYK,34.0,I. Hartenstein,NYK,Hartenstein 5' Floating Jump Shot (7 PTS) (Toppin 1 AST),Made Shot,Floating Jump shot,-1,50,5,1,2.0,2.0,v
+S2223-G0009,2,06:52,MEM,,NYK,,I. Hartenstein,NYK,SUB: Barrett FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0009,2,02:49,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0009,2,02:25,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P1.T3) (C.Blair),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0009,2,01:30,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0009,2,01:25,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0009,2,01:24,MEM,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 2' Floating Jump Shot,Missed Shot,Floating Jump shot,2,21,2,1,2.0,0.0,v
+S2223-G0009,3,08:03,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:6 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0009,3,07:26,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0009,3,05:33,MEM,76.0,NYK,65.0,I. Hartenstein,NYK,Hartenstein 13' Floating Jump Shot (9 PTS) (Brunson 4 AST),Made Shot,Floating Jump shot,37,125,13,1,2.0,2.0,v
+S2223-G0009,3,01:21,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein Out of Bounds - Bad Pass Turnover Turnover (P3.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0009,4,11:34,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0009,4,10:06,MEM,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 3PT Jump Shot,Missed Shot,Jump Shot,-227,43,0,1,3.0,0.0,v
+S2223-G0009,4,08:58,MEM,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0009,4,06:21,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:7 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0009,4,04:00,MEM,95.0,NYK,94.0,I. Hartenstein,NYK,Hartenstein 13' Floating Jump Shot (11 PTS) (Randle 5 AST),Made Shot,Floating Jump shot,13,127,13,1,2.0,2.0,v
+S2223-G0009,4,01:39,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0009,4,01:01,MEM,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 25' 3PT Jump Shot,Missed Shot,Jump Shot,-88,232,25,1,3.0,0.0,v
+S2223-G0009,4,00:28.900000,MEM,106.0,NYK,104.0,I. Hartenstein,NYK,Hartenstein 4' Cutting Layup Shot (13 PTS) (Brunson 8 AST),Made Shot,Cutting Layup Shot,17,32,4,1,2.0,2.0,v
+S2223-G0009,4,00:28.900000,MEM,106.0,NYK,105.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0009,4,00:08.400000,MEM,,NYK,,I. Hartenstein,NYK,SUB: Fournier FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0009,5,03:52,MEM,110.0,NYK,110.0,I. Hartenstein,NYK,Hartenstein 9' Hook Shot (16 PTS) (Barrett 3 AST),Made Shot,Hook Shot,6,94,9,1,2.0,2.0,v
+S2223-G0009,5,03:03,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2223-G0009,5,00:09.800000,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein Personal Take Foul (P4.T2) (C.Blair),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0009,5,00:04.700000,MEM,,NYK,,I. Hartenstein,NYK,Hartenstein Personal Take Foul (P5.PN) (D.Taylor),Foul,Personal Take,0,0,0,0,,,v
+S2223-G0377,1,03:00,CHA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0377,1,01:57,CHA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0377,1,01:57,CHA,18.0,NYK,22.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0377,1,01:39,CHA,,NYK,,I. Hartenstein,NYK,Hartenstein Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0377,1,00:21.100000,CHA,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0377,1,00:21.100000,CHA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0377,2,10:51,CHA,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0377,2,09:20,CHA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0377,2,08:56,CHA,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0377,3,00:22,CHA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0377,3,00:01.200000,CHA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0377,4,11:51,CHA,71.0,NYK,91.0,I. Hartenstein,NYK,Hartenstein 2' Alley Oop Dunk (4 PTS) (Barrett 3 AST),Made Shot,Alley Oop Dunk Shot,0,20,2,1,2.0,2.0,v
+S2223-G0377,4,11:00,CHA,73.0,NYK,94.0,I. Hartenstein,NYK,Hartenstein 3PT Jump Shot (7 PTS) (Quickley 3 AST),Made Shot,Jump Shot,-234,20,0,1,3.0,3.0,v
+S2223-G0377,4,10:26,CHA,75.0,NYK,96.0,I. Hartenstein,NYK,Hartenstein 2' Alley Oop Dunk (9 PTS) (Barrett 4 AST),Made Shot,Alley Oop Dunk Shot,-2,15,2,1,2.0,2.0,v
+S2223-G0377,4,08:52,CHA,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0377,4,07:38,CHA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0377,4,06:53,CHA,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0377,4,06:53,CHA,81.0,NYK,105.0,I. Hartenstein,NYK,Hartenstein Putback Layup (11 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0377,4,06:28,CHA,,NYK,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G1073,1,03:57,NYK,,MIN,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T4) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G1073,1,03:55,NYK,,MIN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1073,1,03:03,NYK,,MIN,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1073,1,02:24,NYK,,MIN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1073,1,00:56.700000,NYK,,MIN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1073,1,00:02.200000,NYK,,MIN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1073,2,10:53,NYK,,MIN,,I. Hartenstein,NYK,MISS Hartenstein 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,6,12,1,1,2.0,0.0,h
+S2223-G1073,2,10:29,NYK,,MIN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1073,2,07:58,NYK,,MIN,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G1073,4,10:38,NYK,,MIN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1073,4,10:13,NYK,,MIN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1073,4,09:01,NYK,117.0,MIN,116.0,I. Hartenstein,NYK,Hartenstein 1' Driving Dunk (2 PTS) (Quickley 3 AST),Made Shot,Driving Dunk Shot,-6,6,1,1,2.0,2.0,h
+S2223-G1073,4,09:01,NYK,118.0,MIN,116.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G1073,4,06:44,NYK,,MIN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1073,4,06:44,NYK,125.0,MIN,120.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1073,4,04:52,NYK,,MIN,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G1209,1,10:48,NOP,,NYK,,I. Hartenstein,NYK,Hartenstein P.FOUL (P1.T1) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2223-G1209,1,09:44,NOP,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G1209,2,02:52,NOP,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1209,3,11:45,NOP,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2223-G1209,3,10:07,NOP,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1209,3,09:11,NOP,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 14' Floating Jump Shot,Missed Shot,Floating Jump shot,1,138,14,1,2.0,0.0,v
+S2223-G1209,3,08:45,NOP,,NYK,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P3) (N.Buchert),Foul,Offensive,0,0,0,0,,,v
+S2223-G1209,3,08:45,NOP,,NYK,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1209,3,07:50,NOP,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1209,3,07:42,NOP,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P4.T2) (N.Buchert),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1209,3,07:42,NOP,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G1209,4,02:12,NOP,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1209,4,01:02,NOP,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P5.T4) (B.Kennedy),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0418,1,02:37,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0418,1,02:24,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0418,1,02:24,CHI,21.0,NYK,27.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0418,1,02:12,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2223-G0418,1,00:49,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0418,1,00:49,CHI,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0418,1,00:47.300000,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0418,1,00:47.300000,CHI,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0418,1,00:16.600000,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T4) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0418,2,10:44,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0418,2,10:14,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0418,2,09:16,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0418,2,08:32,CHI,33.0,NYK,45.0,I. Hartenstein,NYK,Hartenstein 3PT Jump Shot (5 PTS) (McBride 1 AST),Made Shot,Jump Shot,-228,-10,0,1,3.0,3.0,v
+S2223-G0418,2,07:58,CHI,,NYK,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0418,3,04:28,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P3.T4) (C.Washington),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0418,3,03:03,CHI,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 11' Floating Jump Shot,Missed Shot,Floating Jump shot,11,108,11,1,2.0,0.0,v
+S2223-G0418,4,10:48,CHI,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0418,4,10:48,CHI,93.0,NYK,93.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0418,4,10:48,CHI,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0418,4,09:24,CHI,,NYK,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0316,1,01:36,NYK,,MIL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0316,1,00:43.700000,NYK,,MIL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0316,2,09:52,NYK,,MIL,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0316,2,09:44,NYK,,MIL,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0316,3,04:17,NYK,,MIL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0316,3,03:47,NYK,,MIL,,I. Hartenstein,NYK,Hartenstein P.FOUL (P1.PN) (D.Mosher),Foul,Personal,0,0,0,0,,,h
+S2223-G0316,3,01:26,NYK,,MIL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0316,3,01:24,NYK,69.0,MIL,70.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0316,3,00:27.800000,NYK,,MIL,,I. Hartenstein,NYK,MISS Hartenstein 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,55,6,1,2.0,0.0,h
+S2223-G0316,3,00:02,NYK,,MIL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1004,1,04:21,LAC,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1004,1,01:45,LAC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1004,2,11:12,LAC,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 3PT Jump Shot,Missed Shot,Jump Shot,-232,37,0,1,3.0,0.0,v
+S2223-G1004,2,10:31,LAC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1004,2,07:15,LAC,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T2) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G1004,2,07:01,LAC,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-15,15,2,1,2.0,0.0,v
+S2223-G1004,2,06:47,LAC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1004,2,06:12,LAC,36.0,NYK,37.0,I. Hartenstein,NYK,Hartenstein 2' Cutting Layup Shot (2 PTS) (Quickley 2 AST),Made Shot,Cutting Layup Shot,21,5,2,1,2.0,2.0,v
+S2223-G1004,2,05:58,LAC,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G1004,3,00:57.500000,LAC,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,5,50,5,1,2.0,0.0,v
+S2223-G1004,3,00:26,LAC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1004,3,00:26,LAC,73.0,NYK,74.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G1004,4,09:13,LAC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1004,4,08:13,LAC,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P2.T2) (T.Washington),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1004,4,06:59,LAC,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0906,1,02:15,NYK,,NOP,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2223-G0906,1,01:38,NYK,,NOP,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P2.T2) (M.Lindsay),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0906,1,00:10.400000,NYK,,NOP,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0906,1,00:06.700000,NYK,,NOP,,I. Hartenstein,NYK,Hartenstein Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0906,2,10:03,NYK,,NOP,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0906,2,00:30.300000,NYK,,NOP,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0906,3,05:08,NYK,,NOP,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0906,3,04:52,NYK,,NOP,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0906,3,04:51,NYK,,NOP,,I. Hartenstein,NYK,MISS Hartenstein 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,12,5,1,1,2.0,0.0,h
+S2223-G0906,3,01:40,NYK,,NOP,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2223-G0906,3,01:38,NYK,,NOP,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0906,3,01:05,NYK,,NOP,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0906,4,11:18,NYK,,NOP,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0906,4,09:51,NYK,110.0,NOP,85.0,I. Hartenstein,NYK,Hartenstein 8' Floating Jump Shot (2 PTS) (Hart 2 AST),Made Shot,Floating Jump shot,-21,76,8,1,2.0,2.0,h
+S2223-G0906,4,09:31,NYK,,NOP,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0906,4,09:12,NYK,,NOP,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0906,4,00:59.700000,NYK,,NOP,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0906,4,00:00.900000,NYK,,NOP,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0906,4,00:00.200000,NYK,128.0,NOP,106.0,I. Hartenstein,NYK,Hartenstein 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-7,13,1,1,2.0,2.0,h
+S2223-G0274,1,03:44,NYK,18.0,POR,16.0,I. Hartenstein,NYK,Hartenstein 7' Floating Jump Shot (2 PTS) (Grimes 2 AST),Made Shot,Floating Jump shot,-22,67,7,1,2.0,2.0,h
+S2223-G0274,1,02:04,NYK,19.0,POR,17.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0274,1,02:04,NYK,20.0,POR,17.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0274,1,00:29,NYK,,POR,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0274,2,10:58,NYK,,POR,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2223-G0274,2,10:08,NYK,,POR,,I. Hartenstein,NYK,Hartenstein P.FOUL (P2.T3) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G0274,2,10:08,NYK,,POR,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0274,2,02:26,NYK,,POR,,I. Hartenstein,NYK,MISS Hartenstein 9' Floating Jump Shot,Missed Shot,Floating Jump shot,-25,90,9,1,2.0,0.0,h
+S2223-G0274,2,01:36,NYK,,POR,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0274,3,06:06,NYK,,POR,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0274,3,05:12,NYK,76.0,POR,77.0,I. Hartenstein,NYK,Hartenstein 3' Hook Shot (6 PTS) (Barrett 4 AST),Made Shot,Hook Shot,26,8,3,1,2.0,2.0,h
+S2223-G0274,3,01:16,NYK,,POR,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0274,3,00:16.100000,NYK,,POR,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0274,4,11:41,NYK,,POR,,I. Hartenstein,NYK,Hartenstein STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0274,4,11:34,NYK,,POR,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0219,1,11:22,DEN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0219,1,04:56,DEN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0219,1,04:04,DEN,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 6' Layup,Missed Shot,Layup Shot,16,61,6,1,2.0,0.0,v
+S2223-G0219,1,03:02,DEN,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0219,2,05:46,DEN,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P1.T1) (E.Lewis),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0219,2,03:27,DEN,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2223-G0219,3,08:22,DEN,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0219,3,08:20,DEN,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0219,3,07:47,DEN,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P3.T4) (E.Lewis),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0219,3,06:10,DEN,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0219,3,05:54,DEN,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P4.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0219,3,05:54,DEN,,NYK,,I. Hartenstein,NYK,SUB: Rose FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0075,1,02:51,MIL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0075,1,02:29,MIL,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0075,1,02:29,MIL,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0075,2,09:23,MIL,34.0,NYK,30.0,I. Hartenstein,NYK,Hartenstein 1' Floating Jump Shot (2 PTS) (Quickley 1 AST),Made Shot,Floating Jump shot,-4,4,1,1,2.0,2.0,v
+S2223-G0075,2,08:42,MIL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0075,2,07:46,MIL,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T3) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0075,2,07:26,MIL,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 28' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,-191,199,28,1,3.0,0.0,v
+S2223-G0075,2,06:12,MIL,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0075,2,03:29,MIL,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0075,2,02:55,MIL,46.0,NYK,44.0,I. Hartenstein,NYK,Hartenstein 13' Floating Jump Shot (4 PTS) (Barrett 1 AST),Made Shot,Floating Jump shot,-64,110,13,1,2.0,2.0,v
+S2223-G0075,2,01:58,MIL,50.0,NYK,48.0,I. Hartenstein,NYK,Hartenstein 12' Floating Jump Shot (6 PTS) (Randle 1 AST),Made Shot,Floating Jump shot,-42,116,12,1,2.0,2.0,v
+S2223-G0075,2,01:38,MIL,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0075,2,01:01,MIL,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 10' Floating Jump Shot,Missed Shot,Floating Jump shot,-33,94,10,1,2.0,0.0,v
+S2223-G0075,2,00:25.900000,MIL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0075,2,00:06.900000,MIL,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0075,2,00:01.700000,MIL,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0075,3,06:04,MIL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0075,3,06:03,MIL,,NYK,,I. Hartenstein,NYK,Hartenstein Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0075,3,05:31,MIL,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 16' Floating Jump Shot,Missed Shot,Floating Jump shot,-36,151,16,1,2.0,0.0,v
+S2223-G0075,3,03:15,MIL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0075,3,01:41,MIL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0075,4,11:13,MIL,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0075,4,07:50,MIL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0075,4,06:06,MIL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0075,4,06:03,MIL,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,v
+S2223-G0075,4,04:34,MIL,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-4,117,12,1,2.0,0.0,v
+S2223-G0075,4,04:05,MIL,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0921,1,00:03.600000,NYK,,BOS,,I. Hartenstein,NYK,SUB: Toppin FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0921,2,06:48,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0921,2,04:53,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T4) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2223-G0921,2,04:53,NYK,,BOS,,I. Hartenstein,NYK,SUB: Grimes FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0921,3,03:08,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P2.T2) (J.DeRosa),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0921,3,01:42,NYK,,BOS,,I. Hartenstein,NYK,MISS Hartenstein 2' Dunk,Missed Shot,Dunk Shot,-6,19,2,1,2.0,0.0,h
+S2223-G0921,4,10:16,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein P.FOUL (P3.T1) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2223-G0921,4,09:21,NYK,,BOS,,I. Hartenstein,NYK,Hartenstein Traveling Turnover (P1.T10),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0921,4,08:45,NYK,,BOS,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G1019,1,03:46,LAL,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1019,1,00:34.600000,LAL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1019,1,00:06.400000,LAL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1019,2,10:42,LAL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1019,2,09:37,LAL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1019,2,08:32,LAL,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T2) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2223-G1019,2,08:32,LAL,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G1019,3,06:41,LAL,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G1019,3,00:33.800000,LAL,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 4' Floating Jump Shot,Missed Shot,Floating Jump shot,-5,36,4,1,2.0,0.0,v
+S2223-G1019,3,00:32,LAL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1019,3,00:25.800000,LAL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1019,3,00:12.300000,LAL,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 3' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,-23,21,3,1,2.0,0.0,v
+S2223-G1019,4,10:14,LAL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1019,4,09:14,LAL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1019,4,07:59,LAL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1019,4,06:19,LAL,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1019,4,05:23,LAL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1019,4,04:14,LAL,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G1019,4,01:44,LAL,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0937,1,03:49,NYK,30.0,BKN,21.0,I. Hartenstein,NYK,Hartenstein 6' Floating Jump Shot (2 PTS) (Brunson 2 AST),Made Shot,Floating Jump shot,-7,59,6,1,2.0,2.0,h
+S2223-G0937,1,03:27,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0937,1,03:06,NYK,32.0,BKN,21.0,I. Hartenstein,NYK,Hartenstein 4' Hook Shot (4 PTS) (Hart 1 AST),Made Shot,Hook Shot,-2,41,4,1,2.0,2.0,h
+S2223-G0937,1,02:48,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0937,1,02:41,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0937,2,11:45,NYK,,BKN,,I. Hartenstein,NYK,MISS Hartenstein 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-18,41,4,1,2.0,0.0,h
+S2223-G0937,2,11:04,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0937,2,10:47,NYK,,BKN,,I. Hartenstein,NYK,MISS Hartenstein 2' Layup,Missed Shot,Layup Shot,-22,8,2,1,2.0,0.0,h
+S2223-G0937,2,10:17,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0937,2,10:02,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P2) (S.Foster),Foul,Offensive,0,0,0,0,,,h
+S2223-G0937,2,10:02,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0937,2,08:30,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0937,2,07:51,NYK,,BKN,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0937,3,05:18,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0937,3,02:21,NYK,,BKN,,I. Hartenstein,NYK,MISS Hartenstein 2' Layup,Missed Shot,Layup Shot,-20,3,2,1,2.0,0.0,h
+S2223-G0937,3,01:37,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0937,4,10:01,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0937,4,10:00,NYK,114.0,BKN,87.0,I. Hartenstein,NYK,Hartenstein 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,-4,14,1,1,2.0,2.0,h
+S2223-G0937,4,07:22,NYK,,BKN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0937,4,07:20,NYK,122.0,BKN,100.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0937,4,07:20,NYK,123.0,BKN,100.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0937,4,06:44,NYK,,BKN,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0110,1,02:26,NYK,27.0,ATL,19.0,I. Hartenstein,NYK,Hartenstein 3PT Jump Shot (3 PTS) (Barrett 4 AST),Made Shot,Jump Shot,-233,-4,0,1,3.0,3.0,h
+S2223-G0110,1,01:51,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0110,1,00:35.500000,NYK,,ATL,,I. Hartenstein,NYK,MISS Hartenstein 11' Floating Jump Shot,Missed Shot,Floating Jump shot,-7,112,11,1,2.0,0.0,h
+S2223-G0110,2,10:52,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0110,2,09:52,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0110,2,08:45,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0110,2,07:20,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0110,2,07:18,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0110,2,07:17,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T2) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0110,2,05:48,NYK,,ATL,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0110,3,04:27,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0110,3,02:46,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0110,3,02:44,NYK,,ATL,,I. Hartenstein,NYK,Jump Ball Hartenstein vs. Collins: Tip to Quickley,Jump Ball,,0,0,0,0,,,h
+S2223-G0110,3,01:29,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0110,3,00:42.800000,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0110,4,10:55,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0110,4,10:55,NYK,,ATL,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0110,4,07:45,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein BLOCK (4 BLK),,,0,0,0,0,,,h
+S2223-G0110,4,06:33,NYK,,ATL,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0110,4,05:59,NYK,,ATL,,I. Hartenstein,NYK,MISS Hartenstein 26' 3PT Jump Shot,Missed Shot,Jump Shot,88,245,26,1,3.0,0.0,h
+S2223-G0110,4,04:38,NYK,,ATL,,I. Hartenstein,NYK,SUB: Grimes FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0669,2,11:47,NYK,24.0,WAS,35.0,I. Hartenstein,NYK,Hartenstein 1' Alley Oop Dunk (2 PTS) (Barrett 1 AST),Made Shot,Alley Oop Dunk Shot,0,5,1,1,2.0,2.0,h
+S2223-G0669,2,09:28,NYK,,WAS,,I. Hartenstein,NYK,MISS Hartenstein 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,38,4,1,2.0,0.0,h
+S2223-G0669,2,09:24,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0669,2,09:19,NYK,,WAS,,I. Hartenstein,NYK,MISS Hartenstein 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,2,74,7,1,2.0,0.0,h
+S2223-G0669,2,09:08,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P1.T1) (T.Maddox),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0669,2,08:49,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0669,2,08:24,NYK,,WAS,,I. Hartenstein,NYK,MISS Hartenstein 14' Floating Jump Shot,Missed Shot,Floating Jump shot,-1,142,14,1,2.0,0.0,h
+S2223-G0669,2,07:21,NYK,,WAS,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0669,3,11:26,NYK,,WAS,,I. Hartenstein,NYK,KNICKS T.Foul (Def. 3 Sec Hartenstein ) (E.Malloy),Foul,Defense 3 Second,0,0,0,0,,,h
+S2223-G0669,3,10:22,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0669,3,08:00,NYK,,WAS,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0669,3,08:00,NYK,53.0,WAS,65.0,I. Hartenstein,NYK,Hartenstein Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0669,3,07:27,NYK,,WAS,,I. Hartenstein,NYK,MISS Hartenstein 11' Jump Shot,Missed Shot,Jump Shot,-70,80,11,1,2.0,0.0,h
+S2223-G0669,3,06:46,NYK,,WAS,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0700,1,01:56,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0700,1,01:00,TOR,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-37,96,10,1,2.0,0.0,v
+S2223-G0700,1,00:04.200000,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0700,1,00:04.200000,TOR,37.0,NYK,22.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0700,2,11:39,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0700,2,11:23,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0700,2,09:49,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0700,2,09:33,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (3 BLK),,,0,0,0,0,,,v
+S2223-G0700,2,07:42,TOR,,NYK,,I. Hartenstein,NYK,SUB: Brunson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0700,3,01:09,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0700,3,00:25.800000,TOR,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 13' Floating Jump Shot,Missed Shot,Floating Jump shot,-1,130,13,1,2.0,0.0,v
+S2223-G0700,4,10:04,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2223-G0700,4,09:40,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0700,4,09:11,TOR,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0192,1,12:00,NYK,,OKC,,I. Hartenstein,NYK,Jump Ball Hartenstein vs. Robinson-Earl: Tip to Randle,Jump Ball,,0,0,0,0,,,h
+S2223-G0192,1,11:41,NYK,,OKC,,I. Hartenstein,NYK,MISS Hartenstein 3PT Jump Shot,Missed Shot,Jump Shot,-230,-5,0,1,3.0,0.0,h
+S2223-G0192,1,10:54,NYK,,OKC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,1,09:51,NYK,6.0,OKC,3.0,I. Hartenstein,NYK,Hartenstein 9' Floating Jump Shot (2 PTS) (Brunson 2 AST),Made Shot,Floating Jump shot,-10,85,9,1,2.0,2.0,h
+S2223-G0192,1,09:27,NYK,,OKC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,1,09:27,NYK,8.0,OKC,5.0,I. Hartenstein,NYK,Hartenstein Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0192,1,08:53,NYK,,OKC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,1,08:53,NYK,,OKC,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0192,1,08:14,NYK,,OKC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,1,08:14,NYK,,OKC,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0192,1,08:14,NYK,12.0,OKC,7.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0192,1,07:00,NYK,,OKC,,I. Hartenstein,NYK,Hartenstein Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0192,1,05:36,NYK,,OKC,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0192,1,05:24,NYK,21.0,OKC,16.0,I. Hartenstein,NYK,Hartenstein 1' Reverse Layup (7 PTS) (Rose 1 AST),Made Shot,Reverse Layup Shot,5,3,1,1,2.0,2.0,h
+S2223-G0192,1,04:53,NYK,,OKC,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0192,2,04:19,NYK,,OKC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,2,04:19,NYK,62.0,OKC,63.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0192,2,04:19,NYK,63.0,OKC,63.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0192,2,03:59,NYK,,OKC,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P1) (K.Scott),Foul,Offensive,0,0,0,0,,,h
+S2223-G0192,2,03:59,NYK,,OKC,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0192,2,01:34,NYK,,OKC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,2,01:34,NYK,,OKC,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0192,2,01:17,NYK,,OKC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0192,2,00:21.600000,NYK,73.0,OKC,76.0,I. Hartenstein,NYK,Hartenstein 3PT Jump Shot (12 PTS) (Randle 1 AST),Made Shot,Jump Shot,-228,-21,0,1,3.0,3.0,h
+S2223-G0192,3,06:08,NYK,93.0,OKC,96.0,I. Hartenstein,NYK,Hartenstein 1' Cutting Layup Shot (14 PTS) (Brunson 7 AST),Made Shot,Cutting Layup Shot,-4,5,1,1,2.0,2.0,h
+S2223-G0192,3,04:33,NYK,,OKC,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0254,1,04:21,OKC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,1,00:48.100000,OKC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,2,10:55,OKC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,2,10:54,OKC,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,7,16,2,1,2.0,0.0,v
+S2223-G0254,2,10:52,OKC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,2,10:13,OKC,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0254,3,06:56,OKC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,3,06:56,OKC,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,v
+S2223-G0254,3,06:54,OKC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,3,06:53,OKC,71.0,NYK,81.0,I. Hartenstein,NYK,Hartenstein 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,4,-10,1,1,2.0,2.0,v
+S2223-G0254,3,06:01,OKC,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0254,3,04:16,OKC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,3,02:01,OKC,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0254,3,01:29,OKC,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 3PT Jump Shot,Missed Shot,Jump Shot,-227,-21,0,1,3.0,0.0,v
+S2223-G0254,3,01:00,OKC,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0254,3,00:12,OKC,,NYK,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G1055,1,02:47,NYK,,DEN,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1055,1,02:04,NYK,,DEN,,I. Hartenstein,NYK,Hartenstein STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1055,1,01:51,NYK,,DEN,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1055,1,00:00.200000,NYK,,DEN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1055,2,11:01,NYK,,DEN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1055,2,11:01,NYK,38.0,DEN,30.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G1055,2,09:54,NYK,,DEN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1055,2,09:44,NYK,43.0,DEN,32.0,I. Hartenstein,NYK,Hartenstein 3' Cutting Layup Shot (4 PTS) (Hart 3 AST),Made Shot,Cutting Layup Shot,-26,1,3,1,2.0,2.0,h
+S2223-G1055,2,09:13,NYK,,DEN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1055,2,08:40,NYK,,DEN,,I. Hartenstein,NYK,Hartenstein Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G1055,2,08:13,NYK,,DEN,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P1.T1) (D.Guthrie),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G1055,2,08:13,NYK,,DEN,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G1055,2,03:35,NYK,55.0,DEN,52.0,I. Hartenstein,NYK,Hartenstein 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-23,5,2,1,2.0,2.0,h
+S2223-G1055,2,03:00,NYK,,DEN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1055,2,01:59,NYK,,DEN,,I. Hartenstein,NYK,MISS Hartenstein 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-25,5,3,1,2.0,0.0,h
+S2223-G1055,2,01:34,NYK,,DEN,,I. Hartenstein,NYK,MISS Hartenstein 11' Floating Jump Shot,Missed Shot,Floating Jump shot,-28,102,11,1,2.0,0.0,h
+S2223-G1055,2,01:04,NYK,,DEN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1055,4,11:37,NYK,,DEN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1055,4,07:23,NYK,,DEN,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G1055,4,06:41,NYK,,DEN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1055,4,06:22,NYK,,DEN,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1055,4,04:25,NYK,,DEN,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0582,2,11:51,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0582,2,11:48,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0582,2,11:34,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0582,2,11:33,TOR,26.0,NYK,32.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0582,2,10:42,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0582,2,09:53,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0582,2,09:39,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0582,2,08:28,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0582,2,07:30,TOR,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 5' Driving Layup,Missed Shot,Driving Layup Shot,32,43,5,1,2.0,0.0,v
+S2223-G0582,2,07:26,TOR,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0582,3,04:13,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0582,3,04:12,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0582,3,03:55,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0582,3,02:31,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0582,3,00:05.300000,TOR,,NYK,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0582,4,10:37,TOR,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 3' Dunk,Missed Shot,Dunk Shot,-21,15,3,1,2.0,0.0,v
+S2223-G0582,4,09:50,TOR,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0582,4,09:21,TOR,,NYK,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0582,4,00:49,TOR,,NYK,,I. Hartenstein,NYK,SUB: McBride FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0795,1,01:47,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0795,1,00:35.400000,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0795,1,00:02.400000,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0795,2,11:30,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0795,2,10:02,NYK,,LAC,,I. Hartenstein,NYK,MISS Hartenstein 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-18,0,2,1,2.0,0.0,h
+S2223-G0795,2,08:06,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0795,2,07:44,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2223-G0795,2,07:00,NYK,,LAC,,I. Hartenstein,NYK,MISS Hartenstein 10' Floating Jump Shot,Missed Shot,Floating Jump shot,-60,83,10,1,2.0,0.0,h
+S2223-G0795,2,06:53,NYK,,LAC,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0795,3,00:47.800000,NYK,,LAC,,I. Hartenstein,NYK,MISS Hartenstein 6' Hook Shot,Missed Shot,Hook Shot,2,58,6,1,2.0,0.0,h
+S2223-G0795,4,11:45,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0795,4,11:33,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0795,4,11:32,NYK,,LAC,,I. Hartenstein,NYK,MISS Hartenstein 1' Putback Layup,Missed Shot,Putback Layup Shot,-5,8,1,1,2.0,0.0,h
+S2223-G0795,4,09:47,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0795,4,09:03,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0795,4,06:50,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0795,4,05:23,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:6 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0795,4,03:59,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0795,4,03:09,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0795,4,02:11,NYK,,LAC,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0795,4,02:11,NYK,106.0,LAC,112.0,I. Hartenstein,NYK,Hartenstein Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0795,4,01:50,NYK,108.0,LAC,112.0,I. Hartenstein,NYK,Hartenstein 1' Cutting Dunk Shot (3 PTS) (Brunson 5 AST),Made Shot,Cutting Dunk Shot,-2,6,1,1,2.0,2.0,h
+S2223-G0795,5,05:00,NYK,,LAC,,I. Hartenstein,NYK,Jump Ball Hartenstein vs. Zubac: Tip to Leonard,Jump Ball,,0,0,0,0,,,h
+S2223-G0795,5,04:39,NYK,,LAC,,I. Hartenstein,NYK,Jump Ball Hartenstein vs. Leonard: Tip to Randle,Jump Ball,,0,0,0,0,,,h
+S2223-G0795,5,04:36,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0795,5,04:05,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P2.T1) (M.Myers),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0795,5,02:30,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0795,5,02:01,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:6 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0795,5,00:37.200000,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein P.FOUL (P3.PN) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0795,5,00:21.600000,NYK,125.0,LAC,130.0,I. Hartenstein,NYK,Hartenstein 1' Cutting Dunk Shot (5 PTS) (Brunson 7 AST),Made Shot,Cutting Dunk Shot,-5,10,1,1,2.0,2.0,h
+S2223-G0795,5,00:00.600000,NYK,,LAC,,I. Hartenstein,NYK,Hartenstein P.FOUL (P4.PN) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2223-G0541,1,03:20,HOU,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0541,1,03:20,HOU,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0541,1,01:48,HOU,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0541,1,01:44,HOU,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 4' Running Layup,Missed Shot,Running Layup Shot,43,3,4,1,2.0,0.0,v
+S2223-G0541,2,11:06,HOU,,NYK,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P1) (N.Sago),Foul,Offensive,0,0,0,0,,,v
+S2223-G0541,2,11:06,HOU,,NYK,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0541,2,10:55,HOU,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0541,2,08:19,HOU,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0541,2,08:16,HOU,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0541,3,03:41,HOU,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0541,3,03:23,HOU,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.T3) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2223-G0541,3,02:46,HOU,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0541,3,00:31.900000,HOU,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0541,4,11:05,HOU,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0804,1,04:13,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2223-G0804,1,02:44,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,2,11:35,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,2,11:02,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,2,10:36,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,2,10:09,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,2,08:20,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,2,07:19,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,2,04:50,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0804,2,04:50,NYK,,PHI,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0804,3,01:14,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,3,01:10,NYK,72.0,PHI,76.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0804,3,00:12.100000,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,4,11:18,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P3.T1) (M.Lindsay),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0804,4,09:15,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0804,4,07:58,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,4,06:54,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,4,06:12,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein S.FOUL (P4.T4) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2223-G0804,4,05:09,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,4,03:32,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,4,03:02,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0804,4,02:50,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein P.FOUL (P5.PN) (E.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G0804,4,02:10,NYK,,PHI,,I. Hartenstein,NYK,Hartenstein P.FOUL (P6.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2223-G0804,4,02:10,NYK,,PHI,,I. Hartenstein,NYK,SUB: Sims FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0296,2,11:27,NYK,,MEM,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0296,2,11:06,NYK,,MEM,,I. Hartenstein,NYK,Hartenstein Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0296,2,07:25,NYK,,MEM,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0296,2,01:56,NYK,,MEM,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0296,2,01:21,NYK,,MEM,,I. Hartenstein,NYK,MISS Hartenstein 3PT Jump Shot,Missed Shot,Jump Shot,230,6,0,1,3.0,0.0,h
+S2223-G0296,2,00:34,NYK,,MEM,,I. Hartenstein,NYK,Hartenstein P.FOUL (P1.PN) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2223-G0296,3,03:32,NYK,,MEM,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G0296,3,03:04,NYK,,MEM,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0296,3,01:00,NYK,,MEM,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0296,3,01:00,NYK,79.0,MEM,89.0,I. Hartenstein,NYK,Hartenstein Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0296,3,00:00.200000,NYK,,MEM,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0296,3,00:00.200000,NYK,83.0,MEM,93.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0296,4,00:06,NYK,,MEM,,I. Hartenstein,NYK,SUB: Grimes FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0023,1,03:36,NYK,,DET,,I. Hartenstein,NYK,Hartenstein Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0023,1,03:18,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0023,1,02:24,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0023,1,01:41,NYK,,DET,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0023,1,01:39,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0023,1,00:51.200000,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0023,1,00:46.800000,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0023,1,00:31.100000,NYK,27.0,DET,18.0,I. Hartenstein,NYK,Hartenstein 3PT Jump Shot (3 PTS) (Rose 2 AST),Made Shot,Jump Shot,-232,-3,0,1,3.0,3.0,h
+S2223-G0023,2,10:26,NYK,,DET,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0023,2,09:23,NYK,,DET,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P2.T3) (J.Ralls),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0023,2,08:29,NYK,42.0,DET,24.0,I. Hartenstein,NYK,Hartenstein 1' Cutting Dunk Shot (5 PTS) (Barrett 4 AST),Made Shot,Cutting Dunk Shot,5,2,1,1,2.0,2.0,h
+S2223-G0023,2,08:02,NYK,,DET,,I. Hartenstein,NYK,SUB: Randle FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0023,3,01:57,NYK,,DET,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G0023,3,01:11,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0023,3,00:53.400000,NYK,,DET,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0023,3,00:42.300000,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0023,3,00:40.300000,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0023,3,00:40.300000,NYK,100.0,DET,81.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0023,3,00:40.300000,NYK,,DET,,I. Hartenstein,NYK,MISS Hartenstein Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0023,4,11:37,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0023,4,11:37,NYK,,DET,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0023,4,08:15,NYK,,DET,,I. Hartenstein,NYK,MISS Hartenstein 25' 3PT Jump Shot,Missed Shot,Jump Shot,16,253,25,1,3.0,0.0,h
+S2223-G0023,4,07:27,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0023,4,07:18,NYK,,DET,,I. Hartenstein,NYK,Hartenstein P.FOUL (P4.T3) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2223-G0023,4,07:00,NYK,,DET,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0023,4,05:22,NYK,,DET,,I. Hartenstein,NYK,Hartenstein STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0023,4,03:25,NYK,,DET,,I. Hartenstein,NYK,SUB: McBride FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0648,2,11:45,DET,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0648,2,10:38,DET,,NYK,,I. Hartenstein,NYK,Hartenstein L.B.FOUL (P1.T1) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0648,2,09:55,DET,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0648,2,08:34,DET,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0648,2,08:33,DET,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 1' Putback Layup,Missed Shot,Putback Layup Shot,-6,11,1,1,2.0,0.0,v
+S2223-G0648,2,07:27,DET,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0648,3,01:54,DET,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0648,4,11:13,DET,82.0,NYK,95.0,I. Hartenstein,NYK,Hartenstein 3' Layup (2 PTS) (Quickley 3 AST),Made Shot,Layup Shot,26,8,3,1,2.0,2.0,v
+S2223-G0648,4,11:13,DET,82.0,NYK,96.0,I. Hartenstein,NYK,Hartenstein Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0648,4,11:01,DET,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0648,4,10:06,DET,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0648,4,08:57,DET,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G0058,1,02:06,NYK,,CHA,,I. Hartenstein,NYK,MISS Hartenstein 25' 3PT Jump Shot,Missed Shot,Jump Shot,-7,250,25,1,3.0,0.0,h
+S2223-G0058,1,00:44.100000,NYK,,CHA,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0058,1,00:28.500000,NYK,,CHA,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0058,1,00:22.100000,NYK,,CHA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0058,1,00:22.100000,NYK,32.0,CHA,27.0,I. Hartenstein,NYK,Hartenstein Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0058,2,10:53,NYK,37.0,CHA,35.0,I. Hartenstein,NYK,Hartenstein 2' Floating Jump Shot (4 PTS) (Rose 1 AST),Made Shot,Floating Jump shot,-16,10,2,1,2.0,2.0,h
+S2223-G0058,2,07:05,NYK,,CHA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0058,2,06:57,NYK,,CHA,,I. Hartenstein,NYK,SUB: Brunson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G0058,3,03:36,NYK,,CHA,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0058,3,03:32,NYK,89.0,CHA,79.0,I. Hartenstein,NYK,Hartenstein 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,-10,-9,1,1,2.0,2.0,h
+S2223-G0058,3,02:03,NYK,,CHA,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0058,4,11:43,NYK,100.0,CHA,90.0,I. Hartenstein,NYK,Hartenstein 14' Floating Jump Shot (8 PTS) (Quickley 3 AST),Made Shot,Floating Jump shot,-26,133,14,1,2.0,2.0,h
+S2223-G0058,4,09:58,NYK,,CHA,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0058,4,09:25,NYK,,CHA,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,h
+S2223-G1034,1,03:21,POR,,NYK,,I. Hartenstein,NYK,Hartenstein BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G1034,1,01:22,POR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1034,1,00:00.400000,POR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1034,1,00:00,POR,,NYK,,I. Hartenstein,NYK,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1034,2,10:26,POR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1034,2,09:53,POR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1034,2,09:45,POR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1034,2,09:25,POR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1034,2,08:58,POR,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G1034,2,08:33,POR,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P2.T2) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G1034,2,07:48,POR,,NYK,,I. Hartenstein,NYK,Hartenstein Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1034,2,06:58,POR,,NYK,,I. Hartenstein,NYK,SUB: Robinson FOR Hartenstein,Substitution,,0,0,0,0,,,v
+S2223-G1034,3,00:46.400000,POR,,NYK,,I. Hartenstein,NYK,Hartenstein S.FOUL (P3.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G1034,4,09:44,POR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1034,4,08:41,POR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1034,4,04:36,POR,,NYK,,I. Hartenstein,NYK,Hartenstein OFF.Foul (P4) (J.Schroeder),Foul,Offensive,0,0,0,0,,,v
+S2223-G1034,4,04:36,POR,,NYK,,I. Hartenstein,NYK,Hartenstein Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1034,4,03:50,POR,,NYK,,I. Hartenstein,NYK,Hartenstein STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1034,4,03:17,POR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1034,4,02:19,POR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1034,4,01:47,POR,,NYK,,I. Hartenstein,NYK,Hartenstein REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1034,4,01:27,POR,,NYK,,I. Hartenstein,NYK,MISS Hartenstein 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,60,24,1,3.0,0.0,v

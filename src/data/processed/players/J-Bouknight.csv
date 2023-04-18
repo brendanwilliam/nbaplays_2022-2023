@@ -1,0 +1,423 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0718,4,04:12,PHX,,CHA,,J. Bouknight,CHA,MISS Bouknight 3PT Jump Shot,Missed Shot,Jump Shot,-232,-18,0,1,3.0,0.0,v
+S2223-G0718,4,03:13,PHX,,CHA,,J. Bouknight,CHA,MISS Bouknight 2' Driving Layup,Missed Shot,Driving Layup Shot,-21,6,2,1,2.0,0.0,v
+S2223-G0718,4,02:06,PHX,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0718,4,01:59,PHX,,CHA,,J. Bouknight,CHA,Bouknight Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0718,4,01:27,PHX,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1148,1,05:39,CHA,8.0,CHI,19.0,J. Bouknight,CHA,Bouknight 25' 3PT Jump Shot (3 PTS) (Maledon 2 AST),Made Shot,Jump Shot,224,119,25,1,3.0,3.0,h
+S2223-G1148,1,04:34,CHA,,CHI,,J. Bouknight,CHA,MISS Bouknight 25' 3PT Jump Shot,Missed Shot,Jump Shot,183,177,25,1,3.0,0.0,h
+S2223-G1148,1,04:17,CHA,,CHI,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,1,02:19,CHA,,CHI,,J. Bouknight,CHA,MISS Bouknight 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-142,209,25,1,3.0,0.0,h
+S2223-G1148,1,01:32,CHA,,CHI,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,1,00:56.500000,CHA,20.0,CHI,28.0,J. Bouknight,CHA,Bouknight 21' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,147,152,21,1,2.0,2.0,h
+S2223-G1148,1,00:09.300000,CHA,,CHI,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,1,00:00.700000,CHA,23.0,CHI,31.0,J. Bouknight,CHA,Bouknight 28' 3PT Jump Shot (8 PTS) (Washington 1 AST),Made Shot,Jump Shot,2,278,28,1,3.0,3.0,h
+S2223-G1148,2,11:04,CHA,26.0,CHI,33.0,J. Bouknight,CHA,Bouknight 27' 3PT Jump Shot (11 PTS) (Washington 2 AST),Made Shot,Jump Shot,-108,248,27,1,3.0,3.0,h
+S2223-G1148,2,10:01,CHA,,CHI,,J. Bouknight,CHA,SUB: Maledon FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G1148,2,05:55,CHA,,CHI,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,2,02:47,CHA,,CHI,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-138,221,26,1,3.0,0.0,h
+S2223-G1148,2,01:12,CHA,,CHI,,J. Bouknight,CHA,Bouknight Traveling Turnover (P1.T12),Turnover,Traveling,0,0,0,0,,,h
+S2223-G1148,2,00:02.600000,CHA,,CHI,,J. Bouknight,CHA,Bouknight S.FOUL (P1.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G1148,3,06:23,CHA,,CHI,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,3,05:51,CHA,66.0,CHI,77.0,J. Bouknight,CHA,Bouknight 26' 3PT Jump Shot (14 PTS) (Maledon 7 AST),Made Shot,Jump Shot,98,242,26,1,3.0,3.0,h
+S2223-G1148,3,03:55,CHA,69.0,CHI,81.0,J. Bouknight,CHA,Bouknight 20' Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,31,196,20,1,2.0,2.0,h
+S2223-G1148,3,03:04,CHA,72.0,CHI,84.0,J. Bouknight,CHA,Bouknight 26' 3PT Jump Shot (19 PTS) (Maledon 8 AST),Made Shot,Jump Shot,29,259,26,1,3.0,3.0,h
+S2223-G1148,3,02:53,CHA,,CHI,,J. Bouknight,CHA,Bouknight P.FOUL (P2.T4) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2223-G1148,3,02:31,CHA,,CHI,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-211,149,26,1,3.0,0.0,h
+S2223-G1148,4,11:08,CHA,,CHI,,J. Bouknight,CHA,MISS Bouknight 3' Layup,Missed Shot,Layup Shot,7,25,3,1,2.0,0.0,h
+S2223-G1148,4,11:07,CHA,,CHI,,J. Bouknight,CHA,Bouknight REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1148,4,11:06,CHA,,CHI,,J. Bouknight,CHA,MISS Bouknight 3' Putback Layup,Missed Shot,Putback Layup Shot,-11,29,3,1,2.0,0.0,h
+S2223-G1148,4,10:44,CHA,,CHI,,J. Bouknight,CHA,SUB: Maledon FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G1148,4,06:26,CHA,,CHI,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Jump Shot,Missed Shot,Jump Shot,143,218,26,1,3.0,0.0,h
+S2223-G1148,4,03:31,CHA,,CHI,,J. Bouknight,CHA,Bouknight Lost Ball Turnover (P2.T19),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1148,4,03:12,CHA,87.0,CHI,115.0,J. Bouknight,CHA,Bouknight 25' 3PT Jump Shot (22 PTS) (Simmons 1 AST),Made Shot,Jump Shot,233,76,25,1,3.0,3.0,h
+S2223-G1148,4,00:58.500000,CHA,,CHI,,J. Bouknight,CHA,MISS Bouknight 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,90,9,1,2.0,0.0,h
+S2223-G0082,1,05:15,CHA,,GSW,,J. Bouknight,CHA,Bouknight P.FOUL (P1.T1) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2223-G0082,1,04:54,CHA,,GSW,,J. Bouknight,CHA,MISS Bouknight 31' 3PT Jump Shot,Missed Shot,Jump Shot,-96,299,31,1,3.0,0.0,h
+S2223-G0082,1,03:45,CHA,,GSW,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Jump Shot,Missed Shot,Jump Shot,-186,179,26,1,3.0,0.0,h
+S2223-G0082,2,03:35,CHA,,GSW,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0082,2,01:43,CHA,,GSW,,J. Bouknight,CHA,MISS Bouknight 3PT Jump Shot,Missed Shot,Jump Shot,228,36,0,1,3.0,0.0,h
+S2223-G0082,2,00:52.800000,CHA,,GSW,,J. Bouknight,CHA,MISS Bouknight 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-124,267,29,1,3.0,0.0,h
+S2223-G0082,3,02:26,CHA,,GSW,,J. Bouknight,CHA,MISS Bouknight 8' Driving Layup,Missed Shot,Driving Layup Shot,-21,75,8,1,2.0,0.0,h
+S2223-G0539,4,01:19,CHA,,BKN,,J. Bouknight,CHA,MISS Bouknight 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-157,230,28,1,3.0,0.0,h
+S2223-G0539,4,00:13.800000,CHA,,BKN,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1113,2,08:26,CHA,,DAL,,J. Bouknight,CHA,MISS Bouknight 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,80,263,27,1,3.0,0.0,h
+S2223-G1113,2,07:47,CHA,,DAL,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1113,2,07:17,CHA,,DAL,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1113,2,06:23,CHA,,DAL,,J. Bouknight,CHA,Bouknight P.FOUL (P1.T4) (R.Hussey),Foul,Personal,0,0,0,0,,,h
+S2223-G1113,2,06:08,CHA,,DAL,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1113,2,05:48,CHA,42.0,DAL,27.0,J. Bouknight,CHA,Bouknight 28' 3PT Jump Shot (3 PTS) (Maledon 1 AST),Made Shot,Jump Shot,13,275,28,1,3.0,3.0,h
+S2223-G1113,2,05:31,CHA,,DAL,,J. Bouknight,CHA,Bouknight BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1113,2,05:18,CHA,44.0,DAL,27.0,J. Bouknight,CHA,Bouknight 1' Running Layup (5 PTS) (Hayward 1 AST),Made Shot,Running Layup Shot,-4,12,1,1,2.0,2.0,h
+S2223-G1113,2,04:49,CHA,,DAL,,J. Bouknight,CHA,Bouknight STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1113,2,04:43,CHA,,DAL,,J. Bouknight,CHA,MISS Bouknight 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-127,242,27,1,3.0,0.0,h
+S2223-G1113,2,02:20,CHA,,DAL,,J. Bouknight,CHA,SUB: Mykhailiuk FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G1113,4,05:52,CHA,,DAL,,J. Bouknight,CHA,MISS Bouknight 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-94,95,13,1,2.0,0.0,h
+S2223-G1113,4,05:29,CHA,,DAL,,J. Bouknight,CHA,SUB: Mykhailiuk FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G0017,1,00:11.500000,CHA,,NOP,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0017,1,00:07.100000,CHA,,NOP,,J. Bouknight,CHA,MISS Bouknight 3' Running Layup,Missed Shot,Running Layup Shot,-25,8,3,1,2.0,0.0,h
+S2223-G0017,2,10:54,CHA,,NOP,,J. Bouknight,CHA,MISS Bouknight 29' 3PT Jump Shot,Missed Shot,Jump Shot,53,287,29,1,3.0,0.0,h
+S2223-G0017,2,08:55,CHA,,NOP,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Jump Shot,Missed Shot,Jump Shot,32,263,26,1,3.0,0.0,h
+S2223-G0017,2,08:22,CHA,,NOP,,J. Bouknight,CHA,SUB: McDaniels FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G0017,3,00:59.900000,CHA,,NOP,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0017,3,00:40.300000,CHA,,NOP,,J. Bouknight,CHA,MISS Bouknight 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,148,12,15,1,2.0,0.0,h
+S2223-G0017,4,11:04,CHA,,NOP,,J. Bouknight,CHA,MISS Bouknight 3PT Running Jump Shot,Missed Shot,Running Jump Shot,234,21,0,1,3.0,0.0,h
+S2223-G0017,4,10:43,CHA,,NOP,,J. Bouknight,CHA,Bouknight Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0017,4,09:45,CHA,,NOP,,J. Bouknight,CHA,SUB: McDaniels FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G0144,1,04:27,CHA,,WAS,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,1,02:07,CHA,,WAS,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,1,02:05,CHA,,WAS,,J. Bouknight,CHA,MISS Bouknight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0144,1,02:05,CHA,16.0,WAS,21.0,J. Bouknight,CHA,Bouknight Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0144,1,00:58.600000,CHA,,WAS,,J. Bouknight,CHA,MISS Bouknight 29' 3PT Jump Shot,Missed Shot,Jump Shot,98,268,29,1,3.0,0.0,h
+S2223-G0144,1,00:17.800000,CHA,,WAS,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,2,11:52,CHA,,WAS,,J. Bouknight,CHA,Bouknight Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0144,2,11:39,CHA,,WAS,,J. Bouknight,CHA,Bouknight S.FOUL (P1.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0144,2,09:43,CHA,22.0,WAS,30.0,J. Bouknight,CHA,Bouknight 1' Driving Dunk (3 PTS) (McDaniels 1 AST),Made Shot,Driving Dunk Shot,4,10,1,1,2.0,2.0,h
+S2223-G0144,2,06:48,CHA,,WAS,,J. Bouknight,CHA,SUB: Smith Jr. FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G0144,3,04:07,CHA,,WAS,,J. Bouknight,CHA,Bouknight L.B.FOUL (P2.T4) (D.Guthrie),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0144,3,03:57,CHA,,WAS,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,3,03:23,CHA,,WAS,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,3,01:52,CHA,70.0,WAS,71.0,J. Bouknight,CHA,Bouknight 2' Driving Layup (5 PTS) (Rozier 4 AST),Made Shot,Driving Layup Shot,-6,20,2,1,2.0,2.0,h
+S2223-G0144,3,01:20,CHA,,WAS,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Jump Shot,Missed Shot,Jump Shot,-194,180,26,1,3.0,0.0,h
+S2223-G0144,3,00:03.500000,CHA,,WAS,,J. Bouknight,CHA,Bouknight S.FOUL (P3.PN) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2223-G0144,4,10:24,CHA,,WAS,,J. Bouknight,CHA,MISS Bouknight 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,67,7,1,2.0,0.0,h
+S2223-G0144,4,10:19,CHA,,WAS,,J. Bouknight,CHA,Bouknight REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0144,4,10:19,CHA,77.0,WAS,80.0,J. Bouknight,CHA,Bouknight Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0144,4,08:11,CHA,,WAS,,J. Bouknight,CHA,MISS Bouknight 30' 3PT Jump Shot,Missed Shot,Jump Shot,-189,236,30,1,3.0,0.0,h
+S2223-G0144,4,08:09,CHA,,WAS,,J. Bouknight,CHA,SUB: Thor FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G0200,2,09:23,ORL,,CHA,,J. Bouknight,CHA,MISS Bouknight 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-37,215,22,1,2.0,0.0,v
+S2223-G0200,2,08:16,ORL,,CHA,,J. Bouknight,CHA,SUB: Oubre Jr. FOR Bouknight,Substitution,,0,0,0,0,,,v
+S2223-G0133,1,02:24,CHA,,BKN,,J. Bouknight,CHA,MISS Bouknight 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,59,6,1,2.0,0.0,h
+S2223-G0133,1,01:02,CHA,,BKN,,J. Bouknight,CHA,MISS Bouknight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0133,1,01:02,CHA,18.0,BKN,28.0,J. Bouknight,CHA,Bouknight Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0133,2,11:33,CHA,,BKN,,J. Bouknight,CHA,MISS Bouknight 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,53,24,6,1,2.0,0.0,h
+S2223-G0133,2,11:04,CHA,,BKN,,J. Bouknight,CHA,Bouknight Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0133,2,10:02,CHA,,BKN,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-178,193,26,1,3.0,0.0,h
+S2223-G0133,2,08:46,CHA,,BKN,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,2,08:38,CHA,,BKN,,J. Bouknight,CHA,Bouknight Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0133,2,07:29,CHA,,BKN,,J. Bouknight,CHA,Bouknight BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0133,2,00:42.400000,CHA,44.0,BKN,47.0,J. Bouknight,CHA,Bouknight 4' Cutting Layup Shot (3 PTS) (Washington 1 AST),Made Shot,Cutting Layup Shot,0,39,4,1,2.0,2.0,h
+S2223-G0133,3,04:10,CHA,,BKN,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Jump Shot,Missed Shot,Jump Shot,18,260,26,1,3.0,0.0,h
+S2223-G0133,3,03:05,CHA,,BKN,,J. Bouknight,CHA,Bouknight STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0133,3,02:28,CHA,,BKN,,J. Bouknight,CHA,MISS Bouknight 25' 3PT Jump Shot,Missed Shot,Jump Shot,-184,169,25,1,3.0,0.0,h
+S2223-G0133,3,02:24,CHA,,BKN,,J. Bouknight,CHA,MISS Bouknight 6' Driving Layup,Missed Shot,Driving Layup Shot,40,43,6,1,2.0,0.0,h
+S2223-G0133,3,00:05.600000,CHA,,BKN,,J. Bouknight,CHA,Bouknight S.FOUL (P1.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0133,4,10:51,CHA,,BKN,,J. Bouknight,CHA,MISS Bouknight 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-94,38,10,1,2.0,0.0,h
+S2223-G0133,4,10:50,CHA,,BKN,,J. Bouknight,CHA,Bouknight REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,4,10:27,CHA,,BKN,,J. Bouknight,CHA,Bouknight REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,4,09:48,CHA,,BKN,,J. Bouknight,CHA,MISS Bouknight 27' 3PT Jump Shot,Missed Shot,Jump Shot,-123,241,27,1,3.0,0.0,h
+S2223-G0133,4,09:05,CHA,,BKN,,J. Bouknight,CHA,Bouknight Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0133,4,09:00,CHA,,BKN,,J. Bouknight,CHA,Bouknight BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0133,4,09:00,CHA,,BKN,,J. Bouknight,CHA,Bouknight REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,4,07:56,CHA,,BKN,,J. Bouknight,CHA,Bouknight REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0133,4,05:57,CHA,,BKN,,J. Bouknight,CHA,Bouknight Palming Turnover (P4.T13),Turnover,Palming Turnover,0,0,0,0,,,h
+S2223-G0133,4,05:57,CHA,,BKN,,J. Bouknight,CHA,SUB: McDaniels FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G0125,1,02:25,MEM,37.0,CHA,19.0,J. Bouknight,CHA,Bouknight 7' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,67,18,7,1,2.0,2.0,v
+S2223-G0125,1,02:13,MEM,,CHA,,J. Bouknight,CHA,Bouknight S.FOUL (P1.T3) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0125,1,00:32.800000,MEM,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,2,11:17,MEM,41.0,CHA,28.0,J. Bouknight,CHA,Bouknight 3' Running Finger Roll Layup (4 PTS) (Richards 1 AST),Made Shot,Running Finger Roll Layup Shot,-15,29,3,1,2.0,2.0,v
+S2223-G0125,2,08:44,MEM,49.0,CHA,35.0,J. Bouknight,CHA,Bouknight 3' Running Finger Roll Layup (6 PTS),Made Shot,Running Finger Roll Layup Shot,20,20,3,1,2.0,2.0,v
+S2223-G0125,2,08:25,MEM,,CHA,,J. Bouknight,CHA,Bouknight P.FOUL (P2.T2) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2223-G0125,2,07:27,MEM,,CHA,,J. Bouknight,CHA,Bouknight STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0125,2,06:45,MEM,51.0,CHA,39.0,J. Bouknight,CHA,Bouknight 2' Driving Dunk (8 PTS),Made Shot,Driving Dunk Shot,-7,22,2,1,2.0,2.0,v
+S2223-G0125,2,06:02,MEM,,CHA,,J. Bouknight,CHA,SUB: Oubre Jr. FOR Bouknight,Substitution,,0,0,0,0,,,v
+S2223-G0125,2,00:36.600000,MEM,,CHA,,J. Bouknight,CHA,Bouknight Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0125,3,01:00,MEM,102.0,CHA,66.0,J. Bouknight,CHA,Bouknight 12' Driving Floating Jump Shot (10 PTS) (Richards 2 AST),Made Shot,Driving Floating Jump Shot,-64,104,12,1,2.0,2.0,v
+S2223-G0125,3,00:40.200000,MEM,,CHA,,J. Bouknight,CHA,MISS Bouknight 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,26,124,13,1,2.0,0.0,v
+S2223-G0125,3,00:36.900000,MEM,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,3,00:36.900000,MEM,,CHA,,J. Bouknight,CHA,MISS Bouknight Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0125,3,00:33.200000,MEM,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0125,4,09:15,MEM,112.0,CHA,74.0,J. Bouknight,CHA,Bouknight 5' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,-44,24,5,1,2.0,2.0,v
+S2223-G0125,4,08:52,MEM,,CHA,,J. Bouknight,CHA,MISS Bouknight 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,16,57,6,1,2.0,0.0,v
+S2223-G0125,4,02:08,MEM,130.0,CHA,95.0,J. Bouknight,CHA,Bouknight 19' Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,143,126,19,1,2.0,2.0,v
+S2223-G0125,4,01:36,MEM,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0211,2,08:45,CHA,,IND,,J. Bouknight,CHA,MISS Bouknight 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,20,24,1,3.0,0.0,h
+S2223-G0211,2,08:23,CHA,42.0,IND,37.0,J. Bouknight,CHA,Bouknight 2' Driving Layup (2 PTS) (Ball 3 AST),Made Shot,Driving Layup Shot,6,23,2,1,2.0,2.0,h
+S2223-G0211,2,08:12,CHA,,IND,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0211,2,08:04,CHA,,IND,,J. Bouknight,CHA,MISS Bouknight 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-21,39,4,1,2.0,0.0,h
+S2223-G0211,2,07:04,CHA,,IND,,J. Bouknight,CHA,SUB: Rozier FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G0476,4,02:32,LAC,,CHA,,J. Bouknight,CHA,Bouknight STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0476,4,01:21,LAC,124.0,CHA,103.0,J. Bouknight,CHA,Bouknight 30' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,2,297,30,1,3.0,3.0,v
+S2223-G0476,4,01:02,LAC,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0476,4,00:59.100000,LAC,,CHA,,J. Bouknight,CHA,MISS Bouknight 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,21,37,4,1,2.0,0.0,v
+S2223-G0564,4,03:53,CHA,,MEM,,J. Bouknight,CHA,Bouknight STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0071,1,04:43,ORL,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0071,1,04:28,ORL,,CHA,,J. Bouknight,CHA,Bouknight Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0071,1,03:34,ORL,14.0,CHA,17.0,J. Bouknight,CHA,Bouknight 1' Driving Finger Roll Layup (2 PTS) (McDaniels 1 AST),Made Shot,Driving Finger Roll Layup Shot,-2,8,1,1,2.0,2.0,v
+S2223-G0071,1,02:34,ORL,,CHA,,J. Bouknight,CHA,Bouknight Step Out of Bounds Turnover (P2.T5),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0071,1,01:42,ORL,,CHA,,J. Bouknight,CHA,MISS Bouknight 25' 3PT Jump Shot,Missed Shot,Jump Shot,-151,204,25,1,3.0,0.0,v
+S2223-G0071,1,00:19.500000,ORL,,CHA,,J. Bouknight,CHA,MISS Bouknight 5' Running Layup,Missed Shot,Running Layup Shot,-17,42,5,1,2.0,0.0,v
+S2223-G0071,2,01:11,ORL,,CHA,,J. Bouknight,CHA,MISS Bouknight 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-93,50,11,1,2.0,0.0,v
+S2223-G0071,2,00:39.800000,ORL,,CHA,,J. Bouknight,CHA,Bouknight Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0071,3,04:17,ORL,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0071,3,03:50,ORL,,CHA,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Jump Shot,Missed Shot,Jump Shot,-157,210,26,1,3.0,0.0,v
+S2223-G0071,3,02:03,ORL,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0071,3,02:03,ORL,,CHA,,J. Bouknight,CHA,MISS Bouknight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0071,3,02:03,ORL,,CHA,,J. Bouknight,CHA,MISS Bouknight Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0071,3,01:17,ORL,,CHA,,J. Bouknight,CHA,MISS Bouknight 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-158,220,27,1,3.0,0.0,v
+S2223-G0071,3,00:31.600000,ORL,,CHA,,J. Bouknight,CHA,Bouknight S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2223-G0071,4,08:56,ORL,,CHA,,J. Bouknight,CHA,MISS Bouknight 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,29,12,3,1,2.0,0.0,v
+S2223-G0071,4,08:36,ORL,,CHA,,J. Bouknight,CHA,MISS Bouknight 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,105,249,27,1,3.0,0.0,v
+S2223-G0071,4,05:19,ORL,,CHA,,J. Bouknight,CHA,Bouknight P.FOUL (P2.T2) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2223-G0071,4,02:57,ORL,107.0,CHA,79.0,J. Bouknight,CHA,Bouknight 26' 3PT Jump Shot (5 PTS) (Jones 1 AST),Made Shot,Jump Shot,-165,207,26,1,3.0,3.0,v
+S2223-G0071,4,01:04,ORL,113.0,CHA,88.0,J. Bouknight,CHA,Bouknight 26' 3PT Jump Shot (8 PTS) (Jones 2 AST),Made Shot,Jump Shot,-146,220,26,1,3.0,3.0,v
+S2223-G0071,4,00:23.300000,ORL,113.0,CHA,93.0,J. Bouknight,CHA,Bouknight 28' 3PT Running Jump Shot (11 PTS) (Maledon 3 AST),Made Shot,Running Jump Shot,-150,231,28,1,3.0,3.0,v
+S2223-G0159,1,01:02,CHA,,POR,,J. Bouknight,CHA,MISS Bouknight 3PT Jump Shot,Missed Shot,Jump Shot,227,-3,0,1,3.0,0.0,h
+S2223-G0159,2,07:10,CHA,,POR,,J. Bouknight,CHA,Bouknight STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0159,2,07:05,CHA,45.0,POR,40.0,J. Bouknight,CHA,Bouknight 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,69,246,26,1,3.0,3.0,h
+S2223-G0159,2,06:49,CHA,,POR,,J. Bouknight,CHA,Bouknight STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0159,2,06:46,CHA,46.0,POR,40.0,J. Bouknight,CHA,Bouknight Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0159,2,06:46,CHA,47.0,POR,40.0,J. Bouknight,CHA,Bouknight Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0159,2,05:59,CHA,,POR,,J. Bouknight,CHA,SUB: Maledon FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G0159,2,02:29,CHA,,POR,,J. Bouknight,CHA,MISS Bouknight 2' Driving Layup,Missed Shot,Driving Layup Shot,22,11,2,1,2.0,0.0,h
+S2223-G0159,2,01:38,CHA,,POR,,J. Bouknight,CHA,Bouknight P.FOUL (P1.PN) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2223-G0159,2,01:08,CHA,,POR,,J. Bouknight,CHA,Bouknight Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0159,2,00:51.800000,CHA,,POR,,J. Bouknight,CHA,MISS Bouknight 27' 3PT Jump Shot,Missed Shot,Jump Shot,32,269,27,1,3.0,0.0,h
+S2223-G0159,2,00:10.700000,CHA,53.0,POR,58.0,J. Bouknight,CHA,Bouknight 2' Running Layup (7 PTS) (Washington 4 AST),Made Shot,Running Layup Shot,12,17,2,1,2.0,2.0,h
+S2223-G0159,3,04:32,CHA,,POR,,J. Bouknight,CHA,Bouknight S.FOUL (P2.T2) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2223-G0159,3,01:42,CHA,,POR,,J. Bouknight,CHA,SUB: Maledon FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G1134,1,05:59,OKC,,CHA,,J. Bouknight,CHA,MISS Bouknight 28' 3PT Jump Shot,Missed Shot,Jump Shot,25,274,28,1,3.0,0.0,v
+S2223-G1134,1,05:08,OKC,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,1,03:23,OKC,,CHA,,J. Bouknight,CHA,MISS Bouknight 27' 3PT Jump Shot,Missed Shot,Jump Shot,-192,193,27,1,3.0,0.0,v
+S2223-G1134,1,03:05,OKC,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,1,02:18,OKC,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,1,01:06,OKC,21.0,CHA,22.0,J. Bouknight,CHA,Bouknight 3PT Jump Shot (3 PTS) (Mykhailiuk 2 AST),Made Shot,Jump Shot,-230,4,0,1,3.0,3.0,v
+S2223-G1134,2,11:02,OKC,,CHA,,J. Bouknight,CHA,MISS Bouknight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1134,2,11:02,OKC,28.0,CHA,27.0,J. Bouknight,CHA,Bouknight Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1134,2,10:18,OKC,,CHA,,J. Bouknight,CHA,MISS Bouknight 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-190,193,27,1,3.0,0.0,v
+S2223-G1134,2,10:14,OKC,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1134,2,10:14,OKC,,CHA,,J. Bouknight,CHA,Bouknight Offensive Charge Foul (P1) (S.Corbin),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G1134,2,10:14,OKC,,CHA,,J. Bouknight,CHA,Bouknight Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G1134,2,10:14,OKC,,CHA,,J. Bouknight,CHA,SUB: Maledon FOR Bouknight,Substitution,,0,0,0,0,,,v
+S2223-G1134,2,06:39,OKC,,CHA,,J. Bouknight,CHA,Bouknight S.FOUL (P2.T4) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G1134,2,03:01,OKC,,CHA,,J. Bouknight,CHA,Bouknight S.FOUL (P3.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2223-G1134,2,03:01,OKC,,CHA,,J. Bouknight,CHA,SUB: Thor FOR Bouknight,Substitution,,0,0,0,0,,,v
+S2223-G1134,3,06:18,OKC,85.0,CHA,77.0,J. Bouknight,CHA,Bouknight 7' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,-27,64,7,1,2.0,2.0,v
+S2223-G1134,3,05:56,OKC,,CHA,,J. Bouknight,CHA,Bouknight S.FOUL (P4.T3) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2223-G1134,3,05:45,OKC,,CHA,,J. Bouknight,CHA,MISS Bouknight 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,39,148,15,1,2.0,0.0,v
+S2223-G1134,3,04:42,OKC,,CHA,,J. Bouknight,CHA,MISS Bouknight 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-38,53,7,1,2.0,0.0,v
+S2223-G1134,3,01:52,OKC,,CHA,,J. Bouknight,CHA,Bouknight Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1134,3,01:35,OKC,,CHA,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,64,251,26,1,3.0,0.0,v
+S2223-G1163,1,02:11,CHA,21.0,TOR,26.0,J. Bouknight,CHA,Bouknight 26' 3PT Pullup Jump Shot (3 PTS) (Sneed 1 AST),Made Shot,Pullup Jump shot,158,212,26,1,3.0,3.0,h
+S2223-G1163,1,00:32.100000,CHA,,TOR,,J. Bouknight,CHA,Bouknight Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G1163,2,07:01,CHA,38.0,TOR,47.0,J. Bouknight,CHA,Bouknight 13' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,97,80,13,1,2.0,2.0,h
+S2223-G1163,2,05:38,CHA,41.0,TOR,53.0,J. Bouknight,CHA,Bouknight 27' 3PT Jump Shot (8 PTS) (Maledon 4 AST),Made Shot,Jump Shot,-185,199,27,1,3.0,3.0,h
+S2223-G1163,2,05:13,CHA,,TOR,,J. Bouknight,CHA,MISS Bouknight 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,22,15,3,1,2.0,0.0,h
+S2223-G1163,2,04:22,CHA,,TOR,,J. Bouknight,CHA,MISS Bouknight 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,20,12,2,1,2.0,0.0,h
+S2223-G1163,2,03:30,CHA,,TOR,,J. Bouknight,CHA,Bouknight Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1163,2,02:58,CHA,,TOR,,J. Bouknight,CHA,SUB: Maledon FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G1163,3,09:05,CHA,61.0,TOR,78.0,J. Bouknight,CHA,Bouknight Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1163,3,09:05,CHA,62.0,TOR,78.0,J. Bouknight,CHA,Bouknight Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1163,3,08:15,CHA,,TOR,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,3,08:10,CHA,67.0,TOR,80.0,J. Bouknight,CHA,Bouknight 25' 3PT Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,48,248,25,1,3.0,3.0,h
+S2223-G1163,3,06:32,CHA,74.0,TOR,84.0,J. Bouknight,CHA,Bouknight 26' 3PT Fadeaway Jumper (16 PTS) (Maledon 10 AST),Made Shot,Fadeaway Jump Shot,-172,198,26,1,3.0,3.0,h
+S2223-G1163,3,06:16,CHA,,TOR,,J. Bouknight,CHA,Bouknight S.FOUL (P1.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G1163,3,05:56,CHA,,TOR,,J. Bouknight,CHA,Bouknight Lost Ball Turnover (P3.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1163,3,04:53,CHA,,TOR,,J. Bouknight,CHA,MISS Bouknight 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-154,226,27,1,3.0,0.0,h
+S2223-G1163,3,04:19,CHA,77.0,TOR,91.0,J. Bouknight,CHA,Bouknight 3PT Jump Shot (19 PTS) (Maledon 11 AST),Made Shot,Jump Shot,-233,0,0,1,3.0,3.0,h
+S2223-G1163,3,02:53,CHA,79.0,TOR,93.0,J. Bouknight,CHA,Bouknight 2' Cutting Layup Shot (21 PTS) (Mykhailiuk 1 AST),Made Shot,Cutting Layup Shot,17,9,2,1,2.0,2.0,h
+S2223-G1163,3,01:45,CHA,,TOR,,J. Bouknight,CHA,MISS Bouknight 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,64,245,25,1,3.0,0.0,h
+S2223-G1163,3,01:18,CHA,,TOR,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1163,4,02:58,CHA,,TOR,,J. Bouknight,CHA,SUB: Thor FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G0174,1,03:16,MIA,,CHA,,J. Bouknight,CHA,MISS Bouknight 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,61,24,1,3.0,0.0,v
+S2223-G0174,1,00:55.200000,MIA,,CHA,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-62,248,26,1,3.0,0.0,v
+S2223-G0174,1,00:10.500000,MIA,,CHA,,J. Bouknight,CHA,MISS Bouknight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0174,1,00:10.500000,MIA,32.0,CHA,27.0,J. Bouknight,CHA,Bouknight Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0174,1,00:02,MIA,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0174,2,10:06,MIA,,CHA,,J. Bouknight,CHA,Bouknight Offensive Charge Foul (P1) (M.Ervin),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0174,2,10:06,MIA,,CHA,,J. Bouknight,CHA,Bouknight Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0174,2,08:42,MIA,,CHA,,J. Bouknight,CHA,MISS Bouknight 24' 3PT Jump Shot,Missed Shot,Jump Shot,-227,83,24,1,3.0,0.0,v
+S2223-G0174,2,06:38,MIA,,CHA,,J. Bouknight,CHA,SUB: Plumlee FOR Bouknight,Substitution,,0,0,0,0,,,v
+S2223-G0174,3,05:39,MIA,,CHA,,J. Bouknight,CHA,Bouknight S.FOUL (P2.T4) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2223-G0174,3,05:00,MIA,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0174,3,02:46,MIA,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0174,3,02:35,MIA,,CHA,,J. Bouknight,CHA,MISS Bouknight 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-47,106,12,1,2.0,0.0,v
+S2223-G0174,3,00:24.800000,MIA,,CHA,,J. Bouknight,CHA,MISS Bouknight 29' 3PT Jump Shot,Missed Shot,Jump Shot,-145,253,29,1,3.0,0.0,v
+S2223-G0301,1,04:08,BOS,,CHA,,J. Bouknight,CHA,MISS Bouknight 17' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,32,166,17,1,2.0,0.0,v
+S2223-G0301,1,03:29,BOS,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,1,03:16,BOS,,CHA,,J. Bouknight,CHA,Bouknight STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0301,1,02:11,BOS,,CHA,,J. Bouknight,CHA,Bouknight STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0301,1,02:07,BOS,,CHA,,J. Bouknight,CHA,MISS Bouknight 5' Running Layup,Missed Shot,Running Layup Shot,28,42,5,1,2.0,0.0,v
+S2223-G0301,1,01:10,BOS,43.0,CHA,19.0,J. Bouknight,CHA,Bouknight 4' Running Layup (2 PTS) (Maledon 1 AST),Made Shot,Running Layup Shot,-27,26,4,1,2.0,2.0,v
+S2223-G0301,1,00:26.200000,BOS,,CHA,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Jump Shot,Missed Shot,Jump Shot,36,260,26,1,3.0,0.0,v
+S2223-G0301,2,05:22,BOS,,CHA,,J. Bouknight,CHA,MISS Bouknight 7' Driving Layup,Missed Shot,Driving Layup Shot,45,48,7,1,2.0,0.0,v
+S2223-G0301,2,04:30,BOS,,CHA,,J. Bouknight,CHA,MISS Bouknight 27' 3PT Jump Shot,Missed Shot,Jump Shot,131,241,27,1,3.0,0.0,v
+S2223-G0301,2,04:21,BOS,,CHA,,J. Bouknight,CHA,SUB: McGowens FOR Bouknight,Substitution,,0,0,0,0,,,v
+S2223-G0301,3,01:51,BOS,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,3,00:44,BOS,,CHA,,J. Bouknight,CHA,MISS Bouknight 28' 3PT Jump Shot,Missed Shot,Jump Shot,-104,256,28,1,3.0,0.0,v
+S2223-G0301,4,08:50,BOS,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,4,07:37,BOS,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,4,07:16,BOS,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0301,4,00:32,BOS,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1101,2,06:45,DAL,,CHA,,J. Bouknight,CHA,SUB: Mykhailiuk FOR Bouknight,Substitution,,0,0,0,0,,,v
+S2223-G1176,1,03:00,CHA,,TOR,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1176,1,02:41,CHA,,TOR,,J. Bouknight,CHA,Bouknight P.FOUL (P1.PN) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2223-G1176,1,00:47.100000,CHA,,TOR,,J. Bouknight,CHA,Bouknight P.FOUL (P2.PN) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2223-G1176,1,00:00,CHA,,TOR,,J. Bouknight,CHA,Bouknight S.FOUL (P3.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1176,3,03:49,CHA,75.0,TOR,80.0,J. Bouknight,CHA,Bouknight 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-221,109,25,1,3.0,3.0,h
+S2223-G1176,3,03:11,CHA,,TOR,,J. Bouknight,CHA,Bouknight P.FOUL (P4.T3) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2223-G1176,3,02:02,CHA,,TOR,,J. Bouknight,CHA,MISS Bouknight 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-47,94,11,1,2.0,0.0,h
+S2223-G1176,3,00:39.300000,CHA,,TOR,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,132,224,26,1,3.0,0.0,h
+S2223-G1176,4,11:46,CHA,,TOR,,J. Bouknight,CHA,MISS Bouknight 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,120,237,27,1,3.0,0.0,h
+S2223-G1176,4,08:12,CHA,,TOR,,J. Bouknight,CHA,MISS Bouknight 3PT Jump Shot,Missed Shot,Jump Shot,224,-13,0,1,3.0,0.0,h
+S2223-G1176,4,07:41,CHA,84.0,TOR,102.0,J. Bouknight,CHA,Bouknight 25' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-5,252,25,1,3.0,3.0,h
+S2223-G1176,4,04:48,CHA,92.0,TOR,107.0,J. Bouknight,CHA,Bouknight 1' Driving Layup (8 PTS) (Maledon 11 AST),Made Shot,Driving Layup Shot,12,0,1,1,2.0,2.0,h
+S2223-G1176,4,01:43,CHA,,TOR,,J. Bouknight,CHA,MISS Bouknight 1' Driving Layup,Missed Shot,Driving Layup Shot,9,11,1,1,2.0,0.0,h
+S2223-G1176,4,01:01,CHA,,TOR,,J. Bouknight,CHA,MISS Bouknight 28' 3PT Jump Shot,Missed Shot,Jump Shot,-125,255,28,1,3.0,0.0,h
+S2223-G1176,4,00:29.200000,CHA,,TOR,,J. Bouknight,CHA,Bouknight Lost Ball Turnover (P1.T18),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0272,1,02:36,CHA,,MIN,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,1,02:20,CHA,,MIN,,J. Bouknight,CHA,Bouknight S.FOUL (P1.T4) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0272,2,09:14,CHA,,MIN,,J. Bouknight,CHA,SUB: Maledon FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G0272,3,02:24,CHA,,MIN,,J. Bouknight,CHA,Bouknight Palming Turnover (P1.T10),Turnover,Palming Turnover,0,0,0,0,,,h
+S2223-G0272,3,02:01,CHA,86.0,MIN,79.0,J. Bouknight,CHA,Bouknight 25' 3PT Jump Shot (3 PTS) (Rozier 5 AST),Made Shot,Jump Shot,120,224,25,1,3.0,3.0,h
+S2223-G0272,3,01:01,CHA,91.0,MIN,81.0,J. Bouknight,CHA,Bouknight 27' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-136,235,27,1,3.0,3.0,h
+S2223-G0272,3,00:45.300000,CHA,,MIN,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0272,3,00:37.900000,CHA,,MIN,,J. Bouknight,CHA,MISS Bouknight 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,213,168,27,1,3.0,0.0,h
+S2223-G0272,4,11:27,CHA,,MIN,,J. Bouknight,CHA,Bouknight Palming Turnover (P2.T11),Turnover,Palming Turnover,0,0,0,0,,,h
+S2223-G0272,4,10:54,CHA,,MIN,,J. Bouknight,CHA,Bouknight STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0272,4,10:15,CHA,97.0,MIN,83.0,J. Bouknight,CHA,Bouknight 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,-4,21,2,1,2.0,2.0,h
+S2223-G0272,4,09:12,CHA,,MIN,,J. Bouknight,CHA,MISS Bouknight 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,108,151,19,1,2.0,0.0,h
+S2223-G0272,4,08:25,CHA,,MIN,,J. Bouknight,CHA,SUB: Maledon FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G0225,1,03:55,CLE,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,1,03:27,CLE,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0225,1,03:16,CLE,,CHA,,J. Bouknight,CHA,Bouknight Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0225,1,02:01,CLE,,CHA,,J. Bouknight,CHA,SUB: Rozier FOR Bouknight,Substitution,,0,0,0,0,,,v
+S2223-G0225,2,04:21,CLE,,CHA,,J. Bouknight,CHA,Bouknight S.FOUL (P1.T4) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0225,2,01:58,CLE,,CHA,,J. Bouknight,CHA,Bouknight S.FOUL (P2.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0225,3,02:14,CLE,,CHA,,J. Bouknight,CHA,Bouknight S.FOUL (P3.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0225,3,02:14,CLE,,CHA,,J. Bouknight,CHA,SUB: Washington FOR Bouknight,Substitution,,0,0,0,0,,,v
+S2223-G0399,2,00:40.200000,PHI,59.0,CHA,52.0,J. Bouknight,CHA,Bouknight 27' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-175,200,27,1,3.0,3.0,v
+S2223-G0399,2,00:31.200000,PHI,,CHA,,J. Bouknight,CHA,Bouknight P.FOUL (P1.PN) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2223-G0399,2,00:01,PHI,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0399,4,00:44.300000,PHI,,CHA,,J. Bouknight,CHA,Bouknight STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0399,4,00:30.900000,PHI,,CHA,,J. Bouknight,CHA,MISS Bouknight 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,60,59,8,1,2.0,0.0,v
+S2223-G0377,4,02:17,CHA,96.0,NYK,115.0,J. Bouknight,CHA,Bouknight Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0377,4,02:17,CHA,97.0,NYK,115.0,J. Bouknight,CHA,Bouknight Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0377,4,01:44,CHA,,NYK,,J. Bouknight,CHA,MISS Bouknight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0377,4,01:44,CHA,98.0,NYK,115.0,J. Bouknight,CHA,Bouknight Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0377,4,00:35.900000,CHA,,NYK,,J. Bouknight,CHA,Bouknight STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0377,4,00:31.500000,CHA,101.0,NYK,121.0,J. Bouknight,CHA,Bouknight Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0377,4,00:31.500000,CHA,102.0,NYK,121.0,J. Bouknight,CHA,Bouknight Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1218,1,04:30,CLE,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,1,04:28,CLE,,CHA,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,180,184,26,1,3.0,0.0,v
+S2223-G1218,1,01:37,CLE,,CHA,,J. Bouknight,CHA,MISS Bouknight 28' 3PT Jump Shot,Missed Shot,Jump Shot,-127,245,28,1,3.0,0.0,v
+S2223-G1218,1,00:00,CLE,,CHA,,J. Bouknight,CHA,MISS Bouknight 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,113,262,29,1,3.0,0.0,v
+S2223-G1218,2,09:01,CLE,30.0,CHA,25.0,J. Bouknight,CHA,Bouknight 11' Driving Floating Jump Shot (2 PTS) (Mykhailiuk 2 AST),Made Shot,Driving Floating Jump Shot,51,93,11,1,2.0,2.0,v
+S2223-G1218,2,09:01,CLE,30.0,CHA,26.0,J. Bouknight,CHA,Bouknight Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G1218,2,07:10,CLE,,CHA,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Jump Shot,Missed Shot,Jump Shot,-184,179,26,1,3.0,0.0,v
+S2223-G1218,2,06:31,CLE,,CHA,,J. Bouknight,CHA,Bouknight P.FOUL (P1.T4) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2223-G1218,2,03:03,CLE,,CHA,,J. Bouknight,CHA,MISS Bouknight 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,93,57,11,1,2.0,0.0,v
+S2223-G1218,2,03:01,CLE,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1218,2,03:01,CLE,,CHA,,J. Bouknight,CHA,MISS Bouknight 3' Putback Layup,Missed Shot,Putback Layup Shot,-7,30,3,1,2.0,0.0,v
+S2223-G1218,2,03:01,CLE,,CHA,,J. Bouknight,CHA,SUB: Mykhailiuk FOR Bouknight,Substitution,,0,0,0,0,,,v
+S2223-G1218,3,03:42,CLE,,CHA,,J. Bouknight,CHA,Bouknight P.FOUL (P2.T3) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2223-G1218,3,02:56,CLE,65.0,CHA,64.0,J. Bouknight,CHA,Bouknight 17' Driving Floating Jump Shot (5 PTS) (Simmons 3 AST),Made Shot,Driving Floating Jump Shot,99,141,17,1,2.0,2.0,v
+S2223-G1218,3,01:59,CLE,70.0,CHA,67.0,J. Bouknight,CHA,Bouknight 30' 3PT Jump Shot (8 PTS) (McGowens 3 AST),Made Shot,Jump Shot,-44,299,30,1,3.0,3.0,v
+S2223-G1218,3,01:27,CLE,,CHA,,J. Bouknight,CHA,MISS Bouknight 33' 3PT Jump Shot,Missed Shot,Jump Shot,98,312,33,1,3.0,0.0,v
+S2223-G1218,3,01:08,CLE,,CHA,,J. Bouknight,CHA,Bouknight Step Out of Bounds Turnover (P1.T12),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G1218,3,00:02.300000,CLE,,CHA,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-83,251,26,1,3.0,0.0,v
+S2223-G1218,4,08:35,CLE,81.0,CHA,85.0,J. Bouknight,CHA,Bouknight 24' 3PT Jump Shot (11 PTS) (Mykhailiuk 6 AST),Made Shot,Jump Shot,-230,52,24,1,3.0,3.0,v
+S2223-G1218,4,05:31,CLE,86.0,CHA,95.0,J. Bouknight,CHA,Bouknight Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1218,4,05:31,CLE,,CHA,,J. Bouknight,CHA,MISS Bouknight Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1218,4,01:54,CLE,,CHA,,J. Bouknight,CHA,Bouknight P.FOUL (P3.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2223-G1218,4,01:54,CLE,,CHA,,J. Bouknight,CHA,SUB: Mykhailiuk FOR Bouknight,Substitution,,0,0,0,0,,,v
+S2223-G1202,1,05:44,CHA,,HOU,,J. Bouknight,CHA,Bouknight Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1202,1,05:16,CHA,,HOU,,J. Bouknight,CHA,MISS Bouknight 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,67,24,1,3.0,0.0,h
+S2223-G1202,1,03:18,CHA,,HOU,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1202,1,02:49,CHA,21.0,HOU,21.0,J. Bouknight,CHA,Bouknight 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,109,157,19,1,2.0,2.0,h
+S2223-G1202,1,02:04,CHA,,HOU,,J. Bouknight,CHA,MISS Bouknight 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,121,68,14,1,2.0,0.0,h
+S2223-G1202,1,00:08.500000,CHA,,HOU,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1202,1,00:05.500000,CHA,,HOU,,J. Bouknight,CHA,Bouknight Backcourt Turnover (P2.T9),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2223-G1202,2,07:03,CHA,,HOU,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Jump Shot,Missed Shot,Jump Shot,-210,154,26,1,3.0,0.0,h
+S2223-G1202,2,06:32,CHA,,HOU,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1202,2,06:32,CHA,,HOU,,J. Bouknight,CHA,Bouknight Lost Ball Turnover (P3.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1202,2,05:34,CHA,,HOU,,J. Bouknight,CHA,Bouknight S.FOUL (P1.T2) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2223-G1202,2,05:20,CHA,,HOU,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,6,257,26,1,3.0,0.0,h
+S2223-G1202,2,04:28,CHA,41.0,HOU,44.0,J. Bouknight,CHA,Bouknight 7' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-18,63,7,1,2.0,2.0,h
+S2223-G1202,2,03:36,CHA,43.0,HOU,46.0,J. Bouknight,CHA,Bouknight 3' Running Layup (6 PTS) (Sneed 1 AST),Made Shot,Running Layup Shot,-12,23,3,1,2.0,2.0,h
+S2223-G1202,2,03:36,CHA,,HOU,,J. Bouknight,CHA,MISS Bouknight Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G1202,2,02:30,CHA,,HOU,,J. Bouknight,CHA,MISS Bouknight 17' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,75,155,17,1,2.0,0.0,h
+S2223-G1202,2,00:00,CHA,,HOU,,J. Bouknight,CHA,MISS Bouknight 52' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,521,52,1,3.0,0.0,h
+S2223-G1202,3,06:00,CHA,,HOU,,J. Bouknight,CHA,Bouknight OFF.Foul (P2) (J.Conley),Foul,Offensive,0,0,0,0,,,h
+S2223-G1202,3,06:00,CHA,,HOU,,J. Bouknight,CHA,Bouknight Offensive Foul Turnover (P4.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1202,3,05:40,CHA,,HOU,,J. Bouknight,CHA,Bouknight S.FOUL (P3.T2) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G1202,3,03:01,CHA,,HOU,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-113,234,26,1,3.0,0.0,h
+S2223-G1202,3,02:05,CHA,,HOU,,J. Bouknight,CHA,Bouknight S.FOUL (P4.T3) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G1202,3,01:30,CHA,,HOU,,J. Bouknight,CHA,SUB: Maledon FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G1202,4,08:41,CHA,,HOU,,J. Bouknight,CHA,Bouknight S.FOUL (P5.T2) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2223-G1202,4,04:12,CHA,,HOU,,J. Bouknight,CHA,SUB: Mykhailiuk FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G0096,1,02:48,CHA,,SAC,,J. Bouknight,CHA,MISS Bouknight 2' Driving Layup,Missed Shot,Driving Layup Shot,17,6,2,1,2.0,0.0,h
+S2223-G0096,1,02:00,CHA,,SAC,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0096,1,01:57,CHA,,SAC,,J. Bouknight,CHA,Bouknight Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0096,1,00:04.300000,CHA,,SAC,,J. Bouknight,CHA,Bouknight P.FOUL (P1.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2223-G0096,2,01:20,CHA,,SAC,,J. Bouknight,CHA,Bouknight S.FOUL (P2.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0096,3,02:26,CHA,80.0,SAC,86.0,J. Bouknight,CHA,Bouknight 30' 3PT Jump Shot (3 PTS) (McDaniels 3 AST),Made Shot,Jump Shot,185,241,30,1,3.0,3.0,h
+S2223-G0096,3,01:55,CHA,,SAC,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0096,3,01:55,CHA,,SAC,,J. Bouknight,CHA,Bouknight Traveling Turnover (P2.T16),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0096,3,00:52.600000,CHA,83.0,SAC,88.0,J. Bouknight,CHA,Bouknight 27' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,-76,255,27,1,3.0,3.0,h
+S2223-G0096,4,11:22,CHA,,SAC,,J. Bouknight,CHA,MISS Bouknight 29' 3PT Jump Shot,Missed Shot,Jump Shot,5,290,29,1,3.0,0.0,h
+S2223-G0096,4,07:54,CHA,,SAC,,J. Bouknight,CHA,SUB: Hayward FOR Bouknight,Substitution,,0,0,0,0,,,h
+S2223-G0038,1,04:14,ATL,,CHA,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Jump Shot,Missed Shot,Jump Shot,109,235,26,1,3.0,0.0,v
+S2223-G0038,1,02:36,ATL,24.0,CHA,12.0,J. Bouknight,CHA,Bouknight Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0038,1,02:36,ATL,24.0,CHA,13.0,J. Bouknight,CHA,Bouknight Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0038,1,02:03,ATL,25.0,CHA,16.0,J. Bouknight,CHA,Bouknight 25' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,-74,243,25,1,3.0,3.0,v
+S2223-G0038,2,09:52,ATL,,CHA,,J. Bouknight,CHA,MISS Bouknight 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,17,2,1,2.0,0.0,v
+S2223-G0038,2,09:02,ATL,30.0,CHA,36.0,J. Bouknight,CHA,Bouknight 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,229,-10,0,1,3.0,3.0,v
+S2223-G0038,2,07:40,ATL,,CHA,,J. Bouknight,CHA,Bouknight S.FOUL (P1.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0038,2,07:10,ATL,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0038,2,07:00,ATL,,CHA,,J. Bouknight,CHA,MISS Bouknight 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,185,170,25,1,3.0,0.0,v
+S2223-G0038,2,06:48,ATL,,CHA,,J. Bouknight,CHA,Bouknight P.FOUL (P2.PN) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2223-G0038,2,06:32,ATL,,CHA,,J. Bouknight,CHA,MISS Bouknight 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,-17,80,8,1,2.0,0.0,v
+S2223-G0038,2,05:57,ATL,,CHA,,J. Bouknight,CHA,MISS Bouknight 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-9,13,2,1,2.0,0.0,v
+S2223-G0038,2,04:58,ATL,39.0,CHA,46.0,J. Bouknight,CHA,Bouknight 1' Running Reverse Layup (10 PTS) (Richards 1 AST),Made Shot,Running Reverse Layup Shot,-2,11,1,1,2.0,2.0,v
+S2223-G0038,2,04:25,ATL,,CHA,,J. Bouknight,CHA,Bouknight P.FOUL (P3.PN) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2223-G0038,2,04:25,ATL,,CHA,,J. Bouknight,CHA,SUB: Oubre Jr. FOR Bouknight,Substitution,,0,0,0,0,,,v
+S2223-G0038,2,01:12,ATL,,CHA,,J. Bouknight,CHA,SUB: McGowens FOR Bouknight,Substitution,,0,0,0,0,,,v
+S2223-G0038,3,01:38,ATL,,CHA,,J. Bouknight,CHA,Bouknight STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0038,3,01:35,ATL,,CHA,,J. Bouknight,CHA,MISS Bouknight 3' Running Layup,Missed Shot,Running Layup Shot,26,15,3,1,2.0,0.0,v
+S2223-G0038,3,01:27,ATL,,CHA,,J. Bouknight,CHA,Bouknight S.FOUL (P4.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0428,4,03:21,,,ATL,,J. Bouknight,CHA,MISS Bouknight 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-18,34,4,1,2.0,0.0,h
+S2223-G0428,4,03:02,,,ATL,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0428,4,02:11,,,ATL,,J. Bouknight,CHA,MISS Bouknight 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-55,260,27,1,3.0,0.0,h
+S2223-G0111,1,05:27,CHI,,CHA,,J. Bouknight,CHA,Bouknight S.FOUL (P1.T2) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0111,1,04:51,CHI,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0111,1,03:43,CHI,14.0,CHA,18.0,J. Bouknight,CHA,Bouknight 28' 3PT Running Pull-Up Jump Shot (3 PTS) (Smith Jr. 3 AST),Made Shot,Running Pull-Up Jump Shot,-124,248,28,1,3.0,3.0,v
+S2223-G0111,1,01:26,CHI,,CHA,,J. Bouknight,CHA,MISS Bouknight 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-16,278,28,1,3.0,0.0,v
+S2223-G0111,2,01:34,CHI,59.0,CHA,50.0,J. Bouknight,CHA,Bouknight 11' Floating Jump Shot (5 PTS),Made Shot,Floating Jump shot,-93,49,11,1,2.0,2.0,v
+S2223-G0111,2,00:51,CHI,,CHA,,J. Bouknight,CHA,MISS Bouknight 5' Running Layup,Missed Shot,Running Layup Shot,54,8,5,1,2.0,0.0,v
+S2223-G0111,3,04:38,CHI,,CHA,,J. Bouknight,CHA,Bouknight BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0111,3,02:21,CHI,,CHA,,J. Bouknight,CHA,MISS Bouknight 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,227,8,0,1,3.0,0.0,v
+S2223-G0111,3,01:37,CHI,,CHA,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Jump Shot,Missed Shot,Jump Shot,225,121,26,1,3.0,0.0,v
+S2223-G0111,3,00:22.900000,CHI,84.0,CHA,69.0,J. Bouknight,CHA,Bouknight Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0111,3,00:22.900000,CHI,84.0,CHA,70.0,J. Bouknight,CHA,Bouknight Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0111,3,00:01.800000,CHI,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0111,4,04:48,CHI,,CHA,,J. Bouknight,CHA,MISS Bouknight 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,55,256,26,1,3.0,0.0,v
+S2223-G0111,4,04:25,CHI,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0189,1,03:02,MIA,25.0,CHA,24.0,J. Bouknight,CHA,Bouknight 26' 3PT Jump Shot (3 PTS) (Rozier 2 AST),Made Shot,Jump Shot,228,122,26,1,3.0,3.0,v
+S2223-G0189,1,00:24.500000,MIA,,CHA,,J. Bouknight,CHA,Bouknight BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0189,3,04:36,MIA,88.0,CHA,76.0,J. Bouknight,CHA,Bouknight 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,10,7,1,1,2.0,2.0,v
+S2223-G0189,3,02:52,MIA,,CHA,,J. Bouknight,CHA,Bouknight S.FOUL (P1.PN) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G0189,3,01:37,MIA,,CHA,,J. Bouknight,CHA,MISS Bouknight 3PT Jump Shot,Missed Shot,Jump Shot,227,4,0,1,3.0,0.0,v
+S2223-G0189,3,01:25,MIA,95.0,CHA,82.0,J. Bouknight,CHA,Bouknight 1' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,-2,11,1,1,2.0,2.0,v
+S2223-G0189,4,01:28,MIA,126.0,CHA,111.0,J. Bouknight,CHA,Bouknight 11' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,25,103,11,1,2.0,2.0,v
+S2223-G0189,4,00:20.100000,MIA,,CHA,,J. Bouknight,CHA,MISS Bouknight 24' 3PT Jump Shot,Missed Shot,Jump Shot,-227,91,24,1,3.0,0.0,v
+S2223-G0058,1,03:31,NYK,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0058,1,03:23,NYK,,CHA,,J. Bouknight,CHA,MISS Bouknight 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-99,34,10,1,2.0,0.0,v
+S2223-G0058,1,01:29,NYK,,CHA,,J. Bouknight,CHA,Bouknight STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0058,1,01:26,NYK,25.0,CHA,25.0,J. Bouknight,CHA,Bouknight 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,-5,8,1,1,2.0,2.0,v
+S2223-G0058,2,11:07,NYK,35.0,CHA,35.0,J. Bouknight,CHA,Bouknight 3PT Jump Shot (5 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,-232,1,0,1,3.0,3.0,v
+S2223-G0058,2,10:42,NYK,,CHA,,J. Bouknight,CHA,MISS Bouknight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0058,2,10:42,NYK,37.0,CHA,36.0,J. Bouknight,CHA,Bouknight Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0058,2,09:34,NYK,,CHA,,J. Bouknight,CHA,MISS Bouknight 3PT Jump Shot,Missed Shot,Jump Shot,-230,-3,0,1,3.0,0.0,v
+S2223-G0058,2,08:43,NYK,,CHA,,J. Bouknight,CHA,SUB: Thor FOR Bouknight,Substitution,,0,0,0,0,,,v
+S2223-G0058,2,02:03,NYK,,CHA,,J. Bouknight,CHA,Bouknight P.FOUL (P1.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2223-G0058,2,01:48,NYK,64.0,CHA,60.0,J. Bouknight,CHA,Bouknight 1' Driving Layup (8 PTS) (Hayward 2 AST),Made Shot,Driving Layup Shot,5,5,1,1,2.0,2.0,v
+S2223-G0058,2,01:31,NYK,,CHA,,J. Bouknight,CHA,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0058,2,01:26,NYK,,CHA,,J. Bouknight,CHA,Bouknight Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0058,2,00:38.800000,NYK,,CHA,,J. Bouknight,CHA,SUB: McGowens FOR Bouknight,Substitution,,0,0,0,0,,,v
+S2223-G0058,3,04:23,NYK,,CHA,,J. Bouknight,CHA,MISS Bouknight 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,207,194,28,1,3.0,0.0,v
+S2223-G0058,3,03:15,NYK,,CHA,,J. Bouknight,CHA,MISS Bouknight 3PT Jump Shot,Missed Shot,Jump Shot,221,6,0,1,3.0,0.0,v
+S2223-G0058,3,01:27,NYK,,CHA,,J. Bouknight,CHA,Bouknight P.FOUL (P2.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2223-G0058,4,11:20,NYK,100.0,CHA,93.0,J. Bouknight,CHA,Bouknight 27' 3PT Jump Shot (11 PTS) (McDaniels 2 AST),Made Shot,Jump Shot,132,240,27,1,3.0,3.0,v
+S2223-G0058,4,10:54,NYK,100.0,CHA,95.0,J. Bouknight,CHA,Bouknight Driving Layup (13 PTS) (Maledon 4 AST),Made Shot,Driving Layup Shot,2,1,0,1,2.0,2.0,v
+S2223-G0058,4,10:09,NYK,,CHA,,J. Bouknight,CHA,SUB: Oubre Jr. FOR Bouknight,Substitution,,0,0,0,0,,,v

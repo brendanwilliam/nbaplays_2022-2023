@@ -1,0 +1,300 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G1021,4,08:40,ATL,,MIN,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1021,4,08:19,ATL,,MIN,,N. Knight,MIN,SUB: McDaniels FOR Knight,Substitution,,0,0,0,0,,,v
+S2223-G1021,4,01:19,ATL,,MIN,,N. Knight,MIN,Knight S.FOUL (P1.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2223-G0407,4,01:37,POR,,MIN,,N. Knight,MIN,Knight Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0407,4,00:58,POR,130.0,MIN,108.0,N. Knight,MIN,Knight 4' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,2,42,4,1,2.0,2.0,v
+S2223-G0407,4,00:24.500000,POR,133.0,MIN,112.0,N. Knight,MIN,Knight 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,-6,-5,1,1,2.0,2.0,v
+S2223-G0041,4,01:50,OKC,,MIN,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0041,4,01:06,OKC,,MIN,,N. Knight,MIN,Knight S.FOUL (P1.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2223-G0041,4,01:05,OKC,,MIN,,N. Knight,MIN,Knight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0153,4,01:38,MIN,,NYK,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0806,2,00:09.700000,MIN,,DEN,,N. Knight,MIN,Knight S.FOUL (P1.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0806,3,05:35,MIN,,DEN,,N. Knight,MIN,MISS Knight 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-44,44,6,1,2.0,0.0,h
+S2223-G0806,3,04:29,MIN,,DEN,,N. Knight,MIN,Knight Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0806,3,04:07,MIN,85.0,DEN,61.0,N. Knight,MIN,Knight 2' Cutting Dunk Shot (2 PTS) (Prince 2 AST),Made Shot,Cutting Dunk Shot,1,16,2,1,2.0,2.0,h
+S2223-G0806,3,02:30,MIN,,DEN,,N. Knight,MIN,Knight S.FOUL (P2.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2223-G0806,3,01:38,MIN,,DEN,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0806,4,11:28,MIN,,DEN,,N. Knight,MIN,Knight Traveling Turnover (P2.T10),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0806,4,10:38,MIN,95.0,DEN,73.0,N. Knight,MIN,Knight Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0806,4,10:38,MIN,,DEN,,N. Knight,MIN,MISS Knight Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0806,4,10:19,MIN,96.0,DEN,73.0,N. Knight,MIN,Knight Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0806,4,10:19,MIN,97.0,DEN,73.0,N. Knight,MIN,Knight Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0806,4,09:41,MIN,,DEN,,N. Knight,MIN,SUB: Gobert FOR Knight,Substitution,,0,0,0,0,,,h
+S2223-G0806,4,03:59,MIN,,DEN,,N. Knight,MIN,Knight STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0806,4,03:47,MIN,119.0,DEN,87.0,N. Knight,MIN,Knight Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0806,4,03:47,MIN,,DEN,,N. Knight,MIN,MISS Knight Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0806,4,03:19,MIN,,DEN,,N. Knight,MIN,Knight REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0806,4,03:19,MIN,,DEN,,N. Knight,MIN,MISS Knight Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0806,4,03:18,MIN,,DEN,,N. Knight,MIN,Knight REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0806,4,03:18,MIN,121.0,DEN,87.0,N. Knight,MIN,Knight Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0806,4,01:18,MIN,,DEN,,N. Knight,MIN,Knight Lost Ball Turnover (P3.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0806,4,00:29,MIN,,DEN,,N. Knight,MIN,MISS Knight 4' Driving Layup,Missed Shot,Driving Layup Shot,1,44,4,1,2.0,0.0,h
+S2223-G0587,4,00:01,MIN,,LAC,,N. Knight,MIN,Knight Lost Ball Turnover (P1.T20),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0790,1,02:57,MIN,,ORL,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0790,1,02:11,MIN,,ORL,,N. Knight,MIN,Knight S.FOUL (P1.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G0790,1,00:18.200000,MIN,33.0,ORL,27.0,N. Knight,MIN,Knight Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0790,1,00:18.200000,MIN,34.0,ORL,27.0,N. Knight,MIN,Knight Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0790,3,11:05,MIN,,ORL,,N. Knight,MIN,MISS Knight 6' Driving Dunk,Missed Shot,Driving Dunk Shot,-54,16,6,1,2.0,0.0,h
+S2223-G0790,3,08:22,MIN,,ORL,,N. Knight,MIN,Knight REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0790,3,07:12,MIN,,ORL,,N. Knight,MIN,Knight BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0790,3,07:01,MIN,,ORL,,N. Knight,MIN,MISS Knight 3PT Jump Shot,Missed Shot,Jump Shot,-234,0,0,1,3.0,0.0,h
+S2223-G0790,3,06:22,MIN,,ORL,,N. Knight,MIN,SUB: Ryan FOR Knight,Substitution,,0,0,0,0,,,h
+S2223-G0790,3,00:03.400000,MIN,,ORL,,N. Knight,MIN,Knight S.FOUL (P2.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G0456,1,03:12,MIN,,DAL,,N. Knight,MIN,Knight S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2223-G0456,1,02:51,MIN,,DAL,,N. Knight,MIN,Knight P.FOUL (P2.T4) (M.Dagher),Foul,Personal,0,0,0,0,,,h
+S2223-G0456,1,02:00,MIN,,DAL,,N. Knight,MIN,Knight OFF.Foul (P3) (R.Mott),Foul,Offensive,0,0,0,0,,,h
+S2223-G0456,1,02:00,MIN,,DAL,,N. Knight,MIN,Knight Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0456,1,02:00,MIN,,DAL,,N. Knight,MIN,SUB: Garza FOR Knight,Substitution,,0,0,0,0,,,h
+S2223-G0456,3,03:21,MIN,,DAL,,N. Knight,MIN,MISS Knight 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,6,8,1,1,2.0,0.0,h
+S2223-G0456,3,02:49,MIN,,DAL,,N. Knight,MIN,MISS Knight 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,-10,24,1,3.0,0.0,h
+S2223-G0456,3,02:46,MIN,,DAL,,N. Knight,MIN,Knight REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0456,3,02:45,MIN,83.0,DAL,67.0,N. Knight,MIN,Knight 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,11,1,1,2.0,2.0,h
+S2223-G0456,3,02:01,MIN,,DAL,,N. Knight,MIN,Knight REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0533,1,01:28,MIL,,MIN,,N. Knight,MIN,Knight BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0533,1,01:25,MIL,,MIN,,N. Knight,MIN,Knight P.FOUL (P1.T4) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2223-G0533,1,00:28.500000,MIL,,MIN,,N. Knight,MIN,Knight S.FOUL (P2.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0724,1,01:59,NOP,,MIN,,N. Knight,MIN,Knight S.FOUL (P1.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0724,1,01:19,NOP,28.0,MIN,24.0,N. Knight,MIN,Knight 1' Running Dunk (2 PTS) (Edwards 2 AST),Made Shot,Running Dunk Shot,-1,5,1,1,2.0,2.0,v
+S2223-G0724,1,00:58.800000,NOP,,MIN,,N. Knight,MIN,Knight S.FOUL (P2.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2223-G0676,3,09:37,DEN,,MIN,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0676,3,09:26,DEN,,MIN,,N. Knight,MIN,MISS Knight 27' 3PT Jump Shot,Missed Shot,Jump Shot,-20,272,27,1,3.0,0.0,v
+S2223-G0676,3,09:21,DEN,,MIN,,N. Knight,MIN,Knight P.FOUL (P1.T3) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2223-G0676,3,09:16,DEN,,MIN,,N. Knight,MIN,Knight P.FOUL (P2.T4) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G0676,3,08:19,DEN,,MIN,,N. Knight,MIN,Knight S.FOUL (P3.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2223-G0676,3,06:51,DEN,68.0,MIN,74.0,N. Knight,MIN,Knight 4' Running Layup (2 PTS) (Russell 4 AST),Made Shot,Running Layup Shot,31,25,4,1,2.0,2.0,v
+S2223-G0676,3,06:51,DEN,,MIN,,N. Knight,MIN,MISS Knight Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0676,3,06:30,DEN,,MIN,,N. Knight,MIN,Knight OFF.Foul (P4) (S.Corbin),Foul,Offensive,0,0,0,0,,,v
+S2223-G0676,3,06:30,DEN,,MIN,,N. Knight,MIN,Knight Offensive Foul Turnover (P1.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0676,3,06:30,DEN,,MIN,,N. Knight,MIN,SUB: Garza FOR Knight,Substitution,,0,0,0,0,,,v
+S2223-G0709,1,00:48.700000,HOU,31.0,MIN,22.0,N. Knight,MIN,Knight 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-16,1,2,1,2.0,2.0,v
+S2223-G0709,1,00:16.700000,HOU,,MIN,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0709,2,10:41,HOU,,MIN,,N. Knight,MIN,MISS Knight 25' 3PT Jump Shot,Missed Shot,Jump Shot,-107,229,25,1,3.0,0.0,v
+S2223-G0709,2,09:26,HOU,34.0,MIN,30.0,N. Knight,MIN,Knight 1' Driving Dunk (4 PTS) (Rivers 2 AST),Made Shot,Driving Dunk Shot,1,13,1,1,2.0,2.0,v
+S2223-G0709,2,07:38,HOU,,MIN,,N. Knight,MIN,Knight BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0709,2,06:18,HOU,,MIN,,N. Knight,MIN,SUB: Ryan FOR Knight,Substitution,,0,0,0,0,,,v
+S2223-G0709,3,01:52,HOU,,MIN,,N. Knight,MIN,Knight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0709,3,00:06.100000,HOU,,MIN,,N. Knight,MIN,Knight REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0709,3,00:06.100000,HOU,,MIN,,N. Knight,MIN,MISS Knight 5' Putback Layup,Missed Shot,Putback Layup Shot,36,39,5,1,2.0,0.0,v
+S2223-G0709,4,05:41,HOU,,MIN,,N. Knight,MIN,Knight REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0709,4,03:45,HOU,,MIN,,N. Knight,MIN,MISS Knight 25' 3PT Jump Shot,Missed Shot,Jump Shot,-114,226,25,1,3.0,0.0,v
+S2223-G0709,4,03:33,HOU,,MIN,,N. Knight,MIN,SUB: Anderson FOR Knight,Substitution,,0,0,0,0,,,v
+S2223-G0709,4,00:02.100000,HOU,,MIN,,N. Knight,MIN,SUB: Ryan FOR Knight,Substitution,,0,0,0,0,,,v
+S2223-G0820,1,01:52,DEN,,,,N. Knight,MIN,Knight Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0820,1,01:09,DEN,,,,N. Knight,MIN,MISS Knight 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-34,16,4,1,2.0,0.0,v
+S2223-G0820,1,00:54.500000,DEN,,,,N. Knight,MIN,Knight BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0820,3,05:04,DEN,,,,N. Knight,MIN,SUB: Minott FOR Knight,Substitution,,0,0,0,0,,,v
+S2223-G0820,4,10:52,DEN,112.0,,78.0,N. Knight,MIN,Knight Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0820,4,10:52,DEN,,,,N. Knight,MIN,MISS Knight Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0820,4,07:17,DEN,,,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0820,4,06:38,DEN,,,,N. Knight,MIN,Knight S.FOUL (P1.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0820,4,05:26,DEN,126.0,,94.0,N. Knight,MIN,Knight 4' Layup (3 PTS),Made Shot,Layup Shot,36,17,4,1,2.0,2.0,v
+S2223-G0820,4,03:11,DEN,137.0,,103.0,N. Knight,MIN,Knight 3' Driving Finger Roll Layup (5 PTS) (Moore Jr. 3 AST),Made Shot,Driving Finger Roll Layup Shot,26,10,3,1,2.0,2.0,v
+S2223-G0820,4,02:41,DEN,,,,N. Knight,MIN,MISS Knight 27' 3PT Jump Shot,Missed Shot,Jump Shot,-153,225,27,1,3.0,0.0,v
+S2223-G0820,4,00:41.300000,DEN,144.0,,111.0,N. Knight,MIN,Knight 28' 3PT Jump Shot (8 PTS) (Moore Jr. 5 AST),Made Shot,Jump Shot,113,252,28,1,3.0,3.0,v
+S2223-G0820,4,00:07.300000,DEN,,,,N. Knight,MIN,MISS Knight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0820,4,00:07.300000,DEN,146.0,,112.0,N. Knight,MIN,Knight Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0482,4,01:00,BOS,,MIN,,N. Knight,MIN,Knight Lost Ball Turnover (P1.T17),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0482,4,00:29.200000,BOS,,MIN,,N. Knight,MIN,Knight STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0291,4,02:39,MIN,,GSW,,N. Knight,MIN,Knight STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0291,4,01:28,MIN,,GSW,,N. Knight,MIN,MISS Knight 2' Driving Layup,Missed Shot,Driving Layup Shot,15,15,2,1,2.0,0.0,h
+S2223-G0291,4,00:19.600000,MIN,,GSW,,N. Knight,MIN,MISS Knight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0291,4,00:19.600000,MIN,,GSW,,N. Knight,MIN,MISS Knight Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0696,1,04:12,MIN,,HOU,,N. Knight,MIN,Knight REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0696,1,04:11,MIN,,HOU,,N. Knight,MIN,MISS Knight 2' Layup,Missed Shot,Layup Shot,17,8,2,1,2.0,0.0,h
+S2223-G0696,1,03:46,MIN,,HOU,,N. Knight,MIN,MISS Knight 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-42,110,12,1,2.0,0.0,h
+S2223-G0696,1,01:58,MIN,,HOU,,N. Knight,MIN,MISS Knight 3' Layup,Missed Shot,Layup Shot,-32,11,3,1,2.0,0.0,h
+S2223-G0696,1,01:29,MIN,,HOU,,N. Knight,MIN,Knight REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0696,2,00:32.100000,MIN,49.0,HOU,52.0,N. Knight,MIN,Knight Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0696,2,00:32.100000,MIN,50.0,HOU,52.0,N. Knight,MIN,Knight Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0696,2,00:11.700000,MIN,,HOU,,N. Knight,MIN,Knight REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0696,3,07:08,MIN,,HOU,,N. Knight,MIN,MISS Knight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0696,3,07:08,MIN,60.0,HOU,70.0,N. Knight,MIN,Knight Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0696,3,06:26,MIN,62.0,HOU,70.0,N. Knight,MIN,Knight 2' Alley Oop Layup (5 PTS) (Russell 5 AST),Made Shot,Alley Oop Layup shot,18,1,2,1,2.0,2.0,h
+S2223-G0696,3,04:51,MIN,,HOU,,N. Knight,MIN,Knight STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0696,3,04:47,MIN,70.0,HOU,70.0,N. Knight,MIN,Knight Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0696,3,04:47,MIN,71.0,HOU,70.0,N. Knight,MIN,Knight Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0696,3,03:09,MIN,80.0,HOU,78.0,N. Knight,MIN,Knight 3PT Jump Shot (10 PTS) (Edwards 3 AST),Made Shot,Jump Shot,-228,46,0,1,3.0,3.0,h
+S2223-G0696,3,01:40,MIN,81.0,HOU,80.0,N. Knight,MIN,Knight Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0696,3,01:40,MIN,82.0,HOU,80.0,N. Knight,MIN,Knight Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0696,4,10:56,MIN,,HOU,,N. Knight,MIN,Knight STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0696,4,10:51,MIN,89.0,HOU,84.0,N. Knight,MIN,Knight 2' Running Layup (14 PTS),Made Shot,Running Layup Shot,18,7,2,1,2.0,2.0,h
+S2223-G0696,4,10:05,MIN,,HOU,,N. Knight,MIN,Knight P.FOUL (P1.T2) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2223-G0696,4,09:50,MIN,,HOU,,N. Knight,MIN,Knight STEAL (3 STL),,,0,0,0,0,,,h
+S2223-G0696,4,09:46,MIN,91.0,HOU,87.0,N. Knight,MIN,Knight 1' Running Dunk (16 PTS),Made Shot,Running Dunk Shot,-4,13,1,1,2.0,2.0,h
+S2223-G0696,4,09:28,MIN,,HOU,,N. Knight,MIN,Knight P.FOUL (P2.T3) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2223-G0696,4,08:22,MIN,94.0,HOU,87.0,N. Knight,MIN,Knight 26' 3PT Jump Shot (19 PTS) (Nowell 1 AST),Made Shot,Jump Shot,-40,254,26,1,3.0,3.0,h
+S2223-G0696,4,06:03,MIN,,HOU,,N. Knight,MIN,Knight T.FOUL (P2.T3) (J.Sterling),Foul,Technical,0,0,0,0,,,h
+S2223-G0696,4,02:22,MIN,,HOU,,N. Knight,MIN,Knight REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0696,4,02:19,MIN,,HOU,,N. Knight,MIN,MISS Knight 25' 3PT Jump Shot,Missed Shot,Jump Shot,44,247,25,1,3.0,0.0,h
+S2223-G0696,4,02:13,MIN,,HOU,,N. Knight,MIN,Knight P.FOUL (P3.PN) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2223-G0696,4,00:45.300000,MIN,,HOU,,N. Knight,MIN,Knight S.FOUL (P4.PN) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2223-G0680,1,08:00,MIN,,TOR,,N. Knight,MIN,Knight S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0680,1,07:44,MIN,12.0,TOR,7.0,N. Knight,MIN,Knight 2' Driving Dunk (2 PTS) (Anderson 2 AST),Made Shot,Driving Dunk Shot,-7,21,2,1,2.0,2.0,h
+S2223-G0680,1,06:45,MIN,,TOR,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0680,1,05:57,MIN,,TOR,,N. Knight,MIN,Knight REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0680,1,05:56,MIN,,TOR,,N. Knight,MIN,MISS Knight 5' Putback Layup,Missed Shot,Putback Layup Shot,42,27,5,1,2.0,0.0,h
+S2223-G0680,1,05:47,MIN,14.0,TOR,14.0,N. Knight,MIN,Knight 2' Cutting Dunk Shot (4 PTS) (Prince 1 AST),Made Shot,Cutting Dunk Shot,7,20,2,1,2.0,2.0,h
+S2223-G0680,1,05:36,MIN,,TOR,,N. Knight,MIN,Knight REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0680,1,02:57,MIN,,TOR,,N. Knight,MIN,MISS Knight 6' Hook Shot,Missed Shot,Hook Shot,-15,59,6,1,2.0,0.0,h
+S2223-G0680,1,01:32,MIN,26.0,TOR,29.0,N. Knight,MIN,Knight Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0680,1,01:32,MIN,27.0,TOR,29.0,N. Knight,MIN,Knight Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0680,1,00:57.500000,MIN,,TOR,,N. Knight,MIN,Knight REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0680,1,00:57.500000,MIN,29.0,TOR,32.0,N. Knight,MIN,Knight Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0423,4,00:44.400000,LAC,99.0,MIN,86.0,N. Knight,MIN,Knight 2' Driving Dunk (2 PTS) (Minott 1 AST),Made Shot,Driving Dunk Shot,7,15,2,1,2.0,2.0,v
+S2223-G0423,4,00:26.400000,LAC,,MIN,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0423,4,00:21.300000,LAC,99.0,MIN,88.0,N. Knight,MIN,Knight 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,-18,6,2,1,2.0,2.0,v
+S2223-G0618,1,02:33,DET,,MIN,,N. Knight,MIN,Knight S.FOUL (P1.T4) (B.Haskill),Foul,Shooting,0,0,0,0,,,v
+S2223-G0618,1,00:35.800000,DET,26.0,MIN,33.0,N. Knight,MIN,Knight 3' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,-10,31,3,1,2.0,2.0,v
+S2223-G0618,1,00:16.500000,DET,,MIN,,N. Knight,MIN,MISS Knight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0618,1,00:16.500000,DET,29.0,MIN,34.0,N. Knight,MIN,Knight Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0618,3,02:34,DET,,MIN,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0618,3,02:30,DET,,MIN,,N. Knight,MIN,Knight Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0618,3,02:03,DET,94.0,MIN,82.0,N. Knight,MIN,Knight Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0618,3,02:03,DET,94.0,MIN,83.0,N. Knight,MIN,Knight Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0618,3,01:20,DET,,MIN,,N. Knight,MIN,MISS Knight 4' Layup,Missed Shot,Layup Shot,34,22,4,1,2.0,0.0,v
+S2223-G0618,3,01:19,DET,,MIN,,N. Knight,MIN,Knight REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0618,3,01:18,DET,,MIN,,N. Knight,MIN,MISS Knight 3' Putback Layup,Missed Shot,Putback Layup Shot,-26,20,3,1,2.0,0.0,v
+S2223-G0435,1,02:52,OKC,,MIN,,N. Knight,MIN,Knight REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0435,1,02:52,OKC,21.0,MIN,23.0,N. Knight,MIN,Knight Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0435,1,02:52,OKC,21.0,MIN,24.0,N. Knight,MIN,Knight Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0435,1,01:30,OKC,,MIN,,N. Knight,MIN,Knight REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0435,1,01:30,OKC,23.0,MIN,28.0,N. Knight,MIN,Knight 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,11,11,2,1,2.0,2.0,v
+S2223-G0435,1,00:22.700000,OKC,26.0,MIN,29.0,N. Knight,MIN,Knight Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0435,1,00:22.700000,OKC,26.0,MIN,30.0,N. Knight,MIN,Knight Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0435,1,00:02.200000,OKC,,MIN,,N. Knight,MIN,Knight BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0435,2,11:41,OKC,,MIN,,N. Knight,MIN,Knight Violation:Defensive Goaltending (J.Orr),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2223-G0435,2,11:10,OKC,33.0,MIN,32.0,N. Knight,MIN,Knight 3' Driving Layup (8 PTS) (Moore Jr. 3 AST),Made Shot,Driving Layup Shot,1,31,3,1,2.0,2.0,v
+S2223-G0435,2,11:10,OKC,,MIN,,N. Knight,MIN,MISS Knight Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2223-G0435,2,10:40,OKC,,MIN,,N. Knight,MIN,Knight REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0435,2,10:36,OKC,35.0,MIN,34.0,N. Knight,MIN,Knight 1' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,-2,11,1,1,2.0,2.0,v
+S2223-G0435,2,10:01,OKC,,MIN,,N. Knight,MIN,Knight Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0435,2,08:27,OKC,,MIN,,N. Knight,MIN,Knight REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0435,2,07:58,OKC,,MIN,,N. Knight,MIN,SUB: Reid FOR Knight,Substitution,,0,0,0,0,,,v
+S2223-G0435,3,03:47,OKC,,MIN,,N. Knight,MIN,Knight S.FOUL (P1.T4) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2223-G0435,3,03:17,OKC,,MIN,,N. Knight,MIN,Knight REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0435,3,00:34.600000,OKC,,MIN,,N. Knight,MIN,Knight Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0435,3,00:02.300000,OKC,,MIN,,N. Knight,MIN,Knight Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0435,4,00:07.200000,OKC,,MIN,,N. Knight,MIN,SUB: Rivers FOR Knight,Substitution,,0,0,0,0,,,v
+S2223-G0435,4,00:03.400000,OKC,,MIN,,N. Knight,MIN,SUB: Rivers FOR Knight,Substitution,,0,0,0,0,,,v
+S2223-G1225,3,02:09,MIN,,NOP,,N. Knight,MIN,Knight OFF.Foul (P1) (K.Lane),Foul,Offensive,0,0,0,0,,,h
+S2223-G1225,3,02:09,MIN,,NOP,,N. Knight,MIN,Knight Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1225,3,01:41,MIN,78.0,NOP,80.0,N. Knight,MIN,Knight 3' Running Layup (2 PTS) (McLaughlin 4 AST),Made Shot,Running Layup Shot,2,31,3,1,2.0,2.0,h
+S2223-G1225,3,01:22,MIN,,NOP,,N. Knight,MIN,Knight S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2223-G1225,3,01:03,MIN,,NOP,,N. Knight,MIN,MISS Knight 4' Driving Layup,Missed Shot,Driving Layup Shot,-22,31,4,1,2.0,0.0,h
+S2223-G1225,3,00:50.700000,MIN,,NOP,,N. Knight,MIN,Knight S.FOUL (P3.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2223-G1225,3,00:50.700000,MIN,,NOP,,N. Knight,MIN,SUB: Towns FOR Knight,Substitution,,0,0,0,0,,,h
+S2223-G0137,4,01:53,MIN,128.0,HOU,107.0,N. Knight,MIN,Knight 2' Driving Layup (2 PTS) (McLaughlin 11 AST),Made Shot,Driving Layup Shot,17,18,2,1,2.0,2.0,h
+S2223-G0137,4,01:53,MIN,129.0,HOU,107.0,N. Knight,MIN,Knight Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0137,4,01:18,MIN,,HOU,,N. Knight,MIN,Knight Lost Ball Turnover (P1.T22),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0662,3,04:21,MIN,,UTA,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0662,3,03:45,MIN,80.0,UTA,79.0,N. Knight,MIN,Knight 25' 3PT Jump Shot (3 PTS) (Edwards 4 AST),Made Shot,Jump Shot,113,221,25,1,3.0,3.0,h
+S2223-G0662,3,01:42,MIN,88.0,UTA,83.0,N. Knight,MIN,Knight 5' Hook Shot (5 PTS),Made Shot,Hook Shot,2,45,5,1,2.0,2.0,h
+S2223-G0662,4,08:41,MIN,104.0,UTA,100.0,N. Knight,MIN,Knight 4' Layup (7 PTS) (Russell 7 AST),Made Shot,Layup Shot,36,20,4,1,2.0,2.0,h
+S2223-G0662,4,08:41,MIN,,UTA,,N. Knight,MIN,MISS Knight Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0662,4,08:12,MIN,,UTA,,N. Knight,MIN,MISS Knight 25' 3PT Jump Shot,Missed Shot,Jump Shot,-27,247,25,1,3.0,0.0,h
+S2223-G0662,4,07:29,MIN,,UTA,,N. Knight,MIN,Knight STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0662,4,07:21,MIN,,UTA,,N. Knight,MIN,SUB: Reid FOR Knight,Substitution,,0,0,0,0,,,h
+S2223-G0662,4,00:03.900000,MIN,,UTA,,N. Knight,MIN,SUB: McDaniels FOR Knight,Substitution,,0,0,0,0,,,h
+S2223-G0746,2,07:17,MIN,,SAC,,N. Knight,MIN,MISS Knight 3PT Jump Shot,Missed Shot,Jump Shot,-224,30,0,1,3.0,0.0,h
+S2223-G0746,2,05:00,MIN,,SAC,,N. Knight,MIN,Knight Step Out of Bounds Turnover (P1.T9),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0746,2,03:20,MIN,,SAC,,N. Knight,MIN,MISS Knight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0746,2,03:20,MIN,48.0,SAC,48.0,N. Knight,MIN,Knight Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0746,2,03:12,MIN,,SAC,,N. Knight,MIN,SUB: Nowell FOR Knight,Substitution,,0,0,0,0,,,h
+S2223-G0300,4,01:04,WAS,142.0,MIN,122.0,N. Knight,MIN,Knight Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0300,4,01:04,WAS,142.0,MIN,123.0,N. Knight,MIN,Knight Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0300,4,00:43.100000,WAS,,MIN,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0212,4,01:35,ORL,,MIN,,N. Knight,MIN,Knight Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1058,4,02:40,TOR,,MIN,,N. Knight,MIN,MISS Knight 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,49,62,8,1,2.0,0.0,v
+S2223-G1058,4,02:15,TOR,,MIN,,N. Knight,MIN,MISS Knight 24' 3PT Jump Shot,Missed Shot,Jump Shot,210,122,24,1,3.0,0.0,v
+S2223-G1058,4,01:44,TOR,,MIN,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1058,4,01:32,TOR,118.0,MIN,101.0,N. Knight,MIN,Knight 5' Driving Floating Bank Jump Shot (2 PTS) (Garza 1 AST),Made Shot,Driving Floating Bank Jump Shot,20,42,5,1,2.0,2.0,v
+S2223-G1058,4,01:13,TOR,120.0,MIN,102.0,N. Knight,MIN,Knight Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1058,4,01:13,TOR,120.0,MIN,103.0,N. Knight,MIN,Knight Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0167,2,08:44,MIN,,PHX,,N. Knight,MIN,Knight STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0167,2,05:54,MIN,,PHX,,N. Knight,MIN,MISS Knight 3PT Jump Shot,Missed Shot,Jump Shot,-225,43,0,1,3.0,0.0,h
+S2223-G0167,2,05:35,MIN,,PHX,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0167,2,05:13,MIN,,PHX,,N. Knight,MIN,Knight P.FOUL (P1.T2) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2223-G0167,2,04:56,MIN,,PHX,,N. Knight,MIN,Knight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0167,2,04:41,MIN,,PHX,,N. Knight,MIN,Knight STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0167,2,03:37,MIN,,PHX,,N. Knight,MIN,SUB: Gobert FOR Knight,Substitution,,0,0,0,0,,,h
+S2223-G1214,4,02:34,SAS,,MIN,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1214,4,02:32,SAS,,MIN,,N. Knight,MIN,Knight Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1214,4,01:57,SAS,,MIN,,N. Knight,MIN,Knight S.FOUL (P1.T4) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2223-G1214,4,01:46,SAS,128.0,MIN,147.0,N. Knight,MIN,Knight Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1214,4,01:46,SAS,,MIN,,N. Knight,MIN,MISS Knight Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1214,4,01:19,SAS,131.0,MIN,149.0,N. Knight,MIN,Knight 2' Driving Dunk (3 PTS) (Minott 1 AST),Made Shot,Driving Dunk Shot,13,10,2,1,2.0,2.0,v
+S2223-G1214,4,01:05,SAS,,MIN,,N. Knight,MIN,Knight STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1214,4,00:33.200000,SAS,,MIN,,N. Knight,MIN,Knight REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0828,1,03:16,UTA,,MIN,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0828,3,04:01,UTA,,MIN,,N. Knight,MIN,Knight REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0828,3,02:25,UTA,,MIN,,N. Knight,MIN,MISS Knight 26' 3PT Jump Shot,Missed Shot,Jump Shot,137,226,26,1,3.0,0.0,v
+S2223-G0557,1,00:30.700000,MIN,,DEN,,N. Knight,MIN,Knight REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0557,1,00:30.700000,MIN,,DEN,,N. Knight,MIN,MISS Knight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0557,1,00:30.700000,MIN,,DEN,,N. Knight,MIN,MISS Knight Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0557,2,11:07,MIN,29.0,DEN,25.0,N. Knight,MIN,Knight 25' 3PT Jump Shot (3 PTS) (Rivers 1 AST),Made Shot,Jump Shot,-132,213,25,1,3.0,3.0,h
+S2223-G0557,2,10:37,MIN,30.0,DEN,25.0,N. Knight,MIN,Knight Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0557,2,10:37,MIN,31.0,DEN,25.0,N. Knight,MIN,Knight Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0557,2,10:10,MIN,,DEN,,N. Knight,MIN,Knight REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0557,2,10:10,MIN,,DEN,,N. Knight,MIN,MISS Knight 3' Putback Layup,Missed Shot,Putback Layup Shot,5,25,3,1,2.0,0.0,h
+S2223-G0557,2,10:08,MIN,,DEN,,N. Knight,MIN,Knight REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0557,2,10:06,MIN,,DEN,,N. Knight,MIN,MISS Knight 2' Layup,Missed Shot,Layup Shot,11,14,2,1,2.0,0.0,h
+S2223-G0557,2,09:38,MIN,,DEN,,N. Knight,MIN,Knight S.FOUL (P1.T1) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0557,2,04:34,MIN,,DEN,,N. Knight,MIN,Knight REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0557,2,03:21,MIN,,DEN,,N. Knight,MIN,SUB: Gobert FOR Knight,Substitution,,0,0,0,0,,,h
+S2223-G0557,3,04:26,MIN,78.0,DEN,79.0,N. Knight,MIN,Knight 2' Cutting Dunk Shot (7 PTS) (Anderson 6 AST),Made Shot,Cutting Dunk Shot,-7,15,2,1,2.0,2.0,h
+S2223-G0557,3,01:19,MIN,,DEN,,N. Knight,MIN,Knight REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0557,4,07:58,MIN,,DEN,,N. Knight,MIN,Knight REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0557,4,07:58,MIN,102.0,DEN,95.0,N. Knight,MIN,Knight Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0557,4,07:58,MIN,,DEN,,N. Knight,MIN,MISS Knight Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0557,4,07:44,MIN,,DEN,,N. Knight,MIN,Knight REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0557,4,07:08,MIN,,DEN,,N. Knight,MIN,Knight REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0557,4,06:48,MIN,,DEN,,N. Knight,MIN,SUB: McDaniels FOR Knight,Substitution,,0,0,0,0,,,h
+S2223-G0916,1,00:21.300000,GSW,,MIN,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0916,2,11:49,GSW,,MIN,,N. Knight,MIN,Knight OFF.Foul (P1) (T.Brothers),Foul,Offensive,0,0,0,0,,,v
+S2223-G0916,2,11:49,GSW,,MIN,,N. Knight,MIN,Knight Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0916,2,11:17,GSW,25.0,MIN,35.0,N. Knight,MIN,Knight Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0916,2,11:17,GSW,,MIN,,N. Knight,MIN,MISS Knight Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0916,2,10:17,GSW,,MIN,,N. Knight,MIN,Knight BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0916,2,09:16,GSW,,MIN,,N. Knight,MIN,SUB: Alexander-Walker FOR Knight,Substitution,,0,0,0,0,,,v
+S2223-G0916,3,00:35.700000,GSW,,MIN,,N. Knight,MIN,Knight REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0916,3,00:35.700000,GSW,78.0,MIN,84.0,N. Knight,MIN,Knight 2' Putback Layup (3 PTS),Made Shot,Putback Layup Shot,18,13,2,1,2.0,2.0,v
+S2223-G0520,3,06:56,NOP,,MIN,,N. Knight,MIN,Knight S.FOUL (P1.PN) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2223-G0520,3,06:56,NOP,,MIN,,N. Knight,MIN,Lane,Violation,Lane,0,0,0,0,,,v
+S2223-G0520,3,06:45,NOP,,MIN,,N. Knight,MIN,MISS Knight Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0520,3,06:45,NOP,65.0,MIN,73.0,N. Knight,MIN,Knight Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0520,3,05:06,NOP,,MIN,,N. Knight,MIN,Knight P.FOUL (P2.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2223-G0520,3,04:19,NOP,,MIN,,N. Knight,MIN,SUB: Rivers FOR Knight,Substitution,,0,0,0,0,,,v
+S2223-G0737,1,02:18,MIN,29.0,MEM,24.0,N. Knight,MIN,Knight 2' Hook Shot (2 PTS) (Rivers 1 AST),Made Shot,Hook Shot,-16,18,2,1,2.0,2.0,h
+S2223-G0737,1,00:42.200000,MIN,,MEM,,N. Knight,MIN,MISS Knight 1' Driving Dunk,Missed Shot,Driving Dunk Shot,-1,8,1,1,2.0,0.0,h
+S2223-G0737,1,00:39.100000,MIN,,MEM,,N. Knight,MIN,Knight REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0737,2,10:53,MIN,42.0,MEM,31.0,N. Knight,MIN,Knight 5' Hook Shot (4 PTS),Made Shot,Hook Shot,20,50,5,1,2.0,2.0,h
+S2223-G0737,2,10:40,MIN,,MEM,,N. Knight,MIN,Knight S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2223-G0737,2,09:30,MIN,,MEM,,N. Knight,MIN,Knight P.FOUL (P2.T2) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2223-G0737,2,08:55,MIN,47.0,MEM,36.0,N. Knight,MIN,Knight 25' 3PT Jump Shot (7 PTS) (Nowell 2 AST),Made Shot,Jump Shot,140,206,25,1,3.0,3.0,h
+S2223-G0737,2,08:53,MIN,,MEM,,N. Knight,MIN,SUB: Anderson FOR Knight,Substitution,,0,0,0,0,,,h
+S2223-G0737,2,03:27,MIN,,MEM,,N. Knight,MIN,Knight Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0737,2,01:55,MIN,,MEM,,N. Knight,MIN,Knight REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0737,3,08:32,MIN,72.0,MEM,57.0,N. Knight,MIN,Knight 25' 3PT Jump Shot (10 PTS) (Edwards 4 AST),Made Shot,Jump Shot,56,245,25,1,3.0,3.0,h
+S2223-G0737,3,07:07,MIN,,MEM,,N. Knight,MIN,Knight S.FOUL (P3.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2223-G0737,3,05:34,MIN,,MEM,,N. Knight,MIN,MISS Knight 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-16,245,25,1,3.0,0.0,h
+S2223-G0737,3,01:44,MIN,,MEM,,N. Knight,MIN,Knight P.FOUL (P4.T4) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G0449,2,08:32,MIN,48.0,CHI,42.0,N. Knight,MIN,Knight 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-5,10,1,1,2.0,2.0,h
+S2223-G0449,2,08:03,MIN,50.0,CHI,44.0,N. Knight,MIN,Knight 1' Cutting Finger Roll Layup Shot (4 PTS) (McDaniels 1 AST),Made Shot,Cutting Finger Roll Layup Shot,-6,2,1,1,2.0,2.0,h
+S2223-G0449,2,06:16,MIN,,CHI,,N. Knight,MIN,Knight REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0449,2,05:49,MIN,57.0,CHI,48.0,N. Knight,MIN,Knight Cutting Dunk Shot (6 PTS) (Russell 5 AST),Made Shot,Cutting Dunk Shot,-4,2,0,1,2.0,2.0,h
+S2223-G0449,2,05:49,MIN,58.0,CHI,48.0,N. Knight,MIN,Knight Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0449,2,05:27,MIN,,CHI,,N. Knight,MIN,Knight OFF.Foul (P1) (C.Blair),Foul,Offensive,0,0,0,0,,,h
+S2223-G0449,2,05:27,MIN,,CHI,,N. Knight,MIN,Knight Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0449,2,04:42,MIN,59.0,CHI,48.0,N. Knight,MIN,Knight Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0449,2,04:42,MIN,60.0,CHI,48.0,N. Knight,MIN,Knight Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0449,2,04:12,MIN,62.0,CHI,50.0,N. Knight,MIN,Knight 1' Cutting Dunk Shot (11 PTS) (Russell 6 AST),Made Shot,Cutting Dunk Shot,-4,11,1,1,2.0,2.0,h
+S2223-G0449,2,02:10,MIN,,CHI,,N. Knight,MIN,Knight REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0449,2,02:10,MIN,,CHI,,N. Knight,MIN,MISS Knight 2' Putback Layup,Missed Shot,Putback Layup Shot,-15,-6,2,1,2.0,0.0,h
+S2223-G0449,2,00:51.500000,MIN,71.0,CHI,61.0,N. Knight,MIN,Knight 1' Cutting Dunk Shot (13 PTS) (Edwards 4 AST),Made Shot,Cutting Dunk Shot,-11,-4,1,1,2.0,2.0,h
+S2223-G0449,3,06:38,MIN,,CHI,,N. Knight,MIN,Knight P.FOUL (P2.T4) (E.Scott),Foul,Personal,0,0,0,0,,,h
+S2223-G0449,3,04:54,MIN,,CHI,,N. Knight,MIN,SUB: Garza FOR Knight,Substitution,,0,0,0,0,,,h
+S2223-G0449,4,09:27,MIN,,CHI,,N. Knight,MIN,Knight S.FOUL (P3.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2223-G0449,4,06:55,MIN,124.0,CHI,109.0,N. Knight,MIN,Knight 3PT Jump Shot (16 PTS) (Edwards 9 AST),Made Shot,Jump Shot,-224,-2,0,1,3.0,3.0,h
+S2223-G0449,4,05:20,MIN,,CHI,,N. Knight,MIN,MISS Knight 25' 3PT Jump Shot,Missed Shot,Jump Shot,21,250,25,1,3.0,0.0,h
+S2223-G0449,4,01:45,MIN,,CHI,,N. Knight,MIN,SUB: Ryan FOR Knight,Substitution,,0,0,0,0,,,h

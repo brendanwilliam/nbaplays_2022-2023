@@ -1,0 +1,1202 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2223-G0827,1,01:24,HOU,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0827,1,00:23.600000,HOU,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0827,2,11:42,HOU,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0827,2,10:22,HOU,,SAC,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0827,2,09:31,HOU,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-228,8,0,1,3.0,0.0,v
+S2223-G0827,2,09:07,HOU,,SAC,,T. Lyles,SAC,SUB: Mitchell FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0827,3,02:46,HOU,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P2.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2223-G0827,4,11:47,HOU,,SAC,,T. Lyles,SAC,MISS Lyles 27' 3PT Jump Shot,Missed Shot,Jump Shot,-183,197,27,1,3.0,0.0,v
+S2223-G0827,4,08:33,HOU,,SAC,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0827,4,00:01.200000,HOU,,SAC,,T. Lyles,SAC,SUB: Sabonis FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0870,1,03:08,PHX,,SAC,,T. Lyles,SAC,Lyles OFF.Foul (P1) (C.Blair),Foul,Offensive,0,0,0,0,,,v
+S2223-G0870,1,03:08,PHX,,SAC,,T. Lyles,SAC,Lyles Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0870,1,01:35,PHX,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0870,1,00:59.700000,PHX,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0870,1,00:03.400000,PHX,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0870,2,11:34,PHX,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0870,2,10:43,PHX,29.0,SAC,31.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0870,2,10:43,PHX,29.0,SAC,32.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0870,2,09:48,PHX,,SAC,,T. Lyles,SAC,MISS Lyles 8' Driving Layup,Missed Shot,Driving Layup Shot,76,-1,8,1,2.0,0.0,v
+S2223-G0870,2,08:44,PHX,,SAC,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,208,141,25,1,3.0,0.0,v
+S2223-G0870,2,08:13,PHX,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0870,2,08:07,PHX,,SAC,,T. Lyles,SAC,MISS Lyles 2' Putback Layup,Missed Shot,Putback Layup Shot,9,16,2,1,2.0,0.0,v
+S2223-G0870,2,05:51,PHX,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,15,256,26,1,3.0,0.0,v
+S2223-G0870,2,05:34,PHX,,SAC,,T. Lyles,SAC,SUB: Davis FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0870,3,03:12,PHX,,SAC,,T. Lyles,SAC,MISS Lyles 1' Running Layup,Missed Shot,Running Layup Shot,4,12,1,1,2.0,0.0,v
+S2223-G0870,3,03:09,PHX,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0870,3,03:09,PHX,,SAC,,T. Lyles,SAC,MISS Lyles Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0870,3,01:18,PHX,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0870,3,00:04.500000,PHX,,SAC,,T. Lyles,SAC,SUB: Ellis FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0870,4,09:57,PHX,97.0,SAC,91.0,T. Lyles,SAC,Lyles 1' Driving Layup (4 PTS) (Edwards 2 AST),Made Shot,Driving Layup Shot,-2,8,1,1,2.0,2.0,v
+S2223-G0870,4,09:31,PHX,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0132,1,06:24,ORL,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T2) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,v
+S2223-G0132,1,06:01,ORL,22.0,SAC,10.0,T. Lyles,SAC,Lyles 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-15,12,2,1,2.0,2.0,v
+S2223-G0132,1,06:01,ORL,22.0,SAC,11.0,T. Lyles,SAC,Lyles Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0132,1,05:26,ORL,24.0,SAC,14.0,T. Lyles,SAC,Lyles 27' 3PT Jump Shot (6 PTS) (Monk 1 AST),Made Shot,Jump Shot,-28,265,27,1,3.0,3.0,v
+S2223-G0132,2,11:51,ORL,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0132,2,11:34,ORL,,SAC,,T. Lyles,SAC,SUB: Davis FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0132,2,00:54.900000,ORL,,SAC,,T. Lyles,SAC,MISS Lyles 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,65,24,1,3.0,0.0,v
+S2223-G0132,2,00:39.100000,ORL,,SAC,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0132,2,00:34.700000,ORL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0132,3,04:04,ORL,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,85,245,26,1,3.0,0.0,v
+S2223-G0132,3,03:37,ORL,,SAC,,T. Lyles,SAC,MISS Lyles 3' Running Layup,Missed Shot,Running Layup Shot,11,24,3,1,2.0,0.0,v
+S2223-G0132,3,00:01.500000,ORL,77.0,SAC,83.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (9 PTS) (Monk 4 AST),Made Shot,Jump Shot,96,245,26,1,3.0,3.0,v
+S2223-G0132,4,10:44,ORL,80.0,SAC,89.0,T. Lyles,SAC,Lyles 3PT Jump Shot (12 PTS) (Monk 5 AST),Made Shot,Jump Shot,224,26,0,1,3.0,3.0,v
+S2223-G0132,4,09:20,ORL,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0132,4,07:14,ORL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0132,4,07:03,ORL,,SAC,,T. Lyles,SAC,MISS Lyles 5' Layup,Missed Shot,Layup Shot,-22,47,5,1,2.0,0.0,v
+S2223-G0132,4,05:49,ORL,94.0,SAC,95.0,T. Lyles,SAC,Lyles 3PT Jump Shot (15 PTS) (Sabonis 5 AST),Made Shot,Jump Shot,-233,1,0,1,3.0,3.0,v
+S2223-G0132,4,04:02,ORL,,SAC,,T. Lyles,SAC,SUB: Monk FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0132,5,01:40,ORL,,SAC,,T. Lyles,SAC,MISS Lyles 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,16,24,1,3.0,0.0,v
+S2223-G0132,5,01:14,ORL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0132,5,00:28.300000,ORL,,SAC,,T. Lyles,SAC,Lyles OFF.Foul (P2) (L.Wood),Foul,Offensive,0,0,0,0,,,v
+S2223-G0132,5,00:28.300000,ORL,,SAC,,T. Lyles,SAC,Lyles Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0132,5,00:25,ORL,,SAC,,T. Lyles,SAC,SUB: Monk FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0775,2,11:49,SAS,31.0,SAC,32.0,T. Lyles,SAC,Lyles 3' Cutting Layup Shot (2 PTS) (Fox 2 AST),Made Shot,Cutting Layup Shot,-26,16,3,1,2.0,2.0,v
+S2223-G0775,2,11:49,SAS,31.0,SAC,33.0,T. Lyles,SAC,Lyles Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0775,2,08:14,SAS,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0775,2,08:02,SAS,37.0,SAC,41.0,T. Lyles,SAC,Lyles 2' Dunk (5 PTS) (Barnes 1 AST),Made Shot,Dunk Shot,-15,11,2,1,2.0,2.0,v
+S2223-G0775,2,03:26,SAS,,SAC,,T. Lyles,SAC,SUB: Monk FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0775,4,10:46,SAS,,SAC,,T. Lyles,SAC,Lyles Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G0775,4,08:46,SAS,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,229,16,0,1,3.0,0.0,v
+S2223-G0775,4,08:34,SAS,,SAC,,T. Lyles,SAC,SUB: Sabonis FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G1076,1,02:57,UTA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1076,1,02:47,UTA,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-221,-13,0,1,3.0,0.0,v
+S2223-G1076,1,02:15,UTA,,SAC,,T. Lyles,SAC,MISS Lyles 3' Dunk,Missed Shot,Dunk Shot,-31,-4,3,1,2.0,0.0,v
+S2223-G1076,2,09:56,UTA,,SAC,,T. Lyles,SAC,Lyles Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1076,2,09:36,UTA,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,183,183,26,1,3.0,0.0,v
+S2223-G1076,2,05:54,UTA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1076,2,05:43,UTA,,SAC,,T. Lyles,SAC,MISS Lyles 4' Driving Layup,Missed Shot,Driving Layup Shot,22,31,4,1,2.0,0.0,v
+S2223-G1076,2,04:49,UTA,,SAC,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G1076,3,04:19,UTA,,SAC,,T. Lyles,SAC,MISS Lyles 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,54,24,1,3.0,0.0,v
+S2223-G1076,4,11:24,UTA,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P1.T1) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2223-G1076,4,10:21,UTA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1076,4,08:17,UTA,102.0,SAC,103.0,T. Lyles,SAC,Lyles 3PT Jump Shot (3 PTS) (Barnes 2 AST),Made Shot,Jump Shot,224,7,0,1,3.0,3.0,v
+S2223-G1076,4,04:04,UTA,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G1105,1,04:03,SAC,,PHX,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-196,167,26,1,3.0,0.0,h
+S2223-G1105,1,03:15,SAC,,PHX,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-235,110,26,1,3.0,0.0,h
+S2223-G1105,2,11:43,SAC,,PHX,,T. Lyles,SAC,MISS Lyles 3' Driving Layup,Missed Shot,Driving Layup Shot,26,13,3,1,2.0,0.0,h
+S2223-G1105,2,10:30,SAC,,PHX,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1105,2,08:36,SAC,,PHX,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G1105,4,10:04,SAC,105.0,PHX,98.0,T. Lyles,SAC,Lyles 3' Reverse Layup (2 PTS) (Mitchell 3 AST),Made Shot,Reverse Layup Shot,-26,1,3,1,2.0,2.0,h
+S2223-G1105,4,09:32,SAC,106.0,PHX,98.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1105,4,09:32,SAC,107.0,PHX,98.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1105,4,08:43,SAC,111.0,PHX,100.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1105,4,08:43,SAC,112.0,PHX,100.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1105,4,07:46,SAC,,PHX,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0610,1,01:31,SAC,37.0,ORL,27.0,T. Lyles,SAC,Lyles 25' 3PT Jump Shot (3 PTS) (Metu 1 AST),Made Shot,Jump Shot,-176,172,25,1,3.0,3.0,h
+S2223-G0610,1,01:15,SAC,,ORL,,T. Lyles,SAC,Lyles P.FOUL (P1.T4) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2223-G0610,2,10:52,SAC,46.0,ORL,31.0,T. Lyles,SAC,Lyles 3PT Jump Shot (6 PTS) (Fox 4 AST),Made Shot,Jump Shot,233,29,0,1,3.0,3.0,h
+S2223-G0610,2,09:08,SAC,,ORL,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0610,2,08:46,SAC,,ORL,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0610,2,08:30,SAC,,ORL,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,142,214,26,1,3.0,0.0,h
+S2223-G0610,2,08:04,SAC,,ORL,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0610,2,07:36,SAC,,ORL,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0610,4,07:59,SAC,,ORL,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0610,4,06:20,SAC,125.0,ORL,94.0,T. Lyles,SAC,Lyles 1' Reverse Layup (8 PTS) (Metu 2 AST),Made Shot,Reverse Layup Shot,7,7,1,1,2.0,2.0,h
+S2223-G0610,4,05:01,SAC,,ORL,,T. Lyles,SAC,MISS Lyles 4' Driving Layup,Missed Shot,Driving Layup Shot,22,39,4,1,2.0,0.0,h
+S2223-G0610,4,04:46,SAC,,ORL,,T. Lyles,SAC,MISS Lyles Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0610,4,04:46,SAC,126.0,ORL,97.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0610,4,04:18,SAC,,ORL,,T. Lyles,SAC,MISS Lyles 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-32,57,7,1,2.0,0.0,h
+S2223-G0610,4,03:52,SAC,129.0,ORL,103.0,T. Lyles,SAC,Lyles 3PT Jump Shot (12 PTS) (Dellavedova 1 AST),Made Shot,Jump Shot,-228,23,0,1,3.0,3.0,h
+S2223-G0610,4,03:28,SAC,,ORL,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0610,4,02:36,SAC,,ORL,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,5,258,26,1,3.0,0.0,h
+S2223-G0610,4,01:13,SAC,133.0,ORL,108.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0610,4,01:13,SAC,134.0,ORL,108.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0997,1,02:13,SAC,,NYK,,T. Lyles,SAC,MISS Lyles 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,34,24,1,3.0,0.0,h
+S2223-G0997,1,01:51,SAC,,NYK,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0997,1,01:23,SAC,,NYK,,T. Lyles,SAC,Lyles Offensive Charge Foul (P1) (B.Taylor),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0997,1,01:23,SAC,,NYK,,T. Lyles,SAC,Lyles Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0997,1,00:51.100000,SAC,,NYK,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0997,1,00:03.300000,SAC,30.0,NYK,23.0,T. Lyles,SAC,Lyles 1' Cutting Dunk Shot (2 PTS) (Monk 1 AST),Made Shot,Cutting Dunk Shot,-4,6,1,1,2.0,2.0,h
+S2223-G0997,2,09:37,SAC,,NYK,,T. Lyles,SAC,Lyles S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G0997,2,09:34,SAC,,NYK,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0997,2,09:26,SAC,36.0,NYK,30.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0997,2,09:26,SAC,37.0,NYK,30.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0997,2,08:03,SAC,,NYK,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0997,2,07:05,SAC,,NYK,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0997,2,03:50,SAC,52.0,NYK,42.0,T. Lyles,SAC,Lyles 25' 3PT Jump Shot (7 PTS) (Fox 4 AST),Made Shot,Jump Shot,2,251,25,1,3.0,3.0,h
+S2223-G0997,2,03:42,SAC,,NYK,,T. Lyles,SAC,Lyles S.FOUL (P3.PN) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2223-G0997,2,03:26,SAC,55.0,NYK,45.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0997,2,03:26,SAC,56.0,NYK,45.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0997,2,01:59,SAC,,NYK,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0997,2,00:59.900000,SAC,67.0,NYK,48.0,T. Lyles,SAC,Lyles 2' Running Layup (11 PTS) (Fox 5 AST),Made Shot,Running Layup Shot,16,0,2,1,2.0,2.0,h
+S2223-G0997,3,02:29,SAC,,NYK,,T. Lyles,SAC,Lyles Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0997,3,01:52,SAC,,NYK,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,232,37,0,1,3.0,0.0,h
+S2223-G0997,3,00:46.600000,SAC,,NYK,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0997,4,10:27,SAC,,NYK,,T. Lyles,SAC,SUB: Sabonis FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0997,4,05:52,SAC,,NYK,,T. Lyles,SAC,Lyles Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0997,4,05:16,SAC,,NYK,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0997,4,02:27,SAC,112.0,NYK,106.0,T. Lyles,SAC,Lyles 3' Driving Layup (13 PTS) (Sabonis 10 AST),Made Shot,Driving Layup Shot,27,12,3,1,2.0,2.0,h
+S2223-G0997,4,02:27,SAC,113.0,NYK,106.0,T. Lyles,SAC,Lyles Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0997,4,02:20,SAC,,NYK,,T. Lyles,SAC,Lyles Violation:Kicked Ball (J.Orr),Violation,Kicked Ball,0,0,0,0,,,h
+S2223-G0997,4,00:54,SAC,,NYK,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-234,12,0,1,3.0,0.0,h
+S2223-G0997,4,00:21.300000,SAC,118.0,NYK,113.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0997,4,00:21.300000,SAC,119.0,NYK,113.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0954,1,04:05,SAC,,LAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0954,1,00:03.200000,SAC,,LAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0954,1,00:03.200000,SAC,34.0,LAC,32.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0954,1,00:03.200000,SAC,35.0,LAC,32.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0954,2,11:20,SAC,,LAC,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,233,26,0,1,3.0,0.0,h
+S2223-G0954,2,10:56,SAC,,LAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0954,2,08:56,SAC,,LAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0954,2,07:30,SAC,,LAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2223-G0954,2,06:34,SAC,,LAC,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0954,3,01:30,SAC,98.0,LAC,92.0,T. Lyles,SAC,Lyles 3PT Jump Shot (5 PTS) (Monk 5 AST),Made Shot,Jump Shot,-227,-2,0,1,3.0,3.0,h
+S2223-G0954,3,00:15.900000,SAC,,LAC,,T. Lyles,SAC,Lyles S.FOUL (P2.PN) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0954,4,11:12,SAC,,LAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0954,4,10:42,SAC,,LAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0954,4,09:49,SAC,,LAC,,T. Lyles,SAC,Lyles OFF.Foul (P3) (M.Boland),Foul,Offensive,0,0,0,0,,,h
+S2223-G0954,4,09:49,SAC,,LAC,,T. Lyles,SAC,Lyles Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0954,4,08:19,SAC,113.0,LAC,100.0,T. Lyles,SAC,Lyles 3' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,-27,9,3,1,2.0,2.0,h
+S2223-G0954,4,07:59,SAC,,LAC,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0954,4,06:52,SAC,116.0,LAC,103.0,T. Lyles,SAC,Lyles 26' 3PT Running Jump Shot (10 PTS) (Fox 7 AST),Made Shot,Running Jump Shot,217,134,26,1,3.0,3.0,h
+S2223-G0954,4,05:32,SAC,,LAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0954,4,05:09,SAC,,LAC,,T. Lyles,SAC,Lyles S.FOUL (P4.T1) (E.Lewis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0954,4,04:29,SAC,,LAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0954,4,04:19,SAC,,LAC,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-228,-12,0,1,3.0,0.0,h
+S2223-G0954,4,04:12,SAC,,LAC,,T. Lyles,SAC,SUB: Fox FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0807,1,03:09,NOP,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0807,1,02:05,NOP,28.0,SAC,20.0,T. Lyles,SAC,Lyles 3PT Jump Shot (3 PTS) (Davis 1 AST),Made Shot,Jump Shot,229,25,0,1,3.0,3.0,v
+S2223-G0807,2,08:57,NOP,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0807,2,07:23,NOP,,SAC,,T. Lyles,SAC,SUB: Huerter FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0807,2,01:42,NOP,65.0,SAC,46.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0807,2,01:42,NOP,65.0,SAC,47.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0807,2,01:12,NOP,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0807,2,01:02,NOP,65.0,SAC,50.0,T. Lyles,SAC,Lyles 3PT Jump Shot (8 PTS) (Monk 3 AST),Made Shot,Jump Shot,-219,6,0,1,3.0,3.0,v
+S2223-G0807,2,00:35.400000,NOP,,SAC,,T. Lyles,SAC,MISS Lyles 3' Reverse Layup,Missed Shot,Reverse Layup Shot,18,22,3,1,2.0,0.0,v
+S2223-G0807,2,00:34.400000,NOP,,SAC,,T. Lyles,SAC,"Double Technical - Lyles, Jones (E.Malloy)",Foul,Double Technical,0,0,0,0,,,
+S2223-G0807,2,00:00.900000,NOP,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0807,3,04:09,NOP,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-165,206,26,1,3.0,0.0,v
+S2223-G0807,3,02:51,NOP,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0807,3,02:33,NOP,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P2.PN) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2223-G0807,3,01:20,NOP,102.0,SAC,71.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0807,3,01:20,NOP,102.0,SAC,72.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0807,3,00:15.800000,NOP,104.0,SAC,75.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0807,3,00:15.800000,NOP,104.0,SAC,76.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0915,1,04:15,OKC,19.0,SAC,29.0,T. Lyles,SAC,Lyles 3PT Jump Shot (3 PTS) (Monk 1 AST),Made Shot,Jump Shot,224,-11,0,1,3.0,3.0,v
+S2223-G0915,1,03:45,OKC,19.0,SAC,31.0,T. Lyles,SAC,Lyles 8' Running Layup (5 PTS) (Sabonis 5 AST),Made Shot,Running Layup Shot,80,4,8,1,2.0,2.0,v
+S2223-G0915,1,03:45,OKC,19.0,SAC,32.0,T. Lyles,SAC,Lyles Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0915,1,03:26,OKC,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-228,-27,0,1,3.0,0.0,v
+S2223-G0915,2,10:02,OKC,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-25,263,26,1,3.0,0.0,v
+S2223-G0915,2,09:36,OKC,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0915,2,08:55,OKC,,SAC,,T. Lyles,SAC,SUB: Mitchell FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0915,2,01:30,OKC,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0915,3,00:55.700000,OKC,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0915,4,11:01,OKC,,SAC,,T. Lyles,SAC,MISS Lyles Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0915,4,11:01,OKC,92.0,SAC,98.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0915,4,09:58,OKC,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0915,4,09:57,OKC,94.0,SAC,102.0,T. Lyles,SAC,Lyles Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0915,4,08:53,OKC,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0915,4,07:08,OKC,100.0,SAC,110.0,T. Lyles,SAC,Lyles 26' 3PT Running Jump Shot (12 PTS) (Mitchell 2 AST),Made Shot,Running Jump Shot,118,235,26,1,3.0,3.0,v
+S2223-G0915,4,05:51,OKC,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0915,4,05:51,OKC,,SAC,,T. Lyles,SAC,MISS Lyles Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0915,4,05:48,OKC,,SAC,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0915,4,05:37,OKC,100.0,SAC,113.0,T. Lyles,SAC,Lyles 27' 3PT Jump Shot (15 PTS) (Fox 8 AST),Made Shot,Jump Shot,167,215,27,1,3.0,3.0,v
+S2223-G0915,4,04:57,OKC,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P1.PN) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2223-G0915,4,02:00,OKC,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0915,4,01:51,OKC,112.0,SAC,121.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0915,4,01:51,OKC,,SAC,,T. Lyles,SAC,MISS Lyles Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0369,1,01:34,MIL,,SAC,,T. Lyles,SAC,MISS Lyles 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-96,127,16,1,2.0,0.0,v
+S2223-G0369,2,08:50,MIL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0369,2,08:50,MIL,,SAC,,T. Lyles,SAC,MISS Lyles Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0369,2,08:42,MIL,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,92,248,26,1,3.0,0.0,v
+S2223-G0369,2,08:13,MIL,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G1128,1,00:45,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1128,2,10:35,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1128,2,10:24,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1128,2,10:15,SAC,,MIN,,T. Lyles,SAC,Jump Ball Lyles vs. McDaniels: Tip to Nowell,Jump Ball,,0,0,0,0,,,h
+S2223-G1128,2,10:15,SAC,,MIN,,T. Lyles,SAC,Lyles Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1128,2,09:47,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1128,2,09:38,SAC,30.0,MIN,37.0,T. Lyles,SAC,Lyles 12' Pullup Jump Shot (2 PTS) (Fox 1 AST),Made Shot,Pullup Jump shot,-123,16,12,1,2.0,2.0,h
+S2223-G1128,2,07:30,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1128,2,07:19,SAC,,MIN,,T. Lyles,SAC,MISS Lyles 28' 3PT Jump Shot,Missed Shot,Jump Shot,196,193,28,1,3.0,0.0,h
+S2223-G1128,2,05:32,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1128,2,05:23,SAC,,MIN,,T. Lyles,SAC,MISS Lyles 3' Driving Layup,Missed Shot,Driving Layup Shot,-17,26,3,1,2.0,0.0,h
+S2223-G1128,2,05:08,SAC,,MIN,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G1128,2,01:41,SAC,,MIN,,T. Lyles,SAC,Lyles Step Out of Bounds Turnover (P2.T8),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G1128,3,04:21,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1128,3,03:00,SAC,,MIN,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1128,3,02:57,SAC,,MIN,,T. Lyles,SAC,Lyles Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1128,3,00:58.900000,SAC,,MIN,,T. Lyles,SAC,MISS Lyles Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1128,3,00:58.900000,SAC,85.0,MIN,84.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1128,3,00:44.900000,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1128,4,11:26,SAC,,MIN,,T. Lyles,SAC,MISS Lyles 3' Driving Layup,Missed Shot,Driving Layup Shot,23,20,3,1,2.0,0.0,h
+S2223-G1128,4,10:46,SAC,,MIN,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,-211,142,25,1,3.0,0.0,h
+S2223-G1128,4,10:01,SAC,,MIN,,T. Lyles,SAC,Lyles S.FOUL (P1.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2223-G1128,4,07:13,SAC,,MIN,,T. Lyles,SAC,Lyles STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G1128,4,04:49,SAC,,MIN,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G1128,4,00:26.100000,SAC,,MIN,,T. Lyles,SAC,Lyles P.FOUL (P2.PN) (L.Wood),Foul,Personal,0,0,0,0,,,h
+S2223-G1128,4,00:15.500000,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1128,4,00:15.500000,SAC,112.0,MIN,118.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1128,4,00:15.500000,SAC,113.0,MIN,118.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1128,4,00:02.100000,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1128,4,00:01.500000,SAC,,MIN,,T. Lyles,SAC,MISS Lyles 2' Layup,Missed Shot,Layup Shot,4,15,2,1,2.0,0.0,h
+S2223-G1128,4,00:01.500000,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0902,1,03:24,LAC,,SAC,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,-189,168,25,1,3.0,0.0,v
+S2223-G0902,1,01:55,LAC,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0902,1,00:32.700000,LAC,38.0,SAC,37.0,T. Lyles,SAC,Lyles 1' Cutting Dunk Shot (2 PTS) (Fox 3 AST),Made Shot,Cutting Dunk Shot,7,-1,1,1,2.0,2.0,v
+S2223-G0902,1,00:01.600000,LAC,38.0,SAC,39.0,T. Lyles,SAC,Lyles 3' Reverse Layup (4 PTS) (Fox 4 AST),Made Shot,Reverse Layup Shot,-17,28,3,1,2.0,2.0,v
+S2223-G0902,1,00:01.600000,LAC,38.0,SAC,40.0,T. Lyles,SAC,Lyles Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0902,2,09:04,LAC,,SAC,,T. Lyles,SAC,SUB: Mitchell FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0902,3,03:33,LAC,,SAC,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0902,3,02:03,LAC,109.0,SAC,103.0,T. Lyles,SAC,Lyles 28' 3PT Jump Shot (8 PTS) (Barnes 2 AST),Made Shot,Jump Shot,115,250,28,1,3.0,3.0,v
+S2223-G0902,4,08:24,LAC,,SAC,,T. Lyles,SAC,MISS Lyles 3' Running Layup,Missed Shot,Running Layup Shot,-29,5,3,1,2.0,0.0,v
+S2223-G0902,4,07:27,LAC,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0902,4,07:27,LAC,130.0,SAC,129.0,T. Lyles,SAC,Lyles Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2223-G0902,4,06:50,LAC,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0902,4,06:45,LAC,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0902,6,03:19,LAC,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P1.T1) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2223-G0902,6,03:07,LAC,,SAC,,T. Lyles,SAC,Lyles STEAL (2 STL),,,0,0,0,0,,,v
+S2223-G0902,6,02:41,LAC,,SAC,,T. Lyles,SAC,MISS Lyles 27' 3PT Jump Shot,Missed Shot,Jump Shot,58,262,27,1,3.0,0.0,v
+S2223-G0902,6,01:57,LAC,,SAC,,T. Lyles,SAC,SUB: Metu FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0514,1,01:05,SAC,,DEN,,T. Lyles,SAC,Lyles Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G0514,1,00:24.800000,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,1,00:01.200000,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,2,11:05,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,2,08:57,SAC,,DEN,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,229,51,0,1,3.0,0.0,h
+S2223-G0514,2,07:47,SAC,41.0,DEN,24.0,T. Lyles,SAC,Lyles 2' Driving Layup (2 PTS) (Fox 3 AST),Made Shot,Driving Layup Shot,13,11,2,1,2.0,2.0,h
+S2223-G0514,2,06:15,SAC,,DEN,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,200,151,25,1,3.0,0.0,h
+S2223-G0514,2,06:04,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,2,05:06,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,2,04:25,SAC,,DEN,,T. Lyles,SAC,Lyles Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0514,2,04:19,SAC,,DEN,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0514,3,03:59,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,3,03:21,SAC,,DEN,,T. Lyles,SAC,MISS Lyles 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,12,0,1,3.0,0.0,h
+S2223-G0514,3,02:35,SAC,77.0,DEN,73.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (5 PTS) (Mitchell 7 AST),Made Shot,Jump Shot,-26,257,26,1,3.0,3.0,h
+S2223-G0514,3,02:03,SAC,79.0,DEN,75.0,T. Lyles,SAC,Lyles 2' Driving Layup (7 PTS) (Mitchell 8 AST),Made Shot,Driving Layup Shot,9,15,2,1,2.0,2.0,h
+S2223-G0514,3,01:30,SAC,81.0,DEN,77.0,T. Lyles,SAC,Lyles 3' Driving Layup (9 PTS) (Mitchell 9 AST),Made Shot,Driving Layup Shot,-26,11,3,1,2.0,2.0,h
+S2223-G0514,3,01:14,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,3,00:25.900000,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,3,00:25.200000,SAC,,DEN,,T. Lyles,SAC,MISS Lyles 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-5,15,2,1,2.0,0.0,h
+S2223-G0514,4,11:22,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,4,10:56,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0514,4,10:56,SAC,,DEN,,T. Lyles,SAC,Lyles Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0514,4,09:42,SAC,,DEN,,T. Lyles,SAC,SUB: Huerter FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0514,4,05:05,SAC,,DEN,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,-21,254,25,1,3.0,0.0,h
+S2223-G0514,4,03:44,SAC,93.0,DEN,95.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0514,4,03:44,SAC,94.0,DEN,95.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0514,4,00:32.400000,SAC,,DEN,,T. Lyles,SAC,Lyles S.FOUL (P1.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0514,4,00:05.200000,SAC,,DEN,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,189,181,26,1,3.0,0.0,h
+S2223-G1145,1,04:00,POR,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,1,03:38,POR,,SAC,,T. Lyles,SAC,MISS Lyles 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-56,-1,6,1,2.0,0.0,v
+S2223-G1145,1,03:13,POR,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-189,174,26,1,3.0,0.0,v
+S2223-G1145,2,11:40,POR,20.0,SAC,22.0,T. Lyles,SAC,Lyles 3PT Jump Shot (3 PTS) (Monk 2 AST),Made Shot,Jump Shot,-230,-8,0,1,3.0,3.0,v
+S2223-G1145,2,09:56,POR,,SAC,,T. Lyles,SAC,MISS Lyles 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-45,-4,5,1,2.0,0.0,v
+S2223-G1145,2,09:00,POR,,SAC,,T. Lyles,SAC,MISS Lyles 28' 3PT Jump Shot,Missed Shot,Jump Shot,27,274,28,1,3.0,0.0,v
+S2223-G1145,2,07:11,POR,,SAC,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,-213,127,25,1,3.0,0.0,v
+S2223-G1145,2,06:19,POR,,SAC,,T. Lyles,SAC,SUB: Huerter FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G1145,3,01:57,POR,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,46,0,1,3.0,0.0,v
+S2223-G1145,4,11:22,POR,64.0,SAC,84.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1145,4,11:22,POR,64.0,SAC,85.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1145,4,10:59,POR,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,4,09:46,POR,64.0,SAC,94.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (8 PTS) (Fox 6 AST),Made Shot,Jump Shot,-183,189,26,1,3.0,3.0,v
+S2223-G1145,4,09:22,POR,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T1) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G1145,4,08:48,POR,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,4,07:14,POR,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1145,4,06:49,POR,,SAC,,T. Lyles,SAC,MISS Lyles 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,110,25,1,3.0,0.0,v
+S2223-G1145,4,05:59,POR,,SAC,,T. Lyles,SAC,SUB: Davis FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0257,2,10:14,MEM,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0257,2,08:43,MEM,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0257,3,03:56,MEM,,SAC,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0257,3,03:45,MEM,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0257,3,03:24,MEM,,SAC,,T. Lyles,SAC,MISS Lyles 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-174,177,25,1,3.0,0.0,v
+S2223-G0257,3,01:22,MEM,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0257,3,00:28.300000,MEM,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0257,4,09:10,MEM,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T4) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0257,4,08:24,MEM,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0109,1,02:47,MIA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0109,1,02:24,MIA,26.0,SAC,27.0,T. Lyles,SAC,Lyles 24' 3PT Jump Shot (3 PTS) (Monk 3 AST),Made Shot,Jump Shot,-235,15,24,1,3.0,3.0,v
+S2223-G0109,1,01:30,MIA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0109,1,01:22,MIA,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-141,218,26,1,3.0,0.0,v
+S2223-G0109,1,00:39,MIA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0109,1,00:01.600000,MIA,,SAC,,T. Lyles,SAC,Lyles Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0109,3,02:25,MIA,,SAC,,T. Lyles,SAC,MISS Lyles 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,8,24,1,3.0,0.0,v
+S2223-G0109,3,01:50,MIA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0109,3,00:34.700000,MIA,,SAC,,T. Lyles,SAC,SUB: Mitchell FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0563,1,01:52,UTA,19.0,SAC,33.0,T. Lyles,SAC,Lyles 3' Driving Layup (2 PTS) (Monk 2 AST),Made Shot,Driving Layup Shot,23,25,3,1,2.0,2.0,v
+S2223-G0563,1,00:59.100000,UTA,,SAC,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,-56,243,25,1,3.0,0.0,v
+S2223-G0563,1,00:44,UTA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0563,2,10:51,UTA,,SAC,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0563,2,10:37,UTA,,SAC,,T. Lyles,SAC,Lyles OFF.Foul (P1) (B.Nansel),Foul,Offensive,0,0,0,0,,,v
+S2223-G0563,2,10:37,UTA,,SAC,,T. Lyles,SAC,Lyles Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0563,2,08:48,UTA,,SAC,,T. Lyles,SAC,SUB: Huerter FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0563,4,11:26,UTA,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0563,4,10:43,UTA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0563,4,09:58,UTA,,SAC,,T. Lyles,SAC,MISS Lyles 24' 3PT Jump Shot,Missed Shot,Jump Shot,225,92,24,1,3.0,0.0,v
+S2223-G0563,4,09:39,UTA,,SAC,,T. Lyles,SAC,SUB: Sabonis FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0563,4,00:16.100000,UTA,,SAC,,T. Lyles,SAC,SUB: Huerter FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0758,1,04:07,MIN,8.0,SAC,16.0,T. Lyles,SAC,Lyles 1' Cutting Layup Shot (2 PTS) (Monk 2 AST),Made Shot,Cutting Layup Shot,-4,12,1,1,2.0,2.0,v
+S2223-G0758,1,03:51,MIN,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0758,1,03:17,MIN,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,-11,0,1,3.0,0.0,v
+S2223-G0758,4,10:12,MIN,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0758,4,09:02,MIN,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0758,4,06:42,MIN,88.0,SAC,91.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0758,4,06:42,MIN,,SAC,,T. Lyles,SAC,MISS Lyles Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0758,4,06:25,MIN,,SAC,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0758,4,06:08,MIN,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0758,5,04:17,MIN,103.0,SAC,106.0,T. Lyles,SAC,Lyles 3PT Jump Shot (6 PTS) (Monk 3 AST),Made Shot,Jump Shot,-230,13,0,1,3.0,3.0,v
+S2223-G0758,5,02:48,MIN,106.0,SAC,111.0,T. Lyles,SAC,Lyles 1' Driving Dunk (8 PTS) (Monk 5 AST),Made Shot,Driving Dunk Shot,-9,11,1,1,2.0,2.0,v
+S2223-G0758,5,02:48,MIN,106.0,SAC,112.0,T. Lyles,SAC,Lyles Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0758,5,01:36,MIN,,SAC,,T. Lyles,SAC,MISS Lyles 2' Driving Layup,Missed Shot,Driving Layup Shot,5,24,2,1,2.0,0.0,v
+S2223-G0758,5,00:37.800000,MIN,111.0,SAC,116.0,T. Lyles,SAC,Lyles 1' Dunk (11 PTS) (Fox 4 AST),Made Shot,Dunk Shot,0,13,1,1,2.0,2.0,v
+S2223-G0522,1,04:48,SAC,17.0,DEN,24.0,T. Lyles,SAC,Lyles 3PT Jump Shot (3 PTS) (Barnes 1 AST),Made Shot,Jump Shot,232,9,0,1,3.0,3.0,h
+S2223-G0522,1,02:28,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0522,1,01:29,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0522,1,00:25.300000,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0522,2,09:22,SAC,31.0,DEN,47.0,T. Lyles,SAC,Lyles 3' Driving Layup (5 PTS) (Fox 5 AST),Made Shot,Driving Layup Shot,25,15,3,1,2.0,2.0,h
+S2223-G0522,2,08:54,SAC,,DEN,,T. Lyles,SAC,Lyles P.FOUL (P1.T2) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2223-G0522,2,08:43,SAC,,DEN,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0522,3,01:23,SAC,,DEN,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0522,4,11:39,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0522,4,08:24,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0522,4,06:31,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0522,4,06:06,SAC,,DEN,,T. Lyles,SAC,Lyles STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0522,4,03:41,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0522,4,00:58.100000,SAC,,DEN,,T. Lyles,SAC,MISS Lyles 2' Layup,Missed Shot,Layup Shot,20,6,2,1,2.0,0.0,h
+S2223-G0522,4,00:55.200000,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0522,4,00:02.800000,SAC,,DEN,,T. Lyles,SAC,Lyles REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0522,4,00:02.800000,SAC,,DEN,,T. Lyles,SAC,SUB: Monk FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0575,1,03:12,SAC,,ATL,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0575,1,01:03,SAC,,ATL,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0575,1,00:01.300000,SAC,,ATL,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0575,2,10:13,SAC,32.0,ATL,36.0,T. Lyles,SAC,Lyles 1' Running Alley Oop Dunk Shot (2 PTS) (Monk 1 AST),Made Shot,Running Alley Oop Dunk Shot,-2,10,1,1,2.0,2.0,h
+S2223-G0575,2,10:02,SAC,,ATL,,T. Lyles,SAC,Lyles P.FOUL (P1.T1) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2223-G0575,2,07:49,SAC,,ATL,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0575,3,01:19,SAC,,ATL,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0575,3,00:56.100000,SAC,,ATL,,T. Lyles,SAC,Lyles P.FOUL (P2.PN) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2223-G0575,4,11:14,SAC,,ATL,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0575,4,10:07,SAC,,ATL,,T. Lyles,SAC,SUB: Sabonis FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0712,1,04:31,SAC,31.0,MEM,19.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (3 PTS) (Sabonis 6 AST),Made Shot,Jump Shot,-54,253,26,1,3.0,3.0,h
+S2223-G0712,1,02:18,SAC,,MEM,,T. Lyles,SAC,Lyles S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2223-G0712,1,02:03,SAC,,MEM,,T. Lyles,SAC,Lyles Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0712,1,01:44,SAC,,MEM,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0712,1,00:59.200000,SAC,42.0,MEM,30.0,T. Lyles,SAC,Lyles 27' 3PT Jump Shot (6 PTS) (Fox 3 AST),Made Shot,Jump Shot,62,258,27,1,3.0,3.0,h
+S2223-G0712,2,11:50,SAC,49.0,MEM,33.0,T. Lyles,SAC,Lyles 1' Cutting Dunk Shot (8 PTS) (Fox 4 AST),Made Shot,Cutting Dunk Shot,-6,7,1,1,2.0,2.0,h
+S2223-G0712,2,11:26,SAC,,MEM,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0712,2,08:59,SAC,50.0,MEM,43.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0712,2,08:59,SAC,51.0,MEM,43.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0712,2,08:19,SAC,,MEM,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,-11,254,25,1,3.0,0.0,h
+S2223-G0712,2,04:57,SAC,,MEM,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0712,3,04:29,SAC,,MEM,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0712,3,04:17,SAC,90.0,MEM,82.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (13 PTS) (Mitchell 1 AST),Made Shot,Jump Shot,174,189,26,1,3.0,3.0,h
+S2223-G0712,3,02:54,SAC,,MEM,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,154,210,26,1,3.0,0.0,h
+S2223-G0712,3,02:27,SAC,,MEM,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0712,3,02:06,SAC,,MEM,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0712,3,00:59.700000,SAC,100.0,MEM,86.0,T. Lyles,SAC,Lyles 25' 3PT Running Jump Shot (16 PTS) (Fox 8 AST),Made Shot,Running Jump Shot,-179,173,25,1,3.0,3.0,h
+S2223-G0712,4,10:58,SAC,103.0,MEM,92.0,T. Lyles,SAC,Lyles 25' 3PT Jump Shot (19 PTS) (Fox 9 AST),Made Shot,Jump Shot,25,250,25,1,3.0,3.0,h
+S2223-G0712,4,10:12,SAC,,MEM,,T. Lyles,SAC,Lyles Bad Pass Turnover (P2.T21),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0712,4,09:30,SAC,,MEM,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0712,4,09:26,SAC,107.0,MEM,96.0,T. Lyles,SAC,Lyles 1' Running Dunk (21 PTS),Made Shot,Running Dunk Shot,4,10,1,1,2.0,2.0,h
+S2223-G0712,4,09:16,SAC,,MEM,,T. Lyles,SAC,Lyles STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0712,4,08:34,SAC,,MEM,,T. Lyles,SAC,Lyles BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0712,4,08:03,SAC,115.0,MEM,96.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (24 PTS) (Barnes 2 AST),Made Shot,Jump Shot,112,232,26,1,3.0,3.0,h
+S2223-G0712,4,07:24,SAC,,MEM,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0712,4,06:45,SAC,,MEM,,T. Lyles,SAC,Lyles BLOCK (3 BLK),,,0,0,0,0,,,h
+S2223-G0712,4,06:42,SAC,,MEM,,T. Lyles,SAC,Jump Ball Lyles vs. Jackson Jr.: Tip to Jones,Jump Ball,,0,0,0,0,,,h
+S2223-G0712,4,06:09,SAC,,MEM,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0712,4,04:06,SAC,,MEM,,T. Lyles,SAC,MISS Lyles 3' Driving Dunk,Missed Shot,Driving Dunk Shot,-27,15,3,1,2.0,0.0,h
+S2223-G0712,4,03:24,SAC,,MEM,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0712,4,03:22,SAC,,MEM,,T. Lyles,SAC,SUB: Len FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0397,1,00:06,NYK,36.0,SAC,22.0,T. Lyles,SAC,Lyles 24' 3PT Jump Shot (3 PTS) (Dellavedova 2 AST),Made Shot,Jump Shot,237,29,24,1,3.0,3.0,v
+S2223-G0397,2,11:45,NYK,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T1) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2223-G0397,2,11:39,NYK,,SAC,,T. Lyles,SAC,Lyles Traveling Turnover (P1.T7),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0397,2,10:54,NYK,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-234,106,26,1,3.0,0.0,v
+S2223-G0397,2,10:36,NYK,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0397,2,10:27,NYK,,SAC,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0397,3,02:05,NYK,,SAC,,T. Lyles,SAC,MISS Lyles 3' Layup,Missed Shot,Layup Shot,31,7,3,1,2.0,0.0,v
+S2223-G0397,3,00:38.600000,NYK,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0397,3,00:37.800000,NYK,93.0,SAC,77.0,T. Lyles,SAC,Lyles 1' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,-1,7,1,1,2.0,2.0,v
+S2223-G0397,3,00:01.700000,NYK,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0397,3,00:00.400000,NYK,95.0,SAC,79.0,T. Lyles,SAC,Lyles 1' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,-1,6,1,1,2.0,2.0,v
+S2223-G0397,3,00:00.400000,NYK,95.0,SAC,80.0,T. Lyles,SAC,Lyles Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0397,4,11:03,NYK,,SAC,,T. Lyles,SAC,MISS Lyles 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,64,6,1,2.0,0.0,v
+S2223-G0397,4,09:03,NYK,,SAC,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0728,2,10:12,SAC,,TOR,,T. Lyles,SAC,Lyles S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2223-G0728,2,10:09,SAC,,TOR,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0728,2,08:57,SAC,,TOR,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,222,122,25,1,3.0,0.0,h
+S2223-G0728,2,08:42,SAC,,TOR,,T. Lyles,SAC,Jump Ball Lyles vs. Achiuwa: Tip to Huerter,Jump Ball,,0,0,0,0,,,h
+S2223-G0728,2,08:42,SAC,,TOR,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0728,2,07:30,SAC,,TOR,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0728,2,07:26,SAC,,TOR,,T. Lyles,SAC,Jump Ball Lyles vs. Anunoby: Tip to Barnes,Jump Ball,,0,0,0,0,,,h
+S2223-G0728,2,06:53,SAC,,TOR,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0728,2,06:04,SAC,,TOR,,T. Lyles,SAC,MISS Lyles 8' Driving Layup,Missed Shot,Driving Layup Shot,36,72,8,1,2.0,0.0,h
+S2223-G0728,2,05:46,SAC,36.0,TOR,40.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0728,2,05:46,SAC,37.0,TOR,40.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0728,2,04:37,SAC,,TOR,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0728,3,03:48,SAC,,TOR,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0728,3,02:23,SAC,64.0,TOR,82.0,T. Lyles,SAC,Lyles 2' Driving Dunk (4 PTS) (Monk 1 AST),Made Shot,Driving Dunk Shot,-2,17,2,1,2.0,2.0,h
+S2223-G0728,3,00:48.900000,SAC,,TOR,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0728,3,00:28.400000,SAC,,TOR,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,224,25,0,1,3.0,0.0,h
+S2223-G0728,4,11:49,SAC,68.0,TOR,84.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0728,4,11:49,SAC,69.0,TOR,84.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0728,4,10:48,SAC,,TOR,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,164,194,25,1,3.0,0.0,h
+S2223-G0728,4,09:02,SAC,,TOR,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0728,4,08:08,SAC,,TOR,,T. Lyles,SAC,SUB: Huerter FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0381,1,01:22,CLE,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0381,1,00:30,CLE,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0381,1,00:20.900000,CLE,20.0,SAC,31.0,T. Lyles,SAC,Lyles 3PT Jump Shot (3 PTS) (Dellavedova 2 AST),Made Shot,Jump Shot,-225,30,0,1,3.0,3.0,v
+S2223-G0381,2,10:17,CLE,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0381,2,08:31,CLE,24.0,SAC,37.0,T. Lyles,SAC,Lyles 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,-16,10,2,1,2.0,2.0,v
+S2223-G0381,2,07:37,CLE,,SAC,,T. Lyles,SAC,MISS Lyles 27' 3PT Jump Shot,Missed Shot,Jump Shot,82,255,27,1,3.0,0.0,v
+S2223-G0381,2,04:17,CLE,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0381,3,03:42,CLE,,SAC,,T. Lyles,SAC,MISS Lyles 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,230,55,24,1,3.0,0.0,v
+S2223-G0381,3,00:46.500000,CLE,,SAC,,T. Lyles,SAC,MISS Lyles 2' Running Dunk,Missed Shot,Running Dunk Shot,9,12,2,1,2.0,0.0,v
+S2223-G0381,4,10:11,CLE,,SAC,,T. Lyles,SAC,Lyles OFF.Foul (P2) (J.Orr),Foul,Offensive,0,0,0,0,,,v
+S2223-G0381,4,10:11,CLE,,SAC,,T. Lyles,SAC,Lyles Offensive Foul Turnover (P1.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0381,4,08:40,CLE,,SAC,,T. Lyles,SAC,SUB: Mitchell FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0417,2,09:55,TOR,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0417,2,09:48,TOR,39.0,SAC,25.0,T. Lyles,SAC,Lyles 2' Layup (2 PTS),Made Shot,Layup Shot,2,17,2,1,2.0,2.0,v
+S2223-G0417,2,09:44,TOR,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0417,3,03:55,TOR,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0417,3,02:19,TOR,85.0,SAC,81.0,T. Lyles,SAC,Lyles 24' 3PT Jump Shot (5 PTS) (Fox 8 AST),Made Shot,Jump Shot,-239,-1,24,1,3.0,3.0,v
+S2223-G0417,3,00:47,TOR,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0417,3,00:20,TOR,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,211,151,26,1,3.0,0.0,v
+S2223-G0417,4,11:45,TOR,,SAC,,T. Lyles,SAC,MISS Lyles 2' Driving Layup,Missed Shot,Driving Layup Shot,-20,11,2,1,2.0,0.0,v
+S2223-G0417,4,08:53,TOR,,SAC,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0786,1,00:44.100000,IND,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,228,36,0,1,3.0,0.0,v
+S2223-G0786,1,00:00.200000,IND,28.0,SAC,27.0,T. Lyles,SAC,Lyles 3PT Fadeaway Jumper (3 PTS) (Huerter 1 AST),Made Shot,Fadeaway Jump Shot,-225,5,0,1,3.0,3.0,v
+S2223-G0786,2,11:20,IND,,SAC,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,26,246,25,1,3.0,0.0,v
+S2223-G0786,2,10:04,IND,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0786,2,09:27,IND,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0786,2,09:27,IND,,SAC,,T. Lyles,SAC,MISS Lyles Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0786,2,08:36,IND,,SAC,,T. Lyles,SAC,MISS Lyles 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,141,210,25,1,3.0,0.0,v
+S2223-G0786,2,07:38,IND,37.0,SAC,39.0,T. Lyles,SAC,Lyles 1' Layup (5 PTS) (Sabonis 4 AST),Made Shot,Layup Shot,1,6,1,1,2.0,2.0,v
+S2223-G0786,2,05:47,IND,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0786,4,11:38,IND,,SAC,,T. Lyles,SAC,Lyles Offensive Charge Foul (P1) (P.Ransom),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0786,4,11:38,IND,,SAC,,T. Lyles,SAC,Lyles Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0786,4,06:02,IND,,SAC,,T. Lyles,SAC,MISS Lyles 3' Driving Dunk,Missed Shot,Driving Dunk Shot,15,26,3,1,2.0,0.0,v
+S2223-G0786,4,03:49,IND,102.0,SAC,99.0,T. Lyles,SAC,Lyles 1' Driving Dunk (7 PTS) (Monk 5 AST),Made Shot,Driving Dunk Shot,0,13,1,1,2.0,2.0,v
+S2223-G0786,4,02:41,IND,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0786,4,02:38,IND,,SAC,,T. Lyles,SAC,MISS Lyles 4' Jump Shot,Missed Shot,Jump Shot,39,13,4,1,2.0,0.0,v
+S2223-G0786,4,02:36,IND,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0786,4,02:36,IND,,SAC,,T. Lyles,SAC,Lyles Out of Bounds - Bad Pass Turnover Turnover (P2.T19),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G0786,4,02:23,IND,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P2.T4) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2223-G0786,4,02:23,IND,,SAC,,T. Lyles,SAC,SUB: Davis FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0460,1,01:12,SAC,,CHA,,T. Lyles,SAC,Lyles Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0460,1,00:29.200000,SAC,,CHA,,T. Lyles,SAC,Lyles S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2223-G0460,2,09:35,SAC,,CHA,,T. Lyles,SAC,Lyles L.B.FOUL (P2.T2) (P.Ransom),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0460,2,09:17,SAC,,CHA,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0460,2,08:47,SAC,,CHA,,T. Lyles,SAC,SUB: Mitchell FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0677,1,02:54,LAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,1,02:53,LAL,,SAC,,T. Lyles,SAC,MISS Lyles 2' Reverse Layup,Missed Shot,Reverse Layup Shot,4,16,2,1,2.0,0.0,v
+S2223-G0677,1,02:04,LAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,2,10:34,LAL,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0677,2,10:24,LAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,2,09:01,LAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,2,08:59,LAL,43.0,SAC,36.0,T. Lyles,SAC,Lyles 2' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,-22,5,2,1,2.0,2.0,v
+S2223-G0677,2,07:02,LAL,49.0,SAC,40.0,T. Lyles,SAC,Lyles 9' Driving Floating Jump Shot (4 PTS) (Fox 2 AST),Made Shot,Driving Floating Jump Shot,21,86,9,1,2.0,2.0,v
+S2223-G0677,2,05:50,LAL,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P1.T3) (L.Holtkamp),Foul,Personal,0,0,0,0,,,v
+S2223-G0677,2,05:28,LAL,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,130,226,26,1,3.0,0.0,v
+S2223-G0677,2,05:20,LAL,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P2.T4) (E.Lewis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0677,2,05:20,LAL,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0677,3,03:13,LAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,3,01:50,LAL,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P3.T4) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,v
+S2223-G0677,3,01:38,LAL,77.0,SAC,90.0,T. Lyles,SAC,Lyles 2' Cutting Dunk Shot (6 PTS) (Mitchell 3 AST),Made Shot,Cutting Dunk Shot,10,15,2,1,2.0,2.0,v
+S2223-G0677,3,00:01.900000,LAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0677,4,10:00,LAL,88.0,SAC,93.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0677,4,10:00,LAL,88.0,SAC,94.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0677,4,06:45,LAL,,SAC,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0677,4,00:04.100000,LAL,111.0,SAC,115.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0677,4,00:04.100000,LAL,111.0,SAC,116.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0698,1,01:44,SAC,33.0,PHI,23.0,T. Lyles,SAC,Lyles 1' Dunk (2 PTS) (Mitchell 1 AST),Made Shot,Dunk Shot,7,9,1,1,2.0,2.0,h
+S2223-G0698,2,10:56,SAC,,PHI,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0698,2,10:11,SAC,,PHI,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,31,252,25,1,3.0,0.0,h
+S2223-G0698,2,08:05,SAC,,PHI,,T. Lyles,SAC,MISS Lyles 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,60,10,6,1,2.0,0.0,h
+S2223-G0698,2,08:00,SAC,,PHI,,T. Lyles,SAC,SUB: Huerter FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0698,3,03:29,SAC,,PHI,,T. Lyles,SAC,Lyles S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0698,3,01:51,SAC,,PHI,,T. Lyles,SAC,MISS Lyles Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0698,3,01:51,SAC,,PHI,,T. Lyles,SAC,MISS Lyles Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G1026,1,01:04,SAC,27.0,MIL,23.0,T. Lyles,SAC,Lyles 26' 3PT Running Jump Shot (3 PTS) (Fox 2 AST),Made Shot,Running Jump Shot,161,200,26,1,3.0,3.0,h
+S2223-G1026,2,11:46,SAC,35.0,MIL,27.0,T. Lyles,SAC,Lyles 3PT Jump Shot (6 PTS) (Monk 2 AST),Made Shot,Jump Shot,-229,0,0,1,3.0,3.0,h
+S2223-G1026,2,11:04,SAC,,MIL,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-123,232,26,1,3.0,0.0,h
+S2223-G1026,2,10:25,SAC,,MIL,,T. Lyles,SAC,Lyles P.FOUL (P1.T2) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2223-G1026,2,09:35,SAC,,MIL,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1026,2,09:18,SAC,,MIL,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1026,2,08:31,SAC,,MIL,,T. Lyles,SAC,MISS Lyles 27' 3PT Jump Shot,Missed Shot,Jump Shot,4,269,27,1,3.0,0.0,h
+S2223-G1026,2,05:12,SAC,,MIL,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1026,2,04:32,SAC,,MIL,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G1026,3,00:51.700000,SAC,,MIL,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1026,4,09:42,SAC,,MIL,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1026,4,08:01,SAC,,MIL,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,-104,224,25,1,3.0,0.0,h
+S2223-G1026,4,06:40,SAC,,MIL,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1026,4,06:00,SAC,,MIL,,T. Lyles,SAC,Lyles S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G1026,4,05:33,SAC,,MIL,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1026,4,05:29,SAC,,MIL,,T. Lyles,SAC,MISS Lyles 4' Layup,Missed Shot,Layup Shot,-34,9,4,1,2.0,0.0,h
+S2223-G1026,4,03:32,SAC,,MIL,,T. Lyles,SAC,MISS Lyles 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,115,227,25,1,3.0,0.0,h
+S2223-G1026,4,00:15.400000,SAC,,MIL,,T. Lyles,SAC,Lyles T.FOUL (P2.T3) (B.Kennedy),Foul,Technical,0,0,0,0,,,h
+S2223-G1026,4,00:15.400000,SAC,,MIL,,T. Lyles,SAC,Lyles Ejection:Other,Ejection,Other,0,0,0,0,,,h
+S2223-G1026,4,00:15.400000,SAC,,MIL,,T. Lyles,SAC,SUB: Edwards FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G1159,1,03:04,POR,24.0,SAC,29.0,T. Lyles,SAC,Lyles 2' Driving Layup (2 PTS) (Sabonis 3 AST),Made Shot,Driving Layup Shot,11,19,2,1,2.0,2.0,v
+S2223-G1159,1,02:06,POR,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1159,1,01:23,POR,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1159,1,01:17,POR,,SAC,,T. Lyles,SAC,MISS Lyles 29' 3PT Jump Shot,Missed Shot,Jump Shot,159,241,29,1,3.0,0.0,v
+S2223-G1159,1,01:06,POR,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1159,1,00:23,POR,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1159,2,09:47,POR,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1159,2,09:40,POR,,SAC,,T. Lyles,SAC,MISS Lyles 1' Driving Dunk,Missed Shot,Driving Dunk Shot,0,14,1,1,2.0,0.0,v
+S2223-G1159,2,08:50,POR,38.0,SAC,47.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (5 PTS) (Monk 2 AST),Made Shot,Jump Shot,-210,151,26,1,3.0,3.0,v
+S2223-G1159,2,07:16,POR,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1159,2,07:10,POR,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T4) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,v
+S2223-G1159,2,07:10,POR,,SAC,,T. Lyles,SAC,SUB: Huerter FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G1159,3,03:24,POR,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1159,3,02:46,POR,,SAC,,T. Lyles,SAC,Lyles Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2223-G1159,3,02:33,POR,,SAC,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1159,3,02:29,POR,80.0,SAC,98.0,T. Lyles,SAC,Lyles Running Finger Roll Layup (7 PTS),Made Shot,Running Finger Roll Layup Shot,-4,2,0,1,2.0,2.0,v
+S2223-G1159,3,01:16,POR,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P2.T3) (L.Holtkamp),Foul,Personal,0,0,0,0,,,v
+S2223-G1159,3,00:00.500000,POR,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1159,4,10:49,POR,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1159,4,08:47,POR,,SAC,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G1227,1,03:37,DEN,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,119,231,26,1,3.0,0.0,v
+S2223-G1227,1,01:22,DEN,26.0,SAC,40.0,T. Lyles,SAC,Lyles 3' Running Layup (2 PTS) (Monk 3 AST),Made Shot,Running Layup Shot,22,21,3,1,2.0,2.0,v
+S2223-G1227,1,00:26.800000,DEN,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1227,1,00:04.800000,DEN,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-225,25,0,1,3.0,0.0,v
+S2223-G1227,2,08:23,DEN,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1227,2,06:01,DEN,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2223-G1227,2,06:01,DEN,,SAC,,T. Lyles,SAC,SUB: Fox FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G1227,4,09:33,DEN,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1227,4,09:12,DEN,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1227,4,08:02,DEN,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,223,128,26,1,3.0,0.0,v
+S2223-G1227,4,06:49,DEN,,SAC,,T. Lyles,SAC,SUB: Metu FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0338,4,06:18,LAC,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T3) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2223-G0338,4,05:05,LAC,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P2.T4) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G0338,4,02:56,LAC,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-143,222,26,1,3.0,0.0,v
+S2223-G0338,4,02:16,LAC,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0338,4,01:21,LAC,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0338,4,00:35.900000,LAC,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1211,1,01:48,SAC,,GSW,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,103,238,26,1,3.0,0.0,h
+S2223-G1211,2,11:16,SAC,,GSW,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,2,11:00,SAC,22.0,GSW,32.0,T. Lyles,SAC,Lyles 24' 3PT Jump Shot (3 PTS) (Edwards 2 AST),Made Shot,Jump Shot,232,63,24,1,3.0,3.0,h
+S2223-G1211,2,09:02,SAC,,GSW,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1211,2,08:59,SAC,,GSW,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,2,08:41,SAC,,GSW,,T. Lyles,SAC,MISS Lyles 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-180,189,26,1,3.0,0.0,h
+S2223-G1211,2,08:23,SAC,,GSW,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,2,07:31,SAC,32.0,GSW,36.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (6 PTS) (Holmes 2 AST),Made Shot,Jump Shot,172,194,26,1,3.0,3.0,h
+S2223-G1211,2,07:02,SAC,,GSW,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,2,06:45,SAC,,GSW,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-136,216,26,1,3.0,0.0,h
+S2223-G1211,2,04:59,SAC,37.0,GSW,42.0,T. Lyles,SAC,Lyles 9' Fadeaway Jumper (8 PTS) (Mitchell 3 AST),Made Shot,Fadeaway Jump Shot,-1,92,9,1,2.0,2.0,h
+S2223-G1211,2,04:30,SAC,,GSW,,T. Lyles,SAC,MISS Lyles 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-12,68,7,1,2.0,0.0,h
+S2223-G1211,2,04:28,SAC,,GSW,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,2,04:24,SAC,,GSW,,T. Lyles,SAC,MISS Lyles 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,230,39,0,1,3.0,0.0,h
+S2223-G1211,2,03:49,SAC,,GSW,,T. Lyles,SAC,SUB: Davis FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G1211,3,01:43,SAC,,GSW,,T. Lyles,SAC,Lyles S.FOUL (P1.T4) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G1211,3,00:14.600000,SAC,73.0,GSW,86.0,T. Lyles,SAC,Lyles 25' 3PT Jump Shot (11 PTS) (Dozier 3 AST),Made Shot,Jump Shot,-218,124,25,1,3.0,3.0,h
+S2223-G1211,4,11:47,SAC,,GSW,,T. Lyles,SAC,Lyles S.FOUL (P2.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G1211,4,10:27,SAC,,GSW,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,4,10:23,SAC,,GSW,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,4,10:22,SAC,,GSW,,T. Lyles,SAC,MISS Lyles 24' Tip Dunk Shot,Missed Shot,Tip Dunk Shot,129,197,24,1,2.0,0.0,h
+S2223-G1211,4,09:57,SAC,,GSW,,T. Lyles,SAC,Lyles S.FOUL (P3.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2223-G1211,4,05:12,SAC,,GSW,,T. Lyles,SAC,Lyles REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1211,4,05:11,SAC,87.0,GSW,109.0,T. Lyles,SAC,Lyles 1' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,-12,6,1,1,2.0,2.0,h
+S2223-G1211,4,04:46,SAC,89.0,GSW,111.0,T. Lyles,SAC,Lyles 2' Reverse Layup (15 PTS) (Holmes 3 AST),Made Shot,Reverse Layup Shot,-15,4,2,1,2.0,2.0,h
+S2223-G1211,4,04:22,SAC,,GSW,,T. Lyles,SAC,SUB: Dozier FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0640,1,04:35,SAC,21.0,HOU,19.0,T. Lyles,SAC,Lyles 3PT Jump Shot (3 PTS) (Barnes 1 AST),Made Shot,Jump Shot,230,9,0,1,3.0,3.0,h
+S2223-G0640,1,03:45,SAC,,HOU,,T. Lyles,SAC,Lyles L.B.FOUL (P1.PN) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,h
+S2223-G0640,1,03:43,SAC,,HOU,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0640,1,03:25,SAC,23.0,HOU,22.0,T. Lyles,SAC,Lyles 2' Driving Reverse Layup (5 PTS) (Barnes 2 AST),Made Shot,Driving Reverse Layup Shot,17,1,2,1,2.0,2.0,h
+S2223-G0640,1,01:22,SAC,,HOU,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0640,2,11:02,SAC,38.0,HOU,34.0,T. Lyles,SAC,Lyles 2' Driving Layup (7 PTS) (Metu 1 AST),Made Shot,Driving Layup Shot,21,10,2,1,2.0,2.0,h
+S2223-G0640,2,09:57,SAC,,HOU,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,164,194,25,1,3.0,0.0,h
+S2223-G0640,2,08:20,SAC,,HOU,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0640,3,09:31,SAC,,HOU,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0640,3,08:59,SAC,80.0,HOU,75.0,T. Lyles,SAC,Lyles 1' Running Dunk (9 PTS) (Fox 4 AST),Made Shot,Running Dunk Shot,0,13,1,1,2.0,2.0,h
+S2223-G0640,3,08:36,SAC,,HOU,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,196,162,25,1,3.0,0.0,h
+S2223-G0640,3,08:15,SAC,,HOU,,T. Lyles,SAC,Lyles S.FOUL (P2.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2223-G0640,3,07:45,SAC,84.0,HOU,77.0,T. Lyles,SAC,Lyles 1' Running Layup (11 PTS) (Davis 2 AST),Made Shot,Running Layup Shot,9,4,1,1,2.0,2.0,h
+S2223-G0640,3,02:47,SAC,,HOU,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0640,3,02:09,SAC,109.0,HOU,92.0,T. Lyles,SAC,Lyles 1' Alley Oop Dunk (13 PTS) (Monk 1 AST),Made Shot,Alley Oop Dunk Shot,6,6,1,1,2.0,2.0,h
+S2223-G0640,3,01:20,SAC,,HOU,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0640,3,01:19,SAC,,HOU,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0640,4,09:24,SAC,,HOU,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0640,4,07:39,SAC,,HOU,,T. Lyles,SAC,Lyles STEAL (2 STL),,,0,0,0,0,,,h
+S2223-G0640,4,07:05,SAC,,HOU,,T. Lyles,SAC,Lyles S.FOUL (P3.PN) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2223-G0640,4,03:36,SAC,,HOU,,T. Lyles,SAC,MISS Lyles 6' Driving Layup,Missed Shot,Driving Layup Shot,45,33,6,1,2.0,0.0,h
+S2223-G0640,4,01:44,SAC,,HOU,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0640,4,00:49.100000,SAC,,HOU,,T. Lyles,SAC,Lyles BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0640,4,00:20.800000,SAC,,HOU,,T. Lyles,SAC,SUB: Dozier FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0210,1,02:29,SAC,,BKN,,T. Lyles,SAC,Lyles P.FOUL (P1.PN) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2223-G0210,1,02:16,SAC,,BKN,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,214,131,25,1,3.0,0.0,h
+S2223-G0210,1,00:40.800000,SAC,,BKN,,T. Lyles,SAC,MISS Lyles 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-201,145,25,1,3.0,0.0,h
+S2223-G0210,1,00:34.900000,SAC,,BKN,,T. Lyles,SAC,Lyles Violation:Defensive Goaltending (T.Brothers),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2223-G0210,1,00:32,SAC,,BKN,,T. Lyles,SAC,Lyles Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0210,3,05:02,SAC,103.0,BKN,68.0,T. Lyles,SAC,Lyles 25' 3PT Running Jump Shot (3 PTS) (Huerter 2 AST),Made Shot,Running Jump Shot,224,112,25,1,3.0,3.0,h
+S2223-G0210,3,04:24,SAC,106.0,BKN,70.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (6 PTS) (Sabonis 6 AST),Made Shot,Jump Shot,-162,197,26,1,3.0,3.0,h
+S2223-G0210,3,03:28,SAC,,BKN,,T. Lyles,SAC,Lyles Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0210,3,02:44,SAC,,BKN,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-143,212,26,1,3.0,0.0,h
+S2223-G0210,3,02:23,SAC,112.0,BKN,74.0,T. Lyles,SAC,Lyles 3PT Jump Shot (9 PTS) (Huerter 3 AST),Made Shot,Jump Shot,-233,8,0,1,3.0,3.0,h
+S2223-G0210,3,01:12,SAC,,BKN,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0210,3,00:33.500000,SAC,115.0,BKN,79.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0210,3,00:33.500000,SAC,,BKN,,T. Lyles,SAC,MISS Lyles Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0210,3,00:01.800000,SAC,,BKN,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0210,3,00:00,SAC,,BKN,,T. Lyles,SAC,MISS Lyles Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0210,4,11:41,SAC,,BKN,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0210,4,11:41,SAC,,BKN,,T. Lyles,SAC,MISS Lyles Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0210,4,11:41,SAC,,BKN,,T. Lyles,SAC,Lyles REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0210,4,11:41,SAC,,BKN,,T. Lyles,SAC,MISS Lyles 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,6,1,1,1,2.0,0.0,h
+S2223-G0210,4,11:41,SAC,,BKN,,T. Lyles,SAC,Lyles REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0210,4,11:41,SAC,,BKN,,T. Lyles,SAC,MISS Lyles Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0210,4,11:38,SAC,,BKN,,T. Lyles,SAC,Jump Ball Lyles vs. Harris: Tip to Monk,Jump Ball,,0,0,0,0,,,h
+S2223-G0210,4,08:07,SAC,129.0,BKN,90.0,T. Lyles,SAC,Lyles 1' Running Dunk (12 PTS) (Monk 5 AST),Made Shot,Running Dunk Shot,2,11,1,1,2.0,2.0,h
+S2223-G0210,4,07:10,SAC,,BKN,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-183,186,26,1,3.0,0.0,h
+S2223-G0210,4,06:32,SAC,,BKN,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,230,27,0,1,3.0,0.0,h
+S2223-G0210,4,05:04,SAC,,BKN,,T. Lyles,SAC,SUB: Len FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0928,1,03:46,OKC,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T2) (S.Jelks),Foul,Shooting,0,0,0,0,,,v
+S2223-G0928,2,11:34,OKC,38.0,SAC,47.0,T. Lyles,SAC,Lyles 24' 3PT Jump Shot (3 PTS) (Metu 1 AST),Made Shot,Jump Shot,235,-1,24,1,3.0,3.0,v
+S2223-G0928,2,10:43,OKC,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P2.T1) (S.Jelks),Foul,Personal,0,0,0,0,,,v
+S2223-G0928,2,10:28,OKC,43.0,SAC,48.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0928,2,10:28,OKC,43.0,SAC,49.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0928,2,09:30,OKC,,SAC,,T. Lyles,SAC,MISS Lyles Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0928,2,09:30,OKC,,SAC,,T. Lyles,SAC,MISS Lyles Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0928,2,09:14,OKC,,SAC,,T. Lyles,SAC,Lyles Violation:Kicked Ball (A.Smith),Violation,Kicked Ball,0,0,0,0,,,v
+S2223-G0928,2,08:35,OKC,,SAC,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0928,2,08:29,OKC,45.0,SAC,53.0,T. Lyles,SAC,Lyles 1' Alley Oop Dunk (7 PTS) (Monk 2 AST),Made Shot,Alley Oop Dunk Shot,-1,10,1,1,2.0,2.0,v
+S2223-G0928,2,08:09,OKC,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,229,-20,0,1,3.0,0.0,v
+S2223-G0928,2,07:54,OKC,,SAC,,T. Lyles,SAC,Lyles T.FOUL (P2.T1) (S.Jelks),Foul,Technical,0,0,0,0,,,v
+S2223-G0928,2,07:54,OKC,,SAC,,T. Lyles,SAC,SUB: Huerter FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0928,3,03:30,OKC,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0928,3,03:17,OKC,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,228,30,0,1,3.0,0.0,v
+S2223-G0928,3,03:06,OKC,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0928,3,02:48,OKC,82.0,SAC,93.0,T. Lyles,SAC,Lyles 2' Driving Layup (9 PTS) (Metu 2 AST),Made Shot,Driving Layup Shot,12,-11,2,1,2.0,2.0,v
+S2223-G0928,3,01:58,OKC,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0928,3,01:56,OKC,,SAC,,T. Lyles,SAC,MISS Lyles 2' Putback Layup,Missed Shot,Putback Layup Shot,-15,-8,2,1,2.0,0.0,v
+S2223-G0928,3,01:42,OKC,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0928,3,01:00,OKC,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0928,3,00:53.500000,OKC,,SAC,,T. Lyles,SAC,Lyles Traveling Turnover (P1.T11),Turnover,Traveling,0,0,0,0,,,v
+S2223-G0928,3,00:28.900000,OKC,,SAC,,T. Lyles,SAC,Lyles Offensive Charge Foul (P3) (A.Smith),Foul,Offensive Charge,0,0,0,0,,,v
+S2223-G0928,3,00:28.900000,OKC,,SAC,,T. Lyles,SAC,Lyles Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2223-G0928,3,00:00.300000,OKC,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,23,263,26,1,3.0,0.0,v
+S2223-G0894,1,01:36,SAC,,POR,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0894,1,01:34,SAC,21.0,POR,33.0,T. Lyles,SAC,Lyles 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,20,9,2,1,2.0,2.0,h
+S2223-G0894,1,00:00,SAC,29.0,POR,37.0,T. Lyles,SAC,Lyles 25' 3PT Running Jump Shot (5 PTS) (Metu 1 AST),Made Shot,Running Jump Shot,-126,216,25,1,3.0,3.0,h
+S2223-G0894,2,11:22,SAC,,POR,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,233,11,0,1,3.0,0.0,h
+S2223-G0894,2,09:19,SAC,,POR,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0894,2,07:18,SAC,,POR,,T. Lyles,SAC,MISS Lyles 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-195,174,26,1,3.0,0.0,h
+S2223-G0894,2,05:54,SAC,,POR,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0894,3,03:08,SAC,,POR,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0894,3,01:35,SAC,,POR,,T. Lyles,SAC,Lyles S.FOUL (P1.T4) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0894,4,10:25,SAC,,POR,,T. Lyles,SAC,Lyles S.FOUL (P2.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2223-G0894,4,07:42,SAC,,POR,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,157,202,26,1,3.0,0.0,h
+S2223-G0894,4,06:42,SAC,119.0,POR,101.0,T. Lyles,SAC,Lyles 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,11,10,1,1,2.0,2.0,h
+S2223-G0894,4,06:06,SAC,,POR,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0894,4,05:13,SAC,,POR,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0894,4,05:06,SAC,,POR,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0197,1,03:51,SAC,,GSW,,T. Lyles,SAC,Lyles S.FOUL (P1.T2) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G0197,1,02:15,SAC,,GSW,,T. Lyles,SAC,MISS Lyles 24' 3PT Jump Shot,Missed Shot,Jump Shot,-227,90,24,1,3.0,0.0,h
+S2223-G0197,1,00:45.800000,SAC,,GSW,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-233,-10,0,1,3.0,0.0,h
+S2223-G0854,1,03:13,SAC,24.0,DAL,24.0,T. Lyles,SAC,Lyles 2' Layup (2 PTS) (Davis 1 AST),Made Shot,Layup Shot,21,1,2,1,2.0,2.0,h
+S2223-G0854,1,02:38,SAC,26.0,DAL,26.0,T. Lyles,SAC,Lyles 6' Hook Shot (4 PTS) (Fox 1 AST),Made Shot,Hook Shot,-7,57,6,1,2.0,2.0,h
+S2223-G0854,1,01:52,SAC,,DAL,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0854,1,01:18,SAC,,DAL,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0854,2,09:39,SAC,,DAL,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0854,2,09:39,SAC,44.0,DAL,35.0,T. Lyles,SAC,Lyles 5' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,5,47,5,1,2.0,2.0,h
+S2223-G0854,2,09:39,SAC,45.0,DAL,35.0,T. Lyles,SAC,Lyles Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0854,2,09:15,SAC,,DAL,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-108,231,26,1,3.0,0.0,h
+S2223-G0854,2,09:01,SAC,,DAL,,T. Lyles,SAC,Lyles S.FOUL (P1.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2223-G0854,2,09:01,SAC,,DAL,,T. Lyles,SAC,SUB: Mitchell FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0854,3,05:52,SAC,,DAL,,T. Lyles,SAC,Lyles Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2223-G0854,3,05:18,SAC,,DAL,,T. Lyles,SAC,Lyles Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0854,3,03:51,SAC,77.0,DAL,80.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0854,3,03:51,SAC,78.0,DAL,80.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0854,3,02:41,SAC,,DAL,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0854,3,00:50.300000,SAC,86.0,DAL,85.0,T. Lyles,SAC,Lyles 3' Driving Layup (11 PTS) (Huerter 4 AST),Made Shot,Driving Layup Shot,-21,18,3,1,2.0,2.0,h
+S2223-G0854,4,11:42,SAC,,DAL,,T. Lyles,SAC,MISS Lyles 3' Layup,Missed Shot,Layup Shot,-27,10,3,1,2.0,0.0,h
+S2223-G0854,4,09:47,SAC,,DAL,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0854,4,09:39,SAC,93.0,DAL,95.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (14 PTS) (Fox 4 AST),Made Shot,Jump Shot,-9,263,26,1,3.0,3.0,h
+S2223-G0854,4,02:12,SAC,,DAL,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0854,5,00:09.700000,SAC,,DAL,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1195,1,03:21,DAL,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,232,10,0,1,3.0,0.0,v
+S2223-G1195,1,03:03,DAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1195,1,00:03.800000,DAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1195,2,08:51,DAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1195,2,08:19,DAL,,SAC,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,64,241,25,1,3.0,0.0,v
+S2223-G1195,2,06:59,DAL,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G1195,3,03:38,DAL,87.0,SAC,86.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (3 PTS) (Monk 2 AST),Made Shot,Jump Shot,145,212,26,1,3.0,3.0,v
+S2223-G1195,3,03:02,DAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1195,3,03:02,DAL,,SAC,,T. Lyles,SAC,MISS Lyles Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G1195,3,02:59,DAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1195,3,02:56,DAL,,SAC,,T. Lyles,SAC,MISS Lyles Putback Layup,Missed Shot,Putback Layup Shot,-2,-3,0,1,2.0,0.0,v
+S2223-G1195,4,10:11,DAL,96.0,SAC,97.0,T. Lyles,SAC,Lyles 1' Running Alley Oop Dunk Shot (5 PTS) (Monk 3 AST),Made Shot,Running Alley Oop Dunk Shot,-6,0,1,1,2.0,2.0,v
+S2223-G1195,4,08:42,DAL,101.0,SAC,102.0,T. Lyles,SAC,Lyles 25' 3PT Pullup Jump Shot (8 PTS) (Fox 6 AST),Made Shot,Pullup Jump shot,153,197,25,1,3.0,3.0,v
+S2223-G1195,4,06:09,DAL,,SAC,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G1013,2,11:13,PHX,34.0,SAC,32.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1013,2,11:13,PHX,34.0,SAC,33.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1013,2,10:26,PHX,36.0,SAC,36.0,T. Lyles,SAC,Lyles 3PT Jump Shot (5 PTS) (Fox 2 AST),Made Shot,Jump Shot,223,-1,0,1,3.0,3.0,v
+S2223-G1013,2,09:00,PHX,38.0,SAC,39.0,T. Lyles,SAC,Lyles 3PT Jump Shot (8 PTS) (Monk 1 AST),Made Shot,Jump Shot,230,19,0,1,3.0,3.0,v
+S2223-G1013,2,08:46,PHX,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1013,2,07:35,PHX,43.0,SAC,47.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (11 PTS) (Sabonis 3 AST),Made Shot,Jump Shot,-22,256,26,1,3.0,3.0,v
+S2223-G1013,2,06:05,PHX,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-36,257,26,1,3.0,0.0,v
+S2223-G1013,2,05:56,PHX,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T4) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2223-G1013,2,05:56,PHX,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G1013,2,03:24,PHX,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1013,2,00:29.700000,PHX,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1013,2,00:25.100000,PHX,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-76,250,26,1,3.0,0.0,v
+S2223-G1013,3,00:53.600000,PHX,,SAC,,T. Lyles,SAC,MISS Lyles 5' Running Layup,Missed Shot,Running Layup Shot,-43,18,5,1,2.0,0.0,v
+S2223-G1013,4,11:23,PHX,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1013,4,10:49,PHX,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1013,4,09:40,PHX,100.0,SAC,100.0,T. Lyles,SAC,Lyles 1' Running Reverse Layup (13 PTS) (Fox 6 AST),Made Shot,Running Reverse Layup Shot,-2,13,1,1,2.0,2.0,v
+S2223-G1013,4,08:33,PHX,,SAC,,T. Lyles,SAC,MISS Lyles 9' Hook Shot,Missed Shot,Hook Shot,-44,83,9,1,2.0,0.0,v
+S2223-G1013,4,07:43,PHX,,SAC,,T. Lyles,SAC,Lyles Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2223-G1013,4,06:31,PHX,,SAC,,T. Lyles,SAC,SUB: Edwards FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G1013,4,00:22.700000,PHX,,SAC,,T. Lyles,SAC,SUB: Edwards FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0475,1,02:11,SAC,21.0,LAL,22.0,T. Lyles,SAC,Lyles 8' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,-29,74,8,1,2.0,2.0,h
+S2223-G0475,1,02:11,SAC,,LAL,,T. Lyles,SAC,MISS Lyles Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0475,1,00:57.500000,SAC,25.0,LAL,22.0,T. Lyles,SAC,Lyles 1' Running Dunk (4 PTS) (Monk 1 AST),Made Shot,Running Dunk Shot,0,11,1,1,2.0,2.0,h
+S2223-G0475,1,00:33.600000,SAC,,LAL,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,262,26,1,3.0,0.0,h
+S2223-G0475,2,11:44,SAC,28.0,LAL,26.0,T. Lyles,SAC,Lyles 25' 3PT Jump Shot (7 PTS) (Fox 2 AST),Made Shot,Jump Shot,-200,158,25,1,3.0,3.0,h
+S2223-G0475,2,09:47,SAC,,LAL,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,118,225,25,1,3.0,0.0,h
+S2223-G0475,2,08:53,SAC,,LAL,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-234,15,0,1,3.0,0.0,h
+S2223-G0475,2,08:01,SAC,,LAL,,T. Lyles,SAC,SUB: Sabonis FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0475,4,01:20,SAC,,LAL,,T. Lyles,SAC,MISS Lyles 3' Driving Layup,Missed Shot,Driving Layup Shot,23,13,3,1,2.0,0.0,h
+S2223-G0475,4,01:15,SAC,,LAL,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,-181,178,25,1,3.0,0.0,h
+S2223-G0746,1,00:23,MIN,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0746,1,00:03,MIN,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-227,2,0,1,3.0,0.0,v
+S2223-G0746,2,09:45,MIN,,SAC,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0746,2,08:59,MIN,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P1.T1) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2223-G0746,2,08:24,MIN,,SAC,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0746,3,01:15,MIN,85.0,SAC,75.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0746,3,01:15,MIN,85.0,SAC,76.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0746,4,11:39,MIN,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0746,4,11:34,MIN,,SAC,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,-42,245,25,1,3.0,0.0,v
+S2223-G0746,4,10:46,MIN,,SAC,,T. Lyles,SAC,SUB: Sabonis FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0183,1,06:08,LAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0183,1,04:59,LAL,,SAC,,T. Lyles,SAC,MISS Lyles 28' 3PT Jump Shot,Missed Shot,Jump Shot,129,243,28,1,3.0,0.0,v
+S2223-G0183,1,03:22,LAL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0183,1,01:55,LAL,,SAC,,T. Lyles,SAC,MISS Lyles 27' 3PT Jump Shot,Missed Shot,Jump Shot,-20,269,27,1,3.0,0.0,v
+S2223-G0183,2,09:33,LAL,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-224,2,0,1,3.0,0.0,v
+S2223-G0183,2,08:42,LAL,,SAC,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0183,3,02:10,LAL,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-169,203,26,1,3.0,0.0,v
+S2223-G0547,1,02:16,MEM,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-229,2,0,1,3.0,0.0,v
+S2223-G0547,1,01:48,MEM,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0547,1,01:48,MEM,,SAC,,T. Lyles,SAC,MISS Lyles Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2223-G0547,1,00:53.100000,MEM,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0547,1,00:47.300000,MEM,27.0,SAC,25.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0547,1,00:47.300000,MEM,27.0,SAC,26.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0547,1,00:03.500000,MEM,,SAC,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0547,2,11:43,MEM,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0547,2,11:16,MEM,,SAC,,T. Lyles,SAC,MISS Lyles 27' 3PT Jump Shot,Missed Shot,Jump Shot,-136,230,27,1,3.0,0.0,v
+S2223-G0547,2,09:59,MEM,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2223-G0547,2,09:56,MEM,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0547,2,08:54,MEM,34.0,SAC,33.0,T. Lyles,SAC,Lyles 1' Running Finger Roll Layup (4 PTS) (Monk 1 AST),Made Shot,Running Finger Roll Layup Shot,-1,6,1,1,2.0,2.0,v
+S2223-G0547,2,07:44,MEM,36.0,SAC,38.0,T. Lyles,SAC,Lyles 25' 3PT Jump Shot (7 PTS) (Mitchell 1 AST),Made Shot,Jump Shot,170,189,25,1,3.0,3.0,v
+S2223-G0547,2,06:41,MEM,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0547,3,04:27,MEM,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,107,237,26,1,3.0,0.0,v
+S2223-G0547,3,03:42,MEM,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,229,-4,0,1,3.0,0.0,v
+S2223-G0547,3,03:29,MEM,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0547,3,01:49,MEM,,SAC,,T. Lyles,SAC,Lyles BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0547,3,01:14,MEM,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P2.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2223-G0547,3,00:16.500000,MEM,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0547,4,09:21,MEM,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0156,1,03:30,GSW,27.0,SAC,17.0,T. Lyles,SAC,Lyles 3' Cutting Layup Shot (2 PTS) (Metu 1 AST),Made Shot,Cutting Layup Shot,33,10,3,1,2.0,2.0,v
+S2223-G0156,1,00:40.900000,GSW,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0156,1,00:37.300000,GSW,,SAC,,T. Lyles,SAC,SUB: Mitchell FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G1170,1,02:54,SAC,,SAS,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1170,1,02:53,SAC,,SAS,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1170,1,02:52,SAC,,SAS,,T. Lyles,SAC,Lyles Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2223-G1170,1,02:49,SAC,,SAS,,T. Lyles,SAC,Lyles S.FOUL (P1.T2) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2223-G1170,1,02:34,SAC,,SAS,,T. Lyles,SAC,SUB: Len FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G1170,3,02:38,SAC,,SAS,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G1170,3,02:20,SAC,,SAS,,T. Lyles,SAC,Lyles S.FOUL (P2.T4) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2223-G1170,3,02:05,SAC,,SAS,,T. Lyles,SAC,MISS Lyles 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,8,24,1,3.0,0.0,h
+S2223-G1170,3,01:56,SAC,87.0,SAS,91.0,T. Lyles,SAC,Lyles 24' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,-235,6,24,1,3.0,3.0,h
+S2223-G1170,3,01:30,SAC,,SAS,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1170,3,01:17,SAC,,SAS,,T. Lyles,SAC,MISS Lyles 3' Driving Layup,Missed Shot,Driving Layup Shot,-29,13,3,1,2.0,0.0,h
+S2223-G1170,4,11:04,SAC,,SAS,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1170,4,09:19,SAC,,SAS,,T. Lyles,SAC,Lyles BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G1170,4,08:14,SAC,,SAS,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0409,1,01:14,PHI,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.PN) (D.Mosher),Foul,Shooting,0,0,0,0,,,v
+S2223-G0409,1,00:02.200000,PHI,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0409,1,00:02.200000,PHI,39.0,SAC,32.0,T. Lyles,SAC,Lyles Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0409,2,09:29,PHI,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0409,3,02:12,PHI,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0409,4,11:43,PHI,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0409,4,09:46,PHI,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0409,4,08:49,PHI,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0409,4,06:00,PHI,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-80,243,26,1,3.0,0.0,v
+S2223-G0409,4,05:40,PHI,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0409,4,05:08,PHI,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0409,4,03:32,PHI,,SAC,,T. Lyles,SAC,MISS Lyles 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-29,62,7,1,2.0,0.0,v
+S2223-G0409,4,01:24,PHI,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-102,242,26,1,3.0,0.0,v
+S2223-G0976,1,02:14,SAC,,NOP,,T. Lyles,SAC,Lyles S.FOUL (P1.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2223-G0976,1,02:06,SAC,,NOP,,T. Lyles,SAC,Lyles OFF.Foul (P2) (J.Williams),Foul,Offensive,0,0,0,0,,,h
+S2223-G0976,1,02:06,SAC,,NOP,,T. Lyles,SAC,Lyles Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0976,1,00:55.200000,SAC,,NOP,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0976,1,00:41.200000,SAC,29.0,NOP,32.0,T. Lyles,SAC,Lyles 3' Layup (2 PTS) (Metu 1 AST),Made Shot,Layup Shot,-26,1,3,1,2.0,2.0,h
+S2223-G0976,2,11:39,SAC,31.0,NOP,32.0,T. Lyles,SAC,Lyles 3' Jump Bank Shot (4 PTS),Made Shot,Jump Bank Shot,-25,12,3,1,2.0,2.0,h
+S2223-G0976,2,11:39,SAC,,NOP,,T. Lyles,SAC,MISS Lyles Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0976,2,09:39,SAC,39.0,NOP,35.0,T. Lyles,SAC,Lyles 1' Driving Dunk (6 PTS) (Huerter 3 AST),Made Shot,Driving Dunk Shot,-6,12,1,1,2.0,2.0,h
+S2223-G0976,2,06:45,SAC,,NOP,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-229,7,0,1,3.0,0.0,h
+S2223-G0976,2,06:32,SAC,49.0,NOP,42.0,T. Lyles,SAC,Lyles 1' Running Dunk (8 PTS) (Murray 2 AST),Made Shot,Running Dunk Shot,-4,5,1,1,2.0,2.0,h
+S2223-G0976,2,06:32,SAC,,NOP,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0976,3,03:40,SAC,,NOP,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0976,3,03:27,SAC,88.0,NOP,75.0,T. Lyles,SAC,Lyles 27' 3PT Jump Shot (11 PTS) (Barnes 2 AST),Made Shot,Jump Shot,181,195,27,1,3.0,3.0,h
+S2223-G0976,3,02:55,SAC,,NOP,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,48,248,25,1,3.0,0.0,h
+S2223-G0976,3,01:39,SAC,,NOP,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0976,3,00:35.900000,SAC,,NOP,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0976,3,00:00.500000,SAC,96.0,NOP,79.0,T. Lyles,SAC,Lyles 9' Driving Floating Jump Shot (13 PTS) (Mitchell 5 AST),Made Shot,Driving Floating Jump Shot,16,87,9,1,2.0,2.0,h
+S2223-G0976,3,00:00.500000,SAC,97.0,NOP,79.0,T. Lyles,SAC,Lyles Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0976,4,08:36,SAC,,NOP,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0976,4,07:17,SAC,,NOP,,T. Lyles,SAC,MISS Lyles 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,41,24,1,3.0,0.0,h
+S2223-G0976,4,07:07,SAC,,NOP,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0537,1,02:12,SAC,,UTA,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0537,1,00:44.400000,SAC,,UTA,,T. Lyles,SAC,MISS Lyles 2' Driving Layup,Missed Shot,Driving Layup Shot,-17,6,2,1,2.0,0.0,h
+S2223-G0537,2,11:33,SAC,,UTA,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,82,243,26,1,3.0,0.0,h
+S2223-G0537,2,10:49,SAC,,UTA,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0537,2,10:49,SAC,32.0,UTA,29.0,T. Lyles,SAC,Lyles Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2223-G0537,2,08:03,SAC,,UTA,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0537,2,07:44,SAC,,UTA,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0537,2,07:27,SAC,45.0,UTA,36.0,T. Lyles,SAC,Lyles 3PT Jump Shot (5 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,-232,29,0,1,3.0,3.0,h
+S2223-G0537,2,06:54,SAC,,UTA,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-233,21,0,1,3.0,0.0,h
+S2223-G0537,2,06:39,SAC,,UTA,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0537,2,06:14,SAC,,UTA,,T. Lyles,SAC,Lyles S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2223-G0537,2,05:42,SAC,,UTA,,T. Lyles,SAC,SUB: Fox FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0537,3,03:46,SAC,,UTA,,T. Lyles,SAC,Lyles P.FOUL (P2.T4) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2223-G0537,3,02:03,SAC,,UTA,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0537,3,00:37,SAC,,UTA,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0537,4,11:35,SAC,,UTA,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0537,4,09:39,SAC,,UTA,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0537,4,07:23,SAC,,UTA,,T. Lyles,SAC,MISS Lyles 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,10,24,1,3.0,0.0,h
+S2223-G0537,4,06:20,SAC,,UTA,,T. Lyles,SAC,Lyles BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0537,4,06:09,SAC,,UTA,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0171,1,05:46,SAC,,CLE,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-228,-21,0,1,3.0,0.0,h
+S2223-G0171,1,01:30,SAC,,CLE,,T. Lyles,SAC,Lyles Offensive Charge Foul (P1) (R.Hussey),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G0171,1,01:30,SAC,,CLE,,T. Lyles,SAC,Lyles Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G0171,2,10:39,SAC,41.0,CLE,31.0,T. Lyles,SAC,Lyles 25' 3PT Jump Shot (3 PTS) (Fox 1 AST),Made Shot,Jump Shot,-25,247,25,1,3.0,3.0,h
+S2223-G0171,2,09:58,SAC,,CLE,,T. Lyles,SAC,Lyles P.FOUL (P2.T2) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2223-G0171,2,09:30,SAC,46.0,CLE,36.0,T. Lyles,SAC,Lyles 25' 3PT Jump Shot (6 PTS) (Metu 1 AST),Made Shot,Jump Shot,189,168,25,1,3.0,3.0,h
+S2223-G0171,2,08:25,SAC,,CLE,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0171,3,05:50,SAC,84.0,CLE,76.0,T. Lyles,SAC,Lyles 2' Driving Layup (8 PTS) (Sabonis 4 AST),Made Shot,Driving Layup Shot,-21,12,2,1,2.0,2.0,h
+S2223-G0171,3,05:14,SAC,85.0,CLE,79.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0171,3,05:14,SAC,86.0,CLE,79.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0171,3,04:48,SAC,89.0,CLE,81.0,T. Lyles,SAC,Lyles 25' 3PT Jump Shot (13 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,-196,160,25,1,3.0,3.0,h
+S2223-G0171,3,03:15,SAC,,CLE,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,-194,162,25,1,3.0,0.0,h
+S2223-G0171,3,01:59,SAC,,CLE,,T. Lyles,SAC,Lyles Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2223-G0171,3,00:45.800000,SAC,,CLE,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,194,165,25,1,3.0,0.0,h
+S2223-G0171,3,00:10.200000,SAC,,CLE,,T. Lyles,SAC,MISS Lyles 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,94,-14,10,1,2.0,0.0,h
+S2223-G0171,3,00:00,SAC,97.0,CLE,93.0,T. Lyles,SAC,Lyles 25' 3PT Running Jump Shot (16 PTS) (Fox 7 AST),Made Shot,Running Jump Shot,-173,185,25,1,3.0,3.0,h
+S2223-G0171,4,11:30,SAC,,CLE,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0171,4,10:55,SAC,,CLE,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0171,4,10:08,SAC,,CLE,,T. Lyles,SAC,Lyles Traveling Turnover (P3.T6),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0171,4,09:48,SAC,,CLE,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0014,1,01:36,SAC,,POR,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,189,158,25,1,3.0,0.0,h
+S2223-G0014,1,01:26,SAC,,POR,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0014,2,09:40,SAC,,POR,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0014,2,08:50,SAC,,POR,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-227,5,0,1,3.0,0.0,h
+S2223-G0014,2,08:34,SAC,,POR,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,-137,215,25,1,3.0,0.0,h
+S2223-G0014,2,08:21,SAC,,POR,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0014,2,07:41,SAC,,POR,,T. Lyles,SAC,SUB: Huerter FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0014,3,01:02,SAC,84.0,POR,80.0,T. Lyles,SAC,Lyles 24' 3PT Jump Shot (3 PTS) (Monk 2 AST),Made Shot,Jump Shot,-235,4,24,1,3.0,3.0,h
+S2223-G0014,4,11:35,SAC,,POR,,T. Lyles,SAC,MISS Lyles 24' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-237,59,24,1,3.0,0.0,h
+S2223-G0014,4,10:50,SAC,,POR,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0014,4,10:19,SAC,87.0,POR,87.0,T. Lyles,SAC,Lyles 3PT Jump Shot (6 PTS) (Monk 3 AST),Made Shot,Jump Shot,-233,7,0,1,3.0,3.0,h
+S2223-G0014,4,09:06,SAC,,POR,,T. Lyles,SAC,MISS Lyles 2' Driving Layup,Missed Shot,Driving Layup Shot,21,11,2,1,2.0,0.0,h
+S2223-G0014,4,07:38,SAC,,POR,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0014,4,07:32,SAC,,POR,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,227,17,0,1,3.0,0.0,h
+S2223-G0014,4,05:55,SAC,,POR,,T. Lyles,SAC,SUB: Mitchell FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0014,4,00:14.700000,SAC,,POR,,T. Lyles,SAC,SUB: Mitchell FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G1081,1,02:51,SAC,,BOS,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1081,1,02:11,SAC,,BOS,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1081,2,11:29,SAC,,BOS,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1081,2,11:12,SAC,,BOS,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G1081,2,10:22,SAC,,BOS,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1081,2,09:35,SAC,,BOS,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G1081,2,08:44,SAC,,BOS,,T. Lyles,SAC,Lyles Offensive Charge Foul (P1) (J.DeRosa),Foul,Offensive Charge,0,0,0,0,,,h
+S2223-G1081,2,08:44,SAC,,BOS,,T. Lyles,SAC,Lyles Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2223-G1081,2,08:25,SAC,,BOS,,T. Lyles,SAC,SUB: Sabonis FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G1081,3,02:25,SAC,,BOS,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,153,206,26,1,3.0,0.0,h
+S2223-G1081,3,00:29.400000,SAC,,BOS,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0844,1,02:06,SAC,,DAL,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0844,3,00:50.600000,SAC,,DAL,,T. Lyles,SAC,SUB: Metu FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G1185,1,03:12,NOP,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,175,187,26,1,3.0,0.0,v
+S2223-G1185,1,03:02,NOP,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2223-G1185,1,02:21,NOP,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,132,222,26,1,3.0,0.0,v
+S2223-G1185,1,01:14,NOP,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1185,2,10:19,NOP,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,127,229,26,1,3.0,0.0,v
+S2223-G1185,2,07:37,NOP,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G1185,4,11:10,NOP,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1185,4,11:04,NOP,,SAC,,T. Lyles,SAC,MISS Lyles 28' 3PT Jump Shot,Missed Shot,Jump Shot,-210,184,28,1,3.0,0.0,v
+S2223-G1185,4,10:15,NOP,,SAC,,T. Lyles,SAC,Lyles L.B.FOUL (P2.T3) (K.Scott),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1185,4,10:00,NOP,,SAC,,T. Lyles,SAC,Lyles L.B.FOUL (P3.T4) (D.Collins),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G1185,4,09:44,NOP,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1185,4,09:05,NOP,,SAC,,T. Lyles,SAC,SUB: Sabonis FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0096,1,04:08,CHA,,SAC,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0096,1,03:15,CHA,,SAC,,T. Lyles,SAC,MISS Lyles 7' Driving Layup,Missed Shot,Driving Layup Shot,-17,68,7,1,2.0,0.0,v
+S2223-G0096,1,00:04.300000,CHA,,SAC,,T. Lyles,SAC,SUB: Okpala FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0096,2,10:07,CHA,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2223-G0096,2,09:52,CHA,,SAC,,T. Lyles,SAC,SUB: Davis FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0096,3,06:11,CHA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0096,3,05:46,CHA,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P2.T2) (S.Mitchell),Foul,Personal,0,0,0,0,,,v
+S2223-G0096,3,03:59,CHA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0096,3,03:58,CHA,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0096,3,02:02,CHA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0096,3,01:42,CHA,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-184,188,26,1,3.0,0.0,v
+S2223-G0096,3,01:23,CHA,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P3.T3) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G0096,3,01:09,CHA,,SAC,,T. Lyles,SAC,Lyles Step Out of Bounds Turnover (P2.T14),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0096,3,00:37.500000,CHA,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0096,3,00:37.500000,CHA,,SAC,,T. Lyles,SAC,MISS Lyles Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0096,3,00:37.500000,CHA,83.0,SAC,89.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0096,4,10:32,CHA,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,11,263,26,1,3.0,0.0,v
+S2223-G0096,4,09:57,CHA,89.0,SAC,94.0,T. Lyles,SAC,Lyles 27' 3PT Jump Shot (4 PTS) (Sabonis 5 AST),Made Shot,Jump Shot,-158,215,27,1,3.0,3.0,v
+S2223-G0096,4,08:49,CHA,,SAC,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0096,4,07:54,CHA,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0096,4,02:00,CHA,105.0,SAC,107.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0096,4,02:00,CHA,105.0,SAC,108.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0096,4,01:07,CHA,,SAC,,T. Lyles,SAC,Lyles BLOCK (2 BLK),,,0,0,0,0,,,v
+S2223-G0096,4,00:16.400000,CHA,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P4.T4) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2223-G1111,1,02:23,SAC,,UTA,,T. Lyles,SAC,Lyles S.FOUL (P1.T2) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2223-G1111,1,01:24,SAC,30.0,UTA,19.0,T. Lyles,SAC,Lyles 3PT Jump Shot (3 PTS) (Mitchell 1 AST),Made Shot,Jump Shot,229,22,0,1,3.0,3.0,h
+S2223-G1111,2,11:29,SAC,,UTA,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1111,2,10:39,SAC,,UTA,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-2,262,26,1,3.0,0.0,h
+S2223-G1111,2,10:17,SAC,,UTA,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,227,22,0,1,3.0,0.0,h
+S2223-G1111,2,08:27,SAC,36.0,UTA,37.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1111,2,08:27,SAC,37.0,UTA,37.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1111,2,07:46,SAC,,UTA,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G1111,3,00:51.300000,SAC,,UTA,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,188,171,25,1,3.0,0.0,h
+S2223-G1111,3,00:04.400000,SAC,90.0,UTA,78.0,T. Lyles,SAC,Lyles 25' 3PT Jump Shot (8 PTS) (Monk 1 AST),Made Shot,Jump Shot,-196,156,25,1,3.0,3.0,h
+S2223-G1111,4,10:50,SAC,91.0,UTA,82.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1111,4,10:50,SAC,92.0,UTA,82.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G1111,4,10:08,SAC,,UTA,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G1111,4,07:02,SAC,,UTA,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0491,2,09:24,SAC,,WAS,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0491,2,09:16,SAC,30.0,WAS,39.0,T. Lyles,SAC,Lyles 1' Running Dunk (2 PTS) (Fox 2 AST),Made Shot,Running Dunk Shot,1,5,1,1,2.0,2.0,h
+S2223-G0491,2,08:29,SAC,,WAS,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0491,3,06:45,SAC,,WAS,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0491,3,06:29,SAC,,WAS,,T. Lyles,SAC,Lyles S.FOUL (P1.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2223-G0491,3,05:29,SAC,,WAS,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0491,3,05:19,SAC,,WAS,,T. Lyles,SAC,Lyles Traveling Turnover (P2.T10),Turnover,Traveling,0,0,0,0,,,h
+S2223-G0491,3,03:17,SAC,74.0,WAS,94.0,T. Lyles,SAC,Lyles 4' Driving Floating Jump Shot (4 PTS) (Sabonis 9 AST),Made Shot,Driving Floating Jump Shot,17,41,4,1,2.0,2.0,h
+S2223-G0491,3,01:41,SAC,,WAS,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0491,3,01:41,SAC,78.0,WAS,96.0,T. Lyles,SAC,Lyles Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0491,3,00:27.400000,SAC,83.0,WAS,102.0,T. Lyles,SAC,Lyles 3PT Jump Shot (9 PTS) (Monk 3 AST),Made Shot,Jump Shot,233,10,0,1,3.0,3.0,h
+S2223-G0491,3,00:01.900000,SAC,,WAS,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0491,4,09:52,SAC,87.0,WAS,106.0,T. Lyles,SAC,Lyles 3' Hook Bank Shot (11 PTS) (Sabonis 10 AST),Made Shot,Hook Bank Shot,26,3,3,1,2.0,2.0,h
+S2223-G0491,4,09:52,SAC,,WAS,,T. Lyles,SAC,MISS Lyles Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2223-G0491,4,08:21,SAC,,WAS,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0491,4,05:52,SAC,,WAS,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0491,4,01:33,SAC,,WAS,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0491,4,00:29.700000,SAC,111.0,WAS,125.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (14 PTS) (Fox 3 AST),Made Shot,Jump Shot,103,239,26,1,3.0,3.0,h
+S2223-G0242,1,04:02,SAC,,DET,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-229,40,0,1,3.0,0.0,h
+S2223-G0242,1,02:26,SAC,32.0,DET,24.0,T. Lyles,SAC,Lyles 24' 3PT Jump Shot (3 PTS) (Sabonis 3 AST),Made Shot,Jump Shot,-232,55,24,1,3.0,3.0,h
+S2223-G0242,2,11:43,SAC,,DET,,T. Lyles,SAC,MISS Lyles 24' 3PT Jump Shot,Missed Shot,Jump Shot,-192,151,24,1,3.0,0.0,h
+S2223-G0242,2,09:35,SAC,,DET,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,157,210,26,1,3.0,0.0,h
+S2223-G0242,2,07:31,SAC,,DET,,T. Lyles,SAC,SUB: Huerter FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0595,1,03:19,SAC,,LAL,,T. Lyles,SAC,Lyles S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2223-G0595,1,00:05,SAC,,LAL,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0595,1,00:04.200000,SAC,,LAL,,T. Lyles,SAC,MISS Lyles 1' Putback Layup,Missed Shot,Putback Layup Shot,2,-5,1,1,2.0,0.0,h
+S2223-G0595,1,00:04.200000,SAC,,LAL,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0595,1,00:04.200000,SAC,36.0,LAL,37.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0595,1,00:04.200000,SAC,,LAL,,T. Lyles,SAC,MISS Lyles Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0595,1,00:01.800000,SAC,,LAL,,T. Lyles,SAC,Lyles REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0595,1,00:01.700000,SAC,37.0,LAL,37.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0595,1,00:01.700000,SAC,38.0,LAL,37.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0595,2,11:35,SAC,,LAL,,T. Lyles,SAC,MISS Lyles 6' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,45,44,6,1,2.0,0.0,h
+S2223-G0595,2,11:05,SAC,,LAL,,T. Lyles,SAC,Lyles REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0595,2,11:03,SAC,42.0,LAL,37.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0595,2,11:03,SAC,43.0,LAL,37.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0595,2,10:36,SAC,46.0,LAL,39.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (8 PTS) (Okpala 1 AST),Made Shot,Jump Shot,-203,157,26,1,3.0,3.0,h
+S2223-G0595,2,07:46,SAC,,LAL,,T. Lyles,SAC,SUB: Fox FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0595,3,02:16,SAC,,LAL,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0595,3,01:39,SAC,106.0,LAL,105.0,T. Lyles,SAC,Lyles 3PT Jump Shot (11 PTS) (Sabonis 6 AST),Made Shot,Jump Shot,-227,-8,0,1,3.0,3.0,h
+S2223-G0595,4,10:42,SAC,,LAL,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0595,4,00:24.600000,SAC,,LAL,,T. Lyles,SAC,Lyles REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0595,4,00:22.300000,SAC,,LAL,,T. Lyles,SAC,Lyles Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2223-G0595,4,00:22.300000,SAC,,LAL,,T. Lyles,SAC,SUB: Okpala FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G1043,1,04:01,BKN,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1043,1,03:09,BKN,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1043,1,01:55,BKN,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Jump Shot,Missed Shot,Jump Shot,-229,-26,0,1,3.0,0.0,v
+S2223-G1043,1,01:05,BKN,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G1043,2,11:23,BKN,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1043,2,10:52,BKN,,SAC,,T. Lyles,SAC,MISS Lyles 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,23,99,10,1,2.0,0.0,v
+S2223-G1043,2,09:57,BKN,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P1.T2) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2223-G1043,2,09:30,BKN,31.0,SAC,29.0,T. Lyles,SAC,Lyles 25' 3PT Jump Shot (3 PTS) (Fox 1 AST),Made Shot,Jump Shot,-89,235,25,1,3.0,3.0,v
+S2223-G1043,2,08:50,BKN,,SAC,,T. Lyles,SAC,MISS Lyles 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-6,15,2,1,2.0,0.0,v
+S2223-G1043,2,08:36,BKN,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1043,2,08:24,BKN,,SAC,,T. Lyles,SAC,SUB: Edwards FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G1043,3,03:38,BKN,65.0,SAC,74.0,T. Lyles,SAC,Lyles 3PT Jump Shot (6 PTS) (Monk 4 AST),Made Shot,Jump Shot,228,-5,0,1,3.0,3.0,v
+S2223-G1043,3,00:30.700000,BKN,69.0,SAC,81.0,T. Lyles,SAC,Lyles Running Dunk (8 PTS) (Monk 5 AST),Made Shot,Running Dunk Shot,-4,0,0,1,2.0,2.0,v
+S2223-G1043,3,00:18.800000,BKN,,SAC,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G1043,3,00:18.800000,BKN,69.0,SAC,82.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G1043,3,00:18.800000,BKN,,SAC,,T. Lyles,SAC,MISS Lyles Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G1043,4,11:12,BKN,,SAC,,T. Lyles,SAC,MISS Lyles 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-45,13,5,1,2.0,0.0,v
+S2223-G1043,4,10:23,BKN,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1043,4,10:10,BKN,78.0,SAC,88.0,T. Lyles,SAC,Lyles 3' Driving Layup (11 PTS) (Fox 5 AST),Made Shot,Driving Layup Shot,26,-1,3,1,2.0,2.0,v
+S2223-G1043,4,08:20,BKN,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2223-G1043,4,07:09,BKN,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0652,1,02:00,SAS,25.0,SAC,25.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0652,1,02:00,SAS,25.0,SAC,26.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0652,1,00:54.700000,SAS,27.0,SAC,30.0,T. Lyles,SAC,Lyles Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,3,0,1,2.0,2.0,v
+S2223-G0652,1,00:54.700000,SAS,27.0,SAC,31.0,T. Lyles,SAC,Lyles Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0652,2,09:55,SAS,38.0,SAC,39.0,T. Lyles,SAC,Lyles 8' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,69,48,8,1,2.0,2.0,v
+S2223-G0652,2,07:11,SAS,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0652,2,02:30,SAS,56.0,SAC,59.0,T. Lyles,SAC,Lyles 1' Layup (9 PTS),Made Shot,Layup Shot,-1,14,1,1,2.0,2.0,v
+S2223-G0652,2,01:59,SAS,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T3) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2223-G0652,2,00:35.300000,SAS,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0652,3,02:39,SAS,82.0,SAC,95.0,T. Lyles,SAC,Lyles 24' 3PT Jump Shot (12 PTS) (Monk 4 AST),Made Shot,Jump Shot,159,186,24,1,3.0,3.0,v
+S2223-G0652,3,02:19,SAS,,SAC,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0652,3,02:19,SAS,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0652,4,09:55,SAS,,SAC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0652,4,02:29,SAS,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P2.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2223-G0081,1,04:51,SAC,,MIA,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0081,1,02:34,SAC,,MIA,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0081,1,01:05,SAC,,MIA,,T. Lyles,SAC,MISS Lyles 4' Driving Layup,Missed Shot,Driving Layup Shot,-7,35,4,1,2.0,0.0,h
+S2223-G0081,1,01:03,SAC,,MIA,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0081,1,01:01,SAC,27.0,MIA,21.0,T. Lyles,SAC,Lyles 3' Layup (2 PTS),Made Shot,Layup Shot,6,25,3,1,2.0,2.0,h
+S2223-G0081,1,00:33.500000,SAC,29.0,MIA,23.0,T. Lyles,SAC,Lyles 1' Layup (4 PTS),Made Shot,Layup Shot,-2,10,1,1,2.0,2.0,h
+S2223-G0081,1,00:02.500000,SAC,,MIA,,T. Lyles,SAC,SUB: Okpala FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0081,2,11:25,SAC,,MIA,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,-89,232,25,1,3.0,0.0,h
+S2223-G0081,2,10:26,SAC,38.0,MIA,23.0,T. Lyles,SAC,Lyles 3PT Jump Shot (7 PTS) (Fox 2 AST),Made Shot,Jump Shot,-224,-11,0,1,3.0,3.0,h
+S2223-G0081,2,09:44,SAC,,MIA,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2223-G0081,2,09:40,SAC,,MIA,,T. Lyles,SAC,SUB: Davis FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0081,2,00:16.700000,SAC,,MIA,,T. Lyles,SAC,Lyles S.FOUL (P1.PN) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,h
+S2223-G0081,2,00:16.700000,SAC,,MIA,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0081,3,02:56,SAC,,MIA,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0081,3,00:44.200000,SAC,90.0,MIA,79.0,T. Lyles,SAC,Lyles 25' 3PT Running Jump Shot (10 PTS) (Fox 4 AST),Made Shot,Running Jump Shot,150,206,25,1,3.0,3.0,h
+S2223-G0081,4,11:42,SAC,,MIA,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0081,4,10:04,SAC,,MIA,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0081,4,09:05,SAC,,MIA,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-98,236,26,1,3.0,0.0,h
+S2223-G0081,4,09:04,SAC,,MIA,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0081,4,00:04.700000,SAC,,MIA,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0081,4,00:04.700000,SAC,,MIA,,T. Lyles,SAC,MISS Lyles Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0081,4,00:04.700000,SAC,,MIA,,T. Lyles,SAC,MISS Lyles Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0812,1,03:55,HOU,17.0,SAC,25.0,T. Lyles,SAC,Lyles 2' Cutting Layup Shot (2 PTS) (Sabonis 1 AST),Made Shot,Cutting Layup Shot,18,1,2,1,2.0,2.0,v
+S2223-G0812,1,02:24,HOU,,SAC,,T. Lyles,SAC,MISS Lyles 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-227,19,0,1,3.0,0.0,v
+S2223-G0812,1,01:11,HOU,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2223-G0812,1,00:47.500000,HOU,20.0,SAC,29.0,T. Lyles,SAC,Lyles 5' Driving Floating Bank Jump Shot (4 PTS) (Metu 1 AST),Made Shot,Driving Floating Bank Jump Shot,53,11,5,1,2.0,2.0,v
+S2223-G0812,2,10:42,HOU,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0812,2,10:18,HOU,28.0,SAC,36.0,T. Lyles,SAC,Lyles 25' 3PT Jump Shot (7 PTS) (Fox 3 AST),Made Shot,Jump Shot,130,219,25,1,3.0,3.0,v
+S2223-G0812,2,08:09,HOU,,SAC,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0812,3,00:40.600000,HOU,88.0,SAC,96.0,T. Lyles,SAC,Lyles 2' Cutting Dunk Shot (9 PTS) (Monk 1 AST),Made Shot,Cutting Dunk Shot,17,13,2,1,2.0,2.0,v
+S2223-G0812,4,11:33,HOU,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0812,4,09:50,HOU,,SAC,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0812,4,09:47,HOU,91.0,SAC,104.0,T. Lyles,SAC,Lyles 2' Running Dunk (11 PTS),Made Shot,Running Dunk Shot,13,8,2,1,2.0,2.0,v
+S2223-G0812,4,09:17,HOU,93.0,SAC,107.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (14 PTS) (Fox 8 AST),Made Shot,Jump Shot,130,228,26,1,3.0,3.0,v
+S2223-G0812,4,07:45,HOU,,SAC,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0691,2,10:05,SAC,,OKC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0691,2,10:05,SAC,,OKC,,T. Lyles,SAC,MISS Lyles Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2223-G0691,2,09:38,SAC,,OKC,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,5,245,25,1,3.0,0.0,h
+S2223-G0691,2,09:15,SAC,,OKC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0691,2,08:56,SAC,,OKC,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,-179,178,25,1,3.0,0.0,h
+S2223-G0691,2,08:27,SAC,40.0,OKC,41.0,T. Lyles,SAC,Lyles Dunk (2 PTS) (Fox 2 AST),Made Shot,Dunk Shot,0,1,0,1,2.0,2.0,h
+S2223-G0691,2,07:10,SAC,,OKC,,T. Lyles,SAC,SUB: Murray FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0691,3,04:08,SAC,,OKC,,T. Lyles,SAC,MISS Lyles 4' Driving Layup,Missed Shot,Driving Layup Shot,43,13,4,1,2.0,0.0,h
+S2223-G0691,3,02:54,SAC,86.0,OKC,81.0,T. Lyles,SAC,Lyles 25' 3PT Jump Shot (5 PTS) (Murray 1 AST),Made Shot,Jump Shot,178,180,25,1,3.0,3.0,h
+S2223-G0691,3,02:24,SAC,,OKC,,T. Lyles,SAC,MISS Lyles 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,33,25,4,1,2.0,0.0,h
+S2223-G0691,3,01:33,SAC,,OKC,,T. Lyles,SAC,MISS Lyles 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,65,24,1,3.0,0.0,h
+S2223-G0691,4,11:35,SAC,,OKC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0691,4,10:54,SAC,,OKC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0691,4,10:44,SAC,94.0,OKC,88.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0691,4,10:44,SAC,95.0,OKC,88.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0691,4,10:04,SAC,,OKC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0691,4,09:30,SAC,,OKC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,197,163,26,1,3.0,0.0,h
+S2223-G0691,4,08:06,SAC,,OKC,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0042,3,01:40,GSW,,SAC,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0042,3,01:37,GSW,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0042,3,00:59.700000,GSW,,SAC,,T. Lyles,SAC,MISS Lyles 28' 3PT Jump Shot,Missed Shot,Jump Shot,-173,214,28,1,3.0,0.0,v
+S2223-G0042,3,00:40.400000,GSW,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P1.PN) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2223-G0042,3,00:38.800000,GSW,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0042,4,11:34,GSW,113.0,SAC,96.0,T. Lyles,SAC,Lyles 5' Running Layup (2 PTS) (Monk 6 AST),Made Shot,Running Layup Shot,48,26,5,1,2.0,2.0,v
+S2223-G0042,4,11:11,GSW,,SAC,,T. Lyles,SAC,MISS Lyles 27' 3PT Jump Shot,Missed Shot,Jump Shot,-207,172,27,1,3.0,0.0,v
+S2223-G0042,4,10:33,GSW,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2223-G0042,4,10:33,GSW,,SAC,,T. Lyles,SAC,SUB: Metu FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0961,1,00:47.300000,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0961,2,11:48,SAC,,MIN,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,175,173,25,1,3.0,0.0,h
+S2223-G0961,2,10:55,SAC,34.0,MIN,41.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0961,2,10:55,SAC,35.0,MIN,41.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0961,2,10:36,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0961,2,08:24,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0961,2,05:31,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0961,2,05:25,SAC,49.0,MIN,57.0,T. Lyles,SAC,Lyles Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2223-G0961,2,04:35,SAC,,MIN,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0961,3,04:45,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0961,3,04:45,SAC,,MIN,,T. Lyles,SAC,MISS Lyles Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0961,3,04:45,SAC,82.0,MIN,97.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0961,3,03:32,SAC,89.0,MIN,99.0,T. Lyles,SAC,Lyles 25' 3PT Running Jump Shot (8 PTS) (Fox 6 AST),Made Shot,Running Jump Shot,-203,152,25,1,3.0,3.0,h
+S2223-G0961,3,03:13,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0961,3,01:08,SAC,97.0,MIN,102.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0961,3,01:08,SAC,,MIN,,T. Lyles,SAC,MISS Lyles Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0961,3,00:36.400000,SAC,100.0,MIN,105.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (12 PTS) (Monk 5 AST),Made Shot,Jump Shot,-124,230,26,1,3.0,3.0,h
+S2223-G0961,3,00:20.100000,SAC,,MIN,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0961,3,00:09.800000,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0961,4,11:35,SAC,,MIN,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0961,4,09:59,SAC,109.0,MIN,110.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (15 PTS) (Mitchell 1 AST),Made Shot,Jump Shot,29,260,26,1,3.0,3.0,h
+S2223-G0961,4,09:04,SAC,,MIN,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0263,1,05:56,ATL,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P1.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G0263,1,04:43,ATL,,SAC,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,97,234,25,1,3.0,0.0,v
+S2223-G0263,1,04:10,ATL,19.0,SAC,13.0,T. Lyles,SAC,Lyles 1' Driving Dunk (2 PTS) (Mitchell 1 AST),Made Shot,Driving Dunk Shot,-7,1,1,1,2.0,2.0,v
+S2223-G0263,1,03:12,ATL,23.0,SAC,15.0,T. Lyles,SAC,Lyles 3' Driving Floating Bank Jump Shot (4 PTS) (Mitchell 2 AST),Made Shot,Driving Floating Bank Jump Shot,-1,34,3,1,2.0,2.0,v
+S2223-G0263,1,03:12,ATL,23.0,SAC,16.0,T. Lyles,SAC,Lyles Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2223-G0263,1,02:44,ATL,,SAC,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,v
+S2223-G0263,1,01:44,ATL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0263,1,01:35,ATL,25.0,SAC,21.0,T. Lyles,SAC,Lyles 24' 3PT Jump Shot (8 PTS) (Monk 1 AST),Made Shot,Jump Shot,-238,27,24,1,3.0,3.0,v
+S2223-G0263,2,09:50,ATL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0263,2,09:49,ATL,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0263,2,08:29,ATL,,SAC,,T. Lyles,SAC,Lyles L.B.FOUL (P2.T1) (D.Scott),Foul,Loose Ball,0,0,0,0,,,v
+S2223-G0263,2,08:29,ATL,,SAC,,T. Lyles,SAC,SUB: Mitchell FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0263,3,02:34,ATL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0263,3,02:16,ATL,,SAC,,T. Lyles,SAC,Lyles Out of Bounds Lost Ball Turnover (P2.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2223-G0263,3,01:37,ATL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0263,3,00:52.400000,ATL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0263,3,00:52.400000,ATL,92.0,SAC,84.0,T. Lyles,SAC,Lyles Putback Dunk (10 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2223-G0263,3,00:42.600000,ATL,,SAC,,T. Lyles,SAC,Lyles P.FOUL (P3.PN) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2223-G0263,3,00:30.400000,ATL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0263,3,00:29.600000,ATL,94.0,SAC,85.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0263,3,00:29.600000,ATL,94.0,SAC,86.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0263,4,10:58,ATL,,SAC,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,-183,178,26,1,3.0,0.0,v
+S2223-G0263,4,10:22,ATL,,SAC,,T. Lyles,SAC,MISS Lyles 2' Layup,Missed Shot,Layup Shot,-2,15,2,1,2.0,0.0,v
+S2223-G0263,4,07:50,ATL,,SAC,,T. Lyles,SAC,Lyles S.FOUL (P4.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2223-G0263,4,06:40,ATL,,SAC,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,v
+S2223-G0263,4,05:55,ATL,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0263,4,05:22,ATL,,SAC,,T. Lyles,SAC,SUB: Fox FOR Lyles,Substitution,,0,0,0,0,,,v
+S2223-G0222,1,02:18,SAC,29.0,SAS,20.0,T. Lyles,SAC,Lyles 3PT Jump Shot (3 PTS) (Fox 1 AST),Made Shot,Jump Shot,-229,3,0,1,3.0,3.0,h
+S2223-G0222,1,01:45,SAC,,SAS,,T. Lyles,SAC,Lyles STEAL (1 STL),,,0,0,0,0,,,h
+S2223-G0222,1,01:21,SAC,31.0,SAS,23.0,T. Lyles,SAC,Lyles 1' Driving Dunk (5 PTS) (Fox 2 AST),Made Shot,Driving Dunk Shot,9,4,1,1,2.0,2.0,h
+S2223-G0222,1,00:06.400000,SAC,,SAS,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0222,1,00:06.400000,SAC,36.0,SAS,25.0,T. Lyles,SAC,Lyles 3' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,22,21,3,1,2.0,2.0,h
+S2223-G0222,1,00:06.400000,SAC,37.0,SAS,25.0,T. Lyles,SAC,Lyles Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0222,2,11:18,SAC,,SAS,,T. Lyles,SAC,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,179,187,26,1,3.0,0.0,h
+S2223-G0222,2,09:10,SAC,,SAS,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0222,2,08:05,SAC,,SAS,,T. Lyles,SAC,MISS Lyles 25' 3PT Jump Shot,Missed Shot,Jump Shot,16,251,25,1,3.0,0.0,h
+S2223-G0222,2,07:06,SAC,,SAS,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0222,4,11:48,SAC,,SAS,,T. Lyles,SAC,MISS Lyles Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0222,4,11:48,SAC,90.0,SAS,82.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0222,4,11:25,SAC,,SAS,,T. Lyles,SAC,MISS Lyles 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-183,174,25,1,3.0,0.0,h
+S2223-G0222,4,10:08,SAC,97.0,SAS,85.0,T. Lyles,SAC,Lyles 6' Driving Floating Bank Jump Shot (11 PTS) (Fox 5 AST),Made Shot,Driving Floating Bank Jump Shot,-56,23,6,1,2.0,2.0,h
+S2223-G0222,4,08:25,SAC,106.0,SAS,89.0,T. Lyles,SAC,Lyles 2' Reverse Layup (13 PTS) (Metu 1 AST),Made Shot,Reverse Layup Shot,-18,13,2,1,2.0,2.0,h
+S2223-G0222,4,08:25,SAC,107.0,SAS,89.0,T. Lyles,SAC,Lyles Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2223-G0222,4,07:43,SAC,,SAS,,T. Lyles,SAC,Lyles REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0222,4,06:13,SAC,,SAS,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0625,1,00:31.900000,SAC,30.0,HOU,24.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0625,1,00:31.900000,SAC,31.0,HOU,24.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0625,1,00:00,SAC,,HOU,,T. Lyles,SAC,MISS Lyles 24' 3PT Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,238,30,24,1,3.0,0.0,h
+S2223-G0625,2,10:46,SAC,,HOU,,T. Lyles,SAC,Lyles S.FOUL (P1.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2223-G0625,2,10:33,SAC,40.0,HOU,35.0,T. Lyles,SAC,Lyles 2' Layup (4 PTS),Made Shot,Layup Shot,-10,21,2,1,2.0,2.0,h
+S2223-G0625,2,09:26,SAC,,HOU,,T. Lyles,SAC,MISS Lyles Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2223-G0625,2,09:26,SAC,41.0,HOU,37.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0625,2,08:33,SAC,,HOU,,T. Lyles,SAC,MISS Lyles 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-115,216,24,1,3.0,0.0,h
+S2223-G0625,2,08:18,SAC,,HOU,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0625,2,08:02,SAC,,HOU,,T. Lyles,SAC,SUB: Barnes FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0625,4,11:32,SAC,,HOU,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0625,4,10:15,SAC,,HOU,,T. Lyles,SAC,Lyles BLOCK (1 BLK),,,0,0,0,0,,,h
+S2223-G0625,4,09:42,SAC,,HOU,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0625,4,08:23,SAC,,HOU,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0625,4,08:22,SAC,102.0,HOU,101.0,T. Lyles,SAC,Lyles 1' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,-6,13,1,1,2.0,2.0,h
+S2223-G0625,4,07:35,SAC,,HOU,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0625,4,06:30,SAC,,HOU,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0625,4,06:27,SAC,108.0,HOU,101.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0625,4,06:27,SAC,109.0,HOU,101.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2223-G0625,4,05:10,SAC,113.0,HOU,105.0,T. Lyles,SAC,Lyles 26' 3PT Jump Shot (12 PTS) (Fox 6 AST),Made Shot,Jump Shot,98,241,26,1,3.0,3.0,h
+S2223-G0625,4,04:45,SAC,,HOU,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2223-G0625,4,04:09,SAC,117.0,HOU,105.0,T. Lyles,SAC,Lyles 6' Driving Floating Jump Shot (14 PTS) (Fox 7 AST),Made Shot,Driving Floating Jump Shot,-20,55,6,1,2.0,2.0,h
+S2223-G0625,4,03:38,SAC,,HOU,,T. Lyles,SAC,Lyles BLOCK (2 BLK),,,0,0,0,0,,,h
+S2223-G0625,4,03:28,SAC,122.0,HOU,105.0,T. Lyles,SAC,Lyles 3PT Jump Shot (17 PTS) (Fox 9 AST),Made Shot,Jump Shot,229,39,0,1,3.0,3.0,h
+S2223-G0625,4,02:28,SAC,125.0,HOU,108.0,T. Lyles,SAC,Lyles 24' 3PT Jump Shot (20 PTS) (Sabonis 9 AST),Made Shot,Jump Shot,-227,65,24,1,3.0,3.0,h
+S2223-G0625,4,01:47,SAC,,HOU,,T. Lyles,SAC,SUB: Dozier FOR Lyles,Substitution,,0,0,0,0,,,h
+S2223-G0275,1,03:48,BOS,,SAC,,T. Lyles,SAC,Lyles Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2223-G0275,1,02:10,BOS,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0275,1,00:26.400000,BOS,,SAC,,T. Lyles,SAC,Lyles Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2223-G0275,4,03:45,BOS,117.0,SAC,91.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0275,4,03:45,BOS,117.0,SAC,92.0,T. Lyles,SAC,Lyles Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0275,4,02:15,BOS,,SAC,,T. Lyles,SAC,Lyles REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2223-G0275,4,02:14,BOS,119.0,SAC,98.0,T. Lyles,SAC,Lyles Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2223-G0275,4,02:14,BOS,,SAC,,T. Lyles,SAC,MISS Lyles Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2223-G0275,4,00:22.500000,BOS,122.0,SAC,104.0,T. Lyles,SAC,Lyles 27' 3PT Running Jump Shot (6 PTS) (Dellavedova 2 AST),Made Shot,Running Jump Shot,-170,215,27,1,3.0,3.0,v
